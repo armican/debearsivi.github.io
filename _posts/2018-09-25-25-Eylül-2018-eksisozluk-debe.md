@@ -6,7 +6,7 @@ data:
     24 eylül 2018 fenerbahçe beşiktaş maçı
   entry_id:  81587515
   entry_writer: skyscrapersm
-  entry_fav_count: 766
+  entry_fav_count: 782
   entry_content: |
     illegal maç yayınlayan şerefsizlerin yine boş durmayacağı bir başka derbi mücadelesi. bu şerefsizleri ifşa edip paylaşmak milletimize olan borcumuzdur. bunu yapalımki bu siteler derhal kapatılsın. <br/><br/>işte o şerefsizlerden bazıları;<br/><br/>-----------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://livetv.sx/tr" title="http://livetv.sx/tr">livetv.sx/tr</a><br/><br/>meşhur livetv türkiyeden engel yedi çok şükür fakat ultrasurf vb. vpn programlarıyla hala erişim rahatlıkla saglanıyor. bazı arkadaşlar bu emek hırsızlarının sitesine vpn programlarıyla girip daha sonra istedikleri maça tıklayarak en az 10 tane sağlam yayın (flash-ace-sop vs. ) seçeneği görüyorlar. o yayın listesine eriştikten sonra vpn programını kapatıyorlar çünkü yayınlara erişmek için o programlara gerek kalmıyor. o kısmı engellememişler. umarım yakın zamanda engellerler.<br/><br/>-----------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://netspor41.tv/" title="http://netspor41.tv/">netspor.tv</a><br/><br/>bu emek hırsızları geçen sene netspor.tv adı altında başladılar emek hırsızlıgı kariyerine daha sonrasında ise netspor1, netspor2, netspor3, .... şeklinde netspor41 e kadar geldiler. geçen seneki performanslarının uzagında olsalar da hala güzel bir alternatif.<br/><br/>-----------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.vipbox.live/" title="https://www.vipbox.live/">vipbox</a><br/><br/>yıllardır işini ciddiyetle yapan şerefsizlerden biri de bu site. bu sezon gördüğüm kadarıyla fransız bein sporttan 720p kalitesinde stsl maçlarını veriyorlar. umarım duruma el atarlar.<br/><br/>-----------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://arenavision.in/" title="http://arenavision.in/">arenavision</a><br/><br/>bu arkadaşlar acestream ve sopcasttan emek hırsızlıgını yapıyor. cam gibi yayın verip dekoder satın alan insanları üzüyor. stsl maçlarını seyrek verse de avrupa ligleri, şl ve avrupa ligi maçlarını istisnasız veriyorlar. umarım geregi yapılır.<br/><br/>-----------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.marsbahis16.tv/" title="https://www.marsbahis16.tv/">marsbahis</a><br/><br/>herkesin malumu site. yoğunluk olmayan maçlarda güzel yayınlar veriyor bunlar. umarım tez vakitte icraatlarına son verilir.<br/><br/>-----------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.reddit.com/r/soccerstreams/" title="https://www.reddit.com/r/soccerstreams/">reddit.com/r/soccerstreams</a><br/><br/>son dönemde trendde olan şerefsizler de bunlar. reddit engel yerse bunlar yüzünden yer.<br/><br/>---------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sportsonstreaming.com/" title="http://sportsonstreaming.com/">sportsonstreaming</a><br/><br/>basit ve kullanışlı site.<br/><br/>---------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.golvar7.tv/" title="http://www.golvar7.tv/">golvar</a><br/><br/>marsbahis gibi bunlar da içimizdeki şerefsizlerden.<br/><br/>---------------------------------------------<br/><br/>@post gönderdi. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sportcast.stream/" title="https://www.sportcast.stream/">www.sportcast.stream</a> da alternatif.<br/><br/>----------------------------------------------<br/>bu entry maç saati yaklaştıkça güncellenecektir.
   entry_channels: spor
@@ -14,7 +14,7 @@ data:
     avm yemek bölümünden kalkanların kalanlarını yemek
   entry_id:  81605164
   entry_writer: plaza communisti
-  entry_fav_count: 603
+  entry_fav_count: 616
   entry_content: |
     (bkz: <a class="b" href="/?q=donan%c4%b1mhaber.com">donanımhaber.com</a>)
   entry_channels: yeme-içme
@@ -22,7 +22,7 @@ data:
     sevdikleri uyurken nefeslerini kontrol eden insan
   entry_id:  81591178
   entry_writer: bsd
-  entry_fav_count: 488
+  entry_fav_count: 490
   entry_content: |
     sevdikleri uyurken sessizce yanlarına gidip nefes alıp verişlerini kontrol eden insandır. nefes alıp verme sesi duyulmuyorsa göğsüne bakılıp nefesi kontrol edilir. hatta bazen horluyor olmaları bile mutlu edebilir. bir ara sadece ben yapıyorum sanıyordum sonra internette araştırınca bir çok kişinin bu durumu yaptığını gördüm. anksiyetenin etkileri sanırım.
   entry_channels: anket,ilişkiler,sağlık
@@ -30,7 +30,7 @@ data:
     yıl olmuş 2018 hala mı var denilen şeyler
   entry_id:  81593264
   entry_writer: mevsimler
-  entry_fav_count: 477
+  entry_fav_count: 486
   entry_content: |
     düğünlerdeki bıçak kesmiyor, gelin çıkmıyor, kuş uçmuyor tarzı damadı sikme odaklı bahşiş arsızlığı.
   entry_channels: anket
@@ -38,7 +38,7 @@ data:
     askerde zimmetli silahı kaybetmek
   entry_id:  81597718
   entry_writer: on the floor
-  entry_fav_count: 395
+  entry_fav_count: 403
   entry_content: |
     askerlik biteli 4 yıl olmasına rağmen başlığı görünce aniden soğuk bir ürperme geldi. çok net <a class="b" href="/?q=sikerler">sikerler</a>
   entry_channels: siyaset,eğitim
@@ -46,7 +46,7 @@ data:
     akp'nin gidici olması
   entry_id:  81596547
   entry_writer: gaditano
-  entry_fav_count: 355
+  entry_fav_count: 357
   entry_content: |
     ha gitti ha gidecek diye 20 sene oldu lan.
   entry_channels: siyaset
@@ -54,7 +54,7 @@ data:
     zorunlu bireysel emeklilikten 3 yıl çıkamamak
   entry_id:  81593564
   entry_writer: gangplank
-  entry_fav_count: 300
+  entry_fav_count: 301
   entry_content: |
     mafya gibi paraya el koymak, o kadar zor durumda ki ülke ona bile muhtaç kalmış durumda vay halimize
   entry_channels: siyaset,haber,ekonomi
@@ -62,7 +62,7 @@ data:
     fatih terim'in akhisarlı taraftara küfür etmesi
   entry_id:  81591647
   entry_writer: blackline
-  entry_fav_count: 291
+  entry_fav_count: 292
   entry_content: |
     tolga zengin'e şenol güneş'e volkan demirel'e küfür edilince profesyonel olacaksın görmezden geleceksin ve basıp gideceksin derler ama fatih terim beye edilince tepki verecek tabi derler. tabii canım padişahımız herşeyden muaf değil mi zaten.<br/>tribündeki de barzo da yakalanıp ceza çekecek kurallar fatih terim'e ceza verilmesi gerekiyor derse ona da verecek. yoksa devam edip gider bu olaylar.<br/><br/>daha çok kısa bir zaman önce bir başka sağa sola sataşıp pislik yapan bir şahıs cezayı neden aldı. bakın <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/m.milliyet.com.tr/amp/emre-belozoglu-na-sok-basaksehir-buyuksehir-belediye-erzurumspor-2736087-skorerhaber/" title="https://www.google.com.tr/amp/m.milliyet.com.tr/amp/emre-belozoglu-na-sok-basaksehir-buyuksehir-belediye-erzurumspor-2736087-skorerhaber/">bundan aldı.</a>
   entry_channels: spor
@@ -70,7 +70,7 @@ data:
     dedesinin mezar taşını okuyamayan tek toplum
   entry_id:  81602661
   entry_writer: eyiskici
-  entry_fav_count: 242
+  entry_fav_count: 245
   entry_content: |
     yörüklerdir. <br/>mezarlarının yerleri bile belli değil. <br/>ruhları aziz, mekanları yaylalardan yayla olsun.
   entry_channels: siyaset,tarih,eğitim
@@ -78,7 +78,7 @@ data:
     1 doların 1 tl olması için yapılacaklar
   entry_id:  81600635
   entry_writer: turiq
-  entry_fav_count: 235
+  entry_fav_count: 236
   entry_content: |
     dolar 10 lira olursa bir adet sıfırı atmak.
   entry_channels: anket,ekonomi
@@ -86,47 +86,23 @@ data:
     ismail devrim haberini yapanın gözaltına alınması
   entry_id:  81604520
   entry_writer: faizlbisi
-  entry_fav_count: 224
+  entry_fav_count: 225
   entry_content: |
     1984 romanını yıllar önce distopya (karşı ütopya)eser olarak adlandırıyorduk..
   entry_channels: siyaset,haber
 - entry_name: |
-    demet akalın'ın takipçisine küfür etmesi
-  entry_id:  81601980
-  entry_writer: cenkdesouza
-  entry_fav_count: 129
-  entry_content: |
-    demet akalın yazmamıştır, zira kendisi bu kadar az imla hatası yapamaz.
-  entry_channels: magazin
-- entry_name: |
     okunduğunda ufku 2 katına çıkaran ince kitaplar
   entry_id:  81606710
   entry_writer: diazepam
-  entry_fav_count: 101
+  entry_fav_count: 105
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://biacaip.com/elinize-aldiginizda-bitirmeden-birakamayacaginiz-25-ince-kitap/" title="https://biacaip.com/elinize-aldiginizda-bitirmeden-birakamayacaginiz-25-ince-kitap/">şurada</a> 25 tanesini bulabilirsiniz. elinizin altında bulunsun.
   entry_channels: anket,edebiyat
 - entry_name: |
-    yerli ve milli seks oyuncağı
-  entry_id:  81607593
-  entry_writer: taluyka
-  entry_fav_count: 97
-  entry_content: |
-    hökümet.<br/><br/>laf aramızda cinsel organa dahi gerek duymadan sağlam siker.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    24 eylül 2018 abd'nin brunson açıklaması
-  entry_id:  81610423
-  entry_writer: agitoxin
-  entry_fav_count: 96
-  entry_content: |
-    ümmetin yetişemediği bir vaka daha. yavaş dön reis.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     fatih altaylı'nın otelde bira bulunmamasına isyanı
   entry_id:  81604407
   entry_writer: watcanaydu
-  entry_fav_count: 87
+  entry_fav_count: 88
   entry_content: |
     haklı bir serzeniş.<br/><br/>"fatih altaylı otelde bira bulmamasından dolayı isyan etti " gibi her yöne gidebilecek başlıklar açılıyor. tabi muhafazakar yazarlarımızda hemen "ouvv haram " diye tepki gösteriyor ama olay tam öyle değil. <br/><br/>fatih altaylı, doğu bölgesinde bir gezintiye çıkıyor. birkaç oteli gezdikten sonra hiçbirinin içki satışını yapmadığını fark ediyor. bundan dolayı "doğuda turizm sekteye uğrayabilir" diye düşüncesini paylaşıyor. devamında "ingiliz, fransız, japon turist geldiği zaman burada kalmak yerine gezip gitmeyi tercih eder" diyor. bundan dolayı o bölgenin esnafı kazanç sağlayamaz.<br/><br/>misal ben muğla'da oturuyorum. her yaz tatile çıkarım. turistleri gözlemediğim zaman 7\24 bira içerler. hep bira mı içiyorlar ? tabi ki hayır. alkol oranı yüksek içkilerini akşam içerler. yani günlük hayatlarında hep içki vardır. şimdi oteller bunu sunmasa eminim ki turizm batar. <br/><br/>doğuda turizm daha yeni gelişiyor. yani siz destek olacağınıza tam tersine köstek oluyorsunuz. neden içki satmıyorsunuz ? "çünkü ben müslümanım gibi bir algı çıkıyor " ama işte bu da cahillikten efenim. osmanlı şarap ihraç ederdi ama kendi o kadar tüketmezdi. tabi şimdi öten arkadaşlarım olacak " osmanlıı halkııdaaa tüketiyor " gibi ayrıntıya girmek istemiyorum. bu kadar bilinse kafidir.
   entry_channels: haber,yeme-içme,seyahat
@@ -134,7 +110,7 @@ data:
     instagram'da 345 bin takipçisi olan ev hanımı
   entry_id:  81598329
   entry_writer: babasini bakkala gonderen cocuk
-  entry_fav_count: 73
+  entry_fav_count: 74
   entry_content: |
     en yakın teori; sülalede bilgisayar mühendisliği okumuş veya bu takipçi işlerinden anlayan bir yeğen bulunur. follower boost yaptırılır ve ekşide başlığı açılır. elin arabının, amerikalısının çörek açan teyzeyle başka ne işi olabilir ki takip etmiş olsun?
   entry_channels: yeme-içme
@@ -142,7 +118,7 @@ data:
     sıkıştıran arabaya beklenen tepkiyi veren motorcu
   entry_id:  81604288
   entry_writer: emrexan
-  entry_fav_count: 69
+  entry_fav_count: 71
   entry_content: |
     madem arabayla sıkıştıracak götün var, o zaman motorcu indiği zaman sünepe gibi kapılarını kitlemeyeceksin. madem bir bok yiyorsun arkasında duracaksın. camını çerçeveni kıran adamdan tam gaz kaçmayacaksın.
   entry_channels: haber,otomotiv,motosiklet
@@ -150,50 +126,26 @@ data:
     çaylak kızların mesajla rahatsız etmesi
   entry_id:  81590380
   entry_writer: keynesinenistesi
-  entry_fav_count: 67
+  entry_fav_count: 71
   entry_content: |
     (bkz: <a class="b" href="/?q=at+yalan%c4%b1+sikiyim+inanan%c4%b1">at yalanı sikiyim inananı</a>)
   entry_channels: ekşi-sözlük
 - entry_name: |
-    küçük çamlıca televizyon kulesi
-  entry_id:  81603751
-  entry_writer: a life of ease
-  entry_fav_count: 64
-  entry_content: |
-    itici motorları henüz inşa edilmemiştir. hayırlısıyla onu da inşa edip; siyasal islamı uzaya yayacağız.
-  entry_channels: tv,teknoloji,haber
-- entry_name: |
     ryan babel
   entry_id:  81603693
   entry_writer: maximus decimus meridius
-  entry_fav_count: 63
+  entry_fav_count: 66
   entry_content: |
     akşam golü var bu kırmızı saçlının.
   entry_channels: spor
 - entry_name: |
-    söz nişan nikah kına gecesi düğün istemeyen kız
-  entry_id:  81591397
-  entry_writer: softkitty warmkitty
-  entry_fav_count: 60
+    eşiyle birlikte olabilmek için puan toplayan adam
+  entry_id:  81615724
+  entry_writer: otomotivci
+  entry_fav_count: 36
   entry_content: |
-    bunlar hep kız tarafının istekleriymiş gibi konuşuluyor ama bir gelin adayı olarak ben bunları istemediğm için suçlanıyorum. hevessizlikle marjinallikle. kıbrıslıyım, bazı geleneklerimiz farklı ve siz benimsemş olsanız da bana göre külfet ve gereksz olabilir. kına mına yapalm dediler çok para varmış gibi, annem hayatta değil dedim istemedm, kendim zaten tek yaşıyodm, temel birkaç mobilya haricinde değişiklik yapmadk, takı diye bir şey asla konuşlmadı zaten babam takı istemeye utanr, kendi kendileri şunu bunu takacz dediler, üstelik bizimkilerin de ne takması gerektiğini söylemişler. ben geleneklere yanaşmadıkça uzaklaştıklarını hissediyorm. ve bunların içinde en önemlisi ve herkesin unuttuğu şey, sen bunlarla uğraşırken aynı zamanda bir ilişki yürütmeye çalışıyorsun, ama insanlar sanki sadece buna odaklıymışsn gibi davranıyor. yani kız tarafı bunları istemesin derken erkeklerin de kendi tarafından gelecek tepkileri düşünmesi gerekiyor. ben şanslıyım ki sevgilim dengeyi kuruyor ama siz anneleriniz düğün bizim şanımızdr diyince, ben düğün istemiyorm diyen gelin adayını nasıl öne süreceksinz? hadi çözün denklemi
+    (bkz: <a class="b" href="/?q=sorry+mario+pussy+is+in+another+castle">sorry mario pussy is in another castle</a>)
   entry_channels: ilişkiler
-- entry_name: |
-    aldatılmanın acısı ne kadar sürede geçer
-  entry_id:  81587694
-  entry_writer: kalgel
-  entry_fav_count: 51
-  entry_content: |
-    <a class="b" href="/?q=ge%c3%a7mez">geçmez</a>.<br/>geçmiyor dostlar.<br/>aylar belki yıllar sonra hayatınıza birini aldığınızda aldatılmanın yarattığı travmayla sürekli tetikte olmak, istemsiz şekilde açığını aramak iki tarafı da yıpratıyor.<br/><br/>bu travmayı bile isteye yaşatan herkesin <a class="b" href="/?q=abv">abv</a>.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    sarhoşken yapılan mantıklı hareketler
-  entry_id:  81606399
-  entry_writer: lordoz
-  entry_fav_count: 45
-  entry_content: |
-    trafik polisine gidip "alkol metre var mı?" diye sormak.<br/><br/>arkadaşlarla taksim'de içmiş, eve dönmek üzere akm'nin yanındaki otoparka doğru yürürken akm'nin önünde park etmiş trafik polisini gördüm. yanına gittim ve aramızda şöyle bir diyalog gerçekleşti;<br/><br/>ben: abi alkolmetre var mı?<br/>polis: ne yapacaksın alkolmetreyi?<br/>b: üfliycem?<br/>p: neden?<br/>b: arabam şu otoparkta, biraz alkol aldım (en az 250 promilim), eğer 50 promilin üstünde çıkarsam taksiyle gidelim, çıkmazsam arabayla gidicez.<br/>p: yok alkol metre<br/>b: trafik polisinde nasıl olmaz?<br/>p: her ekipte olmuyor. (sabırlı adam)<br/>b: olan ekip çağır üfliycem ben.<br/>p: olum manyak mısın? (arkadaşlar dürtmeye başlıyor "olum alacak bizi içeriye sus" diye.)<br/>b: benim araba kullanıp kullanamayacağımı bilmem lazım.<br/>p: sen nereye gidiyorsun?<br/>b: ataköy<br/>p: nereden gideceksin?<br/>b: sahilden ya da çevreyolundan<br/>p: sahilden git orada uygulama yok bugün<br/>b: abi senin sicil no kaç bi aksilik olursa söyliyim<br/>p: gidiyor musun alayım mı?<br/>b: gidiyorum abi, sahilden, eminsin di mi?<br/>p: !!?!<br/><br/>elbette taksiyle gittik ama gerçekten de çevirme yoktu sahil yolunda. <br/><br/>bence çok mantıklı bir hareketti ama siz yine de denemeyin.
-  entry_channels: anket
 - entry_name: |
     24 eylül 2018 dolar kuru
   entry_id:  81608583
@@ -203,13 +155,29 @@ data:
     yıl başında 3,76 olan kur. yukarıda sığırın biri vatan haini muhabbetine başlamış yine, bu tarz gerizekalılara son bir yılda alım gücümüzün yarı yarıya düştüğünün anlatılması lazım.<br/><br/>bir yılda yüzde yüz artan dolar, bugün yüzde iki düşmüş. ha tamam, hükümeti karalamayalım o zaman. dolar zaten hep dış mihraklar filan yüzünden beş katına çıktı birkaç yılda. <br/><br/>ikinci tanım: sevinmek için gerizekalı olmayı gerektiren kur.
   entry_channels: ekonomi
 - entry_name: |
-    türkiye'deki ağaçlarda sincap gezmemesi
-  entry_id:  81588077
-  entry_writer: mechul ogrenci aniti
-  entry_fav_count: 25
+    20 eylül 2018 bakü'de dehşetli kaza
+  entry_id:  81606660
+  entry_writer: mataas
+  entry_fav_count: 28
   entry_content: |
-    (bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+sincaplar%c4%b1n+gezebilece%c4%9fi+a%c4%9fa%c3%a7+kalmamas%c4%b1">türkiye'de sincapların gezebileceği ağaç kalmaması</a>)
-  entry_channels: anket,bilim
+    amına kodumun ülkesinde <a class="b" href="/?q=ambulans%2c+acil+sa%c4%9fl%c4%b1k+personeli+yok+mu">ambulans, acil sağlık personeli yok mu</a>. naaşları karpuz taşır gibi muşamba kaplı pikapla taşıyorlar.<br/><br/>kim ne derse desin iyi ki bu avrupa birliği var, iyi ki ülkeye bişeyler dayatıyorlar. anasını siktiğimin petrol ve doğalgaz zengini azerbaycanında adalet, hak, hukuk aliyevin insafına kalınca böyle oluyor demek ki. yazık ya yemin ederim insanlar kendi cellatlarını kendileri seçiyorlar.
+  entry_channels: tv,haber,otomotiv,eğitim,ekonomi
+- entry_name: |
+    ilişkilerin bitme sebepleri
+  entry_id:  81607208
+  entry_writer: birinin anaisi
+  entry_fav_count: 23
+  entry_content: |
+    öfkeleri muhatapsız bırakmak, gecelerce yok olmak, tek kelime etmemek, ettirmemek.<br/>muhatapsız kalan,susan bir ilişki bitmiş ilişkidir.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    fb bjk maç önü seremonisinde eliyle 6 yapan çocuk
+  entry_id:  81613325
+  entry_writer: kor nokta
+  entry_fav_count: 23
+  entry_content: |
+    6-0 falan sorun değil de istiklal marşında hazır olda durulur.
+  entry_channels: spor
 - entry_name: |
     erkeklerin çok güzel kıza yaklaşamaması
   entry_id:  81592461
@@ -225,38 +193,30 @@ data:
   entry_fav_count: 22
   entry_content: |
     1999'dan önce işe girilmiş ve 3600 gün tamamlanmış ise mümkün olabilendir.
-  entry_channels: anket
+  entry_channels: anket,ekonomi
 - entry_name: |
-    fb bjk maç önü seremonisinde eliyle 6 yapan çocuk
-  entry_id:  81613325
-  entry_writer: kor nokta
-  entry_fav_count: 22
-  entry_content: |
-    6-0 falan sorun değil de istiklal marşında hazır olda durulur.
-  entry_channels: spor
-- entry_name: |
-    20 eylül 2018 bakü'de dehşetli kaza
-  entry_id:  81606660
-  entry_writer: mataas
-  entry_fav_count: 22
-  entry_content: |
-    amına kodumun ülkesinde <a class="b" href="/?q=ambulans%2c+acil+sa%c4%9fl%c4%b1k+personeli+yok+mu">ambulans, acil sağlık personeli yok mu</a>. naaşları karpuz taşır gibi muşamba kaplı pikapla taşıyorlar.<br/><br/>kim ne derse desin iyi ki bu avrupa birliği var, iyi ki ülkeye bişeyler dayatıyorlar. anasını siktiğimin petrol ve doğalgaz zengini azerbaycanında adalet, hak, hukuk aliyevin insafına kalınca böyle oluyor demek ki. yazık ya yemin ederim insanlar kendi cellatlarını kendileri seçiyorlar.
-  entry_channels: tv,haber,otomotiv,eğitim,ekonomi
-- entry_name: |
-    abdi ibrahim personelinin nezih barut videosu
-  entry_id:  81587725
-  entry_writer: nightmre
+    internette bir türlü bulunamayan efsane videolar
+  entry_id:  81610523
+  entry_writer: huzursuz ruh sendromu
   entry_fav_count: 21
   entry_content: |
-    hakkında şöyle bir yorum yapılmış;<br/><br/>babam odaya girdi hemen yan sekmeden porno açtım, onun açıklaması daha kolay olur diye bu nasıl video lan.
-  entry_channels: haber
+    <a class="b" href="/?q=yemekteyiz+hasan">yemekteyiz hasan</a> full bölümleri.
+  entry_channels: anket,tv,teknoloji
 - entry_name: |
     kızların yakışıklı erkeğe yaklaşamaması
   entry_id:  81612949
   entry_writer: granderella
-  entry_fav_count: 17
+  entry_fav_count: 20
   entry_content: |
     mühendisten sonrasını okumadım.
+  entry_channels: ilişkiler
+- entry_name: |
+    karşılıksız aşkın yıllar sonra karşılık bulması
+  entry_id:  81615406
+  entry_writer: keskinustura
+  entry_fav_count: 11
+  entry_content: |
+    "sen bana geç kaldın, ben sana erken." dedirtir şarkıdaki gibi.
   entry_channels: ilişkiler
 - entry_name: |
     en son gerçekten mutlu hissedilen an
@@ -291,6 +251,14 @@ data:
     8 senedir bir şekilde peşinden koştuğum kişi ile bugün sonunda "randevu" tadında bir buluşmamız var. bana şans dile sözlük.<br/><br/>edit: :(
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    köktürkçe dövmelerin ekseriyetle hatalı olması
+  entry_id:  81588515
+  entry_writer: ikili es sarmal
+  entry_fav_count: 5
+  entry_content: |
+    adam üşenmemiş uzun uzun bilgi vermiş. eline sağlık yazar kardeş.<br/>bu arada aklıma nedense the big bang theory'de sheldon'ın penny'ye neden çince çorba yazan bir dövme yaptırdın diye sorduğu bölüm geldi.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: edebiyat,moda
+- entry_name: |
     ertesi gün hapının 48 tl olması
   entry_id:  81611121
   entry_writer: zuruni
@@ -315,26 +283,34 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ny43zFochi8" title="https://www.youtube.com/watch?v=ny43zFochi8">no coke- dr alban</a>
   entry_channels: anket,müzik
 - entry_name: |
-    karşılıksız aşkın yıllar sonra karşılık bulması
-  entry_id:  81615183
-  entry_writer: biyolojik saat tamircisi
+    aatif chahechouhe
+  entry_id:  81613754
+  entry_writer: insulin direnci
+  entry_fav_count: 4
+  entry_content: |
+    bal yapmayan sinek.
+  entry_channels: spor
+- entry_name: |
+    sözlükteki 30 yaşı aşmış bunak çetesi
+  entry_id:  81614370
+  entry_writer: hassas kantar
   entry_fav_count: 3
   entry_content: |
-    kayıp yılların karşılığıında bir kez sevişirim.<br/>sonrası iyilik ve güzellik.
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=k%c4%b1rar%c4%b1m+boynuzunu+iblis">kırarım boynuzunu iblis</a>)
+  entry_channels: ekşi-sözlük
 - entry_name: |
-    sözlükçülerin yazar engelleme kıstasları
-  entry_id:  81611005
-  entry_writer: foxkids
-  entry_fav_count: 2
+    sadece askerde karşılaşılan olaylar
+  entry_id:  81606248
+  entry_writer: full attack
+  entry_fav_count: 3
   entry_content: |
-    entry altına saniyesinde damlayıp "banane, sanane" yazmış olmak.
-  entry_channels: anket,ekşi-sözlük
+    askerden önce elime silah almadım desem yeridir. askerliğin bitmesine 1 ay kala üstüme zimmetli 10'a yakın değişik silah vardı. bir uçak savar dahil. denetlemeye girmiştik ve 2 gün uçak savar namlusuyla gezmiştim. uçak savar nedir aq.
+  entry_channels: anket
 - entry_name: |
     kıyametin kopuşunun izlenebileceği en güzel yer
   entry_id:  81587467
   entry_writer: ankara kedisi
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     maupassant'a göre eyfel kulesinin üzeriymiş çünkü eyfel bir tek oradan görünmüyormuş.<br/><br/>(bkz: <a class="b" href="/?q=adam+hakl%c4%b1">adam haklı</a>)
   entry_channels: anket
@@ -342,42 +318,74 @@ data:
     hayattan soğutan şeyler
   entry_id:  81612466
   entry_writer: isoroku yamamoto
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     sinirlenmek, öfkelenmek.<br/><br/>çok sinirliyim, çok öfkeliyim. bütün gün yattım ve uyudum. karnım sanırım aç, yemek hazırlamak şöyle dursun sipariş vermek bile zor geliyor. vücudumda bana enerji veren her şey sanki damarlarımdan özellikle çekilmiş gibi. oturduğum zaman yatmamak için müthiş çaba gösteriyorum. sonra bir anda sağa sola yumruk atıp avazım çıktığı kadar bağırmak istiyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    çukur (dizi)
-  entry_id:  81596224
-  entry_writer: modanna
-  entry_fav_count: 1
+    en itici kadın ismi
+  entry_id:  81613695
+  entry_writer: torva messor
+  entry_fav_count: 3
   entry_content: |
-    bu arada geçmiş bölümlere yeniden bakarken farkettim ki saadet ilk iki bölüm idris'e idris ağbi diye sesleniyor. idris baba sonradan oluyor yani.
-  entry_channels: tv,müzik
+    emişen<br/>yeter<br/>döne<br/>kibariye<br/>remziye<br/>şaziye<br/>naciye<br/>huriye<br/>hediye<br/>hayriye<br/>necmiye<br/>zekiye<br/>kadriye<br/>nuriye<br/>nevriye<br/>saniye<br/>şükriye, bahriye, behiye, fahriye, fikriye, hüsniye, lütfiye, nazmiye, necmiye, sabriye, sadiye, ulviye, zülfiye,cevriye,hamdiye
+  entry_channels: anket
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81588486
+  entry_writer: jason bourne seksapeli
+  entry_fav_count: 3
+  entry_content: |
+    o kadar insansınız, her gece aynı şeyleri yazan, sürekli gay olmadığını anlatmak için nikini açıklamaya çalışan, sadece kadınların derdini dinlerim vs. diyen sayısız abazansınız. biriniz de gidip "ekşisözlük dert ayağına karı arayanlar veritabanı" diye başlık açmıyorsunuz ki topluca defolup gitseniz de rahatlasak şu başlıkta. <br/><br/>lan belki bir derdimiz var, belki çok yalnızız, belki anlatacak kimsemiz yok, belki sadece anonim kalıp tanımadığımız biriyle paylaşmak istiyoruz. yok, illa am-göt-meme üçlüsünde dönecek bu siktiğimin muhabbeti. <br/><br/>hayır bir de sanki cidden "aaa ne güzel insanlar derdimi dinlemek için sıraya giriyolar" diye düşünen kadın var ortalıkta. iki yüzlülüğünüz arşın ötesinden belli oluyor zaten. size yazıp derdim var ayağına yatan kadın varsa (ki sanmıyorum) o kadın tavsiye ettiğim başlıkta da yazar size no worries. <br/><br/>aha tanım da yapayım da format sikiilmesin: lan belki burdan karı düşer ama bi taraftan götü de koruyayımcıların üşüştüğü başlık.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     bunu da mı dolarla alıyormuşuz denen ürünler
   entry_id:  81610799
   entry_writer: karali225
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     ithal ettiğimiz ürünlerden geliyor tamam, ama kendi ürettiğimiz şeylerin girdileri çoğu dolarla.<br/><br/>örneğin domatesi tarlaya ektin hadi yerli tohum olsun, bunun çapası var, onu neyle yapacaksın traktörle, yakıtını neyle alıyoruz dolar, ilacı var, dolar, gübresi var, dolar, sulama yaparsın elektrik, dolar, nakliyesi var, yakıtı dolar, daha anlatayım mı kardeşim.<br/>ha bunu üretenin dışardan aldığı temel ihtiyaç da artıyor, tabiki dolar, ne yapsın onu da kat üstüne<br/><br/>sorma gitsin....
   entry_channels: anket,ekonomi
 - entry_name: |
-    aatif chahechouhe
-  entry_id:  81612035
-  entry_writer: sarhosun biri
+    tolgay ali arslan
+  entry_id:  81611211
+  entry_writer: kiss
   entry_fav_count: 1
   entry_content: |
-    bireysel olarak iyi oynayabilir, hatta maçın adamı dahi olabilir ama bu adamın ilk 11’e yazıldığı takım şampiyon olamaz. vasat seviciler kendisini savunmak için binbir argümanla gelir birazdan lakin sol açık pozisyonunda valbuena, ekici, barış ve elif elmas’ın giremediği ilk 11’e bu adam giriyorsa ciddi bir problem var demektir.<br/><br/>ersun yanal gelirse ilk 18’e dahi girebileceğini zannetmiyorum.
+    kahin olmaya gerek yok , bu akşam kendisi yine beşiktaşı sabote edicektir.<br/><br/>klasik olarak , topu önüne alıp rakibine götü dayayıp kendini yere atıp , faul beklerken , fenerbahçe golü bulacaktır. şenol hoca neden bu akşam bu adamı oynatıyorsun , adem ljajic neden oynamıyor.
   entry_channels: spor
 - entry_name: |
-    tolgay ali arslan
-  entry_id:  81614546
-  entry_writer: quas
+    phillip cocu
+  entry_id:  81615046
+  entry_writer: rebel crow
+  entry_fav_count: 1
+  entry_content: |
+    hollanda’da başarılar kardeş. bize uymadı senin mentalin.<br/>ayrıca daha başında dedim bu adam ne anlar türkiye liginden. başkan hata yaptın bu adamı getirmekle dedim. kimin fikri kim gelmesini istedi çok merak ediyorum.
+  entry_channels: spor
+- entry_name: |
+    hasan ali kaldırım
+  entry_id:  81614386
+  entry_writer: onyuzmilyonbalon
+  entry_fav_count: 1
+  entry_content: |
+    bu akşam askerden gelmiş gibi saldıran futbolcu.
+  entry_channels: spor
+- entry_name: |
+    çukur (dizi)
+  entry_id:  81616240
+  entry_writer: cok mu sevdik acaba
+  entry_fav_count: 1
+  entry_content: |
+    mahsun kesin aşık oldu sena’ya inşallah severken öldürecek çok inandım buna
+  entry_channels: tv,müzik
+- entry_name: |
+    şarapla iyi giden şeyler
+  entry_id:  81615008
+  entry_writer: cokolattekoko
   entry_fav_count: 0
   entry_content: |
-    veli denilen bi mal vardı bi şekilde takımdan koptu ve 2 sene şampiyon olduk. bakın iddia ediyorum oynamaya devam etseydi beşiktaş o iki sampiyonluğu rüyasında görürdü. şimdi de bu çıktı başımıza. orta sahası bu mala kalan takım bitmiştir. bi şekildw siktir olur gider işalla yoksa işimiz zor.
-  entry_channels: spor
+    kesinlikle rokfor peyniri olmayan şey.
+  entry_channels: anket,ilişkiler,sağlık,yeme-içme
 - entry_name: |
     oğuzhan özyakup
   entry_id:  81615119
@@ -387,19 +395,11 @@ data:
     yanlıs mevkide oynatılan ve şenol güneş'in anlamsız tolgay ısrarı yüzünden harcanan 8 numara. kendisini 10 numarada oynatmak, benim için karius'u santrafor oynatmakla eşdeğerdir. <br/><br/>futboldan bir halt anlamayan hoca tarafından 10 numara oynatılarak taraftarın önüne atılıp, kariyeri bitirilmektedir. şu adamın tolgayın yerine geçmesi, ljajic'in de 10 numaraya girmesi gerek. burda sövenler 360 derece dönmezse maç sonu ben de adam degilim.<br/><br/>yeter amk şu şenol güneş'i eleştirin artık biraz da. takımdaki 30 oyuncuya da sallayın, ama hocaya kimse gram bişey demesin. oldu amk. oğuzhan'ın 10 numara oynayamadığını ve mevkisinin 8 numara oldugunu bolivya'nın başkenti la paz'daki esnaf bile biliyor amk. gidin şenol'a anlatın bunu önce.
   entry_channels: spor
 - entry_name: |
-    jeremain lens
-  entry_id:  81614770
-  entry_writer: soner ilkay
+    ios 12
+  entry_id:  81594247
+  entry_writer: kababangaa
   entry_fav_count: 0
   entry_content: |
-    2 senedir istisnasız nerdeyse her maçın en kötü adamı olmasına rağmen her maçtan önce maçın en iyi adamı olacağı iddia ediliyor.<br/><br/>bu bir hastalık mu ne bilmiyorum ama az önce ki pozisyonda yine topa vuramadı.
-  entry_channels: spor
-- entry_name: |
-    en itici kadın ismi
-  entry_id:  81613695
-  entry_writer: torva messor
-  entry_fav_count: 0
-  entry_content: |
-    emişen<br/>yeter<br/>döne<br/>şaziye<br/>naciye<br/>huriye<br/>hediye<br/>hayriye<br/>necmiye<br/>zekiye<br/>kadriye<br/>nuriye<br/>nevriye<br/>saniye<br/>şükriye, bahriye, behiye, fahriye, fikriye, hüsniye, lütfiye, nazmiye, necmiye, sabriye, sadiye, ulviye, zülfiye,cevriye,hamdiye
-  entry_channels: anket
+    bende bluetooth açıkken sembolünü kaybeden güncelleme.<br/>edit: kasıtlı kaldırmışlar, gerekli bir şeydi halbuki. yeşillendiren arkadaşlara teşekkürler.
+  entry_channels: teknoloji,haber
 ---
