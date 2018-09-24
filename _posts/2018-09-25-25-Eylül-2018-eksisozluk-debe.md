@@ -6,7 +6,7 @@ data:
     avm yemek bölümünden kalkanların kalanlarını yemek
   entry_id:  81605164
   entry_writer: plaza communisti
-  entry_fav_count: 629
+  entry_fav_count: 633
   entry_content: |
     (bkz: <a class="b" href="/?q=donan%c4%b1mhaber.com">donanımhaber.com</a>)
   entry_channels: yeme-içme
@@ -14,7 +14,7 @@ data:
     yıl olmuş 2018 hala mı var denilen şeyler
   entry_id:  81593264
   entry_writer: mevsimler
-  entry_fav_count: 499
+  entry_fav_count: 501
   entry_content: |
     düğünlerdeki bıçak kesmiyor, gelin çıkmıyor, kuş uçmuyor tarzı damadı sikme odaklı bahşiş arsızlığı.
   entry_channels: anket
@@ -22,7 +22,7 @@ data:
     sevdikleri uyurken nefeslerini kontrol eden insan
   entry_id:  81591178
   entry_writer: bsd
-  entry_fav_count: 496
+  entry_fav_count: 500
   entry_content: |
     sevdikleri uyurken sessizce yanlarına gidip nefes alıp verişlerini kontrol eden insandır. nefes alıp verme sesi duyulmuyorsa göğsüne bakılıp nefesi kontrol edilir. hatta bazen horluyor olmaları bile mutlu edebilir. bir ara sadece ben yapıyorum sanıyordum sonra internette araştırınca bir çok kişinin bu durumu yaptığını gördüm. anksiyetenin etkileri sanırım.
   entry_channels: anket,ilişkiler,sağlık
@@ -30,7 +30,7 @@ data:
     askerde zimmetli silahı kaybetmek
   entry_id:  81597718
   entry_writer: on the floor
-  entry_fav_count: 407
+  entry_fav_count: 411
   entry_content: |
     askerlik biteli 4 yıl olmasına rağmen başlığı görünce aniden soğuk bir ürperme geldi. çok net <a class="b" href="/?q=sikerler">sikerler</a>
   entry_channels: siyaset,eğitim
@@ -46,7 +46,7 @@ data:
     zorunlu bireysel emeklilikten 3 yıl çıkamamak
   entry_id:  81593564
   entry_writer: gangplank
-  entry_fav_count: 302
+  entry_fav_count: 305
   entry_content: |
     mafya gibi paraya el koymak, o kadar zor durumda ki ülke ona bile muhtaç kalmış durumda vay halimize
   entry_channels: siyaset,haber,ekonomi
@@ -70,7 +70,7 @@ data:
     1 doların 1 tl olması için yapılacaklar
   entry_id:  81600635
   entry_writer: turiq
-  entry_fav_count: 238
+  entry_fav_count: 240
   entry_content: |
     dolar 10 lira olursa bir adet sıfırı atmak.
   entry_channels: anket,ekonomi
@@ -78,7 +78,7 @@ data:
     ismail devrim haberini yapanın gözaltına alınması
   entry_id:  81604520
   entry_writer: faizlbisi
-  entry_fav_count: 229
+  entry_fav_count: 230
   entry_content: |
     1984 romanını yıllar önce distopya (karşı ütopya)eser olarak adlandırıyorduk..
   entry_channels: siyaset,haber
@@ -99,6 +99,14 @@ data:
     hökümet.<br/><br/>laf aramızda cinsel organa dahi gerek duymadan sağlam siker.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    eşiyle birlikte olabilmek için puan toplayan adam
+  entry_id:  81615724
+  entry_writer: otomotivci
+  entry_fav_count: 96
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sorry+mario+pussy+is+in+another+castle">sorry mario pussy is in another castle</a>)
+  entry_channels: ilişkiler
+- entry_name: |
     fatih altaylı'nın otelde bira bulunmamasına isyanı
   entry_id:  81604407
   entry_writer: watcanaydu
@@ -115,13 +123,13 @@ data:
     en yakın teori; sülalede bilgisayar mühendisliği okumuş veya bu takipçi işlerinden anlayan bir yeğen bulunur. follower boost yaptırılır ve ekşide başlığı açılır. elin arabının, amerikalısının çörek açan teyzeyle başka ne işi olabilir ki takip etmiş olsun?
   entry_channels: yeme-içme
 - entry_name: |
-    eşiyle birlikte olabilmek için puan toplayan adam
-  entry_id:  81615724
-  entry_writer: otomotivci
-  entry_fav_count: 75
+    ryan babel
+  entry_id:  81603693
+  entry_writer: maximus decimus meridius
+  entry_fav_count: 73
   entry_content: |
-    (bkz: <a class="b" href="/?q=sorry+mario+pussy+is+in+another+castle">sorry mario pussy is in another castle</a>)
-  entry_channels: ilişkiler
+    akşam golü var bu kırmızı saçlının.
+  entry_channels: spor
 - entry_name: |
     sıkıştıran arabaya beklenen tepkiyi veren motorcu
   entry_id:  81604288
@@ -131,34 +139,26 @@ data:
     madem arabayla sıkıştıracak götün var, o zaman motorcu indiği zaman sünepe gibi kapılarını kitlemeyeceksin. madem bir bok yiyorsun arkasında duracaksın. camını çerçeveni kıran adamdan tam gaz kaçmayacaksın.
   entry_channels: haber,otomotiv,motosiklet
 - entry_name: |
-    24 eylül 2018 engin ardıç yazısı
-  entry_id:  81599020
-  entry_writer: hansolo
-  entry_fav_count: 67
+    işe girişte e-devlet şifresi isteyen işyeri
+  entry_id:  81602585
+  entry_writer: cok kara kislar gordum
+  entry_fav_count: 45
   entry_content: |
-    "ev kendisine aitmiş, hiçbir borcu da yokmuş" kısmından sonra okumayı bırakıp küfürü bastım. <br/>yazıda anormallik yokmuş. yazı yalan kaynıyor be. eşinin ifadesinin ses kayıtları var ama gazeteci dediğin niye araştırsın ki? kalemiyle sıçmak varken.<br/><br/>eşi der ki, evi kredi ile aldık, taksitleri ödemekte zorlanıyoruz, ödeyemiyoruz. <br/><br/>pis adam..
-  entry_channels: siyaset,haber,eğitim
+    bu da yeni moda galiba. vermeyin. vermek zorunda değilsiniz. verseniz bile girdikleri anda girip şikayetçi olun. nereden girildigi klavye seri numarasına kadar çıkar. ondan sonra onlar sizin pesinizde koşsun.<br/><br/>klavye seri numarasını ciddiye alan arkidisler var. mecazi yazdım onu. bulunurlar anlamında yani.
+  entry_channels: anket,teknoloji,ekonomi
 - entry_name: |
-    söz nişan nikah kına gecesi düğün istemeyen kız
-  entry_id:  81591397
-  entry_writer: softkitty warmkitty
-  entry_fav_count: 61
+    internette bir türlü bulunamayan efsane videolar
+  entry_id:  81610523
+  entry_writer: huzursuz ruh sendromu
+  entry_fav_count: 36
   entry_content: |
-    bunlar hep kız tarafının istekleriymiş gibi konuşuluyor ama bir gelin adayı olarak ben bunları istemediğm için suçlanıyorum. hevessizlikle marjinallikle. kıbrıslıyım, bazı geleneklerimiz farklı ve siz benimsemş olsanız da bana göre külfet ve gereksz olabilir. kına mına yapalm dediler çok para varmış gibi, annem hayatta değil dedim istemedm, kendim zaten tek yaşıyodm, temel birkaç mobilya haricinde değişiklik yapmadk, takı diye bir şey asla konuşlmadı zaten babam takı istemeye utanr, kendi kendileri şunu bunu takacz dediler, üstelik bizimkilerin de ne takması gerektiğini söylemişler. ben geleneklere yanaşmadıkça uzaklaştıklarını hissediyorm. ve bunların içinde en önemlisi ve herkesin unuttuğu şey, sen bunlarla uğraşırken aynı zamanda bir ilişki yürütmeye çalışıyorsun, ama insanlar sanki sadece buna odaklıymışsn gibi davranıyor. yani kız tarafı bunları istemesin derken erkeklerin de kendi tarafından gelecek tepkileri düşünmesi gerekiyor. ben şanslıyım ki sevgilim dengeyi kuruyor ama siz anneleriniz düğün bizim şanımızdr diyince, ben düğün istemiyorm diyen gelin adayını nasıl öne süreceksinz? hadi çözün denklemi
-  entry_channels: ilişkiler
-- entry_name: |
-    işçinin maaşını devlet ödesin
-  entry_id:  81597604
-  entry_writer: putko
-  entry_fav_count: 37
-  entry_content: |
-    işsizlik fonunun işçinin değil işverenin sigortası olduğunu gösteren açıklamadır. daha önce olmuştu. şimdi işsiz kalmaktan iyidir diyen mallara (bkz: <a class="b" href="/?q=svihs">svihs</a>) . <br/><br/>hükümete önerim iş verenden de ekstra fon kessin. bu yüzsüz adam yüzünden millet uyanacak
-  entry_channels: siyaset,ekonomi
+    <a class="b" href="/?q=yemekteyiz+hasan">yemekteyiz hasan</a> full bölümleri.
+  entry_channels: anket,tv,teknoloji
 - entry_name: |
     20 eylül 2018 bakü'de dehşetli kaza
   entry_id:  81606660
   entry_writer: mataas
-  entry_fav_count: 35
+  entry_fav_count: 36
   entry_content: |
     amına kodumun ülkesinde <a class="b" href="/?q=ambulans%2c+acil+sa%c4%9fl%c4%b1k+personeli+yok+mu">ambulans, acil sağlık personeli yok mu</a>. naaşları karpuz taşır gibi muşamba kaplı pikapla taşıyorlar.<br/><br/>kim ne derse desin iyi ki bu avrupa birliği var, iyi ki ülkeye bişeyler dayatıyorlar. anasını siktiğimin petrol ve doğalgaz zengini azerbaycanında adalet, hak, hukuk aliyevin insafına kalınca böyle oluyor demek ki. yazık ya yemin ederim insanlar kendi cellatlarını kendileri seçiyorlar.
   entry_channels: tv,haber,otomotiv,eğitim,ekonomi
@@ -171,37 +171,13 @@ data:
     yıl başında 3,76 olan kur. yukarıda sığırın biri vatan haini muhabbetine başlamış yine, bu tarz gerizekalılara son bir yılda alım gücümüzün yarı yarıya düştüğünün anlatılması lazım.<br/><br/>bir yılda yüzde yüz artan dolar, bugün yüzde iki düşmüş. ha tamam, hükümeti karalamayalım o zaman. dolar zaten hep dış mihraklar filan yüzünden beş katına çıktı birkaç yılda. <br/><br/>ikinci tanım: sevinmek için gerizekalı olmayı gerektiren kur.
   entry_channels: ekonomi
 - entry_name: |
-    yolcuyu kaldırıp yerine oturan thy müdürü
-  entry_id:  81588169
-  entry_writer: demir kalem
-  entry_fav_count: 30
-  entry_content: |
-    5 sene önce bir yurtdışı seyehati dönüşünde; uçğa binmeden 7a olan yerimi 7e ye almışlar ve bana ayrı bir biniş kartı verildi. kabin amirine, orta koltukta 3 saat gidemem, özellikle cam kenarı olması için online check-in yaptığımı belirttim. şimdilik oturmamı boş yer olursa alacaklarını söylediler.<br/><br/>7. sıraya gittiğimde 3 hanımefendinin a,b ve c koltuklarında oturduğunu gördüm. yerime oturmayarak kabin amirine derhal durumun düzeltilmesi konusunda tekrar uyarımı yaptım. şimdi yapacak bir şeylerinin olmadığını yerime oturmam gerektiğini söyledi. o sırada yer görevlisi thy çalışanı hanımların yanına gelerek sohbet etmeye başladı; "- zor oldu ama bir arada oturtabildik sizi, iyi yolculuklar demek istedim" dedi ve gitti!<br/><br/>konuşmalardan anladım ki beyfendi, hanımefendilere şekil yapıyordu. işim gereği çok fazla uçuş yapıyorum (yılda min. 100 civarı) haliyle elit kartım var. tekrar kabin amirini yanıma çağırıp; elit kart sahibi olduğumu, miles&amp;smiles profilimde yer tercihimin cam kenarı olduğunu ve star alliance üyesi olduklarını hatırlattım. sonucunda ne oldu biliyor musunuz? beni bussiness'a aldılar! <br/><br/>işte o zaman dedim ki; thy dingonun ahırı olmuş!
-  entry_channels: haber,havacılık,seyahat
-- entry_name: |
-    türkiye'deki ağaçlarda sincap gezmemesi
-  entry_id:  81588077
-  entry_writer: mechul ogrenci aniti
-  entry_fav_count: 26
-  entry_content: |
-    (bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+sincaplar%c4%b1n+gezebilece%c4%9fi+a%c4%9fa%c3%a7+kalmamas%c4%b1">türkiye'de sincapların gezebileceği ağaç kalmaması</a>)
-  entry_channels: anket,bilim
-- entry_name: |
-    erkeklerin çok güzel kıza yaklaşamaması
-  entry_id:  81592461
-  entry_writer: hayvangiisiiyaptim
-  entry_fav_count: 25
-  entry_content: |
-    john nash bu düşünce ile yola çıkarak ekonomideki nash teoremini bulmuştur.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    hem istifa edip hem kıdem tazminatı istemek
-  entry_id:  81602037
-  entry_writer: ikskare
+    kızların yakışıklı erkeğe yaklaşamaması
+  entry_id:  81612949
+  entry_writer: granderella
   entry_fav_count: 22
   entry_content: |
-    1999'dan önce işe girilmiş ve 3600 gün tamamlanmış ise mümkün olabilendir.
-  entry_channels: anket,ekonomi
+    mühendisten sonrasını okumadım.
+  entry_channels: ilişkiler
 - entry_name: |
     çaylak kızların mesajla rahatsız etmesi
   entry_id:  81590761
@@ -211,10 +187,18 @@ data:
     tebrikler kardeşim en azından denedin bu da bir şeydir.
   entry_channels: ekşi-sözlük
 - entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  81588196
+  entry_writer: bidebenyazayim
+  entry_fav_count: 14
+  entry_content: |
+    siz de tuvaletteyken eksisozluk okuyor musunuz?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     şenol güneş
   entry_id:  81611845
   entry_writer: acsr777
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     aylardir 90 dakika mac oynamamis atiba'yi ilk 11'e koyan, "benden 10 numara olmaz" diyen adami 10 numaraya koyup, asil 10 numara ljajic'i kulübeye oturtan hoca.<br/><br/>ljajic bu takima neden alindi ? bu adamin yapamayip, oguzhanin yapabildigi ne var?<br/><br/>ah hoca ah. su fenerbahceyi yenmemek icin elinden geleni yapiyorsun.
   entry_channels: spor
@@ -242,6 +226,22 @@ data:
   entry_content: |
     hastalandığında kendi kendine çorba yapmaktır.<br/><br/>serbest çağrışım; aklıma entryleri okuyunca şıpsevdi sakızlarından çıkan kağıtlar geldi.<br/>herkes aynı eda ile yazmış. <sup class="ab"><a title="(bkz: gülücük)" href="/?q=g%c3%bcl%c3%bcc%c3%bck" data-query="gülücük">*</a></sup>
   entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81588486
+  entry_writer: jason bourne seksapeli
+  entry_fav_count: 4
+  entry_content: |
+    o kadar insansınız, her gece aynı şeyleri yazan, sürekli gay olmadığını anlatmak için nikini açıklamaya çalışan, sadece kadınların derdini dinlerim vs. diyen sayısız abazansınız. biriniz de gidip "ekşisözlük dert ayağına karı arayanlar veritabanı" diye başlık açmıyorsunuz ki topluca defolup gitseniz de rahatlasak şu başlıkta. <br/><br/>lan belki bir derdimiz var, belki çok yalnızız, belki anlatacak kimsemiz yok, belki sadece anonim kalıp tanımadığımız biriyle paylaşmak istiyoruz. yok, illa am-göt-meme üçlüsünde dönecek bu siktiğimin muhabbeti. <br/><br/>hayır bir de sanki cidden "aaa ne güzel insanlar derdimi dinlemek için sıraya giriyolar" diye düşünen kadın var ortalıkta. iki yüzlülüğünüz arşın ötesinden belli oluyor zaten. size yazıp derdim var ayağına yatan kadın varsa (ki sanmıyorum) o kadın tavsiye ettiğim başlıkta da yazar size no worries. <br/><br/>aha tanım da yapayım da format sikiilmesin: lan belki burdan karı düşer ama bi taraftan götü de koruyayımcıların üşüştüğü başlık.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    dinlenen ilk yabancı müzik
+  entry_id:  81610957
+  entry_writer: umittaciri
+  entry_fav_count: 4
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=ny43zFochi8" title="https://www.youtube.com/watch?v=ny43zFochi8">no coke- dr alban</a>
+  entry_channels: anket,müzik
 - entry_name: |
     sözlükçülerin yazar engelleme kıstasları
   entry_id:  81611005
