@@ -6,7 +6,7 @@ data:
     esnafın bim ve a101 mağduriyeti
   entry_id:  81632178
   entry_writer: tek derdi kiz dusurmek olan yazar
-  entry_fav_count: 650
+  entry_fav_count: 668
   entry_content: |
     haksız ve boş bir serzeniştir.<br/><br/>zamanın ruhuna karşı gelemezsiniz.<br/><br/>bakkal, dükkanını kapatıp şok/migros/a101 gibi mağazalarda kasiyer olmayı öğrenecek.<br/><br/>kasap, dükkanını kapatıp carrefour/migros/tansaş gibi mağazalarda et reyonu sorumlusu olmayı öğrenecek.<br/><br/>nalbur, dükkanını kapatıp koçtaş/bauhaus gibi mağazalarda reyon personeli olmayı öğrenecek.<br/><br/>bütün dünyada bu iş, bu şekilde oldu. bu ülkede de bu iş, bu şekilde olacak.<br/><br/>çocuklara ücretsiz şeker veren, memur aileyi aysonuna kadar idare eden elma yanaklı tonton bakkal "miti", artık geçmişte kalması gereken hoş ve boş bir anıdır. geç bile kalındı.<br/><br/>tekrar yazalım:<br/><br/>zamanın ruhuna karşı gelemezsiniz.
   entry_channels: ekonomi
@@ -14,39 +14,23 @@ data:
     sikkim'e yapılan dünyanın en güzel havaalanı
   entry_id:  81627693
   entry_writer: otomotivci
-  entry_fav_count: 562
+  entry_fav_count: 566
   entry_content: |
     (bkz: <a class="b" href="/?q=bu+da+benim+havaalan%c4%b1m+h%c3%bcsn%c3%bc">bu da benim havaalanım hüsnü</a>)
   entry_channels: haber,havacılık,seyahat
 - entry_name: |
-    torpil faksını chp'li vekile gönderen akp'li
-  entry_id:  81625823
-  entry_writer: yuniknick
-  entry_fav_count: 417
+    müzelerin öğretmenlere ücretsiz olması
+  entry_id:  81635757
+  entry_writer: delidanalar
+  entry_fav_count: 324
   entry_content: |
-    yazı yazmayı zar zor başarabildiği gözlerden kaçmamıştır.
-  entry_channels: siyaset,haber
-- entry_name: |
-    üç memeli manken modası
-  entry_id:  81626840
-  entry_writer: cakardika
-  entry_fav_count: 320
-  entry_content: |
-    ikilisini bile bulamayan toplumlarda infiale sebep olacak modadır. <br/><br/>ayrıca ülkemize gelmesi durumunda devletimiz üçüncü göğüse sahip olanlardan ek göğüs vergisi alarak bu konuya çözüm getirecektir. olmaz demeyin penisiniz var diye 15000 lira borçla doğduğunuz bir ülkedesiniz.
-  entry_channels: moda
-- entry_name: |
-    regl ağrısı kadınlığını kabul etmeyenlerde oluyor
-  entry_id:  81619613
-  entry_writer: piaera
-  entry_fav_count: 298
-  entry_content: |
-    az önce acilde muayene olduğum doktorun bana söylediği söz öbeği.<br/><br/>başlık çok uzun olacağı için "kronik regl ağrısı" yazamadım. benim gelme sebebim dismenore yani kabaca kronik regl ağrısı idi. doktorun bana verdiği cevap da bu.<br/><br/>5 senedir her ay regl dönemimde hastanelere veya sağlık ocağına iğne vurulmaya gidiyorum. ortalama 17 yaşından beri. erken davranıp gitmezsem, kalp krizi seviyesindeki bir ağrıyı aşırı terleme ve üşüme, kusma, ishal ile birlikte 8-12 saat boyunca yaşamak zorunda kalıyorum. hangi gün ve saatte geleceği de belli olmuyor.<br/><br/>acildeki doktor "senin yaşın kaç daha kronik bir regl sancın olabiliyor?" dedi. 5 senedir bu durumu yaşıyorum dedim. kadın sonra dikloron yazıp kağıdı bana verdi.<br/><br/>ben kağıdı alıp iğne için sıra beklemek üzere uzaklaştım, ama duyabileceğim bir uzaklıktaydım. böyle tükürür veya iğrenircesine "kadınlığını kabul etmeyenlerde oluyor bu veya etmek istemeyenlerde" dedi. ben duydum ve döndüm "genetik de oluyor" dedim. "doktorlar sallıyor onu genetik olmaz bu" dedi. "böyle bir şey genle aktarılmaz. sen bir psikiyatriye görün bence."<br/><br/>söyleme şeklinin kabalığını geçiyorum. neler neler oluyor hastanelerde, ben şahsen canımı kurtardığıma şükrediyorum. kabalığı, hastayı aşağılayan, küçümseyen tavrı geçtim o yüzden. kendimi tabii ki berbat hissettim. ama ağrının derdinde olduğum için uğraşamadım kendisiyle.<br/><br/>ben her şeyi geçtim, bir doktor olarak psikiyatrik bir durumun da teşhis edilmeye, kanıtlanmaya muhtaç olduğunu bilmeyişi ve buna rağmen kendinden emin, ukala tavrı beni şoka uğrattı. vay arkadaş, masanına arkasından şöyle bir bakıp psikiyatrik teşhis koydu kadın bana ya. aylarca terapi görüldü, çeşitli yöntemler denendi de kanıtlandı sanki. 30 saniye içinde benim kadın olup olmadığıma, yeterince kadın hissedip hissetmediğime karar verebildi. <br/><br/>gittim google'da arattım, belki ben mi göremedim böyle bir şeyi diye, ne bir araştırma var bu konuda ne bir makale var. nerden duydu da bu koca karı muhabbetini teşhis etmiş gibi söyleyebildi çok enteresan gerçekten. <br/><br/>doktor oldunuz diye oturduğunuz yerden psikolojik teşhis sallayamazsınız. kanıtlanmamış hiçbir şeyi hastalara kesin bir şeymiş gibi sunarak hedef şaşırtıp insanları yanıltamazsınız. kadın bana aşırı emin bir şekilde, teşhis koyar gibi söyleyerek, nasıl olsa karşısındakiler halktan ya, aptal ya, anlamazlar diye genetik olarak aktarılamaz böyle bir şey diyor. bir psikiyatriye görünün dersin bunun usulü budur. bazı doktorların bu cehaletin üzerine ısrarla ukala ve çok bilmişliği, terbiyesizliği mide bulandırıyor artık. beni geçtim, yanlış söylemlerle tedaviyi uzattırıp, başkalarının canına mal olmayın. bu başlığı da başkaları bunu yapmasın, söylemesin diye yazdım. sebebi öyle veya böyle, veya değil, kimseye oturduğunuz yerden psikolojik teşhis koyamazsınız. psikiyatriyi önerebilirsiniz, ama psikolojik teşhis koyamazsınız. şu aptallığa bir son verin artık. kimsenin canı sizin egonuzdan, kibirinizden sonra gelemez!<br/><br/>--------------------------------------<br/><br/>edit: mesaj atan, aydınlatan, paylaşan, empati kuran, benzer anılarını paylaşan ve yalnız hissettirmeyen herkese teşekkür ederim. çok daha kötü şeyler yaşayanlar da vardır tabi. ama umarım böyle şeyler hiçbir zaman tekrarlanmaz. açıkçası bu kadar dönüş alacağını veya önemseneceğini düşünmemiştim. olayı sindiremeden buraya yazdım ve kendi alıganlığımdır diye doktoru mümkün olduğunca, söylemi üzerinden anlatmaya çalıştım. ama yazılanlardan sonra neye uğradığımın daha iyi farkına vardım.<br/><br/>kanıtlanmamış, asılsız iddia diyen yazarlar var. hasta geçmişimi, yaşımı verdiğim bir entry'e kişi veya kurum ismi vererek, kişisel bilgilerimi nasıl korumamı bekliyorsunuz? veya 30 saniyede olup biten bir olayı nasıl kameraya veya başka bir kayda alabilirdim? o esnada, olay yaşandığı an bunu entry olarak gireceğim diye düşünmedim ki. birilerinin gelip burayı okuyacağını bile düşünmedim. ama hangi olayın gerçek olup olmadığını ayırt etmek zor değil. yer ve kişi ismi vermesem bile, hikaye akışından yanlışlama yapabilirdiniz, yalansa yalan olduğunu ortaya çıkarabilirdiniz ancak böyle bir çabada bile bulunmamış, asılsız demekten öteye gidememişsiniz. belki de sadece işinize gelmiyordur. özür dilerim işinize gelmediği, size rant sağlamadığı ve itibarınızı düşürdüğü için. her şeyde olduğu gibi burada da kazanmalıydınız çünkü değil mi?<br/><br/>edit 2: bu doktordan ötürü bütün doktorlara laf söylemiş olmamak için, özellikle "bazı doktorlar" diye belirtmiştim ama buna rağmen üslubumun sertliğinden ötürü, etkilenen veya incinen, sinirlenen doktorlarımız varsa hepsinden özür dilerim. asla bütün doktorlara yönelik bir şey kastetmedim, lütfen hiçbir doktor bu durumu üzerine alınmasın. bana bunu söyleyen doktorla dahi kavga etmedim. tersine böyle durumlar, işini özveriyle yapan doktorlarımıza duyduğumuz saygıyı arttırıyor, daha çok arıyor insan onları. lütfen sizler üzerinize alınmayın.<br/><br/>bunun dışında üslubumun sertliğinden ötürü kusura bakmayın, gecenin bir yarısı acilde tek başınızasınız, karnınız ağrıyor, 30 saniye içinde bir olay olup bitiyor, etraf kalabalık. ayakta duramayan, bayılan, sırada bekleyen acı içinde bir sürü hasta var. ben bu durumda hiçbir doktoru meşgul edemem veya kavga edemem kusura bakmayın. buna hakkım dahi olsa. bu yüzden öfkemi buradan çıkarmış olabilirim. ama bu kadarına dahi hakkım olduğunu düşünüyorum çünkü böylesine hassas bir sağlık konusunda derinden kırıldım. bu sadece bir terbiyesizliktir ve kimseye bir faydası yoktur.<br/><br/>doktor kesinlikle haklı diyen kişilere lafım dahi yok umarım hak ettiklerini bulurlar hayatlarında. ama haklı olma ihtimali var diyenler için sadece bu durum hakkında kanıtlanmış hiçbir makale veya araştırma bulunmadığını söylemek isterim. üzerinde durulması gereken bir ihtimal dahi olsa, psikolojik kaynaklı bile olsa, kadınlık hissiyatıyla ilgili olsa veya olmasa dahi, bunu kim nasıl kanıtlayabilir? ya da nasıl tedavi edilebilir bilmiyorum hiç araştırma yapılmamış bir alan olduğu için. ve belirsiz bir durumu kesin bir teşhis gibi yüzüme söylemeye kimsenin hakkı yok, hele söz konusu insan sağlığı ve insan hayatıysa. bunu da belirtmek isterim. <br/><br/>incinen, kırılan insanlardan tekrar özür dilerim. haklı olabileceği ihtimali üzerinde durup, sinirli üslubuma rağmen bu durum üzerinde beni düşünmeye teşvik eden psikolog yazarlarımıza da teşekkür ediyorum. başka bir konu da bu hastalıktan çoğu kişi habersiz olduğu için, uydurduğumu veya abarttığımı, böyle bir ağrı olamayacağını vs. yazılmasını bekliyordum ama neredeyse hiç olmadı... aynı durumu yaşayan kadınlardan çok fazla mesaj aldım. özellikle erkeklerden, iyiki bir regl oluyorsunuz ha ağlaklar, vb. mesajlar bekliyordum sözlük ortamında benzerlerini çok gördüğümüz için ama neredeyse hiç olmadı. olayı yaşamış gibi üzülen ve incinen, destek olan, hayatta hiç yaşamadığı ve empati kuramayacağı bir durum olduğu halde yaşamış gibi incinen inanılmaz sayıda erkek yazar oldu. böyle bir şeyi hiç mi hiç beklemiyordum. hakaret ve aşağılamalara hazırlamıştım kendimi. buna rağmen beni yanıltan ve anlayışla yaklaşan tüm yazarlarımıza en içten bir şekilde minnet duyuyorum ve teşekkürü bir borç bilirim sizlere. güzel insanlar, iyi insanlar sizler iyiki varsınız. <br/><br/>doktorla yaşadığım olay benim kişisel bir olayımdı, belki hatalarım da oldu ama bu başlık vesilesiyle hiç duymadığı bir hastalıktan haberi oldu belki insanların. çünkü birçok acilde bu hastalıktan habersiz doktor dahi çok fazlaydı. bu anlamda işe yaradıysa ne mutlu bana.<br/><br/>edit 3: ben dismenore ile psikolojik bağlantı hakkında herhangi bir kaynakta bulamadım ama ingilizce dilinde, birçok farklı alanlarda detaylı araştırma yapmadan kaynak yok dememek lazımmış. konuyla ilgilenenler lütfen bu şekilde değerlendirsin.
-  entry_channels: sağlık
+    bu ülkede kararları veren insanlar gerçekten geleceğe nasıl yatırım yapılır, uzun vadeli plan nedir bilmiyorlar. bunu öğretmenlere değil öğrencilere yapacaksın hatta birlikte gelen ailelerine indirimler uygulayacaksın ki geleceğini kurtar ülkenin. öğretmene bedava yapsan ne yapmasan ne.
+  entry_channels: eğitim
 - entry_name: |
     bursa'da bulunan 500 milyar dolarlık mermer yatağı
   entry_id:  81633807
   entry_writer: neptun otesi cisim
-  entry_fav_count: 253
+  entry_fav_count: 261
   entry_content: |
     en büyük altın madenlerinin bile 500 milyar dolarlık rezervi olmaz kolay kolay. bileşimi kalsiyum karbonat olan ve her sene modası değişen taş parçalarının değeri asla 500 milyar dolar olamaz.<br/><br/>imza: maden arama mühendisi.
   entry_channels: haber,ekonomi
@@ -54,7 +38,7 @@ data:
     sabire meltem banko
   entry_id:  81626183
   entry_writer: urgupe gitmeden peribacalarini gosteren
-  entry_fav_count: 245
+  entry_fav_count: 249
   entry_content: |
     tam bir karadeniz inadına sahip. ama unuttuğu şu ki sözlükte de hayli karadenizli mevcut.
   entry_channels: magazin
@@ -62,7 +46,7 @@ data:
     hakim ve savcılara duyulan gereksiz saygı
   entry_id:  81629418
   entry_writer: schoko pirens
-  entry_fav_count: 220
+  entry_fav_count: 227
   entry_content: |
     hukuk fakültesi sonunda biraz inekleyerek girdikleri sinavi kazananlarin kazandiklari ünvandan baska birsey degildir hakimlik savcilik. e bunlar bu ünvanlara erisince, her yerde hürmetler saygilar, ezilip büzülmeler, hafiften tirsmalar. ne lan bu. o ünvanini cikar belki de andavalin teki.
   entry_channels: siyaset,anket,ilişkiler,eğitim,ekonomi
@@ -70,7 +54,7 @@ data:
     sözlükçülerin instagram sayfaları
   entry_id:  81623143
   entry_writer: oyuncak bulut
-  entry_fav_count: 205
+  entry_fav_count: 206
   entry_content: |
     düzensiz aralıklarla "kesin yarın pişman olacam" diyerek insatagram linkini veren tipleri gösteren anket.<br/>takipçi kasan ilgi budalası dingilleri ortaya çıkaran başlıktır.<br/><br/>edit: öncelikle entry'nin <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/fc3359c88765" title="https://eksiup.com/fc3359c88765">linkini verelim</a><br/>linkini kaldırdığını belirtmiş de tekrar vermesi uzun sürmez. daha önceler de bir çok defa yaptığı gibi; "kesin yarın pişman olacam ama linki veriyorum ühü ühü:( " vs... diyerek tekrar verecektir linkini.<br/>bu ve bunun gibilerin amacı ifşa olmak, sosyalleşmek vs... değil.<br/>takipçi kasan katıksız ilgi budalası bunlar.
   entry_channels: anket,ekşi-sözlük,teknoloji
@@ -78,63 +62,63 @@ data:
     25 eylül 2018 3. havalimanı yolsuzluk açıklamaları
   entry_id:  81622652
   entry_writer: nuri
-  entry_fav_count: 193
+  entry_fav_count: 194
   entry_content: |
     halk tv'de canlı yayınlanıp, ekşi sözlük'te 564 sayfa konuşulacak, twitter'da 94850 espri ile türk halkı yine mizahını gösterecektir. ardından kemal kılıçdaroğlu'nun "bu asla kabul edilemez" açıklaması ve kapanış.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    ilk e-mail adresi
-  entry_id:  81636228
-  entry_writer: otostopcu musunuz ne ayak lan
-  entry_fav_count: 171
-  entry_content: |
-    kakam_geldi_58@hotmail.com <br/>yıl 2005 nasıl bi aceleyle aldığım belli oluyor sanırım. ayrıca 58 ne alaka. sivaslılar görüp “vay gardaşımın boku gelmiş” deyip gururlanacak mıydı? kafalara bak aq
-  entry_channels: anket,teknoloji
-- entry_name: |
     25 eylül 2018 erdoğan'ın bm genel kurulu konuşması
   entry_id:  81639682
   entry_writer: varolan
-  entry_fav_count: 171
+  entry_fav_count: 181
   entry_content: |
     1100 odalı sarayda lüks ve şatafat içinde yaşayan birinin yaptığı konuşma.<br/>dünyada adalet yok falan diye ağlıyor.<br/>peki senin ülkende adalet var mı?<br/>keşke sarayından ve lüks uçaklarından başını çıkarıp bakabilsen.<br/>o zaman ülkendeki sefaleti görürsün belki.
   entry_channels: siyaset,tv,tarih,haber
 - entry_name: |
+    ilk e-mail adresi
+  entry_id:  81636228
+  entry_writer: otostopcu musunuz ne ayak lan
+  entry_fav_count: 180
+  entry_content: |
+    kakam_geldi_58@hotmail.com <br/>yıl 2005 nasıl bi aceleyle aldığım belli oluyor sanırım. ayrıca 58 ne alaka. sivaslılar görüp “vay gardaşımın boku gelmiş” deyip gururlanacak mıydı? kafalara bak aq
+  entry_channels: anket,teknoloji
+- entry_name: |
     instagram'ın kapanması durumunda olabilecekler
   entry_id:  81636232
   entry_writer: johnsteinbeck
-  entry_fav_count: 137
+  entry_fav_count: 142
   entry_content: |
     inşallah komple çöker de “ilgi budalası” insanların yapacak başka işleri olur. ne kadar tiksinç geliyor bana, anlatamam.<br/><br/>fotoğraf altına “#yinebizgeldik, #kardesimle, #nomakeup, #nofilter, #tbt, #bmwasktir, #bugungunlerden, #sun, #sunshine, #gunbatimi, #nature vs” yazanlar kadar vasat insanlar yok benim gözümde. hemen her yerde bulabileceğiniz, orta kafalılar...
   entry_channels: anket,teknoloji
 - entry_name: |
-    neşet ertaş
-  entry_id:  81623252
-  entry_writer: grafite
-  entry_fav_count: 132
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>"sevmiyorsan ümit verme"dememiş de "bir guru hayale yeldirme beni" demiş üstad.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/angarahavalari/status/1044336783595589632?s=21" title="https://twitter.com/angarahavalari/status/1044336783595589632?s=21">*</a>
-  entry_channels: anket,sanat,tarih,müzik,edebiyat
-- entry_name: |
     osmanlı metresini vajinasından tanımak
   entry_id:  81636795
   entry_writer: balici koala
-  entry_fav_count: 130
+  entry_fav_count: 137
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>queniaux resmin yapıldığı 1866 yılında osmanlı diplomatı halil şerif paşa'nın metresiydi. ayrıca resmi halil paşa'nın kendi erotik koleksiyonu için sipariş ettiği biliniyordu.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>adam 1866 yılında nude attırmış lan. paşa gibi paşa.
   entry_channels: sanat,tarih
 - entry_name: |
-    yassine benzia
-  entry_id:  81619108
-  entry_writer: one of the best x in the y
-  entry_fav_count: 103
+    neşet ertaş
+  entry_id:  81623252
+  entry_writer: grafite
+  entry_fav_count: 134
   entry_content: |
-    bu adama atanamamış hasan şaş demek için ya uyuşturucu madde etkisi altında olmak yada çok ağır bir mal olmak gerekiyor.<br/><br/>hasan şaş'ın 1 sezonda attığı çalımı 10 dakikada attı beşiktaş'a karşı.<br/><br/>hasan şaş izlemesek bizi sikeceksiniz amk cinconluları sizi.
-  entry_channels: spor
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>"sevmiyorsan ümit verme"dememiş de "bir guru hayale yeldirme beni" demiş üstad.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/angarahavalari/status/1044336783595589632?s=21" title="https://twitter.com/angarahavalari/status/1044336783595589632?s=21">*</a>
+  entry_channels: anket,sanat,tarih,müzik,edebiyat
+- entry_name: |
+    25 yaşından sonra karşı cinse olan ilginin düşmesi
+  entry_id:  81630964
+  entry_writer: molasar
+  entry_fav_count: 97
+  entry_content: |
+    "seks para gibidir, yokken degerlidir" derler
+  entry_channels: ilişkiler
 - entry_name: |
     yaşlanma belirtileri
   entry_id:  81629794
   entry_writer: perdesiizev
-  entry_fav_count: 86
+  entry_fav_count: 93
   entry_content: |
     cuma ve cumartesi geceleri dışarı çıkmak yerine sakin, sessiz yerleri tercih etmeye başlamaktır.<br/>gürültüsüz, havadar bir yerlerde sakince vakit geçirmek en sevdiğim eylem oldu. üstelik yaşım 30 bile değilken.
   entry_channels: anket,sağlık
@@ -142,7 +126,7 @@ data:
     2018 türkiye güzelinin bildiğin çirkin olması
   entry_id:  81634830
   entry_writer: iriolankazansin
-  entry_fav_count: 82
+  entry_fav_count: 86
   entry_content: |
     aydın'dan izmir'e ingilizce öğretmenliği okumaya gelmiş kız bu nerede görsem tanırım. ege üniversitesi'nde aynı modelden binlerce var. kendisi ve muadilleri için bornova küçükpark civarına bakabilirsin.<br/><br/>özet: karakteristik bir yüz yapısına sahip olmayan sıradan bir kızdır kendisi.
   entry_channels: ilişkiler,magazin
@@ -150,10 +134,26 @@ data:
     erkekleri kadınlardan soğutan nedenler
   entry_id:  81637098
   entry_writer: arjuna one
-  entry_fav_count: 54
+  entry_fav_count: 63
   entry_content: |
     ilgi gösterdikleri halde teklifte bulunduğunuzda dalga gecermis gibi reddetmeleri. buraya kadar hadi neyse. kendince sebepleri olabilir. ama ustune bi de "sen yanlis anlamissin" ya da o anlama gelen bi sey soylemeleri. he canim biz arkadasca ilgiden ozel anlamlar cikaran karaktersiz hiyarlariz.<br/>bu gozler "seni sevmiyorum", "beni rahatsiz ediyorsun", "benim zaten erkek arkadasim var" falan dedigi halde hala ilgi bekleyen, hatta pesini biraktiniz diye "kiz gibi naz yapiyorsun" diyenleri gordu.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    al pacino'nun abartılmış bir oyuncu olması
+  entry_id:  81631247
+  entry_writer: hep versace versace biraz da alsace
+  entry_fav_count: 61
+  entry_content: |
+    (bkz: <a class="b" href="/?q=al+pa%c3%a7inyo%2c+ver+pa%c3%a7inyo%2c+yanaklar%c4%b1+g%c3%bcl+pa%c3%a7inyo">al paçinyo, ver paçinyo, yanakları gül paçinyo</a>)
+  entry_channels: anket,sinema
+- entry_name: |
+    küçük meme ile büyük meme arasındaki farklar
+  entry_id:  81638758
+  entry_writer: warcolds
+  entry_fav_count: 53
+  entry_content: |
+    link vermeden anlatmaya çalışan arkadaşlar entry girmezse mutlu olurum.
+  entry_channels: anket
 - entry_name: |
     en nefret dolu şarkı sözleri
   entry_id:  81634431
@@ -163,34 +163,42 @@ data:
     "dilerim tanrıdan ki sana açık kucaklar<br/>bir daha kapanmadan kara toprakla dolsun<br/>kan tükürsün adını candan anan dudaklar<br/>sana benim gözümle bakan gözler kör olsun"<br/><br/>(bkz: <a class="b" href="/?q=oeh">oeh</a>)
   entry_channels: anket,müzik
 - entry_name: |
-    küçük meme ile büyük meme arasındaki farklar
-  entry_id:  81638758
-  entry_writer: warcolds
+    ölümden dönen motosikletli
+  entry_id:  81636096
+  entry_writer: apocollapse
+  entry_fav_count: 49
+    entry_content: |
+    tecrübeli mecrübeli değildir. kavşağa yaklaşırken ayı gibi hız yapan cahil cühelanın tekidir. <br/><br/>ölümcül hataların arasından doğru çekip övüp durmayın yanlış anlaşılıyor sevgili suserlar. trafikte makas atan orospu çocuğunu<sup class="ab"><a title="(bkz: trafikte makas atan orospu çocukları)" href="/?q=trafikte+makas+atan+orospu+%c3%a7ocuklar%c4%b1" data-query="trafikte makas atan orospu çocukları">*</a></sup> "iyi araç kullanıyor" diye övdükçe sayıları artıyor bu sığır sürüsünün.<br/><br/>trafik kurallarına uyun. uymayanı uyarın.<br/><br/>edit: yazım hatası düzeltildi. <a class="b" href="/?q=selimisik">selimisik</a> adlı susera teşekkürler.
+  entry_channels: motosiklet
+- entry_name: |
+    ölümden dönen motosikletli
+  entry_id:  81636096
+  entry_writer: apocollapse
   entry_fav_count: 49
   entry_content: |
-    link vermeden anlatmaya çalışan arkadaşlar entry girmezse mutlu olurum.
-  entry_channels: anket
+    tecrübeli mecrübeli değildir. kavşağa yaklaşırken ayı gibi hız yapan cahil cühelanın tekidir. <br/><br/>ölümcül hataların arasından doğru çekip övüp durmayın yanlış anlaşılıyor sevgili suserlar. trafikte makas atan orospu çocuğunu<sup class="ab"><a title="(bkz: trafikte makas atan orospu çocukları)" href="/?q=trafikte+makas+atan+orospu+%c3%a7ocuklar%c4%b1" data-query="trafikte makas atan orospu çocukları">*</a></sup> "iyi araç kullanıyor" diye övdükçe sayıları artıyor bu sığır sürüsünün.<br/><br/>trafik kurallarına uyun. uymayanı uyarın.<br/><br/>edit: yazım hatası düzeltildi. <a class="b" href="/?q=selimisik">selimisik</a> adlı susera teşekkürler.
+  entry_channels: motosiklet
 - entry_name: |
     emre mor
-  entry_id:  81642514
-  entry_writer: uaslan
+  entry_id:  81641489
+  entry_writer: parramore
   entry_fav_count: 45
   entry_content: |
-    kadronun dışından bile dışarıya alınmıştır. dışdışdış öldün çıkkkk.
+    bir kez daha kadro dışı bırakılmıştır. teknik direktörü bir türlü gece hayatı ve tuhaf yaşantı stilinden vazgeçiremediklerini belirtmiş ve futbol oynamayı düşünürse onunla konuşuruz demiştir. kadro dışı bırakıladur çocuk.
   entry_channels: spor
 - entry_name: |
-    ekşi sözlük hesaplarının reklam için hacklenmesi
-  entry_id:  81641850
-  entry_writer: yercekimsiztosbaga
-  entry_fav_count: 43
+    25 eylül 2018 enpara.com rezaleti
+  entry_id:  81625309
+  entry_writer: mungonmun
+  entry_fav_count: 45
   entry_content: |
-    esasen ‘ ekşi sözlük hesaplarının instagram reklamı yapmak için hacklenmesi iddiası ‘ olan, ancak karakter sınırı nedeniyle ‘ ekşi sözlük hesaplarının reklam için hacklenmesi ‘ şeklinde açılan başlık.<br/><br/>iddianın sahibi bir süredir @ozi2gozi hesabından sözlük’ te instagram hesabının reklamı yapılan kişidir. aynı kişi, instagram reklamı satın aldığı firmanın bazı ekşi sözlük moderatörleri ile işbirliği içinde olduğunu, uzun süredir aktif olmayan hesapların bu tarz reklam işleri için kullanıldığını da iddia etmiştir. <br/><br/>olayın çıkış noktası @ozi2gozi hesabının bir süredir bir instagram hesabının reklamını yapması. bir süre önce bu yazarın söz konusu instagram hesabını alakalı alakasız her başlıkta paylaştığını fark ettim. çeşitli şehirler ve ülkeler hakkındaki başlıklarda ve (bkz: <a class="b" href="/?q=erkek+yazarlardan+kad%c4%b1n+yazarlara+sorular">erkek yazarlardan kadın yazarlara sorular</a>) başlığında bu hesabın linkleri paylaşılıp, ‘ yakışıklı mı değil mi siz karar verin, 190 cm boy ve 85 kilo ile yarışmaya dahil olunabilir ‘ gibi şeyler yazılıyordu. yazarın eski girilerini ve nickaltını inceleyince, hesabın aslında sanat konularında donanımlı, kız çocuk annesi bir kadına ait olduğunu, bu kişiye ait olduğu anlaşılan son girinin 4 yıl önce yazıldığını; reklam içerikli girilerin bir süre sonra silinip, başka başlıklarda reklama devam edildiğini fark ettim. <br/><br/>hesabın asıl sahibinin yazdığı girilerden bazı örnekler için: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/8f918b78a851" title="https://eksiup.com/8f918b78a851">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/f82293d85622" title="https://eksiup.com/f82293d85622">2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/9848c02b2938" title="https://eksiup.com/9848c02b2938">3</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/9b1034d25102" title="https://eksiup.com/9b1034d25102">4</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/582dec95f770" title="https://eksiup.com/582dec95f770">5</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a904593b3728" title="https://eksiup.com/a904593b3728">6</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/92c9faa13114" title="https://eksiup.com/92c9faa13114">7</a><br/><br/>hesabın asıl sahibi hakkında yazılan nickaltı notlarından örnekler için: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/9d045f8d5220" title="https://eksiup.com/9d045f8d5220">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/eae1e402f124" title="https://eksiup.com/eae1e402f124">2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/b8b965ad1344" title="https://eksiup.com/b8b965ad1344">3</a><br/><br/>reklam içerikli giriler için: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/2d0fd80bf132" title="https://eksiup.com/2d0fd80bf132">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/657555e1f825" title="https://eksiup.com/657555e1f825">2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/542d0f09e459" title="https://eksiup.com/542d0f09e459">3</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/ebd800923494" title="https://eksiup.com/ebd800923494">4</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/2294886b0572" title="https://eksiup.com/2294886b0572">5</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/22948af9a695" title="https://eksiup.com/22948af9a695">6</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/6d6ca22cb724" title="https://eksiup.com/6d6ca22cb724">7</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/7555e1d97872" title="https://eksiup.com/7555e1d97872">8</a><br/><br/>sözlük hesabının satıldığını düşünüp (bkz: <a class="b" href="/entry/81028773">#81028773</a>) no' lu giriyi yazdım. bunu yazdığım sıralarda, başka yazarlar da durumu fark etmiş ve nickaltına benzer notlar düşülmüş. bu yazarlardan biri ile iletişime geçtiğimde, onun da hesabın satıldığını düşündüğünü, bir süredir bu reklamları takip ettiğini ve şikayet edeceğini söyledi. şikayeti yönetime ilettikten bir süre sonra @ozi2gozi hesabı lanetli çaylak yapıldı. <br/><br/>bundan birkaç gün sonra, uzun süredir giri yazılmayan @deepblue3430 hesabından (bkz: <a class="b" href="/?q=erkek+yazarlardan+kad%c4%b1n+yazarlara+sorular">erkek yazarlardan kadın yazarlara sorular</a>) başlığında aynı instagram linkinin paylaşıldığını fark ettim. 2004 yılında yazılmış tanım girilerinden sonra yine aynı biçimde reklam girileri yazılmış bir hesaptı. dün kontrol ettiğimde yazarın leyla olduğunu gördüm. ekran görüntüleri için: <br/><br/>yazarın asıl girileri: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/31f2fc811988" title="https://eksiup.com/31f2fc811988">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a2c27a52a877" title="https://eksiup.com/a2c27a52a877">2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/107c36c71438" title="https://eksiup.com/107c36c71438">3</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/30a64c05a941" title="https://eksiup.com/30a64c05a941">4</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/6aa1e0400126" title="https://eksiup.com/6aa1e0400126">5</a><br/><br/>reklam içerikli giriler için: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a6462ce31967" title="https://eksiup.com/a6462ce31967">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/1abc5fae8152" title="https://eksiup.com/1abc5fae8152">2</a><br/><br/>@deepblue3430 hesabının leyla olmasından sonra @darknightcityxx mahlaslı yazar, (bkz: <a class="b" href="/entry/81028773">#81028773</a>) girime binaen bana yazıp; @ozi2gozi hesabının asıl sahibi olan hanımı tanıdığını; hesabın satılmadığını ancak şifre ve posta bilgilerinin değiştirildiğini, hesabın geri alınamadığını iletti. hesabın asıl sahibi olan hanımefendinin, hesaptan reklamı yapılan kişiyle yazıştığını; bu kişinin söz konusu reklam girileri yazmadığını söyledi ve bana ekran görüntülerini iletti. <br/><br/>yazışmanın görüntüleri için: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/b48c8fb90698" title="https://eksiup.com/b48c8fb90698">1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/8297b8e1b895" title="https://eksiup.com/8297b8e1b895">2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/64b07f359252" title="https://eksiup.com/64b07f359252">3</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/8ff92a1d3938" title="https://eksiup.com/8ff92a1d3938">4</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/232a7a067258" title="https://eksiup.com/232a7a067258">5</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/037538bfa889" title="https://eksiup.com/037538bfa889">6</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/cd8d72c7e890" title="https://eksiup.com/cd8d72c7e890">7</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/5c91d7aca664" title="https://eksiup.com/5c91d7aca664">8</a><br/><br/>ortada sözlük' ün instagram reklamı için kullanılması, uzun süre giri yazılmamış en az bir hesabın gasbı, asıl yazarın hesabına erişemiyor olması ve moderatörlerin reklam işleri için uzun süre giri yazmamış yazarların hesaplarını kullandığı iddiası var. <br/><br/>uçurulmamak ve hacklenmemek dileğiyle sözlük ahalisinin bilgisine sunarım.
-  entry_channels: ekşi-sözlük
+    rezalet kısmına hak verdim. hesapta olağan dışı bir etkinlik söz konusuysa bankanın bunu fark etmesi ve kullanıcıya haber vermesi gerekir. <br/><br/>gel gör ki bu olayda asıl rezalet senin twitterda gördüğün bir linke tıklaman. bundan öte rezelet olamaz.
+  entry_channels: haber
 - entry_name: |
     ölüm fikrinin insanları çıldırtmıyor oluşu
   entry_id:  81623287
   entry_writer: manyak kettur
-  entry_fav_count: 34
+  entry_fav_count: 37
   entry_content: |
     bir gun oleceginizi bilmek <a class="b" href="/?q=depresyon">depresyon</a> veya <a class="b" href="/?q=anksiyete">anksiyete</a> yaratabilir. uzulmeyin.<br/><br/>olunce gecer.
   entry_channels: anket,bilim,edebiyat,sağlık,eğitim
@@ -198,7 +206,7 @@ data:
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  81620544
   entry_writer: fazla dusunceli birey
-  entry_fav_count: 34
+  entry_fav_count: 36
   entry_content: |
     bu platformun kalitesi her geçen gün düşüşte olduğu için üzülüyor musunuz? her üç kelimeden birinin seks, sevişmek ve ... neyse olmasından bıkmadınız mı?<br/><br/>ben erkek olarak tiksinmeye başladım.
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -206,23 +214,23 @@ data:
     almanca güzel şarkı olmaması
   entry_id:  81640059
   entry_writer: 31 sonrasi pismanlik
-  entry_fav_count: 28
+  entry_fav_count: 32
   entry_content: |
     (bkz: <a class="b" href="/?q=ohne+dich">ohne dich</a>) <br/>(bkz: <a class="b" href="/?q=sonne">sonne</a>)<br/>(bkz: <a class="b" href="/?q=du+hast">du hast</a>)<br/>(bkz: <a class="b" href="/?q=%c4%b1ch+will">ıch will</a>)<br/><br/>dinlememiş yazar beyanı
   entry_channels: anket,müzik
 - entry_name: |
-    bedelli askerlik
-  entry_id:  81637778
-  entry_writer: career a
-  entry_fav_count: 24
+    ya evlenelim ya da ben ayrılmak istiyorum
+  entry_id:  81632924
+  entry_writer: ojeli kiz
+  entry_fav_count: 29
   entry_content: |
-    tüm işlemlerini tamamlamasının ardından e-devlet'te:<br/><br/>"yükümlü olarak kaydınız bulunmadığı için askerlik yoklaması işlemlerini gerçekleştiremezsiniz.<br/><br/>bu hizmeti kullanarak, askerlik yoklaması işlemleriyle ilgili durumunuzu takip edebilirsiniz."<br/><br/>uyarısı ile karşılaşanlar müsterih olsunlar. yıllar önce muayene yaptırdınız ve yeniden yoklama ihtiyacı duymadan işlemleri tamamladınız, o yüzden bu uyarıyı alıyorsunuz.<br/><br/>"ama benim bir arkadaş var, onunkinde böyle aşamalar falan var, yanında yeşil tik işaretleri var" diyerek moral bozmayın. o arkadaşınız yoklama işlemlerini başvurular sırasında yaptı, o yüzden bu şekilde bir ekrana sahip. <br/><br/>sıkıntı yok.
-  entry_channels: siyaset,haber,ekonomi
+    kadın şunu demeye çalışıyordur:<br/>ben seni seviyorum ve evlenmek istiyorum<br/>ama sen benimle bir gelecek düşünmüyorsan boşuna bu ilişkiyi uzatıp birbirimizi üzmeyelim<br/><br/>neden insanlar bu kadar tepki gösteriyor anlamıyorum kadının en doğal hakkı değil mi evlenmek isteyip çoluk çocuğa karışma...
+  entry_channels: ilişkiler
 - entry_name: |
     suriyelilere 32 milyar dolar harcanması
   entry_id:  81642727
   entry_writer: mekhanik karpov
-  entry_fav_count: 18
+  entry_fav_count: 26
   entry_content: |
     bir kuruşunda katkım varsa ki vardır hakkımı helal etmediğim ve sandıkta hesabını soracağım harcamadır. bu akp'nin ipini suriyelilere duyulan öfke çekecek her zaman söylüyorum bunu.
   entry_channels: siyaset,ekonomi
@@ -230,82 +238,98 @@ data:
     domates pide pizza waffle rezaleti
   entry_id:  81642854
   entry_writer: birkac entry girip cikicam
-  entry_fav_count: 17
+  entry_fav_count: 21
   entry_content: |
     çiğköftecilerin giydiği eldivenler parmak izini geçiriyor.kendim çiğköftecide çalıştım ordan biliyorum.<br/>rezalet puanım 1/10
   entry_channels: 
 - entry_name: |
-    ufak tefek cinayetler
-  entry_id:  81618492
-  entry_writer: paganiniyasasaydimalmsteendinlerdi
-  entry_fav_count: 14
-  entry_content: |
-    zamanda tam 7 ay atlama yapan dizi. gelin anlatayım..<br/><br/>kanıt 1--&gt; 3. bölüm açılış sahnesinde komiser diyor ki: "sarmaşık vakası sorgu kayıtları. 24 ekim 2017 tarihinde vuku bulan şüpheli ölüm için, görgü tanıkları ve muhtemel bilgi sahiplerinin ifadesine başvuruyoruz. olayın gerçekleşme şekli ve görgü tanıklarının ifadesine bakılırsa bir öfke cinayeti olması ihtimali yüksek. şüphelilerin sorgusu ruhsal travma nedeniyle henüz yapılamadı. tanık ifadeleriyle olayın vuku bulmasından önceki 1 yıllık süreci araştırıyoruz." <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/33p79" title="https://streamable.com/33p79">video kanıt 1</a><br/><br/>••• yani cinayet (edip'in öldürülmesi) 24 ekim 2017'de gerçekleşmiş.. ve biz ekim 2016 - ekim 2017 arasını izledik 1. sezonda.. tüm kıyafetler, mevsim geçişleri, okul dönemleri, sömestr tatili vs her şey de buna uyumluydu. <br/><br/>kanıt 2--&gt; 31. bölümde denizde bir ceset bulunuyor ve 32. bölümde (sezon finali) elif olduğu açıklanıyor. yine 32. bölümde adli tıp doktoru tarafından elif'in cesedinin takriben 15 gündür denizde olduğu söyleniyor. komiser de tam tahmin ettiğim gibi o gün gerçekten 2 cinayet işlenmiş diyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/axupu" title="https://streamable.com/axupu">video kanıt 2</a><br/><br/>••• yani biz ekim 2016 - ekim 2017 arasını izlerken sorgulamada da 15 gün geçmiş. yani yaklaşık 8 kasım 2017'de elif'in cesedi bulunuyor.<br/><br/>kanıt 3--&gt; yine 32. bölümün başlarında komiser elif'in partide olduğunu ispatlamaya çalışıyor ve tüm fotoğrafların incelenmesini istiyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/jwdy2" title="https://streamable.com/jwdy2">video kanıt 3</a><br/><br/>••• bu 8 kasım 2017'de komiserin soruşturmanın hangi aşamasında kaldığını göstermek açısından önemli..<br/><br/>kanıt 4--&gt; 33. bölümün başlarında "eylül 2018" yazıyor.. komiser elif'in partide olduğunu fotoğraflardan ispatladığını söylüyor ve soruşturmayı tekrar açıyor.. <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/bg8af" title="https://streamable.com/bg8af">video kanıt 4</a><br/><br/>••• bu sırada merve'nin dava kapandıktan sonra kızı mila'yı alıp londra'ya gittiği ve 3 ay dönmediğinden bahsediliyor. yine oya'nın erken doğum yaptığından bahsedilerek 1. sezon ile 2. sezon arasında 3 aylık süre geçtiği belirtiliyor.<br/><br/>sonuç:<br/>+cinayetin 24 ekim 2017'de işlendiği ve elif'in cesedinin 8 kasım 2017'de bulunduğu kesin. peki 8 kasım 2017'den tam 3 ay sonra nasıl eylül 2018'e geldik? gerçi 24 ekim 2017'de yaza merhaba partisi düzenleyen bir senaristten bahsediyoruz. her şey mümkün.. <br/><br/>anlamadığım şey bu kadar basit bir zaman akışını bile beceremeyen senaristler topluluğuna hala şans verilip oyuncular hatırına izlenmesi. benim gibi fantastik komedi türü olarak kabul ederek izleyin gayet eğlenceli oluyor.
-  entry_channels: tv,spoiler
-- entry_name: |
-    25 eylül 2018 erdoğan trump görüşmesi
-  entry_id:  81640633
-  entry_writer: protospher
-  entry_fav_count: 14
-  entry_content: |
-    eğer cumhurbaşkanlığı iletişim ofisi şu fotoğrafları "<a class="b" href="/?q=g%c3%b6r%c3%bc%c5%9fme">görüşme</a>" olarak halka ittirmeyi başarabilirse, bu ülkede işini layıkıyla yapan tek kurum ünvanını alabilir.
-  entry_channels: siyaset,haber
-- entry_name: |
-    aşti'de tuvaletlerin artık ücretsiz olması
-  entry_id:  81636820
-  entry_writer: caillou boyundan efe
-  entry_fav_count: 12
-  entry_content: |
-    artık terminalde 1 liraya aldığımız suyu 1.5 liraya işemeyeceğimiz için mutlu eden gelişme. tabi bu vaatler 7 ay önce verildi ama yeni uygulamaya geçilmiş. tabi bunun yerel seçimlerin yaklaşmasıyla hiç bir ilgisi yok tamamen tesadüf! bu olaylar melih'i gösterip mustafa'ya razı etmek midir? ak parti ne yapmak nereye varmak istemektedir?<br/><br/>edit:kaynak gözüm
-  entry_channels: sağlık,haber,seyahat
-- entry_name: |
     elektrik faturası
   entry_id:  81641517
   entry_writer: strobist
-  entry_fav_count: 11
+  entry_fav_count: 16
   entry_content: |
     tek başıma yaşıyorum ilk defa 150lira fatura geldi.. onun da 78lirası bana ait.. geriye kalanı da malum şahıs 400milyon dolara uçak alsın diye ödediğimiz vergiler işte.. <br/><br/>zamanında defalarca söyledik, bir kişi krallar gibi yaşasın diye ne gerekiyorsa yapan bir kitlenin arasında yanıyoruz hepimiz..
   entry_channels: ekonomi
 - entry_name: |
+    25 eylül 2018 erdoğan trump görüşmesi
+  entry_id:  81640633
+  entry_writer: protospher
+  entry_fav_count: 15
+  entry_content: |
+    eğer cumhurbaşkanlığı iletişim ofisi şu fotoğrafları "<a class="b" href="/?q=g%c3%b6r%c3%bc%c5%9fme">görüşme</a>" olarak halka ittirmeyi başarabilirse, bu ülkede işini layıkıyla yapan tek kurum ünvanını alabilir.
+  entry_channels: siyaset,haber
+- entry_name: |
+    ufak tefek cinayetler
+  entry_id:  81644371
+  entry_writer: cinayet saatinde uyuyakalmak
+  entry_fav_count: 14
+  entry_content: |
+    edip'in mezar taşında 1967- sonsuz işareti var. atatürk sanki mk.
+  entry_channels: tv,spoiler
+- entry_name: |
     ayla
   entry_id:  81642097
   entry_writer: tabudeviren
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     şu anda fox tv'de oynayan film.<br/>bu vesileyle geçen başka bir yere yazdığım entry'yi buraya alayım. filmi izlerken gaza gelmeyin:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fatih_yasli/status/1041379260739608576" title="https://twitter.com/fatih_yasli/status/1041379260739608576">1</a>) menderes'in eline kore'de ne uğruna ve ne için savaştıklarını bile bilmeden ölen 741 yoksul halk çocuğunun kanı bulaşmıştı. madem ölüm yıldönümü bu da unutulmasın.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fatih_yasli/status/1041382009740947456" title="https://twitter.com/fatih_yasli/status/1041382009740947456">2</a>) kore'de türk askerinin esas görevi, çin orduları karşısında geri çekilen abd ordusunun olabildiğince az zayiat vermesini sağlamak olmuştu. yani daha az abd askeri ölsün diye yüzlerce asker feda edildi. ödenen kan bedeli ise nato üyeliği oldu.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fatih_yasli/status/1041396096147369989" title="https://twitter.com/fatih_yasli/status/1041396096147369989">3</a>) dönemin diyanet işleri: “kore yolu allah yoludur. koreye asker sevki <br/>i'lây-ı kelimetullah [allah'ın adını yüceltmek için allah'ı inkar edenlere karşı savaşmak] emir ve mükellefiyyeti hududuna giren ve iktizasına uyan bir harekettir. kore harekatına iştirak; cihad ve gaza mahiyetinde mukaddes vazife cümlesindendir.. kore'de vefad edenler şehiddir."<br/><br/>doç. dr. <a class="b" href="/?q=fatih+ya%c5%9fl%c4%b1">fatih yaşlı</a><br/>birgün gazetesi yazarı
   entry_channels: sinema
 - entry_name: |
-    2018-2019 eğitim yılında aöf'ün kitap vermemesi
-  entry_id:  81642465
-  entry_writer: daenerys targaryen in askerleriyiz
-  entry_fav_count: 11
-  entry_content: |
-    adam "hem kitap vermiyorlar, pdf çalış diyorlar ama kitapların pdf'leri de ortada yok, nasıl ders çalışacağız, neye çalışacağız?" diye isyan ediyor, başkası gelip yazılanı okumadan "aç pdf çalış" diyor.<br/><br/>şuradaki üç satır yazanı bile okumayan adam, "iyi karar almışlar, kağıt israfı" diyor.<br/><br/>kağıt israfı mı, değil mi bilmem ama, sen israfsın lan.
-  entry_channels: siyaset,haber,eğitim
-- entry_name: |
     amazon.com.tr
   entry_id:  81627348
   entry_writer: doctor america
-  entry_fav_count: 9
+  entry_fav_count: 12
   entry_content: |
     sanırım kendilerinden bir daha alışveriş yapmayacağım.<br/><br/>bunu rezalet başlığı olarak açşam bana güzel sövülürdü ama ortada yanlış bir durum var.<br/><br/>geçen hafta bir adet şarjlı süpürge siparişi verdim. maksat evde arabada böyle tozları ufak tefek şeyleri süpürmek. kargo bana dün ulaştı ama gelen ürün aynı markanın <a class="b" href="/?q=matkab%c4%b1yd%c4%b1">matkabıydı</a>. matkap değer olarak süpürgeden çok daha fazla. üstünde benim adıma düzenlenmiş fatura var ve üstünde aldığım ürünün adı ve fiyatı yazıyor. yani faturayı ürünü yapıştırırken kimse de dememiş burada süpürge yazıyor biz matkap yolluyoruz diye. <br/><br/>bu arada aldığım süpürge amazon tarafından satılıyordu ve dün kontrol ettiğimde stokta kalmamıştı. artık başka bir satıcı tarafından satılıyordu ve fiyatı %40 civarı artmıştı.<br/><br/>şimdi ben bunları aradım, dedim böyle böyle süpürge aldım matkap geldi. biz size kargo kodu verelim oradan gönderin biz size para iadesi yapalım dediler. ben de yeni bir süpriz daha yaşamamak için siz bana süpürgeyi yollayın ben gelen kargo görevlisine bu ürünü teslim edeyim dedim. öyle bir uygulamamız yok para iadesi yapabiliriz dedi. dedim para iadesi olursa ben aynı fiyattan bu süpürgeyi alamam fiyatı yükselmiş. maalesef para iadesi yapabiliriz dedi.<br/><br/>ben de o zaman bu ürünü iade etmeyeceğimi belirttim. siz bilirsiniz ben bu ürünü kullanmak istiyorum derseniz kullanabilirsiniz dediler. dedim yarın bu yüzden aranır mıyım ona göre kullanacağım dedim. yok aranmazsınız kullanabilirsiniz dediler. <br/><br/>matkabı 2. elden faturasız olarak sattığımda o süpürgeden 4 tane alıyorum. ama ısrarla değiştirmek istememe rağmen yaptıkları yanlış yüzünden böyle davranmaları bana doğru gelmedi. gelen ürün benim aldığım üründen çok daha düşük fiyatlı da olabilirdi. ve ben iade ettiğimde o ürünü aynı fiyattan alamayabilirdim. <br/><br/>bildiğimiz amazon böyle yapmaz ne yapar ne eder benim aldığım ürünü bana gönderirdi. bana gelen ürünün fiyatından bağımsız olarak yapardı bunu. daha gidecek çok yol var.
   entry_channels: programlama,teknoloji,ekonomi
 - entry_name: |
+    uçak yolculuğu sırasında sinir eden olaylar
+  entry_id:  81643106
+  entry_writer: minesota
+  entry_fav_count: 9
+  entry_content: |
+    cam kenarında oturan ördek suratlıların perdeyi kapatıp uyuması. pislik ya ayda yılda bir bulutların üzerinden bakmak istiyorum, cam kenarları hep kapatılmış oluyor, hadi uzak mesafeden bakmakla yetiniyoruz, ördek suratlı perdeleri indirip uyuyor, çok karizmasın yeaaaa, hiç havadan inmiyorsun, bulutlar seni ilgilendirmiyor ördek suratlı, kaç kere bindiysem aynı kestanelere denk geldim, bi bitmedi ızdırabım. ördek suratlılar.
+  entry_channels: anket,havacılık,seyahat
+- entry_name: |
+    ruhsar'dan akılda kalanlar
+  entry_id:  81643642
+  entry_writer: casxxx
+  entry_fav_count: 9
+  entry_content: |
+    kocasının evden çıkarken en son saçma sapan hareketler yapıp tükürmesi<br/><br/>birde yağmur yağınca mı ne çekmiyodu sggdhdj
+  entry_channels: anket,tv
+- entry_name: |
     yerel seçimlerde ankara ve istanbul'u alacağız
   entry_id:  81643047
   entry_writer: wolter
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     biride çıkıp demiyor ki şu projem var, şu hizmeti yapacağım, şehrin şu sorunları var.<br/>sanki şehri düşman askerlerden kurtaracaklar.<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27deki+siyasetin+koku%c5%9fmu%c5%9flu%c4%9fu">türkiye'deki siyasetin kokuşmuşluğu</a>)
   entry_channels: siyaset,haber
 - entry_name: |
-    uçak yolculuğu sırasında sinir eden olaylar
-  entry_id:  81643106
-  entry_writer: minesota
+    fantastic beasts the crimes of grindelwald
+  entry_id:  81623870
+  entry_writer: blah bla
+  entry_fav_count: 8
+  entry_content: |
+    kadrosunda johnny depp'i gormemle izlemeye karar vermem bir oldu. kismetse ilk gun gitmeyi planliyorum.
+  entry_channels: sinema
+- entry_name: |
+    ekşi sözlük iş ağı
+  entry_id:  81632713
+  entry_writer: arwenff
+  entry_fav_count: 6
+  entry_content: |
+    aslında hobi olarak başladığım işimden para kazanmak istiyorum.<br/>reçine den takılar yapıyorum ve yeni açtığım instagram hesabımda satmaya çalışıyorum.<br/>bu tasarımlardan isterseniz yada isteyen bi tanıdığınıza yönlendirirseniz çok sevinirim.<br/>şimdiden teşekkürler<br/>instagram: @filizintilsimlari
+  entry_channels: ekşi-sözlük,ekonomi
+- entry_name: |
+    yahudilerin bu kadar başarılı olmasının sebebi
+  entry_id:  81644935
+  entry_writer: mutlu tuccar
   entry_fav_count: 5
   entry_content: |
-    cam kenarında oturan ördek suratlıların perdeyi kapatıp uyuması. pislik ya ayda yılda bir bulutların üzerinden bakmak istiyorum, cam kenarları hep kapatılmış oluyor, hadi uzak mesafeden bakmakla yetiniyoruz, ördek suratlı perdeleri indirip uyuyor, çok karizmasın yeaaaa, hiç havadan inmiyorsun, bulutlar seni ilgilendirmiyor ördek suratlı, kaç kere bindiysem aynı kestanelere denk geldim, bi bitmedi ızdırabım. ördek suratlılar.
-  entry_channels: anket,havacılık,seyahat
+    hiç evirip çevirip farklı şeyler aramaya gerek yok, dünya tarihinin en sıkı ve uzun süren <a class="b" href="/?q=nepotizm">nepotizm</a> uygulamasıdır.
+  entry_channels: spor,siyaset,anket,ilişkiler,ekşi-sözlük,sanat,tarih,sinema,oyun,otomotiv,moda,magazin,eğitim,ekonomi,spoiler,seyahat
 - entry_name: |
     tanımadığı numara arayınca cevaplamayan insan
   entry_id:  81640080
@@ -315,37 +339,21 @@ data:
     canım istemiyorsa tanıdıklarımı da açmıyorum ben. <br/>cebimde bir telefon taşıyor olmam, bana istediğin her dakika ulaşabilecegin anlamına gelmez.
   entry_channels: anket,ilişkiler,teknoloji
 - entry_name: |
-    süpermenin sürekli ütülü pelerinle gezmesi
-  entry_id:  81644275
-  entry_writer: gelismekteolanyazar
-  entry_fav_count: 5
-  entry_content: |
-    bir türlü anlayamadığım olaydır.<br/>şimdi sen bekar adamsın, tamam gazeteci kırığın var falan ama gelip o kız ütü falan yapmaz. dışarda yemek ısmarlatıp annesinden kalan yün donuyla yuvasına döner. <br/>belki kuru temizlemeye verirsin ama o zaman da takke düşer kel görünür, foyan açığa çıkar. yok kendin yapıyorsan amaç ne hacı abi. elin gezegeninden bunun için mi göçtün geldin nyc yollarına. <br/>iki dakika delikanlı ol da tayttan kıçın belli olmasın diye pelerinle falan uğraşacağına düzgün bir pantolon giyin. yazıktır günahtır.
-  entry_channels: 
-- entry_name: |
-    geceye bir neşet ertaş türküsü bırak
-  entry_id:  81642712
-  entry_writer: atmosferikcandir
-  entry_fav_count: 5
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/880arNplBnE" title="https://youtu.be/880arNplBnE">yolcu</a> <br/>bu turkusu benim icin cok ozeldir..<br/>verdigi mesaj hic bir felsefe kitabinda yoktur..<br/>zaman ne cabuk geciyor be ustad.. huzur icinde yat.. umarim diger tarafta babana kavusmussundur..
-  entry_channels: 
-- entry_name: |
-    ruhsar'dan akılda kalanlar
-  entry_id:  81643642
-  entry_writer: casxxx
-  entry_fav_count: 4
-  entry_content: |
-    kocasının evden çıkarken en son saçma sapan hareketler yapıp tükürmesi<br/><br/>birde yağmur yağınca mı ne çekmiyodu sggdhdj
-  entry_channels: anket,tv
-- entry_name: |
-    hayattan soğutan şeyler
-  entry_id:  81619343
-  entry_writer: accikmalsinizamaolsun
+    neşet ertaş'ı ve zeki müren'i sevmeyen insan
+  entry_id:  81644110
+  entry_writer: tekkalan
   entry_fav_count: 3
   entry_content: |
-    herkesin unutmak istediği bir anı , kurtulmak istediği bir yük , geride bırakmak istedikleri geçmiş olmak.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    şahsım adına sevdiğim iki insanı sevmeme özgürlüğünü kullanan insanlardır.<br/><br/>kardeşim herkes senin sevdiğini, popüler kültürün sunduklarına bağlanmayı ya da eskiye özlem duymayı ve diğer duyguları aynı seviyede tatmayabilir. herkes tek tip değil.
+  entry_channels: anket,müzik
+- entry_name: |
+    hiçbir evli erkeğin evliliği tavsiye etmemesi
+  entry_id:  81634684
+  entry_writer: bay marx
+  entry_fav_count: 3
+  entry_content: |
+    iş yaşamında evliliği tavsiye etmeyenine tesadüf etmedim. hatta bir çeşit statü belirtisi gibi de öne sürülen bir hadise bu. eğer evli değilsen kimi sohbetlerin dışında kalırsın ve evli çiftler de seni evlerine bile davet etmezler çoğu zaman. en azından taşrada durum böyle.<br/><br/>bay marx taşradan (ankara'dan) bildirdi.
+  entry_channels: ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  81630327
@@ -353,6 +361,14 @@ data:
   entry_fav_count: 3
   entry_content: |
     bazen ofiste kulaklıkla son ses mezdeke dinliyorum. ve oturduğum yerden kalçamı bir sağa bir sola oynatmak suretiyle şarkıya eşlik ediyorum. <br/><br/>biri görecek diye ödüm kopmasına rağmen o ya el yelil dedikçe kendimi durduramıyorum. dışardan işime acayip konsantre gözüküyorum ama çılgın bediş misali beynim ibo show'dan hallice bir durumda oluyor. biri beni bu illetten kurtarsın.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    yazarların şu an duymak istediği söz
+  entry_id:  81640887
+  entry_writer: ben seni elflerin olsun diye mi sevdim
+  entry_fav_count: 2
+  entry_content: |
+    baykuşunuzu 31 temmuz’dan önce göndermenizi dileriz. <br/>(bkz: <a class="b" href="/?q=minerva+mcgonagall">minerva mcgonagall</a>)
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     yazarların favori led zeppelin şarkısı
@@ -363,37 +379,37 @@ data:
     (bkz: <a class="b" href="/?q=since+i%e2%80%99ve+been+loving+you">since i’ve been loving you</a>)<br/><br/>dunyanin gelmis gecmis en iyi dogaclama sarkisidir.
   entry_channels: anket,müzik
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  81618362
-  entry_writer: ikile
-  entry_fav_count: 2
-  entry_content: |
-    evet, ağlamaklı oluyorum, demdir bu. <br/>hani, kurşun sıksan geçmez geceden, anlatamam, nasıl ıssız, nasıl karanlık... <br/>ve zehir - zıkkım cıgaram. <br/>gene bir cehennem var yastığımda, <br/>gel artık...<br/><br/>ahmed arif
-  entry_channels: edebiyat
-- entry_name: |
-    neşet ertaş'ı ve zeki müren'i sevmeyen insan
-  entry_id:  81644110
-  entry_writer: tekkalan
-  entry_fav_count: 1
-  entry_content: |
-    şahsım adına sevdiğim iki insanı sevmeme özgürlüğünü kullanan insanlardır.<br/><br/>kardeşim herkes senin sevdiğini, popüler kültürün sunduklarına bağlanmayı ya da eskiye özlem duymayı ve diğer duyguları aynı seviyede tatmayabilir. herkes tek tip değil.
-  entry_channels: anket,müzik
-- entry_name: |
     melania trump'ın erdoğan'a bakışı
   entry_id:  81644270
   entry_writer: king sized ego
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     kadın, kocası dışında herkese gülümsüyor. ne kadar geriyorsa kadını artık!
   entry_channels: siyaset,haber,magazin
 - entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  81628268
-  entry_writer: darkchildcim
+    nasılsın sorusuna verilecek cevaplar
+  entry_id:  81644923
+  entry_writer: stajyermafya
   entry_fav_count: 1
   entry_content: |
-    son 2 gün içinde bir çaylakla aramda geçen yazışma: (konunun nereye gideceği belli gibiydi ilk sorudan :d)<br/><br/>ç: merhaba nasilsin?benimle arkadas olurmusun?<br/>b: dertleşecek arkadas mı lazım nedir olay?<br/>ç: evet.cinsiyet ne? // bu kadar da net<br/>b: kız ve gay değilim, geriye kalan<br/>ç: tamam anladım.bende kiz ariyordum // arayışında başarılar diliyoruz :)
-  entry_channels: anket,ekşi-sözlük
+    kötünün iyisi.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    güne mutlu başlatan sebep
+  entry_id:  81646013
+  entry_writer: başlık taşıyan
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=g%c3%bcne+iyi+ba%c5%9flatan+%c5%9feyler">güne iyi başlatan şeyler</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81634584
+  entry_writer: bunker tepesi dusleri
+  entry_fav_count: 0
+    entry_content: |
+    sözlükte, herkesin kendi alanındaki soru ve sorunlara cevap verilabilmesi amacıyla oluşturulan bir veritabanı vardı, lakin adını bulamadım. o yüzden buraya yazıyorum. ( bilen varsa hatırlatabilir )<br/><br/>arkadaşlar; elementler ve değerlerinin hesaplanmasıyla ilgili yardıma ihtiyacım var. kimya ile arası iyi olan birisi ulaşırsa sevinirim.<br/><br/>( entry işlevini yerine getirdikten sonra silinecektir )<br/><br/>hhsjs; eksilemek yerine yardımcı olaydınız daha iyiydi sanki
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  81634584
