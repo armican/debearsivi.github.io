@@ -6,7 +6,7 @@ data:
     cinsellik hakkında konuşabilen kadın
   entry_id:  81653333
   entry_writer: yarim hayat
-  entry_fav_count: 435
+  entry_fav_count: 438
   entry_content: |
     verme ihtimali yüksek olan, anne olmayı hak etmeyen,bakire olmayan kadını savunan kadındır diye düşünen insandan bozma yaratıkları ortaya çıkarmış başlıktır. insanlar sana mı soracak lan neler konuşacağını? sen ahlak bekçisi misin be orospu çocuğu? kim kime veriyorsa verir, kim ne isterse konuşur, kim isterse cinsel ilişkiye girer. sen otorite misin? kanaat önderi misin? ahlak denilen şeyin temellerini sen mi attın amına kodumun çocuğu? zihniyetini siktimin çocukları siktirin gidin arabistan'a, azalarak bitin yok olun artık bu ülkede.
   entry_channels: ilişkiler
@@ -14,7 +14,7 @@ data:
     venezuela'da açlıktan inek parçalayan halk
   entry_id:  81667659
   entry_writer: roriro
-  entry_fav_count: 417
+  entry_fav_count: 421
   entry_content: |
     venezuela haberi izliyorken kaç kişinin aklından geleceğimiz bu diye geçiyor.
   entry_channels: siyaset,tarih,haber,yeme-içme,ekonomi
@@ -22,7 +22,7 @@ data:
     doğalgazı alamazsak halkımı neyle ısıtacağım
   entry_id:  81663126
   entry_writer: garipbasci
-  entry_fav_count: 341
+  entry_fav_count: 357
   entry_content: |
     bence burdaki "neyle" soru zamiri değil. enstruman.
   entry_channels: siyaset,haber,ekonomi
@@ -30,7 +30,7 @@ data:
     ali ağaoğlu'nun iflas etmesi
   entry_id:  81673667
   entry_writer: loco turco
-  entry_fav_count: 306
+  entry_fav_count: 335
   entry_content: |
     şirket ile şahıs arasındaki farkı bilmeyenlerin beyanı. hissedarı olduğu şirket iflas eder, adam gene şahsi servetini korur. inşaat şirketi çok zarar ediyorsa iflasını ister, kendi kişisel servetinden zararı karşılamaz. anlayacağınız iflas, şirket sahibi zenginler için nimettir. şahıs olsa ölene kadar alacaklar peşini bırakmaz, öldükten sonra da borç çocuklarına kalır. onlar da mirası reddedeceğiz diye mahkemede sürünür.
   entry_channels: haber,ekonomi
@@ -38,7 +38,7 @@ data:
     ülkemize gelse konserine 1000tl verilecek sanatçı
   entry_id:  81659459
   entry_writer: spiritus sanctus
-  entry_fav_count: 286
+  entry_fav_count: 288
   entry_content: |
     1000 tl dediği de 150 dolar falan.
   entry_channels: anket,sanat,müzik,ekonomi
@@ -46,7 +46,7 @@ data:
     fatih tezcan'ın melania trump tweet'i
   entry_id:  81672406
   entry_writer: arcticfur ve elem
-  entry_fav_count: 253
+  entry_fav_count: 266
   entry_content: |
     <a class="b" href="/?q=okumay%c4%b1n">okumayın</a>. <a class="b" href="/?q=ba%c4%9flant%c4%b1ya+t%c4%b1klamay%c4%b1n">bağlantıya tıklamayın</a>. <a class="b" href="/?q=payla%c5%9fmay%c4%b1n">paylaşmayın</a>. <a class="b" href="/?q=yorum+yazmay%c4%b1n">yorum yazmayın</a>. <a class="b" href="/?q=ilgilenmeyin">ilgilenmeyin</a>.<br/><br/><a class="b" href="/?q=fatih+tezcan">fatih tezcan</a> gibi şahısları gündem yapmayın.
   entry_channels: siyaset,anket
@@ -54,7 +54,7 @@ data:
     domatesin kilosu 9-10 liraya yükselecek
   entry_id:  81660147
   entry_writer: sultan ucuncu berkecan
-  entry_fav_count: 253
+  entry_fav_count: 254
   entry_content: |
     fiyatlardaki yükseliş trendi hiç bozulmuyor. işte istikrar budur.
   entry_channels: siyaset,haber,yeme-içme,ekonomi
@@ -62,7 +62,7 @@ data:
     marcelo'nun seyreden hastaya şifa verecek pası
   entry_id:  81662951
   entry_writer: exsequor
-  entry_fav_count: 222
+  entry_fav_count: 231
   entry_content: |
     marcelo'nun ölmüşlerinin canına değmiştir.
   entry_channels: spor
@@ -70,7 +70,7 @@ data:
     metroda bacaklarını açanlara çamaşır suyu dökmek
   entry_id:  81664132
   entry_writer: trablon
-  entry_fav_count: 214
+  entry_fav_count: 220
   entry_content: |
     bir erkek olarak ben kendim rahatsız oluyorum başka bir erkeğin bacaklarını bana değdirmesinden.kadınlar heralde dikenli pantolon giyse yeridir.içimden bir ulan bu adam gizli gay mi ? ondan mı bana sürtünüyor diyorum.yalnız acayip fazlalar bunu erkeğe yapan erkekler.kadınlara eminim daha fazladır.<br/>adam gibi oturma sınırınızda otursanız ne olur ha ?
   entry_channels: haber,seyahat
@@ -78,7 +78,7 @@ data:
     küçükken istenen ama sahip olunamayan şeyler
   entry_id:  81659970
   entry_writer: fixqoydu
-  entry_fav_count: 136
+  entry_fav_count: 140
   entry_content: |
     bunu yazmam gerek.<br/><br/>11 yaşındayım. durumumuz çok kötü. aydan aya babam zorla para yetiştiriyor. maddi olarak çökmüşüz.<br/><br/>ben ilkokula gidiyorum. harçlık filan yok. o dönem okulda mahallede herkeste bir sanal bebek çılgınlığı başlamıştı. herkesin bebeği vardı ve çocuğu gibi bakıyordu. 11 yaşındaydım ve o yaşıma kadar hiçbir şeyi o kadar istememiştim. o kadar istiyordum ki... her gün annemi sıkıştırıp sanal bebek istiyordum. babamı gördüğüm her an ilk söylediğim şey sanal bebekti. babam artık dayanamadı. "önümüzdeki ilk maaşımla sana sanal bebek alırız" dedi. dünyalar benim oldu. artık sanal bebeğim olacaktı. maaşa alt tarafı 10 15 gün kalmıştı.<br/><br/>babam söz verdikten 2 gün sonra grip oldu. aşırı öksürüyordu. babam çok sigara içtiği için bu öksürüklere alışkındık. ama kendisi bir farklılık sezmişti. grip olduğunun akşamına bana "ben ölürsem ne yaparsın?" diye sordu. çocuk kafamla tek düşündüğüm sanal bebekti. "sen ölürsen bana kim sanal bebek alacak?" dedim. cevap vermedi. muhtemelen kelimeler boğazında düğümlendiği için bir şey diyemedi. ama o zaman anlamamıştım.<br/><br/>ertesi gün babam hastaneye gitmek istedi. hayatında hiç doktora gitmemiş adam doktora gitmek istedi. sonra annemle babam hızla giyinip doktora gitti.<br/><br/>akşam annem ağlayarak tek başına döndü.
   entry_channels: anket
@@ -86,7 +86,7 @@ data:
     cips markalarının s ile bitmesi
   entry_id:  81672736
   entry_writer: tragosimetri
-  entry_fav_count: 126
+  entry_fav_count: 132
   entry_content: |
     (bkz: <a class="b" href="/?q=cipso">cipso</a>)
   entry_channels: anket,yeme-içme
@@ -102,7 +102,7 @@ data:
     ankara soğuğu
   entry_id:  81656159
   entry_writer: destroyer of the worlds
-  entry_fav_count: 92
+  entry_fav_count: 94
   entry_content: |
     buna ankara soğuğu diyen şaka yapıyor olmalı. <br/><br/>güzel bir sonbahar günü bu. <br/><br/>sivrisineklerin teker teker gebermeye başladığı güzel bir sonbahar günü... <br/><br/>ahahahahah...
   entry_channels: sağlık,seyahat
@@ -110,10 +110,18 @@ data:
     26 eylül 2018 amazon.com.tr rezaleti
   entry_id:  81669685
   entry_writer: farakan
-  entry_fav_count: 92
+  entry_fav_count: 93
   entry_content: |
     özet: arakadaş 500 lira ucuza diye ve ihtiyacı olduğuçün iphone 8 pilüs almak istemiş. 3d güvenliğiyle alışveriş olduğuçün ilk 2 deneme de başarısız 3. deneme de muallakta kalmış ama telefonu olmadığından kontrol şansı olmamış (emanet telefon kullanıyor bu arada). <br/>sonra gel zaman git zaman önce onay maili sonra ödeme gerçekleşmedi diye iptal olduğunu anlıyor. <br/>sonra fiyatı 500 lira kadar zamlanıyor. arkadaş da rezalet diyor. bana göre bir bok yok ortada. ödemeyi bankan yapmamış asıl rezalet bankanda. ne yapsın müşteri temsilcisi cebinden mi ödesin? türkiyede senin işin ciddi olabilir ama milyonlar suistimal eder bu olayı. deseler ki müşteri memnuniyeti efendim size 500 lira indirim yapıyoruz sikerler siteyi. o yüzden rezaletin müsebbibi ödeme yapmayan bankadır.
   entry_channels: 
+- entry_name: |
+    tofaş'ın üretimi 9 gün durdurması
+  entry_id:  81674844
+  entry_writer: lucky5
+  entry_fav_count: 92
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ehonomi+%c3%a7oh+eyi">ehonomi çoh eyi</a>)
+  entry_channels: haber,otomotiv,ekonomi
 - entry_name: |
     28 eylül 2018 ege kıyılarında beklenen kasırga
   entry_id:  81668405
@@ -123,18 +131,18 @@ data:
     şimdiden türkçeyi savurup götürmüştür.<br/><br/>(bkz: <a class="b" href="/?q=tdk">tdk</a>)<br/><br/>edit:başlığın ilk hali '' ege kıyılarında beklenen hurricane'' gibi birşeydi. daha sonra bu başlık ile birleştirilmiş.
   entry_channels: haber,havacılık
 - entry_name: |
-    tofaş'ın üretimi 9 gün durdurması
-  entry_id:  81674844
-  entry_writer: lucky5
-  entry_fav_count: 72
+    huzurlu bir iş hayatının sırrı
+  entry_id:  81657969
+  entry_writer: deadastronautinspace
+  entry_fav_count: 75
   entry_content: |
-    (bkz: <a class="b" href="/?q=ehonomi+%c3%a7oh+eyi">ehonomi çoh eyi</a>)
-  entry_channels: haber,otomotiv,ekonomi
+    ilkeli olun. <br/>sağlam durun.<br/>arkadaşlarınızı satmayın.<br/><br/>insanlarla olan ilişkilerinizde mesafeli olun.<br/>iş yerinde aşk meşk işlerine girmeyin.<br/><br/>profesyonel olun.<br/><br/>bireysel algılamayın.<br/><br/>temiz olun.<br/>kaliteli giyinin.<br/><br/>söz uçar, yazı kalır.<br/>sadece cebinizdeki paraya, kağıttaki imzaya güvenin.<br/><br/>acırsanız acınacak duruma düşersiniz.
+  entry_channels: anket,sağlık,ekonomi
 - entry_name: |
     euro 2024
   entry_id:  81662850
   entry_writer: fenahuyluspazo
-  entry_fav_count: 60
+  entry_fav_count: 63
   entry_content: |
     türkiye'nin takriben 1200 sayfalık dosyasını, uefa'nın bid evaluation report'unu ve almanların başvuru kitapçığını üstünkörü, hızlı hızlı okudum. <br/><br/>türkiye'nin dosyası almanların açık ara önünde. türkiye 2.5 milyon biletin satımı ve gerekirse yeniden satımı için federasyon bazında garanti vermiş. türkiye'deki tüm bakanlıklar, onlarca sivil toplum kuruluşu, aday şehir valilikleriyle beraber belediyeler, yazılı niyet mektubu ve taahhütnâme vermişler. devlet; otoyollar, hızlı tren hatları, sağlık, aday şehir altyapıları (metro vs) ve 3 stadyumun yenilenmesi için 70 milyar euro civarında yatırım yapılacağını taahhüt ediyor. uefa ile koordinasyon için federasyon büyük bir tesis yaptıracak, tesislerini büyütecek. türkiye'deki hemen hemen tüm yeni stadlar, bir turnuva takımının kamp merkezi yapılacak. diyarbakır, adana, kayseri, vodafone arena, malatya, saraçoğlu, tff tesisleri ve daha niceleri... türkiye'ye gelen misafirler biletleriyle birlikte şehir içi ücretsiz taşımacılıktan yararlanacak. cumhurbaşkanlığı ve federasyon işbirliği ile turnuva güvenliği için tam garanti sağlanacak ve insan haklarını korumak için bir gözetim kurulu kurulacak (ahsgfngzsv). türkiye aynı zamanda pek çok geliri uefa'ya bırakıyor; eğer türk dosyası seçilirse vergi muafiyetleri ve stadlar için para alınmamasından dolayı uefa bugüne kadarki en kârlı organizasyonunu düzenleyecek. fikrî mülkiyet hakları tamamen uefa'ya ait olacak.<br/><br/>olimpiyat stadı 92 bin kişilik olacak şekilde yeniden yapılacak. ankara'ya 65 bin kişilik yeni bir stadyum inşa edilirken, antalya stadı da yenilenecek; projeleri hazır. <br/><br/>dosyada her şey muazzam, ceferin muhtemelen geceleri türk dosyasına sarılıp uyuyordur. ama uefa raporunda türk tarafı ile ilgili bazı çekinceler koymuş:<br/><br/>- türkiye'nin insan hakları konusunda almanya'nın aksine bir aksiyon planı yok (boş yapmayın aq demek istiyor).<br/><br/>- olimpiyat stadyumunda 2020'de şampiyonlar ligi finali varken 2021'de temeli atılan bir stadın 2024 yazına yetişmesi kolay görünmüyor (beyninizi skim deme niyetinde).<br/><br/>- türkiye'nin dosyasında var olan 11 tren hattı, konya metrosu vesaire gibi pek çok şehir içi raylı sistem ve 1000 kilometre otoyol halihazırda yok, üstelik yaşanan ekonomik kriz bu yatırımları riske atabilir (o 70 milyar euro yatırımı bok yaparsınız demek istiyor).<br/><br/>- almanların tüm stadları hazır, türkiye'nin 2 stadı 0'dan yapılacak. <br/><br/>- almanya'nın otel kapasitesi türkiye'nin üç katı (71 bin - 230 küsür bin mi ne).<br/><br/>bonus: euro 2024 kurban bayramına denk geliyor; antep'te fransız fıstıkların alnına kurban kanı sürmek için vatandaşlarımız onlayn olacak ahsghs, hayali bile muhteşem ya.<br/><br/>akıl almanya, para türkiye diyor. uefa parayı seçerdi ama kriz sebebiyle risk almaz, almanya kazanır. zaten bizimkiler sussun diye şampiyonlar ligi finalini, süper kupayı filan verdiler. bizimkiler görmemiş olduğu için aynı anda olimpiyatlar, süper kupa, dünya kupası ve uefa finali için başvuru yapıyor, sonra da niye alamadık diye üzülüyor sgsgg.
   entry_channels: spor
@@ -142,7 +150,7 @@ data:
     2018 ekonomik krizi
   entry_id:  81653102
   entry_writer: bonecrusher
-  entry_fav_count: 55
+  entry_fav_count: 58
   entry_content: |
     2001 krizi sonrası bir yazar kasa atılmıştı, hatırlarsınız belki. hatırlarsınız hatırlarsınız, o yıl daha doğmamış bile olsanız da aklınıza zorla ve kasten kazıtılan bir olaydır çünkü.<br/>yıllarca hürriyet'ten tutun sabah'a kadar her gazete bize o olayı hatırlattı, o olayı anlattı.<br/>ama onun çok daha ağırı olaylar yaşıyoruz, insanlar meclis önünde kendilerini yakıyor, fön makinesine muhtaç kaldığı için kendini öldüren anne, çocuğuna pantolon alamadığı için kendini öldüren baba gibi çok örnek duyuyoruz.<br/>bunları siz akp'liler görmezden gelmeye çalışıyorsunuz. zorla "fetöcüydü, bilmemneydi, öyle değildi" diye kıvırıyorsunuz.<br/>sonra gelip "kriz olsa yazar kasa atılırdı" diye aptal aptal cümleler kuruyorsunuz.<br/>siz var ya, siz cehennem zebanilerisiniz, şerefsiz haysiyetsiz onursuz varlıklarsınız.<br/>sırf tuttuğunuz futbol takımına zarar gelmesin de şampiyonluk garanti olsun diye kıçınıza dinamit lokumu koymaktan bile çekinmiyorsunuz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Oq61sqhDlzQ">https://www.youtube.com/watch?v=oq61sqhdlzq</a>
   entry_channels: siyaset,tarih,ekonomi
@@ -150,31 +158,39 @@ data:
     kadın kapanmazsa mikropları üzerine çeker
   entry_id:  81656169
   entry_writer: saatin arkasindaki civi
-  entry_fav_count: 49
+  entry_fav_count: 53
   entry_content: |
     "45 erkek çocuğunun ne suçu vardı?" diye sorarlar adama. onlar ne yaptı da mikrop çekti ola?..<br/><br/>sabah sabah zıplatmayın adamın sinirini amk.
   entry_channels: ilişkiler
 - entry_name: |
-    rte'nin uçağının deposunun 280 bin dolara dolması
-  entry_id:  81669814
-  entry_writer: insan donuna girmis telli turna
-  entry_fav_count: 45
-  entry_content: |
-    "hey maşallah" dedirten. dünyaya zenginliğin, liderliğin, gücün ve kudretin <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/deposu-kaca-doluyor-26091813_m.html" title="https://odatv.com/deposu-kaca-doluyor-26091813_m.html">gösterimi</a>. <br/><br/>tabi güç kolay olmuyor, bunun için halkımız birazcık sefalet çekecek ama olsun, 1378 yılında londra'da, paris'te de halk sefalet çekiyordu.<br/><br/>“bizde kriz miriz yok deyip, insanların evladına kıyafet almakta zorlandığı, kışı nasıl geçirebileceğim diye düşündüğü bir ortamda, katar’dan milyonlarca dolar değerindeki uçağı nasıl alabildiniz? hediye olduğu ifade edilen boeing 747’nin deposu, tam tamına 225.486 litre (59.567 galon) yakıt almaktadır ve deponun dolması için her seferinde ödenecek para, 280 bin abd doları’dır. o depo, türkiye’de vatandaşın ödediği vergiyle doldurulacak… biz iyi parti olarak vatandaşın yanında yer alıyor ve helal etmiyoruz. yerel seçimlerde oy kullanırken herkesin hatırında bulunsun diye sormak istiyoruz; türkiye’de kaça dolacak o uçağın deposu?"
-  entry_channels: siyaset,haber,ekonomi,havacılık
-- entry_name: |
     6.95 tl'ye mcdonald's'dan menü alan dh ölücüsü
-  entry_id:  81671642
-  entry_writer: faze
-  entry_fav_count: 41
+  entry_id:  81673364
+  entry_writer: pimp of pleasure
+  entry_fav_count: 38
   entry_content: |
-    bu ekonomik krizde 6.95 tl'ye menü + kahve + külahta dondurma alan ölücüdür. ekonomi bakanı yap ülke kalkınsın. <br/><br/>evet sayın dh sakinleri uzun zaman oldu ölücülük başlığı açmayalı. şimdi dikkatlice dinleyin android veya ios telefonunuz varsa store'dan mc app indiriyoruz. app te fırsatlar bölümünde <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.donanimhaber.com/store/e4/12/c3/e412c39f2d8e8a7a57af7a8b6e80b8e3.png" title="https://mobile.donanimhaber.com/store/e4/12/c3/e412c39f2d8e8a7a57af7a8b6e80b8e3.png">6.95</a> e mc çıtır tavuk menu var. bi tane ondan patlatiyoruz. fişi atmiyoruz menüyü yedikten sonra fişi gösterip menü sonrası <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.donanimhaber.com/store/d4/f8/74/d4f8742d828ed88a3e0e9f068df5d81a.png" title="https://mobile.donanimhaber.com/store/d4/f8/74/d4f8742d828ed88a3e0e9f068df5d81a.png">kahve ikramını</a> cakiyoruz mc in kahvesini bilen bilir güzeldir enfestir. fiş hala cepte atmak yok tabi kahveyi içterken bi yandan da uygulamada ziyaret puanlama var ama sayfada ona tıklıyoruz fiş üzerindeki kodu girip alayına 4 5 yıldız veriyoruz 1 dakikalık anket sonrası uygulama bize <a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.donanimhaber.com/store/c4/f4/2d/c4f42d19ece260ec94016b1e8c8c10ec.png" title="https://mobile.donanimhaber.com/store/c4/f4/2d/c4f42d19ece260ec94016b1e8c8c10ec.png">dondurma</a> veriyor tekrar kasaya gidip kahve sonrası dondurmayla cila yapabilirsiniz. dondurma 1.5 tl kahve 3 tl desen menü 3.45 e geliyor. afiyet olsun. anket sonrası fişi atmayın sallanan masa sandalye altına destek olarak koyar bataryası şişmiş telefonun bataryasını sıkıştırmada kullanabilirsiniz. afiyet olsun. <br/><br/>edit: fiyatların değiştiğinden bahsetmiş bazı arkadaslarimiz. arkadaşlar uygulamanın olayı burda zaten menunun normal fiyatı örnek veriyorum 10 tl dir uygulamayı gösterince fiyatı düşürüyorlar başka bir menü giriyorlar kasadan hop oluyo size 6.95 ben en son eylül'ün 15 inde antalya teracity avm'de yedim 6.95 vermistim. eğer fiyatlarda güncelleme yapıldıysa bilmiyorum çünkü fastfood aşığı birisi değilim. size kasada bu menü 10tl yok 12 tl derlerse itiraz edin cunku bu menüyü kasaya girmeyi bilmeyen elemanlar çıkabiliyor . bilginize.
+    "en son fişi yine atmayıp onunla da götümüzü siliyoruz" diye bitirecek sandığım ölücü.
   entry_channels: anket,yeme-içme,ekonomi
+- entry_name: |
+    35 yaş üstü kadınların hemen pörsümesi
+  entry_id:  81663227
+  entry_writer: frenckis
+  entry_fav_count: 31
+  entry_content: |
+    umut “fucker”ın ekmeği
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    venezuela'dan türkiye'ye göç dalgası
+  entry_id:  81672651
+  entry_writer: pimp of pleasure
+  entry_fav_count: 28
+  entry_content: |
+    buraya kadar gelecek parayla venezuela'da dünyalığını yaparlar amk..
+  entry_channels: siyaset,haber,magazin
 - entry_name: |
     yazarların şu an duymak istediği söz
   entry_id:  81649702
   entry_writer: petsisenindibindekicikinti
-  entry_fav_count: 24
+  entry_fav_count: 25
   entry_content: |
     sonuçlarınızı tekrar inceledik. turp gibi sağlamsınız
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -182,18 +198,10 @@ data:
     mezuniyet + iş bulma + evlilik + çocuk
   entry_id:  81664398
   entry_writer: lordoz
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     3 sezondan oluşan yaşam döngüsünün eğitim öğretim hayatı (1. sezon) sonrasındaki 2. sezonudur.<br/><br/>3. sezon coming soon:<br/>çocuğun mezuniyeti + çocuğun iş bulması + çocuğun evlenmesi + torun
   entry_channels: anket,ilişkiler,eğitim
-- entry_name: |
-    istanbul'da serçe kalmaması
-  entry_id:  81671587
-  entry_writer: gubur123
-  entry_fav_count: 23
-  entry_content: |
-    serçe sayısında ciddi miktarda azalmanın sebebinin kargaların olması.<br/><br/>şöyle oluyor: karga nüfusu oldukça fazlalaştı. kargalar diğer kuşların yuvalarını talan etmeyi ve yavruları yemeyi çok severler. şehirlerde kargaların pek doğal düşmanı bulunmamaktadır yani besin zincirinin üst noktasına erişmişlerdir. insanoğlunun başına bir şey gelse hatta yok olsa, kargalar bu hızla evrimleşirlerse dünyayı ele geçirebilirler. eskiden siyah ve beyaz olan kargalar daha fazla idi ama onlarda günümüzde azaldılar çünkü diğer türe göre sosyal sayılmazlar pek.<br/>kediler de serçeler için başka bir tehtid olmaktadır. serçelerin işi zor...<br/>fazla kedi sevmek, fazla köpek sevmek ve onları yaşatmaya çalışmak, bilemiyorum. dengeler bozuluyor işte...<br/>keşke serçe besleyen insanlar da olsa.<br/>ne olacak bu serçelerin hali?<br/>ne olacak sığırcık kuşları?<br/>kırlangıçlar mesela onları düşünün. hep ulaşılmayacak yerlere yaparlar yuvalarını. kediler direk elenir ama ya serçeler? ya güvercinler?
-  entry_channels: anket
 - entry_name: |
     yerli işlemciye isim önerileri
   entry_id:  81649926
@@ -203,26 +211,18 @@ data:
     olursa eğer böyle bişey ismi tcpu olsun. çok hoş.
   entry_channels: anket,edebiyat,teknoloji
 - entry_name: |
-    venezuela'dan türkiye'ye göç dalgası
-  entry_id:  81672651
-  entry_writer: pimp of pleasure
+    izmir'in yunanistan'a kiralanması
+  entry_id:  81677069
+  entry_writer: cay yok bok icin
   entry_fav_count: 22
   entry_content: |
-    buraya kadar gelecek parayla venezuela'da dünyalığını yaparlar amk..
-  entry_channels: siyaset,haber,magazin
-- entry_name: |
-    bekareti önemsemeyen erkek
-  entry_id:  81663638
-  entry_writer: hicbirseyiolmayanadam
-  entry_fav_count: 21
-  entry_content: |
-    (bkz: <a class="b" href="/entry/81661288">#81661288</a>)<br/>iş bu entryde gen havuzu bilmem ne diye zırvalayan kadın kişisi kendisini dişi meyve sineği zannetmektedir, zira bu " oluşan yavrunun dişinin daha önceki partnerlerinden de genetik izler taşıması olayı" insanlara değil meyve sineklerine özgü bir durumdur. hatta ve hatta sineklerde görülen o durum dahi yumurtaların beslenmesi ile alakalı bir durumdur. yani sindirmeniz, kabullenmeniz vesaire gereken bir durum yok bu açıdan sevgili sözlük beyleri, korkmayın, olur da bakire olmayan bir kadınla evlenip ürerseniz o çocuk biyolojik olarak yalnızca ikinizin olacak. <br/>tanım: erkektir.<br/>edit: sineklerin olayını merak edenler için şunu şuraya bırakıyorum, sevgiler:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ele.12373/full" title="http://onlinelibrary.wiley.com/doi/10.1111/ele.12373/full">http://onlinelibrary.wiley.com/…1111/ele.12373/full</a>
-  entry_channels: anket,ilişkiler
+    sen yunanistan'ı 500 yıl yönet torunun gelsin senin bir zamanlar vilayetin olan ülkeye kendi vilayetini kiralamayı düşünsün
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     birlikte içki içmek istenen roman karakterleri
   entry_id:  81655138
   entry_writer: ic mania
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     <a class="b" href="/?q=ged">ged</a> ya da diger adiyla <a class="b" href="/?q=cevik+atmaca">cevik atmaca</a> - (bkz: <a class="b" href="/?q=yerdeniz">yerdeniz</a>)
   entry_channels: anket,edebiyat,yeme-içme
@@ -251,29 +251,53 @@ data:
     bugun oglum bana ^ ben senin dalinim^ dedi. ne dedigini amlamamistim. taa ki ^ sen de benim agacimsun^ diyene kadar... ) yaklasik 3 yasinda. bunu duydugum ani sanirim hayatim boyunca unutmayagim.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    izmir'in yunanistan'a kiralanması
-  entry_id:  81677069
-  entry_writer: cay yok bok icin
-  entry_fav_count: 13
-  entry_content: |
-    sen yunanistan'ı 500 yıl yönet torunun gelsin senin bir zamanlar vilayetin olan ülkeye kendi vilayetini kiralamayı düşünsün
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    devlet gece tecavüze uğrar sabah bakire kalkar
-  entry_id:  81660984
-  entry_writer: thestoryofus
-  entry_fav_count: 13
-  entry_content: |
-    son zamanlarda duyduğum en <a class="b" href="/?q=sap%c4%b1k">sapık</a> ifade..<br/>ayrıca devlet adabı, uslubu diye bir şey vardı ne oldu ona.<br/><br/>sayenizde bu sefer hamile kaldı.<br/>suriye doğdu her yer suriyeli.<br/>ülkenin anasını siktiniz bakire kalması imkansız.
-  entry_channels: siyaset,haber
-- entry_name: |
     26 eylül 2018 fed faiz kararı
   entry_id:  81677139
   entry_writer: akovaci
-  entry_fav_count: 11
+  entry_fav_count: 14
   entry_content: |
     limit forex ali bey, umarım buraları okuyorsundur.<br/><br/>aldığın o bütün long-short pozlar götüne girsin inşallah. sabahın köründe arayıp yok şöyle olacak yok böyle olacak, kârı elinizin tersiyle itiyorsunuz bilmem ne. kim bilir kaç kişiyi galeyana getirdin yavşak seni. sana bilgi veren o analistleri sikeyim.
   entry_channels: ekonomi
+- entry_name: |
+    insanın canını en çok acıtan şey
+  entry_id:  81676144
+  entry_writer: teo the leo
+  entry_fav_count: 13
+  entry_content: |
+    senin hayallerini başkalarının gerçekleştirdiğini izlemek<br/><br/>herkesin hayallerine ulaşması, senin onlardan geri kalman<br/><br/>belirsizlik
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    kalp damar cerrahi ameliyatlarını yapmayın
+  entry_id:  81678352
+  entry_writer: lethestyx
+  entry_fav_count: 12
+  entry_content: |
+    sağlık öyle bir ilerledi ki defoldu gitti.
+  entry_channels: sağlık,haber,ekonomi
+- entry_name: |
+    oğuz arda sel kütüphanesi
+  entry_id:  81676788
+  entry_writer: acabaneolsa
+  entry_fav_count: 9
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/n8_ku1jkmTs" title="https://youtu.be/n8_ku1jkmTs">yüreği yanmış bir anne kaldı geride.</a> kendisi küçük, bıraktığı acı büyük çocuk. hatıran yaşayacak, yaşatılacak.<br/>emeği geçen herkese teşekkürler.
+  entry_channels: eğitim
+- entry_name: |
+    doggy pozisyonunda avradın kolunu geriye bükmek
+  entry_id:  81668423
+  entry_writer: tixanthrope
+  entry_fav_count: 9
+  entry_content: |
+    domalmayı bilmeyen hatunu cebr ve hileyle doğru pozisyona getirmek için de yapılabilir.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    30 yaşında bakir erkek
+  entry_id:  81675197
+  entry_writer: yakilmayan adam
+  entry_fav_count: 9
+  entry_content: |
+    3 sene önce bendim. şuan 33 yaşında bakir erkeğim.
+  entry_channels: ilişkiler
 - entry_name: |
     izmir soğuğu
   entry_id:  81656823
@@ -283,21 +307,13 @@ data:
     13 yıl izmirde yaşayıp izmir soğuğuna çok sövmüş birisi olarak söylüyorum, gerçek soğuk o değil arkadaşlar. <br/><br/>şuan kanada'da yaşıyorum, 1 aydır kar yağıyor. bugün sıcaklık 7 dereceye çıktı insanlar şort giymeye başladı. daha ne diyim.
   entry_channels: anket
 - entry_name: |
-    oğuz arda sel kütüphanesi
-  entry_id:  81676788
-  entry_writer: acabaneolsa
+    ruhsar'dan akılda kalanlar
+  entry_id:  81652415
+  entry_writer: praetorr
   entry_fav_count: 7
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/n8_ku1jkmTs" title="https://youtu.be/n8_ku1jkmTs">yüreği yanmış bir anne kaldı geride.</a> kendisi küçük, bıraktığı acı büyük çocuk. hatıran yaşayacak, yaşatılacak.<br/>emeği geçen herkese teşekkürler.
-  entry_channels: eğitim
-- entry_name: |
-    arabada seks yapmak
-  entry_id:  81676330
-  entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 7
-  entry_content: |
-    gaza bastığınız anda başınıza gelen şey. biraz hız yapınca benzin pompası göte giriyormuş gibi hissediyor insan.
-  entry_channels: anket,ilişkiler,otomotiv
+    ruhsar'ın reyhan'a kan vermesi sonucu bazı güçlerini ona aktarması. reyhan'ın uzaktaki koltuğa oturmak isteyip de uzak diye hayıflanırken koltuğun ona gelmesi sonucu güçlerini keşfetmesi... bu sahne aşırı yorgun olup bir şeylerin ayağıma gelmesini istediğim zamanlarda aklıma düşer. travma yaratmış resmen!
+  entry_channels: anket,tv
 - entry_name: |
     ufak tefek cinayetler
   entry_id:  81660563
@@ -315,21 +331,21 @@ data:
     bu turnuvayı almak ev dağınıkken eve misafir gelmesi gibi bir şey olur türkiye için.
   entry_channels: spor,haber
 - entry_name: |
-    doggy pozisyonunda avradın kolunu geriye bükmek
-  entry_id:  81668423
-  entry_writer: tixanthrope
+    ekşi sözlük iş ağı
+  entry_id:  81668062
+  entry_writer: madafakayangelosman
   entry_fav_count: 5
   entry_content: |
-    domalmayı bilmeyen hatunu cebr ve hileyle doğru pozisyona getirmek için de yapılabilir.
-  entry_channels: anket,ilişkiler
+    üzücü anıları canlandıran iş ağı. <br/><br/>bu başlığı ne zaman görsem işsiz çaresiz kaldığım zamanlar aklıma geliyor. beş para etmez adamların bıraktığı ilanları, nasıl tavuk kümesi oluşturmaya çalıştıkları, duruma göre etinden yumurtasından faydalanmaları. <br/><br/>şükür hepsi geride kaldı. kendi göbeğimi kendim kestim, hiçbir şerefsizin önünde eğilmeden işe girdim 6k kazanıyorum. umudunuzu kaybetmeyin, hiçbir zaman pes etmeyin, tirmalayin. umarım dilediğiniz işe kavuşursunuz. <br/><br/>ama burdan cacık olur.
+  entry_channels: ekşi-sözlük,ekonomi
 - entry_name: |
-    30 yaşında bakir erkek
-  entry_id:  81675197
-  entry_writer: yakilmayan adam
+    arabada seks yapmak
+  entry_id:  81677291
+  entry_writer: kavruksusam
   entry_fav_count: 5
   entry_content: |
-    3 sene önce bendim. şuan 33 yaşında bakir erkeğim.
-  entry_channels: ilişkiler
+    babasından gizlice çaldığı doblo ile söz konusu eylemi ifa ederken yakalanan bir arkadaşımın, karakola gitmemek için yaşlı bir polise ruhsat arasında 200 lira sıkıştırması sonucu, “ulan ibne madem o kadar paran var, siktir git otelde yap amk” nasihatı, şüphesiz ki bir ibret vesikası olarak bazı fantezilerimize ket vurmuştur.
+  entry_channels: anket,ilişkiler,otomotiv
 - entry_name: |
     sözlükçülerin instagram sayfaları
   entry_id:  81652197
@@ -339,21 +355,13 @@ data:
     şu bakış açısını anlamak güç gerçekten.<br/><br/>"instagram hesabı paylaşarak kendini ifşa etmek, sözlüğün yapısına ters bir davranıştır."<br/><br/>sanki sözlük, kurumsal ve katı bir yapıya sahipmiş ve kendisini, kendi kararı ile anonimliğin dışına taşırmak yasak veya olmaması gereken bir davranışmış temeliyle yapılan eleştirilere, gülebiliyorum ancak.<br/><br/>zaten bu düşünce ile, "tinder, fuck buddy ya da ons bulma amacı ile kullanılan uygulamadır, aksini düşünenler gir(e)mesin." düşüncesi, birinci derece akraba gibiler.<br/><br/>adam/kadın,x düşüncesi, y hedefi, z doğrultusu ile kişisel hesabını paylaşıyor ve paylaşmayan ve kendilerinin de paylaşmalarına dair bir zorunluluk altında bulunmayan insanlar, kendilerine yönelik olumsuz bir etkisi asla bulunmayan bu durumu, hunharca eleştiriyorlar.<br/><br/>vahim bir psikolojik tablo gerçekten.<br/><br/>'attention whore'luk gibi hikayesi histriyonik kişilik bozukluğuna kadar uzanabilen bir psikolojik bozukluğu zemin yaparak eleştiri yapıyorsunuz, iyi güzel hoş da;yapılan yersiz, gereksiz ve ölçüsüz eleştiriler, psikolojik bağlamda çok sağlıklı bir zihnin ürünü mü sizce?<br/><br/>niyet okuyuculuğu yapmak, bu kadar basit ve sıhhatli bir davranış ise paylaşanlar da, paylaşmayanların paylaşmayışına yönelik;"çirkin ve özgüvensiz oldukları için ve büyük bir aşağılık kompleksine tutuldukları için kendilerini paylaşamıyorlar,aksi olsa idi kendileri de seve seve paylaşırlardı." gibisinden bir tezi öne sürebilirler.<br/><br/>öyle mi peki gerçekten ;öyle olduğu durumlar da olabilir, olmadığı durumlar da.<br/><br/>ilgi budalalığı yüzünden paylaşan da olabilir, paylaşmayan da. <br/><br/>bakın ben reel yaşamımda ilgi budalası insanları ekseriyetle sevmem ve mümkün mertebe biraz ötemde tutmaya çalışırım. ama gerçek yaşamda bile bu durumun, bana direkt olarak olumsuz bir etkisi olmuyorsa;banane der, geçerim.<br/><br/>illa bir eleştiri yapacaksam; ilgi budalalığı olgusu üzerine yaparım,ilgi budalası olan x,y,z kişisi üzerine değil. <br/><br/>şu sözlüğü ve sağladığı anonimiteyi o kadar çok sahiplenmiş ve yaşamınızın merkezine almışsınız ki;burada yapılan şeyleri, edilen sözleri haddinden fazla önemser bir hale gelmişsiniz.<br/><br/>dünyayı salt kendi pencerenizden yorumlayıp, dünyanın merkezine kendinizi ve şahsi düşüncelerinizi koymanızın sizde yarattığı tahribatı,ne zaman göreceksiniz, merak ediyorum. <br/><br/>bütün insanlar ilgi çekmek ister.bütün insanlar, beğenilme ve takdir görme arzusunun ama az ama çok esiridir. <br/><br/>insanlara rahatça 'ilgi orospuluğu' yaftası yapıştıranlarda dahi bu olguların varlığı, farklı biçimlere bürünerek tezahür eder. <br/><br/>ilgiyi çekme metodlarının doğru olup olmadığı,ilgiyi üzerlerine çekme isteklerine dair ölçünün kaçıp kaçmadığı, amaçlarının ne olduğu gibi nedenler, ilgi çekmek isteyeni ve en fazla direkt ilişkili olduğu insanları ilgilendirir,bir başkasını değil.<br/><br/>memlekette herkes birer jüri üyesi, herkes birer yargıç, herkes birer otorite artık.<br/><br/>"çok normalse sen niye paylaşmıyorsun?" diye sorabilirsiniz.<br/><br/>öncelikle instagram vs kullanmıyorum.bununla birlikte yazımda, bu eylemin kendi dünyama göre normal olup olmadığı ile ilgili de yorum yapmadım. hesabım olsaydı ve bu eylemi kendime göre normal bulsaydım, paylaşırdım.kendime göre normalin dışında bir eylem olarak görse idim,paylaşmazdım.ancak her iki seçenekte de buraya gelip, paylaşanlar ya da paylaşmayanlar üzerinden keskin hatlı söylemlerde bulunmaz,kıyasıya türden bir eleştiri yağmuru yağdırmaya çalışmazdım.
   entry_channels: anket,ekşi-sözlük,teknoloji
 - entry_name: |
-    insanın canını en çok acıtan şey
-  entry_id:  81676035
-  entry_writer: eksper
-  entry_fav_count: 4
-  entry_content: |
-    belirsizliktir
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    almanca güzel şarkı olmaması
-  entry_id:  81653857
-  entry_writer: waverogue
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  81676995
+  entry_writer: tantanayapmatantuniyapdayiyek
   entry_fav_count: 2
   entry_content: |
-    xavier naidoo - dieser weg
-  entry_channels: anket,müzik
+    iskoç bir erkek arkadaşınız olsa etek boyuna karışır mısınız?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     türk mutfağının en güzel yemeği
   entry_id:  81676877
@@ -370,14 +378,6 @@ data:
   entry_content: |
     ağız burun dalasim geliyor. ev arkadaşım günaaayyydddiiinn diye kalkardı yataktan. carpasim gelirdi ağzına.
   entry_channels: 
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  81676995
-  entry_writer: tantanayapmatantuniyapdayiyek
-  entry_fav_count: 1
-  entry_content: |
-    iskoç bir erkek arkadaşınız olsa etek boyuna karışır mısınız?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     27 eylül 2018 uefa'nın euro 2024 kararı
   entry_id:  81673822
@@ -396,10 +396,10 @@ data:
   entry_channels: ekonomi
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  81672400
-  entry_writer: apwbd
+  entry_id:  81651051
+  entry_writer: sarsak elek
   entry_fav_count: 0
   entry_content: |
-    saat 22:43’e kadar içinde bulanacağım veritabanı. <br/>ama benim derdimden anlasa anlasa 183,5 cm boyunda, fit, yakışıklı, karizmatik, kel olmayan, 3 dil bilen, en az 5 bilimsel makalede adı geçmiş ve okuduğu kitap sayısı +200 olanlar anlar.
+    ne bileyim polonya desem ... denk getirir miyim?
   entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
