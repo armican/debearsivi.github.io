@@ -3,66 +3,50 @@ layout: post
 title: 30 Eylül 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    işten atılan akp'linin akp'ye serzenişi
-  entry_id:  81761577
-  entry_writer: jotunogullari
-  entry_fav_count: 1323
-  entry_content: |
-    ilk seçimde gavura vurur gibi akp ve tayyibe basacaktır.
-  entry_channels: siyaset,haber
-- entry_name: |
     bir daha hiçbir erkekle başbaşa kalmayacak olmak
   entry_id:  81761237
   entry_writer: pluginbaby
-  entry_fav_count: 1321
+  entry_fav_count: 1330
   entry_content: |
     (bkz: <a class="b" href="/?q=sen+kimsin+amk">sen kimsin amk</a>)
   entry_channels: ilişkiler
 - entry_name: |
+    işten atılan akp'linin akp'ye serzenişi
+  entry_id:  81761577
+  entry_writer: jotunogullari
+  entry_fav_count: 1327
+  entry_content: |
+    ilk seçimde gavura vurur gibi akp ve tayyibe basacaktır.
+  entry_channels: siyaset,haber
+- entry_name: |
     sevişme başlatıcı salak diyaloglar
   entry_id:  81768951
   entry_writer: black adam
-  entry_fav_count: 653
+  entry_fav_count: 659
   entry_content: |
     + hobaaa!<br/>- hobaaa?<br/><br/>hobaa...
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    sevgiliyi tinder kullanırken yakalamak
-  entry_id:  81763621
-  entry_writer: hakikatavcisi
-  entry_fav_count: 362
-  entry_content: |
-    geçmiş olsun reis acın acımızdır
-  entry_channels: ilişkiler
-- entry_name: |
     cern deneyi'ni çürüten fen bilgisi öğretmeni
   entry_id:  81779249
   entry_writer: yavuzselekman
-  entry_fav_count: 353
+  entry_fav_count: 396
   entry_content: |
     hangi su 50 kuruş lan?!
   entry_channels: bilim,teknoloji,haber,eğitim
 - entry_name: |
-    istanbul semalarında çekilen gizemli görüntü
-  entry_id:  81774140
-  entry_writer: turkiyeden bikan pilot
-  entry_fav_count: 170
+    sevgiliyi tinder kullanırken yakalamak
+  entry_id:  81763621
+  entry_writer: hakikatavcisi
+  entry_fav_count: 372
   entry_content: |
-    (bkz: <a class="b" href="/?q=s%c3%b6zc%c3%bc+gazetesinin+adblock+kullananlar%c4%b1+engellemesi">sözcü gazetesinin adblock kullananları engellemesi</a>)
-  entry_channels: 
-- entry_name: |
-    evlenirken kızın beline bağlanan kırmızı kuşak
-  entry_id:  81765295
-  entry_writer: istheisare
-  entry_fav_count: 139
-  entry_content: |
-    batı kültürünün cinselliğe olan bireysel ve hedonistik yaklasimini ahlaksızca bulan, ama aslında dunyanın en ahlaksız kültürlerinden birine sahip olan bir toplumda yapılan mide bulandırıcı bir gelenek. <br/><br/>bundan bir kademe ötesi tecavuz, kadın pazarlıgı.
-  entry_channels: tarih,moda
+    geçmiş olsun reis acın acımızdır
+  entry_channels: ilişkiler
 - entry_name: |
     cem özdemir'in erdoğan'la selamlaşması
   entry_id:  81770692
   entry_writer: career a
-  entry_fav_count: 117
+  entry_fav_count: 119
   entry_content: |
     bakışlarından anlaşıldığı üzere, cem'in kafa selamına karşılık reis'in içinden "kafasını siktiğimin salla başı, devam et, bekleme yapma" dediği selamlaşmadır.
   entry_channels: siyaset,haber
@@ -70,26 +54,34 @@ data:
     aramadan önce müsait misin diye mesaj atmak
   entry_id:  81776892
   entry_writer: phi fenomen
-  entry_fav_count: 96
+  entry_fav_count: 110
   entry_content: |
     mükemmel bir nezaket örneği.<br/><br/>herkese bu güncelleme gelsin lütfen. çat kapı gelen misafirden, pat diye arayan alakasız insanlardan hoşlanmıyoruz.
   entry_channels: anket
 - entry_name: |
+    2018 ekonomik krizi
+  entry_id:  81754463
+  entry_writer: ich habe meine brille vergessen
+  entry_fav_count: 106
+  entry_content: |
+    ön not: ben bir garip vatandaşım, sadece rte sayesinde ekonomik genel kültürüm kas yaptı.<br/><br/>öğrendiğim gerçekler;<br/><br/>fed bilanço küçültmeye ve faiz artırmaya devam ettikçe para bizim gibi ülkelerden kaçmaya devam edecek.<br/>borçların ödenmesi zorlaşacak.<br/>artan kur enerji, hammadde, finans vb. maliyetlerini artırdığı için üretim maliyetleri artacak.<br/>kriz derinleşecek.<br/>mevcut durumda konkordato ilan eden, iflas eden şirketlerin sayısı arttıkça, işsizlik tavan yapacak ve alım gücü iyice düşen insanlar tüketimden elini eteğini çekecek.<br/>ikinci şok dalgası işsizliği daha da artıracak.<br/>batık krediler yüzünden bankalar zor durumda kalacak. aldıkları teminatlar (%20'si teminatlı olsa - ref. föş) batıkları kurtarmaktan çok uzak.<br/>katma değerli üretimin azalması, ithalatı ve ihracatı azaltacak, ülkece küçüleceğiz.<br/>3. köprü'nün ıtalyan firması astaldi, yarın unicredit, bbva gibi türkiyeye ciddi yatırımlar yapmış firmalar da zor durumda kalacak.<br/>türkiye'ye sıcak para ve yatırım gelişi iyice duracak.<br/><br/>bu arada amerika ve dolayısıyla dünya için bir finansal kriz daha gelecek deniyor (şahsen şişen amerikan borsaları ve spesifik olarak teknoloji şirketleri üzerinden geleceği kanaatindeyim, tesla, apple, amazon vs.), bu 2019 mu olur, 2020 mi bilinmez, ama kendi krizimizi atlatmadan girersek 2. tokadı yeriz (ref. @nbafan).<br/>bordrolu çalışanlardan ülkedeki tüm verginin %66'sını toplayan bir ülke daha yok (ref. föş). normali %33.<br/><br/>peki ne olabilir?<br/><br/>mevcut yönetim, klasik popülist sağ yönetimlerin tüm klişelerini barındırıyor.<br/>popülizm işler iyi giderken iyidir, ama zor kararlar alınması gerektiğinde genelde ne pleb'den geçer, ne serden.<br/>bu durumda rte'nin kafası çok karışık. seçimden önce de bunu gördük, promptera bakarken mantıklı vaatler, dönüyoruz 15 yıl önce buzdolabı yoktu falan.<br/><br/>bir şekilde, oyu verip onu seçecek seçmeni mutlu etmesi gerekiyor. bu durumda ayfon'a, vw golf'e alışmış, iyi kötü evinin kredisini ödeyip, çocukları üniversite okuyabilsin diye düşünen milyonlarca seçmeninden bırakın ayfon'u, 250 gr ekmeği bile esirgemek mi, yoksa eliyle büyütüp %10 olsun bizim olsun kafasıyla dağıtılan ihalelerin sahiplerinin gırtlağına vergiler ve cezalar ile çökmek mi?<br/><br/>şahsi fikrim vizyonu satrançta 1 adım ötesini görmek olan, ve her şeyi herkesten iyi bildiğini düşünen, ego zehirlenmesinden muzdarip bir insan olsam, ikisinden de vazgeçmeden bu işi halledebileceğimi düşünürdüm.<br/><br/>sıcak para ile bu düzen 15 yıl devam etmedi mi?<br/>katar, olmadı abd, olmadı çin, olmadı ab, almanya, o da olmadı ımf'den bulurum parayı, az biraz danışmanlara falan uyar biraz kemer sıkarmış gibi yapar, biraz ekmeğin gramajından çalar ve çok sıkışırsak fırıncıları sübvanse eder, yardımları kesmez, ama kömür çuvallarını ufaltır, 2 paket yerine 1 paket makarna veririm, zaten iki güne kalmaz işler yoluna girer, sonra makarnayı 3 yapar gönlünü alırım diye düşünürum açıkçası.<br/><br/>ne olacak?<br/><br/>katar, abd vb'den zırnık gelmeyecek. ımf bir soru işareti, bence seçime kadar enflasyonu patlatma pahasına para basılacak, ödemeler yapılacak, tutulmayacak ekonomik vaatler verilerek, belki de yerel seçimler öne alınıp falan bir şekilde dere geçilecek.<br/>popoda don kalmayacak, ama olsun, belediye candır.<br/>sonra para iyice suyunu çekip satıp savacak gelecek gelirlerini de bitirince (köprüdür, hastanedir, kanal istanbul'dur), ımf gelecek.<br/>bütün sıkıntılar siyasi olarak ımf'ye itelenmeye çalışılacak vb.<br/><br/>gel gör ki, bu kadar sıkıntı, işsizlik, evsizlik, borç vb'ye inanın kimsenin yüreği dayanmaz.<br/>1990'da yaşamıyoruz. artık herkes belli bir yaşam standardına alıştı. bu saatten sonra zora gelen iş adamlarının ülker ya da doğuş'un yolundan gitmeyeceğini, işinden olan ya da alım gücü sürünen vatandaşın da vatan millet ya da din iman diye kala rte'ye vereceğini düşünüyorsanız, bence güzel bir aydınlanma sizi bekliyor.<br/><br/>öyle ki, din iman vb diyen vatandaşlar aslında ekonomik durumundan memnun. yaşanan teknolojik gelişmelerden faydalanabilmek, evine en güzel beyaz eşyayı almak, altında araba, krediyle de olsa tatile gidebilmek, üstü başı süt, bok kokmadan hayalini kurduğu şehir hayatının ucundan tutabilmek, köyde bile peynirini yapmadan ilçeye inip alabilmek, bodrumda kıraç arazisini satıp 10 tane milyon tl'lik villa alabilmek bilmiyorum farkındamısınız ama (bkz: <a class="b" href="/?q=akp+d%c3%b6neminde+ger%c3%a7ekle%c5%9fmi%c5%9ftir">akp döneminde gerçekleşmiştir</a>).<br/><br/>bir kısım insan;<br/>bu bolluğun rte'den gelmediğine, dünyanın teknolojik ve ekonomik olarak bolluk döneminde olduğuna,<br/>altyapı yapmak konusunda başarılı olmak ile, ihaleleri yandaşlara yönlendirerek maliyet artışlarını görmezden gelindiğine,<br/>taze atılmış cillop gibi asfaltın ertesi gün daha soğumadan kesilip altından doğal gaz geçirilmesinin milli servetin ziyanı olduğuna,<br/>liyakatın, eğitim sisteminin, ülkenin dilinin, demografisinin, birliğinin ve evet, dirliğinin rte tarafından bozulduğuna,<br/>dış ilişkilerimizin, iç ilişkilerimizin rayından çıkıp ülkemizin her arenada zarar gördüğüne, türkiye'nin itibarsızlaştığına inanıyordu.<br/><br/>her türlü yetkiyi alan rte, ne elde etti? bir dünya sorumluluk ve bir sürü duygusal borç.<br/>geceleri rahat uyuduğunu mu sanıyorsunuz? bırakıp giderse başına, yakınlarının başına gelebilecekleri bilmiyor mu sanıyorsunuz?<br/>en yakını, yaverleri, korumaları bile aynı yatakta yattığı fethullah'ın adamları çıkınca nasıl bir paranoyadan muzdarip olabileceğini düşünebiliyor musunuz?<br/>sağlıklı düşünme ve karar almaktan çok uzak kendileri.<br/><br/>ama halk öyle değil.<br/>çocuğunun üstüne başına kıyafet alamayan, borcunu ödeyemeyen gariban vatandaş, ben, gayet rasyonel düşüneceğiz.<br/>kimse kimsenin kara kaşına kara gözüne oy vermez, ölümüne savunmaz.<br/>bana dokunmayan yılan bin yıl yaşasın kafası, yılan dokununca ancak idrak edilecek.<br/>yılanın başı da sen ben tarafından değil, bu arkadaşlar tarafından öpülecek.<br/><br/>ne olmalı?<br/><br/>bu konuda uzman değilim.<br/>ama eğitim şart, bir geyik değil.<br/>bugün amerika'nın en saygı değer yatırım şirketlerinden (bkz: <a class="b" href="/?q=bridgewater">bridgewater</a>)'ın kurucusu (bkz: <a class="b" href="/?q=ray+dalio">ray dalio</a>) diyor ki; <br/>"borç aldık verdik, ekonomimiz yükseldi, krize girdi, bunlar önemli değil. önemli olan üretim verimliliği. kaynakları verimli kullanmak önemli evet, ama asıl önemli olan, eğitim.<br/>öğrencilerin okula verdiği dikkat ve önem, artırılmalı, çağımızın koşullarına uygun bir eğitim sistemi olmalı. benim geldiğim yerde hala kalemi ikiye kırıp paylaşan çocuklar var."<br/><br/>ey iman edenler! bükemediğimiz eli öpün tabi, iman edin, etmeyin demiyorum, ama biat eden koyun olursanız, güdeniniz çok olur. badelenirsiniz de, çocuklarınız da yurtlarda diri diri yanabilir.<br/>ama biraz sorgularsanız, sadece kendiniz için değil, aileniz ve milletiniz için faydalı bir birey olabilirsiniz.<br/><br/>hayırlı cumartesiler.
+  entry_channels: siyaset,tarih,ekonomi
+- entry_name: |
     burun tıkanıklığına iyi gelen şeyler
   entry_id:  81768858
   entry_writer: nota bilmeyen absolu kulak
-  entry_fav_count: 94
+  entry_fav_count: 95
   entry_content: |
     (bkz: <a class="b" href="/?q=otrivine">otrivine</a>)
   entry_channels: anket,bilim,sağlık
 - entry_name: |
-    domatesin tarlada 1 lira çarşıda 8 lira olması
-  entry_id:  81771515
-  entry_writer: feanor fingolfin
-  entry_fav_count: 77
+    kapitalizmi özet geçmek
+  entry_id:  81756290
+  entry_writer: apollo06
+  entry_fav_count: 76
   entry_content: |
-    allah aşkına, inandığınız değerler aşkına boş konuşmayın. gerçekten hiçbir şey bilmediği halde her şeyi bildiğini sanan bir güruh saçmalaması içeren başlık olmuş.<br/><br/>hadi gelin işin içinden biri olarak size sistemi anlatayım. daha dün gece izmir halinden 500 kg domat aldım 4.20 kilosu. <br/><br/>tarla diye bir şey yok. önce hangi sebze-meyve hangi ayda tarla olur hangi ayda sera olur onu öğrenin. tarla domat biteli 3 hafta olacak neredeyse. (kastedilen yemelik domat, salçalık ya da çöp olmuşlar değil)<br/><br/>ama gelin tarla domat zamanını hesap edelim. yazın domat halde 2.5 ila 4 arası gitti geldi, kaliteye göre de değişir tabi. <br/><br/>tarlada 1 lira demek çiftçinin alıcıyı ayakta yolması demektir. tarlada 1 lira olmaz, olamaz. hadi gidin yapın o zaman. dönümde 10 ton domates, 10 bin yapar. 50 dönümde 500 bin yapar. hadi yapın zengin olun.<br/><br/>tarlada domat 40 kuruş olur 50 kuruş olur. adam götürü satmış. sen tarlayı toplayacaksın, % 20-30 zayiat çıkacak, nakliye yapacaksın, vergilendirme yapacaksın, adam çalıştıracaksın, depo tutacaksın, iklimlendirme yapacaksın, halde yer alacaksın 40 kuruş aldığın domat sana zaten 2 liraya patladı bile. 1 lira da kâr ekleyip 3 liradan satacaksın. çok alana 250 dersin, 270 dersin. neyse. <br/><br/>ben gideceğim halden alacağım 3 liraya. nakliye parası, işçi parası, hamal parası, kira, % 30 zayiat, % 8 kdv, 3 ayda bir stopaj, % 12 market komisyonu vs derken domates bana geldi 4-4,5 liraya zaten. 1 lira da kâr ekledim oldu sana 5-5,5 lira domates.<br/><br/>yediğin kıvırcık tarlada 35 kuruş. evet tarla alıyorum. 5 bin adet var tarlada pazarlıkla belirleme rakamı. 35 kuruş nasıl bize 2,5 lira oluyor diyeceksiniz. olur. ben gece 5 gibi 4 5 adam tutup araçla 100 km öteye cumaovası'na gidiyorum. sen horul horul uyurken. çamurlu tarlaya giriyorum, böcekler, çamur, çiğ rezil oluyorum. tek tek toplayıp kasalıyorum. % 25-30 erkeğe kaçmış oluyor zaten. sonra onları alıp temizlik yapıyorum. tezgaha diziyorum. sen markete gelip "bu eski" diyorsun ya benim 5 saat önce tarladan kestiğim marula, işte senin beğenmediğin mal oluyor çöp. yenisi diziliyor. hah işte seçerken mundar ettiğin mal var ya işte onun da parası ekleniyor oluyor sana 35 kuruş olan marul 2.5 3 lira. <br/><br/>yarınız 4 bin tl maaşı zor gören ofis çalışanı. diğer yarınızın da tek hayali ofis çalışanı olmak. <br/><br/>gel gir tarlaya, toprağa, sen yap. yap da sat bana domatı şuan 1 liraya. ama sen topla, kasala, faturalandır, zayiat olmasın, ayıklanmış olsun. söz sana her hafta 50 ton domat ben garanti alırım. zaten senden öyle 1 liraya alıp halde 1.5 liradan satsam tertemiz mal mis gibi para basar. <br/><br/>ama yapmazsın. sen otur şimdi bilgisayar başına "üretmiyoruz abi, tarlada avakado 1 lira tezgahta 10, hep aracılar kazanıyor" diye hayıflan. ama sakın öğrenme bu iş nasıl yapılır, ben de üreteyim, üretimin içinde olayım. aman ha.
-  entry_channels: anket,ekonomi
+    kapitalizm, üretim araçlarının özel mülkiyetin elinde olduğu, sermayeye dayalı üretim biçimidir. saçma sapan tanımlarla romantizm yapmaya gerek yok.
+  entry_channels: siyaset,anket,bilim,ekonomi
 - entry_name: |
     şato sahibi olunsa yapılacak ilk şey
   entry_id:  81766961
@@ -99,18 +91,10 @@ data:
     zırhımı giyip, atıma binip içeriye "yiiiihaaa! " nidasıyla dalmak. hep özenmişimdir. ama kışın yaparım, şimdi çok sıcak, terletir zırh.
   entry_channels: anket
 - entry_name: |
-    kapitalizmi özet geçmek
-  entry_id:  81756290
-  entry_writer: apollo06
-  entry_fav_count: 68
-  entry_content: |
-    kapitalizm, üretim araçlarının özel mülkiyetin elinde olduğu, sermayeye dayalı üretim biçimidir. saçma sapan tanımlarla romantizm yapmaya gerek yok.
-  entry_channels: siyaset,anket,bilim,ekonomi
-- entry_name: |
     hafızam silinse de bir daha oynasam denilen oyun
   entry_id:  81771829
   entry_writer: where the fuck are my caps
-  entry_fav_count: 67
+  entry_fav_count: 69
   entry_content: |
     mafia 2<br/><br/>edit: ilk oynadığımda beni o kadar etkilemişti ki sabaha kadar oynamıştım. kelimelerle tarif edilemez bir oyun ya. defalarca oynadım ama o ilk oynadığındaki hissi vermiyor ya. ilk oynadığımda hatırlıyorum da, vito'nun kız kardeşinin kocasını dövmeye gittiğimizde nasıl da gaza gelmiştim ya. sanki benim bacıma saldırdılar. acayip ya acayip. mükemmel bir oyun ya gerçekten, sonu zaten yürek burkuyor.
   entry_channels: anket,oyun
@@ -118,7 +102,7 @@ data:
     1 ekim 2018 bim zamları
   entry_id:  81777261
   entry_writer: sibiuspor
-  entry_fav_count: 66
+  entry_fav_count: 69
   entry_content: |
     granny smith elmanın fiyatı 4,90'dan 3,95'e düşmüş onu niye görmüyorsunuz?<br/><br/>ülkemiz iyiye gidiyor.
   entry_channels: yeme-içme,ekonomi
@@ -126,34 +110,42 @@ data:
     sözlük yazarlarının yalnızlık dereceleri
   entry_id:  81773947
   entry_writer: eksimtrack
-  entry_fav_count: 59
+  entry_fav_count: 66
   entry_content: |
     kendime soru soruyorum fakat ona bile cevap alamıyorum.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    saçı 3 numaraya vurma nedenleri
+  entry_id:  81780514
+  entry_writer: komando kani var bende
+  entry_fav_count: 60
+  entry_content: |
+    hayattan bıkmak, boşvermişlik duygusu yaşamak istemek, isyan etmeyi istemek, sevgilinin olmaması ve sevgili bulmak için çaba harcanmaması ve kestirdikten sonra gelen arınma ve rahatlık duygusu.
+  entry_channels: anket,ilişkiler,moda
+- entry_name: |
+    29 eylül 2018 şanlıurfa olayları
+  entry_id:  81782831
+  entry_writer: bacakkillarinitarayanadam
+  entry_fav_count: 59
+  entry_content: |
+    beş milyon suriyeli ülkede yeni bir demografik sorun oluşturacak dediğimizde bir şey olmaz abartmayın, diyen karaktersizler neredesiniz.<br/><br/>onlar bizden bir, biz onlardan bir can alsak ne olacak. <br/><br/>türk çocukları, suriyeli düşmanı; suriyeli çocuklar, türk düşmanı olarak yetişecek.<br/><br/>yatacak yerin yok recep. <br/>bu 40 milyon insanın ahı öbür tarafta seni ne duruma sokacak acaba.
+  entry_channels: siyaset,haber
+- entry_name: |
     30 eylül 2018 ege kıyılarında beklenen kasırga
   entry_id:  81756251
   entry_writer: fenasi kerim
-  entry_fav_count: 57
+  entry_fav_count: 58
   entry_content: |
     dilerim kuzeye yönelirciler sözüm size; trakyalılar olarak <a class="b" href="/?q=biz+orospu+%c3%a7ocu%c4%9fuyuz+g%c3%b6t%c3%bcz+biz+zaten">biz orospu çocuğuyuz götüz biz zaten</a><br/>abv.
   entry_channels: bilim
 - entry_name: |
-    dünyada 10 bin insan kalsa yaşanacaklar
-  entry_id:  81759539
-  entry_writer: harry tuttle
-  entry_fav_count: 56
+    yağmurlu havada dışardan yemek sipariş eden tip
+  entry_id:  81775279
+  entry_writer: udemoforever
+  entry_fav_count: 54
   entry_content: |
-    normalde, dünyada tek başına kalsak diye düşünülür ama 10 bin kişi kalınsa da ilginç olur aslında. şehirlerde tek tük insanlar. çoğu işin uzmanının kalmaması. siyasi tansiyonun sıfıra inmesi. eskaza insan görmenin müthiş mutlu etmesi gibi. <br/><br/>bu iki şeyi ortaya çıkarıyor. öncelikle yaşamı dolduran bu makro hedeflerin bi' zikim olmadığını anlıyorsun. 10 bin insan kalsa dünyada; yani böyle düşününce, şu kafanda bir gevşeme olmuyor mu? bi' susun a qü trafiği; hafta sonu düğünleri ve daha nicesi gerçek olmuş ve gerçekten susmuşlar.<br/><br/>sonra, bir insana rastlamanın da çok mutlu edeceğini düşünüyorum. insanlar birbirini daha yakından inceleyecektir. söylenen her şey dikkatle dinlenir. bir insanı, kafayı vererek dinlemenin ne demek olduğunu anlarsın. çünkü bugünkü dünyada vakit yok gibi. kimse kimse için uğraşmıyor. en ufak bir şeyde salla gitsin. git kendini düzelt, öyle katıl aramıza diyorlar.<br/><br/>oysa 10 bin kişi olsa, ovaların uçsuz bucaksızlığı, sadece manzara... biliyorum vahşi hayvanlarla, açlıkla başa çıkmayla kafayı yemişler öne atılacaktır. ama diyorum ki, her durum kendi özel bireyini ve toplumunu yaratıyor. ben burada ütopya, antiütopya, nasıl hayatta kalırdık muhabbeti yapmıyorum ki! anlamıyor musunuz?! her yer çok kalabalık ve hedefler yüzünden tansiyon çok fazla. sizi, beni anlamaya çalışan kimse yok. bir insana vakit ayırmanın, onunla birlikte uzun uzun manzarayı seyretmenin; onun kafasından geçenleri gerçekten merak etmenin; şu ilişki tavsiyelerine uyarak ve öyleymiş gibi davranarak değil gerçekten merak ederek dinlemenin; çok az insan olduğu için her hikayenin çok kıymetli olduğunu bilmenin ve can kulağıyla dinlemenin öneminden bahsettiğimde muhtemelen anlamsız bir biçimde monitöre bakıyorsunuz. belki benim ideolojik bir şeyler zırvaladığımı düşünüyorsunuz. yahu bu dünyada aşk yoksa, birbiri için atan iki kalp yoksa; tüm bu hedefler (mikro düzeyde ev, araba vs. satın alma, makro düzeyde, büyüme, istihdam vs. için saatlerce çalışma) sevginin liyakatını belirliyorsa; sizi sevdiğiniz bile dinlemiyor; sadece çevresince onaylanıp onaylanmadığınıza bakıyorsa; siz bir takım özelliklerseniz; kıyafetiniz iseniz sadece, bu aptal dünyayı yaşamanın ne boka yaradığını söyler misiniz?<br/><br/>anlamıyor musunuz? tüm bu gerçeklik bizi biz yapıyor. daha da kötüsü en başından beri 10 bin kişi olsaydık, 8 milyar olduğumuzda böyle iğrençleşebileceğimizi bilemeyecektik ve kendimizi hep can kulağıyla birbirini dinleyen; sevgisi için kilometrelerce yürüyen canlılar zannedecektik. işte kral çıplak.
-  entry_channels: anket
-- entry_name: |
-    saçı 3 numaraya vurma nedenleri
-  entry_id:  81780514
-  entry_writer: komando kani var bende
-  entry_fav_count: 55
-  entry_content: |
-    hayattan bıkmak, boşvermişlik duygusu yaşamak istemek, isyan etmeyi istemek, sevgilinin olmaması ve sevgili bulmak için çaba harcanmaması ve kestirdikten sonra gelen arınma ve rahatlık duygusu.
-  entry_channels: anket,ilişkiler,moda
+    karlı, yağmurlu havalarda kendisi de işine gidiyorsa hiç bir şey denilemeyecek tiptir. <br/>kuryelik sadece açık havalarda yapılan bir iş oldu da ben mi duymadım? <br/>her boka duyar kasmaktan bıkmadınız mı gerçekten?
+  entry_channels: ilişkiler,yeme-içme
 - entry_name: |
     sagopa kajmer şarkılarında geçen mükemmel sözler
   entry_id:  81766566
@@ -166,15 +158,23 @@ data:
     45 numara ayakkabı giyen erkek
   entry_id:  81772729
   entry_writer: gregorsamsamsi
-  entry_fav_count: 51
+  entry_fav_count: 54
   entry_content: |
     arkadaş palet seviyor sanırım. palet fetişisti olsa gerek.
   entry_channels: moda
 - entry_name: |
+    stepnenin ince olmasının nedeni
+  entry_id:  81783576
+  entry_writer: mitdemstrom
+  entry_fav_count: 49
+  entry_content: |
+    siyasi bir entry okumayı beklerken şaşırdığım başlık.
+  entry_channels: anket,otomotiv
+- entry_name: |
     2190 dolarlık recep tayyip erdoğan tablosu
   entry_id:  81778115
   entry_writer: i feel like me
-  entry_fav_count: 43
+  entry_fav_count: 45
   entry_content: |
     (bkz: <a class="b" href="/?q=ucube">ucube</a>)
   entry_channels: siyaset,sanat
@@ -182,39 +182,31 @@ data:
     savaşçı uygur türk'ünden çinlilere uyarı
   entry_id:  81773664
   entry_writer: sith lord
-  entry_fav_count: 41
+  entry_fav_count: 44
   entry_content: |
     bir adet araplaşmış mankurt barındıran uyarıdır. uygur türk'ü bu olamaz. arabın dini, töresinin türklükle, türkçülükle bir ilgisi olamaz.
   entry_channels: siyaset
 - entry_name: |
+    üç galaksi ismi söyleyemeyen insan
+  entry_id:  81781978
+  entry_writer: birliktelik
+  entry_fav_count: 38
+  entry_content: |
+    (bkz: <a class="b" href="/?q=andromeda">andromeda</a>) <br/>(bkz: <a class="b" href="/?q=zodiac">zodiac</a>) <br/>(bkz: <a class="b" href="/?q=vega">vega</a>) <br/>(bkz: <a class="b" href="/?q=samanyolu">samanyolu</a>) <br/>oh be 4 oldu..<br/><br/>edit: @manuelka uyardı, vega yıldızmış.. teşekkürler. <br/>3 oldu.<br/><br/>edit 2: zodiac da takım yıldızıymış.<br/>kaldı 2<br/><br/>inşallah samanyolu galaksidir..
+  entry_channels: anket,bilim
+- entry_name: |
     29 eylül 2018 beşiktaş kayserispor maçı
   entry_id:  81778316
   entry_writer: draculaya inanmayan sivrisinek
-  entry_fav_count: 37
+  entry_fav_count: 38
   entry_content: |
     3 ay önceki pozisyona bakıp golü iptal ettireceklerdi amk.
   entry_channels: spor
 - entry_name: |
-    yazarların emin olduğu ama kanıtlayamadığı şeyler
-  entry_id:  81776754
-  entry_writer: gregorsamsamsi
-  entry_fav_count: 32
-  entry_content: |
-    lavaş kiri reklamlarında, boğanın burnunda halka vardı buna eminim ama asla kanıtlayamıyorum. bunun mandela etkisi olduğunu falan söylüyorlar ama hayır burnunda halka vardı.<br/>(bkz: <a class="b" href="/?q=mandela+etkisi">mandela etkisi</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/644801ab8963" title="https://eksiup.com/644801ab8963">link geldi</a>
-  entry_channels: anket
-- entry_name: |
-    29 eylül 2018 şanlıurfa olayları
-  entry_id:  81782831
-  entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 32
-  entry_content: |
-    beş milyon suriyeli ülkede yeni bir demografik sorun oluşturacak dediğimizde bir şey olmaz abartmayın, diyen karaktersizler neredesiniz.<br/><br/>onlar bizden bir, biz onlardan bir can alsak ne olacak. <br/><br/>türk çocukları, suriyeli düşmanı; suriyeli çocuklar, türk düşmanı olarak yetişecek.<br/><br/>yatacak yerin yok recep. <br/>bu 40 milyon insanın ahı öbür tarafta seni ne duruma sokacak acaba.
-  entry_channels: siyaset,haber
-- entry_name: |
     insana güncelleme gelse istenecek özellik
   entry_id:  81774012
   entry_writer: yasadim gordum
-  entry_fav_count: 30
+  entry_fav_count: 32
   entry_content: |
     kanser bug ını bi giderin amk
   entry_channels: anket,teknoloji
@@ -222,10 +214,26 @@ data:
     arabası bile olmadan bir kıza aşık olan erkek
   entry_id:  81780363
   entry_writer: oray
-  entry_fav_count: 27
+  entry_fav_count: 31
   entry_content: |
     12-13 yaşlarımda bir kere aşık olmuştum, o zaman arabam yoktu. ama şimdi aşık olmuyorum, fakat arabam var.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    yazarların emin olduğu ama kanıtlayamadığı şeyler
+  entry_id:  81777343
+  entry_writer: gregorsamsamsi
+  entry_fav_count: 28
+  entry_content: |
+    (bkz: <a class="b" href="/?q=tolga+abiye+k%c3%bcf%c3%bcr+eden+%c3%a7ocuk">tolga abiye küfür eden çocuk</a>)
+  entry_channels: anket
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  81753779
+  entry_writer: bozuk sisteme tepki
+  entry_fav_count: 27
+  entry_content: |
+    "iki insan ayrılırken; şefkatli konuşan taraf aşık olmayan taraftır"
+  entry_channels: anket,edebiyat,eğitim
 - entry_name: |
     29 eylül 2018 chelsea liverpool maçı
   entry_id:  81777626
@@ -235,6 +243,14 @@ data:
     chealse'nin aniden çıkacağı pozisyonda mane'nin yaptığı faulde hazard yerde kaldı. yakın çekimde adamın diz kapağının hemen altının derisinin açıldığını gördük. hazard, ne hakeme yarasını gösterdi, ne seyirciyi tahrik edecek şekilde yerde yuvarlandı. çorabını çekti ve koşmaya devam etti. <br/>adamların profesyonelliğinden öğrenilecek o kadar çok şey var ki.<br/><br/>edit: 1-1 oynamıştım teşekkürler sturridge. bize böylesine güzel bir gol izlettiğin için.
   entry_channels: spor
 - entry_name: |
+    kız çocuk isteyen erkek
+  entry_id:  81769857
+  entry_writer: taranta babuya
+  entry_fav_count: 25
+  entry_content: |
+    dileğim gerçek oldu :)
+  entry_channels: anket,ilişkiler
+- entry_name: |
     yazarların oto tamirci tavsiyeleri
   entry_id:  81764113
   entry_writer: waxlord
@@ -243,13 +259,21 @@ data:
     ankara ve çevresi için şaşmaz kavşağına gelmeden volvo nun arka tarafında vatan oto var sahibi cemal usta. peugeot ve citroen için tek adres. bu kadar beyefendi bu kadar işini iyi bilen dürüst esnaf a rastlamak bu devirde çok zor.
   entry_channels: anket,teknoloji,otomotiv
 - entry_name: |
-    hastası olunan sözler
-  entry_id:  81753779
-  entry_writer: bozuk sisteme tepki
-  entry_fav_count: 24
+    parayla seks yapmak
+  entry_id:  81778224
+  entry_writer: trollere siktir ceken adam
+  entry_fav_count: 23
   entry_content: |
-    "iki insan ayrılırken; şefkatli konuşan taraf aşık olmayan taraftır"
-  entry_channels: anket,edebiyat,eğitim
+    sex sadece skilen sensen bedava olabilir. onun dışında görünen yada görünmeyen mutlaka bir maliyeti vardır. <br/><br/>(bkz: <a class="b" href="/?q=evrim+biyolojisi">evrim biyolojisi</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    ricardo quaresma
+  entry_id:  81776639
+  entry_writer: forrestgump
+  entry_fav_count: 22
+  entry_content: |
+    adam, zevkine top oynamak için vodofone park'ı kendi yaptırmış, koca stad onunmuş gibi oynuyor. <br/><br/>öyle fantastik bir rahatlık, öyle bir bencillik var herifte...
+  entry_channels: spor
 - entry_name: |
     mckinsey
   entry_id:  81761308
@@ -259,14 +283,6 @@ data:
     yıl 2023<br/>yer ankara<br/>dolar 25 tl<br/>sayın cumhurbaşkanı basın mensuplarına hitaben; “dış güçler tarafından (bkz: <a class="b" href="/?q=kand%c4%b1r%c4%b1lm%c4%b1%c5%9f%c4%b1z">kandırılmışız</a>)”
   entry_channels: sinema,ekonomi
 - entry_name: |
-    ricardo quaresma
-  entry_id:  81776639
-  entry_writer: forrestgump
-  entry_fav_count: 20
-  entry_content: |
-    adam, zevkine top oynamak için vodofone park'ı kendi yaptırmış, koca stad onunmuş gibi oynuyor. <br/><br/>öyle fantastik bir rahatlık, öyle bir bencillik var herifte...
-  entry_channels: spor
-- entry_name: |
     birlikte içki içmek istenen 3 kişi
   entry_id:  81759996
   entry_writer: kimse de demiyor ki abi bu nedir
@@ -275,37 +291,37 @@ data:
     recep tayyip erdogan<br/>emine erdogan<br/>berat albayrak<br/><br/>simdi onlar dusunsun amk.
   entry_channels: anket
 - entry_name: |
-    kız çocuk isteyen erkek
-  entry_id:  81769857
-  entry_writer: taranta babuya
-  entry_fav_count: 17
-  entry_content: |
-    dileğim gerçek oldu :)
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    parayla seks yapmak
-  entry_id:  81778224
-  entry_writer: trollere siktir ceken adam
+    masterchef türkiye
+  entry_id:  81776524
+  entry_writer: matayyuna
   entry_fav_count: 16
   entry_content: |
-    sex sadece skilen sensen bedava olabilir. onun dışında görünen yada görünmeyen mutlaka bir maliyeti vardır. <br/><br/>(bkz: <a class="b" href="/?q=evrim+biyolojisi">evrim biyolojisi</a>)
-  entry_channels: ilişkiler
+    şefler kutulardan oyları çıkarıp sayarken, şeflerden biri kutudan elini nah işareti şeklinde çıkaracak diye çok korkuyorum.
+  entry_channels: tv,yeme-içme
 - entry_name: |
-    stepnenin ince olmasinin nedeni
-  entry_id:  81783576
-  entry_writer: mitdemstrom
+    jose mourinho
+  entry_id:  81770440
+  entry_writer: morethanwords
+  entry_fav_count: 15
+  entry_content: |
+    başta pogba, sanchez olmak üzere bazı şeref yoksunu futbolcuların sabote ettiği, kendisi için ayrılık çanlarının daha fazla çaldığı teknik direktör.
+  entry_channels: spor
+- entry_name: |
+    sevgiliyi tiner kullanırken yakalamak
+  entry_id:  81783096
+  entry_writer: fifalofiesta
   entry_fav_count: 13
   entry_content: |
-    siyasi bir entry okumayı beklerken şaşırdığım başlık.
-  entry_channels: anket,otomotiv
+    <a class="b" href="/?q=sevgiliyi+tinder+kullan%c4%b1rken+yakalamak">sevgiliyi tinder kullanırken yakalamak</a> diye okudum ama düşününce hangisi daha kötü karar veremedim.
+  entry_channels: 
 - entry_name: |
-    30 yaşına gelip 30 ağaç adı bilmeyen insan
-  entry_id:  81753645
-  entry_writer: devilred
-  entry_fav_count: 13
+    mastürbasyon teorisi
+  entry_id:  81782766
+  entry_writer: jracool
+  entry_fav_count: 10
   entry_content: |
-    başlığı açan yazar haklı. kendi adıma çok büyük eksiklik olduğunu düşünüyorum bunun. utanarak söylüyorum ki sadece ağaç değil, kuş, balık, çiçek türlerini de bilmem. yani ismen bilsem de cismen bilmem. oysa çok isterdim her birini ayrıntısıyla öğrenmeyi ve bilen insana da saygım büyük. <br/><br/>doğadan bu kadar kopuk yaşamak yaşamın hakkını verememek oluyor benim gözümde. çoğumuzun doğayı hakkıyla tanımaya imkanı olmadığının da farkındayım ve bu hepimiz adına üzüntü verici.<br/><br/>utancıma utanç katayım eklemesi: birkaç aydır ağaç dövmem var, "acaba bu ne ağacı" diye sormak yeni geldi aklıma. google'a yazıp görsellere bakacaktım ki üçüncü ağaçta tıkandım, ağaç adı bile gelmedi aklıma. sonra kopya yöntemi ile buldum ama canımı da çok sıktı bu iş.
-  entry_channels: anket
+    ya da en iyisi biz hadım iğnesi olalım daha da öyle bir derdimiz kalmasın dediğim gereksiz teori.
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     düşün ki o bunu okuyor
   entry_id:  81753339
@@ -315,45 +331,21 @@ data:
     keşke yanlıkşıkla mesaj atsan da sabaha kadar konuşsak.
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    sevgiliyi tiner kullanırken yakalamak
-  entry_id:  81783096
-  entry_writer: fifalofiesta
-  entry_fav_count: 9
-  entry_content: |
-    <a class="b" href="/?q=sevgiliyi+tinder+kullan%c4%b1rken+yakalamak">sevgiliyi tinder kullanırken yakalamak</a> diye okudum ama düşününce hangisi daha kötü karar veremedim.
-  entry_channels: 
-- entry_name: |
-    işine gelmeyene kezban diyen türk erkeği
-  entry_id:  81780485
-  entry_writer: hepinizden iyreniyorum
-  entry_fav_count: 3
-  entry_content: |
-    iyi başlığa denk geldim. daha bugün böyle bi durum yaşadım. <br/><br/>kilolarım ile yaptığım derin mülahazalar sonucu yolumuzu ayırmaya karar verdik. ikimiz için de sancılı geçen bu ayrılık fikrini eyleme dönüştürüp, bir oluşa hatta yeniden bir doğuşa sürüklemek için yakın arkadaşımın sürekli gittiği bir fitness klübüne kaydoldum. <br/><br/>bakın ben bu yaşıma kadar istisnasız her ortama girmişimdir, medeniyetle uzaktan yakından alakası olmayan bağcılarından insanlıktan bi haber cihangirine kadar... muazzam yatırım (çorluda tarla, esenyurtta arsa) fikirlerinin dolaştığı okey masalarından , kantın ideasının spinoza ile bağlantısının konuşulduğu çakma entelektüellerin bulunduğu kadıköy cafelerine kadar... <br/><br/>ama ben bu fitnes salonlarındaki gerzekler kadar saçma oluşumları hiç görmedim. hayret ve ibretle onları seyretmekten gerekli fiziksel aktiviteleri hep yarım yamalak yaptım kaç gündür. engel olamıyorum kendime. <br/><br/>neyse efendim. kendini hoca olarak tanıtan 1.60 boyundaki gri eşortmanlı eleman ile ilgili çok garip bir şey farkketim. oradaki tüm kızları elleme hakkının olduğunu düşünüyor olmalı.önüne gelen kızın bi tarafına vurup <br/><br/>‘başarıcaz gizeeemmm’ <br/>‘yapacağızzz ebruuu’ <br/>‘herkezz görecek sendeki değişimi burcuuuu’ <br/><br/>gibi çok saçma ve bir o kadar da garip tepkiler veriyor. (nemrut nalet çirkin biri olduğum için allahtan bana bulaşmadı şu ana kadar) . <br/><br/>işte bugün yine bi kızın göbeğine vurup ‘bebeğiiimm süpersiiinn’ demesiyle kızın adamı itmesi bir oldu. sonra bizim küçük enişte bi heheylendi ‘vay efendim sen kezbansın, sen herkes sana yürüyor sanıyorsun vs vs’ bir sürü şey söyleyip kızı gönderdi. garibim kız da kuyruğunu sıkıştıra sıkıştıra gitti. <br/><br/>insan hikayenin sonunda istiyor ki bir tane babayiğit çıksın da adamın ağzını burnunu kırsın. ama malesef bahsettiğim ortam ile ilgili düşüncelerimi bir kaç paragraf önce belirttim. <br/><br/>bu da böyle bi anım işte. <br/><br/>saygılar. sevgiler.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    üç galaksi ismi söyleyemeyen insan
-  entry_id:  81782241
-  entry_writer: articulated bus
-  entry_fav_count: 2
-  entry_content: |
-    astronomiye meraklı biri olarak benim de andromeda ve samanyolu dısında bulutsu mu galaksi mi, emin olarak söyliyebilecegim üçüncü bir gökadanın olmadığını farkettim. meraklısı için listesi: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.wikiwand.com/tr/Galaksiler_listesi" title="http://www.wikiwand.com/tr/Galaksiler_listesi">galaksiler listesi</a>
-  entry_channels: anket,bilim
-- entry_name: |
-    mastürbasyon teorisi
-  entry_id:  81782766
-  entry_writer: jracool
-  entry_fav_count: 2
-  entry_content: |
-    ya da en iyisi biz hadım iğnesi olalım daha da öyle bir derdimiz kalmasın dediğim gereksiz teori.
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
     kim milyoner olmak ister
   entry_id:  81782723
   entry_writer: sergeant kamarov
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     cüzdan sorusu öyle ibretlik ki... seyircilerin büyük bölümü bebekken gidip nüfus cüzdanını çıkartmış herhalde. bu kadar okuyup anlamaktan yoksunuz işte.
   entry_channels: tv
+- entry_name: |
+    sinema tarihinin en hüzünlü sahnesi
+  entry_id:  81784188
+  entry_writer: emre raghan
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=la+vita+e+bella">la vita e bella</a>)<br/><br/>oldum olası baba/oğul veya baba/kız konseptinde ki filmleri hatta oyunlarını çok sevmişimdir. bu konseptte yapılmış en güzel filmlerden biridir la vita e bella/life is beatiful. en taş kalpli insanların bile içinde bir şeyleri pırpır edecek kadar yoğun duyguya sahip bir filmdir. <br/><br/>konu ise : yahudi bir babanın ve oğlunun naziler tarafından ele geçirilip toplama kampına götürülmesi. fakat baba çocuğunun korkmasını istemediğinden ve onu korumak istediğinden dolayı. tüm bunların aslında bir oyun olduğunu ve kazanana bir tank hediye edeceklerini söylemesi ile başlıyor. <br/><br/>filmi hayatımda bir kere izlediğimden ve o da 6-7 sene önce olduğundan dolayı eğer yanlış veya eksik bir söylediysem lütfen hatamı düzeltin.<br/><br/>en hüzünlü sahne ise :<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>filmin sonunda çocuğun başına bir şey gelmesin diye kıytı köşe bir yere sakladıktan sonra babayı askerlerin alması. akabinde çocuk saklandığı yerden ona bakarken asker yürüyüşü yapması ve çocuğun görmediği bir yerde askerler tarafından vurulması. muhtemelen en duygusuz adamı bile duygulandıracak bir sahnedir.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>daha bir çok hüzünlü film vardır ama benim aklıma en çok bu film kazındı. belki de babama ve anneme inanılmaz derecede düşkün olduğumdan dolayı bu tarz aile bağı içeren filmler beni etkiliyor, bilemiyorum altan.
+  entry_channels: anket,sinema,spoiler
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  81755468
@@ -361,6 +353,22 @@ data:
   entry_fav_count: 1
   entry_content: |
     (bkz: <a class="b" href="/?q=erkek+yazarlardan+kad%c4%b1n+yazarlara+y%c3%bcr%c3%bcmeler">erkek yazarlardan kadın yazarlara yürümeler</a>)
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ekşi sözlük'teki erkek egemenliğinin sona ermesi
+  entry_id:  81782366
+  entry_writer: vodkaleamon
+  entry_fav_count: 1
+  entry_content: |
+    buyurdu baş kezban. bu güne kadar ilk mesajı atan hiç ben olmadım. en azından mesaj kutum rahatlar. yapın lan valla huzurlu bir sözlük ortamı deneyimleyelim. hatta siz entry falan da girmeyin oh <br/>edit: ekran görüntüsü alın kaçar birazdan<br/>edit 2: görüyorum ki hala eyleme uymayan kadınlar var. mesaj kutumda zırvalayıp duruyorlar. hayır ne güzel sevinmiştik
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81755312
+  entry_writer: nesekini
+  entry_fav_count: 1
+  entry_content: |
+    süryani şarabımla ve mezopotamya ovası manzarasıyla içinde bulunduğum veritabanı
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     ekşi itiraf
@@ -387,19 +395,11 @@ data:
     kısırlaştırılan kedimin, narkozlu ve gözleri kapalı haldeyken yatağa tırmanıp suratına yatması. yatakta bıraktığımda peşinden gelerek beni bulmadı kucağıma çıkması. bütün günü bütünleşmiş biçimde geçirmemiz. garip bir bağ, dibe vuran bir duygusallık yaşamanız. <br/><br/>sevgi, güven ve kurulan bağ mutluluğun kendisi. ötesi yok.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ekşi sözlük'teki erkek egemenliğinin sona ermesi
-  entry_id:  81782366
-  entry_writer: vodkaleamon
+    aşure
+  entry_id:  81769508
+  entry_writer: haksizfil
   entry_fav_count: 0
   entry_content: |
-    buyurdu baş kezban. bu güne kadar ilk mesajı atan hiç ben olmadım. en azından mesaj kutum rahatlar. yapın lan valla huzurlu bir sözlük ortamı deneyimleyelim. hatta siz entry falan da girmeyin oh <br/>edit: ekran görüntüsü alın kaçar birazdan<br/>edit 2: görüyorum ki hala eyleme uymayan kadınlar var. mesaj kutumda zırvalayıp duruyorlar. hayır ne güzel sevinmiştik
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  81755338
-  entry_writer: paulocoelho
-  entry_fav_count: 0
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="http://ribony.com/paulocoelho">http://ribony.com/paulocoelho</a> selamunaleyküm ben gaziosmanpaşa'dan ismet
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    8 yıldır oturduğum 60+ yaş standartlı apartmanda bir tane bile gelmemiştir. bana getirmeyeceksiniz de kime getireceksiniz yalnız yaşayan evden işe işten eve giden adamım, lafa gelince çok seviyorlar beni. aşure nerde? yok.. gelenekler ölmüş.
+  entry_channels: tarih,yeme-içme
 ---
