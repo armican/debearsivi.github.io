@@ -6,23 +6,15 @@ data:
     vaizlerin sürekli eş anlamlı kelimeler kullanması
   entry_id:  81829780
   entry_writer: frkr
-  entry_fav_count: 1027
+  entry_fav_count: 1033
   entry_content: |
     kelime başına ücret mi alıyorlar nedir.. mesela:<br/><br/>“ya rab! şu anda şu mekanda şu yerde şu mübarek camide seni anmak, seni zikr etmek için toplandık, bir araya geldik, evlerimizden işlerimizden ayrıldık, çocuklarımızdan ayrıldık, buraya geldik, huzurunda hazır nazır olduk, dua ediyoruz, sana el açıyoruz ya rab! ellerimizi şuna buna değil, sana kaldırıyoruz, sana yalvarıyoruz, içimizi sana döküyor ve senin için deşarj oluyoruz.”<br/><br/>özet: “şimdi buradayız ve dua ediyoruz.”<br/><br/>bir başka örnek: “demek ki neymiş efenim, maddi imkanı el veren, yeterince parası olan, ekonomik durumu iyi olan kimseler için hacca gitmek artık bir vecibedir, bir görevdir, boynunun borcudur ve bu borç ancak ve ancak bizzat ve bilfiil hacca giderek ödenir, yerine getirilmiş olur. eğer bu kişi, bu tuzu kuru şahıs hacca gitmezse (şimdi hepsini ters çevir) bu vecibeyi ifa etmemiş, görevini savsaklamış, boynunun borcunu ödememiş ve dolayısıyla ne yapmış olur, yapması gereken bir şeyi yapmamış olur (kişi hacdan geldi bu arada cümle bitene kadar).”<br/><br/>özet: zenginsen hacca gitmen şart.<br/><br/>biri buna dur diyecek mi, yoksa “dur yapma, etme eyleme” şeklinde eş anlamlı kelimeler mi kullanmamız gerekiyor?<br/><br/><a class="b" href="/?q=l%c3%a2hika+edit+ilave+ek">lâhika edit ilave ek</a>: 500 yıl öncesinden gelen giri özetini de buraya koyalım:<br/><br/>koyup tesbih-i mercânı<sup class="ab"><a title="(bkz: iphone demek)" href="/?q=iphone+demek" data-query="iphone demek">*</a></sup> seni kim dinler ey vaiz<br/>mufassal kıssa başlarsın, garîb efsane söylersin<br/><a class="b" href="/?q=b%c3%a2k%c3%ae">bâkî</a><br/><br/>ayrıca: bu ortak duygumuzun desteklerinizle gündeme gelmesinden mutlu mesut ve bahtiyar oldum. allah cümlenize sağlık, sıhhat ve afiyet (3in1) versin, bakın benim cümleme verdi bile!
   entry_channels: siyaset
 - entry_name: |
-    serdar ali çelikler'in müthiş gazeteciliği
-  entry_id:  81826482
-  entry_writer: patavatsiz sadrazam
-  entry_fav_count: 855
-  entry_content: |
-    futbol basliklarini takip eden suserler bilir; futbolla ilgili cogu sacma sapan, bir kismi da dunya futbolunu iyi takip etmemden mutevellit epey destekli trollemeler yapiyorum. bunlari yazip kahkahayi basip geciyorum. bunlardan biri su entry’di: (bkz: <a class="b" href="/entry/80721111">#80721111</a>) <br/>kisaca ozet geceyim: bir ay onceki bu troll entryde comolli’yle cocu’nun transfer nedeniyle kavga ettiklerini, cocu ve comolli’nin ajax’taki lasse schöne ve nuri sahin arasinda kaldiklarini ve anlasmazlik yasadiklarini; ayew’i comolli’nin istedigini, cocu’nun köln’deki drexler’i istedigini yazdim. yuzde yuz troll’du ve hayal urunuydu.<br/><br/>veee az once her gece yaptigim gibi uykuya dalmak icin bir program actim youtube’dan. cnnturkteki fuat akdag, serdar ali celikler, tayfun bayindir programi. tam uykuya dalicam, serdar ali celikler, heyecanli bir sekilde “bakin, cocu lasse schöne’yi istedi ama comolli tas koydu; ayew’i cocu istemedi, comolli iteledi, cocu aslinda drexler’i istiyordu” diye birebir benim troll entrymi sanki o anda oradaymiscasina hararetle anlatmaya basladi. tabi yatagimdan firladim, buyuk bir saskinlikla kahkahalar attim gece gece. buradan izleyebilirsiniz: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/5eqCghv6vfc?t=2940">https://youtu.be/5eqcghv6vfc?t=2940</a><br/><br/>hahahahahahahaha. ah be serdar abi, regista regista diyodun al sana regista schöne.<br/><br/>edit: offfff cnn alt yazi gecmis bi de cocu nuri sahin’i istedi diye ahahahahah<br/><br/>en cok da parmagini kaldirip draxler degil drexler demesinde gozlerimden yas geldi.<br/><br/>edit2: link duzeltildi.<br/><br/>serdar abi kizma ama burada hata sende. gelirsen iskocya'ya bi bira ismarlarim. bu arada ilgilenirsen elimde soyle bomba haberler var:<br/><br/>volkan demirel-cocu etli ekmek kavgasi: (bkz: <a class="b" href="/entry/81333994">#81333994</a>)<br/>feghouli'nin turk dizilerine sardirmasi: (bkz: <a class="b" href="/entry/81437249">#81437249</a>)<br/>ekici'nin cocu'ya ruyasini anlatip forma istemesi: (bkz: <a class="b" href="/entry/81592732">#81592732</a>)<br/>cocu'nun ali koc'a baskanim dememesi: (bkz: <a class="b" href="/entry/81278635">#81278635</a>)<br/>lucescu'nun almancilara turkce konusun demesi: (bkz: <a class="b" href="/entry/81135463">#81135463</a>)<br/>ali koc emre bol derbi oncesi bulusma: (bkz: <a class="b" href="/entry/81545292">#81545292</a>)<br/>elif elmas'in bana kiz gibi adin var diyorlar sizlanmasi: (bkz: <a class="b" href="/entry/81540387">#81540387</a>)<br/>cocu'nun tercumanina hollandaca ogren dayatmasi: (bkz: <a class="b" href="/entry/81465434">#81465434</a>)<br/>benzia'nin sakallarina comolli'den ultimatom: (bkz: <a class="b" href="/entry/81375039">#81375039</a>)
-  entry_channels: spor
-- entry_name: |
     euro 2024 için masraftan kurtulduk diyen rte
   entry_id:  81828751
   entry_writer: elestiri
-  entry_fav_count: 664
+  entry_fav_count: 666
   entry_content: |
     "itibardan tasarruf olmaz."<br/><br/>-recep tayyip erdoğan
   entry_channels: spor,siyaset
@@ -30,7 +22,7 @@ data:
     mülayim sert
   entry_id:  81830723
   entry_writer: pardonkuzenimyazdi
-  entry_fav_count: 579
+  entry_fav_count: 584
   entry_content: |
     patronuyla yaşadığı şu diyalogla cool tavrını ortaya koymuştur:<br/><br/>-bundan sonra haracı bana vereceksin. ben seni koruyacağım.<br/><br/>-sahi beni koruyabilir misin?<br/><br/>-koruyamazsam ölürsün. bu kadar basit.
   entry_channels: sinema,edebiyat
@@ -46,7 +38,7 @@ data:
     internetten tanışılan kız tarafından dolandırılmak
   entry_id:  81837598
   entry_writer: nadiren de olsa
-  entry_fav_count: 472
+  entry_fav_count: 491
   entry_content: |
     sürükleyici bir rezalet ancak daha sade bir hale getirilmesi gerekiyor. okuyucuyu sıkmamak lazım. neyse ki ben fantastik rezaletleri seven birisiyim. <br/><br/>rezalet puanım: 8/10.
   entry_channels: ilişkiler,haber
@@ -54,7 +46,7 @@ data:
     stand up'ına gülünmeyen adam
   entry_id:  81830547
   entry_writer: cigarillo
-  entry_fav_count: 452
+  entry_fav_count: 457
   entry_content: |
     üzmüştür.<br/>oğlum ben böyle şeylere çok üzülüyorum lan videoyu izleyemedim bile hemen başında kapadım. <br/>muhtemelen orada olsam sırf adam yıkılmasın diye tek başıma kahkaha atardım. <br/>zaten başıma ne geliyorsa bu vicdanım yüzünden geliyor mk.
   entry_channels: tv
@@ -62,7 +54,7 @@ data:
     karadeniz kültürünün artık itici olması
   entry_id:  81838385
   entry_writer: eylul firtinasi
-  entry_fav_count: 327
+  entry_fav_count: 340
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6nceden+%c3%a7ekici+miydi%3f">önceden çekici miydi?</a>)
   entry_channels: anket,tarih
@@ -70,7 +62,7 @@ data:
     suriyelilerin türkiye'de çocuk doğurma nedenleri
   entry_id:  81827908
   entry_writer: parabolik mikroorganizma
-  entry_fav_count: 285
+  entry_fav_count: 289
   entry_content: |
     senin merak ettiğin kadarcık düşünebilme kabiliyetleri olduğunu sanmıyorum
   entry_channels: siyaset,anket
@@ -78,39 +70,47 @@ data:
     türk kadınlarının hepsi travesti gibi
   entry_id:  81824970
   entry_writer: mutlu tuccar
-  entry_fav_count: 272
+  entry_fav_count: 282
   entry_content: |
     düşürmek gibi derdi olmayan ve konuya hakim, tecrübeli bir erkeğin yorumudur.
   entry_channels: ilişkiler,moda,magazin
 - entry_name: |
-    dua lipa'yı seksi yapan detaylar
-  entry_id:  81822318
-  entry_writer: mutlu tuccar
-  entry_fav_count: 262
-  entry_content: |
-    şu detaydır:<br/><br/>(bkz: <a class="b" href="/?q=cinsel+a%c3%a7l%c4%b1%c4%9f%c4%b1n+afrikas%c4%b1+olarak+t%c3%bcrkiye">cinsel açlığın afrikası olarak türkiye</a>)
-  entry_channels: anket,müzik,magazin
-- entry_name: |
     ilber ortaylı'nın kütüphanesini cbk'ye bağışlaması
   entry_id:  81843906
   entry_writer: orangutansikengergedan
-  entry_fav_count: 241
+  entry_fav_count: 267
   entry_content: |
     adam , kütüphanesini bağışlamış ; karakterini ve onurunu değil arkadaşlar . abartmaya gerek yok . belki bir kaç çomar okur bir şey öğrenir .<br/><br/>not: ilber ortaylı’ya ve şahsıma küfür etmek için mesaj kutumu yeşillendiren güzel kardeşlerim , memleket tarihi ilber ortaylı’dan öğrenmeyecekte fesli şam şeytanı deli kadir’den mi öğrenecek ?
   entry_channels: siyaset,eğitim
 - entry_name: |
+    dua lipa'yı seksi yapan detaylar
+  entry_id:  81822318
+  entry_writer: mutlu tuccar
+  entry_fav_count: 265
+  entry_content: |
+    şu detaydır:<br/><br/>(bkz: <a class="b" href="/?q=cinsel+a%c3%a7l%c4%b1%c4%9f%c4%b1n+afrikas%c4%b1+olarak+t%c3%bcrkiye">cinsel açlığın afrikası olarak türkiye</a>)
+  entry_channels: anket,müzik,magazin
+- entry_name: |
     kfc'de aile kovası'nın 75 lira olması
   entry_id:  81836759
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 205
+  entry_fav_count: 212
   entry_content: |
     bu zorla satilmiyor yeaa tayfa gelmeden yazayim dedim ama virus bu basliga da bulasmis.<br/>ulan adam 8 parca buta 75 tl yazmis neredeyse but basina 10 lira istiyor bizim asalak eksiciler de diyor ki zorla mi satiliyor yeme.<br/><br/>bu millete mustehak lan bu salaklara butun tanesini 50 liradan yazcan aslinda bu kerizlerden aldigin vergi ya da ek gelirle diger piyasa tuketicilerine uygun fiyata satcan. siz egitilemezsiniz.
   entry_channels: yeme-içme
 - entry_name: |
+    bayan ev arkadaşı arayan güvenlik görevlisi
+  entry_id:  81845840
+  entry_writer: eylul firtinasi
+  entry_fav_count: 177
+  entry_content: |
+    madem amaç insanlık, 'niye erkek öğrenci almiyorsun" diye sorulasi lavuk ilanı.
+  entry_channels: 
+- entry_name: |
     öğrenim kredisi geri ödemesi
   entry_id:  81834334
   entry_writer: royalsalute
-  entry_fav_count: 164
+  entry_fav_count: 167
   entry_content: |
     geçen seneki cengiz inşaat aflarından sonra ödemeyi bıraktığım borcum olur kendileri.<br/><br/>çok rahat ödüyordum zorlanmadan yada çakallıktan vs.. değil her boku peşkeş çektikleri şirketlere bide yüz milyonlarca lira vergi silinmesinden sonra ödememeye başladım, gelsin alsınlar.<br/><br/>edit: gelen linçler üzerine, af çıksın geri almasınlar demedim fark ettiyseniz. benim derdim o krediyle okuyan nice öğrenci kardeşlerim var fahiş faizle bu cocuklara geri ödettirirken gidip godomanların borçlarını siliyorsa devlet burada bir terslik var demektir. madem siliyorsun o zaman senin geleceğin olan bu gençlerede faizsiz vereceksin o krediyi, hatta ödeyemiyorsa o götoşlara yaptığın gibi sileceksin durumu olmayan, atanamayan, iş bulamayan arkadaşlarımın ne suçu var? <br/>benim kalan borcum 4 bin liraya faiz koymaları sikimde değil 8 bin yapsınlar şak öderim ama onların para babalarının borçlarını silerken ben çatır çatır aksatmadan ödediğim taksitleri zoruma gitti, elim gitmedi ödemeye ve ödemiyorum işte artık.
   entry_channels: eğitim,ekonomi
@@ -118,31 +118,15 @@ data:
     yeni dönemde ab ile yol alacağız
   entry_id:  81839809
   entry_writer: thirtyeightthousandfeet
-  entry_fav_count: 150
+  entry_fav_count: 154
   entry_content: |
     dis mihraklarin hangi ulkeler oldugu konusunda kafa karistiran aciklama.<br/><br/>reisin bu gun dis mihrak dedigi yarin kankasi oluyor.<br/><br/>dunku kankasi yarin ic mihrak veya dis mihrak oluyor. burasi cok enteresan.
   entry_channels: siyaset,haber
 - entry_name: |
-    bayan ev arkadaşı arayan güvenlik görevlisi
-  entry_id:  81845840
-  entry_writer: eylul firtinasi
-  entry_fav_count: 145
-  entry_content: |
-    madem amaç insanlık, 'niye erkek öğrenci almiyorsun" diye sorulasi lavuk ilanı.
-  entry_channels: 
-- entry_name: |
-    sosyal medya fenomenlerine gözaltı
-  entry_id:  81836808
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 123
-  entry_content: |
-    "istanbul'da düzenlenen operasyonda sosyal medya fenomenleri pucca, şam, burry soprano'nun aralarında bulunduğu 4 kişi gözaltına alındı. "<br/><br/>e üçünü söylemişsiniz zaten. dördüncüyü de saysaydınız ya!
-  entry_channels: haber
-- entry_name: |
     türkiye'de çiftlerin en çok kavga etme sebebi
   entry_id:  81840954
   entry_writer: nicklere ozgurluk
-  entry_fav_count: 116
+  entry_fav_count: 119
   entry_content: |
     kendisi ile mutsuz insan başkası ile mutlu olamaz.<br/><br/>yetersiz, ilgisiz ve bilinçsiz bir aile yapısı ile başlayan hayata, çarpık ve başarısız eğitim sistemi ekleniyor. kendini tanıma ve ifade etme yetisinin gelişmesine imkan verilmeyen insanlar yetişiyor. kendini ve beklentilerini tanıyamadan, kumar oynarcasına sırf tercih edilme, statüye kavuşma adına evlilikler yapılıyor. <br/><br/>huzur ve sağlık her şeydir arkadaşlar.
   entry_channels: anket,ilişkiler
@@ -150,10 +134,18 @@ data:
     okullarda zorunlu yardımcı kaynak alımı yasağı
   entry_id:  81841966
   entry_writer: cinayet saatinde uyuyakalmak
-  entry_fav_count: 90
+  entry_fav_count: 92
   entry_content: |
     veliler için olumlu çocuklar için olumsuz bir gelişme. neden 3.sınıf ortadoğu ülkesiyiz bu cümleden anlayabiliriz.
   entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    en sevilen diziyi bir replikle anlatmak
+  entry_id:  81836777
+  entry_writer: koutali
+  entry_fav_count: 69
+  entry_content: |
+    <a class="b" href="/?q=we+were+on+a+break">we were on a break</a>
+  entry_channels: anket,tv
 - entry_name: |
     1 ekim 2018 dolar kuru
   entry_id:  81838513
@@ -162,14 +154,6 @@ data:
   entry_content: |
     yapılan en büyük hata, doların bugünkü fiyatlanmasının gerçekten rahiple falan alakası olduğunu düşünmektir.<br/><br/>bu algı, bu psikoloji piyasalara yedirilse de ancak geçici bir takım düşüşlere vs. sebep olacaktır.<br/><br/>evvela sizin paranızın değeri uluslararası piyasa güvenine bağlıdır. berat albayrak'ın veya recep tayyip erdoğan'ın uluslararası piyasada ekonomik olarak itibarı veya sözlerinin güvenirliliği yoktur.<br/><br/>bunu hep beraber gördük mü? gördük.<br/><br/>amerikalı şirketlerle ve avrupalı şirketlerle ceolarıyla toplantı yapılmasının sebebi budur. "bize güvenin" sinyalidir.<br/><br/>şimdi itibarları olmadığı için amerikalı danışmanlık şirketiyle anlaşıp birazda olsun "itibar" edindiler, bu gerçek. <br/><br/>bu gerçeğin ışığında dolar normale gelmiyor, yapılan bütün müdahalelerle beraber düşüyor. <br/><br/>bakın dolar, %25 faiz yüzünden düşmüyor. dolar, enflasyon indi diye düşmüyor. dolar, türkiye üretim araçlarını düzeltti veya ekonomi bağımsız diye düşmüyor, eğitim de çağ atladı diye de düşmüyor.<br/><br/>aslına bakarsanız dolar düşmüyor. dolar 5,90 lira. doların 4 lira olması dahi krizdir. <br/><br/>bu fiyatlar inmeyecek. enflasyon devam edecek ve tansiyon artacak. merkez bankası yeniden faiz yükseltebilir mi? hayır.<br/><br/>sıkıştık kaldık ve son kozlarımızı oynadık.<br/><br/>ekim ayı oldukça zorluysa, kasım ayı daha da zorlu.<br/><br/>çünkü şu an sıfır noktasındayız, her geçen saniye bizim için iyiye gitmiyor.<br/><br/>ovp de herhangi bir reform falan yok, hala saraylarda lüks araçlarda dolaşıyor valisi malisi. imam halen 1 saat çalışıp 5000 lira maaş alıyor, muhtarlar kafileler halinde ispanyaya gönderiliyor. <br/><br/>passat mı çekeyim yanlarına gibi söylemler boşa çıkmadı ve elektrik+doğalgaz a inanılmaz zamlar geldi. <br/><br/>var olan kriz için "yok" denerek mi güvenilirlik artacak? <br/><br/>türkiye'nin kredi riski swapı (cds) 371, yani brezilyadan fazla. yani "battı" diye dalga geçtiğimiz yunanistandan fazla. yani "battı" denilen italyanın iki katı. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bloomberght.com/cds/turkiye-cds">https://www.bloomberght.com/cds/turkiye-cds</a><br/><br/>herkes burada konuşurken dikkat etsin. siz birilerini destekliyorsunuz diye insanları ateşe atamazsınız.
   entry_channels: siyaset,anket,ekonomi
-- entry_name: |
-    en sevilen diziyi bir replikle anlatmak
-  entry_id:  81836777
-  entry_writer: koutali
-  entry_fav_count: 63
-  entry_content: |
-    <a class="b" href="/?q=we+were+on+a+break">we were on a break</a>
-  entry_channels: anket,tv
 - entry_name: |
     para sıkıntısı olmasa iştigal edilecek meslekler
   entry_id:  81821711
@@ -182,7 +166,7 @@ data:
     lahmacun limonla yenmez
   entry_id:  81828760
   entry_writer: cinsizhoca
-  entry_fav_count: 47
+  entry_fav_count: 48
   entry_content: |
     çıkarın artık şu at gözlüklerini bari lahmacunu sınırsız yaşayalım. içine döner koyup yiyen insalar tanıyorum ...
   entry_channels: anket,yeme-içme
@@ -190,7 +174,7 @@ data:
     ali koç
   entry_id:  81821356
   entry_writer: pilavyemeyencinli
-  entry_fav_count: 46
+  entry_fav_count: 47
   entry_content: |
     (<a class="b" href="/entry/81810932">#81810932</a>) gerçekten ilginç bir sözlük bura. birisi tökezleyedursun, hemen uydurma hikayelere inanıp gömmeye başlayan çok garip bir topluluğu barındıran bir mecra burası. dünün en beğenilen 2. entrysini yazan, 100 küsur fav alan arkadaş ali koç'un başarısızlığıyla(!) ilgili bu kadar bilgiye nerden ulaşmış acaba? koç ailesinden falan heralde? <br/><br/>"tekrar geldi ulkeye. ama hic bir sirkette gorev almayacak fenerbahceyle ugrasacak sartiyla." yalan oğlu yalan. yahu adam fenerbahçe kulubunde 2006'dan itibaren yönetimde görev almaya başlamış. ondan 9 sene öncesinde yani amerikadan döndükten sonra 1997 yılında koç holding stratejik planlama grubu'nde yeni iş geliştirme koordinatörü olarak görev yapmaya başlamış ve ilerleyen yıllarda şirketin üst düzey pozisyonlarına atanmış. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.milliyet.com.tr/fenerbahce-nin-yeni-baskani-ali-koc-kimdir--molatik-8216/" title="http://www.milliyet.com.tr/fenerbahce-nin-yeni-baskani-ali-koc-kimdir--molatik-8216/">al biyografi</a>. hani hiç bir şirkette görev almayacaktı? şu an zaten tüsiad yönetim kurulunda, yapı kredi yönetim kurulunda, daha bir çok şirket vs yönetim kurulunda, <a rel="nofollow noopener" class="url" target="_blank" href="https://tr.wikipedia.org/wiki/Ali_Koç" title="https://tr.wikipedia.org/wiki/Ali_Koç">al bak</a><br/><br/>velhasıl, bir kere ayağınız kayıversin hemen üzerinize çullanabilecek tıynette bir milletiz biz. ekşiciler her ne kadar kendilerini soyutlamaya çalışsalar da bal gibi bu millettle aynı özelliklere sahipler.<br/><br/>not: bjk<br/><br/>edit: fenerbahçe taraftarına çağrım ali koç'tan desteklerini hemen çekmemeleridir. bu adam zaten başkan olmadan önce size günü kurtarmayı değil, geleceği kurtarmayı vaadediyordu. azizin çöplüğünden aniden harika bir takım çıkarmasını beklemeyin. sadece taraftarın kendisini hangi vaatleri göz önüne alarak seçtiğini hatırlayın.
   entry_channels: spor,siyaset,ekonomi
@@ -211,10 +195,18 @@ data:
     babam annemi dövdüğü sırada polisi arayıp babamı ihbar etmiştim. yaşım 9 idi.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
+    alternatif nilgün bodur aforizmaları
+  entry_id:  81844042
+  entry_writer: destroy everything
+  entry_fav_count: 31
+  entry_content: |
+    korkma, sönmez bu şafaklarda yüzen kırmızı sancak.
+  entry_channels: anket,edebiyat
+- entry_name: |
     2018/2019 sezonu sonunda küme düşecek takımlar
   entry_id:  81833549
   entry_writer: crystallizer
-  entry_fav_count: 26
+  entry_fav_count: 28
   entry_content: |
     huddersfield<br/>cardiff city<br/>fulham
   entry_channels: spor,anket
@@ -222,7 +214,7 @@ data:
     libidosu düşük kadın
   entry_id:  81841701
   entry_writer: burusmus a4 kagidi
-  entry_fav_count: 23
+  entry_fav_count: 25
   entry_content: |
     şühesiz ki birazdan burası " daha beni tanımamıştır keh keh keh" yazanlarla dolacaktır.
   entry_channels: ilişkiler,sağlık
@@ -235,34 +227,18 @@ data:
     akrep burcu insanlara sayıp söven kusursuz ve harika insanlara söylüyorum;<br/><br/>gördüğünüz her muameleyi sonuna kadar haketmişsinizdir emin olun.problem akrep burcu olan insanlarda değil, sizin karaktersiz birer yavşak olmanızdandır bir de böyle düşünün.
   entry_channels: ilişkiler
 - entry_name: |
-    alternatif nilgün bodur aforizmaları
-  entry_id:  81844042
-  entry_writer: destroy everything
+    son 20 yılda hortlayan 2 isim modası
+  entry_id:  81844178
+  entry_writer: zebadullah
   entry_fav_count: 22
   entry_content: |
-    korkma, sönmez bu şafaklarda yüzen kırmızı sancak.
-  entry_channels: anket,edebiyat
-- entry_name: |
-    evde sorunu yokken aldatan erkek
-  entry_id:  81845846
-  entry_writer: metrobuste yer kapan muhendis
-  entry_fav_count: 20
-  entry_content: |
-    şerefsizdir. sorunu varken de aldatan şerefsizdir. sorunun varsa çöz. aldatmayı sevimli bir şey olarak gösteremezsiniz.<br/><br/>yahu nasıl yedirebiliyorsunuz aldatmayı? sevmiyorsanız ayrılın, boşanın. var ya boyle tipleri gördükçe insanın aşka, sevgiye inancı ölüyor. iğrençsiniz yemin ediyorum.
-  entry_channels: ilişkiler
-- entry_name: |
-    yazarların izmir büyükşehir belediye başkanı adayı
-  entry_id:  81836024
-  entry_writer: gdr
-  entry_fav_count: 19
-  entry_content: |
-    sema pekdaş olmamalı o net.
-  entry_channels: siyaset,anket,ekşi-sözlük
+    43 yaşında iki isim sahibi olarak olmadığını iddia ettiğim modadır. yaşıtım da çok adam var bu şekilde olan. ne modası birader hangi mağaradan çıktın sen?
+  entry_channels: anket,moda
 - entry_name: |
     nilgün bodur
   entry_id:  81825511
   entry_writer: redkitin neden sevgilisi yok
-  entry_fav_count: 19
+  entry_fav_count: 21
   entry_content: |
     online kitap alışveriş sitelerinin sürekli önüme çıkarttığı <a class="b" href="/?q=sen+gittin+ya+ben+%c3%a7ok+g%c3%bczelle%c5%9ftim">sen gittin ya ben çok güzelleştim</a> kitabının popi(-leştirilmeye çalışılan, ısrarla) yazarı(yazarımsı). kişiliğini, karakterini bilmem. (intihal yaptığından falan da bahsediliyor.) ona laf etmeyeceğim zaten. <br/><br/>kitabını fuarda elime aldım, şöyle bir baktım. (online sitede içine bakamıyoruz tabii ki) 200 sayfadan fazla kitabı. fakat 72’lik puntolarla yazılmış yerleri var baya (ziplesen 30 sahife aq), birbiriyle alakası olmayan yazılar var içinde. facebook, instagramda paylaşılan, kamyon arkası yazıları gibi, görüntüsü dolu içi boş sözler. “her lafa verecek bir cevabım vardır ama hede hede hede” tarzındaki sözler. zerre edebi yanı yok. osuruktan teyyare selam söyle o yare. bir de yanlış hatırlamıyorsam 120. baskı falan yazıyordu üzerinde. bu ne görgüsüzlük. baskıları 10’ar 10’ar mı yaptın? <br/><br/>özetle;<br/><br/>senin yazdığın kitabı ben götümün arasına kalem sıkıştırarak yazarım. adını da “sen gittin ya ben amı götü dağıttım.” koyarım. kapağına da çatalımı koyarım. bizde göğüs çatalı olmadığından tabii çeşme ustası kıyafetiyle çekilir arka çatalı koyarım. idare edin.
   entry_channels: magazin
@@ -270,7 +246,7 @@ data:
     loris karius
   entry_id:  81840364
   entry_writer: karaage
-  entry_fav_count: 16
+  entry_fav_count: 19
   entry_content: |
     anladığım kadarıyla bu başlıkta adama nazar değdirmek için elimizden geleni yapıyoruz. ama ben bu oyunu bozarım.<br/><br/>bok gibi kalecidir, en az 60 tane gol yiyecek sezon sonuna kadar.
   entry_channels: spor
@@ -278,34 +254,26 @@ data:
     insana güncelleme gelse istenecek özellik
   entry_id:  81841396
   entry_writer: mhmetengineer
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     dişlerin hiç çürümemesi ve saçların hiç dökülmemesi..
   entry_channels: anket,programlama,teknoloji
 - entry_name: |
-    son 20 yılda hortlayan 2 isim modası
-  entry_id:  81844178
-  entry_writer: zebadullah
-  entry_fav_count: 15
-  entry_content: |
-    43 yaşında iki isim sahibi olarak olmadığını iddia ettiğim modadır. yaşıtım da çok adam var bu şekilde olan. ne modası birader hangi mağaradan çıktın sen?
-  entry_channels: moda
-- entry_name: |
-    1 ekim 2018 elektrik zammı
-  entry_id:  81821361
-  entry_writer: afi
-  entry_fav_count: 15
-  entry_content: |
-    an itibariyle başlamış, sürekli açık ışığı kapadım, gelin orospu çocukları!
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     neşeli kaprissiz anlayışlı huzur veren kadın
   entry_id:  81847158
   entry_writer: elaal
-  entry_fav_count: 11
+  entry_fav_count: 16
   entry_content: |
     en kısa zamanda terk edilecek kadındır.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    aşure soğuk mu sıcak mı yenir sorunsalı
+  entry_id:  81827426
+  entry_writer: bilgisayar
+  entry_fav_count: 14
+  entry_content: |
+    benim gibi sabırsızsanız sıcak yersiniz.<br/><br/>yanında da su bolcana.<br/><br/>sonra anneniz kızar üzerine narla fıstık fındık koyacaktım hemen yeme diye.<br/><br/>ananızın babanızın kıymetini bilin haytalar.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     parayla seks yapmak
   entry_id:  81827218
@@ -334,10 +302,26 @@ data:
     3 ekim 2018 porto galatasaray maçı
   entry_id:  81832137
   entry_writer: o s c a r
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     <a class="b" href="/?q=galatasaray">galatasaray</a>'in kendine ayrilan deplasman tribunu biletlerini genel satisa cikarmadigi mac. saga sola peskes cekilen biletler internette 450-500eur ya satiliyordu en son baktigimda. haliyle evsahibi tribununden bilet aldim ve maci portolular ile takip edecegim -ki benim gibi bir dolu galatasaray taraftari oldugunu biliyorum. yakismiyor bizim gibi bir camiaya hala goz gore gore su karaborsa olayina on ayak olmak, yazik.
   entry_channels: spor
+- entry_name: |
+    ekşi itiraf
+  entry_id:  81823332
+  entry_writer: drenicooo
+  entry_fav_count: 3
+  entry_content: |
+    yurttaki ilk gecem. ailem ve yakınlarım sürekli beni aradı. insanın yakınlarından değer görmesi güzel bir şey.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    son zamları nasıl okumalı
+  entry_id:  81844166
+  entry_writer: thearchitectt
+  entry_fav_count: 2
+  entry_content: |
+    diş macununun 35 tl olmasını ben şöyle okudum; misvak kullanmalıyız.
+  entry_channels: siyaset,anket,haber
 - entry_name: |
     fakir insanların genelde kötü kokması
   entry_id:  81847447
@@ -347,6 +331,14 @@ data:
     (bkz: <a class="b" href="/?q=hayallerde+ya%c5%9f%c4%b1yor+baz%c4%b1+ibneler">hayallerde yaşıyor bazı ibneler</a>)<br/>muhtemelen işsiz bir ergenin senaryosuna malzeme ettiği sıçmık.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  81829998
+  entry_writer: cadillacman
+  entry_fav_count: 2
+  entry_content: |
+    bana özelden saldıran arkadaşlar!..herkesin fikri kendini bağlar. bana katılmıyor olabilirsin eyvallah. saygı duyarım, ama kalkıp bana özelden döşeyip hakaret etmek nedir? kendinizi akıllı mı zannediyorsunuz? bir fikre katılmayabilirsin ama kalkıp karşıt fikre doğrudan saldırmak pek sağlıklı psikolojiye sahip insan davranışı değil. gidin başka yerde havlayın!..
+  entry_channels: anket,ilişkiler,edebiyat
+- entry_name: |
     charles aznavour
   entry_id:  81840143
   entry_writer: homongolos
@@ -354,14 +346,6 @@ data:
   entry_content: |
     yurtdışında konserini izlemişliğim, hatta bir röporajında ‘lokum yemek istiyorum’ dediği için lokum götürüp korumalarına vermişliğim vardır. o zaman 91 yasındaydı. toprağı bol olsun.
   entry_channels: siyaset,sanat,müzik,edebiyat
-- entry_name: |
-    son zamları nasıl okumalı
-  entry_id:  81844166
-  entry_writer: thearchitectt
-  entry_fav_count: 1
-  entry_content: |
-    diş macununun 35 tl olmasını ben şöyle okudum; misvak kullanmalıyız.
-  entry_channels: siyaset,anket,haber
 - entry_name: |
     sapyoseksüel olduğunu iddia eden kadın
   entry_id:  81837291
@@ -387,6 +371,14 @@ data:
     ''şu akımı yapacaksınız, şu şarkıyı popüler edeceksiniz, şu siki yiyecek, şu memeyi beğeneceksiniz" diyenlerin her dediğini yapan eziklerin zaten hesap açması baştan yanlışmış dediğim durum.
   entry_channels: ilişkiler,teknoloji
 - entry_name: |
+    dünyanın en kısa bilimkurgu hikayesi
+  entry_id:  81847601
+  entry_writer: mayka da picka
+  entry_fav_count: 1
+  entry_content: |
+    ol dedi ve oldu.
+  entry_channels: edebiyat
+- entry_name: |
     ilber ortaylı
   entry_id:  81843173
   entry_writer: career a
@@ -401,5 +393,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     (<a class="b" href="/entry/81839759">#81839759</a>) <br/><br/>cevap veriyorum, kesin piçtir bu. kendini bi bok da sanıyordur şimdi boy falan uzun ya. havalara bak hele havalara. kasıntı herif. <br/><br/>bunlar geçiyor cancağızım.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81823578
+  entry_writer: hzcesus
+  entry_fav_count: 0
+  entry_content: |
+    derdolar match cluba döndü buralar
   entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
