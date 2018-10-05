@@ -14,7 +14,7 @@ data:
     ideal seks süresi
   entry_id:  81978118
   entry_writer: yok be olum
-  entry_fav_count: 471
+  entry_fav_count: 477
   entry_content: |
     7 dağda 7 ateş yakıp 7. gecenin şafağına kadar sürmeli
   entry_channels: anket,ilişkiler,sağlık
@@ -22,7 +22,7 @@ data:
     annenin ilkokul mezunu cahil bir insan olması
   entry_id:  81975950
   entry_writer: tolkyy
-  entry_fav_count: 426
+  entry_fav_count: 434
   entry_content: |
     kırmızı renkli <a class="b" href="/?q=temel+britannica">temel britannica</a> ansiklopedileri vardı eskiden evimizde. okumayı söktükten sonra annem her hafta sonu belli konuları işaretleyip"oğlum yarın üniversiteye gidersen sende bir şeyler biliyor olursun. bunları oku sürekli " derdi. bazende siyasi atlas üzerinde il ve ülke bulmaca oynardık. çok iyi pişti oynardı ve her akşam bir kaç el atardı benimle. lise yıllarımda sınava hazırlanırken o soğuk odama sürekli ceviz getirirdi hafızaya iyi gelir diye. <br/><br/>şimdi bu anne ilkokul mezunu olsa ne profesör olsa ne? <br/><br/>veya bu anne cahil midir?
   entry_channels: ilişkiler,eğitim
@@ -30,7 +30,7 @@ data:
     konak'tan alsancak'a yürümek
   entry_id:  81987161
   entry_writer: atgmuls
-  entry_fav_count: 382
+  entry_fav_count: 397
   entry_content: |
     türkiye'nin en güzel yürüyüş rotalarından biridir, belki de birincisidir.<br/><br/>denize sıfır, eşsiz bir manzara eşliğinde yapılan yürüyüştür. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://d3k54assnrzth8.cloudfront.net/img/mekan/konakpier4.jpg?v=328" title="https://d3k54assnrzth8.cloudfront.net/img/mekan/konakpier4.jpg?v=328">konak pier</a>'in önünden, izmir'in en güzel yerleri, <a rel="nofollow noopener" class="url" target="_blank" href="http://kemeralti.info/wp-content/uploads/2017/03/pasaport-iskelesi1-kemeralti.jpg" title="http://kemeralti.info/wp-content/uploads/2017/03/pasaport-iskelesi1-kemeralti.jpg">pasaport</a> , <a rel="nofollow noopener" class="url" target="_blank" href="https://img-s2.onedio.com/id-570e2dc7fc4a0f283c93e8a5/rev-0/raw/s-87943044041664a1389db6d58fec16ae7cc4b68e.jpg" title="https://img-s2.onedio.com/id-570e2dc7fc4a0f283c93e8a5/rev-0/raw/s-87943044041664a1389db6d58fec16ae7cc4b68e.jpg">cumhuriyet meydanı</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://media-cdn.tripadvisor.com/media/photo-s/0e/f1/c6/f5/alsancak-kordon-boyu.jpg" title="https://media-cdn.tripadvisor.com/media/photo-s/0e/f1/c6/f5/alsancak-kordon-boyu.jpg">kordonboyu</a> geçilir.
   entry_channels: tarih
@@ -38,7 +38,7 @@ data:
     10 km için 213 tl alan taksici
   entry_id:  81985306
   entry_writer: akenatons
-  entry_fav_count: 375
+  entry_fav_count: 385
   entry_content: |
     işte bu dolandırıcılılar korunurken uber, "abd emperyalizminin ekonomik maşası" olarak lanse edilip yasaklandı.<br/><br/>sonra onu yasaklayanlar ekonominin denetimini mckinsey'e verdiler.<br/><br/>ne ilginç memleketiz.
   entry_channels: haber,ekonomi
@@ -46,7 +46,7 @@ data:
     ölürken oğluna su veren anne
   entry_id:  81985796
   entry_writer: keskin kurpe
-  entry_fav_count: 343
+  entry_fav_count: 351
   entry_content: |
     çok dokunaklı ve kahredici bir sahne, an. erkek, kendisinden ayrılmak isteyen kadını kurşunluyor. yanında 8 yaşındaki oğlu varken. sonra arabaya atlayıp gidiyor. annesi, çok korkan çocuğunu teskin etmek için ona su veriyor. ve sonra ölüyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/kadina-siddet/8-yasindaki-oglunun-gozleri-onunde-olduruldu,t_zkx6VK7E2ltUP_9bh9Yw" title="https://www.ntv.com.tr/kadina-siddet/8-yasindaki-oglunun-gozleri-onunde-olduruldu,t_zkx6VK7E2ltUP_9bh9Yw">https://www.ntv.com.tr/…uldu,t_zkx6vk7e2ltup_9bh9yw</a><br/><br/>meriç diyeceksiniz ama biz erkek milleti bazen insanlıktan çıkıyoruz.<br/><br/>edit: "meriç" sözcüğüne itirazlar geliyor. hak vermek de aklimdan geçiyor bu itiraza; ama sonra beni bu sözcüğü kullanmaya iten o baskının da görünür olması için kalmasına karar verdim.<br/><br/>edit 2: bir de çocuğa ulaşılması gerektiğini yazan yazarlara katildigimi ifade etmek isterim.
   entry_channels: haber
@@ -54,23 +54,15 @@ data:
     hintli ingilizcesi
   entry_id:  81982011
   entry_writer: tekkullanimlikhesap
-  entry_fav_count: 275
+  entry_fav_count: 279
   entry_content: |
     vaktiyle anakart tamirinin inceliklerini öğrenmek için izlediğim eğitim videoları ile tanıştığım, hintli arkadaşların ingilizlerden sömürgecilik yıllarının intikamını almak için ingilizce'nin ırzına geçtiğini düşünmeme sebep olmuş ağız. karikatürden fırlamış gibi duran dayının ağzını yaya yaya "ciiiiro, ciiiiiiiro" derken aslında "zero" dediğini çözmem 10-15 dakika sürmüştü. bu da böyle bir anımdır.
   entry_channels: edebiyat,eğitim
 - entry_name: |
-    3 ekim 2018 vasip şahin'in ekmek fiyatı açıklaması
-  entry_id:  81988381
-  entry_writer: 6six6
-  entry_fav_count: 261
-  entry_content: |
-    şimdi itfaiyeciler gelir hortum sikecekler sıraya girsin.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     kızların sözlüğü erkek düşürmek için kullanması
   entry_id:  81981953
   entry_writer: faysal bey
-  entry_fav_count: 245
+  entry_fav_count: 250
   entry_content: |
     her yolu deniyorlardı. başarılı olan alfa erkekliğini kanıtlayacaktı. başarılı olamayanlar ise emelleri uğrunda telef olacaktı. <br/>(bkz: <a class="b" href="/?q=national+geographic">national geographic</a>)
   entry_channels: ilişkiler,ekşi-sözlük
@@ -78,7 +70,7 @@ data:
     5 ekim 2018 yazar maaşlarına %20 zam yapılması
   entry_id:  81986799
   entry_writer: inne gozene gozo
-  entry_fav_count: 208
+  entry_fav_count: 212
   entry_content: |
     (bkz: <a class="b" href="/?q=5+ekim+2018+hala+maa%c5%9f+esprisi+yap%c4%b1lmas%c4%b1+rezaleti">5 ekim 2018 hala maaş esprisi yapılması rezaleti</a>)
   entry_channels: ekşi-sözlük
@@ -86,34 +78,26 @@ data:
     28 tl verilen kuşbaşılı pideden 3 dilim yiyen kız
   entry_id:  82002265
   entry_writer: muhayyer sunbule
-  entry_fav_count: 166
+  entry_fav_count: 211
   entry_content: |
     ahlaksız, onursuz, kendisinde ne karı ne de avrat olabilecek bir potansiyel taşıyan kızdır. ulan açlıktan ölüyorum demişsin. ben de dayanamamışım sana erzurum otağlarında serbest gezen danaların döşünden yapılan 28 tl’lik kuşbaşılı pide ısmarlamışım. yarım saatte yiye yiye üç dilim yer bi de üstüne ayy doydum ya diyiverir. zıkkım ye ağzına tükürdüğümün garısı.
   entry_channels: ilişkiler,yeme-içme
 - entry_name: |
-    evde bira yapıyorum zamlardan bana ne diyen kişi
-  entry_id:  81978419
-  entry_writer: metalhead23
-  entry_fav_count: 150
-  entry_content: |
-    günde minimum 5-6 bira, hafta sonları minimum 10-12 bira içen adamların aklına ihtiyacı olmayan kişidir. kafaya bak, çok içiyor diye otorite kesilmiş haspam.<br/><br/>kardeşim, tamam sen yine bu kadar iç de, bu konunun senin içtiğin bira adedi ile ne alakası var allah aşkına? adamın bu düzende kendince bulduğu yöntem, evde bira yapmak. adamın senin gibi su yerine bira içen arkadaşları yoktur örneğin, onu mu düşünecek yani? kriter bu olabilir mi amk?<br/><br/>ayrıca, keyfe keder içiyordur, tadımlık seviyordur, seni doyurmak zorunda mı? ister 40 şişe için 1 ay bekler, ister 3 ay, sorun nedir yani?<br/><br/>içki kültürü de başka bir şey ayrıca, çok içiyorum diyen adamın bu konuda otorite kabul edilmesi gibi bir durum söz konusu değil. bende kasa kasa ev birası var, duty free'den bile alırken 10 defa düşüneceğin kalitede dünya içkileri var, sen sırf deli gibi market birası içiyorsun diye beni eleştirecek adam değilsin.<br/><br/>şimdi sakin ol ve o elindeki şişeyi yere bırak.
-  entry_channels: siyaset,anket,yeme-içme,ekonomi
-- entry_name: |
-    ölünce bilincin karanlıkta kalma olasılığı
-  entry_id:  81982557
-  entry_writer: zagreus55
-  entry_fav_count: 147
-  entry_content: |
-    doğumdan önce nasılsa ölümden sonra öyle bir hiçlik olması muhtemel. tamami ile hiçlik. big bang öncesi gibi. aslında her insan doğumunu bir big bang olduğunu düşünürsek taşları daha rahat oturturuz.<br/><br/>edit: başlığı açan arkadaş çok güzel bir biçimde fikir üretmiş, felsefenin amacı da bu değil mi? eleştirmek yerine hipotez üretmekte fayda var. karşı hipotez olarak yorumlayabilirsiniz. insanları bu şekilde yargılamak yerine daha çok fikir daha çok soru sormaya iteklemek gerek. sonuçta ölüm ve sonrası, varoluş gibi kavramlar muamma bunlar üzerine fikir üretiyoruz. keşke bu şekilde daha çok başlıklar açılsa.
-  entry_channels: bilim
-- entry_name: |
     4 ekim 2018 malmö ff beşiktaş maçı
   entry_id:  81973075
   entry_writer: ourgodgivenrighttobeararms
-  entry_fav_count: 143
+  entry_fav_count: 144
   entry_content: |
     normalde galatasaray'lılar bu başlığa pek girmeyecekti. öyle bikaç taşak geçip bırakacaktı.<br/><br/>ama siz dün yaptığınız ezikçe saldırıyla bugün burayı fuhuş evine çevirdiniz olum. sabaha kadar sikeceğiz sizi burada. <br/><br/>"malmö cemaati iş başında len mk."<br/>"uefa'daki derin malmö..." <br/>"malmölü fedöcülerin kirli elleri..."<br/><br/>ahhahahahahahahhahahhhhahahahahah
   entry_channels: spor
+- entry_name: |
+    bedelli askerlik
+  entry_id:  81990223
+  entry_writer: tn23jmss
+  entry_fav_count: 132
+  entry_content: |
+    2 saat kadar once iskenderun'dan terhis belgemi alip birlikten ayrildim. deniz er egitim alayinin tarihteki ilk bedellileriydik. 4. tabur 19. boluge bagli olarak gunlerimizi gecirdik ve sivil hayattan secerek dahi bulamayacaginiz baba adamlarin komutasi altindaydik. ozellikle mehmet gulaz komutanima cok tesekkur ediyorum. hem uzman cavuslarimiz, hem de astsubaylarimiz iyi kalpli insanlardi. biz zorlanmadik ancak diger boluklerden zorlananlara sahit olduk. dolayisiyla sadece sans diyebilirim. egitimler icin izmir foca amfibi tugaydan 6 tane tegmen boluklerle ilgilendi, onlarin da hepsi iyi insanlar gozlemlendigim kadariyla.<br/><br/>yemekler genel manada guzel. alay ve tabur komutanlari haril haril calisiyor ama iskenderun 3000 kisiyi sadece yatiracak bir yer. kantinlere gittiginizde dedigimi anlayacaksiniz. izdiham. komutanlar oraya hicbir sey yapamaz. onlar 1500 istemis, 3000 yollamislar. <br/><br/>bedelli yapiyorsunuz diye aile terbiyesi almis kisilerle olacaksiniz sanmayin. duvara sican da var, tiras bicagini tuvalette birakan da. pis bir irkiz biz. ona gore gidin. <br/><br/>tshirt ve boxer'dan 20'ser tane mutlaka goturun. yikayamazsiniz. corap yine minimum 15. ayakkabi yok. bot var. bildiginiz postal. hayvanlar gibi vuracak. sabredin. sabretmezseniz 20 gun vurur. esnemesi lazim. <br/><br/>yaninizda 2 adet bulasik eldiveni goturun. tuvalet nobetiniz olacak, 2 kez denk gelir. hayvanlar gubreliyor. pisuvarlara pecete atiyor davarlar. maske de goturebilirsiniz 2 adet. edit8: elalemin b.kunu elle temizlemeye bayilan sigirlar eldivene laf ediyor. b.k temizledigin firca bile b.klu. comar her yerde comar iste.<br/><br/>dus olayi rahat. sicak su var. <br/><br/>insanlar size kotu davranmiyor. hatta uyari gitmis bedellilerle dalasmayin diye. yine de cavusa "ne diyosun lan" demeyin. diyeni gordum. <br/><br/>simdilik boyle. varol mehmet komutanim, ayagina tas degmesin firat kalkani kahramani onder astsubayim, sagolasiniz samet, okay, akif, mete cavuslarim. <br/><br/>sorunuz olursa yazarsaniz entry'yi editleyerek cevap verecegim. 4.30'dan beri ayaktayim biraz gecikirsem affola.<br/><br/>edit1: 2 gun yol izniniz varsa 18 gun, 1 gun yol izniniz varsa 19 gun askerlik yapiyorsunuz.<br/><br/>edit2: iskenderun sicak. isterseniz daha az tshirt boxer goturun. ama bence riske girilmez. ben her gun eskisini attim. ayakkabi boyasi ve cilasi goturun. metal aski goturun. bak cok kritik bir nokta: kulak tipasi goturun. yara bandi sart. saatiniz kesin olsun. caniniz sikiliyor emin olun en az 2 kitap goturun.<br/><br/>edit3: kapida cep telefonunuzu aliyorlar. akilli telefonu yani. bitmesine 2 gun kala verirler. <br/><br/>tiras olayi sorulmus. ben 2 gunde bir oldum da ne biliyim yani bizimki canakkale sakali anca cikiyor :) tirasa onem veriliyor. temiz olmalisiniz.<br/><br/>edit4: sac tirasi konusunda berberinize guvenin. asiri kisaltmaniza gerek yok. 3 numara cok abarti. <br/><br/>boluge kacta teslim olalim denmis. bence en gec 11'de gidin. 20.00'da bile teslim olabilirsiniz. kendi bileceginiz is. ben garantici adamim. :)<br/><br/>edit5: arkadaslar iskerderun ozelinde de olabilir ama askeriye size boxer, corap ve havlu vermiyor. kesinlikle kendiniz goturun valla islak ve g.tu acik kalirsiniz :)<br/><br/>edit6: havalimaninda indikten sonra taksiler 25'er liraya merkeze goturuyor. onlari tercih edin. <br/><br/>tuvalet nobeti bana oldugu gibi herkese koymus :)) var maalesef gercek. nobet gelen gun temizliyorsunuz. <br/><br/>dus havlusu sorulmus. kantinden alabilirsiniz ama bence kendiniz getirin.<br/><br/>edit7: sivil hat sokabilirsiniz askercell sart degil. aslinda sivil hat yasak ama goz yumuluyor. ha "ben yarak kafaliyim, gun icinde, 13.00'da filan ortada konusurum, yemekhanede telefonum calar" derseniz o yumduklari gozleriyle skerler :)<br/><br/>edit8: elalemin b.kunu elle temizlemeye bayilan sigirlar eldivene laf ediyor. b.k temizledigin firca bile b.klu. comar her yerde comar iste.<br/><br/>edit8: yukarida bir paragraf icine tasindi. <br/><br/>edit9: gotureceginiz kitabin niteligine karismazlar. <br/><br/>ic camasiri renginin hicbir onemi yok.<br/><br/>edit10: bein var. maclar izleniyor ama mac izlenen ortamda oksijen yok. girerseniz hasta cikma olasiliginiz var. ciddi futbolsever olarak soyluyorum bunu, hic mac izlemeye yeltenemedim. hafif bas donmesi basliyor :)
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     2018 ekonomik krizini film repliğiyle anlatmak
   entry_id:  81983159
@@ -126,15 +110,15 @@ data:
     5 ekim 2018 fenerbahçe duyurusu
   entry_id:  81999219
   entry_writer: bully bastard
-  entry_fav_count: 103
+  entry_fav_count: 108
   entry_content: |
     helal olsun fenerbahçe'ye. babasının takımı zanneden ne kadar topçu varsa kadro dışı kalıp, sürünsün. hiçbir futbolcu ne beşiktaş'tan ne fenerbahçe'den ne de galatasaray'dan büyük değil. sapına kadar doğru karardır.<br/><br/>darısı canım takımım beşiktaş'ın başına.
-  entry_channels: spor
+  entry_channels: spor,haber
 - entry_name: |
     m. akşener'in evinin basılmasının yeni görüntüleri
   entry_id:  82001120
   entry_writer: the tempest
-  entry_fav_count: 95
+  entry_fav_count: 106
   entry_content: |
     utandıran görüntülerdir.<br/>"evini basmış olsalar şimdi kodesteydiler" diyenler, siz evinize iki metre kala, bu şekilde bir grup tarafından "bir gece ansızın gelebiliriz" şeklinde bağıra çağıra tehdit edilseniz bunun adı "demokratik olarak eleştiri hakkını kullanmak" mı olacaktı.. <br/>ya huuu. valla artık toptan delirdik.
   entry_channels: siyaset,haber
@@ -142,34 +126,42 @@ data:
     volkan demirel
   entry_id:  81999292
   entry_writer: yarasagozlukartal
-  entry_fav_count: 94
+  entry_fav_count: 98
   entry_content: |
     vallahi şans eseri yaşıyoruz çok değil daha dün kadroda olduğu maçı izlemiştim.
   entry_channels: spor
 - entry_name: |
+    2018 ekonomik krizi
+  entry_id:  81981046
+  entry_writer: duranadam
+  entry_fav_count: 94
+  entry_content: |
+    ekonominin halipürmelalini fırsatçı esnafa bağlayan hükümet kanadı yine tarihi bir pişkinlik örneği sergiliyor. kendi açıkladıkları verilere göre üretici fiyat endeksi 46 iken tüketici fiyat endeksi 24,5.<br/><br/>yani bırak fırsatçılığı, üretici artan maliyetleri dahi karşılayamamış yaptığı zamla.<br/><br/>siz orwell’a tabutta rövaşata çektirecek kadar yalancı, arsız ve şerefsizsiniz. vizitesini ödediğiniz eli kalem tutan köşe kapmış orospular bunları yazmasa da tarih yazıyor kendiliğinden. bedavaya.
+  entry_channels: siyaset,bilim,tarih,haber,ekonomi
+- entry_name: |
     sahibinden.com'daki iç mimardan kiralık daire
   entry_id:  82000152
   entry_writer: screenwriter
-  entry_fav_count: 70
+  entry_fav_count: 74
   entry_content: |
     daha çok piç mimardan kiralık daireye benziyor.
   entry_channels: ekonomi
 - entry_name: |
-    loris karius
-  entry_id:  81972743
-  entry_writer: borkluce mustafa
-  entry_fav_count: 69
+    aldatılmak küçük memeli kadının kaderidir
+  entry_id:  81998574
+  entry_writer: otostopcu musunuz ne ayak lan
+  entry_fav_count: 73
   entry_content: |
-    yediği golde hatası yokmuş. aynı golü tolga yese rahmetli anasının mezarı üstünde tepinecek herifler sırf yakışıklı yabancı diye bunu koruyor. bunlarla aşık atılmaz ya bunların beyni süngerleşmiş.<br/><br/>yediği gollerin çoğunda hatası olan, tinercilerin goat demesine rağmen bu sene beto ve muslera'dan daha alt kalibrede olduğu görülen overrated futbolcu/manken.<br/><br/>not: izmirliyiz göztepeliyiz
-  entry_channels: spor
+    tam “ne kadar iğrenç bir başlık” deyip küfür edecektim ki görseldeki hatunu görüp vazgeçtim. o ney lan öyle. tansiyonum düştü aq.
+  entry_channels: anket,ilişkiler
 - entry_name: |
-    avrupa yakası için gülse birsel'e baskı yapmak
-  entry_id:  81984800
-  entry_writer: bilemiyorum altan bilemiyorum
-  entry_fav_count: 69
+    ilk buluşmada sürekli cep telefonuyla oynayan kız
+  entry_id:  81977054
+  entry_writer: jesse faraday
+  entry_fav_count: 70
   entry_content: |
-    nafiledir. son sezonları bile kalite anlamında ilk sezonlarından fersah fersah uzaktayken yıllar sonra çekilecek avrupa yakası, birsel'in de son yıllardaki vasat mizah anlayışı ve cast seçimi düşünüldüğünde aynı tadı vermeyecektir diye tahmin ediyorum.<br/><br/>açın youtube'dan volkan'la sertaç'ın maymun terinden afrodizyak erkek parfümü yapmaya çalıştığı<sup class="ab"><a title="(bkz: allah belanı versin sertaç)" href="/?q=allah+belan%c4%b1+versin+serta%c3%a7" data-query="allah belanı versin sertaç">*</a></sup> bölümü izleyin, idare edin işte.
-  entry_channels: tv,magazin
+    anasının amına kadar yolu olan kızdır.<br/><br/>siktir edin lan böylesini uğraşmayın, akıllı olun.
+  entry_channels: ilişkiler
 - entry_name: |
     türk kızlarının gitgide erkek gibi olması
   entry_id:  81989646
@@ -182,18 +174,18 @@ data:
     yazarların küçük ama etkili tasarruf yöntemleri
   entry_id:  81978407
   entry_writer: nighthawkcourt
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     kredi kartlarını hemen kesip atmak. 3 ay sikinti çekiyor insan. tüm alış verisini nakit yapmak. ay basında mutfak bütçesi, egllence bütçesi, çocuğun harcligi, ev aidatı, temizlik icin gelen yardimcinin parası diye zarflar hazırlayıp onlarla yasamak. bazen mutfak bütçesi 3 haftada bitiyor, evde bir suru unutulmuş malzeme oldugunu fark edip onları kullaniyorsun, en kotu bir un çorbası yapıyorsun. netice de insan öyle de boyle de doyuyor. zarf isi iyi calisiyor, ben kuaför vs tüm harcamalar icin zarflar hazırladım, boylece neyi nereye harcadigimi bilip, kart ekstresi gelince fenalık geçirmiyorum. deneyin.
   entry_channels: anket,ekşi-sözlük,ekonomi
 - entry_name: |
-    cenaze evinin yemek dağıtması
-  entry_id:  81988873
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 44
+    en son gerçekten mutlu hissedilen an
+  entry_id:  81972650
+  entry_writer: aut caesar aut nihil
+  entry_fav_count: 40
   entry_content: |
-    diyanet hakli beyler.<br/><br/>gecen sene bi cenaze evine gitmistim teyzenin biri bi yandan agliyor bi yandan da helva yiyor. sey dedi ev sahibine dr oetker'le mi yaptiniz bunu dedi..
-  entry_channels: ilişkiler,yeme-içme
+    (bkz: <a class="b" href="/?q=30+kas%c4%b1m+1925+tekke+ve+zaviyelerin+kapat%c4%b1lmas%c4%b1">30 kasım 1925 tekke ve zaviyelerin kapatılması</a>)
+  entry_channels: anket,ilişkiler
 - entry_name: |
     erkeklerin zeki kadın sevmemesi
   entry_id:  81990754
@@ -203,22 +195,6 @@ data:
     yanlış önermedir.<br/><br/>zeki kadını değil kendini zeki zanneden kadını sevmeyiz.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    en son gerçekten mutlu hissedilen an
-  entry_id:  81972650
-  entry_writer: aut caesar aut nihil
-  entry_fav_count: 38
-  entry_content: |
-    (bkz: <a class="b" href="/?q=30+kas%c4%b1m+1925+tekke+ve+zaviyelerin+kapat%c4%b1lmas%c4%b1">30 kasım 1925 tekke ve zaviyelerin kapatılması</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    hamam böceği unundan ekmek yapmak
-  entry_id:  81997771
-  entry_writer: birakin mermiler havada kalsin
-  entry_fav_count: 36
-  entry_content: |
-    küresel gıda yetersizliği riskine karşı <a class="b" href="/?q=birle%c5%9fmi%c5%9f+milletler">birleşmiş milletler</a> in, insanların böcek tüketimini de beslenme alışkanlıklarına katması önerisi üzerine <a class="b" href="/?q=brezilya">brezilya</a>' lı <a class="b" href="/?q=g%c4%b1da+m%c3%bchendisleri">gıda mühendisleri</a> tarafından üretilen ekmek. <br/>bizim ülkemizde resmi olmasa da zaten yıllardır <a class="b" href="/?q=ekmek">ekmek</a> , <a class="b" href="/?q=pasta">pasta</a> ve bilumum yemeklerde kullanılıyordu. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>brezilyalı gıda mühendisleri, küresel nüfus artışı karşısında hayvansal proteinin yetmeyeceği düşüncesiyle afrika ülkelerini örnek aldı ve böceklerden yapılan bir un türü geliştirdi.<br/>birleşmiş milletler (bm) 2050 yılına dek dünya nüfusunun yaklaşık 9,7 milyara ulaşacağını öngörüyor.küresel gıda yetersizliği riskine karşı bm'nin önerisi, insanların böcek tüketimini de rejim alışkanlıklarına katması.<br/>güneydoğu asya ülkeleri başta olmak üzere dünyanın birçok yerinde böcek, protein kaynağı görevinde. böcekler hem doğada varlar, hem de masrafa neden olmuyorlar.<br/>ancak ekmeğin şehirlerde birçok insanı yerinden zıplatan hamam böcekleriyle yapıldığı örnekler pek yok.<br/>brezilyalı araştırmacılar da unu yaparken, nauphoeta cinerea cinsi hamam böceğini (ıstakoz ya da benekli hamam böceği de deniyor) kullandılar.<br/>kuzey afrika kökenli bu haşere, tarantula örümcekler ile kertenkeleler gibi egzotik ev hayvanlarına da yem olarak veriliyor.<br/>bu böceklerin özelliği, kafeste tutulduklarında çok kolay ve hızlı üremeleri.<br/>brezilya'daki rio grande üniversitesi'nden gıda mühendisleri andressa jantzen ve lauren menegon, hamam böceklerini iki sebepten seçmiş:<br/>protein zengini olmaları (kırmızı et yüzde 50, hamam böcekleri ise yüzde 70 protein oranına sahip)milyonlarca yıl, evrimsel süreçlere rağmen genetiğini koruyarak hayatta kalmış olmaları jantzen, "bu canlılar evrimle beraber değişen çevreye ayak uydurmayı sağlayan çok iyi bir yapıya sahip olmalı" diyor.iki araştırmacı, ekmekleri üretmek için kilosu 51 dolar olan kurutulmuş hamam böceklerini laboratuvarda öğütmüş.<br/>ekmek tarifinde yüzde 10 böceklerden geliştirilen un, yüzde 90 normal buğday ürünleri kullanılmış. bu bile şaşırtıcı sonuçlar almaya yetmiş.<br/>bbc brezilya servisi'ne konuşan andressa jantzen, hamamböceklerinin ekmekteki protein içeriğini yüzde 133 artırdığını söylüyor. geleneksel ekmeğin 100 gramlık bir diliminde 9,7 gram protein varken, hamamböcekli ekmekte 22,6 gram var.<br/>jantzen, "bu tarifle yağ oranını da yüzde 68 azalttık" diyor.<br/>brezilyalı araştırmacıya göre, bu ekmeğin tat olarak diğerlerinden çok büyük bir farkı da yok.<br/>ekmeğin tadı, kokusu, dokusu ve renkleri ile ilgili duyusal analizler gerçekleştirdik. önemli bir değişiklik gözlemlemedik ama bazıları ekmekte hafif bir yer fıstığı tadı hissedebilir. <br/>beslenme uzmanı prof. enio viera, insanların böcek tüketimi üzerine çalışıyor.<br/>viera'ya göre, beslenme alışkanlıklarımıza daha birçok hayvanı katabiliriz: arılar, karıncalar, kelebekler, çekirgeler ve akrepler gibi...<br/>böcekleri yemek olarak kabul etmenin kültürel bir zorluk yarattığına da dikkat çeken viera, "oysa birçok kez tozlaştırılmış böcek yiyor, farkına bile varmıyoruz" diyor.<br/>viera ayrıca, böceklerin çevreye etkisinin birçok geleneksel gıda türüne oranla daha hafif olduğunu söylüyor:<br/>1 kg kırmızı et üretmek için 250 metrekare toprak gerek. oysa ki hamam böceklerini 30 metrekarelik alana koyup aynı oranı yakalayabiliriz. üstelik suya da daha az ihtiyaç duyulur: 1 kg kırmızı et için 20 bin litre su gerekirken, 1 kg böcek için bin litre yeterli."<br/>brezilya böcek yetiştiricileri kuruluşu'na göre, tropikal iklimi sayesinde brezilya 95 tür ile en büyük yenebilir böcek çeşitliliğine sahip.<br/>bm'ye göre dünya üzerinde böcek yiyenlerin sayısı 2 milyarın üzerinde.<br/>jantzen ve menegon, şimdi de kek, bazı yağ türleri ve tahıllı gofretler gibi böcekten geliştirdikleri yeni besleyici ürünler üzerinde çalışıyor.<br/>öte yandan brezilyalılar şimdilik süpermarket raflarında hamam böcekli ekmeğe rastlayamayacak çünkü ülkedeki sağlık yetkilileri halen haşerelerin sadece diğer hayvanları beslemek için kullanılmasına izin veriyor.<br/>ispanya ise şimdiden böcekli gıdaları ticarileştirmeye başladı. carrefour süpermarket zinciri, ülkede cırcırböceği ve bazı larva türleriyle yapılmış atıştırmalıklar satıyor.<br/>ingiltere'de de eat grub şirketi, fırınlanmış çekirge ve kurtçuklarla evlere sipariş hizmeti veriyor.<br/>abd'li araştırma şirketi global market insights'a göre, küresel yenebilir böcek pazarı önümüzdeki 5 yılda 700 milyon doları aşabilir.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="http://m.gazetevatan.com/kirmizi-etten-fazla-protein-iceren-hamam-bocekli-ekmek-1206637-dunya/?utm_source=twitter.com&amp;utm_medium=post&amp;utm_campaign=vtn-vtn-dunya&amp;utm_content=1206637" title="http://m.gazetevatan.com/kirmizi-etten-fazla-protein-iceren-hamam-bocekli-ekmek-1206637-dunya/?utm_source=twitter.com&amp;utm_medium=post&amp;utm_campaign=vtn-vtn-dunya&amp;utm_content=1206637">yatırım tavsiyesidir</a>
-  entry_channels: 
-- entry_name: |
     bir kitabın tırt olduğunu anlama yöntemleri
   entry_id:  81985681
   entry_writer: frege
@@ -227,18 +203,18 @@ data:
     sayfalarına kocaman kocaman puntolarla, kezban atasözleri basmış olmasıdır. <br/><br/>"çingeneler bağıra çağıra kavga eder, prensesler bir bakışıyla döver."<br/><br/>bütün sayfaların kocaman kocaman puntolarla yazılmış bu cümlelerle dolu olduğunu düşünün...<br/><br/>ve işin acıklısı, bu kitabın yüz binlerce sattığını hayal edin.
   entry_channels: anket,edebiyat
 - entry_name: |
-    güzellik hariç erkekleri aşık ettirebilecek şeyler
-  entry_id:  81976648
-  entry_writer: postmodernist
-  entry_fav_count: 24
+    boşalınca atmaya kıyamadığımız şeyler
+  entry_id:  81997697
+  entry_writer: kedileriseverimonlarolmadanduramam
+  entry_fav_count: 31
   entry_content: |
-    çevresini iyi gözlemlemiş veya bu konuda tecrübe yaşamış yazarlar tarafından dile getirilmiş ama ben de yazmak istiyorum. güzellik hariç erkekleri aşık ettirebilecek hiçbir şey yoktur. <br/>aksini iddia ederek henüz hayatının başında olan ve bu konuda tercübe yaşamamış güzel olmayan kızlarımızın boşuna ümitlenmesine sebep olmayın. burada bir sürü özellik sayılmış. ne yazık ki işin aslı öyle değil. güzel kadın, erkeğe olduğundan daha zeki görünür. güzel kadın, erkeğe daha merhametli görünür. güzel kadın, erkeğe daha iyi kalpli görünür. güzel kadın, erkeğe olduğundan daha esprili görünür. güzel kadın, erkeğe daha entelektüel görünür. güzel kadın, erkeğe daha derin görünür. çirkin kadın ise bu özelliklerin hepsine sahip olsa bile erkeğe sadece çirkin görünür.
-  entry_channels: anket,ilişkiler
+    sevgilim.
+  entry_channels: anket
 - entry_name: |
     en iyi oyun menüsü müziği
   entry_id:  81993382
   entry_writer: spiritus sanctus
-  entry_fav_count: 24
+  entry_fav_count: 25
   entry_content: |
     tabii ki <a class="b" href="/?q=fifa+98">fifa 98</a>, tabii ki <a class="b" href="/?q=blur">blur</a> - <a class="b" href="/?q=song+2">song 2</a><br/><br/>bir <a class="b" href="/?q=natural+born+gamer">natural born gamer</a> olarak hayatımda bu kadar gaza getiren ve oyuna yakışan bir müzik daha duymadım. <br/><br/>şöyle ki; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=iwilfNqxoT8">https://www.youtube.com/watch?v=iwilfnqxot8</a>
   entry_channels: anket,müzik,oyun,teknoloji
@@ -251,21 +227,13 @@ data:
     ben bir galatasaraylıyım ve bu adama karşı sempatim var. nedeni de soma faciasında ailelerin borcunu ödemesi. siz ayı diyerek hakaret ediyorsunuz ama herkesten daha insan olduğunu o hareketiyle ispat etti.
   entry_channels: spor,anket
 - entry_name: |
-    parasına kesinlikle değen şeyler
-  entry_id:  81973013
-  entry_writer: askeriucret750tlolsun
-  entry_fav_count: 22
+    un ithal edeceğiz fiyatlar düşecek
+  entry_id:  82005336
+  entry_writer: roseman butcher
+  entry_fav_count: 21
   entry_content: |
-    legodur. ben legosu olup mutsuz olan çocuk görmedim. eline yeter miktarda lego verilen çocuk dünya şey yapar sıkılmaz nerdeyse hiç.
-  entry_channels: anket,ekonomi
-- entry_name: |
-    yasin öztekin
-  entry_id:  82003086
-  entry_writer: sancili90
-  entry_fav_count: 20
-  entry_content: |
-    bu adamların derdi bu işte. yabancı sınırı varken büyük takımlara alındılar bu adamlar, çok paraya.<br/><br/>şimdi kazanmak için çalışmak zorundalar. çünkü (bir sporcu olarak söylüyorum) sporcu iseniz çalışmadan hiçbirşey kazanamazsınız.<br/><br/>bakın siyasette işin piçliğini bulursunuz, memuriyette bulursunuz, atıyorum mühendislikte tıpta vs bulursunuz. çok yeteneklisinizdir, işi artık otomatik yapıyorsunuzdur ve çok çaba harcamadan büyük işler yapabilirsiniz.<br/><br/>ama dünyanın en yetenekli sporcusu olsanız bile çalışmadan bir adım öteye gidemezsiniz.çünkü spor dediğiniz şey sizin vücudunuza karşı verdiğiniz bir mücadeledir ve bu mücadelenin kestirme bir yolu yoktur.<br/><br/>bu nedenle iyi sporcu kazanmak için çalışmak zorundadır. büyük takımlarımız bu sporculara kestirme yolu göstermek 'zorunda kaldığı için' bu adamlar da büyük takımlarda başarısız oldular. bunun örneği kendisidir. ve bir çok örneği de vardır.
-  entry_channels: spor
+    (bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcyor+mu+b%c3%b6yle">düşüyor mu böyle</a>) <br/>öyle oluyorsa bakanları da ithal edelim maaşları düşsün
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     mesleğini bir cümleyle anlatmak
   entry_id:  81974268
@@ -275,26 +243,26 @@ data:
     bana doğruyu söylersen ben senin yerine yalanı söylerim.
   entry_channels: anket
 - entry_name: |
-    iz bırakan kitap cümleleri
-  entry_id:  81978236
-  entry_writer: eller cepte
-  entry_fav_count: 20
-  entry_content: |
-    aptalların tahakkümüne, günahsızların cezalanmasına; faziletin susmasına ve ihtirasların gürültüsüne, hikmet ehlinin tahrik edildiğine ve nadanların alkışlandığına şahit oldu.<br/><a class="b" href="/?q=kurtar%c4%b1lamayan+%c5%9faheser">kurtarılamayan şaheser</a>/<a class="b" href="/?q=de%c4%9firmen">değirmen</a><br/><a class="b" href="/?q=sabahattin+ali">sabahattin ali</a>
-  entry_channels: sanat,edebiyat,spoiler
-- entry_name: |
-    aldatılmak küçük memeli kadının kaderidir
-  entry_id:  81999199
-  entry_writer: harun tekin
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  81972622
+  entry_writer: eksimtrack
   entry_fav_count: 17
   entry_content: |
-    (bkz: <a class="b" href="/?q=aldat%c4%b1lan+k%c3%bc%c3%a7%c3%bck+memeli+k%c4%b1zlar+eklesin">aldatılan küçük memeli kızlar eklesin</a>)
-  entry_channels: anket,ilişkiler
+    sarılmak istiyorsunuz ama daha dokunamıyorsunuz bile değil mi?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    buram buram çomar kokan semtler
+  entry_id:  82000836
+  entry_writer: becauseyouunforgiven
+  entry_fav_count: 16
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bak%c4%b1rk%c3%b6y">bakırköy</a>) özellikle hafta sonları. hicret ediyorlar resmen, gelmeyin amk yeter!
+  entry_channels: siyaset,anket,eğitim,ekonomi
 - entry_name: |
     bostanlı'dan karşıyaka'ya yürümek
   entry_id:  81992049
   entry_writer: bedoksk
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     benim gibi istanbul'da yaşayan bir karşıyaka'lı için süper olaydır. zaten sık sık ziyaret edilemeyen topraklara gidince insanın içini sevinç ve hüzün kaplar aynı anda. çocukluk aşkları, kaybettiğimiz aramızdan ayrılan arkadaşlarımız, oyunlarımız, kavgalarımız, demokrasi parkının arkasında üzerinde şarap içtiğimiz yıkık iskele,bostanlı açık hava tiyatrosu( eskiden adı suat taşer değildi ya da biz bilmezdik) yunuslar,tuna pastanesi, heyecanla boru kurdu alıp yelken kulübünün orada olta attığımız beton marina, gökyüzüne uzanan yolumuz ve dikenleri, evlendirme dairesi, 06 pastanesi,yerde fıstık, yalı spor, çarşı girişi, midyeci ahmet bunların hepsini bu 3 km kadar kısa yürüyüşte yad edebilirsiniz. galiba özledim iğde kokularını.
   entry_channels: seyahat
@@ -302,82 +270,90 @@ data:
     istanbullu gelin
   entry_id:  82003299
   entry_writer: budevirdenicknegezer
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>kartlar iyi geldiği zaman kibirli olmak çok kolay. ben kendi seçemediklerimin toplamıyım.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> -<br/><br/>edit: ağlamıyorum, gözüme <a class="b" href="/?q=f%c4%b1rat+tan%c4%b1%c5%9f">fırat tanış</a> kaçtı. üstad sen oyuncu falan değilsin. bambaşka bir şeysin. ayakta alkışlıyorum.
   entry_channels: tv,spoiler
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  81972622
-  entry_writer: eksimtrack
+    yazarlara whatsapp'tan gelen son mesaj
+  entry_id:  81996136
+  entry_writer: istemeyi bileceksin
   entry_fav_count: 13
   entry_content: |
-    sarılmak istiyorsunuz ama daha dokunamıyorsunuz bile değil mi?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://s1.eksiup.com/e1191b6aa299.jpg">https://s1.eksiup.com/e1191b6aa299.jpg</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük,teknoloji
 - entry_name: |
     organize işler 2
   entry_id:  81973682
   entry_writer: amizbey
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     müslüm denilen hıyar varsa tadından yenmez.
   entry_channels: sinema,spoiler
 - entry_name: |
-    bağcılar'dan esenler'e yürümek
-  entry_id:  81996211
-  entry_writer: anthrax80
-  entry_fav_count: 10
-  entry_content: |
-    gün boyu izmirli yazarların başlık açtıkları güzergahlar sonrası istanbul’da yaşayanlar olarak verebileceğimiz cevaplardan bir.<br/><br/>ömrümün en uzun, ömrümün en kısa...
-  entry_channels: anket
-- entry_name: |
     balık yedikten sonra gelen laiklik hissi
   entry_id:  82004505
   entry_writer: redkitincinselhayati
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     (bkz: <a class="b" href="/?q=makarna+yedik%c3%a7e+gelen+ekonomi+s%c3%bcper+lan+hissi">makarna yedikçe gelen ekonomi süper lan hissi</a>)
   entry_channels: siyaset,yeme-içme
 - entry_name: |
-    venom
-  entry_id:  81994495
-  entry_writer: kolombre
-  entry_fav_count: 4
+    sevgilisini pideciye götüren fakir erkek
+  entry_id:  82005612
+  entry_writer: gratis
+  entry_fav_count: 7
   entry_content: |
-    (bkz: <a class="b" href="/?q=s%c4%b1k%c4%b1lmadan+izledim+seyircisi">sıkılmadan izledim seyircisi</a>)
-  entry_channels: müzik,sinema,edebiyat
+    biz de kız arkadaşımla birlikte mahalle pidecisinde severek lahmacun ayran yapıyoruz. kendisi bu durumdan hiç şikayetçi değil aksine seviyor.ben de seviyorum zaten. evet fakirim ama karşımdaki insanda anlayışlı,saygılı,karakteri oturmuş birisi. ingiliz kraliyet kültürü ile yetişmedik. fakirliği yadırgayacak kadar karaktersiz de değiliz çok şükür.
+  entry_channels: 
+- entry_name: |
+    bir şiirin tamamını anlatan tek mısrası
+  entry_id:  81975701
+  entry_writer: bosbakan
+  entry_fav_count: 6
+  entry_content: |
+    bir umudum sende<br/>anlıyor musun? <br/><br/>ahmet arif
+  entry_channels: anket,edebiyat
+- entry_name: |
+    osmanlı'nın geri dönüyor olduğu gerçeği
+  entry_id:  82004956
+  entry_writer: yooooo
+  entry_fav_count: 5
+  entry_content: |
+    sizin ben ümmetinizi sikiyim.<br/><br/>kim lan bu ümmet dedikleri? kiiim laan bunlar?
+  entry_channels: siyaset
 - entry_name: |
     ekşi itiraf
   entry_id:  81978374
   entry_writer: serguzestyani
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     bi insana keşke daha güzel olsaydım o zaman beni severdi diye düşündürten davranışlar sergileyecek kadar kötüsünüz.
   entry_channels: anket,ilişkiler,ekşi-sözlük,sanat,sağlık,eğitim
 - entry_name: |
-    buram buram çomar kokan semtler
-  entry_id:  82001450
-  entry_writer: libertas08
+    yasin öztekin
+  entry_id:  82002408
+  entry_writer: graphicarts
   entry_fav_count: 4
   entry_content: |
-    istanbul aksaray'dır bu konuda master yapmıştır. 14. dalaylamadan ders almıştır.
-  entry_channels: siyaset,anket,eğitim,ekonomi
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://img-s1.onedio.com/id-53e793dda44264623a5cd2ba/rev-0/w-635/listing/f-jpg-webp/s-53898c18c0ac42d7881ed3524ca01945e21499a0.webp" title="https://img-s1.onedio.com/id-53e793dda44264623a5cd2ba/rev-0/w-635/listing/f-jpg-webp/s-53898c18c0ac42d7881ed3524ca01945e21499a0.webp">böyle</a> olacağı aklıma gelmezdi.
+  entry_channels: spor
 - entry_name: |
-    bilinen en uzun sıra bekleme kuyruğu
-  entry_id:  81979699
-  entry_writer: pul
+    atilla yeşilada
+  entry_id:  81998150
+  entry_writer: selahattin ibrahimovic
   entry_fav_count: 4
   entry_content: |
-    fransız konsolosluğu bahçesindeki vize kuyruğu. 2007 yılıydı sanırım. yeşil pasaportumla yıllarca estirmiş biri olarak böyle bir şeyin varlığına şaşırırken tipik bir ortadoğulunun isyanına eşlik eden itaatle bekliyorum. iş arkadaşımla günün belli saatleri gelip bu kuyrukta sosyalleşiyoruz. evet günlerce sürdü kuyruk. <br/>aslında medeniyet de var ortamda çünkü ertesi gün geldiğinde senin sıranı kimse kapmış olmuyor. selamlaşıp, gününü anlatıyorsun. <br/>çay kahve kek getiren, mekan önerisinde bulunan, mesleğini öğrenip iş teklif eden, daha neler neler...<br/>hah işte neler biliyor musun? kuyrukta aşırı, dev, manyak yakışıklı bir adam var. o zamanlar benim de iş arkadaşımın da manitası olduğu için uzaktan izlemekle yetiniyoruz. ama imkanı olan arkadaşlar fırsatı değerlendiriyor ve bir kızımız tavlıyor adamı. <br/>ne kuyruklar var değil mi? geçen yıl öğrendim ordan sonra işi ilerletip evlenmişler bunlar. ama sonra boşanmışlar. olsun yaşadıkları kar...<sup class="ab"><a title="(bkz: ne anlatıyordum lan ben)" href="/?q=ne+anlat%c4%b1yordum+lan+ben" data-query="ne anlatıyordum lan ben">*</a></sup>
-  entry_channels: anket
+    pena youtube kanalındaki buyrun benim videosunda yüksek doz trollük yaparak cuma günümüzü şenlendirmiş, ülkedeki ekonomik bilinci ve farkındalığı arttırmak için büyük emekler vermiş ve vermekte olan ekonomist.<br/><br/>seviyoruz ve keyifle takip ediyoruz hocam
+  entry_channels: tv,ekonomi
 - entry_name: |
-    yazarlara whatsapp'tan gelen son mesaj
-  entry_id:  81996709
-  entry_writer: leejinah
+    bir saniyeden uzun süre göz teması kuramamak
+  entry_id:  82003875
+  entry_writer: one cut the source of the flow
   entry_fav_count: 3
   entry_content: |
-    yorgunluktan 1 saat kadar önce sızmışım. korkunç bir rüyadan uyandim. heyecanla beni sakinlestirsin diye arkadaşımı arayacağım. telefonumda 1 cevapsız arama var yaklaşık 1 saat öncesine ait. ayrıca da okunmamış whatsappten 18 mesaj. peki ama ne yapmış bu mesajları gönderen şahıs? evet arkadaşlar tutup ben okumayınca yani o sırada uykuda olduğum için görüp okuyamayinca kurtlandı sanırsam. tüm mesajları silmiş. <br/><br/>ben de merakımdan aradım telefon kapalı şimdi de ben kurtlaniyorum.
-  entry_channels: anket,ilişkiler,ekşi-sözlük,teknoloji
+    net bir sosyal anksiyete belirtisidir.
+  entry_channels: anket
 - entry_name: |
     istemeden hemcinsinle sevişmek zorunda kalmak
   entry_id:  82004526
@@ -387,19 +363,43 @@ data:
     -borcum ne kadar?<br/>+100 tl.<br/>-taksimetre'de 80 yazıyor?<br/>+20 tl otopark ücreti.<br/>-iyi adam sikiyorsunuz.
   entry_channels: ilişkiler
 - entry_name: |
-    osmanlı'nın geri dönüyor olduğu gerçeği
-  entry_id:  82004745
-  entry_writer: mutlu tuccar
+    ömer kavili
+  entry_id:  82005230
+  entry_writer: josemontana
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=osmanl%c4%b1%27ya+hasta+adam+d%c3%b6neminden+giri%c5%9f+yapmak">osmanlı'ya hasta adam döneminden giriş yapmak</a>)
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şüphelin tüm bu eylemleri birlikte değerlendirildiğinde amacının halkın gözünde yargının(y büyük) ve mahkemelerin(m büyük) itibarsızlaştırılmak olduğu, adalete olan güveni sarsmayı amaçladığı..<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yargıya ve mahkemelere olan güveni ve itibarı avukat tutuklayarak ve tutuklama zabıtlarında bu kurumların baş harflerini büyük yazarak sağlamaya çalışanlarca tutuklanmıştır.
   entry_channels: siyaset
 - entry_name: |
-    erken boşalma
-  entry_id:  82003780
-  entry_writer: renksiz hayat
+    venom
+  entry_id:  81982927
+  entry_writer: yalancidunyanindertlicambazi
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=be%c5%9f+dakikal%c4%b1k+seksi+bir+saatte+yapmakla+%c3%b6v%c3%bcnmek">beş dakikalık seksi bir saatte yapmakla övünmek</a>)
+    eleştirileri gördükten sonra beklentilerimi sıfıra düşürerek izledim ama buna rağmen mutsuz bir şekilde sinemadan ayrıldım. film gerçekten kötü.<br/><br/>boş vaktiniz ve boşa harcayacak paranız varsa gidin görün ama vaktiniz ve paranız değerliyse gitmenizi hiç tavsiye etmiyorum.
+  entry_channels: müzik,sinema,edebiyat
+- entry_name: |
+    şeyma'ya protez bacak alıyoruz
+  entry_id:  81993663
+  entry_writer: rwthaachen
+  entry_fav_count: 0
+  entry_content: |
+    uppp
+  entry_channels: sağlık
+- entry_name: |
+    erken boşalma
+  entry_id:  82005311
+  entry_writer: post tenebras lux
+  entry_fav_count: 0
+  entry_content: |
+    bazen oluyor arkadaşlar, çok kafaya takmayın. sürekli oluyorsa gençsinizdir. yine kafaya takmayın. belli bir olgunluk sonrası sürekli oluyorsa sevişmelerinizin arası uzun oluyordur. biraz daha düzenli sevişin.
+  entry_channels: ilişkiler,sağlık
+- entry_name: |
+    birine sarılma ihtiyacı hissetmek
+  entry_id:  82004208
+  entry_writer: ellerimusuyor
+  entry_fav_count: 0
+  entry_content: |
+    ben de artik sadece cocuklara hatta toddler dediklerine karsi olabilendir. buz kestim adeta hicbir insanda sicaklik duyabilecegim seyler kalmadi. yilmaz morgul "herkes ikiyuzluuuu herkesss ikiyuzluu" derken ne kadar da hakliymis meger.
   entry_channels: ilişkiler,sağlık
 ---
