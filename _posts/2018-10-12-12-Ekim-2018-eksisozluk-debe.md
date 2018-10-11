@@ -6,31 +6,23 @@ data:
     atatürk'ün amerikan mandası istediği mektubu
   entry_id:  82194962
   entry_writer: blackian
-  entry_fav_count: 1907
+  entry_fav_count: 1928
   entry_content: |
     konudan tamamen bağımsız olarak önemli bir bilgi vermek istiyorum;<br/><br/>dünya üzerinde görülmüş görülecek en büyük orospu çocukları 2002-2018 tarihleri arasında iki kıtanın birleştiği noktalarda görülmüştür.
   entry_channels: siyaset,tarih,haber
 - entry_name: |
-    jandarma komutanının çılgın üniforması
-  entry_id:  82186618
-  entry_writer: zinaedenzidan
-  entry_fav_count: 608
-  entry_content: |
-    siyasal islam estetiksizdir, şıklıktan uzaktır. siz hiç islamcı bir belediyenin yaptığı parkın güzel olduğunu, islamcı bir insanın yaptığı restorasyonun güzel olduğunu ya da ne bileyim bir tane başarılı bir eserlerini gördünüz mü? <br/><br/>tarihi bir tabloyu yeniden düzenlerler at kafasına çevirirler, binlerce yıllık tarihi eserleri restore edeyim derken dinlenme tesisi tuvaleti olur.<br/><br/>bu adamlar böyle yapacak bir şey yok. ellerinden gelen anca bu kadar o nedenle hiç kızamıyorum artık.<br/><br/>edit : artık ben bu ülkeyi anlayamıyorum. adam bu entry'i bile cimer'e şikayet etmiş. içinde hakaret yok, küfür yok, rencide edici bir şey yok. sadece benim fikirlerimden oluşan bire entry. tamam fikirlerimizi özgürce söyleyemiyoruz ama bu kadarıda fazla sanırım. hukukçu olan varsa bir zahmet bana bu entry de yanlış olan şeyi açıklar mı ?<br/>edit2 : özelden gelen hakaretler için açıklamak istedim ben islam tarihini değil siyasal islamı anlatmak istiyorum. islam tarihinde güzel eserler elbet var. siyasallaştıktan sonra yapılan eserlerden bahsettim sanırım yanlış anlaşılıyor.
-  entry_channels: haber
-- entry_name: |
     arda turan hakkında yakalama kararı çıkması
   entry_id:  82205159
   entry_writer: attan dusen inek
-  entry_fav_count: 425
+  entry_fav_count: 471
   entry_content: |
     ulan galatasaray&gt; atletico madrid&gt; barcelona&gt; başakşehir&gt; vatan emniyet kariyere bak muazzam
-  entry_channels: spor,haber,magazin
+  entry_channels: haber,magazin
 - entry_name: |
     konkordatoya türkçe isim önerileri
   entry_id:  82197741
   entry_writer: biravucsukuicin
-  entry_fav_count: 358
+  entry_fav_count: 370
   entry_content: |
     odeyecez kaçmıyoruz ya.
   entry_channels: anket,edebiyat,ekonomi
@@ -38,23 +30,15 @@ data:
     sahibinden.com'daki obsesif hijyen takıntılı araba
   entry_id:  82191085
   entry_writer: cenkdesouza
-  entry_fav_count: 337
+  entry_fav_count: 338
   entry_content: |
     aracı şebeke suyu ile yıkadığı için ilgilenmediğim araç.<br/>sahibine mesaj attım bundan sonra damacana su kullanmasını tavsiye ettim.<br/>şebeke suyunun içindeki kireç araca zarar verebilir.
   entry_channels: teknoloji,sağlık,otomotiv
 - entry_name: |
-    ev savunması için en iyi silah
-  entry_id:  82180893
-  entry_writer: nostalgiaman
-  entry_fav_count: 291
-  entry_content: |
-    av tüfeği ya da toplu tabancadır.<br/><br/>evvela av tüfeği:<br/><br/>edinmek kolay. sağlık testi ve 20 küsur liralık (aklımda kalan rakam, biraz artmıştır) yivsiz tüfek ruhsatı ile alabiliyorsunuz. hastaneye ve emniyete gideceksiniz, o kadar. ayrıca tüfekler ekseriyetle tabancalardan ucuzdur, özellikle yerli olanlar. av ve performans amaçlı almadığınız için ucuzu işinizi görür. <br/><br/>lever action, pompalı gibi özelliklere gerek yok. lever actionlar muadillerinden daha ağır oluyorlar. size hafif, 7+1 hazneli, dolu ağırlığı 4 kg üstüne çıkmayan bir tüfek lazım. alıp fişek süreceksiniz, 4 ya da 5 adet fişek sürün. atışa hazır hale getirin. duvara asın. ayda bir fişekleri çıkartın, birkaç saat bekletin, tekrar sürün. <br/><br/>evde çocuk varsa tavsiye edilmez. bir şekilde aşırı görünür ve ulaşılır halde olması da kötü.<br/><br/>toplu tabanca:<br/><br/>neden şarjörlü değil de toplu? derdiniz evinizi savunmak. olası bir saldırıda hemen ve aksiliksiz bir şekilde karşılık vermek. <br/><br/>şarjörlü tabancaları uzun süre dolu tutarsanız şarjör (yayı) bozulabilir. metal yorgunluğu gibi düşünün. her ay şarjörü boşaltıp yeniden doldurmanız lazım. başıma geldiğinden biliyorum, kesinlikle unutacaksınız. umarım hiç ihtiyacınız olmaz, ama ihtiyaç hasıl olursa da şarjör bozulduğundan tutukluk yaparsa, fişeği yatağa sürmezse sıkıntı yaşarsınız.<br/><br/>toplu tabancaların böyle sorunları yoktur. doldurun ve yıllarca dursun. elinize aldığınızda ilkel mekanizma ilk günkü gibi çalışacaktır başka bir sorunu yoksa. esasen kullanım maksatları farklı olduğunda toplu tabanca tercih edilmez, doldurmak zordur, yedek şarjör yoktur, vs. ama sizin için tek işlev ev savunması ve 6 adet mermi işinizi görecektir. (evinizi swat ekibinin basmasını beklemiyorsanız) hele ki magnum gibi yüksek barut hakkı olan mermiler kullanan bir tabancaysa durdurma gücü de daha yüksektir. araba durduran magnum çeşitleri vardır. tek bir mermi saldırganın değdiği organını kopararak etkisiz hale gelmesine neden olur, tehdidi bertaraf etme işlevi çok iyidir. <br/><br/>ruhsat işlemlerinizi yapın (hastane raporu ve bulundurma için 1500 lira civarı para), gidin yerli malı bir toplu tabanca alın. pek tavsiye edilmez yerli malı ama ucuz olacaktır. biraz ağırdır ama tüfekten daha yüksek manevra kabiliyetiniz olacak. eğer hafif olsun istiyorsanız en kısa namlu boyunu tercih edin. kapalı ve dar alan savunması için aldığınızdan bir sorun teşkil etmeyecektir. tabancanızı aldıktan sonra bir kere doldurun, evde en çok zaman geçirdiğiniz odada kolay erişebileceğiniz bir çekmece ya da bölmeye koyun. çocukların erişiminden uzak tutmak daha kolaydır.
-  entry_channels: anket,teknoloji
-- entry_name: |
     osmanlı'nın genelde tırt bölgeleri ele geçirmesi
   entry_id:  82200437
   entry_writer: eryusa
-  entry_fav_count: 246
+  entry_fav_count: 266
   entry_content: |
     (bkz: <a class="b" href="/?q=ipek+yolu">ipek yolu</a>) (bkz: <a class="b" href="/?q=15.+y%c3%bczy%c4%b1l">15. yüzyıl</a>) (bkz: <a class="b" href="/?q=ak%c4%b1l">akıl</a>)(bkz: <a class="b" href="/?q=fikir">fikir</a>)
   entry_channels: siyaset,tarih
@@ -62,7 +46,7 @@ data:
     park ederken en çok kullanılan kelimeler
   entry_id:  82189778
   entry_writer: coxcomb
-  entry_fav_count: 234
+  entry_fav_count: 238
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9funun+sesini+k%c4%b1s+bi">şunun sesini kıs bi</a>)
   entry_channels: anket,edebiyat,otomotiv
@@ -70,7 +54,7 @@ data:
     dövme yaptıranların genelde boş insanlar olması
   entry_id:  82187967
   entry_writer: obispo
-  entry_fav_count: 214
+  entry_fav_count: 215
   entry_content: |
     80'li yıllara kadar avrupai kültüre sahip, marjinal, çok azınlık insanlar dövme yaptırır, alaturka zihniyetteki arabesk tipler beğenmezdi. şimdi ne kadar vasat altı, minibüs şoförü, nargileci, arabesk tip varsa dövme yaptırıyor, daha rafine bir zevke sahip insanlar beğenmiyor.<br/><br/>yani haklılık payı günden güne artan iddia.
   entry_channels: anket,moda
@@ -78,23 +62,15 @@ data:
     11 ekim 2018 muş'ta 5 teröristin öldürülmesi
   entry_id:  82197236
   entry_writer: orantisizgutan
-  entry_fav_count: 208
+  entry_fav_count: 213
   entry_content: |
     muş varto ilçesinde jandarmanın dur ihtarına uymayarak kaçmaya çalışan 5 adet yaratığın indirilme görüntülerini içerir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.haberler.com/mus-ta-5-teroristin-etkisiz-hale-getirildigi-11320527-haberi/" title="https://m.haberler.com/mus-ta-5-teroristin-etkisiz-hale-getirildigi-11320527-haberi/">link</a><br/><br/>videoda dikkati çeken detay, araçtan inip ellerini kaldıran teröriste” dur dur ellerini kaldırıyor” diyen ve o anda bile aman dileyene merhamet eden yüce türk neferinin sesidir ama hewalcanlar bundan istifade ateş etmeye başlıyor sonrası malum. ellerinize sağlık.<br/><br/>eşit: başlığın indirilmesi diye açılmasından ötürü küfürler savurup zoruna giden kılkuyruklara; o tabir “indirilmesi” olarak kullanılır. terörist indirilir zoruna gitmesin.
   entry_channels: siyaset,haber
 - entry_name: |
-    aslıhan doğan
-  entry_id:  82181498
-  entry_writer: sopaipilla
-  entry_fav_count: 192
-  entry_content: |
-    kimdir bilmem. ama çok güzel kızmış. evli olmasam kesinlikle kaçırmazdım.
-  entry_channels: tv,magazin,eğitim
-- entry_name: |
     chp hisselerinin hazine'ye devrine destek veririz
   entry_id:  82202979
   entry_writer: anguirel
-  entry_fav_count: 162
+  entry_fav_count: 183
   entry_content: |
     (bkz: <a class="b" href="/?q=art%c4%b1k+%c3%b6lmesi+gereken+siyasi+liderler">artık ölmesi gereken siyasi liderler</a>)
   entry_channels: siyaset,haber,ekonomi
@@ -102,15 +78,15 @@ data:
     arda turan'ın hastanede ateş etmesi
   entry_id:  82200552
   entry_writer: darkwhip
-  entry_fav_count: 158
+  entry_fav_count: 161
   entry_content: |
-    bu hanzoluk ve barbarlıkla milletvekili bile olur başımıza. adamın bağlantıları güçlü, ifadesi bile alınmadı. şaka gibi bir ülke.
+    bu hanzoluk ve barbarlıkla milletvekili bile olur başımıza. adamın bağlantıları güçlü, ifadesi bile alınmadı. şaka gibi bir ülke.<br/><br/>edit: içim çok ferahladı, ifadesi alınmış.
   entry_channels: magazin
 - entry_name: |
     hocam.com'un kapanması
   entry_id:  82201145
   entry_writer: ben hep 50 liralik aliyorum
-  entry_fav_count: 146
+  entry_fav_count: 151
   entry_content: |
     hala üye sırasında beklediğim sitenin kapanmasıdır. <br/><br/>9 senedir bekliyordum, üyeliğim onaylanana kadar site kapandı iyi mi.
   entry_channels: teknoloji,haber,eğitim
@@ -118,7 +94,7 @@ data:
     arda turan
   entry_id:  82180686
   entry_writer: system virus
-  entry_fav_count: 135
+  entry_fav_count: 138
   entry_content: |
     daha önce yazmıştım ama tam da bugün güncellemek isterim:<br/><br/>bu adamı sinem kobal-kenan imirzalıoğlu birlikteliği bitirdi. arda tüm başarılarını bu evlilikten önce gerçekleştirdi. <br/><br/>tarihlere bakıyorum: 2015 başlarında bu birliktelik başlamış, arda da aynı tarihlerde barcelona ile görüşmeye başlamış. sonrasında 6 aylık oynamama dönemi de araya girince bizim küçük 'adam' bol bol türkiye'ye gelmeye başlamış. o tarihe kadar türkiye'deki -her anlamda- iktidar çevreleriyle o kadar sıkı fıkı değilken noldu da aniden gövde gösterileri başladı? sebep ne? <br/><br/>egosu ağır yara aldı çünkü, özgüvenini kaybettirdi bu olay ona. futbol sahasında kendini ıspatlamış olmak tatmin etmemeye başladı, çünkü adamımız bu olayda takılı kalmıştı. güvende ve başarılı olduğu alandan çıkıp bu şeytan sofrasına oturmaya kalktı. sonrasında olanlar ortada. <br/><br/>herkese ibret olsun.<br/><br/>'planın ne kadar iyi düşünülmüş olursa olsun, sonucu belirleyen ya bir kadın olur ya da şans' (al final del tunel)
   entry_channels: spor,magazin
@@ -126,15 +102,23 @@ data:
     dolar 5.99'a inince suspus olan ekşici
   entry_id:  82189470
   entry_writer: justerini
-  entry_fav_count: 132
+  entry_fav_count: 135
   entry_content: |
     olması gereken değerde olmadığı ve olması gereken değerde olmayacağı için susan ekşicidir.<br/><br/>(bkz: <a class="b" href="/?q=dolar+1+kuru%c5%9f+d%c3%bc%c5%9f%c3%bcnce+%c3%a7enesi+a%c3%a7%c4%b1lan+%c3%a7omar">dolar 1 kuruş düşünce çenesi açılan çomar</a>)
   entry_channels: ekşi-sözlük,ekonomi
 - entry_name: |
+    şeker-iş sendikası başkanının makam aracı
+  entry_id:  82186762
+  entry_writer: muhendis kizan
+  entry_fav_count: 125
+  entry_content: |
+    sanırsın adam mit müsteşarı amk. hem hızlı hem güvenliymiş. lan şeker-iş başkanısın işte.
+  entry_channels: haber,otomotiv,ekonomi
+- entry_name: |
     kişiliği sevilmeyip sanatı sevilen sanatçılar
   entry_id:  82191069
   entry_writer: it is a lie
-  entry_fav_count: 120
+  entry_fav_count: 123
   entry_content: |
     (bkz: <a class="b" href="/?q=ahmet+kaya">ahmet kaya</a>)<br/><br/>hem türkiye'deki bir azınlığın sesi olup türkiye'deki başka bir azınlığı aşağılaması olsun, "vallahi biz apo'yu özledik" rezilliği olsun. tamamen bana zıt bir kafa yapısı. he dinliyor muyum? evet, bütün şarkılarını ezbere bilirim neredeyse.
   entry_channels: sanat
@@ -147,18 +131,10 @@ data:
     (bkz: <a class="b" href="/?q=orospu+%c3%a7ocuklar%c4%b1">orospu çocukları</a>)
   entry_channels: spor,anket
 - entry_name: |
-    şeker-iş sendikası başkanının makam aracı
-  entry_id:  82186762
-  entry_writer: muhendis kizan
-  entry_fav_count: 119
-  entry_content: |
-    sanırsın adam mit müsteşarı amk. hem hızlı hem güvenliymiş. lan şeker-iş başkanısın işte.
-  entry_channels: haber,otomotiv,ekonomi
-- entry_name: |
     türk erkekleri gitsin iskandinav erkekleri gelsin
   entry_id:  82182816
   entry_writer: vatsapta ki mavi tik
-  entry_fav_count: 103
+  entry_fav_count: 107
   entry_content: |
     sonuç olarak iskandinavya'ya gidebiliyorsak valla benim için ok. ne zaman topluyoruz valizleri. <br/><br/>tanım: ülkede 1 tane türk erkek kalmayacak aktivite
   entry_channels: ilişkiler
@@ -171,6 +147,14 @@ data:
     çok işime yarayan bir yöntem olduğunu söyleyebilirim.<br/><br/>nacizane kendimin keşfettiği bir başka güzelliği paylaşmak istiyorum. google'daki küçücük kutucuğa bir şeyler yazınca internette o kelimeleri arıyor ve bulunan siteleri listeliyor.<br/><br/>bu da böyle bir kıyağım olsun size.
   entry_channels: teknoloji
 - entry_name: |
+    kürtlerin en iyi oldukları konu
+  entry_id:  82202964
+  entry_writer: zalim olma imana gel
+  entry_fav_count: 85
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ka%c3%a7ak+elektrik">kaçak elektrik</a>)
+  entry_channels: anket,tarih
+- entry_name: |
     10 ekim 2018 denizli olayları
   entry_id:  82180717
   entry_writer: oymit
@@ -179,26 +163,18 @@ data:
     evinizin kapısını açık bırakır mısınız veya tanımadığınız at hırsızı tipli insanları evinizde misafir eder misiniz? çok iyi bilirsiniz ederseniz namusunuzu canınızı tehlikeye atmış olduğunuzu. <br/>ne demişler acıma yetime gelir koyar g.tüne tecrübe işte. uyanın tecavüz uğrayan 14 yaşında ki kız çoçuğu değil. tecavüze uğrayan koskoca bir memleket. üstelik tecavüze davetiye çıkaranda bu yamyamları eve alan arap sevici evin babası. üzgünüm çoçuk bu hikayede tek günahsız sendin tüm acıları da sen çekmek durumunda kaldın. son söz bunları memlekete alanın da, alana oy verenin de, hümanizm kasan yavşağında umarım kız çoçukları uzun yaşar.
   entry_channels: siyaset,haber
 - entry_name: |
-    türk erkeğinin kalitesizliği
-  entry_id:  82189027
-  entry_writer: biravucsukuicin
-  entry_fav_count: 64
+    hilal cebeci'nin çav bella klibi
+  entry_id:  82204211
+  entry_writer: mademki
+  entry_fav_count: 65
   entry_content: |
-    ölüler de sanıyor ki diriler her gün helva yiyor.<br/>yurtdışındaki tüm erkekler kaliteli zaten.<br/>(edit: imla)
-  entry_channels: ilişkiler
-- entry_name: |
-    mikasa futbol topu
-  entry_id:  82180753
-  entry_writer: kirlivemutlu
-  entry_fav_count: 63
-  entry_content: |
-    bu topun nasıl bir top olduğunu anlamanız için bir formül var aslında. usulca olduğunuz yerden kalkın, önünde herhangi bir eşya olmayan bir duvara yanaşın. ardından gerilebildiğiniz kadar gerilip duvara okkalı bir kafa atın. tebrikler. artık bir mikasa futbol topuna kafa atmanın ne demek olduğunu öğrendiniz.
-  entry_channels: spor
+    sosyalizm, sscb yıkıldıgında bu kadar darbe almadı aq
+  entry_channels: müzik,magazin
 - entry_name: |
     insansı polis robot yiğido
   entry_id:  82201788
   entry_writer: ugokhan
-  entry_fav_count: 63
+  entry_fav_count: 64
   entry_content: |
     esnafın dükkanında beleşe şarj eder kendini.
   entry_channels: teknoloji,haber
@@ -206,26 +182,10 @@ data:
     ölümüne en çok üzülünen sanatçı
   entry_id:  82188020
   entry_writer: a life of ease
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     (bkz: <a class="b" href="/?q=kendi+%c3%b6l%c3%bcm%c3%bcne+%c3%bcz%c3%bclmek">kendi ölümüne üzülmek</a>)<br/><br/>edit1: ölümüne en çok üzülen sanatçılar olan başlık; buraya olması gerektiği yere taşındı.
   entry_channels: anket,sanat,müzik,sinema,magazin
-- entry_name: |
-    hilal cebeci'nin çav bella klibi
-  entry_id:  82204211
-  entry_writer: mademki
-  entry_fav_count: 56
-  entry_content: |
-    sosyalizm, sscb yıkıldıgında bu kadar darbe almadı aq
-  entry_channels: müzik,magazin
-- entry_name: |
-    kürtlerin en iyi oldukları konu
-  entry_id:  82202964
-  entry_writer: zalim olma imana gel
-  entry_fav_count: 54
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ka%c3%a7ak+elektrik">kaçak elektrik</a>)
-  entry_channels: anket,tarih
 - entry_name: |
     vestel veo
   entry_id:  82198701
@@ -235,34 +195,66 @@ data:
     türkiyede otomobil segmenti olarak en büyük ihtiyaç süper lüks elektrikli araç olduğundan milli ihtiyaçlarımıza en uygun ve milyonlarca satacak araçtır.<br/><br/>bmwler jaguarlar teslalar diz çöküp tevbe edecektir vestel karşısında.
   entry_channels: bilim,teknoloji,haber,otomotiv
 - entry_name: |
+    11 ekim 2018 arda turan'ın gözaltına alınması
+  entry_id:  82206083
+  entry_writer: birsey olmaya imkan bulamamis adam
+  entry_fav_count: 51
+  entry_content: |
+    <a class="b" href="/?q=adam">adam</a> kararlı aga, magmaya kadar batacak.
+  entry_channels: haber,magazin
+- entry_name: |
+    ali koç
+  entry_id:  82181541
+  entry_writer: imagination x
+  entry_fav_count: 48
+  entry_content: |
+    cocu'ya karşı mahçup olması gereken başkan. sözler verdin, ikna ettin ve takımın başına getirdin. adama sağlıklı bir ortam sunamadın. rezalet bir kadroyla, alper'i forvete koyarak oynamak zorunda kaldı uzun bir süre. sonra en önemli hatta tek önemli iki oyuncusunu sattın. satma hamlen doğruydu ama cocu'yu yine ayazda bıraktın. cocu'ya tamamlanmış kadroyu ligin 5.haftasında anca sunabildin. <br/><br/>öncesini anlatmaya dahi gerek yok. volkan'ın içeri aldığı goller (belki de kasıtlı) falan utanç verici ama ligin 5. haftasında cocu'nun elindeki durum şöyleydi:<br/><br/>turist futbolcular<br/>statükocu kaşar futbolcular<br/>küskün, sabotajcı antrenörler<br/>mide bulandıracak derecede leş bir medya<br/>medyanın gazına gelmiş mal taraftar<br/><br/>bu adam kaçıp gitsin diye her türlü mobbing, aşağılama yapıldı. basın toplantılarında ben utandım. burada da fmci ergenler adamı topa tuttu. hala daha salakça fikirlerini sayıklıyorlar burada.<br/><br/>senin yardımcın çıktı bir facia olursa cocu'yu yollarız dedi. sen çıktın yine cocu'yu yollarız minvalinde açıklamalar yaptın. bu adamın ne arkasında durdun ne de destek verdin. attın bu adamı kurtlar sofrasına.<br/><br/>sonuç olarak doğru şeyi yapıp cocu'da ısrarcı oldun ama gözüktüğü kadarıyla cocu'ya yeterince destek verilmiyor. devre arasına kadar bakacağız diyorsun. arsene wenger lafı açılınca ağzının suları aktı. ayıptır senin takımının başında cocu var. sözleşme imzalanırken fenerbahçe ailesine hoşgeldin diyordun. bu sıkıntılara maruz kalan hocana daha iyi destek vermen gerekirdi.<br/><br/>cocu henüz sınanmadı bile. geldi bu çomarland'e kakafoni deryasında boğuldu adam. şimdiden yıpratıldı ve eskitildi. bu adama yapılan ayıptır.
+  entry_channels: spor,siyaset,ekonomi
+- entry_name: |
     11 ekim 2018 volkan demirel'den açıklama
   entry_id:  82205774
   entry_writer: etoland
-  entry_fav_count: 36
+  entry_fav_count: 47
   entry_content: |
     hiç anlatım bozukluğu yok, bunu ayı yazmış olamaz.
   entry_channels: spor
 - entry_name: |
-    ali koç
-  entry_id:  82182913
-  entry_writer: qatal
-  entry_fav_count: 35
+    2018 ekonomik krizi
+  entry_id:  82193376
+  entry_writer: paper thin hotel
+  entry_fav_count: 43
   entry_content: |
-    dün yaptığı açıklamalar son derece planlıydı ve gerekli yerlere, gerektiği şekilde gitti. hemen hemen hiç isim zikretmese de aykut kocaman, aziz yıldırım ve bunların medya ayaklarına çok büyük bir ihale yıktı ve korku verdi. bundan sonra artık pek çok insan yaptıklarına, konuştuklarına ve yazdıklarına dikkat edecek çünkü fenerbahçe'nin kimseyle kirli çıkar ilişkisi olmayan, gördüğü, duyduğu her şeyi söyleyebilen, insanı sokağa çıkamayacak duruma sokabilecek bir başkanı var.<br/><br/>insanlar başkanın konuşmasını pek anlayamadılar diye düşünüyorum. başkan dün pek çok insanın kariyerini bitirdi. bu saatten sonra aykut kocaman ve yardımcılarının türkiye'de çalışabilmesi mümkün değil. atıf'ın gidebileceği takım yok. volkan'ın kariyeri bitti. dirar'a bir hocanın güvenmesi zor. <br/><br/>bence tarihi bir konuşma yaptı başkan. futbol takımı da biraz kımıldarsa başkanın eli oldukça kuvvetlenecek. bugün itibarıyla çok acayip bir adam katıldı türk futboluna. önümüzdeki yıllara damgasını vuracak bir adam. bence bu adamı yıldıracak, yolundan döndürecek bir güç yok. önünde duranı yıkıp geçer.<br/><br/>taraftarın şunu anlaması gerekiyor. fenerbahçe galatasaray'ı yenmiş, beşiktaş'ın önünde şampiyon olmuş filan bu adamın umrunda değil. bu adamın kafasında şampiyonlar liginde her sene yer alacak, çeyrek final, yarı final, final oynayacak, adı avrupa'nın büyük takımları ile birlikte anılacak bir fenerbahçe var. yapar yapamaz bunu zaman gösterecek elbette ama kendisine destek verenler bence ileride bundan hiç pişman olmayacaklar.
-  entry_channels: spor,siyaset,ekonomi
+    o değil de levent kırca hayatta olsaydı, olacak o kadar tv'de şu malum sunumların çok iyi parodisini yapardı. <br/>gözümde canlanıyor, ağır komik makyajıyla, iyi taklit ettiği ses tonuyla ve el hareketleri, mimiklerle "bakın burası çok önemli" demesi ve diğer tayfanın ön tarafta oturan tüsiad vs. tiplerini canlandırması ve gülümsüyorum.<br/><br/>edit : imla
+  entry_channels: siyaset,bilim,tarih,haber,ekonomi
+- entry_name: |
+    devlete 10 bin dolar hibe kampanyası
+  entry_id:  82183946
+  entry_writer: somekindofdevil
+  entry_fav_count: 32
+  entry_content: |
+    (bkz: <a class="b" href="/?q=geldi+yine+tipini+siktigimin">geldi yine tipini siktigimin</a>)
+  entry_channels: 
 - entry_name: |
     esnafa zam yasağı gelmesi
   entry_id:  82200654
   entry_writer: domine deyus
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     valiliklere giden genel emir kapsamında olan olay.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/gundem/icisleri-bakanligindan-valilere-talimat-harekete-gecin-40983315" title="http://www.hurriyet.com.tr/gundem/icisleri-bakanligindan-valilere-talimat-harekete-gecin-40983315">http://www.hurriyet.com.tr/…harekete-gecin-40983315</a><br/><br/>il sınırları içerisinde faaliyet gösteren esnaf, firma ve her türlü işletme tarafından sunulan mal ve hizmetlerin fiyatları yükseltilmeyecek.<br/><br/>ben mi yanlış anladım bilmiyorum ama burada baya baya esnafın zam yapması yasaklandı yazıyor.<br/><br/>perakende fiyatlarını merkez otoritenin belirlediği sistemlere ne deniyordu?
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
+    menzil gavsının mercedesine gül atan sofiler
+  entry_id:  82204493
+  entry_writer: altay horda
+  entry_fav_count: 21
+  entry_content: |
+    menzil'de inşaatlarda karın tokluğuna çalışıp bir tas çorba karşılığı allah'a hizmet edip sevap kazandıklarını zanneden sofilerdir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=cfTchbB0dJQ">https://www.youtube.com/watch?v=cftchbb0djq</a><br/><br/>gavs'ın "gavs hazretleri-gh" plakalı milyonluk mercedes maybachını bekliyorlar ve o geçerken gül atıyorlar.<br/><br/>ulan ne diyeyim ki ben size?<br/>allah akıl fikir versin...
+  entry_channels: siyaset,haber
+- entry_name: |
     volkan demirel
   entry_id:  82187452
   entry_writer: mesinieskimiskeneftakunyasi
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     yıllarca fb taraftarı yaptığı çirkeflikleri "afferim be koçum" diyerek sırtını sıvazladı. sonunda o kontrolsüz güç kendine döndü. başkanına saygısızlık yapacak kadar burnu kalktı. bu da size akıl akçesi olsun. çirkef futbolcuları o anlık işinize yarıyor diye savunmayın!
   entry_channels: spor
@@ -275,21 +267,13 @@ data:
     o kadin da senin icin tum erkeklerden vazgececekse olur.<br/>tum evlilikler budur.
   entry_channels: ilişkiler
 - entry_name: |
-    sözlükçülerin favori kötü adamları
-  entry_id:  82180741
-  entry_writer: 4mpermetre
-  entry_fav_count: 18
+    türk erkeğinin kalitesizliği
+  entry_id:  82190248
+  entry_writer: donsuzdalton
+  entry_fav_count: 17
   entry_content: |
-    adını duymak kırk yıldır<br/>bana ne büyük heyecandır<br/>kötü de olsa adamdır<br/>adamın dibi darth vader<br/><br/>sen de doğsan harabede<br/>kara cahillikte hurafede<br/>bulanmaz mıydın nefrete<br/>haklıdır paşam darth vader<br/><br/>anası köle olmuş garibin<br/>zaten cehennem tattooine<br/>nasıl dönmesin şu nevrin<br/>seninleyiz darth vader<br/><br/>midichlorian var kanında<br/>yoda sönük kalır yanında<br/>en büyük jedi dalında<br/>oskar alır darth vader<br/><br/>lafın dinlemez cedaylar<br/>zaten bir garip olaylar<br/>padme güller saraylar<br/>helal sana darth vader<br/><br/>şerefsizler kurmuş ordu<br/>başında da bir sith lordu<br/>soruları bir tek o sordu<br/>cevap bulamadı darth vader<br/><br/>anasına kaymış bedeviler<br/>kurtarmaya izin vermediler<br/>bir gün yüzüne gülmediler<br/>ne yapsaydı darth vader<br/><br/>yeşil bunak yedi bu boku<br/>yok yere öldü kont dooku<br/>tutarsan tasmayı böyle sıkı<br/>koparırdı elbet darth vader<br/><br/>görünce bu büyük ihaneti<br/>kim olsa çekerdi emaneti<br/>kaybedince tabi metaneti<br/>hoşgeldin aramıza darth vader<br/><br/>mustafar’da ödedi bedelleri<br/>gördük bik bik ötenleri<br/>emir 66 ile yere düşenleri<br/>yak bir seferde darth vader<br/><br/>kardeş kanı akar galakside<br/>dur demeli kısa mesafede<br/>çapulcu karşı çıkanın hepsi de<br/>inine girdi alderaan’da darth vader<br/><br/>çıkarsan karşısına dolmuşçuyla<br/>yanında muavin maymunsuyla<br/>alsan bile elinden death star’ı böyle<br/>diz çöker mi koca darth vader<br/><br/>istasyon dediğin elinin kiri<br/>biri giderse gelir yerine biri<br/>toplatır hepinizi ölü ya da diri<br/>kim tutar seni yüce darth vader<br/><br/>evladı bile ona sırt çevirmiş<br/>yine de elini esigememiş uzatmış<br/>bu adam kötü denecek ne yapmış<br/>sana kalkan elleri kes darth vader<br/><br/>mandalore çeliğindendir bileği<br/>dayanmaz yeri gelirse baba yüreği<br/>istasyon içindeki koca direği<br/>imparator götüne sokar darth vader
-  entry_channels: siyaset,anket,tv,ekşi-sözlük,sinema,edebiyat
-- entry_name: |
-    menzil gavsının mercedesine gül atan sofiler
-  entry_id:  82204493
-  entry_writer: altay horda
-  entry_fav_count: 15
-  entry_content: |
-    menzil'de inşaatlarda karın tokluğuna çalışıp bir tas çorba karşılığı allah'a hizmet edip sevap kazandıklarını zanneden sofilerdir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=cfTchbB0dJQ">https://www.youtube.com/watch?v=cftchbb0djq</a><br/><br/>gavs'ın "gavs hazretleri-gh" plakalı milyonluk mercedes maybachını bekliyorlar ve o geçerken gül atıyorlar.<br/><br/>ulan ne diyeyim ki ben size?<br/>allah akıl fikir versin...
-  entry_channels: siyaset,haber
+    ilk entryde yazılanları okuduktan sonra başlığın türk insanının kalitesizliği olarak değiştirilmesi gerektiğini düşünüyorum. yanlış anlaşılmasın eleştirilerin çoğu genel olarak doğru olsa da üsluptan kalitesizlik akıyor. (bkz: <a class="b" href="/?q=t%c3%bcrk+insan%c4%b1n%c4%b1n+kalitesizli%c4%9fi">türk insanının kalitesizliği</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     yemeye başlandı mı durulamayan yiyecekler
   entry_id:  82190443
@@ -298,14 +282,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=yemeye+ba%c5%9fland%c4%b1+m%c4%b1+durulamayan+yiyecekler">yemeye başlandı mı durulamayan yiyecekler</a>)<br/>(bkz: <a class="b" href="/?q=yedik%c3%a7e+doyulmayan+%c5%9feyler">yedikçe doyulmayan şeyler</a>)<br/>(bkz: <a class="b" href="/?q=bir+kere+yemeyle+ba%c4%9f%c4%b1ml%c4%b1l%c4%b1k+yapan+%c5%9feyler">bir kere yemeyle bağımlılık yapan şeyler</a>)<br/><br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)<br/><br/>edit: şükür taşındı. eski hali "insanın yedikçe yiyesi geldiği şeyler" idi. bunlar hep imtihan.
   entry_channels: anket,yeme-içme
-- entry_name: |
-    sevgili ile yapılabilecek en güzel şey
-  entry_id:  82181700
-  entry_writer: gus
-  entry_fav_count: 14
-  entry_content: |
-    tanışmak. şuan nerede ne yapıyor acaba canım benim.<sup class="ab"><a title="(bkz: çok yalnızım lan)" href="/?q=%c3%a7ok+yaln%c4%b1z%c4%b1m+lan" data-query="çok yalnızım lan">*</a></sup>
-  entry_channels: anket,ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  82182979
@@ -318,7 +294,7 @@ data:
     attila ilhan
   entry_id:  82183737
   entry_writer: klimatolojik karakterli adam
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     bizi, denizleri, izmir’i bırakıp gittiği yıl bir okulun konferans salonunda “ben sana mecburum” şiirini okumuştum. yeri çok ayrıdır. <br/><br/>huzur içinde uyu üstad. bu gece seninle beraber senin şiirlerini okuduğum kadını da anmış olayım. ismi aysel olsun, kadehe dolsun bu gece.
   entry_channels: siyaset,tv,sanat,müzik,edebiyat
@@ -331,21 +307,21 @@ data:
     kirli pasakli tutuyorsaniz utanin tabi. ben pasaport taşıma kılıfına koydum. tertemiz cillop<br/>gibi. <br/><br/>turk pasaportu dunyanin en pahali pasaportudur. ayrica vizeler ve aracilik hizmetleri icin de bugunun parasiyla 1000 tlye yakin ödersin hemen her ülkeye. <br/><br/>sirf bu pasaportun yurtdisi cikisi bile 15 tl. <br/><br/>yani hic oyle ezik pasaport degil aksine aşiri havali bi pasaport. o artist gavurlara versen bunu 2. sene aglaya aglaya geri verir abi bu cok maliyetli yeter yildim diye. <br/><br/>gurur duyun gurur.
   entry_channels: siyaset,seyahat
 - entry_name: |
-    suudi arabistan
-  entry_id:  82181763
-  entry_writer: taze sicak smith
+    yurt dışında ilk gece
+  entry_id:  82181262
+  entry_writer: eob
   entry_fav_count: 6
   entry_content: |
-    lanet bedevi ülkesi.<br/><br/>bir arap olarak bu devletin yeryüzünde bulunmasından utanç duyuyorum.<br/><br/>arap ayrı bedevi ayrıdır. kamuoyu keşke bunu anlasa.
-  entry_channels: siyaset,tarih,haber,ekonomi,seyahat
+    <a class="b" href="/?q=devlet+yurdundaki+ilk+g%c3%bcn">devlet yurdundaki ilk gün</a>ün gecesine benzer ve bir o kadar da benzemez.
+  entry_channels: seyahat
 - entry_name: |
-    11 ekim 2018 arda turan'ın gözaltına alınması
-  entry_id:  82206075
-  entry_writer: noble black
+    yusuf namoğlu
+  entry_id:  82200960
+  entry_writer: axan
   entry_fav_count: 4
   entry_content: |
-    <a class="b" href="/?q=kenar%c4%b1ya">kenarıya</a> çekilmesine neden olan olay.
-  entry_channels: spor,haber,magazin
+    sadece kendisi degil, tum federasyon yonetimi istifa etmelidir. <br/><br/>farkli sahislarin farkli gorusleri olabilir, genelleme yapmak istemiyorum. ancak takip edebildigim kadariyla soyle bir akis var ortada:<br/><br/>1) yusuf namoglu yonetiminde gs lehine hatalar yapiliyor. besiktas olarak biz dograniyoruz. yusuf namoglu yuzunden sampiyonluklar kaybettik. yusuf namoglu istifa etmeli!!! feto vs. gibi iftiralara hic deginmiyorum bile. cirkinlesmeyin lutfen.<br/><br/>2) gs taraftarlari gs aleyhine olan ve bjk lehine olan hatalari da paylasiyor. <br/><br/>3) bazi besiktasli yazarlar galatasaraylilari yusuf namoglu'nu korumakla sucluyor bu sefer. halbuki galatasaraylilar durumun sadece bjk icin degil, diger takimlar icin de olumsuz oldugunu anlatiyor. ama bu hareket yusuf namoglu'nu korumak oluyor. algiya bakar misiniz.<br/><br/>4) galatasaraylilar da hakli olarak yildirim demiroren kozunu ortaya atiyor. balik bastan kokmus beyler. haberiniz yok. zaten eminim besiktasli arkadaslar da demiroren'i istemiyordur. <br/><br/>bu durumda tum taraftarlarin cikip tff yonetim kurullarini istifaya davet etmesi en mantikli hareket olur. niye sadece algi yapip yusuf namoglu'nun istifasini istiyorsunuz? hepsi istifa etsin. bu sahis gidecek yerine baskasi atanacak ayni zihniyet tarafindan. neyin degismesini bekliyorsunuz? sizin lehinize daha cok hata yapilinca mutlu mu olacaksiniz? hani adalet herkes icin lazimdi?<br/><br/>mantikli besiktaslilari tenzih ederim. ancak bir grup besiktasli gercekten kendilerinin kayrilmasini tercih ediyor gibi gorunuyor. algi olusturmaya calisiyorlar. ısi sulandiriyorlar daha. bu gidisle kimse istifa etmeyecek zaten. rakip takimlara saldirmak yerine akilci bir sekilde onlarin da destegini almak en mantiklisi olurdu. ama kafa bos...
+  entry_channels: spor
 - entry_name: |
     jet sosyete (dizi)
   entry_id:  82191633
@@ -358,10 +334,34 @@ data:
     geceye bir underrated film tavsiyesi bırak
   entry_id:  82205849
   entry_writer: brian fantana
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     interstellar nasıl underrated oluyor anlamıyorum.
   entry_channels: anket,sanat,sinema
+- entry_name: |
+    1200 tl kira almak vs 5500 tl faiz almak
+  entry_id:  82206237
+  entry_writer: kamerarkasi
+  entry_fav_count: 3
+  entry_content: |
+    türkiye'de son 1 haftadır onbinlerce ev sahibini düşündüren ve içine hapseden denklem..<br/>ortalama bir ev 300.000 tl desek, kirası da 1200 tl civarı<br/>fakat 300.000 tl'yi bankaya atsan aylık 5.500 tl faiz veriyor..<br/>1 yıl sonra 350.000 tl olacağını sanmıyorum çünkü son 15 yılda emlağa doydu ülke ve millet almıyor, krediler yüksek..<br/><br/>tahminim 1 yıl sonunda bu ev max 320.000 tl olur.<br/>yani faiz mantıklı
+  entry_channels: anket,ekonomi
+- entry_name: |
+    11 ekim 2018 türkiye bosna hersek maçı
+  entry_id:  82189250
+  entry_writer: ecs
+  entry_fav_count: 3
+  entry_content: |
+    muazzam pilot kamera açısıyla milli maç keyfimizi(!) katlayacak <a class="b" href="/?q=%c3%a7aykur+didi+stadyumu">çaykur didi stadyumu</a>nda öncesinde tekbir sesleriyle teröristlere gözdağı verildikten sonra oynanacak maçtır. şimdiden heyecanlandık, tırnaklarımızı kemirerek maç saatini bekliyoruz. bizlere bu milli takım etrafında birlik duygusunu yaşatan tüpçüye ne kadar teşekkür etsek az.
+  entry_channels: spor
+- entry_name: |
+    uzun yola çıkma isteği uyandıran şarkılar
+  entry_id:  82206881
+  entry_writer: pul
+  entry_fav_count: 2
+  entry_content: |
+    tabii ki <a class="b" href="/?q=the+ship+song">the ship song</a> - <a class="b" href="/?q=nick+cave">nick cave</a><sup class="ab"><a title="(bkz: canımız ciğerimiz)" href="/?q=can%c4%b1m%c4%b1z+ci%c4%9ferimiz" data-query="canımız ciğerimiz">*</a></sup><br/><br/>karayolları sizin olsun biz denizlere, tekneyle uzun yollar aşmaya gidiyoruz.<br/><br/>“come sail your ships around me<br/>and burn your bridges down<br/>we make a little history, baby<br/>every time you come around”<br/><br/>gelmem mi? yakmam mı?
+  entry_channels: anket,müzik
 - entry_name: |
     2006-2017 bodrum yalıkavak'taki ibretlik değişim
   entry_id:  82205025
@@ -371,21 +371,21 @@ data:
     2006’dan önce ben oradaydım. hâlâ ömrümün yılda en az iki haftası orada. ağaçlarla seri közcü insanlar arasında inanılmaz bir ters orantı var. ağaçlar azaldıkça macrocenter’da filipinli bakıcılarına “kestane suyu diyorum kestane suyu alacaksan anlamıyo moson ya!!!!!” diye böğüren ablalarla kamyon gibi jiplere binen dar beyaz pantolonlu erkek versiyonları var artık. ağaçlar yok, ağaçların üzerinde sincaplar yok, kuşlar ve sessizlik yok. devasa bir panora avm, açık alana yayılmış. sincaplar kaybettikçe biz kaybediyoruz. aslında sincaplar her şeyin özeti.
   entry_channels: haber,seyahat
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  82194971
-  entry_writer: drahosa
+    sinem kobal
+  entry_id:  82187644
+  entry_writer: delixtarter
   entry_fav_count: 1
   entry_content: |
-    iş ingilizcesi (yazılım, bilişim, finans) için ankara içi yüz yüze, ankara dışı online speaking (konuşma) dersleri verebilirim. ayrıca ielts speaking için de sadece ankara içi ders alabilirsiniz.<br/><br/>konunun belirlenmesi sonrasında güncel terim ve konular hakkında ilerleyebilir, telaffuz ve akıcı konuşma üzerine çalışabiliriz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.amazon.com/Khagan-Lands-Veysel-Arslan/dp/1523265469" title="https://www.amazon.com/Khagan-Lands-Veysel-Arslan/dp/1523265469">referans</a><br/><br/>sözlük dışı için: neweracouncil@gmail.com
-  entry_channels: ekşi-sözlük,ekonomi
+    bu kiz nasil vizyon ortaya koymus da arda'yi postalamis, inanilmaz.<br/><br/>not: arda kendisinden ayrildiktan sonra hulya avsar ile bi programa cikip "bazi hatalar yapilmasa belki ama artik olmaz" gibi seyler soylemisti.<br/><br/>once gitti kizi aldatti, sonra kiz da baskalariyla takilinca "o hatayi yapmayacakti" diye gezindi ortalikta. <br/><br/>verilmis sadakasi olan kisi. suan aslihan'in yerinde olabilirdi.<br/><br/>(bkz: <a class="b" href="/?q=arda+turan%27%c4%b1n+berkay%27%c4%b1n+burnunu+k%c4%b1rmas%c4%b1">arda turan'ın berkay'ın burnunu kırması</a>)<br/>(bkz: <a class="b" href="/?q=arda+turan%27%c4%b1n+elinde+silahla+hastaneyi+basmas%c4%b1">arda turan'ın elinde silahla hastaneyi basması</a>)<br/>(bkz: <a class="b" href="/?q=bunu+al+beni+vur+senin+kar%c4%b1n+oldu%c4%9funu+bilmiyordum">bunu al beni vur senin karın olduğunu bilmiyordum</a>)
+  entry_channels: moda,magazin
 - entry_name: |
-    uzun yola çıkma isteği uyandıran şarkılar
-  entry_id:  82204339
-  entry_writer: yanlar kisa ustler uzun
+    sigarayı bırakmak
+  entry_id:  82186851
+  entry_writer: oldu canim baska bisey
   entry_fav_count: 0
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/vGJTaP6anOU">https://youtu.be/vgjtap6anou</a><br/><br/>şu şarkıyı her dinlediğimde;kendimi şehirlerarası otoyolda araç direksiyonunda görüyorum. yan koltukta uyuya kalmış sevgili , radyoda bu şarkı, karşıdan gelen piç uzunları yakmasa muazzam ortam.
-  entry_channels: anket,müzik
+    4. ayın ilk gününde de işler yolunda gidiyor. hala sigaraya başlamış değilim.
+  entry_channels: sağlık,ekonomi
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  82182461
