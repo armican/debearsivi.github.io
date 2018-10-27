@@ -6,7 +6,7 @@ data:
     yeni havalimanının açılışına gelen dünya liderleri
   entry_id:  82717514
   entry_writer: tovbebismillah
-  entry_fav_count: 558
+  entry_fav_count: 560
   entry_content: |
     <a class="b" href="/?q=gabon+ba%c5%9fbakan%c4%b1">gabon başbakanı</a> <a class="b" href="/?q=ali+bongo">ali bongo</a> gelmemişse o açılışa açılış demem ben. o niye gelmemiş?<br/><br/>edi: şimdi aldığım bir habere göre başbakan ali bongonun dayısına zebra çarptığı için gelememiş. <a class="b" href="/?q=iharduc">iharduc</a> haber ajansı mesajla bildirdi.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     26 ekim 2018 2 askerin donarak şehit olması
   entry_id:  82709758
   entry_writer: kekeleyensunucu
-  entry_fav_count: 339
+  entry_fav_count: 342
   entry_content: |
     2018 sonunda tsk'nın en önemli kollarından biri olan jandarma özel hareket mensubu askerler donarak şehit oluyor. millet allah rahmet eylesin diyor. allah şehidine rahmet eyler de, siz o iki askerin donarak ölümünü sorgulamayacak mısınız? yoksa fıtrat mı diyeceksiniz?<br/><br/>vatanı, milleti için bir çok ana kuzusu şehit olur gocunmaz da, 3-5 çakalın keyfi için donarak şehit olması sizin yüreğinizi sızlatmaz mı? dışarıda ki kahpenin kurşunundansa içerdeki kahpenin sırttan bıçaklaması daha çok yakmıyor mu içinizi? yoksa her şehit haberinde olduğu gibi 2 tweet ile olayı geçiştirmeye devam mı edeceksiniz? sizin vatan millet sevginiz sadece elle kurt yapıp poz vermek, sosyal medyada biolara türk bayrağı koymak mı?<br/><br/>tanrı türk askerini önce içerideki kahpelerden, sonra dışarıda ki kahpelerden korusun.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     etimesgut bedelli askerlik rezaleti
   entry_id:  82716742
   entry_writer: nutellali balik ekmek
-  entry_fav_count: 336
+  entry_fav_count: 340
   entry_content: |
     saçma sapan mantıkla eleştirilen hadise.<br/><br/>her insan, insanca koşullarda yaşamayı hakeder.<br/><br/>askerlerimizin donarak şehit olması bu askerlerin insanlık dışı koşullarda askerlik yapmasını meşru kılmaz.<br/><br/>askerlerin donarak şehit olması bu adamların suçu mu? iyi amk yatakhaneleri kapatalım dışarıda yatsınlar madem. <br/><br/>sanki adamlar koğuşa playstation istemişler gibi davranıyorsunuz.
   entry_channels: haber
@@ -30,7 +30,7 @@ data:
     27 ekim 2018 pamukkale turizm konkordato ilanı
   entry_id:  82716084
   entry_writer: hadi git
-  entry_fav_count: 297
+  entry_fav_count: 299
   entry_content: |
     üzüldüm la. yıllarca memlekete taşıdı beni. bir yamuklarını görmedim. mafya para babalarının elinde olan otobüs firmaları yaşarken bunların borçlarını ödeyemez hale gelmesi ne acı. <br/><br/>kriz falan yok la, keyiften alıyoruz konkordatoyu.
   entry_channels: haber,ekonomi
@@ -38,7 +38,7 @@ data:
     kötü matematiğe sahip biri zeki olabilir mi
   entry_id:  82717463
   entry_writer: armix
-  entry_fav_count: 254
+  entry_fav_count: 263
   entry_content: |
     matematiği iyi olmayan herkesi zeki saymamak haksızlık olur . matematiği kötü olan adamın müzik zekası, sosyal zekası vs. iyi olabilir.
   entry_channels: anket,bilim,eğitim
@@ -46,7 +46,7 @@ data:
     beyaz tv muhabirinin hatalı sürücüden dayak yemesi
   entry_id:  82725556
   entry_writer: insulin direnci
-  entry_fav_count: 236
+  entry_fav_count: 243
   entry_content: |
     beyaz tv olunca altında bir çapanoğlu olduğunu düşündüğüm olay.<br/>bu yavşaklar mağdur olma bağımlısı olduğu için birbirlerini dövüp haber yapmışlardır.
   entry_channels: haber
@@ -54,47 +54,47 @@ data:
     bir kadının tehlikeli olduğunu gösteren detaylar
   entry_id:  82717953
   entry_writer: frkr
-  entry_fav_count: 211
+  entry_fav_count: 213
   entry_content: |
     <a class="b" href="/?q=periscope">periscope</a>‘u açık bırakıyorsa banko tehlikelidir.
   entry_channels: ilişkiler
 - entry_name: |
-    ak parti'nin her türlü güce rağmen çöküşü
-  entry_id:  82721659
-  entry_writer: sorgino
-  entry_fav_count: 185
-  entry_content: |
-    bizim halk mağdurun yanındadır en azından %60 bekliyorum, sırf çöktükleri için.
-  entry_channels: siyaset,anket
-- entry_name: |
-    askerler donarak şehit olurken ağlayan bedellici
-  entry_id:  82720349
-  entry_writer: anzavur 34
-  entry_fav_count: 167
-  entry_content: |
-    uzun dönem askerlik yaptım bu işte en az suçlu bedelli askerlik yapanlardır. o insanların değil hükümetin suçudur.
-  entry_channels: siyaset
-- entry_name: |
     samsun'a çıkmak stratejik hataydı
   entry_id:  82727300
   entry_writer: dabbetularz
-  entry_fav_count: 149
+  entry_fav_count: 162
   entry_content: |
     atatürk hata yaptı demiyor, samsun çok karışıktı bu yüzden hemen havzaya geçti diyor. <br/><br/>ne var bunda?<br/><br/>bırakın artık şu adamı gömmeyi, bildiklerinin zekâtını verse çoğunuzun beyni yanar.
   entry_channels: tarih
 - entry_name: |
+    ali koç
+  entry_id:  82722386
+  entry_writer: avegro
+  entry_fav_count: 121
+  entry_content: |
+    fenerbahçe'nin bir hazırlık maçına gitmiştim, yabancı bir takımla oynuyorduk, bir buçuk iki sene önce falan, tam hatırlamıyorum. maç başladı, aradan yarım saat geçti, beşiktaş'a, galatasaray'a, trabzonspor'a falan sövmeye başladılar. bizim taraftar kadar mal bir taraftar güruhu da olmadığını o gün anlamıştım. <br/><br/>bugün için de aynı şey geçerli. adam geleli daha üç-dört ay olmuş; ondan önceki yönetim takımın anasını sikmiş, gırtlağa kadar borç gelmiş, her yer ipotekli, hacizli. yetmemiş, kendi cebinden 50 milyon euro koymuş, firmalarını takıma sponsor etmiş, bütçesi fazla olan oyuncularla kısıtlamalar yapmış, sezon sonu gidecek oyuncudan 13-14'm paralar kazandırmış, gelecek vaat eden oyuncular bulmuş, almış, profesyonel bir takım kurma yolunda adımlar atmış ancak bu hiçbir siki beğenmeyen ve tek işlevi osura osura entry girmek olan adamlar bu adama "çok fena patates çıktı" yazsın.<br/><br/>kardeşim siz takım falan tutmayın, siktirin gidin.
+  entry_channels: spor,siyaset,ekonomi
+- entry_name: |
     onedio'nun başlattığı linç kampanyası
   entry_id:  82724500
   entry_writer: yenilenadam
-  entry_fav_count: 104
+  entry_fav_count: 105
   entry_content: |
     "başkalarının günahıyla aziz olamazsın" diye bir söz var, beni hep kendime getirmiştir. <br/><br/>özellikle cüneyt özdemir'in ilgili konuşmasını görünce aklıma geldi. sosyal medyadaki linç kampanyalarının özünde hep bu motivasyonu görüyorum<br/><br/>yani birilerini ortacag zihniyetli ilan edince ultra modern, bilimci, aydin filan gözüktüğün hissi. yanılıyorsunuz. on yargılı, derin düşünmeyen, tekmelediği insanı tanımadan, günahından emin olmadan vuran sürünün bir parçası haline geldiğinizi görüyorum sadece.
   entry_channels: bilim,sağlık
 - entry_name: |
+    devlet elektrik sayacı bağlamasın diyen urfalı
+  entry_id:  82727897
+  entry_writer: ricard mangalyurekli
+  entry_fav_count: 102
+  entry_content: |
+    devletin oğluymuş, ben daha çok orospunun oğlu görüyorum orada.
+  entry_channels: 
+- entry_name: |
     en yakışıklı hayvan
   entry_id:  82719431
   entry_writer: gulu koklayan adam
-  entry_fav_count: 94
+  entry_fav_count: 97
   entry_content: |
     anadolu parsıdır. şu kaşa göze bakar mısınız ya pars olsam buna verirdim.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/7ed02d9d8749">https://eksiup.com/7ed02d9d8749</a>
   entry_channels: anket
@@ -102,7 +102,7 @@ data:
     türk erkekleri gitsin italyan erkekleri gelsin
   entry_id:  82728097
   entry_writer: wakarimasen
-  entry_fav_count: 68
+  entry_fav_count: 78
   entry_content: |
     hayaller italyan,<br/><br/>gerçekler suriyeli...
   entry_channels: ilişkiler
@@ -115,29 +115,37 @@ data:
     ilişkinin bug ını bulduğunu sanan salak beyanı. tabii ki aldatma sayılır. aldatmanın cinsiyete göre hafiflediğini veya etkisinin azaldığını da ilk defa duyuyorum.<br/>tanım : afedersiniz g....um diyemeyen bir zavallının yardım istemesi olayı.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    sayıştay danıştay yargıtay üçlüsü
-  entry_id:  82719066
-  entry_writer: hector8
-  entry_fav_count: 59
+    korku filmlerinde sağ kalma rehberi
+  entry_id:  82721570
+  entry_writer: lamaga
+  entry_fav_count: 56
   entry_content: |
-    (bkz: <a class="b" href="/?q=recep">recep</a>) (bkz: <a class="b" href="/?q=tayyip">tayyip</a>)(bkz: <a class="b" href="/?q=erdo%c4%9fan">erdoğan</a>)
-  entry_channels: siyaset,ekonomi
+    perili bir eve gidecekseniz, hizmetçi, temizlikçi, tamirci falan olarak gidin. ev sahipleri ölüyor, hayatta kalan onlar oluyor. <br/>emekçi diye mi dokunmuyorlar artık onlara bilmiyorum.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: anket,sinema,spoiler
 - entry_name: |
     enflasyonla topyekün mücadele
   entry_id:  82710694
   entry_writer: scary nightmare
-  entry_fav_count: 53
+  entry_fav_count: 55
   entry_content: |
     mücadele falan değil bu yapılan çok açık ve net bir şekilde şerefsizliktir. enflasyon sepetindeki ürünlere yüzde 10 indirim yapıp ki bunun da ne kadar yapıldığı tam bir muamma. memurun, asgari ücretlinin, emeklinin alacağı zammı düşürmektir. reel enflasyon yüzde 26 iken çalışana yüzde 10 zam yapma cakalligidir bu.<br/><br/>4 kasım'da enflasyon eksi çıkacak lan şaka maka hem de eksi 10 çıkacak. şöyle düşünün bir önceki ay aynı şeyler alıp 1000 lira ödüyorken bu ay aynı şeylere 900 lira ödemişiz demek. ama öyle bir şey var mı? her şey üstüne daha da zamlandi. senin enflasyon sepetindeki tenis topunun yüzde 10 ucuzlamasindan bana ne? <br/><br/>adamlara ama helal olsun biz pozisyon bitti dedikçe adamlar yeni pozisyon bulup bir kez daha kayıyor vatandaşa. ve bu halk o kadar cahil ki devletin cebindeki parayı alenen çalmasına alkış tutuyor.
   entry_channels: siyaset,ekonomi
 - entry_name: |
-    korku filmlerinde sağ kalma rehberi
-  entry_id:  82721570
-  entry_writer: lamaga
+    en iyi yönetim şeklinin demokrasi olduğu yalanı
+  entry_id:  82728666
+  entry_writer: emperor of cydonia
   entry_fav_count: 48
   entry_content: |
-    perili bir eve gidecekseniz, hizmetçi, temizlikçi, tamirci falan olarak gidin. ev sahipleri ölüyor, hayatta kalan onlar oluyor. <br/>emekçi diye mi dokunmuyorlar artık onlara bilmiyorum.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket,sinema,spoiler
+    antik yunanda da bin yıllar evvel farkedilen olay, çare meritokrasi.
+  entry_channels: siyaset
+- entry_name: |
+    cristiano ronaldo
+  entry_id:  82731559
+  entry_writer: old enough to know too young to care
+  entry_fav_count: 47
+  entry_content: |
+    serie a'da toplam 10 macta 7 gol 4 asist yapmis gunumuz futbolundaki aktif en iyi futbolcu. <br/><br/>messi ise yillardir oynamaya alistigi takimda ronaldo ile benzer bir performans gostermis, 9 macta 7 gol 5 asist.<br/><br/>messi'yi al juventus'a koy? olmaz.<br/><br/>ronaldo? her yerde oynar. manchester united, real madrid, juventus. lig, ulke, organizasyon farketmez.
+  entry_channels: spor,magazin
 - entry_name: |
     bedelli askerlik
   entry_id:  82711591
@@ -147,45 +155,53 @@ data:
     an itibariyle tamamladığım uygulamadır.<br/><br/>uzun dönem askerlik yapıp burada bedelli vatan hainliği diyenleri daha iyi anladığım askerlik seysidir. uzun dönem yapıp askerliği öven adam cidden toplum içinde sürekli ezilen adam bunu anladım. zavallı bir kimliğe sahip. <br/><br/>gittim gördüm ne askerliğe ne vatana ne de kendime bir faydam olmadı. üzerine devlete yük oldum. tek yaptığım izmarit toplamak, koğuş temizlemek, nöbet tutmak, günde 2 paket sigara içmek, gözlerimi yumup çıkan yemeği yemek, soğuk algınlığı ilacı alınsın diye doktora neredeyse yalvarmak, meyve yiyememek, soğuk suda duş almak, 3 tane mermi sıkmak, leş gibi kokan adamlar içinde yatmak. günde 15 defa 4 lü sıra hizasi yapmak. yani vatan ile ilgili hiç bir şey öğrenmedim arkadaşlar. bunları 21 günde yaparsanız bedelli, 6 ayda yaparsanız poşet, 12 ayda yaparsanız uzun dönem oluyorsunuz. yarın bir gün bir ihtiyaç olursa tüm uzun dönem erler gibi ben de silah kullananamam.<br/><br/>hayatımda en boş geçen, bir an önce unutmak istediğim zaman dilimidir.<br/><br/>zorunlu askerlik görevi bir erkeğin hayatındaki en büyük zaman kaybıdır. bir an önce profesyonel ordu!!!<br/><br/>edit : aşağıda saf katıksız süzme bir orman çocuğu hala tunceli'deki asker diyor. oğlum mal mısın? aptal misin? kafan almıyor mu? ben bu sistem kalksın diyorum. kimse zorunlu asker olmasın. çok meraklıysan sen siktirir gidersin. yeter lan sikecem sizin demogojinizi. eğer tunceli'de dün iki asker donup şehit olduysa tek sebebi var o da sensin. emin ol o askerler senin korkakligin ve tembelliğin yüzünden ölüyor. günahları senin boynuna olsun
   entry_channels: siyaset,haber
 - entry_name: |
-    en iyi yönetim şeklinin demokrasi olduğu yalanı
-  entry_id:  82728666
-  entry_writer: emperor of cydonia
-  entry_fav_count: 45
-  entry_content: |
-    antik yunanda da bin yıllar evvel farkedilen olay, çare meritokrasi.
-  entry_channels: siyaset
-- entry_name: |
     müslüm (film)
   entry_id:  82712977
   entry_writer: umirza
-  entry_fav_count: 42
+  entry_fav_count: 45
   entry_content: |
     90’larda konserine giderken, kasetlerini alırken müslüm babanın, ne kroluğumuz ne varoşluğumuz kalırdı. <br/>gel gör ki bugunlerde elitist tayfa sahiplenmiş filmini izleyip showunu yapıyor. popcu sarkici bozuntulari parcalarini coverlayıp youtubeda ergen tayfaya sevdiriyor kendini. kıymetini bilemediler baba. <br/>vasiyetin üzerine filmini izlemeyeceğim, biz seni çok eskiden sevdik.
   entry_channels: müzik,sinema,spoiler
 - entry_name: |
-    milyonlarca ara formun buharlaşması
-  entry_id:  82723619
-  entry_writer: decimal mulayim
-  entry_fav_count: 31
+    cumartesi gecesi evde tek başına bira içen ezik
+  entry_id:  82729436
+  entry_writer: esneklik
+  entry_fav_count: 38
   entry_content: |
-    maymun ile insan arasında kalan bir şakirt tarafından iddia edilen sıçmık. aynaya baktığında gördüğün şey tam olarak bir <a class="b" href="/?q=ara+form">ara form</a> dostum.
-  entry_channels: bilim
-- entry_name: |
-    ben annene yakın oturmam diyen kız
-  entry_id:  82725154
-  entry_writer: buzdolabinda kalmis yarim limon
-  entry_fav_count: 31
-  entry_content: |
-    akıllı adam kızın annesine yakın oturur. oğlanın anası oğlum özler diye üç beş bir şey yapıp yollar ya da getirir ama kızın anası kızım yorulmasın diye her gün nerdeyse yaptığından ayırır. oğlanın annesi ‘karın sana yemek yapmıyor mu’ derse huzur kaçıyor ama kızın annesi sorgulamadan kızı yorulmasın diye her şeyini genelde ortaya koyuyor. <br/><br/>kendimden değil annemden biliyorum. babaannenin toruna bakmasıyla anneanneninki de farklıdır mesela. en azından anne için fark ediyor. çocukla belli bir yaşa kadar direkt ilişki kuran anne olduğu için büyütürken kaynanın lafı batar ama anneninki batmaz.<br/><br/>eğer biraz aklı olan kız varsa bunu teklif eden adamdan uzak durur, biraz aklı olan adam varsa bunu teklif etmez. kızın annesine yakın oturursanız börek yersiniz, oğlanın annesine yakın oturursanız trip. <br/><br/>sevin edin ananınızı ama sizin içinde büyüdüğünüz ailenizin ve kurduğunuz ailenizin sınırlarını iyi çizin. sırf bu yüzden 20 yaşına kadar öğrenilmiş çaresizlik olarak bakmışım baba tarafına. şimdi şimdi yeni düzeliyor her şey. tabi istisnalar vardır ama yıllardır gözetliyorum bu ilişkileri aksini çok az gördüm. <sup class="ab"><a title="(bkz: anadolu&#39;da ilişkiler genel olarak böyle)" href="/?q=anadolu%e2%80%99da+ili%c5%9fkiler+genel+olarak+b%c3%b6yle" data-query="anadolu&#39;da ilişkiler genel olarak böyle">*</a></sup>
-  entry_channels: ilişkiler
+    buyrun benim. giren çıkan bir şey mi var?
+  entry_channels: anket,yeme-içme
 - entry_name: |
     bmw yerine mercedes tercih eden genç
   entry_id:  82727400
   entry_writer: politeman
-  entry_fav_count: 29
+  entry_fav_count: 38
   entry_content: |
     bizzat benimdir . hangi bmw bir s63 amg coupe kadar olabilir allah için söyleyin . biriktire biriktire nasipse 2055 yılında bi s63 amg coupe sahibi olacağım
   entry_channels: otomotiv
+- entry_name: |
+    putin merkel erdoğan ve macron'un el ele fotoğrafı
+  entry_id:  82731603
+  entry_writer: minimalist unicorn
+  entry_fav_count: 34
+  entry_content: |
+    (bkz: <a class="b" href="/?q=abim+damat+oluyor">abim damat oluyor</a>) <br/>merkel' in "bir kere evleniyorum" bakışı beni bitirmiştir ahahah
+  entry_channels: siyaset,haber
+- entry_name: |
+    milyonlarca ara formun buharlaşması
+  entry_id:  82723619
+  entry_writer: decimal mulayim
+  entry_fav_count: 34
+  entry_content: |
+    maymun ile insan arasında kalan bir şakirt tarafından iddia edilen sıçmık. aynaya baktığında gördüğün şey tam olarak bir <a class="b" href="/?q=ara+form">ara form</a> dostum.
+  entry_channels: bilim
+- entry_name: |
+    koltukaltı kılını traş eden erkek
+  entry_id:  82731180
+  entry_writer: karabasan811
+  entry_fav_count: 34
+  entry_content: |
+    kesmeyelim de at kuyruğumu yapalım puşt.
+  entry_channels: 
 - entry_name: |
     evde tek başına bira içmek
   entry_id:  82728407
@@ -198,23 +214,15 @@ data:
     mutsuz bir insana iyi gelecek şey
   entry_id:  82713097
   entry_writer: cok kitap okuyan kadin
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     3 gündür kısmî depresyondayım. aynı zamanda regl mutsuzluğu da var üstümde. yataktan zaruri sebepler haricinde çıkmadım pek. taktım kulaklığı istediğim müziği dinledim. kimse görmediği zamanlarda hıçkıra hıçkıra ağladım. hatta normal zamanlarda da aniden krizim tutar diye yastığımın altına peçeteler gizledim. mesaj yazan arkadaşlarıma canım istemeyince cevap yazmadım. hayatı bir süreliğine durdurdum anlayacağınız. <br/><br/>bazen buna ihtiyaç duyuyor insan. acınız varsa bırakın da yaşayın o acıyı. acıya saygı duyarım şahsen, geldiğinde iliklerime kadar hissetmeye çalışırım. çünkü bazen öyle olması gerekir. bazen çıkmaza girmeniz gerekir, bazen hayatı durdurup etrafınıza bakmanız, sorgulamanız gerekir. bazen 'noldu?' sorularını bile takmamanız gerekir. sadece yatmak mı istiyorsunuz? yatın. sadece ağlamaktan yerlere mi düşmek istiyorsunuz? düşün. sadece karanlıkta mı oturmak istiyorsunuz? oturun.<br/><br/>mutsuz olduğunuzda kendinizi iyi hissetmeye zorlamak daha da geri tepebilir. hayat farklı süreçlerden oluşuyor, o süreçleri hissetmeniz gerekiyorsa gerekiyordur. illa 'hemmmmen mutlu olmalıyım bu normal değil' moduna bürünmeyin. mutsuzluğu da yaşayın geldiyse, yalnızca anormal insanlar mı mutsuz oluyor sanki? insanız şunun şurasında. düştüysek kalkarız.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    cristiano ronaldo
-  entry_id:  82731559
-  entry_writer: old enough to know too young to care
-  entry_fav_count: 19
-  entry_content: |
-    serie a'da toplam 10 macta 7 gol 4 asist yapmis gunumuz futbolundaki aktif en iyi futbolcu. <br/><br/>messi ise yillardir oynamaya alistigi takimda ronaldo ile benzer bir performans gostermis, 9 macta 7 gol 5 asist.<br/><br/>messi'yi al juventus'a koy? olmaz.<br/><br/>ronaldo? her yerde oynar. manchester united, real madrid, juventus. lig, ulke, organizasyon farketmez.
-  entry_channels: spor,magazin
-- entry_name: |
     küçük bir çocuğa göz kırpmak
   entry_id:  82730501
   entry_writer: mamadu niang
-  entry_fav_count: 17
+  entry_fav_count: 20
   entry_content: |
     bende her çocuğa göz kırpardım eskiden.<br/>çocuk tacizi ve tecavüz olayları giderek arttıktan sonra bıraktım. <br/>birinci neden, çocuğun ebeveyni beni tacizci sanabilir. ikinci neden, yarın gerçek bir tacizci göz kırparak çocuğun güvenini kazanıp, taciz-tevacüz girişiminde bulunabilir.
   entry_channels: ilişkiler
@@ -222,26 +230,26 @@ data:
     türkiye'nin %88.7'si tipinden memnun
   entry_id:  82729142
   entry_writer: otaylancelebi
-  entry_fav_count: 15
+  entry_fav_count: 19
   entry_content: |
     "<a class="b" href="/?q=tipini+sikti%c4%9fim">tipini siktiğim</a>" gibi bir lafa sahip ülkenin böyle sonuçlar vermesi inanılır gibi değil.
   entry_channels: anket
 - entry_name: |
-    bir erkeğin tehlikeli olduğunu gösteren detaylar
-  entry_id:  82720169
-  entry_writer: yogayapanshrek
-  entry_fav_count: 15
-  entry_content: |
-    erkeğin en tehlikelisi ailesi tarafından sürekli övülmüş, hiç bir kişisel gelişim kaydedememiş, tek meziyetinin doğuştan gelen 2 taşşak ve bir sikten ibaret olduğunu sanan, namus kavramını sadece anne ve kız kardeşinde bir de evleneceği kadın da önemseyen boş beleş cahil adamlardır.<br/>ne yazık ki toplumun genelinde bu tür erkekler yaygın olduğundan kızlarımız bu tür erkekleri daha bir adam sanıp peşlerinden gitmektedir.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     şehit askerler üzerinden mizah yapan genç
   entry_id:  82730815
   entry_writer: cedric bakambu
-  entry_fav_count: 12
+  entry_fav_count: 16
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/0cc0700e6373" title="https://eksiup.com/0cc0700e6373">tıkla</a><br/><br/>umarım bulunur ve ceza alır.utanmaz hadsiz.<br/><br/>böyle bir şeyin mizahımı olur
   entry_channels: teknoloji,haber
+- entry_name: |
+    bir erkeğin tehlikeli olduğunu gösteren detaylar
+  entry_id:  82720169
+  entry_writer: yogayapanshrek
+  entry_fav_count: 16
+  entry_content: |
+    erkeğin en tehlikelisi ailesi tarafından sürekli övülmüş, hiç bir kişisel gelişim kaydedememiş, tek meziyetinin doğuştan gelen 2 taşşak ve bir sikten ibaret olduğunu sanan, namus kavramını sadece anne ve kız kardeşinde bir de evleneceği kadın da önemseyen boş beleş cahil adamlardır.<br/>ne yazık ki toplumun genelinde bu tür erkekler yaygın olduğundan kızlarımız bu tür erkekleri daha bir adam sanıp peşlerinden gitmektedir.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     27 ekim 2018 pittsburgh sinagog saldırısı
   entry_id:  82727796
@@ -259,13 +267,29 @@ data:
     5 gün önce bıraktım ve kendisiyle dalga geçiyorum.<br/><br/>3 gündür bira içtim. bu gün rakı içiyorum ve canım acaaaip istemesine rağmen... içmeyeceğim..<br/><br/>kendini kırbaçlayan budistlere döndüm bu meret yüzünden hay a.q.<br/><br/>ama kırbaça devam.. beni öldürmeyen şey beni güçlendirir. <br/><br/>neyse çok mühim değil..<br/><br/>edit: beni anlayanlara teşekkürler... rakı iyi gelmedi.. sikti belamı.. ama pes ettim mi..<br/><br/>hayır.. kendimi en yakın parka attım coldplay eşliğinde yürüyorum aq.. çözcez bu işi.. <br/><br/>mühim değil....
   entry_channels: sağlık,yeme-içme
 - entry_name: |
-    putin merkel erdoğan ve macron'un el ele fotoğrafı
-  entry_id:  82732008
-  entry_writer: chloe price
-  entry_fav_count: 5
+    bir yazarla ikinci gün mesajlaşmayı bırakmak
+  entry_id:  82724803
+  entry_writer: kamenist
+  entry_fav_count: 7
   entry_content: |
-    reis'in <a class="b" href="/?q=ha%c3%a7l%c4%b1+ittifak%c4%b1">haçlı ittifakı</a> ile el ele poz verdiği fotoğraf.
-  entry_channels: siyaset,haber
+    ertesi gün günaydın derken sanki anasına bacısına sövüyoruz pezevenklerin.
+  entry_channels: ilişkiler,ekşi-sözlük
+- entry_name: |
+    neşeli kaprissiz anlayışlı huzur veren kadın
+  entry_id:  82727156
+  entry_writer: kiraz dali
+  entry_fav_count: 6
+  entry_content: |
+    40 yaş altı erkekler için bir önemi yoktur genelde. el üstünde falan tutulmaz, kıymeti de bilinmez. aksine, nasıl olsa her şeyi anlayışla karşılıyor diye daha çok sömürülür.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    27 ekim 2018 istanbul suriye zirvesi
+  entry_id:  82730787
+  entry_writer: factofpainkiller
+  entry_fav_count: 6
+  entry_content: |
+    bütün taraflar için güzel geçtiğini düşündüğüm zirve. <br/><br/>- rusya, bu toplantıda esad ve bazı yerel gruplar için masadaydı. sığınmacılar için bazı temel ve klişeleşmiş cümleler kullandı. ayrıca 1.5 milyon sığınmacı ülkelerine dönebilirler dedi. ancak belkide 4'lü görüşmede ve basın toplantısında sarf edilen sözlerin en önemlilerini söyledi. esad'ı ima ederek, esad'sız bir çözüm düşünülemez dedi. herkes rejim diyor ancak suriye meşru hükümeti denmelidir. onlarsız barış düşünülemez diyor. yani hazır olun. ümmet yeni bir dönüşe hazırlanıyor. kardeşim esad loading..<br/>ayrıca putin iran'ı yücelterek astana ve diğer barış görüşmelerinin temel taşlarından birisidir dedi. <br/><br/>- fransa, bu toplantıda amerika birleşik devletlerini ve diğer ülkeleri temsilen masadaydı. macron'un dediklerinin neredeyse tamamı bağımsız bir suriye ve barış görüşmeleri için kürt yapılarının tanınması ve barış görüşmelerine dahil edilmesi gerekliliğini savundu. abd ile birlikte sdg ve ypg birliklerini eğiterek zaten bir kürt koridoru oluşturulmuştu. bu toplantıda sarf ettiği cümlelerle kürtleri barış görüşmelerine çağırmak için yoğun mesai harcadığını gözler önüne sermiş oldu. <br/>ve suriyede yeni hükümet için seçimlerin yapılması gerektiğinden bahsetti. bu biraz ütopik bir söylemdi. çünkü suriyede seçim için oluşmuş uygun bir altyapı yok. yani anlayacağınız kürtlerle barış görüşmeleri tekrar başlayabilir. başka bir dönüşe hazır olun. <br/>ayrıca macron, insani yardım konvoylarının durdurulmasını dolaylı olarak rusya'nın üzerine attı. rusya yüzünden insanlar yeterli desteği göremiyor imasında bulundu. putin'in yüz ifadesini görmeniz lazımdı. <br/><br/>- almanya sığınmacılar, avrupa birliği ülkeri ve suriyede ki sivil halk için oradaymış gibi gözükse de aslında küresel siyasetten uzak kalmama ve tamamen ekonomik sebeplerden dolayı oradalar. çünkü suriye savaşının ekonomik sorunlarının neredeyse hepsi almanya'nın üzerinde. özellikle sığınmacılardan dolayı ağır ekonomik faturalar neredeyse almanya'nın sırtında. barış sağlanması almanya için büyük kazanç olacaktır. <br/><br/>- peki türkiye kim ve kimler için masadaydı ?<br/>türkiye sanırım bütün taraflara göre en çok tavizi veren taraf olarak görünüyor.<br/>rusya, esad olmadan barış görüşmeleri sonuçlanamaz diyor. <br/>fransa, kürtler ve özerk yapılar olmadan barış görüşmeleri sonuçlanamaz diyor.<br/>bilin bakalım bu iki tarafla da savaş içerisinde olan ülke hangisi. cevap: türkiye!!<br/><br/>bazı tavizler vermek zorunda kalacağımızın en net göstergesi bugünkü toplantıdır. ancak bu tavizleri verirken 7 yıldır savaş halinde olduğumuz kişiler ve yapıları iç siyasette halka nasıl anlatacağız sorusunu kendilerine soruyorlardır herhalde.
+  entry_channels: siyaset,tarih,haber,ekonomi
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  82709715
@@ -283,14 +307,6 @@ data:
     28 yasindayim. saat 02.00 ve ben bu yasta ogrendim ki hayal kirikliklari da uyku kacirir.
   entry_channels: anket,ilişkiler,ekşi-sözlük,sanat,sağlık,eğitim
 - entry_name: |
-    bir yazarla ikinci gün mesajlaşmayı bırakmak
-  entry_id:  82724694
-  entry_writer: uygunsuznickaldimtamammi
-  entry_fav_count: 5
-  entry_content: |
-    bugüne kadar çokça yaptığımdır. yahu muhabbet veya konuşmanın yeri zamanı vardır, evin yanmıyorsa, tanıdığın ölmüyorsa, hayati bir konu yoksa dertleşmek için o kadar ısrarcı olmamalısın.<br/><br/>tamam, burada "merhaba merhaba" denilmiş, devamında da "görüşürüz" demişiz, sonra bir bakıyorsun yazarın aklı başka amaçta, bir entryni okumuyor, sana entrylerde çarşaf çarşaf yazdığın şeyleri soruyor, "benim vaktim yok" diyorsun, kendine kral muamelesi bekliyor.<br/><br/>dün boş anımda teneffüs niyetine buraya gelip bir entry yazdım, gelen bir sürü cevap var, işime de dönmem lazım, yazarlara işim olduğunu söyleyince sağ olsunlar, halimi anlayıp uzatmadılar, aynı anda bir gün önce başka bir entryden muhabbet açan biri hala "cevap verme nezaketimi" zorlamıyor mu, bir de "yanlış ata oynadın"demedi mi, "evet beygirciğim, yanlış at sensin sanırım, hala cevap verip derdimi anlarsın diye umuyorum" deyip ! engelle geç.<br/><br/>yine bu güzel bir şey, 1 günlük yazışma en nihayetinde. yani biriyle ilk 20 mesajda karşındakinin egosu, aklı fikri anlaşılıyorsa süper bir şey, çok emek zayii olmuyor.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
     kızıl saçlı kadınlar
   entry_id:  82727762
   entry_writer: yazar dedigin benim gibi olur
@@ -306,6 +322,14 @@ data:
   entry_content: |
     işgal kuvvetleri ülkemizi işgal etse, ülkeyi işgal gücü valisi yönetse ,olağan sayılabilecek durum.
   entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  82712786
+  entry_writer: samonwhite
+  entry_fav_count: 4
+  entry_content: |
+    buradaki bazı avellerin bu tarz sorularını direkt annelerine sorması gereken başlık
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     erkeklerin sevişme kriterleri
   entry_id:  82728636
@@ -323,13 +347,13 @@ data:
     bence burak yılmaz şizofren.<br/><br/>kendi kendine kafasında bir pozisyon kuruyor ve ona inanıyor.<br/><br/>halinden tavrından bu anlaşılıyor. yani adamda "tüh yediremedik" piçliği yok. hakem penatımı vermedi isyanı var.
   entry_channels: spor
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  82721560
-  entry_writer: 1990 was a bad year
+    bir anda bütün erkekler kaybolsa yaşanacaklar
+  entry_id:  82731491
+  entry_writer: mataas
   entry_fav_count: 2
   entry_content: |
-    programlama dili özel ders verecek "usta" kişi aranılıyor.<br/><br/>freelance olarak çalışıp para kazanabileceğim bir yazılım dili öğrenmek istiyorum. hali hazırda python biliyorum, django'da bir şeyler çıkarabiliyorum, az biraz bootstrap, çok az java. aslında bunları ne kadar biliyorum onuda bilmiyorum. çevremde yazılımcı bir tanıdığım biri yok oturup abi bak şunu yaptım desem "bu ne olum, bunu ilkokul çocuklarını ödev olarak kodlatıyorlar" yada "gelişimin iyi şunuda öğrensen sen bu işte para kazanırsın" diyecek biri yok. dolayısıyla kendimi sınayamıyorum, ne konumda olduğumu bilemiyorum. <br/>bana özel ders verecek kişi bunu online'da yapabilir. çalışma şekli olarak sadece proje bazlı çalışmak istiyorum. bana bir proje verecek, ben bunu internetten araştıracağım, yapacağım. o ise hatalarımı gösterecek. yada daha iyi nasıl yapabilirdim diye anlatacak. yani bana hiç bir şekilde oturup bak bu print, yada buna böyle değişken verilir gibi anlatmasına gerek kalmayacak. zaten milyon tane kaynak var. python ve django'da para kazanılmayacığını inandığım için yeni bir yazılım dili öğrenmek istiyorum. türkiye'de fazla talep görmüyor diye duydum.
-  entry_channels: ekşi-sözlük,ekonomi
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/4fldEDXAVY8" title="https://youtu.be/4fldEDXAVY8">videoda tüm insanlar yok olursa diye bahsedilmiş</a><br/><br/>ama enerji santrallerinin büyük çoğunluğunda erkek egemenliği olduğu için 1 ay içerisinde çok büyük seleksiyona uğrayacaklardır. <br/><br/>enerjiyi halledenler ise vahşi hayvanlar karşısında elenecek. onlardan korunanlar da <a class="b" href="/?q=yaln%c4%b1zl%c4%b1ktan+a%c4%9flayarak+kendilerini+helak+ederler">yalnızlıktan ağlayarak kendilerini helak ederler</a>.<br/>kötü bir senaryo.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     sözlük nick'lerinden meslek tahmini yapmak
   entry_id:  82711753
@@ -339,12 +363,12 @@ data:
     eskort<br/><br/>(bkz: <a class="b" href="/?q=can+i+see+the+money">can i see the money</a>)
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    bir anda bütün erkekler kaybolsa yaşanacaklar
-  entry_id:  82731724
-  entry_writer: jek nikilsin
+    kadınları seksi yapan detaylar
+  entry_id:  82730791
+  entry_writer: hayaletin free shopci arkadasi
   entry_fav_count: 1
   entry_content: |
-    "neredeyse" yapılmışı için (bkz: <a class="b" href="/?q=y+the+last+man">y the last man</a>)
+    bakımlı ve ojeli ayaklardır. net.
   entry_channels: anket,ilişkiler
 - entry_name: |
     7 yaşındaki erkeğin tacizine uğramak
@@ -355,14 +379,6 @@ data:
     mesajı beğendiysem de başlığı yanlış buldum.<br/><br/>başlık bu şekilde anlam kayması yaşatıyor insana.<br/><br/>fikir ise gerçekten çok doğru. sen göster amcalara pipini süreciyle başlayan saçmalığı devam ettirirsen o çocuk iyi bir çevresi yoksa geleceğin potansiyel tacizcisi olabilir. <br/><br/>aman ne duyar kasıyosam. banane amk herkesin sıçtığına kafa takmak zorunda kalıyoruz.<br/><br/>düzgün eğitin lan atmıklarınızı. yeterince sapık var zaten.
   entry_channels: ilişkiler
 - entry_name: |
-    1.55 boyundaki türk kızı
-  entry_id:  82728552
-  entry_writer: nihade
-  entry_fav_count: 1
-  entry_content: |
-    dünya tatlisidir
-  entry_channels: anket
-- entry_name: |
     sözlük yazarlarının satın aldıkları son kitap
   entry_id:  82726966
   entry_writer: dkr
@@ -371,35 +387,19 @@ data:
     italo calvino - görünmez kentler <br/>güzel kitap bitirmek üzereyim tavsiye ederim.
   entry_channels: anket,ekşi-sözlük,edebiyat
 - entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  82727999
-  entry_writer: booradley
+    sözlük yazarlarının benzetildikleri ünlüler
+  entry_id:  82718099
+  entry_writer: prokeyfsiyonel
   entry_fav_count: 0
   entry_content: |
-    madem bir soru da benden gelsin. yıllardır merak ederim, soğuk kış aylarında böyle zemheri dedikleri soğuklarda şahsen ben erkek olarak içlik giymeme rağmen üşüyorken, bazılarınız mini eteği çorapsız dahi giyebiliyor . üşümüyor musunuz hakkaten?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=fatih+altayl%c4%b1">fatih altaylı</a>)<br/><br/>gençliğimde kargo koray sanıp çeviren olmuştu, nereden nereye lanet girsin. bi ara da acun diyolardı. kendimden tiksindim lan yine öfff.<br/><br/>o değil de, eski hesabımla buraya yabancı bir minyon hanımın adını yazmıştım. 10 dakikada 80 tane mesaj gelmişti lan. direkt, ''yirimm yiriiimmmmmmmmmm'' yazan bile olmuştu. o kadar lan mesaj, başka bi şey yazmıyodu valla. ne düşünüyodu ki acaba?<br/>ye yiğidim, götümü ye mi yazıcaz napcaz? sen beni nasıl bi kız sandın lan sikişik.<br/><br/>bir daha da hiç o günkü kadar ilgi görmedim hayatımda :(
+  entry_channels: anket,ekşi-sözlük,magazin
 - entry_name: |
-    devlet elektrik sayacı bağlamasın diyen kürt
-  entry_id:  82732131
-  entry_writer: başlık taşıyan
+    geceye bir şarkı bırak
+  entry_id:  82732116
+  entry_writer: clementine19
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=devlet+elektrik+sayac%c4%b1+ba%c4%9flamas%c4%b1n+diyen+urfal%c4%b1">devlet elektrik sayacı bağlamasın diyen urfalı</a>)
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    cumartesi gecesi evde tek başına bira içen ezik
-  entry_id:  82730860
-  entry_writer: tortusuz
-  entry_fav_count: 0
-  entry_content: |
-    eve yeni girmiş olmama rağmen yakalandığım başlık.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    27 ekim 2018 istanbul suriye zirvesi
-  entry_id:  82727080
-  entry_writer: sartlari kabul ediyorum
-  entry_fav_count: 0
-  entry_content: |
-    lan olm bu ne zirvesi. daha 2 ay önce orada bulunan fransa'nın attığı bombaları, yine orada bulunan rusya sistemi engellemedi mi. nasıl bir dünya'da yaşıyoruz amk.
-  entry_channels: siyaset,tarih,haber,ekonomi
+    <a class="b" href="/?q=h%c3%bcsn%c3%bc+arikan">hüsnü arikan</a> - <a class="b" href="/?q=k%c4%b1r%c4%b1k+hava">kırık hava</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/KPOhDzhGwtE" title="https://youtu.be/KPOhDzhGwtE">- ben seni nasıl sarıp seveyim</a>
+  entry_channels: anket,müzik
 ---
