@@ -6,7 +6,7 @@ data:
     100 km'de 63 litre motorin yakan clio
   entry_id:  82911999
   entry_writer: istanbulunsokaklari
-  entry_fav_count: 990
+  entry_fav_count: 991
   entry_content: |
     sayıştay raporlarına göre iski'ye ait cliolar 100 km'de 63 litre yakıt yakarak adeta akaryakıtı içmiş.<br/><br/>iski'nin diğer araçlarının yakıt tüketim ortalamaları;<br/><br/>1-renault clio: 100 km’de 63,19 litre<br/>2- fiat doblo: 100 km’de 34 litre,<br/>3- fiat doblo: 100 km’de 33 litre<br/>4- fiat doblo: 100 km’de 27 litre<br/>5- fiat doblo: 100 km’de 24 litre<br/>6- ford tourneo: 100 km’de 42 litre<br/>7- ford tourneo: 100 km’de 37, 45 litre<br/>8- renault fluence: 100 km’de 22,32 km<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/ucaktan-5-kat-daha-fazla-yakan-araclar-235458.html" title="https://www.birgun.net/haber-detay/ucaktan-5-kat-daha-fazla-yakan-araclar-235458.html">link</a>
   entry_channels: siyaset,haber,ekonomi
@@ -14,7 +14,7 @@ data:
     tunceli'de mağara devrini yaşayan aile
   entry_id:  82919704
   entry_writer: uninitiated
-  entry_fav_count: 489
+  entry_fav_count: 490
   entry_content: |
     uydurma bir habere benziyor.<br/><br/>devletin varlığından haberleri yoksa, nasıl soyisimleri olabiliyor? haberleri olmasaydı, soyadları bilinemezdi diye düşünüyorum.
   entry_channels: haber
@@ -22,7 +22,7 @@ data:
     ahmet kural'ın tüm kadınlardan özür dilemesi
   entry_id:  82923360
   entry_writer: bialo czerwoni
-  entry_fav_count: 457
+  entry_fav_count: 459
   entry_content: |
     ' o gece, benimle paylaştığı şeyleri itidalli bir şekilde karşılayabilmeliydim. herkesin ayıbı kendine diye düşünmeliydim.'<br/><br/>cümlesinin altında yatan anlamı merak edenler?
   entry_channels: ilişkiler,haber,magazin
@@ -30,7 +30,7 @@ data:
     yapı kredi'nin ahmet kural'a yol vermesi
   entry_id:  82924206
   entry_writer: excelsior was here
-  entry_fav_count: 357
+  entry_fav_count: 363
   entry_content: |
     olması gereken olmuştur. yapı kredi'yi bu duyarlı davranışından dolayı tebrik ederim. bu ülkede kadınlara kalkan el 1923 yılında kırılmıştı. bazıları geldi alçıya alıp düzeltti. yine kırmasını iyi biliriz yalnız. ayağınız denk alın.<br/><br/>edit: akpli hanzo tayfanın gücüne gitmiş olacak ki klavyeyi orana burana sokarım diye mesaj atıyorlar. birisi de yazmış ki; "seni kari onla bunla kiristirirsa sakin elini kaldirma medenice ayril ya da gormwzden gel" <br/><br/>vallahi pes. azalarak bitmeniz dileğiyle. dünya sizsiz daha güzel.
   entry_channels: tv,magazin,ekonomi
@@ -38,31 +38,15 @@ data:
     forrest gump rolünü en iyi oynayacak türk
   entry_id:  82919763
   entry_writer: pshasha
-  entry_fav_count: 292
+  entry_fav_count: 293
   entry_content: |
     gözümde kemal sunal canlandı forrest gump denince.
   entry_channels: anket,sinema
 - entry_name: |
-    1 km'de 427 litre motorin yakan ford tourneo
-  entry_id:  82924185
-  entry_writer: m0untain
-  entry_fav_count: 212
-  entry_content: |
-    tam hali 1 km'de 427,94 litre motorin yakan ford tourneo olacak.<br/>sayıştay'ın iski için yayınladığı raporda gözden kaçan detay.<sup class="ab"><a title="(bkz: nasıl kaçtıysa)" href="/?q=nas%c4%b1l+ka%c3%a7t%c4%b1ysa" data-query="nasıl kaçtıysa">*</a></sup> <br/>(bkz: <a class="b" href="/?q=100+km%27de+63+litre+motorin+yakan+clio">100 km'de 63 litre motorin yakan clio</a>) başlığından yola çıkarak sayıştay'ın yayınladığı rapora bakmak istedim, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sayistay.gov.tr/tr/Upload/62643830/files/raporlar/kid/2017/Belediyeler/İSTANBUL SU VE KANALİZASYON İDARESİ GENEL MÜDÜRLÜĞÜ İSKİ.pdf" title="https://www.sayistay.gov.tr/tr/Upload/62643830/files/raporlar/kid/2017/Belediyeler/İSTANBUL SU VE KANALİZASYON İDARESİ GENEL MÜDÜRLÜĞÜ İSKİ.pdf">buyrun siz de bakın sayfa 60/tablo 8</a> ve bununla da yetinmeyip araç broşüründen yakıt tankının ne kadar aldığına baktım <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/92fa44aa1231" title="https://eksiup.com/92fa44aa1231">buyrun yakıt deposu 47 litre alıyor</a>, yani araç 100km gitse 42794(kırk iki bin yedi yüz doksan dört) litre yakıt sarfiyatı olacaktı, bu araç giderken tanker uçağı eşlik etmesi lazımdı ama sağolsun iski durumu hemen fark etmiş ve 1km sonunda durmaya karar vermişler, para milletimizin cebinde kalmış.<br/><br/>edit: araç kataloğundaki yakıt <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/3d7ec27b0873" title="https://eksiup.com/3d7ec27b0873">tüketimi</a>.
-  entry_channels: siyaset,haber,otomotiv
-- entry_name: |
-    2 kasım 2018 yeni askerlik sistemi iddiası
-  entry_id:  82912916
-  entry_writer: teknolojik
-  entry_fav_count: 206
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>doktor, öğretmen, hakim ve sporcu gibi meslek sahiplerine, hangi dönemde askerlik yapacakları konusunda tercih hakkı getirilecek.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bir mobilyacı olarak kendimi çok dışlanmış hissettim.
-  entry_channels: haber
-- entry_name: |
     google'ın hoşlandığınız kişiye mesaj atması
   entry_id:  82919635
   entry_writer: dedi kuzgun
-  entry_fav_count: 201
+  entry_fav_count: 209
   entry_content: |
     (bkz: <a class="b" href="/?q=google%27%c4%b1n+uyurken+%c3%bcst%c3%bcm%c3%bcz%c3%bc+%c3%b6rtmesi">google'ın uyurken üstümüzü örtmesi</a>)<br/><br/>ekleme: <a class="b" href="/?q=meganick">meganick</a> uyardı, varmış zaten bu hizmet; google earth.
   entry_channels: ilişkiler,teknoloji
@@ -70,15 +54,23 @@ data:
     31 aralık 2018 akk'nin kaldırılması
   entry_id:  82924244
   entry_writer: faze
-  entry_fav_count: 167
+  entry_fav_count: 182
   entry_content: |
     akk kalkar yerine kotalı paket getirirler ben bu ülkede iyi şeylerin olacağına inancımı çoktan kaybettim. <br/><br/>amerika'da yaşayan arkadaşım var 1000 mbps download hızı alıyor evinde. call of duty black ops 4'ü 3 dakika'da indirdi amına koyım. kullandığı iss google fibermiş. ben ise 50 mbps alıyorum ve test sonucunda türkiye'de ki internetlerin %92'sinden iyi olduğumu söylüyorlar. 50 lan 50. <br/><br/>onun dışında kimse upload hızlarını siklemiyor. türk kullanıcılarının %90'ı upload nedir bilmiyor bile.
   entry_channels: teknoloji,haber
 - entry_name: |
+    cinsiyet değiştirme ameliyatı animasyonu
+  entry_id:  82928394
+  entry_writer: mgmar48
+  entry_fav_count: 172
+  entry_content: |
+    (bkz: <a class="b" href="/?q=erke%c4%9fe+psikolojik+%c5%9fiddet+nas%c4%b1l+uygulan%c4%b1r">erkeğe psikolojik şiddet nasıl uygulanır</a>)
+  entry_channels: ilişkiler,bilim,sağlık,haber,eğitim
+- entry_name: |
     man türkiye a.ş. kariyer.net ilanı
   entry_id:  82924278
   entry_writer: angara beyefendisi
-  entry_fav_count: 163
+  entry_fav_count: 170
   entry_content: |
     sektörden bildiriyorum; istediği şartları sağlamak zor değil. ama kimin için zor değil? işine tapan, işinden başka hayatı olmayan insan için zor değil. bu sektörde var böyle bir tanıdığım, adam öleceğini bilse son gün işe gider para kazanır. ulan aynı işi yapıyoruz, ben her akşam geziyorum tozuyorum, adam evinde bile çalışıyor. ihtiyacın olmadığı halde bin lira fazlası için hayatını veriyorsun diyorum ama yok, adam böyle mutlu. <br/><br/>işte bunların yüzünden işverenler de iyice arsızlaştı. şu işler için en az 3 kişi tutman lazım. ama burası türkiye.. burada her sınır zorlanır, çalışacak adam da bulunur. bunun rahatlığı var adamlarda. <br/><br/>ekleme: borcun içinde yüzüyorum ama bu işi bana 20 bin lira da versen yapmam. yapamam demiyorum bak, yapılmaya yapılır, ama ben yapmam. bütün hayatının "iş" olması lazım. binbir türlü işi takip etmen lazım mesai saatinde olmasan bile. fark etmezsin; hayat boyu çevrenle bile sadece iş konuşan bir makineye dönüşürsün. dönüşenlerden biliyorum. kütük gibi yaşayıp, makine gibi hizmet edip, para harcamaya bile vakit bulamadan ölüyorlar amk.
   entry_channels: haber
@@ -86,7 +78,7 @@ data:
     güzel diye yutturulan ünlüler
   entry_id:  82919036
   entry_writer: zkn ytr
-  entry_fav_count: 126
+  entry_fav_count: 129
   entry_content: |
     net: <a class="b" href="/?q=serenay+sar%c4%b1kaya">serenay sarıkaya</a>'dır. ağzı burnu köpürerek konuşması çok itici, mümkünse hiç konuşmasın. <br/><br/>ikinci <a class="b" href="/?q=ziynet+sali">ziynet sali</a>'dir. bu kadın kendi kendine sürekli 'seksi ve çekici olmalıyım, seksi ve çekici olmalıyım' diyen bi hali var.
   entry_channels: anket,magazin
@@ -94,26 +86,10 @@ data:
     soyadı dört harfli olanların çok başarılı olması
   entry_id:  82928091
   entry_writer: slava
-  entry_fav_count: 121
+  entry_fav_count: 122
   entry_content: |
     (bkz: <a class="b" href="/?q=ajdar+an%c4%b1k">ajdar anık</a>)
   entry_channels: anket
-- entry_name: |
-    sıla gençoğlu'nun yalan söyleme ihtimali
-  entry_id:  82906162
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 104
-  entry_content: |
-    adamlar ciddi entry kasip beyin firtinasi yapiyor amk.<br/><br/>sila kim ahmet kim siz kimsiniz napiyosunuz olum? türkiye de her gun kadin cinayeti isleniyor bi tane entry girilmiyorken sila darp edilince niye costunuz bu kadar? issiz misiniz yoksa kisiye gore mi duyar kasiyosunuz?
-  entry_channels: anket,magazin
-- entry_name: |
-    penise fıstık ezmesi sürüp köpeğe yalatmak
-  entry_id:  82926066
-  entry_writer: silik attin da basin goge mi erdi
-  entry_fav_count: 98
-  entry_content: |
-    abi haber var da nasıl yayınlayalım?<br/><br/>- ne haberi olum?<br/><br/>iskoçya'da adamın birinin penisini köpeği ısırıp parçalamış.<br/><br/>- adamın görüntüsü var mı?<br/><br/>yok abi.<br/><br/>- tamam olum sıkıntı değil bi tane köpek bi tane de yol koy yayınla gitsin.<br/><br/>tamam abi.
-  entry_channels: ilişkiler,sağlık,haber,yeme-içme
 - entry_name: |
     kocaeli'deki kadın öğretmen öğrenci ilişkisi
   entry_id:  82922724
@@ -126,7 +102,7 @@ data:
     erkeklerin sevgili olmak istediği kızda aradıkları
   entry_id:  82920057
   entry_writer: ciftetas
-  entry_fav_count: 83
+  entry_fav_count: 88
   entry_content: |
     sosyal medya takıntısı olmasın yeter.böyle bir kadın dan ne çocuğuna iyi bir anne,ne de kocasına iyi bir eş olur.hemen yol verin gitsin.
   entry_channels: anket,ilişkiler
@@ -134,7 +110,7 @@ data:
     1973'te köy öğretmenlerinin çekildiği fotoğraf
   entry_id:  82928480
   entry_writer: kokusuzkurbaga
-  entry_fav_count: 73
+  entry_fav_count: 79
   entry_content: |
     buram buram nostalji kokan fotoğraftır. bir yeşilçam filminin çekimlerine giden ekibe ait gibi duruyor. insanın gözleri bir tarık akan, bir cüneyt arkın, bir necla nazır arıyor sanki. soldaki sarı saçlı öğretmen o dönemin aktristlerini hiç aratmıyor.<br/>yer: koldere kasabası/ saruhanlı/ manisa <br/>tarih: 16.04.1973 öğretmenlerin isimleri de biliniyor.<br/><br/>edit: başlığın orijinali "çekindiği" şeklindeydi. sağ olsun moderasyon düzeltti. böyle düzeldi mi emin olamadım.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/174ee8ced846">https://eksiup.com/174ee8ced846</a>
   entry_channels: bilim,sanat,tarih,otomotiv,eğitim,ekonomi
@@ -142,34 +118,34 @@ data:
     2 kasım 2018 galatasaray fenerbahçe maçı
   entry_id:  82906435
   entry_writer: gelbanagorbeniaskinneyledi
-  entry_fav_count: 70
+  entry_fav_count: 71
   entry_content: |
     50 bin aslan'ın kükreyeceği maç, değildir.<br/><br/>50 bin aslan'ın telefon ile canlı yayın yapmaya çalışacağı, gol videosu çekmeye çalışacağı, sosyal medyadan prim kasmaya çalışacağı; sonuç olarak takımı desteklemekten, bir dakika bile susmamaktan başka her şeyi yapacağı maçtır.
   entry_channels: spor
 - entry_name: |
-    felipe melo
-  entry_id:  82919061
-  entry_writer: aartoyun
-  entry_fav_count: 59
+    ahmet kural yalnız değildir
+  entry_id:  82931881
+  entry_writer: eksilikli
+  entry_fav_count: 70
   entry_content: |
-    akıllarda emreyi siktir edişi ile kalacak ve yıllarca hatırlanacak futbolcu<br/>not: bursaspor
-  entry_channels: spor
+    çok uzundu okuyamadım. adam önce kolunu minik bir itişmede tuttum dedi. tuttum dediği yer minik bir morarma değil bildiğin ortası kızarık bir morluk. yani derin bir morluk var. şimdi buraya kadarını adam kabul etti zaten.<br/>ertesi gün ben keşke daha itidalli olsaydım dedi, kadın için bir haltlar ima etti. bir boklar yediğini kabul etti yine yani. kendisine yapılan iddia hakkında darp raporu vs varken, onun bok atmalarının hiçbir tabanı yok. adam olsa zaten sevdim dediği kadını dövmeyi geç, hala seviyorum derken namussuz bir kadınmış gibi lanse de etmezdi. gebeş dediğin ahmet kural’dır. başka yerden duyar kas.
+  entry_channels: magazin
 - entry_name: |
     samsun'daki suriyeli kantonu
   entry_id:  82928935
   entry_writer: kumulatifvergimatrahi
-  entry_fav_count: 58
+  entry_fav_count: 62
   entry_content: |
     çomaristanın en önemli şehirlerinden birinde gerçekleşmiştir. bakın bir sonraki seçimde en az %60 oy alacaktır akp. samsun bundan sonra suriye’nin başkenti deseler buradakilerin gıkı çıkmaz.
   entry_channels: siyaset
 - entry_name: |
-    ahmet kural yalnız değildir
-  entry_id:  82931881
-  entry_writer: eksilikli
-  entry_fav_count: 57
+    sözlükçülerin nick'leriyle anlatmak istedikleri
+  entry_id:  82919625
+  entry_writer: hak yeme fuck yeah
+  entry_fav_count: 56
   entry_content: |
-    çok uzundu okuyamadım. adam önce kolunu minik bir itişmede tuttum dedi. tuttum dediği yer minik bir morarma değil bildiğin ortası kızarık bir morluk. yani derin bir morluk var. şimdi buraya kadarını adam kabul etti zaten.<br/>ertesi gün ben keşke daha itidalli olsaydım dedi, kadın için bir haltlar ima etti. bir boklar yediğini kabul etti yine yani. kendisine yapılan iddia hakkında darp raporu vs varken, onun bok atmalarının hiçbir tabanı yok. adam olsa zaten sevdim dediği kadını dövmeyi geç, hala seviyorum derken namussuz bir kadınmış gibi lanse de etmezdi. gebeş dediğin ahmet kural’dır. başka yerden duyar kas.
-  entry_channels: magazin
+    ben ne yazayım şimdi buraya dedirten başlık.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     ahmet kural
   entry_id:  82907891
@@ -190,7 +166,7 @@ data:
     ali koç
   entry_id:  82910786
   entry_writer: kabilin kardesi
-  entry_fav_count: 41
+  entry_fav_count: 47
   entry_content: |
     bir mahalleye geliyorsun. mahallenin en işlek noktasında bir beyaz eşya mağazası satın alıyorsun. tabelasını, çalışanını, görünümünü değiştiriyorsun mağazanın, öneri ve şikayet kutusu koyuyorsun mağaza girişine. bakkal gibi yönetilen bu işletmenin hesap defterini önüne alıp gece gündüz çalışarak, mağazanın borçlarını, cari hesaplarını en ince noktasına kadar didik didik ediyorsun. ekonomik olarak nefes almasını sağlıyorsun bu işletmenin.<br/><br/>fakat aradan birkaç ay geçtiğinde bakıyorsun ki, bu kadar değişime rağmen satışlarda düşüş var, mahallenin en az iş yapan işletmecisi sensin hatta. yanlış giden birşeyler var, ama ne? <br/><br/>şikayet ve öneri kutusunu önüne koyuyorlar. açıp baktığında, mahallelinin %90'ı, mağazanın eski müdürü ahmet mehmet bey'i <sup class="ab"><a title="(bkz: malum şahıs)" href="/?q=malum+%c5%9fah%c4%b1s" data-query="malum şahıs">*</a></sup> tekrar mağazanın müdürü olarak görmek istiyor. çünkü önerilerde de görülüyor ki, ahmet mehmet bey mahallelinin dilinden, tavrından, hareketlerinden onların ne istediğini anlayan birisi. güleryüzlü, sevecen, çalışanların müşteriye nasıl davranması gerektiği konusunda da bilgi ve tecrübe sahibi. ahmet mehmet bey mahalleden biri aynı zamanda. <br/><br/>öneri ve şikayet kutusu gün geçtikçe dolup taşıyor. gün geçtikçe öneriler şikayete evrilmeye başlıyor. mağazanıza rağbet azalmış, sattığınız ürünler de kötü görülmeye başlanmış. üstelik mağazanızda çalışan müdürü kovmuşsunuz ve müdür pozisyonu, ahmet mehmet bey gibi boşta. hala ısrar ederek mahalleye, mahalleliye, sattığınız ürünlere yabancı bir müdür arama peşindesiniz. <br/><br/>başka nasıl anlatılır bir koç'a, bilemiyorum.
   entry_channels: spor,siyaset,ekonomi
@@ -198,7 +174,7 @@ data:
     pinhani'nin en hüzünlü şarkısı
   entry_id:  82929131
   entry_writer: scdfms
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     tanım: dön bak dünyaya<br/>pinhani esas olarak zaten hüzünlü müzikler yapar. bana hep 2007 yılının ilk yarısını hatırlatır ve 2007 yılı benim için özel bir yıldır.
   entry_channels: anket,müzik
@@ -206,39 +182,31 @@ data:
     2 kasım 2018 pastavilla makarna sosu rezaleti
   entry_id:  82927892
   entry_writer: faze
-  entry_fav_count: 36
+  entry_fav_count: 38
   entry_content: |
     eşimin çığlığıyla içeri koşmamla birlikte hamam böceklerini doğduklarına pişman ettim. <br/><br/>(bkz: <a class="b" href="/?q=white+knight">white knight</a>)
   entry_channels: yeme-içme
 - entry_name: |
-    karatay'ın saf su içmeyin açıklaması
-  entry_id:  82918219
-  entry_writer: buseferboyle
-  entry_fav_count: 32
-  entry_content: |
-    eloktrolit dengesi tamamen bozulduğu gibi hormon ve neurotransmitterlarda da sıkıntısı olan hocanın beyanıdır. allah gecinden versin ama grandiyösite yanı sıra demans belirtileri gözlemlenmektedir
-  entry_channels: sağlık,yeme-içme
-- entry_name: |
-    sözlük yazarlarının kızlarına verecekleri isimler
-  entry_id:  82928241
-  entry_writer: badger34
-  entry_fav_count: 27
-  entry_content: |
-    kılıbık olduğum için annesinin belirleyeceği isim olacaktır
-  entry_channels: anket
-- entry_name: |
     yeni ilişki kurulmaması
   entry_id:  82930524
   entry_writer: teo the leo
-  entry_fav_count: 25
+  entry_fav_count: 30
   entry_content: |
     1-etrafıma bakıyorum, yeni çift olan kimse yok.<br/>2-çevreme bakıyorum, herkes eski sevgilisiyle barışıyor. `(en önemli işaret bu`)<br/>3-evlenenlere bakıyorum, hepsi 2017 öncesi tanışmışlar.<br/>4-telefonuma bakıyorum, hiç ilerleyen muhabbet yok. <br/>5-hayatıma bakıyorum, hiç ilerleyen ilişki yok, her kızla bir kere görüşülüp bitirilmiş. <br/><br/>şu dakikadan itibaren yeni ilişki kurmak aşırı zor. herkesin eski sevgilisiyle barışmasından bile belli bu. seçenekleri sınırsız olan ünlülere bakın, onlar da şu an sürekli eski sevgilileriyle barışıyorlar.<br/><br/>ilişki olayı bitti, bu saatten sonra tek gecelik ilişkilerden hamile kalanlar falan evlenecek sadece, aynı amerika gibi.
   entry_channels: ilişkiler
 - entry_name: |
+    sözlük yazarlarının kızlarına verecekleri isimler
+  entry_id:  82928241
+  entry_writer: badger34
+  entry_fav_count: 28
+  entry_content: |
+    kılıbık olduğum için annesinin belirleyeceği isim olacaktır
+  entry_channels: anket
+- entry_name: |
     sıla'nın darp raporu
   entry_id:  82931820
   entry_writer: korkularim degil korkusuzlugum yedi beni
-  entry_fav_count: 23
+  entry_fav_count: 27
   entry_content: |
     haber kanalları ulaşmış. detaylar korkunç.<br/><br/>-----------<br/>star haber’in ulaştığı raporda sıla’nın yüzünde ezilme ve kafatasında ödem bulunduğu, idrarından ise kan ve pıhtı geldiği belirtildi.<br/><br/>raporda sıla’nın kafasına küllük ile vurulduğu bilgisi de yer alırken, kafasına, bacaklarına ve kulaklarına tekme aldığı da kaydedildi.<br/>-----------<br/><br/>hani biraz itişmiştiniz ahmet beycigim?<br/>bundan sonraki aşama 'dövdüm ama sor niye dövdüm' olacaktır. ve aldatigina dair ithamlar gelecektir.<br/>at fava bekle.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/silanin-darp-raporu-neredeyse-tum-vucudu-siddete-maruz-kalmis/" title="http://www.diken.com.tr/silanin-darp-raporu-neredeyse-tum-vucudu-siddete-maruz-kalmis/">http://www.diken.com.tr/…cudu-siddete-maruz-kalmis/</a>
   entry_channels: haber,magazin
@@ -251,6 +219,14 @@ data:
     reklamı başarılı kılan detay, çocuklaşan yetişkinlerin çocuk sesiyle konuşmaya kalkmamaları, onları çocukların seslendirmeleridir.
   entry_channels: tv,yeme-içme
 - entry_name: |
+    erkeksi yüz hatları olan kadın ünlüler
+  entry_id:  82931931
+  entry_writer: morrov
+  entry_fav_count: 21
+  entry_content: |
+    (bkz: <a class="b" href="/?q=irem+derici">irem derici</a>) <br/>(bkz: <a class="b" href="/?q=s%c4%b1la">sıla</a>) <br/>(bkz: <a class="b" href="/?q=didem+soydan">didem soydan</a>)
+  entry_channels: anket,magazin
+- entry_name: |
     acil olarak tv'ye geri gelmesi gereken programlar
   entry_id:  82928345
   entry_writer: butundunyaaskolsun
@@ -262,26 +238,10 @@ data:
     çok uzun süredir aşık olamamak
   entry_id:  82906367
   entry_writer: chevron
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     8 yıldır yaşadığım durum. <br/><br/>en son 8 yıl önce aşık olmuştum. o günlerde doğan bir çocuk şuan okula gidiyor.
   entry_channels: ilişkiler
-- entry_name: |
-    erkeksi yüz hatları olan kadın ünlüler
-  entry_id:  82931931
-  entry_writer: morrov
-  entry_fav_count: 15
-  entry_content: |
-    (bkz: <a class="b" href="/?q=irem+derici">irem derici</a>) <br/>(bkz: <a class="b" href="/?q=s%c4%b1la">sıla</a>) <br/>(bkz: <a class="b" href="/?q=didem+soydan">didem soydan</a>)
-  entry_channels: anket,magazin
-- entry_name: |
-    31 ekim 2018 bilyoner.com rezaleti
-  entry_id:  82906246
-  entry_writer: uuykaf
-  entry_fav_count: 15
-  entry_content: |
-    buyrun taze taze ;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/cb3f593e3518">https://eksiup.com/cb3f593e3518</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/2eccbdd4a774">https://eksiup.com/2eccbdd4a774</a><br/><br/>kumarbazin guvenini test etme dallama bilyoner !
-  entry_channels: spor,haber
 - entry_name: |
     iyi bir dindar olmak iyi bir insan olmaya yeter mi
   entry_id:  82912288
@@ -307,12 +267,36 @@ data:
     kuzey afrikalı oyuncuların alınmaması gerektiğini gösteren 2582. örnek.
   entry_channels: spor
 - entry_name: |
+    erkeklerin iyi kadınları üzdüğü gerçeği
+  entry_id:  82931660
+  entry_writer: apoleeey
+  entry_fav_count: 7
+  entry_content: |
+    iyi kadınlar erkekleri üzer. sonra erkeklerse iyi kadınlarla olamayacaklarını anlarlar ve kötü adamlar olurlar. her erkeğin hayatını piç eden bir kadın daima vardır.
+  entry_channels: ilişkiler
+- entry_name: |
     ryan donk
   entry_id:  82931642
   entry_writer: yarasa talag
   entry_fav_count: 6
   entry_content: |
     bugün buraları inletecek... reserved len mq!<br/><br/>(bkz: <a class="b" href="/?q=2+kas%c4%b1m+2018+galatasaray+fenerbah%c3%a7e+ma%c3%a7%c4%b1">2 kasım 2018 galatasaray fenerbahçe maçı</a>)
+  entry_channels: spor
+- entry_name: |
+    bohemian rhapsody (film)
+  entry_id:  82922809
+  entry_writer: eskimisadam
+  entry_fav_count: 5
+  entry_content: |
+    afyon konserinden ufak bir kesit görüp göğsümüzü kabartmıştır. (bkz: <a class="b" href="/?q=14+temmuz+1987+queen+afyon+konseri">14 temmuz 1987 queen afyon konseri</a>)(bkz: <a class="b" href="/?q=swh">swh</a>)
+  entry_channels: sanat,müzik,sinema
+- entry_name: |
+    alper potuk
+  entry_id:  82934529
+  entry_writer: adam olan cocuk
+  entry_fav_count: 5
+  entry_content: |
+    allahın beyinsizi, rövaşata senin neyine be. oynayacağın topun sibobunu sikeyim.
   entry_channels: spor
 - entry_name: |
     younes belhanda
@@ -323,21 +307,13 @@ data:
     fenerin iffetiyle oynayan faslı top tepici.<br/><br/>lan yavşak madem böyle oynayabiliyorsun neden bizi kabız ettin.
   entry_channels: spor
 - entry_name: |
-    erkeklerin iyi kadınları üzdüğü gerçeği
-  entry_id:  82931983
-  entry_writer: starim ama yalnizim
+    koray şener
+  entry_id:  82934551
+  entry_writer: siskococugunuokulayollamayacalisanbaba
   entry_fav_count: 4
   entry_content: |
-    acı bir gerçektir.<br/><br/>o yüzden benim gibi dominant olacaksınız kızlar. strapondu, tasmaydı, kamçıydı evinizin bir köşesinde her zaman bulunsun, eksik etmeyin. böyle sert geçinen, üzen erkekler onları görünce öyle bir yumuşuyorlar ki aklınız almaz.<br/><br/>erkek milletine çok iyi hep iyi olağanüstü iyi olmakla asla yaranamazsınız. takdir beklemeyin boşuna. bir herif sakatsa baştan yol verin siktirsin gitsin. <br/><br/>bir kere geliyorsun dünyaya. kimsenin kahrını çekmeyin.
-  entry_channels: ilişkiler
-- entry_name: |
-    green card
-  entry_id:  82909440
-  entry_writer: mabesa
-  entry_fav_count: 3
-  entry_content: |
-    çekilişi için dolandırıcı firmaların çalıştığını düşündüğüm hede. <br/>bir gün annemi aramış bunlar, diyolar ki daha önce çekilişe katıldığınız için bu sefer ücretsiz katılma hakkınız var bla bla. annem bana seslendi, bir an düşündüm, umut sarıkaya'nın beynimiz nasıl çalışır, bedava besin karikatürü gibi çalıştı kafa, herhalde annemin de öyle çalışmış.<br/>neyse ki bu bir saniye falan sürdü de uyandım duruma. dedim ki ''anne sen green card çekilişine mi katıldın?" dedi ki "yoo". e kapat o zaman telefonu ne konuşuyoruz ki.
-  entry_channels: siyaset,seyahat
+    boş tribünleri de görünce ne galatasaray kaldı ne bişey. bu entryi girerken gol oldu zerre de sevinemedim. umarım güzel ve mutlu bir hayat yaşamış, güzel anılar bırakmıştır arkasında.<br/><br/>edit : tribünün adı "koray şener" olarak değiştirilsin. hem unutulmasın, hem de örnek olsun.
+  entry_channels: spor,haber
 - entry_name: |
     ekşi itiraf
   entry_id:  82908790
@@ -346,14 +322,6 @@ data:
   entry_content: |
     hayatımla kendi kafalarına göre oynadılar. sebep; sevişmelerinin sonucunda ortaya çıkan bir birey olduğum için, beni onlara ait bir şeymişim gibi algılamaları. zerre pişmanlık çekmemiştir mesela boğaziçi makine yazmak istiyorken zorla cerrahpaşa yazdırdığı için. onun zorla seçtirdiği bu meslekte ben, altı yaşında bombalamadan ölen bir kız çocuğunun saçlarını taradım mesela ağlayarak, annesi babası böyle görmesin ölüsünü diye . ben istemedim bunu. ben makine mühendisi olmak istedim. şu an boktan ingilizce'mi düzeltmek için kursa gitmek zorunda kalmayacağım, geri zekalı insanlar tarafından darp edilmeyeceğim bir iş istedim. ama bu göt kafasına göre zorladı ve on sekiz yaşındaki ben ona karşı çıkmayı akıl edemedim.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    alper potuk
-  entry_id:  82934529
-  entry_writer: adam olan cocuk
-  entry_fav_count: 3
-  entry_content: |
-    allahın beyinsizi, rövaşata senin neyine be. oynayacağın topun sibobunu sikeyim.
-  entry_channels: spor
 - entry_name: |
     timuçin esen
   entry_id:  82921863
@@ -371,21 +339,29 @@ data:
     antipatik olma konusunda sikik rakı içme adabı aforizmalarıyla yarışan vasat kadındır. bakmayın sayfalarca sikik bi içki içti diye kişiliğinden bağımsız kadın güzelleyenlere, nihayetinde patır patır sıçıyordur bu kadında ve sıçan hiç bi varlık karizma olamaz. karizma diye bişeyde yoktur aslında karizma size daha çok rakı satmak isteyen firmanın sunduğu bi illizyondur.
   entry_channels: ilişkiler,yeme-içme
 - entry_name: |
-    penisin vajinaya çevrilişinin animasyonu
-  entry_id:  82934830
-  entry_writer: başlık taşıyan
+    fenerbahçe
+  entry_id:  82919330
+  entry_writer: owencan
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=cinsiyet+de%c4%9fi%c5%9ftirme+ameliyat%c4%b1+animasyonu">cinsiyet değiştirme ameliyatı animasyonu</a>)
-  entry_channels: bilim,sağlık
+    bugün geçmişte 6 attığı ismini zikretmekten imtina ettiğim vasat takıma 3 tane daha sallayacak olan über takım. kasım bizim ayımız, o kadar.
+  entry_channels: spor
 - entry_name: |
-    koray şener
-  entry_id:  82934551
-  entry_writer: siskococugunuokulayollamayacalisanbaba
-  entry_fav_count: 1
+    sinan gümüş
+  entry_id:  82934851
+  entry_writer: sonnick007
+  entry_fav_count: 0
   entry_content: |
-    boş tribünleri de görünce ne galatasaray kaldı ne bişey. bu entryi girerken gol oldu zerre de sevinemedim. umarım güzel ve mutlu bir hayat yaşamış, güzel anılar bırakmıştır arkasında.
-  entry_channels: 
+    oyundan çıkması değil takımdan da şutlanması gereken futbolcumsu.
+  entry_channels: spor
+- entry_name: |
+    martin linnes
+  entry_id:  82934609
+  entry_writer: agnostik ayi
+  entry_fav_count: 0
+  entry_content: |
+    senin adın bundan sonra martin linnes stark koçum.
+  entry_channels: spor
 - entry_name: |
     kızların sevgili olmak istediği erkekte aradıkları
   entry_id:  82932897
@@ -402,4 +378,28 @@ data:
   entry_content: |
     bugün birçok ülkenin netflix'inde türkçe altyazıyla beraber final sezonu yayınlanacak, ancak netflix türkiye'den 3 aralık'ta izlenebilecek dizi. üzgünüm ama bu dizinin finali için 1 ay bekleyemeyeceğim netflix bey. kendi dizinizi bile malum yerlerden izletiyorsunuz millete. nasıl bir telif anlaşması yaptıysanız artık geleli 2 yılı geçti halen haklar digiturk'te. insan şunu sezon sezon satar.
   entry_channels: tv,spoiler
+- entry_name: |
+    hazine ve maliye bakanlığı'nın yeni amblemi
+  entry_id:  82934407
+  entry_writer: datlidatli
+  entry_fav_count: 0
+  entry_content: |
+    anahtarı ve tapuyu devrettik. ama kime acaba.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    harun tekin (futbolcu)
+  entry_id:  82933491
+  entry_writer: arpasuyu
+  entry_fav_count: 0
+  entry_content: |
+    bana volkan demireli bile arattın ya. seni allah bildiği gibi yapsın harun. git boş zamanlarında yan top felan çalış. kalecilik öğren.
+  entry_channels: spor
+- entry_name: |
+    fırat aydınus
+  entry_id:  82935382
+  entry_writer: syzer
+  entry_fav_count: 0
+  entry_content: |
+    vallahi helal olsun adama, feneri bu kadar kollamasına rağmen hala maç yönetebiliyor. yakında gol da atar.
+  entry_channels: spor
 ---
