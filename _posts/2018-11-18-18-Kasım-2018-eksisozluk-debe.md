@@ -6,55 +6,63 @@ data:
     emniyet müdürünün kızına ceza yazılması
   entry_id:  83409359
   entry_writer: bim kasiyeri
-  entry_fav_count: 1002
+  entry_fav_count: 1007
   entry_content: |
     tekirdağ emniyet müdürü mustafa aydın'ın kızı gizem aydın trafikte telefonla konuştuğu için ceza yazılmış. haberi duyan emniyet müdürü ise cezayı yazan polis memurunu ödüllendirmiş.<br/><br/>böyle haberleri yılda 1 defa da olsa görmek güzel.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/polis-emniyet-mudurunun-kizina-ceza-yazdi-2224039" title="https://www.haberturk.com/polis-emniyet-mudurunun-kizina-ceza-yazdi-2224039">https://www.haberturk.com/…izina-ceza-yazdi-2224039</a>
   entry_channels: siyaset,haber
 - entry_name: |
+    kilitli pizza kutusu geliştiren pizza ustası
+  entry_id:  83408954
+  entry_writer: no one knows who i am
+  entry_fav_count: 525
+  entry_content: |
+    videoya saçma sapan bir icat çıkacak diye tıkladım. ama son derece basit, kullanışlı ve ekstra maliyet getirmeyen bir çözüm olmuş. tebrik ettim.
+  entry_channels: sağlık,yeme-içme
+- entry_name: |
     zeynep alkan
   entry_id:  83419215
   entry_writer: demosthenes
-  entry_fav_count: 476
+  entry_fav_count: 481
   entry_content: |
     zeynep böyle kafana göre başlık açamazsın bazı kurallar var.
   entry_channels: magazin
 - entry_name: |
-    türk tarihindeki en büyük hırsız
-  entry_id:  83409001
-  entry_writer: velemyelid
-  entry_fav_count: 367
-  entry_content: |
-    buraya yüzlerce entry yazılacak, kimse isim yazmayacak ama herkesin kafasında bir kişi canlanacak. işte kendisi öyle biridir.
-  entry_channels: anket,tarih
-- entry_name: |
     pitbull'a saldıran kangal
   entry_id:  83414405
   entry_writer: mahoaganinkuluyam
-  entry_fav_count: 362
+  entry_fav_count: 370
   entry_content: |
     yav ne cins toplumuz amına koyim<br/><br/>hollywood filminde istanbul kelimesi geçer mutlu oluruz<br/>kafkas asıllı rus irlandalı ile dövüşür biz kafkas asıllı rus kazandı diye coşarız<br/>kangal pitbull'a saldırır gururlanırız<br/>bahçeli'nin konvoyuna yapılan klibi tüyleri diken diken izleriz<br/><br/>bizlik bi durum olmayan olaylarda ne kadar coşuyoruz biz ya amk<br/><br/>aga hayvan hayvana saldırır, hayvanı hayvana saldırtan da orospu çocuğudur bu ayrı da.<br/>sanki kangal pitbull'u parçalayınca sivas amerika'dan toprak mı ilhak ediyor birader?<br/><br/>pitbull'a karşıyım, saldırgan köpek cinslerinin özel bir ruhsata bağlanmasını ve sadece müstakil arazilerde beslenmesinin zorunlu kılınmasını isterim.<br/>buna uymayan kişilerden köpeklerinin alınıp kendilerinin cezalandırılmasını hayvanlarının uyutulmalarını isterim.<br/><br/>ama bi hayvan diğerini parçaladı diye gurur duyamam amk ya.
   entry_channels: haber
 - entry_name: |
-    7'nin sırrı
-  entry_id:  83407528
-  entry_writer: pottersville
-  entry_fav_count: 253
+    türk tarihindeki en büyük hırsız
+  entry_id:  83409001
+  entry_writer: velemyelid
+  entry_fav_count: 368
   entry_content: |
-    aşağıda paylaşacağım alıntı üzerine çok merak ettiğim ve beni şaşırtan bir olay. belki sözlükte bu konuyu aydınlatacak birileri vardır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>pamuk prenses’in cüceleri niçin 7 <br/>james bond niye 007 b<br/>istanbul niçin 7 tepe<br/>türkiye niye 7 bölge <br/>dünya niçin 7 kıta<br/>zindan niçin 7 kule<br/>peki…<br/>soyumuz niye 7 göbek<br/>gül neden 7 veren<br/>dünya’nın neden 7 harikası var.. <br/>oteller niçin 7 gece<br/>ejderha neden 7 başlı?<br/>mevlana’nın öğüdü neden 7 ?<br/>peki…<br/>gökyüzü neden 7 kat?<br/>yeryüzü neden 7 kat?<br/>cehennem neden 7 kapı?<br/>hafta niçin 7 gün ?<br/>gökkuşağı neden 7 renk?<br/>peki dinde;<br/>eski ilk dinlerde 7 neden kutsal?<br/>haa...bi de şunlar var..<br/>hristiyanlık ve müslümanlıkta uyurlar neden (ashab-ı kehf) 7 kişi?<br/>yahudilikte kutsal şamdan neden 7 mum?<br/>kabe’de tavaf niçin 7 ?<br/>merve safa arası niçin 7 ?<br/>şeytana atılan taş niçin 7 ?<br/>kuran’ın kapısı kabul edilen fatiha’nın ayet sayısı neden 7..<br/>neden 7 düvele meydan okuruz. ?<br/>hem neden...<br/>büyük ayı-küçük ayı takım yıldızlarının sayısı neden 7 ?<br/>niçin müzikte nota sayısı 7 ?<br/><br/>haa...<br/>birde 7 kocalı hürmüz var<br/>neden herşey 7 ?<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>edit: @alcatel nickli arkadaşımız iktidar partisinin logosunda ampulden çıkan ışık sayısının da 7 olduğunu hatırlattı. teşekkürler. ilginç ve güzel bir bilgi daha.<br/><br/>edit: @itikatta mezhebin ne feyyza nickli arkadaş da <a class="b" href="/?q=%c3%b6zg%c3%bcrl%c3%bck+heykeli">özgürlük heykeli</a>nin de tacında 7 diken olduğunu söyledi. cidden öyleymiş.
-  entry_channels: anket,bilim
+    buraya yüzlerce entry yazılacak, kimse isim yazmayacak ama herkesin kafasında bir kişi canlanacak. işte kendisi öyle biridir.
+  entry_channels: anket,tarih
 - entry_name: |
     arapların en iyi olduğu konu
   entry_id:  83412252
   entry_writer: essekziki
-  entry_fav_count: 250
+  entry_fav_count: 260
   entry_content: |
     o coğrafyada çalışmış birisi olarak söylüyorum; tembellik konusunda uzmandırlar. bunun yanı sıra yalan ve diğer pisliklerde de iddaalı olduklarını düşünüyorum. ayrıca cinsel sapkınlık ve dini vahşet konularını da es geçmemek lazım. eyyorlamam bu kadar.
   entry_channels: anket
 - entry_name: |
+    7'nin sırrı
+  entry_id:  83407528
+  entry_writer: pottersville
+  entry_fav_count: 255
+  entry_content: |
+    aşağıda paylaşacağım alıntı üzerine çok merak ettiğim ve beni şaşırtan bir olay. belki sözlükte bu konuyu aydınlatacak birileri vardır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>pamuk prenses’in cüceleri niçin 7 <br/>james bond niye 007 b<br/>istanbul niçin 7 tepe<br/>türkiye niye 7 bölge <br/>dünya niçin 7 kıta<br/>zindan niçin 7 kule<br/>peki…<br/>soyumuz niye 7 göbek<br/>gül neden 7 veren<br/>dünya’nın neden 7 harikası var.. <br/>oteller niçin 7 gece<br/>ejderha neden 7 başlı?<br/>mevlana’nın öğüdü neden 7 ?<br/>peki…<br/>gökyüzü neden 7 kat?<br/>yeryüzü neden 7 kat?<br/>cehennem neden 7 kapı?<br/>hafta niçin 7 gün ?<br/>gökkuşağı neden 7 renk?<br/>peki dinde;<br/>eski ilk dinlerde 7 neden kutsal?<br/>haa...bi de şunlar var..<br/>hristiyanlık ve müslümanlıkta uyurlar neden (ashab-ı kehf) 7 kişi?<br/>yahudilikte kutsal şamdan neden 7 mum?<br/>kabe’de tavaf niçin 7 ?<br/>merve safa arası niçin 7 ?<br/>şeytana atılan taş niçin 7 ?<br/>kuran’ın kapısı kabul edilen fatiha’nın ayet sayısı neden 7..<br/>neden 7 düvele meydan okuruz. ?<br/>hem neden...<br/>büyük ayı-küçük ayı takım yıldızlarının sayısı neden 7 ?<br/>niçin müzikte nota sayısı 7 ?<br/><br/>haa...<br/>birde 7 kocalı hürmüz var<br/>neden herşey 7 ?<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>edit: @alcatel nickli arkadaşımız iktidar partisinin logosunda ampulden çıkan ışık sayısının da 7 olduğunu hatırlattı. teşekkürler. ilginç ve güzel bir bilgi daha.<br/><br/>edit: @itikatta mezhebin ne feyyza nickli arkadaş da <a class="b" href="/?q=%c3%b6zg%c3%bcrl%c3%bck+heykeli">özgürlük heykeli</a>nin de tacında 7 diken olduğunu söyledi. cidden öyleymiş.
+  entry_channels: anket,bilim
+- entry_name: |
     17 kasım 2018 sabah namazı vaktinin değiştirilmesi
   entry_id:  83413889
   entry_writer: yokonunjohnu
-  entry_fav_count: 231
+  entry_fav_count: 239
   entry_content: |
     talepler ile upgrade edilebilen din güzelmiş.
   entry_channels: siyaset,haber
@@ -62,7 +70,7 @@ data:
     1 rus güzelin 10 türk güzele bedel olması
   entry_id:  83419131
   entry_writer: apwbd
-  entry_fav_count: 153
+  entry_fav_count: 166
   entry_content: |
     inanılmaz zekice bir tespit. ergenlerin doluştuğu sözlükte uzun süredir böyle bir içerik göremiyorduk. gördüğünüz üzere bu ulvi tespit, rus güzellerin türk güzellerinden daha güzel olduğunu söylüyor. bunu rus kadını başlığında mı türk kadını başlığında mı yoksa rusların türklerden daha güzel olduğunu veya türk kadınlarının çirkin olduğunu söyleyen trilyonlarca başka başlıkta mı yazacaktı arkadaş? tabii ki hayır.<br/>ben olsam ben de oturup beynimde tam tamına 3 nöronu çalıştırarak bulduğum bu mükemmel tespitin ayrı bir başlığı hak ettiğini düşünürdüm.<br/>inanılmaz farklı ve faydalı ya, sözlüğe dair umutlarım yeşerdi şu anda.
   entry_channels: 
@@ -70,7 +78,7 @@ data:
     erdoğan'a şirk koşan akp'li pancar üreticisi
   entry_id:  83416685
   entry_writer: mete han turkyilmaz
-  entry_fav_count: 137
+  entry_fav_count: 157
   entry_content: |
     15 yıl şaşmadan oy vermiş sonra gidip "fatih portakal erkaasan yayınlarsın" diyor. <br/><br/>işte bu adamların zihniyeti bu. <br/><br/>yahu 15 yıl boyunca oy vermişsin. şimdi beğenmiyor, şikayet ediyorsun ve üstüne 15 yıldır "koyduk mu" diye alay ettiğin insanlara suç buluyorsun. bir kere bile haksız olmaz mısınız siz? <br/><br/>bunda bile mağdur zihniyet siz misiniz? vallahi helal olsun.
   entry_channels: siyaset,yeme-içme
@@ -78,7 +86,7 @@ data:
     kılıcın overrated bir silah olması
   entry_id:  83417132
   entry_writer: stukatr
-  entry_fav_count: 95
+  entry_fav_count: 98
   entry_content: |
     çünkü kılıçlar havalıdır. <br/><br/>ölümcül görünürler.<br/>iyi bir kılıç yapmak jenerasyondan jenerasyona geçen bir sanattır.<br/>iyi bir kılıç çok büyük servetlere mal olur.<br/>neredeyse her zaman kılıçları sadece şövalyeler ve diğer zengin lordlar kullanır.<br/><br/>bu sebeplerle kılıç çokça yüceltilir ve aynı sebepten ötürü kurgu yapımlarında çokça abartılır.<br/><br/>kılıç, tarih boyunca her zaman bir ikincil silah olarak kullanılmıştır. bir ordunun asıl büyük bölümü her zaman mızraklar, savaş baltaları ve kargılarla savaşırdı. at üstündeki şövalyeler, lance diye tabir edilen daha uzun mızraklarla düşmanlarını etkisiz hale getirirlerdi. kılıçlarını ise sadece atları öldüğünde son şans olarak kullanırlardı. <br/><br/>orta çağ'da savaş alanında bir şövalyenin kılıcını çekmesi demek işlerin iyice kötüye gittiğinin ve kurtulma şansının çok az olduğunun göstergesi sayılırdı.<br/><br/>edith: samurayların bu konsepte uymadığı ve hep kılıçlar ile savaştıkları konulu bir kaç mesaj aldım. bu da bir popüler kültür yanılsaması.<br/><br/>samuray birlikleri çoğunlukla atlı askerlerden oluşur ve uzun bıçaklı mızraklar kullanırlardı. normal askerler de çoğunluk olarak yari adı verilen ve mızrak boyunda silahlar kullanırlardı. yari'nin kullanımı mızrak kullanımına benzer. samurayların asıl silahları yari mızrakları ve tabii ki ok ile yaydı. katanalar her zaman ikincil silah olmuştur, tıpkı avrupa'nın kılıçları gibi.<br/><br/>aynı şekilde samuraylar ne tüfek geldi, mertlik bozuldu diyen tanrısal savaşçılardı ne de katana'dan başka bir şey bilmeyen yobaz adamlardı. 15.yy'dan itibaren portekizli tüccarlar sayesinde japonya'da ateşli silah kullanımı görülmeye başlanmış, 16.yy'da japon ordularının yarısından fazlası ateşli silah kullanan askerlerden oluşmaya başlamıştır. <a class="b" href="/?q=the+last+samurai">the last samurai</a> bu konuda tamamıyla bir hayal ürünü. filmin baz aldığı savaşlarda iki taraf da ağır şekilde ateşli silah kullanmış, imparatorun birlikleri gatling silahları ve sayı avantajı ile son samurayları yenmiştir. <a rel="nofollow noopener" class="url" target="_blank" href="http://oi64.tinypic.com/23lmao4.jpg" title="http://oi64.tinypic.com/23lmao4.jpg">örneğin 18.yy'dan katanası ile hücuma geçen samurayın son hali</a>.<br/><br/>edith2: sürekli "birebir" ve "düello" kelimelerini görüyorum tartışmalarda. birebir savaş diye bir şey yoktur. düellolar da geçmişte iki kişi arasındaki sorunları çözmek yahut spor olarak yapılırdı. savaşta bir yeri yoktur. savaş, iki büyük insan grubunun sıkıca kenetlenip karşı tarafa arka arkaya çarpışmasıdır. kılıcı savaş alanında birincil olarak kullanan(pila ismi verilen mızraklarını fırlattıktan sonra) bir kaç ülkeden biri olan roman askerlerinin <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=J7MYlRzLqD0" title="https://www.youtube.com/watch?v=J7MYlRzLqD0">gerçekçi çarpışması.</a>
   entry_channels: tarih
@@ -86,7 +94,7 @@ data:
     hamile kadınlara otobüste yer vermemek
   entry_id:  83408594
   entry_writer: degisimindengesi
-  entry_fav_count: 77
+  entry_fav_count: 82
   entry_content: |
     siz nerede yaşıyorsunuz ben anlamıyorum ki. istanbulda yaşıyorum, otobüs metro metrobüs tramvay minibüs allah ne verdiyse kullanıyorum ve neredeyse hiç denk gelmedim yaşlı birine veya hamile bir kadına yer verilmeyip umursanmadığını. yeni nesil mesil demeyin gayet de anlayışlı davranıyor çoğu insan.
   entry_channels: anket,ilişkiler
@@ -94,15 +102,31 @@ data:
     sevgilisiyle otobüse binen ezik erkek
   entry_id:  83420179
   entry_writer: borccu corcun kiz kardesi corciya
-  entry_fav_count: 65
+  entry_fav_count: 78
   entry_content: |
     değerli yazar arkadaşım. bak arkadaşım diyorum ve bu mektubu saygı çerçeveleri içerisinde yazıyorum. sevgilinin sana sahip çıkması için arabaya ihtiyacı yok. hoş sevgilinin sana sahip çıkmasına da senin ihtiyacın yok. kimse sana sahip çıkmasa da ki bu kafayla sahibini bulamayacaksın anladığım kadarıyla bu da ayrı dava.<br/>sorun senin sevgilinle bindiğin otobüsete değil, otobüste senin azgın bakışlar altında kaldığını düşündürecek zekanda. entrynin sonunda toplu taşıma aşıkları gelir demişsin ama hemen belirteyim. benim de erkek arkadaşımın da arabalarımız var, toplu taşımaya beraber bindiğimiz de oluyor. ve kimse kimseye sahip çıkmak zorunda kalmıyor. sen kendine sahip çık git bir ıslak kek bul ve ye şekerin düşmüş belli ki. <br/>sevgiler.<br/><br/>edit: hiç prim vermeden elden ele engellemek lazım (bkz: <a class="b" href="/entry/83418711">#83418711</a>)
   entry_channels: ilişkiler
 - entry_name: |
+    nasa'nın 60 yıl sonra ay'a geri dönmesi
+  entry_id:  83420061
+  entry_writer: benbiravareyim
+  entry_fav_count: 66
+  entry_content: |
+    şu entry'de (bkz: <a class="b" href="/entry/83419831">#83419831</a>) olan kafalarla beraber yaşadığımız dünya da gerçekleşen | gerçekleşecek olan enfes olaylardan biri.<br/><br/>"gerçekten gidecek teknoloji olmuş galiba" ...<br/><br/>sen halt yemişsin halt. olur da o güne şahit olursanız, ona da cgi efekt dersiniz. yalan dersiniz. dünya düz diyen, yer çekimi yok diyen kafaların ürünü olmakla gurur duyuyorsunuz. <br/><br/>kullandığın aletlerin hepsi, matematik, fizik, kimya, biyoloji dalları ile şekillendirilmiş. bundan yaklaşık 90 yıl önce, televizyona şeytan icadı diyordunuz şimdi, elinizde ki telefonlar televizyon oldu. 90 yıl önce, elinde telefon biriyle konuşacağını söyleseler, inanır mıydın ? yok.<br/><br/>ay'a gidiş için, nasanın 20 küsür saatlik görev içeriğini video olarak dağıttığı, görsel sunum var. aç izle ulan. verdiğin elektrik, internet parası bir işe yarasın.
+  entry_channels: tarih,teknoloji,haber
+- entry_name: |
+    metis'in türkçe hatasını bilerek yapması
+  entry_id:  83402548
+  entry_writer: uzaktan geldim
+  entry_fav_count: 61
+  entry_content: |
+    biz aslinda sizi sinadik, bakalim gercekten okuyor musunuz da diyebilirlerdi.
+  entry_channels: edebiyat
+- entry_name: |
     fikret orman
   entry_id:  83409872
   entry_writer: nlrms
-  entry_fav_count: 56
+  entry_fav_count: 59
   entry_content: |
     sevgilin sana “10 bin tl kredi kartı borcu yapmışsın, nereye harcadın bu parayı?” diyor. sen de “hani beni sevdiğini söylüyordun, şimdi ne değişti?” diye kendini savunuyorsun.<br/><br/>ilginç adam gerçekten. güzel mağduru oynuyor.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: spor
@@ -110,74 +134,50 @@ data:
     ustası olduğunuz konuyu size anlatan insan
   entry_id:  83418230
   entry_writer: neyse ya bosver
-  entry_fav_count: 51
+  entry_fav_count: 52
   entry_content: |
     "fazla tevazunun sonu vasattan nasihat dinlemektir" sözünü aklıma getiren insan.
   entry_channels: ilişkiler
 - entry_name: |
-    metis'in türkçe hatasını bilerek yapması
-  entry_id:  83402548
-  entry_writer: uzaktan geldim
-  entry_fav_count: 49
+    rte ekşi sözlük'te yazar olsa açacağı başlıklar
+  entry_id:  83404955
+  entry_writer: ozgur pislik
+  entry_fav_count: 50
   entry_content: |
-    biz aslinda sizi sinadik, bakalim gercekten okuyor musunuz da diyebilirlerdi.
-  entry_channels: edebiyat
+    (bkz: <a class="b" href="/?q=1+haziran+2013+taksim+gezi+park%c4%b1+rezaleti">1 haziran 2013 taksim gezi parkı rezaleti</a>)
+  entry_channels: siyaset,anket,ekşi-sözlük
 - entry_name: |
-    nasa'nın 60 yıl sonra ay'a geri dönmesi
-  entry_id:  83420061
-  entry_writer: benbiravareyim
-  entry_fav_count: 46
+    tinder'da süper like alan erkek
+  entry_id:  83422875
+  entry_writer: mu9857
+  entry_fav_count: 38
   entry_content: |
-    şu entry'de (bkz: <a class="b" href="/entry/83419831">#83419831</a>) olan kafalarla beraber yaşadığımız dünya da gerçekleşen | gerçekleşecek olan enfes olaylardan biri.<br/><br/>"gerçekten gidecek teknoloji olmuş galiba" ...<br/><br/>sen halt yemişsin halt. olur da o güne şahit olursanız, ona da cgi efekt dersiniz. yalan dersiniz. dünya düz diyen, yer çekimi yok diyen kafaların ürünü olmakla gurur duyuyorsunuz. <br/><br/>kullandığın aletlerin hepsi, matematik, fizik, kimya, biyoloji dalları ile şekillendirilmiş. bundan yaklaşık 90 yıl önce, televizyona şeytan icadı diyordunuz şimdi, elinizde ki telefonlar televizyon oldu. 90 yıl önce, elinde telefon biriyle konuşacağını söyleseler, inanır mıydın ? yok.<br/><br/>ay'a gidiş için, nasanın 20 küsür saatlik görev içeriğini video olarak dağıttığı, görsel sunum var. aç izle ulan. verdiğin elektrik, internet parası bir işe yarasın.
-  entry_channels: tarih,teknoloji,haber
-- entry_name: |
-    kasım da doğmak
-  entry_id:  83417268
-  entry_writer: yul
-  entry_fav_count: 43
-  entry_content: |
-    (bkz: <a class="b" href="/?q=riske+girmemek+i%c3%a7in+b%c3%bct%c3%bcn+de%27leri+ayr%c4%b1+yazmak">riske girmemek için bütün de'leri ayrı yazmak</a>)<br/>(bkz: <a class="b" href="/?q=garanti+olsun+diye+b%c3%bct%c3%bcn+de+leri+ayr%c4%b1+yazmak">garanti olsun diye bütün de leri ayrı yazmak</a>)
+    az sonra buralar kadınların yanıp bittiği , süper kasanova sözlükçüler ile dolacak
   entry_channels: 
-- entry_name: |
-    çöpten kağıt toplayan terör gazisi
-  entry_id:  83420088
-  entry_writer: papazi dovdurmeyecektik
-  entry_fav_count: 26
-  entry_content: |
-    aynı haberin devamında zeytin dalı harekatında havan mermisi patlaması sonucu ağzı parçalanan ve 7 dişini kaybeden bir gaziden bahsediliyor. adam implant yaptırmak için gata'ya gidiyor ancak devletin implant bedellerini karşılamadığını, kendi parasıyla yaptırması gerektiğini öğreniyor. dişlerini fırçalamayan milletvekillerinin, eski milletvekillerinin ve hatta bunların eşlerinin, çocuklarının 12'şer implant hakları var ancak çatışmada top mermisi patlamasıyla dişlerini kaybeden gazinin tek bir implant hakkı yok. sizin ben adaletinizi...
-  entry_channels: haber
 - entry_name: |
     aldatmalardaki inanılmaz artışın sebepleri
   entry_id:  83418070
   entry_writer: missingdata
-  entry_fav_count: 25
+  entry_fav_count: 32
   entry_content: |
     günümüz çağının problemlerinden biri olan yalnız kalma korkusu bence. birçok insan yalnız kalmamak için birileriyle ilişki yaşamaya başladı artık. çünkü günümüz toplumunda “sevgilim yok” dediğimiz zaman garipçe bakışlara maruz kalmaya başladık. bu yüzden de insanlar sevmedikleri insanlarla sevgili olmaya başladı ve sevgilileri olmasına rağmen gerçekten sevip bağlanmadıkları için başka insanlara karşı hoşlanma eğilimleri ortaya çıkıyor bir süre sonra. halbuki bir insan birini gerçekten seviyorsa başkası aklına gelmez, aklına düşmez bile.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    regl ishal ve kusma kombinasyonu
-  entry_id:  83415215
-  entry_writer: kuzgunumtrak
-  entry_fav_count: 23
+    beyaz tenli kadınlara tavsiyeler
+  entry_id:  83416853
+  entry_writer: sumuklu doktor
+  entry_fav_count: 29
   entry_content: |
-    (bkz: <a class="b" href="/?q=cinsellikten+so%c4%9futan+ba%c5%9fl%c4%b1klar">cinsellikten soğutan başlıklar</a>)
-  entry_channels: bilim,sağlık
+    esmer erkekten çocuk yapıp genetik mirasınızın içine etmeyin.
+  entry_channels: anket,sağlık
 - entry_name: |
     türk sinema tarihindeki en efsanevi replik
   entry_id:  83413327
   entry_writer: peceteci dublek
-  entry_fav_count: 22
+  entry_fav_count: 24
   entry_content: |
     profesör: kasımpaşa'dan 3 milyon ışık yılı uzaktayız!<br/>mister turist: haa desene nalıncı yokuşundayız...<br/><br/>(bkz: <a class="b" href="/?q=turist+%c3%b6mer+uzay+yolunda">turist ömer uzay yolunda</a>)
   entry_channels: anket,sanat,sinema
-- entry_name: |
-    tinder'da süper like alan erkek
-  entry_id:  83423173
-  entry_writer: dedi kuzgun
-  entry_fav_count: 19
-  entry_content: |
-    ben almıştım bir kere, hem çok şık hem de çok güzel bir kadından. hatta aramızdaki geçtim fiziksel güzelliği sosyal statü farkı arşa değerdi. dedim yanlışlık oldu herhalde. dedi evet.<br/><br/>bu da böyle bir anımdır.
-  entry_channels: 
 - entry_name: |
     sözlükçülerin stadyumda izledikleri ilk maç
   entry_id:  83412368
@@ -187,6 +187,14 @@ data:
     1981 yılı.. <a class="b" href="/?q=kar%c5%9f%c4%b1yaka">karşıyaka</a> - <a class="b" href="/?q=g%c3%b6ztepe">göztepe</a> seyirci rekoru kıran maç.. yaş 5..<br/><br/>annemden gizli götürmüştü babam beni..eve gelip de tüm küfürlü tezahüratları saymaya başlayınca kıyamet koptu tabi.
   entry_channels: spor,anket,tarih
 - entry_name: |
+    çocuğa yurt dışında kullanışlı isim koymak
+  entry_id:  83400414
+  entry_writer: alp abi
+  entry_fav_count: 18
+  entry_content: |
+    direk komplekscan koyabilirsiniz. yabancı cıvırlar complex john olarak algılar, wow such an interesting name, is it your stage name or what? diye yaklaşırlar. böylece sevgili yavrunuzun skor üretmesine katkıda bulunabilirsiniz. <br/><br/>bence çok iyi fikir.
+  entry_channels: anket
+- entry_name: |
     vedat milor'a yapılan büyük saygısızlık
   entry_id:  83401532
   entry_writer: morristownvalisi
@@ -194,6 +202,14 @@ data:
   entry_content: |
     kimse kimseyi kandırmasın. türkiye bildim bileli böyleydi. ne kadar ağır eleştiri, ne kadar ağır laf varsa hakkıymış gibi söyleyen insanların ülkeysi türkiye. <br/>türkiye'ye ortalama 4 yılda bir ucuz uçak bileti bulduğumda işi bahane edip, oradan aktarma yaparak ülkemizi ziyaret eden birisiyim. <br/>çocukluk arkadaşımı görüyorum. adamla belki de 10 sene önce görüşmüşüz. ilk cümlesi, <br/>-ooooo moristownvalisi, kardeşim nasılsın? amerika nasıl? işler, çoluk çocuk.<br/>-iyi işte ne olsun, geldim bizimkileri ziyarete hem de sokağı özlemişim.<br/>-iyi yapmışsın, gel bir çayımı iç ofiste. laf aramızda domuz gibi şişmişsin, ne o lan domuz mu yiyorsun amarigada haaa? hahahahaha (erol taş gülüşü)<br/><br/>ya kardeşim, kilo almışım. belki ameliyat oldum, belki kortizon yedim. ne biliyorsun? eleştiri veya sevimsiz bir hayvanla niye kilo almayı bağdaştırıp, sinirlerimi oynatıyorsun?<br/><br/>o yüzden türkler için sonradan oldu gibi şeyi kabul etmiyorum. 1990 başlarından beri gidip geldiğim ülkede, yemediğim hakaret, laf ve saçma yorumlar görmedim.<br/>amerika'da bir gün olsun birisinin kilosu için konuşulmaz, konuşanın lafını o vermeden çevredekiler verirler. sikik sanane diye!<br/>kalkmış adamın karısına laf söylüyor dingil oğlu dingil. kadın ilan verse, şoförü olarak almayacak at hırsızları ancak sosyal medyadan kitlerler lafı!
   entry_channels: haber,magazin
+- entry_name: |
+    bmw anahtarı + iphone x + marlboro + zippo çakmak
+  entry_id:  83419934
+  entry_writer: kovuldun co
+  entry_fav_count: 15
+  entry_content: |
+    beyaz türk dediğin güruhun kavunlu nargile içeceğini hiç sanmıyorum. <br/><br/>tanım: klasik bir sonradan görme akplinin beyanı.
+  entry_channels: 
 - entry_name: |
     ölüm korkusunu yenmenin yegane yolu
   entry_id:  83403970
@@ -211,29 +227,77 @@ data:
     sosyal medyada yayınlanan fotoğrafları çeken amele kameraman kocaları olduğu içindir.<br/><br/>(bkz: <a class="b" href="/?q=insta+husband">insta husband</a>)<br/><br/>unutmayın gençler: yeni nesil kezbanlar için, kocanın iki anlamı var...<br/><br/>1- para cüzdanı.<br/><br/>2- kameraman.<br/><br/>bunun dışında görüş bildiren, konuşan, yorum yapan, eşine tavsiyede bulunan, sohbet etmek isteyen, aşk-meşk yaşamak isteyen kocaları hiç sevmez kezbanlar.
   entry_channels: ilişkiler
 - entry_name: |
-    bmw anahtarı + iphone x + marlboro + zippo çakmak
-  entry_id:  83419934
-  entry_writer: kovuldun co
+    seviştikten sonra ayrı yataklarda uyumak
+  entry_id:  83422434
+  entry_writer: emine winehouse
   entry_fav_count: 11
   entry_content: |
-    beyaz türk dediğin güruhun kavunlu nargile içeceğini hiç sanmıyorum. <br/><br/>tanım: klasik bir sonradan görme akplinin beyanı.
-  entry_channels: 
-- entry_name: |
-    17 kasım 2018 türkiye isveç maçı
-  entry_id:  83422615
-  entry_writer: eksigozluk
-  entry_fav_count: 8
-  entry_content: |
-    isveç ile -1 derece olan bir şehrimizde maç yapmak çok zekice. kim düşündüyse emeğine sağlık. <br/><br/>kazanmamız gereken maç.
-  entry_channels: spor
+    dünyanın en mantıklı eylemi. iki insanın aynı yatakta uyumasının mantığını ömrüm boyunca anlamadım, anlayamayacağım da. bir insanın sevgi veya şefkate ihtiyacı varsa yanında uyuyabilirsin fakat sırf sevgilin ya da eşin diye niye hep aynı yatakta uyumak zorundasın?
+  entry_channels: ilişkiler
 - entry_name: |
     durex'in prezervatif alırken utanan kadın yüzdesi
   entry_id:  83422127
   entry_writer: wonderkid91
-  entry_fav_count: 5
+  entry_fav_count: 10
   entry_content: |
     gayet normal aslında. çünkü eczaneden fitil(anal yolla alınan ilaç) alınca kimsenin dikkatini çekmezsiniz ama cinsel sorunlarla ilgili ilaç alın veya işte prezervatif alın, sonra eczanede çalışanların tavırlarını gözlemleyin. hemen fısıldayarak konuşmalar başlıyor. ülke olarak cinselliğe karşı görgüsüzlüğe sahibiz ve asla da çözülemeyecek gibi duruyor.
   entry_channels: ilişkiler,sağlık
+- entry_name: |
+    yeni tiktok akımı
+  entry_id:  83400362
+  entry_writer: lazybones
+  entry_fav_count: 8
+  entry_content: |
+    şarkı dilime dolandı. allah belanızı vermesin. erkek halimle evde "kimin kocası buuuu" diye mırıldanıyorum istemeden, hanım şüpheli bakışlar atıyor.<br/><br/>sakalları lens olan abiyi görünce bir tırsmıştım ama insanların para, tatil, güzel yemek, şık restoran gibi ögelerle hava attığı bir dönemde kocasının o halinden utanmayıp bunu paylaşması hoşuma gitti galiba. içimdeki varoş yanım elit yanıma resmen çemkirdi.
+  entry_channels: anket,teknoloji
+- entry_name: |
+    ozan tufan'ın benini aldırması
+  entry_id:  83422933
+  entry_writer: amra
+  entry_fav_count: 8
+  entry_content: |
+    sanırım evde çakıyla kendi almış.
+  entry_channels: magazin
+- entry_name: |
+    eşcinsellik bir hastalıktır
+  entry_id:  83418879
+  entry_writer: bana krakatoa derler
+  entry_fav_count: 6
+  entry_content: |
+    "... hiçbir gen veya hormon saptanamadı." demek her şeyi noktalamaz. saptanamayacağı anlamına da gelmez. ayrıca bilmemenize rağmen "saptanmadı" diye emin konuştuğunuz zaman sizin sorunlu olmanız bir yana size pat diye inanan insanların olduğu bir toplum daha içler acısıdır. biz bunun aksinin olduğu durumlara <a class="b" href="/?q=bilimsel+okuryazarl%c4%b1k">bilimsel okuryazarlık</a> diyoruz ne yazık ki bizde olmayan.<br/><br/>son yapılan çalışmalardan birisi, <a class="b" href="/?q=progesteron">progesteron</a> ile cinsel davranışlar arasındaki ilişki üzerine yoğunlaşmıştır:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/28374065">https://www.ncbi.nlm.nih.gov/pubmed/28374065</a><br/><br/>ve elbette ki çalışmalar devam ettikçe bu olay güzel bir bilimsel temele oturacaktır. <br/><br/>hastalık mıdır, değil midir? bu soruya cevap verebilmek için önce "hastalık" kelimesine nasıl bir anlam yükleyeceğimiz önemli. evet, belki normal değildir. ya da "normal olmak" ne diye sormak lazım. bende de kırmızı - yeşil <a class="b" href="/?q=diskromatopsi">diskromatopsi</a>si var. 620 <a class="b" href="/?q=nanometre">nanometre</a> dalga boyundaki <a class="b" href="/?q=spektrum">spektrum</a>u sizin hissettiğiniz gibi hissedemiyorum. ne oldum şimdi? anormal. ya siz anormalseniz? bir canlı döllerini aktarabiliyorsa genleri evrimsel olarak başarılıdır. normalliğin de tek ölçütü budur. bırakın insanları kendiniz gibi yapmayı. azınlıkta olmak anormallik olmuyor. bir gen çok fazla anormalse zaten <a class="b" href="/?q=do%c4%9fal+se%c3%a7ilim">doğal seçilim</a> sürecinde elenecektir. takmayın kafaya.
+  entry_channels: sağlık
+- entry_name: |
+    tapılası otomobiller
+  entry_id:  83402731
+  entry_writer: nakresdemo
+  entry_fav_count: 5
+  entry_content: |
+    vergisini vereceğim, benzinini koyacağım, kaskosunu yapacağım, bakımını aksatmayacağım,yıkayıp paklayacağım üstüne üstlük birde ona tapacağım yok öyle bir dünya o bana tapsın ibneliğin alemi yok.
+  entry_channels: anket,teknoloji,otomotiv
+- entry_name: |
+    lahmacunu içine soğan koyup eliyle yiyen kız
+  entry_id:  83421106
+  entry_writer: webyusuf
+  entry_fav_count: 5
+  entry_content: |
+    benimle evlenebilir.<br/><br/>(bkz: <a class="b" href="/?q=jan%c4%b1m">janım</a>)<br/><br/>chicken wrap diye tavuk dürümü yiyen tipler <a class="b" href="/?q=lahmacun">lahmacun</a>u beğenmez olmuş.<br/><br/>#direnlahmacun
+  entry_channels: anket,ilişkiler,yeme-içme
+- entry_name: |
+    50 yaş üstü erkek gereksizliği
+  entry_id:  83421686
+  entry_writer: xlr
+  entry_fav_count: 5
+  entry_content: |
+    50 yaşına geldiğinde 33 yaşında ne kadar aptal olduğunu anlamak için çok iyi bir yöntem.
+  entry_channels: anket
+- entry_name: |
+    17 kasım 2018 türkiye isveç maçı
+  entry_id:  83423065
+  entry_writer: saftirik tilki
+  entry_fav_count: 5
+  entry_content: |
+    yenmişsin yenilmişsin gerçekten hiç önemli değil. şu oyunculara bak. hepsi pırıl pırıl gençler. göğsümüzü kabartıyorlar. kimseye bağırıp çağırıp diklenmiyorlar. efendiler. neden? çünkü yandaki teknik direktörleri efendi. yakası bağrı açık bir şekilde kimseye racon kesmiyor. maçtan önce maç esnasında ve sonrasında kimseyi germiyor, galeyana getirmiyor; seni bana, onu şuna düşman etmiyor. yanındakileri onun bunun üstüne salmıyor. istediğimiz milli takım bu.
+  entry_channels: spor
 - entry_name: |
     tüyleri diken diken eden türküler
   entry_id:  83419490
@@ -243,29 +307,13 @@ data:
     dünyada tükenmez murat var imiş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/eC6kvXy6sgk">https://youtu.be/ec6kvxy6sgk</a>
   entry_channels: anket,sanat,tarih,müzik
 - entry_name: |
-    seviştikten sonra ayrı yataklarda uyumak
-  entry_id:  83422434
-  entry_writer: emine winehouse
+    profil fotoğrafı koyan yazarın asıl amacı
+  entry_id:  83410323
+  entry_writer: pis sacli alsancak insani
   entry_fav_count: 4
   entry_content: |
-    dünyanın en mantıklı eylemi. iki insanın aynı yatakta uyumasının mantığını ömrüm boyunca anlamadım, anlayamayacağım da. bir insanın sevgi veya şefkate ihtiyacı varsa yanında uyuyabilirsin fakat sırf sevgilin ya da eşin diye niye hep aynı yatakta uyumak zorundasın?
-  entry_channels: ilişkiler
-- entry_name: |
-    eşcinsellik bir hastalıktır
-  entry_id:  83418879
-  entry_writer: bana krakatoa derler
-  entry_fav_count: 4
-  entry_content: |
-    "... hiçbir gen veya hormon saptanamadı." demek her şeyi noktalamaz. saptanamayacağı anlamına da gelmez. ayrıca bilmemenize rağmen "saptanmadı" diye emin konuştuğunuz zaman sizin sorunlu olmanız bir yana size pat diye inanan insanların olduğu bir toplum daha içler acısıdır. biz bunun aksinin olduğu durumlara <a class="b" href="/?q=bilimsel+okuryazarl%c4%b1k">bilimsel okuryazarlık</a> diyoruz ne yazık ki bizde olmayan.<br/><br/>son yapılan çalışmalardan birisi, <a class="b" href="/?q=progesteron">progesteron</a> ile cinsel davranışlar arasındaki ilişki üzerine yoğunlaşmıştır:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/28374065">https://www.ncbi.nlm.nih.gov/pubmed/28374065</a><br/><br/>ve elbette ki çalışmalar devam ettikçe bu olay güzel bir bilimsel temele oturacaktır. <br/><br/>hastalık mıdır, değil midir? bu soruya cevap verebilmek için önce "hastalık" kelimesine nasıl bir anlam yükleyeceğimiz önemli. evet, belki normal değildir. ya da "normal olmak" ne diye sormak lazım. bende de kırmızı - yeşil <a class="b" href="/?q=diskromatopsi">diskromatopsi</a>si var. 620 <a class="b" href="/?q=nanometre">nanometre</a> dalga boyundaki <a class="b" href="/?q=spektrum">spektrum</a>u sizin hissettiğiniz gibi hissedemiyorum. ne oldum şimdi? anormal. ya siz anormalseniz? bir canlı döllerini aktarabiliyorsa genleri evrimsel olarak başarılıdır. normalliğin de tek ölçütü budur. bırakın insanları kendiniz gibi yapmayı. azınlıkta olmak anormallik olmuyor. bir gen çok fazla anormalse zaten <a class="b" href="/?q=do%c4%9fal+se%c3%a7ilim">doğal seçilim</a> sürecinde elenecektir. takmayın kafaya.
-  entry_channels: sağlık
-- entry_name: |
-    50 yaş üstü erkek gereksizliği
-  entry_id:  83421686
-  entry_writer: xlr
-  entry_fav_count: 4
-  entry_content: |
-    50 yaşına geldiğinde 33 yaşında ne kadar aptal olduğunu anlamak için çok iyi bir yöntem.
-  entry_channels: anket
+    istatistiki çalışmamı açıklıyorum;<br/><br/>şuraya fotoğraf koyan erkeklerin %80'inin üstü çıplak ve gayet net şekilde, kıvırmadan "karıııı karıııı karıııı" diye geziyorlar. <br/><br/>kadınların %80'i ise, seks, ego, ilgi kavramlarını 15 dakika önce duymuş gibi davranıp, fotoğraf koymasındaki tek amacın, ülkemizin muasır medeniyetler seviyesine çıkmasına yardım etmek olduğunu düşünmemizi istiyorlar.<br/><br/>erkeklerin gözünü seveyim lan. aradığım netlik, dürüstlük bu ffvıgk.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     yazarların şu an ihtiyaç duyduğu şey
   entry_id:  83416714
@@ -274,6 +322,14 @@ data:
   entry_content: |
     küvette seks
   entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    facebook twitter instagram kullanmayan erkek
+  entry_id:  83423300
+  entry_writer: bruxelles
+  entry_fav_count: 3
+  entry_content: |
+    facebook’u kullanmayalı beş yıl oldu. twitter ve instagram hesabım yok. <br/><br/>kullananların boş vakti bol galiba.
+  entry_channels: anket,ilişkiler,teknoloji
 - entry_name: |
     17 kasım 2018 sullivan-selby snooker maçı
   entry_id:  83410579
@@ -291,45 +347,13 @@ data:
     fake bir sosyal medya hesabı açtım. cinsiyetimi kadın yaptim. yaşımi bile yazmadım. profilime resim bile koymadım. daha ilk günden aldigim arkadaşlık isteği 200. iş olsun diye kabul ettim. video yollama talepleri, flört teklifleri, tanışabilir miyiz mesajları birbirine girdi. aşık olduğunu söyleyen budalalar bile çıktı. sonuçta bir drkek olarak benim yüzümü kızartan mesajlar aldım. sonuç olarak hesabı kapattım ve ne zormuş arkadaş kadın olmak dedim. bana bir gun yetti. durum gdrçekten vahim. hemcinslerim halen ilkel beyinle yaşıyor.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    dr. cahide topsakal rezaleti
-  entry_id:  83407973
-  entry_writer: sanane be amcik
-  entry_fav_count: 2
+    şu anda çalan şarkı
+  entry_id:  83400745
+  entry_writer: niagara beni benden alir
+  entry_fav_count: 0
   entry_content: |
-    öncesinde ameliyat için para alıp, daha sonra kişi vefat edince parasını geri vermeyen dolandırıcı sıfatında olan kişidir kendisi.
-  entry_channels: sağlık,haber
-- entry_name: |
-    annelerin skt geçmiş ürün kullanma ısrarı
-  entry_id:  83422362
-  entry_writer: fransizdanteli
-  entry_fav_count: 2
-  entry_content: |
-    hastaneye vereceği parayla çok daha fazla zarar edecek ev ekonomisini, sözüm ona korumaya çalışan annedir. yanlış yapıyordur. bunu da savunmayın lan artık?<br/><br/>babam yapardı eskiden. üniversite mezunu adam üstelik, insan hayret ediyor.
-  entry_channels: ilişkiler,yeme-içme
-- entry_name: |
-    sözlük yazarlarının satın aldıkları son kitap
-  entry_id:  83420690
-  entry_writer: iceberginbildiginizyuzu
-  entry_fav_count: 1
-  entry_content: |
-    man's search for meaning <br/>(bkz: <a class="b" href="/?q=viktor+e+frankl">viktor e frankl</a>)<br/><br/>gerçekten ilginç bir kitap henüz birkaç sayfa okuyabildim ama öneririm.
-  entry_channels: anket,ekşi-sözlük,edebiyat
-- entry_name: |
-    lahmacunu içine soğan koyup eliyle yiyen kız
-  entry_id:  83421331
-  entry_writer: pisivardedilergeldik
-  entry_fav_count: 1
-  entry_content: |
-    bence bir de <a class="b" href="/?q=metin+hara">metin hara</a>'ya sormalı.<br/><br/>bknzları karıştıran edit.
-  entry_channels: anket,ilişkiler,yeme-içme
-- entry_name: |
-    facebook twitter instagram kullanmayan erkek
-  entry_id:  83423300
-  entry_writer: bruxelles
-  entry_fav_count: 1
-  entry_content: |
-    facebook’u kullanmayalı beş yıl oldu. twitter ve instagram hesabım yok. <br/><br/>kullananların boş vakti bol galiba.
-  entry_channels: anket,ilişkiler,teknoloji
+    <a class="b" href="/?q=i+just+called+to+say+i+love+you">i just called to say i love you</a>
+  entry_channels: anket,ekşi-sözlük,müzik
 - entry_name: |
     sıcak çikolata sütle mi suyla mı yapılır sorunsalı
   entry_id:  83422303
@@ -340,28 +364,20 @@ data:
   entry_channels: yeme-içme
 - entry_name: |
     serum takıp iğne yapmak için 4 yıl okumak
-  entry_id:  83421700
-  entry_writer: 64uncuakiladam
+  entry_id:  83422582
+  entry_writer: uzunincebiryoldainceliklibirhayta
   entry_fav_count: 0
   entry_content: |
-    şu anki dersleri ile başlığı açana katılıyorum ben. sağlık kadar mesela beslenme veya psikoloji de çok önemli olmalıdır hemşire için.<br/><br/>zaten savunan herkes bunları yazmış; orada yatanların sonuçta canı olduğundan ötürü hepsi çok şikayetçi olacaktır. buna istinaden psikolojik ve sosyolojik eğitim almaları gerekir. birini tuvaletini yaptırmak ya da rahatsız etmeden gece tansiyonunu ölçmek sadece hastanın değil, çalışanın da psikolojisini yorar; bunun eğitimi gerekir.<br/><br/>ayrıca yine savunanlar gibi yemek konusu da vardır. bence hemşireler hastanın ne yiyip yiyeneyeceğine hakim olmalıdır. bir gastrolog olsun demiyorum fakat tuz-yağ oranları ya da hastayı destekleyici gıdalara hakim olmalı ve bu konuda belki kendi bölümünde hastaların menüsünü hazırlamada yardımcı olmalıdır. böylece kişi bazlı menü ile daha verimli bir süreç yaratılır; standart olarak herkese aynı yağsız ya da tuzsuz yemek vermekten dışına çıkılmış olur.<br/><br/>benim bildiğim kadarı ile bu tarz bir eğitim almıyorlar fakat işlerinde damar yolu açmak kadar çok yer kaplayan durumlardır. benim şikayetim 4 senede sadece damar yolu açmayı öğreniyorlar demek olmaz ama eğitimin içeriğini sorgulamak gerekir.
+    en yakın arkadaşım hemşire. hepinizi sıra dayağından geçiririm he, ağzınızı toplayın amipler.
   entry_channels: 
 - entry_name: |
     ilk türk yapımı dildoya isim önerileri
-  entry_id:  83411087
-  entry_writer: traki
+  entry_id:  83424061
+  entry_writer: prominentt
   entry_fav_count: 0
   entry_content: |
-    hakan<br/>mottosu (bkz: <a class="b" href="/?q=hakan+yava%c5%9f+ci%c4%9ferimi+s%c3%b6kt%c3%bcn">hakan yavaş ciğerimi söktün</a>)
+    (bkz: <a class="b" href="/?q=doyurga%c3%a7">doyurgaç</a>)
   entry_channels: anket
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  83421538
-  entry_writer: apwbd
-  entry_fav_count: 0
-  entry_content: |
-    gecenin ilerleyen saatlerine kadar içinde bulunacağım veritabanı ancak benim derdimden anlasa anlasa 182.5 cm boyunda, yakışıklı, fit (zayıf değil), kel ya da uzun saçlı olmayan, akıllı, kültürlü, 2 dil bilen, en az 3 bilimsel makalede adı geçmiş ve okuduğu kitap sayısı +150 olanlar anlar. <br/>evet, kriterlerimi düşürdüm.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     cüneyt kaşeler
   entry_id:  83415881
@@ -370,22 +386,6 @@ data:
   entry_content: |
     sohbeti bir hayli keyifli, iyi fenerbahçeli güzel insan. umarım kendisini çok daha güzel yerlerde görürüz.
   entry_channels: spor
-- entry_name: |
-    cumartesi o bar senin bu bar benim takılan insan
-  entry_id:  83421920
-  entry_writer: barut osman
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=levent+y%c3%bcksel">levent yüksel</a>)
-  entry_channels: 
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  83423522
-  entry_writer: roscope
-  entry_fav_count: 0
-  entry_content: |
-    çaydanlıktan mesaj bekleyen yazarlar diye okudum. <br/>yanlış okuduğum daha mantıklı değil mi? neden bu kadar boş başlıklar dolduruyor gündemi?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  83420275
