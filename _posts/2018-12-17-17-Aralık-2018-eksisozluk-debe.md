@@ -6,7 +6,7 @@ data:
     h&amp;m'yi eyçenem diye okuyan tip
   entry_id:  84438251
   entry_writer: zavendy
-  entry_fav_count: 1210
+  entry_fav_count: 1263
   entry_content: |
     umarım tek derdin budur.
   entry_channels: anket,moda
@@ -14,7 +14,7 @@ data:
     500 tl'lik banknota resmi basılası şahsiyet
   entry_id:  84424656
   entry_writer: yarasa talag
-  entry_fav_count: 702
+  entry_fav_count: 703
   entry_content: |
     kenan ışık<br/><br/>(bkz: <a class="b" href="/?q=kim+500+tl+ister">kim 500 tl ister</a>)
   entry_channels: siyaset,anket,ekonomi
@@ -22,7 +22,7 @@ data:
     muğla'da öğrencilerin kiraları protesto etmesi
   entry_id:  84437081
   entry_writer: seftalilimakarna
-  entry_fav_count: 693
+  entry_fav_count: 699
   entry_content: |
     yeğenlerim haklı.<br/><br/>kiranın üçe beşe bölüneceğini anlayan ev sahipleri 500 liralık mala 1000 lira fiyat çekiyor.<br/>aman ne de olsa 5 e bölünüyor koymaz öğrencilere diyor.<br/>aynı evi mecburiyetten aileye verince “ tamam abi 350 ver diyor maksat boş kalmasın “ .<br/><br/>orospu çocuğu ev sahipleri.
   entry_channels: haber,eğitim,ekonomi
@@ -30,7 +30,7 @@ data:
     tinerciler tarafından boğazı kesilen polis
   entry_id:  84435949
   entry_writer: sevgili azman
-  entry_fav_count: 465
+  entry_fav_count: 501
   entry_content: |
     polisimiz metro çıkışında gbt yapsın ancak, bu şekilde güvenliğimiz çok iyi derecede sağlanıyor sayelerinde. ama 200 metre ileride sözde cam silerek para kazanan gaspçılara hiç müdahale etmesin. şikayet ettiğinizde de orası bizim bölgemiz değil diye cevap vermeye devam etsinler.
   entry_channels: haber
@@ -38,7 +38,7 @@ data:
     2018 kasım ayı mobese kaza görüntüleri
   entry_id:  84426857
   entry_writer: uhud
-  entry_fav_count: 342
+  entry_fav_count: 348
   entry_content: |
     neden öyle hareketli, neşeli bir müziğin arka planda çalındığını merak ettiren görüntüler. <br/><br/>hem kafamla ritim tutuyorum hem kazalar eyvah eyvah diyorum.
   entry_channels: otomotiv,seyahat
@@ -46,7 +46,7 @@ data:
     trabzonspor taraftarının gs store'a saldırması
   entry_id:  84439093
   entry_writer: beyazessekliprens
-  entry_fav_count: 292
+  entry_fav_count: 294
   entry_content: |
     namusu fenerbahçe’nin müzesinde olan taraftardan ne beklenirdiki zaten.
   entry_channels: spor,haber
@@ -54,23 +54,47 @@ data:
     100 tl'nin şakkadanak bitmesi
   entry_id:  84439198
   entry_writer: alirsin iste boyle cevabini
-  entry_fav_count: 244
+  entry_fav_count: 253
   entry_content: |
     aynısı 100 euro olarak fransa'da shaqqadaneuaqque diye bitmektedir.
   entry_channels: yeme-içme,ekonomi
 - entry_name: |
+    tc tarihinde şahsım gibisini bulamazsınız
+  entry_id:  84431382
+  entry_writer: gssoner86
+  entry_fav_count: 225
+  entry_content: |
+    kimi liderler vardır; ölümlerinin üstünden asırlar geçse de akıllardan silinmez, sevilir sayılırlar.<br/><br/>kimileri de; bırakın terk-i diyar eylemeyi, iktidardan düştükleri anda kimsenin umurunda olmaz, hatta zamanının en güçlü savunucuları dahi nefretle bahsetmeye başlar. <br/><br/>birincisi olmamak için elinden geleni yapıp ikincisi olmaktan korkmak...
+  entry_channels: siyaset,haber
+- entry_name: |
     türkiye'de en itici insanların bulunduğu şehir
   entry_id:  84441898
   entry_writer: bahamababy
-  entry_fav_count: 164
+  entry_fav_count: 203
   entry_content: |
     (bkz: <a class="b" href="/?q=trabzon">trabzon</a>).
+  entry_channels: anket
+- entry_name: |
+    uzaylıların insanlara zarar vermemesinin nedeni
+  entry_id:  84421908
+  entry_writer: margaritaville
+  entry_fav_count: 199
+  entry_content: |
+    bir soluklan yiğenim. daha ne biliyoruz ki. belki de buna çalışıyorlar. 13 milyar yıllık düzende daha 2-3 bin yıllık yazılı tarihin, cücük kadar 60 yıllık uzay maceran var. belki de adamlar bizi gördü ve kurşunu attı, yolda geliyor. bir kaç milyon yıl bekle öyle konuş.
+  entry_channels: anket,ilişkiler,bilim
+- entry_name: |
+    türkiye'nin en yobaz şehri
+  entry_id:  84442660
+  entry_writer: taze sicak smith
+  entry_fav_count: 164
+  entry_content: |
+    turkiyenin en yobaz il-illeridir.<br/><br/>ilk 3 yapacak olursak şahsım adına;<br/><br/>trabzon<br/>yozgat<br/>aksaray<br/><br/>evet trabzon 1. sırada bence. gittim gördüm böyle bir şey olamaz. komik olma çabalarına aldanmayın. manda için aile katleden adamlar var. birsey anlatmaya çalışırsın dinlemez bile önyargı almış başını gitmiş. <br/><br/>ben cahilden korkmam da kendini bilgili sanan cahilden korkarım. trabzon maalesef bende bu statüyü karşılıyor. yozgat ve aksaray bonus zaten. ayyuka çıkmış yobazliklari.
   entry_channels: anket
 - entry_name: |
     esad'la çalışmayı göz önünde bulundurabiliriz
   entry_id:  84435253
   entry_writer: conque
-  entry_fav_count: 158
+  entry_fav_count: 159
   entry_content: |
     (bkz: <a class="b" href="/?q=karde%c5%9fim+esad+is+loading">kardeşim esad is loading</a>)
   entry_channels: siyaset,haber,magazin
@@ -78,23 +102,15 @@ data:
     ilgisizlikten ayrılan kadın
   entry_id:  84426281
   entry_writer: jesicalay
-  entry_fav_count: 146
+  entry_fav_count: 149
   entry_content: |
     zamanında bu sebepten ben terk etmeliydim, terk etmedim. düzelir dedim düzeldi ama bu durum içimde hep yara oldu. sonra o ayrıldı zaten. kızlar ilgisiz erkekten ayrılın yoksa ilerde o sizden ayrılacak.
   entry_channels: ilişkiler
 - entry_name: |
-    türkiye'nin en yobaz şehri
-  entry_id:  84442660
-  entry_writer: taze sicak smith
-  entry_fav_count: 140
-  entry_content: |
-    turkiyenin en yobaz il-illeridir.<br/><br/>ilk 3 yapacak olursak şahsım adına;<br/><br/>trabzon<br/>yozgat<br/>aksaray<br/><br/>evet trabzon 1. sırada bence. gittim gördüm böyle bir şey olamaz. komik olma çabalarına aldanmayın. manda için aile katleden adamlar var. birsey anlatmaya çalışırsın dinlemez bile önyargı almış başını gitmiş. <br/><br/>ben cahilden korkmam da kendini bilgili sanan cahilden korkarım. trabzon maalesef bende bu statüyü karşılıyor. yozgat ve aksaray bonus zaten. ayyuka çıkmış yobazliklari.
-  entry_channels: anket
-- entry_name: |
     en itici kadın ismi
   entry_id:  84419206
   entry_writer: shitface
-  entry_fav_count: 135
+  entry_fav_count: 138
   entry_content: |
     buğlem mina.<br/><br/>buğlem isminin iticiliğini yeterli bulmamışlar, ikinci isimle perçinlemişler. mina tek başına iyiyken, bu kombinasyonla çok kötü olmuş ya.<br/><br/>bi' de mağazanın ortasında "buğlem minaaaa buğlem minaaa" diye çocuğa bağırarak kulaklardan kan getirdi anası.
   entry_channels: anket,ilişkiler,edebiyat
@@ -118,15 +134,39 @@ data:
     iphone'un en büyük sorunu
   entry_id:  84428474
   entry_writer: umurbaskani
-  entry_fav_count: 119
+  entry_fav_count: 120
   entry_content: |
     samsung'a benzemeye başlaması. iphone eskiden ürün gamını sınırlı tutarak kaliteyi yükseltiyordu. şimdi, samsung gibi zibilyon tane model çıkarıyor ve kaliteyi düşürüyor. eskiden iphone kullanan kullanmayan herkes modelleri tanırdı. bu durum artık geçerli değil.
   entry_channels: anket,teknoloji
 - entry_name: |
+    rte'den sonraki cumhurbaşkanı
+  entry_id:  84432167
+  entry_writer: trendline
+  entry_fav_count: 118
+  entry_content: |
+    (bkz: <a class="b" href="/?q=binali+y%c4%b1ld%c4%b1r%c4%b1m">binali yıldırım</a>)<br/><br/>yani odur herhalde. ilk onu yapıyorlar ya...
+  entry_channels: siyaset,anket
+- entry_name: |
+    oğuzhan uğur'un 6 milyon liralık evi
+  entry_id:  84436556
+  entry_writer: lecinderiy is coming
+  entry_fav_count: 111
+  entry_content: |
+    kendi zekasıyla değil gerizekalıların sayesindedir.
+  entry_channels: magazin
+- entry_name: |
+    xiaomi
+  entry_id:  84428731
+  entry_writer: seni goremeden uctum gittim
+  entry_fav_count: 110
+  entry_content: |
+    çince siami şeklinde okunmayan hatta kendi ceo şu tarafından şaomi diye okunan markadır. ahanda videosu, ceo konuşuyor<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=QVA_7JgcNHM">https://m.youtube.com/watch?v=qva_7jgcnhm</a><br/><br/>çince bilmeyenlere itibar etmeyiniz. uyduruyorlar ordan burdan.
+  entry_channels: teknoloji
+- entry_name: |
     30'luk erkekle sevgili olmak isteyen 18'lik kız
   entry_id:  84419696
   entry_writer: 597
-  entry_fav_count: 87
+  entry_fav_count: 91
   entry_content: |
     30'luk erkekten heidi'nin dedesi gibi bahsedildiğini gördükçe vay bana vaylar bana diye türküler çığırıp kendimi balkondan atasım geliyor. 30 mu yaşlı, sözlük mü kreşe döndü anlamadım valleyi billeyi.<br/><br/>30 yaşında adama amca, kadına teyze diyen bir popülasyonla aynı gemide yol alıyoruz sayın seyirciler çok enteresan. büyükbabalarınız mağara adamı mı lan sizin? ananızın babanızın büyüklerine ilk insan muamelesi mi yapıyosunuz? dur tahmin edeyim hepinizin büyükannesinin adı havva di mi?<br/><br/>30 yaşında insan yaşlı değildir sevgili paleler siz daha çocuksunuz. mesele bu.<br/><br/>gelelim mevzuya. neydi mevzu? hah evet o kızlar. varlar evet. zihinsel mastürbasyon (bazen fiziki mastürbasyon için de tabii) için büyük adamlarla ilgilenirler genel olarak. kallavi bir ciddiye alınmama, ufak diye küçümsenme kaygısı taşırlar. mesaja cevap verince gelen tepkilerden kendini popstar falan sanarsın bazen. çoğunca meraklıdırlar. ve bak burası ilginç; perdesiz, patavatsız, edepsizlik potansiyelleri ablalara göre daha yüksektir. deli cesareti gibi.<br/><br/>şu sözlükte geçen 5 sene boyunca onlarcasına rastladım ben de. oluyor öyle, olur yani, napıcaz? idare edicez.
   entry_channels: anket,ilişkiler
@@ -134,10 +174,26 @@ data:
     osmanlı haritasının şişirme olması
   entry_id:  84442120
   entry_writer: huseyin bolt
-  entry_fav_count: 78
+  entry_fav_count: 87
   entry_content: |
     yani ilber hocayı dahi hiç dinlemedin mi?<br/>onda birin kadar avusturya diyorsun.<br/>o zamanın avusturya macaristan imparatorluğu'nun şimdiki kuzey italya, orta avrupa, almanya ve bazı diğer komşu devletleri de içine alan koca bir imparatorluk olduğunu en azından google amcaya sorarak da öğrenebilirdin. <br/>ne ilginç. koca imparatorluğu klavye başından yermeye çalışmak.
   entry_channels: siyaset,tarih
+- entry_name: |
+    bir insanın kendisine yapabileceği en büyük iyilik
+  entry_id:  84425841
+  entry_writer: o my cenab i hak
+  entry_fav_count: 80
+  entry_content: |
+    klişe olarak değil gerçekten kendini tanımasıdır. yeryüzündeki tüm öğretiler bunu söyler çünkü herşey bununla başlar bununla biter.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    loris karius
+  entry_id:  84445757
+  entry_writer: niksizimama
+  entry_fav_count: 76
+  entry_content: |
+    liverpool'un dokuzuncu golü.
+  entry_channels: spor
 - entry_name: |
     siyahi erkeklerin her anlamda üstün olması
   entry_id:  84432295
@@ -155,18 +211,18 @@ data:
     bugün de genellenip itin götüne sokulduk çok şükür.
   entry_channels: anket,sağlık,eğitim
 - entry_name: |
-    loris karius
-  entry_id:  84445757
-  entry_writer: niksizimama
-  entry_fav_count: 63
+    emniyet kemeri takmama özgürlüğü
+  entry_id:  84433937
+  entry_writer: draw
+  entry_fav_count: 60
   entry_content: |
-    liverpool'un dokuzuncu golü.
-  entry_channels: spor
+    bir yere çarptığın zaman arabanın ön camından uçup diğer insanlar için tehlike oluşturursun.
+  entry_channels: otomotiv
 - entry_name: |
     the protector (dizi)
   entry_id:  84420956
   entry_writer: otomotivci
-  entry_fav_count: 49
+  entry_fav_count: 51
   entry_content: |
     oyunculuk, senaryo, yönetmenlik, kurgu, görsel efektler iyidir, kötüdür tartışmayacağım.<br/><br/>ancak, bu dizi uluslararası topluma; deveye binip, çölde yaşamadığımızı göstermek açısından, seküler bir toplum olduğumuzu göstermek açısından, yapımlarında türk karakter diye kuzey afrikalı berberi ve arapları oynatan hollywood stereotipçiliğini yıkmak açısından, sinemamızın yurtdışında temsilini kim olduklarını çok iyi bildiğiniz pkk ilişkili "yerli" sinemacıların hegemonyasından çıkarma açısından önemli bir yapım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://help.netflix.com/en/node/14164" title="https://help.netflix.com/en/node/14164">190 ülkede</a> hizmet veren bir platformda yayınlanan bu diziyi, her ülkeden 1000er kişi izlese, ben bir türk dizisi izledim ve hiç de öyle söylediğin tipte insanlar değil diyecek 189bin kişi yapar. farkındalık yaratmak açısından, başlangıç için iyi bir rakam ki çok daha fazla kişi izleyecektir diye tahmin ediyorum. daha fazla yapımın üretilmesini diliyorum.
   entry_channels: tv,spoiler
@@ -174,7 +230,7 @@ data:
     70 yaşına bir not bırak
   entry_id:  84420564
   entry_writer: clara del walle trueba
-  entry_fav_count: 46
+  entry_fav_count: 50
   entry_content: |
     kız, hâlâ mı okuyorsun?
   entry_channels: anket,ilişkiler
@@ -182,7 +238,7 @@ data:
     30 yaşından sonra oynanabilecek pc oyunları
   entry_id:  84441806
   entry_writer: samimi panda
-  entry_fav_count: 42
+  entry_fav_count: 43
   entry_content: |
     "30'undan sonra oyun oynanmaz koca adam oldun" diye düşünen davarların futbol denen boş beleş saçmalığı takip edip tüm hafta arkadaşlarıyla "şu pozisyon ne oldu, bu yorumcu ne dedi, o hakem orospu çocuğu" şeklinde 12 yaşındaki çocuk kafasında muhabbet çevirmeleri daha acıdır. boş herifler.<br/><br/>bazıları ps4 exclusive<br/>(bkz: <a class="b" href="/?q=detroit+become+human">detroit become human</a>)<br/>(bkz: <a class="b" href="/?q=heavy+rain">heavy rain</a>)<br/>(bkz: <a class="b" href="/?q=fahrenheit">fahrenheit</a>)<br/>(bkz: <a class="b" href="/?q=beyond+two+souls">beyond two souls</a>)<br/>(bkz: <a class="b" href="/?q=brothers+a+tale+of+two+sons">brothers a tale of two sons</a>)<br/>(bkz: <a class="b" href="/?q=until+dawn">until dawn</a>)<br/>(bkz: <a class="b" href="/?q=a+way+out">a way out</a>)<br/>(bkz: <a class="b" href="/?q=stanley+parable">stanley parable</a>)<br/>(bkz: <a class="b" href="/?q=bioshock">bioshock</a>) tümü<br/>(bkz: <a class="b" href="/?q=dishonored">dishonored</a>)<br/><br/>arkadaşlarla eve doluşup muhabbetin dibine vurmayı seviyorsanız rica ediyorum şu ikisini oynayın. fazladan kontrolör'e de gerek yok çünkü herkes cep telefonuna indirdiği uygulamadan oynuyor. ikisi de acayip keyifli yalnız maalesef playstation 4'e özel .<br/>(bkz: <a class="b" href="/?q=that%27s+you">that's you</a>) <br/>(bkz: <a class="b" href="/?q=knowledge+is+power">knowledge is power</a>)<br/><br/>edit: aklıma geldikçe oyun ekliyorum
   entry_channels: anket,oyun
@@ -190,7 +246,7 @@ data:
     16 aralık 2018 beşiktaş trabzonspor maçı
   entry_id:  84445605
   entry_writer: oro
-  entry_fav_count: 40
+  entry_fav_count: 43
   entry_content: |
     rodayega tam bir forvet bitirişi yaptı, onun yerinde eren olsa baygınlık geçirirdi aq çocuğu.<br/><br/>not: forvet alın amına koduklarımspor.
   entry_channels: spor
@@ -203,18 +259,18 @@ data:
     burhan<br/>şehsuvar<br/>volkan
   entry_channels: anket,tv
 - entry_name: |
-    tiktok
-  entry_id:  84423266
-  entry_writer: rubydark
-  entry_fav_count: 26
+    piyango ile zengin olan kimsenin olmaması
+  entry_id:  84447013
+  entry_writer: riniminitin
+  entry_fav_count: 29
   entry_content: |
-    wikipedia yasak ama bu ucubenin reklamları her yerde. <br/>insanları beyinsizleştirme projesi olduğunu düşünüyorum.
-  entry_channels: müzik,teknoloji
+    fazıl sayın piyano değil de piyango zengini ilan edildiği başlık,<br/>ulan 20 dakka internette araştırma yaptırdınız, acaba piyangomu vurdu bu adama diye :)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/787ab6574766" title="https://eksiup.com/787ab6574766">ekşiup</a>
+  entry_channels: 
 - entry_name: |
     bir kadının en korktuğu şey
   entry_id:  84437884
   entry_writer: seskontrol
-  entry_fav_count: 24
+  entry_fav_count: 27
   entry_content: |
     şahsım adına şu dönemde en korktuğum şey işsiz kalmaktır. <br/><br/>terk edilmek atlatılır, sevilmemek bir süre sonra önemsenmeyebilir; duygusal her durum er ya da geç tolere edilebilir. fakat günümüzde bir kadının sahip olduğu en değerli şey, ekonomik özgürlüğüdür kanaatimce.
   entry_channels: anket,ilişkiler
@@ -226,14 +282,6 @@ data:
   entry_content: |
     şahsımı misantropist kişiliğe kadar sürüklemiştir. bir insan istese sevgilisiz kalmaz. önemli olan ne istediğiniz, buna karşılık ne bulduğunuzdur. aslında aklı başında bir insan ömrünü sevgilisiz geçirebilir, hiç sevişmeden ölebilir. bu anormal karşılanacak bir şey değildir. bunun ünlü örnekleri var. salvador dali mesela. karısı vardı ama onunla hiç sevişmedi. hatta karısının başka birileriyle yatmasına ses etmedi. kaç kadın bu durumu kabul eder? ama dali bunu istemiş, istediğini de bulmuş. <br/><br/>insanlar yalnızlık korkusundan ilkesizleşiyorlar. zaten ilkeli ve aslına sadık yaşayan kaç şövalye ruhlu insan var dimi?<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> toplum bir süre sonra sizi ehlileştiriyor, sevgilin olacak kişiyi farkına varmadan dayatıyor. sen de sanıyorsun ki o benim ruh eşim, aşkım, bitanem. bunların hepsi yalan. sen kimsin? önce kendini bil, tanı. ondan sonra arayışa geç, muhtemelen yalnız kalacaksın. kendimi değiştireyim diyorsan vereceğin ödünleri gözden geçireceksin. miden kaldırıyorsa rol yapacaksın. ben yapamıyorum, çünkü değmez, biliyorum. insanoğlu için kendine acı çektirmeye değmez. bu yüzden misantropist oldum. psikologlar hastalıklı bir durum olarak görürler. çünkü yaptıkları şey bilim filan değil, zırvalık.
   entry_channels: anket,ilişkiler
-- entry_name: |
-    2018 ekonomik krizi
-  entry_id:  84438896
-  entry_writer: muhteriz darbe
-  entry_fav_count: 19
-  entry_content: |
-    dün imf karşıtı ekonomi cahilleri için yazacaktım da vazgeçmiştim. şimdi yazayım. borcu arttığı için krize girmekte olan gelişmekte olan bir ülke için en iyi alternatif imf'dir. kriz çok iyi yönetilirse imf'siz krizden çıkılabilir ama imf'li yapılacak tasarruftan bile daha fazla tasarruf yapılmasını gerektirir bu. bu da ekonominin daha da küçülmesine yol açacaktır. krizin iyi yönetilmediği durumda da moratoryuma kadar gider bu yol.<br/><br/>imf alternatifinin daha iyi olmasının nedeni daha düşük faizle direkt olarak imf'den yüksek miktarda borç alınabilmesidir. ayrıca imf'le ile anlaşma sağlanınca gerekli tasarrufların yapılacağı taahhüt edilir. bu da piyasalara güven sağlar ve ülkenin daha düşük faizle borç bulabilmesini sağlar ekstra olarak.<br/><br/>güney kore bile 1997 yılında imf anlaşması yapmıştır. şu anda güney kore'nin durumu ortadadır. 2001 krizinden sonra ecevit koalisyonu da doğrusunu yaparak imf ile anlaşmıştır. derviş ile de ekonomi düzeltildikten sonra iktidar hazıra konmuştur ve sonraki yıllar ekonomi bu sayede global krize kadar rayında gitmiştir. global krizden sonra da dünyadaki bol para sayesinde ekonominin idare edildiğini herkes biliyor nerdeyse.<br/><br/>gerçekleri de yazıyorsak eklemeye devam edelim. ekonomi 90'lı yıllardan bile daha kötü yönetilmektedir. zaten faiz enflasyona yol açar diyen birisinin ülkeyi yönetmeye devam etmesi yeterli bir örnek.<br/><br/>ülke rekabet endeksinde 2018'de 61. sırada yer almıştır. kriz yılı olan 2001'de bile benzer sıralamada 54. sıradaymışız. hatta 2000 yılında ise 39'a kadar çıkılmış. bu da ülkeyi yöneten gericilerin sıfatlarının hakkını verdiği örneklerdendir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www3.weforum.org/docs/GCR2018/05FullReport/TheGlobalCompetitivenessReport2018.pdf" title="http://www3.weforum.org/docs/GCR2018/05FullReport/TheGlobalCompetitivenessReport2018.pdf">http://www3.weforum.org/…petitivenessreport2018.pdf</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4940&amp;rep=rep1&amp;type=pdf" title="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4940&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/…940&amp;rep=rep1&amp;type=pdf</a><br/><br/>ülkede üretim çeşitli ama çoğu sektör alt seviyede teknoloji ürünü üretmekte ve ihraç etmektedir. 90'lı yıllarda olduğu gibi şu anda da "net ihracat"ın en yüksek olduğu sektör tekstil ve hazır giyim sektörüdür. yüksek teknoloji ise ihracatın sadece %3-4 civarını oluşturmaktadır. orta seviye teknoloji ise %30 civarı.<br/><br/>ülkede tasarruf oranı çok düşüktür çünkü iktidar seçim kazanabilmek için bunu önlemeye çalışmamıştır. diğer önlemleri de almamışıtr. para biriktirmeyen halkın suçu daha sonra gelmektedir.<br/><br/>bu arada ülkeyi küçümseyebilirsiniz. asıl dünya lideriymiş gibi yönetilmeye devam edilirse fakirliği görürsünüz. yüksek enflasyon ve yüksek işsizlikten çıkışın kolay olacağını zannedenler var anlaşılan. krizden önce bile %10'un altına inemeyen bir işsizlikten bahsediyoruz. inşaat sektörü nerdeyse bitti. tüketim iyice azaldı. %20 işsizliğe yaklaşan tablo falan garip gelmesin yakın gelecekte. tabii öyle bir durumda tüik'e bu kadar yüksek göstertmezler.<br/><br/>zaten önümüzdeki yıllarda fakir bir ülkede yaşayacağınızı bilin. imf'ye gidilmezse daha da fakirini düşünün. ülke yönetiminin zihniyeti değişmezse de dünya ortalama gelirinin bile üstüne çıkamayız. ancak en son yaptıkları gibi tüik istatiğini şişirirlerse şaşırmam.<br/><br/>önümüzdeki yıllarda bekleyen sorunların bazıları için ekstra yazı: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.karar.com/yazarlar/ibrahim-kahveci/ya-ankara-zayiflamazsa-8443#" title="https://www.karar.com/yazarlar/ibrahim-kahveci/ya-ankara-zayiflamazsa-8443#">https://www.karar.com/…ya-ankara-zayiflamazsa-8443#</a>
-  entry_channels: siyaset,bilim,tarih,haber,ekonomi
 - entry_name: |
     ekşi itiraf
   entry_id:  84424712
@@ -251,29 +299,37 @@ data:
     tercih ettiğim kullanım şekli. milyonlarca dolar harcanarak kurulan o ar-ge birimleri bunun hesabını kitabını yapıyor, o modelin en ergonomik şekilde kullanılması için bir tasarım oluşturuyor. ayrıca kaliteli bir dokuya-materyale dokunma hissi de bambaşka. o sikik kılıflar ve koruyucu filmler adi bir his uyandırıyor ve tüm ergonomiyi alıp götürüyor. <br/><br/>başıma gelebilecek zararı göze alıyorum bu yüzden.
   entry_channels: teknoloji
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  84419940
-  entry_writer: nick vardida ben mi almadim
+    nişan düğün tektaş balayı istemeyen kız
+  entry_id:  84423575
+  entry_writer: demesi kolay tabii
+  entry_fav_count: 15
+  entry_content: |
+    kaybetmeye mahkumdur. isteyin amk. biz böyleyiz diye el üstünde tutuluruz zannediyorduk; idil fırat, mert fırat’la evlenip, kına gecesinde salona nakliye paletiyle girdiğinden beri hayatımı gözden geçiriyorum.<br/><br/>yaz kızım: duvak 8 metre olacak<br/>tek taş, tam tur, nehirli akarsulu bilezik, yüksek yüksek tepelere ev kurmasınlarda akmayacak profesyonel makyaj, kimler kimler yuva kuruyorda bozulmayacak topuz, instoşta eski şirkettekileri göt edicek ve kimsenin yorumlarda “ay şuraya da mutlaka gidin” diye caka satamayacağı bir destinasyonda en az 150 like getirecek fotoğraflık balayı...<br/><br/>gerçekten çürük elma şekerine döndü bu iş. ne ayaksınız oğlum siz? ne istiyorsunuz? özge özpirinççi övüp neslişah alkoçlar’la evlenen engin altan düzyatan gibisiniz. bu bir hayat duruşu tanımı olmalı ya...<br/><br/>(bkz: <a class="b" href="/?q=engin+altan+d%c3%bczyataning">engin altan düzyataning</a>)<br/><br/>evet. artık bi adı var. <br/><br/>lütfen bunu yapmayın sevgili oynar başlıklı türk erkekleri. çok sinirleniyorum. <br/><br/>özge’linler asoşiyeytıt pres
+  entry_channels: ilişkiler,moda,ekonomi
+- entry_name: |
+    uzak mesafe ilişkisi
+  entry_id:  84442742
+  entry_writer: pracht
   entry_fav_count: 10
   entry_content: |
-    sevgili oğluşumuz, bugün senin bir erkek bebek olduğunu öğrendiğimiz gün. dilerim aynı annenle benim dostluğumuz gibi bir dostun olur bu hayatta. annen daha ilk söylediğinde senin erkek bir bebek olduğunu hissettim. ben senin en çok dayına benzemeni isterim çünkü o bu hayattaki en kusursuz çocuklardan. senin bunları okuman için daha yaklaşık 7 yıl filan var ama olsun ben buraya bırakayım çünkü zaman su gibi akıp geçiyor ne demek istediğimi çok iyi anlayacağın yaşların da gelecek.manevi teyzen olarak her türlü sponsorun olduğumu bilmeni isterim her daim yanında ve kalbinde hissedeceğine söz veriyorum.
-  entry_channels: anket,ilişkiler,edebiyat
+    zordur deniyor, zor değildir.<br/><br/>ilişkinizdeki sorunlar mesafeden değildir. yalnızca sorun çıkaran tarafın elinde mesafe gibi çok güzel bir bahane vardır. canı ayrılmak istediğinde, zaten uzağız olmuyor, der bitirir. sen de mesafe yüzünden ayrıldık diye dertlenirsin<br/><br/>o kişiyle aranıza mesafe girmese bile bir müddet sonra ilişkiniz zaten bozulacaktır. çünkü hisleri pamuk ipliğine bağlıdır. ama insana "o beni aslında hiç sevmemiş" demek ağır geldiği için mesafe yüzünden ayrıldık demek daha kolay gelir.
+  entry_channels: ilişkiler
 - entry_name: |
     başına vura vura köpeği öldüren cani
   entry_id:  84442130
   entry_writer: nick kullanmak istemiyorum
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     ya ben bu vahşetle yaşamak istemiyorum.<br/>ya ben bu insanların arasında korka korka yaşamak istemiyorum.<br/>sevgisiz, merhametsiz insanlarla yaşamak istemiyorum.<br/>ya ben bu vahşinin yaşadığını bilerek yaşamak istemiyorum. cidden yıldım.<br/><br/>korkunç. dünyanın en korkunç öfkesi.
   entry_channels: haber
 - entry_name: |
-    piyango ile zengin olan kimsenin olmaması
-  entry_id:  84447013
-  entry_writer: riniminitin
+    anaokulu öğretmeninin öğrencisine su içirmemesi
+  entry_id:  84420434
+  entry_writer: lolaapplee
   entry_fav_count: 7
   entry_content: |
-    fazıl sayın piyano değil de piyango zengini ilan edildiği başlık,<br/>ulan 20 dakka internette araştırma yaptırdınız, acaba piyangomu vurdu bu adama diye :)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/787ab6574766" title="https://eksiup.com/787ab6574766">ekşiup</a>
-  entry_channels: 
+    üst edit: sınıf öğretmeniyim.<br/><br/>bu başlık açıldığı gün olayı okumuştum ve ana sınıfı öğretmeninin çocuğun verdiği cevap karşısında "tüm gün, aklına geldikçe kıkır kıkır gülmesini" saçma bulmuştum. bundan daha saçma olan şeyse bu olayı twitter'da paylaşmış olmasıydı. bu saçma olaylar sanıyorum sonrasında bir çığ gibi büyümüş ve twitter kullanıcıları ile öğretmen hanımın arasında saygısızlığa varan boyutta atışmalar olmuş (sanıyorum). sonunda da kız işinden olmuş. üstteki yorumlardan birinde bu kız bu olayı twitter'a taşımasa çok büyük olasılıkla işinden olmazdı denmiş. tamamen katılıyorum. ve girimi bir atasözü ile sonlandırıyorum : zamansız öten horozun başını keserler.<br/><br/>** su içme/içirmeme olayına gelince evet bir öğrenciye izin verilince tüm öğrencilerin su içmek istediği ve çoğunun da aynı anda çişinin geldiği yadsınamaz bir gerçek ve fakat benim sınıfımda su içmek haktır. sormadan, izin istemeden su icebiliyorlar istedikleri kadar. tuvalete ise biri dönmeden digerini göndermiyorum ders esnasında... ama tabi benim ogrencilerim üçüncü sınıf, bağımsız şekilde ihtiyaçlarını giderebiliyorlar, kas kontrolleri gelişmiş yaştalar...ana sınıfı cocuklari çoğunlukla öğretmenden yardım istiyorlardir büyük olasılıkla...bi de çocuk "boğazım çok ağrıyor, keşke suyum olsaydı" demiş ; bu cümlenin doğru olmadığı savindan yola çıkılarak ogretmene gereksiz linç uygulandığını düşünenler bir de disiplin sağlamak için ogretmenin haklı olduğunu savunanlar var. peki ya çocugun doğru söylüyor olma olasılığı ?? disiplin konusuna gelince tavsiyem şudur bu giriyi okuyan herkese; lütfen ama lütfen pink floyd'un (bkz: <a class="b" href="/?q=another+brick+in+the+wall">another brick in the wall</a>) şarkısını , özellikle klibini izleyerek dinleyin !!!
+  entry_channels: haber,eğitim
 - entry_name: |
     şenol güneş
   entry_id:  84433412
@@ -283,42 +339,10 @@ data:
     beşiktaş'ın başındayken çıktığı 7 galatasaray maçında 5 galibiyet 1 beraberlik 1 mağlubiyet almış. düzgün giyinip giyinmediğini bilmem ama yosmaları düzgün düzgün siktiği söylenebilir.
   entry_channels: spor
 - entry_name: |
-    netflix türkiye
-  entry_id:  84434526
-  entry_writer: lbingol
-  entry_fav_count: 6
-  entry_content: |
-    lan olm turkiye katalogu <a class="b" href="/?q=irak">irak</a>'tan daha dar, hala bu garabeti oven var yahu. bayagi bildigimiz 15 yil once <a class="b" href="/?q=isgal">isgal</a> yemis, ulkede internet olmasi mucize olan irak. az insaf.
-  entry_channels: tv,sinema,teknoloji
-- entry_name: |
-    roma (alfonso cuaron filmi)
-  entry_id:  84424976
-  entry_writer: fij
-  entry_fav_count: 5
-  entry_content: |
-    içinde <a class="b" href="/?q=ispanyolca">ispanyolca</a>, <a class="b" href="/?q=ingilizce">ingilizce</a>, <a class="b" href="/?q=japonca">japonca</a> ve <a class="b" href="/?q=norve%c3%a7%c3%a7e">norveççe</a> diyaloglar olan film. elbette ağırlık <a class="b" href="/?q=ispanyolca">ispanyolca</a>'da fakat ilginç bir şekilde imdb'de belirtilmeyen bir dil daha var: <a class="b" href="/?q=mikstek%c3%a7e">mikstekçe</a>.<br/><a class="b" href="/?q=mikstekler">mikstekler</a>'in dili olan bu dil, nedense imdb'de filmin verilerinde görülmüyor şu an.<br/><br/>(bkz: <a class="b" href="/?q=mistekler">mistekler</a>)
-  entry_channels: sinema
-- entry_name: |
-    barfiks çeken kız çekiciliği
-  entry_id:  84432071
-  entry_writer: gucci mane
-  entry_fav_count: 5
-  entry_content: |
-    basliginda instagram linki olarak barfiks (pull-up) degil chin up yapmaya calisip ivme ile belden vuran ve kendini sakatlamaya yonelik antreman yapan kadin paylasilan posttur. buna barfiks denmiyor arkadaslar, sakin ornek alip kendinizi sakatlamayin.<br/><br/>edit: ayni kizcagizin plank ve push uplar da baya baya hatali, yazik.
-  entry_channels: spor,ilişkiler,sağlık
-- entry_name: |
-    uzak mesafe ilişkisi
-  entry_id:  84442742
-  entry_writer: pracht
-  entry_fav_count: 4
-  entry_content: |
-    zordur deniyor, zor değildir.<br/><br/>ilişkinizdeki sorunlar mesafeden değildir. yalnızca sorun çıkaran tarafın elinde mesafe gibi çok güzel bir bahane vardır. canı ayrılmak istediğinde, zaten uzağız olmuyor, der bitirir. sen de mesafe yüzünden ayrıldık diye dertlenirsin<br/><br/>o kişiyle aranıza mesafe girmese bile bir müddet sonra ilişkiniz zaten bozulacaktır. çünkü hisleri pamuk ipliğine bağlıdır. ama insana "o beni aslında hiç sevmemiş" demek ağır geldiği için mesafe yüzünden ayrıldık demek daha kolay gelir.
-  entry_channels: ilişkiler
-- entry_name: |
     evrenin simülasyon olduğunun kanıtı
   entry_id:  84444653
   entry_writer: outdoor
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     kibrit veya çakmak çakınca kıvılcımlar oluşur ya.. bazen acaba bu kıvılcımlar bizim bildiğimiz şekliyle birer big bang olabilir mi, acaba saliselik bu olay esnasında nanonun nanosunun nanosunun nanosu ölçeğinde yeni evrenler doğup yok oluyor mu diye düşünmüyor değilim. bizim boyutumuzda 1 saniye süren bi olay başka bi boyutta milyarlarca yıla denk gelemez mi? belki de evren dediğimiz şey ufak bi kıvılcım amk. ne olduğumuzu anlamadan yitip gideceğiz.
   entry_channels: anket,bilim,teknoloji
@@ -339,14 +363,6 @@ data:
     dayak atanların sağlık hizmeti almalarını yasaklamak.
   entry_channels: siyaset,anket,sağlık
 - entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  84440776
-  entry_writer: testester10
-  entry_fav_count: 3
-  entry_content: |
-    şu an ne yapıyorsan bırak. bembeyaz karlarla kaplı bir yolda, turuncu sokak lambalarının aydınlattığı bir yolculuğa çıkalım seninle. <br/>bildiğim çok güzel yalanlar var, dinlersen anlatırım veritabanıdır.<br/>belki senin de inanasın tutar.
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
     takip edilesi youtube kanalları
   entry_id:  84427459
   entry_writer: kelly bundey
@@ -355,28 +371,12 @@ data:
     ne barış özcan'mış arkadaş. son 300 entry'dir her 5-6 entry'de bir barış özcan reklamı yapılıyor. adamın epeyce sağlam reklam bütçesi varmış.
   entry_channels: anket,teknoloji
 - entry_name: |
-    hakan muhafız
-  entry_id:  84419544
-  entry_writer: rafael sobis
-  entry_fav_count: 2
-  entry_content: |
-    <a class="b" href="/?q=01+adana">01 adana</a>’nın ilk sezonu daha profesyonel.
-  entry_channels: tv
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  84419458
-  entry_writer: guapoo
-  entry_fav_count: 2
-  entry_content: |
-    bir erkeğin gerçekten sizi sevdiğini bilseniz, anlasanız tanışma anlamında bir fırsat verir miydiniz?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     konyalı vatandaşların hükümete isyan etmesi
-  entry_id:  84445747
-  entry_writer: last day of october
+  entry_id:  84446853
+  entry_writer: baa bak sana iki cift sozum var
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=svihs">svihs</a>)
+    onlar konyadaki chpli veya iyi partililerdir. akpliler ölse isyan etmezler, öyle yetişmişler çünkü.
   entry_channels: siyaset,haber
 - entry_name: |
     dorukhan toköz
@@ -387,13 +387,13 @@ data:
     helal olsun sana çocuk. son iki sezondur oğuzhan ve tolgay'ın oynamadığı oyunu yarım sezonda oynadın valla. umarım böyle devam edersin. tanım: beşiktaşlı top tepici.
   entry_channels: spor
 - entry_name: |
-    1. ekşi yılbaşı hediyeleşmesi
-  entry_id:  84420771
-  entry_writer: munferitadam
-  entry_fav_count: 1
+    70'lik bira bardağını iki elle tutan erkek
+  entry_id:  84448093
+  entry_writer: birakinbeni
+  entry_fav_count: 0
   entry_content: |
-    ege kampüste bulunan, bulunupta bu yazıyı okuyan bir öğrenciyi sevindirmek isterim.
-  entry_channels: ekşi-sözlük
+    adam nasıl tespit yaptı helal olsun bravo kardeşim ılık sensin 70 likler götüne girsin kardeşim adamsın!!!
+  entry_channels: yeme-içme
 - entry_name: |
     16 aralık 2018 liverpool manchester united maçı
   entry_id:  84444907
