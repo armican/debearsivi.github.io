@@ -3,10 +3,18 @@ layout: post
 title: 18 Aralık 2018 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    380 bin suriyeli çocuğu vatandaş yapalım
+  entry_id:  84462842
+  entry_writer: tepisken
+  entry_fav_count: 2521
+  entry_content: |
+    bu ülkeye seksenlerde bulgaristan türkleri geldi. vatandaş oldular. -askerlik- yaptılar, iş kurdular, işçi oldular. haberlere çıkmadı, hırsızlık yapmadı, kimsenin karısına-kızına yan gözle bakmadılar.<br/>bu ülkeye 50 ve 60`larda batı trakya türkleri geldi. vatandaş oldu, askerlik yaptılar ki o zamanlar askerlik 2 ila 4 sene. iş kurdular, işçi oldular, kimse ile olay çıkarmadılar. vergilerini çatır çatır ödediler, emeklilik günü gelince babayı aldılar... tıpkı dedem gibi.<br/><br/>bu ibneler 2010`lar ülkeye geldi, vergi ödemedi, askerlik yapmadı, gasp - hırsızlık yaptılar, tecavüz ettiler. karı- kız diye ayırmadan herkese yan gözle baktılar ve çocuk yaptılar. birde vatandaş olacaklar.<br/><br/>yakışır lan bize, vallahi yakışır, billahi yakışır.
+  entry_channels: siyaset,haber
+- entry_name: |
     aldatıldığını 21 yıl sonra öğrenen adam
   entry_id:  84467389
   entry_writer: egekuzusu
-  entry_fav_count: 968
+  entry_fav_count: 981
   entry_content: |
     kafa ütülemeyin editi: bana gelip " senin gibi kadın olmaz olsun, sen kadın değilsin" demeyin.<br/><br/>"yemeğe tuz koymadın diye öldürülürsün" demeyin.<br/><br/>" hemcins değilsin senin de başına gelsin" demeyin <br/><br/>kızlarımın üzerinden hiç yürümeyin.<br/><br/>daha nice ağzıma alamadığım küfürleri de etmeyin. <br/><br/>bakın yarın başka başlık da şiddet gören kadını birlikte savunuruz, erkek olsun onu da savunuruz. anlatmak istediğim şeyi anlamıyorsunuz ısrarla ya da işinize gelmiyor. olay ne kadar vahim farkında mısınız? adam muhtemelen bundan sonra babasına bile güvenemeyecek, akşam yatıyor sabah kalkıyor aile de onun değil çocuklar da. ne büyük acı. <br/><br/>bana beddua etmeyin boşuna, inanmıyorum. <br/><br/>akşam eşim eve gelse ve ona desem ki bu çocuklar senden değil, adam kafayı yer. normal mi şu durumu savunmanız?<br/><br/>hele bir tanesi bana ruh hastası demiş, sen sin o. ben doğruyu savunuyorum, cinsiyeti değil. nokta.<br/><br/>sonra adamlar neden katil oluyor. kendi çocuğun sanıyorsun, büyütüyorsun sonra senden olmadığını öğreniyorsun. düşüncesi bile ne kadar ürkütücü.<br/><br/>(bkz: <a class="b" href="/?q=kad%c4%b1na+%c5%9fiddete+hay%c4%b1r+ama+bu+kad%c4%b1n+hak+ediyor">kadına şiddete hayır ama bu kadın hak ediyor</a>)<br/><br/>edit: mesaj atıyor bana '' şu düşünce yapından dolayı ölsen keşke'' diye. profile bakıyorum yazar ama bu başlığa entry girip düşüncesini yazmak yerine bana özelden giydirmeyi uygun görmüş, öyle de korkak. <br/><br/>ben kadına şiddeti savunmuyorum, ben de bir kadınım. ben de 21 yıl kocamı aldatmış ve başkasının çocuğunu kendi çocuğu gibi adama inandırmışsam şahsen adam beni öldürsün isterim, yaşamam bile israf olur.<br/><br/>adam öğrendiğinde cinnet geçirse ne yapacak, gül mü verecek kadına? haksız mı adam cinnet geçirmekte?<br/>siz ölmeyi bayılmak mı sanıyorsunuz? ciddi şeyler böyle olaylar.<br/><br/>ben mini etek giydi yok gece dışarı çıktı öldürün kadınları mı diyorum? okuduğunuzu anlayın önce. <br/><br/>çok cesursan öyle özelden giydirmek yerine entry gir kadını savun.<br/><br/>hemcins editi: gelip bana özelden giydiriyorsunuz ve ben anlayamıyorum. 1.sınıf seviyesiyle örnekleyeyim belki anlarsınız. mesele erkek ve ya kadın meselesi değil. diyelim ki çocuğunuz var ya da evli değilseniz kardeşiniz olsun diyelim. biri geldi ve kardeşinize ya da çocuğunuza tecavüz etti, fiziksel zarar verdi ve siz bu olayı gerçekleştiren kişi ile karşı karşıya geldiniz olayın olduğu an. ne yaparsınız? o anlık öfkeyle üzerine atlarsınız değil mi? aa canım gel seninle medeni medeni yasal yollarla hesaplaşalım demezsiniz. cinnet anı bir anlıktır ve erkekler biz kadınlara göre daha anlık tepkiler verirler. ahlaki boyutu zaten hiç söylemiyorum. <br/><br/>tamam kadınları savunalım da şu durumda kadını savunmak net söylüyorum geri zekalılıktır. <br/><br/>şu ekşi sözlük de üye olduğunu bile kocasından saklayan, şurada iki erkekle mesajlaşmayı bile ahlaksızlık gören, kadınlar gelmiş bana atar yapıyor. burası türkiye uyanın. hayallerde yaşamayın.<br/><br/>kadın, erkek eşit olsun ama ben on gün evli kalayım bir ömür bana nafaka versin kafalarında olan ablalarım bana bulaşmayın kalp kırarım hemde tatlı tatlı.<br/><br/>kadın adamı 21 yıl bak 21 gün değil 21 yıl aldatmış bu ne ne demek biliyor musun ? bir ömür neredeyse. <br/><br/>azcık empati yapın, az vicdanınıza danışın. hobi olarak yine feminist olun ben bir şey demiyorum.
   entry_channels: ilişkiler,haber
@@ -14,7 +22,7 @@ data:
     rte'nin fatih portakal'ı tehdit etmesi
   entry_id:  84477613
   entry_writer: yazmayacalisanokur
-  entry_fav_count: 885
+  entry_fav_count: 900
   entry_content: |
     sağlığıyla alakalı terbiyesizce yazılar yazılan bir gazetenin muhabiriyle bülent ecevit'in anısı:<br/><br/>****<br/>onun, vücut fonksiyonları ve ruh sağlığı ile ilgili onur kırıcı şeylerin yazıldığı bir gün, tbmm kulisinde milletvekillerinin arasına gelip oturmuştu. yanına, o ünlü gazetecinin gazetesinden bir muhabir yaklaştı. ‘efendim ben… gazetesindenim” diye konuşmaya başlayınca, ecevit ayağa kalktı, ona gülümseyerek -sanki o kötü şeyler, o gazetede yazılmamış gibi- ‘buyrun oturun sayın…” dedi.<br/><br/>sonra ona çay ikram etti. sorduğu soruları yanıtladı. gazeteci istediğini öğrenmiş, ayrılmak için izin isteyerek ayağa kalkmıştı. ecevit de -her zaman yaptığı gibi- ayağa kalktı. onu uğurlarken, şunları söyledi.<br/><br/>“eğer gazetenize uğrar da, …beyi (o kötü makaleyi yazan) görürseniz, lütfen ona söyleyin; yazılarını hiç kaçırmıyorum!”<br/><br/>****<br/><br/>tren kazasından sonra sorumlular ceza almalı diyen gazeteciyle rte'nin anısı:<br/><br/>“birileri çıkmış portakal mıdır, narenciye midir, haddini bil; haddini bilmezsen bu millet patlatır enseni!”
   entry_channels: siyaset,haber
@@ -22,7 +30,7 @@ data:
     a. gül'ün 55 milletvekili ile parti kuracak olması
   entry_id:  84456849
   entry_writer: ferrarisini geri alan bilge
-  entry_fav_count: 637
+  entry_fav_count: 639
   entry_content: |
     özet geçeyim<br/><br/>(bkz: <a class="b" href="/?q=cem+uzan%27a+hapis+%c5%9foku">cem uzan'a hapis şoku</a>)
   entry_channels: 
@@ -30,7 +38,7 @@ data:
     isveç'te sigara içmenin yasaklanması
   entry_id:  84467436
   entry_writer: benimki mayonezsiz olsun
-  entry_fav_count: 570
+  entry_fav_count: 575
   entry_content: |
     sigarayı birakmaya calisan biri olarak destekledigim olay. 6 yil sure de vermisler o zamana kadar birak bir sekilde diyor. bizde asla olmaz cunku, ulkeyi icki ve sigara icen adamlarin vergisi ayakta tutuyor.
   entry_channels: siyaset,sağlık,haber,yeme-içme
@@ -38,15 +46,15 @@ data:
     24.9 milyar pixel ile çekilmiş şangay manzarası
   entry_id:  84483583
   entry_writer: gevezeherodot
-  entry_fav_count: 520
+  entry_fav_count: 570
   entry_content: |
-    inanılmaz bir teknoloji. kel çinli de varmış. resim onu öğretti.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>this photo of shanghai is taken by quantum satellite with 24.9 billion pixels of quantum technology. ıt's worth seeing! you can zoom in, zoom in and zoom in when you look at it. you can clearly see every gesture, even face of pedestrians on the road. you can see the license plate. photos can also be moved up and down, left and right. ıt is said that this is the latest development of china's military science and technology achievements, hidden, indeed suffered harm!!! ıt can also be rotated. press'+'to zoom in and'-' to zoom in. left and right rotation. ıt's too clear!<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sh-meet.bigpixel.cn/?from=groupmessage&amp;isappinstalled=0" title="http://sh-meet.bigpixel.cn/?from=groupmessage&amp;isappinstalled=0">http://sh-meet.bigpixel.cn/…essage&amp;isappinstalled=0</a>
+    inanılmaz bir teknoloji. kel çinli de varmış. <br/><br/>edit: adamlar yapmış beğendik paylaştık gelen mesajlara göre adamlar sıçmış. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>this photo of shanghai is taken by quantum satellite with 24.9 billion pixels of quantum technology. ıt's worth seeing! you can zoom in, zoom in and zoom in when you look at it. you can clearly see every gesture, even face of pedestrians on the road. you can see the license plate. photos can also be moved up and down, left and right. ıt is said that this is the latest development of china's military science and technology achievements, hidden, indeed suffered harm!!! ıt can also be rotated. press'+'to zoom in and'-' to zoom in. left and right rotation. ıt's too clear!<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sh-meet.bigpixel.cn/?from=groupmessage&amp;isappinstalled=0" title="http://sh-meet.bigpixel.cn/?from=groupmessage&amp;isappinstalled=0">http://sh-meet.bigpixel.cn/…essage&amp;isappinstalled=0</a>
   entry_channels: teknoloji
 - entry_name: |
     hayvan saldırısına uğramış yazarlar veritabanı
   entry_id:  84458515
   entry_writer: sputnick
-  entry_fav_count: 457
+  entry_fav_count: 462
   entry_content: |
     taksici bagaj için fazla para isteyince vermemiş dayak yemiştim.
   entry_channels: anket,ekşi-sözlük
@@ -54,23 +62,23 @@ data:
     fetö mağdurları barışmak istiyor
   entry_id:  84482546
   entry_writer: rem1903
-  entry_fav_count: 333
+  entry_fav_count: 344
   entry_content: |
     (bkz: <a class="b" href="/?q=lahanay%c4%b1+yerken+k%c4%b1t%c4%b1r+k%c4%b1t%c4%b1r+sap%c4%b1na+gelince+me">lahanayı yerken kıtır kıtır sapına gelince me</a>)
   entry_channels: siyaset,magazin
 - entry_name: |
-    dört kelimeyle ilk buluşmanı mahvet
-  entry_id:  84455760
-  entry_writer: lin yallen
-  entry_fav_count: 207
+    murat özdemir'in kuşa işkence yapması
+  entry_id:  84486232
+  entry_writer: cayindunyasi
+  entry_fav_count: 195
   entry_content: |
-    tiktok videolarımı izlemek ister misin?
-  entry_channels: anket,ilişkiler
+    artık iş çığrından çıktı. gerekli yerlere şikayet edilmelidir, bu hareketin hiçbir açıklaması olamaz. kuş bağırdıkça içim cız etti, bu kadar gaddar nasıl olunabilir anlayamıyorum.
+  entry_channels: haber
 - entry_name: |
     şahan gökbakar'ın portakal paylaşımı
   entry_id:  84484153
   entry_writer: astin
-  entry_fav_count: 184
+  entry_fav_count: 189
   entry_content: |
     memleketin geldiği hale bak amk. portakal resmi paylaşana üstün cesaret madalyası takacak hale geldik.
   entry_channels: magazin
@@ -78,7 +86,7 @@ data:
     fatih portakal
   entry_id:  84465401
   entry_writer: disimde susam var ama yine de gulucem
-  entry_fav_count: 174
+  entry_fav_count: 175
   entry_content: |
     “barışçıl eylemle zamları protesto edelim desek kim sokağa çıkacak” diyen ve bu yüzden belli kesimce halkı kışkırtmaya çalıştığı iddia edilen kişi. <br/><br/>benim anlamadığım barışçıl eylem ve protestolar bireylerin yasal hakkı değil mi? yani kırmadan, dökmeden, cana ve mala zarar vermeden haksızlıklara karşı tepki göstermek, ses duyurmak. portakal konuşmasında kimsenin bu yasal hakkını kullanmaya artık cesaret edemediğini çünkü fiziksel zarar görmekten, hapsedilmekten, mimlenmekten korktuğunu söylemiş. bu konuşmanın tam olarak neresinde halkı kışkırtıyor, hangi cümleden bu sonucu çıkartmışlar anlamak mümkün değil.
   entry_channels: siyaset,tv,haber
@@ -86,7 +94,7 @@ data:
     plüton'un gezegenlikten çıkarılmasının asıl sebebi
   entry_id:  84480026
   entry_writer: xenraiken
-  entry_fav_count: 160
+  entry_fav_count: 161
   entry_content: |
     güneş sistemi yıllık aidatını kendi yılına göre ödemek istemesi.
   entry_channels: anket,bilim
@@ -94,10 +102,18 @@ data:
     17 aralık 2018 fatih portakal ile fox ana haber
   entry_id:  84483741
   entry_writer: attilanin yigit komutani altar
-  entry_fav_count: 149
+  entry_fav_count: 156
   entry_content: |
     çok yerinde bir karar vererek, akp'nin prim yapmasına izin vermemiştir. ekonomi gibi büyük sorunlarımız var diyerek gündemi değiştirtmedi. kendisini tebrik ediyorum.
   entry_channels: siyaset,tv,haber
+- entry_name: |
+    ilk türk uzay mekiğinin olmazsa olmazı
+  entry_id:  84471391
+  entry_writer: raca83
+  entry_fav_count: 154
+  entry_content: |
+    arka camda osmanlı tuğrası.
+  entry_channels: anket
 - entry_name: |
     17 aralık 2018 uefa avrupa ligi kura çekimi
   entry_id:  84463052
@@ -110,34 +126,26 @@ data:
     sıçtık kelimesinin pc oyunlarındaki terminolojisi
   entry_id:  84462539
   entry_writer: soapmctavish
-  entry_fav_count: 139
+  entry_fav_count: 140
   entry_content: |
     (bkz: <a class="b" href="/?q=united+states+joined+allies">united states joined allies</a>)<br/><br/>(bkz: <a class="b" href="/?q=hearts+of+iron+4">hearts of iron 4</a>)
   entry_channels: anket,oyun
 - entry_name: |
-    murat özdemir'in kuşa işkence yapması
-  entry_id:  84486232
-  entry_writer: cayindunyasi
-  entry_fav_count: 136
+    17 aralık 2018 fenerbahçe bb erzurumspor maçı
+  entry_id:  84457234
+  entry_writer: siz cok seysiniz sanki
+  entry_fav_count: 131
   entry_content: |
-    artık iş çığrından çıktı. gerekli yerlere şikayet edilmelidir, bu hareketin hiçbir açıklaması olamaz. kuş bağırdıkça içim cız etti, bu kadar gaddar nasıl olunabilir anlayamıyorum.
-  entry_channels: haber
+    - bak dur şimdi, ekşi'ye log in olucam. aklımda komik bir espri var, bunu kesin yazmam lazım:<br/><br/>"kümede kalma savaşı veren iki denk takımın mücadelesi."<br/><br/>- audgahsjs :d :d uraaa ne komik adamım. benden komiği yok. harbi zımba gibi fişek gibi bir şeyim.
+  entry_channels: spor
 - entry_name: |
     ak parti'ye olan desteğin azalmasının sebepleri
   entry_id:  84475841
   entry_writer: tovbebismillah
-  entry_fav_count: 125
+  entry_fav_count: 127
   entry_content: |
     hiç de azaldığı yok. aksine artıyor. mesela ben bu seçimde kendilerine oy vermeye karar verdim. şu "ağlayan çomar" videolarını gördükçe de kararım daha da kesinleşiyor. bunların ağzına akp'den daha iyi kimse zıçamaz!
   entry_channels: siyaset,anket
-- entry_name: |
-    17 aralık 2018 fenerbahçe bb erzurumspor maçı
-  entry_id:  84457234
-  entry_writer: siz cok seysiniz sanki
-  entry_fav_count: 125
-  entry_content: |
-    - bak dur şimdi, ekşi'ye log in olucam. aklımda komik bir espri var, bunu kesin yazmam lazım:<br/><br/>"kümede kalma savaşı veren iki denk takımın mücadelesi."<br/><br/>- audgahsjs :d :d uraaa ne komik adamım. benden komiği yok. harbi zımba gibi fişek gibi bir şeyim.
-  entry_channels: spor
 - entry_name: |
     viskinin berbat bir içki olması
   entry_id:  84455890
@@ -150,15 +158,23 @@ data:
     şahan gökbakar'ın çilek paylaşımı
   entry_id:  84485727
   entry_writer: gkb
-  entry_fav_count: 103
+  entry_fav_count: 112
   entry_content: |
     diktatörlüklerde adamı böyle manava çevirirler.
   entry_channels: magazin
 - entry_name: |
+    17 aralık 2018 fenerbahçe'nin şahlanışı
+  entry_id:  84486953
+  entry_writer: kebap seven unicorn
+  entry_fav_count: 101
+  entry_content: |
+    tam şahlanıcam, bi gülme tutuyor.
+  entry_channels: spor
+- entry_name: |
     piyangodan büyük ikramiye kazanılırsa yapılacaklar
   entry_id:  84455988
   entry_writer: margaritaville
-  entry_fav_count: 97
+  entry_fav_count: 99
   entry_content: |
     evler;<br/><br/><a class="b" href="/?q=lake+tahoe">lake tahoe</a>'da, göle kıyısı ve iskelesi olan ev. <br/>$5,000,000 / 26,500,000tl<br/><br/>new york ve londra'da aşırı lüks olmayan fakat iş görür birer condo. <br/><br/>toplam $2,500,000 / 13,250,000tl<br/><br/>zekeriyaköy ya da acarkent'den bir adet villa.<br/>$2,000,000 / 10,500,000tl<br/><br/>marmaris <a class="b" href="/?q=orhaniye">orhaniye</a>'de ev yapmak üzere arsa ve tek katlı evin yapımı.<br/>toplam 1,500,000tl<br/><br/>evler toplamı: 52,000,000tl<br/><br/>araçlar;<br/><br/>nevada için:<br/><br/><a class="b" href="/?q=lexus+lx+570">lexus lx 570</a> <br/>$92,000 / 500,000tl<br/><br/><a class="b" href="/?q=chevrolet+corvette+stingray">chevrolet corvette stingray</a><br/>$65,000 / 350,000tl<br/><br/>ny ve londraya araç lazım değil.<br/><br/>istanbul için;<br/><br/><a class="b" href="/?q=toyota+land+cruiser+prado">toyota land cruiser prado</a> <br/>950,000tl<br/><br/><a class="b" href="/?q=alfa+romeo+giulia+quadrifoglio">alfa romeo giulia quadrifoglio</a><br/>1,200,000tl<br/><br/>marmaris için;<br/><br/><a class="b" href="/?q=subaru+forester+xt">subaru forester xt</a><br/>300,000tl<br/><br/>araçlar toplam: 3,300,000tl<br/><br/>ev ve arabalar toplam;<br/><br/>55,000,000tl<br/><br/>geriye kalan 15,000,000tl yani $2,800,000.<br/><br/>$2,000,000 abd'de yılda net %10 gelir getirecek bir işe yatırılır. orada aylık $17,000 sabit.<br/><br/>kalan $800k, 4,250,000tl olarak mevduata yatırılır.<br/>%22 den aylık net gelir 65,000tl.<br/><br/>saçmasapan hobiler edinilir, belli aralıklarla evler gezilir, hayır işleri yapılır, şampiyonlar ligi maçları stadda izlenir...
   entry_channels: anket,ekonomi
@@ -174,7 +190,7 @@ data:
     türkiye'de en itici insanların bulunduğu şehir
   entry_id:  84456337
   entry_writer: kennedy ittifak
-  entry_fav_count: 72
+  entry_fav_count: 73
   entry_content: |
     açık ara trabzon. fetheden padişahın amk.
   entry_channels: anket
@@ -182,42 +198,50 @@ data:
     tecavüz bizim hakkımız
   entry_id:  84481677
   entry_writer: khikari
-  entry_fav_count: 68
+  entry_fav_count: 70
   entry_content: |
     haklıdır.<br/>ne tipine ne mesleğine ne yaşına bakmadan bunun gibi gerizekalı insanların hayatlarını sikmemiz gerekmektedir.
   entry_channels: haber
 - entry_name: |
-    ersun yanal
-  entry_id:  84455993
-  entry_writer: hunharca kelimesinin yasattigi tatmin
-  entry_fav_count: 59
-  entry_content: |
-    herkes bir ton yorum yaptı. ne başarısı var dediler fenerde. tek şampiyonluk efsane olmaya yetmez dediler.<br/><br/>ersun yanal hocamız fenerbahçe efsanesi değildir evet. fakat şöyle düşün sayın sözlükcu;<br/><br/>fatih terim gs'ye gelmiş, ilk senesi. temiz bi şampiyonluk almış. ama gönderilmiş. şimdi hemen burda tarihi farklı işlet kafanda. yabancı dizilerdeki gibi düşün bak. terim ilk senesinde şampiyon yapmasına rağmen kovulmuş. gs diğer 3 sene şampiyon olmamış. uefa kupasını almamış. süper kupayı almamış. o yıldan 2018'e kadar gs 3 4 şampiyonluk almış arada da 6 7 kez ikinci olmuş. ey gs'li mesela sen bunu derinden hisset. hayal et. için acımaz mi? canın yanmaz mi? <br/>ey beşiktaşlı! son 3 senenin ikisinde sen şampiyondun. gecen sene cl'de tertemiz namağlup gruptan çıktın. 14 puan aldin. senol güneş ilk senesinde şampiyon olmuş sonra kovulmuş, bjk ertesi sene ligi 3. bitirmiş cl ye de girmemis, uefa da gruplarda 3. olup sezonları oyle kapamış diye düşün. için yandı mi?<br/><br/>ersun yanal'in da zico'nun da elinden bu firsat alındı, çalındı. biz niye ersun'u istiyoruz? bize sayısız şampiyonluklar kazandırdı diye mi? biz bu kadar mal mıyız sizce? adamim bizimle tek şampiyonluğu olduğunu bilmiyor muyuz? ama tek denemesinde oldu bu biliyor musun? <br/><br/>belki bu gelişinde başarılı olamaz. bilemeyiz. ama bizim bunu denememiz lazım. görmemiz lazım. bu güzel insan o şansı hak ediyo. gs yönetimi bi salaklık yapip gs'nin en efsane basarilarina engel olmadı. uefa kupasi alındı. ama biz daum, zico ve ersun'u harcadık. tekrar denemek istememizi nasil anlamıyorsunuz hayret ediyorum. <br/><br/>yarim kalmış bi hikayemiz var. belki mutlu sonla bitmeyebilir. türlü yalanlarla sevgilimizden ayrılmış gibiyiz. şimdi tekrar kavuştuk. ve sevgili iken mutlu idik. <br/><br/>ersun yanal bizim mutluluğu tekrar deneme sansimizdir. hosgelmistir. başımızın üstünde yeri vardır. <br/><br/>ilişkimiz hakkinda bilmeden ileri geri konuşmayı kesin artik. <br/><br/>bu adam ne şöhretli bir futbolcu idi ne de siyasi bağları vardi.kendi ismini kendisi yarattı. bizim bu bunu yaşamamız lazim.kendisini çok seviyor cok güveniyoruz.
-  entry_channels: spor
-- entry_name: |
     sevgilisinin çıplak fotoğraflarını ifşalayan kız
   entry_id:  84486001
   entry_writer: trablon
-  entry_fav_count: 57
+  entry_fav_count: 62
   entry_content: |
     aramızda çıplak erkek capsları isteyenlerin bulunduğu başlıktır.
   entry_channels: ilişkiler
 - entry_name: |
+    ersun yanal
+  entry_id:  84455993
+  entry_writer: hunharca kelimesinin yasattigi tatmin
+  entry_fav_count: 62
+  entry_content: |
+    herkes bir ton yorum yaptı. ne başarısı var dediler fenerde. tek şampiyonluk efsane olmaya yetmez dediler.<br/><br/>ersun yanal hocamız fenerbahçe efsanesi değildir evet. fakat şöyle düşün sayın sözlükcu;<br/><br/>fatih terim gs'ye gelmiş, ilk senesi. temiz bi şampiyonluk almış. ama gönderilmiş. şimdi hemen burda tarihi farklı işlet kafanda. yabancı dizilerdeki gibi düşün bak. terim ilk senesinde şampiyon yapmasına rağmen kovulmuş. gs diğer 3 sene şampiyon olmamış. uefa kupasını almamış. süper kupayı almamış. o yıldan 2018'e kadar gs 3 4 şampiyonluk almış arada da 6 7 kez ikinci olmuş. ey gs'li mesela sen bunu derinden hisset. hayal et. için acımaz mi? canın yanmaz mi? <br/>ey beşiktaşlı! son 3 senenin ikisinde sen şampiyondun. gecen sene cl'de tertemiz namağlup gruptan çıktın. 14 puan aldin. senol güneş ilk senesinde şampiyon olmuş sonra kovulmuş, bjk ertesi sene ligi 3. bitirmiş cl ye de girmemis, uefa da gruplarda 3. olup sezonları oyle kapamış diye düşün. için yandı mi?<br/><br/>ersun yanal'in da zico'nun da elinden bu firsat alındı, çalındı. biz niye ersun'u istiyoruz? bize sayısız şampiyonluklar kazandırdı diye mi? biz bu kadar mal mıyız sizce? adamim bizimle tek şampiyonluğu olduğunu bilmiyor muyuz? ama tek denemesinde oldu bu biliyor musun? <br/><br/>belki bu gelişinde başarılı olamaz. bilemeyiz. ama bizim bunu denememiz lazım. görmemiz lazım. bu güzel insan o şansı hak ediyo. gs yönetimi bi salaklık yapip gs'nin en efsane basarilarina engel olmadı. uefa kupasi alındı. ama biz daum, zico ve ersun'u harcadık. tekrar denemek istememizi nasil anlamıyorsunuz hayret ediyorum. <br/><br/>yarim kalmış bi hikayemiz var. belki mutlu sonla bitmeyebilir. türlü yalanlarla sevgilimizden ayrılmış gibiyiz. şimdi tekrar kavuştuk. ve sevgili iken mutlu idik. <br/><br/>ersun yanal bizim mutluluğu tekrar deneme sansimizdir. hosgelmistir. başımızın üstünde yeri vardır. <br/><br/>ilişkimiz hakkinda bilmeden ileri geri konuşmayı kesin artik. <br/><br/>bu adam ne şöhretli bir futbolcu idi ne de siyasi bağları vardi.kendi ismini kendisi yarattı. bizim bu bunu yaşamamız lazim.kendisini çok seviyor cok güveniyoruz.
+  entry_channels: spor
+- entry_name: |
+    erkekte en önemli kas grubu
+  entry_id:  84478381
+  entry_writer: i hate you all
+  entry_fav_count: 48
+  entry_content: |
+    yüksek limitli kredi kartı kasıdır.<br/><br/>diğer tüm kaslardaki güçsüzlüğü kapatır, göbekli, kıllı piknik tüpü gibi adamları, antik yunan tanrısı gibi gösterir.<br/><br/>bir de önemli olan karakter yeaa, kası var, onu da şirin bulan kızlar varmış.
+  entry_channels: sağlık
+- entry_name: |
     doğumdan hemen sonra zorunlu dna testi
   entry_id:  84479178
   entry_writer: mr biceps
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     herkes tutturmus bir guven muhabbeti gidiyor. cocugun erkegin cocugu oldugu ortaya cikinca neden guven sarsiliyor evlilik yara aliyor onu anlamiyorum. <br/>kadinlarin ekseriyetinin tepki gostermesi ise ayri facia. <br/>aldatilan erkegin yillarca baskasinin cocuguna bakmasi cok mu hos? <br/>kadina birsey olmasinda gerisi onemli degil degil mi?
   entry_channels: sağlık
 - entry_name: |
-    17 aralık 2018 fenerbahçe'nin şahlanışı
-  entry_id:  84486953
-  entry_writer: kebap seven unicorn
-  entry_fav_count: 35
+    ortalama bir ömre sığdırılabilecek en güzel şey
+  entry_id:  84470189
+  entry_writer: guilty
+  entry_fav_count: 40
   entry_content: |
-    tam şahlanıcam, bi gülme tutuyor.
-  entry_channels: spor
+    mevlana diyor ki arka bahçene bak, orada ne varsa dünyada da o var. başka bir şey yok. boşuna uzaklarda arama cevapları, sadece etrafına bak. ne görüyorsan o var her yerde. kainatın içinde damla var, damlanın içinde de kainat. tek bir kozalağı anlarsan tüm evreni anlamışsın demektir.<br/><br/>arka bahçeme bakıyorum. binlerce liralık arabalar süren sefiller var. o arabaların hayaliyle tüm zamanını yiyen gafiller var. milyonlarca liralık evler ve o evlerde oturan reziller var. tüm gençliğini, vaktini, enerjisini parlak olanın peşinde çarçur eden basiretsizler var. sürekli daha fazlasını isteyen, ne istediğini bile bilmeyen ahmaklar var. istediğini yapmaya kafayı takmış fakat istediğini isteyemeyen çapsızlar var.<br/><br/>maskaralar, madrabazlar, şarlatanlar, soytarılar, hokkabazlar var. ve bunların peşinden sürüklenen madaralar, derbederler, paspallar, pespayeler var. pejmürde ve pasaklı ruhlar var. savsak, sakil, sallapati hayatlar var. hoyrat, kaba, nadan, nobran adamlar ve kadınlar var.<br/><br/>yine etrafımda birkaç yüz lira için önce tüm gününü, sonra tüm haftasını, ayını, yıllarını, hayatını çürüten garibanlar var. milyonluk arabaların arasında bir parça yiyecek peşinde koşan üşümüş sokak kedileri var. bir anlık zevk için alınmış, kulakları kuyrukları ruhları kesilmiş, milyonluk evlerden kovulmuş zavallı köpekler var. yola sarkıyor diye kolları kesilmiş ağaçlar var. kıtipiyoz ergenlerin bir anlık hevesle havaya saldığı fenerlere yakalanıp da ölmüş gitmiş baykuşlar, kerkenezler var. delinmiş, ezilmiş, incinmiş ruhlar var. kediyi, köpeği, ağacı, kuşu sevmeyi öğretmeyen eğitim kurumları var. o eğitim kurumlarında sakat bırakılmış binlerce zihin var.<br/><br/>nafile işler peşinde koşarken yavrusuyla vakit geçiremeyen anne babalar var. sevmeyi, dokunmayı, görmeyi, işitmeyi bilmeyen nesiller var. kenafir ağızlarından irin saçan sözde bilgeler, liderler, rol modeller var. saygı, gurur, haysiyet ardına gizlenmiş cibiliyetsiz, karaktersizler var. asil kisvesinde soysuzlar var. barışçı geçinen şirretler, yellozlar var.<br/><br/>ve tüm bunlar tam bu anda ve burada değillermiş gibi konu "ömür" olunca birden "aile, sevgi, evlat, doğa..." diyerek nasırlaşmış vicdanlarını ıslatmaya çalışan kayıp insancıklar var. hamlığına, çiğliğine, olmamışlığına derman, çare, deva bekleyen arsızlar var.<br/><br/>ayık olun arkadaşlar. beklemeyin. aldanmayın. kanmayın. etrafınızda ne varsa dünyada da o var. kendinizi düzeltin, arka bahçenizi düzeltin.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     the protector (dizi)
   entry_id:  84456792
@@ -227,6 +251,22 @@ data:
     spoiler sayılmaz<br/>hakan:(elindeki kağıda bakar)<br/>arapça yazıyor, ben...<br/><br/>zeynep:<br/>arapça değil, bu osmanlıca.<br/><br/>h:<br/>ee? ne diyor?<br/><br/>z:<br/>2357. şifre.<br/><br/>arapça rakamlar vardır kâğıtta. rakamlarda arapça ve osmanlıca diye bir ayrım olmadığını bilmeyecek kadar meseleye hakim diziyi yapanlar...
   entry_channels: tv,spoiler
 - entry_name: |
+    ersun yanal istifa
+  entry_id:  84490309
+  entry_writer: dunya kupasina sarilan dede
+  entry_fav_count: 32
+  entry_content: |
+    siktir git bu takımdan yeter artık!!!
+  entry_channels: spor
+- entry_name: |
+    17 aralık 2013 ihale ve rüşvet operasyonu
+  entry_id:  84456878
+  entry_writer: quat
+  entry_fav_count: 25
+  entry_content: |
+    sonunda milletin a..koymaya and içenlerin kazandığı operasyon. nasılsanız öyle yönetilirsiniz. <br/><br/>algı kasanlara inat belirtmekte fayda var "rüşvet alan ve ihaleye fesat karıştıranlara yönelik operasyondur.<br/>muhalefetin desteğini almak için fetöcüler yaptı ergenekon davasını açanlar yaptı demek boşa algı kasmaktır. sonunda 4 bakan yolsuzluğa bulaştıkları şüphesi ile görevden alınmış. bir tanesi ne yaptıysam rte nin emriyle yaptım demiştir.
+  entry_channels: siyaset,tarih,haber,ekonomi
+- entry_name: |
     libido düşürme yöntemleri
   entry_id:  84480899
   entry_writer: taksi kime
@@ -235,37 +275,29 @@ data:
     (bkz: <a class="b" href="/?q=evlenmek">evlenmek</a>)<br/>üstüne tanımam
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    17 aralık 2013 ihale ve rüşvet operasyonu
-  entry_id:  84456878
-  entry_writer: quat
-  entry_fav_count: 22
-  entry_content: |
-    sonunda milletin a..koymaya and içenlerin kazandığı operasyon. nasılsanız öyle yönetilirsiniz. <br/><br/>algı kasanlara inat belirtmekte fayda var "rüşvet alan ve ihaleye fesat karıştıranlara yönelik operasyondur.<br/>muhalefetin desteğini almak için fetöcüler yaptı ergenekon davasını açanlar yaptı demek boşa algı kasmaktır. sonunda 4 bakan yolsuzluğa bulaştıkları şüphesi ile görevden alınmış. bir tanesi ne yaptıysam rte nin emriyle yaptım demiştir.
-  entry_channels: siyaset,tarih,haber,ekonomi
-- entry_name: |
     bir kadının en güzel bölgesi
   entry_id:  84474789
   entry_writer: kafirullah hazretleri
-  entry_fav_count: 19
+  entry_fav_count: 23
   entry_content: |
     romantiğim’ciler için; eller, saçlar, gamzeler, gözler, dudaklar...<br/><br/>iyi sevişirim’ciler için; kulak memesi, göğüs ucu, ayak bileği, sırt...<br/><br/>ben farklıyım’cılar için; bacak içi, kulak arkası, ense, avuç içi...<br/><br/>ben saykoyum’cular için; omuzlar, alt bacaklar, bel, boyun... <br/><br/>kadın ruhundan anlarım’cılar için; gülüşler, cümleler, bakışlar.... <br/><br/>güzelliğe önem vermem’ciler için; fikirler, düşünceler, algılar...<br/><br/>sevişirken bile ağlarım’cılar için; el bilekleri, gamze çukurları, kirpikler...<br/><br/>aşırı hijyeniğim’ciler için; diş taşları, tırnak araları, kokukar. <br/><br/>fit adamım ben’ciler için; karın, basenler, kalça... <br/><br/>seks benim için ikinci plandadır’cılar için; bel kıvrımı, göğüs altı, omuz...<br/><br/>bu liste böyle uzar gider; ancak ben yoruldum.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    fenerbahçe
+  entry_id:  84489993
+  entry_writer: proust
+  entry_fav_count: 22
+  entry_content: |
+    abdurrahim albayrak fenerli olsa şimdiye çoktan ölmüştü amk.
+  entry_channels: spor
+- entry_name: |
     korelilerin sadelikte zirve yapan düğün fotoları
   entry_id:  84484960
   entry_writer: panpatube
-  entry_fav_count: 18
+  entry_fav_count: 21
   entry_content: |
     fotoğrafların güzel olduğu kadar, kare içerisindeki insanların da çok güzel olduğu düğün fotoğraflarıdır. hem de çok asil görünüyorlar. <br/><br/>bizde de <a rel="nofollow noopener" class="url" target="_blank" href="https://iasbh.tmgrup.com.tr/2876b7/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/yasam/komik_dugun_fotograflari/035.jpg&amp;mw=752&amp;mh=700" title="https://iasbh.tmgrup.com.tr/2876b7/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/yasam/komik_dugun_fotograflari/035.jpg&amp;mw=752&amp;mh=700">şöyle</a> varyantları mevcut. maalesef.
   entry_channels: ilişkiler
-- entry_name: |
-    loris karius
-  entry_id:  84465901
-  entry_writer: amigdalasiz adam
-  entry_fav_count: 16
-  entry_content: |
-    tesislerde yemeklerine şap atılarak formunu yükseltebileceğimiz kaleci.
-  entry_channels: spor
 - entry_name: |
     eski sevgilinin mutlu olmasını istemek
   entry_id:  84471399
@@ -275,13 +307,13 @@ data:
     eski sevgilim umrumda değil de, benden sonra evlendiği kadının (ki tanıyordum evvelden kızı) mutlu olmasini isteyerek aralarina katıldığım grup.<br/><br/>ölümcül bir hastalık çıktı kızda. annesini de ayni hastalıktan kaybetmişti.<br/>çocukları ufak, içim paralandi haberi aldigimda. gencecik kadın, eteğinde minicik bebe...<br/><br/>umarım çok mutlu olmasının yaninda huzurla ve sağlıkla yener hastalığı... <br/><br/>herkes mutlu olsun, sağlıklı ve iyi olsun ya. valla diyorum. ölüm var, gerisi yalan.<br/>kıçı kirik kuyruk acilarimizdan çok daha agir şeyler var hayatta.. maalesef var
   entry_channels: ilişkiler
 - entry_name: |
-    türkiye'nin en yobaz şehri
-  entry_id:  84456363
-  entry_writer: kargakargagaakdedi
+    regl izni
+  entry_id:  84473809
+  entry_writer: sincap bey
   entry_fav_count: 14
   entry_content: |
-    bence erkeklerin doğru değerlendirme yapabileceği bir başlık değil bu ve nitekim yapamamışlar da. en yobaz iller gündüz saatlerinde bile kadınların görünmediği ve farklılıklara tahammülün sıfır olduğu illerdir.<br/><br/>bu anlamda ne trabzon, ne sakarya, ne kocaeli (hele buna çok gülüyorum), ne afyon, ne konya ve hatta ne sivas ve de kayseri bu tanımlara uyar. erzurum'da ilkokul biri okudum ve son durumunu bilmiyorum ama atatürk üniversitesi çok köklü bir üniversite olduğu için, belki az sonra bahsedeceğim illerin bir tık ilerisinde olabilir. yalnız atatürk üniversitesi öğrencilerinin şehre takılmadığı söyleniyor. eğer kampüs kendine yetiyorsa ve şehirden uzak inşa edilirse, o kentin gelişimine bir katkısı olmuyor. cumhuriyet ve erciyes için de aynısını duydum. oysa örneğin sakarya üniversitesi'nden merkezi bir yere dolmuşla 7 dk'da inersin ve kafelerinde, yeşil saçlı hızmalı erkek öğrenciden, turuncu saçlı göbeği açık, poposunun altında şort giymiş kadın öğrenciye pek çok farklı tipte insan görürsün. <br/><br/>sivas, kayseri, konya, trabzon'da nispeten köklü üniversiteleri ile bu sıralamaya girmez. bu şehirler az da olsa kadının sokaktaki varlığına alışmıştır çünkü. kocaeli ve sakarya istanbul'un dibinde ve evet minili, askılı gezen kadın azdır ama sokaklarında ve kafelerinde kadınlar cirit atar. afyon'dan sürekli geçiyorum ve hem uğrak noktası olmasından, hem de yapılan yatırımlardan dolayı o kadar yobaz ve geri kalmış bir il olduğunu düşünmüyorum. yine bu şehrin sokaklarında kadınların olduğunu gözlemledim.<br/><br/>mardin'de görev yapan ve doğu ile güneydoğu anadolu' da bulunan pek çok kenti gezen öğretmen kardeşime göre bir numarada bitlis, iki numarada muş bulunmaktadır. bitlis'te kadın öğretmenlere bayağı uzaylı muamelesi yapılmış. başka bir kadın arkadaşım ise ağrı' da görev yapan ablası sayesinde orayı sık sık ziyaret etti ve yine şehrin sokaklarında hiç kadın bulunmadığını söyledi. bayburt için de aynı şey söyleniyor. <br/><br/>yozgat'ı ise farabi programı ile gelen öğrencilerim sayesinde biliyorum ve şehre dair anlattıkları hikayeler gerçekten çok ürkütücü. ben bu şehrin sözlükte abartılı bir şekilde gömüldüğünü ve tokat, çorum, çankırı gibi illerden çok da farkının olmadığını düşünüyordum ama anlatılanları duyunca, yozgat'ın gömülmesine hak verdim.<br/><br/>bir şekilde kimsenin yolunun düşmediği, ekonomik ve kültürel hicbir yatırımın yapılmadığı, turizm konusunda hiçbir albenisi olmayan, kendi içine en kapalı olan iller en yobaz olanlarıdır. erzurum ipek yolunun önemli merkezlerinden biri iken son derece zengin, kozmopolit ve gelişmiş bir şehirmiş. ne zamanki ipek yolu önemini yitirmiş ve kimse uğramamış, şehir yobazlaşmaya başlamış.<br/><br/>rize ve trabzon'lular kızacak ama bu illerde yobaz oranı fazla ve en yobaz örneklerini de, sakarya, kocaeli ve istanbul'un beykoz ilçesine göç olarak vermişler. bir haftasonu beykoz pazarını gezdiğimde kendimi adıyaman'da sanmıştım. bu yobazlığın nedenini de nüfusun genelinin rum dönmesi olmasına bağlanıyor ki, kabul görmek için dinin en katı yorumunu tercih etmeleri bunu doğruluyor.<br/><br/>görenler adıyaman, maraş ve kilis için de yobaz diyorlar. bunlar da geri kalmış, üniversiteleri son derece dandik olan şehirler. <br/><br/>o yüzden bitlis, muş, yozgat, adıyaman, rize, bayburt, ağrı, kilis, erzurum gibi şehirler varken diğerlerine haksızlık edildiğini düşünüyorum. kocaeli ve sakarya'da ben takılacak yüzlerce kafe bulurum. hatta her ikisinde de az da olsa içkili mekan var. onu bırak sapanca ve kırkpınar ikisinin ortasında ve çok fazla düzgün mekan var. özellikle kırkpınar türkiye şartlarına göre epey avrupai bir kasaba ve kendisinde istanbul'un sosyetesi ikamet etmektedir. ayrıca bu illerden kadıköy'e ulaşım da iki saat. siz bana bekar bir kadın olarak, bitlis, yozgat, bayburt ya da muş'ta ne yapacağımdan haber verin gençler. ankara'nın doğusuna <br/>hiç mi gitmediniz, yoksa sadece kendi başınıza gelen olayı tüm şehre genelleyecek kadar sığ mısınız bilemedim?<br/><br/>edit: sokaklarda kadınların görünürlüğü ile kastım, sadece dışarıda yürüyen kadınlar görmek demek değil. bu kadınlar tek başına çeşitli mekanlarda özellikle de erkeklerle beraber sosyalleşebiliyor mu, yemek yiyebiliyor mu falan fıstık demek? daha doğrusu bahsettiğim şehirlerde pavyon dışında kadın ve erkeğin beraber sosyalleşebildiği mekanlar var mı?
-  entry_channels: siyaset,anket
+    tatlı su feministlerinin ayrıcalık isteği. neymiş, erkekler yaşamadığından kadınların bu hakkı elde etmesi adilmiş. ben daha “erkekler koskoca 1 yılını devlete askerlik yaparak harcamış, ayda 1-2şer gün izin vererek bunun geri ödemesini onlara yapalım” diyen görmedim. <br/><br/>kadınların işine geliyorsa eşitlik, işine gelmiyorsa sessizlik. feminizm çok güzel bir şey valla.
+  entry_channels: sağlık,haber,ekonomi
 - entry_name: |
     ekşi itiraf
   entry_id:  84455974
@@ -291,29 +323,13 @@ data:
     hayatlarımızda hep bir şeylere geç kalıyoruz. <br/>ama bunlardan en kötüsü 'kendine' geç kalmak. <br/>ve evet ben kendime geç kaldım...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    regl izni
-  entry_id:  84473809
-  entry_writer: sincap bey
-  entry_fav_count: 13
-  entry_content: |
-    tatlı su feministlerinin ayrıcalık isteği. neymiş, erkekler yaşamadığından kadınların bu hakkı elde etmesi adilmiş. ben daha “erkekler koskoca 1 yılını devlete askerlik yaparak harcamış, ayda 1-2şer gün izin vererek bunun geri ödemesini onlara yapalım” diyen görmedim. <br/><br/>kadınların işine geliyorsa eşitlik, işine gelmiyorsa sessizlik. feminizm çok güzel bir şey valla.
-  entry_channels: sağlık,haber,ekonomi
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id:  84460356
-  entry_writer: kac yasina gelmisin nelerle ugrasiyorsun
-  entry_fav_count: 11
-  entry_content: |
-    dün bilmem neredeki bir bahçe açılışında halkını ölümle tehdit etmiş kişidir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-2262982" title="https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-2262982">https://www.haberturk.com/…-dan-aciklamalar-2262982</a><br/><br/>demek istediği daha ne kadar açık olabilir ki? "fransa'da, hollanda'da vatandaşların rahatsızlıklarına göz yumulmaz, onlara zarar vermeye çalışılmaz, sorunları çözülmeye çalışılır ama burada biz adamı tutup keseriz"'den başka bir anlam çıkarabilen var mı bu söylemden? vatandaşların bir şeylerden rahatsız olma, protesto etme hakkının bile olmadığını ima edip protestoya kalkışanları ölümle tehdit etmek ne demektir? ayrıca anlamadığım konu ise bu kadar keskin ve tehditkar bir söylemin nasıl hiç konuşulmamış, tartışılmamış olduğu. esasında <a class="b" href="/?q=buras%c4%b1+paris+de%c4%9fil+buras%c4%b1+hollanda+da+de%c4%9fil">burası paris değil burası hollanda da değil</a> diye bir başlık var ama içi boş, herhalde yine sözlükte bir sansür oyunları var, dur bakalım.
-  entry_channels: siyaset,tarih,haber
-- entry_name: |
-    fenerbahçe
-  entry_id:  84489993
-  entry_writer: proust
+    polonya'da askeri eğitim alan taş hatun
+  entry_id:  84487718
+  entry_writer: dukkanin ortasinda bagiran kosnuk
   entry_fav_count: 8
   entry_content: |
-    abdurrahim albayrak fenerli olsa şimdiye çoktan ölmüştü amk.
-  entry_channels: spor
+    şunları gördükten sonra bizim ordu'daki kadınlardan biri olan duygu geldi aklıma .<br/><br/>duygu sabahları yüzünü yıkamadan mesaiye gelirdi, eşofman takımını 4 sene giydi, okeye dördüncü olarak çağırırdık ama öldürücü darbe bizim arkadaşın <a class="b" href="/?q=abi+duyguyu+kar%c4%b1ya+m%c4%b1+g%c3%b6t%c3%bcrsek">abi duyguyu karıya mı götürsek</a> lafı oldu.<br/><br/>varın siz hesap edin duygunun nasıl bir kız olduğunu, bak yine durup dururken efkarlandım emenike.
+  entry_channels: haber
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  84458119
@@ -323,13 +339,21 @@ data:
     sizi sözlükten erkek düşürmeye çalışacak kadar çaresiz kılan nedir?
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    meb harekete gecti ve o çocuğa çanta hediye edildi
-  entry_id:  84485543
-  entry_writer: sacmaladi bu yine
+    en güzel kız isimleri
+  entry_id:  84487019
+  entry_writer: eringecadam
+  entry_fav_count: 8
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sabire">sabire</a>)
+  entry_channels: anket,edebiyat
+- entry_name: |
+    tesla'ya yakıt koymaya çalışan kadın
+  entry_id:  84487704
+  entry_writer: illegalstar
   entry_fav_count: 6
   entry_content: |
-    5 liralık çantayı biz de hediye ederdik, sorun çantası olmaması değildi. <br/><br/>sorun, çocuğuna çanta bile alamayacak durumdaki ailelerin çocuk sahibi olması.<br/>sorun, çantası olmadan okula gidip gelen çocuklardan gündeme düşmeden haberdar olamamak.<br/>sorun, imkansızlıkları aramızda para toplayarak çözmeye çalışmamız.<br/>sorun, fırsat eşitsizliği.<br/>sorun, ülkedeki maddi manevi her sorunu kendi aramızda tartışmamız ama hükumetin umurunda olmaması.
-  entry_channels: haber,eğitim
+    "tesla model s'e benzin istasyonundan yakıt almaya çalışan kadın" olacaktı.<br/><br/>bir kadın, 'yakıtı' bitmek üzere olan tesla model s için benzin istasyonunda yakıt doldurmaya çalışıyor ve aracın elektrikli olduğunu fark edemeyen kadın, eğlenceli anlar yaşatmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?time_continue=1&amp;v=Cjib5a587BM" title="https://www.youtube.com/watch?time_continue=1&amp;v=Cjib5a587BM">https://www.youtube.com/…e_continue=1&amp;v=cjib5a587bm</a>
+  entry_channels: 
 - entry_name: |
     sevgili uğruna vazgeçilmeyecek şeyler
   entry_id:  84487807
@@ -339,45 +363,21 @@ data:
     kimse için hiçbir şeyden vazgeçmemek gerekir. bu sizin hayatınız.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    polonya'da askeri eğitim alan taş hatun
-  entry_id:  84487718
-  entry_writer: dukkanin ortasinda bagiran kosnuk
-  entry_fav_count: 5
+    en son gerçekten mutlu hissedilen an
+  entry_id:  84484356
+  entry_writer: hayvanherifler
+  entry_fav_count: 4
   entry_content: |
-    şunları gördükten sonra bizim ordu'daki kadınlardan biri olan duygu geldi aklıma .<br/><br/>duygu sabahları yüzünü yıkamadan mesaiye gelirdi, eşofman takımını 4 sene giydi, okeye dördüncü olarak çağırırdık ama öldürücü darbe bizim arkadaşın <a class="b" href="/?q=abi+duyguyu+kar%c4%b1ya+m%c4%b1+g%c3%b6t%c3%bcrsek">abi duyguyu karıya mı götürsek</a> lafı oldu.<br/><br/>varın siz hesap edin duygunun nasıl bir kız olduğunu, bak yine durup dururken efkarlandım emenike.
-  entry_channels: haber
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/grAbj5.jpg">https://i.hizliresim.com/grabj5.jpg</a><br/><br/>bu sofra kendime..<br/>bugün şirketten çıkmak üzereyken yönetici geldi bizim ekibin yanına. biraz sohbet ettikten sonra benimle özel olarak konuşmak istediğini söyledi. bulunduğum pozisyondan daha iyi bir yerde olmam gerektiğini düşündüklerini ve bunu bana iletmesi gerektiğini söyledi. <br/><br/>çok mutlu oldum. uzun süre sonra bir şeyler konusunda hala başarılı olduğumu bilmek, bazı konularda takdir edilmek katılaşmış yüreğimin üzerindeki o betonu kırdı attı. eve girmeden çocukları annemden alıyorum normalde. aradım annemi, gelmek istemiyorlar dedi. benim eve geçip temizliği, çamaşırı, ütüyü ve çocukların yarınki kek ya da kurabiyelerini yapmam gerekiyordu. ne yiyeceğimi düşündüm dakikalar içinde. balıkçının önünden geçiyordum. gittim kendime bir balık temizlettim. balık böyle yenmez diye yanına bir de 35’lik rakı aldım. dolapta vardı eskiden kalma ama onu içmek istemedim. eve girdim, neyseki ev temizdi. temiz olmasa da umrumda değildi. lavobaya gittim ellerimi yıkamak için, çamaşırlar gözüme ilişti. onları da umursamadım. sonra üstümü değiştirmek için odama yöneldiğimde askıdaki çamaşırlar dikkatimi çekti. toplanıp ütü yapılmayı bekleyen. onlara da eh! dedim geçtim yanlarından. <br/><br/>mutfağa geçtim, balığımı fırına attım. on dakikada iki meze ve salatamı hazırladım. olmazsa olmaz mumlarımı yaktım. müziğimi açtım. bugün yalnızım. uzun süredir kendim için ne bir şey yapmıştım ne de yalnız içmişim. o da umrumda değil.. <br/><br/>bu akşam kendime içeceğim. doya doya.. kendi kendime şarkı söyleyeceğim. deli gibi hareket edeceğim.. <br/><br/>bugün şeref’e bana.. sadece bana..<br/><br/>( bu arada sabah altıda uyanmazsam el atın bir zahmet :p )
+  entry_channels: anket
 - entry_name: |
-    en güzel kız isimleri
-  entry_id:  84487012
-  entry_writer: whattamisstaker
-  entry_fav_count: 3
+    eljif elmas
+  entry_id:  84489133
+  entry_writer: etiyopyaligocmen
+  entry_fav_count: 4
   entry_content: |
-    allah nasip ederse mayıs ayında kavuşacağım kızımın ismi;<br/><br/>(bkz: <a class="b" href="/?q=el%c3%a2">elâ</a>)
-  entry_channels: anket,edebiyat
-- entry_name: |
-    1. ekşi yılbaşı hediyeleşmesi
-  entry_id:  84472171
-  entry_writer: kola basili
-  entry_fav_count: 2
-  entry_content: |
-    yaptigim resimlerden birini hediye edebilirim seven bir arkadasa. <br/><br/>bir de elimde jose saramago'nun ressamin gunlugu kitabi var, iki tane almisim, onu da bir baska arkadasa gonderebilirim.<br/><br/>edit: resim de kitap da sahibini buldu. yeni evlerini severler insallah.
-  entry_channels: ekşi-sözlük
-- entry_name: |
-    sigarayı bırakmak
-  entry_id:  84470862
-  entry_writer: leopold von westfalen
-  entry_fav_count: 1
-  entry_content: |
-    ikinci kez gerceklestirdigim olay.<br/>2 ay 10 gün olmus.<br/><br/>oncekinde 8 ay birakmistim. toplanin taktikleri vereyim;<br/><br/>* birakamiyorum yeaa diye zirvalamayin. ananizin karnindan sigarayla dogmadiniz. normal olan zaten sigara icmemek amk.<br/><br/>*azaltabiliyorsaniz azaltarak birakin, sahsen ben bu yontemi daha acili ve zor buluyorum. olmasi gereken aniden kesmek.<br/><br/>*sigara birakma app‘i kullanin. bu applerde gunden gune vücudunuzda neler oldugu yaziyor. icmediginiz sürede vücudunuzda noldugunu gordugunuzde motivasyonunuz artar, emeginizin karsiligini almis gibi <br/>oluyorsunuz.<br/><br/>*muhalif biriyseniz her sigara aldiginizda hukumetin cebine verginizden para verdiginizi ve dinci cemaatleri desteklediginizi unutmayin.<br/><br/>*bunu kendiniz istemelisiniz. sigara birakma hatti veya nikotin bandi size yardimci olamaz. kisacasi beyinde bitirmelisiniz.<br/><br/>nelerin degistigini gözlemledim söyleyeyim;<br/><br/>*agzimin tadi duzeldi. bunu hemen görüyorsunuz zaten.<br/><br/>*dis etinde kanama varsa duruyor.<br/><br/>*nefes alip verme sikini olmuyor. merdiven ciktiginizda veya agir bir sey tasidiginizda nefes nefese kalmiyorsunuz. (hemen degil tabi, bir süre sonra)<br/><br/>*tad ve koku olayi iyilesmedi. 8 ay biraktigimda da iyilesmemisti.
-  entry_channels: anket,sağlık,yeme-içme
-- entry_name: |
-    masterchef türkiye
-  entry_id:  84479899
-  entry_writer: ws ey
-  entry_fav_count: 1
-  entry_content: |
-    sadece yemek odaklı olup showu bıraksa ve adrenalini ve ilgiyi başka yöne çekse çok daha başarılı ve kaliteli olabilecekken, kavga ve gürültü ile ilgi çekmeye çalışarak yanlış yapan program.
-  entry_channels: tv,yeme-içme
+    birisi şuna şut çekmeyi öğretsin amk. sabri'nin şutları bile bununkinden daha etkiliydi. <br/>sene başındaki benfica maçlarından beri bir gram kendini geliştirmedi.
+  entry_channels: spor
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  84477346
@@ -395,11 +395,11 @@ data:
     (bkz: <a class="b" href="/?q=altered+carbon">altered carbon</a>) ama roman olan.
   entry_channels: anket,bilim
 - entry_name: |
-    17 aralık 2018 ayşen guruda'nın ölümü
-  entry_id:  84488917
-  entry_writer: ay isiginda saklidirr
+    masterchef türkiye
+  entry_id:  84489573
+  entry_writer: mr dodo
   entry_fav_count: 0
   entry_content: |
-    başlığı açıp kaçan trolü hacer'in abileri kovalasın inşallah.
-  entry_channels: sinema
+    her gördüğümde,"esra ne kadar güzel bir kadın" diye içimden geçirten bir yarışmacıyı barındıran yarışma.<br/><br/>bugün hele, pek bir güzel :) maşallah.
+  entry_channels: tv,yeme-içme
 ---
