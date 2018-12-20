@@ -6,15 +6,15 @@ data:
     murat özdemir'in papağanının ölmesi
   entry_id:  84585356
   entry_writer: tunguska11
-  entry_fav_count: 1223
+  entry_fav_count: 1291
   entry_content: |
-    kimse sadece murat delisine küfretmesin.<br/><br/>hepimiz suçluyuz amk o papağanın ölmesinden taner tarlacı ya güldük, nihat doğan’la eğlendik, turabi’yi seyrettik, semih’e güldük, erdi’yi alkışladık, survivor’da nihat doğanla pascal’ın kavgasını bile aylarca konuştuk.<br/><br/>şeyma subaşı gibi bir tip boşandı milli metresimiz deyip kızı ergen kızlara özendirdik.<br/>milyonlarca takipçi kazandırdık rol model yaptık.<br/><br/>öyle ya da böyle bu isimlerden en az 1’ini tanıyoruz hepimiz.<br/><br/>ne kadar kavgacı yaygaracı boş adam varsa konuştuk, güldük troll dedik rating kazandırdık, biz bu vasıfsızlara prim kazandırdıkça cast ajansları böyle arıza tipleri karşımıza daha çok çıkardı...<br/><br/>murat özdemir kafayı yemiş biri,<br/>kimse suçlu değil asıl suçlu biziz.<br/><br/>güzel papağanım bize hakkını helal et eder misin bilmem ama.
+    kimse sadece murat delisine küfretmesin.<br/><br/>hepimiz suçluyuz amk o papağanın ölmesinden taner tarlacı ya güldük, nihat doğan’la eğlendik, turabi’yi seyrettik, semih’e güldük, erdi’yi alkışladık, survivor’da nihat doğanla pascal’ın kavgasını bile aylarca konuştuk.<br/><br/>şeyma subaşı gibi bir tip boşandı milli metresimiz deyip kızı ergen kızlara özendirdik.<br/>milyonlarca takipçi kazandırdık rol model yaptık.<br/><br/>öyle ya da böyle bu isimlerden en az 1’ini tanıyoruz hepimiz.<br/><br/>ne kadar kavgacı yaygaracı boş adam varsa konuştuk, güldük troll dedik rating kazandırdık, biz bu vasıfsızlara prim kazandırdıkça cast ajansları böyle arıza tipleri karşımıza daha çok çıkardı...<br/><br/>murat özdemir kafayı yemiş biri,<br/>kimse suçlu değil asıl suçlu biziz.<br/><br/>güzel papağanım bize hakkını helal et eder misin bilmem ama.<br/><br/>not: 200’ye yakın mesaj aldım destek veren, benim gibi düşünen güzel insanlar hepinize teşekkür ederim.
   entry_channels: haber
 - entry_name: |
     koton'da satılan deve tüyü ceket
   entry_id:  84574412
   entry_writer: pignolo
-  entry_fav_count: 638
+  entry_fav_count: 642
   entry_content: |
     linç hayallerinizi yıkmak istemem ama deve tüyü kelimesi ceketin rengini tanımlamak için kullanılmıştır.
   entry_channels: anket,moda
@@ -22,7 +22,7 @@ data:
     türkler gelirse hepsini yerle bir ederiz
   entry_id:  84576693
   entry_writer: hlksnrr
-  entry_fav_count: 557
+  entry_fav_count: 560
   entry_content: |
     gerçekliği olmayan beyandır.<br/><br/>bugün sınıra 5.000 ankaragüçlü yollasak birleşmiş milletlere başvurur bunlar.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     cinsel sebeplerden dolayı boşanmak
   entry_id:  84569766
   entry_writer: her boktan anlayan adam
-  entry_fav_count: 546
+  entry_fav_count: 553
   entry_content: |
     bu konuda doluyum sözlük. yıllarca flört edersin evlenmeden olmaz derler. evlenirsin yine olmaz. eee evlendik işte dersin. yapmak istemiyorum, müsait değilim, regl oldum, çok yorgunum vs vs.<br/><br/>sonra şunu yapalım buraya gidelim şunu görelim diye taleplerde erkek hep seks düşündüğü için ya konuşmayı duymaz, ya da direkt reddeder. ısrar halinde sesini yükseltir. eğitimsiz bireyler şiddete yönelebilir.<br/><br/>bir süre sonra erkekte zaten tahammül biter. herşeye sinir yapmaya başlar. örnekleyecek olursak sigarayı yeni bırakmış bir insan davranışı alınabilir.<br/><br/>finalde erkek aldatır çünkü toplumda boşanmak daha ayıptır.<br/><br/>aynı durum erkeği yetersiz olan kadınlar içinde geçerlidir. ben sadece erkek gözüyle yazdım. lütfen kadın yazarlarımız linç etmesin.
   entry_channels: ilişkiler,sağlık
@@ -38,7 +38,7 @@ data:
     portakal yiyerek fatih portakal'ı protesto etmek
   entry_id:  84581141
   entry_writer: zankaraz
-  entry_fav_count: 367
+  entry_fav_count: 372
   entry_content: |
     hayret bu sefer bıçaklamamışlar. <br/><br/>işte bunlar hep ekonomik krizin etkileri. demek ki portakallara kıyamadılar ve protesto etmek için yediler şark kurnazları.
   entry_channels: siyaset,haber
@@ -46,7 +46,7 @@ data:
     ak parti'nin oy oranının %34'e düşmesi
   entry_id:  84591021
   entry_writer: kaxx
-  entry_fav_count: 293
+  entry_fav_count: 329
   entry_content: |
     seçim yaklaştıkça muhalefetin müthiş stratejileriyle %42 dolaylarına gelecek olan orandır.
   entry_channels: siyaset,haber
@@ -54,7 +54,7 @@ data:
     20 aralık 2018 thy işe alım rezaleti
   entry_id:  84581324
   entry_writer: lmss
-  entry_fav_count: 272
+  entry_fav_count: 275
   entry_content: |
     ön edit: arkadaşlar genel kanının aksine torpilim olmadığı için alınmadığımı düşünmüyorum. kaldı ki bu süreçte benim gibi sınavlara girerek adilane bir şekilde işe girip eğitime başlayan arkadaşlarım oldu. benim yaşadığım sıkıntı ise firmanın işe alım kriterlerini değiştirirken ilk ilanla 2. ilan arasında kalan adayların mağdur olması/edilmesi durumu.<br/><br/>ülkemizin bayrak taşıyıcı sayılı firmalarından olan türk hava yolları isimli devlet destekli anonim ortaklığı firmasının şahsımla beraber birkaç kişiyi mağdur etmesi durumu rezaletidir.<br/><br/>herşey şubat 2018'de türk hava yolları'nın kendi sitesinde çıkılan ''pilot aday adayı ilanı'' nı görüp başvurmaya karar vermemle başladı. öncelikle elimde halihazırda bulunan ielts general sonucunu kabul etmedikleri için 3 hafta ielts academic modülüne çalışıp istedikleri dil notunu alıp ilana başvurumu gerçekleştirdim. başvurmamdan 1 hafta sonra ise ''artık ielts general modül sonuçlarını da kabul ediyoruz'' şeklindeki açıklamaları ile bi nebze üzülsemde nasip deyip yola devam ettim.<br/><br/>bu süreçte mail ile iletişim kuruluyor ve sınavlara-mülakatlara kısa süre kala(5-6 gün) davet maili tarafımıza ulaşıyordu. ben istanbul'a 1100 km uzaklıkta bir şehirde yaşadığım için her seferinde (boy-kilo ölçümü ve evrak teslimi, dlr1 sınavı, crm mülakatı, kurul mülakatı ve işe alım-sağlık aşaması olmak üzere 5 defa) son dakikada uçak bileti bularak gelip 3 gün konaklayarak dönüyordum. <br/><br/>firmanın pilot aday adayları için şart koştuğu tüm sınav-mülakatları ilk seferde başarı ile tamamlamış işe alım evrakları ile birlikte sağlık testlerini yaptırmak için 13 eylül 2018 tarihinde son kez istanbul'a geldim. thy ve shgm'nin belirlediği hakem hastanenin uçuş hekiminden ''pilot olmasında sakınca yoktur'' onaylı evraklarımı kurum doktorlarından e. ç. isimli bayan doktora uzattığımda testlerin bir kısmının (odyoloji) tekrar yapılması gerektiğini tarafıma belirtti. bunun üzerine ben ''açtığınız ilan sivil havacılık genel müdürlüğü sağlık şartları sağlanmalıdır diyor ve ben bu şartlara uygunum dosyamda yazıyor doktor hanım sıkıntı nedir?'' diye sorduğumda ''testleri yaptırmak istemiyorsan yaptırma. ben seni alıp almamakla yetkiliyim biliyorsun değil mi?'' diyerek halihazırda hakem hastaneden onaylı sağlık dosyam olmasına rağmen beni 2 farklı hakem hastanede test olmaya yolladı (odyoloji). tabii bu arada ben işleri yetiştirmek için uber olsun taksi olsun biniyorum koştura koştura aynı gün içerisinde istanbul trafiğinde evrak yetiştirmeye çalışıyorum. <br/><br/>türk hava yolları firmasının pilot yetiştirmek adına başvurmamız için açtığı ilana başvurup istedikleri gibi her sınava hazırlanarak 8 ay boyunca binbir zorlukla her sınavı-mülakatı ilk seferde geçmeme rağmen sokakta elimde evraklarla hastane arıyordum. mesai bitimine doğru e.ç. isimli kurum doktorunun yönlendirdiği hakem hastanelerden 2 adet ''uçuşa-pilot olmaya uygundur'' raporunu alıp doktora teslim ettim. doktorun ''dosyan kurula girecek sana dönmemiz 10 gün sürer ama çok ümitlenme bence'' yorumuna la havle çekerek gisad-thy yerleşkesinden ayrıldım. <br/><br/>bu olay yaşandıktan 15 gün sonra mail kutuma olumsuz cevabı düştü ve 8 aylık tüm çabalarım-emeklerim trajikomik bir şekilde sonlandı. hatta cimer üzerinden ulaştırma bakanlığına thy'nin tarafımı mağdur etmesi ile ilgili bir şikayet yazdım ama dönen cevap dalga geçer niteliğindeydi. <br/><br/><a class="b" href="/?q=%c3%b6zet+ge%c3%a7mek+gerekirse">özet geçmek gerekirse</a><br/><br/>şubat 2018 tarihinde thy pilot yetiştirmek için ilan açıyor şartların hepsini belirtiyor. ben önceden tüm testlerimi kendi imkanlarımla yaptırıp ilandaki <a class="b" href="/?q=shgm+%c5%9fa%c4%9fl%c4%b1k+%c5%9fartlar%c4%b1">shgm şağlık şartları</a>na uygun olduğumu anlayarak 8 ay boyunca çabalayarak tüm sınavları geçiyorum ve işe alım evrakları imzalamam gerekirken kurum doktorları tarafından garip bir muamele görerek kuralların-şartların o ay(eylülde açtıkları ilan değişmiş) değiştiğini ve artık uygun olmadıklarını öğreniyorum. benim gibi 4-5 kişi mağdur oluyor şikayette bulunuyor ama dalga geçer gibi cevap veriliyor ve ciddiye alınmıyoruz. uluslararası sivil havacılık örgütü <a class="b" href="/?q=icao">icao</a>(amerika) ve sivil havacılık genel merkezi <a class="b" href="/?q=shgm">shgm</a> (türkiye) şartlarına uyulduğu takdirde ben ve benim gibi mağdur olan kişiler çok rahat bir şekilde pilot olabiliyorken saçma bir şekilde adam akıllı bir muhattap-cevap göremeden sürecimiz sonlandırıldı.<br/><br/>mağduriyetin belgesi bazı ekran görüntüleri:<br/><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/d0fa06cc6292" title="https://eksiup.com/d0fa06cc6292">ben başvururken koydukları başvuru ilanı</a><br/><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/438ca30f9402" title="https://eksiup.com/438ca30f9402">ben işe girmek üzere iken değiştirdikleri başvuru ilanı</a><br/><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/bf3867624952" title="https://eksiup.com/bf3867624952">tarafıma gönderilen son olumsuz maili</a> <br/><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/f05047710364" title="https://eksiup.com/f05047710364">cimer şikayetim</a><br/><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/6cd5d4834936" title="https://eksiup.com/6cd5d4834936">cimer cevabı</a><br/><br/>özellikle hukukçu arkadaşlardan mağduriyetimizin giderilmesi, farkındalık yaratılması ve ülkemizin en bilinir havacılık kurumu olan thy'nin bir daha böyle keyfi davranamaması için yol göstermesini ve hukuki olarak destek olmasını rica ediyorum.
   entry_channels: siyaset,haber
@@ -62,7 +62,7 @@ data:
     20 aralık 2018 milli piyango açıklaması
   entry_id:  84587970
   entry_writer: gecegelencis91
-  entry_fav_count: 254
+  entry_fav_count: 258
   entry_content: |
     ”milli piyango heyeti yeni mahalleden bildirdi” olarak sonlanması gereken sıvama açıklaması.
   entry_channels: haber,ekonomi
@@ -70,7 +70,7 @@ data:
     putin'in atatürk yorumu
   entry_id:  84586902
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 237
+  entry_fav_count: 257
   entry_content: |
     sevinçten eve rus çağırdım.<br/>rus ekonomisine katkımız olsun.
   entry_channels: siyaset,tarih,haber
@@ -86,7 +86,7 @@ data:
     ateistlerle mücadele
   entry_id:  84580294
   entry_writer: skumbag
-  entry_fav_count: 200
+  entry_fav_count: 201
   entry_content: |
     saygıya önem verilerek denilen ama ateistlerle bir düşman gibi mücadele edilecek olan başlıktır.<br/><br/>daha ilk soruda klişelerden kaçamamiştir ayrıca.
   entry_channels: 
@@ -94,7 +94,7 @@ data:
     fas'ta 2 iskandinav dağcı kadının öldürülmesi
   entry_id:  84580010
   entry_writer: falcon7
-  entry_fav_count: 172
+  entry_fav_count: 173
   entry_content: |
     isveçten suriyelilere yardıma gelip, aynı suriyeliler tarafından öldürülen kadın ile aynı kökenlerden gelip afrikada yardım ederken tecavüze uğrayan kadınla aynı kadere sahipler.<br/><br/>ya zaten allahın vip kulu olarak doğmuşsun. ülkenden tut kimyana kadar ne işin var başka coğrafyalarda ...
   entry_channels: spor,haber
@@ -102,7 +102,7 @@ data:
     sahtesi olmayan tek duygu
   entry_id:  84571795
   entry_writer: rans46
-  entry_fav_count: 159
+  entry_fav_count: 171
   entry_content: |
     fyodor mihayloviç dostoyevski nefret der. <br/><br/>''nefrete sevgiden fazla güvenirim. çünkü, nefretin sahtesi olmaz!''<br/><br/>suç ve ceza'dan.
   entry_channels: 
@@ -110,34 +110,42 @@ data:
     sezaryen ile doğum fıtratta yok
   entry_id:  84587095
   entry_writer: tovbebismillah
-  entry_fav_count: 141
+  entry_fav_count: 154
   entry_content: |
     (bkz: <a class="b" href="/?q=f%c4%b1tratta+olmayanlar+listesi">fıtratta olmayanlar listesi</a>)<br/><br/>hemen aklıma gelenler:<br/>aşılar<br/>diş dolguları ve protez tedavileri<br/>apandisit ameliyatı<br/>gözlük<br/>kemoterapi<br/>her çeşit görüntüleme teknolojileri<br/><br/>fıtratta ne var ki? deve sidiği ile iki kanadı süte daldırılmış sinek mi?<br/><br/>bi siktirin gidin yaa!
   entry_channels: siyaset,sağlık
 - entry_name: |
-    bizimkilerin boktan bir dizi olması gerçeği
-  entry_id:  84578029
-  entry_writer: renksiz hayat
-  entry_fav_count: 111
+    20 aralık 2018 pkk'nın abd'ye yalvarması
+  entry_id:  84592612
+  entry_writer: dobzhansky
+  entry_fav_count: 137
   entry_content: |
-    (bkz: <a class="b" href="/?q=k%c4%b1rar%c4%b1m+boynuzunu+iblis">kırarım boynuzunu iblis</a>)
-  entry_channels: tv
+    abd bize bahmiir.<br/><br/>tece bizi sikir.
+  entry_channels: siyaset,haber
 - entry_name: |
     türkiye'deki biftek kalınlığı sorunu
   entry_id:  84586248
   entry_writer: deadastronautinspace
-  entry_fav_count: 110
+  entry_fav_count: 124
   entry_content: |
     6-7 cm ne be. ideali 1 inçtir bunun. 2,5 cm yani. danayı verelim canlı ye istersen. her şeyin bokunu çıkarmayı ne seviyoruz ya.
   entry_channels: yeme-içme
 - entry_name: |
-    20 aralık 2018 pkk'nın abd'ye yalvarması
-  entry_id:  84592612
-  entry_writer: dobzhansky
-  entry_fav_count: 105
+    bizimkilerin boktan bir dizi olması gerçeği
+  entry_id:  84578029
+  entry_writer: renksiz hayat
+  entry_fav_count: 112
   entry_content: |
-    abd bize bahmiir.<br/><br/>tece bizi sikir.
-  entry_channels: siyaset,haber
+    (bkz: <a class="b" href="/?q=k%c4%b1rar%c4%b1m+boynuzunu+iblis">kırarım boynuzunu iblis</a>)
+  entry_channels: tv
+- entry_name: |
+    20 aralık 2018 giresunspor fenerbahçe maçı
+  entry_id:  84568352
+  entry_writer: antikadimag
+  entry_fav_count: 85
+  entry_content: |
+    maalesef takım bu sene o kadar rezil durumda ki ligde ilk 3'e girmek hayal oldu. bundan sonra tek yapmamız gereken düşme potasından olabildiğince uzaklaşmak. ligde bir hedef kalmadığından kupaya yoğunlaşabiliriz.<br/><br/>rakibin zayıflığını da dikkate alırsak ilk maçın dezavantajını iki farklı galibiyetle kapatıp kupayı giresun'a getirmeye bir adım daha yaklaşacağımıza inanıyorum.
+  entry_channels: spor
 - entry_name: |
     20 aralık 2018 yalova depremi
   entry_id:  84575997
@@ -147,29 +155,21 @@ data:
     geçmiş olsun. <br/><br/>dünya üzerinde depremi önceden hisseden iki tür olduğu söylenir.<br/>1. köpekler.<br/>2. ekşi sözlük yazarları.
   entry_channels: haber
 - entry_name: |
-    galatasaray
-  entry_id:  84569215
-  entry_writer: baytarafli
-  entry_fav_count: 66
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>fenerbahçe her zaman babanızdır birkaç senedir kötü olması bu gerçeği değiştirmez<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>hahahahahhaha. ulan lig on yedincisindeki özgüvene bak.<br/><br/>lan oğlum sizin bu cümleleri kurabileceğiniz başlıklar şunlar:<br/><br/>(bkz: <a class="b" href="/?q=akhisar+belediyespor">akhisar belediyespor</a>)<br/>(bkz: <a class="b" href="/?q=b%c3%bcy%c3%bck%c5%9fehir+belediye+erzurumspor">büyükşehir belediye erzurumspor</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7aykur+rizespor">çaykur rizespor</a>)<br/><br/>hadi sktir git oraya. babayız falan deme onlar bile ta*ak geçer.
-  entry_channels: spor
-- entry_name: |
-    peta'nın vegan seksini övdüğü reklam filmi
-  entry_id:  84584631
-  entry_writer: hasirt to the blackboard
-  entry_fav_count: 58
-  entry_content: |
-    ulan, günün bir öğününde etli yemek yiyemediğimiz zaman aç kaldığımız için vücudu taşıyacak dermanı bulamazken; sürekli taze fasulye, ıspanak, kereviz yiyerek mi dalgayı o kadar uzun süre erekte tutacağız?<br/><br/>ben hassiktir diyorum.
-  entry_channels: ilişkiler,yeme-içme
-- entry_name: |
     hayvanların ağzından atasözleri
   entry_id:  84590277
   entry_writer: gregorsamsamsi
-  entry_fav_count: 57
+  entry_fav_count: 61
   entry_content: |
     köpek: sahibim bana bakıyor, ben de ona sadık olmalıyım.<br/><br/>kedi: rızkımı veren hüdadır kula minnet eylemem.
   entry_channels: anket
+- entry_name: |
+    spor toto süper lig 2010-2011 sezonu
+  entry_id:  84574216
+  entry_writer: ultrasleo
+  entry_fav_count: 49
+  entry_content: |
+    şampiyonu o kadar belli değildir ki, sezon sonu oynanması gereken süper kupa maçı hala oynanmamıştır.
+  entry_channels: spor
 - entry_name: |
     mavibahçe cinemaximum taciz rezaleti
   entry_id:  84586739
@@ -182,18 +182,34 @@ data:
     20 aralık 2018 büyük çaylak isyanı
   entry_id:  84569472
   entry_writer: birmilyonunvarmi
-  entry_fav_count: 39
+  entry_fav_count: 42
   entry_content: |
     üç beş çapulcunun başlattığı isyan. kanzuk size bir dürüm gazı sıksın da görün gününüzü.
   entry_channels: ekşi-sözlük
 - entry_name: |
+    20 aralık mango rezaleti
+  entry_id:  84589752
+  entry_writer: madamerve
+  entry_fav_count: 36
+  entry_content: |
+    sözlüğün formatını bozduysam özür dilerim;<br/>ben 2017 yılı ekim ayından beri mango çalışanıyım. part time olarak çalışmaktayım 14 aydır ama part time çalışanım. denkleştirme adı altında günlük 15 saatten fazla mesai saatinde çalıştırılıyorum. sabah saat 09.00 da mesai başlangıcı yapılırken çıkış saati 02.30 a kadar uzayabiliyor. ( haftalık 50 saate varan çalışmalardan bahsediyorum bu konuda ) sabah saat avm açılışına kadar olan çalışmaları reyon temizliği ayakkabıların tozunu almak vb gibi olayları mesai saatinden saymıyorlar. <br/>bu kadar esnek çalışma saatlerine uygun olsan part time değil full time çalışırdım bu yüzden haklarımı alarak işten çıkmak istiyorum. insan kaynakları benimle ilgilenmeyerek bu konuda uzlaşma merci biz değiliz müdürünle çözmelisin diyorlar. insan kaynakları bir şirkette personelinin haklarını savunma konusunda yardımcı olmayıp tamamiyle müdür insiyatifine bırakabilir mi? benden sadece istifa edebileceğimi herhangi bir hakkımı veremeyeceklerimi bildiriyorlar kurumsal kimlik adı altında çalışanlarını köle gibi çalıştıran bu firmadan haklarımı nasıl alabilirim işçi mahkemesinden daha kısa çözüm almam gerekiyor öğrenci olduğumdan kaynaklı yardımcı olursanız sevinirim.<br/><br/>edit: benim saatlerime imza attığım kagit mevcut ancak parmak izi cihazının önemi yok denilerek parmak izim okutulmadı insan kaynaklarına bu durumu da bildirim parmak izi cihazı olmadığı için benim çalışma saatlerini imzaladığım kağıdı imha edebilirler mi?<br/>edit: başlıgı 20 aralık mango çalışma rezaleti olarak değiştirebilirse moderatör arkadaşlar sevinirim.<br/>edit: konu hakkında yardımcı olabilecek avukat ve hukuk öğrencilerinin yol göstermelerine açığım.
+  entry_channels: haber,moda,ekonomi
+- entry_name: |
     fıratın doğusuna yapılacak operasyona ad önerileri
   entry_id:  84585604
   entry_writer: arkanabakmassankuserim
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     (bkz: <a class="b" href="/?q=se%c3%a7im+kalkan%c4%b1">seçim kalkanı</a>)
   entry_channels: siyaset,anket,haber
+- entry_name: |
+    lcw'den çıkıp us polo'ya girmek
+  entry_id:  84589350
+  entry_writer: leytirain
+  entry_fav_count: 30
+  entry_content: |
+    us polo marka değil. eski zamanlardaki gibi kaliteli ürün yapmıyorlar.
+  entry_channels: anket,moda
 - entry_name: |
     uşak'ta suriyelilerin 2 türkü bıçaklaması
   entry_id:  84591067
@@ -203,21 +219,45 @@ data:
     gaziantep’liyim memlekete gidesim gelmiyor bunların yüzünden. <br/>bunların az olduğu yerlerdeki tatlı su suri severlerin de amk.
   entry_channels: siyaset,haber
 - entry_name: |
-    lcw'den çıkıp us polo'ya girmek
-  entry_id:  84589350
-  entry_writer: leytirain
-  entry_fav_count: 29
-  entry_content: |
-    us polo marka değil. eski zamanlardaki gibi kaliteli ürün yapmıyorlar.
-  entry_channels: anket,moda
-- entry_name: |
     maraş katliamı
   entry_id:  84574582
   entry_writer: evrenselimsi
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     "alevilerin gücü yetseydi onlar bizi öldürecekti." "bizi" diyor.<br/>sen, ben, biz, siz,o hiç değişmeyecek değil mi ? ötekileştirdiğiniz insanlara yapılan katliamlara istediğiniz kadar yanlış deyin.siz biz olmayı seçtikten sonra biz de yitip giden onca canız.
   entry_channels: siyaset,tarih
+- entry_name: |
+    en uzun uykusuz kalma süresi
+  entry_id:  84573200
+  entry_writer: tepisken
+  entry_fav_count: 26
+  entry_content: |
+    tam 76 saat... sonrasında halusilasyonlar , abidik gubidik gölgeler, sesler, dehşetengiz bir çınlama ve bacakta kasılmalar başlıyor. düşünün, o kadar yorgunsunuz ki uyuyamıyorsunuz.... uyurken gelen, günün özeti ve iç hesaplaşma olayı var ya; heh o olmuyor. beyin bildiğin sessizliğe gömülüyor. 8 gün 10 gün uyanık kalan adama inanmayın, en azından ara ara uyuyordur.<br/><br/>ha neden uyumadın manyak derseniz, salak bir ilacın gerzek bir yan etkisi ve inat diyelim. aralıksız 18 saat uyumuş ve dalağım şişmiş olarak uyanmıştım.<br/><br/>gençlik güzel şeymiş lan
+  entry_channels: anket,sağlık
+- entry_name: |
+    tayt giyen kızın kıçına bakmamayı başarmak
+  entry_id:  84593897
+  entry_writer: paranoid humanoid
+  entry_fav_count: 25
+  entry_content: |
+    ben ilk 3 saniye bakmayabiliyorum. sonra bu büyük başarım için kendimi ödüllendiriyorum ve doya doya bakıyorum. eheh
+  entry_channels: ilişkiler
+- entry_name: |
+    ahmet telli'nin hacettepe'de saldırıya uğraması
+  entry_id:  84592544
+  entry_writer: emreetosuun
+  entry_fav_count: 25
+  entry_content: |
+    "hangi dağ efkarlıysa oradayız.perişan edilen her şey bizimdir." diyen güzel insana yapılan saldırıdır. hacettepe gibi bir okulda da bunlar yaşanıyorsa geçmiş olsun hepimize.
+  entry_channels: siyaset,edebiyat,haber
+- entry_name: |
+    ekrem imamoğlu fetö şüphelisi
+  entry_id:  84574675
+  entry_writer: gayim ama para bende
+  entry_fav_count: 24
+  entry_content: |
+    yemin ediyorum gerizekalı bunlar.<br/>neymiş fetöcü belediyeler imamı ile yan yanaymış.<br/><br/>imamın direk kendisi ile fotoğrafı olan birini takdim edeyim size!<br/>bunu haber yapın yiyorsa...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.co.uk/search?tbm=isch&amp;sa=1&amp;ei=aS0bXI68CJHYwAKwioKwBA&amp;q=fethullah+gülen+tayyip+erdoğan&amp;oq=fethullah+gülen+tayyip+&amp;gs_l=img.3.0.0l2j0i30j0i8i30l7.37808.40368..41707...0.0..0.97.839.9......0....1..gws-wiz-img.......0i67.p-ja7AWVd6M" title="https://www.google.co.uk/search?tbm=isch&amp;sa=1&amp;ei=aS0bXI68CJHYwAKwioKwBA&amp;q=fethullah+gülen+tayyip+erdoğan&amp;oq=fethullah+gülen+tayyip+&amp;gs_l=img.3.0.0l2j0i30j0i8i30l7.37808.40368..41707...0.0..0.97.839.9......0....1..gws-wiz-img.......0i67.p-ja7AWVd6M">imam ile fotoğraflar...</a>
+  entry_channels: siyaset,haber
 - entry_name: |
     15 günlük çaylağın yazar olması
   entry_id:  84588291
@@ -235,26 +275,10 @@ data:
     ezeldeki cengizle dizi yapıyormuşsun. dolandırıcı bir adam, dikkatli ol..
   entry_channels: tv,ekşi-sözlük,sinema,magazin
 - entry_name: |
-    en uzun uykusuz kalma süresi
-  entry_id:  84573200
-  entry_writer: tepisken
-  entry_fav_count: 21
-  entry_content: |
-    tam 76 saat... sonrasında halusilasyonlar , abidik gubidik gölgeler, sesler, dehşetengiz bir çınlama ve bacakta kasılmalar başlıyor. düşünün, o kadar yorgunsunuz ki uyuyamıyorsunuz.... uyurken gelen, günün özeti ve iç hesaplaşma olayı var ya; heh o olmuyor. beyin bildiğin sessizliğe gömülüyor. 8 gün 10 gün uyanık kalan adama inanmayın, en azından ara ara uyuyordur.<br/><br/>ha neden uyumadın manyak derseniz, salak bir ilacın gerzek bir yan etkisi ve inat diyelim. aralıksız 18 saat uyumuş ve dalağım şişmiş olarak uyanmıştım.<br/><br/>gençlik güzel şeymiş lan
-  entry_channels: anket,sağlık
-- entry_name: |
-    ekrem imamoğlu fetö şüphelisi
-  entry_id:  84574675
-  entry_writer: gayim ama para bende
-  entry_fav_count: 21
-  entry_content: |
-    yemin ediyorum gerizekalı bunlar.<br/>neymiş fetöcü belediyeler imamı ile yan yanaymış.<br/><br/>imamın direk kendisi ile fotoğrafı olan birini takdim edeyim size!<br/>bunu haber yapın yiyorsa...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.co.uk/search?tbm=isch&amp;sa=1&amp;ei=aS0bXI68CJHYwAKwioKwBA&amp;q=fethullah+gülen+tayyip+erdoğan&amp;oq=fethullah+gülen+tayyip+&amp;gs_l=img.3.0.0l2j0i30j0i8i30l7.37808.40368..41707...0.0..0.97.839.9......0....1..gws-wiz-img.......0i67.p-ja7AWVd6M" title="https://www.google.co.uk/search?tbm=isch&amp;sa=1&amp;ei=aS0bXI68CJHYwAKwioKwBA&amp;q=fethullah+gülen+tayyip+erdoğan&amp;oq=fethullah+gülen+tayyip+&amp;gs_l=img.3.0.0l2j0i30j0i8i30l7.37808.40368..41707...0.0..0.97.839.9......0....1..gws-wiz-img.......0i67.p-ja7AWVd6M">imam ile fotoğraflar...</a>
-  entry_channels: siyaset,haber
-- entry_name: |
     evin içinde futbol oynamış efsane nesil
   entry_id:  84567117
   entry_writer: cok yanlis bi tercih
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     çorapları birbirine geçirerek ya da gazete kağıdını koli bantı ile kaplayarak<sup class="ab"><a title="(bkz: ki bu yöntem benim favorim olur)" href="/?q=ki+bu+y%c3%b6ntem+benim+favorim+olur" data-query="ki bu yöntem benim favorim olur">*</a></sup> da oynaması muhtemel olan efsane nesildir.
   entry_channels: anket,oyun
@@ -262,66 +286,82 @@ data:
     2019 yerel seçimlerinde 3 büyük il tahminleri
   entry_id:  84577532
   entry_writer: fightisover
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     yıllardır olduğu gibi istanbul-ankara akp, izmir chp olacaktır.<br/><br/>çünkü adaylar önemsizdir. daha haziran ayında %50'si cumhur ittifakına oy vermiş bir topluluğun aday kim olursa olsun, chp adı altındaki bir kişiye oy vereceğine düşünen varsa benim gözümde salaktır.<br/><br/>izmir için de aynısı geçerli. yıllarca kültürüne işlemiş chp kültürünü bırakıp, aday kim olursa olsun akp'ye oy vermez.<br/><br/>kısacası hep diyorum. birçok alanda olduğu gibi, bu ülkede siyaset de bitmiştir. çok şükür ki artık ben ve benim gibi nice insan için kimin kazandığı önemsizdir.<br/><br/>önemli olan bu ülkeyi en yakın zamanda, en iyi koşullarla terk edebilmektir.
   entry_channels: siyaset,anket
 - entry_name: |
-    ekşi itiraf
-  entry_id:  84581338
-  entry_writer: attimtuttu
-  entry_fav_count: 19
-  entry_content: |
-    bugün boşandım sözlük. <br/><br/>adliyeye ailesiyle ya da yeni sevgilisiyle gelmedi. süslenip püslenip, topukluları giyip, ne kaçırdığımı göstermeye çalışmadı. bana ters davranıp trip atmadı. tepeden bakmadı. <br/><br/>keşke yapsaydı sözlük. <br/><br/>en mütevazı haliyle tek başına dikildi karşıma. “merhaba” dedi, elini uzattı. tokalaştı benimle sözlük. arkasını dönüp birkaç adım uzaklaştı adliye koridorlarında. gözlerinin yaşını sildi. hayatımda hiç bu kadar acı çekmedim sözlük. yanına gidip gözyaşını silemedim. nasıl silebilirdim ki? ne diyecektim? “ben yanındayım” mı?<br/><br/>nefesim boğazıma düğümlendi. göğsüme bir öküz oturdu sözlük. içimdeki öküz bile o kadar ağır değildi. ayrılırken yine uzattı elini. son kez gözlerimin içine baktı. tuttuğu yaşların arkasında “her şeye rağmen güzeldi” diyen gözleriyle... uzun uzun mu baktı, zaman mı durdu bilemedim sözlük. hoşçakal bile diyemedim. ben zaten o koridordan hiç gidemedim. ruhum parçalanıp yerlere saçıldı. her şeyimi o adliye koridorunda bıraktım. <br/><br/>bugün boşandım sözlük. bugün hiç evlenemediğim karımdan boşandım. kocaman yüreğiyle dövmekten beter etti beni. hiçbir şey yapamadım. <br/><br/>böyle olacağını hiç tahmin etmezdim sözlük.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     murat özdemir
   entry_id:  84568657
   entry_writer: esas oglan
-  entry_fav_count: 15
+  entry_fav_count: 18
   entry_content: |
     burada bu hasta orospu çocuğunu savunan orospu çocukları görüyorum. sikerim hastasını da beynini de beynindeki ur'uda. o papağan sizden de bu orospu çocuğundan da daha masum ve değerli. amk evlatları sizi.
   entry_channels: tv,yeme-içme
 - entry_name: |
-    ye iç seviş uyu çalış ye çalış ye iç seviş uyu
-  entry_id:  84585810
-  entry_writer: burusmus a4 kagidi
-  entry_fav_count: 14
-  entry_content: |
-    halinize şükredin şöyle hayatlar da var..<br/><br/>ye iç uyu çalış-ye iç uyu çalış......
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    20 aralık 2018 giresunspor fenerbahçe maçı
-  entry_id:  84593760
-  entry_writer: redthepublic
-  entry_fav_count: 11
-  entry_content: |
-    futbol futbolcular ile oynanır<br/><br/>bkz soldado bkz slimani.
-  entry_channels: spor
-- entry_name: |
     doğu ekspresi
   entry_id:  84585299
   entry_writer: siradanbiedebiyatogretmeni
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     2009-2014 arası biz kars'a memlekete giderken "abi çekilir mi o kadar yol trenle yeaa" diyen tiplerin bugün instagrama fotoğraf atabilmek için bilet peşinde koşması.<br/><br/>güldürüyor bu ülke beni.
   entry_channels: tarih,seyahat
 - entry_name: |
-    tayt giyen kızın kıçına bakmamayı başarmak
-  entry_id:  84593897
-  entry_writer: paranoid humanoid
-  entry_fav_count: 7
+    emlak balonu
+  entry_id:  84579794
+  entry_writer: bm778
+  entry_fav_count: 9
   entry_content: |
-    ben ilk 3 saniye bakmayabiliyorum. sonra bu büyük başarım için kendimi ödüllendiriyorum ve doya doya bakıyorum. eheh
-  entry_channels: 
+    yazan balon yokcular,<br/>yavas yavas hava kacirmaya basladi. once ev enflasyon kadar artarcilar vardi yok oldu.<br/><br/>bilmem kac cift evleniyor ev satislari dusmezciler gitti.<br/><br/>ev fiyati dusmezciler de yok oldu. <br/><br/>simdi geriye ev fiyatlarinda cok iskonto olmazcilar kaldi. pek kalmadi ulke bu zekayla giderse bankalar mulk zengini olacak ve bankalara sicak para gerektiginde catir catir mulkleri iskontoyla satacaklar ve bu genel olarak piyasayi da dusurucek.<br/><br/>donulmez aksamin ufkundayiz. para bitti emlakcilar, insaatcilar.... bitti bak olsa gider millet alir..... anladin mi o para yok.... <br/><br/>o kilitlenme dedigin hollandadaki lalerin alimi ve satiminin durdugu kitlenme ani gibi biri satmaya basladiginda herkes devaminda gelecek hic merak etme.... para yok para o insaatcilar borc icinde onlar satamazsa banka alip stacak merak etme...<br/><br/>tekrar not para bitti sizede maaglesef bir bok kalmadi artik.....
+  entry_channels: siyaset,ekonomi
 - entry_name: |
-    bir temel karamollaoğlu vardı ona ne olması
-  entry_id:  84594073
-  entry_writer: fenasi kertmen
+    ekşi itiraf
+  entry_id:  84582320
+  entry_writer: zephyrantes
+  entry_fav_count: 5
+  entry_content: |
+    20 senedir delinin tekiyle aynı evi paylaşıyorum. hatta tescilli 20 sene. tescilli olmayan kısmı ile birlikte 8+20.<br/>gına geldi amk. gına. <br/>baktım olmayacak ben de delirdim; o da kar etmedi. insanlar o halimi de kabul etmiyorlar.<br/><br/>çocukluğumdan beri fahri psikologluk yapıyorum. bazısını iş yıpratır; yüzü, elleri çabuk eskimiştir falan. benim ruhum eskidi amk. akşamları kapının önüne kadar gelip, girmemek için elimdeki her şeyi verebileceğimi hissettiğim ama s.ke s.ke yine o kapıdan girdiğim günler oldu.<br/><br/>çok yoruluyorum lan. hadi ben kendimi bir noktaya kadar kurtardım da; gözümün önünde aynı şeylerin defalarca, her gün loop'a girmiş gibi yaşanmasından bıktım artık. gerçekçilik de kar etmiyor. o zaman da ruhsuz/nankör/düşüncesiz oluyorsun. "bu da senin gerçeğin işte gerizekalı" desen kendine, bir yere kadar idare edebiliyorsun. evde sürekli kendisine ilgi, özen gösterilmesini isteyen, 30 yıllık eskimiş köhne bakış açılarının benimsenmesini ve sözüne göre hareket edilmesini bekleyen biri var. sürekli kurban psikolojisi yaşayan ve bunun üzerinden evdeki diğer 4 kişiyi birden suçlu hissettirmeyi başarabilen bir manyak. sırf bir gün kendisine bakılsın diye 3 çocuk yetiştirmiş, dış dünyadan zerre haberi olmayan, tek başına bıraksan otobüse binip a noktasından b noktasına gidemeyen, fakat ahkam kesmeye gelince evdeki herkesi itin götüne sokabilen biri. öyle şımarık ki, kendisini doktora götürmek için işini bırakıp gelen babama rahatlıkla "ben vazgeçtim" diyebiliyor. gerçi bu hale gelmesindeki en büyük etkenlerden biri de babamın yaptığı her hatayı daha büyük tavizler vererek kapatmasıdır. <br/><br/>panik atağı var, uykusuzluk problemi var psikologa gitmeye ikna edemiyorum. yüksek tansiyonu var, ilaçları iki haftadan uzun süre kullanmıyor; ne zaman bir altın gününde çok yese hamur işini tekrar fırlıyor tansiyonu. menopoza girdi, kadın doğuma gitsin diye ikna etmem 2 senemi aldı. sorunlarını dua ve hocalarla alt etmeye çalışıyor. delireceğim amına koyayım.<br/><br/>keşke asla ama asla evlenmeselerdi. bu cümleyi 10 yaşından beri her gün kuruyorum ben.<br/><br/>bu kişi benim annem. hasta oldum diye kendisi hastayken çorba yaptı. biliyorum, ben iyileştikten sonra daha kötü hasta olacak ve ben kendimi yine bok gibi hissedeceğim.<br/><br/>onu hasta görmeye tahammülüm yok. annemi hasta değilken seviyorum. bunu söylemekten de gocunmuyorum. çünkü çocukken psikolojimin ağzına sıçıldı benim. kimse için hayatımdan taviz vermeye niyetim yok.<br/><br/>en büyük korkum, onunla bu kadar uzun vakit geçirmiş olmam dolayısıyla onun gibi olmak.<br/>hayattan neredeyse tek isteğim, annem gibi bir kadın olmamak. annem neyse/ benim için neyi temsil ediyorsa taban tabana onun zıttı olmak istiyorum. elimden geleni ardıma koymuyorum.<br/><br/>yeni yıldan tek dileğim ise <a class="b" href="/?q=yenilik">yenilik</a>. yeni ev. yeni iş. hatta yeni bir coğrafya. her gün ölümü düşünmekten de sıkıldım. siktir olup <a class="b" href="/?q=gitti%c4%9fim">gittiğim</a> herhangi bir yeni düzen.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    sözlükçülerin 2019 asgari ücret tahminleri
+  entry_id:  84594873
+  entry_writer: imparatorneron
   entry_fav_count: 4
   entry_content: |
-    (bkz: <a class="b" href="/?q=bir+ebenin+am%c4%b1+vard%c4%b1+ona+ne+olmas%c4%b1">bir ebenin amı vardı ona ne olması</a>)
-  entry_channels: siyaset,anket
+    1950 olarak açıklanacak, ardından canlı yayında cumhurbaşkanının "artırın yahu şunu biraz tamamlayın yukarı" talimatıyla 2000 tl olacaktır.
+  entry_channels: siyaset,anket,haber,ekonomi
+- entry_name: |
+    sevgili olmuyorsak arkadaş da kalmayalım erkeği
+  entry_id:  84572942
+  entry_writer: yan yatarak visne yiyen roma imparatoru
+  entry_fav_count: 4
+  entry_content: |
+    dunyanin en sahane erkegidir. hoslandigi kizin kendisini koz olarak kullanmasina izin vermez. bu isin kizi, erkegi yok ama kizlar bu iliski oyununu oynamayi erkeklerden cok daha once ogrendigi icin, ve genel olarak daha sosyal olduklari icin genelde hoslanan taraf, yani acemi taraf erkek oluyor. <br/><br/>simdi bir insan digerinden hoslandigini soyledigi an, hoslanilan insanin eline bir koz, bir zayif nokta veriyor. hoslanilan eger merhametsizse bu zayif noktayi kullaniyor, gozlerimle gordum ben bunu defalarca. eger mehametliyse zaten kendisi cikar hoslanan insanin hayatindan... <br/><br/>bu konuda da tum zamanlarin en sahane filmi forrest gump bizlere ne guzel ogutler vermektedir. siz saniyor musunuz ki jenny umursamazligindan bizim forrest'in hayatindan cikmaktadir? hayir, merhametinden...
+  entry_channels: ilişkiler
+- entry_name: |
+    efsane ihsan yıldırım replikleri
+  entry_id:  84586712
+  entry_writer: zibidigo
+  entry_fav_count: 4
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=SW3r7DjEhmQ" title="https://www.youtube.com/watch?v=SW3r7DjEhmQ">şu da bir efsanedir.</a>
+  entry_channels: tv
+- entry_name: |
+    papağan'a üzülürken akşam yemeğinde tavuk yemek
+  entry_id:  84594497
+  entry_writer: sozluk cok bozdu baya bozdu asiri bozdu
+  entry_fav_count: 3
+  entry_content: |
+    (bkz: <a class="b" href="/?q=vegan+hakl%c4%b1+beyler">vegan haklı beyler</a>)
+  entry_channels: yeme-içme
+- entry_name: |
+    iş bankası'nın konut kredisi faizini 0.98 yapması
+  entry_id:  84590921
+  entry_writer: core i
+  entry_fav_count: 3
+  entry_content: |
+    keyword "anlaşmalı konut projeleri"..<br/>isimleri not edin, sizin ve çocuklarınızın geleceğinden çalınarak bugünü verilenlerdir..<br/><br/>verdirenlerde habis ur..<br/>kesip alınması gereken.
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     takip edilesi youtube kanalları
   entry_id:  84578438
@@ -331,22 +371,6 @@ data:
     (bkz: <a class="b" href="/?q=colors">colors</a>)<br/>tek renk ve sade bir arkaplanda genç ve yetenekli müzisyenlerin performanslarını içeren bir kanal. genellikle içerik r&amp;b, soul ve rap. müzik kategorisinde gördüğüm en iyi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/channel/UC2Qw1dzXDBAZPwS7zm37g8g" title="https://www.youtube.com/channel/UC2Qw1dzXDBAZPwS7zm37g8g">kanallardan</a>.
   entry_channels: anket,teknoloji
 - entry_name: |
-    sözlükçülerin 2019 asgari ücret tahminleri
-  entry_id:  84594873
-  entry_writer: imparatorneron
-  entry_fav_count: 2
-  entry_content: |
-    1950 olarak açıklanacak, ardından canlı yayında cumhurbaşkanının "artırın yahu şunu biraz tamamlayın yukarı" talimatıyla 2000 tl olacaktır.
-  entry_channels: siyaset,anket,haber,ekonomi
-- entry_name: |
-    iş bankası'nın konut kredisi faizini 0.98 yapması
-  entry_id:  84590921
-  entry_writer: core i
-  entry_fav_count: 2
-  entry_content: |
-    keyword "anlaşmalı konut projeleri"..<br/>isimleri not edin, sizin ve çocuklarınızın geleceğinden çalınarak bugünü verilenlerdir..<br/><br/>verdirenlerde habis ur..<br/>kesip alınması gereken.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  84569587
   entry_writer: veni vidi yaziyorum
@@ -354,22 +378,6 @@ data:
   entry_content: |
     burada sorulan sorulara gerçekten yanıt veriyor musunuz?<br/>özellikle merak ettiğim ise dilbilgisi hatalarıyla dolu olan soruları, ciddiye alıp yanıtlıyor musunuz?
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    efsane ihsan yıldırım replikleri
-  entry_id:  84583942
-  entry_writer: idlespeed
-  entry_fav_count: 2
-  entry_content: |
-    "allaaaah, çıldıracağım!! yetmeyecek bi de üstüne delireceğim!!!"
-  entry_channels: tv
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  84566969
-  entry_writer: deliyimben
-  entry_fav_count: 2
-  entry_content: |
-    meraklı, genç çaylak kadınların sorularını alabilirim kısa bir süre. kendime güveniyorum cevaplar konusunda.
-  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     the protector (dizi)
   entry_id:  84572519
@@ -379,21 +387,13 @@ data:
     dün akşam başlayıp an itibari ile 10 bölümünü bitirdiğim çıtır çerez dizi. sürükleyici ama her şey çok üstünkörü geçilmiş.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>öncelikle bu ölümsüzlerin nesi kötü? öncekileri bilmiyoruz ama faysal bey gayet iyi bir adam. istanbul'a bir kötülük yaptığı falan da yok. adamın tek gayesi karısına kavuşmak. zaten hakan'ın da istanbul'u koruduğu yok. çekirdek çitleyip yere atıyor hayvan. onun tek olayı da ölümsüzü öldürmek. en başta öyle bir taptılar ki hakan'a sanki istanbul'da bir olay olsa hakan gömleği giyip uçacak insanları kurtaracak. <br/><br/>sonra bu sadıklar ne ayak? kim vermiş bunlara bu görevi? pavyoncu da sadık, 15 yaşında küçük kız da. bundan da hiç bahsedilmemiş. <br/><br/>bir de bu faysal hakan'ın muhafız olduğunu nasıl anlamış en baştan da yanına almış? <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: tv,spoiler
 - entry_name: |
-    ahmet telli'nin hacettepe'de saldırıya uğraması
-  entry_id:  84593164
-  entry_writer: kicked ass
+    sağcı ve solcu arasındaki fark
+  entry_id:  84595753
+  entry_writer: cykablyatruski
   entry_fav_count: 1
   entry_content: |
-    dün odtüde etkinlikler iptal edildi. bugün hacettepede rektör beslemeleri bir söyleşiyi bastı. üniversitelerin saldırı altında olduğunun örnekleri
-  entry_channels: siyaset,edebiyat,haber
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  84571349
-  entry_writer: satanist evlat arif
-  entry_fav_count: 0
-  entry_content: |
-    sanat sepet işlerinden anlarım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/piangimiacara">http://connected2.me/piangimiacara</a>
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    farklarını bilemeyeceğim ama bir tane can alıcı benzerliklerini biliyorum. ikisinin de bağnazı hiç ama hiç çekilmiyor be hocam.
+  entry_channels: siyaset,anket
 - entry_name: |
     1. ekşi yılbaşı hediyeleşmesi
   entry_id:  84593952
