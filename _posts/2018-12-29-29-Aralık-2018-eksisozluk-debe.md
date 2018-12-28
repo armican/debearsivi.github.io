@@ -6,7 +6,7 @@ data:
     28 aralık 2018 bezmialem hastanesi rezaleti
   entry_id:  84872949
   entry_writer: zeusun yancisi
-  entry_fav_count: 907
+  entry_fav_count: 945
   entry_content: |
     27 aralık saat sekizde babamın şiddetli karın ağrısı şikayetiyle bezmialem vakıf hastanesine getirmemizle başlayan ve hala devam etmekte olan rezilliktir.<br/><br/>babamın ağrıdan kıvranmasına daha önceden başından kalp ameliyatı geçmesine rağmen bizi saatlerce sırada beklettiler. gece onbire kadar testleri bekledik. test sonuçları çıktığında hemşire, gazı var eve gidin 2 3 saate geçer, geçmezse tekrar gelirsiniz dedi. biz de inanıp evimize gittik. ağrının geçmemesi üzerine saat birde tekrar hastanenin yolunu tuttuk. saatlerce yapılan testler sonucunda tomografi çekmeye karar verdiler. bu işlemler yapılırken bir tane doktorla karşılaşmadık sadece hemşire ve stajyer doktorlarla konuştuk. tomografinin çıkmasıyla hemşire whatsapp üzerinden doktora sonuçları attı ve saatler sonucunda apandisit olduğu tanısı konuldu. buraya kadar hiçbir sorun olduğunu düşünmedik. babamın su içmesi sebebiyle altı saat boyunca bekletip ameliyata almaya karar verdiler. gece ikide hemşire gelip süre dolduğunda direkt amelitaya alınacağımızı doktorunuzun birazdan gelip kontrol yapacağını söyledi.<br/><br/>saatler geçmesine rağmen doktor yanımıza gelmedi. bu arada babam sedye üzerinde saatlerce acı içinde kıvranıyordu. her saat başı hemşirenin yanına gidip doktora ulaşmasını istedim her seferinde arayıp ulaşamadı en sonunda saat beşte doktora telefonla ulaşabildik. bir saat sonra geleceğini söyledi. doktor saat altıda yanımıza gelip elle muayene yaptı ve apandisin patlamış hemen ameliyata almamız lazım dedi. bütün evrakları hazırladı odamızım hazır olduğunu söyledi ve bir saat içinde ameliyata gireceğimizi söyledi. <br/><br/>bu diyalogun üzerinden beş saat geçti ne gelen oldu ne giden. beşinci saatin sonunda doktor yanımıza gelip, hastanede yatak olmadığını bizi ameliyat edemeyeceğini başka yere de sevk etmeyeceğini söyledi. hastanede yatak yoksa neden bizi saat yediden beri burada tuttuklarını sorduğumda pişkin pişkin istediğin yere şikayet et istersen gel beni döv deyip çıktı gitti. hastayı iyileştirmesi gereken adam şekerini çıkartıp daha beter hale getirdi. oyalayarak apandisin patlamasına sebep oldu.<br/><br/>başka hastaneye geçmek için ambulans istediğimizde para istediler ve çıkarken kendi rızamızla çıkıyoruz kağıdı imzalatmaya çalıştılar. kendileri zorla çıkartmaya çalıştıkları halde. uzun tartışmalar sonucunda bize para karşılığında ameliyat yapabileceklerini söylediler ameliyattan sonra başka hastane bulun orada yatsın dediler.<br/><br/>sağlık bakanlığına şikayette bulundum. on dakika sonra daha öncesinde sevk yapmayacağını söyleyen hastane görevlileri gelen telefonla başka hastaneye sevkimiz için uğraşmaya başladı. yer bulamadıklarını söyleyip ameliyatı ücretsiz yapacaklarını ama yatak için günlük 350 lira para vermemiz gerektiğini söylediler. saatlerin getirdiği yorgunluk bıkkınlıkla allah belanızı versin deyip kabul ettik.<br/><br/>yatağın parasını ödedikten bir saat sonra bizi ameliyata alacaklarını söylediler sedyeyle ameliyathanenin yolunu tuttuk. bütün evraklarını üstünde ilk yazan şey kalp ameliyatı olduğu şeker hastası olduğuydu. ameliyathanenin kapısında kullandığı ilaçlara kadar her şeyin bilgisini verdikten sonra ameliyata aldılar büyük bir oh çektik ama erken davranmışız. o beş dakika sonra babamı anestezi masasından kaldırıp odaya geri getirdiler kalp hastası olduğunu bilmediklerini ameliyatı kardiyaloğın görmesi gerektiğini söylediler. bu nasıl bir iş bilmezliktir bu nasıl bir hastane. şu an babam tekrar ameliyata alında ve başka problemlerle karşılaşıp karşılaşmayacağımızın korkusuyla bekliyoruz. allah kimseyi bu hastaneye düşürmesin. basit bir apandis hastasını bu hale getiren hastane büyük bir rahatsızlıkla gelen hastayı ölüme sürükler.<br/><br/>edit: çok şükür sağsalim çıktı ameliyattan.<br/><br/>edit 2: vatan caddesindeki bezmialem hastanesi. <br/><br/>edit3: şu an olay çok sıcak olduğu için sadece sağlık bakanlığına şikayet edebildim. bilgili arkadaşlar neler yapmam gerektiği hakkında beni yönlendirirlerse çok sevinirim<br/><br/>edit 4 : hastane müdürü diğer doktorları yanına alıp odamıza gelip hastane adına özür dilediler. ara gazı almaya çalıştılar ama geçirdiğim 24 saati bir ben bir babam biliriz. yemedik.
   entry_channels: sağlık,haber
@@ -14,7 +14,7 @@ data:
     mail adresi verirken rum meyhaneciye dönüşmek
   entry_id:  84866539
   entry_writer: crdt
-  entry_fav_count: 762
+  entry_fav_count: 793
   entry_content: |
     türkçe karakter kullanmadan iki üç kere tekrarlayınca hissettiğim gubik his.<br/><br/>hee hee birlesik yazılıyor bre mimarlik nokta kom.
   entry_channels: ilişkiler,teknoloji
@@ -22,7 +22,7 @@ data:
     türkiye'deki tepkisizliğin temel sebebi
   entry_id:  84863183
   entry_writer: demirmaskeliadam
-  entry_fav_count: 756
+  entry_fav_count: 762
   entry_content: |
     kendimden biliyorum... yoruldum arkadaş yoruldum, çok yoruldum. insanlara doğruları anlatmaktan, gerçekleri açıklamaktan, kanıtlar göstermekten yoruldum. yaşım 31, 15 yıldır başımızdaki haramzadelerin apaçık ülkeyi parsel parsel sattıklarını görüp buna hala inanmayan bir toplumun olduğunu görmek benim umutlarımı bitirdi. yetmezmiş gibi bu kör olan toplum çoğalarak devam ediyor. bu süreçte cehaletin gerçekten mutluluk olduğunu öğrendim. bu son seçimler de benim geleceğe dair umutlarımın yıkıldığı bir gün oldu. o tarihten itibaren artık ne olursa olsun modundayım zerre umrumda değil. benim tuzumun kuru olmasına rağmen başka insanları düşünüp her yerde onların sesi olmaya çalışırken savunduğum insanların gidip celladını seçmiş olmaları beni bitiren nokta oldu. ne haliniz varsa görün...
   entry_channels: siyaset,anket
@@ -30,7 +30,7 @@ data:
     şeyma subaşı'nın yeni sevgili yapması
   entry_id:  84876091
   entry_writer: explorateur
-  entry_fav_count: 715
+  entry_fav_count: 741
   entry_content: |
     <a class="b" href="/?q=%c5%9feyma">şeyma</a>, fransız sevgilisiyle tatil yapsın diye acun’dan para alacak;<br/><br/><a class="b" href="/?q=acun">acun</a>, daha çok para kazanıp şeyma tatile çıksın diye psikopat muratları<sup class="ab"><a title="(bkz: murat özdemir)" href="/?q=murat+%c3%b6zdemir" data-query="murat özdemir">*</a></sup> ekrana çıkaracak;<br/><br/>psikopat <a class="b" href="/?q=murat">murat</a>lar, aziz milletimizin hoşuna gitsin diye papağanı boğacak;<br/><br/><a class="b" href="/?q=aziz+milletimiz">aziz milletimiz</a>, daha çok acun abi izleyecek;<br/><br/>sonunda yine <a class="b" href="/?q=papa%c4%9fan">papağan</a> ölecek amk.
   entry_channels: magazin
@@ -38,7 +38,7 @@ data:
     anonymous'un 13 ocak 2019 eylem çağrısı
   entry_id:  84861632
   entry_writer: yusuf hayran
-  entry_fav_count: 677
+  entry_fav_count: 678
   entry_content: |
     yok anacım, biz bu filmi gördük, çıkalım da üstümüzdekiler üstümüzden prim kazansınlar, harcanan biz olalım. kalsın gözüm.
   entry_channels: teknoloji,haber
@@ -46,7 +46,7 @@ data:
     fotoğraf atar mısın diye yalvaran sözlük kızı
   entry_id:  84864465
   entry_writer: illusionnn
-  entry_fav_count: 560
+  entry_fav_count: 561
   entry_content: |
     (bkz: <a class="b" href="/?q=abi+sabah+oldu%2c+uyan+istersen+art%c4%b1k">abi sabah oldu, uyan istersen artık</a>)
   entry_channels: ilişkiler,ekşi-sözlük
@@ -54,7 +54,7 @@ data:
     kinder surprise için reklam yasağı getirilmesi
   entry_id:  84869872
   entry_writer: demokrasi sevdalisi diktator
-  entry_fav_count: 407
+  entry_fav_count: 408
   entry_content: |
     işte bunu yapmayacaktınız. kinder sürpriz kutsalımızdır bu sefer seçimleri kaybettiniz...<br/><br/>edit:imla
   entry_channels: sağlık,haber,yeme-içme
@@ -62,7 +62,7 @@ data:
     sahibinden.com'daki leopar temalı kiralık daire
   entry_id:  84862366
   entry_writer: tarkkuus kapansson
-  entry_fav_count: 376
+  entry_fav_count: 381
   entry_content: |
     salondaki çocuk da kaplanmış gibi bakıyor.
   entry_channels: anket,haber
@@ -70,7 +70,7 @@ data:
     mor saçlı vegan feminist hdp'li lezbiyen kadın
   entry_id:  84870642
   entry_writer: muhammed kohen
-  entry_fav_count: 373
+  entry_fav_count: 379
   entry_content: |
     bu türün %90'ı sözde hdp'lidir, diyarbakırda 2 gün yaşayamaz.
   entry_channels: siyaset,anket
@@ -81,39 +81,15 @@ data:
   entry_fav_count: 341
   entry_content: |
     rejim ne lan.<br/><br/>suriye arap cumhuriyeti'nin meşru ve resmi silahlı kuvvetlerinin işgal altındaki topraklarını geri alması hadisesi.<br/><br/><a class="b" href="/?q=edit">edit</a> reuters abd verdiği haberde "rejim güçleri" değil, "suriye ordusu" ifadesini kullanmıştır. nedense haber bizim ajanslara "rejim güçleri" olarak düşmüş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.reuters.com/article/us-mideast-crisis-syria-army/syrian-army-enters-town-of-manbij-and-raises-flag-statement-idUSKCN1OR0N5?il=0" title="https://www.reuters.com/article/us-mideast-crisis-syria-army/syrian-army-enters-town-of-manbij-and-raises-flag-statement-idUSKCN1OR0N5?il=0">syrian army enters town of manbij and raises flag - statement</a>
-  entry_channels: 
-- entry_name: |
-    1 tl ile 350 km giden otomobil
-  entry_id:  84869021
-  entry_writer: karabiner 98k
-  entry_fav_count: 272
-  entry_content: |
-    ne kadar sürede gittiği önemli.<br/>ona bakarsanız bisikletle bedavaya 500 km yapabilirsiniz.
-  entry_channels: 
+  entry_channels: siyaset
 - entry_name: |
     akp'nin eskişehir'i alması
   entry_id:  84870999
   entry_writer: fesbasimaa
-  entry_fav_count: 266
+  entry_fav_count: 272
   entry_content: |
     şehir hastanelerini zaten büyükerşen yaptı amk beyinsizleri siz verin zaten akp ye
   entry_channels: siyaset
-- entry_name: |
-    ekşi sözlük'te 2018 yılında olan biten
-  entry_id:  84873930
-  entry_writer: ekşisözlük
-  entry_fav_count: 249
-  entry_content: |
-    toplam 233 milyonun üzerinde farklı kişi <sup class="ab"><a title="(bkz: absolute unique visitors)" href="/?q=absolute+unique+visitors" data-query="absolute unique visitors">*</a></sup> 5 milyarı aşkın sayfa görüntüledi.<br/><br/>en az ziyaret: 6 ocak cumartesi, 2.517.811 ziyaret<br/>en fazla ziyaret: 13 ağustos pazartesi, 4.120.898 ziyaret<br/><br/>en az ziyaretçi: 15 haziran cuma, 1.400.730 ziyaretçi<br/>en fazla ziyaretçi: 29 kasım perşembe, 2.533.296 ziyaretçi<br/><br/>ziyaretçilerin %72,8’i bir kereyle yetinmedi, yine geldi. her bir ziyarette ortalama 5 sayfa görüntülediler. <br/><br/>nerden geldiler? <br/><br/>türkiye %91,30<br/>almanya %1,72<br/>abd %1,29<br/>ingiltere %0,56<br/>azerbaycan %0,53<br/>hollanda %0,51<br/>kıbrıs %0,46<br/>fransa %0,33<br/>ukrayna %0,33<br/>avusturya %0,20<br/><br/>memleket nere? <br/><br/>istanbul %31,06<br/>ankara %15,18<br/>izmir %8,37<br/>adana %4,51<br/>antalya %3,13<br/>bursa %2,99<br/>kocaeli % 2,67<br/>gaziantep %2,05<br/>diyarbakır %1,48<br/>konya % 1,30<br/><br/>gurbet kuşları <br/><br/>bakü %0,42<br/>frankfurt %0,31<br/>kiev %0,24<br/>lefkoşa %0,23<br/>londra %0,22<br/>amsterdam %0,21<br/>berlin %0,15<br/>viyana %0,14<br/>paris %0,13<br/>köln %0,11<br/><br/>arama motorlarında ne arayıp geldiler?<br/><br/><a class="b" href="/?q=amazon">amazon</a><br/><a class="b" href="/?q=b%c3%b6r%c3%bc">börü</a> <br/><a class="b" href="/?q=%c3%a7iftlik+bank">çiftlik bank</a><br/><a class="b" href="/?q=prostat+kanseri">prostat kanseri</a><br/><a class="b" href="/?q=muharrem+ince">muharrem ince</a><br/><a class="b" href="/?q=konkordato">konkordato</a><br/><a class="b" href="/?q=yeni+i%c5%9f+fikirleri">yeni iş fikirleri</a><br/><a class="b" href="/?q=bedelli+askerlik">bedelli askerlik</a><br/><a class="b" href="/?q=la+casa+de+papel">la casa de papel</a><br/><a class="b" href="/?q=prozac">prozac</a><br/><a class="b" href="/?q=%c3%a7ukur">çukur</a><br/><a class="b" href="/?q=enes+batur">enes batur</a><br/><a class="b" href="/?q=ufak+tefek+cinayetler">ufak tefek cinayetler</a><br/><a class="b" href="/?q=gittigidiyor">gittigidiyor</a><br/><a class="b" href="/?q=survivor+2018">survivor 2018</a><br/><a class="b" href="/?q=meral+ak%c5%9fener">meral akşener</a><br/><a class="b" href="/?q=ziya+sel%c3%a7uk">ziya selçuk</a><br/><a class="b" href="/?q=tinder">tinder</a><br/><a class="b" href="/?q=stockholm+sendromu">stockholm sendromu</a><br/><a class="b" href="/?q=black+mirror">black mirror</a><br/><br/>hangi sayfalara göz attılar?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/basliklar/gundem" title="https://eksisozluk.com/basliklar/gundem">gündem</a><br/><a class="b" href="/?q=la+casa+de+papel">la casa de papel</a><br/><a class="b" href="/?q=bedelli+askerlik">bedelli askerlik</a><br/><a class="b" href="/?q=survivor+2018+all-star">survivor 2018 all-star</a><br/><a class="b" href="/?q=ufak+tefek+cinayetler">ufak tefek cinayetler</a><br/><a class="b" href="/?q=2018+ekonomik+krizi">2018 ekonomik krizi</a><br/><a class="b" href="/?q=%c3%a7iftlik+bank">çiftlik bank</a><br/><a class="b" href="/?q=%c3%a7ukur+(dizi)">çukur (dizi)</a><br/><a class="b" href="/?q=bitcoin">bitcoin</a><br/><a class="b" href="/?q=muharrem+ince">muharrem ince</a><br/><br/>sosyal medya kanallarında en çok paylaşılan entry’ler<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/83791843" title="https://eksisozluk.com/entry/83791843">polise çığlık atan hocanın suçsuz olması</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/77294317" title="https://eksisozluk.com/entry/77294317">paint it black'ın çalıntı olması</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/77810330" title="https://eksisozluk.com/entry/77810330">stay hungry stay foolish</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/80226960" title="https://eksisozluk.com/entry/80226960">ben ali ihsan varol sorularınızı cevaplıyorum</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/77261945" title="https://eksisozluk.com/entry/77261945">dolara müdahale yerine paladin basmak</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/77094842" title="https://eksisozluk.com/entry/77094842">vefat eden arkadaşın son isteğini yerine getirmek</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/79549647" title="https://eksisozluk.com/entry/79549647">iş görüşmesinde let's continue in english denen an</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/79822104" title="https://eksisozluk.com/entry/79822104">türk insanında kişisel alan kavramının olmayışı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/79971406" title="https://eksisozluk.com/entry/79971406">merhaba ben ayşen gruda sorularınızı cevaplıyorum</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/73413846" title="https://eksisozluk.com/entry/73413846">türkiye simülasyonunu başarıyla geçtiniz</a><br/><br/>sosyal medya kanallarında en çok paylaşılan başlıklar<br/><br/><a class="b" href="/?q=polise+%c3%a7%c4%b1%c4%9fl%c4%b1k+atan+hocan%c4%b1n+su%c3%a7suz+olmas%c4%b1">polise çığlık atan hocanın suçsuz olması</a><br/><a class="b" href="/?q=ben+meral+ak%c5%9fener+sorular%c4%b1n%c4%b1z%c4%b1+cevapl%c4%b1yorum">ben meral akşener sorularınızı cevaplıyorum</a><br/><a class="b" href="/?q=bedelli+askerlik">bedelli askerlik</a><br/><a class="b" href="/?q=ben+danla+bilic+sorular%c4%b1n%c4%b1z%c4%b1+bekliyorum">ben danla bilic sorularınızı bekliyorum</a><br/><a class="b" href="/?q=al%c4%b1m+g%c3%bcc%c3%bcn%c3%bcn+d%c3%bc%c5%9ft%c3%bc%c4%9f%c3%bcn%c3%bc+g%c3%b6steren+k%c3%bc%c3%a7%c3%bck+detaylar">alım gücünün düştüğünü gösteren küçük detaylar</a><br/><a class="b" href="/?q=stephen+hawking">stephen hawking</a><br/><a class="b" href="/?q=i%c5%9f+m%c3%bclakatlar%c4%b1nda+sorulan+sinir+sorulara+cevaplar">iş mülakatlarında sorulan sinir sorulara cevaplar</a><br/><a class="b" href="/?q=survivor+2018+all-star">survivor 2018 all-star</a><br/><a class="b" href="/?q=ilk+ba%c5%9fta+be%c4%9fenilmeyip+zamanla+sevilen+%c5%9feyler">ilk başta beğenilmeyip zamanla sevilen şeyler</a><br/><a class="b" href="/?q=e-devlet+alt-%c3%bcst+soy+bilgisi+sorgulama">e-devlet alt-üst soy bilgisi sorgulama</a><br/><br/>birtakım gereksiz bilgiler<br/><br/>işletim sistemleri <br/><br/>android %39,65<br/>ios %34,88<br/>windows %23,36<br/>macintosh %1,19<br/>linux %0,40<br/>windows phone %0,09<br/>samsung %0,04<br/>tizen %0,02<br/>chrome os %0,01<br/>blackberry %0,01<br/><br/>tarayıcılar <br/><br/>chrome %57,18<br/>safari %31,48<br/>samsung internet %3,11<br/>android webview %1,61<br/>opera %1,17<br/>firefox %1,06<br/>internet explorer %0,98<br/>safari(in-app) %0,97<br/>edge %0,63<br/>android browser %0,63
-  entry_channels: ekşi-sözlük
-- entry_name: |
-    bir şirketin kurumsal olmadığını gösteren detaylar
-  entry_id:  84860731
-  entry_writer: moon stars
-  entry_fav_count: 241
-  entry_content: |
-    lise mezunu ceo ve şirket sahipleri;<br/><br/>todd jones, publix<br/>richard a. gonzalez, abbvie<br/>john p. mackey, whole foods market<br/>sheldon adelson, las vegas sands<br/>robert w. pittman, iheartmedia<br/>john p. tague, hertz global holdings<br/>larry d. young, dr. pepper<br/><br/>veya steve jobs ya da ismini yazma zahmetinde bulunmayacağım pek çok iş sahibinin firmasında çalışmayı hedefleyen nice mühendis tanıyorum.<br/><br/>yönetici olduğum dönemde üniversite mezunu olmayan pek çok kişiyi performansı sebebi ile terfi ettirdik. <br/><br/>paşam üniversite mezunu diye tüm kapıların önüne açılıp halılar serileceğini düşünüyor olabilir. ama sen yine unutma mezun olduğun okulun zerre kadar önemi yok. o okul sana bir şey kattıysa göster hünerini. yoksa bir hayat mızmızlanmakla geçer durur.
-  entry_channels: anket,ekonomi
 - entry_name: |
     roboski katliamı
   entry_id:  84861279
@@ -126,7 +102,7 @@ data:
     çocuk sahibi olunca hayatın kaydığı gerçeği
   entry_id:  84860879
   entry_writer: alain badiou
-  entry_fav_count: 155
+  entry_fav_count: 159
   entry_content: |
     ailecilik adına çocuk sahibi olmanın bu denli kutsandığı ortamda doğru bir tespittir. kendilerini çocuk yapmak zorunda hissediyor çiftler, aşilması gereken bir aşama gibi. hayatı ezbere yaşayanların bir sağ kalma hilesidir çocuk yapmak. çocuğun hayati da kendi hayatlariyla birlikte kayar.
   entry_channels: ilişkiler
@@ -134,10 +110,18 @@ data:
     doktor maaşının minimum 18 bin lira olması
   entry_id:  84865945
   entry_writer: obayramlar
-  entry_fav_count: 107
+  entry_fav_count: 108
   entry_content: |
     yine yine yine yazıyorum.. doktorum.. maaşım 2900, toplamda elime geçen 4800.. <br/><br/>ama yuvarlarsan 18000 diyebiliriz tabii mk!
   entry_channels: ekonomi
+- entry_name: |
+    trakya'nın hiçbir işe yaramaması
+  entry_id:  84878825
+  entry_writer: ittin bittin
+  entry_fav_count: 102
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bir+provokat%c3%b6r%c3%bcn+g%c3%bcnl%c3%bc%c4%9f%c3%bc">bir provokatörün günlüğü</a>)
+  entry_channels: anket
 - entry_name: |
     seçilirsem chp rozetimi çıkaracağım
   entry_id:  84871671
@@ -147,18 +131,18 @@ data:
     o zaman bağımsız girecektin demezler mi adama?<br/><br/>edit: yazdığım cümleden nasıl gerçekten bağımsız girmesini istediğim anlamını çıkarıyorsunuz? bağımsız giremezdi tabii ki. ama seçildiğin partinin rozetini belediye başkanlığı için çıkarman gerekmez. çünkü sen cumhurbaşkanı değilsin! nihayetinde yapacağın sosyal projeler ya da altyapı çalışmaları insanların anayasal hakları üzerinde değişiklik yaratmaz. öyle olsa tüm belediye başkanı adaylarının bağımsız olması gerekirdi.
   entry_channels: siyaset,haber
 - entry_name: |
-    trakya'nın hiçbir işe yaramaması
-  entry_id:  84878825
-  entry_writer: ittin bittin
-  entry_fav_count: 90
+    sahibinden.com'daki özel ders ilanı
+  entry_id:  84880849
+  entry_writer: arnatuile
+  entry_fav_count: 93
   entry_content: |
-    (bkz: <a class="b" href="/?q=bir+provokat%c3%b6r%c3%bcn+g%c3%bcnl%c3%bc%c4%9f%c3%bc">bir provokatörün günlüğü</a>)
-  entry_channels: anket
+    zinciri biz mi getireceğiz, ilanı verenler mi bağlayacak. o kısmı anlayamadım.
+  entry_channels: 
 - entry_name: |
     şans oyunlarından kazanılan en yüksek ikramiye
   entry_id:  84867521
   entry_writer: bira pringles skysport
-  entry_fav_count: 59
+  entry_fav_count: 60
   entry_content: |
     12 yaşından bugüne oynamadığım şans oyunu, bahis türevi kalmadı. gecenin 3'ünde oynayacak bir şey bulamadım, yurttan arkadaşlarla parasına yazı tura attım. askerde bahisten uzak kalamadım, şu taşı ilk vurana 5 marlboro yarışması ile acemi birliğini sigara almadan tamamladım.<br/><br/>bahis, kumar seven bilir. almak-yapmak istediğiniz bir şey varsa ve ona paran yetmiyorsa kafada hızlı hesaplar yapılır. beraberliğe gömülmüş fransa 2. ligi ve üstçülerin kabesi hollanda 2. ligi için mübarek cuma kuponları yapılır. yine böyle geçen bir haftada varı yoğu iddia'ya basıp pazartesi gününe 3 lira ile kalmıştım. üniversitedeyim, kız arkadaşımla 2 gün sonra yıldönümümüz ve beş parasızım. <br/><br/>3 lirayla oynanabilecek en güzel şans oyunu on numaradır. şansın yüksektir ama kazanacağın miktar azdır. olsun. 10'da 8 bilerek kazandığım 110 lira o dönem ankara'da bir italyan restoranına götürdü bizi. 1 şişe şarap, 2 makarna sonucu cepte 6 lira kaldı. onu da akşam yazı turada yedim. <br/><br/>edit: haftada bir kez 3 liralık zevk kuponundan başka bahis-kumar ilişkim kalmadı arkadaşlar banko maç istemeyelim lütfen :/
   entry_channels: anket
@@ -166,7 +150,7 @@ data:
     en üstün ırk türkler en üstün türk atatürk'tür
   entry_id:  84874154
   entry_writer: coincidences
-  entry_fav_count: 57
+  entry_fav_count: 59
   entry_content: |
     türk olmayanların tek hakkı hizmet etme hakkıymış :)<br/><br/>her millette olduğu gibi ırkçıların aptal olma hakkı dışında türk milletine yada diğer milletlere özel bir hak yok maalesef.<br/><br/>bunu almanya'da isviçre'de ve diğer bir çok avrupa ülkesinde tuvalet temizleyen türklere de anlatmalısın.
   entry_channels: siyaset
@@ -174,7 +158,7 @@ data:
     sözlükçülerin buyrun benim seansı konuk önerileri
   entry_id:  84871614
   entry_writer: applefanboy
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     (bkz: <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan">recep tayyip erdoğan</a>)
   entry_channels: anket,ekşi-sözlük
@@ -195,13 +179,13 @@ data:
     çokonat &gt; çikolatalı gofret
   entry_channels: yeme-içme
 - entry_name: |
-    16 yıllık ak parti iktidarının en itici 3 figürü
-  entry_id:  84854649
-  entry_writer: caming back
-  entry_fav_count: 40
+    evli erkeklerin erken çökmesi
+  entry_id:  84874452
+  entry_writer: gravatli okuz
+  entry_fav_count: 41
   entry_content: |
-    bekir bozdağ <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/imgres?imgurl=http:%2F%2Fi.hurimg.com%2Fi%2Fhurriyet%2F75%2F750x422%2F5bc97887c03c0e0e68084af0.jpg&amp;imgrefurl=http:%2F%2Fwww.hurriyet.com.tr%2Fgundem%2Fbekir-bozdagdan-danistayin-ogrenci-andi-kararina-tepki-40991543&amp;docid=Fh_fxV0agPQVNM&amp;tbnid=ww0f7ST68dMIyM:&amp;vet=10ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwg-KAEwAQ..i&amp;w=750&amp;h=422&amp;bih=970&amp;biw=1920&amp;q=bekir bozdağ&amp;ved=0ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwg-KAEwAQ&amp;iact=mrc&amp;uact=8" title="https://www.google.com/imgres?imgurl=http:%2F%2Fi.hurimg.com%2Fi%2Fhurriyet%2F75%2F750x422%2F5bc97887c03c0e0e68084af0.jpg&amp;imgrefurl=http:%2F%2Fwww.hurriyet.com.tr%2Fgundem%2Fbekir-bozdagdan-danistayin-ogrenci-andi-kararina-tepki-40991543&amp;docid=Fh_fxV0agPQVNM&amp;tbnid=ww0f7ST68dMIyM:&amp;vet=10ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwg-KAEwAQ..i&amp;w=750&amp;h=422&amp;bih=970&amp;biw=1920&amp;q=bekir bozdağ&amp;ved=0ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwg-KAEwAQ&amp;iact=mrc&amp;uact=8">kendisi</a><br/>bekir bozdağ sırıtışı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/imgres?imgurl=https:%2F%2Fwww.biyografi.info%2Fpersonpicture%2Fbekirbozdag.jpg&amp;imgrefurl=https:%2F%2Fwww.biyografi.info%2Fkisi%2Fbekir-bozdag&amp;docid=sCEUVnBBIJT1oM&amp;tbnid=KK5b1LkRHuzVhM:&amp;vet=10ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwhmKBwwHA..i&amp;w=168&amp;h=212&amp;bih=970&amp;biw=1920&amp;q=bekir bozdağ&amp;ved=0ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwhmKBwwHA&amp;iact=mrc&amp;uact=8" title="https://www.google.com/imgres?imgurl=https:%2F%2Fwww.biyografi.info%2Fpersonpicture%2Fbekirbozdag.jpg&amp;imgrefurl=https:%2F%2Fwww.biyografi.info%2Fkisi%2Fbekir-bozdag&amp;docid=sCEUVnBBIJT1oM&amp;tbnid=KK5b1LkRHuzVhM:&amp;vet=10ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwhmKBwwHA..i&amp;w=168&amp;h=212&amp;bih=970&amp;biw=1920&amp;q=bekir bozdağ&amp;ved=0ahUKEwi9ncWU8MHfAhUmtYsKHZbeAgwQMwhmKBwwHA&amp;iact=mrc&amp;uact=8">sırıtışı</a><br/>bekir bozdağ bıyığı<a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?q=bekir+bozdağ&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwim4pOT8MHfAhVnkIsKHWowBasQ_AUIDygC&amp;biw=1920&amp;bih=970#imgrc=d2CYtqxbFThXtM:" title="https://www.google.com/search?q=bekir+bozdağ&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwim4pOT8MHfAhVnkIsKHWowBasQ_AUIDygC&amp;biw=1920&amp;bih=970#imgrc=d2CYtqxbFThXtM:">bıyığı</a>
-  entry_channels: siyaset,anket
+    2 sene önce düğününe gidip, kafamıza gravatları takıp halay çektiğimiz adamı geçen elinde market poşetleri, karısının kucağında bebesiyle gördüm...<br/><br/>-ne o len fikret dedemin pörsümüş götüne dönmüşün olm bu ne hâl dedim..<br/>+sen evlenmedin di mi halâ öküz dedi<br/>-evlenmedim dedim..<br/>+evlen de gör ebenin amını dedi..<br/><br/>adam haklı amnk, hem sıfatı, hem de ağzı dedemin osuruklu götüne dönmüş amk..
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     eşin ağır bir hastalık geçirse ona bakar mısın
   entry_id:  84872715
@@ -227,13 +211,13 @@ data:
     kadın kurbanı olmuş bir vaka daha. karısı bok varmış gibi tatil yerinden aynı gün fotoğraf paylaştı bunlar başına geldi. kadın milleti işte gösteriş hastası, instagram manyakları
   entry_channels: spor
 - entry_name: |
-    evli erkeklerin erken çökmesi
-  entry_id:  84874452
-  entry_writer: gravatli okuz
-  entry_fav_count: 34
+    doğan holding yeni yıl partisi rezaleti
+  entry_id:  84881386
+  entry_writer: gecenyinebeynimyok
+  entry_fav_count: 35
   entry_content: |
-    2 sene önce düğününe gidip, kafamıza gravatları takıp halay çektiğimiz adamı geçen elinde market poşetleri, karısının kucağında bebesiyle gördüm...<br/><br/>-ne o len fikret dedemin pörsümüş götüne dönmüşün olm bu ne hâl dedim..<br/>+sen evlenmedin di mi halâ öküz dedi<br/>-evlenmedim dedim..<br/>+evlen de gör ebenin amını dedi..<br/><br/>adam haklı amnk, hem sıfatı, hem de ağzı dedemin osuruklu götüne dönmüş amk..
-  entry_channels: ilişkiler,sağlık
+    gerçekten çok büyük dertler var, okurken içim parçalandı.
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  84854891
@@ -243,45 +227,45 @@ data:
     bugün sokak köpeğine haram diye tekme atan suriyeliyi yere yatırıp tekmeledim kaçtım.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    sahibinden.com'daki özel ders ilanı
-  entry_id:  84880849
-  entry_writer: arnatuile
-  entry_fav_count: 31
-  entry_content: |
-    zinciri biz mi getireceğiz, ilanı verenler mi bağlayacak. o kısmı anlayamadım.
-  entry_channels: 
-- entry_name: |
-    11 tl ile bir insanı engelinden kurtarmak
-  entry_id:  84873201
-  entry_writer: futboldan bihaber federasyon baskani
-  entry_fav_count: 29
-  entry_content: |
-    şiir kitabı çıkartan ömer faruk morkoç, yaklaşık 50.000 kitap sattığı takdirde gerekli 200.000 tl’yi kazanıp, kök hücre tedavisi olup ayağa kalkabilecek. aşağıda hem kendisinin instagram hesabı hem de kitabı satın almamız için <a rel="nofollow noopener" class="url" target="_blank" href="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972" title="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972">link</a> var. kitabın satış fiyatı 11 tl. bunun 4.5 tl’si kendisine kalıyor. sözlükte duyurmak istedim, umarım en kısa sürede bu parayı toplayabilir.<br/><br/>instagram adresi: <a rel="nofollow noopener" class="url" target="_blank" href="https://instagram.com/engelsiz_yazar?utm_source=ig_profile_share&amp;igshid=1ll4j29gdyg3e" title="https://instagram.com/engelsiz_yazar?utm_source=ig_profile_share&amp;igshid=1ll4j29gdyg3e">https://instagram.com/…e_share&amp;igshid=1ll4j29gdyg3e</a><br/><br/>kitap linki: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972" title="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972">https://m.kitapyurdu.com/…tdetail&amp;product_id=484972</a><br/><br/>edit: haklı olarak neden doğrudan kendisinin hesabına 11 tl göndermiyoruz diyen arkadaşlar var, kendisine sorduğumda o şekilde doğrudan bağış toplamak istemediğini belirtti. ayrıca doğrudan bağış toplamanın prosedürleri de farklı biliyorsunuz, valilik izni vs gerekiyor. tekrar etmem gerekir ki kendisi para dilenmiyor, sadece kitabı satılırsa kazancıyla tedavi olmak istiyor. her şeyi de hemen “bağış”a bağlamayalım.<br/><br/>ayrıca bkz. (bkz: <a class="b" href="/entry/84874595">#84874595</a>)
-  entry_channels: edebiyat,sağlık,haber
-- entry_name: |
     ekrem imamoğlu cuma'ya gitti diye çıldıran basın
   entry_id:  84879024
   entry_writer: xrated
-  entry_fav_count: 25
+  entry_fav_count: 34
   entry_content: |
     bu adam hep cumaya gidiyordu. hatta cemaatle cikista baya sohbet ediyor, dertlerini dinliyordu. kac kez sahit oldum.
   entry_channels: siyaset,haber
 - entry_name: |
+    11 tl ile bir insanı engelinden kurtarmak
+  entry_id:  84873201
+  entry_writer: futboldan bihaber federasyon baskani
+  entry_fav_count: 33
+  entry_content: |
+    şiir kitabı çıkartan ömer faruk morkoç, yaklaşık 50.000 kitap sattığı takdirde gerekli 200.000 tl’yi kazanıp, kök hücre tedavisi olup ayağa kalkabilecek. aşağıda hem kendisinin instagram hesabı hem de kitabı satın almamız için <a rel="nofollow noopener" class="url" target="_blank" href="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972" title="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972">link</a> var. kitabın satış fiyatı 11 tl. bunun 4.5 tl’si kendisine kalıyor. sözlükte duyurmak istedim, umarım en kısa sürede bu parayı toplayabilir.<br/><br/>instagram adresi: <a rel="nofollow noopener" class="url" target="_blank" href="https://instagram.com/engelsiz_yazar?utm_source=ig_profile_share&amp;igshid=1ll4j29gdyg3e" title="https://instagram.com/engelsiz_yazar?utm_source=ig_profile_share&amp;igshid=1ll4j29gdyg3e">https://instagram.com/…e_share&amp;igshid=1ll4j29gdyg3e</a><br/><br/>kitap linki: <a rel="nofollow noopener" class="url" target="_blank" href="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972" title="https://m.kitapyurdu.com/index.php?route=products/productdetail&amp;product_id=484972">https://m.kitapyurdu.com/…tdetail&amp;product_id=484972</a><br/><br/>edit: haklı olarak neden doğrudan kendisinin hesabına 11 tl göndermiyoruz diyen arkadaşlar var, kendisine sorduğumda o şekilde doğrudan bağış toplamak istemediğini belirtti. ayrıca doğrudan bağış toplamanın prosedürleri de farklı biliyorsunuz, valilik izni vs gerekiyor. tekrar etmem gerekir ki kendisi para dilenmiyor, sadece kitabı satılırsa kazancıyla tedavi olmak istiyor. her şeyi de hemen “bağış”a bağlamayalım.<br/><br/>ayrıca bkz. (bkz: <a class="b" href="/entry/84874595">#84874595</a>)
+  entry_channels: edebiyat,sağlık,haber
+- entry_name: |
     20 tl ile yapılabilecek en iyi şey
   entry_id:  84877592
   entry_writer: magule180
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     3 dolar almak.
   entry_channels: anket
 - entry_name: |
-    28 aralık 2018 fenerbahçe beko real madrid maçı
-  entry_id:  84880956
-  entry_writer: markovic
-  entry_fav_count: 10
+    su getiren küçük çocuğun birazını içmesi
+  entry_id:  84862907
+  entry_writer: waterhardeningsteel
+  entry_fav_count: 11
   entry_content: |
-    huzurevinin sahnede olduğu bir diğer euroleague maçı. ulan madrid'i kitlemişiz, savunmamız üst düzeyde bağırsanıza ateşlesinize biraz takımı obradovic'in sesi duyuluyor sessizlikten. eskiden fenerbahçe abdi ipekçi'de oynarken nasıl gergin ve sert bir ortam olduğunu hatırlayın ataşehir'deki salona gelen gelir seviyesi yüksek kesim ses telleri acır diye korkuyor sanırım. aynı durumu yeni stada geçtikten sonra futbolda beşiktaş da yaşıyor.<br/><br/>edit : al işte amk geri döndü real madrid opera değil de maç izlemeye gelen adam gibi bir taraftar kitlesi olsa bu maç ikinci periyotta kopmuştu.
-  entry_channels: spor
+    tatlandırmak amaçlıdır. benim yavrum da ben su içmeden evvel bir iki yudum alır tatlandırayım annecim derdi küçükken <br/>bi yudum suyu zehir zıkkım edebilme becerisini sonradan, büyüyünce öğreniyoruz .
+  entry_channels: 
+- entry_name: |
+    şeyma subaşı
+  entry_id:  84876852
+  entry_writer: teo the leo
+  entry_fav_count: 8
+  entry_content: |
+    acun'u fena halde komik duruma düşürmüştür. sen karını daha genç kadın için boşa, genç karın da seni daha genç erkek için boşasın.<br/><br/>yeni enişte de italyan porno oyuncusu erkeklere benzeyen yakışıklı kaslı bir tip. italyanmış zaten.
+  entry_channels: moda,magazin
 - entry_name: |
     muharrem ince
   entry_id:  84855746
@@ -291,13 +275,13 @@ data:
     kaybedilecek olan önümüzdeki yerel seçimlerden sonra chp'nin başına geçeceğini düşündüğüm en önemli isimlerden biri. atatürk'çü bir yurtsever olarak benim açımdan üç kritik hata yapmıştır.<br/><br/>1. terörist başı aponun heykelini dikmek isteyen birini ziyaret etmesi.(her ne kadar ben herkesi usülen ziyaret ettim dese bile bunu yapmamalıydı, keşke kimseyi ziyaret etmeyip twitterdan tüm adaylar için hayırlı olsun mesajı paylaşsa yeterdi, zaten hiçbirşey kazandırmadı aksine kaybettirdi.)<br/>2. afrin operasyonunun kahraman komutanı ismail temel paşanın yaptığı yanlışa aşırı agresif bir tutumla yaklaşmayıp, böylesine önemli bir paşaya bu olayı yakıştıramadığını söyleyip milletin insafına havale etseydi durumu, çok şık olurdu.<br/>3. fetö elebaşının usülüne göre istenmediğini söyleyip, çok önemli kaynaklardan aldım bu haberi diyerek kaynağını açıklamaması.(bu haberi veren kişiyi koruma amaçlı olsa bile, kaynağı fetöcülerden almıştır şeklinde lanse edildi ve insanlar buna inandı,böylesine kritik zamanlarda çatır çatır belge ve kaynak sunacaktınız ki akp seçmenini de yanınıza alacaktınız)<br/><br/>bu üç hatadan sonra zaten halihazırda akp'ye oy veren kesimin kafasında olan fetö,dış güçler,iç güçler gibi meseleleri medya gücünü de kullanarak, kendisiyle bağdaştırdılar ve akp'ye oy veren kesimde yankı buldu.<br/><br/>ayrıca baştan tüm olayın içine eden ''gel bakalım muharrem'' diye cumhurbaşkanı adayı tanıtan kılıçdaroğlu'nun sinsiliğine hiç değinmiyorum.
   entry_channels: siyaset,haber,eğitim,ekonomi
 - entry_name: |
-    mustafa cengiz
-  entry_id:  84873670
-  entry_writer: kurtz
-  entry_fav_count: 5
+    börü
+  entry_id:  84860817
+  entry_writer: toker
+  entry_fav_count: 6
   entry_content: |
-    aga siz aptal mısınız taklit mi yapıyorsunuz? fatih terim'in olduğu yerde fatih terim istemeden bir futbolcuyu kadrodışı bırakıp satmaya çalışacak bir yönetim olamaz. fatih hocanın yaptığı işin faturası da yönetime çıkıyor, iyice çığrından çıktı iş. vurun abalıya durumu var artık.
-  entry_channels: spor
+    filmi galasında izleme fırsatı buldum. sıcağı sıcağına kısaca ilk önizlememi paylaşmak istiyorum. klasik bir filmin vermek istediklerini veriyor. yeri geliyor bol duygu yoğunluğu yaşatıyor yeri geliyor güldürüyor. baştan sana durmayan bi aksiyona sahip. (bkz: <a class="b" href="/?q=alper+%c3%a7a%c4%9flar">alper çağlar</a>) ülkemizin izleyici kitlesini iyi analiz etmiş ve ona göre serum hazırlamış. ayrıca diğer takdir ettiğim konu ise teknik detayları oldu. görüntü yönetmenliğini dizisinden de hatırladığımız (bkz: <a class="b" href="/?q=ender+ercan">ender ercan</a>) yapıyor. genç ve yeni bir isim olmasına rağmen işin hakkını fazlasıyla vermiş. ayrıca filmin efektleri de oldukça başarılıydı. özellikle uçak sahneleri baya baya iyi yapılmış. ülke sineması için güzel adımlar atan alper çağlar’ı ve ekibini tebrik ederim.
+  entry_channels: tv,sinema,edebiyat,spoiler
 - entry_name: |
     getir'in kadın pedini ayrı pakette göndermesi
   entry_id:  84858835
@@ -307,29 +291,37 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a986d0be4825">https://eksiup.com/a986d0be4825</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/dbc98dcef857">https://eksiup.com/dbc98dcef857</a><br/><br/>sevgili kadınlar sözlükteki gerzekleri tespit edeceğiniz yeni bir başlık daha açıldı. kaç kişi yazarın viral reklam yaptığını söylemiş, ben dahil bir kaç kişi de şahsın erkek olduğunu belirtmiş ama olsun, biz yine de kadın ve feministlere nefret kusalım. ne de olsa ekonominin, hukukun, demokrasinin bu kadar kötü gitmesinin tek nedeni feministler. devlet bahçeli bile feministlere uyduktan sonra tayyipçi oldu. <br/><br/>oğlum harbi ağır vakasınız üzülüyorum sizin için. bu kadar beyin terk ve gerizekalı olmanıza ayrı, içinizin bu kadar nefretle dolu olmasına ayrı üzülüyorum. en az 100 kez şöyle saçma başlıkları açan ya da hortlatanların çoğu erkek çıkmasına karşın, hep aynı tuzağa düşmeye devam ediyorsunuz. çok normal, gerizekalısınız çünkü. neyse buyrun sizi başlık altındaki alıkları engellemeye davet ediyorum.
   entry_channels: anket
 - entry_name: |
-    reddedilince hemen vazgeçen insan
-  entry_id:  84860114
-  entry_writer: simdigalatadabirmeyhanede
+    barda kıza yanaşıp its raining cats and dogs demek
+  entry_id:  84881718
+  entry_writer: scandiacus
+  entry_fav_count: 4
+  entry_content: |
+    atanamayan shakespeare kardeşimize "it's raining cats and dogs" demenin doğru olduğunu belirtmeyi boynumun borcu bildiğim durumumsu.
+  entry_channels: 
+- entry_name: |
+    düşün ki o bunu okuyor
+  entry_id:  84860695
+  entry_writer: mjorate
   entry_fav_count: 3
   entry_content: |
-    ya ne yapacakti? <br/>reddedene kaşıkçı elmasi muamelesi yapip kapisinda mi yatacakti?<br/><br/>su hayatta iliskiler boksa, reddetmek veya terk etmek yuzunden degil.<br/><br/>reddedilenin bir bokmus gibi pesinden kosulmas istemesi.<br/>terk edenin, terk edilen tarafindan yalvarilmasini kapisinda kopek olunmasini nolur beni birakma diye aglamasini istemesi yuzunden.<br/><br/>arkadaslar size bi sır vereyim mi? filmin sonunda hepimiz ölüyoruz.<br/>hayat, reddeden ugruna aglamak icin fazla kisa ve guzel.
-  entry_channels: anket,ilişkiler
+    sevgili zaman,<br/><br/>bir tek senin izin kaliyor uzerimde, biliyorsun degil mi?<br/><br/>tabii ki yara izlerim var bedenimde, kimse sormamis olsa da, gizli gizli seviyorum onlari. aynaya bakarken gormussundur belki, izlerime de bakiyorum. senin hangi aninda nasil olustu o yaralar diye, hep yad ediyorum.<br/><br/>da iste, sen de biliyorsun, bir sen iz biraktin uzerimde.
+  entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  84856232
-  entry_writer: inglisticir
-  entry_fav_count: 2
+    ders çalışmamak için yapılan anlamsız hareketler
+  entry_id:  84881173
+  entry_writer: agresifcan
+  entry_fav_count: 3
   entry_content: |
-    sosyal psikoloji için güzel bi veri tabanı bu başlık.<br/><br/>kadınlardan nefret edip de, neden buraya "kadınlar yazsın" diye yazar bi adam?<br/><br/>feminaziler ne kadar ruh hastasıysa kadın düşmanları da öyle. birbirinizi bulursunuz umarım.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    ders çalışacaktım dolabı açıp notlarımı alayım dedim. sonra nedense dolap çok karışmış geldi gözüme. şu an koca dolabı tamamen indirdim tozunu alıp geri diziyorum.<br/><br/>evet.
+  entry_channels: anket,eğitim
 - entry_name: |
-    beşiktaş tarihinin en itici üç figürü
-  entry_id:  84867514
-  entry_writer: kimse de demiyor ki abi bu nedir
-  entry_fav_count: 2
+    28 aralık 2018 fenerbahçe beko real madrid maçı
+  entry_id:  84881487
+  entry_writer: ckitax
+  entry_fav_count: 3
   entry_content: |
-    buradan caneri tebrik etmek istiyorum. her takimin itici 3lu listesinde adi geciyor.
-  entry_channels: spor,anket
+    jan vesely az önce yeterince agresif değiliz dedi. olum manyak mısınız daha ne olacak.
+  entry_channels: spor
 - entry_name: |
     yazarların nicklerinin hikayeleri
   entry_id:  84877643
@@ -347,13 +339,13 @@ data:
     lenf nodlarım şişmiş, umarım grip dolayısıyladır. son dakika golü atma, kanser manser uğraştırma sikmiyim belanı 2018 <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,tarih
 - entry_name: |
-    karakomik filmler
-  entry_id:  84878955
-  entry_writer: forrestgump
-  entry_fav_count: 1
+    şu anda çalan şarkı
+  entry_id:  84871639
+  entry_writer: redyblack
+  entry_fav_count: 0
   entry_content: |
-    fragmanı hiçbir şey vaat etmemesine ve zerre kadar merak uyandırmamasına rağmen ilk gününde gideceğim film.<br/><br/>vizyon tarihi de belirsiz ayrıca... çünkü film yapımcıları patlamış mısırı mecburi hale getiren cinemaximum'la dövüşüyorlar. yalnız bak o olayın sonucu merak uyandırıyor.
-  entry_channels: sinema
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/yCcKRJ8me6E" title="https://youtu.be/yCcKRJ8me6E">şebnem ferah- babam oğlum</a>
+  entry_channels: anket,müzik
 - entry_name: |
     sözlük yazarlarının okumakta olduğu kitaplar
   entry_id:  84869260
@@ -363,13 +355,13 @@ data:
     peyami safa-yalnızız
   entry_channels: anket,ekşi-sözlük,edebiyat
 - entry_name: |
-    ingilizcedeki en samimiyetsiz kelime
-  entry_id:  84857930
-  entry_writer: alabamaclarence
+    karakomik filmler
+  entry_id:  84881813
+  entry_writer: fatalatal
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=pathetic">pathetic</a>)
-  entry_channels: anket
+    kesinlikle son filmlerinden daha boktan bir film olacak. genel olarak artık şaşırtmıyor çünkü cem yılmaz. hep kötü film yapma gayetinde ama bu sefer gitmeyeceğim filmine. her seferine boşa zaman öldürüyoruz, sinirlendiğimizde cabası.<br/><br/>olmamış cmylmz....
+  entry_channels: sinema
 - entry_name: |
     heteroseksüel erkekler istemiyoruz
   entry_id:  84870663
@@ -377,7 +369,7 @@ data:
   entry_fav_count: 0
   entry_content: |
     o zaman da erkeklere tecavüz riski oluşmaz mı?
-  entry_channels: 
+  entry_channels: ilişkiler
 - entry_name: |
     erkekleri ağlatan filmler
   entry_id:  84880619
@@ -386,6 +378,14 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=brokeback+mountain">brokeback mountain</a>)<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,sinema
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  84880300
+  entry_writer: xreax
+  entry_fav_count: 0
+  entry_content: |
+    bu güzel cuma akşamında dert ve tasalarindan kurtulmak isteyen tüm tutsak ruhler, gelin dinlerim.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
   entry_id:  84865952
