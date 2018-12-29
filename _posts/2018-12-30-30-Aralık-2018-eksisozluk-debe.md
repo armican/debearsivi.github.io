@@ -6,23 +6,15 @@ data:
     türkiye'de dinsizliğin artma sebepleri
   entry_id:  84889724
   entry_writer: harzem
-  entry_fav_count: 726
+  entry_fav_count: 729
   entry_content: |
     "oku" dedi, okuduk. yıllarca arapça okuduk. sonra türkçe okuduk. meğer "oku da gör" diyormuş. dinsizlik puanı +1 arttı sonra.<br/><br/>sadece bir kitap okuyunca olmuyor. başka insanların yazdığı kitapları da okumak lazım. sen bi tane kitap okuduğun için takılıp kalmışsın onda. meğer ne kitaplar varmış, senin kitabının etrafında taklalar atabilen. hem de insanlar yazmış, aklı başında insanlar araştırmış yazmış. "oku" diye emretmemiş de. istersen okursun diye yazıp koymuş. sen kafanı kullanıp okusan, meğer ben yıllardır aynı kitabı boşuna okuyormuşum diyeceksin.
   entry_channels: anket
 - entry_name: |
-    ibrance'yi sgk ödesin kampanyası
-  entry_id:  84892756
-  entry_writer: tek replikli basrol
-  entry_fav_count: 689
-  entry_content: |
-    ileri derece kanser hastalarının tedavisinde kullanılan <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ibrance.com/" title="https://www.ibrance.com/">ibrance</a> adlı ilacı sgk ödemiyor. artık ilerlemiş hastalıklarda tek çare olan bu ilacın fiyatı ise hangi ülkeden getirildiğine göre 2.500 euro-10.000 euro arasında değişiklik gösterebiliyor. ve bu sadece tek kürünün fiyatları. bunu en az 6 kür almanız lazım.<br/>ilaç maalesef ülkemizde üretilmiyor.<br/>bu kampanyayı imzalayarak en azından bir farkındalık yaratabilir ve gerekli mecralara sesimizin ulaşmasına katkı sağlayabilirsiniz.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/ileri-evre-meme-kanserinde-yaşamı-uzatan-ilaç-ibrance-yi-sgk-ödemeli" title="https://www.change.org/p/ileri-evre-meme-kanserinde-yaşamı-uzatan-ilaç-ibrance-yi-sgk-ödemeli">buraya tıklayarak kampanyaya destek olabilirsiniz.</a><br/>edit:düşünüyorum makam arabalarına, odalarına, diyanete, verilen lüks kokteylere, kokteylerde verilen "ejder" suyuna harcanan para, sağlık için harcansa, bakın ilacı bedava vermek için bile değil bu tarz ilaçların türkiyede üretilmesi için harcansa daha iyi olmaz mıydı. buna her vatandaşın hak vereceğini düşünüyorum fakat kamuoyunda sağlığın ücretsiz olduğuna dair öyle yaygın bir inanış var ki grip olunca doktora o an para vermediği için insanlar bunun farkında değil. bu ilaç endikasyon dışı bir ilaç. zaten maaalesef onların tabiri ile "sıradan" bi vatandaş iseniz bu ilaç size hiç önerilmiyor bile. fakat ya paranızla ya da "bağlantılarınızla" bir statüye ulaştıysanız bu ilacın varlığından haberdar oluyorsunuz. yıllarca hep düşündüm ünlüler ve yahut zenginler kanser hastalığına yakalandığı zaman bir şekilde sağlıklarına kavuşuyordu. klasik goy goya girmiycem ama hep tedavisinin bulunduğu ama vatandaşa ulaşmadığını düşünüyordum. artık farkettim ki hastalığa yeni yakalandığınızdan itibaren henüz türkiye'ye gelmemiş olan bu çok pahalı ilaçlardan kullanırsanız yaşam süreniz ve bu sürenin kalitesi önemli miktarda artıyor.
-  entry_channels: sağlık,ekonomi
-- entry_name: |
     binali yıldırım'ın anayasayı çiğnemesi
   entry_id:  84905611
   entry_writer: aganin eli opulmez
-  entry_fav_count: 642
+  entry_fav_count: 658
   entry_content: |
     tbmm başkanlığı'ndan istifa etmeden mensubu olduğu partisinin aday tanıtım toplantısında bulunması, adaylığının açıklanması durumudur.<br/><br/>türkiye cumhuriyeti anayasası<br/>94. madde<br/><br/>türkiye büyük millet meclisi başkanı, başkanvekilleri, üyesi bulundukları siyasi partinin veya parti grubunun meclis içinde veya dışındaki faaliyetlerine, görevlerinin gereği olan haller dışında, meclis tartışmalarına katılamazlar; başkan ve oturumu yöneten başkanvekili oy kullanamazlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.tbmm.gov.tr/develop/owa/tc_anayasasi.maddeler?p3=94" title="https://www.tbmm.gov.tr/develop/owa/tc_anayasasi.maddeler?p3=94">https://www.tbmm.gov.tr/…c_anayasasi.maddeler?p3=94</a><br/><br/>edit: "tbmm başkanı siyasi partinin veya parti grubunun meclis içinde veda dışındaki faaliyetlerine katılamaz." bu maddeye rağmen hala anayasaya uygun diyebilenler var. onun ak parti'nin düzenlediği seçim programında bulunması bile suç.<br/><br/>edit2: anayasa'nın çiğnenişini bu kadar normal karşılayamıyorum kusura bakmayın. evet ilk defa çiğnenmiyor ama anayasa biz vatandaşlara karşı uygulanırken, iktidar yanlısı isimlere uygulanmaması zoruma gidiyor. o yüzden gülemiyorum kusura bakmayın.
   entry_channels: siyaset,haber
@@ -30,7 +22,7 @@ data:
     yılbaşı kutlayan şerefini kaybeder
   entry_id:  84887282
   entry_writer: altay horda
-  entry_fav_count: 372
+  entry_fav_count: 374
   entry_content: |
     halkın vergileri ile aç karnını doyuran bingöl müftüsü muharrem genç adlı yaratık tarafından yapılan açıklama.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>bingöl il müftüsü muharrem genç, yeni yıla “gayrimüslimleri taklit ederek girilmemesi”gerektiğini belirterek,“yılbaşında gayrimüslimleri taklit ederek, malımızı israf ederek, harama bulaşarak, yılbaşını kutlamak bir gaflettir. ”yılbaşı kutlayan şerefini kaybeder" dedi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu ülkede şereften bahsedecek en son kişi diyanet mensuplarıdır.<br/>madem şereften bahsediyorsunuz, camilerde seks yapan imamlarınızın, kuran kurslarında çocuk taciz eden görevlilerinizin şerefini sorgulayın.<br/><br/>terbiyesiz herifler.<br/>yılbaşında içilen içkilerden alınan vergiler ile maaşları ödenir, ona ses çıkarmazlar, milletin 3 kuruşluk yılbaşı eğlencesi batar bunlara.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gazetemanifesto.com/2018/bingol-muftusu-yilbasi-kutlayan-serefini-kaybeder-229108/" title="https://gazetemanifesto.com/2018/bingol-muftusu-yilbasi-kutlayan-serefini-kaybeder-229108/">kaynak.</a>
   entry_channels: siyaset,haber
@@ -38,7 +30,7 @@ data:
     osmanlı torunuyum diyene verilebilecek cevaplar
   entry_id:  84899523
   entry_writer: erkanshi
-  entry_fav_count: 308
+  entry_fav_count: 320
   entry_content: |
     (bkz: <a class="b" href="/?q=ben+de+g%c3%b6kt%c3%bcrk+torunuyum">ben de göktürk torunuyum</a>)<br/>veya<br/>(bkz: <a class="b" href="/?q=anneannen+osmanl%c4%b1+hareminde+miydi%3f">anneannen osmanlı hareminde miydi?</a>) nereden torunu oluyorsun denebilir. aslında en güzel cevabı <a rel="nofollow noopener" class="url" target="_blank" href="http://funkyimg.com/i/2PESf.jpg" title="http://funkyimg.com/i/2PESf.jpg">ilber ortaylı vermiş zamanında.</a><br/>"türküm diyemeyenlerin yeni jargonu osmanlı torunuyum, osmanlı bir ailedir, türk ise ırktır. ırkını inkar eden kanı bozuk soysuzdur.. -ilber ortaylı.
   entry_channels: siyaset,anket,ilişkiler,tarih
@@ -46,7 +38,7 @@ data:
     bir erkeğin en tehlikeli cümlesi
   entry_id:  84903129
   entry_writer: egopolog
-  entry_fav_count: 259
+  entry_fav_count: 264
   entry_content: |
     bana söylemek istediğin bir şey var mı ?
   entry_channels: anket,edebiyat
@@ -54,31 +46,31 @@ data:
     ciddi ciddi nba'i euroleague'den üstün gören tip
   entry_id:  84892525
   entry_writer: sampiyonadam
-  entry_fav_count: 204
+  entry_fav_count: 215
   entry_content: |
     allah bilir şampiyonlar ligini de tff 1.ligden üstün görüyordur.<br/>birazdan; şampiyonlar liginin geliri şu kadar, şampiyonlar ligini şu kadar kişi takip ediyor, messi 200 milyon dolar eder, şampiyonlar liginin taktiği heyecanı şöyle böyle, cristiano ronaldo 50 defa hat trick yaptı biliyon mu diyen ergenler damlamadan hemen söyleyeyim malın önde gidenidir.<br/>hayatında hiç şampiyonlar ligi izlememiştir. soktuğumun şampiyonlar liginde kazanan belli sen daha neyin heyecanından bahsediyorsun.<br/>bu şampiyonlar ligi denen vasat ligde daha boş kaleye atamayan sığırlar kaynıyor.<br/>neymiş messi bi maçta 5 gol atmış. salah bi maçta 3 gol atmış da<br/>lan zaten 90 dakikada 10 tane şut deniyor. bunların 3'ü gol girse, bir allah'ın kulu da çıkıp demiyor ki o 7 şutu nereye soktun diye.<br/>yav he he messi çok iyi cristiano ronaldo gelse tff 1.ligi sikertir he...
   entry_channels: spor
 - entry_name: |
+    kadıköy'de doğan çocuk yerli ve milli değildir
+  entry_id:  84911823
+  entry_writer: saintly
+  entry_fav_count: 214
+  entry_content: |
+    geleceğin ışid militanları için mi sınav yapılıyordu acaba? soru gerçekse eğer bu rezil kepazeliğe başka yorum bulamadım.
+  entry_channels: siyaset,anket,haber,eğitim
+- entry_name: |
     kulüp borçlarının devlet tarafından ödenmesi
   entry_id:  84887148
   entry_writer: image90
-  entry_fav_count: 203
+  entry_fav_count: 206
   entry_content: |
     yahu boyle bir sey olabilir mi. topa tekme atmaktan baska ozelligi olmayan ahlaksiz soytarilari daha ne kadar besleyecegiz. ınsanliga zarar bir durum. sirklerde soytarilik yapanlari izlemesem bana bir zarari olmaz. bu beyinsizler soytarilar bir de devlet butcesinden para mi alacak? bunlara bes kurus para verende zerre beyin yok.
   entry_channels: spor,siyaset,ekonomi
 - entry_name: |
-    ak parti ibb adayının binali yıldırım olması
-  entry_id:  84904682
-  entry_writer: bimin aystisi
-  entry_fav_count: 188
-  entry_content: |
-    binali yıldırım akp'nin atiba'sı galiba nerede eksik varsa oraya alınıyor . muazzam .
-  entry_channels: siyaset,haber
-- entry_name: |
     black mirror bandersnatch
   entry_id:  84887519
   entry_writer: ertesiyarin
-  entry_fav_count: 174
+  entry_fav_count: 178
   entry_content: |
     izlemeyenlere fikir vermesi açısından spoilersız bazı kritik bilgiler vermek istiyorum. izleyenler de okuyabilir. önyargılı bir şekilde bölümü izlemeye koyuldum, ilk sona ulaştığımda dedim ki bu ne boktan bir iş olmuş böyle altıüstü iki mouse'a tıkladık falan "aman ne yaratıcı" dedim. fakat arkadaşlar black mirror beni bir güzel göt etti diyebilirim. önemli olan sona ulaşmak sanıyorsun değil mi? çoğu yazar "son"ları boktan bulmuş. yok şöyle oldu yok böyle oldu bitti gitti. dizinin senle taşşak geçtiğini bile fark edemiyorsun ulan. eğer hemen sona ulaşırsanız sakın ola bırakmayın. aslında bu bölümün olayı tamamen bütün sonlara ulaşıp geri dönmek ve bu sefer diğer seçeneğe tıklamak desem hemen ikna olursunuz ama olmayın işte dizi böyle düşüneceğinizi sizden önce biliyor dostum. ilk oynadığımda inatla beni felakete götüren sonucu seçip seçip durdum. dedim bu piçler kesin bunu da düşünmüştür. sence bu diziyi yapanlar senin hiçbir seçeneği seçmezsen ne olacağını düşünmedi mi? dostum kusura bakma ... stanley parable oynayan bir nesil gözleri yaşlı şu an.<br/><br/>şimdi geldik bence bu bölümde beni göt eden en önemli ayrıntıya. önemli olan sizin farklı sonlara ulaşıp o sonlardaki bilgiye sahip olmanız arkadaşlar. yani bir sonu görüp "ee noldu şimdi" deyip kapatırsanız çok büyük bir yanlış yapmış olursunuz. sizin ölüp ölüp yeniden başlamanız gerekiyor. işte şimdi işler daha da karışmaya başlıyor. öldükten sonra geri dönüp aynı seçeneği seçtiğinizde farklı sonlara ulaşmaya başlıyorsunuz ve inceden kafalar yanmaya başlıyor. peki bu nasıl oluyor? kısaca izah edeyim. çünkü dizide yer alan karakter aslında sizin gibi bütün sonları yaşıyor. -ben öyle anladım- yani karakter öğrenmeye başlıyor. bu gerçekten yaratıcı olmuş. misal veriyorum eğer "çok önemli bir bilgiyi öğrenmeden" ölecek veya tutuklanacak olursanız kısır döngüye giriyorsunuz. fakat eğer o "çok önemli bilgiyi öğrenecek olursanız" karakter bu sefer aynı seçimi yapmasına rağmen "bilgi sahibi" olduğu için farklı bir sona doğru sürüklenmeye başlıyor. <br/><br/>misal veriyorum spoiler olacağını düşünmüyorum. diyelim ki bir kasa ile karşılaşıyorsunuz ve şifresini bilmiyorsunuz fakat iki tercih hakkınız var, ne yaparsınız? sallarsınız ve tutar, ya da tutmaz. diyelim ki tutmadı. çözüm basit, geçmişe git bu sefer diğer seçeneği seç değil mi? geçmişe gidip aynı kasa ile karşılaştığınızı fakat bu sefer size sunulan iki kasa şifresinin değiştiğini görseniz ne yaparsınız? bir güzel göt gibi kalırsınız. <br/><br/>aslında gündelik hayatta verdiğimiz bazı küçük kararların gerçekten de ne kadar büyük olduğunu suratıma bir güzel çarptı desem. yok oğlum öyle bir şey. işte bu bakış açısı ile taşşak geçiyor adamlar. eğer verdiğiniz her kararı fazlası ile ciddiye alıyor, kendinizi evrenin merkezine koyuyor ve bu durum sizde geçmişe dair bazı pişmanlıklar yaratıyor ise bence bu bölümden bir şeyler öğrenebilirsiniz. mesela ne gibi şeyler? şu gibi şeyler. sen bir sik değilsin işte hala anlamadın mı dostum ya. aldığın kararların da bir önemi falan yok. altı üstü bir insansın. eğer geçmişte aldığın o çok yanlış kararı almamış olsaydın emin ol kozmik düzeyde bunun kimseye bir faydası olmayacaktı. işin en komik tarafı zararı da olmayacaktı. çünkü sen hiç bir şeysin. üzgünüm dostum. cinayet işlemek gibi çok önemli kararlar verirken bile ne kadar özgür iraden ile veriyorsun bir oturup düşünmek lazım. gerçekten özgür irade diye bir kavram var mı? seni "bir başka canlının yönetmesi"nden bahsetmiyorum elbette. bu ancak bir metafor olabilir en fazla bence.<br/><br/>şu filmi,diziyi her kararın farklı(!) bir sonuca bağlandığı sikik telltale oyunları sığlığına çevirmedikleri için teşekkür ediyorum. insanlar istiyor ki verdikleri kararların gerçekten de bir etkisi olsun diziye. istiyor ki her şeye o karar versin. dizi de diyor ki bu andavallara "sen kimsin ulan dürzük, easy dog" diyor anlamıyor. anlamıyor işte. hala şuraya "ee bunu seçtim bir bok olmadı dizi kendi istediği yere götürdü beni hep" diyip cümlenin sonunu "aq" ile bitiren tipler dadanıyor. beni affet final bölümünde kimin hayatta kalacağını merak eden tipler için elbette koca netflix sıçtı batırdı. süper mi? bence değil. mükemmel mi? kesinlikle değil. ama şu bölümü anlamak için küçük bir efor bile harcamayan tiplerin gelip boklamasına da tav oluyorum kardeşim. <br/><br/>bence bu bölümün yaptığı en doğru şey şu olmuş. eğer bütün gün evde adidas eşofmanlarınız ile koltukta uzanıp, evrenin sizin için var olduğunu düşünüyor, akşam kocanızın gelmesini bekliyor, boş vakitlerinizde size atılan dm'leri kocanızdan gizli gizli okuyor veyahut çalıştığınız şirkette altlarınıza ızdırap çektiriyor, yükselmek için aldığınız kararların acımasız olduğunu düşünüyor ve bir gece netflix'in başına oturup hikayenin kahramanı olmaya karar veriyorsanız işte sizin suratınıza nasıl bir or*spu ço*uğu olduğunuzu bir güzel çarpıyor. - küfür için özür- yanisi şu. seni hikayenin kahramanı falan yapmıyor. peki neden yapmıyor? çünkü dostum sen kahraman falan değilsin işte bilakis götü boklu bir abimiz ya da ablamızsın. - cinsiyetçi olarak taşlanmak istemiyorum yukarıda yer alan "kadın" kısımlarını "erkek", "koca" kısmını "karı" olarak değiştirebilirsiniz. yani bütün gün evde adidas eşofmanlarınız ile kanepeye uzanıp karınızın işten eve dönmesini bekleyebilirsiniz. "adidas"ı "puma" olarak da değiştirebilirsiniz elbet.-<br/><br/>uzun lafın kısası karakterin "büyük resmi" görmesini sağlamada yardımcı olmanız gerekiyor. fakat bu "büyük resmi" görmek için bazı fedakarlıklar da bulunmanız ve hiç yapmak istemediğiniz tercihler de bulunmanız gerekiyor. yani adamlar öyle " ya şunu ya da şunu seç" diyerek kestirip atmamışlar. tebrik ettim valla. kolaya kaçarlar interaktif filmin ekmeğini yerler diye düşündüm. göt oldum. olayı sizlere spoiler olmadan en fazla bu kadar açıklayabildim. dikkat ediyorum da baya göt olmuşum, uzun zamandır bu kadar göt olduğumu hatırlamıyorum. 2018 de iyi göt yaptı bu sene.<br/><br/>şahsen izlerken çok daha keyif aldığım, kafamın açıldığı black mirror bölümleri oldu. dediğim gibi bence süper(!) bir bölüm değil ama yani bok atılacak kadar da kötü değil. üç günlük dünya hocam, aç bir oyna/izle ne kaybedersin? en fazla beğenmez gelip bana özel mesaj ile söversin yani.<br/><br/>-belki minik bir spoiler, bir tavsiye. spoiler sayılmaz aslında filmin,dizinin hemen başında -<br/><br/>diziye harcanan emeğin küçük bir göstergesini fark etmek istiyorsanız yarattığınız oyunu şirket ile çıkarmaya karar verin, sonucunu görün ve sonra tekrardan aynı diyaloglara geri dönün. tıpatıp aynı diyaloglar ile karşılaşıyorsunuz değil mi? stok olan görüntü karar anına kadar tekrardan oynuyor değil mi? oynamıyor işte anasını satıyım. adamlar otomatik bir şekilde kararın geleceği ana kadar aynı görüntüyü sana dayamıyor. sen artık " oyunu şirket ile çıkarmaya önceden bir kez karar vermiş ve sonucunu görmüş" biri olarak artık "oyunu tek mi yoksa şirket ile mi" çıkarmaya karar veriyorsun. olayı yavaş yavaş anladın mı dostum? yandı mı kafalar?
   entry_channels: tv,sinema
@@ -99,18 +91,10 @@ data:
     (bkz: <a class="b" href="/?q=az+bilinen+efsane+duyarlar">az bilinen efsane duyarlar</a>)
   entry_channels: ilişkiler
 - entry_name: |
-    kadıköy'de doğan çocuk yerli ve milli değildir
-  entry_id:  84911823
-  entry_writer: saintly
-  entry_fav_count: 160
-  entry_content: |
-    geleceğin ışid militanları için mi sınav yapılıyordu acaba? soru gerçekse eğer bu rezil kepazeliğe başka yorum bulamadım.
-  entry_channels: siyaset,anket,haber,eğitim
-- entry_name: |
     fiyatı pahalı gelince mağazada uydurulan yalanlar
   entry_id:  84908264
   entry_writer: lazybones
-  entry_fav_count: 133
+  entry_fav_count: 148
   entry_content: |
     "ben o kadar para veremem" diyorum. <br/><br/>yalan tabi ki. elbette verebilirim. bok gibi para var.
   entry_channels: anket,ekonomi
@@ -118,7 +102,7 @@ data:
     insanların yalnız kalmasının gerçek sebepleri
   entry_id:  84887293
   entry_writer: yanlar kisa ustler uzun
-  entry_fav_count: 129
+  entry_fav_count: 137
   entry_content: |
     güvende hissetmek için, hiç kimseye güvenmemek.
   entry_channels: anket,ilişkiler
@@ -126,7 +110,7 @@ data:
     29 aralık 2018 emir eri'nin istifa etmesi
   entry_id:  84907072
   entry_writer: cay sigara
-  entry_fav_count: 104
+  entry_fav_count: 106
   entry_content: |
     istifa etmesi gereken kişi sen değilsin de neyse.<br/><br/>entry tutmuş.unutup unutturmayalım <br/><br/>(bkz: <a class="b" href="/?q=%c5%9fule+%c3%a7et+cinayeti">şule çet cinayeti</a>)
   entry_channels: siyaset,haber
@@ -142,7 +126,7 @@ data:
     son dönemde artan lokma çılgınlığı
   entry_id:  84908093
   entry_writer: screenwriter
-  entry_fav_count: 78
+  entry_fav_count: 79
   entry_content: |
     bizim memlekette parayla satılmazdı, hergün mutlaka birileri hayır yapmak için dağıtırdı. <br/>lokmanın parayla da satılan birşey olduğunu istanbula gelince öğrendim.
   entry_channels: yeme-içme
@@ -158,7 +142,7 @@ data:
     sevgi ile aşk arasındaki fark
   entry_id:  84902175
   entry_writer: tepeler
-  entry_fav_count: 59
+  entry_fav_count: 62
   entry_content: |
     aşk normal şartlar altında değer vermeyeceğin birisiyle yatma isteğidir. <br/><br/>sevgi değer verdiğin birisiyle birlikte olmaktır. <br/><br/>popüler toplumda aşk her zaman daha çok övülürken asıl değerli olan sevgidir. <br/><br/>aşkın daha çok övülme sebebi ise kolay olmasıdır. herkes aşık olabilir.
   entry_channels: anket,ilişkiler
@@ -166,31 +150,39 @@ data:
     31 mart 2019 akp'nin ibb'yi kaybetmesi
   entry_id:  84911075
   entry_writer: baba24
-  entry_fav_count: 45
+  entry_fav_count: 56
   entry_content: |
     ahahahahahaahahaha<br/><br/>olm yorumladınız mı ya, cidden söyleyin bıkmadınız mı? <br/><br/>ben yoruldum ağa, kendimi de şartladım artık ankara ve istanbul'da akp 55 chp 35 hdp 10 durumuna ( hdpnin gireceğini varsaydım). sizde kabul edin fazla umut etmeyin bence.
   entry_channels: siyaset,anket
 - entry_name: |
+    ölen arkadaşının dna'sını çalan bakteri
+  entry_id:  84902765
+  entry_writer: green2005
+  entry_fav_count: 46
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sciencealert.com/images/2018-06/bacteria-harpoon_1024.gif" title="https://www.sciencealert.com/images/2018-06/bacteria-harpoon_1024.gif">bu</a> şerefsiz bakteridir.<br/><br/>ilk defa kayıt altına alınan bu olayda bakteri evrimini hızlandırmak için ölü bakterinin dna'sını çalıp kendi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sciencealert.com/for-the-first-time-scientists-have-seen-bacteria-fishing-for-dna-from-dead-friends" title="https://www.sciencealert.com/for-the-first-time-scientists-have-seen-bacteria-fishing-for-dna-from-dead-friends">kullanıyor</a>.<br/><br/>bu olaya bilim insanları <a class="b" href="/?q=yatay+gen+transferi">yatay gen transferi</a> ismini vermiş.
+  entry_channels: bilim
+- entry_name: |
+    şeyma subaşı
+  entry_id:  84890105
+  entry_writer: c demorgane
+  entry_fav_count: 42
+  entry_content: |
+    10 seneye gülben ergen gibi beyaz gömlek giyip kamera karşısına çıkacak ve diyecek ki, "bakın ben bir anneyim..."
+  entry_channels: moda,magazin
+- entry_name: |
     30 yaşına gelip düzenli bir hayat kuramayan insan
   entry_id:  84907754
   entry_writer: fft
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     ya hocam, hayat boyle duz sablon teker teker basarilmasi gereken gorevlerden olusan oyun degildir. boyle 30 yasinda duzgun isi evi evliligi olan milyonlarca insan var tukiyede ee noluyor? biri gelip madalya mi veriyor, kim belirliyor bu gorevleri. soyle guzel bir laf var belki de ben uydurmusumdur tam emin degilim bir yerden de duymus olabilirim, dunyadaki en aptal varlik yanyana gelmis bir kac milyon insandir. <br/><br/>hayat duz beyaz kagittir istedigini yaz, istedigini yap. hic olmayan olmasi gerekmeyen kurallara uyma endisiyle uymama korkusuyla o kadigi bombos birakiyoruz.<br/><br/>hayat hataya yanlisa her seye izin verir, tek affetmedigi denememek. en dogrusu icgudulerine kafana gore istedigini yapmak, 40 yasinda bir evsiz olarak da bulabilirsin kendini, 50 milyar dolarlik biri olarak da. her turlu tatmin olursun, o en aptal varligin dediklerini dinleyip onun altinda yasamaktan cok daha gercektir bu.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    laik kesimin geri kalmışlığının sebebi
-  entry_id:  84906111
-  entry_writer: biraz uzak
-  entry_fav_count: 34
-  entry_content: |
-    yanlış bir tespittir. tespiti doğrulamak için fatih çarşamba semtinde 2 saat gezdikten sonra kadıköy göztepe'ye gidin. kimin geri kaldığını net olarak görebilirsiniz.
-  entry_channels: siyaset
-- entry_name: |
     30 yaşından sonra aşk meşk işinin bitmesi
   entry_id:  84899197
   entry_writer: gkhns
-  entry_fav_count: 32
+  entry_fav_count: 34
   entry_content: |
     bitmiyor. sadece 20'li yaşların heyecanı, hevesi kalmıyor. 30'dan sonra doğru insan istiyorsun, hayatımda biri olsun diye ilişki yaşamıyorsun.
   entry_channels: ilişkiler
@@ -198,7 +190,7 @@ data:
     çocuk sahibi olunca hayatın kaydığı gerçeği
   entry_id:  84888050
   entry_writer: illaki linguist
-  entry_fav_count: 18
+  entry_fav_count: 21
   entry_content: |
     kesinlikle hayatın ekseni kayıyor. iki yıl oldu bambaşka bir hayat yaşıyorum. eşim de öyle. çok yoruluyoruz. çoğunlukla gerginiz. minik bi insan geldi ve hayatlarımız artık onun için devam ediyor. bazen çocuksuz olduğum zamanları çok özlüyorum. evli olmadığım zamanları da özlüyorum. ama gel gör ki kendi çocukluğumu da özlüyorum. imkan olsa 1984 yılına geri dönsem bi kaç gün annem babamın yaninda 6 yaşında çocuk olsam. annem sobayla uğraşırken radyodan çocuk saati dinlesem. sonra hemen bugüne dönsem oğlumla çarşaftan çadır yapsam. <br/><br/>yani diyorum ki güzel insanlar.. bu eski güzel günler özlemi asla bugünden vazgeçmek anlamına gelmez gelmiyor. mazi aklımızda hoş hatıralar olarak kaldı. o yüzden mevcut zaman ve şartlar biraz fazlaca üzerimize geldiğinde aklımız bizi o sakin limana götürmek istiyor. halbuki bu bir yanılgı. hayatımın her döneminde bunaldigim anlar oldu ve hepsinde başka bir yere ya da zamana kaçmak istedim. hala da istedim anlar oluyor. ama çocuk bir şeyi degistirdi.. şimdi biliyorum ki kaçmak istedigimin on misli bir arzuyla bugüne dönmek isterim. <br/><br/>tümtük kafaya not.. ileride bunları okursun belki. sana sormadan seni dünyaya getirdiğimiz için içim pek rahat değil. ama şimdilik iyi gidiyoruz be.. mutlu bi çocuksun. umarım böyle de devam eder. sabah olsa da sana traktör çizsem. sen de bitirmeme firsat vermeden yenisini cizmemi istesen.
   entry_channels: ilişkiler,spoiler
@@ -206,10 +198,18 @@ data:
     29 aralık 2018 liverpool arsenal maçı
   entry_id:  84910752
   entry_writer: scouse solidarity
-  entry_fav_count: 17
+  entry_fav_count: 20
   entry_content: |
     her liverpool iç saha maçı öncesi, ssports ve spikerlerinin en sevdiğim yanı maç öncesi tribünlerin topluca <a class="b" href="/?q=ynwa">ynwa</a>söylemeye başladığı an konuşmayı bırakması ve sesi yükseltip bizlere dinletmesidir. o sikik beinsports spikerleri konuşmadan duramadıkları için bu korodan hep mahrum kalıyorduk. adamsın <a class="b" href="/?q=erman+ya%c5%9far">erman yaşar</a>...<br/><br/>tarafımız belli, <a class="b" href="/?q=allez+allez+allez">allez allez allez</a>!!!
   entry_channels: spor
+- entry_name: |
+    arı kovanlarını yağmalarken kameraya yakalanan ayı
+  entry_id:  84911778
+  entry_writer: duncan misali gonlum
+  entry_fav_count: 17
+  entry_content: |
+    artık fenerbahçe bu adamı affetmeli. her ne kadar karakter sıkıntısı olsa videodan görüldüğü üzere en iyisi bu adam işte. ne harun ne berke.
+  entry_channels: haber
 - entry_name: |
     sözlükteki mühendisler
   entry_id:  84900344
@@ -219,13 +219,29 @@ data:
     bu benim. yersen. diplomam diyor ki sen mühendissin. devlet diyor ki benim mühendise ihtiyacım kalmadı. bir sene eksperlik yaptım. sonra çıktım işsiz kaldım. memur olayım dedim o da olmadı. şimdi reyon görevlisi olma gibi bir hayalim var. ne mühendis ama... <br/><br/>not: harita mühendisiyim. bildiklerimi de unuttum. adam bana diyor ki 7 sene tecrüben var mı? o da köprü ve tünel yapımında. autocad, netcad var mı? ms office var mı? aracın var mı? seyahat engelin var mı? vardiyalı çalışabilir misin? bunların hepsinden olumlu bir şekilde geçersen de diyor ki 2500tl maaş vereceğiz. ama öğle yemeği bizden. şimdi asgari ücret 2020tl oldu. bu amk 7 sene tecrübesi ve 4 yıllık eğitim ile kazanılan bilgi ve birikim 480tl için miydi? yok abicim. en iyisi reyon görevlisi. boşuna okuduk.
   entry_channels: anket,teknoloji,eğitim
 - entry_name: |
-    arı kovanlarını yağmalarken kameraya yakalanan ayı
-  entry_id:  84911778
-  entry_writer: duncan misali gonlum
+    türkiye hıristiyan olsaydı olabilecekler
+  entry_id:  84909136
+  entry_writer: kisa camel
   entry_fav_count: 13
   entry_content: |
-    artık fenerbahçe bu adamı affetmeli. her ne kadar karakter sıkıntısı olsa videodan görüldüğü üzere en iyisi bu adam işte. ne harun ne berke.
-  entry_channels: haber
+    suriye savaşından değil ukrayna savaşından göç alırdık.
+  entry_channels: siyaset,anket,tarih
+- entry_name: |
+    makyaj yapmayan kadın
+  entry_id:  84906278
+  entry_writer: ylz
+  entry_fav_count: 12
+  entry_content: |
+    “kıza bak, makyajsız ne güzel. bi' de bize bak."<br/><br/>bunu duydun mu gerçekten ? yani yanlarından geçerken bu cümleyi kurdular ve sen de o kadar yakınlarındaydın ki duydun ya da onlar yüksek sesle söylediler. hangisi ? <br/><br/>reklam yapın, yapmayın demiyorum ama kör göze parmak şeklinde olmasın. zeka katın biraz. <br/><br/>neyse.<br/><br/>makyaj yapmayan kadın, üşengeç kadın da olabilir. o makyajın bir de temizlenmesi var. off çok sıkıcı. cilde de yazık hem. her şey mi külfet gelir bi insana ya ahsjdk
+  entry_channels: sağlık,moda
+- entry_name: |
+    kim milyoner olmak ister
+  entry_id:  84914006
+  entry_writer: dahabimavi
+  entry_fav_count: 11
+  entry_content: |
+    an itibariyle çok heyecanlı bir abla yarısıyor. fıtık oldum tv basında abla son saniyeye bırakma gözünü seveyim
+  entry_channels: tv
 - entry_name: |
     2018 yılında başınıza gelen en güzel olay
   entry_id:  84896984
@@ -243,6 +259,14 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/h2HLXrAe6wk" title="https://youtu.be/h2HLXrAe6wk">fikret kızılok - serserinim</a>
   entry_channels: anket,müzik
 - entry_name: |
+    liverpool fc
+  entry_id:  84912125
+  entry_writer: the chosen1
+  entry_fav_count: 9
+  entry_content: |
+    nerede "o sene bu sene" diyen ergenleri gorsem agzini burnunu kirasim geliyor. ayni iki yil once tureyen dededen <a class="b" href="/?q=leicester+city">leicester city</a>'li guruh gibi, "bu sene olacak aabi yeeaa" diye ortalarda dolaniyorlar. <br/><br/>ben o kupa elden ele gecmeye baslamadan inanmayacagim sampiyonlugun geldigine. daha once evde pringles'lar, kolalar/biralar ile gunlerce bekledigim bir <a class="b" href="/?q=chelsea">chelsea</a> maci atlatti bu bunye; koskoca steve g'nin ayagi kaydi, gitti butun yilin emekleri.<br/><br/>simdi <a class="b" href="/?q=arsenal">arsenal</a> macindaki oyuna bakiyorum, evet cidden bu sene bir baska geliyor iki gozumun cicegi. takimda inanilmaz bir ozguven ve yirticilik var; asil umut veren sey de bu sanirim. <br/><br/>yine de ozellikle gelecek city macindan once erkenden konusup, tekrar ayni ani yasamak istemiyorum.
+  entry_channels: spor
+- entry_name: |
     bird box
   entry_id:  84893006
   entry_writer: opridon
@@ -250,38 +274,6 @@ data:
   entry_content: |
     sanıyorum film hakkındaki genel kanı "başlangıcı iyi, sonu vasat". bu da istisnalar dışında (ki onlar kült) gizem-gerilim hikayelerinin artık kronikleşmiş olan; çok şey vaad edip, hiçbir şey vermeden uğurlama hastalığının bir sonucu. <br/><br/>nasıl sihirbazlar için asıl hüner kaybetmek değil, geri getirmek ise; bir senarist için de asıl hüner :<br/>- dağıtmak değil, toplayabilmek <br/>- merak ettirmek değil, yanıtlayabilmek.<br/><br/>fikir iyiyken, örgü fecaat olunca, yönetmene kızamıyorsun. kadıncağız bir şekilde işini yapmaya çalışmış.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>film beş tane hollywood gerilimi izlemiş bir tipin üç günde yazabileceği ne kadar klişe varsa toplamış. hatta bir çoğunu tek bedende toplamış.<br/>1- şişman,gözlüklü, fedakar, kısa ömürlü zenci.<br/>2- arıza ama haklı.<br/>3- zenci, kaslı, akil ve fedakar.<br/>4- narin,iyi kalpli kısa ömürlü şişman kadın.<br/><br/>karakter fecaatinden sonra en azından tatmin edici bir final gelseydi, belki biz de bu kadar mızmızlanmazdık. lakin sonu son olmayınca insan sormadan edemiyor:<br/><br/>salaydınız kadını ve çocukları vahşi bir ormana, kedi köpek saldıraydı. bunca gizeme ne gerek vardı?<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: sinema,edebiyat,spoiler
-- entry_name: |
-    kim milyoner olmak ister
-  entry_id:  84914006
-  entry_writer: dahabimavi
-  entry_fav_count: 8
-  entry_content: |
-    an itibariyle çok heyecanlı bir abla yarısıyor. fıtık oldum tv basında abla son saniyeye bırakma gözünü seveyim
-  entry_channels: tv
-- entry_name: |
-    makyaj yapmayan kadın
-  entry_id:  84909878
-  entry_writer: olsun sen de zekisin
-  entry_fav_count: 7
-  entry_content: |
-    eski sevgilim makyaj yaptığım bir gün şu sözleri söylemişti, “hanfendi gider misiniz, benim sevgilim var.”
-  entry_channels: sağlık,moda
-- entry_name: |
-    liverpool fc
-  entry_id:  84912125
-  entry_writer: the chosen1
-  entry_fav_count: 7
-  entry_content: |
-    nerede "o sene bu sene" diyen ergenleri gorsem agzini burnunu kirasim geliyor. ayni iki yil once tureyen dededen <a class="b" href="/?q=leicester+city">leicester city</a>'li guruh gibi, "bu sene olacak aabi yeeaa" diye ortalarda dolaniyorlar. <br/><br/>ben o kupa elden ele gecmeye baslamadan inanmayacagim sampiyonlugun geldigine. daha once evde pringles'lar, kolalar/biralar ile gunlerce bekledigim bir <a class="b" href="/?q=chelsea">chelsea</a> maci atlatti bu bunye; koskoca steve g'nin ayagi kaydi, gitti butun yilin emekleri.<br/><br/>simdi <a class="b" href="/?q=arsenal">arsenal</a> macindaki oyuna bakiyorum, evet cidden bu sene bir baska geliyor iki gozumun cicegi. takimda inanilmaz bir ozguven ve yirticilik var; asil umut veren sey de bu sanirim. <br/><br/>yine de ozellikle gelecek city macindan once erkenden konusup, tekrar ayni ani yasamak istemiyorum.
-  entry_channels: spor
-- entry_name: |
-    türkiye hıristiyan olsaydı olabilecekler
-  entry_id:  84909136
-  entry_writer: kisa camel
-  entry_fav_count: 6
-  entry_content: |
-    suriye savaşından değil ukrayna savaşından göç alırdık.
-  entry_channels: siyaset,anket,tarih
 - entry_name: |
     ekşi itiraf
   entry_id:  84891955
@@ -299,6 +291,22 @@ data:
     gece muhabbetlerini seven kişileri beklediğim başlık.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    ankara'nın en çok sevilen yanı
+  entry_id:  84912263
+  entry_writer: likodi
+  entry_fav_count: 5
+  entry_content: |
+    june jazz bar , bahçeli 3. cadde .
+  entry_channels: siyaset,anket,tarih,seyahat
+- entry_name: |
+    musluk suyu içilebilen şehirler
+  entry_id:  84913512
+  entry_writer: bandura bi rizz
+  entry_fav_count: 4
+  entry_content: |
+    adana. <br/><br/>toroslara kisin yagan karlar baharda erir, seyhan baraj golunde birikir. catalan tesislerinde testlerden gecer, sehre dagitilir. bircok hazir sudan daha kalitelidir. hatta siselenip satilmasi da gundemdeydi bir ara. <br/><br/>yazin kavurucu sicaginda suyu baraj golunun derinlerinden cektikleri icin musluktan gayet serin su gelir. can suyu gibi olur.
+  entry_channels: anket,sağlık,yeme-içme
+- entry_name: |
     erkeklerin yaptığı korkunç hatalar
   entry_id:  84892420
   entry_writer: deep love
@@ -307,13 +315,13 @@ data:
     bazıları için; kadınları sadece cinsel ihtiyaçları için bir araç olarak görmek. <br/><br/>bu yolda onlara olmadıkları biri gibi davranmak.<br/><br/>elde ettikten sonra umursamamak.<br/><br/>bazıları içinse, kadına kendilerini gereğinden fazla açmak, hayatın merkezine koymak, ona yaranmak için karakterini kaybetmek. <br/><br/>iki profilin sonucu da hüsran.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ankara'nın en çok sevilen yanı
-  entry_id:  84912263
-  entry_writer: likodi
+    1. ekşi yılbaşı hediyeleşmesi
+  entry_id:  84890366
+  entry_writer: meo senturc
   entry_fav_count: 3
   entry_content: |
-    june jazz bar , bahçeli 3. cadde .
-  entry_channels: anket,tarih,seyahat
+    en az 10 kişiye son çıkan <a class="b" href="/?q=yaln%c4%b1zl%c4%b1%c4%9f%c4%b1n+aforizmalar%c4%b1">yalnızlığın aforizmaları</a> isimli kitabımdan gönderebilirim, karşılığında hediye de istemiyorum açıkçası. yeter ki felsefi yazıların ağırlıklı olduğu kitabımı keyifle okuyacak birileri olsun. gün sonuna kadar mesaj gönderenler arasında seçim yaparım yarın buraya nickleri yazar bilgileri alır ve yollarım hafta içi dostlar. yeni yıla imzalı bi' kitapla girersiniz, o olur. fena olmaz. <br/><br/>herkese musmutlu seneler dostlar.<br/><br/>edit: soru geldi, başlığına mı yazalım vs. diye. yok öyle bir şey efendim. yalnızca okumayı sevin yeter. kitaplarla çok haşır neşir olan yazarları ben seçiyorum zaten. kalan çaylak dostlarımız arasında da çekiliş yapıcam ve buraya ekleyeceğim.
+  entry_channels: ekşi-sözlük
 - entry_name: |
     veda ederken 2018'e bir not bırakmak
   entry_id:  84897327
@@ -322,22 +330,6 @@ data:
   entry_content: |
     ocakta en çok istediğim şeylerden biri oldu. +<br/>şubatta bol bol gezdim +<br/>martta yine gezdim, ferhan şensoy’dan imza kaptım +<br/>nisanda kiev’i gördüm +<br/>mayısta yine gezdim +<br/>haziranda amsterdam’a gittim +<br/>temmuzda dönülmez akşamın ufkuna girdim, dönülmeyecek şeyler yüzünden kanımda enfeksiyon çıktı. tüm ay hasta gezdim. temmuz sıcağı bir yandan, ateşim bir yandan sürekli yandım -<br/>ağustosta hem psikolojik hem de bedensel olarak iyileşmek için adım attım ama bu adımlarımı tek bir şey yok etti - <br/>eylülde adımlarımı yok eden şey ilerlemeye devam etti. hayatımda aldığım en mühim kararı aldım -/+<br/>ekimde sonun başlangıcını yaşadım. -/+<br/>kasımda, asla olmaz dediğim birşey oldu +<br/>aralıkta görmediğim en güzel arkadaşlarımı gördüm, umutlandım, sevindim ve çok üzüldüm -/+ <br/><br/>baktığımda pozitif geçmiş ama kalp kırıklıklarım o kadar çok ki o artıları eksiye çeviriyor. 2018 gerçekten siktir git. 2019’da önce para istiyorum bol bol gezeyim diye, sonra iyilik güzellik istiyorum. 35 yaşına gireceğim bir ay sonra, yolun yarısına gelmişken artık hayatım istediğim gibi yol alsın.
   entry_channels: anket,tarih
-- entry_name: |
-    musluk suyu içilebilen şehirler
-  entry_id:  84912962
-  entry_writer: excell74
-  entry_fav_count: 2
-  entry_content: |
-    tds metre ile ölçtüğüm kadarıyla ilçeleri olmasa da bursa merkez gayet iyi durumda. hatta birçok damacana suyuna göre daha iyi sonuçlar verebiliyor.
-  entry_channels: anket,sağlık,yeme-içme
-- entry_name: |
-    1. ekşi yılbaşı hediyeleşmesi
-  entry_id:  84890366
-  entry_writer: meo senturc
-  entry_fav_count: 2
-  entry_content: |
-    en az 10 kişiye son çıkan <a class="b" href="/?q=yaln%c4%b1zl%c4%b1%c4%9f%c4%b1n+aforizmalar%c4%b1">yalnızlığın aforizmaları</a> isimli kitabımdan gönderebilirim, karşılığında hediye de istemiyorum açıkçası. yeter ki felsefi yazıların ağırlıklı olduğu kitabımı keyifle okuyacak birileri olsun. gün sonuna kadar mesaj gönderenler arasında seçim yaparım yarın buraya nickleri yazar bilgileri alır ve yollarım hafta içi dostlar. yeni yıla imzalı bi' kitapla girersiniz, o olur. fena olmaz. <br/><br/>herkese musmutlu seneler dostlar.<br/><br/>edit: soru geldi, başlığına mı yazalım vs. diye. yok öyle bir şey efendim. yalnızca okumayı sevin yeter. kitaplarla çok haşır neşir olan yazarları ben seçiyorum zaten. kalan çaylak dostlarımız arasında da çekiliş yapıcam ve buraya ekleyeceğim.
-  entry_channels: ekşi-sözlük
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  84891980
@@ -371,29 +363,21 @@ data:
     (bkz: <a class="b" href="/?q=ya%c5%9fl%c4%b1l%c4%b1k">yaşlılık</a>)
   entry_channels: anket,ilişkiler
 - entry_name: |
-    the protector (dizi)
-  entry_id:  84913697
-  entry_writer: earendill
+    en itici kadın ismi
+  entry_id:  84905067
+  entry_writer: frankyanke
   entry_fav_count: 0
   entry_content: |
-    bi mantıksız kısım da şurada sanırım. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>-şimdi bu ölümsüzler adları üstünde ölümsüz. bunlar ölmüyor, kimliklerini de gizliyor. o zaman neden faysal meşhur “the faysal” diye gökdelene sahip bir işadamı olarak yaşıyor? kimse demeyecek mi “ulan bu adam benim çocukluğumda da vardı ve bu yaştaydı, ben 70 oldum gidiyorum, bu hala aynı yaşta? nasıl oluyor bu?”<br/>yani mesela wolverine de ölümsüzdü. ama herif ünlü değil, bi orada bi burada kendi halinde yaşıyor. bu faysal niye ünlü olmakta sakınca görmemiş, bence gayet mantıksız bir olay.
-  entry_channels: tv,spoiler
+    (bkz: <a class="b" href="/?q=merzuka">merzuka</a>)
+  entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  84905447
-  entry_writer: eon blue apocalypse
+  entry_id:  84902998
+  entry_writer: baydakik
   entry_fav_count: 0
   entry_content: |
-    takriben 30 yaş üstü sohbet etmeyi flört etmek sanmayan kişiler yeşillendirebilir.
+    kadıköyde kahve içmek isteyenleri beklerim efendim
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    doktor maaşının minimum 18 bin lira olması
-  entry_id:  84896373
-  entry_writer: spinapubica
-  entry_fav_count: 0
-  entry_content: |
-    mevzudan daha ilginc olan sey, dogrulugunu dahi arastirmadan 'olsun, bence hak ediyorlar' yazabilenlerin varligidir. <br/><br/>tamam, elbette maas alt limiti bu kadar olsa da hak edeceklerdi, ancak; o cumle basindaki 'olsun' her seyi bozuyor, bu bir. <br/>boyle bir alt limit yok, sen de aslinda umursamiyorsun, bu da iki. <br/><br/>olayin gerceklik boyutuna biraz katkida bulunmak adina, yaptigi her maas haberinde calisan maaslarini 'tavan' seviyelerinden falan yazip iktidar yalakaligi yapan bir yandas gazeteden, 2019 yili doktor maaslari ile ilgili bir haber paylasiyorum:<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ekonomi.haber7.com/ekonomi/haber/2792921-2019da-doktor-maaslari-ne-kadar-olacak" title="http://ekonomi.haber7.com/ekonomi/haber/2792921-2019da-doktor-maaslari-ne-kadar-olacak">http://ekonomi.haber7.com/…maaslari-ne-kadar-olacak</a><br/><br/>goreceginiz uzere; 1'in 4'unde (yani yillardir meslekte olan) bir uzman doktorun, 2019 yilinda 7300tl maas almasi bekleniyor. <br/><br/>(bu entry'de, bazi cumlelerin sonuna amk yazmayi cok istedim ama hevesim kursagimda kaldi)<br/><br/>edit: isi polemige dokmek adina, ayni gazeteden iki haber daha veriyorum<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ekonomi.haber7.com/ekonomi/haber/2792616-2019-muezzin-maaslari-ne-kadar-yeni-zamli-maaslar" title="http://ekonomi.haber7.com/ekonomi/haber/2792616-2019-muezzin-maaslari-ne-kadar-yeni-zamli-maaslar">http://ekonomi.haber7.com/…kadar-yeni-zamli-maaslar</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://ekonomi.haber7.com/ekonomi/haber/2792549-2019-imam-ve-vaiz-maaslari-ne-kadar" title="http://ekonomi.haber7.com/ekonomi/haber/2792549-2019-imam-ve-vaiz-maaslari-ne-kadar">http://ekonomi.haber7.com/…e-vaiz-maaslari-ne-kadar</a>
-  entry_channels: ekonomi
 - entry_name: |
     cumartesi gecesi evde oturan ezik ve yalnız insan
   entry_id:  84911565
@@ -402,4 +386,20 @@ data:
   entry_content: |
     şimdilik bu başlığın içinde yer almaktayım, ekibim ararsa gecenin geri kalanı kopuş.<br/>eğer arayan olmazsa başlığın altında kalacağım.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    ankarayı diyorum avucumun içi gibi bilirim
+  entry_id:  84915861
+  entry_writer: başlık taşıyan
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ankara%27y%c4%b1+diyorum+avucumun+i%c3%a7i+gibi+bilirim">ankara'yı diyorum avucumun içi gibi bilirim</a>)
+  entry_channels: 
+- entry_name: |
+    ali ece beresiz
+  entry_id:  84914682
+  entry_writer: laf lafi acti
+  entry_fav_count: 0
+  entry_content: |
+    sonunda internet ortamına düşmüştür.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/aliececom/status/1079096290477260800" title="https://twitter.com/aliececom/status/1079096290477260800">https://twitter.com/…com/status/1079096290477260800</a>
+  entry_channels: spor
 ---
