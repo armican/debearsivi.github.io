@@ -6,15 +6,23 @@ data:
     rte'nin keneviri yok ettiler diye sitem etmesi
   entry_id:  85310220
   entry_writer: banderson
-  entry_fav_count: 664
+  entry_fav_count: 686
   entry_content: |
     (bkz: <a class="b" href="/?q=karde%c5%9fim+mary+jane">kardeşim mary jane</a>)
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
+    denizli'de meydan dayağı yiyen suriyeliler
+  entry_id:  85293097
+  entry_writer: pure olmayan life
+  entry_fav_count: 600
+  entry_content: |
+    şüpheli gözlerle baktığım video.<br/><br/>konu taksiciler olunca suriyeliler haklı bile olabilir. belki de taksici 50 liralık yola 200 lira istedi. tam tersi taksici normal fiyatı söyleyip suriyeliler çamura yatmış da olabilir tabii. bu iki kesimden her şey beklenir.
+  entry_channels: siyaset
+- entry_name: |
     ormanları betona çevirme gayretinde olanlar var
   entry_id:  85310073
   entry_writer: yokonunjohnu
-  entry_fav_count: 542
+  entry_fav_count: 549
   entry_content: |
     çoklu kişilik bozukluğunu tarif eden bir açıklama olmuş.
   entry_channels: siyaset,haber
@@ -22,15 +30,23 @@ data:
     olan biten'i takip etmek istemiyoruz kampanyası
   entry_id:  85316078
   entry_writer: gncdsnr
-  entry_fav_count: 431
+  entry_fav_count: 446
   entry_content: |
     çoğunlukla hiç <a class="b" href="/?q=tan%c4%b1mad%c4%b1%c4%9f%c4%b1m%c4%b1z">tanımadığımız</a>, bizleri yakından uzaktan <a class="b" href="/?q=ilgilendirmeyen">ilgilendirmeyen</a> türlü türlü isimlerin pr çalışmasıyla zamanımızı çalmaya hakkınız var mı?
   entry_channels: ekşi-sözlük
 - entry_name: |
+    vergisini ödeyen kanunlara uyan borçsuz vatandaş
+  entry_id:  85301050
+  entry_writer: buford tannen
+  entry_fav_count: 432
+  entry_content: |
+    vergisini ödemeyen, kanun tanımaz, rüşvetçi-torpilci ve borç batağında olmasına rağmen istediği krediyi çeken, vergi borcu bir kalemde affolan çomarları yaşatmak için hayatını piç etmektedir.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
     rus vatandaşının belediye başkan adayı olması
   entry_id:  85304236
   entry_writer: beyler derebeyi
-  entry_fav_count: 326
+  entry_fav_count: 327
   entry_content: |
     kadın t.c. vatandaşı olduğu için sorun olmayan durumdur.<br/><br/>merak ettiğim, bu kadın başkan olursa mevcut düzene ayak mı uyduracak, yoksa kendi sistemini getirecek mi?<br/><br/>zira bizim memlekete en iyi başkanı transfer etsen 3 ay içinde onu delirtirler.<br/><br/>ek: kadın iki üniversite bitirmiş ve beş dili akıcı konuşuyormuş. bu kadarı bize fazla değil mi lan!<br/><br/>ek2: herhangi bir arap ile bu kadını karşılaştırmak bile abestir. araplar (kendimi de dahil ediyorum) yetiştiriliş tarzı ile dogmatik düşüncenin içinde büyüdükleri için sorunlar karşısında rasyonel ve analitik çözüm bulma yeteneğinden yoksundurlar. (bal gibi de genellerim) <br/>ayrıca bireysel gelişimlerini tamamlayamadıkları için tek başlarına hareket edemezler. bir gruba dahil olup sürü halinde yaşarlar ve kendilerini ancak bu şekilde ifade edebilirler.<br/><br/>öte yandan bu rus bacımız çeşitli üniversitelerde eğitim görmüş, eğitim almış, kişisel gelişimini tamamlamış birine benziyor. hiçbir etki altında kalmadan alanya'yı 10 sene içinde dünyanın örnek şehri haline getirmezse terbiyesiz evladıyım. bu kadar da büyük konuşuyorum..
   entry_channels: siyaset,haber
@@ -38,7 +54,7 @@ data:
     palu ailesi
   entry_id:  85291759
   entry_writer: cetomastiksilikon
-  entry_fav_count: 257
+  entry_fav_count: 258
   entry_content: |
     kocaeli, sakarya ve düzce şeytan üçgeni içersinde olan binlerce hakiki korku filminden birisidir bu aile. bu şeytan üçgeni içerisinde büyüyen birisi olarak söylüyorum, kocaeli ve sakarya rio veya sao paulo'nun kenar mahalle varoşlarından, meksika kartel bölgelerinden, afrika'daki boko haram tarikat bölgelerinden (ışid'in afrika versiyonu) daha tehlikeli bir bölgedir.<br/><br/>daha da ileri gitmek zorundayım (tecrübe ile sabit) izmit, derince, körfez, sapanca, akyazı hattının hemen hepsi venezüella-la sabaneta hapishanesinden daha tehlikeli bir bölgedir. hatta düzeltelim direkt açık hava hapishanesidir. çocuklara, kedilere ve köpeklere işkence edilme metriği olsa dünyada 1. sıraya yükselecek bir bölgeden bahsediyorum. <br/><br/>gerçekten korkunç bir bölgeden bahsediyoruz. kocaeli ve sakarya bölgesinin hiç şakası yoktur. bölgedeki terkedilmiş fabrikalarda ışid eğitiliyor deseler çok rahat inanırım. türkiye'nin göt deliği, bok çukuru olan bir bölgeden bahsediyorum. <br/><br/>kısaca türkiye bir ülke olarak ıkınsa, körfeze doğru sıçardı. ortalama her 4 kişiden 1'inin kanser olduğu dil ovası'nı içinde barındıran bu bölgenin palu ailesi malesef beni şaşırtmadı. yani bu aile ağır doz radyasyon'dan da bu hale gelmiş olabilir. bu aileye baktığımda aklıma "fallout: new kocaeli" geliyor. boku hamuduyla yemişler, artık her hücrelerinden ziril ziril irin akıyor ailenin. türkiye'nin bok çukuruna ne kadar da yakışıyorlar. <br/><br/>(bkz: <a class="b" href="/?q=dark+side+of+the+kocaeli">dark side of the kocaeli</a>)
   entry_channels: tv,haber
@@ -46,25 +62,17 @@ data:
     kılıçdaroğlu gidene kadar chp'ye oy yok
   entry_id:  85301007
   entry_writer: archaediscus
-  entry_fav_count: 153
+  entry_fav_count: 158
   entry_content: |
     kimse ne politikayla ilgilenmek zorunda ne de dolmusta birilerine politika anlatmak zorunda. sanki bunu hergun yapiyor da gelmis sen oy verme ayi diyor. <br/><br/>yerel secimde mantiksiz buldugum ama genel secimde neden olmasin diye dusundugum protestodur.
   entry_channels: siyaset,anket
 - entry_name: |
-    cinlere inanan insanlar
-  entry_id:  85292613
-  entry_writer: ik ben een ster
-  entry_fav_count: 149
+    bir gayla mecburen aynı ortamda bulunmak
+  entry_id:  85316661
+  entry_writer: trendline
+  entry_fav_count: 143
   entry_content: |
-    benim de içinde bulunduğum insanlar. <br/><br/>bir tanrıtanımaz olmama rağmen inanıyorum. bizzat cin tarafından çarpılan insanlar gördü bu gözler. siz hala alaya alın. ben varlıklarına alıştım. hatta sayelerinde para bile kazanıyorum. yoktur diyenlere de götümle gülerim.<br/><br/>bir çok çeşitleri olmakla birlikte, en sevdiğim açıkara (bkz: <a class="b" href="/?q=monkey+47">monkey 47</a>) cindir. kokteyllerde harika olur. tonikle de içilebilir. yeterince içtiğinizde diğer tür cinleri de görebilirsiniz.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    iç çamaşırı görünen kadını uyarmak
-  entry_id:  85303672
-  entry_writer: x uzeri y nin z ye gore turevi
-  entry_fav_count: 127
-  entry_content: |
-    normalde yapmayacağım bir şey ama bir gün başıma şöyle fantastik bir olay geldi:<br/><br/>avm de yürürken önümden giden kadının pantolonunun paçasından sarkan bir şey fark ettim, dikkatli bakınca külot olduğunu gördüm. kadına yaklaşıp, olayın tuhaflığına gülmemeye çalışarak afedersiniz çamaşırınız paçanızdan sarkmış dedim. kadın durup aşağıya baktı ve aa evet benim bu ama benim çamaşırım içimde dedi. sonra beraber gülmeye başladık, bir yandan da bu nasıl olabilir diye düşünüyoruz.<br/><br/>en sonunda, çamaşırlar kururken pantolon ve külodun bir şekilde birbirine yapıştığına, giyerken de ayrılmayıp oraya kadar geldiğine karar verdik.
+    gay arkadaş adına üzüldüm gerçekten mecburiyet işte kimler ile muhattap olmuş
   entry_channels: anket
 - entry_name: |
     demet akalın'ın aşık veysel'den üretken olması
@@ -75,18 +83,10 @@ data:
     sıçmak üretmekse, üretkeniz ikimiz de diyerek katıldığım tespittir.
   entry_channels: magazin
 - entry_name: |
-    bir gayla mecburen aynı ortamda bulunmak
-  entry_id:  85316661
-  entry_writer: trendline
-  entry_fav_count: 125
-  entry_content: |
-    gay arkadaş adına üzüldüm gerçekten mecburiyet işte kimler ile muhattap olmuş
-  entry_channels: anket
-- entry_name: |
     tesla model s'nin robot öldürmesi
   entry_id:  85316527
   entry_writer: 1714727122
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     (bkz: <a class="b" href="/?q=yiyin+birbirinizi+ete+para+vermeyin">yiyin birbirinizi ete para vermeyin</a>)
   entry_channels: bilim,teknoloji,haber,otomotiv
@@ -94,31 +94,31 @@ data:
     deep turkish web videolarını komik bulan insan
   entry_id:  85291908
   entry_writer: bi korum bi de duvardan yersin
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     benim için aşırı tezat bir durum bu.<br/>ilk izlediğimde bu ne lan komik mi dedim.<br/>daha sonra komik gelmeye başladı.<br/>şimdi de görüyorum ki komik bulanlar linç ediliyor.<br/>komedi algım mı düştü anlamadım.<br/>beğenin ya da beğenmeyin. adamlar eğlenceli. sen de gül geç işte.<br/>gülmüyosan da emekli baba gibi maydanoz olma.
   entry_channels: anket,teknoloji
 - entry_name: |
+    9 ocak 2019 palu ailesinin gözaltına alınması
+  entry_id:  85305134
+  entry_writer: tegmenberrendo
+  entry_fav_count: 113
+  entry_content: |
+    müge anlı'nın başarısıdır. çünkü dava daha önce savcılık tarafından takipsizlikle sonlandırılmış.<br/><br/>edit: tacize uğrayan kıçında iğne ucu bulunan çocuk polise bile bildirilmemiş. nasıl doktor lan bunlar, tek işleri öğrenciye rapor vermek mi?
+  entry_channels: haber
+- entry_name: |
     suriyelilerin ürememeleri için çözüm önerileri
   entry_id:  85313505
   entry_writer: issox
-  entry_fav_count: 92
+  entry_fav_count: 97
   entry_content: |
     türkiye'den siktir olup gitmeleri.<br/><br/>onu da mı biz düşünelim amk.
   entry_channels: siyaset,anket
 - entry_name: |
-    öğrenildiğinde ufku iki katına çıkaran şeyler
-  entry_id:  85299431
-  entry_writer: harbimidiyon
-  entry_fav_count: 89
-  entry_content: |
-    binlerce kişilik osmanlı ordusu seferlerde nasıl besleniyordu ?<br/><br/>hem de 100.000, 150.000, 200.000 kişilik ordular mevzubahis ise ? (sayı ile yazdım ki daha iyi tahayyül edebilelim.)<br/><br/>aramama rağmen başlıkta benzer bir bilgi var ise şimdiden kusuruma bakmayın. keyifli okumalar.<br/><br/>öncelikle osmanlı, ordusunu en iyi besleyen devletlerden biriydi. cihangir padişahlar devri kapandığında bile ordunun lojistiği çok iyi durumdaydı.<br/>osmanlılar, her türlü şarta hazır olmak için gerekli olandan çok daha fazla gıdayı hazır bulundururdu. fakat yanında hepsini götürmezdi. yani her şeyi istanbul'dan taşımaya başlamazdı. güzergah üzerindeki belli ambarlarda yiyecekler depolanırdı. ayrıca geniş bir orducu esnafı vardı. bunlar sefer boyunca orduyla hareket eder, gerekli ürünleri orduya satardı.(açıkçası ben osmanlı savaşlarını hayal ederken esnafın orduyla birlikte sefere gidip ticaret yaptığını hiç duymamış, düşünmemiştim de.)<br/>neyse biz devam edelim, şimdi şöyle bir durum var ; osmanlı seferde iken konakladıkları kazalarda, şehir merkezlerinde de gıda satın alıyor. nasıl derseniz, orada önceden ayarlanmış mübayaalar ile. mübayaa da satın alma anlamına geliyormuş ben de bu yazıyı hazırlarken öğrenmiş oldum. (bkz: <a class="b" href="/?q=m%c3%bcbayaa">mübayaa</a>)<br/>yani osmanlının geleceğini duyan şehir halkı pazarlarını önceden kuruyor ve hem osmanlı faydalanıyor hem de oranın halkı.<br/><br/>aynı zamanda bizim cevval akıncılarımız konakladıkları yerlerde ava çıkar, (bkz: <a class="b" href="/?q=s%c3%bcl%c3%bcn">sülün</a>), keklik, balık, geyik gibi avlar ile de gıda ihtiyacını karşılardı.<br/><br/>peki bu askerlerin temel besinleri nelerdi ?<br/><br/>öncelikle (bkz: <a class="b" href="/?q=peksimet">peksimet</a>), ekmek, kurutulmuş et, çorba, haşlanmış et ve bazen de pilavdı.<br/><br/>peki bu koca orduda herkes aynı şeyi mi yiyordu ? yok muydu şöyle rütbelisine t-bone az-orta pişmiş 650 gram steak. tabi ki hiyerarşi burada da devreye giriyordu.<br/><br/>eyaletlerden gelen tımarlı sipahiler sığır eti yerken, daha itibarlı kapıkulu askerleri daha lezzetli ve daha pahalı olan koyun etine layıktı. yönetici elite dahil olanlar da hoşaf, kümes hayvanları, sebze ve börek bile yiyorlardı.<br/><br/>peki, devletlümüz ne yer, ne içerlerdi ?<br/><br/>aslında padişah, saray mutfağını da yanında taşırdı desem herhalde yanlış söylemiş olmam. çünkü padişahın ve vezirlerin mutfağı için seferde her biri kendi alanında uzman yahnici, çorbacı, tatlıcı, kebapçı aşçılar da vardı.<br/><br/>şimdi geldik ekmek konusuna... öncelikle mutfağınızdaki ekmekliği açın. küflü bir ekmek varsa onu atın ordan artık.<br/><br/>ekmek çabuk küflendiği için seferden aylar önce güzergahtaki çeşitli noktalara fırınlar yapılırdı. un ve odun da bu fırınların yanında saklanırdı.<br/><br/>biraz önce peksimetten bahsetmiştik. ben de yine bu yazı vesilesi ile adını çokça duyduğum ama tam olarak bilgi sahibi olmadığım peksimeti biraz araştırdım. çok uzun süre bayatlamadığı için savaş ve kıtlık zamanının yiyeceği diyebiliriz. osmanlı ordusu için o kadar önemli ki bu peksimet tamamen bu yiyeceği üreten ana tedarik noktaları var. 1768' de osmanlı ordusu ana tedarik merkezlerinden birisi olan isakçı'dan 22,4 ton peksimet talep ediyor. <br/><br/>bu arada şunu da hatırlatayım, askerin moralini arttırmak için de sık sık kurban kesiliyor.<br/><br/>şimdi biraz sayılarla konuşalım.<br/><br/>4.murat'ın bağdat seferi gitmesi dönmesi 21 ay sürüyor ve ordunun daimi askerleri bu sürede tam olarak 217.279 koyun ve 14 bin ton tahıl tüketiyor.<br/><br/>1683 viyana seferinde ise ordunun günlük et tüketimi 16 bin ton. ekmek tüketimi ise 60 bin somun.<br/><br/>bir de bu et ihtiyacını karşılamak için bir o kadar hayvan ordunun önünden yürüyor, belirli noktalarda da kasaplar ve çobanlar hayvanları kesip ordunun o günlük ihtiyacını karşılıyorlardı. bu hayvanların beslenmesi için de yulaf, arpa, mısır gerekiyordu. bağdat seferi sırasında hayvanlara ayrılan arpa 40 bin tondu. 90 bin asker ve 40 bin at için yaklaşık 11 bin araba yükü yiyecek ve yem gerekiyordu.<br/><br/>19-22 yaşlarında sağlıklı erkeklerin günlük kalori ihtiyacı normal şartlar altında 2900 kalori. bedensel faaliyetlerinden yüksel olduğu savaş gibi durumlarda ise 4000 kalori alması gereken osmanlı askerleri, devrinde bu ihtiyacı en iyi şekilde karşılanan şanslı ordulardandı. hatta yeniçeriler sefer öncesi ek ödenek alır ve savaşa en iyi şekilde hazırlanmaları sağlanırdı.<br/><br/>şimdi savaşlarda beslenmenin önemini bir örnekle görelim : 1711 prut seferi.<br/><br/>osmanlı askerleri çar büyük petro'nun ordularını öyle bir kuşatmıştı ki hücuma gerek kalmadan su ve yemek yokluğundan çar büyük petro'nun askerlerinin teslim olmaları kaçınılmaz hale gelmişti. ve daha savaş başlamadan açlık ve hastalık sebebiyle 5 bin kayıp vermişlerdi.<br/><br/>osmanlı, savaşı sadece meydanlarda görmemiş, bütün ayrıntıları önceden ince ince düşünmüştü. fakat sonra ne oldu ?<br/><br/>sorunlar ve suistimaller hep vardı lakin sistem bir şekilde işliyordu. fakat bu sistem 18. yüzyıl ortalarında tamamen çöktü. tahıl tedariklerini istifleyip fiyatların artmasını beklemek, devlete bozuk mal satmak gibi davranışlar baş göstermişti. cepheye samanla karışık arpa, kumla karışık buğday taşınıyordu. <br/><br/>ve diğer tüm sorunlar gibi bu sorun da etkisini her alanda gösterdi.<br/><br/>kaynak : bildiğin gibi değil-osmanlı-can yayınları-sayfa 153-156
-  entry_channels: spor,siyaset,anket,ilişkiler,tv,ekşi-sözlük,bilim,sanat,tarih,programlama,müzik,sinema,edebiyat,oyun,teknoloji,haber,yeme-içme,otomotiv,motosiklet,moda,magazin,eğitim,ekonomi,havacılık,spoiler,seyahat
-- entry_name: |
     özel bir sese sahip şarkıcılar
   entry_id:  85292228
   entry_writer: ilsivaldarion
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     (bkz: <a class="b" href="/?q=ronnie+james+dio">ronnie james dio</a>)<br/>gelmiş geçmiş en muhteşem, en eşsiz seslerden birine sahipti, sihir gibi bir ses...
   entry_channels: anket,müzik
@@ -126,7 +126,7 @@ data:
     hiç kimsenin işini düzgün yapmaması
   entry_id:  85305189
   entry_writer: realsanto
-  entry_fav_count: 67
+  entry_fav_count: 76
   entry_content: |
     tükiye için eskiden "cennet ülkemiz" derdik, ben artık "cinnet ülkemiz" diyorum.<br/><br/>dün çağlayan adliyesinde bir dava için bilirkişi ile buluşmamız vardı. avukatımız olacak arkadaş ile 2 saat öncesinden teyit konuşması yaptık. yarım saat kala aradım 10 dk içinde oradayım dedi, 10 dk sonra aradım kapıdayım geliyorum dedi. sağ olsun görüşme bittikten sonra geldi. yahu tek işin var ve ona yetişemiyorsun. sen adalet temsilcisisin bir de, nasıl hak peşinde koşuyorsun? <br/><br/>tek o mu? bilirkişi tek sayfalık dava metnini bile okumadan gelmiş, "yerinde inceleyeceğim" dedi, getirdiğimiz kolilerce mali defteri açmadan geri taşıdık. adliye yerleşkesinden içeri sivil araç da almıyorlar, buz gibi havada buz tutmuş zeminde kaya kaya taşıdık onlarca koliyi, 600-700 metre uzağa. boşu boşuna.<br/><br/>döndüm ofise geldim, öğleden önce bir müşterimiz eft ile ödeme yapmıştı, ardından dekontu göndermiş. yemekten sonra baktım, henüz geçmemiş. çalıştığım banka şubesini aradım, "kontrol edebilir misiniz?" dedim, "unvan yanlış, o sebeple iade olmuş" dediler. yahu dekont elimde, dekont! unvan doğru, ama kime anlatıyorsun, olan olmuş artık. saat üç oldu, ödemeler var, müşterimi arayıp tekrar rica ettim, bizim için yüklü de bir tutar. sağ olsun önce eft'yi sonra dekontunu tekrar gönderdi. yarım saat geçti yine gelmedi. yine şubeyi aradım, açan yok. sağdan soldan toplayıp kredi kullanıp ödemelerimi yaptım. neyse işte, sabah ofise geldim, hesaplara baktım hala gelen giden bir şey yok. sırf "acaba şimdi ne gerekçe ile reddettiler?" diye şubeyi aradım, cevap yine aynı: "unvan bilgisi yanlış". yahu ben o kadar doğru yazmıyorum şirket unvanını, "yanlışlık var" dedim. "bizden önce genel müdürlük iade ediyor" dediler, onlar bir şey yapamazmış. genel müdürlüğü aradım, "müşterinin girdiği vergi no ile bizdeki vergi no tutmuyor" diyor gm'deki yetkili hanım. yahu vergi numarası mı giriliyor eft'de, zorunlu alan mı? iban ve unvan doğru işte daha ne istiyorsun? yok abi yok, laf anlatamıyorsun, zaten olan olmuş. bakalım, müşteri tekrar yapar ödemeyi umarım.<br/><br/>bitti mi? ptt'den iadeli taahhütlü bir yazı gönderdik, istanbul'daki ofisimizden sadece 5 km uzaktaki bir semte. 17 günde geri geldi ya, 17 gün. sonra kargocular. şu an gülümsediniz evet. hepimiz "geldik bulamadık"lara, "aradık açmadı"lara alışığız. ama dün 24 saat açık benzinlik marketine teslim etmemişler kargoyu, "adreste bulamadık" diye. geçen gün de e-5'in kenarında ve anadolu yakasının çoğu yerinden görünen binadaki adresi bulamamışlardı.<br/><br/>ülkedeki az kazanan da çok kazanan da işini iyi yapmıyor. ofise hırsız giriyor, alarm sistemi çalışmıyor. taksiye biniyorsun, yolu bilmiyor. el alem yurt dışında iki nokta arasındaki rotayı geçilecek yolların isimlerini de söyleyerek tarif edemeyene taksicilik lisansı vermiyor. hadi bu kadarını geçtik, arabayı servise veriyorsun, usta yok artık, yapılan boya 2 yıl sonra kendini kusuyor. koltuk alıyorsun, geldiği gün kırılıyor: "kullanıcı hatası". ne yapalım lan koltuğa oturmayalım mı amk? 2 günde dökülen sunta mobilyalardan ve işçilikten sıkıldığım için kendim evde masif sehpa, dolap, raf yapıyorum artık. eve gelen tesisatçılar muslukları bozup gittiği için tesisat işlerimi kendim hallediyorum. ülkede ahlaksızlık öyle bir boyuta geldi ki, herhangi bir iş kolunda kimseye güvenemiyorum. avukata, doktora, kasaba, polise, hakime. yahu ya hapiste ya akıl hastanesinde olması gereken palu ailesi tayfası hala serbest geziyor. neye nasıl güveneceksin?
   entry_channels: ilişkiler,ekonomi
@@ -134,18 +134,18 @@ data:
     palu ailesi soruşturmasına yayın yasağı
   entry_id:  85318419
   entry_writer: didierdrogba07
-  entry_fav_count: 66
+  entry_fav_count: 72
   entry_content: |
     soruşturmayı sağlıklı biçimde yürüteceklermiş... soruşturmanızı yesinler sizin, on senedir çözemediğiniz mevzuyu kadın üç beş günde çözdü...<br/><br/>oy bıcırık bıcırık... soruşturma mı yapacaksın çeeenn!
   entry_channels: haber
 - entry_name: |
-    türkiye'nin kenevir üretimine başlaması
-  entry_id:  85309976
-  entry_writer: quat
-  entry_fav_count: 62
+    aldatan kadın dayak yemeyi hak eder mi sorunsalı
+  entry_id:  85317624
+  entry_writer: enesmy
+  entry_fav_count: 65
   entry_content: |
-    bir yeğeni vardı 50 kilo esrarla yakalanan, adama uygun kadro bulamadı demek.
-  entry_channels: siyaset,haber,yeme-içme,ekonomi
+    size bir taktik vereyim. <br/>açın tazminat davasını. paşa paşa ödesin.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     9 ocak 2019 starbucks'ın kahvelere zam yapması
   entry_id:  85303236
@@ -155,18 +155,10 @@ data:
     iğneden ipliğe her şeye zam gelmiş, asgari ücret 20%’den fazla artmış, adamlar zam yaptı diye adları keriz silkeleyiciye çıktı, he mi?<br/><br/>bu zamların tek amacının insanları enayi yerine koymak olduğunu sananlar sanırım uganda’da yaşıyor. geçen gün evin yakınındaki “kahve zamazingosu” adındaki mekanda, kahve demek için minimum 20 bilir kişinin tespitine ihtiyaç duyulan kahverengi sıvıya 12 lira verdim. starbucks’ın filtre kahvesine 7 lirayı gocunmadan verir, üstüne de 3 lira bahşiş bırakırım. en azından sattıkları şeyin kahve olduğuna tek başıma kanaat getiriyorum. <br/><br/>şu ekonomik koşullara rağmen hala starbucks’a sallıyorsunuz ya, ben shaya yerine olsam bütün mağazaları kapatır, kapılarına da kocaman bir tabela asarım:<br/><br/>(bkz: <a class="b" href="/?q=%c3%a7ay+yok+bok+i%c3%a7in">çay yok bok için</a>)
   entry_channels: yeme-içme
 - entry_name: |
-    aldatan kadın dayak yemeyi hak eder mi sorunsalı
-  entry_id:  85319108
-  entry_writer: king sized ego
-  entry_fav_count: 54
-  entry_content: |
-    bu mantığa göre, eşini aldatan kocaları da dövmek gerek. kadının gücü yetmeyeceği için adam tutup mu dövdürsün?<br/><br/>kimsenin kimseye şiddet kullanmaya hakkı yoktur.<br/><br/>sizi takibe almak lazım aslında; kimlere, kendinizce haklı bir gerekçe üreterek şiddet kullanıyorsunuz acaba?<br/><br/>aldatmak, cinsiyetten bağımsız olarak kötüdür.
-  entry_channels: 
-- entry_name: |
     doğalgaz faturası
   entry_id:  85292738
   entry_writer: kalbini sokup okyanusa atan adam
-  entry_fav_count: 53
+  entry_fav_count: 55
   entry_content: |
     yazılanları okuyunca insanı üzen faturadır.<br/><br/>ben antalya'da yaşıyorum, burada pek yaygın değil ama ev alırsam mutlaka doğalgazlı yenilerden olur ama konu bu değil tabi.<br/><br/>400, 500, 600 ler havada uçuşuyor, insanlar korka korka fatura beklediklerini söylüyor. 400 doğazgaz desen, 150 elektrik, 100 su, internet 70, cep telefonu 60 gitti 800 lira. kirada oturuyor olsan, 2 bin de ona verdin 2800 yaptı. pazara gitsen 150 liralık alışveriş yapsan ayda 600 yapar. 3400 eder. bunun daha marketi, eti, benzin-mazotu var. çocuğun varsa maması, bezi, okul masrafı var. vergiler var, var oğlu var.<br/><br/>üzülüyorum sadece bu ülkenin namuslu, iyiyi kötüyü ayırt edebilen, karakterli insanları için. bu şekilde yaşamayı, gelecek kaygısıyla hep üzgün, stresli olmayı, hiçbir günahları yokken göz göre göre bedel ödemeyi hak etmiyorlar. ne desem boş. sadece tüm samimiyetimle üzülüyorum. elimden de başka bir şey gelmiyor. <br/><br/>benim güzel ülkemin güzel insanlarını bu duruma düşürenlerin gelmişini geçmişini sikeyim. küfür etmicektim dayanamadım.
   entry_channels: ekonomi
@@ -174,18 +166,34 @@ data:
     hastalarının mahrem görüntülerini paylaşan doktor
   entry_id:  85310152
   entry_writer: illegalstar
-  entry_fav_count: 51
+  entry_fav_count: 54
   entry_content: |
     (bkz: <a class="b" href="/?q=sponsorlu">sponsorlu</a>)
   entry_channels: haber
 - entry_name: |
+    en havalı ada sahip türk üniversitesi
+  entry_id:  85291950
+  entry_writer: lordofthepings
+  entry_fav_count: 53
+  entry_content: |
+    <a class="b" href="/?q=hava+harp+okulu">hava harp okulu</a>
+  entry_channels: anket,edebiyat,eğitim
+- entry_name: |
     bayburt açık cezaevine kavuşuyor
   entry_id:  85318515
   entry_writer: kotu gun tostu
-  entry_fav_count: 50
+  entry_fav_count: 53
   entry_content: |
     (bkz: <a class="b" href="/?q=cezaevinin+keyfini+cikaran+ise+yine+minikler+oldu">cezaevinin keyfini cikaran ise yine minikler oldu</a>)
   entry_channels: siyaset,haber
+- entry_name: |
+    kediyle uyumak
+  entry_id:  85308622
+  entry_writer: bir sey dicem
+  entry_fav_count: 48
+  entry_content: |
+    huzurdur. bazen horlar gülme sebebidir.
+  entry_channels: ilişkiler
 - entry_name: |
     mariam kavakçı
   entry_id:  85299811
@@ -198,7 +206,7 @@ data:
     marcos do nascimento teixeira
   entry_id:  85292054
   entry_writer: 2 tostos turan
-  entry_fav_count: 43
+  entry_fav_count: 45
   entry_content: |
     sadece kısa videoları ve fm profili ile yorum yapılan futbolcu.........<br/><br/>akıl alır gibi değil.<br/><br/>ben sana burak-umut bulut-sabri-yasin-barış-ayhan-mustafa sarp’ın öyle videolarını hazırlarım ki bu adam real’de oynamalı dersin. ama öyle maçlarını izletirim ki “bu adamın normal hayatta mesleği” ne dersin...........<br/><br/>ben böyle bir saçmalık görmedim........<br/>adam 3-4 maç oynasın, görelim kardeşim görelim.........<br/><br/>bruma’yı, carole’ü, telles’i ve hatta beğenmesem de onyekuru’yu nerede izlediniz gördünüz duydunuz???????<br/><br/>30+ adam alırlar, yerden yere vurursunuz.....<br/><br/>genç birini alırlar “kapalı kutu-ne gerek vardı” dersiniz.....<br/><br/>anadolu kulüpleri alır oynatır çatır çatır genç oyuncuları “bizimkiler niye bulamıyor” dersiniz..........<br/><br/>sizin derdiniz “en çok ben biliyorum” demek.........<br/><br/>umarım şampiyonluklar yaşayacaktır imza atarsa.........
   entry_channels: spor
@@ -206,26 +214,18 @@ data:
     yerli ve milli coffee shop için isim önerileri
   entry_id:  85315128
   entry_writer: endlos
-  entry_fav_count: 38
+  entry_fav_count: 42
   entry_content: |
     (bkz: <a class="b" href="/?q=millet+cigaras%c4%b1">millet cigarası</a>)
   entry_channels: siyaset,anket,yeme-içme
 - entry_name: |
-    kediyle uyumak
-  entry_id:  85308548
-  entry_writer: narenciye skywalker
+    2019 ekonomik krizi
+  entry_id:  85300394
+  entry_writer: sersefilyus
   entry_fav_count: 37
   entry_content: |
-    üç kediyle tutturduğum düzendir. bu düzen sayesinde hayatımda olmadığım kadar huzurlu ve sorumluluk sahibiyim. ağlamak istiyorum :')
-  entry_channels: ilişkiler
-- entry_name: |
-    lisansı yozgat'ta yüksek lisansı çorum'da bitirmek
-  entry_id:  85319710
-  entry_writer: seviyorsevmiyorseviyorsevmiyorseviyor
-  entry_fav_count: 31
-  entry_content: |
-    müthiş bir vizyon verir. doktorayı da mümkünse çankırı ya da bayburt’ta bitirmek gerekir.
-  entry_channels: anket,eğitim
+    vergimi düzenli ödeyen biriydim. 3 yıldır emlak vergisini ödememiş dayımla laflafı açtı şu vergiyide kapamadım hala gitmeye de zamanım yok vs. deyince online'da ödenir bakayım dedim. adamın gecikme faizsiz net borcu 1.200 tl olması gerekirken otomatik yapılandırmışlar 1.050 tl istiyorlar.<br/>dedim ben mi kerizim bir tek geçen sene emlak vergimin 2. taksitini ödemedim. bundan sonra da ödemeyeceğim belirli bir süre<br/>bakalım nereye kadar gidecek bu iş vergisini verene değil vermeyene indirim yapıyorlar olacak iş değil...
+  entry_channels: siyaset,bilim,ekonomi
 - entry_name: |
     zor günlerden geçenlerin bildiği en iyi şey
   entry_id:  85292080
@@ -235,13 +235,37 @@ data:
     “zor günlerden geçen herkes bir gün geri yükselecek diye bir kaide yok, kalıcı olarak yarrağı yemiş olabilirsiniz”
   entry_channels: anket
 - entry_name: |
+    ak parti'nin ekonomik krizi önleyememe sebepleri
+  entry_id:  85294089
+  entry_writer: ilyusin47
+  entry_fav_count: 26
+  entry_content: |
+    adalet ve kalkınmanın olmaması. adalet olmayan yerde hiçbir sikim olmaz. kusura bakmayın kaba konuştum
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
+    triangulum galaksisi'nin detaylı fotoğrafı
+  entry_id:  85320025
+  entry_writer: chnanthemoca
+  entry_fav_count: 24
+  entry_content: |
+    bu galaxinin bizden uzaklığı aşağı yukarı 2 milyar 700 milyon ışık yılıdır.<br/>çapı 60 bin ışık yılıdır. <br/><br/>ne medeniyetler başlayıp bitmiştir orada hiç bilemeyeceğiz.
+  entry_channels: bilim,haber
+- entry_name: |
     her gün kahve almak yerine kahve makinesi almak
   entry_id:  85314472
   entry_writer: juniormint
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     kahve makinesi yerine kahve öğütücüsü + moka pot almak da mantıklı olabilir.
   entry_channels: ekonomi
+- entry_name: |
+    özel bölge ağdacısı kadının gereksiz samimiyeti
+  entry_id:  85321383
+  entry_writer: amkya
+  entry_fav_count: 23
+  entry_content: |
+    kadın olmak zor diyeceğim bi gülme geliyor özel bölge ağdacısı ne amk..<br/><br/>erkek yaptırsa olacak dialoglar<br/><br/>+harun abi sağamı solamı yatırayım?<br/>-farketmez goçum nasıl rahat ediyorsan..<br/>+abi yavaş koparttın amk <br/>-tamam bitti bitti <br/>+abi evde yıkarım duş alıcam zaten<sup class="ab"><a title="(bkz: yohh amina)" href="/?q=yohh+amina" data-query="yohh amina">*</a></sup>
+  entry_channels: 
 - entry_name: |
     sözlükçülerin ilk işleri
   entry_id:  85295256
@@ -259,30 +283,6 @@ data:
     şu duygularla videoyu açtırmış youtube kanalı;<br/><br/>+getirdin mi?<br/>-getirdim.
   entry_channels: teknoloji
 - entry_name: |
-    iz bırakan kitap cümleleri
-  entry_id:  85295955
-  entry_writer: oberyn2
-  entry_fav_count: 18
-  entry_content: |
-    bir insanın aklının biraz kıt olduğunu, en iyi, başkalarına zarar vermeden espri yapamamasından anlarsınız. <br/><br/><a class="b" href="/?q=fernando+pessoa">fernando pessoa</a> - <a class="b" href="/?q=huzursuzlu%c4%9fun+kitab%c4%b1">huzursuzluğun kitabı</a>
-  entry_channels: sanat,edebiyat,spoiler
-- entry_name: |
-    erkek dediğin beni taşımalı
-  entry_id:  85308275
-  entry_writer: cuvara
-  entry_fav_count: 17
-  entry_content: |
-    erkeklerin kadinlar icin soyledigi "kadin dedigin oturmasini kalkmasini bilmeli" terimi de bunun negatfidir. "tasiyabilen erkek" ile "oturup kalkabilen kadin" arasindaki iliski batman ile joker arasindaki iliskiye benzer. <br/><br/>(bkz: <a class="b" href="/?q=you+complete+me">you complete me</a>)
-  entry_channels: ilişkiler
-- entry_name: |
-    kilo ver diyen sevgili
-  entry_id:  85313674
-  entry_writer: umittaciri
-  entry_fav_count: 15
-  entry_content: |
-    gerçek seven öyle de sever sizi ancak <br/>böyle demek yerine beraber yürümeyi, <br/>spor yapmayı teklif etmek daha nazikçe bir davranış olur.<br/>eski sevgilim bu şekilde on kilo vermişti. <br/>yaptığı yemeklerle ben kilo almıştım ama.
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
     yazarların en son aşık olduğu ünlü kişi
   entry_id:  85302017
   entry_writer: x uzeri y nin z ye gore turevi
@@ -291,13 +291,21 @@ data:
     titanic zamanı leo dicaprio. odamda kevaşe rose a arkadan dayadığı meşhur sahnenin kocaman bir posteri vardı ama rose un kafasının olduğu yere sticker yapıştırmıştım. rol icabı mecburen ona yaklaşmıştı, aslında gönlü bendeydi.
   entry_channels: anket,magazin
 - entry_name: |
-    triangulum galaksisi'nin detaylı fotoğrafı
-  entry_id:  85320025
-  entry_writer: chnanthemoca
-  entry_fav_count: 10
+    neşet ertaş'ın mütevazı bir insan olmaması
+  entry_id:  85299091
+  entry_writer: kaidesini bozan istisna
+  entry_fav_count: 12
   entry_content: |
-    bu galaxinin bizden uzaklığı aşağı yukarı 2 milyar 700 milyon ışık yılıdır.<br/>çapı 60 bin ışık yılıdır. <br/><br/>ne medeniyetler başlayıp bitmiştir orada hiç bilemeyeceğiz.
-  entry_channels: ilişkiler,bilim,teknoloji,haber,eğitim
+    neşet ertaş'ı türküleri dışında tanımıyorum ama başlığı açan arkadaş önemli bir noktaya işaret etmiş bence. ego/nefs bazen öyle bazen böyle illa ki kendini beslemek büyütmek ister. bunlar içinde en tehlikesi fazilet elbisesi altına gizlenerek bunu gerçekleştirmesidir. çok erdemli, çok iyi bir insan densin diye yapılan her davranış her amel bu çeşittir. bu sebeple nefse zillet elbisesi giydirmek en iyisidir. o kendinde bir yücelik gördüğünde hemen ona düşük halleri hatırlatılmalı, kendindeki faziletleri sıraladığında hemen reziletleri ortaya dökülmeli. <br/><br/>bir iş bir iyilik bir güzellik sırf allah için yapılmıyorsa ruha fayda vermez.
+  entry_channels: 
+- entry_name: |
+    lisansı yozgat'ta yüksek lisansı çorum'da bitirmek
+  entry_id:  85320213
+  entry_writer: giyotinciseko
+  entry_fav_count: 11
+  entry_content: |
+    eğer akparti'ye yakınsanız odtü'ye rektör olarak atanmakla sonuçlanır.
+  entry_channels: anket,eğitim
 - entry_name: |
     ekşi itiraf
   entry_id:  85297091
@@ -315,14 +323,6 @@ data:
     degisik tadlar denemeyi seven biri olarak, gezdigim ulkelerde yilan,timsah,devekusu,kopekbaligi tatmisligim var. hepsinin tadi farkli ama hepsi de gayet yenilebilir hatta lezzetli etler. denemeden tepki vermeyin bence.<br/>ha videoda kesmis yemis vs , kotu gorunuyor ama kuzu pirzolayi yemeyi de kuzu kesmekle baslayip izlesek o da vahsi gorunurdu.
   entry_channels: 
 - entry_name: |
-    the witcher 3 wild hunt
-  entry_id:  85313200
-  entry_writer: cokdusunupazsikleyen
-  entry_fav_count: 9
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hi%c3%a7+mi+ak%c4%b1llanm%c4%b1yorsunuz+amk%3f">hiç mi akıllanmıyorsunuz amk?</a>)
-  entry_channels: bilim,sanat,oyun
-- entry_name: |
     merhaba ben selçuk şirin sorularınızı cevaplıyorum
   entry_id:  85312561
   entry_writer: deda
@@ -331,21 +331,53 @@ data:
     size kolaylık olsun <br/><br/>selçuk şirin kimdir?<br/><br/>selçuk şirin, new york üniversitesi’nde (nyu) profesör olarak davranış bilim ve istatistik dersleri vermekte, eğitimden gelişime geniş bir alanda araştırmalar yapmaktadır. ilkokula kars yiğitkonağı köyü’nde başlamış ve liseyi göle’de bitirmiştir. odtü’den lisans, suny’den yüksek lisans ve boston college’dan doktora derecesi almış olan şirin 100’ü aşkın bilimsel yayına imza atmıştır. boston college ve nyu’dan ögretim üyesi mükemmeliyet ödülü, abd çocuk gelişimi vakfı’ndan araştırmacı ödülü, dünyadaki en büyük eğitim araştırmacılar derneği aera’dan araştırma büyük ödülü, ve jacob vakfı’ndan 2018 sosyal girişimcilik ödülü almıştır. selçuk şirin 2015 yılında abd bilimler akademisi komisyonuna seçilmiştir. 2014 yılından itibaren hürriyet’te haftalık köşe yazıları yazan selçuk şirin’in “yol ayrımındaki türkiye: ya özgürlük ya sefalet” ve “bir türkiye hayali” adli iki türkçe kitabı, “muslim american youth: understanding hyphenated selves through multiple methods” adlı bir ingilizce kitabı ve çocuklara yönelik pek çok alıştırma kitabı bulunmaktadır.
   entry_channels: siyaset,ekşi-sözlük,bilim,edebiyat,sağlık,eğitim,ekonomi
 - entry_name: |
-    ankara'da öğretmenin otizmli çocuğa şiddeti
-  entry_id:  85320508
-  entry_writer: hiphopotam
+    edu dracena
+  entry_id:  85314941
+  entry_writer: klorobam
   entry_fav_count: 7
   entry_content: |
-    ortada şiddet göremiyorum. sadece bilinçsiz, otizmli çocuğa eğitim verecek yeterliliğe sahip olmayan bir öğretmen ve inatla ilgi isteyen, kontrol edilemeyen bir otistik çocuk var. <br/><br/>videodan çok başlığı açanın başlık açma şekli rahatsız etti beni, ekşicilerin ne düşündüğünü merak ediyormuş!.. gerçekten format namına bir şey kalmadı. foruma döndük. format hassasi yazarlar bile artık rahata taktı umursamıyor. <br/><br/>öyle başlık mı açılır amq? hay açacağın başlığı...
-  entry_channels: haber
+    rüya sezonda kendisine rağmen değil kendisiyle birlikte çeyrek finale çıkmıştır fenerbahçe. lugano'nun teknik açığını fazlasıyla kapatıyordu.
+  entry_channels: spor
 - entry_name: |
-    recep tayyip erdoğan
-  entry_id:  85314991
-  entry_writer: weparty
+    mariam kavakçı'nın paylaştığı müstehcen fotoğraf
+  entry_id:  85292404
+  entry_writer: navarre
   entry_fav_count: 6
   entry_content: |
-    yav bu adam koca ulkenin basi, bir haber okuyor yada artik danismanlari ufluyor buna, hop, deniz cakir olayina laf atiyor. <br/><br/>yav sen magazinci misin? ortada sadece iddia var, ne hemen zipliyorsun? sortlu oldugu icin tekme yiyen kiz icin duymadik sesini hic, o iddia bile degildi, izledik kamerada.
-  entry_channels: siyaset,tarih,haber
+    fetö'cü bir baayandan ne bekliyordunuz, babetmi giyecekti? <br/><br/>konu ayakkabıları ve diyabetik ayakları değil fetöcülerle dolu beştepe olmalıdır. her allahın saati "fetö'yü verin" diye inle sonra etrafını kendin gibi fetöcülerle doldur. sonra geç karşımıza "kemal'de, kemal'de" diye inle. biz o "kemal" sözcüğüyle kime ne gönderme yaptığını tabii ki biliyoruz da parasızlıktan sesimiz çıkmıyor!
+  entry_channels: magazin
+- entry_name: |
+    en iyi çalışan kamu kurumu
+  entry_id:  85321648
+  entry_writer: cift uskur hulusi reis 2
+  entry_fav_count: 6
+  entry_content: |
+    (bkz: <a class="b" href="/?q=icra+dairesi">icra dairesi</a>)
+  entry_channels: anket
+- entry_name: |
+    ankara'da öğretmenin otizmli çocuğa şiddeti
+  entry_id:  85320749
+  entry_writer: okudum okuyorum oku
+  entry_fav_count: 6
+  entry_content: |
+    ne bekledim, ne çıktı tadında bir video olmuş. otizmli bir çocuğa eğitim verebilecek şekilde eğitim almamış bir insandan, ona eğitim vermesini beklemek saçmalıktır. bu seviyede otizmi olan bir bireyin, doğru okullarda doğru şekilde eğitim alması gerekir. olan, ne hayallerle öğretmen olmuş bir kadına olmuş.
+  entry_channels: haber
+- entry_name: |
+    30 yaşındaki adamın 20 yaşındaki kızla çıkması
+  entry_id:  85299706
+  entry_writer: lexiss
+  entry_fav_count: 5
+  entry_content: |
+    (bkz: <a class="b" href="/?q=40+ya%c5%9f%c4%b1ndaki+adam%c4%b1n+20+ya%c5%9f%c4%b1ndaki+kad%c4%b1nla+evlenmesi">40 yaşındaki adamın 20 yaşındaki kadınla evlenmesi</a>)<br/>dedem babaannemle evlendiğinde, dedem 40 babaannem 20 yaşındaymış. ikisi de 2. evlilikleri. arada anlatması 1 saatlik muhabbetler yaşandıktan sonra dedem babannemden sonra tekrar evlenir. benim babaannemi hatırladığım yaşları 60 dan sonrası. dedemi dinlemekten bıkardım. dedemin saçını anlatır kaşını anlatır kuşağını anlatır silahını anlatır... rüyasında görür anlatır.. arada 20 yıl ve başka bir kadın var.. ben sorsam bırak şu deyyusu der. bıraksam sabaha kadar anlatır.<br/><br/>sonuç: yaş falan hikaye. ikisi de rahmetli oldu. rüyamda görsem yine dedemi anlatır..
+  entry_channels: ilişkiler
+- entry_name: |
+    tuvalette maşrapaya kaka yapan insan
+  entry_id:  85320538
+  entry_writer: iboli
+  entry_fav_count: 2
+  entry_content: |
+    uzun dönem sıçar<br/>bedelli kaka yapar (bkz: <a class="b" href="/?q=kaka+yapmak">kaka yapmak</a>)<br/>(bkz: <a class="b" href="/?q=bir+bedellinin+hat%c4%b1ra+defteri">bir bedellinin hatıra defteri</a>)<br/><br/>tanım: (bkz: <a class="b" href="/entry/24785068">#24785068</a>)
+  entry_channels: anket
 - entry_name: |
     son 16 yılın enflasyon ortalaması yüzde 9.54
   entry_id:  85316819
@@ -355,51 +387,19 @@ data:
     (bkz: <a class="b" href="/?q=atma+recep+din+karde%c5%9fiyiz">atma recep din kardeşiyiz</a>)
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    küçük memenin hak ettiği ilgiyi görmemesi
-  entry_id:  85305261
-  entry_writer: basabbasbas
+    beyaz yakalı erkek mavi yakalı kız ilişkisi
+  entry_id:  85320685
+  entry_writer: kuruincirarasiceviz
   entry_fav_count: 2
   entry_content: |
-    bu memlekette küçük olup (bkz: <a class="b" href="/?q=%c3%a7engelk%c3%b6y+h%c4%b1yar%c4%b1">çengelköy hıyarı</a>)'ndan başka kıymetli birşey yok arkadaş.<br/>herkes büyük seviyor anlamıyorum ki.
+    ulan aşk bu aşk! beyazı mavisi mi olur? kişiler birbirlerini sevdiği vakit ne önemi var title'ın statünün?
   entry_channels: ilişkiler
 - entry_name: |
-    tuvalette maşrapaya kaka yapan insan
-  entry_id:  85320538
-  entry_writer: iboli
-  entry_fav_count: 1
-  entry_content: |
-    uzun dönem sıçar<br/>bedelli kaka yapar (bkz: <a class="b" href="/?q=kaka+yapmak">kaka yapmak</a>)<br/>(bkz: <a class="b" href="/?q=bir+bedellinin+hat%c4%b1ra+defteri">bir bedellinin hatıra defteri</a>)<br/><br/>tanım: (bkz: <a class="b" href="/entry/24785068">#24785068</a>)
-  entry_channels: anket
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  85291985
-  entry_writer: sd kart
-  entry_fav_count: 1
-  entry_content: |
-    film noir sevenlerle her türlü muhabbetini edebileceğim veritabanı. belki senaryolar hakkında konuşuruz, duruma göre.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    selam ben kimsenin sevmediği insan
-  entry_id:  85320706
-  entry_writer: skumbag
+    meltem banko'yu anlatacak filme isim önerisi
+  entry_id:  85319686
+  entry_writer: alaturka klozet
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=a.s.+karde%c5%9f">a.s. kardeş</a>)<br/>(bkz: <a class="b" href="/?q=hay%c4%b1rl%c4%b1+forumlar">hayırlı forumlar</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  85291755
-  entry_writer: rybczynski
-  entry_fav_count: 0
-  entry_content: |
-    tatlı çaylak kızlardan mesaj beklediğim veritabanı.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    9 ocak 2019 türk telekom rezaleti
-  entry_id:  85321121
-  entry_writer: jix
-  entry_fav_count: 0
-  entry_content: |
-    türk telekom'dan taahhütlü olarak kullandığım tüm hatlarımı, kampanyalarımı cezalarıyla beraber ödeyerek turkcell'e geçtiğimden dolayı tavsiye olarak verebileceğim rezalettir.
-  entry_channels: ilişkiler
+    (bkz: <a class="b" href="/?q=gazwoman+-+the+last+fartbander">gazwoman - the last fartbander</a>)
+  entry_channels: anket,sinema
 ---
