@@ -6,7 +6,7 @@ data:
     15 gün yatıp maaş almak
   entry_id:  85678620
   entry_writer: polyphase
-  entry_fav_count: 516
+  entry_fav_count: 519
   entry_content: |
     (bkz: <a class="b" href="/?q=anas%c4%b1n%c4%b1+%c3%b6%c4%9fretmen+siken+suserlar">anasını öğretmen siken suserlar</a>)
   entry_channels: anket,eğitim,ekonomi
@@ -14,7 +14,7 @@ data:
     maç öncesi 13 yabancı olduğunu biliyorduk
   entry_id:  85679179
   entry_writer: kayitsiz kalamayan adam
-  entry_fav_count: 507
+  entry_fav_count: 509
   entry_content: |
     şenol güneş varsa normal durum. yıllarca bilge amca tribini yedirdi millete.
   entry_channels: spor,haber
@@ -22,7 +22,7 @@ data:
     londra'da homofobik saldırı gerçekleştiren türkler
   entry_id:  85687180
   entry_writer: jagermeister
-  entry_fav_count: 387
+  entry_fav_count: 403
   entry_content: |
     tiplerini siktiğimin güya türk olarak klasifiye edilmiş maymun kırması şerefsizlerin yaptıkları eylemdir.<br/><br/>bu hayvan evlatlarından avrupa'da çok var, hatta büyük bir çoğunluğu da bunlar gibi. içtikleri su mu yaramıyor, yedikleri samanda mı bir bozukluk vardır bilinmez ama hepsi benzer sakal bırakıyor, benzer leş eşorfmanları giyiyor. bu yavşaklar yüzünden hep bir önyargıyla karşı karşıya kalıyoruz. berberde bile düz çizgi çizilmiş kirli sakallı yavşak fotosu var, örnek olarak gösterip kesmek için.<br/><br/>edit: yanarak ölmesinler, bi yazar uyardı, bu kadar nefrete gerek yok tabi bünyede. evet.
   entry_channels: ilişkiler,sağlık,haber
@@ -30,7 +30,7 @@ data:
     deep turkish web
   entry_id:  85680948
   entry_writer: scott pilgrim
-  entry_fav_count: 364
+  entry_fav_count: 372
   entry_content: |
     üstteki arkadaş neden annesine sövmüşler gibi davranmış anlamadım. gülün geçin. gülmüyorsanız gene geçin. bu başlıkta sürekli aynı tartışmaları okumak sıktı.
   entry_channels: sinema,teknoloji
@@ -38,7 +38,7 @@ data:
     fazıl say
   entry_id:  85670455
   entry_writer: v for vazelin
-  entry_fav_count: 333
+  entry_fav_count: 336
   entry_content: |
     biz kimiz ki adamı linç ediyoruz? bence bir sanatçı olarak daha iyi bir gelecek için her yolu deniyor adam. ben saygı duyuyorum. yalakalık yapmaya ihtiyacı yok ki. paraya da ihtiyacı yok. dünya kucak açmış. bugün istese japonya vatandaşlık veriyor. o ise burada bir uğraş veriyor. yaptığı sanat deseniz çok üst seviyelerde. hem bu ülkenin kültürüyle, hem de dünyanın acılarıyla yoğurduğu eserler ortaya koyuyor. burada onu eleştirenler youtube’u açıp bir iki söyleşisini izlesin. kurduğu cümlelerle bizi beşle çarpıp ona böler.
   entry_channels: sanat,müzik,haber
@@ -46,7 +46,7 @@ data:
     ilk buluşmada sevişmek
   entry_id:  85676575
   entry_writer: beklebenidonmeyecegim
-  entry_fav_count: 295
+  entry_fav_count: 300
   entry_content: |
     asıl ilginç olanın, erkeğin ilk buluşmada olup olmayacağını bilmemesine rağmen kızın bunu taa en başından biliyor olması durumudur.
   entry_channels: ilişkiler
@@ -62,7 +62,7 @@ data:
     aşı yaptırmaya mecbur değilim hareketi
   entry_id:  85678748
   entry_writer: arlington
-  entry_fav_count: 202
+  entry_fav_count: 204
   entry_content: |
     toplum bağışıklıgının ne oldugundan bihaber yazarlar mümkünse entry sıçmasın..<br/>otizm nedeni sosyal genetik ve çevresel faktörlerdir.<br/>senin yedigin balıkta midye de aşıdakinden çok daha fazla civa bulunmaktadır..<br/><br/>"otizmi çağrıştıran davranış özellikleri ile ilgili ilkyazılar 18. yüzyıla kadar gitmektedir. 1700’lü yıllarda fransa’da jan ıtard ve ingiltere’de jon hâlsam söz etmişlerdir. bu bilim adamları otizmi incelemişler ve otizmli kişileri her hangi bir tanım koymadan farklı bireyler olarak isimlendirmişlerdir.<br/><br/>“otizm” teriminin ise ilk kez isviçre'li psikiyatr eugen bleuler tarafından 1911 yılında kullanılmıştır.<br/><br/>unıcef verilerine göre aşı ile önlenebilir altı hastalık (boğmaca, difteri, tetanos, kızamık, çocuk felci, verem) nedeniyle olan çocuk ölümlerinin sayısı 1989’da 5 milyon dolayında iken, bugün bu altı hastalıktan ölüm yılda yalnızca 100 bin dolayındadır. dünya sağlık örgütü (dsö) avrupa bölgesi aylık bildirim verilerinden elde edilen bilgilere göre, 2013 ve 2015 yıllarındaki kızamık salgınında hastalananların çoğu aşısız çocuklardır. dsö kızamık aşısı yapılmadığında yılda 2,7 milyon çocuğun kızamık komplikasyonları nedeniyle öleceğini öngörmektedir.<br/><br/>abd hastalık kontrol ve korunma merkezi verilerine göre çocuk felci (poliomiyelitis) aşısı yapılmaması durumunda her yıl çocuk felcinin neden olacağı akut paralizi ve ardından gelişecek kalıcı fiziksel engellilik sonucu ölüme kadar giden bir sürecin gözleneceği yaklaşık 20.000 hasta çocuk ortaya çıkacaktır. sonuç olarak birçok hastalığın ortadan kalkmasında ve yaşanan salgınların tekrarlanmamasında aşıların katkısı yadsınamaz ve bağışıklama en güçlü ve düşük maliyetli halk sağlığı girişimi olmaya devam etmektedir.<br/><br/>aşılar uygulanmadan önce yararlılık ve güvenlik incelemelerinden geçmektedir, uygulamaya geçiş sonrası da istenmeyen etkiler ve yan etkiler açısından sürekli olarak izlenmektedir. yaratılan yanlış algılara karşın aşılar güvenli tıbbi ürünlerdir, çünkü;<br/><br/>aşılanma (bcg, bdt, kkk, opv) sonrası invaziv bakteriyel enfeksiyon sıklığı aşılanmayan çocuklara göre daha yüksek değildir.<br/>doğal grip enfeksiyonundan daha sık guillain barre sendromuna yol açmazlar.<br/>kızamık aşılaması otizme neden olmamaktadır.<br/>aşılarda alüminyum tuzları, bağışık yanıtı güçlendirmek için 1930’lardan beri kullanılmaktadır ve aşılardaki dozu çok düşüktür. aşılanan çocuklarda yapılan araştırmalar, serumda alüminyum düzeyinin toksik düzeyin çok altında olduğunu göstermektedir."<br/><br/>dolayısıyla aşı yaptırın.yaptirmayani da dövün amk.<br/><br/>edit:imla<br/>edit2:tirnak içindeki bilgiler türk tabipler birligi makalelerinden derlenmistir..götümden uydurulmamistir.
   entry_channels: haber
@@ -70,7 +70,7 @@ data:
     twitter'da 300 bin tweet atan enteresan profil
   entry_id:  85677924
   entry_writer: googleamca
-  entry_fav_count: 184
+  entry_fav_count: 186
   entry_content: |
     bot olma ihtimali yüksek değil bence kesinlikle bot olan profil.<br/>bakınız:<br/>twitter'a giriş tarihi : ekim 2013 (1 ekim sayalım)<br/>bugün: ocak 2019 <br/>fark: 1936 gün<br/>bugüne <sup class="ab"><a title="(bkz: 19 ocak 2019)" href="/?q=19+ocak+2019" data-query="19 ocak 2019">*</a></sup> kadar toplam 332 bin twit atmış.<br/>günlük 171,48 twit ediyor.<br/>diyeceksiniz ki ne var bunda ben de atarım günde 170 twitt.<br/>kazın ayağı öyle değil ama.<br/>bu herif 2013 yılından beri bu twitleri her saat atmış. gece gündüz demeden.<br/>sen oturup 200 twit atarsın belki sabahtan akşama kadar, ama bunları 24 saate bölüp de her saat ortalama 7 twit atarsan bu adamın yaptığını yapabilirsin ancak.<br/>uyumayacak mısın?<br/>traş olmayacak mısın?<br/>banyo yapmayacak mısın?<br/>markete alışverişe gitmeyecek misin?<br/>yemek yemeyecek misin?<br/>sıçmayacak mısın?<br/>eninde sonunda sektireceksin yani.<br/>bu herif hiç sektirmemiş.<br/>ben bunun google botu ya da ona benzer bir firmanın botu olduğunu düşünüyorum.<br/>bunun benzerinin diğer dillerde de olduğunu tahmin ediyorum.
   entry_channels: teknoloji
@@ -86,7 +86,7 @@ data:
     hrant dink
   entry_id:  85670276
   entry_writer: pembememeucu
-  entry_fav_count: 169
+  entry_fav_count: 174
   entry_content: |
     şehrin gürültüsünde boğulan bir silah sesi türkiye için yeni ve karanlık bir dönemin ilk habercisi oldu.namlunun ucundaki hedef gazeteci hrant dink ensesinden ve kafasından aldığı kurşunlarla olay yerinde hayatını kaybetti.<br/><br/>saldırgan dersine çalışmıştı, koşarak ara sokaklarda kayboldu.<br/>bir kaç saat sonra da başında beyaz beresi, belinde silahı ile memleketine doğru giderken otobüste yakalandı.<br/><br/>tetikçi ogün samast daha ilk sorguda cinayeti itiraf etti.<br/>kendisi gibi dönemin siyasileri, üst düzey bürokratları cinayetin ‘dini ve milli gerekçelerle işlendiğini’ söyledi ancak gerçek öyle değildi.<br/><br/>bu inanılması istenen senaryoydu….<br/><br/>dink cinayeti’ni anlamak için 2007 türkiye’sinden geriye doğru 2002’ye kadar gitmek gerekiyor.<br/><br/>akp’nin tek başına iktidara gelmesi türkiye’de kendini devletin asıl sahibi gören çevreleri harekete geçirdi.<br/><br/>fakat bu kez öncekilerden farklı olarak ‘irtica’ kullanılmadı.<br/>islamcı referansları olan akp’ye karşı milliyetçi söylemleri güçlendirecek bir konsept belirlendi.<br/><br/>islamcı referansları olan akp’ye karşı milliyetçi söylem…<br/><br/>12 mart 2003 tarihli mgk toplantısında ‘misyonerliğin türkiye’nin geleceği için tehdit olduğuna karar verildi.<br/><br/>karar çıktığı günlerde istihbarat raporlarında türkiye’deki misyonerlerin sayısı sadece 54 kişi gözüküyordu ancak 40 sayfalık ‘çok gizli’ rapor tüm devlet birimlerine gönderilmiş ve emir olarak algılanmıştı bile…<br/><br/>türkiye bir anda misyonerlik paranoyasına kapıldı.<br/><br/>televizyonlar ‘din değiştiren müslüman gençler’ haberleriyle doldu. siyasiler, üst düzey komutanlar, gazeteciler misyonerlik tehdidini günlerce işlediler.<br/><br/>ardından hristiyan azınlıklara saldırılar başladı. trabzon’da rahip santaro, 15 yaşındaki ‘milliyetçi bir genç’ tarafından öldürüldü.<br/><br/>bu dönemde karadeniz şehirlerinde de bir anda ‘garip olaylar’ başladı. bir tarikat ve siyasi parti lideri il il, ilçe ilçe dolaşıp ‘müslüman türk gençlerinin hristiyan yapıldığı’ tezini işledi.<br/><br/>cinayete giden yolda son hazırlıklar…<br/>istanbul’da da başka bir ekip dink üzerinde çalışıyordu. dönemin kudretli generali veli küçük, milliyetçi avukatlardan kemal kerinçsiz ve milliyetçi gruplar dink’e karşı protesto gösterileri organize ediyorlardı.<br/><br/>dink’in yayın yönetmeni olduğu gazete şubat 2004’te sabiha gökçen isimli ilk türk kadın pilotun ‘ermeni kökenli olabileceğini’ yazdı. aranan malzeme bulunmuştu. adeta kıyamet koparıldı.<br/><br/>dink istanbul valilliği’ne çağrıldı ve bir vali yardımcısı tarafından tehdit edildi. aynı günlerde dink’e ‘türklüğü aşağılamaktan’ dava açıldı ve duruşmalar milliyetçi grupların gösteri mekanına dönüştürüldü. <br/><br/>halkalar tamamlanıyordu ve artık sıra ‘tetikçi’ aşamasına gelmişti.<br/><br/>adeta pilot bölge seçilen trabzon / pelitli ilçesinde internet cafelerden toplanan ve cinayet için motive edilen gençlerden biri ‘ogün samast’ istanbul’a yollandı.<br/><br/>bu esnada jandarma ve polis cinayetin istihbaratını aldı ama gereğini yapmadı. jandarma cinayette kullanılacak silahı bile biliyor, trabzon’daki jandarmalardan birinin telefonu da istanbul’dan sinyal veriyordu !.<br/><br/>dink’in adını bile bilmeyen samast’ın ise tek bildiği ‘bir ermeni var, öldürülecek’ti...<br/><br/>gözünü kırpmadan cinayeti işledi.<br/><br/>mahkeme ifadelerinde ‘garanti verildiği’ anlamına gelen sözler kullandı.<br/><br/>cinayeti işletenler ise kamuoyunu ‘trabzon’un mu yoksa istanbul’un mu ihmali var?’ tartışmasına çekmeyi başardı.<br/><br/>soruşturma ülkeyi 17 yıldır yöneten akp iktidarının siyasi hedeflerine uygun şekilde ilerliyor. dink’i hedef yapan, tetikçileri belirleyip yetiştiren jandarma ve istihbaratçılara hala dokunulamadı. fakat cumhurbaşkanlığı ddk raporuna göre ihmali olmayan iki emniyetçi tutuklandı.<br/><br/>2015 sonunda yeniden iddianame yazıldı ancak bu da cinayeti aydınlatmaktan çok akp’nin yolsuzluk skandalı sonrası başlattığı cadı avına hizmet etti.<br/><br/>geçen 12 yılın ardından dink’i katleden tetikçiyi azmettirenler hala bulunmuş değil... <br/><br/>bebekten katil yaratan o karanlığa sesleniyorum:<br/>gelin bu ülkedeki güvercin tedirginliğini kaldıralım<br/>gelin güvercinlere kıymayalım<br/>gelin önce birbirimizi anlayalım<br/>gelin önce birbirimizin acılarına saygı gösterelim<br/>gelin önce birbirimizi yaşatalım.
   entry_channels: siyaset,haber,havacılık
@@ -94,31 +94,23 @@ data:
     teyze ile hala arasındaki fark
   entry_id:  85688114
   entry_writer: whassupbro
-  entry_fav_count: 140
+  entry_fav_count: 144
   entry_content: |
     3 halamın 1 teyzem etmediği fark...<br/><br/>genel bir durum elbette olamaz, benimkilerin karaktersizliği. herşey iyiyken canım cicim. peder battı, açmısın diyen olmadı. büyüyünce anladım ki o canım cicimlerde babamın sürekli herşeylerini karşılamasındanmış. insanoğlu işte. akrabalık filan hep boş
-  entry_channels: anket,ilişkiler
+  entry_channels: anket
 - entry_name: |
     memur kalitesinin artması için çözüm önerileri
-  entry_id:  85683504
-  entry_writer: bunlarancakfilmlerdeolur
-  entry_fav_count: 113
+  entry_id:  85682003
+  entry_writer: king sized ego
+  entry_fav_count: 123
   entry_content: |
-    referansa dayalı memur alımının sonlandırılmasıdır. adaletin olmadığı yerde kaliteden söz edemeyiz.
+    huzurlu çalışma ortamı, astlarına saygı gösteren üstler, patronluk taslamayan amir/vatandaş.<br/><br/>bir insan, saygı duyduğu kişilere karşı çok yaratıcı olabiliyor.
   entry_channels: siyaset,anket
-- entry_name: |
-    53 bin suriyelinin oy kullanacak olması
-  entry_id:  85679959
-  entry_writer: benarist
-  entry_fav_count: 109
-  entry_content: |
-    1 milyon kullansa kimin haberi olcak olsa bile kim ne diyebilecek allasen süleymancım kasmayın artık bu kadar bu ülke sizin.
-  entry_channels: siyaset,haber
 - entry_name: |
     18 ocak 2019 rte'nin fazıl say konserine gitmesi
   entry_id:  85670279
   entry_writer: historiker
-  entry_fav_count: 98
+  entry_fav_count: 99
   entry_content: |
     şehit tabutlarına yaslanarak siyasi propaganda yapan birinin fazıl say konserinden etkilenip bir şeyleri olumlu anlamda değiştireceğine inanıyorsanız tayyibi fazlası ile hak ediyorsunuz demektir.
   entry_channels: siyaset,sanat,müzik,haber
@@ -126,7 +118,7 @@ data:
     rte'nin pazartesi gel başla demesi
   entry_id:  85686344
   entry_writer: bigdata
-  entry_fav_count: 85
+  entry_fav_count: 94
   entry_content: |
     nasıl cevap vereceğimden emin olamadığım sorunsal. <br/><br/>örneğin (basketbol, hukuk, dış ticaret, müzik, inşaat vb) belli bir alanda ciddi derecede uzmansınız, alanında saygın bir konuma gelmişsiniz ve tayyip erdoğan bir şekilde bunu fark ediyor. sonrasında bir gün ansızın 0312'li bir numara arayarak <br/><br/>"ben cumhurbaşkanlığı özel kalem müdürü hasan doğan, şu an beyfendi yanımda, sizle görüşmek istiyor"<br/><br/>diyor. siz içinizden "ne alaka lan, noluyo aq" diyorsunuz, hemen müziği kapatıyorsunuz, sigarayı söndürüyorsunuz, bira şişesini çöpe atıyorsunuz falan (ne alakaysa artık). <br/><br/>heyecandan boğazınız kuruyuveriyor, "tabi buyursunlar efendim" diyerek gergin şekilde beklemeye başlıyorsunuz.<br/><br/>sonra arkadan <br/><br/>"müsait miymiş, ver bakalım" diye bir ses duyuyorsunuz. ve rte babacan bir şekilde başlıyor söze;<br/><br/>" ....'cim merhaba, nasılsın bakalım, arkadaşlar senden bahsetti, anlattıkları kadarıyla ... alanında baya baya uzmanmışsın yav. bizim de ciddi olarak ihtiyacımız var, bundan sonra da inşallah bu konuda bana danışmanlık yapmanı istiyorum"<br/><br/>böyle bir durumda ne yapmam gerektiğini bilmiyorum. açıkçası ömründe akp'ye oy vermemiş ve birçok politikasını da eleştiren hatta yer yer nefreti doruklara ulaşan biri olarak "asla kabul etmem" diyemiyorum. zira bu ülke hepimizin ve başkaları gelip milletin parasını çarçur edeceğine bari azıcık faydamız dokunsun. hem basiretsiz muhalefet yüzünden bunların iktidardan ayrılacağı da yok, "bari biraz olsun sistemi iyileştirmeye çalışayım" diyebilirim.<br/><br/>ama bir yönden de "yozlaşır mıyım acaba" demeden edemiyorum. güç, iktidar vs bambaşka şeyler, insanı cidden değiştirir. ayrıca istemediğim şeyleri de yaptırtabilirler. kirli düzenin devamında az da olsa katkım olabilir. bir de zaten birden olmaz ki bu yozlaşma şeyi. ufak ufak başlar, bir bakmışsın sen de içindesin, hatta kılıf bile bulmuşsun yaptığın şeylere. sanki rte ve kurmayları 20'li yaşlarındayken de böyle olacaklarını biliyor muydu? zaman, güç, para her şeyi değiştirebilir. <br/><br/>bunları şimdiden düşünelim, bir karar verelim ki telefon karşısında apışıp kalmayalım. bir de kabul etmemeye karar verirsek de birlikte hareket edelim. burada "yok yea ne kabul edicem" deyip de sonradan "tabi efendim, yalarım efendim" demek yok, kalbinizi kırarım<br/><br/>edit: sanırım en temizi @burakowski'nin de dediği gibi "ben muhalifim, şartlarım da böyle böyle, kabul ederseniz ülkeye hizmete hazırım" demek<br/><br/>edit 2: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/kahve-muptelasi" title="https://eksisozluk.com/biri/kahve-muptelasi">kahve müptelası'na</a> teşekkürler 0216 yazmıştım dalgınlıktan, düzeltti
   entry_channels: siyaset
@@ -134,82 +126,82 @@ data:
     sütyen giymeden dışarı çıkmak
   entry_id:  85672289
   entry_writer: kuyruk yagi
-  entry_fav_count: 73
+  entry_fav_count: 76
   entry_content: |
     sütyen giymeyen erkeklerin yapmaktan bıkmadığı, usanmadığı espri. çok komik amk..
-  entry_channels: moda
+  entry_channels: anket,moda
 - entry_name: |
     19 ocak 2019 galatasaray mke ankaragücü maçı
   entry_id:  85694086
   entry_writer: lex est dictamen rationis
-  entry_fav_count: 60
+  entry_fav_count: 66
   entry_content: |
     yarrağı yediğimiz maç.<br/><br/>maç sonu konuşması şöyle olacak; değerli arkadazlar hepunuz gördunuz sinanumuz onyeçurumuz allah nazardan saklasun muhteşemler hepsi allahun izniyle fati hozam önderliğinde şampiyon olacağımuza inancumuz tamdur o yüzden tıransfer yapmayacağuz.
   entry_channels: spor
 - entry_name: |
-    galatasaray'ın ankaragücü'nü 8-0 yenmesi
-  entry_id:  85687594
-  entry_writer: extracrushing
-  entry_fav_count: 58
-  entry_content: |
-    çok büyük bir sallama ile milletin kandırıldığı maç. öyle anlatıldığı gibi olaylar yoktur.<br/><br/>bu takımı 1-0 yensek bile genel averajımız aynı puandaki beşiktaştan iyi :)<br/><br/>ve ek olarak 2'li averaja bakarsak beşiktaşla kendi evimizde 1-1 berabere kalıp deplasmanda 3-1 itelemişiz. onda da öndeyiz.<br/><br/>peki ankaragücünün diğer maçlarına bakalım (hiçbir önemi kalmamasına rağmen gönlünüz olsun):<br/><br/>ankaragücü 0 beşiktaş 6 -&gt; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mackolik.com/mac/mke-ankaragücü-vs-beşiktaş/7viu27mbbmjn9md9oothkln8p" title="https://www.mackolik.com/mac/mke-ankaragücü-vs-beşiktaş/7viu27mbbmjn9md9oothkln8p">https://www.mackolik.com/…7viu27mbbmjn9md9oothkln8p</a><br/><br/>ankaragücü 0 karşıyaka 5 -&gt; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mackolik.com/mac/mke-ankaragücü-vs-karşıyaka/7x80lq26h8atczzm3ubsp6sx5" title="https://www.mackolik.com/mac/mke-ankaragücü-vs-karşıyaka/7x80lq26h8atczzm3ubsp6sx5">https://www.mackolik.com/…7x80lq26h8atczzm3ubsp6sx5</a><br/><br/>ankaragücü 0 fenerbahçe 4 -&gt; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mackolik.com/mac/mke-ankaragücü-vs-fenerbahçe/7tqba34ngf8k5h1k3xpu1nx7t" title="https://www.mackolik.com/mac/mke-ankaragücü-vs-fenerbahçe/7tqba34ngf8k5h1k3xpu1nx7t">https://www.mackolik.com/…7tqba34ngf8k5h1k3xpu1nx7t</a><br/><br/>yani götünüzden efsane uydurmayın beyler. sonra 12 yaşında hamsiler bunlara inanıp gelip ağlıyorlar.<br/><br/>asıl şike için -&gt; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=YJQN39gYs5E&amp;feature=youtu.be" title="https://www.youtube.com/watch?v=YJQN39gYs5E&amp;feature=youtu.be">https://www.youtube.com/…qn39gys5e&amp;feature=youtu.be</a><br/><br/>hadi şimdi "geleteserey şike yepti yeeee üğğüüğüğüğüğ" diye ağlayın durun kendi kendinize.<br/><br/>edit: üstteki ağlak bebenin yazdığını da ekleyeyim de kaçarsa tek kalmayalım<br/>"""dünya futbol tarihinin en büyük şikesi , türk futbol tarihini yüz karası maçıdır. ama hiç konuşulmaz varsa yoksa şikeci fener falan denir, lan en büyük şikeci gs'dir. bu maç bu ünvanı alması için yeterlidir zaten.<br/><br/>not: ts """<br/><br/>edit2: buyrun puan tablosunu da ekliyorum. averaj hesabı yapabilirsiniz. -&gt; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mackolik.com/puan-durumu/türkiye-spor-toto-süper-lig/1992-1993/482ofyysbdbeoxauk19yg7tdt" title="https://www.mackolik.com/puan-durumu/türkiye-spor-toto-süper-lig/1992-1993/482ofyysbdbeoxauk19yg7tdt">https://www.mackolik.com/…482ofyysbdbeoxauk19yg7tdt</a>
-  entry_channels: spor,ekşi-sözlük
-- entry_name: |
-    evde vakit geçirmekten keyif alan insan
-  entry_id:  85678120
-  entry_writer: artik yazar yapsaniza
-  entry_fav_count: 55
-  entry_content: |
-    benim. 7/24 çıkmam aslında bıraksalar 365 gün çıkmam. sıcak çayım hazır. salçalı yumurtam ve kızarmış ekmeğim de. şimdi gel de çık. en kral mekan olsa bu tadı vermez bana. sobam da yanıyor. daha ne isteyeyim allah'tan. çok şükür ki evimiz var.
-  entry_channels: ilişkiler
-- entry_name: |
     1.85 boyunda zeki esprili yakışıklı kültürlü erkek
   entry_id:  85684798
   entry_writer: kosedekivelet
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     ünlü şair ne demiş <br/><br/>“at yalanı sikeyim inananı”<br/><br/>bu başlık altında ki enrylere bakarsak tahincioğlu basketbol ligini tek başımıza oluşturuyoruz
   entry_channels: ilişkiler
 - entry_name: |
-    başörtüsünü çıkaran kadınlar
-  entry_id:  85672202
-  entry_writer: le realisateur
-  entry_fav_count: 49
+    evde vakit geçirmekten keyif alan insan
+  entry_id:  85678120
+  entry_writer: artik yazar yapsaniza
+  entry_fav_count: 56
   entry_content: |
-    "çıkardıysan çıkardın bize ne?" diye karşılanan, hatta bazı başörtülü kadınlarımız tarafından "hala başörtülüyüm ve gururluyum" paylaşımları ile güya kontra yapılan cesur kadınlar.<br/><br/>her cuma "hayırlı cumalar" yazarken başkalarına ne bu diye düşünüyor musunuz? her ramazan "oruçluyum saygı duy" diye sokakları zindan ederken, gösterişli ramazan sofralarınızı instagram'a koyarken ben şov mu yapıyorum acaba diyor musunuz? kandil mesajlarınızı whatsapp gruplarına atarken olur da hani bir ihtimal haşa müslüman olmayan biri içinden "bana ne kandilinden?" diye geçiriyor mudur diyor musunuz? <br/><br/>hayır.<br/><br/>ama söz konusu başörtüsünü çıkaran birinin neredeyse devrimci bu hareketini cesurca paylaşması olunca "isteyen takar isteyen çıkarır, bize ne?" oysa çok iyi biliyorsunuz hiç de öyle isteyenin takıp isteyenin çıkaramadığını. siz yalnızca kadınlar üzerindeki baskı aracınızın elinden alınmasından, ayrıcalıklı halinizi kaybetmekten korkuyorsunuz. bu yüzden oyuncak arabası elinden alınmış çocuk gibi ağlıyorsunuz. ağlamaya da rahatsız olmaya da devam edeceksiniz. <br/><br/>kadınlar nasıl özgürleşiyor, zincirlerinden nasıl kopuyor bunları birer birer göreceksiniz ve sindireceksiniz.
-  entry_channels: siyaset,moda
+    benim. 7/24 çıkmam aslında bıraksalar 365 gün çıkmam. sıcak çayım hazır. salçalı yumurtam ve kızarmış ekmeğim de. şimdi gel de çık. en kral mekan olsa bu tadı vermez bana. sobam da yanıyor. daha ne isteyeyim allah'tan. çok şükür ki evimiz var.
+  entry_channels: ilişkiler
 - entry_name: |
     maraşta akplilerin birbirini yemesi
   entry_id:  85682247
   entry_writer: aliceinwndrlnd
-  entry_fav_count: 46
+  entry_fav_count: 51
   entry_content: |
     özet geçiyorum: kahramanmaraş il sağlık müdürlüğü bir asm + tsm sağlık kompleksi yapıyormuş, akpli müteahhit abi "bir şekilde" önceden haber almış, karşı arsayı almış ve oraya 5 eczane 5 dükkan dikmiş. insaat baslayinca arsa olayini duyan vekil "vay! bena ha? " deyip üstteki arsayı almış, oraya inşaata başlamış. önce akpli müteahhit pek sallamamış fakat vekil il sağlık müdürlüğüne demiş ki "bir giriş kapısı da benim arsaya bakacak". projeye kapı eklenmiş. bunu duyan müteahhitin dükkan değerleri 1.5 milyon liradan 400.000 tl civarina inmiş. müteahhit "sikerler böyle işi " diyerek akpli yerel kanalı devreye sokmuş, kanal da müteahhiti ana habere çıkarmış.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.facebook.com/story.php?story_fbid=2253562578010948&amp;id=100000716836854" title="https://m.facebook.com/story.php?story_fbid=2253562578010948&amp;id=100000716836854">video icin tik.</a><br/><br/>(bkz: <a class="b" href="/?q=yiyin+birbirinizi+ete+para+vermeyin">yiyin birbirinizi ete para vermeyin</a>)
   entry_channels: siyaset,haber
 - entry_name: |
-    trump'ın zaman yolcusu olabileceği komplo teorisi
-  entry_id:  85689435
-  entry_writer: saladze
-  entry_fav_count: 39
+    camilere daha fazla cemaat çekmenin yolları
+  entry_id:  85695214
+  entry_writer: samimi panda
+  entry_fav_count: 50
   entry_content: |
-    ilginç ve eğlenceli bir komplo teorisi. şu hesaptan ingilizce olarak okunabilir:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085692100966928385" title="https://twitter.com/Casa_parra/status/1085692100966928385">https://twitter.com/…rra/status/1085692100966928385</a><br/><br/>türkçesini ingilizcemiz yettiğince madde madde buraya şeyapalım. arkadaş diyor ki:<br/><br/>- kongre kütüphanesinin websitesindeydim. ve 1893'te yazılmış olan şu kitaba denk geldim: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085692100966928385" title="https://twitter.com/Casa_parra/status/1085692100966928385">https://twitter.com/…rra/status/1085692100966928385</a><br/><br/>- bu kitap gizli bir kapı bulup zamanda yolculuk eden baron trump adlı bir çocuk hakkında. ama ilginç olan bu değil. bekleyin.<br/><br/>- donald trump'ın oğlunun adı barron trump. yalnız bununla da kalmıyor. kitaptaki çocuk barron trump'a benzemiyor mu? (bence eh) ama bekleyin, dahası var.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085692199403044864" title="https://twitter.com/Casa_parra/status/1085692199403044864">https://twitter.com/…rra/status/1085692199403044864</a><br/>- kitapta baron'un ona göz kulak olan bir de akıl hocası var. tahmin edin adı ne? #don...<br/>gittikçe daha da ilginçleşiyor... <br/><br/>- kitapta olup biten herşey rusya'da gerçekleşiyor.<br/><br/>- 4 yıl sonra 1896'ta aynı yazar devam niteliğinde bir kitap daha yazıyor. kitabın adı "the last president". işte burada iş ciddileşmeye başlıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085692342349119488" title="https://twitter.com/Casa_parra/status/1085692342349119488">https://twitter.com/…rra/status/1085692342349119488</a><br/>- kitapta new york 5. caddede yaşayan çok zengin bir adamın başkanlık için yarıştığını ama kimsenin kazanmasını beklemediğini anlatıyor. bekleyin...<br/><br/>- trump tower. new york 5. caddede... size yemin ederim bütün bunları ben uyduruyor olamam. ama gittikçe daha derine gidiyor.<br/><br/>- kitapta adamın başkanlığı kazanmasının herkesi şaşırttığından, insanların açılış seremonisinde isyana ve protestolara başladığından ve gelir gelmez hemen kararnameler çıkardığından bahsediyor. ama dahası da var.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085692452097351685" title="https://twitter.com/Casa_parra/status/1085692452097351685">https://twitter.com/…rra/status/1085692452097351685</a><br/>- kitapta lafe pence diye bir adamın tarım bakanı olduğu yazıyor.<br/><br/>- evet! pence... bütün bunları götümden uyduruyor olamam. bu kitapları girip kendiniz de okuyabilirsiniz... ama daha bitirmedim!<br/><br/>- 1943'te dünyanın en ünlü bilim adamlarından biri nikola tesla ölüyor... ölümünden önce zaman makinesi icat ettiğini ve zamanda geçmişe ve geleceğe yolculuk ettiğini iddia ediyor... lütfen okumaya devam edin...<br/><br/>- ölümü sonrası amerika birleşik devleti hükümeti tüm çalışmalarına ve notlarına "the office of alien property" adına el koyuyor. inceledikten sonra fbi'a teslim ediyorlar. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085692841685245953" title="https://twitter.com/Casa_parra/status/1085692841685245953">https://twitter.com/…rra/status/1085692841685245953</a><br/>- "the office of alien property". bilin diye söylüyorum, bu gerçek bir devlet dairesidir. ama okumaya devam edin, daha da manyaklaşıyor.<br/><br/>- tesla'nın çalışmalarından, notlarından, icatlarından bir sonuç çıkartamayınca dışardan bir mühendis yardımı almaya karar veriyorlar. bilin bakalım bu mühendis kim?<br/><br/>- john g. trump! durun. dahası var.<br/><br/>- john trump, donald trump'ın dedesi. nikola tesla'nın çalışmaları ve notları üzerinde çalıştıktan sonra hükümete hiçbir sonuca varamadığını söylüyor. ya keşfi hükümetten uzakta kendisine saklamak için yalan söylemişse? <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Casa_parra/status/1085693112293285889" title="https://twitter.com/Casa_parra/status/1085693112293285889">https://twitter.com/…rra/status/1085693112293285889</a><br/>- ilginç olan donald trump'ın annesinin adı mary ve babasının orta adı christ!!! ve donald trump tam ay tutulmasının olduğu gece doğmuştu.
-  entry_channels: siyaset,bilim,teknoloji,magazin,seyahat
+    ücretsiz bir şey dağıtın
+  entry_channels: siyaset,anket
+- entry_name: |
+    başörtüsünü çıkaran kadınlar
+  entry_id:  85672202
+  entry_writer: le realisateur
+  entry_fav_count: 50
+  entry_content: |
+    "çıkardıysan çıkardın bize ne?" diye karşılanan, hatta bazı başörtülü kadınlarımız tarafından "hala başörtülüyüm ve gururluyum" paylaşımları ile güya kontra yapılan cesur kadınlar.<br/><br/>her cuma "hayırlı cumalar" yazarken başkalarına ne bu diye düşünüyor musunuz? her ramazan "oruçluyum saygı duy" diye sokakları zindan ederken, gösterişli ramazan sofralarınızı instagram'a koyarken ben şov mu yapıyorum acaba diyor musunuz? kandil mesajlarınızı whatsapp gruplarına atarken olur da hani bir ihtimal haşa müslüman olmayan biri içinden "bana ne kandilinden?" diye geçiriyor mudur diyor musunuz? <br/><br/>hayır.<br/><br/>ama söz konusu başörtüsünü çıkaran birinin neredeyse devrimci bu hareketini cesurca paylaşması olunca "isteyen takar isteyen çıkarır, bize ne?" oysa çok iyi biliyorsunuz hiç de öyle isteyenin takıp isteyenin çıkaramadığını. siz yalnızca kadınlar üzerindeki baskı aracınızın elinden alınmasından, ayrıcalıklı halinizi kaybetmekten korkuyorsunuz. bu yüzden oyuncak arabası elinden alınmış çocuk gibi ağlıyorsunuz. ağlamaya da rahatsız olmaya da devam edeceksiniz. <br/><br/>kadınlar nasıl özgürleşiyor, zincirlerinden nasıl kopuyor bunları birer birer göreceksiniz ve sindireceksiniz.
+  entry_channels: siyaset,moda
 - entry_name: |
     erkeklerin bekarete takma sebepleri
   entry_id:  85689624
   entry_writer: zorla yazar yaptiniz beni
-  entry_fav_count: 29
+  entry_fav_count: 32
   entry_content: |
     erkekler olarak aslinda bekarete taktigimiz falan yok. saglamasini hemen yapalim siz hic guzel bir rus kiziyla evlenen turk erkeginin rus kizinin bekaretini sorguladigina sahit oldunuz mu? genc ve guzelseniz bekaretmis, bilmem kac kisiyle sevismismis, hic sikinti olmaz.<br/><br/>ha erkek el mecbur modundaysa, daha iyisini bulamamis sizinle kerhen evlenecekse bekaret konusu dahil her bir sik sorun olur, onunuze gelir. asil sorun bakire olup olmamanizda degil guzel olmamanizda kizlar. gerisi faso fiso.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    camilere daha fazla cemaat çekmenin yolları
-  entry_id:  85695214
-  entry_writer: samimi panda
-  entry_fav_count: 26
+    yalnızca ortadoğu'da tartışılabilecek konular
+  entry_id:  85694840
+  entry_writer: ijk
+  entry_fav_count: 24
   entry_content: |
-    ücretsiz bir şey dağıtın
+    <a class="b" href="/?q=1500+senedir">1500 senedir</a> bu dincilerin tartistigi iki temel konu var:<br/><br/>- neyi yiyebiliriz?<br/>- neyi sikebiliriz?<br/><br/>bunlarin bir antigone’u olarak tartismaya mahal vermeyecek konu icin: <br/><br/>(bkz: <a class="b" href="/?q=ortadogu+islam+batakligi">ortadogu islam batakligi</a>)
   entry_channels: siyaset,anket
+- entry_name: |
+    avm dışında sosyal faaliyet olmaması
+  entry_id:  85686499
+  entry_writer: tecnikker
+  entry_fav_count: 24
+  entry_content: |
+    istanbul gibi övüle övüle bitirilemeyen güzelliklerine methiyeler dizilen şehirde, haftasonu mağaza gezilip fast food yemek dışında bir faaliyet kalmaması,kalsa da yapılmaması durumudur.bakıyorum etrafımda bunu artık bir ayin gibi ibadet gibi rutin haline getirmiş aileler,arkadaş grupları var.haftasonu arkadaşlarımla düşünüyoruz yapacak bişey bulamıyoruz koca şehir ölü bir kasaba gibi.bisiklet alıyım kendi faaliyetimi kendim yaratayım desen, varoşlarda bisiklet kullanman ne mümkün. sığırlar bisiklet yolunda mangal yakıyor.avrupa şehirlerinde durum ne diye merak ediyorum.bilen arkadaşlar tecrübelerini paylaşırlarsa seve seve okuruz.
+  entry_channels: ekonomi
 - entry_name: |
     federer'e kimlik soran görevli
   entry_id:  85683712
@@ -219,22 +211,6 @@ data:
     aynı hareketin arda turan'a yapıldığını düşünüyorum.<br/><br/>''senin arda olduğunu bilmiyordum. çek vur beni.''
   entry_channels: spor,haber
 - entry_name: |
-    avm dışında sosyal faaliyet olmaması
-  entry_id:  85686499
-  entry_writer: tecnikker
-  entry_fav_count: 21
-  entry_content: |
-    istanbul gibi övüle övüle bitirilemeyen güzelliklerine methiyeler dizilen şehirde, haftasonu mağaza gezilip fast food yemek dışında bir faaliyet kalmaması,kalsa da yapılmaması durumudur.bakıyorum etrafımda bunu artık bir ayin gibi ibadet gibi rutin haline getirmiş aileler,arkadaş grupları var.haftasonu arkadaşlarımla düşünüyoruz yapacak bişey bulamıyoruz koca şehir ölü bir kasaba gibi.bisiklet alıyım kendi faaliyetimi kendim yaratayım desen, varoşlarda bisiklet kullanman ne mümkün. sığırlar bisiklet yolunda mangal yakıyor.avrupa şehirlerinde durum ne diye merak ediyorum.bilen arkadaşlar tecrübelerini paylaşırlarsa seve seve okuruz.
-  entry_channels: ekonomi
-- entry_name: |
-    28-30 ocak'ta erkek yazarları mesaja boğuyoruz
-  entry_id:  85690100
-  entry_writer: ali riza denen pezevenk
-  entry_fav_count: 20
-  entry_content: |
-    bu sene bir degisiklik yapıp mesajları nude fotograflarla susleyelim arkadaşlar.
-  entry_channels: ilişkiler
-- entry_name: |
     uzayda dev büyüklükte alkol bulutu bulunması
   entry_id:  85671773
   entry_writer: nenickibilader
@@ -243,13 +219,21 @@ data:
     alkol organik kimyanın konusudur. (oh) mevzusu ve orada mutlaka karbon da vardır. demek ki organik bir ortam var oralarda.
   entry_channels: bilim,haber
 - entry_name: |
-    yalnızca ortadoğu'da tartışılabilecek konular
-  entry_id:  85694840
-  entry_writer: ijk
+    henry onyekuru
+  entry_id:  85695791
+  entry_writer: fakirfucker
+  entry_fav_count: 19
+  entry_content: |
+    üç gol attı ama hala bu çocukta bi mallık var hissi kaybolmadı..
+  entry_channels: spor
+- entry_name: |
+    younes belhanda
+  entry_id:  85693503
+  entry_writer: macrosdovahkiin
   entry_fav_count: 18
   entry_content: |
-    <a class="b" href="/?q=1500+senedir">1500 senedir</a> bu dincilerin tartistigi iki temel konu var:<br/><br/>- neyi yiyebiliriz?<br/>- neyi sikebiliriz?<br/><br/>bunlarin bir antigone’u olarak tartismaya mahal vermeyecek konu icin: <br/><br/>(bkz: <a class="b" href="/?q=ortadogu+islam+batakligi">ortadogu islam batakligi</a>)
-  entry_channels: siyaset,anket
+    yine yok yere kart görüp cezalı duruma düştü amına kodumun ayaklı el bombası, ya arkadaş bu bedevi tayfasından bir tane bile disiplinli, karakterli adam çıkmaz aklım almıyor yav.
+  entry_channels: spor,haber
 - entry_name: |
     geceye bir oyun müziği bırak
   entry_id:  85672828
@@ -267,13 +251,21 @@ data:
     umursamayın.<br/>kadınım.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    younes belhanda
-  entry_id:  85693503
-  entry_writer: macrosdovahkiin
-  entry_fav_count: 12
+    benjamin tetteh
+  entry_id:  85685472
+  entry_writer: dj serseri akgenclik2023 asi serseriboy
+  entry_fav_count: 13
   entry_content: |
-    yine yok yere kart görüp cezalı duruma düştü amına kodumun ayaklı el bombası, ya arkadaş bu bedevi tayfasından bir tane bile disiplinli, karakterli adam çıkmaz aklım almıyor yav.
-  entry_channels: spor,haber
+    1.95 boya 65 kiloymuş. gelince kebapçıdan çıkarmayın bu adamı.
+  entry_channels: spor
+- entry_name: |
+    19 ocak 2019 azerbaycan'daki dev miting
+  entry_id:  85695103
+  entry_writer: lukretius
+  entry_fav_count: 13
+  entry_content: |
+    adam karısını başkan yardımcısı yaptı, keyfe bak... ama halk bunları protesto edince ''dıj güjler'' falan. şu osuruktan rejimlerin dış güçler tribi de sıktı artık.
+  entry_channels: siyaset
 - entry_name: |
     buram buram seks kokan şarkılar
   entry_id:  85670558
@@ -283,29 +275,21 @@ data:
     vega - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=kUUFP2im_qA" title="https://www.youtube.com/watch?v=kUUFP2im_qA">yalnızca ben yüzlerce sen</a>
   entry_channels: anket,ilişkiler,müzik
 - entry_name: |
-    benjamin tetteh
-  entry_id:  85685472
-  entry_writer: dj serseri akgenclik2023 asi serseriboy
-  entry_fav_count: 12
-  entry_content: |
-    1.95 boya 65 kiloymuş. gelince kebapçıdan çıkarmayın bu adamı.
-  entry_channels: spor
-- entry_name: |
-    ssg'nin soru yanıtlama atraksiyonu
-  entry_id:  85671257
-  entry_writer: ancientceremony
+    sex education
+  entry_id:  85684181
+  entry_writer: oberyn2
   entry_fav_count: 10
   entry_content: |
-    gece saat 00:00 dan sonra , dünde kalan en iyi entryleri şukela modunun yetersizliğinden dolayı okuyamıyoruz. şukela modunu son 24 saatin en iyi entryleri , son haftanın en iyi entryleri şeklinde geliştirmek bu kadar zor mu? değilse neden yapılmıyor?
-  entry_channels: ekşi-sözlük
+    çok sıcak bir dizi. herkesin izleyebileceği türden değil. birkaç karakter hakkında bir şeyler söylemeden edemeyeceğim.<br/><br/>otis: utangaç, tatlı ve mastürbasyon sorunu olan başrol karakter. böyle bir arkadaşım olmasını isterdim. 16 yaşında fakat sevdiği kız sürekli başkalarıyla sevişirken bizim ergenler gibi aşk acısı çekmeyen, mantıklı düşünebilen ve olmuyorsa zorlamayıp önüne bakan arkadaşımız. <br/><br/>maeve: tam aradığım kız. hayatımda biri olacaksa tam olarak böyle olmalı. küçük yaşta hayatın sillesini yemiş, kendi ayakları üstünde durabilen, karşı cinsi parası için kullanmayan, zeki, kültürlü, insana baskı yapmayan, ciddi olalım diye triplere girmeyen, gülümsemesiyle ve bakışlarıyla insanı eriten karakter. dış görünüşü hakkında yorum bile yapmaya gerek yok zaten.<br/><br/>eric: bir tarafı yaşama sevinciyle dolu, diğer tarafı bir o kadar buruk, tanıdığım en sempatik gay karakter. her günümü hiç sıkılmadan geçireceğim bir arkadaş olurmuş. üzülmeden de edemiyor insan. babasına hayran olmamak elde değil. çoğu ebeveynin yapamadığını yapıp, oğlunu olduğu gibi kabul eden ve her zaman arkasında olan baba gibi baba. <br/><br/>adam: dizide her sahnesine çok üzüldüğüm karakter. üçüncü bacağıyla dikkat çeker aynı zamanda. babasının ve akranlarının zorbalığına maruz kalan ve bu zorbalıkları kendisi de zorbalık yaparak püskürtmeye çalışan, aslında melek gibi bir çocuk. babası aslında birçok ebeveyn davranışını özetliyor. çocuğunun ne istediğini önemsemeden başarısını onun için değil de kendisi için isteyen bir zorba baba karakteri.
+  entry_channels: tv,eğitim,spoiler
 - entry_name: |
-    19 ocak 2019 azerbaycan'daki dev miting
-  entry_id:  85695103
-  entry_writer: lukretius
+    güntekin onay
+  entry_id:  85691842
+  entry_writer: n8
   entry_fav_count: 9
   entry_content: |
-    adam karısını başkan yardımcısı yaptı, keyfe bak... ama halk bunları protesto edince ''dıj güjler'' falan. şu osuruktan rejimlerin dış güçler tribi de sıktı artık.
-  entry_channels: siyaset
+    92 yılında spor camiasına girmiş bu arkadaş, o süre boyunca; <br/><br/>13 gs şampiyonluğu, 1 uefa, 1 süper kupa şampiyonlukları görmüstür.<br/><br/>adamin kariyeri galatasaray'in basarilarini yorumlamakla gecmis, galatasaray'la ilgili sikintisinin sebebi budur.<br/><br/>"ozan'i avrupa'ya gönderen terim'i tebrik ederim" bile diyememis biridir.<br/><br/>terim bunu canli yayinda arayinca korkmustu, ridvan orada mi filan demisti hatta.
+  entry_channels: spor,tv
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  85677798
@@ -315,21 +299,45 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/FImhp2VhEr8" title="https://youtu.be/FImhp2VhEr8">flo - ça ne tient pas la route</a>
   entry_channels: anket,müzik
 - entry_name: |
-    güntekin onay
-  entry_id:  85691842
-  entry_writer: n8
+    ankaragücü
+  entry_id:  85686748
+  entry_writer: ctf
   entry_fav_count: 8
   entry_content: |
-    92 yılında spor camiasına girmiş bu arkadaş, o süre boyunca; <br/><br/>13 gs şampiyonluğu, 1 uefa, 1 süper kupa şampiyonlukları görmüstür.<br/><br/>adamin kariyeri galatasaray'in basarilarini yorumlamakla gecmis, galatasaray'la ilgili sikintisinin sebebi budur.<br/><br/>"ozan'i avrupa'ya gönderen terim'i tebrik ederim" bile diyememis biridir.<br/><br/>terim bunu canli yayinda arayinca korkmustu, ridvan orada mi filan demisti hatta.
-  entry_channels: spor,tv
+    şu an 20 puan ile düşme hattında olmamalarına rağmen mentalite ve maddi durumu nedeni ile düşmenin 1 numaralı adayı.<br/>sadece iyi bir seyirci ve taraftarı var.
+  entry_channels: spor
 - entry_name: |
-    henry onyekuru
-  entry_id:  85695791
-  entry_writer: fakirfucker
+    galatasaray
+  entry_id:  85678454
+  entry_writer: atarli amca
   entry_fav_count: 7
   entry_content: |
-    üç gol attı ama hala bu çocukta bi mallık var hissi kaybolmadı..
+    bir takim algi kasan, lisenin tassagini yalamis orospu cocuklarina ragmen, yönetimi desteklenmesi gereken takim. bu orospu cocuklarinin derdi kulubun malini istedikleri gibi yiyememek cunku mustafa cengiz buna engel oluyor. <br/><br/>dursun özbek riva'yi sattiginda, kulubun anasini siktiginde ses cikarmayan pic kurulari, sirf forvet alamadi (ki bu yönetimin hatasidir bence) diye 6 ay boyunca algi kastilar. ey galatasaraylilar, para yok amk para yok. derseniz ki eldeki cöpleri cikarip kaynak yaratilabilir ve forvet alinabilirdi, evet haklisiniz olabilirdi ama yönetim beceremedi. ancak bunun icin, 6 ay boyunca neredeyse her gun entry kasilmaz. hele hele dursun özbek kendi otellerinde takımı konaklatıp buradan galatasaray’a borç çıkartıp faiz isletmesine, (bkz: <a class="b" href="/?q=16+a%c4%9fustos+2017+b%c3%bcy%c3%bck+riva+ihalesi+kaz%c4%b1%c4%9f%c4%b1">16 ağustos 2017 büyük riva ihalesi kazığı</a>)'na sessiz kalip, sirf forvet transfer edemedigi icin 6 ay boyunca yeri gögu inletip tarihin en kötu baskani ilan edersen, kusura bakma ama sen ahlaksiz bir orospu cocugu, serefsiz bir galatsaray dusmanisin demektir.<br/><br/>yönetimler hatasiz olamaz, taraftar olarak kulubu elestirecegiz, hatalari gösterecegiz, gerekirse baski olusturup burak, arda gibi adamlari kulube sokturmayacagiz ama aramizdaki orospu cocuklarini da iyi ayirt edip onlarin yaptigi alginin da farkinda olmamiz gerek.
   entry_channels: spor
+- entry_name: |
+    cem yılmaz'ın bu aralar pek gergin olması
+  entry_id:  85680314
+  entry_writer: nuri
+  entry_fav_count: 7
+  entry_content: |
+    kendisine kapasitesini aşan anlamlar yüklendiği için olabilir.
+  entry_channels: magazin
+- entry_name: |
+    kızların düşünmek için süre istemesi
+  entry_id:  85684356
+  entry_writer: byweb
+  entry_fav_count: 6
+  entry_content: |
+    iş başrurusu yaptığınız firmanın "biz size döneceğiz" cevabı gibidir. bir "evet" gibi sevindirici değildir fakat bir "hayır" gibi de üzücü değildir, "bir umuttur". (bkz: <a class="b" href="/?q=bir+umuttur+yasamak">bir umuttur yasamak</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    28-30 ocak'ta erkek yazarları mesaja boğuyoruz
+  entry_id:  85691094
+  entry_writer: muzu bicakla soyan adam
+  entry_fav_count: 6
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c3%a7ok+kelle+gidecek+daver+%c3%a7ok">çok kelle gidecek daver çok</a>)
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     rock ve metal müzik seven sözlükçüler
   entry_id:  85670643
@@ -339,21 +347,21 @@ data:
     buyrun benim <br/>(bkz: <a class="b" href="/?q=entry+nick+uyumu">entry nick uyumu</a>)<br/>(bkz: <a class="b" href="/?q=tool">tool</a>)
   entry_channels: anket,müzik
 - entry_name: |
-    kızların düşünmek için süre istemesi
-  entry_id:  85684356
-  entry_writer: byweb
-  entry_fav_count: 5
-  entry_content: |
-    iş başrurusu yaptığınız firmanın "biz size döneceğiz" cevabı gibidir. bir "evet" gibi sevindirici değildir fakat bir "hayır" gibi de üzücü değildir, "bir umuttur". (bkz: <a class="b" href="/?q=bir+umuttur+yasamak">bir umuttur yasamak</a>)
-  entry_channels: ilişkiler
-- entry_name: |
     19 ocak 2019 liverpool crystal palace maçı
   entry_id:  85694785
   entry_writer: gumgumok
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     deli mac oldu. liverpool iyi kurtardi biraz da kaleci sayesinde<br/><br/>pl'de boyle gollu ve zorlu maclardan sonra menajerlerin el sikisirken gulumsemeleri, yenilen tarafin uzgunce stadi terk etmek yerine rakiple sarilip kendi taraftarina gitmesi, hakemlerin bile gulmesi herkesin mactan zevk aldigini gosteriyor. baska bir oyun var orda
   entry_channels: spor,haber
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  85686958
+  entry_writer: napakyaniii
+  entry_fav_count: 2
+  entry_content: |
+    kıllı erkek mi kılsız erkek mi?<br/>cevap: kılsız erkek. siz nasıl tek kıl gördüğünüz kızdan iğreniyorum diyorsanız, ben de ayı postu gibi olan göğüs kıllarınızı gördüğümde igreniyorum. marifetmiş gibi sergilemeyin gayet iticisiniz.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  85673512
@@ -362,14 +370,6 @@ data:
   entry_content: |
     yoksa siz de artık benden geçti, gençler yola katırlarla devam etsin, ben dehlerim, anlayan anlar diyenlerden misiniz?<br/>yoksa siz de onca yıl bir işe yaramayıp, para ve cinsel uzuv peşinde koşup, faizi gelmiş kredilerini ödemeyenlerden misiniz?<br/>yoksa siz de arkadaşlarınıza (kaldıysa tabii) bundan sonra farklı bir insan olduğunuzu kabul ettirme telaşına girip kendinizi helak edenlerden misiniz?<br/><br/>korkmayın sevgili tedirgin ve kendine maruz dostlarım. yalnız değilsiniz. sizin gibi milyonlar var.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    turkcell'den vodafone'a geçmek
-  entry_id:  85680728
-  entry_writer: dakura
-  entry_fav_count: 1
-  entry_content: |
-    daha ucuz bir operatöre geçmektir. bunun avantajı da var dezavantajı da var, yorumlara bakarsanız çoğu yeni müşterilere verilen ucuz kampanyalardan yararlanıyor, vodafone müşterileri de aynı şekilde turkcell'in yeni müşteri kampanyalarından yararlanıyor, yani müşteri için en mantıklısı sürekli operatörü değiştirmek, çünkü operatörler uzun süreli müşteriyi ödüllendirmek yerine bunu nasıl olsa kaptık şimdi kazıklayalım modundalar.
-  entry_channels: teknoloji
 - entry_name: |
     marcos do nascimento teixeira
   entry_id:  85694714
@@ -395,11 +395,11 @@ data:
     (bkz: <a class="b" href="/?q=synecdoche+new+york">synecdoche new york</a>) <br/>henüz hakkında yazacaklarımı bile toparlayamamışken hayata ve varoluşa dair birçok şeyi derleyip toparlayıp muhteşem bir alegoriyle anlatan özel bir filmdir benim için.
   entry_channels: anket,tv,sinema
 - entry_name: |
-    cem yılmaz'ın bu aralar pek gergin olması
-  entry_id:  85679673
-  entry_writer: kelly bundey
+    sinan gümüş
+  entry_id:  85694302
+  entry_writer: extracrushing
   entry_fav_count: 0
   entry_content: |
-    modaya uyup botox yaptırmıştır.
-  entry_channels: magazin
+    dur artık dediğimiz gol makinesi<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: spor
 ---
