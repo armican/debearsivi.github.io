@@ -6,7 +6,7 @@ data:
     yılmaz özdil'in hatasını belirten gence cevabı
   entry_id:  85752888
   entry_writer: agitoxin
-  entry_fav_count: 754
+  entry_fav_count: 756
   entry_content: |
     bilginin kaynagi dogrudur degildir o ayri konu. fakat tarih okuyan ve arastiran bir gence aciklama yapmak yerine kibirli bir sekilde cevap vermek hadsizliktir. kaynagini acikla dogruysa cocuk ogrensin, bilmiyorsan ve yanlisin varsa da duzelt.
   entry_channels: edebiyat,haber
@@ -14,7 +14,7 @@ data:
     elin dangalağına verip onu yaşatmanın anlamı yok
   entry_id:  85755665
   entry_writer: iso41
-  entry_fav_count: 433
+  entry_fav_count: 446
   entry_content: |
     celal hocama çok saygı duymakla beraber bir soru sormak isterim aslında.<br/><br/>ya araştırma için bağışladığın herhangi bir organdan yada iskeletten bir hastalığa çözüm bulurlar da, bir dangalak tedavi olur ve yaşarsa, yine sorun olmayacak mı?<br/><br/>edit : msjla gelen soru ve yorumlar üzerine küçük bir açıklama.<br/><br/>yapılacak organ bağışı sonrası kurtulacak kişinin (çocuğun) ilerde tüm insanlığa faydalı bir buluş, araştırma yapmayacağını nasıl bilebilir. araştırma için bağışladığı organın yapılan araştırma sonucu daha fazla insanin kurtulmasına nasıl kesin gözü ile bakılabilir.<br/><br/>bu ihtimali kim hesaplayabilir. organ bağışı bekleyenler hep bilgisiz, faydasız ve fakirler mı?
   entry_channels: sağlık,haber
@@ -22,7 +22,7 @@ data:
     nusret'in çorabının suyunu sıkması
   entry_id:  85761221
   entry_writer: peex
-  entry_fav_count: 400
+  entry_fav_count: 410
   entry_content: |
     hayatimda gordugum en gereksiz ve sacma paylasim. kardesim sen gida sektorunde calisiyorsun. yakisti mi sana? insan biraz dusunur paylasim yaparken.
   entry_channels: magazin
@@ -30,7 +30,7 @@ data:
     kadın bilim insanının olmaması
   entry_id:  85748193
   entry_writer: sert istikamet
-  entry_fav_count: 376
+  entry_fav_count: 378
   entry_content: |
     sabah sabah ne içiyorsun dedikten başlık.<br/><br/>iki kez nobel almış <a class="b" href="/?q=marie+curie">marie curie</a> fazla fazla yeterken,<br/><br/>diğer nobel alan bilim kadınları:<br/>(bkz: <a class="b" href="/?q=barbara+mcclintock">barbara mcclintock</a>)<br/>(bkz: <a class="b" href="/?q=elizabeth+blackburn">elizabeth blackburn</a>)<br/>(bkz: <a class="b" href="/?q=dorothy+crowfoot+hodgkin">dorothy crowfoot hodgkin</a>)<br/><br/>ayrıca neden marie curie bu kadar ünlü, nöbel ödülünü son dakika nasıl aldı öğren önce. <br/><br/>edit: özelden meriç diyeninden tut da erkeklerin yüz karasına kadar laf eden var. mal mal mesaj atana gereken cevabı verip engelliyorum. olm adam başlıkta kadınları alenen aşağılıyor. sizi de bir kadın doğurdu, onun hakkını koruyan birine cahile devri arabı gibi saldırmanın lüzumu ne? mal mısınız? bence malsınız.
   entry_channels: siyaset,anket,bilim,tarih,eğitim
@@ -38,7 +38,7 @@ data:
     ipsiz sapsız tayfasının yaptığı meslekler
   entry_id:  85755700
   entry_writer: furoyd
-  entry_fav_count: 342
+  entry_fav_count: 347
   entry_content: |
     çok iyi bi üniversitenin sanat bölümünden mezun olup iş bulamadığı ve sevdiği kadınla evlendiği için inşaatta çalışmak zorunda kalıp,yaşadığı bir iş kazası sonuncunda hayatını kaybeden bilgili ve beyfendi bir arkadaş da burada ki bazı insanların tabiri ile (amele)ydi. namusuyla şerefiyle 3 kuruş para kazanmaya çalışan insanlar ipsiz sapsız bireyler değildir. oturduğumuz yerden insanları yargılamak belli kalıpların içine sokmak ne kadar kolay. asıl yapılması zor olan bu kokuşmuş ve yaşanılmaz hale gelmiş dünyada çalmadan çırpmadan onurla yaşamaktır.. zor ama bi deneyin..
   entry_channels: anket
@@ -46,7 +46,7 @@ data:
     elim kırılsaydı da akp'ye oy vermeseydim
   entry_id:  85755250
   entry_writer: mkaraoglu
-  entry_fav_count: 233
+  entry_fav_count: 237
   entry_content: |
     muhtemelen sandığa yansımayacak açıklamadır. ilerleyen yıllarda daha çok göreceğiz bu açıklamalardan ama iş işten geçmiş olacak. <br/><br/>"beraber yürüdük biz bu yollarda " şarkısının yerini "dönülmez akşamın ufkundayım vakit çok geç" şarkısı alacaktır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video/1209652/Sosyal_medya_bu_videoyu_konusuyor__Elim_kirilsaydi_da_AKP_ye_oy_vermeseydim.html" title="http://www.cumhuriyet.com.tr/video/video/1209652/Sosyal_medya_bu_videoyu_konusuyor__Elim_kirilsaydi_da_AKP_ye_oy_vermeseydim.html">kaynak</a>
   entry_channels: siyaset,haber
@@ -54,31 +54,31 @@ data:
     marketlerde fiyatlar düşmüyor hesabını sorarız
   entry_id:  85759244
   entry_writer: cathars
-  entry_fav_count: 201
+  entry_fav_count: 206
   entry_content: |
     sadece marketçiler mi düşürmüyormuş? kendileri yaptıkları elektrik, doğalgaz zamlarını geri almışlar mı?<br/><br/>%40 zam yapıp sonradan %10 indirimle şov yapmaksa olay marketçiler de aynısını yapıp kurtulsunlar.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    netflix türkiye
-  entry_id:  85748729
-  entry_writer: kissofh3ll
-  entry_fav_count: 181
-  entry_content: |
-    kendileri belirtmese de tercüman olmak için şu özellikleri barındırmanız gereken şirkettir:<br/>google translatte i ileri seviyede kullanmak,<br/>gerizekalı olmak,<br/>yaptığı işi siklemeyen biri olmak,<br/>özensiz iş yapmak,<br/>yaptığı işi götüyle yapmak.
-  entry_channels: tv,sinema,teknoloji
-- entry_name: |
     erkeklerin çalışmayan kadınla evlenmek istememesi
   entry_id:  85757990
   entry_writer: momentumunkorunumu
-  entry_fav_count: 178
+  entry_fav_count: 183
   entry_content: |
     21. yüzyılda insanlar yaşamak için çalışmak zorundadır. kadın, erkek, türk, kürt, müslüman, hindu fark etmiyor. <br/><br/>islam dünyası bunu henüz tam kavrayamadı. <br/>(bkz: <a class="b" href="/?q=geri+kalm%c4%b1%c5%9fl%c4%b1%c4%9f%c4%b1n+%c3%b6l%c3%a7%c3%bcs%c3%bc+olarak+islam">geri kalmışlığın ölçüsü olarak islam</a>)
   entry_channels: ilişkiler,ekonomi
 - entry_name: |
+    netflix türkiye
+  entry_id:  85748729
+  entry_writer: kissofh3ll
+  entry_fav_count: 182
+  entry_content: |
+    kendileri belirtmese de tercüman olmak için şu özellikleri barındırmanız gereken şirkettir:<br/>google translatte i ileri seviyede kullanmak,<br/>gerizekalı olmak,<br/>yaptığı işi siklemeyen biri olmak,<br/>özensiz iş yapmak,<br/>yaptığı işi götüyle yapmak.
+  entry_channels: tv,sinema,teknoloji
+- entry_name: |
     doktorların yanlış teşhis üzerinden yargılanmaları
   entry_id:  85766673
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 175
+  entry_fav_count: 179
   entry_content: |
     bir gerekliliktir. tartışmaya da kapalıdır.<br/><br/>birebir yaşanan olayı anlatıyorum.<br/>arkadaşımın babası koltuk altındaki bezeden işkillenip doktora gidiyor. doktor "bişey olmaz yağ bezesi o" diyip fazla sikine takmadan hastasını sepetliyor.<br/>arkadaşımın annesi evhamlı biri olduğu için, "ya sen bi doktora daha git" diyor. adam başka bir doktora gidiyor, doktor hemen durumu ciddiye alıp test yaptırıyor.<br/><br/>hop ne oluyor: başlangıç evresi lenfoma.<br/>adam tedavisini oluyor ve 10 senedir hayatını sürdürüyor.<br/><br/>birinci doktora güvenseydi ne olacaktı?<br/>kanser büyüyecek, evresi artacak ve belki de geri dönülmez bir yolda "kansersiniz" denilecekti kendisine.<br/><br/>şimdi soruyorum: birinci doktor ile ikinci doktorun teşhisi arasında tam 1 gün var. adam aynı adam. beze aynı beze. birinci doktor önemli bir şey görmeyip yolluyor, ikinci doktor ise "tedbiri elden bırakmadan" adamı teste sokup hayatını kurtarıyor.<br/><br/>birinci doktor yargılanmayacak da kim yargılanacak? bu adam cinayete teşebbüs etmedi de ne yaptı?<br/><br/>karşısındaki bir insan. mobilya değil.<br/>o adam 10 sene önce yanlış teşhis yüzünden umursamayıp ölseydi, arkasında 2 çocuk, bir eş bırakacaktı. annesi, kardeşleri hepsi arkasından perişan olacaktı. peki bu rahatlığa sahip doktora ne olacaktı? hiçbir şey. koca bir hiç.<br/><br/>hastalarına yeterli ilgiyi göstermeyen,<br/>yeterli ilgiyi göstermediği için ölüme veya sakatlığa sebep olan her doktor çatır çatır yargılanmalıdır. bunun tartışılacak hiçbir yanı yok abicim.
   entry_channels: siyaset,sağlık
@@ -86,7 +86,7 @@ data:
     erkek yazarların en iyi yapabildiği yemek
   entry_id:  85741528
   entry_writer: jartiyer alkol
-  entry_fav_count: 160
+  entry_fav_count: 162
   entry_content: |
     çok iyi ekmeğin arasına zeytin koyarım. zeytin tane tane olur, ekmek ise genelde arkadaşlarımın parmaklarını yemesine sebep olur.
   entry_channels: anket,ekşi-sözlük,yeme-içme
@@ -94,7 +94,7 @@ data:
     çaylak olduğu halde mesaj atan tip
   entry_id:  85762361
   entry_writer: skumbag
-  entry_fav_count: 158
+  entry_fav_count: 159
   entry_content: |
     iki gün önce yazar olmuş birinin tespitidir.<br/>daha dur senin cemiyete kabulünü yapmadık genç.<br/><br/>(bkz: <a class="b" href="/?q=hele+bir+otur+soluklan+ye%c4%9fenim">hele bir otur soluklan yeğenim</a>)
   entry_channels: ekşi-sözlük
@@ -110,7 +110,7 @@ data:
     kediden bulaşan gözleri kör eden parazit
   entry_id:  85755755
   entry_writer: minnequin
-  entry_fav_count: 112
+  entry_fav_count: 113
   entry_content: |
     ilgli makaleyi okudum . ilgili başlık yerine toksoplazma denebilir. ilgili makalede kadınlardan biri kedilerle haşır neşir iken . diğeri kedilerle bir ilgsi olmadığını söylemiştir. tabi ki ilgili makaleyi gözüyle değilde başka bir tarafıyla okuyup buraya gelen arkadaş var. bu parazitin varlığı çoook uzun zamandır bilinmekle beraber. gerekli hijyene özen gösterilirse tehlike riski azalmaktadır. yani bu vahim durumun asıl sebebi hijyen eksikliğidir. yani demem o ki sokakta yürüken bu parazit ayakkabınıza bulaşabilir. bu ayakkabı vasıtası ile evinize rahat rahat gelebilir. siz yere düşen bir eşyanızı aldığınızda gayet kolay bir şekilde size bulaşabilir. onun için neymiş? hijyen önemliymiş. <br/><br/>edit: 3 adet kedim var . eşim veteriner hekim .<br/>edit 2 : konu ile ilgli birkaç mesaj aldım ( tahmin edersiniz ki bir kaçı hakaret içeriyordu) aşağıda konuyla alakalı bilimsel bir iki makaleden link verdim . <br/><br/>"konuya yabancı olanlar için anlatırsak toxoplazma, toxoplazmozis hastalığına neden olan ve kedigillerde üreyen bir parazittir. aslan, kaplan, çita vb türlerin minyatür kuzeni olan evcil kedilerin bünyesinde de bu parazit üreyebilir ama çoğunlukla başka konaklara bulaşma olayı, doğrudan hayvanla temas sonucu gerçekleşmez. örneğin bir kediyi severken toksoplazma alma riski, marul veya az pişmiş et yerken (ya da çiğ et kesilirken kullanılan mutfak eşyaları dezenfekte edilmediğinde), piknik yaparken, çiçek toplarken ya da kan nakli sonucu alma riskinden çok daha azdır; tabi kedinin dışkısına da umumi tuvaletlere (yani insan dışkısına) karşı olduğunuz kadar dikkatli olmanız kaydıyla. evinizde beslediğiniz kedilerinizde de durduk yere zaten toksoplazma olmaz ama yaşam koşullarınıza bağlı olarak çeşitli aralıklarda iç parazit hapı vererek toksoplazma olasılığını bütünüyle ortadan kaldırabilirsiniz." ozan zaloğlu - bilimfili.com <br/><br/>"bir başka önemli kısım ise; yiyecekleriniz. her ne kadar kediniz güvende olsa da, sokaktaki bazı kediler paraziti yiyecekleriniz aracılığıyla size bulaştırma potansiyeline sahiptir. ve tokso bulaşı; enfekte kediden çok, tüketilen gıdalardan olmaktadır."gürkan akçay - bilimfili.com<br/><br/>konuyla ilgli olarak bilimsel makale arayanlar için <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://bilimfili.com/kedinizden-bulasmasi-muhtemel-olumcul-parazit/" title="https://bilimfili.com/kedinizden-bulasmasi-muhtemel-olumcul-parazit/">kedinizden bulaşması muhtemel ölümcül parazit</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://bilimfili.com/toksoplazmanin-bagisiklik-sistemi-kontrol-yontemi-anlasildi/" title="https://bilimfili.com/toksoplazmanin-bagisiklik-sistemi-kontrol-yontemi-anlasildi/">toksoplazmanın bağışıklık sistemi kontrol yöntemi anlaşıldı</a>
   entry_channels: haber
@@ -118,10 +118,26 @@ data:
     özdil'e karşı yapılan bilinçli algı projesi
   entry_id:  85763515
   entry_writer: fourtyone
-  entry_fav_count: 108
+  entry_fav_count: 111
   entry_content: |
     emekliler kan ağlıyor, esnaf ölmüş ağlayanı yok, öğrencinin götüne giyecek donu yok; hala <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a> diye kitap yazıp kurucu önder üzerinden dünya kadar para götüren boş yazarlar ve onları savunanlar var.
   entry_channels: siyaset
+- entry_name: |
+    ilkokul birinci sınıftan akılda kalanlar
+  entry_id:  85740535
+  entry_writer: koca dana
+  entry_fav_count: 101
+  entry_content: |
+    bodrum kattaki 46 mevcutlu, tuvaletin hemen yanındaki sınıfımız. yavuz isimli sıra arkadaşım. sıra arkadaşımın beslenme olarak her gün ( gerçekten her gün) bazlama ve haşlanmış yumurta getirmesi. <br/>bir de hayatımın en trajik anlarından birini o zaman yaşamıştım. yaklaşık 4 yaşına kadar emzirildiğim için yeterince kalsiyum aldığımı düşünüyorum ve bugün bile sütten tiksinirim. pikniğe gidilecek herkesin annesi bir şeyler hazırlamış. bizim durumumuz kötüydü ama annem kendince hazırlamış bir şeyler. bir tane de kakaolu süt almış içersin diye. sütü sevmediğimi biliyor ama muhtemelen öğretmen ile konuşup alınmıştır o diye düşünüyorum şimdi sorsam hatırlamaz. neyse pikniğe gittik poşetimi açtım yiyecekler var kenarda da süt. tepki vermedim ama içimden anneme söylendim tabi. sonra hangi amaçla yaptığımı bilmiyorum, sütü açıp çimlere döktüm. olay orada koptu. sütü dökerken aklıma babam geldi. mevsimlik işçi, aldığı üç kuruş maaşı bana harcayan babam. onun parasıyla alınan sütü tadına bile bakmadan çime dökmüştüm. bu aptallığıma o kadar sinirlendim ki ağlama krizine girdim. ben kimim de canım babamın emeğini böyle düşüncesizce savurabilirim ? akşama işten dönecek babamı yolun kenarındaki duvarın üstünde bekledim. babam gelince üstüne atladım ve özür diledim ama ağlamadan. hatamı anlattım ve gözleri parladı hiç unutmam. tosunum buna mı üzüldün takma kafana dedi, dünyanın en yakışıklı adamı gibi gülümsedi. sadece bunu söyledi ve eve onun kucağında gittim. <br/>ne zaman hata yapsam düzelteceğime inancı hiç eksilmeyen, son gününe kadar dağ gibi arkamda duran, dünyanın en yakışıklı babası. dünyanın en güzel insanı. mekanın cennet olsun. oğlun hata yaptığında bugün bile düzelteceğine inandığı bir babasının olduğunu biliyor. hayatım boyunca kulaklarına hiç temas etmedi benim ağzımdan bu sözler ama olsun. duyuyorsun biliyorum. seni çok seviyorum babam. aslan babam !
+  entry_channels: anket,tarih,eğitim
+- entry_name: |
+    müjdat gezen'in gözaltı olayını kitaplaştırması
+  entry_id:  85768747
+  entry_writer: patternicus
+  entry_fav_count: 97
+  entry_content: |
+    ben de gecen gun yolda beni hatali sollayan bir dallamayla ilgili kitap yazmayi dusunuyorum onumuzdeki 3 gun icerisinde. kirmizi kedi yayinevi + halk tv + keriz tayfasi numaralarini bilen varsa yesillendirsin. bu arada adam beni sollarken ataturk'e kufretti.
+  entry_channels: siyaset,sanat,edebiyat,haber,magazin
 - entry_name: |
     az bilinen görgü kuralları
   entry_id:  85745282
@@ -147,66 +163,74 @@ data:
     “seni sana anlatsam kim bu orospu çocuğu dersin.” daha ne olsun...
   entry_channels: anket,ilişkiler
 - entry_name: |
-    müjdat gezen'in gözaltı olayını kitaplaştırması
-  entry_id:  85768747
-  entry_writer: patternicus
-  entry_fav_count: 71
-  entry_content: |
-    ben de gecen gun yolda beni hatali sollayan bir dallamayla ilgili kitap yazmayi dusunuyorum onumuzdeki 3 gun icerisinde. kirmizi kedi yayinevi + halk tv + keriz tayfasi numaralarini bilen varsa yesillendirsin. bu arada adam beni sollarken ataturk'e kufretti.
-  entry_channels: siyaset,sanat,edebiyat,haber,magazin
-- entry_name: |
     elleri kolları kedi tırmığı yarasıyla dolu insan
   entry_id:  85756011
   entry_writer: rehzen
-  entry_fav_count: 60
+  entry_fav_count: 66
   entry_content: |
     beni bulsun dedigim insandir. biz birbirimizi anlariz.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    ikinci defa hapşurunca çok yaşa demeyen insan
-  entry_id:  85765579
-  entry_writer: not sure if serious
-  entry_fav_count: 55
-  entry_content: |
-    var böyleleri. bir defa hapşurunca çok yaşa, iyi yaşa filan diyorlar ancak ardından ikinci defa hapşurunca duymazdan geliyorlar, ortamda böyle bir ölüm sessizliği zuhur ediyor.<br/>sanki ''çok yaşa dedik de o kadar da değil'' diyorlarmış gibi geliyor bana. malum arka arkaya hapşurunca insan daha bir savunmasız oluyor, duyguları çabuk kırılabiliyor, benim de böyle olunca bir içim buruluyor. hani değer veriliyor gibi ama çok da değil. böyle 10-20 yıl daha yaşamana kefil olurum ama çok da suyunu çıkarma, sonrası umurumda değil der gibi bu hareket.
-  entry_channels: ilişkiler
-- entry_name: |
     para tuzağı olan şeyler
   entry_id:  85762527
   entry_writer: defoe
-  entry_fav_count: 53
+  entry_fav_count: 63
   entry_content: |
     (bkz: <a class="b" href="/?q=vale">vale</a>)
   entry_channels: anket,ekonomi
 - entry_name: |
+    ikinci defa hapşurunca çok yaşa demeyen insan
+  entry_id:  85765579
+  entry_writer: not sure if serious
+  entry_fav_count: 58
+  entry_content: |
+    var böyleleri. bir defa hapşurunca çok yaşa, iyi yaşa filan diyorlar ancak ardından ikinci defa hapşurunca duymazdan geliyorlar, ortamda böyle bir ölüm sessizliği zuhur ediyor.<br/>sanki ''çok yaşa dedik de o kadar da değil'' diyorlarmış gibi geliyor bana. malum arka arkaya hapşurunca insan daha bir savunmasız oluyor, duyguları çabuk kırılabiliyor, benim de böyle olunca bir içim buruluyor. hani değer veriliyor gibi ama çok da değil. böyle 10-20 yıl daha yaşamana kefil olurum ama çok da suyunu çıkarma, sonrası umurumda değil der gibi bu hareket.
+  entry_channels: ilişkiler
+- entry_name: |
     dostoyevski ile dost olup çaykovski ile çay içmek
   entry_id:  85760839
   entry_writer: az gonus lan
-  entry_fav_count: 50
+  entry_fav_count: 52
   entry_content: |
     iyice coştu bunlar, goethe ile ne yapacaksınız. hadi buyrun...
   entry_channels: 
 - entry_name: |
-    hastası olunan sözler
-  entry_id:  85749081
-  entry_writer: umittaciri
-  entry_fav_count: 36
+    ege üniversitesi acil servisi rezaleti
+  entry_id:  85767424
+  entry_writer: cilop cilop
+  entry_fav_count: 48
   entry_content: |
-    “<a class="b" href="/?q=%c3%a7aresizlik">çaresizlik</a> tuzağına düşme. <br/>her zaman bir <a class="b" href="/?q=umut+%c4%b1%c5%9f%c4%b1%c4%9f%c4%b1">umut ışığı</a> olduğunu aklından çıkarma.” <sup class="ab"><a title="(bkz: bakara suresi)" href="/?q=bakara+suresi" data-query="bakara suresi">*</a></sup>
-  entry_channels: anket,ilişkiler,edebiyat
+    özet geçiyorum <a class="b" href="/?q=sar%c4%b1+seron">sarı seron</a> takılmamış.
+  entry_channels: sağlık,haber
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  85765120
+  entry_writer: the point
+  entry_fav_count: 39
+  entry_content: |
+    alman kralı ıı. frederick, 1750 yılında potsdam'dan geçiyor. orayı çok beğeniyor ve “bana şuraya bir saray yapın" diyor. ertesi gün adamları gidip bakıyorlar, kral'ın beğendiği yerde bir değirmen. adamlar kapıyı çalıyor, yaşlı değirmenci açıyor.<br/>- buyrun?<br/>- bizi kral gönderdi. burayı görüp çok beğendi, satın alacak. kaç para?<br/>- satmıyorum ki ne parası?<br/>- saçmalama kral istedi.<br/>- bana ne. ben satmadıktan sonra kimse alamaz ki.<br/><br/>adamları gelip kral'a durumu anlatıyorlar;<br/>- efendim beğendiğiniz yerdeki değirmenci deli. satmıyorum dedi.<br/>- çağırın bakalım bana şu adamı.<br/><br/>değirmenci gelip, kral'ın karşısında dikiliyor. ıı. frederick;<br/>- yanlış anladınız herhalde beyefendi, ben satın almak istiyorum orayı. kaç para?<br/>- yoo yanlış anlamadım, adamların da dün bunu söyledi. satmıyorum!<br/>- beyefendi inat etmeyin, paranızı fazlasıyla vereceğim.<br/>- sen koskoca kralsın, paran çok. git almanya'nın her yerine saray yap. burayı benden önce babam işletiyordu. ona da babasından kalmış, ben de çocuğuma bırakacağım. satmıyorum!<br/><br/>ıı. frederick ayağa kalkıyor;<br/>- unutma ki ben kralım!<br/>değirmenci bakıyor ve diyor ki;<br/>- asıl sen unutma ki berlin'de hakimler var!<br/><br/>hiçbir güç, hiçbir siyaset, hiçbir iktidar kral bile olsa adaletten üstün değildir. hiçkimse adaletin üstüne çıkamaz. orada oturamaz. bugün bütün gelişmiş ülkeler hukuk fakültelerinde bu olayı anlatırlar. "berlin'de hakimler var!"<br/><br/>potsdam'da sansosi sarayı. <br/>saray ve değirmen yan yana… kral ve değirmenci “adaletle komşu” oluyor.<br/>sabahları ıı. frederick arka bahçeye çıktığında değirmenci sesleniyor;<br/>- hey frederick, ekmek yaptım göndereyim mi?<br/>ıı. frederick diyor ki;<br/>- adalet her sabah bana, sıcak bir ekmek kokusuyla gelirdi.<br/><br/>ve 31 aralık 1917… <br/>berlin'de bir otelde yılbaşı kutlamaları yapılacak, osmanlı heyeti var orada. aralarından biri bu öyküyü anlatıyor ve isteğini söylüyor:<br/>“hadi potsdam çok yakın. gidip adaletin simgesi olan o değirmen ve sarayı yan yana görelim.”<br/><br/>kimse gelmiyor ve o öyküyü anlatan tek başına kalkıp gidiyor. <br/>herkes yılbaşı kutlarken o gidip adaletin simgesini izliyor uzun uzun.<br/><br/>mustafa kemâl atatürk...<br/><br/>sunay akın’dan
+  entry_channels: spor,siyaset,anket,ilişkiler,tv,bilim,tarih,müzik,teknoloji,sağlık,haber,yeme-içme,otomotiv,motosiklet,moda,magazin,ekonomi,havacılık
 - entry_name: |
     mesaj atan çaylak kızın asıl amacı
   entry_id:  85763317
   entry_writer: johanericcalvinelmander
-  entry_fav_count: 35
+  entry_fav_count: 39
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://karikaturistan.files.wordpress.com/2013/12/13_yas_olasiliklari-ugur_gursoy.jpg?w=547&amp;h=563" title="https://karikaturistan.files.wordpress.com/2013/12/13_yas_olasiliklari-ugur_gursoy.jpg?w=547&amp;h=563">yav he he</a><br/><br/>sadece, mesaj atmaktır.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    hastası olunan sözler
+  entry_id:  85749081
+  entry_writer: umittaciri
+  entry_fav_count: 37
+  entry_content: |
+    “<a class="b" href="/?q=%c3%a7aresizlik">çaresizlik</a> tuzağına düşme. <br/>her zaman bir <a class="b" href="/?q=umut+%c4%b1%c5%9f%c4%b1%c4%9f%c4%b1">umut ışığı</a> olduğunu aklından çıkarma.” <sup class="ab"><a title="(bkz: bakara suresi)" href="/?q=bakara+suresi" data-query="bakara suresi">*</a></sup>
+  entry_channels: anket,ilişkiler,edebiyat
+- entry_name: |
     tedavisi olmayan türk hastalıkları
   entry_id:  85756429
   entry_writer: voyager altin plak
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     eleştiriye kapalı bireyler olup, hemen her konuda bilgi ve fikir dahi olmadan eleştiri yapmak, ahkâm kesmek, insanları kendi ahlâk, etik değerleri ve normlarına göre hizaya getirmeye çalışmak.
   entry_channels: anket,ilişkiler,sağlık
@@ -226,14 +250,6 @@ data:
   entry_content: |
     60 yaş üstü insanların seminer benzeri bir ortamda kendi arasındaki şakalaşması... aynı ortamda bulunan eski fenerbahçe yöneticisi <a class="b" href="/?q=nihat+%c3%b6zdemir">nihat özdemir</a> de "<a class="b" href="/?q=vay+bu+ne+terbiyesizlik">vay bu ne terbiyesizlik</a>" dememiş, bu şakaya gülüp geçmiş.<br/><br/>-"inşallah fenerbahçe de, bu sene, kümede... düşüreceğiz." *kahkaha*<br/>-"eyvahlar olsun." *kahkaha*<br/><br/>adamın fiili bir güçle fenerbahçe'yi küme düşüreceğini ima ettiğini sanmak, sanki böyle bir gücü varmışçasına, gereksiz bir alınganlık...<br/><br/><a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>'yi böyle ucuz laflara takılacak kadar küçültmeyin.
   entry_channels: spor,siyaset,ekonomi
-- entry_name: |
-    kurtuluş savaşı uyduruk bir zaferdir
-  entry_id:  85762236
-  entry_writer: nobet tutan kobra
-  entry_fav_count: 29
-  entry_content: |
-    tamda şu anda a haber'de "milli destanımız kurtuluş savaşı" belgeseli izliyordum. oldu mu şimdi deli kadir reis sormaz mı sana bunun hesabını?
-  entry_channels: siyaset,haber
 - entry_name: |
     21 ocak 2019 bursaspor fenerbahçe maçı
   entry_id:  85742863
@@ -259,34 +275,18 @@ data:
     (bkz: <a class="b" href="/?q=yaprak+takan+k%c4%b1z%c4%b1n+as%c4%b1l+amac%c4%b1">yaprak takan kızın asıl amacı</a>)
   entry_channels: anket,ekşi-sözlük,tarih
 - entry_name: |
-    uganda'nın yerli otomobil üretmesi
-  entry_id:  85762962
-  entry_writer: sancili90
-  entry_fav_count: 19
-  entry_content: |
-    uganda'nın yerli araç yapması, hemi de hibrit.<br/><br/>sahi bizim fişşek gibi bir yerli aracımız falan vardı, neden hala şahinler doğanlar görüyorum ben sokakta? yoksa o kadar güzel yaptık ki zamanda yolculuk mu yapıyor? e o zaman bizim zamana da bi ayarlasınlar şu kalibreyi de biz de görelim...<br/><br/>uganda diyorum ya.. yani daha ne olabilir? <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.maksatistihdam.com/uganda-yerli-otomobil-uretti/" title="https://www.maksatistihdam.com/uganda-yerli-otomobil-uretti/">kaynak</a>
-  entry_channels: otomotiv
-- entry_name: |
-    ege üniversitesi acil servisi rezaleti
-  entry_id:  85769547
-  entry_writer: yarim kalan hikaye
+    google'ın 2019 türkiye yerel seçim tahminleri
+  entry_id:  85759466
+  entry_writer: hayben
   entry_fav_count: 18
   entry_content: |
-    hasta rezaleti 10/10.<br/><br/>influenza genel olarak gribe verilen addır. normal gribin de ölüm riski vardır ama grip olduğunuz için "domuz gribinin bir versiyonuna yakalandım, ölümden bitki çayıyla döndüm." demek en hafif tabirle cehalettir.
-  entry_channels: sağlık,haber
-- entry_name: |
-    brüksel denince akla gelenler
-  entry_id:  85759393
-  entry_writer: intergalactic
-  entry_fav_count: 16
-  entry_content: |
-    avrupa'nın ortasında afrika-ortadoğu karışımı garip bir yer.
-  entry_channels: 
+    başkanlık seçimlerinde de ona bakarsan en çok m. ınce aranıyordu.yemiyoruz artık kardeşim.kim ne b.k yiyorsa yesin.
+  entry_channels: anket
 - entry_name: |
     igor tudor
   entry_id:  85765568
   entry_writer: dominar rygel xvi
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     fatih terim gelmeseydi oynattığı kadro ligi 5. sırada bitirirdi. 8 derbi maçta 7 yenilgi 1 beraberlik almıştır. başakşehirden 5 yediği maçı unutmadık.
   entry_channels: spor
@@ -299,34 +299,18 @@ data:
     kendi canları ve başkalarının canlarını hiçe sayan, trafik kurallarını hiçe sayan bilinçsiz gençlerdir. <br/><br/>yaptıklarını mallık, gençlik, gösteriş vb sebeplerle tanımlasak da "suriyeli oldukları için" gibi bir tanımlama yapmak mantık sınırını zorlamaktan başka bir şey ifade etmemektedir. <br/><br/>aynı saçmalığı gerek bağdat caddesinde gerekse halk arasında e-5 olarak tanımlanan d-100 kara yolunda yapan yüzlerce öz be öz yurdum genci bulunmaktadır. <br/><br/>insanları davranışları yüzünden istemeyebilirsiniz, uyumsuzlukları yüzünden istemeyebilirsiniz. çok doğal ve mantıklı bir istektir. insanları milliyetleri yüzünden istemeyebilirsiniz. hak mıdır ? bana göre değildir;fakat isteyebilirsiniz. <br/><br/>fakat paten kayan gençler sadece suriyeli oldukları için, konu başlığına "ülkemde suriyeli istemiyorum" yazmak, olsa olsa aptallıktır.
   entry_channels: haber
 - entry_name: |
-    yılmaz özdil
-  entry_id:  85746164
-  entry_writer: dear god make me a bird
-  entry_fav_count: 10
+    çaylak kızların yazar kızlardan daha güzel olması
+  entry_id:  85767673
+  entry_writer: dermanyon
+  entry_fav_count: 11
   entry_content: |
-    1881 keseye bahçeden toprak doldurup, "atatürk kokulu selanik toprağı" ambalajıyla kese başı 1919 tl'den okutma projeme ortak olarak düşündüğüm atatürk istismarcısı.
-  entry_channels: siyaset,edebiyat,haber
-- entry_name: |
-    türkiye futbol liginin unutulmaz vasat yabancıları
-  entry_id:  85758598
-  entry_writer: drejevic
-  entry_fav_count: 7
-  entry_content: |
-    jardel'e karşılık alınan 3 futbolcunun üçü de vasattı. sporting lizbon iyi kazık atmıştı cimboma. bunlardan birisi horvath, öteki belçikalı emile mpenza'nın kardeşi, üçüncüsün adını hatırlayamadım.<br/><br/>e: <a class="b" href="/?q=robert+spehar">robert spehar</a> diye mesaj atanlar oldu.
-  entry_channels: spor,anket
-- entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  85747264
-  entry_writer: zorakimutlulukk
-  entry_fav_count: 7
-  entry_content: |
-    hadi ben kırıldım,<br/>toparlamak gelmedi mi aklına?
-  entry_channels: anket,ilişkiler,edebiyat
+    yahu arkadaş hangi ara bu kadar yazarla buluşuyorsunuzda bu veriyi elde ettiniz?<br/>işiniz gücünüz yok mu sizin?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     roberto soldado
   entry_id:  85769447
   entry_writer: bebek yuzlu seri katil
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     lamba gibi asmıştır.<br/><br/>cezayirli şabanın kaç maçtır yapamadığını yapmıştır.
   entry_channels: spor
@@ -334,26 +318,34 @@ data:
     ilk yiyişte aşık olunan şeyler
   entry_id:  85743267
   entry_writer: jeemy01
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     piña colada<br/>vişneli mekik kek<br/>dallas steak<br/>kaju<br/>muzlu rulo pasta<br/><br/>dostlar bu liste uzar gider. buradan anlaşılacağı üzere ben baya pis boğazım, o yüzden bu kadar eyyorlayayım yeter.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    yalnızlık
-  entry_id:  85740168
-  entry_writer: sakindokunmayinbana
-  entry_fav_count: 5
+    düşün ki o bunu okuyor
+  entry_id:  85742962
+  entry_writer: yambaleiyyambaleyyo
+  entry_fav_count: 6
   entry_content: |
-    dokuz harf, üç hece. çok uzun bir kelime.<br/>bu yüzden belki de upuzun bir bekleyiş...<br/><br/>yalnızlıktan duyulmuyor sesim...
-  entry_channels: ilişkiler,sanat,müzik,edebiyat
+    kavmine bahar gelse de kalbin ısınamasın!
+  entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    bir ortama girdiğinde selamun aleyküm diyen insan
-  entry_id:  85766387
-  entry_writer: 16lik ergen
-  entry_fav_count: 5
+    halkın atatürk'ü anlamasından rahatsız olan kitle
+  entry_id:  85755459
+  entry_writer: leondaki tony
+  entry_fav_count: 4
   entry_content: |
-    allahsiz bir ahlaksız olduğum halde arada bir demekte beis görmediğim durum. berbere girince bunu soylememin meali "kardeşim bak din kardeşiyiz adam gibi yap sunu", direksiyon sınavına girince "şu müslüman kardeşiniz de trafiğe çıkmasın mi ha?" bide alışveriş yaparken falan da söylüyorum bunu. yalnız kesinlikle yatırım tavsiyesi değildir ancak bulunduğunuz bölgeye göre fizibilitesi mevcuttur. hep onlar mi kullanacak dini amk
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=atat%c3%bcrk%c3%a7%c3%bc">atatürkçü</a>) geçinen kitledir bizzat.<br/><br/>lisede koyu atatürkçü bir hocamız vardı. birgün (bkz: <a class="b" href="/?q=yavuz+b%c3%bclent+bakiler">yavuz bülent bakiler</a>) in bir konferansında gördüm bunu. konuşma sırasında bir yerde konu atatürk'e geldi ve bakiler "atatürk de etten kemikten bir insandı. onun da hataları olmuş olabilir" gibi bir laf söyledi. sonra bu hocamız bir hışımla kalktı salonu terk etti.
+  entry_channels: 
+- entry_name: |
+    celal şengör
+  entry_id:  85760175
+  entry_writer: falcon7
+  entry_fav_count: 4
+  entry_content: |
+    bir böbrek nakilli olarak kendisini eskiden yıllarımın geçtiği diyaliz merkezlerine davet ediyorum. <br/><br/>tanım: bilimi reddeden bilim adamı<br/>edit: abi bu ne adi bir laftır yahu.
+  entry_channels: bilim,tarih,eğitim
 - entry_name: |
     duygusal bağ kurulan gıda maddeleri
   entry_id:  85740541
@@ -371,28 +363,36 @@ data:
     (bkz: <a class="b" href="/?q=norve%c3%a7">norveç</a>)<br/>elleri çatlayan balıkçı olsam da olurdu. kızıl saçlı, beyaz tenli, yüzünde çiller olan bir norveç’li güzel... neyse hayal kurmayalım.
   entry_channels: anket
 - entry_name: |
-    celal şengör
-  entry_id:  85760175
-  entry_writer: falcon7
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  85740428
+  entry_writer: evi yapan kapidir
   entry_fav_count: 2
   entry_content: |
-    bir böbrek nakilli olarak kendisini eskiden yıllarımın geçtiği diyaliz merkezlerine davet ediyorum. <br/><br/>tanım: bilimi reddeden bilim adamı<br/>edit: abi bu ne adi bir laftır yahu.
-  entry_channels: bilim,tarih,eğitim
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  85771154
-  entry_writer: nickachu
-  entry_fav_count: 1
-  entry_content: |
-    siyah sütyen başlığını arıyordum, yanlış yere gelmişim.<br/><br/>yer yer benim.
+    hayatından memnun olmayanları böyle alalım. cinsiyet farketmeksizin itina ile dinlenir, "ya takma kafaya" tesellisi verilir, 5 dakikada yapılır, hemen teslim edilir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/eviyapan">http://connected2.me/eviyapan</a>
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    çaylak kızların yazar kızlardan daha güzel olması
-  entry_id:  85769606
-  entry_writer: quarkendo
+    zengin muhit köpeklerinin saldırmamasının nedeni
+  entry_id:  85771516
+  entry_writer: archy
+  entry_fav_count: 1
+  entry_content: |
+    köpek, onunla yaşayan canlının karakterine bürünebilen bir hayvan.<br/><br/>eğer siz saldırgan bir kişiliğe sahipseniz köpek de saldırgan davranacak. koruma hariç demekte fayda var. sokak köpeği yavrusunu/ona iyi davrananları korumak için veya itilip kakıldığı için saldırganlaşabilir. insandan pek farklı değil yani.<br/><br/>sakin, geçimli biriyseniz köpekler de çiçek gibi olacak.
+  entry_channels: 
+- entry_name: |
+    kadını seksi yapan unsurlar
+  entry_id:  85770085
+  entry_writer: dear god make me a bird
+  entry_fav_count: 1
+  entry_content: |
+    diz üstü çorap övmeye geldim. övdüm, gidiyorum, bay.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  85772193
+  entry_writer: illetolasica
   entry_fav_count: 0
   entry_content: |
-    basit istatistik hesabıdır.<br/><br/>1000 kişiden çıkacak güzel insan sayısı, 100000 kişiden çıkacak güzel insan sayısından muhtemelen daha düşük olacaktır.<br/><br/>not: orta okul öğrencisi bir tanıdığım söyledi.
+    sigara içerken dinlenmelik şarkı linki kabulümdür.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     2019 grip salgını
