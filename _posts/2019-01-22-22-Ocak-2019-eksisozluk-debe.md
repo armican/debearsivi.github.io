@@ -6,7 +6,7 @@ data:
     yılmaz özdil'in hatasını belirten gence cevabı
   entry_id:  85752888
   entry_writer: agitoxin
-  entry_fav_count: 770
+  entry_fav_count: 777
   entry_content: |
     bilginin kaynagi dogrudur degildir o ayri konu. fakat tarih okuyan ve arastiran bir gence aciklama yapmak yerine kibirli bir sekilde cevap vermek hadsizliktir. kaynagini acikla dogruysa cocuk ogrensin, bilmiyorsan ve yanlisin varsa da duzelt.
   entry_channels: edebiyat,haber
@@ -14,7 +14,7 @@ data:
     elin dangalağına verip onu yaşatmanın anlamı yok
   entry_id:  85755665
   entry_writer: iso41
-  entry_fav_count: 456
+  entry_fav_count: 458
   entry_content: |
     celal hocama çok saygı duymakla beraber bir soru sormak isterim aslında.<br/><br/>ya araştırma için bağışladığın herhangi bir organdan yada iskeletten bir hastalığa çözüm bulurlar da, bir dangalak tedavi olur ve yaşarsa, yine sorun olmayacak mı?<br/><br/>edit : msjla gelen soru ve yorumlar üzerine küçük bir açıklama.<br/><br/>yapılacak organ bağışı sonrası kurtulacak kişinin (çocuğun) ilerde tüm insanlığa faydalı bir buluş, araştırma yapmayacağını nasıl bilebilir. araştırma için bağışladığı organın yapılan araştırma sonucu daha fazla insanin kurtulmasına nasıl kesin gözü ile bakılabilir.<br/><br/>bu ihtimali kim hesaplayabilir. organ bağışı bekleyenler hep bilgisiz, faydasız ve fakirler mı?
   entry_channels: sağlık,haber
@@ -22,7 +22,7 @@ data:
     nusret'in çorabının suyunu sıkması
   entry_id:  85761221
   entry_writer: peex
-  entry_fav_count: 440
+  entry_fav_count: 448
   entry_content: |
     hayatimda gordugum en gereksiz ve sacma paylasim. kardesim sen gida sektorunde calisiyorsun. yakisti mi sana? insan biraz dusunur paylasim yaparken.
   entry_channels: magazin
@@ -30,31 +30,55 @@ data:
     kadın bilim insanının olmaması
   entry_id:  85748193
   entry_writer: sert istikamet
-  entry_fav_count: 388
+  entry_fav_count: 391
   entry_content: |
     sabah sabah ne içiyorsun dedikten başlık.<br/><br/>iki kez nobel almış <a class="b" href="/?q=marie+curie">marie curie</a> fazla fazla yeterken,<br/><br/>diğer nobel alan bilim kadınları:<br/>(bkz: <a class="b" href="/?q=barbara+mcclintock">barbara mcclintock</a>)<br/>(bkz: <a class="b" href="/?q=elizabeth+blackburn">elizabeth blackburn</a>)<br/>(bkz: <a class="b" href="/?q=dorothy+crowfoot+hodgkin">dorothy crowfoot hodgkin</a>)<br/><br/>ayrıca neden marie curie bu kadar ünlü, nöbel ödülünü son dakika nasıl aldı öğren önce. <br/><br/>edit: özelden meriç diyeninden tut da erkeklerin yüz karasına kadar laf eden var. mal mal mesaj atana gereken cevabı verip engelliyorum. olm adam başlıkta kadınları alenen aşağılıyor. sizi de bir kadın doğurdu, onun hakkını koruyan birine cahile devri arabı gibi saldırmanın lüzumu ne? mal mısınız? bence malsınız.
   entry_channels: siyaset,anket,bilim,tarih,eğitim
 - entry_name: |
+    ipsiz sapsız tayfasının yaptığı meslekler
+  entry_id:  85755700
+  entry_writer: furoyd
+  entry_fav_count: 355
+  entry_content: |
+    çok iyi bi üniversitenin sanat bölümünden mezun olup iş bulamadığı ve sevdiği kadınla evlendiği için inşaatta çalışmak zorunda kalıp,yaşadığı bir iş kazası sonuncunda hayatını kaybeden bilgili ve beyfendi bir arkadaş da burada ki bazı insanların tabiri ile (amele)ydi. namusuyla şerefiyle 3 kuruş para kazanmaya çalışan insanlar ipsiz sapsız bireyler değildir. oturduğumuz yerden insanları yargılamak belli kalıpların içine sokmak ne kadar kolay. asıl yapılması zor olan bu kokuşmuş ve yaşanılmaz hale gelmiş dünyada çalmadan çırpmadan onurla yaşamaktır.. zor ama bi deneyin..
+  entry_channels: anket
+- entry_name: |
     doktorların yanlış teşhis üzerinden yargılanmaları
   entry_id:  85766673
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 229
+  entry_fav_count: 254
   entry_content: |
     bir gerekliliktir. tartışmaya da kapalıdır.<br/><br/>birebir yaşanan olayı anlatıyorum.<br/>arkadaşımın babası koltuk altındaki bezeden işkillenip doktora gidiyor. doktor "bişey olmaz yağ bezesi o" diyip fazla sikine takmadan hastasını sepetliyor.<br/>arkadaşımın annesi evhamlı biri olduğu için, "ya sen bi doktora daha git" diyor. adam başka bir doktora gidiyor, doktor hemen durumu ciddiye alıp test yaptırıyor.<br/><br/>hop ne oluyor: başlangıç evresi lenfoma.<br/>adam tedavisini oluyor ve 10 senedir hayatını sürdürüyor.<br/><br/>birinci doktora güvenseydi ne olacaktı?<br/>kanser büyüyecek, evresi artacak ve belki de geri dönülmez bir yolda "kansersiniz" denilecekti kendisine.<br/><br/>şimdi soruyorum: birinci doktor ile ikinci doktorun teşhisi arasında tam 1 gün var. adam aynı adam. beze aynı beze. birinci doktor önemli bir şey görmeyip yolluyor, ikinci doktor ise "tedbiri elden bırakmadan" adamı teste sokup hayatını kurtarıyor.<br/><br/>birinci doktor yargılanmayacak da kim yargılanacak? bu adam cinayete teşebbüs etmedi de ne yaptı?<br/><br/>karşısındaki bir insan. mobilya değil.<br/>o adam 10 sene önce yanlış teşhis yüzünden umursamayıp ölseydi, arkasında 2 çocuk, bir eş bırakacaktı. annesi, kardeşleri hepsi arkasından perişan olacaktı. peki bu rahatlığa sahip doktora ne olacaktı? hiçbir şey. koca bir hiç.<br/><br/>hastalarına yeterli ilgiyi göstermeyen,<br/>yeterli ilgiyi göstermediği için ölüme veya sakatlığa sebep olan her doktor çatır çatır yargılanmalıdır. bunun tartışılacak hiçbir yanı yok abicim.
   entry_channels: siyaset,sağlık
 - entry_name: |
+    elim kırılsaydı da akp'ye oy vermeseydim
+  entry_id:  85755250
+  entry_writer: mkaraoglu
+  entry_fav_count: 238
+  entry_content: |
+    muhtemelen sandığa yansımayacak açıklamadır. ilerleyen yıllarda daha çok göreceğiz bu açıklamalardan ama iş işten geçmiş olacak. <br/><br/>"beraber yürüdük biz bu yollarda " şarkısının yerini "dönülmez akşamın ufkundayım vakit çok geç" şarkısı alacaktır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/video/video/1209652/Sosyal_medya_bu_videoyu_konusuyor__Elim_kirilsaydi_da_AKP_ye_oy_vermeseydim.html" title="http://www.cumhuriyet.com.tr/video/video/1209652/Sosyal_medya_bu_videoyu_konusuyor__Elim_kirilsaydi_da_AKP_ye_oy_vermeseydim.html">kaynak</a>
+  entry_channels: siyaset,haber
+- entry_name: |
     erkeklerin çalışmayan kadınla evlenmek istememesi
   entry_id:  85757990
   entry_writer: momentumunkorunumu
-  entry_fav_count: 215
+  entry_fav_count: 222
   entry_content: |
     21. yüzyılda insanlar yaşamak için çalışmak zorundadır. kadın, erkek, türk, kürt, müslüman, hindu fark etmiyor. <br/><br/>islam dünyası bunu henüz tam kavrayamadı. <br/>(bkz: <a class="b" href="/?q=geri+kalm%c4%b1%c5%9fl%c4%b1%c4%9f%c4%b1n+%c3%b6l%c3%a7%c3%bcs%c3%bc+olarak+islam">geri kalmışlığın ölçüsü olarak islam</a>)
   entry_channels: ilişkiler,ekonomi
 - entry_name: |
+    marketlerde fiyatlar düşmüyor hesabını sorarız
+  entry_id:  85759244
+  entry_writer: cathars
+  entry_fav_count: 209
+  entry_content: |
+    sadece marketçiler mi düşürmüyormuş? kendileri yaptıkları elektrik, doğalgaz zamlarını geri almışlar mı?<br/><br/>%40 zam yapıp sonradan %10 indirimle şov yapmaksa olay marketçiler de aynısını yapıp kurtulsunlar.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     netflix türkiye
   entry_id:  85748729
   entry_writer: kissofh3ll
-  entry_fav_count: 197
+  entry_fav_count: 201
   entry_content: |
     kendileri belirtmese de tercüman olmak için şu özellikleri barındırmanız gereken şirkettir:<br/>google translatte i ileri seviyede kullanmak,<br/>gerizekalı olmak,<br/>yaptığı işi siklemeyen biri olmak,<br/>özensiz iş yapmak,<br/>yaptığı işi götüyle yapmak.
   entry_channels: tv,sinema,teknoloji
@@ -62,7 +86,7 @@ data:
     çaylak olduğu halde mesaj atan tip
   entry_id:  85762361
   entry_writer: skumbag
-  entry_fav_count: 179
+  entry_fav_count: 192
   entry_content: |
     iki gün önce yazar olmuş birinin tespitidir.<br/>daha dur senin cemiyete kabulünü yapmadık genç.<br/><br/>(bkz: <a class="b" href="/?q=hele+bir+otur+soluklan+ye%c4%9fenim">hele bir otur soluklan yeğenim</a>)
   entry_channels: ekşi-sözlük
@@ -70,7 +94,7 @@ data:
     erkek yazarların en iyi yapabildiği yemek
   entry_id:  85741528
   entry_writer: jartiyer alkol
-  entry_fav_count: 170
+  entry_fav_count: 172
   entry_content: |
     çok iyi ekmeğin arasına zeytin koyarım. zeytin tane tane olur, ekmek ise genelde arkadaşlarımın parmaklarını yemesine sebep olur.
   entry_channels: anket,ekşi-sözlük,yeme-içme
@@ -78,7 +102,7 @@ data:
     göbekli kültürlü erkek vs kaslı kültürsüz erkek
   entry_id:  85744314
   entry_writer: falconvirtue
-  entry_fav_count: 168
+  entry_fav_count: 171
   entry_content: |
     bu başlıkta kaslı ve kültürlü olduğumuzu belli ediyoruz.
   entry_channels: 
@@ -86,7 +110,7 @@ data:
     müjdat gezen'in gözaltı olayını kitaplaştırması
   entry_id:  85768747
   entry_writer: patternicus
-  entry_fav_count: 149
+  entry_fav_count: 163
   entry_content: |
     ben de gecen gun yolda beni hatali sollayan bir dallamayla ilgili kitap yazmayi dusunuyorum onumuzdeki 3 gun icerisinde. kirmizi kedi yayinevi + halk tv + keriz tayfasi numaralarini bilen varsa yesillendirsin. bu arada adam beni sollarken ataturk'e kufretti.
   entry_channels: siyaset,sanat,edebiyat,haber,magazin
@@ -126,31 +150,31 @@ data:
     az bilinen görgü kuralları
   entry_id:  85745282
   entry_writer: filozofimsi
-  entry_fav_count: 99
+  entry_fav_count: 101
   entry_content: |
     iban numarası ekran görüntüsü olarak atılmaz.
   entry_channels: anket,eğitim
 - entry_name: |
-    yılmaz özdil'in 2500 liralık özel basım kitabı
-  entry_id:  85740321
-  entry_writer: deda
-  entry_fav_count: 88
-  entry_content: |
-    “bu memlekette banka soyarken kar maskesi, ülke soyarken de atatürk maskesi taktılar.”<br/>- (bkz: <a class="b" href="/?q=u%c4%9fur+mumcu">uğur mumcu</a>)
-  entry_channels: edebiyat
-- entry_name: |
     para tuzağı olan şeyler
   entry_id:  85762527
   entry_writer: defoe
-  entry_fav_count: 86
+  entry_fav_count: 95
   entry_content: |
     (bkz: <a class="b" href="/?q=vale">vale</a>)
   entry_channels: anket,ekonomi
 - entry_name: |
+    yılmaz özdil'in 2500 liralık özel basım kitabı
+  entry_id:  85740321
+  entry_writer: deda
+  entry_fav_count: 90
+  entry_content: |
+    “bu memlekette banka soyarken kar maskesi, ülke soyarken de atatürk maskesi taktılar.”<br/>- (bkz: <a class="b" href="/?q=u%c4%9fur+mumcu">uğur mumcu</a>)
+  entry_channels: edebiyat
+- entry_name: |
     sevgiliden duyulan en öldürücü cümle
   entry_id:  85744452
   entry_writer: sonbahar koleksiyonu
-  entry_fav_count: 83
+  entry_fav_count: 86
   entry_content: |
     “seni sana anlatsam kim bu orospu çocuğu dersin.” daha ne olsun...
   entry_channels: anket,ilişkiler
@@ -158,7 +182,7 @@ data:
     ikinci defa hapşurunca çok yaşa demeyen insan
   entry_id:  85765579
   entry_writer: not sure if serious
-  entry_fav_count: 72
+  entry_fav_count: 75
   entry_content: |
     var böyleleri. bir defa hapşurunca çok yaşa, iyi yaşa filan diyorlar ancak ardından ikinci defa hapşurunca duymazdan geliyorlar, ortamda böyle bir ölüm sessizliği zuhur ediyor.<br/>sanki ''çok yaşa dedik de o kadar da değil'' diyorlarmış gibi geliyor bana. malum arka arkaya hapşurunca insan daha bir savunmasız oluyor, duyguları çabuk kırılabiliyor, benim de böyle olunca bir içim buruluyor. hani değer veriliyor gibi ama çok da değil. böyle 10-20 yıl daha yaşamana kefil olurum ama çok da suyunu çıkarma, sonrası umurumda değil der gibi bu hareket.
   entry_channels: ilişkiler
@@ -166,7 +190,7 @@ data:
     elleri kolları kedi tırmığı yarasıyla dolu insan
   entry_id:  85756011
   entry_writer: rehzen
-  entry_fav_count: 70
+  entry_fav_count: 71
   entry_content: |
     beni bulsun dedigim insandir. biz birbirimizi anlariz.
   entry_channels: ilişkiler,sağlık
@@ -174,26 +198,58 @@ data:
     ege üniversitesi acil servisi rezaleti
   entry_id:  85767424
   entry_writer: cilop cilop
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     özet geçiyorum <a class="b" href="/?q=sar%c4%b1+seron">sarı seron</a> takılmamış.
   entry_channels: sağlık,haber
 - entry_name: |
-    fenerbahçe
-  entry_id:  85748352
-  entry_writer: enduksiyon bobini
-  entry_fav_count: 38
+    dostoyevski ile dost olup çaykovski ile çay içmek
+  entry_id:  85760839
+  entry_writer: az gonus lan
+  entry_fav_count: 56
   entry_content: |
-    anlık durumu ile sadece taraftarlarının değil, tüm ülkenin psikolojisini etkilemiştir.<br/><br/>bakın bu takımın ne kötü günlerini gördük son 25 senede. 7 sene şampiyonluktan uzaklık mı kaldı, 9 maç üst üste kazanamayıp ligi 6. bitirmek mi? efsanevi taşak malzemelerine mi konu olmadık misal defalarca son maçlarda kaybedilen şampiyonluklarla? hele 2010'daki rezalette tv başında bir yandan fener'in bir yandan bursa'nın maçını izlerken bizimkilerin şampiyon olduk sanmasıyla yaptıklarını görünce "aha yıllarca unutulmayacak destansı taşak malzemesi olduk şimdi" demiştim ve hakikaten de olmuştuk.<br/><br/>bunları niye mi anlattım? eskiden başarısız olunca rakip taraftarlar hunharca taşak geçerdi, şimdi ise hangi ortamda konu fenerbahçe'den açılsa ortamı bir cenaze evi sessizliği kaplıyor. en nefret eden galatasaraylısı, trabzonlusu bile sanki normalde gıcık olduğu birinin amansız hastalığa yakalandığını öğrenmişçesine davranıp "yazık lan" moduna geçiyor.<br/><br/>işin daha da tuhaf tarafı, fenerbahçe'nin mevcut durumu yüzünden rakip taraftarlar kendi takımlarına odaklanamıyor. mesela normalde galatasaray'da yönetimin çoktan düşmüş, beşiktaş'ta ise şenol güneş'in kovulmuş olması gerekirken kimse tepki göstermeyince adamlar da meydanı boş bulup rahat rahat davranıyor. biri ilk yarıyı 5. bitirip forvetsizlikten kıvranan takıma ay sonu gelmişken halen forvet almazken diğeri ise ilk yarıyı 7. bitirip camianın kırmızı çizgisi olan burak yılmaz'ı elini kolunu sallaya sallaya alıyor. şöyle düşünmek lazım; gs ve bjk önceki sezonlarda bunu yapabilir miydi? hiç sanmıyorum zira daha geçen yıl her ikisinde de taraftar duvarına çarpmışlar; gs'de hem hoca hem de yönetim değişirken bjk'da ise şenol'un çok istemesine rağmen burak getirilememişti.<br/><br/>iddia ediyorum işin uzmanları, akademisyenler çıkıp sokakta araştırma yapsınlar; taraflı tarafsız herkesin fenerbahçe'nin durumundan olumsuz etkilendiğini görecekler. ha, bunları kesinlikle "bizi birileri yukarı çıkarmalı" falan demek için yazmıyorum. aksine tüm bunlar yüzünden hem takımın hem yönetimin bir an önce toparlanması sadece taraftarına değil, tüm ülkeye borcudur demek için. çünkü sevilse de, nefret edilse de fenerbahçe en çok konuşulan en spektaküler camiasıdır bu ülkenin ve kendine gelip bileğinin hakkıyla bu düştüğü yerden çıkmak ona 112 yıldır verilen bu değer yüzünden boynunun borcudur.
-  entry_channels: spor
+    iyice coştu bunlar, goethe ile ne yapacaksınız. hadi buyrun...
+  entry_channels: 
 - entry_name: |
     ali koç
   entry_id:  85773207
   entry_writer: lezzete zoomlayan adam
-  entry_fav_count: 38
+  entry_fav_count: 50
   entry_content: |
-    la ben “bu adam ülkeyi yönetse keşke” diyodum... abow... ben bu işten hiç anlamıyomuşum...<br/><br/>iyi ki dağdaki çobanla benim oyum birmiş la...
+    lan ben “bu adam ülkeyi yönetse keşke” diyodum... abow... ben bu işten hiç anlamıyomuşum ya...<br/><br/>iyi ki dağdaki çobanla benim oyum birmiş lan...
   entry_channels: spor,haber,ekonomi
+- entry_name: |
+    fenerbahçe
+  entry_id:  85748352
+  entry_writer: enduksiyon bobini
+  entry_fav_count: 43
+  entry_content: |
+    anlık durumu ile sadece taraftarlarının değil, tüm ülkenin psikolojisini etkilemiştir.<br/><br/>bakın bu takımın ne kötü günlerini gördük son 25 senede. 7 sene şampiyonluktan uzaklık mı kaldı, 9 maç üst üste kazanamayıp ligi 6. bitirmek mi? efsanevi taşak malzemelerine mi konu olmadık misal defalarca son maçlarda kaybedilen şampiyonluklarla? hele 2010'daki rezalette tv başında bir yandan fener'in bir yandan bursa'nın maçını izlerken bizimkilerin şampiyon olduk sanmasıyla yaptıklarını görünce "aha yıllarca unutulmayacak destansı taşak malzemesi olduk şimdi" demiştim ve hakikaten de olmuştuk.<br/><br/>bunları niye mi anlattım? eskiden başarısız olunca rakip taraftarlar hunharca taşak geçerdi, şimdi ise hangi ortamda konu fenerbahçe'den açılsa ortamı bir cenaze evi sessizliği kaplıyor. en nefret eden galatasaraylısı, trabzonlusu bile sanki normalde gıcık olduğu birinin amansız hastalığa yakalandığını öğrenmişçesine davranıp "yazık lan" moduna geçiyor.<br/><br/>işin daha da tuhaf tarafı, fenerbahçe'nin mevcut durumu yüzünden rakip taraftarlar kendi takımlarına odaklanamıyor. mesela normalde galatasaray'da yönetimin çoktan düşmüş, beşiktaş'ta ise şenol güneş'in kovulmuş olması gerekirken kimse tepki göstermeyince adamlar da meydanı boş bulup rahat rahat davranıyor. biri ilk yarıyı 5. bitirip forvetsizlikten kıvranan takıma ay sonu gelmişken halen forvet almazken diğeri ise ilk yarıyı 7. bitirip camianın kırmızı çizgisi olan burak yılmaz'ı elini kolunu sallaya sallaya alıyor. şöyle düşünmek lazım; gs ve bjk önceki sezonlarda bunu yapabilir miydi? hiç sanmıyorum zira daha geçen yıl her ikisinde de taraftar duvarına çarpmışlar; gs'de hem hoca hem de yönetim değişirken bjk'da ise şenol'un çok istemesine rağmen burak getirilememişti.<br/><br/>iddia ediyorum işin uzmanları, akademisyenler çıkıp sokakta araştırma yapsınlar; taraflı tarafsız herkesin fenerbahçe'nin durumundan olumsuz etkilendiğini görecekler. ha, bunları kesinlikle "bizi birileri yukarı çıkarmalı" falan demek için yazmıyorum. aksine tüm bunlar yüzünden hem takımın hem yönetimin bir an önce toparlanması sadece taraftarına değil, tüm ülkeye borcudur demek için. çünkü sevilse de, nefret edilse de fenerbahçe en çok konuşulan en spektaküler camiasıdır bu ülkenin ve kendine gelip bileğinin hakkıyla bu düştüğü yerden çıkmak ona 112 yıldır verilen bu değer yüzünden boynunun borcudur.
+  entry_channels: spor
+- entry_name: |
+    ekşi itiraf
+  entry_id:  85740608
+  entry_writer: mungke tengriyin kucudur
+  entry_fav_count: 37
+  entry_content: |
+    doğu karadenizliyim. yöre gereği 13-14 yaşlarından beri tüfekle tabancayla haşır neşir bir şekilde büyüdüm. şöyle ki, ilk avıma 15 yaşında domuz avlamak üzere çıkan biriyim. bugün tatil için geldiğim memleketimde, zemheri mevsimde doğada karınca gibi çoğalan, “kara kuş” dedikleri hayvanı avlamak için yola koyuldum. dağın başındaki geçit bölgesine, yakından tanıdığım bir amca iki kazık dikerek ortasına siyah ağ örmüş. hani tüfekle vurma işini de aşıp, böyle basit tuzaklarla yakalama amaçlı kurulan geniş ağlardan.<br/><br/>saat 14 gibi tüfek omuzda dağda gezerken, ağa kocaman bembeyaz bi’ baykuşun yakalanmış olduğumu gördüm. küçüklükten beri baykuşlara büyük hassasiyetim var, oldukça vahşi olmalarına rağmen çok tatlı buluyorum kerataları. muhabbeti bilenler bilir, ergenliğimi inci’de geçirdiğimden olsa gerek. neyse, kuş minik ayakları üstten bağlanmış bi’ şekilde asılı kalmış can çekişiyordu. muhtemelen 2 gündür oradaydı zira peder bey ağların 3 gün önce örüldüğünü söyledi. bilirsiniz, bir gece kuşu olarak bilinen baykuşun gözlerine o ağda asılı halde öyle bir güneş vuruyordu ki, gözleri kıpkırmızı olmuş, kanatları ve ayakları da ağlara dolanmış, hiçbir şekilde hareket edemiyordu. dolandığı ağ zorunluluğuyla oluşan hareketsiz pozisyondan dolayı kuş güneşe bakarken bi’ göz göze geldik ki, pek duygusal biri de değilimdir ama içim gitti amına koyayım.<br/><br/>yanımdaki isviçre çakısıyla ağları kesmeye çalıştım fakat kanat aralarına arapsaçı gibi dolanan ağları bi’ türlü kesemedim. bi’ tarafını kesip zarar verme korkusuyla da çok hassas davranıyorum. aşağı yukarı bir kilometre yukarı çıktığım dağdan tekrar dağ evine doğru indim makas falan almak için. bir saate geri geldim ve küçük ameliyat makasıyla ayak ve kanatlarındaki ipleri tek tek kestim. bir yandan da temkinli davranmıyor değilim. kuş her ne kadar bitkin olsa da hayvan gibi valla, sağlam haliyle adamın gözünü çıkarır, oracıkta amına koyar. leptop ekranı kadar boyutu var yani düşünün. ama bembeyaz yahu, melek gibi bir şey. her neyse, ağları zar zor tamamen kesince hayvancağız lap diye yere düşüp doğrulmaya çalıştı. yanımda şu ayıklanmış çekirdeklerden vardı, kurtulunca belki yer diye bir metre kadar ileriye dökmüştüm. gözleri kapalı bir şekilde çekirdeklere gidip dört beş kez gaga attı ve birkaç metre yürüdükten sonra alçak alçak uçup saniyeler içerisinde az ilerideki ufak karanlık mağaraya girdi. <br/><br/>ulan mal gibi kaldım böyle. ne av hevesi kaldı ne de dağ. sanırım son ava çıkışımdı bence. yaktım bi’ sigara ve yere oturdum. etrafa bakınca sağda solda en az 1 gün uğraşılıp yapılan ağ tuzakları gördüm. hepsinde de iki üç tane kara kuş yakalanmıştı. kafam attı, bu kuşlar baykuştan çok daha küçük olduğundan kurtarması kolay olur dedim, ağların hepsini makasla delik deşik edip attım kenara. kuşların serbest kaldıklarında çıkardıkları sesi dinlemek de paha biçilmez tabii. <br/><br/>enver abi, öncelikle burdan senin ta amına koyim. ağlarının anasını sikip attım, muhtemelen iyi de zarara uğrattım. akşam bizim pederle muhabbet ederken “hangi göt veren ağlarımı kestiyse bulup o götünü sikeceğim” demiş olduğun haberini alsam da, babam her şeyden habersiz evde vukuatı anlatırken içimden kıs kıs gülmemin keyfine hiçbir şeyi değişmem. ayrıca olay yerinde botumun bıraktığı ayak izlerini de tek tek yok ettim topraktan. zaten sigara izmaritini de cebime atmıştım, boşuna şarlokcülük falan oynama yani. 100 gram yağlı et için bi’ daha buralara tuzak kurma kitabını siktiğim.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    cüneyt çakır
+  entry_id:  85773493
+  entry_writer: cembom
+  entry_fav_count: 35
+  entry_content: |
+    ligimizde her daim hakem hataları olmuştur ve olacaktır. çünkü insanın var olduğu her yerde hata da işin bir parçasıdır. dünyanın birçok liginde de hakemlerin performansına bağlı uygulamalar mevcuttur. <br/><br/>bakın bu cümleler nerede yazıyor bliyor musunuz? <br/><br/>çok ilginç ama cüneyt çakır'dan şikayet eden son kalemiz, çubuklu efsanemiz, büyüklüğü tarif edilemeyen fenerbahçemizin resmi sitesinde...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.fenerbahce.org/fbmobile/detay.asp?ContentID=62605" title="https://www.fenerbahce.org/fbmobile/detay.asp?ContentID=62605">https://www.fenerbahce.org/…tay.asp?contentid=62605</a><br/><br/>de haydi siktirin gidin... konu kilit...
+  entry_channels: spor
+- entry_name: |
+    e5'te paten kayan suriyeliler
+  entry_id:  85766701
+  entry_writer: bulutlari bekleyen
+  entry_fav_count: 32
+  entry_content: |
+    sadece kendi canlarını değil başkalarının hayatlarını da tehlikeye atan gençler.<br/><br/>araba sürmeyi henüz çok iyi bilmeyen biri tedirgin olup bunlardan birine ya da bir başka araca çarpsa kim suçlu olacak?
+  entry_channels: haber
 - entry_name: |
     inşallah fenerbahçe'yi küme düşüreceğiz
   entry_id:  85740175
@@ -206,15 +262,31 @@ data:
     tedavisi olmayan türk hastalıkları
   entry_id:  85756928
   entry_writer: baffi
-  entry_fav_count: 25
+  entry_fav_count: 29
   entry_content: |
     herhangi bir yerde yürürken, karşıdan gelenle çarpışmamak adına, en ufak bir hassaslık göstermeme hastalığı. <br/><br/>nedir bunun altında yatan psikolojik etmen? karşıdan gelen size yol verince bir tatminlik hissi mi yaşıyorsunuz? arkadaş ortamınızda "maşallah dozer gibisin be karşiiim/abicim/ablacım, götüne kurban" tarzında iltifatlar mı alıyorsunuz? ikimiz de "30 cm" kenara adım atarsak çarpışmayacağız! çok mu zor lan bu? derdiniz ne kardeşim? bak çok ilginçtir ki, 2 metre 100 kilogramlık adamlar hususi hassas davranırken(adam göt atsa 1 metre savurur), 150 cm 50 kilogramlık tiplerin böyle davranması nasıl bir komplekstir?
   entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
+    bir dakikalık olayı beş dakikada anlatan insan
+  entry_id:  85742821
+  entry_writer: duslerinde gezgin
+  entry_fav_count: 28
+  entry_content: |
+    pek çok farklı yerden bakılabilir: <br/>1. tasvir gücü yüksek kişidir, kitap/senaryoda 10 dakika anlatılan bir durumu film sahnesine dönüştür, 10 saniyeye düşer. anlatıcı ayrıntılı bir tasvir yaparak olayı anlatmış demektir. sindirerek dinlemek gerekir. keyiflidir.<br/>2. kafası dağınık, dalgın kişidir. doğru sözcükleri seçemediğinden 3 cümleyle anlatabilecek olayı 10 cümleyle toparlayamaz. kendisine balık yağı alması önerilebilir.<br/>3. vakti çoktur, tek meşgalesi konuşmaktır. ortada olay olmasına bile gerek yoktur. ortada yüzüne bakarak konuşabileceği birini bulması yeterlidir. aklına geleni bodoslama anlatır da anlatır, konunun biteceği bir yer de yoktur. görüldüğü yerde kaçılması, olmadı ölü taklidi yapılması gerekir.
+  entry_channels: ilişkiler
+- entry_name: |
+    çaylak kızların yazar kızlardan daha güzel olması
+  entry_id:  85767673
+  entry_writer: dermanyon
+  entry_fav_count: 26
+  entry_content: |
+    yahu arkadaş hangi ara bu kadar yazarla buluşuyorsunuzda bu veriyi elde ettiniz?<br/>işiniz gücünüz yok mu sizin?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     google'ın 2019 türkiye yerel seçim tahminleri
   entry_id:  85759466
   entry_writer: hayben
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     başkanlık seçimlerinde de ona bakarsan en çok m. ınce aranıyordu.yemiyoruz artık kardeşim.kim ne b.k yiyorsa yesin.
   entry_channels: anket
@@ -222,89 +294,65 @@ data:
     21 ocak 2019 bursaspor fenerbahçe maçı
   entry_id:  85746024
   entry_writer: bestamimuco
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     devre arasında kadrosunu sadık çiftpınar transferiyle güçlendiren sarı lacivertli ekip sezonun ikinci yarısına iyi bir başlangıç yapmak istiyor. <br/>erzurumspor ve akhisar’ın kaybettiği haftada sarı lacivertlilerin puan kaybına tahammülü yok.<br/><br/>ersun yanal’ın öğrencileri haftayı 3 puanla kapatarak kritik ümraniyespor maçı öncesinde moral bulmak istiyor.
   entry_channels: spor,haber
 - entry_name: |
-    cüneyt çakır
-  entry_id:  85773493
-  entry_writer: cembom
-  entry_fav_count: 21
-  entry_content: |
-    ligimizde her daim hakem hataları olmuştur ve olacaktır. çünkü insanın var olduğu her yerde hata da işin bir parçasıdır. dünyanın birçok liginde de hakemlerin performansına bağlı uygulamalar mevcuttur. <br/><br/>bakın bu cümleler nerede yazıyor bliyor musunuz? <br/><br/>çok ilginç ama cüneyt çakır'dan şikayet eden son kalemiz, çubuklu efsanemiz, büyüklüğü tarif edilemeyen fenerbahçemizin resmi sitesinde...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.fenerbahce.org/fbmobile/detay.asp?ContentID=62605" title="https://www.fenerbahce.org/fbmobile/detay.asp?ContentID=62605">https://www.fenerbahce.org/…tay.asp?contentid=62605</a><br/><br/>de haydi siktirin gidin... konu kilit...
-  entry_channels: spor
-- entry_name: |
-    çaylak kızların yazar kızlardan daha güzel olması
-  entry_id:  85767673
-  entry_writer: dermanyon
-  entry_fav_count: 21
-  entry_content: |
-    yahu arkadaş hangi ara bu kadar yazarla buluşuyorsunuzda bu veriyi elde ettiniz?<br/>işiniz gücünüz yok mu sizin?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     igor tudor
   entry_id:  85765568
   entry_writer: dominar rygel xvi
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     fatih terim gelmeseydi oynattığı kadro ligi 5. sırada bitirirdi. 8 derbi maçta 7 yenilgi 1 beraberlik almıştır. başakşehirden 5 yediği maçı unutmadık.
   entry_channels: spor
 - entry_name: |
-    kazık yenileceğinin belirtileri
-  entry_id:  85762584
-  entry_writer: cz3
-  entry_fav_count: 16
-  entry_content: |
-    abi o kısmı hallederiz, sen onu dert etme diyen birisi varsa direkt uzaklaşın.<br/><br/>benzer bir kazığı araç alımında yedek anahtar konusunda yemekten kıl payı kurtardım kendimi.<br/><br/>ilanda yedek anahtar var yazıyor<sup class="ab"><a title="(bkz: yaşasın ss)" href="/?q=ya%c5%9fas%c4%b1n+ss" data-query="yaşasın ss">*</a></sup>noterde anahtar nerede diyorum ? <br/><br/>abi anahtar evde kalmış o kısmı hallederiz. hallederiz'i duyduğum anda ufkum açıldı, 500 tl kırptım ödeme yaptım.<br/><br/>böyle konuşmamıştık, açtım ilanı gösterdim, ne yazıyor burada ? yedek anahtarı var.<br/><br/>anahtarı aldım mı ? almadım.<br/><br/>e abi yerimiz yurdumuz belli şöyle esnafız böyle esnafız, dedim ben seni tanımıyorum kardeşim bu senle ilk ticaretim, bir daha yaparsak ona göre değerlendiririm.<br/><br/>anahtarı getir parayı al, anahtar mı ? <br/><br/>4 senedir hala gelecek.
-  entry_channels: anket,ilişkiler,ekonomi
-- entry_name: |
     şeriata uygun yaşamak
   entry_id:  85773944
   entry_writer: skocax
-  entry_fav_count: 13
+  entry_fav_count: 19
   entry_content: |
-    şeriat denilen şey allahın kanunları değil 8-12 yüzyıllar arası orta doğuda yaşamış beş on tane köylü arabın fikirleridir.<br/><br/>(bkz: <a class="b" href="/?q=f%c4%b1k%c4%b1h%2f%40skocax">fıkıh/@skocax</a>)<br/><br/>"<a class="b" href="/?q=%c5%9feriat+allah%c4%b1n+kanunlar%c4%b1+yeaa">şeriat allahın kanunları yeaa</a> <a class="b" href="/?q=sanki+insan+allahtan+daha">sanki insan allahtan daha</a> <a class="b" href="/?q=m%c4%b1+iyi+kanun+yab%c4%b1yooo">mı iyi kanun yabıyooo</a>" şeklinde duyunca makul bir insanı kusturan tiksinçlikteki düşüncelere sahip olanlar yaklaşık 7-8 kg ağırlığındaki kafa bölgelerini bir takım tarikat ve cemaatlere kiraya vermişlerdir.<br/><br/>şeriatın ne tarihinden ne de içeriğinden haberi olmayan, ama sırf babası onu küçükken elinden tutup da nurcu bir cemaate teslim etti diye bugün koskoca bir adam olduğu halde hala said nursi denilen mürtecinin fikirlerini yaymaya çabalayan bir takım embesillere ekşisözlükte şeriat propagadası yapma görevi verilmiş yine sanırım. bunun farkına varın, uyanın ulan uyanın!<br/><br/>"hukuk" diye koskoca bir bölüm var üniversitelerde. azıcık adam olun onun müfredatını bir inceleyin. şeriat onun yerini alabilir mi bu devirde saksınızı bir çalıştırın. şeriatın içinde suç teorisi var mı? avukatlık var mı? kamu hukuku/özel hukuk ayrımı yapılmış mı? yapılmamışsa common law gibi sistematik mi? şeriat 21. yüzyılın 20 milyon nüfuslu şehirlerinde uygulanabilir mi? şeriat seçimlere izin veriyor mu? seçim olmayacaksa kim padişah olacak? embesil deyince kızıyorsunuz amk. ne diyelim ulan size? açın biraz hukuk felsefesi/sosyolojisi öğrenin, orada öğretilen şey ile şeriat denilen ilkel arap töresini bir karşılaştırın şu said nursi kuyrukçuluğundan önce. şeriat o kadar geri kalmış bir sistemdi ki 200 yıl önce osmanlı bile uygulayamadı onu; osmanlının şeriatı o yüzden yarım yamalaktı çünkü 13. yüzyıldan sonraki büyük şehirlerde şeriatın uygulanması mümkün değildi. osmanlının nüfusu 50.000 i geçmeyen şehirlerinde bile iflas etti şeriat teorisi. çünkü şeriat en fazla 2000 nüfuslu ortadoğu kasabalarında uygulanabilir. ulan kanser gibi bir şey bu din arkadaş. bir jenerasyonu adam ediyorsun alttan başka bir jenerasyon ergen sivilceleriyle fırlayıp "şoriottttt no gozoollll ama bak said norrssiii de oylo demiş" diye ortalıkta dolanmaya devam ediyor.
+    şeriat denilen şey allahın kanunları değil 8-12 yüzyıllar arası orta doğuda yaşamış beş on tane köylü arabın fikirleridir.<br/><br/>o ortaçağ köylülerinin fikirleri olan şeriat budur: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Z8rlq0scv9Y">https://www.youtube.com/watch?v=z8rlq0scv9y</a> (+40 görüntüler var)<br/><br/>(bkz: <a class="b" href="/?q=f%c4%b1k%c4%b1h%2f%40skocax">fıkıh/@skocax</a>)<br/><br/>"<a class="b" href="/?q=%c5%9feriat+allah%c4%b1n+kanunlar%c4%b1+yeaa">şeriat allahın kanunları yeaa</a> <a class="b" href="/?q=sanki+insan+allahtan+daha">sanki insan allahtan daha</a> <a class="b" href="/?q=m%c4%b1+iyi+kanun+yab%c4%b1yooo">mı iyi kanun yabıyooo</a>" şeklinde duyunca makul bir insanı kusturan tiksinçlikteki düşüncelere sahip olanlar yaklaşık 7-8 kg ağırlığındaki kafa bölgelerini bir takım tarikat ve cemaatlere kiraya vermişlerdir.<br/><br/>şeriatın ne tarihinden ne de içeriğinden haberi olmayan, ama sırf babası onu küçükken elinden tutup da nurcu bir cemaate teslim etti diye bugün koskoca bir adam olduğu halde hala said nursi denilen mürtecinin fikirlerini yaymaya çabalayan bir takım embesillere ekşisözlükte şeriat propagadası yapma görevi verilmiş yine sanırım. bunun farkına varın, uyanın ulan uyanın!<br/><br/>"hukuk" diye koskoca bir bölüm var üniversitelerde. azıcık adam olun onun müfredatını bir inceleyin. şeriat onun yerini alabilir mi bu devirde saksınızı bir çalıştırın. şeriatın içinde suç teorisi var mı? avukatlık var mı? kamu hukuku/özel hukuk ayrımı yapılmış mı? yapılmamışsa common law gibi sistematik mi? şeriat 21. yüzyılın 20 milyon nüfuslu şehirlerinde uygulanabilir mi? şeriat seçimlere izin veriyor mu? seçim olmayacaksa kim padişah olacak? embesil deyince kızıyorsunuz amk. ne diyelim ulan size? açın biraz hukuk felsefesi/sosyolojisi öğrenin, orada öğretilen şey ile şeriat denilen ilkel arap töresini bir karşılaştırın şu said nursi kuyrukçuluğundan önce. şeriat o kadar geri kalmış bir sistemdi ki 200 yıl önce osmanlı bile uygulayamadı onu; osmanlının şeriatı o yüzden yarım yamalaktı çünkü 13. yüzyıldan sonraki büyük şehirlerde şeriatın uygulanması mümkün değildi. osmanlının nüfusu 50.000 i geçmeyen şehirlerinde bile iflas etti şeriat teorisi. çünkü şeriat en fazla 2000 nüfuslu ortadoğu kasabalarında uygulanabilir. ulan kanser gibi bir şey bu din arkadaş. bir jenerasyonu adam ediyorsun alttan başka bir jenerasyon ergen sivilceleriyle fırlayıp "şoriottttt no gozoollll ama bak said norrssiii de oylo demiş" diye ortalıkta dolanmaya devam ediyor.
   entry_channels: tarih
 - entry_name: |
-    yılmaz özdil
-  entry_id:  85746164
-  entry_writer: dear god make me a bird
-  entry_fav_count: 10
+    brüksel denince akla gelenler
+  entry_id:  85759393
+  entry_writer: intergalactic
+  entry_fav_count: 17
   entry_content: |
-    1881 keseye bahçeden toprak doldurup, "atatürk kokulu selanik toprağı" ambalajıyla kese başı 1919 tl'den okutma projeme ortak olarak düşündüğüm atatürk istismarcısı.
-  entry_channels: siyaset,edebiyat,haber
+    avrupa'nın ortasında afrika-ortadoğu karışımı garip bir yer.
+  entry_channels: 
 - entry_name: |
     ilk yiyişte aşık olunan şeyler
   entry_id:  85743267
   entry_writer: jeemy01
-  entry_fav_count: 10
+  entry_fav_count: 12
   entry_content: |
     piña colada<br/>vişneli mekik kek<br/>dallas steak<br/>kaju<br/>muzlu rulo pasta<br/><br/>dostlar bu liste uzar gider. buradan anlaşılacağı üzere ben baya pis boğazım, o yüzden bu kadar eyyorlayayım yeter.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  85742962
-  entry_writer: yambaleiyyambaleyyo
-  entry_fav_count: 10
-  entry_content: |
-    kavmine bahar gelse de kalbin ısınamasın!
-  entry_channels: anket,ilişkiler,edebiyat
-- entry_name: |
-    league of legends
-  entry_id:  85763850
-  entry_writer: fouche
+    burger king'in coca-cola ile anlasmasi
+  entry_id:  85774527
+  entry_writer: karanlikruya
   entry_fav_count: 8
   entry_content: |
-    animasyon ekibi gene beklentileri aşan bir çalışma yapmış. amına koduğum oyun şirketi animasyonculardan daha iyi animasyon, müzik şirketlerinden daha iyi müzikler üretiyor. marvel ile anlaşma yapıp çizgi roman işine bile giriştiler, gelecekte sinema filmini görebiliriz. nasıl bir yapılanmadır bu anlamış değilim. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=zF5Ddo9JdpY" title="https://www.youtube.com/watch?v=zF5Ddo9JdpY">awaken (ft. valerie broussard) | league of legends cinematic - season 2019</a>
-  entry_channels: oyun
+    geçen yediğim sette coca cola getirerek hata yaptılar diye düşünmüştüm. sonra yok lan olur mu öyle dedim. kendimle konuşurken laf lafı açtı, hamburgerler soğudu.<br/><br/>yapılan en doğru anlaşmadır. pepsi zulmü sonunda bitti.
+  entry_channels: 
+- entry_name: |
+    türkiye futbol liginin unutulmaz vasat yabancıları
+  entry_id:  85758598
+  entry_writer: drejevic
+  entry_fav_count: 7
+  entry_content: |
+    jardel'e karşılık alınan 3 futbolcunun üçü de vasattı. sporting lizbon iyi kazık atmıştı cimboma. bunlardan birisi horvath, öteki belçikalı emile mpenza'nın kardeşi, üçüncüsün adını hatırlayamadım.<br/><br/>e: <a class="b" href="/?q=robert+spehar">robert spehar</a> diye mesaj atanlar oldu.
+  entry_channels: spor,anket
 - entry_name: |
     ersun yanal
-  entry_id:  85773067
-  entry_writer: oro
-  entry_fav_count: 4
+  entry_id:  85773340
+  entry_writer: lemmyisimmortal
+  entry_fav_count: 5
   entry_content: |
-    hemen çıkıp fenerbahçe ne kadar büyük bir iki aforizma patlatsın :d<br/><br/>tanım: fener'i 17.likten alıp 15.liğe taşayan imparator, futbol kompedanı.
+    golü yemeden hemen önce oyuna sokmak için roman'ı çağırmıştı yanına. kısmet olmadı romanı izlemek. bursa'lı futbol severler eksik kaldı adı güzelden.
   entry_channels: spor
 - entry_name: |
     celal şengör
@@ -323,13 +371,13 @@ data:
     (bkz: <a class="b" href="/?q=erdinger">erdinger</a>)<br/>(bkz: <a class="b" href="/?q=schneider+weisse">schneider weisse</a>)<br/>(bkz: <a class="b" href="/?q=paulaner+salvator">paulaner salvator</a>)<br/>(bkz: <a class="b" href="/?q=grolsch">grolsch</a>)<br/>(bkz: <a class="b" href="/?q=heineken">heineken</a>)<br/><sup class="ab"><a title="(bkz: evet acuk almanya acuk hollanda hayranlığım var)" href="/?q=evet+acuk+almanya+acuk+hollanda+hayranl%c4%b1%c4%9f%c4%b1m+var" data-query="evet acuk almanya acuk hollanda hayranlığım var">*</a></sup><br/>(bkz: <a class="b" href="/?q=ezine+peyniri">ezine peyniri</a>)<br/>(bkz: <a class="b" href="/?q=%c4%b1zgara+ye%c5%9fil+zeytin">ızgara yeşil zeytin</a>) <br/><br/>bunlar biterken hep üzülürüm.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  85740428
-  entry_writer: evi yapan kapidir
-  entry_fav_count: 2
+    2019 grip salgını
+  entry_id:  85770804
+  entry_writer: mithradates pontus sovalyesi
+  entry_fav_count: 3
   entry_content: |
-    hayatından memnun olmayanları böyle alalım. cinsiyet farketmeksizin itina ile dinlenir, "ya takma kafaya" tesellisi verilir, 5 dakikada yapılır, hemen teslim edilir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/eviyapan">http://connected2.me/eviyapan</a>
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    biber gazı solumuşuz gibi boğazda ağrı ve kaşıntıya neden olan salgın. hastaneye giden bir arkadaşa doktor “yeni karşılaştığımız bir hastalık, nedenini bilmiyoruz, onun için de tedavi yapamıyoruz” demiş. bugün aynı sorun bende ve +1’imde de var. eskiden grip olurduk ve birkaç güne geçerdi ama şimdi öyle değil, ebemiz ağlıyor mk. aile hekimi bir arkadaşım da bir şeyler söylemişti ama açıklamayayım. kimseyi karıştırmadan nedenini tahmin edeyim; (bkz: <a class="b" href="/?q=m%c3%bclteciler">mülteciler</a>)
+  entry_channels: tarih,sağlık,haber
 - entry_name: |
     çukur (dizi)
   entry_id:  85771958
@@ -339,61 +387,13 @@ data:
     şu dizinin en esaslı karakterleri vartolu ile cumali...
   entry_channels: tv
 - entry_name: |
-    2019 grip salgını
-  entry_id:  85745619
-  entry_writer: egemen74
-  entry_fav_count: 2
-  entry_content: |
-    ayakta atlatırım derken zatürre olmama sebep olan salgın.
-  entry_channels: tarih,sağlık,haber
-- entry_name: |
-    sözlükçülerin en tuhaf takıntıları
-  entry_id:  85749724
-  entry_writer: saclarinitarayancadi
-  entry_fav_count: 1
-  entry_content: |
-    evde ya da işyerinde bütün camlar kapalıysa nefes alamıyorum. asla.<br/>yaz kış fark etmez. camlardan biri azıcık da olsa açık olacak. <br/>geceleri bazen çok soğuk ise kapatıyorum ama sonra dayanamayıp gene aralıyorum.<br/>genelde mutfak camı açık olmalı. yoksa ev hep yemek kokuyor gibi geliyor.<br/>bunu aşmalıyım.<br/>evi ısıtıcam diye 500ün altında doğalgaz ödemiyorum.<br/>hayat zor.
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    sadık çiftpınar
-  entry_id:  85771371
-  entry_writer: dogumgunundecevrimdisiolanadam
-  entry_fav_count: 1
-  entry_content: |
-    atanamamis <a class="b" href="/?q=deniz+baris">deniz baris</a> gibi duruyor hayirlisi.
-  entry_channels: spor
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  85748495
-  entry_writer: leylasoysal
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/entry/85706763">#85706763</a>) <br/><br/>kadini yatakta tatmin edemeyip dikte edilen kadini ezme kafasinda bir entrye on ayak oldugun icin senden, senin gibi dusunen erkeklerden kadinlar olarak nefret ediyor ve aciyan gozlerle bakiyoruz.<br/><br/>kac kitap okudugumuzu cinsiyetle bagdastirip ezmeye calisan kafa yapina tukureyim. senin gibi erkeklerde ben sikerimmm diye ortalarda gezen egomanyak erkeklerden nefret ettigimden daha cok nefret ediyorum cunku onlarin hic degilse ici disi bir sen sinsi bir korkaksin ve kadinlar tarafindan inanilmaz derecede ezildigin icin tum kadinlara mal etmeye calistigin seyleri, yatakta tatmin edemeyip kacirdigin kadinlara sor.<br/><br/>siz bu kafayla asla sevilemezsiniz can kiriklarinizi onarin biran once ve nefret kusmayi birakin sahip degil ait olmaya odaklanin biraz.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    aykut kocaman
-  entry_id:  85774030
-  entry_writer: papuayenigine02561
-  entry_fav_count: 1
-  entry_content: |
-    ersun gibi fenerle doğru düzgün bi geçmişi bile olmayan bi adamı hayatının 10 yıldan fazlasını fenerbahçe'ye adamış bu efsane teknik direktöre, her şeyden önce bir fenerbahçeliye tercih ettiniz. ahımız var.
-  entry_channels: spor
-- entry_name: |
     sıçtık kelimesinin mesleklerdeki terminolojisi
-  entry_id:  85773000
-  entry_writer: rickopforus
-  entry_fav_count: 0
+  entry_id:  85774448
+  entry_writer: ceyrek kala
+  entry_fav_count: 1
   entry_content: |
-    elektronikle uğraşanların sıkça karşılaştığı diyalog :<br/><br/>-elektronikçi olmayan biri: bu koku ne?<br/>-elektronikçi: kısa devre oldu sanırım<br/>-eob: kötü mü yani (şaşkınca sırıtır)<br/>-e: yaktık yani yaktık <br/><br/>yaktık : sıçtık
+    (bkz: <a class="b" href="/?q=fatal+error">fatal error</a>) <br/><br/>autocad, mimarlık
   entry_channels: anket
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  85774928
-  entry_writer: uzaklardangelensesler
-  entry_fav_count: 0
-  entry_content: |
-    bana mesaj felan göndermeyin.<br/><br/>zaten mesaj alımım çaylaklara kapalı.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     28 ocak 2019 fenerbahçe yeni malatyaspor maçı
   entry_id:  85774377
