@@ -6,7 +6,7 @@ data:
     pkk
   entry_id:  86217058
   entry_writer: amasadecebirkere
-  entry_fav_count: 1182
+  entry_fav_count: 1197
   entry_content: |
     amına koyduğumun bazı dallamalarının onların da anası babası var diye duyar kastığı yine bu dallama kadar kansız, şerefsiz, kahpe bir terörist örgüt.
   entry_channels: siyaset,anket
@@ -14,7 +14,7 @@ data:
     2 şubat 2019 ali koç yabancı sınırı açıklaması
   entry_id:  86225105
   entry_writer: uzaydan gelip gote giren semsiye
-  entry_fav_count: 684
+  entry_fav_count: 689
   entry_content: |
     diğer kestane başkanları gibi galatasaray biraz sıyrılınca yabancı sınırı akılına gelmesi şaşırtmamış vizyoner başkan.<br/><br/>sene başı tonla yabancı al bir boka yaramayınca aldığın yabancılar, 2 tane yerli çöp alıp yabancı sınırını gündeme getirmeye çalış.<br/><br/>(bkz: <a class="b" href="/?q=k%c3%bc%c3%a7%c3%bck+aziz">küçük aziz</a>)
   entry_channels: spor,haber
@@ -22,7 +22,7 @@ data:
     geç boşalan erkek
   entry_id:  86219654
   entry_writer: tom creo
-  entry_fav_count: 581
+  entry_fav_count: 582
   entry_content: |
     sevişirken olaydan zevk almak yerine, geç boşalmak uğruna annesinin öldüğünü düşünen bir adet yavşağın da içinde bulunduğu erkek grubuymuş.<br/><br/>bir de gelmiş akıl veriyor.
   entry_channels: ilişkiler,sağlık
@@ -30,7 +30,7 @@ data:
     salda gölüne millet bahçesi yapılması
   entry_id:  86222228
   entry_writer: stajyermafya
-  entry_fav_count: 332
+  entry_fav_count: 336
   entry_content: |
     artık ben şundan eminim.<br/><br/>bu adamlar ülkenin bütün güzelliklerini yok etmek için elinden geleni yapıyorlar.
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     antalya'nın türkiye'nin en güzel şehri olması
   entry_id:  86224246
   entry_writer: nigelgood
-  entry_fav_count: 273
+  entry_fav_count: 276
   entry_content: |
     yukarıda adamın biri antalya'yı bursa'yla kıyaslamış ya la.<br/><br/>işim icabı çok fazla sayıda şehir ve ülke gördüm, antalya kesinlikle yaşanacak en güzel şehirdir.
   entry_channels: anket,seyahat
@@ -46,7 +46,7 @@ data:
     galatasaray'ın 11 yabancıyla maça çıkması
   entry_id:  86232736
   entry_writer: hasta ruhlu pislik
-  entry_fav_count: 208
+  entry_fav_count: 217
   entry_content: |
     fransa milli takımının 11 yabancıyla(fransız olmayan) dünya kupası kazandığı çağda mühim değildir.
   entry_channels: spor
@@ -54,7 +54,7 @@ data:
     türklerin dna testinde yunan çıkması
   entry_id:  86232392
   entry_writer: beyincil
-  entry_fav_count: 182
+  entry_fav_count: 198
   entry_content: |
     dna testi sonucunda yunan, türk ya da alman çıkılamayacağını bilmeyen, evrimsel biyolojiden haberi olmayan yazar başlığı.
   entry_channels: bilim,teknoloji,sağlık
@@ -62,7 +62,7 @@ data:
     erdoğan'ın fetö ve pkk'yı bitirme projesi olması
   entry_id:  86227413
   entry_writer: apacinindovmelisi
-  entry_fav_count: 166
+  entry_fav_count: 170
   entry_content: |
     ilk 2 cümleyi okuyalım. feto ve pkk hiç olmadığı kadar bozguna uğratıldı. peki bitme noktasına gelen pkk nasıl birden güçlendi? 2003ten sonra nasıl başardı bunu. çözüm süreci, serbest kalan kck'lilar. feto bitirilmiş. ülkede darbe yapabilecek potansiyelde bir örgütü ben mi yerleştirdim oralara? ben bu başlığı açan yazarın ağzını burnunu kırsam, sonra hastaneye götürsem. bana da diyebilecek misin benim için uğraşıyor bu adam, helal olsun diye?
   entry_channels: siyaset
@@ -70,7 +70,7 @@ data:
     şeref düzyatanlar
   entry_id:  86216912
   entry_writer: s7en
-  entry_fav_count: 149
+  entry_fav_count: 150
   entry_content: |
     para için hiç tanımadığı sikimsonik bir adamı övecek kadar paranın köpeği olmuş yazarları göstermiştir. ortamlarda para için yandaşlık- trolluk yapanlara söversiniz amk kim bilecek<br/><br/>edit:imla
   entry_channels: teknoloji,magazin
@@ -78,10 +78,18 @@ data:
     türkiye'de solun halka ulaşamamasının nedeni
   entry_id:  86218107
   entry_writer: sputnick
-  entry_fav_count: 145
+  entry_fav_count: 149
   entry_content: |
     halkın bulunduğu seviyenin çok aşağıda olması.<br/><br/>halka ulaşabilmek için eğitimli bir insanın bayağı bir dibe dalması gerekiyor.
   entry_channels: siyaset,anket
+- entry_name: |
+    türk kızlarının biraz fazla seçici olması
+  entry_id:  86222813
+  entry_writer: kayip tayfa
+  entry_fav_count: 126
+  entry_content: |
+    belli bir yaştan sonra sadece yabancılarla sevgili olan biri olarak söylüyorum .. hayatinizi sikiyorlar beyler..
+  entry_channels: ilişkiler
 - entry_name: |
     genç girişimcilerin çoğunun batmasının sebebi
   entry_id:  86228262
@@ -91,18 +99,10 @@ data:
     ilk iki şirketini batırmış, üçüncüsünü tutturmuş biri olarak söylüyorum: wishful thinking.<br/><br/>yani, "yaparız ederiz yeter ki başlayalım" demek. plan yapmamak. en az bir senelik vergi, sgk, kira vs. masraflarını kenara koymadan gaza gelmek.<br/><br/>yani, küçük başlamamak. kredi çekmek.<br/><br/>yani, "bir yolunu buluruz kanka, kuralım şu şirketi" demek.<br/><br/>çözüm: en kötüsünü düşünün. bir senelik masraflarınız bankada yoksa asla kurmayın o şirketi.<br/><br/>edit: ilk şirketim sosyal medya üzerindeydi. senelik masrafları düşünmeyip, gaza geldim ve kurdum. battı. ikincisi eticaret şirketiydi, ürünleri satamadım. üçüncüsü eticaret şirketi ve ürünleri satıyorum nihayet.
   entry_channels: anket,ekonomi
 - entry_name: |
-    türk kızlarının biraz fazla seçici olması
-  entry_id:  86222813
-  entry_writer: kayip tayfa
-  entry_fav_count: 122
-  entry_content: |
-    belli bir yaştan sonra sadece yabancılarla sevgili olan biri olarak söylüyorum .. hayatinizi sikiyorlar beyler..
-  entry_channels: ilişkiler
-- entry_name: |
     otobüsten indirilen parasız kızın donarak ölmesi
   entry_id:  86232225
   entry_writer: kaygee
-  entry_fav_count: 106
+  entry_fav_count: 109
   entry_content: |
     bizim ülkede gerçekleştiğini düşünüp öfkeyle açtığım, ukrayna'da gerçekleştiğini öğrenince öfkem biraz yatıştığı için insanlığımdan utandığım haber. can her yerde candır. üzücü bir olay.
   entry_channels: haber
@@ -110,7 +110,7 @@ data:
     her şeyi açıklayan en kısa söz
   entry_id:  86216626
   entry_writer: tornafreze
-  entry_fav_count: 96
+  entry_fav_count: 108
   entry_content: |
     (bkz: <a class="b" href="/?q=oyun+bitince+%c5%9fah+da+piyon+da+ayn%c4%b1+kutuya+at%c4%b1l%c4%b1r">oyun bitince şah da piyon da aynı kutuya atılır</a>)
   entry_channels: anket,edebiyat
@@ -118,10 +118,18 @@ data:
     türkiye'nin asla düzelemeyecek olmasının sebebi
   entry_id:  86209764
   entry_writer: greentimsah
-  entry_fav_count: 95
+  entry_fav_count: 96
   entry_content: |
     insan kalitesizliğidir. yaşı,mesleği, cinsiyeti, eğitim durumu farketmeksizin kalitesiz bir toplumuz maalesef.
   entry_channels: siyaset,anket,eğitim,ekonomi
+- entry_name: |
+    2 şubat 2019 devlet bahçeli'nin attığı tweet
+  entry_id:  86234918
+  entry_writer: isen buga
+  entry_fav_count: 65
+  entry_content: |
+    bu tiviti kendisine de atmalı, zira koltuğa salt kılıçdaroğlu yapışmıyor.<br/>kendisi de müflis bir siyasetçi.
+  entry_channels: siyaset,teknoloji
 - entry_name: |
     ölümü düşündüren şarkı
   entry_id:  86215580
@@ -131,50 +139,42 @@ data:
     candan erçetin-yalan
   entry_channels: anket,müzik
 - entry_name: |
-    ali koç
-  entry_id:  86224732
-  entry_writer: uzaydan gelip gote giren semsiye
-  entry_fav_count: 54
+    karadenizlilerin çok zeki olmasının sırrı
+  entry_id:  86234562
+  entry_writer: kendinibilmeyenbilgenintakendisi
+  entry_fav_count: 53
   entry_content: |
-    türk futboluna vizyon getirecek diye destekledik, ilk fırsatta “yabancı sınırı gelsin” diye ağlamaya başladı.<br/><br/>soran olursa vizyoner başkan dersiniz!
-  entry_channels: spor,haber,ekonomi
+    gerçekten sırlarına sadık insanlarmış hiç belli etmiyorlar zira.
+  entry_channels: ekşi-sözlük
 - entry_name: |
     2 şubat 2019 alanyaspor galatasaray maçı
-  entry_id:  86232119
-  entry_writer: digeridoo
+  entry_id:  86232017
+  entry_writer: inflexibleuser
   entry_fav_count: 46
   entry_content: |
-    şimdiden söyleyim maçtan sonra yabancı sınırı, istiklal marşı, futbol üzerinden vatan millet sakarya edebiyatı yapacak olan tüm samimiyetsiz, şovmen orospu çocuklarının anasını sikiyim.<br/><br/>tanım: galatasaray'ımızın koyup geçeceği maç olacaktır.
+    rıdvan koş...<br/><br/>ıstiklal marşı okuyacak adam yok kadroda
   entry_channels: spor
 - entry_name: |
     sergen yalçın
   entry_id:  86228289
   entry_writer: commander7
-  entry_fav_count: 41
+  entry_fav_count: 44
   entry_content: |
     "tembel olmasaydı barcelona'da forma giyip zidane'a karsi oynardı, kesinlikle.-" daniel pancu, 2011<br/><br/>"birçok önemli takımda ve pl'de oynadım. sergen gibi futbolcu az gördüm" - ronny johnsen, 2010<br/><br/>"sergen benim icin tr'nin en iyi oyuncusu. sahada oyunu gören, okuyan, tanrı'dan üstün yetenekler almış müthiş bir futbolcu" - hagi, 2009<br/><br/>"sergen futbolu biraz ciddiye alsaydı, dünya'nın sayılı muhteşem oyuncularından biri olabilirdi." joachim löw, 2008<br/><br/>"sergen gördügüm en efsane futbolculardan biriydi. serie a'da oynasaydı dünyanın ikonlarindan biri olabilirdi." - federico giunti, 2008<br/><br/>"maradona'yla ayni klastandi. sergen'in en iyi zamanlarinda türk futbolu ondan yararlanamadi." - oscar cordoba, 2006<br/><br/>"onun futbol beynine sahip degilim. platini'de de yoktu sanirim" - jean tigana, 2005<br/><br/>"onunla oynama şansına eriştim. topa dokuduğunda ne kadar özel olduğunu anlıyorsunuz." - john carew, 2005<br/><br/>"sergen sıradışı bir futbolcu. real madrid'de kolaylıkla oynayabilecek bir cocuktu. futboluna saygı duyuyorum" vicente del bosque, 2004<br/><br/>"sergen gercekten izledigim klas oyunculardan biri. ıstanbul'da izlemek icin de gelecegim" - roman abramovich, 2003<br/><br/>"40 yıllık kariyerimde onun gibisini gormedim. zidane'nin yerinde olabilirdi. onun için her zaman üzülüyorum" - mircea lucescu, 2003<br/><br/>"sergen rakip orta sahalari sersemleten bir tarza sahip. ne oldugunu anlayamadan hakkınızdan gelir" espnsoccernet, 2000<br/><br/>"sergen profesyonel yaşasaydı, avrupa futbolunda muhteşem işler yapabilirdi. b.munih onu istemisti. beckenbauer özellikle." senez erzik 2000<br/><br/>"kimse bana sergen'den bahsetmemişti. onun gibi muhtesem oyuncuları bulabilmek gerçekten ama gerçekten çok zor" - zdenek zeman, 1999<br/><br/>"türkiye'de dogmus olmasaydı, ikinci maradona olurdu" - kicker magazine,1999<br/><br/>"o bence türk zidane" - franz beckenbauer 1999<br/><br/>"kariyerim boyunca böyle bir oyuncu görmedim. türkler nasil bir oyuncuya sahip olduklarını bilmeliler" - safet susic, 1997<br/><br/>"sergen, avrupa'da herhangi bir takımda oynayacak teknik kapasiteye sahip" - lennart johansson, 1996<br/><br/>"o bir inci, geleceğin süperstarı. ama her nadir rastlanan yetenek gibi kendisine çok dikkat etmesi gerekiyor." french football magazine1994<br/><br/>-------<br/>tanım: gelmiş geçmiş en yetenekli türk futbolucudur. balon olduğu ve edirne'den sonra tanınmadığı ise hayal ürünüdür.
   entry_channels: spor
 - entry_name: |
-    2 şubat 2019 devlet bahçeli'nin attığı tweet
-  entry_id:  86234918
-  entry_writer: isen buga
-  entry_fav_count: 39
+    bir daha onu sevdiğim gibi kimseyi sevemem hissi
+  entry_id:  86211872
+  entry_writer: doremifa
+  entry_fav_count: 41
   entry_content: |
-    bu tiviti kendisine de atmalı, zira koltuğa salt kılıçdaroğlu yapışmıyor.<br/>kendisi de müflis bir siyasetçi.
-  entry_channels: siyaset,teknoloji
-- entry_name: |
-    karadenizlilerin çok zeki olmasının sırrı
-  entry_id:  86234562
-  entry_writer: kendinibilmeyenbilgenintakendisi
-  entry_fav_count: 38
-  entry_content: |
-    gerçekten sırlarına sadık insanlarmış hiç belli etmiyorlar zira.
-  entry_channels: 
+    bir daha kimseyi onun ‘kadar’ sevemem hissi atlatılır. onu sevdiğiniz kadar, hatta daha fazla sevebilirsiniz.<br/><br/>ama bir daha kimseyi onun ‘gibi’ sevemem hissi aşılmaz. <br/><br/>bu ikisi çok farklı.<br/>‘gibi’ bir tarzı niteliyor, ‘kadar’ miktarı.
+  entry_channels: ilişkiler
 - entry_name: |
     çocuğunu bilingual yetiştiren türk aile
   entry_id:  86230453
   entry_writer: renksiz hayat
-  entry_fav_count: 33
+  entry_fav_count: 36
   entry_content: |
     devlet okuluna başlayınca görürüm o bilingualı. iki ayda fabrika ayarlarına döndürürler.
   entry_channels: eğitim
@@ -203,22 +203,6 @@ data:
     tabakları üst üste dizdim golünü atmasını bekliyorum.
   entry_channels: spor
 - entry_name: |
-    2 şubat 2019 adana depremi
-  entry_id:  86228037
-  entry_writer: 3lly
-  entry_fav_count: 23
-  entry_content: |
-    iskenderun'dan hissettim. deprem olduğunda koltuğa yayılmış laptop ile uğraşıyordum. hemen ekşi'yi açıp sismograf reyizlerin şiddet tahminlerine göz atayım dedim.
-  entry_channels: haber
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  86210703
-  entry_writer: irish seven adam
-  entry_fav_count: 20
-  entry_content: |
-    buraya gelip seks aradığını açıkça belirten ezik ekşi sözlük yazarlarının bütün gün evde ağlayarak 31 çektiğini biliyor musunuz? bir erkek olarak bile , bunlarla aynı ortamda bulunduğumu hayal bile edemiyorum. arada ben de kaynarım çünkü. o kadar abazanlar.<br/><br/>çok bozmadı mı ekşi sözlük sizce? özellikle bu iğrenç yaratıklardan sonra.<br/><br/>ekşi sözlük yazarlığı artık eskisi gibi değil. buradaki herkesi aklı başında , kültürlü insanlar sanmayın. eskidendi onlar. şimdiki halini görüyorsunuz.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     melih gökçek ekşi'de yazar olsa kullanacağı nick
   entry_id:  86219308
   entry_writer: abidin hido
@@ -238,10 +222,34 @@ data:
     istanbul başakşehir futbol kulübü
   entry_id:  86214010
   entry_writer: batuhank
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     istanbul'da yaşayan her bireyin cebinden yolsuzlukla alınan paralarla finanse edilen kulüp, ülkenin kısa bir özeti
   entry_channels: spor,siyaset
+- entry_name: |
+    aktarırken mutlaka dökülen şey
+  entry_id:  86219597
+  entry_writer: capturemaniac
+  entry_fav_count: 11
+  entry_content: |
+    boşalan kavanoza, paketten aktarılan çay'dır. ne yaparsanız yapın illa ki mutfak tezgahına dökülecektir. kaçarı yoktur. <br/><br/>bir başkası da bal'dır mesela. onu da zaptetmek zordur. durdurmak imkansıza yakın.
+  entry_channels: anket
+- entry_name: |
+    malatyalıların ortak özelliği
+  entry_id:  86213480
+  entry_writer: yurtici argo
+  entry_fav_count: 10
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>malatyalı, malatyalı, malatyalı, malatyalı, malatyalı, malatyalı, malatyalı, malatyalı, malatyalı, malatyalı...<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>(bkz: <a class="b" href="/?q=kalt">kalt</a>)<br/>(bkz: <a class="b" href="/?q=ozan+akyol">ozan akyol</a>)
+  entry_channels: anket
+- entry_name: |
+    organize işler sazan sarmalı
+  entry_id:  86216648
+  entry_writer: attorney
+  entry_fav_count: 9
+  entry_content: |
+    <a class="b" href="/?q=y%c4%b1lmaz+erdo%c4%9fan">yılmaz erdoğan</a> bir yandan sinema biletine kola mısır karışmasın kampanyası yürütürken, son filmi <a class="b" href="/?q=%c3%bcr%c3%bcn+yerle%c5%9ftirme">ürün yerleştirme</a>'den geçilmiyor. madem bu kadar tantana ettin, sen de filmi reklamsız ve ürün yerleştirmesiz çekip bize sadece film sunsaydın keşke.
+  entry_channels: sinema,spoiler
 - entry_name: |
     fenerbahçe'nin 4.5 milyar tl borcunun olması
   entry_id:  86231634
@@ -259,13 +267,13 @@ data:
     güneş sistemizle alakalı konuşuyosak, örneğin mars'ta muhtemelen yaşam vardı ve biz geç kaldık. öyle sabah 5 dakika geç kalıp kaçırılan otobüs gibi değil, 4 milyar yıl kadar.<br/><br/>" nehirler binlerce kilometre çapındaki bugün toz gibi kupkuru muazzam çarpma çanaklarına akıp içlerini dolduruyordu. bugün dünyadaki bütün şelalelerin yanında cüce gibi kaldığı şelaleler mars'ın göllerine dökülüyordu. yüzlerce metre, hatta belki de bir kilometre derinliğinde okyanuslar bugün zorlukla fark edilen kıyılara yavaşça çarpıyordu belki de. bu incelenecek bir dünya olurdu. dört milyar yıl geç kaldık. "<br/><br/>güneş sistemimiz hariç, evrendeki yaşam veya canlı olasılığı tabi ki var. biz henüz değil sokağa adım atma, apartmana çıkma, ayakkabılarımızı giymeden ziyade, dışarı çıkacak uygun ayakkabıyı arıyoruz.<br/><br/>"evrenimiz yaşama [yahut en azından bizim yaşam için gerekli diye düşündüğümüz şeye] hemen hemen elverişsizdir. yüzlerce milyar galaksideki her yıldızın dünyaya benzer bir gezegeni olsa da, kahramanca teknolojik ölçüler olmadan, yaşam, evrenin ancak yaklaşık 10 üzeri -37 lik bir hacminde gelişebilir. açık söylemek gerekirse, şöyle yazalım, evrenimizin ancak 0, 000 000 000 000 000 000 000 000 000 000 000 000 1i yaşama karşı konukseverdir. birden önce 36 sıfır var. geri kalanın tümü soğuk, radyasyonla dolu kapkara bir vakumdur. "<br/><br/><a class="b" href="/?q=carl+sagan">carl sagan</a> - <a class="b" href="/?q=pale+blue+dot">pale blue dot</a>.
   entry_channels: bilim
 - entry_name: |
-    organize işler sazan sarmalı
-  entry_id:  86216648
-  entry_writer: attorney
+    hakan hepcan'ın norveç'e yerleşmesi
+  entry_id:  86218776
+  entry_writer: arma yann tiersen
   entry_fav_count: 8
   entry_content: |
-    <a class="b" href="/?q=y%c4%b1lmaz+erdo%c4%9fan">yılmaz erdoğan</a> bir yandan sinema biletine kola mısır karışmasın kampanyası yürütürken, son filmi <a class="b" href="/?q=%c3%bcr%c3%bcn+yerle%c5%9ftirme">ürün yerleştirme</a>'den geçilmiyor. madem bu kadar tantana ettin, sen de filmi reklamsız ve ürün yerleştirmesiz çekip bize sadece film sunsaydın keşke.
-  entry_channels: sinema,spoiler
+    (bkz: <a class="b" href="/?q=hakan+hepcan+kim+amk">hakan hepcan kim amk</a>)
+  entry_channels: magazin
 - entry_name: |
     çiğ köfteci ali usta'nın gitarcılara saldırması
   entry_id:  86213298
@@ -281,15 +289,15 @@ data:
   entry_fav_count: 7
   entry_content: |
     kedinin suratı her şeyi özetliyor dedirten.<br/><br/>şaka bir yana; kedi british shorthair cinsi olduğu için yanakları bol bol olduğundan huysuz gibi görünebilirler. benimkinden biliyorum ve hemen makas alıveriyorum. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: 
+  entry_channels: haber
 - entry_name: |
-    hakan hepcan'ın norveç'e yerleşmesi
-  entry_id:  86218776
-  entry_writer: arma yann tiersen
+    iz bırakan kitap cümleleri
+  entry_id:  86218878
+  entry_writer: coolisababaniz
   entry_fav_count: 7
   entry_content: |
-    (bkz: <a class="b" href="/?q=hakan+hepcan+kim+amk">hakan hepcan kim amk</a>)
-  entry_channels: magazin
+    kaldırımlara bakış açım değişti, büyük yazar olmak tam olarak bu işte, bizlerin göremediğini görmek.<br/><br/>" kaldırımların üstünde ne güzel bağırılır ve şarkı söylenir; kaldırımların üstünde ne güzel yıldızlara bakılır; arkadaşlarla ne coşkun kahkahalar fırlatılır ve yalnızken ve ağır ağır yürürken, için için ne güzel ağlanır! "<br/><br/>(bkz: <a class="b" href="/?q=peyami+safa">peyami safa</a>) (bkz: <a class="b" href="/?q=bir+teredd%c3%bcd%c3%bcn+roman%c4%b1">bir tereddüdün romanı</a>)
+  entry_channels: sanat,tarih,edebiyat,spoiler
 - entry_name: |
     ekşi itiraf
   entry_id:  86227643
@@ -299,37 +307,29 @@ data:
     babam, rafineri emeklisi. evimizde kullandığımız her şey rafineriye ait. havlu, ajanda, takvim, duvar saati, kalem vb... haliyle, çocukluğumu, ergenliğimi doya doya yaşayamamamın sebebi o rafineridir!!! arkadaş; ergensin, fücudunu incelemek istiyosun. duştan çıkıp gelişmekte olan yerlerine bakacaksın. ama o da ne, bir saniye bile seksi olamıyorsun, çünkü baş ve vücut havlunda tüpraş yazıyor.<br/><br/>günlük tutacaksın, elinin altında olan tek şey, tüpraş defteri. o defterin ilk sayfalarında, tüpraşın ne zaman kurulduğu, devletimize katkıları anlatılırken sen "tnetennba kalp anakin skywalker" ya da "tnetennba kalp castin" veya "günlüğümü okumayın" yazıyorsun. batman rafinerisinin altına, günlüğünü okumaman gerektiğini yazsan ne kazanırsın? senin mikro dünyandaki problemleri kim sker tnetennba? rafineri, binlerce kişiye istihdam sağlarken senin derdin, günlüğünün okunması mı? yazık.<br/><br/>chris evans'ın baklavalı malum posterini asıyosun, yanda tüpraş amblemli duvar saati parlıyor. odaklanamıyorsun. <br/><br/>diyorsun ki, baba, ben senin çalıştığın yeri görmek istiyorum. bana işini anlat, ne yaptığını bileyim. adam seni, aliağa'lara kadar götürüp kantara oturtuyor ve "kızım kaç kilo çekiyor ahı ahı" deyu badi şeymink yapıyor.<br/><br/>beni bitirdiniz be.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    sinemada seyredilen ilk film
-  entry_id:  86234454
-  entry_writer: darkirondwarf
+    fernando muslera
+  entry_id:  86235974
+  entry_writer: the man from swansea
   entry_fav_count: 5
   entry_content: |
-    aslan kral/1994
-  entry_channels: anket,sinema
-- entry_name: |
-    bitcoin
-  entry_id:  86216732
-  entry_writer: gunes tanrisinin karga hali
-  entry_fav_count: 4
-  entry_content: |
-    yazarların anlamadan eleştirdikleri kripto para. bitcoin ile ödeme almak paypal'dan almaktan daha kolay. içinizde bulunmadığınız bir topluluğu dışarıdan yürüttüğünüz tahminlerle eleştirmeniz içler acısı.
-  entry_channels: teknoloji,ekonomi
+    bu gol icin muslera'ya kizan maldir. hicbir kaleci bu adam buradan vurur demez. cizgide bekleyen, ileri cikmayan kaleci ariyorsaniz, sizi 80'lere alalim gencler. muslera gerekli hamleyi de yapti. ama iste top igne deliginden gecti. 1000 kere daha ayni sutu cek desen, o top oraya gitmez.
+  entry_channels: spor
 - entry_name: |
     babanın söylediği unutulmayan sözler
   entry_id:  86234654
   entry_writer: sinuhe
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     (bkz: <a class="b" href="/?q=yok">yok</a>)<br/><br/>35 yaşımdayım ben. bir gün olsun dahi görmedim kendisini. ne onun benimle, ne de benim onunla görüşme niyetim olmadı. geçen hafta, 29 ocak’ta atina’da öyle boş boş gezerken telefonum çaldı. uzak bir akrabam verdi haberi. “babanı kaybettik” dedi. hayatımda hiç ne hissetmem gerektiğini düşündüğüm bir anım olmamıştı. yaprakları dökülmüş bir ağacın altında yer alan hafif nemli bir banka attım kendimi. 2 saat falan öyle boş boş oturmuşum. sonunda hiçbir şey hissedeneden kalktım. sözün özü gencolar, bir babanız varsa, sizinle ilgileniyor ve seviyorsa sizi, ağzından çıkan her söze unutulmaz anılar olarak odaklanın. herkes o şansa sahip olamayabiliyor.
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    büyük meme seven insanların ortak özellikleri
-  entry_id:  86235516
-  entry_writer: kalbini sokup okyanusa atan adam
+    iznik'te 2200 yıllık lahde spreyle yazılanlar
+  entry_id:  86224973
+  entry_writer: sunjack
   entry_fav_count: 3
   entry_content: |
-    zeki, yakışıklı, kültürlü, esprili, tutkulu sevişen, kadın ruhundan anlayan erkekler olmaları:)<br/><br/>bak mesela küçük meme seven erkeklere hepsi fos. <br/><br/>geçmişe baktığımızda büyük sanatçıların, devlet adamlarının, bilim adamlarının, tarihe yön veren kişilerin arkasında hep büyük memeli kadınlar olduğunu görürsünüz. niye? çünkü büyük meme ilham verir, büyük meme tutkudur, büyük meme aşktır:)<br/><br/>tanrı iri ve diri memeli kızlarımızın tuttuğunu altın etsin. amen. <br/><br/>not: lütfen yeaa ben de iri memeliyim diye mesaj atmayın. ben güzel bir yüzle kombine fit vücuttaki iri memeli kadınlardan bahsediyorum.
-  entry_channels: anket,ilişkiler
+    arapça yazılar (gel de arap ve göçmen düşmanı olma)<br/>sedef, coşkun, bombacı, gamzem, liman vb. (bunlar da o arapların arkadaşı olsa gerek)<br/><br/>1. eğitim şart <br/>2. kültür bakanlığı tarihi eserleri neden koruyamaz? <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/turkiye/2200-yillik-lahde-sprey-boyayla-yazi-yazdilar,GM4UsLTp40adRzsLvUL8pg?_ref=infinite" title="https://www.ntv.com.tr/turkiye/2200-yillik-lahde-sprey-boyayla-yazi-yazdilar,GM4UsLTp40adRzsLvUL8pg?_ref=infinite">https://www.ntv.com.tr/…0adrzslvul8pg?_ref=infinite</a>
+  entry_channels: tarih,haber
 - entry_name: |
     sözlükteki kova burcu yazarlar
   entry_id:  86212566
@@ -339,14 +339,6 @@ data:
     zeki oluyormuşuz biz. bir not okumaya başlasam 2 sayfa öncesi aklımda kalmıyor diyorum kovasın sen zekanın farkında değilsin diyorlar. osursam zeka kokuyor diyecekler.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    fernando muslera
-  entry_id:  86235974
-  entry_writer: the man from swansea
-  entry_fav_count: 2
-  entry_content: |
-    bu gol icin muslera'ya kizan maldir. hicbir kaleci bu adam buradan vurur demez. cizgide bekleyen, ileri cikmayan kaleci ariyorsaniz, sizi 80'lere alalim gencler. muslera gerekli hamleyi de yapti. ama iste top igne deliginden gecti. 1000 kere daha ayni sutu cek desen, o top oraya gitmez.
-  entry_channels: spor
-- entry_name: |
     yozgat'taki en iyi gece kulübü
   entry_id:  86210630
   entry_writer: nightauditor
@@ -355,45 +347,53 @@ data:
     (bkz: <a class="b" href="/?q=yozgotham">yozgotham</a>)
   entry_channels: anket,müzik,yeme-içme
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  86220064
-  entry_writer: dreamfactory
-  entry_fav_count: 1
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/ECcxMNziV1E" title="http://youtu.be/ECcxMNziV1E">roderic - no name</a>
-  entry_channels: anket,sanat,müzik
-- entry_name: |
     kadınların uzun boylu erkek takıntısı
-  entry_id:  86235026
-  entry_writer: kuvorti
+  entry_id:  86235975
+  entry_writer: offff of
   entry_fav_count: 1
   entry_content: |
-    bi araştırma şirketi bir hafta çalışsa sözlükteki bu gerizekalı kitlenin tüm fiziksel özelliklerinin dökümünü çıkarabilir herhalde.
+    takıntı değil, ihtiyaçtır.<br/><br/>insan yürürken sevdiceğinin kanatları altına sığınmak, başını omuzuna yaslamak, sarıldığında burnunu boynuna dayayıp, mis gibi kokusunu içine çekmek isteyebiliyor.<br/>yoksa sırık meraklısı değiliz, fasulye de yetiştirmeyeceğiz.
   entry_channels: ilişkiler
 - entry_name: |
+    büyük meme seven insanların ortak özellikleri
+  entry_id:  86235731
+  entry_writer: tekmeyekafauzatan
+  entry_fav_count: 1
+  entry_content: |
+    erkek olmalari :)
+  entry_channels: anket,ilişkiler
+- entry_name: |
     younes belhanda
-  entry_id:  86235795
-  entry_writer: lastmile
+  entry_id:  86236735
+  entry_writer: iyi olmak yetmiyor
   entry_fav_count: 0
   entry_content: |
-    son görevini yap orhan!
+    yine asistin asistini yapmıştı ki feghouli topu kaleye vurunca asist yapmış oldu. kontra yedirmekte başka bir şey yapmıyor. sürekli top kaybediyor ve gelen her top pozisyon oluyor.
   entry_channels: spor,haber
 - entry_name: |
-    migros
-  entry_id:  86234608
-  entry_writer: zirvelerin ozgurlugu
+    şu anda çalan şarkı
+  entry_id:  86234723
+  entry_writer: zaman sokaklarda kayboluyordu
   entry_fav_count: 0
   entry_content: |
-    son bir yıldır dikkat ediyorum, artık migros eski migros değil.<br/>mücadeleci, rekabetçi oyun yapısı ile discount marketleri queen elizabet'in güvertesinden top ateşine tutuyor.<br/>takımın yakışıklı, hırçın forvet oyuncusu gibi atak oyuna döndü, eski pısırık, içe kapanık hallerine son verdi.<br/><br/>benim müşteri kitlem belli, diğerleri benim umrumda olmaz, isteyen gelsin alsın devri kapandı. <br/><br/>türkiye'de market savaşları yaklaşmakta değil başlamış bile.<br/><br/>rekabet eden, en ucuz fiyatı, en iyi hizmeti veren ayakta kalacak, demek ki durum ciddi.<br/><br/>sadece migros değil, carrefour'da sağlam asılıyor, öyle indirim ve kampanyalar gerçekleştiriyorlar ki akılllara zarar. <br/><br/>bir çikolata alana ikincisi bedava mı dersin, üç parfüm al ikisini öde mi dersin.
-  entry_channels: yeme-içme,ekonomi
+    <a class="b" href="/?q=ula">ula</a>'nın rengarenk boyalı eski evlerine, tüm kırık dökük bisikletlerine, on yıl kadar önce bir kedinin ezilmesini engellemek uğruna geçirdiği ağır trafik kazasından sonra hayata tutunan ama geçen yıl bu günlerde ani bir kalp kriziyle aramızdan ayrılan <a class="b" href="/?q=dondurmam+gaymak">dondurmam gaymak</a>'ın başrol oyuncusu <a class="b" href="/?q=turan+%c3%b6zdemir">turan özdemir</a>'in kederli anısına..<br/><br/>''denizin ortasında<br/>mum yanar sofrasında<br/>benim de bu dünyadan gidişim<br/>memleket sevdasından'' <br/><br/><a class="b" href="/?q=deniz+%c3%bcst%c3%bc+k%c3%b6p%c3%bcr%c3%bc">deniz üstü köpürü</a> - <a class="b" href="/?q=tolga+%c3%a7andar">tolga çandar</a>.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=RQnpI1Cjidw">https://www.youtube.com/watch?v=rqnpi1cjidw</a>
+  entry_channels: anket,sanat,müzik
 - entry_name: |
-    iznik'te 2200 yıllık lahde spreyle yazılanlar
-  entry_id:  86235512
-  entry_writer: devecialpay
+    sinemada seyredilen ilk film
+  entry_id:  86234972
+  entry_writer: adaxir
   entry_fav_count: 0
   entry_content: |
-    2200 bin yıllık lahde sanki yıkılan evin betonu gibi muamele eden devletin suçudur. elin çomarı nerden bilsin lahit olduğunu kimbilir kaç kişi dibinde işemiştir haberimiz yok.
-  entry_channels: tarih,haber
+    (bkz: <a class="b" href="/?q=vizontele+tuba">vizontele tuba</a>)
+  entry_channels: anket,sinema
+- entry_name: |
+    bira içmelik arkadaş veritabanı
+  entry_id:  86225174
+  entry_writer: serserimsi
+  entry_fav_count: 0
+  entry_content: |
+    ankara. rock müzik sevenler nerede?
+  entry_channels: anket,ilişkiler,yeme-içme
 - entry_name: |
     bekarete önem veren erkekler artsa olcaklar
   entry_id:  86234950
