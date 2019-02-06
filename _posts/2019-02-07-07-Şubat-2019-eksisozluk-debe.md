@@ -6,7 +6,7 @@ data:
     sabah namazı için otobüsün durmasını isteyen yolcu
   entry_id:  86365147
   entry_writer: buralarda11
-  entry_fav_count: 541
+  entry_fav_count: 542
   entry_content: |
     ofiste sabah sabah poğaçamı kemirirken, yüzümde tatlı bir tebessüm oluşturan batman özlem adlı otobüs firmasının muavin ve şoförlerini alkışlıyorum. ülkemizde daha çok görmek istediğimiz güzel hareketler bunlar.
   entry_channels: haber,seyahat
@@ -14,7 +14,7 @@ data:
     6 şubat 2019 maltepe'de bina çökmesi
   entry_id:  86377714
   entry_writer: hiphopotam
-  entry_fav_count: 455
+  entry_fav_count: 457
   entry_content: |
     dışarıdaki cahil bok böceklerini birinin uyarması lazım, oraya toplanıp sohbet ediyor oluşları yıkıntı altında ses vermeye çalışan bir insan varsa bunun duyulmasını engelleyecektir. <br/><br/>ama bizim insan temaşa gördümü çok sever toplanmayı... kafasına sıçtığımın öküzleri.
   entry_channels: haber
@@ -22,7 +22,7 @@ data:
     günahlar sıralı listesi
   entry_id:  86368278
   entry_writer: bilader
-  entry_fav_count: 411
+  entry_fav_count: 419
   entry_content: |
     reise oy vermemek de günah diye biliyorum ben.
   entry_channels: anket,eğitim
@@ -30,31 +30,31 @@ data:
     melekler girmez deyip başı açık hemşire dövmek
   entry_id:  86379737
   entry_writer: babydonthurtme
-  entry_fav_count: 349
+  entry_fav_count: 364
   entry_content: |
     bolca cahil içeren haber. <br/>okuyunca aklıma afrika'daki o dünyadan bir haber kabileler geldi. ayrıca insan demez mi madem zemzem ile tedavi edecekseniz niye hastayı hastaneye getiriyorsunuz amk.
   entry_channels: sağlık,haber
 - entry_name: |
+    vajinam çok dardır diye övünen hanım
+  entry_id:  86384799
+  entry_writer: teryxx
+  entry_fav_count: 363
+  entry_content: |
+    site yönetimi artık bu gibi pislik insanların açtığı seviyesiz başlıklara bir son vermeli. en azından bir onay süzgecinden geçmeli başlıklar. şu yazılanlara bakın ya, en ufak bir utanma yok. ne cins sapıksınız siz ya? evde annenizle, kız kardeşlerinizle bunları mı konuşuyorsunuz?
+  entry_channels: ilişkiler,sağlık
+- entry_name: |
     nilhan osmanoğlu'nun ismet inönü'ye hırsız demesi
   entry_id:  86371008
   entry_writer: discodisco
-  entry_fav_count: 318
+  entry_fav_count: 320
   entry_content: |
     ne idiği belirsiz, memlekete hiçbir faydası olmayan bu ve bunların saçmalarına izin veren herkesin aslında ismet inönü yerine demek istedikleri "atatürk" tür. bunlar gibi saçma insanların ki malum kişiye kadar hepsi, inönü kelimelerinin yerine direk atatürk'ü koyarak dinleyiniz. konunun ne olduğu daha kolay ortaya çıkacaktır. atatürk'e direk hakaret eden maraş dondurmacılarıyla aynı kafadadırlar aslında. sadece suç olduğunu bildikleri için inönü demek zorunda kalırlar.
   entry_channels: siyaset,tarih,haber
 - entry_name: |
-    vajinam çok dardır diye övünen hanım
-  entry_id:  86384799
-  entry_writer: teryxx
-  entry_fav_count: 272
-  entry_content: |
-    site yönetimi artık bu gibi pislik insanların açtığı seviyesiz başlıklara bir son vermeli. en azından bir onay süzgecinden geçmeli başlıklar. şu yazılanlara bakın ya, en ufak bir utanma yok. ne cins sapıksınız siz ya? evde annenizle, kız kardeşlerinizle bunları mı konuşuyorsunuz?
-  entry_channels: anket,ilişkiler,sağlık
-- entry_name: |
     bekaretimi kocama saklıyorum felsefesi
   entry_id:  86381147
   entry_writer: yeterama
-  entry_fav_count: 260
+  entry_fav_count: 277
   entry_content: |
     niye çağ dışı buluyorsun be <a class="b" href="/?q=dalyarak">dalyarak</a> ?<br/><br/>insanın kendi tercihi. ister ömür boyu kendini saklar ister her gün 10 erkekle birlikte olur. aynı şey bir erkek içinde geçerli. demek ki bir erkekle ilişki yaşamanın heyecanını tatmak istemiyor, aklında kendince fikirleri var. başkasının özel durumları hakkında yorum yapmanın, fikir vermenin kafası niye?<br/><br/>şuradan iki kız düşüreceğim diye maymun gibi kırk takla atıyorsunuz. bir de sonuna tercihine saygı duyuyormuş gibi yalandan seçim sizin yazmış.
   entry_channels: anket,ilişkiler,sağlık
@@ -62,15 +62,23 @@ data:
     30 yaşından sonra hayatın bittiği gerçeği
   entry_id:  86375223
   entry_writer: aydaronas
-  entry_fav_count: 202
+  entry_fav_count: 208
   entry_content: |
     hayat bitmez sadece zevk alınan şeyler değişir.<br/><br/>eski zevklerde ısrar edenler maalesef istedikleri tatmini sağlayamazlar, sonra buraya gelip böyle başlık açarlar.
   entry_channels: anket,sağlık
 - entry_name: |
+    youtuber olabileceği düşünülen tarihten insanlar
+  entry_id:  86385100
+  entry_writer: adi bogdan olmayan kisi
+  entry_fav_count: 205
+  entry_content: |
+    benim favorim evliya celebi'dir. kendisi oldukca iyi bir travel blogger oldugu icin vloglari da oldukca keyifli olurdu diye dusunuyorum. <br/><br/>(bkz: <a class="b" href="/?q=10+akcelik+k%c3%b6le+vs+100+akcelik+k%c3%b6le">10 akcelik köle vs 100 akcelik köle</a>)<br/><br/>format elestirilerine edit: sol frame'de gordugunuz seks, meme gibi iceriklere entry giriniz.
+  entry_channels: anket,tarih
+- entry_name: |
     artık trafikte geçiş üstünlüğü yayalarda
   entry_id:  86369217
   entry_writer: jilsandersun
-  entry_fav_count: 190
+  entry_fav_count: 191
   entry_content: |
     (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>)<br/><br/>ne alaka şimdi diyen olacaktır. hiç.. bişi aklıma geldi de birden.<sup class="ab"><a title="(bkz: anladın sen)" href="/?q=anlad%c4%b1n+sen" data-query="anladın sen">*</a></sup>
   entry_channels: haber,eğitim
@@ -78,7 +86,7 @@ data:
     çiğ köfteci ali usta'nın mahkemelik olması
   entry_id:  86377946
   entry_writer: hammell
-  entry_fav_count: 189
+  entry_fav_count: 190
   entry_content: |
     müzik yaparken bir anda saldırıya uğramışlarmış. kışkırtma diye başlık at, sonra bir anda saldırıya uğradık de.<br/><br/>tokadı yedikten sonra sırıtan çocuk şimdi de çıkmış insan içine çıkacak halimiz kalmadı diyor. <br/><br/>insanda azıcık utanma olur amk. rezil herifler.
   entry_channels: magazin
@@ -86,55 +94,39 @@ data:
     şule çet cinayeti
   entry_id:  86357888
   entry_writer: sazanus
-  entry_fav_count: 180
+  entry_fav_count: 184
   entry_content: |
     "iciyorsa cinsel iliskiye razı göstermis" diye rapor veren uzmanın olduğu dava. <br/><br/>kız öldü.
   entry_channels: haber
 - entry_name: |
-    youtuber olabileceği düşünülen tarihten insanlar
-  entry_id:  86385100
-  entry_writer: adi bogdan olmayan kisi
-  entry_fav_count: 170
-  entry_content: |
-    benim favorim evliya celebi'dir. kendisi oldukca iyi bir travel blogger oldugu icin vloglari da oldukca keyifli olurdu diye dusunuyorum. <br/><br/>(bkz: <a class="b" href="/?q=10+akcelik+k%c3%b6le+vs+100+akcelik+k%c3%b6le">10 akcelik köle vs 100 akcelik köle</a>)<br/><br/>format elestirilerine edit: sol frame'de gordugunuz seks, meme gibi iceriklere entry giriniz.
-  entry_channels: anket,tarih
-- entry_name: |
-    karı kız düşürmek için vücut geliştiren erkekler
-  entry_id:  86372746
-  entry_writer: i n c i
-  entry_fav_count: 155
-  entry_content: |
-    tavus kuşunun erkeğinin karşı cinsi etkilemek için geliştirdiği mekanizmaya bakın ve biraz anlamaya çalışın. üremek için bu yapılanlar son derece doğaldır. tutup da "kadın için vücut geliştiren şöyledir böyledir" yazan herkes katıksız bir cahildir. <br/>ulan meyveler bile çoğalmak için renklenmişler, kendilerine güzel lezzetler geliştirmişler ki canlılar onları yesin sonra kaka yaptıkları yerde çekirdekleri çıksın ve yeni meyveler sebeler türesin. hatta acı biberin acısı bile memeliler onları yemesin çünkü çekirdek kakayla çıkarken zarar görüyor diye ortaya çıkmıştır. acı biberin acısı kuşlara acı gelmemektedir çünkü kuşların sindirimi biber çekirdeklerine zarar vermediği için onlara karşı böyle bir mekanizma gelişmemiştir. <br/><br/>uzattım ama karşı cinsi etkilemek için yapılan her şey son derece akla uygun ve meşrudur. devam edin, seçilin, sağlıklı genlerinizi yeni nesillere aktarın.<br/><br/>edit : vücut geliştirme derken kast ettiğim fit, düşük yağ oranlı, doğal sınırlar içerisinde güçlenip kaslanmış bir vücut.
-  entry_channels: anket,ilişkiler,sağlık
-- entry_name: |
     cumhurbaşkanlığı spor kulübü
   entry_id:  86371654
   entry_writer: falconvirtue
-  entry_fav_count: 155
+  entry_fav_count: 156
   entry_content: |
     bir an (bkz: <a class="b" href="/?q=ba%c5%9fak%c5%9fehir+futbol+kul%c3%bcb%c3%bc">başakşehir futbol kulübü</a>) sandım bu farklıymış. iki takım ilk ikiye oynar birkaç yıla.
   entry_channels: spor,siyaset,haber
 - entry_name: |
+    6 şubat 2019 sp reklamının yasaklanması
+  entry_id:  86382077
+  entry_writer: denizci14
+  entry_fav_count: 156
+  entry_content: |
+    6 şubat 2019 sadet partisinin hazırlattığı reklamın yasaklanmasıdır.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>temel karamollaoğlu<br/><br/>filmdi, gerçek oldu! organize bir şekilde yapılan baskılar sonucunda “sülün osman” reklamımız yayından kaldırıldı. takdir, milletimizindir!<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/T_Karamollaoglu/status/1093107836568174594" title="https://twitter.com/T_Karamollaoglu/status/1093107836568174594">ilgili link ve video için</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>galata köprüsüne adım atan herkesten geçiş ücreti aldı. tabii o zamanlar köprüden geçmeyenler para ödemek zorunda değildi.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: siyaset,haber
+- entry_name: |
     rus kızları gözünden türk kızları
   entry_id:  86362498
   entry_writer: istheisare
-  entry_fav_count: 143
+  entry_fav_count: 145
   entry_content: |
     yanlış mi gordum yoksa dünyada rukuslugu,abarti anlayisi, high maintenance liklariyle bilinen rus kadınları, "turkler çok fazla leopar giyiyor" mu dedi ?
   entry_channels: ilişkiler,magazin
 - entry_name: |
-    daha fazla teknolojik gelişmeye ihtiyaç kalmaması
-  entry_id:  86377288
-  entry_writer: mtgs
-  entry_fav_count: 138
-  entry_content: |
-    artık yeni hiçbir şey yok . icat edilebilecek her şey icat edildi.<br/><br/>charles duell - amerika patent dairesi başkanı, 1899
-  entry_channels: teknoloji
-- entry_name: |
     öğrenim kredisi borçları silinirse oyum akp'nin
   entry_id:  86384717
   entry_writer: endlos
-  entry_fav_count: 133
+  entry_fav_count: 142
   entry_content: |
     (bkz: <a class="b" href="/?q=sat%c4%b1l%c4%b1k+oy+15000+lira">satılık oy 15000 lira</a>)<br/><br/>tanım: bir karaktersizlik olayı. <br/><br/>nice 15000 liraları kurtarmak için, <br/><br/>şaka lan şaka. 15k iyi para. kazanabilecek bir tipe benzemiyorsun bu parayı.<br/><br/>edit: ya başlık başa, ya kuzgun leşe.
   entry_channels: siyaset,eğitim,ekonomi
@@ -150,7 +142,7 @@ data:
     tff'nin fatih terim'e başsağlığı mesajı
   entry_id:  86371730
   entry_writer: kerem88gs
-  entry_fav_count: 95
+  entry_fav_count: 96
   entry_content: |
     o zaman demirören öldüğü zaman, bizde galatasaray.org'dan ''federasyonda tüp patladı'' diye yayınlarız başsağlığı mesajını.
   entry_channels: spor,haber
@@ -158,10 +150,18 @@ data:
     travesti ile yatan eşcinsel olur mu
   entry_id:  86381301
   entry_writer: hepiniziaylavyu
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     olur. <br/><br/>aktif ya da pasif durumda olması durumu değiştirmez.<br/><br/>tanım: cevabı evet olan soru
   entry_channels: anket,ilişkiler
+- entry_name: |
+    türkiye'nin artık bölünmesi gerektiği
+  entry_id:  86360852
+  entry_writer: jedilost
+  entry_fav_count: 56
+  entry_content: |
+    başlığı açan yazarın cahil cesareti karşısında bir an afallayıp "ben mi yanlış biliyorum?" diye internetten kontrol etmek zorunda kaldım. öncelikle, fransa'da eyalet sistemi yoktur. üniter devlettir.<br/><br/>yazarın örnek verdiği diğer iki ülke ise, önce kurulup sonra eyalet sistemine geçmemiştir. bağımsız ülkeler birleşerek söz konusu devletleri meydana getirmiştir. ve hiçbir örnekte, eyalet arasında yapısal anlamda büyük zıtlıklar yoktur. örneğin abd'nin hiçbir eyaletinde resmi dil ispanyolca değildir. <br/><br/>konya'daki öğrenci medrese eğitimi almak istiyorsa medrese eğitini alsın, izmir'deki evrim teorisini görmek istiyorsa evrim teorisini görsün, hadi oraya kadar eyvallah diyelim, peki konya'daki öğrenci evrim teorisini öğrenmek, izmir'deki de medreseye gitmek isterse ne olacak?<br/><br/>benzer şekilde, başlığı açan yazar herkesin kendi oturduğu bölgenin kültürel özelliklerine göre eğitim almasını özgürlük diye yutturmaya çalışırken, eğitimin asıl amacının kişinin birey olarak kendini fark etmesi, toplumun yarattığı baskıyı kırıp kendi özgür iradesiyle hareket edebilmesi olduğunu tamamen es geçiyor. hayatı boyunca yaşadığı çevrenin kültürel özelliklerinin dayattığından başka bir şey görmeyen bir insan nasıl bağımsız bir birey olacak? <br/><br/>bağımsızlığı geçtim, adamın içinde yaşadığı kültürel çevre ilkokul ikiden sonrasını gereksiz görüyorsa, bakkala gittiğinde on liradan fazla tutan para üstünü nasıl alacak?<br/><br/>ayrıca, yazarın medreseden kastettiği tam olarak nedir çok emin değilim ama türkiye'nin bugünkü siyasi ortamında medreseleri aratmayacak dini eğitim veren okul bolluğu varken asıl sorun medrese bulmak değil, evrim teorisini öğreten okul bulmaktır. bunun cevabı da eyaletlere bölünmekten geçmez.
+  entry_channels: siyaset
 - entry_name: |
     yarın öleceğini bilenlerin yapacağı hareketler
   entry_id:  86382776
@@ -179,6 +179,14 @@ data:
     aynı daireye kayıtlı 100 kişinin, 4 katlı binanın 5. katındaki seçmenlerin hesabını veremeyenlerin ekşi sözlükte linç ettiği memurdur.<br/><br/>hem de sabah gazetesinin haberiyle.<br/><br/>ahahahahsgshsg.<br/><br/>edit: bahsettiğim ikamet nakli değil hayalet seçmen.
   entry_channels: siyaset,haber
 - entry_name: |
+    6 şubat 2019 ekşi sözlük ayaklanması
+  entry_id:  86389010
+  entry_writer: magule180
+  entry_fav_count: 51
+  entry_content: |
+    son edit: girilen ilk 2 sayfadaki entrylere bakınca anladım ki zaten buranın vakit kaybı olduğunu anlayanlar çoktan gitmiş. o yüzden bu başlık gereksizdir. dikkate almayın ve daha fazla yazmayın. <br/><br/>ayrıca favori, takipçi kasmaya mı çalışıyorsun diyen zeki arkadaşlar bırakıyorum diyen birisi neden bunları yapmaya amaçlasın diye 2sn düşünürseniz, mantık hatanızı fark edeceksiniz.<br/><br/>.<br/>üst edit: salakca saka, laf sokma vb yapacak yazar arkadaslara simdiden onemli degil diyorum. cunku bu arkadaslarin belki de cogunun hayatindaki en buyuk basarisi burada yazar olabilmekti.. o yuzden eglenin, biraz favori falan alip mutlu olun.<br/><br/>üst edit2: içeriği okumadan, başlığı okuyup gelen arkadaşlar eğer günlük okuma sürenizi 2 katına çıkartıp bu entry nin tamamını okursanız buradaki olayın kişisel bir sitem olmadığını, sizin haklarınızın yendiğini anlayacaksınız.<br/><br/>@viva forza bir kac gun once sozlugun kalitesindeki dususu bahse getirdigi icin lanetlendi ve 3 ay boyunca caylak yapildi. ancak viva forza nin son entry sinde bahsettigi basliklari acan hic bir yazara ceza verilmedi. bu olay artik eksi sozluk yonetiminin, sozluk icerisindeki -kalitesizde olsa- trafigin<sup class="ab"><a title="(bkz: yani reklamin)" href="/?q=yani+reklamin" data-query="yani reklamin">*</a></sup><sup class="ab"><a title="(bkz: yani paranin)" href="/?q=yani+paranin" data-query="yani paranin">*</a></sup> bizim kendimizi ozgurce ifade etme hakkimizdan daha cok deger verdigini gosteriyor.<br/><br/>cok uzun suredir bilgi iceren basliklara onem verilmemesinin yani sira basimiza birde sapik basliklar cikti. sozde kutsal bilgi kaynagi ise bunlar icin hicbir onlem almiyor. kullaniciniz cok diye bir sey olmaz umursamayalim diyorsunuz ama uzun sürmez bu. herkes sikayetler yagdiriyor bir tane donus yok. <br/><br/>buyrun eserinize bakin:<br/>(bkz: <a class="b" href="/?q=vajinadan+%c3%a7%c4%b1k%c4%b1nca+gelen+y%c3%bcze+bo%c5%9falma+iste%c4%9fi">vajinadan çıkınca gelen yüze boşalma isteği</a>)<br/>(bkz: <a class="b" href="/?q=vajinam+%c3%a7ok+dard%c4%b1r+diye+%c3%b6v%c3%bcnen+han%c4%b1m">vajinam çok dardır diye övünen hanım</a>)<br/>(bkz: <a class="b" href="/?q=o%c4%9flunun+cenazesinde+dalin+ile+du%c5%9f+alan+baba">oğlunun cenazesinde dalin ile duş alan baba</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcz%c3%bcne+bo%c5%9faltt%c4%b1rmayan+bayan+iticili%c4%9fi">yüzüne boşalttırmayan bayan iticiliği</a>)<br/>(bkz: <a class="b" href="/?q=eskort+fiyatlar%c4%b1ndaki+inan%c4%b1lmaz+art%c4%b1%c5%9f">eskort fiyatlarındaki inanılmaz artış</a>)<br/>(bkz: <a class="b" href="/?q=sevi%c5%9ftikten+sonra+yap%c4%b1lanlar">seviştikten sonra yapılanlar</a>)<br/>(bkz: <a class="b" href="/?q=eskortluk+ge%c3%a7mi%c5%9fi+olan+bir+kad%c4%b1nla+evlenmek">eskortluk geçmişi olan bir kadınla evlenmek</a>)<br/>(bkz: <a class="b" href="/?q=kad%c4%b1nlar%c4%b1n+en+ba%c5%9ftan+%c3%a7%c4%b1kar%c4%b1c%c4%b1+hareketleri">kadınların en baştan çıkarıcı hareketleri</a>)<br/><br/>artik sozluk benim icin ve fark etmeseniz de bir cogunuz icin, zaman kaybindan baska bir sey degil.<br/><br/>bu entry m den sonrada buyuk ihtimalle lanetlendigimi goreceksiniz. cunku protesto yapmak yasak ama yukardaki gibi basliklar acmakta sorun yok...<br/><br/>iyi aksamlar.
+  entry_channels: ekşi-sözlük
+- entry_name: |
     kahveyi sade içen erkek
   entry_id:  86380752
   entry_writer: twister89
@@ -187,29 +195,29 @@ data:
     tanım: neden sade kahve içtiğini açıklama gereği duyan yazar beyanı.
   entry_channels: ilişkiler,yeme-içme
 - entry_name: |
-    ekrem imamoğlu'nun sokakta hdp'yi savunması
-  entry_id:  86385491
-  entry_writer: adroikli
-  entry_fav_count: 35
-  entry_content: |
-    bu hdp yi savunmak değil seçmeni olan ülke insanlarını savunmaktır. a haber sitesi gibi haber başlığı atmak haksızlık olur diye düşünüyorum.
-  entry_channels: siyaset
-- entry_name: |
     geceye bir dostoyevski sözü bırak
   entry_id:  86385269
   entry_writer: sikimhavasi
-  entry_fav_count: 32
+  entry_fav_count: 34
   entry_content: |
     "çekirdek yiyen insan, kendisine saygısı olmayan bir kancıktır."
   entry_channels: edebiyat
 - entry_name: |
-    belinde dövmesi olan kadınla evlenmek
-  entry_id:  86357592
-  entry_writer: blind dog
-  entry_fav_count: 26
+    çiğ köfteci ali usta
+  entry_id:  86360034
+  entry_writer: arjuna one
+  entry_fav_count: 28
   entry_content: |
-    moderator arkadasin altina yazdigim seyi cop diyerek sildigi, ama basligi acip belinde dovmesi olanlara gavat diyen andavala kiymet bictigi enfes bir kutsal bilgi bu.<br/><br/>kutsal bilgiye bak, tanima bak : " belinde dovmesi olan kadinla evlenmek gavatliktir"
-  entry_channels: anket,ilişkiler,moda
+    sirkecide kendisinin bulunduğu yerin hemen yanındaki altın han'da çalışıyorum. ilk açılıp meşhur olduğunda çok sevinmiştim bol bol çiğ köfte yerim diye çünkü gerçekten severim. ama bir kere aldım kendisinden bir dürüm ve yiyemedim, attım çöpe. o kadar berbat. yolunu sorana bile yemeyin berbat diyorum ama her cumartesi 50 metre kuyruk oluyor önünde. hiç bir anlam veremiyorum insanlardaki bu damak tadı anlayışına. sırf meşhur diye tadı da güzel zannediyorlar heralde.
+  entry_channels: yeme-içme
+- entry_name: |
+    sevgilisini yakın dostuna emanet eden erkek
+  entry_id:  86388139
+  entry_writer: swordsman was here
+  entry_fav_count: 27
+  entry_content: |
+    doksanlı yıllarda başıma gelen <a class="b" href="/?q=hede">hede</a>dir.<br/><br/><a class="b" href="/?q=hatun">hatun</a> bildiğin yollu idi , üzerine de bana kesikti ve ben bunu biliyordum. dahası yazmayı bırak direkt üzerime yürüdü. anlamazlığa vurup geçtim. arada dayanamayıp tuvalete gidip mastır yapmışlığım da oldu ama 4 gün içerisinde hiç bir şey olmadı. (en ufak yakınlaşma dahil) <br/>bir süre sonra ayrıldılar zaten, olayı bilen ortak iki arkadaşım bana <a class="b" href="/?q=keriz">keriz</a> bile dedi. eleman da hafiften salaktı zaten onunla da artık görüşmüyoruz uzun zamandır.<br/>ama gene de (bkz: <a class="b" href="/?q=sor+bana+pi%c5%9fman+m%c4%b1y%c4%b1m">sor bana pişman mıyım</a>) <br/>pişman değilim lan ! hiç olmadım. <a class="b" href="/?q=hasbelkader">hasbelkader</a> bir şeyler olsa o zaman it gibi pişman olurdum bak.<br/>aslında mesele ne arkadaşın ne de diğer konular! mesele sensin genco ! kendine saygın var mı onu bir sor kendine ! <a class="b" href="/?q=gerisi+yalan">gerisi yalan</a> <a class="b" href="/?q=gerisi+hikaye">gerisi hikaye</a>
+  entry_channels: ilişkiler
 - entry_name: |
     6 şubat 2019 galatasaray hatayspor maçı
   entry_id:  86386033
@@ -227,22 +235,6 @@ data:
     gündemde kalması gereken bir başlık. türkiye'deki kadar suçluları koruyup kollayan, cinayetlerinin üzerinin kapatıldığı bir adalet anlayışı gerçekten zor bulunur. özellikle bu bir polis cinayetiyse gündeme bile zor taşınıyor. <br/><br/><a class="b" href="/?q=feray+%c5%9fahin">feray şahin</a>'i unutmayın, bu başlığı üstlere taşıyın. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=ferayicinadalet&amp;src=typd" title="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=ferayicinadalet&amp;src=typd">#ferayicinadalet</a><br/><br/><a class="b" href="/?q=%c5%9fule+%c3%a7et">şule çet</a> için <a class="b" href="/?q=adalet">adalet</a>, <a class="b" href="/?q=feray+%c5%9fahin">feray şahin</a> için <a class="b" href="/?q=adalet">adalet</a>!
   entry_channels: haber
 - entry_name: |
-    sevgilisini yakın dostuna emanet eden erkek
-  entry_id:  86388139
-  entry_writer: swordsman was here
-  entry_fav_count: 25
-  entry_content: |
-    doksanlı yıllarda başıma gelen <a class="b" href="/?q=hede">hede</a>dir.<br/><br/><a class="b" href="/?q=hatun">hatun</a> bildiğin yollu idi , üzerine de bana kesikti ve ben bunu biliyordum. dahası yazmayı bırak direkt üzerime yürüdü. anlamazlığa vurup geçtim. arada dayanamayıp tuvalete gidip mastır yapmışlığım da oldu ama 4 gün içerisinde hiç bir şey olmadı. (en ufak yakınlaşma dahil) <br/>bir süre sonra ayrıldılar zaten, olayı bilen ortak iki arkadaşım bana <a class="b" href="/?q=keriz">keriz</a> bile dedi. eleman da hafiften salaktı zaten onunla da artık görüşmüyoruz uzun zamandır.<br/>ama gene de (bkz: <a class="b" href="/?q=sor+bana+pi%c5%9fman+m%c4%b1y%c4%b1m">sor bana pişman mıyım</a>) <br/>pişman değilim lan ! hiç olmadım. <a class="b" href="/?q=hasbelkader">hasbelkader</a> bir şeyler olsa o zaman it gibi pişman olurdum bak.<br/>aslında mesele ne arkadaşın ne de diğer konular! mesele sensin genco ! kendine saygın var mı onu bir sor kendine ! <a class="b" href="/?q=gerisi+yalan">gerisi yalan</a> <a class="b" href="/?q=gerisi+hikaye">gerisi hikaye</a>
-  entry_channels: ilişkiler
-- entry_name: |
-    6 şubat 2019 ekşi sözlük ayaklanması
-  entry_id:  86389010
-  entry_writer: magule180
-  entry_fav_count: 25
-  entry_content: |
-    üst edit: salakca saka, laf sokma vb yapacak yazar arkadaslara simdiden onemli degil diyorum. cunku bu arkadaslarin belki de cogunun hayatindaki en buyuk basarisi burada yazar olabilmekti.. o yuzden eglenin, biraz favori falan alip mutlu olun.<br/><br/>üst edit2: içeriği okumadan, başlığı okuyup gelen arkadaşlar eğer günlük okuma sürenizi 2 katına çıkartıp bu entry nin tamamını okursanız buradaki olayın kişisel bir sitem olmadığını, sizin haklarınızın yendiğini anlayacaksınız.<br/><br/>bu tarih itibari ile artik sozlugu birakiyorum. belki artik ne kadar bos bir yer haline geldigini fark edersiniz de sizde burda artik zamaninizi kaybetmezsiniz diye bu basligi aciyorum.<br/><br/>@viva forza bir kac gun once sozlugun kalitesindeki dususu bahse getirdigi icin lanetlendi ve 3 ay boyunca caylak yapildi. ancak viva forza nin son entry sinde bahsettigi basliklari acan hic bir yazara ceza verilmedi. bu olay artik eksi sozluk yonetiminin, sozluk icerisindeki -kalitesizde olsa- trafigin<sup class="ab"><a title="(bkz: yani reklamin)" href="/?q=yani+reklamin" data-query="yani reklamin">*</a></sup><sup class="ab"><a title="(bkz: yani paranin)" href="/?q=yani+paranin" data-query="yani paranin">*</a></sup> bizim kendimizi ozgurce ifade etme hakkimizdan daha cok deger verdigini gosteriyor.<br/><br/>cok uzun suredir bilgi iceren basliklara onem verilmemesinin yani sira basimiza birde sapik basliklar cikti. sozde kutsal bilgi kaynagi ise bunlar icin hicbir onlem almiyor. kullaniciniz cok diye bir sey olmaz umursamayalim diyorsunuz ama uzun sürmez bu. herkes sikayetler yagdiriyor bir tane donus yok. <br/><br/>buyrun eserinize bakin:<br/>(bkz: <a class="b" href="/?q=vajinadan+%c3%a7%c4%b1k%c4%b1nca+gelen+y%c3%bcze+bo%c5%9falma+iste%c4%9fi">vajinadan çıkınca gelen yüze boşalma isteği</a>)<br/>(bkz: <a class="b" href="/?q=vajinam+%c3%a7ok+dard%c4%b1r+diye+%c3%b6v%c3%bcnen+han%c4%b1m">vajinam çok dardır diye övünen hanım</a>)<br/>(bkz: <a class="b" href="/?q=o%c4%9flunun+cenazesinde+dalin+ile+du%c5%9f+alan+baba">oğlunun cenazesinde dalin ile duş alan baba</a>)<br/>(bkz: <a class="b" href="/?q=y%c3%bcz%c3%bcne+bo%c5%9faltt%c4%b1rmayan+bayan+iticili%c4%9fi">yüzüne boşalttırmayan bayan iticiliği</a>)<br/>(bkz: <a class="b" href="/?q=eskort+fiyatlar%c4%b1ndaki+inan%c4%b1lmaz+art%c4%b1%c5%9f">eskort fiyatlarındaki inanılmaz artış</a>)<br/>(bkz: <a class="b" href="/?q=sevi%c5%9ftikten+sonra+yap%c4%b1lanlar">seviştikten sonra yapılanlar</a>)<br/>(bkz: <a class="b" href="/?q=eskortluk+ge%c3%a7mi%c5%9fi+olan+bir+kad%c4%b1nla+evlenmek">eskortluk geçmişi olan bir kadınla evlenmek</a>)<br/>(bkz: <a class="b" href="/?q=kad%c4%b1nlar%c4%b1n+en+ba%c5%9ftan+%c3%a7%c4%b1kar%c4%b1c%c4%b1+hareketleri">kadınların en baştan çıkarıcı hareketleri</a>)<br/><br/>artik sozluk benim icin ve fark etmeseniz de bir cogunuz icin, zaman kaybindan baska bir sey degil.<br/><br/>bu entry m den sonrada buyuk ihtimalle lanetlendigimi goreceksiniz. cunku protesto yapmak yasak ama yukardaki gibi basliklar acmakta sorun yok...<br/><br/>iyi aksamlar.
-  entry_channels: ekşi-sözlük
-- entry_name: |
     apex legends
   entry_id:  86365767
   entry_writer: friendzone lvl 9000
@@ -259,18 +251,10 @@ data:
     yedek kulubesine seri köz getirin kardeşim. <br/><br/>az sonra nargile isteyecek gibi duran forvet
   entry_channels: spor
 - entry_name: |
-    1 ak partiliyi ikna et
-  entry_id:  86361162
-  entry_writer: adebayorun hirsiz kardesi rotimi
-  entry_fav_count: 15
-  entry_content: |
-    siz kimi neye ikna ediyorsunuz? kim ikna edilir? bilmeden bir yanlışın içinde olan insan doğrusunu anlatarak ikna edilir. peki siz akp seçmeninin ne kadarının ülkede tüm bu olan biteni görmediğini, bilmediğini, sırf bilgisizlikten gidip oy verdiğini sanıyorsunuz? bu insanlar her şeyin gayet farkında bir şekilde, bile isteye oylarını bu yönde kullanıyorlar. <br/><br/>evet, bu insanlar da aynı sizler gibi ülkedeki tüm yolsuzluklardan haberdar. aynı sizler gibi ülkedeki tüm rantçılıktan, peşkeşlerden, usulsüz atamalardan, liyakatsizlikten, sınavlarda hakkı yenen insanlardan haberdar. aynı sizler gibi ülkede hukuk diye bir şey kalmadığından da haberdarlar. evet, aynı sizler gibi bu partinin çoğu mensubunun aslında islamla falan bir alakası olmadığından, dini sömürdüklerinden de haberdarlar. ülkeye surileri doldurduklarından da haberdarlar. geçmedikleri ve muhtemelen ömürleri boyunca geçmeyecekleri köprülere her gün para ödediklerinden de haberdarlar. şahsen yaşı 70'in altında olupta bunların birinden bile habersiz olan bir tek akp seçmeni ile henüz tanışmadım, konuşmadım.<br/><br/>peki tüm bunları bile bile nasıl mı oy veriyorlar? çünkü aslında farkında değilsiniz belki ama bu insanların çoğu bu çarkın zaten ya bir parçası, ya da o parçalardan biri olabilme ümidi taşıyor. bir umut sahibi olmanın nasıl güçlü bir motivasyon olduğunu da zaten az çok psikoloji ile ilgilenenler bilir. akp'nin dokunabildiği bu insanların, bu çarkın bir parçası olabilme ihtimalinin olduğu tek durum da zaten akp'nin iktidarda kalmasıdır. bu kadar vasıfsızlığın, cehaletin kutsandığı, para ettiği başka bir dönemin gelemeyeceğini en iyi kendi seçmenleri biliyor çünkü. akp'nin sarsılmaz iktidarının temel motivasyonu tamamen bu. <br/><br/>bakın bugün araştırılsa, akp'ye oy veren dar gelirli insanların çok çok büyük bir kısmı devletten az veya çok sosyal yardım alıyordur. akp'ye oy veren eğitimli kesimin büyük kısmı akp sayesinde ya köşeyi dönmüştür, ya kamuya atanmıştır, aslında hayal bile edemeyeceği mevki ve makamlara sahip olmuştur. ticaret yapıyorsa kalkındırılmıştır vs. uzar gider bu durum. akp'den hiç nemalanmamış olanlar da bir şekilde nemalanma umudu taşıyarak oy veriyor zaten. siz burada bağır çağır söylüyorsunuz ya "liyakat diye bir şey kalmadı" diye. işte bu insanlar o liyakatsizlik olgusundan adeta orgazm oluyor zaten. akp'nin başarısı tam olarak ülkede aslında bir baltaya sap olamayacak milyonlara, yığınlara ülkenin sahibilermiş gibi hissettirmek, eğer biri yiyecekse biz yiyeceğizi verebilmektir. <br/><br/>şimdi bir daha düşün, bu insanlar bir şeye ikna falan olur mu? ne olup bittiğini senden benden daha iyi biliyorlar oğlum, seni dereye sulu götürür susuz getirirler.
-  entry_channels: siyaset
-- entry_name: |
     kolonya cumhuriyeti
   entry_id:  86386274
   entry_writer: agrego
-  entry_fav_count: 13
+  entry_fav_count: 16
   entry_content: |
     rusya ve çin devlet başkanlarını şahinle aşıklar tepesine bira içmeye götürdükleri sahnede kahkaha attım. gayette güzel vakit geçirmelik film olmuş.
   entry_channels: sinema
@@ -278,9 +262,25 @@ data:
     younes belhanda
   entry_id:  86387368
   entry_writer: srfydn
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     geçen hafta ligdeki ilk isabetli şutunu bulunca havalara girmiş. şu an devam eden maçta bir şut daha çekti ve gariptir; o da kaleyi buldu.<br/><br/>helal olsun sana asistin asistinin asisti reiz!
+  entry_channels: spor
+- entry_name: |
+    zaman makinesi olsa atatürk'e söylenecekler
+  entry_id:  86384270
+  entry_writer: cuivienen
+  entry_fav_count: 11
+  entry_content: |
+    bırak kurtarma. kurtaracaksan da krallık kur. bir de rakıyı ve sigarayı azalt yoksa 57 yaşında sirozdan gidiyorsun.
+  entry_channels: anket
+- entry_name: |
+    6 şubat 2019 barcelona real madrid maçı
+  entry_id:  86368938
+  entry_writer: edenhazardibulur
+  entry_fav_count: 10
+  entry_content: |
+    yayıncısı olmadığı için türkiye'den yayınlanmayacak olan maç<br/><br/>tek kelimeyle yazık.
   entry_channels: spor
 - entry_name: |
     paşa büyükkayaer
@@ -291,30 +291,6 @@ data:
     vatan millet aşığı ülkücü reistir. bunların alayı böyledir. <br/><br/>nerede hamaset var nerede beka vatan millet sakarya var nerede bayrağın boyu uzuyor anlamalı ki orada gizlenmeye çalışılan pislikler var. <br/><br/>en somut örneği hayırsever işadamı reza zarrab atv canlı yayınında fonda kullanılan kocaman bayraktır. hatırlayınız.
   entry_channels: 
 - entry_name: |
-    kırıldığını belli etmemek
-  entry_id:  86370304
-  entry_writer: theladybirg
-  entry_fav_count: 9
-  entry_content: |
-    dile getirmesem de yüzüme hemen yansır, <br/>istesem de saklayamam
-  entry_channels: ilişkiler
-- entry_name: |
-    6 şubat 2019 barcelona real madrid maçı
-  entry_id:  86384385
-  entry_writer: cicho1907
-  entry_fav_count: 9
-  entry_content: |
-    son 10 senedir herhangi bir el clasico’nun bu kadar sessiz sedasız hatta neredeyse kimsenin haberi dahi olmadığını ilk defa görüyorum.<br/><br/>çok bariz cristiano ronaldonun gidişi sadece real madride değil, el clasicoya, barcelonaya ve la ligayada ciddi zarar vermiş.bugün bu maçın yayıncısı yok ki bu hiçte görülmüş bir durum değil.<br/><br/>şimdi değerini yavaş yavaş anlıyacağız bu güzel geçen 10 senenin.bir tarafta messi bir tarafta ronaldo.<br/><br/>gerçekten onları izleyen efsane bir nesil yaşamış.
-  entry_channels: spor
-- entry_name: |
-    iz bırakan kitap cümleleri
-  entry_id:  86358684
-  entry_writer: seskontrol
-  entry_fav_count: 8
-  entry_content: |
-    büyük zihinsel yetenekler, onlara sahip olan kişileri öteki insanlara ve o insanların uğraşlarına yabancılaştırırlar; çünkü kişi kendinde ne çok şeye sahipse başkalarında o kadar az şey bulabilir.<br/><br/>yaşam bilgeliği üzerine aforizmalar/arthur schopenhauer
-  entry_channels: sanat,tarih,edebiyat,eğitim
-- entry_name: |
     ekşi itiraf
   entry_id:  86358771
   entry_writer: piyanocalmayacalisanadam
@@ -322,6 +298,14 @@ data:
   entry_content: |
     babam gozlerimin onunde eriyor. cok fazla omru kalmadi gibi hissediyorum. icim kan agliyor. dag gibi adam mahvolup gidiyor her gecen gun.. bugun onun o halini gorup hickira hickira agladim. parkinson’u allah dusmanima vermesin
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    6 şubat 2019 galatasaraya verilmeyen kırmızı kart
+  entry_id:  86388956
+  entry_writer: sonra ben de dedim ki
+  entry_fav_count: 8
+  entry_content: |
+    kör ve ya artniyetli olmayan kişinin kırmızı kartı onaylayacağı pozisyondur.
+  entry_channels: spor
 - entry_name: |
     vajinadan çıkınca gelen yüze boşalma isteği
   entry_id:  86385248
@@ -331,29 +315,29 @@ data:
     vajina’dan çıkıncaymış.. sanki saunadan çıkıyor amk aveli.
   entry_channels: 
 - entry_name: |
-    zaman makinesi olsa atatürk'e söylenecekler
-  entry_id:  86384424
-  entry_writer: ulenka
-  entry_fav_count: 6
+    nilhan osmanoğlu
+  entry_id:  86372019
+  entry_writer: weihenstephaner
+  entry_fav_count: 7
   entry_content: |
-    - bu millete seçme ve seçilme hakkı verecek kadar neden güvendin?<br/>-türk milletinin karakteri cidden yüksek midir?<br/>-türk milleti cidden çalışkan mıdır?<br/>-türk milleti cidden zeki midir?<br/><br/>yoksa bunlar gazla çalışan türk milletine ilk hareketi verme çabası mıdır?
+    kadın ağır beleşçi ayrıca tüm türkiye'ye çökmeye çalışmıyorsa adam değilim. dedeleri gibi defolup giderse bizleri mutlu edecek.<br/><br/>not: ben de karamanoğlu mehmet beyin torunuyum. osmanlı denilen ümmet devletinin türklüğü ayaklar altına aldığını bilenlerdenim. osmanlı artıklarına karşı dava açmak istiyorum. yardımcı olabilecek avukat varsa yeşillendirsin.
+  entry_channels: siyaset,magazin
+- entry_name: |
+    kırıldığını belli etmemek
+  entry_id:  86370598
+  entry_writer: momol
+  entry_fav_count: 7
+  entry_content: |
+    hastalıkların psikolojik ve sosyal sebepleri incelendiğinde anlaşılmıştır ki; kırıldığını belli etmeyip içine atmak, ileride kanser olmanıza sebep olacaktır. millet olarak <a class="b" href="/?q=story">story</a>lerimiz dışında da karşılıklı konuşarak kırıldığımızı belli etmemizin zamanı geldi artık, kırıldığımızı belli etmeyelim derken kanserden kırılıyoruz.
+  entry_channels: ilişkiler
+- entry_name: |
+    bir çiçek olsanız ne olurdunuz
+  entry_id:  86361615
+  entry_writer: contravener
+  entry_fav_count: 7
+  entry_content: |
+    (bkz: <a class="b" href="/?q=su%c3%a7i%c3%a7e%c4%9fi">suçiçeği</a>)
   entry_channels: anket
-- entry_name: |
-    çiğ köfteci ali usta
-  entry_id:  86367104
-  entry_writer: not black but dark
-  entry_fav_count: 6
-  entry_content: |
-    herhangi bir gün bu adamın önündeki kalabalığı alıp bir yerde iq testi yapalım, 70'i geçerse adam değilim.<br/><br/>bir adet deli, ya da deli rolü yapan cahil bir adam, yazılanlara göre yarrak gibi çiğ köfte yapıyor, sıfır hijyene sahip, insanlara hakaret ediyor. ve halk bu adamın önünde kuyruk. götüne koyim senin gibi halkın.
-  entry_channels: yeme-içme
-- entry_name: |
-    6 şubat 2019 galatasaraya verilmeyen kırmızı kart
-  entry_id:  86388956
-  entry_writer: sonra ben de dedim ki
-  entry_fav_count: 6
-  entry_content: |
-    kör ve ya artniyetli olmayan kişinin kırmızı kartı onaylayacağı pozisyondur.
-  entry_channels: spor
 - entry_name: |
     yoran insanlar
   entry_id:  86362744
@@ -366,18 +350,34 @@ data:
     marcos do nascimento teixeira
   entry_id:  86388888
   entry_writer: elithunter
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     harika paslar atıyor cidden. stoper olarak müdahaleleri de başarılı. allah nazar değdirmesin
   entry_channels: spor,anket
 - entry_name: |
+    biz burada aile gibiyiz diyen şirket sahibi
+  entry_id:  86388281
+  entry_writer: angry engineer
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=palu+ailesi">palu ailesi</a>)<br/>(bkz: <a class="b" href="/?q=hepinizi+sikicem">hepinizi sikicem</a>)
+  entry_channels: 
+- entry_name: |
     sıfır bir
-  entry_id:  86386065
-  entry_writer: freedomforus
+  entry_id:  86387696
+  entry_writer: owsky
   entry_fav_count: 1
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>beyler açılın 5.sezon 3.bölümden geliyorum. beyler ilk sezonlar bu kadar aksiyon vardı siz naptınız ? bölüm içinde her zaman ki gibi gökhan'a kuruluyorken sondaki icraat yine harikaydı. yalnız ben müdür ve yancı tayfasının bu kadar kolay düşeceğini sanmıyordum. necip ibnesi ile bir sezon yediniz adam 3 bölümde paket oldu.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>şimdi savaş ne yapacak onu merak ediyorum. adam direk müdürü yedi anasını satayım. aynı cezaevinde kalmaya devam ederse gardiyanları muma çevirir ama sanmıyorum. ayrıca necip ibnesinin de ta amına koyim. mis gibi planın içine ederse bundan sonra korksun nesih ve ekibinden. <br/><br/>son olarak azad kardeşimsin.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+    cio ve özgür’ün yokluğunda ben dahil herkesi şaşırtıp iyi giden dizi.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>5s3b savaşın son icraatinde istemsizce diriliş ertuğrul izleyen akpli gibi oldum amk.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: tv
+- entry_name: |
+    ömer bayram
+  entry_id:  86389875
+  entry_writer: falconhoof
+  entry_fav_count: 1
+  entry_content: |
+    topla her buluştuğunda kebapçıdan yeni çıkmış gibi davranan fitbölcü.
+  entry_channels: spor
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
   entry_id:  86378452
