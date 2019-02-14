@@ -6,7 +6,7 @@ data:
     benfica forumlarında taktik veren bjk taraftarı
   entry_id:  86666537
   entry_writer: keyfinbilir
-  entry_fav_count: 691
+  entry_fav_count: 697
   entry_content: |
     o değil de ciddi ciddi sağlam analiz yapmış. şenol güneş falan mı lan bu?
   entry_channels: spor
@@ -14,7 +14,7 @@ data:
     14 şubatta erkeklere nude atıyoruz kampanyası
   entry_id:  86665088
   entry_writer: x uzeri y nin z ye gore turevi
-  entry_fav_count: 507
+  entry_fav_count: 519
   entry_content: |
     elime mi yapışacak diye soran kadın yazarın eline yapışacak olan kampanya.
   entry_channels: anket,ilişkiler
@@ -22,7 +22,7 @@ data:
     16 yaşındaki akp'li genç
   entry_id:  86672042
   entry_writer: dessas
-  entry_fav_count: 364
+  entry_fav_count: 375
   entry_content: |
     suratından feto ve akp sıçmığı akan velet.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     bağcılar'daki ilginç mimariye sahip apartman
   entry_id:  86663674
   entry_writer: brleude
-  entry_fav_count: 352
+  entry_fav_count: 356
   entry_content: |
     evin çatısına temel atmışlar..
   entry_channels: haber
@@ -38,7 +38,7 @@ data:
     hiçbir zaman çaresiz olmadık çünkü pkk var
   entry_id:  86662469
   entry_writer: professor james moriarty
-  entry_fav_count: 350
+  entry_fav_count: 353
   entry_content: |
     şaşırmıyoruz, bu hdplilerin direk erdoğan'ı bir de reis diyerek hedef alan bir hafta içerisindeki kaçıncı söylemi?, tabi erdoğan bu seçimde hedef alacak kimse bulamıyor acil düşmana ihtiyaç var, "bir mermi kaç para biliyor musunuz" cümlesi ile belediye seçiminde konu yine terör'e geliyor, hdp bir anda pkk söylemlerini arttırıp ak partinin imdadına yetişiyor. seçim öncesi akp hdp ile siz bizi hedef alın biz de size sövelim anlaşması yapmış anlaşılan.
   entry_channels: siyaset,haber
@@ -46,15 +46,15 @@ data:
     lufthansa'nın aktarma yolcusunu dava etmesi
   entry_id:  86664585
   entry_writer: wandering why
-  entry_fav_count: 213
+  entry_fav_count: 214
   entry_content: |
-    olay şöyle gerçekleşiyor efendim; dava edilen yolcu 2016 nisan'ında <a class="b" href="/?q=seattle">seattle</a>'dan <a class="b" href="/?q=oslo">oslo</a>'ya <a class="b" href="/?q=frankfurt">frankfurt</a> aktarmalı bir bilet alıyor. yolcu frankfurt'a vardığında oslo'ya giden uçağa binmek yerine <a class="b" href="/?q=berlin">berlin</a>'e gidiyor ayrıca satın aldığı biletle. olay da burada kopuyor işte. lufthansa diyor ki; yolcu çakallık yapmayıp direkt frankfurt bileti alsaydı 2,769 euro ödeyecekti 657 euro'luk aktarmalı oslo bileti yerine. ayrıca adam berlin'e gitmiş oslo'yla alakası yokmuş, sistemi kötüye kullanmış işte diye de ekliyor. bu yüzden de aradaki 2,112 euro'yu faiziyle birlikte yolcudan almak için dava açıyorlar adama. havayolu firmalarının rekabetin yoğun olduğu yerlerdeki fiyat kırma politikası bu ucuz aktarmalı biletlere sebep oluyor sanırım ama bundan faydalanan yolcuyu suçlamak ta enteresanmış gerçekten. açılan dava yolcu lehine sonuçlansa da karara itiraz hakkı bulunmaktaymış hala lufthansa'nın.<br/><br/>yolcuların bu yolla aktarmalı ucuz bilet alıp aktarma sonrasına devam etmemesi olayına skiplagging ya da <a class="b" href="/?q=skiplagged">skiplagged</a> deniyormuş. ispanya yüksek mahkemesi de yolcuların buna hakkı olduğu yönünde bir karar vermiş geçen sene. aslında koca havayolu firmasının 'lan bu yolcu aktarmaya gelmedi, ne yaptı acaba mk' deyip yolcunun nereye gittiğiyle ilgili veri toplaması ne kadar yasaldır onu araştırmalı bence.<br/><br/>neyse efenim ilgili haber için <a rel="nofollow noopener" class="url" target="_blank" href="https://www.rt.com/business/451282-lufthansa-sues-passenger-missed-flight/?utm_source=browser&amp;utm_medium=aplication_chrome&amp;utm_campaign=chrome&amp;fbclid=IwAR2QCu_fRPwCOms1R-pytANzIGV435KbEI0uaioszLPvcRPodvbQCLu-Nwc" title="https://www.rt.com/business/451282-lufthansa-sues-passenger-missed-flight/?utm_source=browser&amp;utm_medium=aplication_chrome&amp;utm_campaign=chrome&amp;fbclid=IwAR2QCu_fRPwCOms1R-pytANzIGV435KbEI0uaioszLPvcRPodvbQCLu-Nwc">şuradan</a><br/><br/>ayrıca; (bkz: <a class="b" href="/entry/86666785">#86666785</a>)
+    olay şöyle gerçekleşiyor efendim; dava edilen yolcu 2016 nisan'ında <a class="b" href="/?q=seattle">seattle</a>'dan <a class="b" href="/?q=oslo">oslo</a>'ya <a class="b" href="/?q=frankfurt">frankfurt</a> aktarmalı bir bilet alıyor. yolcu frankfurt'a vardığında oslo'ya giden uçağa binmek yerine <a class="b" href="/?q=berlin">berlin</a>'e gidiyor ayrıca satın aldığı biletle. olay da burada kopuyor işte. lufthansa diyor ki; yolcu çakallık yapmayıp direkt frankfurt bileti alsaydı 2.769 euro ödeyecekti 657 euro'luk aktarmalı oslo bileti yerine. ayrıca adam berlin'e gitmiş oslo'yla alakası yokmuş, sistemi kötüye kullanmış işte diye de ekliyor. bu yüzden de aradaki 2.112 euro'yu faiziyle birlikte yolcudan almak için dava açıyorlar adama. havayolu firmalarının rekabetin yoğun olduğu yerlerdeki fiyat kırma politikası bu ucuz aktarmalı biletlere sebep oluyor sanırım ama bundan faydalanan yolcuyu suçlamak ta enteresanmış gerçekten. açılan dava yolcu lehine sonuçlansa da karara itiraz hakkı bulunmaktaymış hala lufthansa'nın.<br/><br/>yolcuların bu yolla aktarmalı ucuz bilet alıp aktarma sonrasına devam etmemesi olayına skiplagging ya da <a class="b" href="/?q=skiplagged">skiplagged</a> deniyormuş. ispanya yüksek mahkemesi de yolcuların buna hakkı olduğu yönünde bir karar vermiş geçen sene. aslında koca havayolu firmasının 'lan bu yolcu aktarmaya gelmedi, ne yaptı acaba mk' deyip yolcunun nereye gittiğiyle ilgili veri toplaması ne kadar yasaldır onu araştırmalı bence.<br/><br/>neyse efenim ilgili haber için <a rel="nofollow noopener" class="url" target="_blank" href="https://www.rt.com/business/451282-lufthansa-sues-passenger-missed-flight/?utm_source=browser&amp;utm_medium=aplication_chrome&amp;utm_campaign=chrome&amp;fbclid=IwAR2QCu_fRPwCOms1R-pytANzIGV435KbEI0uaioszLPvcRPodvbQCLu-Nwc" title="https://www.rt.com/business/451282-lufthansa-sues-passenger-missed-flight/?utm_source=browser&amp;utm_medium=aplication_chrome&amp;utm_campaign=chrome&amp;fbclid=IwAR2QCu_fRPwCOms1R-pytANzIGV435KbEI0uaioszLPvcRPodvbQCLu-Nwc">şuradan</a><br/><br/>ayrıca; (bkz: <a class="b" href="/entry/86666785">#86666785</a>)
   entry_channels: haber,ekonomi,havacılık
 - entry_name: |
     soldado'ya 1 maç ceza verilmesi
   entry_id:  86677513
   entry_writer: mrt2016
-  entry_fav_count: 188
+  entry_fav_count: 192
   entry_content: |
     soldado'ya bir maç ceza verilmesinin nedeni nagatomo'ya hiç ceza verilmemesi için olabilir mi?
   entry_channels: spor
@@ -62,7 +62,7 @@ data:
     regl olduğumuz için vergi ödemek istemiyoruz
   entry_id:  86675906
   entry_writer: invector
-  entry_fav_count: 184
+  entry_fav_count: 188
   entry_content: |
     ekmekten vergi alınıyor arkadaşlar farkında mısınız?
   entry_channels: siyaset,sağlık,haber
@@ -70,23 +70,15 @@ data:
     ali koç
   entry_id:  86669662
   entry_writer: donaldtrump
-  entry_fav_count: 155
+  entry_fav_count: 159
   entry_content: |
     şu an canlı yayında tek tek pozisyonları gösteren vizyon başkan. gerçekten acınası bir durum bu. bulunduğu durumu hakemlere yıkma çabası çok kötü ya.
   entry_channels: spor,haber,ekonomi
 - entry_name: |
-    14 şubat'ı yalnız geçirecek yazarlar
-  entry_id:  86655312
-  entry_writer: kafirullah hazretleri
-  entry_fav_count: 144
-  entry_content: |
-    benim. ancak biraz değişik bir yalnızlıkla.<br/><br/>benim için yılın en önemli günlerinden biridir on senedir; sabah kalkar duşumu alır, en güzel kıyafetlerimi giyer, saçlarımı yapar, iş yerinden izin alırım ve hepsinden farklı, muhteşem bir gün başlar. yarın yine böyle olacak ama çok önemli bir farkla.<br/><br/>bundan on yıl kadar önce oturduğumuz evin alt katına eczacı bir çift taşındı; okumuş, kültürlü, gelirleri iyi olan tatlı ve otuzlu yaşlarında insanlardı. toplam üç kişilerdi, ikisinin dışında kadının babası da yanlarında kalıyordu; eski istanbul beyefendilerinden ama şimdileri çökmüş, hatta geçirdiği bir kazadan sebep çok yürüyemiyor. onların nezdinde akli melekelerini biraz yitirmiş, sadece “açım, susadım, tuvaletim geldi.” gibi kelimeleri net ifade ediyor, gerisi sayıklama ve anlamsız cümleler. <br/><br/>zaman içerisinde adamla da kadınla da epey iyi anlaştık, o zamanlar bizim evde maç yayını yok, onlara gidiyorum maç günlerinde. adam fanatik fenerli, ben de öyle; futbol ve kadınları hayatımın merkezine koyduğum dönemler, bilirsiniz işte. aylarca böyle gidip geldim, her gittiğimde amcanın elini öperdim, amca gülümserdi. kimseye bir zararı yoktu, köşedeki koltukta oturur, evdekiler ne izlerse onu izlerdi, ne verirse onu yerdi; en çok reklamları severdi, sanıyorum kısa oldukları için. <br/><br/>adam sigara içerdi, ben içmezdim. devre aralarında falan balkona çıkarlardı karı koca. yine bir gün böyle bir mola anında amca bana seslendi, yanına gittim. benden kağıt kalem istedi, bulup getirdim ki zaten masanın üzerinde devamlı eşantiyon kalemler ve not defterleri olurdu; çok nemalandığım olmuştur. amca kağıda birkaç kelime çiziktirdi; o an anlam veremedim, damadına sordum; “ciddiye almaya gerek yok ya, aklı başında değil onun.” gibi bir şey söyledi. bu anlamda onu hep kınamışımdır, kayınbabasına çok ayıp ediyordu. istemeden bakıyor olduğu çok belliydi ama detaylara da giremiyordum. sonuçta özel hayat. <br/><br/>ben her zaman olduğu gibi yılmadım, hikayesi olan insanları, hikaye biriktirmeyi severim; özellikle insanları mutlu etmeyi severdim o zamanlar. genel olarak faydasızın teki olduğum için, birilerinin takdirini kazanmak benim için önemliydi. velhasıl ben amcanın kızına da sordum kağıtta yazan şeyi; kısaca özetledi, yeteri kadar bilgi almıştım. ulaşmam gereken birileri vardı artık ve facebook çok büyük patlamıştı. kolaylıkla ilgili kişileri buldum, ısrar sohbet derken konuyu hayata geçirebilecek ortamı yarattım. <br/><br/>kağıtta “beni sevdiğime götür.” yazıyordu. sonra hikayenin bu kısmını kızından dinledim; babası kırk yıldan fazla zaman önce ilk karısıyla evlenmiş, iki tane çocuğu olmuş ve krizli bir sebepten ayrılmış. çok büyük sevmiş, öğretmenlermiş ikisi de, fazla sürmemiş; yolları ayrılmış. sebebin ne olduğunu anlattıramadım, pek ısrar da edemedim. üvey kardeşlerinden birinin ismini verdi sadece kadın; “babam benim annemi kast ediyordur bence, o olamaz...” dedi ama ben bir ihtimal diye düşündüm. dedim ya, hikayeleri seviyorum o zamanlar. <br/><br/>diğer karısından olan oğluna ulaştım amcanın, annelerinden ayrıldığından beri görmemişler ve görmek de istemiyorlar. ne yaşandığını onlar da anlatmadı, taş oldular, put oldular suskunluklarını bozmadılar. sonuç olarak anneleri yaşamaktaymış; bir huzur evinde kendi tercihiyle hayatına devam ediyormuş, amcadan sonra hiç evlenmemiş; dediklerine göre bütün hayatını ona kahrederek yaşamış. <br/><br/>amca onu kast ediyordu biliyorum, amcayı götürüp götürmeme konusunu teyzenin insiyatifine bırakmadım; habersiz, sormadan bir gün çat diye huzur evine götürecektim. öyle de yaptım ve ondört şubat sevgililer gününe denk geldi. sabah kalktım, süslendim püslendim, sevgilim de yoktu; zamanım vardı, şirket arabam vardı. amcanın yanına indim, “hadi amca, gel seni sevdiğine götüreceğim.” dedim. kızı biraz itiraz etti, amca yüzüme anlamsız anlamsız baktı, sanırım aklı almadı bu ihtimali, bilemiyorum. <br/><br/>amcama güzel bir takım giydirdik, parfüm sıktık, tekerlekli sandalyesini bagaja koyduk. yolda bir çiçekçide durdum, güzel bir buket yaptırdım, bir de yanına çikolata aldık. neden çikolata bilmiyorum, belki vizyonsuzum ama ne alacağım o yaşta kadına; şeker hastası olabilme ihtimalini düşünemeden “ağızları tatlanır, hep beraber yerler orada.” dedim galiba. vardık huzur evinin kapısına, indirip sandalyesine oturttuk amcayı orada bi vatandaşın yardımıyla, çiçekleri ve çikolatayı kucağına koyup sandalyenin arkasına geçtim. “hadi bakalım.” diyip daldık içeri. <br/><br/>teyzenin ismini görevliye sordum, amca ismi duyunca biraz kalakaldı, sonra hareketlendi, elleri kolları yerinde durmuyor. “hadi!” diyor sadece, heyecanlı ama ben ondan çok daha heyecanlıyım. bakıcı kadın sağ olsun yanına kadar götürdü bizi, köşede örgü ören bembeyaz küt saçlı tonton bi teyzeyi işaret etti. diğer ihtiyarların meraklı bakışlarıyla sürdüm tekerlekli sandalyeyi dinlenme salonunda, ta ki teyzenin ayaklarının ucuna varınca kaldırdı kafasını; bana baktı, amcaya baktı, dünya birkaç saniye durdu. kafamda bir sürü olumsuzluk döndü ama...<br/><br/>dünya güzelleşti; konuşmadan bakıştılar bir süre, biraz ağlaştılar. amca nasıl hareketli, nasıl kıpır kıpır anlatamam; mutluluğun pişmanlıkla karışmış gözyaşları akıyor gözlerinden. teyzenin yüzünde öfkeyle karışık affetmişlik var, özlemişlik var. amca ayağa kalktı; bir sarıldılar ki biri bana öyle sarılsın diye ömrümün yarısını verirdim. öyle güzel görünüyorlardı ki parfüm reklamı çeken iki topmodel öyle güzel görünmez. bir anneyle çocuğu gibi, yıllarca hapis kalmış iki kardeş gibi, bir bütünün daha yeni tamam olmuş hali gibi.<br/><br/>amcanın ne sonraki evliliğindeki karısına, ne önceki ne sonraki çocuklarına böyle aşk duymadığını anladım. teyzeyi hiç unutmadığını, hiç vazgeçmediğini, hiç aklından çıkarmadan onun ağırlığıyla kırk yıldan fazla yaşadığını anladım. keşke anlamasaydım, o yük o yaşta omuzlarıma ağır gelmişti. onlar bir ağladılar, ben üç ağladım, amca pişmanlıkla mutluluğu, teyze öfkeyle özlemi yaşarken ben hepsini yaşadım. bana ağır geldi...<br/><br/>pek konuşamadılar, teyze hiç kızmadı; amca hiç suratını indirmedi, bakışa bakışa, birbirinin ellerine dokuna dokuna her şeyi anlattılar; özür dilediler, affettiler, keşke dediler, iyi ki dediler, ilanı aşk ettiler, barıştılar, gülüştüler. hayatımda benden büyük hiçkimse bana öyle bir minnetle bakmadı, utandım, ikisinden de gözlerimi kaçırdım. bu arada sigaraya da o gün başladım. <br/><br/>akşam oldu zor ayrıldılar, “yine geliriz amca.” dedim, gülümsedi amca. eve geldik, nasıl oldu bilmiyorum ama amcamın kafa yine kapandı. kızına ve damadına anlattım olanları, iyi anlatamamışım her halde; götürürler arada sırada diyordum ama otuzunda çürümüş ikisinin de kalbi. <br/><br/>sonraları pek gitmek istemedim evlerine, nedense ikisinden de çok soğudum eczacıların. amcamı görmeye gidiyordum sadece bazen, bir şeyler anlatıyordum; “götüreyim mi yine teyzeye.” diyordum, heyecanlanıyordu. sonraları bıraktım öyle demeyi, damat pek taraf olmuyordu bu işe. bir gün saatini çıkarıp benim koluma takmak istedi amca, kızı ve damadı ters ters baktılar diye kabul etmedim. sonraki her seferde yine saatini vermeye çalıştı bana, hep reddettim. <br/><br/>geçen yılın sevgililer gününe kadar her yıl gittik amcayla birlikte; bir seferinde gül aldık başka birinde papatya. hatta bir keresinde teyzeye tarak ve ayna aldık, çok sevinmişti, bence dünyanın en güzel saçları onunkilerdi. ney uğruna beyazladığını bilince daha değer vermiştim sanki. bir defasında da tek gittim teyzeye, belki hikayelerini anlatır dedim ama anlatmadı; hala merak ederim neler yaşadıklarını. belki bu yıl anlatır, bilemiyorum. her sene götürdüm ama amcayı, sevgilim olsa da, evlensem de, hasta da olsam, taşınmış da olsam hep götürdüm. <br/><br/>sabah kalkar duşumu alır, en güzel kıyafetlerimi giyer, saçlarımı yapar, iş yerinden izin alırdım ve hepsinden farklı, muhteşem bir gün başlardı bu seneye dek. yarın öyle olmayacak; amcayı dört ay önce toprağa verdik. <br/><br/>iki defa tek gittim amca öldükten sonra, “biliyordur, öğrenmiştir.” diye ümid ettim ikisinde de ama bilmiyordu. vicdansız çocukların hiçbiri söylememiş, ben de söyleyemedim. bugün telefon ettim huzur evine; teyzeyi sordum, “verelim mi?” dediler istemedim. bugün söyleyecektim telefonda, “yarın gelemiyoruz çünkü...” diyecektim, diyemedim. <br/><br/>sabah kalkıp çiçek almadan, hediye almadan öylece gideceğim. on yıl önce omuzlarıma ağır gelmişti bir araya gelmeleri; bir daha olmaz diyordum. bugün bana ağır geliyor ayrılmış olmaları, belki de zaruri ayrılıklar daha kabullenilebilirdir taraflar için, belki bir kolayı vardır “öldü.” demenin. “hani otuz yıl görmediğin bir adam getirmiştim sana, işte o öldü...” demenin. <br/><br/>bilmiyorum, belki saati görünce anlar...<br/><br/>ben bilmiyorum, ben sadece elçiyim ve sadece “elçiye zeval olmaz” sözüne güveniyorum. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ufukkocan.com/14-subat-sevgililer-gunu-yalnizligi/" title="http://www.ufukkocan.com/14-subat-sevgililer-gunu-yalnizligi/">blog</a>
-  entry_channels: anket
-- entry_name: |
     avusturya'nın bozkurt işaretini yasaklaması
   entry_id:  86678044
   entry_writer: abusercheff
-  entry_fav_count: 121
+  entry_fav_count: 122
   entry_content: |
     ülkücü işareti yapacak kadar çok milliyetçiyse kişi zaten türkiye'de yaşasın ne işi var avusturya'da. bu avusturya hükümeti çok iyi davranıyor bizimkilere. nerde adam yaralama, kavga, gasp, hırsızlık illaki en az bir türkün adı geçiyor. çalışma saatlerini az gösterip hükümetten yardım alıp son model arabalara biniyorlar. sorsan az bile yapıyoruz bu gavurlara az bile derler. bu gavurlar dedikleri de o ülkenin yerlisi.<br/>edit: bozkurt işareti ülkücülerin değil türklüğün sembolüymüş dendi, hatta atatürk aşılamıştır diye bir mesaj geldi. o kadar detaylarını bilemiyorum ben bozkurt işareti yapan ülkücülerden başka görmedim o yüzden öyle yazdım.
   entry_channels: siyaset,haber
@@ -94,7 +86,7 @@ data:
     sonuna amına koyim yazılabilecek şarkılar
   entry_id:  86674246
   entry_writer: kabuledinlansunu
-  entry_fav_count: 117
+  entry_fav_count: 120
   entry_content: |
     azer bulbul ~ yatamiyorum
   entry_channels: anket,müzik
@@ -102,7 +94,7 @@ data:
     ben erdal erzincan sorularınızı yanıtlıyorum
   entry_id:  86673886
   entry_writer: dedi ne haber dedim umut verme
-  entry_fav_count: 107
+  entry_fav_count: 111
   entry_content: |
     merhaba,<br/><br/>yukarıdaki saygısız cahillerimizin kusuruna bakmayın. <br/><br/>sorum yok, sadece bu güzel kültüre sahip çıktığınız ve bizimle paylaştığınız için teşekkürler. <br/><br/>bıyıklarınıza sağlık.
   entry_channels: ekşi-sözlük
@@ -110,7 +102,7 @@ data:
     uçakta telefonunu kapatmayana 2124tl ceza
   entry_id:  86675260
   entry_writer: yavlum mithat
-  entry_fav_count: 100
+  entry_fav_count: 101
   entry_content: |
     çok yerinde cezadır. denetimi de düzgünce yapılmalıdır. hiç bir barzonun arkadaşlarına komikli video gönderecek diye başkasının canını binde bir ihtimal bile olsa tehlikeye atmaya hakkı yoktur.
   entry_channels: havacılık,seyahat
@@ -126,55 +118,39 @@ data:
     doğulan ilçeyi 3 kelime ile anlatmak
   entry_id:  86656560
   entry_writer: dafdaf
-  entry_fav_count: 87
+  entry_fav_count: 92
   entry_content: |
     (bkz: <a class="b" href="/?q=allah+askina+su+sozlugu+satin+da+kurtulalim">allah askina su sozlugu satin da kurtulalim</a>)
   entry_channels: anket,tarih
 - entry_name: |
-    aşk
-  entry_id:  86666179
-  entry_writer: femme noir
-  entry_fav_count: 79
-  entry_content: |
-    iki insanın birbirini her şeye, herkese ve bazen kendilerine rağmen; <br/>her şeyden ve hatta kendilerinden vazgeçebilecek kadar <br/>ama hiçbir şeyden vazgeçmek zorunda kalmadan ve bırakmadan; <br/>kayıtsız şartsız sevmesidir.
-  entry_channels: ilişkiler,sanat,tarih,müzik,sinema,edebiyat,sağlık,magazin
-- entry_name: |
-    2019 ekonomik krizi
-  entry_id:  86657834
-  entry_writer: fraternity
-  entry_fav_count: 77
-  entry_content: |
-    12 yaşındaki kızımın bile hakkında "baba bunlar neden böyle geri zekalı? hem kuyrukta bekleyip hem de yaşasın akepe diyorlar. bunlar neden böyle salak?? boşver değmez bu geri zekalılara bir şey anlatmaya" dediği krizdir. hadi ben cehapeliyim, geziciyim, sizin reyizin gözünde teröristim gezici olduğum için, kızım da mı terörist?<br/><br/>umarım o kuyrukta donarak ölürsünüz amk malları. tekrar söylüyorum, su veren itfaiyenin de hortumunu sikeyim.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
     köpeği kediyi parçalarken telefonla konuşan kadın
   entry_id:  86679867
   entry_writer: cheesteak
-  entry_fav_count: 76
+  entry_fav_count: 86
   entry_content: |
     tasmasız köpek gezdirenlere “adam yaralamaya teşebbüs” suçundan ceza verilmeli.
   entry_channels: haber
 - entry_name: |
+    kanal d ana haber bülteni
+  entry_id:  86673342
+  entry_writer: ayuttudum
+  entry_fav_count: 64
+  entry_content: |
+    haber bülteni değildir.<br/><br/>yalancıdır. tüpçünün dedantörü, çomarın gazıdır.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
     bir milli yalan bırak
   entry_id:  86655685
   entry_writer: maverickx
-  entry_fav_count: 62
+  entry_fav_count: 63
   entry_content: |
     <a class="b" href="/?q=lozan+2023+%27te+bitiyor">lozan 2023 'te bitiyor</a>
   entry_channels: anket
 - entry_name: |
-    bayan değil kadın
-  entry_id:  86657852
-  entry_writer: rybczynski
-  entry_fav_count: 61
-  entry_content: |
-    2005'e kadar kadın deyince ayıplanan, 2005'ten sonra ise bayan deyince ayıplanan durum.
-  entry_channels: ilişkiler
-- entry_name: |
     14 şubat 2019 galatasaray benfica maçı
   entry_id:  86656270
   entry_writer: guest22474
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     başlık altındaki entryleri göz önünde bulundurunca neden <a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>'nin <a class="b" href="/?q=ezeli+rakip+ebedi+dost">ezeli rakip ebedi dost</a>, beşiktaş'ın ise neden <a class="b" href="/?q=misafir+%c3%a7ocu%c4%9fu">misafir çocuğu</a> statüsünde olduğunu anlıyorsunuz.<br/><br/>takımıma başarılar dilerim.
   entry_channels: spor
@@ -182,7 +158,7 @@ data:
     mansur yavaş ankara'da 5-6 puan önde
   entry_id:  86667058
   entry_writer: benibirazboylehatirla
-  entry_fav_count: 51
+  entry_fav_count: 52
   entry_content: |
     <a class="b" href="/?q=qamberdesouza">qamberdesouza</a>: muhalif tayfa aldı kalemi kağıdı akp kaç oy kaybeder diye hesaba oturdu yine. bu duyguyu her sene kadıköy öncesi yaşıyorum sonra kuyt gol mq
   entry_channels: siyaset,haber
@@ -203,53 +179,53 @@ data:
     haberde geçen ''daha önce çocuğa kayyum atanması gündeme gelmişti.'' cümlesinin daha ilginç olduğu olay.
   entry_channels: spor,haber,magazin
 - entry_name: |
-    köpeksiz sokaklar istiyoruz
-  entry_id:  86672847
-  entry_writer: yalnizlik mavisi
-  entry_fav_count: 43
-  entry_content: |
-    hiçbir hayvanla sorunum olmadı. aksine sokaklarında sokak hayvanları için kaplar bulunan bir semtte oturuyoruz. akşam olunca köpeğini gezdirenlerin sayısı azımsanmayacak kadar çok. bir kediyi kovalamışlığım, bir köpeğe taş atmışlığım yoktur. sokakta hayvan görünce sevenlerden değilim, kenarından geçer giderim ama hayatta zarar vermem.<br/>geçen gün otoparktaki aracımıza giderken benim kucağımda çocuk vardı. eşim de yanımdaydı. açık bir otopark bizimkisi. ben aracın bir yanına eşim diğer yanına doğru yürürken üç tane köpek aniden saldırdı. biz köpekleri görmedik bile. allahtan köpekler eşime doğru gittiler ve onu ısırdılar. bana gelselerdi kucağımda çocukla nice olurdu halim kim bilir?<br/>bu köpekler sürekli otoparktalar. şimdiye kadar hiç ses çıkarmadık, bir zarar vermedik ki zaten kendilerine yer bellediler ve akşamları geliyorlar. <br/>şimdi dediğim gibi ya bana gelselerdi ya kucağımda çocukla bana saldırsalardı. çocuk yere düşebilirdi, onu da ısırabilirlerdi, her şey olabilirdi. hiçbir tehdit unsuru olmadan bu hayvanlar bize saldırdı. eşimin bacağı yara bere içinde, pantalonu boydan boya yırtık. kısacası köpekler grup halinde gezince saldırgan olabiliyorlar. bunlara bir çözüm bulmamız gerekiyor. <br/><br/>not: bu arada kuduz aşısı her hastanede olmuyor. hastaneyi önceden araştırıp gidin.
-  entry_channels: sağlık,haber
-- entry_name: |
     cep telefonuna yüzde 50 ötv'nin önü açılması
   entry_id:  86676661
   entry_writer: parafmax
-  entry_fav_count: 42
+  entry_fav_count: 43
   entry_content: |
     buda yetmez, cep telefonu taşıma ruhsatı gelmeli. yıllık 150 tl ödenmeli ödemeyenlerin imei numarası bloklanmalı
   entry_channels: teknoloji,haber,ekonomi
 - entry_name: |
+    bill gates'in bilgisayara oturunca ilk yaptığı iş
+  entry_id:  86684264
+  entry_writer: ertansahannn
+  entry_fav_count: 40
+  entry_content: |
+    sağa tıkla-masaüstünü yenile
+  entry_channels: anket
+- entry_name: |
     şeyma subaşı'nın çıkaracağı kitaba isim önerileri
   entry_id:  86662678
   entry_writer: grkmgrgc
-  entry_fav_count: 34
+  entry_fav_count: 36
   entry_content: |
     acunası hayatlar
   entry_channels: anket,magazin
 - entry_name: |
-    kanal d ana haber bülteni
-  entry_id:  86673342
-  entry_writer: ayuttudum
-  entry_fav_count: 30
+    cem karaca'nın abartılmış bir sanatçı olması
+  entry_id:  86655361
+  entry_writer: paul mccharmly
+  entry_fav_count: 34
   entry_content: |
-    haber bülteni değildir.<br/><br/>yalancıdır. tüpçünün dedantörü, çomarın gazıdır.
-  entry_channels: siyaset,tv,haber
+    bence böyle başlık açanların asıl amacı akşam evde boş boş otururken bugün götümü siktiremedim acaba nasıl siktirsem diye düşünüp aaa şuna şuna sallıyım ekşide sikerler diyerek açıyorlar. <br/><br/>aslında kısaca (bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)
+  entry_channels: anket,sanat,müzik
 - entry_name: |
     birini öldürebilseydiniz kimi öldürmek isterdiniz
   entry_id:  86683038
   entry_writer: kahrolsunbagziseyler
-  entry_fav_count: 27
+  entry_fav_count: 29
   entry_content: |
     sözlüğü foruma çevirenleri.
   entry_channels: anket,sağlık
 - entry_name: |
-    bebek ziyaretine gelen misafire elini yıka demek
-  entry_id:  86672887
-  entry_writer: sutoglan
-  entry_fav_count: 22
+    tanzim satış kuyruğu erdoğan'ın en vahim hatası
+  entry_id:  86675152
+  entry_writer: kissofh3ll
+  entry_fav_count: 21
   entry_content: |
-    ilk üç ay bebek ziyaretine gitmiyorum. yeni doğmuş bir bebeği perişan edecek viral hastalıklar havadan da bulaşabilir. influenza virüsü kapmışsındır, daha belirtiler ortaya çıkmamıştır ama bulaşıcılığı başlamıştır. anne sütü doğal koruyucudur falan hikaye. ne süt ne vitamin bir haftalık bebeği influenzadan koruyabilir. <br/>öpmek falan zaten olacak şey değil. bebek az büyüsün, ele gelsin, istediğinizi yapın.<br/>"biz bebekken böyle anormal tedbirler yoktu, ölmedik". sen ölmedin de alt sokaktaki kadının ikinci bebeği bir aylıkken öldü? sebebi de grip benzeri üst solunum yolu hastalığı sonrası gelişen zatürre. seni beni öldürmeyen ama bebeği zatürreye kadar götüren o hastalık da öpmeye doyamayan hasta halasından bulaştı?<br/>yüzde 1-2 riski göze alacak mısın kendi çocuğun için?<br/><br/>aynı durum çocukluk dönemi aşıları için de geçerli. ben bebeyken aşı maşı yoktu; kabakulaktan kızamığa, su çiçeğinden boğmacaya kadar hepsini geçirdim, ölmedim. ben ölmedim ama o sene türkiye'de bu hastalıklardan 50.000 çocuk öldü?<br/><br/>"hindistan'da çocuklar bok içinde büyüyor, bağışıklık sistemleri ne biçim güçlü". nah güçlü! birincisi hindistan hükümeti neyse ki senin gibi düşünmediği için bebek sağlığı, hijyen, aşılama vb. her yıl daha iyiye gidiyor. ona rağmen bebek ölüm oranı türkiye'nin 3 katı. pakistan'da 4 katı, afganistan'da 6 katı. <br/><br/>pisliğe, mikroba maruz kalırsa bağışıklık sistemi gelişir, iyi gelir diyorsan git 19. yüzyılda doğur bebeni; o zaman çocuk ölüm oranı %50, şu anda ise tıp, aşılama ve hijyen önlemleri sayesinde %2. otuz yıl öncesine kadar her evde gördüğün engelli çocukların şimdi çok nadir olmasının nedeni de aynı gelişmeler.<br/><br/>"aşı yaptırmam çünkü içinde cıva var." kim söyledi? "herkes söylüyor". sıfatına sıçtığımın komşusu, şeyhi, şarlatanı yüz binlerce doktordan, bilim adamından iyi biliyor çünkü. (tek kullanımlık aşılarda cıva mıva yok bu arada). kendin hastalandığında da doktora gitme o zaman, ilaçların hepsinde bilmemne var. yok yere sinirlendim şimdi bak.<br/><br/>ellemeyin bebekleri ilk üç ay. çocuğa da yazık, ana babalara da.
-  entry_channels: ilişkiler,sağlık
+    bazen gerçekten komik davranışlar sergileniyor dediğim olaydır. sanki karşındaki kitle bir şeyi düşünüp analiz edebiliyormuş gibi oturup hata mı değil mi? diye tartışılıyor. bunları alıp yatırsan siksen üstüne de hizmet bedeli 100 lira para istesen. oh devletimiz ne güzel evimize kadar gelip hizmet veriyor derler.
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     özhaseki'nin aldığı tazminatla döner dağıtması
   entry_id:  86681693
@@ -259,13 +235,13 @@ data:
     kendisine oy verecek kitlenin yarısı henüz soyadını tam öğrenip, söyleyebilecek durumda değil. sokak röportajlarında insanlar akseki, özaki, özhanki gibi isimlerden bahsediyorlar. döner dağıtması akıllıca çünkü döneri vereni hatırlarlar, adını söyleyemeseler de.
   entry_channels: siyaset,tv,haber,yeme-içme,magazin
 - entry_name: |
-    idris naim şahin'in iyi parti ordu adayı olması
-  entry_id:  86666507
-  entry_writer: sahipkiran
+    sevgililer günü
+  entry_id:  86661331
+  entry_writer: hasso besso
   entry_fav_count: 20
   entry_content: |
-    adı geçen şahsın 17-25 aralık’tan sonra ve akp’den istifa ettikten sonra, halen milletvekiliyken o dönemki içişleri bakanı efkan ala tarafından cevaplandırılması için meclis’e verdiği soru önergesi —-&gt; <a rel="nofollow noopener" class="url" target="_blank" href="http://www2.tbmm.gov.tr/d24/7/7-47201s.pdf" title="http://www2.tbmm.gov.tr/d24/7/7-47201s.pdf">link</a><br/><br/>edit: link koymayı becerememişim sinirden
-  entry_channels: siyaset
+    birbirlerine sevgili olanların sevgililer gününü kutlamak bana düşmez. <br/>nasıl olsa onlar birbirlerini kutlayacaklar... <br/>ben platonik aşıkların, <br/>sevgileri karşılık görmeyenlerin, <br/>terk edilenlerin, <br/>sevgide bir kenarda bırakılmışların, <br/>birbirlerini sevdikleri halde ayrılmak zorunda kalanların, <br/>sevdikleri halde eli koynunda kalanların,<br/>sevgileri yüzünden hüsrana uğrayanların, <br/>sevgilerini içlerine gömenlerin, <br/>sevgililerini bir türlü unutamayanların, <br/>sevgililere bakıp bakıp uzaklarında burnunu çekenlerin<br/>eşek kadar oldukları hâlde halâ aradıkları sevgiliyi bulamayanların <br/>sevgililer gününü kutluyorum.<br/>üzülmeyin be bugün de tez geçer...<br/>alt tarafı yılda bir gün...<br/>sabahına bir şey kalmaz merak etmeyin...
+  entry_channels: ilişkiler,ekonomi
 - entry_name: |
     türk tipi teselli yöntemleri
   entry_id:  86677592
@@ -274,14 +250,6 @@ data:
   entry_content: |
     bosver, orospunun tekiydi zaten.
   entry_channels: anket,ilişkiler
-- entry_name: |
-    sevgililer günü
-  entry_id:  86661331
-  entry_writer: hasso besso
-  entry_fav_count: 17
-  entry_content: |
-    birbirlerine sevgili olanların sevgililer gününü kutlamak bana düşmez. <br/>nasıl olsa onlar birbirlerini kutlayacaklar... <br/>ben platonik aşıkların, <br/>sevgileri karşılık görmeyenlerin, <br/>terk edilenlerin, <br/>sevgide bir kenarda bırakılmışların, <br/>birbirlerini sevdikleri halde ayrılmak zorunda kalanların, <br/>sevdikleri halde eli koynunda kalanların,<br/>sevgileri yüzünden hüsrana uğrayanların, <br/>sevgilerini içlerine gömenlerin, <br/>sevgililerini bir türlü unutamayanların, <br/>sevgililere bakıp bakıp uzaklarında burnunu çekenlerin<br/>eşek kadar oldukları hâlde halâ aradıkları sevgiliyi bulamayanların <br/>sevgililer gününü kutluyorum.<br/>üzülmeyin be bugün de tez geçer...<br/>alt tarafı yılda bir gün...<br/>sabahına bir şey kalmaz merak etmeyin...
-  entry_channels: ilişkiler,ekonomi
 - entry_name: |
     öğrencilerden iban istiyoruz kampanyası
   entry_id:  86658461
@@ -299,6 +267,14 @@ data:
     (bkz: <a class="b" href="/?q=sar%c4%b1+b%c4%b1y%c4%b1k">sarı bıyık</a>)
   entry_channels: anket,sanat,sinema
 - entry_name: |
+    hayvan haklarına ilişkin düzenleme
+  entry_id:  86682541
+  entry_writer: haydi abbas vakit tamam
+  entry_fav_count: 16
+  entry_content: |
+    hala düzenlenmeyen yasa değişikliği.<br/>gündeme taşınması için tüm yazarları başlığa bekliyoruz.<br/><br/>daha dün köpeği bir aracına bağlayarak sürekleyerek boğan kişi, yasada yeri yok denilerek serbest bırakıldı. her vahşetin başlığında "yazık"demek yerine bu başlığı gündeme taşıyalım. biz olayın acısına dair enrty yazarken, vahşeti gerçekleştirenler serbest kalmasın.<br/><br/>sosyal medyanın gücünü, sahip oldukları arabayı tek cümle ile anlatmak gibi eylemler yerine hayvanlar için kullanan tüm vicdan sahipleri, entrylerinizle başlığa el atmanızı, hayvanlara işkence yapan, öldüren şerefsizlerin en ağır şekilde cezalandırılması için tüm desteğinizi bekliyoruz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.tyghaber.com/haberler/guncel/kopege-tecavuz-edip-olduren-cani-hakkinda-sok-karar/1696/" title="http://www.tyghaber.com/haberler/guncel/kopege-tecavuz-edip-olduren-cani-hakkinda-sok-karar/1696/">kopege tecavuz edip olduren kisi serbest birakildi</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/kopegi-tarim-aracina-baglayarak-olduren-kisi-serbest-kaldi-2371384" title="https://www.haberturk.com/kopegi-tarim-aracina-baglayarak-olduren-kisi-serbest-kaldi-2371384">kopegi tarim aracina baglarak olduren kisi serbest</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sabah.com.tr/yasam/2017/12/04/kediye-iskence-yapan-asker-hakkinda-flas-karar" title="https://www.sabah.com.tr/yasam/2017/12/04/kediye-iskence-yapan-asker-hakkinda-flas-karar">kediye iskence yapan kisi serbest</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://onedio.com/haber/eskisehir-de-iki-kediyi-oldurmek-suclamasiyla-gozaltina-alinan-universiteli-genc-serbest-birakildi-806711" title="https://onedio.com/haber/eskisehir-de-iki-kediyi-oldurmek-suclamasiyla-gozaltina-alinan-universiteli-genc-serbest-birakildi-806711">iki kediyi olduren kisi serbest</a>
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
     ekşi itiraf
   entry_id:  86661169
   entry_writer: hayatafransiz
@@ -315,22 +291,6 @@ data:
     olmayan yoldur.<br/>eskiden terkokuyorsun.com diye dahiyane bir site vardı.<br/>oraya arkadaşının mailini girince site isimsiz mail atıyordu.<br/>başka türlü, kokan kişi çok yakın arkadaşınız değilse zor iş.<br/><br/>bizim işyerinde bir kız var.<br/>maalesef ne zaman odaya girse, çıkınca havalandırıyoruz.<br/>yanında kaç kere koku imasında bulundum ama hiç üstüne alınmıyor.<br/>yani birinin direkt söylemesi gerekiyor.<br/>erkekler olarak bizim söylememiz olmaz, daha çok rencide olur.<br/>yakın kız arkadaşları da şikayetçi olduğu halde söylemeye yanaşmıyor.<br/>ne yapsak çaresiz kaldık biz de.<br/><br/>umarım günün birinde ekşi nickimi öğrenir de burayı okuyarak kendini fark eder.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    bill gates'in bilgisayara oturunca ilk yaptığı iş
-  entry_id:  86684264
-  entry_writer: ertansahannn
-  entry_fav_count: 13
-  entry_content: |
-    sağa tıkla-masaüstünü yenile
-  entry_channels: anket
-- entry_name: |
-    sürekli kağıt sıkıştıran yazıcı
-  entry_id:  86675825
-  entry_writer: ananizi sikmeye yemin ettim
-  entry_fav_count: 11
-  entry_content: |
-    iş hayatını kabusa çeviren yazıcıdır. çoğu işyerinde vardır bunlardan, her 5 sayfada bir sıkışan kağıdı çıkartmanız gerekir.
-  entry_channels: teknoloji
-- entry_name: |
     14 şubat
   entry_id:  86664954
   entry_writer: gravatli okuz
@@ -342,7 +302,7 @@ data:
     elvis presley vs freddie mercury
   entry_id:  86672406
   entry_writer: oscar de la hoya
-  entry_fav_count: 8
+  entry_fav_count: 10
   entry_content: |
     biri kraldır, diğeri kraliçe.
   entry_channels: anket,sanat,müzik
@@ -363,6 +323,14 @@ data:
     (bkz: <a class="b" href="/?q=vilyada+he+mi">vilyada he mi</a>)
   entry_channels: siyaset
 - entry_name: |
+    çekici kadının tüm çekiciliğini götüren şeyler
+  entry_id:  86660929
+  entry_writer: elishafanz
+  entry_fav_count: 6
+  entry_content: |
+    hacı, hoca, dayı, gardaş gibi kelimelerle insanlara hitap etmesi. 30 yaşına gelmiş hala bizim lisede konuştuğumuz gibi konuşuyor bazı tipler. hele şu hacı kelimesi var ya, kendall jenner gelip bana hacı dese yemin ederim üzerine kusar ortamı terk ederim.
+  entry_channels: anket,ilişkiler
+- entry_name: |
     yurt dışında türk ile karşılaşmak
   entry_id:  86661026
   entry_writer: yohari
@@ -371,21 +339,37 @@ data:
     amerika'yi bilen bilir. otoyolda<sup class="ab"><a title="(bkz: interstate 95)" href="/?q=interstate+95" data-query="interstate 95">*</a></sup> giriste bilet alip cikista kullandiginiz kadar ödemek yerinde, ara ara giselerde durup belli araliklarla nakit para ödediginiz sacma sapan bir sistemi vardi eskiden. <br/><br/>2008 yilinda orlando civarinda arabayla gece yolculugu yaparken sabahin 4'ünde gise görevlisiyle muhabbet:<br/><br/>yohari: how much?<br/>gise: 1 dollar<br/>yohari: (son 2 saat icinde muhtemelen 4. sefer ayni muhabbetten fenalik gelmesi ve arabada da bozuk kalmamasi sebebiyle), 1 dolar diye diye belamizi s*ktiniz hııaamına.<br/>gise: ooo ayip oluyor ama birader...<br/><br/>ondan sonra mikronezya'ya dahi gitsem agzimdan cikana dikkat etmeyi ögrendim.
   entry_channels: ilişkiler
 - entry_name: |
-    ptt'nin 8 çeşit sebze satışına başlaması
-  entry_id:  86682573
-  entry_writer: johanericcalvinelmander
-  entry_fav_count: 4
+    şu anda çalan şarkı
+  entry_id:  86663768
+  entry_writer: umittaciri
+  entry_fav_count: 5
   entry_content: |
-    <a class="b" href="/?q=p">p</a>atlıcan<br/><a class="b" href="/?q=t">t</a>urp<br/><a class="b" href="/?q=t">t</a>aze fasulye<br/><br/>olarak adlandırabiliriz artık kendilerini.
-  entry_channels: siyaset,haber,ekonomi
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/eH2D0jxGHrg" title="https://youtu.be/eH2D0jxGHrg">nilüfer - bir mevsim arıyorum</a> <br/>bahar gelsin artık!
+  entry_channels: anket,müzik
 - entry_name: |
-    14 şubat 2019 google trenda seks pozisyonu araması
-  entry_id:  86666930
-  entry_writer: bunu da ben mi soyleyeyim
-  entry_fav_count: 4
+    apex legends
+  entry_id:  86660755
+  entry_writer: drammar
+  entry_fav_count: 5
   entry_content: |
-    istatistik bilimini bir tek kendilerinin bildiğini sananlar, bir trendi yorumlayacaksanız sample'ı geniş tutacaksınız diye bik bik zırvalamış ama yazarın yazdığını okumaktan aciz. <br/><br/>yazar, 13 ve 14 şubat tarihlerinde google şirketinin trends hizmetinde belli kelime gruplarında artış olduğundan bahsetmiş, ortada bir trend var dememiş. 13 ve 14 şubatta sevgililer gününe istinaden normal trend'den bir sapma (anomali) var demiş. <br/><br/>istatistik'ten iki kelime öğrenip her boka bunu yapıştırmayın aq.<br/><br/>edit: kaçmış arkadaş. <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://snpy.in/Z8Jijb" title="http://snpy.in/Z8Jijb">ifşa burada.</a>
-  entry_channels: haber
+    arkadaşlar kendim gibi kolsuz, yeteneksiz, ziyan takım arkadaslari ariyorum. oyunda daha tek kill alabilmişliğim yok.<br/>gelin beraber ölelim.<br/>bir yeşil uzağınızdayım.
+  entry_channels: oyun
+- entry_name: |
+    cep telefonlarında ötv'nin iki kat artırılması
+  entry_id:  86674048
+  entry_writer: kahveminsekeri
+  entry_fav_count: 2
+  entry_content: |
+    bu gidişte;<br/>(bkz: <a class="b" href="/?q=tanzim+teknosa">tanzim teknosa</a>)
+  entry_channels: haber,ekonomi
+- entry_name: |
+    yazarlara whatsapp'tan gelen son mesaj
+  entry_id:  86685637
+  entry_writer: kuzgunumtrak
+  entry_fav_count: 1
+  entry_content: |
+    annem can sıkıntısından ismek’in ingilizce kursuna yazılmış, şöyle bir ileti yolladı “müsait olunca call me”
+  entry_channels: anket,ekşi-sözlük,teknoloji
 - entry_name: |
     yazarların 2019 yaz tatil planları
   entry_id:  86666180
@@ -395,11 +379,27 @@ data:
     annemle beraber, ets gemisiyle <a class="b" href="/?q=yunan+adalar%c4%b1">yunan adaları</a>: rodos, mykonos, santorini.
   entry_channels: anket,seyahat
 - entry_name: |
-    yazarlara whatsapp'tan gelen son mesaj
-  entry_id:  86681557
-  entry_writer: bewar
+    türk insanının en çok sevdiği bilim dalı
+  entry_id:  86684887
+  entry_writer: isen buga
   entry_fav_count: 0
   entry_content: |
-    hayır, bir şeyim yok. galiba başkasından etkilenmeye başladım. (attığı tarih 17.04.2015 ti)
-  entry_channels: anket,ekşi-sözlük,teknoloji
+    rivayet ve efsane soslu menkıbecilik.<br/>türk halkına bilhassa muhafazakar ve bilgisiz yığınlara sunulan şey tarih değil, menkıbeler.<br/><br/>tarih, bir bilimdir ve kaynaksız konuşan da tarih falan yapamaz.<br/>bu tartışmaya kapalı.
+  entry_channels: 
+- entry_name: |
+    insanı değiştiren şeyler
+  entry_id:  86685704
+  entry_writer: peek a boo
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sava%c5%9f">savaş</a>)<br/>(bkz: <a class="b" href="/?q=g%c3%b6%c3%a7">göç</a>)<br/>(bkz: <a class="b" href="/?q=k%c4%b1tl%c4%b1k">kıtlık</a>)<br/>(bkz: <a class="b" href="/?q=ebeveynlik">ebeveynlik</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  86655703
+  entry_writer: dema zarok
+  entry_fav_count: 0
+  entry_content: |
+    canı sıkılan dert dinleyip dert anlatan varsa buyursun.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
