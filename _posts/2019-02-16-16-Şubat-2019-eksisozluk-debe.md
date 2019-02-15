@@ -6,7 +6,7 @@ data:
     merhametli bir yaratıcının vadettiği sonsuz ceza
   entry_id:  86700036
   entry_writer: rahatta dinleyin
-  entry_fav_count: 754
+  entry_fav_count: 760
   entry_content: |
     abd'li araştırma şirketi pew'in 2017 yılında paylaştığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bbc.com/turkce/haberler-dunya-39127472" title="https://www.bbc.com/turkce/haberler-dunya-39127472">verilere göre</a> dünyada 1,6 milyar müslüman yaşıyor. yine aynı araştırmaya göre, mevcut demografik eğilimler ışığında müslüman kadınların doğurganlık oranı, diğer dinlere mensup kadınlara kıyasla daha yüksek olduğundan, 2070 yılına kadar islam dini dünyanın en büyük dini olabilir. <br/><br/>tüm dünyada bu kadar fazla mensubu olan bir dinin kutsal kitabı hakkında, bütün saygımı koruyarak ve yalın bir mantık yürütme stratejisiyle hareket ederek bir takım değerlendirmeler yapacağım. isteyenler buraya yazdıklarımı, cevabını bulamadığım sorular olarak da ele alabilirler ve eğer mantıklı buldukları açıklamaları varsa paylaşabilirler. <br/><br/>kuran, alak-1 ile başladığı için ben de değerlendirmeme <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/sure/96-alak-suresi" title="https://kuran.diyanet.gov.tr/tefsir/sure/96-alak-suresi">alak-1</a> ile başlamak istiyorum. vermiş olduğum, diyanet işleri başkanlığına ait resmi web sitesine yönlendiren bağlantıya gidilirse görülebilir, bahse konu ayetin mealinden hemen sonra tefsir başlığı altında şöyle bir açıklama mevcut : <br/><br/>"hz. peygamber’e inen ilk vahiy olup ona ve onun şahsında bütün müslümanlara okumayı emretmiş, onları kalemle yazmaya ve ilimde gelişip yetkinleşmeye teşvik etmiştir. ilk vahyin “oku” emriyle başlaması ve bu emrin iki defa tekrar edilmesi, okumanın ve bilmenin dinde ve insan hayatında ne kadar önemli olduğunu göstermektedir." <br/><br/>bu güzel açıklama, okumanın ve bilmenin islamdaki önemini anlatmış. okumak ve bilmek de sorgulama yapmayı kaçınılmaz hale getirdiğinden, buradan aldığım cesaretle bazı sorgulamalar yapacağım. zira yaratıcıya ait sözlerden oluşan bir kitaba, hiçbir insan sorgulama yaparak zarar veremez. o kitapta herhangi bir tutarsızlık da bulamaz. yani bulamaması gerekir. bakalım kuran bu konuda ne söylüyor:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/575/82-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/575/82-ayet-tefsiri">nisa-82:</a> kuran’ı inceleyip düşünmüyorlar mı? eğer allah’tan başka birinden gelmiş olsaydı onda birçok tutarsızlık ve çelişki bulurlardı! <br/><br/>nisa-82'ye göre, şu andan itibaren yazacaklarımı birer soru olarak ele alırsak, tüm sorularımın mantıklı birer de cevabı olmak zorunda. <br/><br/>1. sonsuz cehennem cezası kavramı ile başlamak istiyorum. sonsuz cehennem cezasından bahseden ayetlere birkaç örnek vermek gerekirse:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Beyyine-suresi/6136/6-8-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Beyyine-suresi/6136/6-8-ayet-tefsiri">beyyine-6</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Furkân-suresi/2924/69-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Furkân-suresi/2924/69-ayet-tefsiri">furkan-69</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/282/275-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/282/275-ayet-tefsiri">bakara-275</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Mü&#39;minûn-suresi/2775/102-104-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Mü&#39;minûn-suresi/2775/102-104-ayet-tefsiri">müminun-103</a><br/><br/>örnekler çoğaltılabilir ama bir cezanın sonsuza kadar devam etmesi düşüncesi ile şahsen ben baş edemiyorum. bunu yazılı metin üzerinden okumak başka şey, böyle bir ana tanıklık etmek başka şey. bir insanın baya baya ateşe atılması, işlediği suç ne olursa olsun o kişiye çığlık çığlığa acı çektirilmesi ve en önemlisi de bu eylemin sonsuza kadar devam etmesi. bakınız sonsuza kadar diyorum. bir milyon yıl boyunca cayır cayır yanması yetmiyor yani. benim bunu aklım almıyor. merhametli bir yaratıcının böyle bir cezayı, kendi yarattığı bir insana reva görebilmesini mantıklı bulmuyorum. merhum ilahiyat profesörü <a class="b" href="/?q=ya%c5%9far+nuri+%c3%b6zt%c3%bcrk">yaşar nuri öztürk</a>, ebedi cehennem cezasını tanımlarken, ebedi sözcüğünün uzun bir süreyi ifade ettiğini söylüyor. ancak benim düşünceme göre, yüce yaratıcı eğer "uzun süre" demek isteseydi, "uzun süre" derdi. "ebedi" sözcüğünün sözlük anlamı ortadadır. bütün insanlara gönderilen bir kitapta bu kadar mecazi anlatım, metafor vs neden yer alsın. bu durumun kafa karışıklığına ve inananların şüpheye düşmesine neden olabileceğini, tanrı en başından bilmiyor muydu? her eğitim seviyesinden insan bu kitaptan sorumlu ise, kuran'ın yalın bir anlatımı vardır diye düşünüyorum. bazı ilahiyatçıların, birçok ayet hakkında sıklıkla bu tarz tevillere başvurmasını, ilgili ayetlerin içeriğini makul bir seviyeye getirme çabası olarak algılamaktan kendimi alamıyorum. <br/><br/>2. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Âl-i İmrân-suresi/378/85-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Âl-i İmrân-suresi/378/85-ayet-tefsiri">ali imran-85:</a> <br/>kim islam’dan başka bir din arama çabası içine girerse, bilsin ki bu kendisinden asla kabul edilmeyecek ve o âhirette ziyan edenlerden olacaktır.<br/><br/>bu ayete göre müslüman olmayan kişiler cennete giremiyor. cennete girememekle kalmıyor, ziyan edenlerden oluyor. ziyan etmekten kasıt zannediyorum cehenneme gitme cezasıyla cezalandırılmak. zira klasik islam modelinde cehennemde yanmak dışında bir ceza yok. <br/><br/>bugüne kadar ölenleri bir kenara bırakacak olursak, şu anda dünyada yaşayan 7,5 milyar insanın 1,8 milyarı müslüman. yani 5,7 milyar insan islam dinine mensup değil. ali imran-85'e göre 5,7 milyar insan eğer müslüman olmadan ölürse, henüz birinci aşamada cennete girme hakkını kaybedip doğrudan doğruya cehenneme gidecek. elimizde kalan 1,8 milyar müslümanın cennete gitmeye hak kazandığı, daha da önemlisi cehennemden kurtulduğu sonucu çıkmıyor elbette bu bilgiden. bilindiği gibi yine islam anlayışına göre, müslüman olanların da cenneti elde etmeleri pek kolay değil. hatta <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/15/8-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/15/8-ayet-tefsiri">bakara-8 diyor ki,</a> bu 1,8 milyarlık grubun içerisinde sayılarını bilmediğimiz bir münafık kesim de var. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/638/145-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/638/145-ayet-tefsiri">nisa-145</a> ise münafıkların cehennemin en aşağı tabakasında olacaklarını söylüyor. dolayısıyla onların da cennete girebilecek kişiler listesinden çıkarılmaları gerekiyor. münafık olmaktan kurtulmayı başaranlara gelince, onlar için cennete girebilmek adına aşmaları gereken başka engeller var. farz olan görevlerini yerine getirdiler mi? eğer getirdilerse, bu ibadetlerinin içine riya vs karıştırdılar mı? büyük günahlara bulaştılar mı? temel ahlaki ilkelere uygun bir yaşam sürdüler mi? kul hakkına girdiler mi? (bilindiği gibi islam anlayışına göre kul hakkı yememek çok önemli. <a rel="nofollow noopener" class="url" target="_blank" href="https://kurul.diyanet.gov.tr/Cevap-Ara/1007/kul-hakki-yemenin-hukmu-nedir--kul-hakki-nasil-odenir-" title="https://kurul.diyanet.gov.tr/Cevap-Ara/1007/kul-hakki-yemenin-hukmu-nedir--kul-hakki-nasil-odenir-">bir hadise göre</a> kul hakkı yiyenler, ahiret gününde, haklarını yedikleri kimselere, haklarını yedikleri ölçüde deyim yerindeyse sevaplarını kaptıracaklar. eğer sevapları yoksa da onların günahlarını üstlenecekler.) sonuç olarak kimin cennete gideceğini elbette allah bilir ama bu hesaba göre, şu an yaşayan insanlar arasında cennete girmeye hak kazanacak insan sayısının yüzde 5'i bulması zor görünüyor. şimdi gelelim kader meselesinin bu konuya bakan yönüne. islam inancına göre, henüz bu sınav başlamadan önce yaratıcımız, bahsi geçen yüzde 95'lik kesimin cehenneme gideceğini, orada cayır cayır yanacağını biliyordu. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Lokmân-suresi/3503/34-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Lokmân-suresi/3503/34-ayet-tefsiri">lokman-34</a> ve kader konulu başka birçok ayet bu bilgiyi doğruluyor. şimdi bir öğretmen düşünelim. bir sınavı başlatmadan önce, öğrencilerinin yüzde 95'inin o sınavdan kalacağını bilse ne yapardı. bana kalırsa bu öğretmen eğer merhametli bir öğretmense, hatta merhametli olmaktan öte mantıklı bir insansa bu sınavı başlatmazdı. görev yaptığı süre boyunca bizzat kendi yaptığı sınavlardan, öğrencilerinin yüzde 95'i kalan bir öğretmene birilerinin çıkıp bazı sorular sorması, ortaya çıkan sonuca itiraz etmesi kaçınılmaz olacaktır çünkü. kaldı ki verdiğim örnekte öğrenciler yalnızca ilgili dersi geçme mutluluğunu yaşamaktan mahrum kalıyorlar. ateşe atılmaları söz konusu değil.<br/><br/>3. bir insana ceza vermenin gerçek amacı nedir? ne olmalıdır? ıslah etmek mi yoksa intikam almak mı? bir insanın bir hayvana eziyet ettiği tipte görüntülerin yer aldığı bir video ile karşılaşırsak, hepimiz çok sinirleniyoruz değil mi? ben genelde alta yazılan yorumları okumadan geçmiyorum. bu yorumlarda bazı insanlar öyle şeyler yazıyorlar ki, dehşete düşüyorum. hayvana eziyet eden kişinin elbette işlediği suça uygun şekilde cezalandırılması gerekir. ancak yorumlara göz atarken, bu kişinin başının taşla ezilmesi gerektiğini savunan insanlarla bile karşılaşabiliyorum. böyle bir örnekte, bu yorumu yazan kişinin derdi şiddet içeren eylemlerin son bulması olabilir mi? "hayvanların hiçbir şekilde eziyet görmediği bir dünyayı nasıl kurabiliriz?" gibi bir derdi olabilir mi bu kişinin? şiddet içeren bir eylemi, şiddet içeren başka bir eylemle çözmek istiyor. bu yaklaşım tarzının bu problemi çözmeyeceğini, hatta daha da büyüteceğini öngöremiyor. bir insan herhangi bir insan tarafından mağdur edilince, aynı şey o kişinin de başına gelsin isteyebilir. ancak görüyoruz ki erdem seviyesi arttıkça bu durum değişiklik gösterebiliyor. bazı yüce ruhlu insanlar, intikamcı bir yaklaşımla hareket etmek yerine, o kişinin ıslah edilmesini, bir daha böyle bir suça bulaşmamasını sağlayabilecek bir ceza verilmesini, daha mantıklı bulabiliyor. farklı ülkelerdeki farklı uygulamalara bakınca görüyoruz ki, işlenen suça verilen karşılığın dozu sertleştikçe daha medeni, daha kuralcı toplumlar çıkmıyor karşımıza. peki hepimizi ve kainattaki her şeyi yaratan merhamet sahibi tanrımız, bu bilgilerle örtüşmeyecek tarzda intikamcı bir yol izliyor olabilir mi? hayatta olduğu sürece kişilere işledikleri suçlar karşısında müdahale etmeyip, adeta "sen ölüp de yanıma gelince ben sana yapacağımı bilirim." dermişcesine o kişinin ölmesini beklemesi ve sonra hiçbir şekilde ıslah etme amacı gütmeden intikamcı bir yaklaşımla onu cezalandırması söz konusu olabilir mi? yani mesela bu kişinin ruhunu bir kere bedenlendiren yaratıcı, bir kere daha, belki ihtiyaca göre yüzlerce kere daha bedenlendirip, acılarla dolu bu yeryüzü okulunda olgunlaşmasını sağlayamaz mı? (ceza konusuna bu tarz yaklaşımlar getiren başta merhum <a class="b" href="/?q=ya%c5%9far+nuri+%c3%b6zt%c3%bcrk">yaşar nuri öztürk</a>olmak üzere bazı müslüman din adamları da var. ancak ben klasik islam modeli üzerinden değerlendirme yaptığım için, bu tarz islam alimleri kapsam dışında kalıyor.) istisnasız her suçun karşılığının yanmak olması, yalnızca sürelerin değişmesi, bu cezanın ıslah etme amacı taşımaması mantıksız değil mi? <br/><br/>4. islamda cariye meselesini yine olabildiğince objektif bir bakışla ele almak istiyorum. önce ilgili ayetleri sıralayalım:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Meâric-suresi/5397/22-35-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Meâric-suresi/5397/22-35-ayet-tefsiri">mearic-30</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/517/24-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/517/24-ayet-tefsiri">nisa-24</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/518/25-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/518/25-ayet-tefsiri">nisa-25</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Mü&#39;minûn-suresi/2678/5-7-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Mü&#39;minûn-suresi/2678/5-7-ayet-tefsiri">müminun-6</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Mü&#39;minûn-suresi/2678/5-7-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Mü&#39;minûn-suresi/2678/5-7-ayet-tefsiri">nur-33</a><br/><br/>bugün insanlık suçu haline gelmiş bir eylemin tarifi yapılıyor bu ayetlerde. çerçevesi çiziliyor. bunun da ötesinde <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nûr-suresi/2824/33-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nûr-suresi/2824/33-ayet-tefsiri">nisa-33</a> mealinde şöyle bir cümle mevcut. "namuslu yaşamak isterlerse, dünya hayatının geçici menfaatini elde etmek için cariyelerinizi fuhuş yapmaya zorlamayın." buradan çıkan sonuca göre, cariyenin sözde sahibi konumundaki kişi, bahse konu kadının eğer namuslu yaşamak istemediği gibi bir düşünceye kapılırsa, o kadını fuhuş yapmaya zorlayabiliyor. ben çok temiz bir niyetle bu cümleyi okuduğumda bile bunu anlıyorum.<br/>diyanet işleri başkanlığının resmi web sitesinde, <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/517/24-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/517/24-ayet-tefsiri">nisa-24</a> ün tefsir bölümünde şöyle bir cümle var:<br/><br/>islam’ın geçmişten devraldığı ve zaman içinde ortadan kaldırmayı hedeflediği kölelik sistemine ait bulunan bu hükümler tarihe intikal etmiştir. <br/><br/>"zaman içinde ortadan kaldırmayı hedeflediği" şeklinde bir çıkarım yapabilmemiz için elimizde bunu doğrulayan ayetler olmak zorunda bana göre. kölelerin serbest bırakılmasına yönelik teşvik anlamına gelebilecek ayetler bulmak mümkün kuranda. ancak bu sistemi sonlandırma, köle edinmeyi kısa, orta ya da uzun vadede yasaklama talimatı veren bir ayet şahsen ben göremedim.<br/><br/>5. tarihsel süreç içinde ahlak kavramının yalnızca bölgeden bölgeye değil, dönemden döneme de değişiklik gösterdiğini görüyoruz. bir dönemde kölelik kavramı tüm dünyada normal karşılanıyorken bugün şeriatla yönetilen ülkeler bile insanlık suçu sayıldığı için, bunu uygulayamıyorlar. kuran ise bütün dönemlere ve bütün coğrafyalara, yani bütün insanlığa gönderilen bir kitap olduğunu söylüyor. bu şartlar altında verdiği talimatların, yaptığı bilgilendirmelerin hiçbir güncellemeye ihtiyaç duymaması gerekmiyor mu?<br/><br/>belki de 50 yıl sonra veganlık dünyanın bir çok ülkesinde yaygınlaşacak ve hayvanların etini yemek, sütünü içmek ayıp sayılacak. bugün bile inek sütünün zannedildiği gibi temel besin kaynağı sınıfında olmadığını savunan bilim insanları var. bu verdiğim örnek bir varsayım yalnızca. ama gerçekleşmeyeceğini garanti edebilir miyiz? sonuçta ineğin sütü belki de yalnızca yavruları içindir. bir takım dünya ölçeğinde ve profesyonel düzeyde yapılan pazarlama stratejileri sonucunda her şey bu noktaya gelmiştir.<br/><br/>mesela eroin bile "hero in", adıyla eczanelerdeki yerini alabilmiş yıllar önce. bugün satışı tüm dünyada suç teşkil ediyor. afyon kullanımı yurdumuzda o kadar yaygınmış ki bir dönemde, afyonu patlamak deyimi günlük dile girmiş. oruç tutmak için sahura kalkan bir kişi, afyonu ambalajlı şekilde yutuyor ve mide asidi o ambalajı saatler sonra eritince afyonun etkisi ancak ortaya çıkıyormuş. oruç tutan kişi de daha az süre afyonsuz kalıyormuş. henüz ambalaj erimeden canını sıkan bir durumla karşılaşırsa da, "afyonum bile patlamadı" diyormuş. bugün böyle bir anlayış söz konusu olabilir mi?<br/><br/>hızır reisler, turgut reisler döneminde dünya donanmalarında, ölüm cezasından bile ağır sayılan "forsa" uygulaması çok yaygınmış. hatta <a class="b" href="/?q=halikarnas+bal%c4%b1k%c3%a7%c4%b1s%c4%b1">halikarnas balıkçısı</a>nın <a class="b" href="/?q=turgut+reis">turgut reis</a> adlı kitabındaki anlatıma göre, dümen tutan kişinin canı sıkılmasın diye ispanyol donanmasında uygulanan bir adet varmış. forsalardan biri, küpeşte üzerine monte edilen bir karış uzunluğunda bir kazığa oturtulurmuş. bu şartlarda bu kişinin ölmesi 2 gün civarında sürermiş. bu kürek mahkumu şahıs, ölene kadar geçen sürede, dümen tutan kişinin uykuya dalmaması için onun eğlencesi haline getirilirmiş. bu kitaba roman diyip geçemeyiz. zira cevat şakir, 1908 yılında oxford üniversitesi yeni çağlar tarihi bölümünden mezun olmuş bir tarihçidir aynı zamanda. yine aynı kitaptaki anlatıma göre turgut reis, bir büyük zafer sonrası forsalara ganimetten pay vermek istediği için, kendi tayfasının, kendi elleriyle seçtiği tayfasının tepkisi ile karşılaşmış. insanın aklı almıyor bir yerden sonra. ayrıca harp gemilerinin denizde karşılarına çıkan herhangi bir ticari gemiye rampa etmesi ve o gemiden ganimet alması tüm dünyada tamamen olağan sayılan bir durummuş o yıllarda. bugün bu tarz bir eylem "terör" olarak adlandırılıyor. <br/><br/>son olarak kadınlar konusunda bir örnek vermek istiyorum. atatürk kadınlarımıza seçme ve seçilme hakkı verdiği zaman, batı medeniyetleri için bile yenilik sayılan bir devrimsel hareket anlamına geliyordu bu. atatürk gibi dahiyane özellikler taşıyan bir liderin bu güzel gelişmeye öncülük etmesi normal karşılanmalı ama, aradan henüz 100 yıl dahi geçmemiş olmasına rağmen, bugün şeriatla yönetilen arap ülkeleri bile kendini kadınlar konusunda bazı adımlar atmaya mecbur hisseder hale gelmiş durumdalar. <br/><br/>bu konu üzerinden çok sayıda örnek verilebilir (birleşik devletlerdeki ırkçılık meselesinin tarihsel gelişimi, antik roma'da yaygın şekilde uygulanan gladyatörlüğün son bulması vs vs) ama daha fazla uzatmak istemiyorum. sonuç olarak bazı doğrular bölgeden bölgeye, dönemden döneme değişebiliyor. dinlerin koyduğu değişmesi gündeme dahi getirilemeyen katı kurallar, bu değişime ne kadar adapte olabiliyor. burada ciddi bir soru işareti var bana göre. <br/><br/>6. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Mâide-suresi/751/82-86-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Mâide-suresi/751/82-86-ayet-tefsiri">maide-82:</a> kuşku yok ki iman edenlerin, insanlar içinde en amansız düşmanlarının yahudiler ve şirk koşanlar olduğunu göreceksin. yine, onlar arasında iman edenlere sevgi bakımından en yakın olanların da, "biz hristiyanız" diyenler olduğunu göreceksin. çünkü bunların içinde (insaflı) keşişler ve rahipler vardır ve onlar büyüklük taslamazlar.<br/><br/>bu ayeti okuyan müslüman bir kişi, hristiyanlar hakkında olumlu hislere kapılıp, eğer etrafında varsa hristiyanlık dinine mensup kişilerle dostluk etmeyi düşünebilir. ancak aşağıda yer alan ayeti okursak, bu kişinin yanlış bir hisse kapıldığı sonucunu çıkarabiliriz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Mâide-suresi/720/51-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Mâide-suresi/720/51-ayet-tefsiri">maide-51:</a> ey iman edenler! yahudileri ve hristiyanları veli edinmeyin. onlar birbirlerinin velileridir. sizden kim onları dost edinirse şüphesiz o da onlardandır. allah zalimler topluluğunu hidayete erdirmez.<br/><br/>7. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Câsiye-suresi/4487/14-15-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Câsiye-suresi/4487/14-15-ayet-tefsiri">casiye-14:</a> iman edenlere söyle de allah’ın (yargı) günlerine inanmayanları bağışlasınlar; çünkü (böyle) bir topluluğu, hak etmeleri yüzünden allah cezalandıracaktır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/263/256-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Bakara-suresi/263/256-ayet-tefsiri">bakara-256:</a> dinde zorlama yoktur. doğru eğriden açıkça ayrılmıştır. artık kim sahte tanrıları reddeder de allah’a inanırsa kopmayan sağlam bir kulpa yapışmıştır. allah her şeyi işitir ve bilir.<br/><br/>bu ayetlerin ifade ettiği anlamlar çok açık. ahiret gününe inanmıyor diye hiç kimse üzerinde baskıcı bir tutum sergilenemez. hiç kimse, hiç kimseyi inancı konusunda zorlayamaz. mesela hristiyanların kendi aralarında yaptığı oldukça çetin geçen mezhep savaşları sonrası istanbul'u fetheden fatih sultan mehmed'in yazdığı mektupla isteyen tüm hristiyanların istanbul'a dönebileceklerini, özgürce inançlarının gereklerini yerine getirebileceklerini söylemesi belki de bu sebepledir.<br/><br/>bugün var olan din ve vicdan hürriyeti anlayışı ile de örtüşen modern bir yaklaşımla karşı karşıya olduğumuzu görüyoruz kutsal kitabımızda yer alan bu iki ayete bakınca. ama gelin görün ki bu konuda verilen talimatlar bu iki ayetle sınırlı değil kuranda. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Tevbe-suresi/1264/29-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Tevbe-suresi/1264/29-ayet-tefsiri">tevbe-29:</a><br/>ehl-i kitap’tan allah’a ve ahiret gününe inanmayan, allah ve resulünün yasakladığını yasak saymayan ve hak dine uymayan kimselerle, yenilmiş olarak ve kendi elleriyle cizye verinceye kadar savaşın.<br/><br/>işte bu noktada islam alimleri devreye girerek bazı tevillere başvuruyorlar. diyanetin tefsir bölümünde yer alan açıklamalarına göre bu tarz ayetler, ayetlerin indiği dönemde gerçekleşen olaylarla birlikte ele alınmalı. bahse konu ayetlerin, genel bir talimat içermediğine, spesifik bir duruma yönelik olarak gelmiş olduğuna dair bir bilgilendirme yapılmış. yani bazı olaylar yaşanıyor. o esnada bu olaylara dair talimat mahiyetinde ayetler vahyediliyor. peki bu durumda kuran bütün zamanları ve bütün insanlığı kapsayan bir rehber olarak nasıl girebilir hayatımıza. tevbe-29'u okuyan bir müslüman şahıs, diyanetin tefsir bölümünde yer alan açıklamaları reddedip, doğrudan doğruya bu ayeti okuduğu zaman ne anlıyorsa onu uygulamaya kalkıştığında ne yapacağız? bugün örnekleri yaşanıyor bu söylediğim şeyin. asırlar boyunca da yaşanmış. kim nasıl isterse öyle yorumluyor. islam alimleri bile kendi aralarında büyük anlaşmazlıklar yaşamışlar. yaşamaya da devam ediyorlar. düşünün bugün hanefi mezhebinin kurucusu olarak bilinen imamı azam ebu hanife, yaşadığı dönemde, başka din alimleri tarafından tekfir edilmiş. kafirlikle itham edilmiş yani. aynı şey günümüzde de yaşanıyor. klasik islam modelinin temsilcisi pozisyonundaki çok sayıda din adamı, merhum yaşar nuri öztürk'ün küfre girdiğini, bu sebeple de cehennemlik olduğunu dile getirmekten çekinmiyor. burada bahsi geçen şahısların hepsi müslüman din adamları. hepsi aynı kutsal kitabı okuyorlar. islam alimi olarak tanımlanan insanlar bile en temel ve en kritik konularda mutabakat sağlayamıyorlarsa, eğitimsiz bir müslüman nasıl bir değerlendirme yapacak? hangi hocanın izinden gidecek? <br/><br/>8. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nûr-suresi/2793/2-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nûr-suresi/2793/2-ayet-tefsiri">nur-2:</a><br/>zina eden kadın ile zina eden erkeğin her birine yüz sopa vurun. allah’a ve ahiret gününe inanıyorsanız, allah’ın dinini uygulama hususunda o ikisine karşı merhamet duygusuna kapılmayın. müminlerden bir grup da onlara uygulanan cezaya tanık olsun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/508/15-16-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/508/15-16-ayet-tefsiri">nisa-15:</a> kadınlarınızdan çirkin fiilde bulunanlara karşı aranızdan dört şahit getirin. eğer şahitlik ederlerse, o kadınları ölüm alıp götürünceye yahut allah onlara bir yol açıncaya kadar evlerde tutun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/508/15-16-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Nisâ-suresi/508/15-16-ayet-tefsiri">nisa-16:</a> içinizden bu çirkin fiili işleyen ikilinin canlarını yakın. eğer tövbe eder, durumlarını düzeltirlerse artık onlara eziyet etmekten vazgeçin; çünkü allah tövbeleri çok kabul eden, çok esirgeyendir.<br/><br/>zina hakkında 3 farklı ayete yer verdim yukarıda. nisa-15 ve nisa-16 hakkında yukarıda vermiş olduğum bağlantıya gidilirse tefsir bölümünde bir açıklama ile karşılaşıyoruz. bir erkek ve bir kadın zina suçunu işlerse nur-2'nin uygulanması gerektiğini, iki kadının zina suçunu işlemesi durumunda nisa-15'in, iki erkeğin zina suçunu işlemesi durumunda ise nisa-16'nın uygulanması gerektiğini ifade eden bir bilgilendime var. ayrıca yine aynı açıklama içerisinde yer alan bir hadise göre, zina suçunu işleyen erkek ve kadın eğer evli iseler cezaları recmedilerek öldürülmek. peki bu bilgilendirme, ayetler içerisinde, tartışmaya yer vermeyecek şekilde ve apaçık bir biçimde neden yapılmadı? islam alimleri bu sonuçlara nasıl ulaştılar. ben tefsir bölümünü okumadan önce nisa-15 ve nisa-16'dan eşcinsel ilişkiden bahsedildiğine dair bir sonuç çıkaramadım şahsen. <br/><br/>9. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Lokmân-suresi/3483/14-15-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Lokmân-suresi/3483/14-15-ayet-tefsiri">lokman-15:</a> eğer anne baban, hakkında bilgin olmayan bir şeyi bana ortak koşman için seni zorlarlarsa bu durumda onlara uyma ama yine de onlara dünyada iyi davran; yüzünü ve özünü bana çevirenlerin yolunu izle; dönüşünüz yalnız banadır, o zaman yapıp ettiklerinizin sonucunu size bildireceğim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Tevbe-suresi/1258/23-24-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Tevbe-suresi/1258/23-24-ayet-tefsiri">tevbe-23:</a><br/>ey iman edenler! şayet inkarı imana tercih ederlerse, babalarınızı ve kardeşlerinizi dahi dayanıp güvenilecek dostlar edinmeyin. içinizden kimler onları dost edinirse, işte kendilerine kötülük edenler bunlardır. <br/><br/>lokman-15'e göre anne ve babaya inanç konusunda zorlama yapmalarına rağmen iyi davranmaya devam etmek gerekiyor. tevbe-23'e göre ise herhangi bir baskı söz konusu olmadığı halde, onlarla dostluk edilmesi kesin bir biçimde yasaklanıyor.<br/><br/>10. <a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Mâide-suresi/738/69-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Mâide-suresi/738/69-ayet-tefsiri">maide-69:</a> iman edenler, yahudiler, sâbiîler ve hristiyanlar, (bunlardan) allah’a ve ahiret gününe inanıp dünyaya ve ahirete yararlı işler yapanlara korku yoktur ve onlar üzülecek de değillerdir.<br/><br/>görüldüğü gibi oldukça hoşgörülü bir mesajı var maide-69'un. ne var ki ali imran-85'i okuyunca her şey bambaşka bir hal alıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kuran.diyanet.gov.tr/tefsir/Âl-i İmrân-suresi/378/85-ayet-tefsiri" title="https://kuran.diyanet.gov.tr/tefsir/Âl-i İmrân-suresi/378/85-ayet-tefsiri">ali imran-85:</a> kim islam’dan başka bir din arama çabası içine girerse, bilsin ki bu kendisinden asla kabul edilmeyecek ve o ahirette ziyan edenlerden olacaktır.<br/><br/>bu iki ayeti okuyunca ortaya çıkan çelişki hakkında da akla yatkın bir açıklama çıkmadı karşıma.<br/><br/>11. islam alimlerine bakılırsa kuran çok derinlikli bir kitap olduğu için, bazı ayetlerin ifade ettiği birden fazla anlam var. hatta bir 7 anlam meselesi var birkaç yerde geçen. peki yaratıcı neden böyle bir yol seçmiş olabilir? ben buna mantıklı bir cevap bulamadım. ancak her okuyanın farklı şekilde yorumlamasına açık olan bazı ifadelerin yol açtığı olumsuzluklara biraz da başka bir açıdan bakmak istiyorum.<br/><br/>daha önce söylemiş olduğum gibi kuran varoluşundan itibaren tüm zamanlara ve tüm insanlığa hitap ettiğini söyleyen bir kitap. peki insanlık hangi koşullarda yaşam sürüyor yeryüzünde? koşullar hakkında söylenecek çok şey var ama ben din istismarı meselesine değineceğim bu maddede. dünyanın her coğrafyasında her dönemde değişmeden devam eden bir durum var; din istismarcılarının mevcudiyeti. bazıları kitleleri peşinden sürüklemiş bu yolla. hatta büyük çapta tarihi gelişmelerin yaşanmasına neden olmuş. savaşlara yol açmış bu insanlar. belki binlerce insan ölmüş bu yüzden. kimileri hapse düşmüş. kimileri mallarını kaybetmiş. çocukları kandırıp ailelerinden koparmışlar. yeri gelmiş çocuklar anne ve babalarına düşman olmuşlar. her dönemde başka başka acılar yaşanmış. bugün hala yaşanıyor. ne sebeple yaşanmış bütün bunlar? cevapsız sorularla dolu bir dünyada yaşayan ve aslında derin derin düşünmeye başlayınca endişeye kapılan, bazen çok korkan varlıklarız. birileri de söylediği yalanlarla bu durumu kolayca istismar edebiliyor. allah diyor kandırıyor. şeytan diyor kandırıyor. ben peygamberim, hatta ben tanrıyım diyerek kandırmayı başaran bile olmuş. hz muhammed vefat ettikten hemen sonra yalancı peygamberler çıktığını ve birilerinin de onların peşine takıldığını biliyoruz. bu gibi durumlarda kendisine anlatılanlara temiz niyetlerle inanan ve birilerinin güdümüne girip özgür düşünceden uzaklaşan insanları ne kadar suçlayabiliriz? sonuçta koşullarla çok büyük ilgisi var kimin ne seviyede bilinçli hareket ettiğinin. hangi ailede doğduğu ile, nasıl bir eğitim aldığı ile çok fazla ilgisi var. okula gitmeyi şeytanlaşmak sayan bir anne ve babanın çocuğu olarak dünyaya gelen bir insanın özgür düşünmeyi başarması ile, aydın bir anne ve babanın çocuğu olarak dünyaya gelen bir insanın bunu başarması arasında uçurumlar var. din çok başka bir olgu. diğer hiçbir şeye benzemiyor. neden bu dünyaya geldik sorusunun cevabını hiç kimse, bilim de dahil kanıtlarla ortaya koyamıyor. dolayısıyla her senaryo birilerine inandırıcı gelebiliyor. çünkü korku kavramı giriyor devreye. bunu yapmazsan cehenneme gideceksin diyen biri var karşında. buna inanmazsan akıbetin çok kötü olacak diyen biri var. aklından bütün bunların yalan olduğu geçerse kafir olur ve ebediyen cehennemde kalırsın diyen biri var. bu din istismarcılarının, karşımıza çıkan çoğu örnekte üst seviyede hitabet ve belagat becerileri var. kandırılan kişinin ise bu yalanlara kanmamak için ihtiyaç duyulan en önemli şeylerden yoksun bir hayat sürdüğünü hatırda tutmak gerekiyor. hatta iyi eğitim almış insanlar bile kolaylıkla aldanabiliyorlar bu konuda. çünkü çocuk yaşından itibaren inançla ilgili meselelere korku odaklı yaklaşması ve belli kalıplardan asla sıyrılmaması bir şekilde sağlanmış. çok yönlü okumalar yapmamış din konusunda. özgür düşünmeyi öğrenememiş. bazen sorduğu sorular sebebiyle ikaz edilmiş. fazla sorgulama yapmaması, tanrıyı akılla değil kalple bulabileceği söylenmiş. bu tarz sorgulamalar yapmaya devam etmesi durumunda dinden çıkabileceği söylenmiş. bugün ülkemizdeki evlerin belki tamamına yakınında kuran vardır. ama kaç kişi açıp türkçe mealini baştan sona okumuştur. şimdi çıkıp birisi diyebilir ki, eğitimsiz olduğu halde din istismarcılarına aldanmayanlar da var. onları ne yapacağız, diye sorabilir. böylesi otodidakt olarak adlandırılabilecek istisnalar her zaman çıkacaktır. önemli olan ezici çoğunluğun içinde bulunduğu durum bana göre. din istismarı sorunu bu dünyayı nasıl bir cehenneme dönüştürmüş? önemli olan bu. <br/><br/>işte koşullar böyle yeryüzünde. bu koşulların böyle olacağını en başından bilen bir yaratıcıdan bahsediyor islam dini. dolayısıyla neden böyle herkesin işine geldiği gibi yorumlamasına açık, kesinlik içermeyen ifadeler kullanmış olabilir tanrı, aşırı derecede hayati meselelerden bahsederken? ben bu soruya mantıklı bir cevap bulamadım. bulan varsa dinlemek isterim.<br/><br/>12. <a class="b" href="/?q=talmud">talmud</a> meselesi gibi açıklama gerektiren, şüphe oluşturan başka meseleler de var ama bunların tamamına burada yer vermek mümkün değil. kafamda oluşan bütün bu sorulara rağmen, ben şahsen bir yaratıcının varlığına inanmaya devam ediyorum. bu inancımı hangi argumanlarla desteklediğimi maddeler halinde sıralamak istiyorum.<br/><br/>a. evrenin varoluşu bana göre irrasyoneldir. bilimsel yaklaşımlara büyük bir önem veriyor olsam da şunu açık şekilde görüyorum ki bilim bazı noktalarda varsayımlarla hareket etmek zorunda kalıyor. mesela büyük patlamanın öncesine, böyle bir patlamanın neden gerçekleştiğine dair yapılan açıklamalar bilindiği gibi tatmin edici olmaktan çok uzak. evren en başından hiç var olmasaydı bence daha mantıklı olurdu. evrenin var olması için bir sebep var mıydı? varsa o sebep neydi? işte bu şartlarda evrenin tanrı tarafından var edildiği ihtimali güçleniyor zihnimde. yine aynı şekilde evrende bizlerin, evrenin varoluşunu sorgulayan canlıların yaşıyor olmaları da bana göre olağanüstü durumlara işaret ediyor. yalnızca fizyolojik olarak ele alınca, insanı evrimleşerek gelişmiş bir canlı gibi, diğer türlere kıyasla daha donanımlı bir organizma gibi gördük diyelim, düşünce gücünü ve bir ruhu olduğuna olan inancımı hesaba katınca insanı olağanüstü bir varlık olarak görmekten kendimi alamıyorum ben şahsen. bu ve benzeri nedenlerle ölüm sonrası yaşamın varlığını kabul ettikten sonra artık akıl dışı bir alana geçiş yapıldığı için bugünkü aklımla okurken bana fantastik ve hayal ürünü gibi görünen anlatımların gerçek olma ihtimalleri aslında çok güçlü. bilimin her konuya bir açıklık getirme çabasını, her soruya rasyonel bir cevap verme gayretini çok seviyorum açıkçası. bu alanda bilgi seviyemin artması için uğraş da veriyorum. ancak bilimin ortaya koymaya çalıştığı şey sebeplerden ibaret. işte ben bu sebepleri de var eden bir yaratıcının var olduğuna inanıyorum. <br/><br/>b. descartes bilindiği gibi, insan ruhunda doğuştan bulunan fikirler olduğunu, tanrı fikrinin de yani sonsuz ve mükemmel bir varlık hakkındaki fikirlerin de bu türden olduğunu söylemiş. bu en mükemmel ve en gerçek varlık fikrinin bize duyularımız yoluyla gelmiş olamayacağı, çünkü duyularımızın bize tanıttığı şeylerin mükemmel ve kusursuz varlıklar olmadığı sonucuna ulaşmış ve buradan şu çıkarımı yapmış: "biz kendimiz de mükemmel bir yaratık değiliz; eksik ve sınırlı bir varlığız, öyleyse bu fikri bizim ruhumuza koyan tanrının bizzat kendisidir; demek ki tanrı mevcuttur." modern filozofinin babası sayılan fransız filozofun mantık yürütme tekniği ve ulaştığı sonuçlar beni belli ölçüde etkilediği için, bir yaratıcının var olduğuna inanmamın sebeplerinden biri bu olabilir.<br/><br/>c. yeryüzünü acılarla dolu bir okul gibi görüyorum. önceden bazı insanların dertsiz tasasız bir yaşam sürdüklerini zannederdim. sonra anladım ki başka başka türlerde büyük dertlerle yaka paça herkes. jim carrey'nin bu konuda söylediği ve her yerde karşımıza çıkan o bilindik sözü çok anlamlı: "umarım bir gün herkes zengin ve şöhretli olur. böylece aradıklarının bu olmadığını anlarlar." <a class="b" href="/?q=michael+newton">michael newton</a> un <a class="b" href="/?q=ruhlar%c4%b1n+yolculu%c4%9fu">ruhların yolculuğu</a>kitabında tarifini yaptığı modeldeki gibi herkes kendisi mi seçiyordur burada yüzleşmek istediği sıkıntıları bilemem. ama ben şahsen, bu dünyada organize şekilde acı çektirildiğini düşünüyorum insanlara. hiçbir zaman hiçbir şey için arzu edilen seviyede bir tatmin yakalanamıyor bu hayatta. yaşarken çok sıkıcı her şey. dönüp geriye bakarken güzelleşiyor genelde. uzaklaştıkça değerleniyor sahip olunan ne varsa. yakınlaştıkça sıradanlaşıyor. insan büyüdükçe hayalleri küçülüyor. mutluluğu elde etmesi giderek zorlaşıyor. hiçbir derdi yok zannedilen adama bir bakıyorsun, intihar ediyor bir anda. düşünsenize yaşamaya daha fazla tahammül edemeyeceği seviyede ne yaşıyor bu insan? eğer kendi isteği ile yaşamına son veren kişi varlıklı biriyse, yoksullukla boğuşan bir başkası, intihar eden kişiyi en ağır şekilde yargılamaktan çekinmeyebiliyor. sonuçta çok parası olan birinin ne kadar derdi olabilir ki diye düşünüyor. dünyada başka başka sebeplerle büyük acılar yaşanmıyor zannediyor. ama durum göründüğünden daha karmaşık. yıllarca hayalini kurduğu hedefe ulaşan bir insan, beklediği ölçüde bir mutluluk elde edemiyor asla. diyelim ki böylesi bir mutluluğu elde etti, o zaman da kısa süre içinde yepyeni sıkıntılarla kuşatılmış buluyor kendini. yalnızca başka insanları mutlu etmekten geçiyor gerçek mutluluğun yolu. diğer her şey peşinde koşmaktan yorulmadığımız seraplardan, sanrılardan ibaret. bir tekine aldanmamız yeterli olmuyor, gerçekte ne olup bittiğini anlamamız için. bütün yalanların peşinden tek tek koşuyoruz yaşamımız sonlanana kadar. yaşlanınca durum değişir zannedebiliyor genç olanlar. yaşlanınca artık bu dünyadan bir şey beklemeyeceğini zannedebiliyorlar. ama bunun böyle olmadığını anlamak için yaşlanmak gerekmiyor.<br/><br/>sonuç olarak belki de seviyemizi yükseltmek için, "no pain no gain" kaidesi ekseninde yeryüzü okuluna gelmeye kendimizi mecbur saydığımız için, içimizde var olan iyiyi, kötü olan ne varsa hepsinden arındırıp tanrısal öze ulaşmak için, kendi isteğimizle geliyoruzdur dünyaya. belki de gnostizm inanışında olduğu gibi dünya hayatı bir çeşit hapishanedir. aslolan hayat ruhani hayattır. bu sıkıntılar burada büyük anlamlar ifade ediyor ama orada belki de michael newton'un modelinde olduğu gibi geçmiş zaman, bugün ve gelecek zaman bir bütün olarak görülebiliyor, algılanabiliyordur. bir insanın bildiği her şeyi unutmuş olarak yeryüzünde bedenlenmesi ve sonra aslolana, yani ruhani aleme geri dönmesi belki de aslında çok kısa bir süreçtir. ben çok önceleri "ezeli" kavramını anlayamazdım. peki bir milyar yıl önce ne vardı diye sorardım. tanrı o zaman da vardı diyen birine, peki 100 milyar yıl önce ne vardı diye sorardım. ama uzay zamanın bükülmesi gibi, kara delik gibi kavramlarla tanışınca, hatta zamanın dışına çıkılması gibi meseleler hakkında yapılan bilimsel tartışmalara tanıklık edince "o hep vardı" şeklinde bir kavramı aklımla biraz olsun kavrayabilir hale geldim. <br/><br/>esasen michael newton'un modeline de, spiritüalizme de, tibetin ölüler kitabına da, budist öğretilere de, diğer semavi dinlere de aklım tam anlamıyla yatmadı. hepsinde içinden çıkılması zor açmazlarla karşılaştım. önemli sorularım için tatmin edici cevaplar bulamadım. tüm dinlerde ve tüm inanışlarda, o inancın mensupları aksini iddia etseler de bir şeylerin değiştirilmiş olduğu düşüncesi ağır bastı. budanın oldukça örnek bir yaşam sürdüğüne eminim ama kendisinin ölümünden sonra sahneye çıkan istismarcılar, kim bilir neler eklediler öğretisine. mesela merhum yaşar nuri öztürk, hz muhammed'e ait hadislerin tamamına yakınının gerçek olmadığına inanıyor. bir şey söylemek, bir değerlendirme yapmak zor. dinlerde durum böyle ama ateizme de hiçbir şekilde yakınlık duymadım, duymuyorum. çünkü gördüm ki herkes bakmak istediği pencereden bakıyor bütün meselelere. bir şekilde bu çok mümkün. neye inanmak istiyorsan ona uygun argümanlar bulabilmek, hatta üretebilmek çok mümkün. her şeyi bilimle açıklama çabası da bir yerden sonra zorlama geliyor bana. mana uçup gidiyor tamamen. ateist bir şahsın, peki hayatın anlamı ne sorusuna şöyle bir cevap verdiğine tanıklık ettim bir videoda: "bu soru çok soruluyor bana. bunu soran kişiye, evet senin yaşamının bir anlamı yok demek istiyorum, ama nezaketen diyemiyorum. bu anlamı kişinin kendi kendine belirlemesi gerekiyor. anlamsızlığa düşmemesi gerekiyor." işte ben bu söyleme itiraz ediyorum. anlam bütün insanlığı, hatta bütün evreni kuşatmak zorunda bana göre. belli seviyede eğitim almış ve kişisel gelişim öğretilerinden beslenmiş bir insan olarak bunu söylemen kolay. afrikada açlıkla boğuşan bir kabilede dünyaya gelen bir çocuğa, ya da zihinsel engelli olarak dünyaya gelen bir çocuğa bunu anlatabilir misin? bu vb nedenlerle bir yaratıcının varlığına inanıyorum. peki antropomorfik bir tanrı anlayışı mı, yoksa soyut bir tanrı anlayışımı mı (zeki bir enerji, tanrısal bir varlık) daha akla uygun? bu konu hakkında da yazmaya başlarsam işler çığırından çıkacak. o nedenle bu noktada son vermek istiyorum sözlerime. <br/><br/>inanç konusunda objektif olabilmek çok zor. insanlar kişiliğinin bir parçası haline getiriyorlar bu konuyu. eleştiri yöneltilince de bu eleştiriyi kişiliğine yönelik olarak yapılmış bir eleştiri gibi algılayabiliyorlar. bu nedenle insanların kutsal saydığı değerlerden bahsederken ölçülü ve saygılı olmak çok önemli. ben de bu altın kuralı uygulamaya çalıştım böylesine hassas bir konu hakkında değerlendirme yaparken. umarım başarabilmişimdir.
   entry_channels: siyaset,anket
@@ -14,7 +14,7 @@ data:
     ekşi sözlük 20. yıl belgeseli
   entry_id:  86715996
   entry_writer: pena
-  entry_fav_count: 607
+  entry_fav_count: 635
   entry_content: |
     20 yıl önce sözlük'ün nasıl kurulduğunu, o günlerde neler yaşandığını anlatan <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+20.+y%c4%b1l+belgeseli">ekşi sözlük 20. yıl belgeseli</a> yayında. <br/>1. bölümü izlemek için: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/tENkclsn4JY">https://youtu.be/tenkclsn4jy</a>
   entry_channels: ekşi-sözlük,tarih,programlama,teknoloji
@@ -22,7 +22,7 @@ data:
     15 şubat 2019 mhk'ya yapılan skandal atamalar
   entry_id:  86711491
   entry_writer: unending melancholia
-  entry_fav_count: 307
+  entry_fav_count: 308
   entry_content: |
     şu ülke futbolunun amına koydunuz. sabri çelik denilen herif galatasaraylı, hamza mısır fenerbahçe nefretine sahip bir adam. ne yapmaya çalışıyorsunuz ulan siz?<br/><br/>fatih terim'i atasaydınız keşke.
   entry_channels: spor
@@ -30,7 +30,7 @@ data:
     reis sedat peker'in temel karamollaoğlu'na cevabı
   entry_id:  86716756
   entry_writer: vurdumduymazinsan
-  entry_fav_count: 245
+  entry_fav_count: 251
   entry_content: |
     10 saniye dayanabildim. ıq seviyem 10 puan düştü!
   entry_channels: siyaset
@@ -38,7 +38,7 @@ data:
     bebeğine çamaşır suyu enjekte eden kadın
   entry_id:  86714998
   entry_writer: fikritakipp
-  entry_fav_count: 227
+  entry_fav_count: 229
   entry_content: |
     avcılar'da elif k. isimli insan demeye dilim varmayan insan müsvettesi 'kızına ısınamadığı' gerekçesiyle şırıngayla vücuduna çamaşır suyu ve sıvı sabun enjekte edip jiletle keserek işkence yapmış. 1 aylıkken kulaklarından ve göbek deliğinden kan gelen bebeği, babası doktor doktor gezdirse de teşhis konulamamış. daha sonra bir doktorun annenin konuşmalarından şüphelenmesi üzerine polis devreye sokulmuş ve kadın gözaltına alınmış. <br/>bir baba olarak dehşet ve hayrete düşerek okudum haberi. nasıl olabilir diye aklım almıyor. yazmak, söylemek istediğim çok şey var ama dün akşam televizyonda duyduğum bir cümleyi yazarak entryi noktalayayım;<br/>'susuyorum ama bağırarak susuyorum'<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.dha.com.tr/istanbul/miray-bebege-oz-annesinden-camasir-sulu-iskence/haber-1626710" title="http://www.dha.com.tr/istanbul/miray-bebege-oz-annesinden-camasir-sulu-iskence/haber-1626710">haber</a>
   entry_channels: ilişkiler,haber
@@ -46,15 +46,23 @@ data:
     hoşlanılan kızın whatsapp'tan gönderdiği son mesaj
   entry_id:  86695527
   entry_writer: quantumleap06
-  entry_fav_count: 182
+  entry_fav_count: 186
   entry_content: |
     en son hoşlandığım bir kız olduğunda henüz whatsapp yoktu.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    bütçenin ocak ayında 5 milyar tl fazla vermesi
+  entry_id:  86707999
+  entry_writer: izmiredestek
+  entry_fav_count: 186
+  entry_content: |
+    borçlanmayı devlet yapmıyor. borçlu olan özel sektör. hala anlatamıyoruz. kaç firma konkordato ilan etti? kaç firma iflas etti? ülke olarak 575 milyar dolar cari açığımız var.<br/><br/>maliye ve hazine bakanlığı 5 milyar tl (1 milyar dolar) fazla verse ne olur?
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     doktorlara fahiş maaşlar verilmesini istemiyoruz
   entry_id:  86699546
   entry_writer: mitdemstrom
-  entry_fav_count: 163
+  entry_fav_count: 164
   entry_content: |
     bir kere de başkasının maaşı çok diye değil kendi maaşım az diye şikayet edin be arkadaş !
   entry_channels: anket,sağlık
@@ -67,37 +75,29 @@ data:
     <a class="b" href="/?q=patates+k%c4%b1zartmas%c4%b1">patates kızartması</a><br/>sıcak ve çıtır çıtır.. marketteki donmuş olandan degil gerçek patatesten yapılmış olacak.. asla bıkmam..
   entry_channels: anket,yeme-içme
 - entry_name: |
-    ateistlere göre abdullah öcalan'ın sonu
-  entry_id:  86708544
-  entry_writer: bosalma sebebi
-  entry_fav_count: 151
-  entry_content: |
-    zekice bir soru sorduğunu zanneden yazarın umduğu gibi olmayacak sondur. içinizi rahatlatmak için cehennem yaratmak istiyorsanız buyurun yaratın.<br/><br/>bu arada evlerinde sürekli bilimle uğraşan ateist vatandaşlar daha güzel bir uğraş için:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/3ffb9eba9229" title="https://eksiup.com/3ffb9eba9229">ilgi tedariği</a>
-  entry_channels: siyaset,anket
-- entry_name: |
     ateizmi çökerten soru
   entry_id:  86715392
   entry_writer: songoku89
-  entry_fav_count: 147
+  entry_fav_count: 149
   entry_content: |
     bu durumda seracilik sirke girmek olmuyor mu? <br/><br/>(bkz: <a class="b" href="/?q=beyin+yandi">beyin yandi</a>) <br/>(bkz: <a class="b" href="/?q=kafamda+deli+sorular">kafamda deli sorular</a>) <br/><br/>t: bitkilerin de evrim geciren, canli varliklar oldugunu izah edememis bir aptal barindiran baslik.
   entry_channels: 
 - entry_name: |
-    1 nisan 2019 akn'nin duran kotalıya dönmesi
-  entry_id:  86707905
-  entry_writer: oric
-  entry_fav_count: 144
-  entry_content: |
-    (bkz: <a class="b" href="/?q=haydaaa">haydaaa</a>)<br/><br/><a class="b" href="/?q=emeklilikte+ya%c5%9fa+tak%c4%b1lanlar">emeklilikte yaşa takılanlar</a>'dan sonra yeniden kazanılmış bireysel hakkın iptali hadisesi. 25 yaşında o konuda bik bik ötenlere kapak olsun<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201902151037679728-turk-telekom-yeni-tarife/" title="https://tr.sputniknews.com/turkiye/201902151037679728-turk-telekom-yeni-tarife/">https://tr.sputniknews.com/…rk-telekom-yeni-tarife/</a><br/><br/>"yeni uygulamaya göre, satışı durdurulan akn'li paketi kullanan aboneler 1 nisan'a kadar mevcut hızlarında limitsiz olarak hizmet alacak ancak nisan ayından itibaren paketleri 'kotasında duran'a dönüştürülecek. "<br/><br/>edit: link eklendi<br/><br/>edit-2: bireylerin kazanılmış hakları böyle yok sayılmaya devam ederse yarın öbürgün bankalar verdikleri tüketici kredisinin faizini de değiştirebilir (arttırabilir). sarı ineği vermeyeceksiniz bu konularda, emeklilik dersin 40 sene sonranın işi dersin 40 gün sonra başka yerden sokarlar böyle. afedersiniz
-  entry_channels: teknoloji,ekonomi
-- entry_name: |
     15 şubat 2019 istanbul depremi
   entry_id:  86720604
   entry_writer: uykusuzbiri
-  entry_fav_count: 141
+  entry_fav_count: 148
   entry_content: |
     (bkz: <a class="b" href="/?q=ek%c5%9fis%c3%b6zl%c3%bck+rasathanesi">ekşisözlük rasathanesi</a>)
   entry_channels: bilim,haber
+- entry_name: |
+    kota aşımında internetin kesileceği iddiası
+  entry_id:  86707905
+  entry_writer: oric
+  entry_fav_count: 145
+  entry_content: |
+    (bkz: <a class="b" href="/?q=haydaaa">haydaaa</a>)<br/><br/><a class="b" href="/?q=emeklilikte+ya%c5%9fa+tak%c4%b1lanlar">emeklilikte yaşa takılanlar</a>'dan sonra yeniden kazanılmış bireysel hakkın iptali hadisesi. 25 yaşında o konuda bik bik ötenlere kapak olsun<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201902151037679728-turk-telekom-yeni-tarife/" title="https://tr.sputniknews.com/turkiye/201902151037679728-turk-telekom-yeni-tarife/">https://tr.sputniknews.com/…rk-telekom-yeni-tarife/</a><br/><br/>"yeni uygulamaya göre, satışı durdurulan akn'li paketi kullanan aboneler 1 nisan'a kadar mevcut hızlarında limitsiz olarak hizmet alacak ancak nisan ayından itibaren paketleri 'kotasında duran'a dönüştürülecek. "<br/><br/>edit: link eklendi<br/><br/>edit-2: bireylerin kazanılmış hakları böyle yok sayılmaya devam ederse yarın öbürgün bankalar verdikleri tüketici kredisinin faizini de değiştirebilir (arttırabilir). sarı ineği vermeyeceksiniz bu konularda, emeklilik dersin 40 sene sonranın işi dersin 40 gün sonra başka yerden sokarlar böyle. afedersiniz
+  entry_channels: 
 - entry_name: |
     hala kol saati takan insan
   entry_id:  86704195
@@ -115,26 +115,34 @@ data:
     (bkz: <a class="b" href="/?q=sekuler+hayat+tarzi+olan+akp+yardakcilari">sekuler hayat tarzi olan akp yardakcilari</a>)<br/><br/>ıckisini icer, gezer, eglenir,, yurtdisi tatiline cikar ama ulkeyi muhafazakarlastirmak ilk gayesi olan bir partinin de sozculugunu yapar.<br/><br/>ınsan bu kadar utanmaz olmamali.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    kedinin zeka özürlü bir hayvan olması
-  entry_id:  86704030
-  entry_writer: eflatun dua
-  entry_fav_count: 115
-  entry_content: |
-    kediler, (bkz: <a class="b" href="/?q=koku">koku</a>) haritalama - ya da mapleme diyeyim- kuralları gereği ortalama 3 gün bölgesinden ayrılan kedi geri geldiğinde bölgeye kabul edilmez.<br/>kediler kokusu değişen hiç bir şeyi tanımaz. ölen insanın kokusu değiştiği için aç kalan kedinin sahibini yeme olayı da bundan ileri gelir. annenin de keza ölen yavruyu yeme sebebi kokusunun değişmesi ve çiğ etten farksız kokuyor oluşudur. <br/>kediler renkleri seçemezler ve ortalama 50 cm e kadar bulanık görürler. size sürtünme sebebi onu sevmeniz için değil kokusunu üstünüze sindirip sizi gözden kaybetmemek içindir.<br/>kedilerin görme duyuları daha çok hareket eden cisimleri algılamak içindir. tanımak üzerine kurulu değildir. tanıma işlemi koku ile gerçekleşir.<br/>zeka meselesi değil, koku meselesidir.<br/><br/>tanım: kedi besleyip anatomisini google a yazıp öğrenmeyen adamın yanında zeki kalan hayvandır.<br/><br/>daha ayrıntılı bilgi için;<br/>(bkz: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/www.hurriyet.com.tr/amp/kelebek/kediler-nasil-gorur-39058447" title="https://www.google.com.tr/amp/www.hurriyet.com.tr/amp/kelebek/kediler-nasil-gorur-39058447">https://www.google.com.tr/…ler-nasil-gorur-39058447</a>)
-  entry_channels: anket
-- entry_name: |
     deep turkish web
   entry_id:  86720630
   entry_writer: xavi alonso
-  entry_fav_count: 109
+  entry_fav_count: 121
   entry_content: |
     başıma bir iş gelmeyecekse son videoları olmamış. beğenmedim. güldürmedi
   entry_channels: sinema,teknoloji
 - entry_name: |
+    kedinin zeka özürlü bir hayvan olması
+  entry_id:  86704030
+  entry_writer: eflatun dua
+  entry_fav_count: 117
+  entry_content: |
+    kediler, (bkz: <a class="b" href="/?q=koku">koku</a>) haritalama - ya da mapleme diyeyim- kuralları gereği ortalama 3 gün bölgesinden ayrılan kedi geri geldiğinde bölgeye kabul edilmez.<br/>kediler kokusu değişen hiç bir şeyi tanımaz. ölen insanın kokusu değiştiği için aç kalan kedinin sahibini yeme olayı da bundan ileri gelir. annenin de keza ölen yavruyu yeme sebebi kokusunun değişmesi ve çiğ etten farksız kokuyor oluşudur. <br/>kediler renkleri seçemezler ve ortalama 50 cm e kadar bulanık görürler. size sürtünme sebebi onu sevmeniz için değil kokusunu üstünüze sindirip sizi gözden kaybetmemek içindir.<br/>kedilerin görme duyuları daha çok hareket eden cisimleri algılamak içindir. tanımak üzerine kurulu değildir. tanıma işlemi koku ile gerçekleşir.<br/>zeka meselesi değil, koku meselesidir.<br/><br/>tanım: kedi besleyip anatomisini google a yazıp öğrenmeyen adamın yanında zeki kalan hayvandır.<br/><br/>daha ayrıntılı bilgi için;<br/>(bkz: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/www.hurriyet.com.tr/amp/kelebek/kediler-nasil-gorur-39058447" title="https://www.google.com.tr/amp/www.hurriyet.com.tr/amp/kelebek/kediler-nasil-gorur-39058447">https://www.google.com.tr/…ler-nasil-gorur-39058447</a>)
+  entry_channels: anket
+- entry_name: |
+    hindistan pakistan savaşı
+  entry_id:  86713960
+  entry_writer: roriro
+  entry_fav_count: 105
+  entry_content: |
+    finalde iran uzerinden türkiyeye mülteci olarak gelecek kitleler.
+  entry_channels: siyaset,tarih,haber,eğitim,ekonomi
+- entry_name: |
     üniversite mezunlarının işsiz kalma sebebi
   entry_id:  86716930
   entry_writer: bozacininsahidi
-  entry_fav_count: 94
+  entry_fav_count: 102
   entry_content: |
     gereğinden fazla üniversite olması<br/><br/>gereğinden fazla üniversite mezunu olması<br/><br/>liyakat eksikliği
   entry_channels: anket,haber,eğitim,ekonomi
@@ -142,7 +150,7 @@ data:
     2019 ekonomik krizi
   entry_id:  86697548
   entry_writer: trendline
-  entry_fav_count: 93
+  entry_fav_count: 95
   entry_content: |
     geçen seneye göre ev satışları azalmış. araba satışları azalmış. işten çıkan insan sayısı artmış. yeni açılan işletme sayısı azalmış. kapanan iflas eden konkordato ilan eden sayısı artmış. enflasyon artmış. satın alma gücü azalmış. ama kriz yok... ben bu söylemi ağır hastaya verilen yersiz ümide benzetiyorum. yok bir şeyin hadi hadi iyisin iyisin...
   entry_channels: siyaset,ekonomi
@@ -150,23 +158,15 @@ data:
     akplilere gelecekte okumaları için bir entry bırak
   entry_id:  86709197
   entry_writer: modernkaradenizli
-  entry_fav_count: 92
+  entry_fav_count: 94
   entry_content: |
     sizlere hakkımı helal etmiyorum.
   entry_channels: siyaset,tarih
 - entry_name: |
-    hindistan pakistan savaşı
-  entry_id:  86713960
-  entry_writer: roriro
-  entry_fav_count: 75
-  entry_content: |
-    finalde iran uzerinden türkiyeye mülteci olarak gelecek kitleler.
-  entry_channels: siyaset,tarih,haber,eğitim,ekonomi
-- entry_name: |
     galatasaray'ın 90 senede 9 kez birinci olması
   entry_id:  86721532
   entry_writer: salincakli
-  entry_fav_count: 75
+  entry_fav_count: 92
   entry_content: |
     fetö gittikten sonra gs 3 kez şampiyon olmuştur. birileri ise fetöden sonra küme düşme mücadelesi verir olmuştur.<br/><br/>not: başlığı açan arkadaş bence akli dengesi yerinde değildir raporu alırsa mahkemede elini güçlendirmiş olur<br/><br/>edit: başlık sahibi meczup özelden küfürler savuruyor, korkma mahkemede kaynaklarını/delillerini ortaya koyar ve ceza almazsın. gs de şikeci olarak tescillenmiş olur. ama kaynak kıçınsa o kıça koyacaklar sıraya girer benden uyarması dostum.
   entry_channels: spor
@@ -174,7 +174,7 @@ data:
     libidosu yüksek kadın
   entry_id:  86704831
   entry_writer: baskaldiran adam
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     genelde dışarda tam bir hanımefendidir. sizin "ulan şu karıya bak orospu gibi" dediğiniz kadınlar yatakta çok pasif kalıyor. diğer hanım kızımız kendisinden beklenmedik bir performans sergiliyor, kulaklarınıza inanamayacağınız şekilde dirty talk eyliyor.<br/><br/>yine bir genelleme yaptık genelleme yapacak kadar çok kadınla birlikte olmamama rağmen.
   entry_channels: anket,ilişkiler
@@ -182,26 +182,26 @@ data:
     15 şubat 2019 polisin hdp vekilini düşürmesi
   entry_id:  86721926
   entry_writer: chie shih shuai
-  entry_fav_count: 61
+  entry_fav_count: 67
   entry_content: |
     yumuşak bir düşüş yaşamasına rağmen sırtüstü uzanıp çığlık atmaktan geri durmayan bir adet demagog görüyorum. tiyatrodaki kavga sahnelerinde ben daha sert düşüşler yaşayıp sapasağlam kalkıyordum.<br/><br/>ya işte böyle, sen yere düşünce kıyamadığın tatlı canın için yaygara koparırken insanlar senin kahraman ilan ettiğin canlı bombalar yüzünden hayatını kaybediyor.<br/><br/>edit: eş anlamlı kelime değişikliği
   entry_channels: siyaset,haber
 - entry_name: |
-    14 şubat 2019 galatasaray benfica maçı
-  entry_id:  86695207
-  entry_writer: step force
-  entry_fav_count: 56
-  entry_content: |
-    hadi anam hadi kendi evimizde 50 bin taraftarın önünde bok gibi top oynamışız. rakip takımın yarısı yok resmen çakmıslar gelip burda hakem diye ağlamayın. çok iyi oldu çomara 15 milyon euro vermeyin dedik ama dinletemedik. basaksehır de şampiyon olduğunda alır gotunuze sokarsınız adamın malafatını geçmiş olsun.
-  entry_channels: spor
-- entry_name: |
     bmw sahibi olup tanzim kuyruğuna giren insan
-  entry_id:  86718226
-  entry_writer: elorelia
-  entry_fav_count: 45
+  entry_id:  86718063
+  entry_writer: gingo
+  entry_fav_count: 62
   entry_content: |
-    (bkz: <a class="b" href="/?q=di%c5%9fisini+etkilemeye+%c3%a7al%c4%b1%c5%9fan+arizona+kertenkelesi">dişisini etkilemeye çalışan arizona kertenkelesi</a>)
+    insan cinsinin erkek bireylerinin çiftleşme arzusunu belirtme biçimleri, ihtiyaç düzeyinin vahimliğiyle doğru orantılı olarak gülünçleşir.
   entry_channels: siyaset,yeme-içme,otomotiv,ekonomi
+- entry_name: |
+    motorsikletle e-5'te makas atan genç
+  entry_id:  86721589
+  entry_writer: mekhanik karpov
+  entry_fav_count: 61
+  entry_content: |
+    masum birinin canını yakmadan tez elden gebermesini dilediğim gençtir. böyle döl israfı hız tutkunu orrrrrrospu çocukkarına zerre-i miskal acımam. alayını geberip gitsin inşallah. bu yorumumuda sosyal medya hesabında paylaşabilir.
+  entry_channels: haber,motosiklet
 - entry_name: |
     cmylmz diamond elite platinum plus
   entry_id:  86706968
@@ -230,18 +230,10 @@ data:
     bir erkeğin bir kadına verebileceği en iyi şey
   entry_id:  86720817
   entry_writer: aloha martini
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     hicbir sey amk. durduk yere neden bir erkegin bir kadina herhangi bir sey vermesi zorunlulukmus gibi algi olusturuyorsunuz.
   entry_channels: ilişkiler
-- entry_name: |
-    motorsikletle e-5'te makas atan genç
-  entry_id:  86722167
-  entry_writer: delibozan
-  entry_fav_count: 14
-  entry_content: |
-    hayranım. gerçekten hayranım. kelimeler hayranlığıma kifayetsiz kalır o derece hayranım. <br/><br/>gerçekten insanların diğer insanlara olan güven duygularının bu derece tavan yapmasına aşırı hayranım. ben yolda üstünde sürücü adayı yazan araba görsem değil şerit mevki değiştiriyorum abi sen nasıl bu millete bu kadar güvenip de aralarından vızırt diye geçebiliyosun. iti var kopuğu var (ki bu biraz da sen oluyosun) burnunu karıştıranı tlf la konuşanı var dikkatsizi var acemisi var. vallahi pes dedirten görüntüler.
-  entry_channels: haber,motosiklet
 - entry_name: |
     16 şubat 2019 fenerbahçe atiker konyaspor maçı
   entry_id:  86698178
@@ -251,13 +243,29 @@ data:
     tek eksiğin aziz yıldırım olduğu maç. o da olsaydı iyice dallas bölümü gibi olacaktı.
   entry_channels: spor
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  86695324
-  entry_writer: nezorseymisnickbulmak
+    15 şubat 2019 dünya bankasından kredi çekilmesi
+  entry_id:  86724459
+  entry_writer: jotunogullari
+  entry_fav_count: 12
+  entry_content: |
+    saraya yeni koltuk takımı alınacak diyorlar. haşmetlümüz sıkılmış eski modadan.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    500 tarla faresini öldüren köpekler
+  entry_id:  86724211
+  entry_writer: black adam
+  entry_fav_count: 11
+  entry_content: |
+    duyarın yeni bir boyutunu görmeme vesile oldular. <br/><br/>koskoca fareye duyar kasan biri var lan. bunlara halk dilinde <a class="b" href="/?q=geme">geme</a> deniyor. öyle sıçan gibi değil, insan azmanı bu şerefsizler. adamın götünü yerler canlı canlı. <br/>ama bir kardeşimiz bu hastalık deryası farelere duyar kasıyor sözlük'te. orta çağda avrupa'nın yarısı bunların yüzünden öldü. dünyayı kasıp kavurdu veba illeti. neyin duyarı bu? ne yiyip ne içiyorsunuz bu kafaya ulaşmak için? vay arkadaş.
+  entry_channels: 
+- entry_name: |
+    netflix türkiye
+  entry_id:  86724203
+  entry_writer: attoynagi
   entry_fav_count: 10
   entry_content: |
-    ben senin en çok sesini sevdim<br/>buğulu çoğu zaman, taze bir ekmek gibi<br/>önce aşka çağıran,sonra dinlendiren<br/>bana her zaman dost, her zaman sevgili<br/><br/>ben senin en çok ellerini sevdim<br/>bir pınar serinliğinde, küçücük ve ak pak<br/>nice güzellikler gördüm yeryüzünde<br/>en güzeli bir sabah ellerinle uyanmak<br/><br/>ben senin en çok gözlerini sevdim<br/>kâh çocukça mavi, kâh inadına yeşil<br/>aydınlıklar, esenlikler, mutluluklar<br/>hiç biri gözlerin kadar anlamlı değil<br/><br/>ben senin en çok gülüşünü sevdim<br/>sevindiren, içimde umut çiçekleri açtıran<br/>unutturur bana birden acıları, güçlükleri<br/>dünyam aydınlanır sen güldüğün zaman<br/><br/>ben senin en çok davranışlarını sevdim<br/>güçsüze merhametini, zalime direnişini<br/>haksızlıklar, zorbalıklar karşısında<br/>vahşi ve mağrur bir dişi kaplan kesilişini<br/><br/>ben senin en çok sevgi dolu yüreğini sevdim<br/>tüm çocuklara kanat geren anneliğini<br/>nice sevgilerin bir pula satıldığı bir dünyada<br/>sensin, her şeyin üstünde tutan sevdiğini<br/><br/>ben senin en çok bana yansımanı sevdim<br/>bende yeniden var olmanı, benimle bütünleşmeni<br/>mertliğini, yalansızlığını, dupduruluğunu sevdim<br/>ben seni sevdim, ben seni sevdim, ben seni...<br/><br/>sevi şiiri - ümit yaşar oğuzcan
-  entry_channels: anket,edebiyat
+    organize işler sazan sarmalı netflix'e <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/netflixturkiye/status/1096469829681405953" title="https://twitter.com/netflixturkiye/status/1096469829681405953">gelmiş.</a><br/><br/>mars sinemaya bir mesaj olarak algıladım ben bunu. :)
+  entry_channels: tv,sinema,teknoloji,spoiler
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  86700336
@@ -286,26 +294,34 @@ data:
     artık akp'ye oy vermeyeceğim diyen teyze
   entry_id:  86723384
   entry_writer: kingmj58
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     tepkisini mhp'ye oy vererek gösterecek olan teyzedir
   entry_channels: 
 - entry_name: |
-    15 şubat 2019 dünya bankasından kredi çekilmesi
-  entry_id:  86724459
-  entry_writer: jotunogullari
-  entry_fav_count: 5
-  entry_content: |
-    saraya yeni koltuk takımı alınacak diyorlar. haşmetlümüz sıkılmış eski modadan.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     15 şubat 2019 malatyaspor'a çıkan kırmızı kart
   entry_id:  86724848
   entry_writer: kral4fero
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     hakemin aldığı doğru karar neticesinde verilmiş karttır. bir anadolu takımı olan malatya'yı tutsam da hak yememek lazım.
   entry_channels: spor
+- entry_name: |
+    yalnızlığın anlaşıldığı anlar
+  entry_id:  86697697
+  entry_writer: hegel kim lan
+  entry_fav_count: 4
+  entry_content: |
+    aynı anda ulan çok mu fevri ve boktan bir insanım sorusunun da sorulduğu anlardır. deep turkish web acının tatlı tebessümü var burada. <br/><br/>ama insanlar da az ibne değil be diyip geçersin sonra.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    bir kadının bir erkeğe verebileceği en iyi şey
+  entry_id:  86724971
+  entry_writer: oylmz
+  entry_fav_count: 4
+  entry_content: |
+    karnıyarık pilav cacık. <br/><a class="b" href="/?q=ya+ne+olacakt%c4%b1">ya ne olacaktı</a>?
+  entry_channels: anket,ilişkiler
 - entry_name: |
     100 yıl sonra hiçbir yazarın yaşamayacağı gerçeği
   entry_id:  86704588
@@ -314,30 +330,6 @@ data:
   entry_content: |
     sözlüğe şöyle bir bakınca insanın içini biraz olsun rahatlatıyor.
   entry_channels: ekşi-sözlük,sağlık
-- entry_name: |
-    organize işler sazan sarmalı
-  entry_id:  86724223
-  entry_writer: amaninabenseniyerim
-  entry_fav_count: 3
-  entry_content: |
-    netflixe eklenmis yuh
-  entry_channels: sinema,spoiler
-- entry_name: |
-    iyi öpüşmek için yapılması gerekenler
-  entry_id:  86703193
-  entry_writer: sirri
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7ok+sevmek">çok sevmek</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    bir kadının bir erkeğe verebileceği en iyi şey
-  entry_id:  86723390
-  entry_writer: gelirsen ekime gelmezsen sikime
-  entry_fav_count: 3
-  entry_content: |
-    zaten kadınlar en iyi şeyleri erkeklere verip tükendiği ve tüketildiği için son derece mutsuz ve dırdırcı varlıklara dönüyor. tüketici erkeler utansın!
-  entry_channels: anket,ilişkiler
 - entry_name: |
     bir dilin tam olarak öğrenildiğinin anlaşıldığı an
   entry_id:  86719346
@@ -355,14 +347,6 @@ data:
     koşu bandında terlikle koşmamak.<br/>osmanlı tokadı gibi ses çıkıyor her adımda.
   entry_channels: spor,anket
 - entry_name: |
-    netflix türkiye
-  entry_id:  86724334
-  entry_writer: distasteful
-  entry_fav_count: 2
-  entry_content: |
-    <a class="b" href="/?q=organize+i%c5%9fler+sazan+sarmal%c4%b1">organize işler sazan sarmalı</a> filmini yayınlayarak cinemaximum'a gelişine vurmuştur. cem yılmaz'ın yeni filminide yayınlayacaklar gibi bir his var içimde.
-  entry_channels: tv,sinema,teknoloji,spoiler
-- entry_name: |
     eşcinsel olmayıp eşcinselliği savunan insan
   entry_id:  86717058
   entry_writer: carriebradshaw
@@ -371,29 +355,45 @@ data:
     eğer entrysinin altına,<br/><br/>not: eşcinsel değilim <br/><br/>diye not iliştirme gereği duymuyorsa daha çok saygı duyduğum.<br/><br/>aynısı<br/><br/>not: alevi değilim<br/>not: kürt değilim için de geçerlidir.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  86709168
-  entry_writer: yeni dogmus geyik yavrusu
+    organize işler sazan sarmalı
+  entry_id:  86724393
+  entry_writer: gokyuzundeyuzdum
   entry_fav_count: 1
   entry_content: |
-    freelance çalışanların en çok zorlandıkları şeylerden biri ofis motivasyonunu evde bulamamak. insan ister istemez pijama-masa döngüsünden kurtulmak için kendini dışarıya atıp, rahat bir ortamda konsantre bir şekilde çalışma ihtiyacı duyuyor.<br/><br/>istanbul beşiktaş çevresinde ofis kiralayıp, kafasına göre çalışma saatlerinde birlikte vakit geçirecek arkadaşlar arıyorum. iş alanına göre boş vakitlerde ortak projeler de geliştirebiliriz. start-up aşamasında olanlar da mesaj atabilirler.
-  entry_channels: ekşi-sözlük
-- entry_name: |
-    ekşi sözlük'e bir daha gelinse alınacak nick'ler
-  entry_id:  86722967
-  entry_writer: babayarisi
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hadiseyi+kuca%c4%9f%c4%b1nda+z%c4%b1platan+kuaf%c3%b6r">hadiseyi kucağında zıplatan kuaför</a>)
-  entry_channels: anket,ekşi-sözlük
+    amk dün iki kişi gittik filme 47 lira para baydık şu an evde tekrar izliyorum <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: sinema,spoiler
 - entry_name: |
     celal şengör'le polemiğe giren çocuk
   entry_id:  86725372
   entry_writer: mindi
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     "alıyorsunuz herhalde biyoloji dersi değil mi" dediği an aslında konuyu kapatmış celal hocamız. yazık olmuş ergene. gerçi şimdiden bir yerlerde hazırdır kadrosu...
   entry_channels: 
+- entry_name: |
+    15 şubat 2019 mhp'nin akp lehine 8 adayını çekmesi
+  entry_id:  86724894
+  entry_writer: tekkalan
+  entry_fav_count: 1
+  entry_content: |
+    çanakkale ile başlayan durum. mhp akp adayını destekleme kararı almış. <br/><br/>sırada giresun, bolu, sinop, edirne, kırklareli, yalova, zonguldak gibi iller de varmış sırada.<br/><br/>buna karşın ığdır'da akp adayını çekerse hem akp kazanamayacağını tescillemiş olur hem de akşener'in golünü bile bile yemiş olur.
+  entry_channels: siyaset,haber
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  86695762
+  entry_writer: portakalda vitamin
+  entry_fav_count: 0
+  entry_content: |
+    bir kısmı düşürmek, bir kısmı merak, bir kısmı empati çabası, bir kısmı da aşağılamak için sorulmuş sorular. düşüyor mu gerçekten?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ekşi sözlük'e bir daha gelinse alınacak nick'ler
+  entry_id:  86725848
+  entry_writer: zingos
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ayetler+var+ayetler">ayetler var ayetler</a>)
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     ateş köpeğe yardım kampanyası
   entry_id:  86706988
