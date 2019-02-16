@@ -6,7 +6,7 @@ data:
     ezhel'in ekşi sözlük'e diss atması
   entry_id:  86747766
   entry_writer: koministimam2
-  entry_fav_count: 647
+  entry_fav_count: 662
   entry_content: |
     diss bu muymuş lan, heee lisedekiler gibi..<br/><br/>o lafların boy boy sana koysun ezhel kovboyun daha müziklisi böyle hızlı söyleneni, e olmuş. şahsen ben beğenedim, <br/>murat koyayım da tur at gibi bişeyler demiş de, delikanlıysan tane tane söv göt! biz sana öyle mi sövüyoruz, biraz daha anlaşılır tek tek söv, hem küfür yiyip hem de pür dikkat dinleyecek miyiz amk neremize koymuş diye<br/>ibbbbııınaaaaaaya bak ya!
   entry_channels: ekşi-sözlük,müzik,magazin
@@ -14,7 +14,7 @@ data:
     denizde sırtüstü yatmak
   entry_id:  86733459
   entry_writer: summertime happiness
-  entry_fav_count: 584
+  entry_fav_count: 599
   entry_content: |
     sahilde onlarca kişi olsa da, koskoca deniz sana aitmiş gibi hissettirir. sesler giderek azalır sonra susar. gökyüzüne bakarak dünyayı dinliyormuşsun gibi bir his. ohh mis gibi yaz...
   entry_channels: anket,sağlık,seyahat
@@ -22,7 +22,7 @@ data:
     amerika'da mahkemeye çıkan türk genç
   entry_id:  86751592
   entry_writer: papagan kral
-  entry_fav_count: 538
+  entry_fav_count: 557
   entry_content: |
     shakespeare'in torunları tarafından ingilizcesiyle dalga geçilen genç. <br/><br/>derdimi anlatacak kadar ingilizce biliyorum denilen şey budur işte. adam derdini anlatmış ve mahkemede davayı kazanmış.
   entry_channels: siyaset,haber
@@ -30,15 +30,23 @@ data:
     bulgaristan göçmenleri
   entry_id:  86737522
   entry_writer: bishop brain
-  entry_fav_count: 396
+  entry_fav_count: 400
   entry_content: |
     temiz insanlar. hem karakter olarak hem de düzen, tertip ve hijyen olarak çok temizler. <br/><br/>hangi şehirde mahallelerine denk gelsem aynı manzarayla karşılaşıyorum. 2-3 katlı, düzenli, bahçesinde rengarenk çiçekleri olan ve sürekli şalvarlı bir teyzenin ordan oraya gezinerek bir şeylerle meşgul olduğu evler. o teyze hiçbir şey yapmıyorsa bile sedirde örgü örüyor oluyor. <br/><br/>herkes kendi kapısının önünü de sürekli süpürüyor, sokakları da temiz kalıyor. arabaları varsa mutlaka garajları da oluyor, garaja sokuyorlar dışarda bırakmıyorlar. <br/><br/>kendi halinde insanlar. karadenizliler<sup class="ab"><a title="(bkz: daha çok lazlar)" href="/?q=daha+%c3%a7ok+lazlar" data-query="daha çok lazlar">*</a></sup> gibi aksi değillerdir, sağa sola sataşmazlar.<br/><br/>not: karadenizli
   entry_channels: tarih
 - entry_name: |
+    rte'nin bursa ziyareti sırasında yolun kapatılması
+  entry_id:  86743929
+  entry_writer: ekonomi sevmeyen iktisatci
+  entry_fav_count: 312
+  entry_content: |
+    linç yemek istemiyorum ama suçlanması gereken polis memuru değildir arkadaşlar. o adam da emir kuludur, kendisine yolu kapat denmiştir, yolu kapatmıştır. emir demiri keser. o da biliyor açması durumunda başına neler gelebileceğini.<br/><br/>irdelemeniz gereken şey halkın lideri olduğunu iddia eden şahsın bilmem kaç yüz korumayla neden yolları kapatarak gezme ihtiyacı olduğudur.
+  entry_channels: siyaset,haber,seyahat
+- entry_name: |
     çaylak onay listesi
   entry_id:  86731912
   entry_writer: antipatistyazar
-  entry_fav_count: 309
+  entry_fav_count: 311
   entry_content: |
     sonunda benim de kurtulduğum listedir. aslında 1 ay önce kurtulmuşum ama umudumu kestiğimden bayadır sadece entry okuyup favlamak için giriyordum, yeni fark ettim.<br/><br/>ekşi sözlük'ü ilk kullanmaya başladığımda hesap açsam mı diye düşünmüştüm ama formata zarar veririm diye hemen açmak istemedim, zaten entry'leri okuyabiliyordum. 2-3 yıl hesap açmadan okudum bu şekilde. artık yeterince okuduğumu ve yazma vaktimin geldiğini düşündüğümde hesap açtım, 1-2 entry yazdım ama entry'lerin italik olduğunu görünce "şimdi sayfalarca yazsam da faydası olmayacak, bekleyeyim hesap onaylanınca yazarım" dedim ve uslu uslu bekledim. 1-2 yıl da böyle geçti ve sonunda dayanamadım entry yazmaya başladım, 10. entry'yi yazdığımda <a class="b" href="/?q=%c3%a7aylak+onay+listesi">çaylak onay listesi</a> gerçeğiyle karşılaştım. bu listede de 3 yıl bekledikten sonra bu ay bu listeden de kurtuldum ve 7-8 yıllık maceradan sonra artık ben de yazarım.<br/><br/>yazar oldum da n'oldu, bir faydam olacak mı? açıkçası sanmıyorum çünkü benim asıl verimli dönemim 4-5 yıl öncesiydi. gördüğüm her başlık için bi' araştırma yapıp açıklayıcı bir entry yazar sonra <a class="b" href="/?q=kenar">kenar</a>a eklerdim yazar olduğumda paylaşayım diye, forum siteleri gibi hemen onay gelecek sanıyordum. şimdi ise hem vaktim yok hem de 7-8 yıl sonunda hevesimi kaybettim. eğer sözlükte yazar olmak kolay ama banlanmak da kolay olsaydı daha yapıcı olurdu bence ama neyse moderatörlerin işine karışmayayım.<br/><br/>bir de okuyan çaylaklar için şunu belirteyim, 10. entry'yi yazdıktan sonra her gün 1-2 entry yazmaya başlamıştım ben. bunun gibi uzun entry'ler yazıp 1-2 gün kenar'da bekletiyor, düzeltmeleri yapıp paylaşıyordum. ama 10 entry'den fazlasının onayı geciktirdiğini duyunca tek tek sildim 200+ entry'mi. bu temizliği yaptıktan 1-2 hafta sonra yazar olduğunu söyleyenler vardı ama ben bu olaydan sonra 2,5 yıl bekledim, yazmaya devam etseydim ne kadar beklerdim bilmiyorum. içimden neler neler yazmak geldi zamanında ama kendimi tuttum, 2 kez tutamadım yazdım ve eski entry'lerimden sildim, baya stresliydi. değdi mi? değmedi. o yüzden siz hiç uğraşmayın içinizden ne gelirse yazın, yazar olacağınız varsa 1 haftada da oluyorsunuz. hiç değilse kafanız rahat olur.<br/><br/>neyse, konudan daha fazla sapmadan entry'yi bitirsem iyi olacak. hoş geldim.
   entry_channels: ekşi-sözlük
@@ -46,7 +54,7 @@ data:
     dünyada en tehlikeli insan tipi
   entry_id:  86735873
   entry_writer: rans46
-  entry_fav_count: 294
+  entry_fav_count: 301
   entry_content: |
     anton çehov, az anlayan, çok inanandır der.<br/><br/>hayatta önemli olan bir olayı anlamaktır. bir olayı anlamaya çalışmaktır. o olayın gerçekleşmesi sırasında gerekli analizleri yapmaktır. çünkü anlamaya çalışmak aynı zamanda araştırma yaparak o olayı daha da iyi öğrenmeye çalışmak demektir. <br/><br/>inanmak ise çok ayrı bir konudur anlamdan uzaktır. aynı zamanda inanmak kolaya kaçmaktır. basit olanı kabullenmek, bu basit olan olayla yetinmek demektir. <br/><br/>hayatımızda her zaman anlam yaratmaya çalışırsak o zaman bir değer yaratabiliriz ve gerçekten o zaman mutlu olmanın bir formülünü bulabiliriz. sadece inanarak ve insanların eylemlerine bakarak duygusal adım atmak, hayatta kalmak ve mutlu olmak için yetersizdir.<br/><br/>insanlar her zaman kendilerini farklı insan olarak göstermeye çalışırlar bu konuda albert camus, insan kendini olduğundan farklı gösteren tek canlıdır demiştir. bu sebeple bizler sadece inanmakla yetinemeyiz aynı zamanda anlamaya çalışmalıyız aynı zamanda araştırma yapmalıyız aynı zamanda yaratmış olduğumuz tezler üzerinden bir sentez yaratmak zorundayız. <br/><br/>önemli olan her zaman anlam yaratmaktır.
   entry_channels: anket,ilişkiler
@@ -54,135 +62,111 @@ data:
     23 yaşında olup ne yapacağını bilmemek
   entry_id:  86744495
   entry_writer: paksal
-  entry_fav_count: 256
+  entry_fav_count: 274
   entry_content: |
     kafana takma ben 34 yaşındayım hala ne yapacağımı bilmiyorum dediğim olay
   entry_channels: anket
 - entry_name: |
-    friends vs how i met your mother
-  entry_id:  86740656
-  entry_writer: kirmiziyastiklikurt
-  entry_fav_count: 222
-  entry_content: |
-    friends izlemis birinin himym izlemeye tahammulu olacagini zannetmiyorum
-  entry_channels: anket,tv
-- entry_name: |
     organize işler sazan sarmalı'nın netflix'e gelmesi
   entry_id:  86731874
   entry_writer: torpillim
-  entry_fav_count: 221
+  entry_fav_count: 225
   entry_content: |
     işte bu cinemaximum'a gol olur. yeni medyanın gücü!
   entry_channels: tv,sinema,teknoloji
 - entry_name: |
-    migros'un sınırlı ağırlıkta sebze satması
-  entry_id:  86752039
-  entry_writer: rdvn0465
-  entry_fav_count: 187
+    friends vs how i met your mother
+  entry_id:  86740656
+  entry_writer: kirmiziyastiklikurt
+  entry_fav_count: 223
   entry_content: |
-    burası bir çöl ülkesi değil. bu ülkede 4 deniz, 45 göl, 1000'i aşkın baraj, 45 nehir, (irili ufaklı dere, ırmak vs saymadan) 237 ova ve 4 iklim var. normalde kendi haline bıraksan tüm dünyaya yetecek gıda kendiliğinden çıkar. <br/>ama su kaynakları yeterliliği noktasında sürekli "kırmızı alarm" durumunda olan israil'den gelen tohumlar ve bu tohumlardan elde edilen ürünlerle karnımızı doyurmaya çalışıyoruz ve o dandik gıdaları da kotayla satın alabiliyoruz. gerçekten siyaset üstü bir sorun bu.<br/>gelen mesajlar üzerine edit: ben sorunun nedeni olarak siyaset üstü demedim. sorunun çözümüne dair "siyaset üstü" deyimini kullandım.<br/>mesela muhalefet artık ipleri eline almalı. muhalefetin elinde nerden bakarsanız 400e yakın belediye var. bir apartman büyüklüğündeki (bkz: <a class="b" href="/?q=ovac%c4%b1k+belediyesi">ovacık belediyesi</a>) bile tarım sorununu çözdü. muhalefetin elindeki 30'u aşkın il ve 300'ü aşkın ilçe belediyesi kendi bölgesinde bir atılım yapıp sorunu minimalize ederse ( ki minimalize etmeyi geçtim, 81 ilin sorununu kökten çözer bu) iktidara doğru yelken açmış olur. çünkü söz ile muhalefet artık para etmiyor, yıllardır gördüğümüz üzere. sonuçta eksik de olsa, sorunlu da olsa merkezi iktidardan yetki devralıyorsun. o il ve ilçelerdeki tarımsal alanların hemen hepsi senin elinde. sonuçta yüzde 2'yi bulamayan partiler gibi belediyeden ve vekilden yoksun değilsin. kendi içinde bu atılımı yaparsan o zaman insanlar der ki; "ulan bu herifler muhalefette iken bu işleri yaptıysa onları bir de iktidarda denemekte fayda var". kusura bakmayın ama söz ile eleştiriyi benim büyük annem de yapıyor her gün. bu benim şahsi görüşüm ve uygulaması zor değil bence.
-  entry_channels: haber,ekonomi
+    friends izlemis birinin himym izlemeye tahammulu olacagini zannetmiyorum
+  entry_channels: anket,tv
 - entry_name: |
     hikayesi başrolden daha acıklı olan yan karakter
   entry_id:  86753035
   entry_writer: pluton un sucu ne
-  entry_fav_count: 131
+  entry_fav_count: 134
   entry_content: |
     (bkz: <a class="b" href="/?q=ismail+abi">ismail abi</a>)
   entry_channels: anket,tv,sanat,sinema,edebiyat
 - entry_name: |
-    tatlı çocuksun ama senle olmaz
-  entry_id:  86748342
-  entry_writer: epirusunyayi
-  entry_fav_count: 126
+    islam slimani
+  entry_id:  86758388
+  entry_writer: b risk kd
+  entry_fav_count: 70
   entry_content: |
-    kesinlikle tatlı çocuksun. vallahi bak. sana derdimi anlatırım, seninle güler eğlenirim, fiat punto 1.3 arabanla çay kahve içeriz. ama hepsi bu kadar. <br/><br/>bak bir de berker var. o daha tatlı inanır mısın ? bmw sindeki koltuk ısıtmalarını kapatınca ona sinir oluyorum. geçen hafta bodruma gittik masaya viski ve meyve tabağı söyledi. hepsi kaldı yaaa 2 kişi nasıl bitirelim. yaz için de türkbükü diyoruz ama berker çok yoğun bakalım. bana bazen çok kötü davranıyor, derdimi dinlemiyor ama olsun meyve tabağı işte. <br/><br/>senle olmaz. çünkü ben iyi ve fakir adamlarla dertleşir, kötü ve zengin adamlarlarla birlikte olurum.<br/><br/>edit: başlığı ben açmadım sakin olun.
-  entry_channels: ilişkiler
-- entry_name: |
-    2.75 boyunda cana yakın güzel zeki hamarat kız
-  entry_id:  86738059
-  entry_writer: binnurclk
-  entry_fav_count: 122
-  entry_content: |
-    diploma notu mu bu.
-  entry_channels: ilişkiler
-- entry_name: |
-    netflix türkiye
-  entry_id:  86730717
-  entry_writer: bakkalimbenerdalbakkal
-  entry_fav_count: 75
-  entry_content: |
-    yazdıklarımı okuyan bir yetkili görürse ümidiyle yazmak istiyorum. bu organize işler hamlesi beni çok keyiflendirdi. sırada yeni bir hamle var. küçük şehirlerde yaşayan insanların mahrum kaldığı ve dağıtımı çok az olan filmleri bizi sinemaya mahkum etmeden çat diye gösterirse netflix işte onların müridi olurum. yaparsan bunu sadece sen yaparsın netflix. bizi torrentlere dvdscreenlere daha fazla mahkum etme. neyse çok nankörlük de etmeyeyim. torrentin de az ekmeğini yemedik. kalbimizde yeri ayrıdır <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: tv,sinema,teknoloji,spoiler
-- entry_name: |
-    miha zajc
-  entry_id:  86746271
-  entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 56
-  entry_content: |
-    tam bir konyaspor futbolcusu ismine sahip futbolcu.
+    herifin düz golü yok, röveşata deniyor. senin ben beyinciğini sikeyim orospu evladı.
   entry_channels: spor
 - entry_name: |
     16 şubat 2019 skrtel'e verilmeyen kırmızı kart
   entry_id:  86758561
   entry_writer: agathon
-  entry_fav_count: 53
+  entry_fav_count: 63
   entry_content: |
     ağlamanın meyvesini verdiği maçtır. net kırmızıdır.
   entry_channels: spor
 - entry_name: |
-    erdal özyağcılar'ın şaman olduğunu açıklaması
-  entry_id:  86751994
-  entry_writer: excelsior was here
-  entry_fav_count: 51
+    toplumdaki ahlaki çöküntünün nedeni
+  entry_id:  86753267
+  entry_writer: handrollingtobacco
+  entry_fav_count: 56
   entry_content: |
-    islamı yaşadığını sananlardan topluma daha faydalı olacağının kesinleştiği açıklamadır.
-  entry_channels: haber,magazin
+    islami kuran ve hadis çerçevesinde yaşamak.
+  entry_channels: ilişkiler
 - entry_name: |
     tinder'da tanıştığı kadınları yolan adam
   entry_id:  86759256
   entry_writer: tegmenberrendo
-  entry_fav_count: 47
+  entry_fav_count: 55
   entry_content: |
     (bkz: <a class="b" href="/?q=gold+digger+hunter">gold digger hunter</a>)
   entry_channels: anket,ilişkiler,haber,yeme-içme,ekonomi
 - entry_name: |
-    yazarların atatürk'ün en sevdiği sözleri
-  entry_id:  86750467
-  entry_writer: tekirdag dublesi
-  entry_fav_count: 46
-  entry_content: |
-    "ne mutlu türküm diyene"<br/>ama benim için en çok gönlüme işlemiş sözü<br/>"muhacirler kaybedilmiş toprakların aziz hatıralarıdır"
-  entry_channels: anket,edebiyat
-- entry_name: |
     sevilmediğini kabullenmek
   entry_id:  86737760
   entry_writer: glasiyelasetikasit
-  entry_fav_count: 46
+  entry_fav_count: 52
   entry_content: |
     huzur vericidir, insanın aydınlandığı ana tekabül eder; ilişkideki tüm sorunların sebebi bir anda gözlerinin önündedir. her şey çok daha açık ve nettir artık; sevildiğine dair en ufak bir şüphe bile kalmamıştır içinde. seçim yapmak zorunda olduğun bir durum, önünde kalsam mı gitsem mi diye düşüneceğin bir seçenek yoktur. bundan sonra karşına çıkacak insanların seni gerçekten senin onları sevdiğin gibi tüm kalpleri ile sevebileceklerine dair olan içindeki inanç daha da azalmış olarak gidersin.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    erdal özyağcılar'ın şaman olduğunu açıklaması
+  entry_id:  86751994
+  entry_writer: excelsior was here
+  entry_fav_count: 52
+  entry_content: |
+    islamı yaşadığını sananlardan topluma daha faydalı olacağının kesinleştiği açıklamadır.
+  entry_channels: haber,magazin
+- entry_name: |
+    gençlerin apolitik olmasına kızmak
+  entry_id:  86745922
+  entry_writer: katil usak
+  entry_fav_count: 51
+  entry_content: |
+    "benim sikip batırdığım ülkeyi gençler neden düzeltmiyor, kafayı yiycem!" serzenişi.
+  entry_channels: 
+- entry_name: |
+    yazarların atatürk'ün en sevdiği sözleri
+  entry_id:  86750467
+  entry_writer: tekirdag dublesi
+  entry_fav_count: 48
+  entry_content: |
+    "ne mutlu türküm diyene"<br/>ama benim için en çok gönlüme işlemiş sözü<br/>"muhacirler kaybedilmiş toprakların aziz hatıralarıdır"
+  entry_channels: anket,edebiyat
+- entry_name: |
     kadıköy'deki ibretlik seçim röportajı
   entry_id:  86748121
   entry_writer: tearhunter
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     çeşitli nedenleri olabilir:<br/>1. bu tip sokak söyleşilerinde konuşan insandan çok konuşmayan insan olur. genelde boş teneke tarzı insanlar uzun uzadıya konuşur, çarpık egosunu saçar ortalığa. kadıköy'de bunlar denk gelmemiş; videonun kurgusu da ilgisizlik izlenimini vurgulayacak şekilde yapılmış.<br/>2. hafta içi kadıköy bir yerden bir yere gitmeye çabalayan insanların kesişim noktasıdır. o konuşmayan insanların gerçekten konuşacak zamanı yoktur diye düşünüyorum.<br/>3. ama insanlardaki özellikle genç insanlardaki küskünlüğün bir gerçek olduğunu düşünüyorum. gezi sonrasında umutlar yeşermeyince becerebilen fiziksel olarak, beceremeyen ruh olarak ülkeden ayrıldı. apolitik olmaktan farklı bir şey bu.<br/>4. belki de doğrusu bu. sürekli gergin bir propaganda ortamında yaşamak ne kadar sağlıklı ? bu sağlıksız ortamda apolitizasyon değil depolitizasyon doğuyor. yani emeğini satarak geçinen insanlar emek düşmanı oluşumlara bağlanıyor. sosyoekonomik düzeyi yüksek, sermaye sınıfından gelen insanlar da sol söylemdeki partilere yakınlar. (liberal yaşam tarzı nedeniyle, solcu oldukları için değil elbette)... tam bir berdel.
   entry_channels: siyaset,haber
 - entry_name: |
-    toplumdaki ahlaki çöküntünün nedeni
-  entry_id:  86753267
-  entry_writer: handrollingtobacco
-  entry_fav_count: 44
-  entry_content: |
-    islami kuran ve hadis çerçevesinde yaşamak.
-  entry_channels: 
-- entry_name: |
     en iyi dövmeciler
   entry_id:  86754403
   entry_writer: jedi council de general
-  entry_fav_count: 43
+  entry_fav_count: 45
   entry_content: |
     uzun yıllardır bu işin içinde olan birisi olarak yazılan bütün entryleri üzülerek okudum. gerçekten herkes kendi dövmecisini en iyi dövmeci zannediyor ama gerçekten durum hiçte öyle değil. yazılanların çoğu vasat dövmeciler. ben nereden biliyorum? çünkü bu işin içinde olan bir dövmeciyim ve aynı zamanda güzel sanatlar okuyan biri olduğum için bu dövmecilerin yaptıklarının taklit mi yoksa orijinal mi? çektikleri çizgiler iyi mi yoksa patlatma yapmış mı? tonlamaları nasıl vs. bunları gözlemleyebiliyorum. burada yazılan dövmecilerin çoğu orijinallikten uzak ve ellerine kağıt kalem verseniz ortaya kendilerine ait bir desen çıkarmaktan aciz dövmeciler. <br/><br/>bu konuda gerçekten bilgi sahibi olmak, iyi olduğunu düşündüğü dövmecinin işleriyle ilgili eleştiri almak isteyen varsa yeşillendirebilir. hiçbir şekilde götümden atmam ve o kişi hakkında söylediğim şeyi onun çalışmalarından örnek göstererek kanıtlarım.<br/><br/>edit: hatta böyle boş bir entry olmasın kişisel dünya genelinde beğendiğim dövmecilerin bir kaçını sizinle paylaşayım. türkiye 'den veya ilinden tavsiye isteyen olursa eğer bilgi dahilimdeyse kendisini iyi bulduğum bir sanatçıya yönlendirebilirim.<br/><br/>------------------------------------------------------- <a class="b" href="/?q=siyah+beyaz+realistik">siyah beyaz realistik</a> ----------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/inalbersekov/" title="https://www.instagram.com/inalbersekov/">inal bersekov</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/ralfnonnweilerta2/" title="https://www.instagram.com/ralfnonnweilerta2/">ralf nonnweiler</a> bu adamın tonlamaları ınal bersekov 'a göre daha hafif ama daha zor)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/hengyue_newassassin_tattoo/" title="https://www.instagram.com/hengyue_newassassin_tattoo/">heng yue</a> bu arkadaşın yeteneğini daha önce hiçbir dövmecide görmedim zira herif yaptığı dövmeleri önce kalemle vücuda çizip daha sonra yapıyor. kalemle vücuda çizip dövme yapma işlemini bir çok dövmeci yapar ama bu adamın yaptığı karışık tasarımları kimse eliyle çizemez. normalde büyük çalışmaları yapacak dövmeciler daha sonraki seanslar için dövmenin geri kalanını yumuşak çizgilerle belirlerler ama bu adamın öyle bir derdi yok sayfasındaki işleri incelerken görebilirsiniz<br/><br/>------------------------------------------------------- <a class="b" href="/?q=neo+traditional">neo traditional</a> --------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/mvtattoo/" title="https://www.instagram.com/mvtattoo/">vitaly morozov</a> tasarımları aşırı özgün, muhteşem bir yetenek.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/aimeecornwelltattoo/" title="https://www.instagram.com/aimeecornwelltattoo/">aimée cornwell</a> kendi tarzına fantasy diyen değişik bir kadın. yaptığı dövmeleri başka bir dövmecinin yaptığını göremezsiniz gerçekten "unique" dedikleri bir tarzı var. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/hannahflowers_tattoos/" title="https://www.instagram.com/hannahflowers_tattoos/">hannah flowers</a> normalde neo traditional yapan dövmeciler dövmedeki ten rengini boyamaz onu kişinin kendi ten rengine bırakırlar ama bu kadın yaptığı çoğu dövmede her yeri boyayıp uyumu da yakalayan tek kişi. yaptığı tasarımlardaki kadınların gözleri oldukça muhteşemdir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/jeanpaulmarat/" title="https://www.instagram.com/jeanpaulmarat/">jean paul marat</a> bu adamın dövmeleri diğerleri gibi muhteşem değil ama tasarımları gerçekten çok iyi. kendini sürekli geliştirdiğini de görebiliyorsunuz. bir kaç seneye bu alanda en iyi dövmecilerden birisi olacaktır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/peterlagergren/" title="https://www.instagram.com/peterlagergren/">peter lagergren</a> sırta yaptığı devasa dövmeler görülmeye değer<br/><br/>------------------------------------------------------- <a class="b" href="/?q=dotwork">dotwork</a> -------------------------------------------------------<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/amanda_piejak/" title="https://www.instagram.com/amanda_piejak/">amanda piejak</a> dövmeyle biraz ilgiliyseniz, yaptırmak için ufak bir araştırma yaptıysanız eğer kendisinin çalışmalarını muhtemelen bir yerlerde görmüşsünüzdür. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/goldy_z/" title="https://www.instagram.com/goldy_z/">zlata kolomoyskaya</a> bu alanda favorim. <br/><br/>daha örnek verebileceğim zilyon tane isim var belki de ekşi tarihinin en uzun entrylerinden biri olur ama şuan üşendim.
   entry_channels: anket,sanat,moda
@@ -190,18 +174,26 @@ data:
     kimya dersinden akılda kalanlar
   entry_id:  86738008
   entry_writer: evilborn
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     (bkz: <a class="b" href="/?q=hasan+2+salak+osman+4">hasan 2 salak osman 4</a>)
   entry_channels: anket,eğitim
 - entry_name: |
-    islam slimani
-  entry_id:  86758388
-  entry_writer: b risk kd
-  entry_fav_count: 32
+    türkiye'yi laiklikten kurtarma vakti geldi
+  entry_id:  86761349
+  entry_writer: fcahat
+  entry_fav_count: 33
   entry_content: |
-    herifin düz golü yok, röveşata deniyor. senin ben beyinciğini sikeyim orospu evladı.
-  entry_channels: spor
+    çarpıtmada üzerimize yok maşallah.
+  entry_channels: siyaset,haber
+- entry_name: |
+    atatürk izmir'in halini görse bunları denize döker
+  entry_id:  86752942
+  entry_writer: songoku89
+  entry_fav_count: 33
+  entry_content: |
+    o kim ki, kimin kimi denize dokecegine karar veriyor, o kim ki mustafa kemal adina konusabilecek hadsizligi gosterebiliyor. <br/><br/>ataturk keske sen ve zihniyetini gorseydi de size ne yapacagina o sekilde karar verseydi.<br/><br/>t: kayinbaba torpili ile makamda oturan bir hadsizin soylemi.
+  entry_channels: siyaset,haber
 - entry_name: |
     vücudun gösterdiği tuhaf tepkiler
   entry_id:  86739769
@@ -211,29 +203,45 @@ data:
     metroda toplu taşıma aracında kalbin küt küt çarpıp sürekli terlemesi in çabuk in demesi hiç bir yolculuğu tamamlayamamak.
   entry_channels: anket,sağlık
 - entry_name: |
-    türkiye'yi laiklikten kurtarma vakti geldi
-  entry_id:  86761349
-  entry_writer: fcahat
+    aykut kocaman
+  entry_id:  86741892
+  entry_writer: gaccashiro
   entry_fav_count: 28
   entry_content: |
-    çarpıtmada üzerimize yok maşallah.
-  entry_channels: siyaset,haber
+    38 yaşında abimle neredeyse aramızı açacak olan şahıs.<br/><br/>adam bildiğin tapıyor aykut'a. ama öyle böyle değil. neredeyse beni silip atacak aykut için. aykut kocaman'ın oğlu bile bu kadar savunmuyordur babasını. adam bildiğin konyaspor'u tutuyorum diyor. <br/><br/>alex'i yedi diyorsun alex kimmiş diyor. rıdvan'la reise gitti diyorsun, bir anda akp'li oluyor(aşırı muhaliftir). bir sürü çöp transfer yaptı kulübü batırdı diyorsun, niang diyor.<br/><br/>hayret-i mucip.
+  entry_channels: spor
 - entry_name: |
     diyanet'in sigara haramdır açıklaması
   entry_id:  86759692
   entry_writer: oflubaba
-  entry_fav_count: 23
+  entry_fav_count: 25
   entry_content: |
     rahmetli mısırlı müfessir seyyid kutub’un bu konuya çok güzel bir yaklaşımı var.<br/><br/>“onlar abdesti bozan şeylere fetva veren ama müslümanların siyasi,iktisadi ve içtimai durumlarına fetva vermeyen amerikan’cı islamı istiyorlar”<br/><br/>şimdi diyanet işleri başkanı ya da il veya ilçe müftüsü geçtim bunları cami imamı cuma hutbesinde torpil yapmak,devleti ihale yoluyla zarara uğratmak,vatandaşın alın terini toplayıp faize yatırmak haramdır diyebilir mi ? diyemez. derse soluğu bilmem nerenin bilmem ne köyüne jet hızıyla tayin olur emin olabilirsiniz.
-  entry_channels: siyaset,sağlık,haber
+  entry_channels: haber
 - entry_name: |
     16 şubat 2019 fenerbahçe atiker konyaspor maçı
   entry_id:  86758558
   entry_writer: yalpagan
-  entry_fav_count: 20
+  entry_fav_count: 25
   entry_content: |
     ali koç'tan skrtel'in az önceki çıkmayan kırmızı kartıyla ilgili hafta içi bir basın toplantısı bekliyoruz. hiçbir takıma ayrıcalık tanınmasın dediniz madem, çıkın bunu da anlatın hadi.
   entry_channels: spor
+- entry_name: |
+    25 ilde patates ekiminin yasaklanması
+  entry_id:  86757248
+  entry_writer: robertmiles
+  entry_fav_count: 21
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kemal+unak%c4%b1tan">kemal unakıtan</a>) ın oğlu pastörize yumurta fabrikası kurunca, tavuk hastalığını bahane edip ülkenin neredeyse tamamında tavukları itlaf etmişlerdi. ama sorduklarında tesadüfen kazanç sağladıklarını söylemekteler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/ekonomi/unakitan-kus-gribinden-tesadufen-k-r-etmis-4094690" title="http://www.hurriyet.com.tr/ekonomi/unakitan-kus-gribinden-tesadufen-k-r-etmis-4094690">link</a> <br/><br/>patates ithaline karar verildikten sonra böyle bir yasaklama kararının alınması manidar. <br/><br/>aynı hassasiyet brezilya'dan getirilen hayvanlarla ilgili hastalık iddiaları ortaya çıkınca gösterilmedi mesela. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.bloomberght.com/tarim/haber/2150455-brezilya-dan-ithal-edilen-buyukbas-hayvanlarda-sarbon-cikti" title="https://www.bloomberght.com/tarim/haber/2150455-brezilya-dan-ithal-edilen-buyukbas-hayvanlarda-sarbon-cikti">link</a> <br/><br/>edit: link eklendi
+  entry_channels: siyaset,bilim,haber,yeme-içme,ekonomi
+- entry_name: |
+    uzak durulması gereken insanlar
+  entry_id:  86748536
+  entry_writer: marsha linehan
+  entry_fav_count: 20
+  entry_content: |
+    sizden gülüşünüzü alan, <br/>kötümser olmaya iten,<br/>enerjinizi tüketen,<br/>çöpleriyle birlikte hayatınıza girip bilmiş bilmiş konuşan tiplerden uzak durun. <br/><br/>çünkü en güzel yaşınız “bu yaşınız” <br/>kimsenin gelip keyfinizi kaçırmasına izin vermeyin!!!
+  entry_channels: anket,ilişkiler
 - entry_name: |
     bir erkeğin bir kadına verebileceği en iyi şey
   entry_id:  86732827
@@ -243,6 +251,14 @@ data:
     bi gün bana dönüp "kızımız olsun" dedi.<br/>"ya bsg" dedim.<br/>ertesi gün gene dedi. sonra gene. her seferinde "ya bsg" diye devirdim gözlerimi.<br/>sonra <a class="b" href="/?q=predictor">predictor</a>de çift çizgiyi gördük.<br/><br/>o çift çizgi bugün 6.5 yasinda bir kız çocuğu.<br/><br/>bi de tanıdığım en eğlenceli, sevgi dolu, sevkatli, merhametli, koruyucu, güven veren baba oldu... <br/><br/>sanırım bana hayatım boyunca verilmiş ve verilebilecek en iyi şeydi bu.<br/>tesekkur ediyorum kendisine. -sırf bunun için bile- hakkı ödenmez.<br/><br/>sik kırığı gibi bir babanın kiziydim. bende baba kavramını yeniden tanımladı herif. format attı resmen sisteme.
   entry_channels: ilişkiler
 - entry_name: |
+    sadık çiftpınar
+  entry_id:  86759648
+  entry_writer: juliadreaming
+  entry_fav_count: 18
+  entry_content: |
+    fofana tarafından malatyaya götürülüp geri getirildi az önce.<br/><br/>(bkz: <a class="b" href="/?q=o+neydi+g%c4%b1z">o neydi gız</a>)
+  entry_channels: spor
+- entry_name: |
     organize işler sazan sarmalı
   entry_id:  86733449
   entry_writer: feysbuktaki komik yorum
@@ -251,45 +267,53 @@ data:
     netflix'e gelmesi ile anlaşılıyor ki adı ile izleyiciye spoiler vermiş filmdir. 2 hafta boyunca bu boktan filmi para verip sinemada izleyen sazanları vurguluyormuş meğerse ismi ile.
   entry_channels: sinema,spoiler
 - entry_name: |
-    25 ilde patates ekiminin yasaklanması
-  entry_id:  86757248
-  entry_writer: robertmiles
-  entry_fav_count: 17
+    sevgiliye ihtiyaç duyulan anlar
+  entry_id:  86733084
+  entry_writer: tiptannefreteden
+  entry_fav_count: 14
   entry_content: |
-    (bkz: <a class="b" href="/?q=kemal+unak%c4%b1tan">kemal unakıtan</a>) ın oğlu pastörize yumurta fabrikası kurunca, tavuk hastalığını bahane edip ülkenin neredeyse tamamında tavukları itlaf etmişlerdi. ama sorduklarında tesadüfen kazanç sağladıklarını söylemekteler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/ekonomi/unakitan-kus-gribinden-tesadufen-k-r-etmis-4094690" title="http://www.hurriyet.com.tr/ekonomi/unakitan-kus-gribinden-tesadufen-k-r-etmis-4094690">link</a> <br/><br/>patates ithaline karar verildikten sonra böyle bir yasaklama kararının alınması manidar. <br/><br/>aynı hassasiyet brezilya'dan getirilen hayvanlarla ilgili hastalık iddiaları ortaya çıkınca gösterilmedi mesela. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.bloomberght.com/tarim/haber/2150455-brezilya-dan-ithal-edilen-buyukbas-hayvanlarda-sarbon-cikti" title="https://www.bloomberght.com/tarim/haber/2150455-brezilya-dan-ithal-edilen-buyukbas-hayvanlarda-sarbon-cikti">link</a> <br/><br/>edit: link eklendi
-  entry_channels: siyaset,bilim,haber,yeme-içme,ekonomi
-- entry_name: |
-    sadık çiftpınar
-  entry_id:  86759648
-  entry_writer: juliadreaming
-  entry_fav_count: 15
-  entry_content: |
-    fofana tarafından malatyaya götürülüp geri getirildi az önce.<br/><br/>(bkz: <a class="b" href="/?q=o+neydi+g%c4%b1z">o neydi gız</a>)
-  entry_channels: spor
-- entry_name: |
-    hdp'nin neden hala kapatılmadığı sorunsalı
-  entry_id:  86758764
-  entry_writer: atina gore kisneyen sahip
-  entry_fav_count: 11
-  entry_content: |
-    akp'nin gizli ittifak üyesi olması kaynaklıdır.<br/><br/>yargıyı tamamiyle ele geçirmiş bir iktidar için hdp'yi kapatmaktan kolay bir şey yok.<br/><br/>birgün akp iktidardan düştüğünde akp-hdp ilişkileri ortaya döküldüğünde herkesin dudağı uçuklayacak. sabah küfür edip akşam görüşüyorlar.<br/><br/>siyaset pistir ama türkiye'de daha pistir.
-  entry_channels: siyaset
+    bok mu var lan sevgilide. faydasından çok zararı var. bitince çektiğin acı da yanına kar kalıyor. <br/><br/>kendi kendine yetemiyorsan hayatının her döneminde yardıma muhtaç olacaksın demektir.<br/><br/>sevgili yapmayın demiyorum. ama güçsüzlüğünüzü kapatmak için başkasına muhtaç olmayın.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     bir erkeğe en çok yakışan şey
   entry_id:  86761113
   entry_writer: eloisee
-  entry_fav_count: 7
+  entry_fav_count: 11
   entry_content: |
     cok basarili olup tevazu sahibi olmak.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    üniversite mezunlarının işsiz kalma sebebi
-  entry_id:  86741997
-  entry_writer: kuslar bile eslik ediyor yavrum seni
+    survivor 2019 türkiye-yunanistan
+  entry_id:  86730972
+  entry_writer: metality
+  entry_fav_count: 9
+  entry_content: |
+    tutmamıştır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/Bt5-S7PFHNM/">https://www.instagram.com/p/bt5-s7pfhnm/</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/Bt6A3hLg9GJ/">https://www.instagram.com/p/bt6a3hlg9gj/</a><br/><br/>yılların tecrübesi acun ılıcalı'nın 2 senedir düşündüğü survivor formatları tutmuyor. all-star ve gönüllüler formatını all-star olarak devam ettirdi. şimdi de türkiye-yunanistan'ı değiştirmek zorunda kalacak. <br/><br/>esas sıkıntı altın yumurtlayan tavuk altın yumurtlamaya devam edecek mi? survivor'un daha önce de bazı dizilerin gerisinde kaldığı dönem olmuştu ama artık survivor için doymuşluk var. bir de sadece yarışma gösterip adayı unutursan çekirdek kitleyi yavaş yavaş kaybetmeye başlarsın. ada hayatı yok, bikini yok ve tişörtle yarıştırma var.
+  entry_channels: tv,magazin
+- entry_name: |
+    ekşi itiraf
+  entry_id:  86736554
+  entry_writer: reshad the lionheart
+  entry_fav_count: 9
+  entry_content: |
+    midesine epey duskun biri olarak son 30-40 gundur uzun sureli aclik tecrubeleri edindim. zaten bir muddettir uyguladigim intermittent fasting'e ek olarak su orucu falan denedim ve isin garibi, bir noktadan sonra acligi tokluga tercih eder hale geldim. elbette hayati devam ettirebilecek seviyede besine ulasmak cok buyuk bir nimet ve tercihe bagli olmayan acligi yasamayi hic istemem. fakat geride kalan bir ayi askin sureye donup baktigimda en mutlu anlarimin hep uzun sure hicbir sey yemedigim periyotlar dahilinde oldugunu fark ettim ve bu kesfi cok degerli buluyorum. kendimi bir insan gibi, ya da ona yakin bir sey olarak gordugum anlarin hep midemin bos oldugu, dolasim sistemimin sindirimle falan ugrasmadigi zamanlar olmasi bir tesaduf degil. <br/><br/>gecenlerde okudugum kisa bir makaleye gore, kilolu insanlar haftalarca ve hatta vucut yag oranlarina bagli olarak aylarca hicbir sey yemeden hayatta kalabilirmis. elbette boyle bir seyin pesinde degilim, yazinin amaci da okuru oyle bir seye tesvik etmek degildi zaten. soylenen sey su; beslenme yetisini suistimal ediyor insanoglu. bu nedenle de aylarca hic gida almadan ayakta kalmasina yetecek kadar buyuk bir stogu sirtinda tasiyor surekli olarak. <br/><br/>bu arkaplan nedeniyle bir degisimin ucunda oldugumu hissediyorum. bilemiyorum, belki de wishful thinking dedikleri turde bir seydir bu, kendimi bu degisime motive etmeye calisiyorumdur. ama bedeni zevklerimin kolesi olmaktan vazgecmek istiyorum artik. gecmiste dis gorunuse verdigim onem nedeniyle kilomu kontrol altinda tutmak isterdim. simdilerde daha guzel bir sey buldum aclikta. onun pesinden kosmaya karar verdim bundan boyle. <br/><br/>bir fedakarlik degil bu. zaten fedakarlik diye bir sey yoktur bu alemde. kimse ama hic kimse degerli oldugunu dusundugu bir seyi birakip daha kotusune evet demez. yuzeyde fedakarlik olarak gorunen her sey, aslinda cok daha kiymetli bir sey icin yapilmis akilci bir yatirimdir. satranctaki fedalar gibi, mat edeceginden eminsen veziri dahi verirsin. vezir degersiz oldugundan degil, mat etmek nihai amac oldugu icin. <br/><br/>"aclik buyuk bir nimettir; onu ancak cok sevdiklerine verir allah."<sup class="ab"><a title="(bkz: bilge kardesimin ozlu sozu)" href="/?q=bilge+kardesimin+ozlu+sozu" data-query="bilge kardesimin ozlu sozu">*</a></sup>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ersun yanal
+  entry_id:  86762997
+  entry_writer: varanus komodoensis
+  entry_fav_count: 7
+  entry_content: |
+    aykut kocaman tarafından enine futbol dersi verilen çakma efsane.<br/><br/>kendi evinde 60 dakika 10 kişi oynayan rakibine karşı geri düş ve beraberliği göt zoruyla kurtar.<br/><br/>iki tarafın hocaları değişse maç 3-0 fenerbahçe lehine biterdi.
+  entry_channels: spor
+- entry_name: |
+    libidosu yüksek kadın
+  entry_id:  86745535
+  entry_writer: frege
   entry_fav_count: 6
   entry_content: |
-    ulke ekonomisi muz cumhuriyetine donmus adam ogrenciler vidi vidi diyor.<br/><br/>ıs yok. bakin isten kasit, isci haklarinin, adil ucretin, insani calisma sartlarinin oldugu isten bahsediyorum. <br/><br/>yoksa maasli kole isteyen, isveren degil gotverenlerin uc kurusa guvencesiz calistirdiklari isler var. <br/>geleceginizin bir pustun iki dudaginin arasinda oldugu isler bunlar. 'yarin gelme' dedigi an bitti. 'bir suru issiz var senin yari fiyatina eleman bulurum' diyecek yuzsuzlugu bunlara veren de kimse suclu odur. ogrenciler uniler vs degil.<br/><br/>haftada 70 saat guvencesiz calisilan islere ,ay pardon is demisim kolelik pozisyonlarina , bakip' is var millet calismiyir yea' diyen de tam bir pisliktir riza baba.
-  entry_channels: anket,eğitim,ekonomi
+    zekası düşük, eğitimi hafif, karakteri leş ise... aldatır.<br/><br/>aksi durumda, hayatınız beraber güzelleşir.<br/><br/>ancak bu noktada önemli bir sorununuz var dostlarım.<br/><br/>kadınların cahil, eğitimsiz, zeka kıtlığı çeken, leş karekterli bireyler olarak yetiştirildiği bir toplumda yaşıyorsunuz. libidoda mutluluğu değil, ancak boynuzu bulursunuz.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     iss'lerin netflix'i yavaşlatması
   entry_id:  86732766
@@ -299,14 +323,6 @@ data:
     netflix in hız test sitesi olan <a rel="nofollow noopener" class="url" target="_blank" href="http://www.fast.com/" title="http://www.fast.com/">www.fast.com</a> adresinden hız testi yapıyorıum 4.7 mbit hız gösteriyor şu an. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.speedtest.net/" title="http://www.speedtest.net/">www.speedtest.net</a> ile hız testi yapınca 20 mbit görüyorum. <br/>bağlantım 24 mbit kablonet istanbul anadolu yakası.<br/><br/>tanım: doğru olan iddiadır.
   entry_channels: tv,sinema,teknoloji
 - entry_name: |
-    jailson marques siqueira
-  entry_id:  86758922
-  entry_writer: ludwig von amadeus
-  entry_fav_count: 4
-  entry_content: |
-    sezon başındaki genç ve maliyetsiz gençleri alıp geliştirme stratejisinin başarıyla ilerleyen tek hamlesi bu adam.<br/><br/>geldiği güne göre ciddi mesafe katletti vallahi.
-  entry_channels: spor
-- entry_name: |
     ekşi sözlük 20. yıl belgeseli
   entry_id:  86733188
   entry_writer: rachel
@@ -315,45 +331,45 @@ data:
     7 yıldır tek bir entry girmediğimi fark ettim bugün mesaj kutuma düşen ileti ile. duygulandım biraz, "vay be, 20 yıl mı olmuş" şaşkınlık girdabına ben de kapıldım. (bkz: <a class="b" href="/?q=9+a%c4%9fustos+istanbul+%c3%a7%c4%b1lg%c4%b1n+at%c4%b1yor+zirvesi">9 ağustos istanbul çılgın atıyor zirvesi</a>) zamanları düştü aklıma. 4. nesil bir yazar olmak ayrıcalık gibi hissettirdi. bunu yazmasam olmazdı. yıllar öncesine götürüp, bir sürü anının tazelenmesine vesile bir belgesel olmuş. iyi ki doğmuşsun, iyi ki var olmuşsun ekşi sözlük.
   entry_channels: ekşi-sözlük,tarih,programlama,teknoloji
 - entry_name: |
-    yazarların doğum tarihinde yaşanmış önemli olaylar
-  entry_id:  86731746
-  entry_writer: slippery nipple
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=melih+g%c3%b6k%c3%a7ek">melih gökçek</a>)in ankara'da 23 yıl sürecek olan belediye başkanlığının başlaması.
-  entry_channels: anket,ekşi-sözlük,tarih,magazin
-- entry_name: |
-    the umbrella academy
-  entry_id:  86737193
-  entry_writer: kurremkamerruk
-  entry_fav_count: 2
-  entry_content: |
-    iki bölümünü izledim, beğendim, illaki bu işler subjektif ama şahane müzikler seçmişler. sırf müziğini dinlemeye izlenir.
-  entry_channels: tv,edebiyat
-- entry_name: |
     fırat aydınus
   entry_id:  86760673
   entry_writer: dunyayokolsayataktankalkmayanadam
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     fenerbahçenin fırat aydınus ve ali palabıyık olmadan puan alabildiğini göremedik bu sene. <br/><br/>operasyon çocuğudur derhal düdüğünü asmalıdır.<br/><br/>yeter artık.<br/><br/>zırlamaların fayda verdiğini gösteren hakem/maç
   entry_channels: spor
 - entry_name: |
     16 şubat 2019 jahovic'in gördüğü kırmızı kart
-  entry_id:  86760738
-  entry_writer: nutellali balik ekmek
-  entry_fav_count: 2
+  entry_id:  86761599
+  entry_writer: tarihte bugun
+  entry_fav_count: 3
   entry_content: |
-    dünkü kırmızı kart üstüne algı kasanların susması gereken pozisyon.<br/><br/>rakibe dalmak bir tercihtir. ama yere inen bir oyuncunun tercihi olamaz.<br/><br/>o nedenle arkadan dalan admın gördüğü kart ile bu kıyas kabul görmez.
+    asıl skandal var'da pozisyonu inceleyen fırat aydınus'un buna rağmen bu pozisyona kırmızı vermesidir. bu pozisyona sadece faul verilebilir. sarı bile verilmez.
   entry_channels: spor
 - entry_name: |
-    ersun yanal
-  entry_id:  86762997
-  entry_writer: varanus komodoensis
+    bira içmelik arkadaş veritabanı
+  entry_id:  86758347
+  entry_writer: clane
+  entry_fav_count: 2
+  entry_content: |
+    ankaradayım ve 23 yaşındayım. evde kendi biramı yaptığım için çok fazla dışarda içmiyorum ama şöyle oturup sohbet edebilecek, dertleşebilecek, sonra evli evine köylü köyüne diyip gideceğim birisi olursa dışarıda iki biraya da hayır demem zira kendimi arkadaşlarıma iki bira içip dertleşemeyecek kadar uzak hissediyorum. erkek yazarlar uzak durursa sevinirim, muhabbetin gideceği yer belli ve bu muhabbetlerden fazlasıyla sıkıldım.
+  entry_channels: anket,ilişkiler,yeme-içme
+- entry_name: |
+    türkiye'de atatürk'ü sevenlerin oranı
+  entry_id:  86762015
+  entry_writer: mambavino
   entry_fav_count: 1
   entry_content: |
-    aykut kocaman tarafından enine futbol dersi verilen çakma efsane.<br/><br/>kendi evinde 60 dakika 10 kişi oynayan rakibine karşı geri düş ve beraberliği göt zoruyla kurtar.<br/><br/>iki tarafın hocaları değişse maç 3-0 fenerbahçe lehine biterdi.
-  entry_channels: spor
+    ufak bir ultimate yobaz kitle harici sevilmektedir ve bu ne yapılırsa yapılsın değişmeyecektir .gel gelelim sevmeyi çok iyi beceren milletimiz anlamayı beceremiyor .<br/><br/>bu adamın idealleri neydi ?<br/><br/>ne için savaş verdi ?<br/><br/>bu savaşta hangi yolları kullandı ? <br/><br/>günümüzde onun fikirlerini bir ışık olarak kullanabilecek bir nesil yetiştirmenin önemi nedir ? <br/><br/>işte bu ve bunun gibi soruların cevabını bilen insan sayısı malesef çok az .oran verilemeyecek verilirse utanç kaynağı olacak kadar az .
+  entry_channels: siyaset
+- entry_name: |
+    sigara haramdır
+  entry_id:  86763329
+  entry_writer: frondie
+  entry_fav_count: 1
+  entry_content: |
+    neyseki ikisinden de kurtuldum,hayatimda ne diyanet var ne sigara size de aynisini tavsiye ederim.<br/>kuşlar kadar hürüm,yaşasin özgürlük...
+  entry_channels: 
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  86730542
@@ -364,42 +380,26 @@ data:
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     we are writing english on this topic
-  entry_id:  86757826
+  entry_id:  86763886
   entry_writer: başlık taşıyan
   entry_fav_count: 0
   entry_content: |
     (bkz: <a class="b" href="/?q=we+only+write+english+to+this+topic">we only write english to this topic</a>)
   entry_channels: ekşi-sözlük
 - entry_name: |
-    türkiye'de atatürk'ü sevenlerin oranı
-  entry_id:  86762015
-  entry_writer: mambavino
+    fenerbahçe
+  entry_id:  86763218
+  entry_writer: fevki lugat
   entry_fav_count: 0
   entry_content: |
-    ufak bir ultimate yobaz kitle harici sevilmektedir ve bu ne yapılırsa yapılsın değişmeyecektir .gel gelelim sevmeyi çok iyi beceren milletimiz anlamayı beceremiyor .<br/><br/>bu adamın idealleri neydi ?<br/><br/>ne için savaş verdi ?<br/><br/>bu savaşta hangi yolları kullandı ? <br/><br/>günümüzde onun fikirlerini bir ışık olarak kullanabilecek bir nesil yetiştirmenin önemi nedir ? <br/><br/>işte bu ve bunun gibi soruların cevabını bilen insan sayısı malesef çok az .oran verilemeyecek verilirse utanç kaynağı olacak kadar az .
-  entry_channels: siyaset
-- entry_name: |
-    hoşlanılan kızın takip isteğini reddetmesi
-  entry_id:  86762318
-  entry_writer: in another life
-  entry_fav_count: 0
-  entry_content: |
-    4. kez istek göndermek nedir yahu. hayır hayırdır bunu anlamak bu kadar zor mu? bu ısrar niye? bu neyin özgüveni hala?
-  entry_channels: 
+    her hafta olduğu gibi yine kuponumu yatıran vasat takım. ulan daha ne olması gerekiyor kazanmanız için? adamlar 10 kişi kaldı, devre bitmeden beraberliği yakaladınız, baskıyı kurmuşsunuz... bir gol atıp 2-1 bitiremiyorsanız şu maçı cidden küme düşün. gitti paralar, allah kahretsin, aldığınız milyon euroları sikeyim.
+  entry_channels: spor
 - entry_name: |
     en son gerçekten mutlu hissedilen an
-  entry_id:  86762856
-  entry_writer: chucktaylor
+  entry_id:  86763957
+  entry_writer: thor44
   entry_fav_count: 0
   entry_content: |
-    new york 2011
+    en son ne zaman çok içten bir şekilde güldüğümü bile hatırlamıyorum...
   entry_channels: anket
-- entry_name: |
-    adis jahovic
-  entry_id:  86761711
-  entry_writer: kral4fero
-  entry_fav_count: 0
-  entry_content: |
-    bu akşam oynanan fenerbahçe konyaspor maçında komik bir şekilde kırmızı kart görmüştür.
-  entry_channels: spor
 ---
