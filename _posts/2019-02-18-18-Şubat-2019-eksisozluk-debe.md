@@ -6,7 +6,7 @@ data:
     survivor türkiye yunanistan yayından kaldırılması
   entry_id:  86787727
   entry_writer: nickson
-  entry_fav_count: 1382
+  entry_fav_count: 1402
   entry_content: |
     acun tamam bugüne kadar turabi'lerle bir yere kadar geldin ama artık sıktı ve ünlüler-gönüllüler bile yapsan tutmaz. sana buradan bir tüyo vereyim, tutacak format;<br/><br/>survivor: gelinler - kaynanalar
   entry_channels: tv,haber
@@ -14,7 +14,7 @@ data:
     laiklik istismarından kurtulmanın vakti gelmiştir
   entry_id:  86793417
   entry_writer: youtouchmytalala
-  entry_fav_count: 782
+  entry_fav_count: 790
   entry_content: |
     insana erdoğan'ı savundurursunuz o derece leş bir muhalefet anlayışı.<br/><br/>adam dini dusuncelere saygı göstereceğiz, laiklik istismarına müsaade etmeyeceğiz demiş. belki de ilk defa doğru bir şey söylemiş.<br/><br/>bizimki çıkmış "erdoğan'ın laikliği kaldıracağını açıklaması" diye başlık açmış.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     öğrenci profili en düşük bölüm
   entry_id:  86771605
   entry_writer: gezite
-  entry_fav_count: 726
+  entry_fav_count: 728
   entry_content: |
     türbanlı öğrencilerin istila ettiği, sosyoloji, psikoloji ve felsefe bölümleri midemi bulandırıyor. bir de o bilmiş tavırları yok mu? ulan marx'a dinsiz diyen akademisyenden ders alıyorsun havan kime.<br/><br/>edit: "marx dinsiz değel mi yeah" diyen arkadaşlar siz geri zekâlı mısınız? ben "marx dinsiz" diyerek onu aşağılamaya çalışan akademisyenlerden bahsediyorum. marx düşmanı bölüm başkanlarından, darwinizm pkk'nın resmi ideolojisidir diyen profesörlerden bahsediyorum. bakın çok ciddi söylüyorum dünya düzdür diyen adamlar özellikle felsefe bölümlerine atanıyor. siyasal islam sorgulayan bireyden nefret eder.
   entry_channels: anket,eğitim
@@ -30,7 +30,7 @@ data:
     köleliğin kaldırılmasının nedeni
   entry_id:  86783512
   entry_writer: esplendor
-  entry_fav_count: 463
+  entry_fav_count: 465
   entry_content: |
     kaldırılmadı şekil değiştirdi şeklinde cevap verilebilecek soru.<br/><br/>eskiden kölelik, bir başkasının malı olmaktı. o kişi sizi istediği gibi kullanırdı, bunu yap derdi yapardınız, acımasızca işkence yapabilirdi yani bildiğiniz sizi, her şeyi yapabilen bir robot olarak kullanırlardı. şimdiki kölelik de ise kimin kölesi olacağınızı -eğer eğitimde iyi noktalara geldiyseniz- siz seçiyorsunuz. yine bunu yap denildiğinde yapmak zorundasınız. sadece üstüne para kazanıp, işte harcadığınız zamandan arta kalmayan(!) zamanda bu parayı harcayıp hayatta kalmaya çalışıyorsunuz.
   entry_channels: tarih
@@ -38,15 +38,31 @@ data:
     oğlunun adını recep tayyip koyan çiftçinin isyanı
   entry_id:  86789086
   entry_writer: saintly
-  entry_fav_count: 358
+  entry_fav_count: 367
   entry_content: |
     ee abiciğim, 17 yıl boyunca hiç düşünmeden yediniz içtiniz elbette bunun bir hesabı olacaktı.
   entry_channels: haber,ekonomi
 - entry_name: |
+      (nokta)ı.ıılıııllılllıllılllllıl...lııllıılllıllllııllıı
+  entry_id:  86779493
+  entry_writer: blapradur
+  entry_fav_count: 347
+  entry_content: |
+    tanzim kuyruğu.
+  entry_channels: anket
+- entry_name: |
+    muhtaç ailelere 150 kw/s elektrik faturası desteği
+  entry_id:  86787395
+  entry_writer: attan dusen inek
+  entry_fav_count: 230
+  entry_content: |
+    doğuda kaçak elektrik kullananların faturasıni nasıl ödüyorsak şimdi bunuda biz ödeyeceğiz demek, iş oyle bir yere gidiyor ki yakında orta gelirli haneler yardım almak zorunda kalacak.<br/><br/>edit: bu sistem gelire ters orantılı olarak herkese uygulanmali o zaman. sadece yardımlarla yaşayan bir kısım var devlet yardim dağitmayi birakip bu kisilere is bulmali. isten gucten dusmus, yasli veya gercekten muhtac insalar olabilir tabiki ama 10 milyon kişide çok ciddi bir rakam.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     hücrenin organizma haline gelişinin videosu
   entry_id:  86778506
   entry_writer: the walking balls
-  entry_fav_count: 171
+  entry_fav_count: 212
   entry_content: |
     arkadaşlar ilk defa başlık açıyorum.başlık adını bu şekilde yaptım.uygun değilse mod arkadaşlar düzeltirler diye umuyorum.<br/><br/>hollandalı yönetmen jan van ıjken'in, becoming isimli timelapse çalışmasıdır.zigotun, yumurtadan çıkışına kadar olan süreyi seyirciye aktarır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://vimeo.com/315487551" title="https://vimeo.com/315487551">link</a><br/><br/>edit: <a class="b" href="/?q=sonsuza+kadar+yiyebilen+adam">sonsuza kadar yiyebilen adam</a> arkadaşımız, gerçekleşen olayın türkçe olarak basit anlatımını paylaştı.<a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/umuth/status/1093534462166659074?s=21" title="https://twitter.com/umuth/status/1093534462166659074?s=21">buradan</a> ulaşabilirsiniz.
   entry_channels: bilim
@@ -54,7 +70,7 @@ data:
     türk kızlarının pek satranç oynamaması
   entry_id:  86786190
   entry_writer: stajyermafya
-  entry_fav_count: 133
+  entry_fav_count: 142
   entry_content: |
     türk kızlarını bırak, türkiyede satranç oynayan mı var lan?
   entry_channels: ilişkiler
@@ -62,23 +78,15 @@ data:
     grup seks başlatıcı diyaloglar
   entry_id:  86785994
   entry_writer: sahraasya
-  entry_fav_count: 131
+  entry_fav_count: 135
   entry_content: |
     birlik ve beraberliğe ihtiyaç duyduğumuz şu günlerde...<br/>gelen mesajlar üzerine edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.eksisozluk.com/entry/26503155" title="https://www.eksisozluk.com/entry/26503155">bu</a> <br/>giride aynı entry mevcut ama bir copy-paste durumu söz konusu değil. başlık içinde arama yapmadım, affola.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    yazarların favori cipsleri
-  entry_id:  86788223
-  entry_writer: graphytube
-  entry_fav_count: 101
-  entry_content: |
-    (bkz: <a class="b" href="/?q=doritos+a+la+turca">doritos a la turca</a>)
-  entry_channels: anket,yeme-içme
-- entry_name: |
     z kuşağının en büyük sorunu
   entry_id:  86802296
   entry_writer: tramvay soforu
-  entry_fav_count: 98
+  entry_fav_count: 127
   entry_content: |
     altı boş özgüven ve sosyal medya bağımlılığıdır.<br/><br/>not: nacizane tespitimdir.
   entry_channels: ilişkiler
@@ -86,15 +94,31 @@ data:
     öğrenciyi gözaltına alırken taciz eden polis
   entry_id:  86789163
   entry_writer: sinpecado
-  entry_fav_count: 97
+  entry_fav_count: 116
   entry_content: |
     önceleri polisliğin bir şanı vardı. şimdi ise adam olamayanların yaptığı bir meslek haline geldi. bunu bu duruma kim getirdi hepimiz biliyoruz. bu tip olaylarla çok daha sık karşılaşacağımızı temin ederim...
   entry_channels: siyaset,haber
 - entry_name: |
+    yazarların favori cipsleri
+  entry_id:  86788223
+  entry_writer: graphytube
+  entry_fav_count: 104
+  entry_content: |
+    (bkz: <a class="b" href="/?q=doritos+a+la+turca">doritos a la turca</a>)
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    25 şubat 2019 beşiktaş fenerbahçe maçı
+  entry_id:  86784923
+  entry_writer: bir cevabim yok ama soru guzelmis
+  entry_fav_count: 94
+  entry_content: |
+    perşembe gecesi 22:00 da allah'ın norveç'inde maç oynadıktan sonra pazar akşamı g.s. karşısına çıkartan tff'nin pazartesi gününe aldığı maç.<br/>ortamlarda tff başkanı beşiktaşlı falan dersiniz amk, nasıl olsa kim bilecek. yüzsüz, arsızlar sizi.
+  entry_channels: spor
+- entry_name: |
     organize işler sazan sarmalı
   entry_id:  86771286
   entry_writer: windweaver
-  entry_fav_count: 88
+  entry_fav_count: 93
   entry_content: |
     film, yasa tartışmaları ve sinemalarla yaşanan pay kavgası sonrasında piyasaya çıktı. bu yüzden birçok insan tarafından boykot edildi. ayrıca filmin daha sinemadayken netflix gibi bir platformda yayınlanması sinema salonlarına internetin gümbür gümbür geldiğini gösterdi.<br/><br/>sinema salonları demişken şunu söyleyeyim aslında ana akım türk sinemasından uzak duruyorum. sebebini de türkiye box office listesine bakarak anlayabilirsiniz. ancak yaşanan tartışmalar filmi merak etmeme neden oldu. bir de hazır netflix'te var zaten diyerek izlemeye başladım. filmi her şeyden bağımsız olarak değerlendireceğim çünkü diğer alanlarda söylenmesi gereken çoğu şey söylendi zaten. o yüzden entry'i okuduktan sonra sen yılmaz erdoğan hakkında böyle böyle düşünüyorsun zaten ondan eleştirmişsin demeyin. hazırsanız başlayalım.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>önce senaryo. film temelinde bir dolandırıcılık hikayesi. ayrıca suçluların dünyasına mizahi bir bakış atıyor. ilk filmden tanıdığımız asım'ın kızı bir şekilde dolandırılıyor. o sırada asım da standart işlerine devam ediyor ve dolandırdığı kişiler kıvanç tatlıtuğ'un canlandırdığı sarı saruhan'a gidiyorlar. asım hem kovalayan hem kovalanan oluyor ve bu genel olarak işleyecek bir fikir gibi görünüyor. peki senaryo işliyor mu? maalesef hayır. <br/><br/>neden işlemiyor? çünkü ilk filmde çalışan mekanizmaların hiçbiri bu filmde yok. ilk filmde asım'ın nasıl dolandırıcı olduğunu ve nasıl çalıştığını izliyorduk. film seyirciyi bilmediği bir dünyaya götürüyordu. hem suçlu tipini çok iyi çiziyordu hem de olaylara mizah katıyordu. bu filmde ise kişiler derinlenmesine incelenmemiş. insan psikolojisine yapılan dokunuşlar yok. mesela ilk filmde tolga çevik'in canlandırdığı superman karakteri kadar derin bir karakter yok sazan sarmalında. bu filmde aynı görevi damada vermişler ama onu da hikayenin dışında tuttukları için karakterin varlığı bir işe yaramamış. ilk filmde tolga çevik'in karakteri yeni bir dünya ile tanışıyordu ve onun bocalamalarını izliyorduk. ayrıca tolga çevik, yılmaz erdoğan'ın karşısında rolünü oynayabiliyordu. damat karakterine ise akılda kalıcı bir sahne bile yazmamışlar. bu yüzden karakter bütün herkesin gölgesinde kalmış.<br/><br/>ilk filme göre en kötü detaylardan biri yılmaz erdoğan'ın canlandırdığı asım karakteriydi. asım ilk filmde derin bir karakterdi aslında. bize usta bir dolandırıcı olarak tanıtılıyordu ve bu vaadini de gerçekleştiriyordu çoğu zaman. yani siz onun gerçekten akıllı bir hırsız olduğuna inanıyordunuz ancak bu filmde herhangi bir ustalığını görmüyorsunuz. daha çok emekliliği gelmiş biri gibi dolaşıyor etrafta. bir de asım ilk filmde ben sevmem o tarzı ama "görkemli bir kaybeden"di. bu filmde ise o afilli abi havası yoktu. çünkü karakter özelinde bir şey anlatılmıyordu. mesela ilk filmdeki şu sahneye bir bakın. bu filmin tümünde bir tane bile böyle sahne yok. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Rse7LFNP_0g">https://www.youtube.com/watch?v=rse7lfnp_0g</a><br/><br/>filmde öne çıkan karakter ise kıvanç tatlıtuğ'un canlandırdığı sarı saruhan olmuş. saruhan ilk filmde cem yılmaz'ın canlandırdığı müslüm karakterinin boşluğunu doldurmak için yazılmış. her ne kadar cem yılmaz'ın karakteri daha üst seviyede olsa da bu karakter de gayet iyi. kıvanç tatlıtuğ'un kariyerini çok yakından takip etmiyorum ancak yaptığı işlere saygım var. çünkü zaten adam yakışıklı. türkiye'de kendisini hiç geliştirmese de parasını kazanır. ancak o bu özelliğini bir kenara atıp böyle rollerde oynayabiliyor. bu da tabi ki takdir edilesi bir çaba. umarım daha da iyi yerlere gelir. <br/><br/>ezgi mola da yine takip ettiğim bir oyuncu değil ama birkaç yerde gördüm. kendisi için şunu söyleyeceğim oyunculuğuna biraz çeşitlilik katması gerekiyor. her yerde aynı karakteri canlandırıyor gibi. belki de kendisinden istenen hep aynı şeydir ancak bu tercih kariyerini uzun vadede kötü etkiler. kıvanç'tan biraz örnek alıp farklı karakterler ile izleyici karşısına çıkması lazım.<br/><br/>filmde beğendiğim bir oyuncu da ata demirer. gerçi kendisi şöyle bir uğrayıp geçmiş ama yine de kendisini görmek güzel. bu filmdeki karakteri eski tiplemelerinden veteriner hekim niyazi gül'ü hatırlattı bana.<br/><br/>gördüğünüz gibi senaryo yeni yada derin bir şey sunmuyor. hikayenin aksamasının bir nedeni de kurgunun anlatılan hikayeye uymaması. şimdi her filmin kurgusu kendine özgüdür. yani yavaş ilerleyen bir filmde haldur huldur kesme yapılmaz. uzun plan kullanırsınız. nuri bilge ceyhan filmlerinde mesela uzun planlar vardır çünkü hikaye ağırdır. bir dolandırıcılık filmi ise hızlı kurgu gerektirir. mesela cut on action denilen teknik sıklıkla kullanılır. nedir bu cut on action? bir hareket başlar kesilir hareket diğer planda tamamlanır gibi. bu da sahneye dinamizm katar. ancak bu filmde kurgunun tempoya hiçbir katkısı yok. mesela now you see me'ye bir bakın. klip çeker gibi iki saniyede bir kesme kullanmış adamlar. bu filmde ise planları uzattıkça uzatmışlar. ayrıca yine senaryo ile alakalı ancak çok fazla gereksiz sahne var filmde. kurguda filmi kısaltmak isteseniz rahat rahat yarım saatlik kısmını atabilirsiniz. ki bu da filmi bir nebze hızlandırır aslında. çünkü dediğim gibi bir dolandırıcılık konulu komedi filminin hızlı olması gerekir aslında. <br/><br/>filmin diğer bir teknik yönü olan görüntü yönetmenliğinden de bahsedelim. filmin görüntü yönetmeni olan uğur içbak'ın işlerini genel olarak beğenirim aslında. ama bu filmde görüntü yönetimi adına parlak pek bir şey göremedim. bunun da nedeni türkiye'de oluşan saçma bir trend. şimdi görüntü teknolojisi ilerledi. kabul. insanlar cebindeki ekranlarla bile fhd video izlemeye alıştı. ancak bu bizim çekilen her filmde reklam filmi çeker kabak gibi net, gölgesiz görüntüler kullanmamızı gerektirmez. ilk filme hakim şahane bir sarı renk tonu vardı mesela. bu filmde garip soğuk mavi, gri renkler var. ne gerek varsa. suçluların dünyasını anlatan bir komedi filminde gerçekten kimin aklına geldi böyle bir renk paleti ve ışık kullanmak anlaşılabilir gibi değil. aynısını hakan dizisinde gökhan tiryaki yapmıştı mesela. bu tür hikayelerde bu kadar net görüntülere ihtiyacımız yok gerçekten. biraz daha "kirli" çekimler filme daha çok katkı sağlar düşüncesindeyim. <br/><br/>bir de diyaloglardan bahsedelim. ilk filmde diyaloglar yerli yerindeydi. yani ortaya atılan aforizmalar canınızı sıkmıyordu. bu filmde ise bir edebiyatımız olsun der gibi söylenmişler. o yüzden çok havada kalıyorlar. belki filmin dramatik yapısı bu kadar temelsiz olmasa bu sözler de bu kadar sakil kalmazdı ama destekleyen hiçbir şey olmayınca tabi ortaya böyle bir sorun çıkmış. sanki olay akışını kesip haydi asım bir aforizma söylesin burada gibi bir yapı çıkmış ortaya. organik değil yani yapılan eklemeler. <br/><br/>diyalogların diğer aksayan noktası da yılmaz erdoğan'ın daha önce "tutan" repliklere sürekli gönderme yapmasıydı. tam olarak saymadım ama ben dört defa denk geldim bu yapılana. birincisi saruhan'ın bak tikim var demesi. bu vizontele'de emin'in danimarka'lı kızla yaşadığı şeye benziyordu. ikincisi mecazi cazi mi cazi nedir repliğiydi. üçüncüsü saruhan'ın yaptığı bob marley konuşmasıydı. bu da ilk filmdeki bye bye happiness sahnesine gönderme. şu araba nerede, para nerede repliğinin göndermesini bile filmde iki defa yapmışlar. bir tanesi yetmedi sanırım. bu da biraz ne gülmüştünüz bunlara, hadi bir daha gülün demek gibi. ilkinde güldük çünkü tam yerinde söylenmişlerdi. bunda gülmedik çünkü senaryonun içine bunu da kesin koyalım demişler gibi dağınık şekilde eklenmişler. hatta güven kıraç'ın canlandırdığı karakter ve oğlu vizontele'de şafak sezer ve babasının canlandırdığı karakter gibi yazılmış. bu da bir göndermenin ötesinde kendini tekrar etmeye dönüşmüş tabi. <br/><br/>filmde bir de beni rahatsız eden bir şeyden bahsedeceğim. bu konu da ürün yerleştirme. ürün yerleştirme kim yaparsa yapsın izleyici tarafından sevilmez. spielberg bile ürün yerleştirme yaptığı için eleştiriliyor. çıta ne kadar yüksek siz düşünün. bu filmde de ürün yerleştirmeler yapılmış ancak şöyle bir fark var. yabancı filmlerde ürün yerleştirmeler hikayeye dahil edilmiyor genelde. yani ya arkada bir yerde tabela falan olur ya ürünü başrolün elinde kısa bir süre görürsünüz gibi. sanırım zaten adama reklam izletiyoruz bari iyice gözüne sokmayalım da fitil olmasın diye düşünüyorlar. türk filmlerinde ise sanırım o kısmı komple reklam ajansına yazdırıyorlar çünkü oyuncular filmi kesip baya diyalogla falan reklam yapıyorlar. bu da gördüğüm en saçma uygulama. daha önce cem yılmaz bu nedenle eleştirilmişti. bu filmde de bu yapılmış.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>film hakkında yazmayı bitirirken sanırım beğendim yada beğenmedim dememe gerek yok. ayrıca objektif şekilde iyiye iyi, kötüye kötü dediğime inanıyorum. ha bu filmi izlemezseniz bir şey kaybeder misiniz? bence etmezsiniz. ancak türk sinemasının gittiği yeri görmek üzücü diyebilirim. çünkü yılmaz erdoğan kaliteli filmleri büyük kitlelere ulaştıran bir insandı benim gözümde. bu film ise bu kariyere uymuyor. kıpırdanmalar olsa da bizi umutlandıracak bir hareket yok gibi. o yüzden kendi açımdan ana akım türk sinemasından uzak durmaya devam diyebilirim.
   entry_channels: anket,tv,sanat,sinema,spoiler
@@ -102,7 +126,7 @@ data:
     17 şubat 2019 kasımpaşa galatasaray maçı
   entry_id:  86798461
   entry_writer: bakinbenhastayimbenolucem
-  entry_fav_count: 80
+  entry_fav_count: 83
   entry_content: |
     maçtan önce: kasımpaşa 3 milyon euro alacak len amq.<br/><br/>kasımpaşa golü sonrası: haha tecavüz edecekler haha.<br/><br/>beraberlik golü sonrası: olsun kasımpaşa atacak yine bal len amq.<br/><br/>galatasaray öne geçince: kasımpaşa 3 milyon euro alacak len amq.
   entry_channels: spor
@@ -110,10 +134,18 @@ data:
     türk cezaevlerinde tecavüzün gerekliliği
   entry_id:  86798164
   entry_writer: kral leopoldun kongolu arkadasi
-  entry_fav_count: 78
+  entry_fav_count: 81
   entry_content: |
     zaten var olan ama mücadele edilmesi gereken bir mevzu.<br/><br/>cezaevinin amacı mağdur insanların tatmin olması değildir, suç işleyen insanların rehabilite olmasıdır. devlet intikam almaz.
   entry_channels: siyaset,bilim,tarih,haber
+- entry_name: |
+    younes belhanda
+  entry_id:  86798073
+  entry_writer: baytarafli
+  entry_fav_count: 75
+  entry_content: |
+    şut çekince gol olduğunu yeni keşfetti adam.
+  entry_channels: spor
 - entry_name: |
     sadece nakit ödeme alan işletme
   entry_id:  86772764
@@ -123,21 +155,37 @@ data:
     kayıt dışı ticaret yaparak vergi kaçırma derdindedir
   entry_channels: ekonomi
 - entry_name: |
-    younes belhanda
-  entry_id:  86798073
-  entry_writer: baytarafli
-  entry_fav_count: 69
-  entry_content: |
-    şut çekince gol olduğunu yeni keşfetti adam.
-  entry_channels: spor
-- entry_name: |
     selçuk inan
   entry_id:  86798903
   entry_writer: laminantparke
-  entry_fav_count: 63
+  entry_fav_count: 68
   entry_content: |
     bu adama şu maçta söven gerizekalıların hangi maçı izlediği merak konusu olan futbolcu. adam şu an resmen 2011 2012 sezonundan güzel bir kesit sunuyor lan.
   entry_channels: spor
+- entry_name: |
+    nba tarihinin en iyi şutörü
+  entry_id:  86786345
+  entry_writer: kalan arda
+  entry_fav_count: 67
+  entry_content: |
+    2015- 2016 sezonunda maç başına 5.1 üçlüğü %46'yla sokmuş curry'le kiyaslanabilecek bir şutör bile nba tarihinde olmadı. allen, miller falan 2.5, 3 üçlüğü %41'le falan sokan oyunculardı. curry 5 üçlüğü %40'la falan soksa, o dönem üçlük bu kadar tercih edilmiyordu denebilirdi. öyle bir şey de olmadığına göre tartışmaya kapalı.<br/><br/>büyük oyunculuk başka şey, iyi şutörluk başka şey. larry bird, curry'den çok daha iyi oyuncuydu ama curry daha iyi şutör. allen, miller, klay, dennis scott, peja gibileri zaten köpeği bile olamaz curry'nin.<br/><br/>reggie miller ve ray allen efsane falan değil, geçmişte oynamış yıldız oyuncular. ikisi de sadece şutör olarak değil oyuncu olarak da curry'den çok daha geride. curry 2 kez nba'de sezonun en iyi oyuncusu( mvp) seçildi, bunun ikisi hiçbir sezon birinci takıma bile seçilemedi.
+  entry_channels: spor
+- entry_name: |
+    hoşlanılan erkeğe açılmak
+  entry_id:  86790345
+  entry_writer: waterfly
+  entry_fav_count: 61
+  entry_content: |
+    gerçekten beklentinizi sıfıra çekip yapmalısınız. karsinizdaki insanin da bunu kaldirabilecek olgunlukta olduguna emin olmaniz lazim. zor is vesselam ama soyleyip kurtulmak da acayip rahatlatiyor olumsuz olsa bile.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    cüneyt özdemir
+  entry_id:  86781986
+  entry_writer: 1attaya9gidelim3mi8
+  entry_fav_count: 46
+  entry_content: |
+    youtube’a yeni yüklediği video’sunda çocukluk aşkı ahu ile olan hikâyesini anlattıktan sonra: “ertelemeyeceksiniz böyle şeyleri. gidiş var dönüş yok bazı şeylerde.” demiş güzel insan. bazen kızsam da kendisine, haberciliği en iyi yapanlardan biri. takip ettiğim nadir medya çalışanlarından. tarafsız değil, her insan gibi tabii ki bir tarafı var ancak bunu saygılı bir şekilde götürme inancını taşıdığını düşünüyorum.
+  entry_channels: siyaset,tv,haber
 - entry_name: |
     ülkemize seks için gelen türkler defolun
   entry_id:  86791607
@@ -155,13 +203,21 @@ data:
     arkadaşlar,o adamı abd yarın veriyoruz desin,hükümet kalsın demez ise bende birşey bilmiyorum.<br/>bundan iyi malzeme mi var?<br/>devlete düşman gerek,yoksa bu gençler bayrağının değerini bilmez değil mi?
   entry_channels: siyaset,haber
 - entry_name: |
-    cmylmz diamond elite platinum plus
-  entry_id:  86774726
-  entry_writer: paranoid humanoid
-  entry_fav_count: 39
+    yargıtay 2. hd başkanının nafakaya ilişkin sözleri
+  entry_id:  86797832
+  entry_writer: delibozan
+  entry_fav_count: 38
   entry_content: |
-    cem yılmaz'ın karaborsacılara inat, netflix'e satmasını beklediğim gösteri. (:
-  entry_channels: haber,magazin
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.artigercek.com/haberler/yargitay-2-hukuk-dairesi-baskani-nin-nafaka-yorumu-sen-elin-adamiyla-gayrimesru-yasa-ben-sana-icki-p" title="https://www.artigercek.com/haberler/yargitay-2-hukuk-dairesi-baskani-nin-nafaka-yorumu-sen-elin-adamiyla-gayrimesru-yasa-ben-sana-icki-p">tık</a><br/><br/>linkte görülen sözlerdir. <br/><br/>tıklamak istemeyenler için haberin tamamı: <br/><br/>yargıtay 2´nci hukuk dairesi başkanı ömer uğur gençcan, kadınların süresiz yoksulluk nafakası hakkıyla ilgili, "kadınların kazanılmış haklarını alıyorsunuz´ deniliyor. ya siz, erkeklerin 80 senelik kazanılmış hakkını aldınız elinden" görüşünü savundu.<br/><br/>ömer uğur gençcan, karabük barosu'nun düzenlediği "aile hukuku ve hmk yargıtay uygulamaları" konulu meslek içi eğitim seminerine katıldı.<br/><br/>burada nafaka hakkına değinen gençcan, türkiye´de yoksulluk nafakasının 1988 yılına kadar 1 yıl verildiğini belirterek şunları söyledi: "2'nci özal hükümetinde bayram değil seyran değil 3444 sayılı yasa ile bunu süresiz hale getirdiler. `kadınlara yazık değil mi´ 80 senedir böyleydi. şimdi yeniden süreye dönülme çalışmaları var. `kadınların kazanılmış haklarını alıyorsunuz´ deniliyor. ya siz erkeklerin 80 senelik kazanılmış hakkını aldınız elinden. o zaman hiç cümle yoktu. ben hakimim ben doğruyu söyleyeceğim. ben vicdanıma göre karar vereceğim. bayram değil seyran değil süresize çevirdiler. şimdi şefkatle bazı bildirileri yayınlayanlar var. 'süresiz olduğu doğru değil´ sanki biz kandırıyoruz. süresiz olmadığı hal tabii ki var. 'adam ölünce alamıyor. tabii ki alamayacaksın. rahmetlinin mirasçıları sana mı verecek? bak gördün mü süreli işte. ölünce bitiyor. e tabii ki bitecek canım. yeniden evlenince bitiyor. e tabii ki bitecek. sen elin adamıyla evlen ben de sana ödemeye devam edeyim. sen elin adamıyla gayrimeşru yaşa ben de sana her akşam içki paranı göndereyim. var mı böyle bir şey? bunları örnekleyerek bu sürelidir denilir mi ya. tabii ki bitecek bu haller. bu hale düşmezse, kocan ölmezse, kötü yola düşmezse, evlenmezsen ölene kadar alıyorsun. ben 1988´den bu yana bu nafakanın süresiz olmasını içime sindiremedim. ben yatmışım biriyle sen de yatmışsın biriyle. ben sana bir ömür boyu nafaka. ben tükürdüm sen tükürdün. bir ömür boyu nafaka. böyle bir şey mi olur?" diye konuştu.<br/><br/>her meslekten erkeğin eşlerini dövdüğünü ve buna tanık olduğunu anlatan geçcan şöyle devam etti: "hepimiz evliyiz. bu salonda hepimizin başına her an her şey gelebilir. 31 senedir bu işe bakıyorum. herkes her türlü hatayı yapabilir, ben dahil. herkes her an her şeyi yapabilir. bir baro'da anlatıyorum işte; baro başkanı da dövüyor, hakim de dövüyor, il emniyet müdürü de dövüyor´ dedim. ertesi gün tbmm´den beni arıyorlar. `hangi başkanımız dövüyor´ diye. ben dövenlerin hepsini gördüm. bir il emniyet müdürüydü. ilin adını vermeyeceğim. il lekelenmesin. karısı da polis. gece düğünden geliyorlar. yolda kavga ediyorlar. karısını yolda indirip devam ediyor. yoldan tır´cılar, kamyoncular geçiyor. orada bir kadın. bunu da yapan bir il emniyet müdürü. bizde klasik sohbetler vardır ya; bu kültür, eğitim meselesi. bu saçma sapan bir laf. bunun kültürle filan alakası yok. profesör de dövüyor. milletvekili de dövüyor."<br/><br/>edit: kaynak en üstte arkadaşlar. ayrıca başlığa takılanlar olmuş, tabii ki harf kısıtlaması yüzünden hukuk dairesini hd şeklinde yazmak zorunda kaldım. şakacılar sizi.<br/><br/>edit 2: başka bir <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/www.cumhuriyet.com.tr/amp/haber/turkiye/1251969/Yargitay_2_nci_Hukuk_Dairesi_Baskani_Omer_Ugur_Genccan_dan_skandal_sozler.html" title="https://www.google.com.tr/amp/www.cumhuriyet.com.tr/amp/haber/turkiye/1251969/Yargitay_2_nci_Hukuk_Dairesi_Baskani_Omer_Ugur_Genccan_dan_skandal_sozler.html">kaynak</a> daha
+  entry_channels: siyaset,haber
+- entry_name: |
+    sofiane feghouli
+  entry_id:  86800686
+  entry_writer: heyecanligunler
+  entry_fav_count: 34
+  entry_content: |
+    şu adam ilk yarı sinan gümüş’ün yedeği olarak oturtturuldu ya, anlayamıyorum.
+  entry_channels: spor
 - entry_name: |
     hd-torrents
   entry_id:  86772293
@@ -179,29 +235,53 @@ data:
     (bkz: <a class="b" href="/?q=ta%c5%9f+devri">taş devri</a>)<br/>(bkz: <a class="b" href="/?q=heidi">heidi</a>)<br/>(bkz: <a class="b" href="/?q=hayalet+avc%c4%b1lar%c4%b1">hayalet avcıları</a>)
   entry_channels: anket,tv
 - entry_name: |
-    fenerbahçe
-  entry_id:  86779230
-  entry_writer: sancili90
-  entry_fav_count: 33
+    öğrenci profili en yüksek bölüm
+  entry_id:  86784219
+  entry_writer: bam telindeki damla
+  entry_fav_count: 32
   entry_content: |
-    ezeli rakibi galatasaray için win-win durumu oluşturacak bir fikstüre giren takım. beşiktaş ve başakşehir, bu iki takımdan 1 puan dahi alamasa ligin dibine demir atar, o zaman zaten maalesef ağır dalga konusu olacaksın.<br/><br/>eğer bu takımlardan puan ve puanlar alırsa yine galatasaray'ın şampiyonluktaki rakiplerini yenmiş veya berabere kalmış olacağı için gs'nin eli rahatlayacak.<br/><br/>sen adamın arkasından bildiri imzala, cas'a gammazla, 3 hafta içinde adamların ligteki kaderini belirle, üstelik kazanmak zorunda olacak bir biçimde.<br/><br/>artık kolay gelsin denir, ne denir.<br/><br/>bu arada küme düşer mi? düşmez mi? tartışması bile bu takıma gönül veren, ergen sürüsü içinde olmayan hakiki fenerlileri üzmüyor mu ya? ben onlar yerine üzülüyorum. şu ortalıkta 'hahaha küme düşmüyoruz laan' falan yazanların kulağını bi çekin oğlum, adamlar sizin itibarınızı mahvediyor.
-  entry_channels: spor
+    türkiye’de yoktur. bazı bölümlerde bazı öğrenciler iyidir, kalanı çöptür.
+  entry_channels: eğitim
 - entry_name: |
-    sofiane feghouli
-  entry_id:  86800686
-  entry_writer: heyecanligunler
+    17 şubat 2019 trabzonspor alanyaspor maçı
+  entry_id:  86794550
+  entry_writer: hobareeey
   entry_fav_count: 30
   entry_content: |
-    şu adam ilk yarı sinan gümüş’ün yedeği olarak oturtturuldu ya, anlayamıyorum.
+    1516 mercidabık savaşında savaşmış alanyalı gençleri emperyalist hakemin bile durduramadığı maç.
   entry_channels: spor
 - entry_name: |
     netflix türkiye
   entry_id:  86773081
   entry_writer: havluterlik
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     siktiri boktan türk filmleri için sonun başlangıcı. 3d yok, imax, 4d yok bence türk yapımcılar ya sadece türkiye için bir platform kursunlar ki ben netflikse 40 tl bayılırken başka platforma bu saçmalıklar için para bayılmam. böyle bir yerli platformunda 20-30 milyon ziyaretçinin telif hakkını ödemeye yetecek parayı toplama için fahiş fiyat vermesi gerekir. <br/>evet sınırlarımızın dışına para akıtıyoruz çünkü onların aklına geliyor. onlar üretiyor onlar satıyor. onların hükümeti her iş yapana vergi, stopaj, kira, sigorta diye tepesine çökmüyor. sen bir kazan sonra hesaplaşırız diyor. hatta büyük çaplı işlerde kendi devlet politikasını yönlendiriyor. senin türklirasını bile değerini biliyor çünkü senin paranı çevirirken visa/ master/amerikan express para kazanıyor, senden kazandığı tl kadar dolar basabiliyor. doğuda dolaşan dolarını geri ana karasına alıyor. <br/>evet alışkanlıkları değiştiriyor çünkü insalar değişiyor. günde 10-15 saatini başkasına kiraya veren biri eve gelince biraz çabuk tarafından direk reklama vakit harcamadan eğlenmek ister. türk tvlerinde bir gece prime time ı 5 saat olarak alırsak 1 saat dizi özeti, 1 saat reklamla geçiyor. 3 saat tek bir dizi için çok. amerikali 1 saat dizi izliyor, 1 saat evle ilgileniyor 1 saat tr kendine vakit ayırıyor, kitap okuyor ertesi günün işine bakıyor. <br/>artık ulusal kanala reklam verince marka olacağını düşünen dangalak patronların sonu geliyor. <br/>adamlar salak değil hollywood filmleri getirdiği yere internet platformu getirirken hollywood 3d 4d yapıyor, büyük ekranda görmenin daha iyi olacağı filmler yapıyor. mesela alien’ı sinemada izleme şerefine nail olamadığım için üzgünüm mesela. en son aquaman’a gittim gerçekten görsel olarak çok başarılı ve bir kez daha netflixte izlemem. sinemada izlemesemde netflixte izlemezdim.
   entry_channels: tv,sinema,teknoloji,spoiler
+- entry_name: |
+    bir kadınla sevişmek dışında yapılabilecekler
+  entry_id:  86798708
+  entry_writer: gizli buzlanmaa
+  entry_fav_count: 27
+  entry_content: |
+    ülkemiz erkeklerinin bir kısmı tecavüz etmek, şiddet uygulamak ve öldürmeyi tercih ediyor. bir kısmı işkence ediyor mesela.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    birevim eminevim fuzulev
+  entry_id:  86800061
+  entry_writer: arnatuile
+  entry_fav_count: 26
+  entry_content: |
+    neden güvenmeyeceğiz, zahmet edip açıklarsanız memnun oluruz. kolay mı lan öyle iş yapan bir firmaya "güvenmeyin" deyip bırakmak. varsa bi gerekçen açıkla da bilelim.<br/><br/>ama sizin asıl niyetinizin ne olduğunu biliyoruz tabi, o nedenle şaşırmıyoruz. <br/><br/>şahsen ben de bulaşmıyorum bunlara. ama nedenini söylemeden kaçıp gidecek değilim. <br/><br/>sebebim "organizasyon parası" dedikleri bir tür faiz. her ne kadar faiz değil diye yırtınsalar da, bir amerikan atasözü vardı: "bok gibi görünüyorsa, bok gibi kokuyorsa, ve tadı da bok gibiyse, o boktur"<br/><br/>bir kere aldığın paraya göre artan/azalan organizasyon ücreti mi olur? organizasyon bir tane olur. kişi sayısı değişse de iş yükü aşağı yukarı aynıdır. 100.000 lira çekenin ücreti 10.000 lira oluyorda, 200.000 çekenin niye 18.000 oluyor? arada 8.000 lira fark oluşturacak nasıl bir organizasyon farkı var mesela? adamların ayağına gidip elden mi topluyorsunuz taksitleri ? (rakamlar sallamasyon ama yaklaşık) <br/><br/>daha falan filan biraz ufak tefek şeyler de var da, onlar çok detay.
+  entry_channels: ekonomi
+- entry_name: |
+    sevgiliye ihtiyaç duyulan anlar
+  entry_id:  86792175
+  entry_writer: sasin
+  entry_fav_count: 25
+  entry_content: |
+    sarılmaya ihtiyaç duyduğum andır.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     rıdvan dilmen
   entry_id:  86799182
@@ -211,82 +291,42 @@ data:
     diagne’nin pozisyonu için kırmızı diye ağlayan şeytan. kasımpaşalı oyuncuya vurmuşmuş. beş para etmezsin rıdvan!
   entry_channels: spor,tv
 - entry_name: |
-    birevim eminevim fuzulev
-  entry_id:  86800061
-  entry_writer: arnatuile
-  entry_fav_count: 24
-  entry_content: |
-    neden güvenmeyeceğiz, zahmet edip açıklarsanız memnun oluruz. kolay mı lan öyle iş yapan bir firmaya "güvenmeyin" deyip bırakmak. varsa bi gerekçen açıkla da bilelim.<br/><br/>ama sizin asıl niyetinizin ne olduğunu biliyoruz tabi, o nedenle şaşırmıyoruz. <br/><br/>şahsen ben de bulaşmıyorum bunlara. ama nedenini söylemeden kaçıp gidecek değilim. <br/><br/>sebebim "organizasyon parası" dedikleri bir tür faiz. her ne kadar faiz değil diye yırtınsalar da, bir amerikan atasözü vardı: "bok gibi görünüyorsa, bok gibi kokuyorsa, ve tadı da bok gibiyse, o boktur"<br/><br/>bir kere aldığın paraya göre artan/azalan organizasyon ücreti mi olur? organizasyon bir tane olur. kişi sayısı değişse de iş yükü aşağı yukarı aynıdır. 100.000 lira çekenin ücreti 10.000 lira oluyorda, 200.000 çekenin niye 18.000 oluyor? arada 8.000 lira fark oluşturacak nasıl bir organizasyon farkı var mesela? adamların ayağına gidip elden mi topluyorsunuz taksitleri ? (rakamlar sallamasyon ama yaklaşık) <br/><br/>daha falan filan biraz ufak tefek şeyler de var da, onlar çok detay.
-  entry_channels: 
-- entry_name: |
-    sevgiliye ihtiyaç duyulan anlar
-  entry_id:  86792175
-  entry_writer: sasin
-  entry_fav_count: 23
-  entry_content: |
-    sarılmaya ihtiyaç duyduğum andır.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    cüneyt özdemir
-  entry_id:  86789464
-  entry_writer: zhafrus
-  entry_fav_count: 23
-  entry_content: |
-    son videosundaki ahu hikayesi ile üzmüştür. "ertelemeyin bazı şeyleri. gidiş var dönüş yok." dedikten sonraki bakışları çok şey anlatıyor.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
-    bir kadınla sevişmek dışında yapılabilecekler
-  entry_id:  86798708
-  entry_writer: gizli buzlanmaa
-  entry_fav_count: 23
-  entry_content: |
-    ülkemiz erkeklerinin bir kısmı tecavüz etmek, şiddet uygulamak ve öldürmeyi tercih ediyor. bir kısmı işkence ediyor mesela.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    italya seri c liginde 20-0 biten maç
-  entry_id:  86798746
-  entry_writer: genmur
-  entry_fav_count: 19
-  entry_content: |
-    (bkz: <a class="b" href="/?q=%c5%9fikeci+muharrem">şikeci muharrem</a>)<br/>(bkz: <a class="b" href="/?q=italyan+mafyas%c4%b1">italyan mafyası</a>)
-  entry_channels: spor
-- entry_name: |
     vücudun gösterdiği tuhaf tepkiler
   entry_id:  86777140
   entry_writer: epistemolojikmorfoji
-  entry_fav_count: 18
+  entry_fav_count: 20
   entry_content: |
     hoşlandığım kıza sarılınca istemsizce ereksiyon olmak.<br/><br/>aklımdan zerre cinsellik geçmemesine hatta kendisini masum ve çocuksu bulmama rağmen kontrol edemiyorum. sarılmak, yanaklarını öpmek ve kokusunu içime çekme beni oldukça etkiliyor ama bunlar olurken daha fazlasını düşünmüyorum. ilginç.
   entry_channels: anket,sağlık
 - entry_name: |
-    mbaye diagne
-  entry_id:  86799408
-  entry_writer: kjswbdlkjfdlkj
-  entry_fav_count: 17
-  entry_content: |
-    iki maçta balon ilan edilen kara boğa. ben kendisine biraz daha sabredilmesi ve güvenilmesi taraftarıyım çünkü fenerbahçeliyim ve bu adamdan bir bok olmaz bence.
-  entry_channels: spor
-- entry_name: |
     17 şubat 2019 fenerbahçe beko anadolu efes maçı
   entry_id:  86801059
   entry_writer: paslanmazman
-  entry_fav_count: 17
+  entry_fav_count: 19
   entry_content: |
     galiba artık gerçekten de şöyle bir söz var: ortada bir kupa varsa fenerbahçe basketbol o kupanın talibi değil sahibidir.
   entry_channels: spor
 - entry_name: |
-    lgbt kulübünün akıllara zarar projesi
-  entry_id:  86773661
-  entry_writer: coverthetaiba
-  entry_fav_count: 15
+    mbaye diagne
+  entry_id:  86799408
+  entry_writer: kjswbdlkjfdlkj
+  entry_fav_count: 18
   entry_content: |
-    bir erkek olarak söylüyorum kadınlar bizim tuvaletlerden uzak dursun. her genelleme yanlış olmakla beraber , gördüğüm ve bildiğim kadarıyla kadınlar tuvaletleri çok kirli kullanıyorlar ve ortalık leş gibi oluyor. detay gerek yok yapmayın işte kafayı takacak mantıklı işler bulun. lgbt üyeleri nasıl toplumda yer eder , iş bulur,iş kurar. lgbt üyesi öğrencilere burs verin , hibe bulun siz daha bu işleri çözmeden “bayan” , “kadın” seviyesindeki aktivistliğinizddn gına geldi
-  entry_channels: ilişkiler,haber
+    iki maçta balon ilan edilen kara boğa. ben kendisine biraz daha sabredilmesi ve güvenilmesi taraftarıyım çünkü fenerbahçeliyim ve bu adamdan bir bok olmaz bence.
+  entry_channels: spor
+- entry_name: |
+    survivor ülkücüler komünistler
+  entry_id:  86805370
+  entry_writer: 52hz
+  entry_fav_count: 16
+  entry_content: |
+    komunistler orada da fraksiyonlara bölünür, birbirlerini yerler.<br/><br/>sadece "survivor komunistler" yapsa esas şamata orada çıkar. marksistler, maocular ohoooo. herkes bir ötekini daha az halkçı olmakla suçlarken boğacak kıvama gelirler zaten
+  entry_channels: anket
 - entry_name: |
     komünistlerin marka giymesi
   entry_id:  86796006
   entry_writer: saintly
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     tuvalette götünüzü yıkadığınız musluğu da kapitalistler üretiyor arkadaşlar, onu da eleştiriyor musunuz? kapitalist üretim ilişkiler çağında kullanılan ürün / marka üzerinde böyle lümpence eleştiri yapma modası 2019'da devam mı ediyor hala? kaldı ki milyon avroları olup sokaklarda afiş, bildiri dağıtan solcu falan yok, hayal dünyasından çıkın bir zahmet. ayrıca sosyalistler fakirliği, yoksulluğu savunan refah düşmanı insanlar değil. politik mücadele veren insan kendisinin de daha refah ve kaliteli bir hayat yaşayabilmesi için mücadele ediyor.
   entry_channels: siyaset,anket
@@ -299,53 +339,29 @@ data:
     yaşa. isteklerini ertelemeden, doya doya yaşa. 24 saat, faydalı kullanırsan gayet uzun bir süre. ona buna, söylenenlere, işe güce gereğinden fazla takmadan yaşa. işi işte, evi evde, hastalığı hastanede bırak. ne kadar mutlu olursan o kadar mutlu edersin.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    survivor 2019 türkiye-yunanistan
-  entry_id:  86783870
-  entry_writer: varolan
-  entry_fav_count: 9
-  entry_content: |
-    tutmamış program.<br/>çünkü artık yunanlar düşmanımız değil.<br/>burada yazılanlardan da görüleceği üzere çoğunluk sempatik yunan takımını tutuyor.<br/><br/>dolayısıyla yeni türkiyede tutacak formatları yazıyorum size, bedava danışmanlık hizmeti;<br/>survivor türkler kürtler<br/>survivor akp chp<br/>survivor türkiye israil<br/>survivor türkler araplar<br/>survivor izmir konya<br/>survivor dinciler laikçiler.
-  entry_channels: tv,magazin
-- entry_name: |
-    kasımpaşa'nın galatasaray'a yenileceği gerçeği
-  entry_id:  86786746
-  entry_writer: birgunolursun
-  entry_fav_count: 9
-  entry_content: |
-    <a class="b" href="/?q=tiyatro">tiyatro</a> diyenin en naif ifadeyle ahlaksız bir salak olduğu kaçınılmaz gerçek. abicim aynı şey eski galatasaraylı futbolcular başka takımlarda hocalık yaptığında ya da eski gakatasaraylı futbolcu başka bir takımda oynadığında da da oluyor. bak şimdi sayın beyinsiz, beyinsizsin ama belki dibinde azıcık kalmıştır diye sana <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/2c9a8a86d253" title="https://eksiup.com/2c9a8a86d253">şu görseli</a> gönderiyorum. iyi incele. <a class="b" href="/?q=kas%c4%b1mpa%c5%9fa">kasımpaşa</a> 4 haftadır yeniliyor. ve 4 haftadır attığı gol sayısı 1. son yenildiği takım <a class="b" href="/?q=ankarag%c3%bcc%c3%bc">ankaragücü</a> şu anda sondan üçüncü ve asıl komik olan adamlar 9 hafta sonra ilk galibiyetini <a class="b" href="/?q=kas%c4%b1mpa%c5%9fa">kasımpaşa</a>'dan aldılar. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mackolik.com/takim/mke-ankaragücü/maçlar/a7jkz1m32wntcvegrwjbr85t5/spor-toto-süper-lig/2018-2019/7yusr1pay1bo2rqgpd5nr7fqi" title="https://www.mackolik.com/takim/mke-ankaragücü/maçlar/a7jkz1m32wntcvegrwjbr85t5/spor-toto-süper-lig/2018-2019/7yusr1pay1bo2rqgpd5nr7fqi">al bu da kanıt</a>. aynı ankaragücü bu hafta lig sonuncusuyla berabere kaldı, galatasaray ise aynı ankaragücü'ne 6 atmıştı. <br/><br/>şimdi bu şartlar altında <a class="b" href="/?q=galatasaray">galatasaray</a>'ın kasımpaşa'ya on gol atması bile sürpriz olmaması lazım. ama yok işte en başta belirttiğim gibi buna tiyatro diyen ahlaksız köpek bu istatistikleri görmez. kaldı ki olur da galatasaray bir beceriksizlik yapıp bu takımla berabere kalsa veya yenilse aynı köpek bu yazdıklarından utanmasını geçtim, maç başlığına dalga geçmeye gelir. bir insan ancak bu kadar ahlaksız olabilir. şu yazdıklarımın tek harfine bile değmezsin ama <a class="b" href="/?q=g%c3%b6te+g%c3%b6t+demek">göte göt demek</a> lazımdı.
-  entry_channels: spor
-- entry_name: |
     gidilen mekanın cirosunu hesaplamaya çalışmak
   entry_id:  86803753
   entry_writer: doremifa
-  entry_fav_count: 8
+  entry_fav_count: 13
   entry_content: |
     milli geleneğimiz. millet olarak matematik eğitimimizi bu yöntemle tamamlıyoruz.
   entry_channels: 
 - entry_name: |
-    ekşi itiraf
-  entry_id:  86771610
-  entry_writer: kurcalamabozarsin
+    cia mülakatlarında sorulan mantık sorusu
+  entry_id:  86796242
+  entry_writer: para para paradise
+  entry_fav_count: 13
+  entry_content: |
+    allahım inş maaşlar gününde yatıyordur.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şişenin kapağı kapalı olduğundan hiç biri dolmayacaktır. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: anket,spoiler
+- entry_name: |
+    genç girişimci denince zihinde oluşan ilk imge
+  entry_id:  86799323
+  entry_writer: oguzaras
   entry_fav_count: 8
   entry_content: |
-    zihnimi gereksiz fikirlerden arındırmaya çalışmaya başladığımdan beri açığa çıkan enerjimle ne yapacağımı bilemiyorum.<br/><br/>misal dün sabaha kadar uyumamıştım, bugun 5.5 km yürümüşüm, akşam çocukluk arkadaslarımla buluştum, şu an sokaklara çıkıp koşasım var. sokaktan geçen herkesi öpesim var. <br/><br/>sen ne güzelsin hayat
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    dünya kedi günü
-  entry_id:  86782910
-  entry_writer: iyi aile gocugu
-  entry_fav_count: 8
-  entry_content: |
-    her kedi, bir sanat <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/theeno7/status/1097041290691309570?s=19" title="https://twitter.com/theeno7/status/1097041290691309570?s=19">eseridir</a>. özenle koruyup, kollayalım lütfen.<br/><br/>günleri kutlu olsun.
-  entry_channels: haber
-- entry_name: |
-    doğuş balbay
-  entry_id:  86801053
-  entry_writer: joker37
-  entry_fav_count: 6
-  entry_content: |
-    ergin ataman'a layık olmaya çalışan tuğlacı.
-  entry_channels: spor
+    koyu lacivert takim elbise ,kisa paca ,corapsiz yari spor ayakkab,kirli sakal ,<br/><br/>bayan ; sarı saç ,uzun boy ,range rover .
+  entry_channels: anket,ekonomi
 - entry_name: |
     uzaylıların dünyayı hiç ziyaret etmeme sebebi
   entry_id:  86799620
@@ -355,21 +371,13 @@ data:
     şayet gezegenler arası seyahati çok rahat gerçekleştirebilecek kadar akıllı bir varlık olsam, insan gibi yaratılıştan özürlü bir canlı için o kadar yol kat etmezdim.<br/><br/>bi kere gelip bakar, sizin yapacağınız işi sikeyim der, geldiğim yere geri dönerdim.
   entry_channels: anket,bilim,seyahat
 - entry_name: |
-    genç girişimci denince zihinde oluşan ilk imge
-  entry_id:  86799563
-  entry_writer: yetkili bir abi
+    ekşi itiraf
+  entry_id:  86776677
+  entry_writer: crimsonred
   entry_fav_count: 3
   entry_content: |
-    takım elbiseli işsiz.
-  entry_channels: anket,ekonomi
-- entry_name: |
-    erkeklerin de göğüs uçlarının olması
-  entry_id:  86801055
-  entry_writer: torneol
-  entry_fav_count: 3
-  entry_content: |
-    aynı zamanda kuyruk sokumu,kulak kası ve tüylerin ürpermesi de bu olaya örnektir.
-  entry_channels: bilim
+    bu hafta arkadaşlarımla vedalaşıyorum sevgili sözlük. uzunca bir süre yurtdışında olacağım. çok kafama yatarsa dönmem belki. kısmet.<br/><br/>akşam eski bir arkadaşımla bir cafede buluşup çay kahve içtik. tam koyu muhabbete dalmışken bir kız masamıza yaklaşıp 'pardon bir şey rica etmem mümkün mü' dedi. ben de tabi buyurun dedim. 'yanınızda ertesi gün hapı var mı acaba' deyince önce bir şaşkınlık yaşayıp sonra çakmak, tuzluk gibi gayet normal bir şey istemiş gibi yok maalesef dedik. neyse kız hazır muhabbet açılmış ve biz de normal karşılamışken devam etti. "ayy bilemedim şimdi. karşıki eczane kapanmış. sizde vardır diye düşündüm!!! napsam ki! 24 saat sonra içsem etkisi olur mu ki?" biz de hala normal davranıp yani bilmiyoruz şimdi adı üstünde ertesi gün hapı. riskli olsa gerek. sen işini şansa bırakma deyip kurtulmaya çalıştık ama 'ayy bilemedim. çok mu risk' derken kız düşmedi yakamızdan. sonra arkadaşla kendimizi kızın adet tarihini öğrenip riskli günleri hesaplarken bulduk. baya riskliymiş deyip nöbetçi bir eczane bulmasına salık verdik. utanmasa lütfen birlikte bir nöbetçi eczane bulalım falan diyecekti. valla millet çağ atlamış ya da biz çok geride kaldık. sosyal bir deneye mi kurban gittik bilemedim sözlük.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     fernando muslera
   entry_id:  86799389
@@ -379,27 +387,19 @@ data:
     iyi kaleci. arada saçma goller yiyor tabi ama bunu eleştiren arkadaşların ilgili video sitesine "neuer fail" yazmasını tavsiye ederim. ulan şu kaleci bizde olsaydı son 5 senede en az 3 kere şampiyonduk.<br/><br/>not: vizyonspor.
   entry_channels: spor
 - entry_name: |
-    emre taşdemir
-  entry_id:  86799504
-  entry_writer: srfydn
-  entry_fav_count: 1
+    2018/2019 sezonu sonunda küme düşecek takımlar
+  entry_id:  86793612
+  entry_writer: aaandm
+  entry_fav_count: 2
   entry_content: |
-    yaklaşık 15 yıldır futbol maçına çıkmamasına rağmen <a class="b" href="/?q=17+%c5%9fubat+2019+kas%c4%b1mpa%c5%9fa+galatasaray+ma%c3%a7%c4%b1">17 şubat 2019 kasımpaşa galatasaray maçı</a>nda gayet iyi oynamaktadır.
+    huddersfield, southampton ve fulham düşer. bu nasıl başlık lan?
+  entry_channels: spor,anket
+- entry_name: |
+    17 şubat 2019 diagne'ye verilmeyen kırmızı kart
+  entry_id:  86805640
+  entry_writer: scouse solidarity
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=17+%c5%9fubat+2019+diagne%27ye+g%c3%b6sterilmeyen+kirmizi+kart">17 şubat 2019 diagne'ye gösterilmeyen kirmizi kart</a>)
   entry_channels: spor
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  86772029
-  entry_writer: ahbual
-  entry_fav_count: 0
-  entry_content: |
-    yaş: 12.5 falan<br/>cinsiyet: erkek<br/>karakter: barkın'a o konuda çok kırgın<br/>en vurucu teselli cümlesi: siktir et olm ya, sana karı mı yok?<br/>en gaz cümlesi: abi seviyorsan git konuş bence<br/>alntı
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  86772592
-  entry_writer: all2uslubas
-  entry_fav_count: 0
-  entry_content: |
-    esmer sever veri tabanı
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
