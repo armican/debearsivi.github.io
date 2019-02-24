@@ -3,58 +3,82 @@ layout: post
 title: 25 Şubat 2019 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    hayat kadınına kemerle saldıran tırcı
+  entry_id:  87049338
+  entry_writer: kalemi kilicindan keskin olan adam
+  entry_fav_count: 737
+  entry_content: |
+    "kim namus ve ahlak şövalyeliği yapıyorsa, bilin ki en namussuzu o' dur." <br/>(bkz: <a class="b" href="/?q=nietzsche">nietzsche</a>)
+  entry_channels: haber
+- entry_name: |
     ingilizce can ile may arasındaki fark
   entry_id:  87044937
   entry_writer: deytas
-  entry_fav_count: 372
+  entry_fav_count: 376
   entry_content: |
     "must" -"have to" ayrımına benzerdir.<br/><br/>"must" konuşan kişinin koyduğu zorunluluktur.<br/>"have to" ise başkasının (genelde otorite) koyduğu zorunluluktur.<br/><br/>"may" konuşan kişinin verdiği izindir.<br/>"can" ise başkasının (genelde otorite) verdiği izindir.
   entry_channels: eğitim
 - entry_name: |
-    türkiye'nin içinde bulunduğu döneme verilecek isim
-  entry_id:  87050844
-  entry_writer: mebegu
-  entry_fav_count: 277
-  entry_content: |
-    başlığın uzun hali 'türkiye cumhuriyeti tarihisel olarak dönemlere ayrılsa, içinde bulunduğumuz döneme verilecek isim' olmalıydı, ama malum karakter sınırı.<br/><br/>ben <a class="b" href="/?q=ergenlik+d%c3%b6nemi">ergenlik dönemi</a> derdim. doğuş, kuruluş, büyüme, gelişme gibi dönemlerin bir kısmını atlattık. şuan tam anlamı ile yetişkin bir devlet olmak üzere ergenlik dönemimizi geçiriyoruz. <br/><br/>- cepte para yok<br/>- bütün hayatımızı sosyal medya şekillendiriyor<br/>- herkeste libido zirvede, insanlar tuttuğunu sikmeye çalışıyor<br/>- ülkecek depresif-agresif bir ruh hali içerisindeyiz<br/>- her şey hakkında bilgimiz var, bilmediğimiz bir konuyu kabullenmeyi bilmiyoruz<br/>- kendimizi dünyanın merkezi olarak görüyoruz<br/><br/>biraz daha uğraşsam, liste uzayıp gider. bir gün ya birinden çok pis dayak yiyeceğiz, ya da askere gönderecekler. işte o zaman aklımız başımıza gelecek.
-  entry_channels: siyaset,anket,tarih,ekonomi
-- entry_name: |
-    tarihi eserler katar ile yıkılıp inşa edilecek
-  entry_id:  87042780
-  entry_writer: drakulat15
-  entry_fav_count: 211
-  entry_content: |
-    tarihi eserler yıkılırsa, nasıl tarihi eser olarak kalacaklar? şimdi sen git mimar sinanın selimiyesini yık tekrar aynı şekilde inşa edebilir misin? bu nasıl bir saçmalıktır.
-  entry_channels: siyaset,tarih,haber,ekonomi
-- entry_name: |
     kürt erkekleri
   entry_id:  87062226
   entry_writer: kizilsaman00
-  entry_fav_count: 205
+  entry_fav_count: 316
   entry_content: |
     üstteki yazar türk erkeği olduğunu belirtmiş de tokmakçısı bir kürt erkeği heralde. bir kürdün kendini övemeyeceği kadar övmüş de övmüş
   entry_channels: ilişkiler
 - entry_name: |
+    türkiye'nin içinde bulunduğu döneme verilecek isim
+  entry_id:  87050844
+  entry_writer: mebegu
+  entry_fav_count: 281
+  entry_content: |
+    başlığın uzun hali 'türkiye cumhuriyeti tarihisel olarak dönemlere ayrılsa, içinde bulunduğumuz döneme verilecek isim' olmalıydı, ama malum karakter sınırı.<br/><br/>ben <a class="b" href="/?q=ergenlik+d%c3%b6nemi">ergenlik dönemi</a> derdim. doğuş, kuruluş, büyüme, gelişme gibi dönemlerin bir kısmını atlattık. şuan tam anlamı ile yetişkin bir devlet olmak üzere ergenlik dönemimizi geçiriyoruz. <br/><br/>- cepte para yok<br/>- bütün hayatımızı sosyal medya şekillendiriyor<br/>- herkeste libido zirvede, insanlar tuttuğunu sikmeye çalışıyor<br/>- ülkecek depresif-agresif bir ruh hali içerisindeyiz<br/>- her şey hakkında bilgimiz var, bilmediğimiz bir konuyu kabullenmeyi bilmiyoruz<br/>- kendimizi dünyanın merkezi olarak görüyoruz<br/><br/>biraz daha uğraşsam, liste uzayıp gider. bir gün ya birinden çok pis dayak yiyeceğiz, ya da askere gönderecekler. işte o zaman aklımız başımıza gelecek.
+  entry_channels: siyaset,anket,tarih,ekonomi
+- entry_name: |
+    mastürbasyon yapmanın cinayet olduğu gerçeği
+  entry_id:  87047016
+  entry_writer: zumer23
+  entry_fav_count: 230
+  entry_content: |
+    tabi hava soğuk,evde boş boş oturup mastürbasyon yaptıktan sonra yazarımız hiç yapmadığı birşeyi, düşünmeyi deniyor.<br/><br/>bakıyor ki çocuklar boşa gidiyor,açıyor başlığı.
+  entry_channels: spoiler
+- entry_name: |
     aldatan sevgili dayağı hak eder mi sorunsalı
   entry_id:  87050687
   entry_writer: muzu bicakla soyan adam
-  entry_fav_count: 203
+  entry_fav_count: 228
   entry_content: |
     aldatan sevgili tek kelimeyi bile haketmez.
   entry_channels: ilişkiler
 - entry_name: |
+    tarihi eserler katar ile yıkılıp inşa edilecek
+  entry_id:  87042780
+  entry_writer: drakulat15
+  entry_fav_count: 220
+  entry_content: |
+    tarihi eserler yıkılırsa, nasıl tarihi eser olarak kalacaklar? şimdi sen git mimar sinanın selimiyesini yık tekrar aynı şekilde inşa edebilir misin? bu nasıl bir saçmalıktır.
+  entry_channels: siyaset,tarih,haber,ekonomi
+- entry_name: |
     hugo'da küfreden çocuk
   entry_id:  87049584
   entry_writer: redkitin neden sevgilisi yok
-  entry_fav_count: 202
+  entry_fav_count: 209
   entry_content: |
     bak bu olay tarihsel anlamda da çok ilginç bir olay. 1990 -1995 arası yaşanmış bir olay olmasına rağmen “oldu mu olmadı mı, yaşandı mı yaşanmadı mı?” tartışmaları gırla gidiyor. bir de milattan öncesi için yaşanan olayları düşün... <br/>bizi bu kadar merakta bıraktığı, bu kadar tartışmaların içine gark ettiği için “hugo’nun aq!”<br/><br/>edit büdüt:<br/><br/>benim hatırladığım kadarı ile şöyle bir diyalog yaşandı:<br/><br/>çocuk 3 hakkını da bitirdi. ama tuşlarla ilgili bir sıkıntı yaşıyordu. bok gibi oynadı bu yüzden. sonra "tüh allah belasını versin!" gibi bir şey söyledi. tolga abi de hem sevecenliğini yitirmeme hem de tatlı bir dille uyarma babında hafif kırıtarak ama hafif de yüzünü ekşiterek "böyle şeyler söylersen hugo çok üzülür ama!" gibi bir şey söyledi, bunun üzerine çocuk da "hugo'nun da amına koyiim!" demişti.
   entry_channels: tv,tarih,oyun,magazin
 - entry_name: |
+    dizi karakterlerinin seçimlerde oy vereceği parti
+  entry_id:  87048155
+  entry_writer: amizbey
+  entry_fav_count: 183
+  entry_content: |
+    erdal bakkal (bkz: <a class="b" href="/?q=akp">akp</a>)
+  entry_channels: anket
+- entry_name: |
     dünyanın en lüks şeyi
   entry_id:  87054857
   entry_writer: himanch
-  entry_fav_count: 169
+  entry_fav_count: 177
   entry_content: |
     sağlıklı olup, istediğin yemeği yiyebilip sevdiklerinle vakit geçirebilmek.
   entry_channels: anket,ekonomi
@@ -62,7 +86,7 @@ data:
     bir doktorun dediğini başka doktora teyit ettirmek
   entry_id:  87047542
   entry_writer: agag
-  entry_fav_count: 168
+  entry_fav_count: 172
   entry_content: |
     çok elzem bir durum. <br/>not:doktorum
   entry_channels: sağlık
@@ -78,31 +102,55 @@ data:
     katlanabilir telefonun tutmayacağı gerçeği
   entry_id:  87052129
   entry_writer: aloha martini
-  entry_fav_count: 146
+  entry_fav_count: 147
   entry_content: |
     oysaki samsung'un bu ileri teknoloji icadini piyasaya surmeden once eksi sozluk yazarlarindan onay almasi gerekirdi. cunku her seyin en iyisini onlar bilir. adamlar resmen bir skandala imza attilar.
   entry_channels: teknoloji
 - entry_name: |
-    uçak yolculuğunun en güzel tarafı
-  entry_id:  87053591
-  entry_writer: oyun kac kac
-  entry_fav_count: 105
+    erkeklerin penisi 100 cm olsaydı olabilecekler
+  entry_id:  87037246
+  entry_writer: hector8
+  entry_fav_count: 120
   entry_content: |
-    yandaki koltuğun boş olduğunun anlaşıldığı an.
-  entry_channels: anket,havacılık
+    ekşi sözlükte ortalama 300 cm olurdu.
+  entry_channels: anket
+- entry_name: |
+    kaliteli yaşamak için tavsiyeler
+  entry_id:  87037315
+  entry_writer: bibidibabidibuu
+  entry_fav_count: 111
+  entry_content: |
+    sosyal medyayı kapatın, sigara ve alkolü de bırakın. sporu adonis için değil sağlıklı yaşam için yapın. bundan sonraki satın alacağınız her şeyi kendiniz için alın, dışarıya göstermek için değil. bilincinizdeki ilerde sevgilimle dünya turuna çıkacağım yalanınızı bi kenara bırakıp kendiniz çıkın, bunu kendiniz için yapın.
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     evrim doğruysa bugün maymunlar neden insan olmuyor
   entry_id:  87056397
   entry_writer: yakisiklihafifiyisuvari
-  entry_fav_count: 99
+  entry_fav_count: 111
   entry_content: |
     yaradılış yanlış değilse, "bugün mevcut topraklar neden insan olmuyor acaba? " şeklinde yanıtlanabilecek sorumsu.
   entry_channels: anket,ilişkiler,bilim
 - entry_name: |
+    uçak yolculuğunun en güzel tarafı
+  entry_id:  87053591
+  entry_writer: oyun kac kac
+  entry_fav_count: 109
+  entry_content: |
+    yandaki koltuğun boş olduğunun anlaşıldığı an.
+  entry_channels: anket,havacılık
+- entry_name: |
+    1 litre kolanın 4 lira olması
+  entry_id:  87061642
+  entry_writer: aloha martini
+  entry_fav_count: 104
+  entry_content: |
+    o da bir sey mi. bir adet bira 11tl amk.
+  entry_channels: yeme-içme,ekonomi
+- entry_name: |
     game of thrones'un en iyi sahnesi
   entry_id:  87054996
   entry_writer: bu lutfu bana dans eder misin
-  entry_fav_count: 95
+  entry_fav_count: 100
   entry_content: |
     (bkz: <a class="b" href="/?q=red+wedding">red wedding</a>) tabi ki!<br/>sırf bu sahneyi insanların nasıl izlediğini gösteren milyonlarca tepki videosu var. sahnenin işleyişi, yarattığı gerilim muazzam ötesiydi.
   entry_channels: spoiler
@@ -110,55 +158,55 @@ data:
     baktığı kedi doğurunca aşırı mutlu olan adam
   entry_id:  87058082
   entry_writer: sinpecado
-  entry_fav_count: 95
+  entry_fav_count: 99
   entry_content: |
     tepkisiyle insanın içini ısıtan adam gibi adamdır.<br/>dünya bu iyi insanlar için dönüyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/CezmiKalorifer/videos/vb.219187464782640/292896908043802/?type=2&amp;theater" title="https://www.facebook.com/CezmiKalorifer/videos/vb.219187464782640/292896908043802/?type=2&amp;theater">https://www.facebook.com/…908043802/?type=2&amp;theater</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=b5JZyng9gqs">https://www.youtube.com/watch?v=b5jzyng9gqs</a><br/><br/>edit: yeni doğum yapmış kediler genelde tedirgin ve hırçın olurlar. ama sarmanımız abinin tepkisini görünce şımarıp ne yapacağını şaşırıyor. çok güzel, çok!<br/>abimizin instagram <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BuQpqVinCu9/" title="https://www.instagram.com/p/BuQpqVinCu9/">hesabı</a>.<br/>meğerse böyle böyle nice videoları mevcutmuş. kendisi yüzünden kedi sahiplenesim geldi.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler,haber
 - entry_name: |
-    1 litre kolanın 4 lira olması
-  entry_id:  87061642
-  entry_writer: aloha martini
-  entry_fav_count: 91
+    said nursi'nin mucizeleri
+  entry_id:  87051229
+  entry_writer: kuyruk yagi
+  entry_fav_count: 96
   entry_content: |
-    o da bir sey mi. bir adet bira 11tl amk.
-  entry_channels: yeme-içme,ekonomi
+    küçükken aldığı her cipsten taso çıkarabiliyormuş.
+  entry_channels: anket
 - entry_name: |
     tkp'nin başörtülü adayı
   entry_id:  87056640
   entry_writer: dermanyon
-  entry_fav_count: 85
+  entry_fav_count: 89
   entry_content: |
     tkp başörtülü bir kadını aday yapmamıştır, bir tekstil işçisini aday yapmıştır. <br/>ülkedeki siyasetin ne kadar sığ bir hale geldiğinin göstergesi tkp'nin aday yaptığı kişinin dini inancı yerine sınıfsal konumuna bakmas değil sizin sınıfsal konumu yerine dini inancına bakıyor olmanızdır.<br/><br/>çok doğru bir harekettir. tebrik ederim.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    25 şubat 2019 akaryakıt zammı
-  entry_id:  87046734
-  entry_writer: 1900efsanesi
-  entry_fav_count: 83
-  entry_content: |
-    döviz bir süredir aynı seviyelerde iken,sanırım bu ay gelen ikinci zamdır. 2.5 milyon haneye elektrik yardımı yapan devlet,bunun giderini bu zamlardan çıkarıyor diye düşünüyorum.<br/><br/>bir ülkede yaklaşık 10 milyon insana elektrik yardımı yapılıyorsa,varın gerisini siz düşünün.<br/><br/>edit : <a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/son-dakika-haberler-benzin-ve-motorin-fiyatina-zam-2383111-ekonomi" title="https://www.haberturk.com/son-dakika-haberler-benzin-ve-motorin-fiyatina-zam-2383111-ekonomi">kaynak</a><br/><br/>edit 2 : onlarca mesaj geldi bilinçli arkadaşlardan. kimisi hakaret ederken,kimi gayet güzel izah etti. bu zam,devletimizin son haftalarda petrol fiyatlarının artışından dolayı yapmak zorunda kaldığı güncellemeymiş. bundan önceki zamlar da bu sebepten kaynaklanıyormuş. herkesten özür diliyorum hatalı yorumumdan dolayı. ancak buradaki hatam, ne 10 milyon insanın elektrik yardımı alması ne de ülkemizde akaryakıtın pahalı olması gerçeğini değiştirmez.
-  entry_channels: haber,ekonomi
-- entry_name: |
-    köfteci yusuf
-  entry_id:  87044735
-  entry_writer: epir
-  entry_fav_count: 81
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ka%c3%a7%c4%b1n+lan+sahibi+geldi">kaçın lan sahibi geldi</a>)
-  entry_channels: yeme-içme
-- entry_name: |
     25 şubat 2019 istanbul'da okulların tatil olması
   entry_id:  87061409
   entry_writer: post translational regulation
-  entry_fav_count: 78
+  entry_fav_count: 89
   entry_content: |
     gelmis gene doguda olsacilar. 100 bin nufuslu, herkesin okuluna 600 metre mesafede yasadigi ve neredeyse surekli kar altinda olan bir sehircik ile 18 milyon nufusu ve ciddi trafik problemi olan istanbul’u kiyaslamayin. yarin kardan dolayi hastalanabilecek, kolunu bacagini kirabilecek insan sayisi senin koyundeki toplam adamdan fazladir. bu yuzden onlem aliniyor. bi bitin.
   entry_channels: haber
 - entry_name: |
+    devlet okulu mu özel okul mu sorunsalı
+  entry_id:  87045783
+  entry_writer: entimist
+  entry_fav_count: 83
+  entry_content: |
+    imkanım olsa özel okulu tercih edeceğim sorunsal.<br/><br/>yalnız devlet okulu öğretmeni-özel okul öğretmeni kalite farkı falan değil kesinlikle olay. çünkü bence sorun bu değil. sorun ortam.<br/><br/>sebep tamamen devlet okulundaki öğrenci kalitesi.<br/>çocukları sadece gitsin gelsin diye okula gönderen o kadar çok ilgisiz aile, ne kadar uğraşsanız da verdiğiniz eğitimin davranış eğitiminin üzerine çıkamadığı, kazanamadığınız o kadar çok seviyesi düşük sorunlu çocuk var ki, devlet okulunda görevine başlamış genç idealist bir öğretmen olsanız da hiçbir şeyi değiştirmediğinizi gördükçe seneler içinde o ortamın kalitesizliğine uyum sağlayıp o kültürün bi parçası oluyorsunuz.<br/><br/>herkes yaptığı işten tatmin olmak ister. bi insan bir mesleği severek yapabilecekken ondan keyif almak varken niye tam tersini seçsin?<br/>bu meslekte ise öğretmen için en büyük tatmin anlattığın şeyi anlayan, sana sorular soran ilgilenen iletişime giren öğrenciyi görmek.<br/>inanın bu yoksa zorla yapılan bir iş haline geliyor.<br/>devlet okullarında (iyi devlet okulları da var evet, ama genele vurursak) öğretmenler senelerce sıfır mesleki tatminle çalışıyor.<br/>sonra bu öğretmenlerin kalitesizliği eleştiriyor.<br/>bu sistemin içinde öğretmenden müthiş bir kalite beklemek komik.<br/><br/>yani devlet okulu kötü değil de, çevresi kötü.
+  entry_channels: anket,eğitim
+- entry_name: |
+    köfteci yusuf
+  entry_id:  87044735
+  entry_writer: epir
+  entry_fav_count: 82
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ka%c3%a7%c4%b1n+lan+sahibi+geldi">kaçın lan sahibi geldi</a>)
+  entry_channels: yeme-içme
+- entry_name: |
     suçsuz yere 39 yıl yatan mahkum
   entry_id:  87062730
   entry_writer: sevne
-  entry_fav_count: 65
+  entry_fav_count: 72
   entry_content: |
     <a class="b" href="/?q=m%c3%bclayim+sert">mülayim sert</a> gibi new york'un en işlek caddesine kenef yapmasını dilediğim kişidir.<br/><br/>bu saatten sonra gelecek paranın ancak içine sıçılır çünkü.
   entry_channels: haber
@@ -166,10 +214,18 @@ data:
     erkeklerin evlenmek istememe nedenleri
   entry_id:  87043413
   entry_writer: robert downey jr jr
-  entry_fav_count: 53
+  entry_fav_count: 58
   entry_content: |
     30 yaşındayım ve bu zamana kadarki karakter gelişimimi ; yaşadıklarımı, hayatıma giren çıkan insanları (özellikle de bu konu ile ilgili olarak kadınları), onların bakış açılarını ve bu bakış açılarının bana kattıklarını, hayal kırıklıklarını hem kendi kendime irdelemeye, hem de dışarıdan biri bu gelişimi izliyormuşçasına izlemeye ve analiz etmeye çalıştım.<br/><br/>yazı biraz uzun olabilir ancak okuyanlara ucundan kıyısından birşeyler katabileceğini düşünüyorum.<br/><br/>23 yaşında eğitim sebebiyle gittiğim bir ülkede ilk cinsel deneyimimi yaşadım. iyi bir arkadaştı ve iyi bir kızdı. hala ara ara konuşuruz.<br/><br/>24 yaşında ilk kez bilinçli bir kafayla aşık olduğumu hissettim. karşı taraf da aşık olduğunu ve onun için bir şans olduğumu söyler dururdu. 5 ay sonra beni eski sevgilisi ile aldattı. ona geri döndü. sonra onlar da yapamamış ve ayrılmışlar. <br/><br/>26 yaşında göçmen bir kıza kaptırdım kendimi. 1 ay falan sürdü ama baya etkilenmiştim. benimle flörtü döneminde başka biriyle daha görüştüğünü fark ettim. evlendiler sonra.<br/><br/>27 yaşında 15 aylık bir ilişkim başladı. düzgün ve iyi bir kız olduğunu hissediyordum. keza öyleydi, ilişkimiz sürecinde bir yanlışını görmedim ve duymadım. ama içinde hep bir mutsuzluk var gibiydi. o sıralar kendi ofisimi açmıştım ancak işler iyi gitmiyordu. sosyal medyada gördüğü hayatlara biraz özenir gibiydi ve ona bu hayatı yaşatamama ihtimalim vardı. sanırım bu işsizlik süreci beni yıprattığı kadar onun beklentilerini de baltalıyordu. emin değilim. bana öyle geldi belki de. bu konuyu hiç açmadım. ayrıldık. biz ayrıldıktan 8-9 ay sonra nişanlandı. ilginç.<br/><br/>29 yaşında ne istediğini bilmeyen bir kızla tanıştım. sevgili gibiydik ancak onun beni bir fuckbuddy gibi gördüğünü, sadece bunun bu şekilde dillendirilmesini kendine yediremediğini farkettim. geçmişi hakkında yalan söylediğini de bir ara ağzından kaçırdı.<br/><br/>benim hayatımda en çok etki bırakan kadınlar bunlardı. satır aralarında ise sosyal medyadan, arkadaş gruplarından, iş yerlerinden vs vs onlarca kişiyle tanıştım, görüştüm, flörtleştim. sanırım 100'ün üzerinde kadın bu veya benzer şekillerde hayatıma girip çıkmıştır. bu kadınların tamamı kariyer sahibi ya da iyi üniversite ve bölümlerde okuyan, eğitim düzeyi yüksek ve sosyal statüsü iyi olan insanlardı. <br/><br/>şimdi neden evlenmek istemiyorsun sorusuna geldiğimizde, bu kadınlarda gördüğüm kadarıyla beni evlilik fikrinden uzaklaştıran şeyler;<br/><br/>*kadınların aynı anda birden çok erkeği idare etme durumu ve bu idare etme sürecini biri ile evlenmeye karar verene kadar sürdürme potansiyelleri. bazı kadınlar sevgilisi varken bile olası bir ayrılma durumunda yönelebilecekleri erkekler ile "arkadaş" statüsünde görüşmeye devam eder.<br/><br/>*çoğu kadının geçmişi ile ilgili yalan söylemesi ve bunu ustalıkla yapması. "senden önce sadece 2 kişiyle birlikte oldum, onlar da sevgilimdi" sözünü duymuşsunuzdur değil mi beyler ? hah işte bu cümleyi kuranlar yüzde 97 ihtimalle yalan söylüyor. kucaktan kucağa gezen kızların bu yalanı motto olarak benimsediklerini defalarca deneyimledim.<br/><br/>*kadınların daha ön yargılı olması ve erkekleri çok hızlı bir şekilde kategorize etme çabaları. "bu daha zengin", "bu daha kaslı", "bu daha iyi siker", "bu çocuk fena değil, işi de iyi, ne dersem yapar, tamam bununla evlenilir", "bu çocuk popüler" vs gibi kategorize edip bu kategorilerdeki insanları birbirine karıştırmadan her bir kategoriye aslında sadece o gruba yönelik biriyle birlikte olmak istiyormuşcasına yaklaşmaları. herhangi bir kategori içerisinde hareket ederken, o grupta o an görüştüklerinden daha iyi birini bulduklarını düşündükleri anda yeni kişiye yanaşma çabaları. ilkel bir içgüdüyle seçilen değil seçen olduklarını düşündükleri için kendi içlerinde oluşturdukları ego ve bu egoyu kimi zaman istemsizce kimi zaman kasıtlı olarak yüzeye çıkarmaları. <br/><br/>*kadınların maddi beklentileri. erkeğin sürekli olarak çalışmak zorunda olması, piyasa şartlarından dolayı işsiz kalma lüksünün olmaması, kadına hem iyi bir hayat sunmak hem de sık sık maddi değeri yüksek olan sürprizlerle onu şımartmak zorunda olması. birçok kadın tarafından bu direkt olarak lanse edilmez ancak onlarca farklı dolaylı yoldan ima edilir ve hissettirilir. bir araya geldiklerinde basitmiş gibi görünen kelime gruplarının aslında ifade etmek istediklerini anlayabilecek olgunluğa eriştiğinizde kadınların bu imalarını çözüyorsunuz arkadaşlar. <br/><br/>*kadınların köprüyü geçene kadar aslında olduklarından farklı görünmesi. çoğu kadın işler nişan, düğün gibi konulara geldiğinde gerçek yüzlerini gösterir ve aslında ne kadar ilkel düşüncelerle küçük hesaplar peşinde koştuklarını anlarsınız.<br/><br/>*evliliği "aile" kavramını oluşturan bir kurum olarak değil, sosyal medya üzerinden evli arkadaşlarıyla kendilerini aynı yarış içerisine dahil eden bir eylem/durum olarak görmeleri. "en çok ben mutluyum" imajını vermek için evlendikleri erkekleri de bu görsel sunumun bir dekoru gibi görme potansiyelleri.<br/><br/>*kadınların genel olarak aynı ev içerisinde stres düzeyini yükselten tavır, trip ve hareketleri.<br/><br/>bunlar temel sebepler ve bu sebeplerin büyük çoğunluğu güven problemine dayanıyor. kadınlara güvenmiyoruz, güvenemiyoruz. bu güven problemini sosyal medya tavana çıkardı ve sosyal medya hesabı olan kadınların gördükleri ilgi karşısında ciddi bir karakter değişimine maruz kaldığını da görebiliyorum. ve ilginç gelecek ki yukarıda bahsettiğim kızlardan en şeffaf ve en dürüst olan, net olan ve ne istediğini bilen olgunluktaki tek kız ilk ilişkimi yaşadığım kızdı. yabancı olan hani.<br/><br/>yaşanılan bazı tecrübeler karşısında bir süre sonra karşınızdaki insanı daha iyi analiz etmeyi ve yaşadığınız olumsuz bir durumu siklememeyi, güçlenmeyi öğreniyorsunuz. karşınızdakinin her hareketini her cümlesini alt metinleriyle okumaya başlıyorsunuz. ben bunu 26 yaşımda görüştüğüm göçmen kızdan sonra büyük ölçüde yapabilmeye başladım. ama büyük konuşmamak gerekiyor, her insan sarrafını manipüle edebilecek ustalıkla yalan söyleyebilen bir kadın vardır elbet. umarım tam karşı tarafı iyi analiz ettiğimi sandığım bu kıvamdan sonra böylesine denk gelmem.<br/><br/>türk kadınlarının ciddi bir karaktersel ve psikolojik erozyona uğradığını, bu erozyonun her geçen gün daha fazlasına yayıldığını gitgide fark ediyorum. bu da beni kadınlardan ve evlenme fikrinden hayli uzaklaştırıyor.<br/><br/>tanıdığım gerçekten çok az sayıdaki düzgün, karakteri büyük ölçüde oturmuş, ilişkisini sahiplenen ve manevi olgulara daha fazla değer veren kadınları tenzih ederim. <br/><br/>ayrıca; (bkz: <a class="b" href="/entry/68597558">#68597558</a>)<br/><br/>hızla gelen birkaç mesaj üzerine edit ; evet bunların bir kısmını yapan erkekler de var ancak gördüğüm kadarıyla bir genelleme yapacak olursam kadınların bahsettiklerimi yapma sayısı ve düzeyi erkeklere göre bir hayli fazla. ayrıca bir erkeğin bunu yapması kadının yapmasını doğru bir eylem olarak değiştirmez ya da haklı çıkarmaz.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    twitter'da dönen aldatma olayı
+  entry_id:  87044445
+  entry_writer: motosikletli kiz
+  entry_fav_count: 46
+  entry_content: |
+    4 yıl boyunca bu ayarda insanlarla aynı okulda eğitim aldığım için ortalama 1 dakikalık bir göz gezdirme sonucu çözdüğüm gereksiz olay. <br/><br/>benim bu kızlardan beter arkadaşlarım oldu. o zamanlar sosyal medya bu kadar popüler değildi. ifşalar sonucu yüzleşmeler genelde "<a class="b" href="/?q=y%c4%b1lmaz%27%c4%b1+meseneden+silecesin">yılmaz'ı meseneden silecesin</a>" tadında geçiyordu. ama diyaloglar hemen hemen bu şekildeydi. yok sen benim eskimle nasıl yatarsın, vay efendim sevgilime çıplak fotoğraf mı yolladın, bizim arkadaşlar sizi kafede yiyişirken görmüş gibisinden yığınla iğrençliği gördüm. bu ülkenin gerçeği bu arkadaşlar. ülke insanı ilişki yaşamayı, sadık ve güvenilir olmayı bilmeyen, hormonlarının etkisinde ilkel dürtülerinin esiri olmuş.<br/><br/>bir de bu tarz insanlara ilişki konusunda tavsiye vermeye çalışınca ya da biraz kendisine saygı duyması gerektiğinden bahsedince size ahlak polisi muamelesi yaparlar. hiç unutmuyorum bu tiplerden birine "her duyguyu hızlıca tüketmek iyi değil. bazı şeyleri özel insanlarla yaşayınca anlamlı olur. hem bizim yaşımız daha çok genç, her duyguyu tatmak için aceleci olursak yanlışa düşebiliriz. pişman olmaya ne gerek var?" gibisinden konuştuğumda bana aydın görüşlü bir ailede doğup nasıl böyle <a class="b" href="/?q=muhafazakar">muhafazakar</a> olduğumu sormuştu ahahaha. tabii ben o zamanlar her insanın belirli ahlak kurallarının olması gerektiğinden yana olduğum için ve insanların özünde iyi olduklarına inandığımdan, bu kişiler için çok uğraştım. kendilerini tüketmelerini, ileride pişman olacakları şeyler yaşamalarını istemediğim için elimden geldiğince yardımcı olmaya çalıştım. sonuç olarak sizin tweetlerde gördüğünüz, benim bizzat şahit olduğum olayların kahramanları bugün evli, mutlu ve çocuklu olmanın yanı sıra hepsi birer ahlak timsali. cennetin kapısını aralayan kutsal anneler. çocuk yapmayı da bakmayı da iyi bilirler. ayrıca mükemmel evlilik nasıl olur bizden öğrenecek değiller ama gece eşinin yanında yatarken eski sevgililerinin profillerini inceliyorlar.<br/><br/>bu tipler yüzünden tiksinip okulu bırakmak istediğimde annemle babam tipik ergen asiliği sanmıştı ama o dönemlerde ciddi anlamda insanlardan tiksindim ve bakış açım büyük oranda değişti. çiçeklerle, hayvanlarla falan konuşmaya başladım, sadece beni ilgilendiren kendi ahlaki değerlerimi oluşturdum ve kimseyi yargılamamaya karar verdim. sonuçta herkes karakterinin izin verdiği ölçüde yaşıyor hayatını. benim gözümde yok hükmünde bu tarz insanlar ve olayları. böyle bakmayı size de tavsiye ederim. 3. dünya ülkelerinde kazananlar hep bu karmaşık ve mide bulandırıcı olayların öznesi kişiler oluyor. o yüzden çok da kafa yormayın.<br/><br/>son olarak; bu tarz kadınlarla ilişki yaşayan erkekler de çok masum değil bunu da atlamamak lazım. hazır fırsatını bulduk kadın düşmanlığı yapalım diye elinde tuzlukla koşan tayfa; davranışları insanlar gerçekleştirir, cinsiyetler değil.
+  entry_channels: ilişkiler
 - entry_name: |
     başkası için akbil basıp parasını almayan insan
   entry_id:  87057053
@@ -187,26 +243,26 @@ data:
     43. dakikada kasığımdaki çekme sebebiyle ekran başından kalkmak zorunda kaldığım maç. kedim izlemeye devam ediyor benim yerime. umarım tamamlar 90 dakikayı .s
   entry_channels: spor
 - entry_name: |
-    fakirlerin ufak şımarıklıkları
-  entry_id:  87044535
-  entry_writer: samonwhite
-  entry_fav_count: 35
-  entry_content: |
-    ben 5-6 yaşlarında iken, babamın işsiz kaldığı bir dönem olmuştu. annem, kardeşim ve ben sobayı yakmamak için evde yorganın altında otururduk, annem kardeşime ve bana kitap okurdu :).<br/>evin içinde mum yakardık. tabii bu mumları bazen renkli mumlarla değiştirirdik. bazen sarı, bazen kırmızı. başka renk yoktu o zamanlar, en azından ben öyle hatırlıyorum. kırmızı mumlardan yakınca acayip sevinirdik, şımarırdık :).<br/>tabii ben tüm bunları, annemin bilinçli yaptığını düşünürdüm, o sıralar. <br/>tabii daha sonra zor vakitler geçti, ancak her ne kadar geçmiş de olsa küçük şımarıklıklar hep hoşuma gider, mutlu eder.
-  entry_channels: anket,ekonomi
-- entry_name: |
     süper bilinçli insan cümlesi bırak
   entry_id:  87042102
   entry_writer: ropeless
-  entry_fav_count: 33
+  entry_fav_count: 37
   entry_content: |
     "gemi limanda güvendedir, ama gemiler limanda beklemeleri için yapılmaz."
   entry_channels: anket,ilişkiler
 - entry_name: |
+    mehmet özhaseki'nin pkk'lılara gerilla demesi
+  entry_id:  87063519
+  entry_writer: 0 5 ucu olan adam
+  entry_fav_count: 37
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/mobi/mehmet-ozhaski-teror-silahla-cozulmez-pkklilar-gerilladir-224658h.htm" title="https://www.yenicaggazetesi.com.tr/mobi/mehmet-ozhaski-teror-silahla-cozulmez-pkklilar-gerilladir-224658h.htm">https://www.yenicaggazetesi.com.tr/…dir-224658h.htm</a><br/><br/>neymiş, pkk'lılar gerillaymış ve öldürüldükçe dağa çıkmaya devam ediyorlarmış.<br/><br/>geçmişi fethullah ile dolu olan biri olarak böylece tüy dikmiş oldu. <br/><br/>ülkücü ankara büyükşehir belediyesi hayırlı olsun. gün gelir ülkücüler birleşir, hayırlı olan ankara'da mansur'un kazanması. hem korkusuzca bozkurt da yapabiliyor kendisi.
+  entry_channels: siyaset,haber
+- entry_name: |
     deneyimli öğretmenden yeni öğretmene tavsiye
   entry_id:  87058171
   entry_writer: kamerarkasi
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     -lise için-<br/><br/>ilk kez sınıfa girdiğinizde elinizde bir tavuk olsun.<br/><br/>günaydın bile demeden,herkesin bakışları sizdeyken ve olayı anlamamışlarken tavuğun kafasını tek hamlede elinizle kopartın ve tavuğu öğrencilere doğru atıp " pişirip bana getirin" deyip sınıftan çıkın..<br/><br/>eylül'den hazirana kadar sınıfta gıkları çıkarsa gelin beni sikin.<br/><br/>-lise için-
   entry_channels: anket,eğitim
@@ -214,98 +270,66 @@ data:
     fenerbahçe'nin çöküşünün tek sebebi
   entry_id:  87058118
   entry_writer: uber insan
-  entry_fav_count: 31
+  entry_fav_count: 33
   entry_content: |
     ali koç.<br/><br/>geçmişten gelen bir enkaz var evet. ancak 2.sirada devraldigin takımı 15 transferle düşme hattına sokuyorsan sorun sendedir evlat.
   entry_channels: spor,anket
 - entry_name: |
-    ekrem imamoğlu
-  entry_id:  87042422
-  entry_writer: isp
-  entry_fav_count: 31
-  entry_content: |
-    keşke gerçekten de makarios'un heykelini yaptırmış olsaydı da bizim çomarlar bir sesini kesiverseydi.
-  entry_channels: siyaset,haber
-- entry_name: |
-    huawei mate x
-  entry_id:  87053868
-  entry_writer: usluyorum
-  entry_fav_count: 27
-  entry_content: |
-    katlanabilir telefon böyle olur diyerekten samsung'un eline veren cihaz.
-  entry_channels: teknoloji
-- entry_name: |
-    ahlat ağacı (film)
-  entry_id:  87036902
-  entry_writer: saklayayim yok soyleyeyim
-  entry_fav_count: 25
-  entry_content: |
-    öpüşme sahnesini de imamların meşhur diyaloğunu da kesmemişler. 'sansür de sansür' lobisi mutsuz :/<br/><br/>tanım: yönetmeni, 'nuri bilge ceylan'ın malatya film festivali'ndeki söyleşisinde "mükemmelliğe başkaldırımdır" sözüyle tanımladığı filmidir.
-  entry_channels: sinema,spoiler
-- entry_name: |
     25 şubat 2019 fikret orman ali koç ortak yayını
   entry_id:  87062626
   entry_writer: yolun yarisinda tek basina
-  entry_fav_count: 24
+  entry_fav_count: 29
   entry_content: |
     otoban yosmalarına dert olmuş yayındır...
   entry_channels: spor,tv
 - entry_name: |
+    huawei mate x
+  entry_id:  87053868
+  entry_writer: usluyorum
+  entry_fav_count: 28
+  entry_content: |
+    katlanabilir telefon böyle olur diyerekten samsung'un eline veren cihaz.
+  entry_channels: teknoloji
+- entry_name: |
     recep tayyip erdoğan
   entry_id:  87059777
   entry_writer: puik
-  entry_fav_count: 20
+  entry_fav_count: 23
   entry_content: |
     doğrudan abd tarafından bir ekonomik operasyonla getirildi, öncesinde saha temizliği yapıldı (dyp, anap , genç parti bitirildi, refah ve bbp eritildi), ekonomi kemal derviş tarafından imf'ye ihale edilip temizlenerek kendisine teslim edildi.<br/><br/>şimdi bunun tersi yapılarak götürülüyor. ekonomi elinde patlatılıyor, geçmişte temizlenen merkez sağ tekrar hafriyat ile dolduruluyor (refah ve iyi parti). ekonomi 31 mart 2019'dan sonra iyice göçertilecek ve bir başka komiser gelip, imf bağlantısını yapıp tersine operasyonu bitirecek. bitiş operasyonu banka krizidir, bunu unutmayın.<br/><br/>bahçeli ve kılıçdar denen mit evlatlarının görevi de ekonomi iyice bozulup bankacılık krizi patlayana kadar akp'nin topal ördek iktidarını sürdürmek. biri (bahçeli) akp'nin boynuna urganı geçirdi, gezdiriyor, adamları farkında olmadan koalisyona düşürdü; diğeri chp'yi yüzde 20-25 formatında tutarak merkez sağda açılacak yeni alana özenle girmemeyi ve akp'yi bitene kadar iktidarda tutma görevini ifa ediyor.
   entry_channels: siyaset,tarih,haber
 - entry_name: |
-    mehmet özhaseki
-  entry_id:  87049771
-  entry_writer: iyotsuz tuz
-  entry_fav_count: 17
-  entry_content: |
-    2-3 gün önce ülkücü mansur yavaş'ın belediyeyi kandil'in istediği adamlarla dolduracağını söylüyordu, meğer habur rezaletinden sonra teröristlere gerilla diyen kendisiymiş. bahçeli de partililerini bu adama oy vermeye ikna etmeye çalışıyor. şaka gibi bir ülkede yaşıyoruz.<br/><br/>fetöcülerle olan muhabbetine, kayserideki iş adamlarının bizi onlarla özhaseki tanıştırdı demesine hiç girmiyorum bile bak, o herkesin malumu artık.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
     fenerbahçe'nin küme düşmesi
   entry_id:  87059172
   entry_writer: bu konuda soylemek istediklerim bu kadar
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     yurt dışı bahis sitelerinde 1'e 101 oran vermektedir. fenerbahçeli olsam 500 lira basardım. o rezilliği göreceksem bari 50 bin lira yıpranma tazminatım gelsin.
   entry_channels: spor
 - entry_name: |
-    mehmet özhaseki'nin pkk'lılara gerilla demesi
-  entry_id:  87063792
-  entry_writer: a shih na chieh she erh
+    23 şubat 2019 başakşehir bursaspor maçı
+  entry_id:  87043477
+  entry_writer: attan dusen inek
   entry_fav_count: 14
   entry_content: |
-    sayamayacağım kadar akp'li apo'ya "sayın", teröriste "gerilla", şehide "kelle", pkk'ya "terör örgütü değildir" dedi. küreselci siyasal islam iktidarının jargonu bu, neyine şaşırıyorsunuz?
-  entry_channels: siyaset,haber
+    maç bu şartlarda başladı, 24. dakika kar iyice şiddetini arttırdı başakzehir atakta savunma arkasına bir uzun top robinho karşı karşiya ve gol. pozisyon ofsayt gibi duruyor ama yardimci hakem göremiyor var odası pozisyonu kestiremiyor. ne oldu şimdi? bizim mac neden oynanmadı diyen embesil taraftarlar başlayacak ki yav bu havada maç mı oynatılir? neden oynatildi basaksehiri simpiyin yipiciklir. mal bir guruh var tam anlamiyla egitilmez comarlar ya
+  entry_channels: spor
 - entry_name: |
-    sigara içenlerin öldürülmesi gerektiği
-  entry_id:  87061853
-  entry_writer: aloha martini
-  entry_fav_count: 8
+    akp yerel seçimleri kazanamazsa ekonomik kriz olur
+  entry_id:  87063831
+  entry_writer: corsairsgold35
+  entry_fav_count: 7
   entry_content: |
-    zekasi hayata gec baslayan bir adet idiotun muthis onerisi. hatta kemiklerindende sabun yapalim.
-  entry_channels: 
+    zaten krizde değil miyiz? <br/>(bkz: <a class="b" href="/?q=2019+ekonomik+krizi">2019 ekonomik krizi</a>)
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    hdp'yi kapatmayıp oy verenlere terörist demek
-  entry_id:  87061900
-  entry_writer: 17december
-  entry_fav_count: 8
-  entry_content: |
-    siyasal islamci paradoksu.<br/><br/>koca koca adamlar, iclerinde cb, icisleri bakani hatta eski genel kurmay baskani da var. hep bir agizdan ayni laflari her secim öncesi soylemek suretiyle ayni pilavi yedirmeye kalkiyorlar.<br/><br/>ve sadece bu partiye degil giyabinda kendi ittifaklarinda olmayanlari da bu parti ile birlikte terorist ilan ediyorlar.<br/><br/>fakat sadece laf var icraat yok. sen cb ve icisleri bakani olarak bu partiye bir sey yapamiyorsan secmen ne yapacak :)
-  entry_channels: siyaset
-- entry_name: |
-    organize işler sazan sarmalı
-  entry_id:  87037079
-  entry_writer: scorpio
+    konstantinos mitroglou
+  entry_id:  87063746
+  entry_writer: heil titsler
   entry_fav_count: 6
   entry_content: |
-    netflixe düşmüş oo süper evde izleriz derken keşke evde bile izlemeseydim bu ne aq moduna geldim. iyi ki bi de sinemaya gidip para vermemişiz. ilk filmden kutsal damacana seviyesine nası düşmüşler hiç anlamadım.
-  entry_channels: tv,sinema,spoiler
+    yunan beceriksizlik tanrısı.
+  entry_channels: spor
 - entry_name: |
     ekşi itiraf
   entry_id:  87043422
@@ -315,21 +339,29 @@ data:
     geçen hafta bir cüceyle tanıştım. çok güzel bir kadın. etrafındakilerin pek hobbit esprisi yapacak insanlar olmadığını hatta bunun ne olduğunu bile bilmediklerini söyledi. elflerin kulaklarını o da seviyor. taze çekilmiş kahvenin kokusuna bayılıyor ve her gün bir demlik filtre kahve içiyormuş. <a class="b" href="/?q=c%c3%bcce+tapan">cüce tapan</a> biri değilim ama zekası görüntüsünün ulaşamayacağı yerlerde gezen insanlara hayranlık duyuyorum.<br/><br/>iskandinav mitleri hakkında konuştuk. cüceler ve devler hakkında konuştuk. yalanlar ve cetveller hakkında konuştuk. her şeyi ölçen insanın tedarik edemediği tatmin duygusu hakkında konuştuk. <br/>ilkokuldayken bir arkadaşı varmış. en ön sırada otururlarmış ve arkadaşı çok zekiymiş. gururla anlattığı arkadaşını yirmi beş yıldır görmemiş. <br/>bir keresinde oldukça yakışıklı bir adamla çıkmış ve adamı aldatmış. bu yüzden adamın kendini paraladığını söyledi ve telefonundan adamın fotoğraflarını gösterdi. <br/>müze gezmeye, ormana gitmeye, mantar yemeye ve evde çiçek yetiştirmeye düşkün olduğunu söyledi.<br/>belgesel izlerken cüce gezegen vs gibi tanımlar gördüğünde mutlu olduğunu, dünyanın herkes için ifade ettiği şeyin dışında onun için masalsı bir yanı olduğunu, hayal kurmaktan hoşlandığını ve yabancı dil bildiğini anlatırken gururluydu. <br/>insanlar bize yargılayan gözlerle bakarken satranç oynadık. "bir metre yukarıdan baktıkları için kendilerini bir b.k sanıyorlar!" dedi. <br/>evde babasından kalma bir piyano varmış ama ayağı pedala uzanamadığı için piyanoya pek dokunmuyormuş. evdeki tek cüce kendisiymiş ve annesi oldukça uzun sayılabilirmiş. erkek kardeşi onun otoritesini ergenlik zamanlarında aşmış ve söz dinlemiyormuş. <br/>"bence tüm hayat bir nimettir ve kimse değerini anlamıyor" dedi. şimdiye kadar yüzlerce kalbi kırık erkeğe sırdaşlık ettiğini ve herkesin tek derdinin penisini sokacak karanlık ve ıslak bir yer bulmak olduğunu, bunun için çabalayan düşük yaratılışlı insanların arasında "değerliler" diye tanımladığı az kişinin dahil olduğu bir grup olduğunu söyledikten sonra benim de "değerliler" dediği gruptan biri olduğumu söyledi. <br/>yaptığım esprilere güldü ve birlikte bowling oynamak için sözleştik. sanırım oluyor. ancak masallarda ve filmlerde görülebilen insanlarla arkadaş oluyorum. yaşasın...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    trt 2
-  entry_id:  87046097
-  entry_writer: kegeo
-  entry_fav_count: 4
+    vites değiştirirken gazdan ayağını çekme sorunsalı
+  entry_id:  87058662
+  entry_writer: lays var yenmi
+  entry_fav_count: 5
   entry_content: |
-    abd’ye hak ettiğini verme kapsamında yayından kaldırılan pazar sabahı western film kuşağını, <a class="b" href="/?q=iyi+k%c3%b6t%c3%bc+%c3%a7irkin">iyi kötü çirkin</a> ile efsane biçimde döndürmüş tv kanalı. gelin, babamın sevincini bi görün .
-  entry_channels: tv
+    ayağını gazdan tamamen çekeceksin çekmezsen debriyaj balatasına zarar verirsin, boşuna aracın devrini yükseltirsin ve fazla yakıt tüketirsin...<br/>motorların aslında ömrünü belirleyen çevirdiği devirdir, yaptığı kilometre değil...
+  entry_channels: otomotiv
 - entry_name: |
-    aşk
-  entry_id:  87047186
-  entry_writer: oberyn2
+    türkçenin fakirleştirilmesi
+  entry_id:  87064637
+  entry_writer: hector8
   entry_fav_count: 4
   entry_content: |
-    "günümüz aşkları tatlı ve geçici olarak yaşanıyor. eskiden bir gelecek tahayyülüydü aşk. şimdi öyle değil. bu da, çok fazla iletişimden ileri geliyor. her an ellerimizde telefon veya bilgisayar, kolayca ulaşıyoruz. ve çok fazla birlikte oluyoruz. çok fazla her birimiz ötekinin ne yaptığını biliyoruz. günde 4-5 kere telefon etmiyorsan birisine, öbürü tuhaflık varmış, sevilmiyormuş gibi yaşıyor. <br/><br/>çok çabuk keşfediyoruz karşımızdaki insanı ve keşfedince de bitiyor. kimdir, nedir, ne değildir? bu yüzden de sık sık partner değiştiriyoruz. derinleşemiyor sevgi ve aşk, yüzeyde kalıyor. çağa uygun ya da çağın dayattığı imgeler ve yeni modalarla yaşanıyor aşk. cinsellikte hedefe varmak eskiden daha zahmetliydi. dişi tarafı özellikle daha tedbirliydi. şimdi birlikte olmak çok kolay. bunu eleştirerek söylemiyorum. bu güzeldir ama eros aradan çekiliyor. en güzeli ve en iyiyi bulma, onda karar kılma, birlikte olunduğunda çok büyük haz alma… bu duyguları kaybediyoruz. karşımızdaki insanı yeterince tanımadan, yeterince konuşmadan, ki konuşamadığımızı düşünüyorum, kitapta (aşkın güzelliği) dediğim gibi karanlık odalara kapanıp sevişiyoruz. olması gerektiği aşklar yok mu? elbette var, ben genelden bahsediyorum"<br/><br/><a class="b" href="/?q=inci+aral">inci aral</a>
-  entry_channels: ilişkiler,sanat,tarih,müzik,sinema,edebiyat,sağlık,magazin
+    türk diline en fazla zararı osmanlı zihniyeti ve sarayı vermiştir. türkçe'ye üvey evlat gibi davranan saray soytarıları dilimizdeki öz türkçe kelimeleri bırakıp, yerlerine aşağılık milletlerin kelimelerini almışlardır. bunlara en güzel cevap şudur.<br/><br/>''bugünden sonra hiç kimse sarayda, divanda, meclislerde ve seyranda türk dilinden başka dil kullanmaya”<br/><br/>karamanoğlu mehmet bey
+  entry_channels: siyaset,tarih,edebiyat,eğitim
+- entry_name: |
+    erkek arkadaşına masaj yapan kız
+  entry_id:  87063274
+  entry_writer: yengecburcukarga
+  entry_fav_count: 4
+  entry_content: |
+    masaj yağıyla yapıyorsa ne güzel kızdır. eski kız arkadaşım “yat çiğneyeyim” demişti. vizyonsuz !
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     24 şubat 2019 galatasaray akhisarspor maçı
   entry_id:  87049217
@@ -339,14 +371,6 @@ data:
     götünüzde patlayan biletleri götünüze sokun sizin gibiler yüzünden boş stat bu şampiyonluk yolunda dediğim maç. <br/>şunlara sıradan ban atsa bi yürekli mod ama nerdee?<br/><br/>edit: götünüz yemez bileti bedavaya vermeye. ama çıkar burda cem yılmaza , sahibindendeki fiyatlara veya emlak fiyatlarına laf atarsınız. <br/><br/>not gs 6.kategorispor
   entry_channels: spor
 - entry_name: |
-    erkek arkadaşına masaj yapan kız
-  entry_id:  87062599
-  entry_writer: gkhns
-  entry_fav_count: 3
-  entry_content: |
-    böyle kadınlara ayrı bir ilgim var benim. saatlerce masaj yaptırabilme potansiyeline sahibim çünkü. kız arkadaşım ya da eşim sevişelim mi masaj mı yapayım diye sorsa hiç düşünmeden masaj yap derim.
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
     91. oscar ödül töreni
   entry_id:  87055303
   entry_writer: muhabirinizscarboroughdanbildiriyor
@@ -354,6 +378,14 @@ data:
   entry_content: |
     cannes film festivali olsa en iyi erkek oyuncu ödülü viggo ile bale arasında bir çekişme sonucu belirlenirdi. bale daha iyi oynamış ama insan cheney - rumsfeld ikilisini iki saat izlemeye dayanamıyor, viggo ' nun tony v. si çok sevimli halbuki. <br/><br/>gittikçe seviyesi düşen amerikanya milleti / kurumları gider dangozca rami malek 'e ödül verir, o başka.
   entry_channels: sanat,sinema,haber,magazin
+- entry_name: |
+    yeni fıkra çıkmaması
+  entry_id:  87065144
+  entry_writer: muhendisgeldi
+  entry_fav_count: 1
+  entry_content: |
+    caps ve ekran görüntüsü içeren görsellerin mizah anlayışında yer edinmiş olması buna sebep olmuş olabilir.
+  entry_channels: 
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  87039247
@@ -363,43 +395,11 @@ data:
     dinlerim. arada geç yazarım ama olsun. <br/><br/>pesin not: fuckbuddy arayan erkek yazarlar yazmasın erkek erkeği becermez.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    bitcoin
-  entry_id:  87048080
-  entry_writer: benburayaciplakgeldim
-  entry_fav_count: 1
-  entry_content: |
-    4800 hedefine ilerleyen coindir. 4750 den satış emrini girdim. 2019, kripto para konusunda çok verimli geçti benim için. 2018'de yaptığım hataları tekrarlamadım. risksiz küçük karlar ettim. totalde %150 karım var 1 buçuk aylık süreçte. ancak kazandığımı çekip çatır çutur harcadim. yeni ise girmemin etkisiyle marttan itibaren yatırım miktarımı arttırmaya başlayacağım. <br/><br/>uzun lafın kısası btc kısa süre içinde benim analizlerime gore şu andan itibare ortalama %20 verecektir. ben 3600'lerden girdigim için hedefe ulaşırsa %40 karım olacak. yatırım tavsiyesi değildir.
-  entry_channels: teknoloji,ekonomi
-- entry_name: |
-    atari salonuna gitmiş efsane nesil
-  entry_id:  87063728
-  entry_writer: mad season
-  entry_fav_count: 1
-  entry_content: |
-    20 yaşından büyük olan herkes bu nesle dahildir.neresi efsane onu anlayamadım.maltepe <a class="b" href="/?q=grandhaus">grandhaus</a>'da 2010 yılına kadar vardı bu salondan.
-  entry_channels: anket,oyun
-- entry_name: |
-    23 şubat 2019 başakşehir bursaspor maçı
-  entry_id:  87063092
-  entry_writer: greentimsah
-  entry_fav_count: 1
-  entry_content: |
-    maç aynen dünkü gibi aynı kar yağışı altında, aynı zeminde,çizgileri belli olmayan aynı sahada oynanmaktadır... dün niye iptal ettiniz, bugün niye oynatıyorsunuz... resmen saçmalıklar ülkesi olduk...
-  entry_channels: spor
-- entry_name: |
-    konstantinos mitroglou
-  entry_id:  87064442
-  entry_writer: bize her sevdadan geriye kalan
+    geceye bir şarkı bırak
+  entry_id:  87042970
+  entry_writer: cinderhella
   entry_fav_count: 0
   entry_content: |
-    diagne' nin saçından sonra kostas'ın da sakalını kestirtmek farz oldu. cok net bir gol pozisyonunu degerlendirememiş futbolcudur.
-  entry_channels: spor
-- entry_name: |
-    akp yerel seçimleri kazanamazsa ekonomik kriz olur
-  entry_id:  87063806
-  entry_writer: songoku89
-  entry_fav_count: 0
-  entry_content: |
-    dolar:5<br/>euro:6<br/><br/>kaybederse ekonomik kriz olur...<br/>(bkz: <a class="b" href="/?q=yi%c4%9fit+bulut+sen+misin">yiğit bulut sen misin</a>) <br/><br/>t: daha basi giren krizin akp kazansa da kazanmasa da dibine kadar girecegi gercegini bilen trollun oy toplama cabasi.
-  entry_channels: siyaset,haber,ekonomi
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://open.spotify.com/track/77FUknLt7tSHR9brby5sMd?si=TM-JbCo0RMmnxETQXGX09A" title="https://open.spotify.com/track/77FUknLt7tSHR9brby5sMd?si=TM-JbCo0RMmnxETQXGX09A">sitting next to you...</a>
+  entry_channels: anket,müzik
 ---
