@@ -6,7 +6,7 @@ data:
     cüneyt özdemir'in youtuber'lara yavşak demesi
   entry_id:  87093099
   entry_writer: bild
-  entry_fav_count: 763
+  entry_fav_count: 771
   entry_content: |
     (bkz: <a class="b" href="/?q=c%c3%bcneyt+beyin+do%c4%9fru+tespiti">cüneyt beyin doğru tespiti</a>) <br/><br/>(bkz: <a class="b" href="/?q=adam+hakl%c4%b1">adam haklı</a>) <br/><br/>(bkz: <a class="b" href="/?q=bit+yavrusu">bit yavrusu</a>)
   entry_channels: anket,tv,ekşi-sözlük,teknoloji
@@ -14,7 +14,7 @@ data:
     giresun'da vefat eden 11 yaşındaki kız
   entry_id:  87077563
   entry_writer: halkla kaynasmis bir elit
-  entry_fav_count: 580
+  entry_fav_count: 590
   entry_content: |
     bu tweet'ler sonrası tekrar hortlatılması gereken konu. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/metcihan/status/1099737447351635968" title="https://twitter.com/metcihan/status/1099737447351635968">https://twitter.com/…han/status/1099737447351635968</a>
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     bu mükemmel sistem kendiliğinden olmuş olabilir mi
   entry_id:  87078814
   entry_writer: corpus dei
-  entry_fav_count: 566
+  entry_fav_count: 570
   entry_content: |
     - bu mükemmel sistem kendiliğinden oluşmuş olamaz.<br/><br/>- allah mükemmel ve kusursuz değil mi?<br/><br/>- evet.<br/><br/>- o zaman onun da kendi kendine oluşmuş olamayacağını, yaratıldığını mı söylüyorsun?<br/><br/>dincilerin mavi ekran verdiği yer burasıdır.
   entry_channels: bilim
@@ -30,47 +30,39 @@ data:
     kocaeli california'dan daha iyi
   entry_id:  87079592
   entry_writer: fast
-  entry_fav_count: 514
+  entry_fav_count: 520
   entry_content: |
     (bkz: <a class="b" href="/?q=hotel+kocaeli">hotel kocaeli</a>)
   entry_channels: anket,eğitim
 - entry_name: |
-    nilüfer belediyesi nilfestten ahlaksız görüntüler
-  entry_id:  87104838
-  entry_writer: oyuncak bulut
-  entry_fav_count: 483
-  entry_content: |
-    ahlaksız değil gayet de keyifli eğlenceli görüntülerdir.<br/>duş ve soğuk bira servisinde sıkıntılar yaşanmıştır ve gençler tarafından dile getirilmiştir.<br/>evet ortamı bok kokan pilavlı sohbet tutkunlarını rahatsız edebilir.<br/><br/>gelen mesaj editi: şöyle bir mesaj aldım; "hanimini,sevgilini alsanda soyle guzel eglensek biz de buzlu biralariniz benden soz"<br/><br/>bakın burada zihniyet ve tiynet ortaya çıkıyor.<br/>başkasının karısı, sevgilisi, kızıyla fantaziler kuran ve bunu kendi hakkıymış gibi gören insanlar rahatsız oluyor bu kendi halinde takılan insanlardan.<br/>lan yobaz bok; eğlenmek demek senin bildiğin ve genlerine işlenmiş başkasının karısına, kızına, sevgilisine sarkmakla olmuyor. insan gibi eğlenmeyi öğren beceremiyorsan yallah arabistana.<br/><br/>bir yazar da sağolsun gereksiz duyar kasma diye mesaj atmış. yukarıda bana atılan mesajı iyi oku, mesajda diyor ki; eğer bu tarz yerlere gidiyorsan senin karın, kızın, sevgilin bize helaldir... <br/>bunun anlamını az çok anlıyorsun dimi leblebi beyinli sıçmık?
-  entry_channels: siyaset,haber,yeme-içme,moda,magazin
-- entry_name: |
     cs oynarken silah değiştirip duran ruh hastaları
   entry_id:  87091720
   entry_writer: sumuklu doktor
-  entry_fav_count: 480
+  entry_fav_count: 488
   entry_content: |
     kendimi bildim bileli gözlemlediğim ve sebebini anlamadığım oyun içinde ilerlerken boş boş bıçak silah değişimi yapan ve en saçma yerde elinde bıçakla headshot yiyen ruh hastalarıdır.
   entry_channels: oyun
 - entry_name: |
-    erkekler olarak tayt giymek istiyoruz
-  entry_id:  87090845
-  entry_writer: her konuda fikrim var
-  entry_fav_count: 403
-  entry_content: |
-    öncelikle elinde tuzlukla espri yapmaya gelenlere önlem olarak şu açıklamayı yapmak istiyorum ; farklı bir cinsel eğilimi olmayan düz bir erkeğim<br/><br/>kadınlar her ortamda tayt giyiyor ve açıklamaları genelde aşağıdaki başlıklar altında toplanıyor ;<br/>1- rahat ediyorum, giyiyorum<br/>2- ben giyerim ama sen (zengin veya yakışıklı değilsen) bakabilirsin anlamına gelmez<br/>3- sana ne salak<br/><br/>ancak biz erkekler olarak biliyoruz ki, her ne kadar yukarıdaki açıklamalarda üstü kapatılmaya çalışılsa da, tayt ; vajina ve kalçayı sıkı sıkı sararak, dişilik organını ön plana çıkartarak erkeklerin beynine füze atmak demektir.<br/><br/>o zaman ben de diyorum ki, kısasa kısas..<br/>erkekler olarak biz de sıkı sıkı tayt giyelim, popomuz pipimiz ne varsa ortaya koyalım ve aşağıdaki açıklamaları yapalım.<br/><br/>1- rahat ediyorum, giyiyorum<br/>2- ben giyerim ama sen (güzel veya sevişken değilsen) bakabilirsin anlamına gelmez<br/>3- sana ne kezban
-  entry_channels: anket,ilişkiler,moda
-- entry_name: |
     çocuk yaptığına pişman mısın
   entry_id:  87097307
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 386
+  entry_fav_count: 458
   entry_content: |
     millet nasıl serzenişlerde bulunmuş.<br/><br/>elif. yanı kızım.<br/>kalbi delik. kalbinde pil var. 18 aylık küçük hanım.<br/>yakın tarihte kontrolü vardı, rutin kontrolleri.<br/>gittik doktora. neyse her şey bitti, doktor bize mevcut durum hakkında bilgi verecek.<br/>dizlerim titredi o odaya girerken. gözümü kırpsam yaş düşecek.<br/>tir tir titriyorum. hazır olmadığım olumsuz bir şey duymaktan it gibi korkuyorum.<br/>günlük hayatta kimseye eyvallahı olmayan, astığı astık kestiği kestik olan bir adamım ben.<br/>sesim çıkmıyor sesim. doktor her şeyin iyi ve sorunsuz olduğunu söylediğinde gözlerimi kırptım ve o yaş düştü.<br/>ve bunu yazarken, o anı anlatırken bile kötü oldum.<br/>hiçbir şeyden haberi olmayan elif'le gün boyu akranı gibi oyun parkında çıldırdım o gün.<br/>ben nasıl pişman olayım ya elif hayatıma girdi diye?<br/><br/>yazılanları okudukça kanım dondu.<br/>bak ya sözlere bak. yok kedisiyle uyuyamıyormuş, yok kilo almış, kahve içemiyormuş, tuvalete sırayla gider hale gelmiş, spor yapamıyormuş.<br/><br/>ha demeyin ki sen babasın, bir baba anneyi anlayamaz.<br/>yavrucum üşengeçliğinizden bebeğin poposunu ıslak mendille siliyorsunuz ya hani.<br/>heh işte, elif bende kaldığı günlerde o mendil tahriş eder diye her altına yaptığında jellerle poposunu yıkıyorum ben elif'in. boş muhabbet yapmayın.<br/>size değil, gerçekten çocuklarınıza acıyorum.<br/><br/>işte bu dünya bu yüzden kötü bir yer.<br/>böyle ebeveynlerin yetiştirdiği çocukların kahrını çekiyor dünya.<br/><br/><a class="b" href="/?q=edit">edit</a>: <br/>kedisiyle uyuyamadığını söyleyen bir suser var ya hani 3-5 entry üstte.<br/>o soytarının entrylerini okuyun. anne-babasına hakaretler yağdıran, 18 yaşına geldiğinde çocuğu evden gönderirim, yok öyle bedava kira filan ben hizmetçi değilim diyen bir andaval. it de doğuruyor. bir farkın olsun.
   entry_channels: ilişkiler
 - entry_name: |
+    erkekler olarak tayt giymek istiyoruz
+  entry_id:  87090845
+  entry_writer: her konuda fikrim var
+  entry_fav_count: 410
+  entry_content: |
+    öncelikle elinde tuzlukla espri yapmaya gelenlere önlem olarak şu açıklamayı yapmak istiyorum ; farklı bir cinsel eğilimi olmayan düz bir erkeğim<br/><br/>kadınlar her ortamda tayt giyiyor ve açıklamaları genelde aşağıdaki başlıklar altında toplanıyor ;<br/>1- rahat ediyorum, giyiyorum<br/>2- ben giyerim ama sen (zengin veya yakışıklı değilsen) bakabilirsin anlamına gelmez<br/>3- sana ne salak<br/><br/>ancak biz erkekler olarak biliyoruz ki, her ne kadar yukarıdaki açıklamalarda üstü kapatılmaya çalışılsa da, tayt ; vajina ve kalçayı sıkı sıkı sararak, dişilik organını ön plana çıkartarak erkeklerin beynine füze atmak demektir.<br/><br/>o zaman ben de diyorum ki, kısasa kısas..<br/>erkekler olarak biz de sıkı sıkı tayt giyelim, popomuz pipimiz ne varsa ortaya koyalım ve aşağıdaki açıklamaları yapalım.<br/><br/>1- rahat ediyorum, giyiyorum<br/>2- ben giyerim ama sen (güzel veya sevişken değilsen) bakabilirsin anlamına gelmez<br/>3- sana ne kezban
+  entry_channels: anket,ilişkiler,moda
+- entry_name: |
     0.5 uç vs 0.7 uç
   entry_id:  87085720
   entry_writer: nextsigor
-  entry_fav_count: 383
+  entry_fav_count: 395
   entry_content: |
     -07 uç herkeste bulunur, 05 kimsede bulunmaz olan da vermez<br/>-07 naz yapmaz her yola gelir, 05 nazlı bir ceylandır.<br/>-07 daha kalın yazar, 05 daha zarif<br/>-07 kar kış dinlemez size yoldaş olur, 05 hafif bir zorlamada sizi terkeder.<br/>-07 yolludur, 05 ev kızı.<br/><br/>ed: 09 u karıştırmıyorum bu arada. o ise adeta bir koca popolu mahalle teyzesidir. üzerine fazla konuşursanız dedikodulara malzeme olursunuz.<br/><br/>0 35 ise adeta bir prensesdir. uğruna dağlar taşlar aşılır ki bir öpücük alabilmek için.
   entry_channels: anket,teknoloji,eğitim
@@ -78,7 +70,7 @@ data:
     kızların espri yapamama nedenleri
   entry_id:  87083199
   entry_writer: sansasyoner
-  entry_fav_count: 223
+  entry_fav_count: 235
   entry_content: |
     espri yapmak zeka işidir. komiğime giden lafları, cümleleri olmuştur ama espri kabiliyetleri sıfırdır. <br/>kadınlar neden kendini güldüren erkeklerden hoşlanır? <br/>çünkü erkekler, onların yapamadığı bir şeyi yapan varlıktır, kendinde olmayanı isterler. (bkz: <a class="b" href="/?q=arthur+schopenhauer">arthur schopenhauer</a>)<br/><br/>edit: ofiste kız arkadaşlarımızın birbirine fıkra anlatmasına kulak misafiri olmuştum ıq seviyemi düşürdüler resmen, allah'ını seven üstüme toprak atsın diyecektim. <br/>kahkahalarla gülerek anlattıkları fıkra: <br/>temelle dursun ingiltere'ye gitmiş acıkmışlar bir restorana oturup sipariş vermişler ama dil bilmiyorlarmış temel garsona: yemeking istiyoring, siz getiriyoring (adsssassaa)<br/>dursuna demiş ki: gördün mü dursun ne güzel ingilizce konuştum<br/>garson: ben türkçe bilmiyoring siz nah yemek yemeking (adshgahfashaaas) <br/><br/>ve buna kahkahalarla gülüyorlar aq katliam resmen, biliyorum bu saçmalığı yazarak ömrünüzden 15 sn çaldım.
   entry_channels: anket,ilişkiler
@@ -86,23 +78,39 @@ data:
     yeni bir parti
   entry_id:  87086755
   entry_writer: varolan
-  entry_fav_count: 208
+  entry_fav_count: 210
   entry_content: |
     siyasal islamın 2. sürümü.<br/>ilki zıvanadan çıktı, ikincisi de gücü eline geçirince zıvanadan çıkacak.<br/>hep aynı şeyleri yapıp farklı sonuçlar bekleyenlere aptal mı deniliyordu?
   entry_channels: siyaset
 - entry_name: |
+    berat albayrak'tan 2.5 milyon istihdam müjdesi
+  entry_id:  87103071
+  entry_writer: eksi peace
+  entry_fav_count: 172
+  entry_content: |
+    biricik damadın içi boş vaadlerinden biri.<br/><br/>fabrika mı açacaksın? yok<br/>yeni iş kolları mı yaratacaksın? yok<br/>özelleştirdiğin fabrikaları geri mi alacaksın? yok<br/>tarıma sanayi üretimine büyük destek projesi mi başlatacaksın? yok<br/><br/>atıyorsun bari destekli at, binali yıldırım'da geçen gün 500 bin demişti o yine insaflı atmış.
+  entry_channels: haber,ekonomi
+- entry_name: |
     kenan sofuoğlu'nun arabamı çizerler açıklaması
   entry_id:  87104989
   entry_writer: trendline
-  entry_fav_count: 116
+  entry_fav_count: 159
   entry_content: |
     (bkz: <a class="b" href="/?q=karde%c5%9f+%c3%a7izmeyiz+s%c4%b1k%c4%b1nt%c4%b1+yapma">kardeş çizmeyiz sıkıntı yapma</a>)
   entry_channels: siyaset,haber,otomotiv
 - entry_name: |
+    işe gitmek için sabırsızlanmak
+  entry_id:  87085472
+  entry_writer: zigzawor
+  entry_fav_count: 143
+  entry_content: |
+    eğer çalışılan birimde hoslandiginiz biri varsa hafta sonu çabucak bitsin istiyor insan..bu yüzden hep kiskanmisimdir plaza çalışanlarını adamlar sabah gözlerini handelerle gamzelerle acıyor biz ibrahimlerle mahmutlarla açıyoruz..
+  entry_channels: ilişkiler,ekonomi
+- entry_name: |
     istanbul ankara ve bursa'da chp önde
   entry_id:  87089782
   entry_writer: turkuaz adam
-  entry_fav_count: 103
+  entry_fav_count: 114
   entry_content: |
     vallahi bütün anketler ankara, bursa chp diyor ama, seçimden sonraki sabah kalksam ve "ankara %58 akp" yazısını görsem, azıcık şaşırıranı sksinler.
   entry_channels: siyaset,haber
@@ -110,15 +118,23 @@ data:
     parayı faize yatırmak veya ev alıp kiraya vermek
   entry_id:  87099471
   entry_writer: 1123581321
-  entry_fav_count: 97
+  entry_fav_count: 112
   entry_content: |
     ilginç bir karşılaştırmadır.<br/><br/>parayı faize yatırmakta sıkıntı yok, faizden gelen parayı yemekte de sıkıntı yok tabii ki söz konusu para türk lirası olmadığı sürece. <br/><br/>uzun vadede türk lirası güvenilmez olsa da, eğer aylık faizini yemeyip biriktirecekseniz ciddi bir sıkıntı yaşamazsınız fakat faizi yerim ana para durur diyorsanız, uyarayım durmaz!<br/><br/>200 bin lira örneklendirilmiş oradan gidelim. 200 bin liranın aylık getirisi stopaj sonrası aşağı yukarı 3 bin lira eder. siz bu parayla geçinecek standartları kabullenerek yaşamaya başladınız.<br/><br/>öncelikle hükümet faizleri zorla baskılamaya çalışıyor. mevduat faizleri muhtemelen düşmeye devam edecek, yani beklenti o ki siz şu an 3 bin lira faiz getirisi aldığınız anaparanızdan bu yaz aylarında belki de 2500 lira bile alamaz hale geleceksiniz. bu hükümetin faizleri düşürme hususunda başarılı olduğu senaryo için geçerli tabii.<br/><br/>1994’teki krizde olduğu gibi zorla faiz düşüreyim derken dolar kurunu patlatırsa mevduat faizleri belki de senelik %30-35 bandına kadar yükselecek ama kurun 8-9 liralara kadar fırlamasından sonra yaşanacak enflasyondaki yükselişle sizin faiz getiriniz aylık 5 bin lira olsa bile o parayla bugünkü standartlarınızı tutturamayabilirsiniz. bu da hükümetin faizleri düşürmede başarısız olduğu senaryoda yaşanacaklardı. <br/><br/>işin özü aslında türk lirasıyla yatırım yapmadaki büyük riskte yatıyor. türk lirası ile bakkaldan ekmek alın, market alışverişi yapın ama tasarruf yapmayın çünkü riski yüksek. sen senelik %20 faiz alıyorum diye sevinirken dolar kuru bir ayda %30 yükseldiğinde sinirden duvarı yumruklayabilirsin.<br/><br/>diğer alternatif amerikan dolarına çevirip onun faizini yemektir. türk lirası kadar yüksek bir faiz alınmaz bu doğru amma velakin şu an ortalamada dolar mevduata senelik %4 civarı bir faiz veren az sayıda ülkeden birisiyiz. üstüne üstlük türkiye’de milli gelir tl bazında büyüse dahi dolar bazında ya küçülecek ya da yerinde sayacak. bu da aylık dolar getirisinin değerini korumasında etkili olur.<br/><br/>şu anki kurdan 200 bin lira 38 bin dolar eder, bu da aylık 100-110 dolar arası bir getiri sağlar. tl bazında şu an 550 lira eder ama yeni bir kur atağı yaşandığında bu para 1000 lira bile edebilir çünkü türk lirası enflasyonist bir para birimidir ve güvenilmezdir. türkiye’de yaşadığınızı kabul edersek dolar bazında ana paranızın korunması ciddi bir güvencedir. yok yurt dışı yerleşikseniz, dünya’da kimseye verilmeyen bir dolar faizi aldığınız için paranızın değer artışı gene de çok yüksektir.<br/><br/>diğer seçeneğe bakalım, ev alıp kiraya verirseniz fiziki olarak ev varlığını koruduğundan dolayı kirayla dolar faizinde olduğu gibi istediğinizi yapabilirsiniz. ayrıca kira gelirinizin de normal şartlarda her sene güncel enflasyon oranında yükseleceğini düşünebiliriz. dolayısıyla kirayı istediğiniz gibi harcayabilirsiniz. <br/><br/>200 bin liralık evden aşağı yukarı 850-900 lira kira geliri elde edebilirsiniz. bunun da senelik kabaca %10-15’ini kira geliri vergisi olarak öderseniz cebinize aylık ortalama 750-800 lira civarı bir para kalır. dolara karşı miktar fazla dahi olda temelde iki riski vardır.<br/><br/>1) kiranızı düzgün bir şekilde ödeyecek kiracı ve evin içine etmeyecek kiracı bulmak kolay değildir.<br/><br/>2) apartman ve evin temel demirbaşlarının sıkıntı yaratmamasından emin olmak gerekir yoksa bu getiri azalır. <br/><br/>ama tabii standart bir ev tanımı aslında yoktur. mesela üniversitelere yakın bir bölgede ev sahipleri nasılsa öğrenci her yerde yaşar diyerek eve masraf yapmaz ve ayrıca öğrenciler 2-3 kişi kaldığından dolayı da evin kira çarpanını yükseltirler. <br/><br/>ya da aşırı lüks bölgelerdeki sitelerde, diplomatların ve expatların sık yaşadığı yerlerde genellikle lüks möbleli kiralanan site içi lokasyonlarda da kira çarpanının 150’ye kadar düştüğü görülebilir. bu yüzden dolar ya da tl olsun mevduatın aksine ev örneğinde spesifik lokasyon denklemi değiştirecektir. bu yüzden yukarıdaki hesap ortalama bir ev için yapılmıştır. <br/><br/>dolayısıyla evin riskleri daha doğrusu belirsizlikleri vardır. bu yüzden az da olsa dolara nazaran aylık getirisi bir kur şoku yaşanmadıkça biraz yüksektir. türk lirasının ise evden çok daha fazla ve sıkıntılı belirsizlikleri vardır. bu nedenle faiz getirisi eve nazaran çok çok yüksektir ama bu faiz getirisi her ay harcanırsa 10 sene sonra 200 bin lira = 30 bin lira bile olabilir.<br/><br/>ama bütün kirayı ya da bütün dolar faizini de 10 sene boyunca yeseniz 10 sene sonra 1 ev = 1 ev olarak ya da 38 bin dolar = 38 bin dolar olarak kalacaktır, ya da sizi kırmayayım 36-37 de olabilir.<br/><br/>aslında dolar’da da enflasyon vardır ama bu enflasyon türkiye gibi yerinde sayan bir ülke için pek hissedilmeyebilir çünkü milli geliri dolar bazında büyüyemeyen bir ülkede aynı dolar sizi aynı standartlarda yaşatabilir. bunu anlamak için aslında 38 bin dolar ile 10 sene önce neler yapılabileceğine bakmanız kafidir.<br/><br/>kısacası ister ev alın, ister tl ister dolar mevduat yapın ama yapılacak en salakça hareket paranızı tl mevduata yatırıp her ay faiz getirisini yemek olacaktır. o paranın o kadar hızlı değer kaybettiğini görürsünüz ki kendinizi kafanızı duvarlara vururken bulmanız çok uzun sürmez. zaten faiz getirisinin kendisi bile hızla değer kaybettiğinde o parayla geçinilemeyeceğini de anlamak çok zaman almaz.
   entry_channels: anket,ekonomi
 - entry_name: |
+    billy porter'ın oscar'a damga vuran kıyafeti
+  entry_id:  87089944
+  entry_writer: johanericcalvinelmander
+  entry_fav_count: 112
+  entry_content: |
+    oscar'ın özetidir.<br/><br/>zenci. check.<br/>gay. check.<br/>sıradan bir tip. check.<br/><br/>tebrikler, oscar kazandınız.
+  entry_channels: sinema,moda,magazin
+- entry_name: |
     düz dünya teorisi
   entry_id:  87085547
   entry_writer: efthio
-  entry_fav_count: 97
+  entry_fav_count: 100
   entry_content: |
     (bkz: bir delil ile 40 alimi yendim ama 40 delil ile bir cahili yenemedim)
   entry_channels: bilim
@@ -131,69 +147,61 @@ data:
     geçen haftasonu kahve içmek için starbucks’a gittik, eşim ve iki yaşında kızımla birlikte. kendimize kahve istedik, kızımız için de küçük bir bardağa süt istedik. barista küçük hanımın ismi nedir diye sordu, söyledik. siparişlerimiz hazırlanınca duru hanım’ın sütü hazır diye seslendi, kızımın o anki şaşkınlığının, mutluluğunun gerçekten tarifi imkansızdı. o yoğunlukta bu inceliği akıl etmek ve uygulamak ayrı güzel, ufacık bir çocuğu bu kadar ufak bir detayla mutlu etmesi apayrı güzeldi.
   entry_channels: anket,ilişkiler,sağlık,eğitim
 - entry_name: |
-    kürt böreği
-  entry_id:  87088809
-  entry_writer: vpx
-  entry_fav_count: 93
+    istanbul'daki seyir zevki en yüksek ulaşım hattı
+  entry_id:  87098458
+  entry_writer: usuyoruz joppps reis
+  entry_fav_count: 87
   entry_content: |
-    (bkz: <a class="b" href="/?q=do%c4%9fu+k%c3%b6kenli+t%c3%bcrk+vatanda%c5%9f%c4%b1+b%c3%b6re%c4%9fi">doğu kökenli türk vatandaşı böreği</a>)
-  entry_channels: yeme-içme
-- entry_name: |
-    cnn türk'te zam kelimesinin yasaklanması
-  entry_id:  87102994
-  entry_writer: tabudeviren
-  entry_fav_count: 91
-  entry_content: |
-    eski bir <a class="b" href="/?q=cnn+t%c3%bcrk">cnn türk</a> çalışanı olan <a class="b" href="/?q=ay%c5%9fenur+arslan">ayşenur arslan</a>'ın <a rel="nofollow noopener" class="url" target="_blank" href="http://halktv.com.tr/cnn-turk-editorlerine-zam-kelimesi-yasaklandi-374118" title="http://halktv.com.tr/cnn-turk-editorlerine-zam-kelimesi-yasaklandi-374118">iddiası.</a><br/>-----<br/>ayşenur arslan bugünkü yazısında “anlatmadan geçemeyeceğim cnn türk editörleri geçen gün haber toplantısında şu talimatı aldılar: “haberlerde zam sözcüğü hiçbir vesile, hiçbir gerekçeyle geçmeyecek. her gün, tanzim satış merkezlerine gidilip uygulamadan memnun vatandaş röportajları yapılacak.”<br/>-----<br/>iddia bugün doğrulandı. cnn türk <a class="b" href="/?q=25+%c5%9fubat+2019+akaryak%c4%b1t+zamm%c4%b1">25 şubat 2019 akaryakıt zammı</a> haberi:<br/>"motorin ve benzin fiyatları artırıldı." cnn türk, <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/cnnturk/status/1100054695714979840" title="https://twitter.com/cnnturk/status/1100054695714979840">25 şubat 2019</a><br/><br/>şu da henüz 1,5 ay önceki haber:<br/>"motorin ve benzine zam" cnn türk, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.cnnturk.com/ekonomi/motorin-ve-benzine-zam" title="https://www.cnnturk.com/ekonomi/motorin-ve-benzine-zam">18 ocak 2019</a><br/><br/>(bkz: <a class="b" href="/?q=1984">1984</a>)<br/>(bkz: <a class="b" href="/?q=ekme%c4%9fe+zam+yap%c4%b1lmad%c4%b1+fiyatlar+artt%c4%b1">ekmeğe zam yapılmadı fiyatlar arttı</a>)<br/>(bkz: <a class="b" href="/?q=21+mart+2018+do%c4%9fan+medya+grubunun+sat%c4%b1lmas%c4%b1">21 mart 2018 doğan medya grubunun satılması</a>)
-  entry_channels: siyaset,haber,ekonomi
+    1- 251 nolu mecidiyeköy-pendik çift katlı otobüsünün üst kattaki en ön koltuğunda boğaz köprüsü geçişi<br/>2- vapur hatları<br/>3- 500t ile ilk duraktan son durağa yapılan astral seyahat
+  entry_channels: 
 - entry_name: |
     babayla geçirilen mutlu anlar
   entry_id:  87103449
   entry_writer: sozlugun romantizm abidesi
-  entry_fav_count: 66
+  entry_fav_count: 84
   entry_content: |
     basit ama içe işleyen anlardır.<br/><br/>lisedeyim.<br/>ankaranin en iyi anadolu lisesini kazanmışım, hazırlıktayım daha, bambaşka bir ortam, nevrim dönmüş alışana kadar, sevinemiyorum bile.<br/><br/>okulun daha ilk günleri, bir sürü ingilizce kitap istemişler, orijinalleri dünya para, babam olgunlar'dan korsanlarını bulmuş. o gün öğle arası getirecek.<br/>neyse biz araya girdik, babam aradı, geldi, kitapları verirken bi de çikolata verdi bana. ülker caramio. bi tane de kendine çıkardı cebinden, açtı.<br/>öyle sessizce yedik okulun duvarlarında oturup.<br/><br/>o beş on dakikada babamın benimle duyduğu gururu, okulun istediği kitapların orijinallerini alamamanın burukluğunu, kardeşlerimden habersiz yediğimiz çikolatanın suçluluğunu, bi sürü bişeyi hissetmişimdir.<br/><br/>şimdi film sahnesi gibi gözümün önüne geliyor o an.<br/><br/>caramio'yu da üretmiyor artık ülker.<br/><br/>edit: üretiyormuş, paketi değişmiş<sup class="ab"><a title="(bkz: kıps)" href="/?q=k%c4%b1ps" data-query="kıps">*</a></sup>
   entry_channels: anket,ilişkiler
 - entry_name: |
-    berat albayrak'tan 2.5 milyon istihdam müjdesi
-  entry_id:  87102886
-  entry_writer: chapanoglu
-  entry_fav_count: 60
-  entry_content: |
-    az once haberlerde denk geldigim vaad. önce kovup, sonra işe alacaklar herhalde.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/ekonomi/201902251037860933-berat-albayrak-istihdam-ekonomi/" title="https://tr.sputniknews.com/ekonomi/201902251037860933-berat-albayrak-istihdam-ekonomi/">kaynak</a> <br/><br/>edit: kaynak eklendi<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/amp/s/www.yenisafak.com/amphtml/ekonomi/basbakan-yildirim-1-yilda-15-milyon-istihdam-sagladik-2937018" title="https://www.google.com/amp/s/www.yenisafak.com/amphtml/ekonomi/basbakan-yildirim-1-yilda-15-milyon-istihdam-sagladik-2937018">kaynak 2</a> <br/><br/>edit 2: gerasimdoresenko'nun ilettigi uzere daha gecen de 1.5 milyon istihdam saglanmis.
-  entry_channels: haber,ekonomi
-- entry_name: |
-    31 mart 2019 akp'nin %35'in altına düşmesi
-  entry_id:  87079039
-  entry_writer: master of life
-  entry_fav_count: 60
-  entry_content: |
-    türkiye’de 55 yaş üstü nüfus yaklaşık olarak 14 milyon civarı.<br/><br/>55 yaş üstünün çoğu kıraathanelerde zaman öldürüp cami çıkışlarında ve kıraathanelerde dönen muhabbetlerle sosyo-kültürel dağarcığını geliştirebiliyor; yani sıfır bilgi üstüne sıfır bilgi koyuyor. bu popülasyona dahil kadın nüfusunun çoğu ev hanımı. bu da ayrı bir sosyo-kültürel sınırlama.<br/><br/>o yüzden, siz siz olun 35% gibi hayallere kapılmayın. ne yazık ki bu ülkenin 14 milyonu hala 1980’lerde yaşıyor, hatta ülkeyi ve dünyayı mahallesindeki sokaktan ibaret sanıyor.
-  entry_channels: siyaset
-- entry_name: |
     çayı şekersiz içmek
   entry_id:  87087942
   entry_writer: modernkaradenizli
-  entry_fav_count: 56
+  entry_fav_count: 58
   entry_content: |
     bırakın kılışeleri, yıllardır şekersiz içiyorum çayın gerçek tadı olayı yalan, sıcak bir içecek işte. az şeker atarsan az tatlı sıcak içecek, çok şeker atarsan çok tatlı sıcak içecek olur, sonuçta hepsi çay işte.
   entry_channels: sağlık,yeme-içme
 - entry_name: |
-    5.56 mm vs 7.62 mm
-  entry_id:  87088536
-  entry_writer: ckcozr
-  entry_fav_count: 55
-  entry_content: |
-    (bkz: <a class="b" href="/?q=pubg+oynayanlar+bu+ba%c5%9fl%c4%b1k+alt%c4%b1nda+toplan%c4%b1yor">pubg oynayanlar bu başlık altında toplanıyor</a>)
-  entry_channels: anket,teknoloji
-- entry_name: |
     patron yalakalarının genel özellikleri
   entry_id:  87098935
   entry_writer: mrtbsrk
-  entry_fav_count: 51
+  entry_fav_count: 52
   entry_content: |
     <a class="b" href="/?q=%c3%b6%c4%9fretmenim+ahmet+beni+konu%c5%9fturuyor.">öğretmenim ahmet beni konuşturuyor.</a>
   entry_channels: 
+- entry_name: |
+    gökhan gönül
+  entry_id:  87107439
+  entry_writer: adler91
+  entry_fav_count: 47
+  entry_content: |
+    golü attı ve karakteri gereği gol attıktan sonra sevinmedi, helal olsun. fenerliler bir de "para göz" şöyle böyle diyorlardı. tolgay bize atmış olsa kendini yerden yere atar üstüne dürüm söylerdi:)
+  entry_channels: spor
+- entry_name: |
+    ali koç
+  entry_id:  87081343
+  entry_writer: miniminter
+  entry_fav_count: 46
+  entry_content: |
+    paranızın amına koyarım ulan amk yalaka ekşicileri sizi buradan da mı paspas çekiyorsunuz ? <br/><br/>fenerbahçe 600 milyon euro borçta da olsa 600 milyar euro borçta da olsa 22 maçta 24 puan toplayıp, 15.sırada olmak yetmezmiş gibi don değiştirir gibi devre arası olmadan 3 tane hoca ile çalışmaz.<br/><br/>yaptığın transferler bir boka benzese takım şansızlıktan buralara gelse tamam amk ama bir anadolu kulübünün scouting ekibi bile senden iyi oyuncular bulabiliyor hayır nedir çok mu arıyorsunuz bu oyuncularını şerefini siktiğimin evlatları ? <br/><br/>yemin ederim bana 1 milyon euro ayırsaydın ben sana 4 tane afrikalı topçu alırdım stoper-forvet-sağ ve sol kanat olarak, hem fizikli hemde hızlı yemin ederim şu deli paralar saydığın adamlardan daha çok katkı sağlarlardı.<br/><br/>comollinin doğduğu memlekette ki bütün yaşam forumlarının zürriyetini sikeyim ben hala takımda tutuyorsun birde daşak geçermiş gibi 20 milyon insanla.<br/><br/>aha sana paranın alanayacağı şeyler, başarı mesela alamadın paranla ve zarar ettik üstelik, bide ali koç bey yarın sizinde buranıza kadar gelirse lütfen ne yatırım yaptıysanız geri çekin kulüpten parasıydı sponsoruydu sonra bir ton lad etme gittikten sonra yok şöyle para yatırdım böyle destek oldum diye.<br/><br/>başarı da istemedik ha fkkfska tek istediğimiz gururla sokakta söyleyeceğimiz bir takımdı, dedik tamam mali sorun var bu sene kiralıktı ucuzdu orta sıralarda bitiririz düzlüğe çıkmaya çalışırız diye ama sen resmen bir aziz kadar para harcadın ve küme düşüyoruz şaka gibi.<br/><br/>türk futbolunun amına koyayım zaten bok götürüyordu bari fenerbahçemiz var diyelim dedik, demez olaydık.<br/><br/>bu sezon düşersek diyelim zaten bittin ama seneye yine benzer saçmalıklarla uğraştırırsan öyle bir indirirler ki seni oradan paranla bile oturamazsın.
+  entry_channels: spor,haber,ekonomi
+- entry_name: |
+    sabahattin ali
+  entry_id:  87090077
+  entry_writer: curvaturkey
+  entry_fav_count: 39
+  entry_content: |
+    "dünyada bir tek insana inanmıştım. o kadar çok inanmıştım ki, bunda aldanmış olmak, bende artık inanmak kudreti bırakmamıştı."<br/><br/>112. yaş günü olan muhteşem insan.
+  entry_channels: sanat,tarih,edebiyat
 - entry_name: |
     türkiye antartika'da bilim üssü kurdu
   entry_id:  87089582
@@ -206,74 +214,42 @@ data:
     91. oscar ödül töreni
   entry_id:  87083080
   entry_writer: healtheworld
-  entry_fav_count: 37
+  entry_fav_count: 38
   entry_content: |
     rami malek ödül aldı. freddie mercury'nin adını bile anmadı. sadece eşçinsel ve göçmen bir adam olduğunu ve göçmen olması yönüyle benzer olduklarından bahsetti. sayesinde ödül aldığı adam için bir iki güzel şey söyleyebilirdi. çünkü onu özel yapan eşçinsel ya da göçmen olması değil. sanatıydı.
   entry_channels: anket,sanat,sinema,haber,magazin
 - entry_name: |
-    geceye bir patron zırvası bırak
-  entry_id:  87075606
-  entry_writer: burchina93
-  entry_fav_count: 30
-  entry_content: |
-    biz bir aileyiz ve sizi mutlu edebilmek için büyümemiz gerek büyümek için daha çok çalışmak gerek..biz büyüyelim ki siz daha mutlu olun..şirket %200 büyür ama sizin zam oranınız yalnızca %10 olur..ama neden böyle oldu ki diye sorduğunuzda da eeee dışarda bizim gibi olan şirketler çalışanlarına % 4 yapmış cevabını alırsınız..hani aileydik hani büyüyünce bizde büyüyecektik
-  entry_channels: anket,ekonomi
-- entry_name: |
-    hastası olunan sözler
-  entry_id:  87080641
-  entry_writer: byslymn0
-  entry_fav_count: 26
-  entry_content: |
-    orman küçülüyordu ama ağaçlar balta için oy kullanmaya devam ettiler...<br/>çünkü sapı tahtadandı ve kendilerinden sandılar.
-  entry_channels: anket,ilişkiler,edebiyat
-- entry_name: |
-    eski sevgilinin unutulduğunun anlaşıldığı anlar
-  entry_id:  87095333
-  entry_writer: rahmetlinin kabri bundan sonra kerhane
-  entry_fav_count: 23
-  entry_content: |
-    her yeni cinsel ilişkide penisin sertleşerek kalkıverdiği andır kuşkusuz.<br/><br/>gayet kaba, incelikten uzak bir görüş gibi gelebilir ama kanaatimce penis kalkıyor, o vajina da ıslanıyor ise bu düpedüz ''hayat devam ediyor'' demektir.<br/><br/>cinsel organların birçok olumsuz şeye aldırış etmeden sergileyebildikleri bu tür şehevi patavatsızlıklara hayranım doğrusu.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     25 şubat 2019 beşiktaş fenerbahçe maçı
-  entry_id:  87078171
-  entry_writer: yedinci element
-  entry_fav_count: 22
+  entry_id:  87108195
+  entry_writer: ciscoutb
+  entry_fav_count: 35
   entry_content: |
-    fenerli arkadaşlar alınmasın. ama bir gs'lı olarak 100 sene yaşasam fener'i 16-17'de göreceğim aklıma gelmezdi. gerçekten de 100 yılda bir olan olaya şahitlik ediyoruz bu sene.<br/><br/>bu yüzden bu "kümede kal fener" geyiğinin mümkün oldukça uzun sürmesini istiyorum. bir kerelik bir muhabbet yani bu. bir daha böyle bir fırsat ele geçmez. çocuklarımız falan fener'i 16'da bi daha zor görür yani. o yüzden keyfini çıkaralım. türkiye kupası geyiği bitti 2011'de bu bari biraz sürsün.<br/><br/>sonuç olarak beşiktaş'ı desteklediğim maçtır. bastır kartal. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+    yorumcu; “fenerbahçe’nin şoku atlatması için 3-4 pas arka arkaya yapması gerekir” diyor. hiç bu kadar küçük düşürülmemiştim.
+  entry_channels: spor
+- entry_name: |
+    sadık çiftpınar
+  entry_id:  87109327
+  entry_writer: adam olmayacak cocuk
+  entry_fav_count: 31
+  entry_content: |
+    tanzim puyolu. aq.
   entry_channels: spor
 - entry_name: |
     kara çarşaflı kadınların daha seksi olması
   entry_id:  87106238
   entry_writer: absolutzer0
-  entry_fav_count: 21
+  entry_fav_count: 31
   entry_content: |
     kara çarşaflı bir kadın olarak katıldığım tespit.
   entry_channels: 
 - entry_name: |
-    bir japonun yılda ortalam 68 kilogram balık yemesi
-  entry_id:  87104169
-  entry_writer: yuzbasi lazard
-  entry_fav_count: 21
+    geceye bir patron zırvası bırak
+  entry_id:  87075606
+  entry_writer: burchina93
+  entry_fav_count: 31
   entry_content: |
-    sonra adamlar neden zeki böyle diyoruz. adamların damarlardan fosfor akıyo abi sen hala bulgur pilavını göm kazan kazan bi de bizim çocuk okumuyo diye sızlan dur. okumaz tabi o çocuk nöronlar komple bulgur dolu ne yapsın...
-  entry_channels: sağlık,haber,yeme-içme
-- entry_name: |
-    25 şubat 2019 akaryakıt zammı
-  entry_id:  87101811
-  entry_writer: silver raven
-  entry_fav_count: 21
-  entry_content: |
-    patlıcanı 2 tl ucuz satıp, benzine 16, mazota 24 kuruş zam yaptılar;<br/>amk, kazığı katı halden sıvı hale geçirip bi şekilde yine soktular.
-  entry_channels: haber,ekonomi
-- entry_name: |
-    doğu kökenli türkiye vatandaşı böreği
-  entry_id:  87100581
-  entry_writer: ludwigwittgenstein
-  entry_fav_count: 18
-  entry_content: |
-    (bkz: <a class="b" href="/?q=halklar%c4%b1n+demokratik+b%c3%b6re%c4%9fi">halkların demokratik böreği</a>)
-  entry_channels: yeme-içme
+    biz bir aileyiz ve sizi mutlu edebilmek için büyümemiz gerek büyümek için daha çok çalışmak gerek..biz büyüyelim ki siz daha mutlu olun..şirket %200 büyür ama sizin zam oranınız yalnızca %10 olur..ama neden böyle oldu ki diye sorduğunuzda da eeee dışarda bizim gibi olan şirketler çalışanlarına % 4 yapmış cevabını alırsınız..hani aileydik hani büyüyünce bizde büyüyecektik
+  entry_channels: anket,ekonomi
 - entry_name: |
     25 şubat 2019 fikret orman ali koç ortak yayını
   entry_id:  87088050
@@ -283,109 +259,125 @@ data:
     '' abi ligin dibine demir atmışız hala ortak yayın,centilmenlik zart zurt.''<br/><br/>centilmenliğin iki takımın ligdeki pozisyonları ile alakalı olduğunu düşünen insanlar var. inanılmaz gerçekten.
   entry_channels: spor
 - entry_name: |
-    gökhan gönül
-  entry_id:  87107439
-  entry_writer: adler91
-  entry_fav_count: 17
-  entry_content: |
-    golü attı ve karakteri gereği gol attıktan sonra sevinmedi, helal olsun. fenerliler bir de "para göz" şöyle böyle diyorlardı. tolgay bize atmış olsa kendini yerden yere atar üstüne dürüm söylerdi:)
-  entry_channels: spor
-- entry_name: |
     fenerbahçe'nin küme düşmesi
   entry_id:  87079353
   entry_writer: ahmetist1181
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     kasımpaşa, bursa, erzurum, göztepe ve akhisar bizden bile kötü gidiyorlar. oynadığımız futbol pek umut vermese de önümüzdeki 6 maçtan (bjk, rize, başak, sivas, ankaragücü, gs) alacağımız 6 puan kümede kalmamıza yeter. son 6 maçtan zaten 10-12 arası puan alırız diye düşünüyorum. <br/>31. hafta kasımpaşa<br/>32. hafta akhisar (i)<br/>33. hafta erzurum (d)<br/>34. hafta antalya (i) maçları hedef maçlarımız olur. rakının dibine vurarak izleriz artık.<br/>tüm renktaşlarımın akıl sağlıklarını korumalarını diler, bizimle alay eden rakiplere de saygılarımı sunarım.
   entry_channels: spor
 - entry_name: |
-    ali koç
-  entry_id:  87081343
-  entry_writer: miniminter
-  entry_fav_count: 14
+    ersun yanal
+  entry_id:  87107909
+  entry_writer: dewy
+  entry_fav_count: 15
   entry_content: |
-    paranızın amına koyarım ulan amk yalaka ekşicileri sizi buradan da mı paspas çekiyorsunuz ? <br/><br/>fenerbahçe 600 milyon euro borçta da olsa 600 milyar euro borçta da olsa 22 maçta 24 puan toplayıp, 15.sırada olmak yetmezmiş gibi don değiştirir gibi devre arası olmadan 3 tane hoca ile çalışmaz.<br/><br/>yaptığın transferler bir boka benzese takım şansızlıktan buralara gelse tamam amk ama bir anadolu kulübünün scouting ekibi bile senden iyi oyuncular bulabiliyor hayır nedir çok mu arıyorsunuz bu oyuncularını şerefini siktiğimin evlatları ? <br/><br/>yemin ederim bana 1 milyon euro ayırsaydın ben sana 4 tane afrikalı topçu alırdım stoper-forvet-sağ ve sol kanat olarak, hem fizikli hemde hızlı yemin ederim şu deli paralar saydığın adamlardan daha çok katkı sağlarlardı.<br/><br/>comollinin doğduğu memlekette ki bütün yaşam forumlarının zürriyetini sikeyim ben hala takımda tutuyorsun birde daşak geçermiş gibi 20 milyon insanla.<br/><br/>aha sana paranın alanayacağı şeyler, başarı mesela alamadın paranla ve zarar ettik üstelik, bide ali koç bey yarın sizinde buranıza kadar gelirse lütfen ne yatırım yaptıysanız geri çekin kulüpten parasıydı sponsoruydu sonra bir ton lad etme gittikten sonra yok şöyle para yatırdım böyle destek oldum diye.<br/><br/>başarı da istemedik ha fkkfska tek istediğimiz gururla sokakta söyleyeceğimiz bir takımdı, dedik tamam mali sorun var bu sene kiralıktı ucuzdu orta sıralarda bitiririz düzlüğe çıkmaya çalışırız diye ama sen resmen bir aziz kadar para harcadın ve küme düşüyoruz şaka gibi.<br/><br/>türk futbolunun amına koyayım zaten bok götürüyordu bari fenerbahçemiz var diyelim dedik, demez olaydık.<br/><br/>bu sezon düşersek diyelim zaten bittin ama seneye yine benzer saçmalıklarla uğraştırırsan öyle bir indirirler ki seni oradan paranla bile oturamazsın.
-  entry_channels: spor,haber,ekonomi
+    aykut kocaman'a laf edenler dakika 18 de "uc uc uc" seslerini duyuyordur umarim.<br/><br/>t: bu kahinatin en buyuk balonudur.<br/><br/>edit: 3 de oldu. merakla bekliyorum efsane teknik direktorumuz ne twit atacak.
+  entry_channels: spor
 - entry_name: |
-    hayata dair gülümseten detaylar
-  entry_id:  87082485
-  entry_writer: kucuk insomnik
-  entry_fav_count: 11
+    aykut kocaman
+  entry_id:  87108268
+  entry_writer: excelsior was here
+  entry_fav_count: 12
   entry_content: |
-    aziz nesin moskova’ya gitmiş. çevirmen olarak türkoloji’yi yeni bitirmiş vera adlı genç bir kızı vermişler yanına.<br/><br/>“ne kadar şanslıyım,” demiş vera. “mezun olur olmaz sizin gibi ünlü bir yazara çevirmenlik yapıyorum.<br/><br/>üstelik iki gün sonra yaşar kemal geliyor, o’nun çevirmeni olarak da beni görevlendirdiler. türkçemi ilerleteceğim.”<br/><br/>“boşuna sevinme,” demiş aziz nesin. “yaşar türkçe bilmez.”<br/><br/>vera şaşkın… “türkçe bilmez mi?”<br/><br/>“bilmez…”<br/><br/>iki gün sonra yaşar kemal’i karşılamış vera.<br/><br/>yaşar kemal, “merhaba bacım” demiş. sarılmış vera’nın boynuna.<br/><br/>yanaklarından öpmüş. şakır şakır konuşmaya başlamış.<br/><br/>vera yine şaşırmış:<br/><br/>“ne kadar güzel türkçe konuşuyorsunuz.”<br/><br/>şaşırma sırası yaşar kemal’e gelmiş:<br/><br/>”anlayamadım…”<br/><br/>“sizin türkçe bilmediğinizi söylemişlerdi de…”<br/><br/>yaşar kemal gülmüş:<br/><br/>“haa… demek aziz moskova’da!”
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    true detective
-  entry_id:  87094177
-  entry_writer: nice tnetennba
-  entry_fav_count: 10
-  entry_content: |
-    arkadaş, true detective başlığında mıyız yoksa <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcn+ki+o+bunu+okuyor">düşün ki o bunu okuyor</a>'da mıyız belli değil. ilk sezon biteli <a class="b" href="/?q=850+y%c4%b1l">850 yıl</a> oldu, adamlar hala <a class="b" href="/?q=rust+cohle">rust cohle</a> karakterini aşamadılar. vay efendim ilk sezon müthişmiş, ikinci sezon eh işte, üçüncü sezonun allah belasını versinmiş, çünkü ilk sezona hiç benzemiyormuş. <a class="b" href="/?q=rust+cohle+nerede">rust cohle nerede</a>? <a class="b" href="/?q=rust+cohle+nerde">rust cohle nerde</a>?!!! ben <a class="b" href="/?q=rust+cohle">rust cohle</a>'u istiyorum. yeni dedektiflerin, <a class="b" href="/?q=rust+cohle">rust cohle</a> ile alakası yok.<br/><br/>yav ağlama artık evladım, rust yok, rust gitti annem. git kendine başka dizi bul saracak. bırak biz kalanlar da edebimizle iki şey öğrenelim dizi hakkında. ne <a class="b" href="/?q=kafa+siktiniz">kafa siktiniz</a> be, yeterin.<br/><br/><a class="b" href="/?q=blade">blade</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8YzabSdk7ZA" title="https://www.youtube.com/watch?v=8YzabSdk7ZA">britney spears'ın everytime</a> klibi zamanlarından beri sevdiğim <a class="b" href="/?q=stephen+dorff">stephen dorff</a>'u umuyorum ki daha çok görürüz. <a class="b" href="/?q=mahershala+ali">mahershala ali</a> bey hakkında yorum bile yapmayacağım, adam zaten oscar aldı. roland ve wayne'in yaşlı hallerini koy, kalan kısımları kurguda kes, bir allah'ın kulu olayı çakozlamaz, yaşlı rolü yapıyorlar demez... o yavaşlık, o memnuniyetsiz bakışlar, o ketum olma hali, mükemmele yakındı. <br/><br/>üçüncü sezon finali <a class="b" href="/?q=spoiler">spoiler</a>'ı içerir:<br/><br/>başlarda, amelia karakterini seviyorsunuz. kasaba halkına kıyasla açık fikirli, yardımsever bir insan. dedektiflerin yoluna taş koymak yerine, davaya yardımcı olabilmek için elinden geleni yaptığını düşündürüyor. fakat, zaman ilerledikçe, kadının ukdelerini öğreniyor ve eksikliğini hissettiği şeyleri yapabilmek adına, insanlara iyilik satıp onları manipüle ettiğini fark ediyoruz. önce izleyiciyi, sonra wayne'i manipüle ediyor. wayne, kadının onu gerçekten dinlediğini ve ona değer verdiğini sanırken, aslında olan şey; amelia'nın kitap yazmak amacıyla bilgi toplaması. içinde bir yerlerde wayne'i sevmişse bile, birincil amacı kitap yazıp kendini aşabilmekti. hep fazlasını istedi, öğretmenlik etiketini, tek başına yetersiz buldu. çok güzel yazılmış, mükemmel bir karakter. bizler, başrolde wayne ve roland var sanıyoruz belki, hayır dostlarım, bence başrol; amelia ve onun yazdığı kitaptır. her şey de o kitap üzerinden ilerlemiştir. <br/><br/>çoluk çocuğa karışmış ve artık, mutlu bir hayat süren, eskiyi tamamen silmiş julie purcell ile wayne'in karşılaşmasını o kadar güzel bir şekilde verdiler ki bunun adına ne denir bilemiyorum. wayne, julie'nin yanına gitme nedenini hatırlasaydı, kadın, her şeyi en baştan yaşayacaktı. ama naptılar? kadının geçmiş hayatını deşmek yerine, wayne'in alzheimer'ını tetiklettiler. wayne iyi ki nereye neden gittiğini hatırlamadı, iyi ki biz seyirciye duygusal boşalım yaşatmak adına, şerefsizlik yapmadılar. çocuk, en baştan beri yalnız kalmak istiyordu. yalnız kalma isteğini, böylelikle ebedi kıldılar. <br/><br/>roland'ın hayvan düşmanı halinden, bir köpek insanına dönüşmesinin anlatıldığı sahnede gözleri dolmayan insan, gavattır. <br/><br/>reddit'te bir üyenin, sezon finali hakkında yaptığı yorumu bırakayım:<br/><br/>"the series started out with wayne searching for a lost julie and ended with julie returning a lost wayne."
-  entry_channels: tv,sinema,spoiler
+    fenerbahçe hainlerinin yüzünden takımımızdan uzaklaştırılan stephen hawking zekiliğinde kurnaz cevher. bu adamı nasıl kaçırdık elimizden inanılır gibi değil. elbet bir gün yeniden buluşacağız hocam. <br/><br/>(bkz: <a class="b" href="/?q=bir+sevdad%c4%b1r+aykut+kocaman">bir sevdadır aykut kocaman</a>)
+  entry_channels: spor
 - entry_name: |
     rte'nin hayranlık duyulan enerjisi
   entry_id:  87103468
   entry_writer: monoton kokteyli
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     tek adam yönetimlerinde eşine sıklıkla rastlanabilecek türden bir enerji, ondan başkasının pek söz hakkı olmadığından.
   entry_channels: siyaset,sağlık
 - entry_name: |
-    canberk sağnak'a destek oluyoruz
-  entry_id:  87091105
-  entry_writer: thugger
+    burak yılmaz
+  entry_id:  87095160
+  entry_writer: owencan
   entry_fav_count: 9
   entry_content: |
-    merhaba,<br/><br/>canberk sağnak 28 yaşında, 22 yıldır ağır bir kas hastalığı türü olan duchenne muscular dystrophy ile savaşıyor. kas hastalığında nefes alma problemi olduğu için elektrikli bir makinayla hayatını devam ettirmeye çalışıyordu ancak, yaşadığı bölgede yaşanan elektrik kesintileri onun için oldukça tehlikeli olmaya başladı. bu yüzden kendisine şarj edilebilir bir cihaz alınması gerekiyor ve cihaz 23.000 tl değerinde.<br/><br/>hikayesini daha detaylı okumak ve destek olmak için <a rel="nofollow noopener" class="url" target="_blank" href="https://www.fongogo.com/Project/kas-hastasi-canberk-dostunuzun-gucsuzlesen-kaslarina-guc-olmak?fbclid=IwAR22z32Fr4InaQ4LHqUNIEf4haJ-sQtt29IogEygZEuFFNZ84aev7avAEws" title="https://www.fongogo.com/Project/kas-hastasi-canberk-dostunuzun-gucsuzlesen-kaslarina-guc-olmak?fbclid=IwAR22z32Fr4InaQ4LHqUNIEf4haJ-sQtt29IogEygZEuFFNZ84aev7avAEws">linke</a> tıklayabilirsiniz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Lfo4mzVpDA4" title="https://www.youtube.com/watch?v=Lfo4mzVpDA4">kendisinin destek istediği video</a>
-  entry_channels: sağlık,ekonomi
-- entry_name: |
-    ersun yanal
-  entry_id:  87108595
-  entry_writer: cicho1907
-  entry_fav_count: 4
-  entry_content: |
-    fenerbahçede sportif olarak sadece aykut kocamanın yardımcısı olabilecek adamı, twitter salaklarının twiteriyle getiren başkan gurur duysun bu rezaletten.
+    bugün sadık ve serdar ikilisinin kariyeriyle oynayacak olan vasat forvet. fenerbahçe gibi küme düşmemeye oynayan anadolu takımlarına hiç acımıyor kral.
   entry_channels: spor
+- entry_name: |
+    lady gaga
+  entry_id:  87090657
+  entry_writer: the good the bad the gudubet
+  entry_fav_count: 8
+  entry_content: |
+    istediği kadar grammy, bafta, golden globe, oscar alsın dünya kupasını alamadığı sürece asla bir madonna olamayacaktır.
+  entry_channels: tv,müzik,magazin
+- entry_name: |
+    gunahkar sokaklarin tovbekar cocugu
+  entry_id:  87106197
+  entry_writer: obturator
+  entry_fav_count: 8
+  entry_content: |
+    aha da yazıyorum;<br/><br/>bu orospu çocuğu, döl israfı, örümcek kafalı, cumhuriyet ve atatürk düşmanı şerefsiz irticacı iti bu sözlükte tutanlar utansın amk.<br/><br/>uçurun lan şunu artık!!!
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    fenerbahçe'nin 3-0'dan maçı çevirmesi
+  entry_id:  87110325
+  entry_writer: garipbasci
+  entry_fav_count: 6
+  entry_content: |
+    ersun gelince 19 maçta 19 galibiyet alacağını zannedenlerin yeni ve nemli rüyası.
+  entry_channels: spor,anket
+- entry_name: |
+    bir erkeği tanımanın en kestirme yolu
+  entry_id:  87108322
+  entry_writer: beyazbirsayfaactim red
+  entry_fav_count: 5
+  entry_content: |
+    ona vermemektir.<br/><br/>sizinle cinsellik için mi birlikte olmak istiyor yoksa, sevişmeden uyuyalım duygusallığında mı, bunu anlamanın en garanti yolu budur.<br/><br/>er kişisi ile cinselliğin olmadığı bir ilişkiyi uzun vadede sürdürür ve bu durum er kişinin size olan hislerini törpülemeyip tersine daha da güçlendiriyorsa o erkek doğru erkektir.<br/><br/>yok er kişisi daha ilk buluşmada partnerine kur yapan taklacı erkek güvercin gibi sizi yatağa atmak için olmadık şaklamanlıklar yapıyor ise; daha yolun başında götüne tekmeyi yapıştırın o erilin. ondan size hayır gelmez.
+  entry_channels: 
 - entry_name: |
     shinji kagawa
   entry_id:  87085008
   entry_writer: balevso
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     adam hazır değilse kulübede oturur, başlıycam artık şu denyo hallerinize.<br/><br/>sırf kariyeri iyi diye ilk yarı doğru düzgün maç oynamamış adamı 11'e almak gibi bir zorunluluk yoktur, futboldan falan anladığınız da yok sırf eleştiri yapmak için eleştiriyorsunuz.<br/><br/>yıldırım demirören yeter diye bağıran yıldızcı tayfa kafası bu, şenoy yanında otuytuymuş, hazır değilse oturtur hazırsa oynatır, nokta, sanki her gün antremanda takımı takip ediyor lavuklar, hayret bir şey ...
   entry_channels: spor
 - entry_name: |
-    burhanettin kocamaz
-  entry_id:  87097648
-  entry_writer: her turlu gene gelecem
+    şenol güneş
+  entry_id:  87093129
+  entry_writer: hizli yazamayan katip
+  entry_fav_count: 4
+  entry_content: |
+    son zamanlarda kendisinden pek haz etmesem de, kendisi ile zımba diyerek dalga geçtiğini sanan andavallara bugün zımbalamasını umduğum teknik direktördür. <br/><br/>not: espri kasmayan rakip takım taraftarlarının alınmalarına gerek yoktur.
+  entry_channels: spor
+- entry_name: |
+    volkan demirel
+  entry_id:  87092665
+  entry_writer: caming back
+  entry_fav_count: 3
+  entry_content: |
+    türkiye ligi uzmanı da geldiğine göre şu konuya parmak basayım. bu mal değneği kaos çıkarıp kendisi sakin kalacağı(!) yerde geçen yıl türkiye kupası maçında dünyanın en saçma kırmızı kartını görüp oyun ve oyuncu üstünlüğünü beşiktaş'a vermiş ve maç 2-2 bitmiştir. 30 yıllık fenerbahçeliyim fenerbahçe tarihinde bu balon ve kovadan başka bu kadar abartılan bir oyuncu görmedim.
+  entry_channels: spor
+- entry_name: |
+    sözlük yazarlarının satın aldıkları son kitap
+  entry_id:  87078633
+  entry_writer: karizmatik bir nick olsun
   entry_fav_count: 2
   entry_content: |
-    tam manası ile siyasi bir infaza kurban gitmiştir. yapılan bu operasyon ülkede seçme-seçilme hakkının ileriki dönemde tamamen kısıtlanacağı hakkında sinyaller vermekte. her geçen gün 'o kadarı da olmaz' dediğimiz her şey tek tek gerçekleşiyor.
-  entry_channels: siyaset,tv,haber
+    1984 özel basım<br/><br/>böyle bir eseri uzun zamandır tekrar okumadığım için kendime çok kızıyorum.<br/><br/>not: elimde özel olmayan basım var
+  entry_channels: anket,ekşi-sözlük,edebiyat
 - entry_name: |
-    yenibirparti.org
-  entry_id:  87088187
-  entry_writer: ass fucker
+    tolgay ali arslan
+  entry_id:  87108854
+  entry_writer: neyyy
   entry_fav_count: 1
   entry_content: |
-    trolldür bence. gül-babacan-davutoğlu üçlüsünün parti kıracağına inanan sazanlardan tık kazanırlar.
-  entry_channels: siyaset
+    adam fenerbahçe kaptanlığı yapmış, gelmiş beşiktaş formasıyla fenerbahçe’ye gol atmış ama sevinmiyor. <br/><br/>bizim andaval lavaşçı, forma öpmeler bilmemneler, alttan üstten sürekli bir laf sokmalar. <br/><br/>yahu bunlar milyonlarca euro’luk adamlar. insan bir danışman tutar kendine, bu hareketleri yapayım mı yapmayayım mı? bana faydası mı olur zararı mı olur? en azından baktın yanlış oldu gelir düzeltir yapma bu hareketleri der. ama nerdee??
+  entry_channels: spor
 - entry_name: |
-    yazarların bugünkü mutluluk sebebi
-  entry_id:  87081373
-  entry_writer: jupiteretkisindenkurtulamayanadam
+    fenerbahçe
+  entry_id:  87110548
+  entry_writer: suskungeveze
   entry_fav_count: 1
   entry_content: |
-    3 saati aşkındır artarak devam eden mutluluğum var. <br/>evet bugün pazartesi!<br/>pazartesi,haftanın biteceğini müjdeler ve beni çok mutlu eder.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    seks düşünmeyen erkek
-  entry_id:  87105532
-  entry_writer: getherefast55
-  entry_fav_count: 1
-  entry_content: |
-    yoktur öyle bir şey. insanlığın doğasına terstir bu durum.
-  entry_channels: ilişkiler
+    bir tek bizim yenemedigimiz takım. bak kim olduğumuzu yazmıyorum bile ak.
+  entry_channels: spor
 - entry_name: |
     ekşi itiraf
   entry_id:  87080628
@@ -395,11 +387,19 @@ data:
     hayat öyle değişik ki; bazen bütün boklukları üst üste yolluyor, bu saçmalıklara üzülüyorsun, kalbin kırılıyor ve vazgeçiyorsun her şeyden çünkü yoruluyorsun. ama sonra öyle güzel bir mükâfat veriyor ki sana, dünyanın en güzel tesadüfü senin gülümseme sebebin oluyor. mutluluk doluyor ciğerlerine nefes yerine. vay anasını sayın seyirciler...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    burak yılmaz
-  entry_id:  87095845
-  entry_writer: johanericcalvinelmander
+    bülent yıldırım
+  entry_id:  87109306
+  entry_writer: uaslan
   entry_fav_count: 1
   entry_content: |
-    owencan'ın bir entrysi için "troll mü gerçek mi" sorgulaması yaşatan ilk isim.
-  entry_channels: spor
+    fenerbahçe'ye sezon başından beri yapılan operasyonun bir parçası. sezon başından beri fener'in nereden baksan 80 puanını hakemler yedi. ee ses çıkarmayan, mıy mıy konuşan yönetim olursa böyle acımazlar.
+  entry_channels: spor,siyaset
+- entry_name: |
+    jason momoa'nın kızını taciz etmesi
+  entry_id:  87109503
+  entry_writer: milonguero
+  entry_fav_count: 0
+  entry_content: |
+    siktirin gidin aq.<br/><br/>9 yaşında kızlara kerkinenlerle fazla vakit geçirmekten oluyor bunlar.
+  entry_channels: 
 ---
