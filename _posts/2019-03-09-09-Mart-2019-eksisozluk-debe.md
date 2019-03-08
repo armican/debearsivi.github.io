@@ -6,7 +6,7 @@ data:
     31 mart erdoğan'a darbe girişimidir
   entry_id:  87499273
   entry_writer: crastly
-  entry_fav_count: 1619
+  entry_fav_count: 1636
   entry_content: |
     artık demokrasiyi de iktidarlarına bir düşman olarak gördüklerinin en net ifadesi..
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     üstün dökmen'in başörtülü öğretmen yorumu
   entry_id:  87493982
   entry_writer: run dmc
-  entry_fav_count: 1158
+  entry_fav_count: 1169
   entry_content: |
     üstün dökmen'in okumadığım kitabı azdır. programlarını da izlerim. başörtüsüne karşı olmadığını çok iyi biliyorum. hoca'nın dediğini anlamayan insanların iq seviyesi de ayakkabı numarasını geçmez.
   entry_channels: anket,ilişkiler,eğitim
@@ -22,7 +22,7 @@ data:
     1.90 boyunda yazılımcı esprili 10k maaş alan erkek
   entry_id:  87494987
   entry_writer: medeniyetsizinsan
-  entry_fav_count: 631
+  entry_fav_count: 641
   entry_content: |
     o kadar premium bir erkektir ki gelip bu platformda kendini pazarlar. <br/><br/>(bkz: <a class="b" href="/?q=%c3%bcstteki+arkada%c5%9ftan+biliyorum">üstteki arkadaştan biliyorum</a>)
   entry_channels: anket
@@ -30,23 +30,15 @@ data:
     7 mart 2019 gatgadam'ın uçurulması
   entry_id:  87488436
   entry_writer: etimola
-  entry_fav_count: 496
+  entry_fav_count: 498
   entry_content: |
     gayet yerinde karar olmuş.<br/><br/>ekşi'de güzel şeyler mi oluyor.<br/><br/>edit: imla.<br/><br/>(bkz: <a class="b" href="/?q=8+mart+d%c3%bcnya+emek%c3%a7i+kad%c4%b1nlar+g%c3%bcn%c3%bc">8 mart dünya emekçi kadınlar günü</a>)'nüz kutlu olsun.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    türkiye'ye geri dönmek isteyen ışid'liler
-  entry_id:  87488565
-  entry_writer: ileri iade
-  entry_fav_count: 255
-  entry_content: |
-    bide sanki milletin kafasını kolunu bacağını kesen bunlar değilmiş gibi eski yaşantıma dönmek istiyorum demiş. telefon alıp satıyormuş ona devam edecekmiş, ve bu durumun mümkün olduğunu bilmek bile beni korkutuyor. olmaz öyle şey ahahaha diyememek bile çok korkunç.
-  entry_channels: siyaset,haber
-- entry_name: |
     nusr-et'te kadınlar gününe özel ücretsiz menü
   entry_id:  87480741
   entry_writer: black adam
-  entry_fav_count: 241
+  entry_fav_count: 260
   entry_content: |
     vegan feminist bacılarımızın bile ağzını sulandırmış beleş menüdür. <br/>hadi yine iyisiniz.
   entry_channels: yeme-içme
@@ -54,7 +46,7 @@ data:
     how are you sorusuna verilebilecek cevaplar
   entry_id:  87502010
   entry_writer: polyhymnia
-  entry_fav_count: 233
+  entry_fav_count: 253
   entry_content: |
     fine thanks and you, sit down.
   entry_channels: anket
@@ -62,47 +54,47 @@ data:
     fenerbahçeliler bu hafta mağlubiyete üzülmeyecek
   entry_id:  87491443
   entry_writer: delinquent
-  entry_fav_count: 216
+  entry_fav_count: 218
   entry_content: |
     fenerbahçe'nin kazanmasını istemeyen, hele ki mağlubiyete üzülmeyen fenerbahçeli değildir. net!
   entry_channels: spor
 - entry_name: |
-    polisin üst arama yetkisi
-  entry_id:  87496633
-  entry_writer: lj
-  entry_fav_count: 201
-  entry_content: |
-    makul şüphenin sınırlarının çizilmediği ülkede "hayır memur bey, arayamazsınız" cümlesini şüphe unsuru sayarak göz altına bile alabilir. nerede yaşadığınızı unutmayın sevgili kelebekler.
-  entry_channels: siyaset
-- entry_name: |
-    türk gençliğinin çöplüğe dönmesi
-  entry_id:  87493955
-  entry_writer: ricard mangalyurekli
-  entry_fav_count: 162
-  entry_content: |
-    kendini geliştirmek isteyen iddia edildiği gibi %5 ise, aydınlık günler bizi bekliyor demektir. türkiye'de 20 milyon civarı gencin %5 i, 1 milyon genç yapar. kendini geliştirmeye çalışan 1 miyon genç bu ülkeyi müreffeh seviyeye çok rahat çıkarır.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    8 mart 2019 yeni askerlik modelinin açıklanması
-  entry_id:  87493099
-  entry_writer: rda
-  entry_fav_count: 141
-  entry_content: |
-    bedelli kurası hangi şanslı ailelerin çocuklarına çıkacak acaba? bunlar hep fakirin yüzü gülsün diye. yersen.
-  entry_channels: siyaset,haber,eğitim,ekonomi
-- entry_name: |
     kadın personelini tokatlayan belediye başkanı
   entry_id:  87504838
   entry_writer: trnntkrng
-  entry_fav_count: 132
+  entry_fav_count: 172
   entry_content: |
     muhtemelen olay sonrasinda odadan cikip secim oncesi kadinlara karanfil dagitan bir belediye baskani.
   entry_channels: siyaset,haber
 - entry_name: |
+    türk gençliğinin çöplüğe dönmesi
+  entry_id:  87493955
+  entry_writer: ricard mangalyurekli
+  entry_fav_count: 168
+  entry_content: |
+    kendini geliştirmek isteyen iddia edildiği gibi %5 ise, aydınlık günler bizi bekliyor demektir. türkiye'de 20 milyon civarı gencin %5 i, 1 milyon genç yapar. kendini geliştirmeye çalışan 1 miyon genç bu ülkeyi müreffeh seviyeye çok rahat çıkarır.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    mansur çalar mezopotamya'nın onurudur şerefidir
+  entry_id:  87480839
+  entry_writer: rising star of anatolia
+  entry_fav_count: 161
+  entry_content: |
+    mezopotamya'nın onuru ve şerefinin seviyesi hakkında bir intiba edinilebilecek ifade.
+  entry_channels: spor,siyaset
+- entry_name: |
+    8 mart 2019 yeni askerlik modelinin açıklanması
+  entry_id:  87493099
+  entry_writer: rda
+  entry_fav_count: 143
+  entry_content: |
+    bedelli kurası hangi şanslı ailelerin çocuklarına çıkacak acaba? bunlar hep fakirin yüzü gülsün diye. yersen.
+  entry_channels: siyaset,haber,eğitim,ekonomi
+- entry_name: |
     öğretmenlerin indirimli otobüs kartı kullanması
   entry_id:  87488452
   entry_writer: senolasinurgup
-  entry_fav_count: 108
+  entry_fav_count: 110
   entry_content: |
     polislerin neden bütün şehir içi ulaşım hatlarını ücretsiz kullandığını da merak etmiyor değilim?
   entry_channels: eğitim,ekonomi
@@ -110,7 +102,7 @@ data:
     karınız çok güzel diyen birine teşekkür etmek
   entry_id:  87500338
   entry_writer: ertansahannn
-  entry_fav_count: 98
+  entry_fav_count: 104
   entry_content: |
     -annenizin güzelliğinin gölgesinde kalıyor ama.<br/>diyerek devam edilebilir.
   entry_channels: ilişkiler
@@ -118,7 +110,7 @@ data:
     deniz manzaralı evin önüne dikilen elektrik direği
   entry_id:  87505285
   entry_writer: dunyayi kesfeden adam
-  entry_fav_count: 78
+  entry_fav_count: 85
   entry_content: |
     (bkz: <a class="b" href="/?q=ev+manzaral%c4%b1+denizin+%c3%b6n%c3%bcne+%c3%a7ekilen+direk">ev manzaralı denizin önüne çekilen direk</a>)
   entry_channels: 
@@ -126,7 +118,7 @@ data:
     8 mart dünya emekçi kadınlar günü
   entry_id:  87483407
   entry_writer: mr tenant
-  entry_fav_count: 67
+  entry_fav_count: 68
   entry_content: |
     8 mart dünya kadınlar gününü ben kutlamıyorum.çünkü ortada kutlanacak böyle bir gün yok, saptırılmış, amacından çıkmış bir günü kabul etmiyorum.8 mart 1857 yılında yanarak ölen emekçi kadınların anısına, 1910 yılında öneri üzerine kabul edilmiş bir gün, nasıl olmuşta kutlanması gereken bir gün haline gelmiş anlayamıyorum. ölmüş insanlar yahu, hem de yanarak ölmüş !..neyi kutluyoruz.alışveriş merkezlerinde "kadınlar günü indirimi" yazıyor.evet, tekstil firmasında yanarak ölen kadınların anısına, tekstil ürünlerinde % 30 indirim !.. şaka olmalı.<br/>aklıma geliyor, mesela şöyle bir şey olabilir mi ? 13 mayıs 2014 te soma'da tam 301 erkek feci şekilde can verdi. ve 13 mayısın dünya erkekler günü olarak ilan edildiğini düşünelim. bundan yıllar yıllar sonra da avm'lerde, sokaklarda, meyhanelerde veya sosyal medyada "dünya erkekler gününü" kutlayalım. olmadı değil mi !..yani bugün bir kutlama günü değildir.fakat bir anma günü olabilir. o gün o tekstil fabrikasında yanarak ölen tüm kadınları anma günü mesela. ya da toplumda baskı ve şiddet gören, ezilen, dışlanan tüm kadınları anma günü !.. tüm hanımların önünde saygı ile eğiliyorum ve tüm anaların yüreğinden, ellerinden öpüyorum.
   entry_channels: siyaset,tarih
@@ -142,15 +134,31 @@ data:
     uzman çavuşların şaka maka 11 bin tl alması
   entry_id:  87500324
   entry_writer: olgunmamba
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     öğretmen olmadan önce 9 ay dağlarda gezdim. merak etmeyin dağda gezenin götüne iğne batmıyor. uzman çavuşların da memleket sikinde değil. aldıkları paraya bakarlar. hepsi 7 sene kalıp parayı vurup bırakmak derdinde. ne dalaveralar dönüyor bu askerimsilerde bilmezsiniz. kendi canına bir şey olmasın diye yeni gelenleri öne sürerler. bir şeyi de abartmayın. yok canını koyuyormuş falan. he amk. hepsi öleyim diye gidiyor.
   entry_channels: ekonomi
 - entry_name: |
+    memuriyetten istifa etmek
+  entry_id:  87502833
+  entry_writer: bir yalnizlik isareti
+  entry_fav_count: 51
+  entry_content: |
+    netlik seven bir insan olarak hayatta yapmayacağım eylem. saatin belli, iznin belli, çalışma standartın belli. hayatında anlamsız sürprizlere gerek yok. kurallar var bir kere, bundan daha güzel ne olabilir ki. sıkıcı memur hayatıma bayılıyorum :)
+  entry_channels: siyaset
+- entry_name: |
+    almanya'nın bu kadar güçlü olmasının sebebi
+  entry_id:  87507226
+  entry_writer: komando kani var bende
+  entry_fav_count: 47
+  entry_content: |
+    bana göre <a class="b" href="/?q=ahlak">ahlak</a>'tır. bir toplum istediği kadar çalışkan olsun, zeki olsun olsun, eğitimli olsun ahlak olmadığı sürece sıfırdır. geri kalmıştır.<br/><br/>gidin bakın dünyanın süper güçlerine. hepsi ahlaklı toplumlardan oluşur. birde geri kalmış toplumlara bakın dünyada ki. yalan dolan, üç kağıtçılık, hile hurdanın en çok döndüğü yerler. en çok geri kalan yerler. <br/><br/>ister ateist ister dindar ister budist. ne olursa olsun ahlaklı ise dünyada söz sahibi olur.
+  entry_channels: siyaset,anket,tarih,ekonomi
+- entry_name: |
     yazarların telefonunda kayıtlı ünlüler
   entry_id:  87482682
   entry_writer: necbal
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     <a class="b" href="/?q=sedat+peker">sedat peker</a><br/><br/>not: yeğeniyim
   entry_channels: anket,tv,sanat,müzik,sinema,magazin
@@ -163,42 +171,26 @@ data:
     adam aldığı borcun geri ödemesine haraç yazmış. bugün de "pes" diyecek bir entry buldum çok şükür.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    10 bin tl maaş almak
-  entry_id:  87500810
-  entry_writer: pinokyo
-  entry_fav_count: 41
+    yerli komedi filmi afişlerindeki mavi gökyüzü
+  entry_id:  87509054
+  entry_writer: nerogatto
+  entry_fav_count: 36
   entry_content: |
-    ekşi sözlüğün %95'inin aldığı maaş. kalan %5 üniversite öğrencisi. zaten onlar da mezun olur olmaz bu maaşla işe başlayacaklar. <br/><br/>ben mi? tabiki de bu maaşı alıyorum. sözlük yazarı olmak bunu gerektirir sonuçta.
-  entry_channels: anket,ekonomi
-- entry_name: |
-    memuriyetten istifa etmek
-  entry_id:  87502833
-  entry_writer: bir yalnizlik isareti
-  entry_fav_count: 39
-  entry_content: |
-    netlik seven bir insan olarak hayatta yapmayacağım eylem. saatin belli, iznin belli, çalışma standartın belli. hayatında anlamsız sürprizlere gerek yok. kurallar var bir kere, bundan daha güzel ne olabilir ki. sıkıcı memur hayatıma bayılıyorum :)
-  entry_channels: siyaset
+    yerli komedi filmi afişlerinin çoğunda arka planda mavi gökyüzü olması durumudur. en yüksek bütçelisinden, en düşük bütçelisine ezici çoğunlukta durum bu. alan razı, veren razıysa sorun yok tabi ama biraz yaratıcılık görsek fena olmaz hani.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?q=yerli+komedi&amp;client=ms-android-samsung-gj-rev1&amp;prmd=vin&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwj23fu8kvPgAhUU6KYKHfR5D1QQ_AUoAnoECAkQAg&amp;biw=412&amp;bih=652&amp;dpr=2.63" title="https://www.google.com/search?q=yerli+komedi&amp;client=ms-android-samsung-gj-rev1&amp;prmd=vin&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwj23fu8kvPgAhUU6KYKHfR5D1QQ_AUoAnoECAkQAg&amp;biw=412&amp;bih=652&amp;dpr=2.63">buyrun</a>
+  entry_channels: sinema
 - entry_name: |
     renkli gözlü insanlar
   entry_id:  87485731
   entry_writer: tontontondardanelton
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     kıskanmayın yahu, buz mavisi ya da su yeşili en güzel renklerdendir. kabul edin, kötüleme sebebiniz kıskanmanız. yoksa nötr kalırdınız? <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler
 - entry_name: |
-    almanya'nın bu kadar güçlü olmasının sebebi
-  entry_id:  87507226
-  entry_writer: komando kani var bende
-  entry_fav_count: 32
-  entry_content: |
-    bana göre <a class="b" href="/?q=ahlak">ahlak</a>'tır. bir toplum istediği kadar çalışkan olsun, zeki olsun olsun, eğitimli olsun ahlak olmadığı sürece sıfırdır. geri kalmıştır.<br/><br/>gidin bakın dünyanın süper güçlerine. hepsi ahlaklı toplumlardan oluşur. birde geri kalmış toplumlara bakın dünyada ki. yalan dolan, üç kağıtçılık, hile hurdanın en çok döndüğü yerler. en çok geri kalan yerler. <br/><br/>ister ateist ister dindar ister budist. ne olursa olsun ahlaklı ise dünyada söz sahibi olur.
-  entry_channels: siyaset,anket,tarih,ekonomi
-- entry_name: |
     dünya kadınlar günü
   entry_id:  87490480
   entry_writer: polly jean
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     az şöyle geriden bakalım.<br/><br/>1- bugünü "emekçi" tekeline almaya çalışan, inatla kadınlara ne yapacağını söyleyen ve buna rağmen kendini "lümpen, sağcı" erkeklerden çok çok <a class="b" href="/?q=farkl%c4%b1">farklı</a> sanan "solcu" erkekler. lütfen şöyle az kenara. hele size itiraz edince bana marksizm, clara zetkin filan anlatmanız aşırı komik. size sizden daha iyisini anlatabilirim çünkü. "emekçi demiyorsa bilgi eksikliğindendir" argümanınızı alıp çöpe atabilirsiniz, mersi. her kadının günü. hoşlanmadığım(ız), siyasi görüşünü beğenmediğim(iz), dibine kadar sağcı kadınların da günü bugün ve onların da günü kutlu olacak elbet.<br/><br/>2- "bugün çiçek böcek günü değil yeaa", "bugün kutlama günü değil yeaa" evet <a class="b" href="/?q=sadece">sadece</a> bundan ibaret olmamalı, ama biraz da bu olabilir, yeter ki özü kaybolmasın. yani tutup çiçeksepeti'nden orkide göndermeye bence de gerek yok, ne münasebet? ama ucuz ve bayatın bayatı piyasa eleştirileriniz hakikaten sıktı. nasıl da sıkılmıyorsunuz sakız gibi çiğnemekten bunları. en komiği, normalde gayet kapitalist adamlar bile başımıza solcu kesiliyor bu gün olunca! ay canım ya, diğer günlerde işçi hakları konuşulurken hiç görememiştik seni, sen o gün sağcıydın da olay 8 mart olunca mı solcu kesildin? bu resmen "kadınlara laf çakabilmek için gerekirse her koyunun postuna girerim"cilik. <br/><br/>3- keşke "we want bread, but we want roses too" diyen kadınların ne demeye çalıştığını anlayabilseydiniz! keşke <a class="b" href="/?q=bread+and+roses">bread and roses</a> filmini hakkını vererek algılayabilseydiniz (ay çeken de çok solcu abimiz <a class="b" href="/?q=ken+loach">ken loach</a>'tu, izlemediniz mi, yoksa izleyip de anlayamadınız mı? vah vah!) size yaranmak için illa <a class="b" href="/?q=ac%c4%b1lar%c4%b1n+kad%c4%b1n%c4%b1">acıların kadını</a> olmamız lazım. hadiniz ordan. hayatın tadını çıkarmaya herkes kadar hakkımız var. kurumsal firmalarda toplu çiçek alımı yapılıp dağıtılmasından bahsetmiyorum, ama gerçekten içten gelerek alınan bir dal çiçekten irrite olmak bayaa bayaa sevgi ve şefkat yoksunluğu. normal bir günde de bazen sırf bir arkadaşımızın yüzünü güldürmek için bir sümbül alıp elinize hiç mi gitmediniz siz? eğer ikisi arasındaki farkı ayırt edemiyorsanız, o sizin muhakeme yeteneğinizin eksikliğiyle ilgili.<br/><br/>4- sonra "ay sakın kutlama yapmayalım"mış. neden af buyur? valla her 8 mart'ta bir sene daha kadın olarak şu ülkede hayatta kalabildim diye bile gayet kutlayabilir insan. bıktık asık suratlı solculuk anlayışınızdan. siz gidin onu kendi bıyıklılarınızla yapın. bize de kafanıza göre liboş dersiniz olur biter. sağcısı bana "radikal", taş kafalı solcusu "liboş", dindarı "aile yıkan nifak", anadolucusu "dış mihrak", bilmem kim "pkk'li törörö" falan diyor zaten. kim umursar ki sizin ne dediğinizi? eğer doğru söylüyor olsaydınız, aynı anda hem radikal feminist hem liberal feminist olmam gerekirdi sdkfhskfhsk sırf bu bile hepinizin aynı saçmalıkta buluştuğunuzun göstergesi. yürüyüşüme de giderim, sistalarımla iki kadeh bir şey de içerim, bu günü kutlarım da. siz cenaze törenindeki levazımatçı gibi takılmak isterseniz sizin bileceğiniz iş. ben size zorla <a class="b" href="/?q=bur%c3%a7ak+tarlas%c4%b1">burçak tarlası</a> söyletmiyorum, siz de bir zahmet sesinizi kısıp bana ne yapacağımı söylemeyin.<br/><br/>ben her yıl olduğu gibi pankartımı alıp <a class="b" href="/?q=8+mart+gece+y%c3%bcr%c3%bcy%c3%bc%c5%9f%c3%bc">8 mart gece yürüyüşü</a>ne gideceğim, "kadın olarak" gece gece sokaklara döküldüğümüzü göstereceğim. pankartımı yeni şafak her yıl olduğu gibi ertesi gün "ahlak düşmanları" tadında haberleştirecek, aşırı solcu beylerimiz "clara zetkin'lerin torunlarına yakışmıyor bu şekilde 8 mart kutlamak" diye başka türlü bir ahlak bekçiliği yapacak feysbuk gruplarında, postlarında. e valla hepinizin köküne kibrit suyu, sizden korksak feminist olmazdık.<br/><br/>genellikçe daha genç yaşta, bazen de sınırlı desteğe ulaşabildiği ortamından dolayı, ister istemez kendini baskı altında hisseden, sağcı veya solcu etiketlere maruz kaldığında ses çıkarmaktan ürkebilen kız kardeşlerimi görüyorum. insanın kendini yalnız hissederken ses çıkarması gayet zordur. ucuz kahramanlık yapıp kır zincirlerini bebeğimler işe yaramaz öyle anlarda. bunu çok iyi biliyorum. ama kendinizi bu erkeklere laf anlatmak zorunda hissetmeyin ne olur. kutlayasınız varsa kutlayın, arkadaşlarınıza çiçek alasınız varsa alın. 60 yaşındaki, tüm hayatını feministçe geçirmiş annem iş yerine giderken içinden kadın iş arkadaşlarına bir dal karanfil götürmek geçtiyse, bu dallamalar "ama piyasa ama 8 mart ama zetkin hede höde" diyecekler diye bundan imtina mı etmeliydi? ay daha neler! gülüp geçin böyle şeylere. "yav he he" deyin hatta, laf bile anlatmaya tenezzül etmeyin, bugün neşenizi bozamasınlar. (keşke bütün erkekler de korkmadan dostlarına bir dal çiçek götürebilseler "gey sanmasınlar bizi şimdi?" demeden) eğlenesiniz geldiyse eğlenin, bu levazımatçı suratlıların ağzına laf veririz filan diye korkmayın, biri bir insana saldırmak isterse o lafı zaten bulur, üretir. hiç onlara karşı çıkmakla uğraşmayın, siz bildiğinizi okusanız yeter, böyle böyle görerek zaten öğrenecekler. (zaten nefesinize yazık!)<br/><br/><a class="b" href="/?q=8+mart+d%c3%bcnya+kad%c4%b1nlar+g%c3%bcn%c3%bcm%c3%bcz+kutlu+olsun.">8 mart dünya kadınlar günümüz kutlu olsun.</a>
   entry_channels: siyaset,tarih,eğitim
@@ -206,18 +198,18 @@ data:
     starbucks'ta macbook air'iyle çalışan tip
   entry_id:  87505203
   entry_writer: damlaya damlaya dagdan kestim kereste
-  entry_fav_count: 26
+  entry_fav_count: 29
   entry_content: |
     şu an folkart starbucksta macbook air'imle bir şeylerle uğraşıyormuş gibi ciddili takılıyorum.<br/>oysa ki sadece youtube'da şarkı dinliyor ve bir de sizi okuyorum.<br/>bu siktiğimin bilsayarına 10bin lira para verdim len.. bırakın da biraz hava atayım kıskanç ibneler
   entry_channels: teknoloji,yeme-içme
 - entry_name: |
-    yerli komedi filmi afişlerindeki mavi gökyüzü
-  entry_id:  87509054
-  entry_writer: nerogatto
+    evlilik
+  entry_id:  87487566
+  entry_writer: carriebradshaw
   entry_fav_count: 24
   entry_content: |
-    yerli komedi filmi afişlerinin çoğunda arka planda mavi gökyüzü olması durumudur. en yüksek bütçelisinden, en düşük bütçelisine ezici çoğunlukta durum bu. alan razı, veren razıysa sorun yok tabi ama biraz yaratıcılık görsek fena olmaz hani.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?q=yerli+komedi&amp;client=ms-android-samsung-gj-rev1&amp;prmd=vin&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwj23fu8kvPgAhUU6KYKHfR5D1QQ_AUoAnoECAkQAg&amp;biw=412&amp;bih=652&amp;dpr=2.63" title="https://www.google.com/search?q=yerli+komedi&amp;client=ms-android-samsung-gj-rev1&amp;prmd=vin&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwj23fu8kvPgAhUU6KYKHfR5D1QQ_AUoAnoECAkQAg&amp;biw=412&amp;bih=652&amp;dpr=2.63">buyrun</a>
-  entry_channels: sinema
+    doğru kişiyle yapıldığında, dünyanın en güzel eylemlerinden biri ya da tem tersi.<br/><br/>30+ ekşici teyzeniz olarak, evlilik yaşantısı içinde nelerle karşı karşıya kalacağınızı anlatacağım biraz ki, yanlış seçim yapılırsa neler yaşayacaksınız bilin. <br/>anafikrimiz;<br/>“evlenmiş olmak için evlenmek kötüdür”<br/><br/>bu entry, hassas bünyeleri rahatsız edecek detaylar içerir. o yüzden okumanızı tavsiye etmem. yazarlık tarihimin en pis entrysi olacak zira.<br/>ama gerçekten hassas bünyeniz varsa ve okumuşsanız o zaman entry tam olarak hedef kitlesini yakalamış demektir.<br/><br/>- bunları neden yazdın keri, midemiz kalktı?<br/>+ çünkü evliliği pembe koltuklarda oturup, avrupa’da gezeceğiniz, güleç misafirlerinizle objektife poz vereceğiniz bir şey sananlarınız var.<br/>evet bunlar da pakete dahil ama paketin full hali bu değil. <br/><br/>uyarımı yaptığıma göre başlayabilirim.<br/><br/>bence evlilik güzel bir şey. sevdiğiniz adam/kadınla hayatı paylaşmak kadar güzel az şey vardır hayatta.<br/>amma velakin buradaki tek koşul “birbiriniz için doğru insan” olmanız.<br/>doğru insan kimdir bunu ben bilemem onu siz biliyorsunuz.<br/><br/>evlilik; sadece pembe bulutlar, pembe koltuklar ve pembe yaşamlar değildir.<br/>evlilik; karşındakini en ilkel, en doğal, en hasta, en güçsüz halleriyle kabul etmek ve bu halde hayatında istemek demektir.<br/><br/>sadece evlenmiş olmak için evlenmeye kalkan birçok genç insan görüyorum.<br/>evliliği bir statü, atlanması gereken bir basamak, kabul edilmek istedikleri bir kulüp üyeliği gibi görüyorlar.<br/>kendinizden ve karşı taraftan eminseniz evlenin.<br/>ama şu mini testi yapın lütfen.<br/><br/>banyoda geride kalan kıllara, tüylere tahammül edebilecek misiniz?<br/>banyoda karşılaşacağınız ortadan sıkılmış diş macunu tüpünün sorun dahi olmadığına sizi temin ederim. bu, magazin dergilerinin sorunudur.<br/><br/>gerçek evlilik hayatının sorunları, bundan çok daha pistir.<br/>eşinizden sonra girdiğiniz tuvalette sifon bazen tüm izleri ve kokuları yok etmez sevgili arkadaşlar.<br/>“ıııy benim kan görmeye tahammülüm yok” falan diyenleriniz ya da sokakta hayvan dışkısı görünce midesi kalkanlarınız varsa emin olun evlilik hayatı içinde bu tarz çok şey göreceksiniz.<br/><br/>hani o çok güçlü, dimdik sağlıklı eşiniz var ya; o bir gün hastalanabilir.<br/>umarım olmaz ama bu ciddi bir hastalık olabilir.<br/>o zaman ortamlarda herkesi etkileyen kişi olmayacak baktığınız. <br/>hastayken de onu aynı şekilde sevecek misiniz? hastanede gecelerce yanında kalacak mısınız sızlanmadan? o en bakımsız, en güçsüz halindeyken.<br/><br/>sevgiliyken annesi babasını sevmiyordunuz ve pek de görmüyordunuz, doğru mu?<br/>evliyken göreceksiniz.<br/>çünkü aile olmak üzere evlendiniz ve birbirinizin aileleri artık sizin de aileniz.<br/>onlar da gelecek siz de gideceksiniz. bunu yapmazsanız “bir ömür birlikte” dediğiniz kişiyi üzersiniz.<br/><br/>şimdiye dek hiç bütçe yönetmediniz değil mi? anne babalar kıyamadı, ne isterseniz aldılar ya da kendi paranızı sadece kendinize harcadınız.<br/>evlilik tam olarak öyle bir yer değil.<br/>ortak sorumluluklara imza attığınızı hatırlatmak istiyorum. o ay almak istediğiniz ayakkabıya eşiniz “bu ay x masrafımız var, beklese iyi olur ” diye veto koyduğunda üzülmeyin. böyle şeyler olabilir.<br/><br/>çamaşırlarınızı kendiniz mi yıkıyorsunuz? anneniz ya da yardımcı hanım da olabilir.<br/>evlilikte bu iş, eşinize ve size kaldıysa, çamaşır sepetinde çorap ve iç çamaşırı da bulunduğunu hatırlatmak isterim. -çok güzel şeyler değillerdir-<br/><br/>işin cinsel kısmıyla kapatayım.<br/><sup class="ab"><a title="(bkz: en heyecanlıyı sona bıraktım)" href="/?q=en+heyecanl%c4%b1y%c4%b1+sona+b%c4%b1rakt%c4%b1m" data-query="en heyecanlıyı sona bıraktım">*</a></sup> <br/>herkes, evlenmeden önce sevişmek zorunda değil. dolayısıyla birbirinize duyacağınız cinsel çekimi, tutkuyu önceden bilemeyebilirsiniz. bu sebeple bu konuda öneride bulunamam. “önceden sevişin ve görün bakalım, birbirinize dokunmak istiyor musunuz?” diyemeyeceğimize göre, umarım mutlu bir cinsel hayatınız olur demekle yetineceğim.<br/>çünkü evlilikte cinsellik, pastadan çok kocaman bir pay alır.<br/>iyi seks hayatı, evliliği daha iyi yapmayabilir ama kötü seks hayatı, kesinlikle daha kötü yapar.<br/>yani umarım mutlu bir cinsel hayat yakalarsınız zira partneriniz için “lütfen sevişmek istemesin, lütfen yanaşmasın” dediğiniz bir hayat, emin olun ki kabus olur.<br/><br/>bunları neden yazdığımı söylemiştim. <sup class="ab"><a title="(bkz: çok konuştun unuttuk)" href="/?q=%c3%a7ok+konu%c5%9ftun%2c+unuttuk" data-query="çok konuştun unuttuk">*</a></sup><br/>evlilik, sorumluluklarıyla beraber gelir. hastalığı, maddi sıkıntısı, ilkel insan tavırları ve yeni bir aile ile birlikte gelir.<br/>sadece “kulübe” dahil olmak için evlenmeyin bence.<br/>bir düşünün;<br/>kendinizi şimdi değil de elli yaşınızda, onun yanında ve sohbette hayal edebiliyor musunuz?
+  entry_channels: ilişkiler
 - entry_name: |
     en iyi netflix dizileri
   entry_id:  87488352
@@ -227,98 +219,90 @@ data:
     kesinlikle en iyilerden (bkz: <a class="b" href="/?q=bojack+horseman">bojack horseman</a>)
   entry_channels: anket,tv
 - entry_name: |
-    yapılması bedava olan güzel şeyler
-  entry_id:  87479603
-  entry_writer: soylememki
-  entry_fav_count: 20
-  entry_content: |
-    gökyüzüne bakmak.
-  entry_channels: anket,ekonomi
-- entry_name: |
     özhasekinin şehitlerin niye öldüğü belirsiz demesi
   entry_id:  87503341
   entry_writer: birdy dinleyen adam
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     ankara büyükşehir belediye başkan adayı mehmet özhaseki, çözüm sürecini cansiparane savunurken şehitler için "niye öldükleri belirsiz" dediği ortaya <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/ozhasekinin-arsivinden-oyle-bir-sey-cikti-ki...-08031934.html" title="https://odatv.com/ozhasekinin-arsivinden-oyle-bir-sey-cikti-ki...-08031934.html">çıktı</a><br/><br/>özhaseki daha öncesinde pkk'lı teröristlere gerilla dediği videoya 25 internet sitesinde erişim engeli <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/ozhaseki-bunu-da-yapti-50971yy.htm" title="https://www.yenicaggazetesi.com.tr/ozhaseki-bunu-da-yapti-50971yy.htm">getirmiş</a> ve ekşi sözlükte açılan başlığı sildirmişti. bu videoyu yasaklayıp yasaklatmayacağı da merakla bekleniyor.<br/><br/>(bkz: <a class="b" href="/?q=mehmet+%c3%b6zhaseki%27nin+pkk%27l%c4%b1lara+gerilla+demesi">mehmet özhaseki'nin pkk'lılara gerilla demesi</a>)
   entry_channels: siyaset,haber
 - entry_name: |
+    yapılması bedava olan güzel şeyler
+  entry_id:  87479603
+  entry_writer: soylememki
+  entry_fav_count: 21
+  entry_content: |
+    gökyüzüne bakmak.
+  entry_channels: anket,ekonomi
+- entry_name: |
     ekşi sözlük yazarlarının ilk 3 sevgilisinin adı
   entry_id:  87502698
   entry_writer: fthkan
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     1.eşim<br/><br/>öncesi yok sonrası yok.<br/>romantizm yapmadım gerçekten böyle.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ekşi itiraf
-  entry_id:  87480217
-  entry_writer: ne yaziyoz buraya amk
-  entry_fav_count: 18
-  entry_content: |
-    aslında itiraf edeceğim bir şey yok sadece yazmak içimi dökmek istedim ben 10 yaşındayken annem vefat etti babamda 2 ay önce vefat etti yaşım o kadar büyükte değil yani şimdi düşünüyorum halime bakıyorum sonra milletin derdine bakıyorum ister istemez küfür edesim geliyor nedense hala babamın vefat ettiğine alışamadım sanki gezmeye gitmiş de gelecekmiş gibi bide bazen şey oluyor annem geliyo aklıma diyorum vefat etmeseydi yaşasaydı vayy be annem olcaktı kardeşim olcaktı filan sap gibi kaldım şimdi tek başıma milletin anası babası kardeşi var herkes birbirine destek oluyor çok geriden başladım hayata aq
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    sözlük'ün en makul partner bulma mecrası olması
-  entry_id:  87502036
-  entry_writer: uruguayli golcu
-  entry_fav_count: 12
-  entry_content: |
-    kesinlikle doğru önerme. büyük çoğunluğu ağır kişilik bozuklarına sahip, kompleksli, sinir hastası, can sıkıcı, estetik açıdan bir şey ifade etmeyen, içten pazarlıklı, bayağı, kendini pazarlamak adına 40 takla atan, habis, sinsi, öfkeli insanların birbirlerini bulması için bundan daha ideal bir ortam daha olamaz. çok zor ıskalamak çünkü.
-  entry_channels: anket,ilişkiler,ekşi-sözlük,edebiyat
-- entry_name: |
     kıro çiftlerin ortak özellikleri
   entry_id:  87508489
   entry_writer: dersaadet vapurlari kadrolu isportacisi
-  entry_fav_count: 11
+  entry_fav_count: 20
   entry_content: |
     dar alanlarda bile inatla elele yürümeye çalışıp yolu tıkamaları. beklerken bari bırak kızın elini pezevenk, üzerine zimmetli kar küreği değil.
   entry_channels: ilişkiler
 - entry_name: |
-    evlilik
-  entry_id:  87497057
-  entry_writer: delfina
-  entry_fav_count: 11
+    ekşi itiraf
+  entry_id:  87480217
+  entry_writer: ne yaziyoz buraya amk
+  entry_fav_count: 19
   entry_content: |
-    5 yıllık evlilik ve 2 yıllık ayrılıktan sonra ayni adamla tekrar beraber olan bir ablaniz olarak iki kelam da ben edeyim,<br/><br/>iyi sohbet, iyi seks, iyi bir "ekip" olabilme potansiyeli (çocuk olunca müthiş önemli hale geliyor), benzer ilgi alanlari, yakin bir perspektif ve bolca sevgi ve merhamet barindırırsa güzel olan bir kurum.<br/><br/>sonuncusu atlanabiliyor. bunca yıllık iliskilerimden sonra ben biraz geç keşfettim bunu. belki/muhtemelen kişisel biseydir bunu geç keşfetmem.<br/><br/>birbirini seven(?) ama birbirine merhameti olmayan çiftlerin evliliği galiba çok mutlu olamıyor. çift taraflı olması gereken bi hal bu. iki taraf da birbirine karşı sevgiyle beraber merhamet hissedecek. birbirlerini önemseyecek ve merkeze koyacaklar. <br/><br/>özellikle çocuklu hayatta böyle. çocuğa karşı çok sevgi dolu ve merhametli olmak bisey ifade etmiyor. <br/>çiftin birbirine karşı hal ve hareketlerinde sevgi/merhamet yoksa; önemseme ve değer verme bariz değilse, ne o evlilik ne o çocuk çok mutlu/huzurlu olamıyor.<br/><br/>bi de seks abi. badim de yazmış, muhakkak iyi ve mutlu edici bir tatmin edinmelisiniz yatakta birbirinizden. <br/>çok yazdık bunları hep, hala da yazicam. seks evliliğin (aslında tüm ilişkilerin) yüzde yüzü değilse de, en az yarısıdır.<br/><br/>seks temeldir. bazdır. <br/>eğer üste bir bina cikacaksan, o temel düzgün olacak.<br/>yoksa eninde sonunda o bina çöker. dünyanın en güzel binasını da yapsan, çöker. temeli yoksa, çökmemesi mümkün değil.<br/><br/>o temeli düzgün atın. gerisi mutlu gelebilecekse de, ancak bu temel üzerinde yükselebilir.
-  entry_channels: ilişkiler
+    aslında itiraf edeceğim bir şey yok sadece yazmak içimi dökmek istedim ben 10 yaşındayken annem vefat etti babamda 2 ay önce vefat etti yaşım o kadar büyükte değil yani şimdi düşünüyorum halime bakıyorum sonra milletin derdine bakıyorum ister istemez küfür edesim geliyor nedense hala babamın vefat ettiğine alışamadım sanki gezmeye gitmiş de gelecekmiş gibi bide bazen şey oluyor annem geliyo aklıma diyorum vefat etmeseydi yaşasaydı vayy be annem olcaktı kardeşim olcaktı filan sap gibi kaldım şimdi tek başıma milletin anası babası kardeşi var herkes birbirine destek oluyor çok geriden başladım hayata aq
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    bütün parçaların güzel olduğu albümler
-  entry_id:  87479146
-  entry_writer: siseyi dolaba bos koyan adam
-  entry_fav_count: 11
+    sevilen şiirin en vurucu cümlesi
+  entry_id:  87479205
+  entry_writer: zagreus55
+  entry_fav_count: 14
   entry_content: |
-    defalarca yazılmış ama, kesinlikle tarkan'ın <a class="b" href="/?q=karma">karma</a> albümüdür. bir daha bu kalitede bir albümün geleceğini sanmıyorum. her albümde mutlaka dinlenmeyen, ön plana çıkmayan şarkılar oluyor ama yok abicim bu albümde bulamıyorsun işte öyle bir şarkı.<br/><br/>ayrıca, çok güzel zamanlardı be...<br/><br/>zaten sonra olanlar oldu...<br/><br/>(bkz: <a class="b" href="/?q=malum+ki%c5%9fi">malum kişi</a>)
-  entry_channels: anket,müzik
+    ''gitsem ayrılık oluyor.<br/>kalsam çöl<br/>gidersem bende hasret olur ve belki beni sevenler de özler.<br/>ama anladım ki özlemden de hiç kimse ölmüyor.''
+  entry_channels: anket,edebiyat
 - entry_name: |
-    burun estetiği
-  entry_id:  87506065
-  entry_writer: okumayacalismabokmuvar
-  entry_fav_count: 10
+    sözlük'ün en makul partner bulma mecrası olması
+  entry_id:  87502036
+  entry_writer: uruguayli golcu
+  entry_fav_count: 13
   entry_content: |
-    uzun yıllarca burnumun görüntüsünden rahatsız olduğumdan, bir süre bu ameliyat hakkında araştırma yaptım. en iyi bilgileri de hem olumlu hem olumsuz bu ameliyatı olanlardan öğrendim. <br/><br/>açıkçası kolay bir ameliyat gibi gözüken burun ameliyatı oldukça zor. <br/><br/>bana göre en zor kısmı büyük hayallerle girdiğin ameliyat sonrası istediğin burna sahip olamamak ve tekrar revizyon denilen ikinci ameliyatı olmak.<br/><br/>ve bu revizyon ameliyatını olan o kadar çok kişi var ki. internette kısa bir araştırma yapmak yeterli.<br/><br/>kişisel tavsiyem, her şeyden önemlisi ameliyat yapacak doktoru seçmek gerisi kolay.<br/><br/>edit: imla
-  entry_channels: sağlık
+    kesinlikle doğru önerme. büyük çoğunluğu ağır kişilik bozuklarına sahip, kompleksli, sinir hastası, can sıkıcı, estetik açıdan bir şey ifade etmeyen, içten pazarlıklı, bayağı, kendini pazarlamak adına 40 takla atan, habis, sinsi, öfkeli insanların birbirlerini bulması için bundan daha ideal bir ortam daha olamaz. çok zor ıskalamak çünkü.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,edebiyat
 - entry_name: |
     güzellik hariç erkekleri aşık ettirebilecek şeyler
   entry_id:  87503076
   entry_writer: deus sive natura
-  entry_fav_count: 9
+  entry_fav_count: 12
   entry_content: |
     aşık olmak ve erkekler ??? bari kadınlar gününde yapmayalım lütfen böyle şakalar!
   entry_channels: anket,ilişkiler
 - entry_name: |
-    erkekleri kadınlardan soğutan nedenler
-  entry_id:  87507109
-  entry_writer: basabbasbas
-  entry_fav_count: 7
+    burun estetiği
+  entry_id:  87506065
+  entry_writer: okumayacalismabokmuvar
+  entry_fav_count: 11
   entry_content: |
-    1-yalan söylemeleri<br/>2- bencil olmaları<br/>3- iki yüzlü olmaları<br/>4- saygısız olmaları<br/>5- dürüst olmamaları<br/>6- açık konuşmamaları<br/>7- kendi akılları, dururken kezbanlara kulak vermeleri<br/>8- erkeği avucuna almaya çalışmaları<br/>9- erkeği denemeleri (tuzak gibi)<br/>10- cinselliği ödül veya ceza olarak kullanmaları<br/>11- kukunun bir tek kendinde olduğunu ve bütün erkeklerin onun peşinde olduğunu düşünmeleri<br/>12- sıkıntıyı çözmeye hevesli adamın ağzına sıçıp, bir de üstüne trip atmaları<br/>13- ortada fol yok yumurta yokken alakasız kadına karşı kıskançlık çıkarmaları<br/>14- erkeği süründürmekten zevk almaları<br/>15- boka saran nazları<br/>16- hayattan soğutan tripleri
-  entry_channels: anket,ilişkiler
+    uzun yıllarca burnumun görüntüsünden rahatsız olduğumdan, bir süre bu ameliyat hakkında araştırma yaptım. en iyi bilgileri de hem olumlu hem olumsuz bu ameliyatı olanlardan öğrendim. <br/><br/>açıkçası kolay bir ameliyat gibi gözüken burun ameliyatı oldukça zor. <br/><br/>bana göre en zor kısmı büyük hayallerle girdiğin ameliyat sonrası istediğin burna sahip olamamak ve tekrar revizyon denilen ikinci ameliyatı olmak.<br/><br/>ve bu revizyon ameliyatını olan o kadar çok kişi var ki. internette kısa bir araştırma yapmak yeterli.<br/><br/>kişisel tavsiyem, her şeyden önemlisi ameliyat yapacak doktoru seçmek gerisi kolay.<br/><br/>edit: imla
+  entry_channels: sağlık
+- entry_name: |
+    8 mart 2019 rte'nin göbeklitepe tweet'i
+  entry_id:  87505781
+  entry_writer: maxcod2
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: <a class="b" href="/?q=biraz+da+hasankeyften+bahsetsenize">biraz da hasankeyften bahsetsenize</a>)
+  entry_channels: siyaset
 - entry_name: |
     sigarayı bırakmak
   entry_id:  87505868
   entry_writer: askeriucret750tlolsun
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     ben bunu internetteki sigarayı bırakma uygulamalarıyla deniyorum. güzel motivasyon oluyor. <br/>az önce çamaşır makinesini tamir etmeye çalışırken durup durup sigara yakmışım. normalde bayağı azalttığım için artarda sigara içmek nefes alışımı bile etkiledi. ekşi'de bu başlığı görünce yine karar verdim bırakmaya. uygulamayı kurdum. 10 dakika geçti şu an. bakalım ne olacak? <br/>daha önce de denemelerim oldu onları anlatayım biraz. bir kere sigarayı bıraktığınızda vücudun kendini tamir etmeye çalıştığını bilin. şişkinlik yaşayacaksınız. yeri gelip kabız yeri gelip ishal olacaksınız. ilk 3 gün zaten depresif ve tahammülsüz olacaksınız. uykusuzluk çekeceksiniz. ya da uykulu olacaksınız. en bombası da vücudunuza kan gideceği için ısınacaksınız. kış günü cam açıp yattığımı bilirim. fiziksel yoksunluklara direnebiliyorum. ben aşerme isteğinde başarısız oluyorum genelde. tek tesellim böyle 2-3 ay içmemeler vücuda nefes aldırıyor. <br/>şişkinlik için sabah ılık suya maydanoz atıp bir bardak maydanoz suyu içebilirsiniz. yalnız çok tuvalete çıkartır bilginize. gece yarattığı hissiyat için ise şişkinlik olduğunda cima eder gibi domalıp (evet domalıp) ileri geri hareketler yaparak karnınıza baskı uygulayın. osurur rahatlarsınız. <br/>baş ağrıları için ben majezik kullanıyordum. <br/>eklem ağrıları olacak. bunun için eczacınızdan ilaç isteyin. şimdi adını unuttum. eklem ağrıları vücudun kendini tamir etmesidir. sevinin. ya da daha önce bilmediğiniz bir ağrı vardır. sinir sistemi bloke olduğu için sigara içerken farketmiyor olabilirsiniz. <br/>diş etinizde damarlara oksijen gittiği için çekilme bitip şişecek. yani normale dönecek. damarlar bu iyi anlamda kanlanmadan dolayı diş fırçalarken kanamaya neden olacak korkmayın. <br/>ağız içinde aft dediğimiz yaralardan çıkacak korkmayın. ağız içi bakteri floranız değişiyor. <br/>bağırsaklarda sağlam sorun yaşayacaksınız. bunun nedeni de bağırsak floranızın değişmesidir. <br/>2-3. haftalarda deli gibi öksüreceksiniz. balgam atacaksınız. ve birebir gırtlak ve akciğere yapışmış kahverengi katranın çıktığını göreceksiniz. bunu geri yutmayın çok zararlı. 10 dakikada bir lavaboya taşınacaksınız. aslında mukoza renginizin sarı değil beyaz olduğunu görüp şaşıracaksınız. <br/><br/>yani özetle vücudunuz bu yeni yaşam tarzına bir yandan ayak uydururken bir yandan kendini tamir etmeye başlıyor. aslında bunu her son sigaranızı söndürdüğünüzden itibaren yapıyor. <br/><br/>peki yok mu iyi şeyler? tabiki var. <br/><br/>1. cilt renginiz hortlaklıktan çıkıp değişecek normal insan rengine döneceksiniz. <br/>2. hiperaktif gibi sürekli bir enerji gelecek. erkekler hanımlara atlayacak dünya 5 (performansına göre) dakikalığına güzelleşecek. <br/>3. yemeklerin tadını alacaksınız. ben alakasız bir yerde kürt böreği yedim. dedim lan ne güzelmiş bunun tadı. bir daha hep burda yiyeyim. sonra mahallede yedim börek. ulan bunun tadı da güzel. meğerse ağzımın tadı yerine gelmiş. <br/>4. sabahları çok çok çok çok çok daha dinç uyanacaksınız. <br/>5. göz altı morluklarınız gidecek. <br/>6. osuruğunuzun aslında ne pis koktuğunu öğreneceksiniz. burnunuzun da koku duyusu yerine gelecek. <br/>7. pis kokudan kurtulacaksınız. <br/>8. dişleriniz beyazlayacak. hatta adeta kemik gibi olmuş tartarlar parçalanıp gidecek. ben o çıkıntıyı dişin parçası sandım senelerce. <br/><br/>hepimiz otomatiğe bağlayıp sigara içiyoruz. bazen kendimi elimde sigara içerken buluyorum. ne zaman yaktığımı hatırlamıyorum. en azından bu otokontrolden çıkmakta, içtiğimiz her sigarayı sorgulamakta fayda var. eskiden mesela yedek paketsiz gezemezdim. şimdi en azından kafaya takmıyorum. <br/>denerim başarısız olurum diye korkmayın. her deneme bir tecrübedir. <br/>yemeklerden sonra sigara ararsınız. bunun için sakız çiğneyin. yemeği bitirdim deyip sigara içer gibi atın ağzınıza sakız. zaten bir süre sonra deli sikmiş gibi sakız çiğnemekten tiksinip sakızı da bırakacaksınız. <br/>en büyük tavsiyem benim yaptığım hatayı yapmayın. sigarayı bırakınca sigara ile ilgili kaynak okumayı bırakın. çünkü bilinç unutmuyor sürekli sigara okuyunca. <br/>bırakın haydi tirilaylaylom. bakayım 40 dakika olmuş. vücudum ısınıyor gittikçe. bakın bıraktım. nasıl bıraktım? tak diye bıraktım. tamamda niye bıraktın? <br/>görüldüğü gibi sigara içmemek 40 dakika sonra kafa yapıyor. saçmalayın abi bir şey olmaz...
   entry_channels: anket,sağlık
@@ -331,12 +315,12 @@ data:
     kendisini sevmesi, kendisine dönmesi, kendisini önemsemesi ... yok kendisini sikmesi. yeter arkadaş. şu başlığı takibe aldığımdan beri her iki giriden biri kendine birsey yapıyor. <br/>tamam yıpratılmışsınız, kabul. ama bunun çözümü içe kapanmak değil, dışa açılmaktır. bir düşünün.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    8 mart 2019 rte'nin göbeklitepe tweet'i
-  entry_id:  87505781
-  entry_writer: maxcod2
+    8 mart 2019 kadınlara polis müdahalesi
+  entry_id:  87509683
+  entry_writer: teferrut
   entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=biraz+da+hasankeyften+bahsetsenize">biraz da hasankeyften bahsetsenize</a>)
+    hala şokunu atlatamadım. belki biber gazına katlanabilirdik ama o hengame, o dar alana sıkıştırılmak, bir yanda açılmayan barikat diğer yanda polisin biber gazı atmasıyla haklı olarak çıkmak isteyen insanlar, yere düşmesin diye herkesin birbirini tutuşu, ben ağladıkça beni sakinleştirmeye çalışan tüm kadınlar, nefes alabilmek için kendimi yukarı çektikçe boğazımın daha da yanması, kaburgalarımda hissettiğim baskı, ayaklarımdaki ezilmeler... asla unutamayacağım hiçbirini. <br/><br/>sadece yürüyecektik.
   entry_channels: siyaset
 - entry_name: |
     askerde hindi eti diye yenen yaratık
@@ -346,6 +330,14 @@ data:
   entry_content: |
     ben hindi eti ile ilgili tespit değil ama başımdan geçen bir olayı anlatayım bunlarla ilgili. askerliğin son zamanları, zaten kısa dönemiz yapıcak iş arıyoruz ki şafak atsın. benim zimmetimde olan bir adet ünimog var. daha teslim etmedik zimmetleri. askeri ehliyette var. gittim komutan' a dedim ki komutanım can sıkıntısından zaman geçmiyor bir iş yapalım. adam da ya olum bir iki haftaya gidiceksiniz yatın işte falan, bunu ikna ettim. yapılacak iş basit. zimmetli ünimog'u alıp ki müthiş keyif alırdım kullanırken. depolardaki kahvaltılık, patates,meyve sebze ne varsa atıyorlar arabaya, onları yemekhaneye götürüyorsun. yanına bi araç komutanı,üç beş adam veriyorlar hamallığı da onlar yapıyorlar, sen sadece şöförsün. depoya yanaştım ama bi tartışma var. komutan ve tedarikçi arasında. adam meyve olarak muz getirmiş ama muzlar daha muz olmamış çok küçük ve yemyeşil bir şey. adam diyor ki komutanım sözleşmede yazan belli muzsa muz aha işte. komutan da diyor ki ulan bunun muz'a benzer neresi var ben askere'e bunu yedirmem. olaylar gittikçe sıkıntılı bir hal almaya başladı. tesadüf eseri (bkz: <a class="b" href="/?q=tu%c4%9fgeneral">tuğgeneral</a>) dolaşmaya çıkmış, şansa bak. tuğcu bunları görünce olaya dahil oldu ve tedarikçiye siktiri çekti. 1 saat sonra meyveye benzeyen muzlar kasa kasa gelmeye başladı. velhasıl, askeriye de işini iyi yapan adamlar olduğu kadar kötü yapanlar da var. sadece askeri yerler değil, özel sektör de böyle.bazen gerçekten hindi eti yersiniz,bazen hindiye benzeyen bir şey. ilk önce işinize saygınız olsun.
   entry_channels: sağlık,yeme-içme
+- entry_name: |
+    türk yahudilerin çocuklarına koyduğu isimler
+  entry_id:  87506280
+  entry_writer: alexandraki
+  entry_fav_count: 3
+  entry_content: |
+    bildiğim kadarıyla yahudi kimliği açık olanlar zaten bilindik ibrani isimlerini koyarlar. avi, levi, moşe gibi.<br/><br/>yahudi kimliği ile pek anılmak istemeyenler ise tevratta geçen ya da ibranice olan isimlerin türkçe versiyonlarını seçerler. <br/><br/>fakat burası çooooook önemli: öncelikle bu isimleri kullananlar yahudidir denemez. <br/><br/>fakat örnek vermek gerekirtse <a class="b" href="/?q=ibru">ibru</a> kelimesi ibrani anlamına gelir ve çocuğuna <a class="b" href="/?q=ebru">ebru</a> ismini verebilir. jasmin yerine <a class="b" href="/?q=yasemin">yasemin</a> gibi.<br/><br/>sebatayistlerde yani sebatay sevi'nin takipçisi olan , asla müslümanlığa dönmeyip müslüman gibi görünmek zorunda bırakılanlar ise biraz daha farklı bir kaynaktan beslenir. yani sebatay sevinin felsefesi ve kabala'dan. bunların isimlerinde tevratın dışında kabalacılıktan da esinlenerek türkçe isimler kullanılır.<br/><br/>yine tekrar ediyorum: bu isimleri de kullananlar yahudidir denemez. <br/><br/>örneğin sevi (sebatay sevi'ye ithafen) , mehmet (sebatay sevinin müslüman oldum dedikten sonra kullandığı isim) , zekeriya (zakariah ), ışık , fevzi, fevziye, ziya , ülker, yıldız (kabaladaki ışık, yıldız kavramına ithafen). <br/><br/>isimbilimle uğraşarak bilim yapmaya çalışanlar ise daha detaylı çalışmalar sergileyebiliyorlar. bu isimlendirmelerdeki matematiği ortaya koyuyorlar. ama hayat öyle geleneksel şekilde ilerlemediği için karşınıza alpertunga ya da asena diye bir yahudi de çıkabilir , hiç şaşırmam.
+  entry_channels: anket
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  87486540
@@ -363,12 +355,28 @@ data:
     bazen bana da oluyor bu olay. sonra artılarımı ve eksilerimi düşünüyorum. düşündükçe mutlu olduğum zamanlarda oluyor mutsuz olduğum zamanlarda...ama sana ufak bir tavsiye sayın okuyan. istemesen de hayat sana son nefesinde bile ders veriyor. okuyabildiğin kadar oku. anla.çalış. dünyayı daha güzel bir yer yapmayan insanlardan olma...
   entry_channels: 
 - entry_name: |
-    10 milyon dolar verseler dinini değiştirir misin
-  entry_id:  87506948
-  entry_writer: amister
+    2000 kitap okumamış adamın entelim diye gezmesi
+  entry_id:  87509464
+  entry_writer: kirik olsa yerinde duramazdin
   entry_fav_count: 2
   entry_content: |
-    din ne ki, cinsiyet bile değiştiririm.
+    2364 kitap okuyan entel kardeş, özel isimlere getirilen çokluk eki -lar/ -ler kesme işaretiyle ayrılmaz.<br/><br/>tanım : gayet olası bir durum.
+  entry_channels: 
+- entry_name: |
+    10 milyon dolar verseler dinini değiştirir misin
+  entry_id:  87506434
+  entry_writer: ampute karinca
+  entry_fav_count: 2
+  entry_content: |
+    o kadar paraya, siz hangi dine inanıyorsanız o dinde siyaset bile yaparım. <br/>not: yapılmışı var demeye gelmeyin, çok pis bozarım.
+  entry_channels: anket
+- entry_name: |
+    öteki tarafın aslında olmaması
+  entry_id:  87508600
+  entry_writer: aloha martini
+  entry_fav_count: 1
+  entry_content: |
+    oteki tarafla alakasiz, ben de senin gerizekali oldugunu dusunuyorum.<br/><br/>t: teenager bir ateist kardesimizin ultrasonic onermesi.
   entry_channels: anket
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -380,11 +388,11 @@ data:
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     sözlükçülerin şu an ihtiyacı olan şey
-  entry_id:  87509910
-  entry_writer: ffemmefatalee
+  entry_id:  87510587
+  entry_writer: omiros
   entry_fav_count: 0
   entry_content: |
-    sakin kalmak.
+    uzun bir süre sarılıp, sessizce böyle kalmak.
   entry_channels: anket,ekşi-sözlük,yeme-içme,seyahat
 - entry_name: |
     hakaret gibi iltifat
@@ -394,12 +402,4 @@ data:
   entry_content: |
     genç gösteriyorsun denmeye çalışılırken şöyle bir şey duymuştum : <br/><br/>" sanki hep pırasayla beslenmiş biri gibisin. "
   entry_channels: anket
-- entry_name: |
-    2000 kitap okumamış adamın entelim diye gezmesi
-  entry_id:  87509573
-  entry_writer: evrenselimsi
-  entry_fav_count: 0
-  entry_content: |
-    1999 kitap okuduğu takdirde ,bugün git yarın gel denilecek adamdır.
-  entry_channels: 
 ---
