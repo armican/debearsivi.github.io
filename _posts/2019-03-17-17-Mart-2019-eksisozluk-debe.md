@@ -6,7 +6,7 @@ data:
     ilay aksoyun mide bulandıran seçim pankartı
   entry_id:  87789933
   entry_writer: kyourakukempachi
-  entry_fav_count: 1790
+  entry_fav_count: 1800
   entry_content: |
     arkadaş suriyeli galiba.<br/><br/>(bkz: <a class="b" href="/?q=suri">suri</a>)
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     daeş'in intikam alacağız paylaşımı
   entry_id:  87792349
   entry_writer: sunger zort
-  entry_fav_count: 1033
+  entry_fav_count: 1059
   entry_content: |
     cami tarayan sapıklarla bu saldırının intikamını alacak sapıkların ayni elden cıkma olduğu o kadar belli ki. güzel tiyatro.
   entry_channels: siyaset,haber
@@ -22,15 +22,23 @@ data:
     16 mart 2019 migros %25 bira indirimi
   entry_id:  87794164
   entry_writer: kopekbaliginingozundekibugu
-  entry_fav_count: 492
+  entry_fav_count: 527
   entry_content: |
     (bkz: <a class="b" href="/?q=bira+tanzim+sat%c4%b1%c5%9f+noktas%c4%b1">bira tanzim satış noktası</a>)
   entry_channels: haber,yeme-içme,ekonomi
 - entry_name: |
+    16 mart 2019 londra saldırısı
+  entry_id:  87797284
+  entry_writer: adler91
+  entry_fav_count: 524
+  entry_content: |
+    işid bitti şimdi radikal hıristiyanlar başladı. demek ki olayın milletle, eğitimle, dinle alakası yok insan geri zekalı olunca böyle salak salak şeylere inanıyor ve masum insanları katlediyor:/
+  entry_channels: siyaset,haber
+- entry_name: |
     rte mitinginde y.zelanda saldırısının gösterilmesi
   entry_id:  87799465
   entry_writer: excelsior was here
-  entry_fav_count: 424
+  entry_fav_count: 445
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?q=how+many+km+from+turkey+to+new+zealand&amp;newwindow=1&amp;rlz=1C1CHBF_enTR803TR803&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwiwsKCcnYbhAhUMyRoKHfKkCwkQ_AUICSgA&amp;biw=1920&amp;bih=937&amp;dpr=1" title="https://www.google.com/search?q=how+many+km+from+turkey+to+new+zealand&amp;newwindow=1&amp;rlz=1C1CHBF_enTR803TR803&amp;source=lnms&amp;sa=X&amp;ved=0ahUKEwiwsKCcnYbhAhUMyRoKHfKkCwkQ_AUICSgA&amp;biw=1920&amp;bih=937&amp;dpr=1">16587 km</a> uzaktan mağduriyet yaratılmasıdır. bir sonraki rekor denemesi aya çarpan meteor parçası ile olacak.<br/><br/>"biliyorsunuz; hicri takvim ay yılı üzerindendir. ay'a yapılan bu meteor saldırısı şer odakları tarafından müslümanlığa yapılmış bir saldırıdır. hebele höbele..."
   entry_channels: siyaset,haber
@@ -38,7 +46,7 @@ data:
     marketten bebek maması çalarken yakalanan baba
   entry_id:  87801053
   entry_writer: bu su
-  entry_fav_count: 386
+  entry_fav_count: 402
   entry_content: |
     ooof of.. baklava çalan çocuk geldi aklıma. üzgünüm. bir babayı bu hale düşüren sisteme tüküreyim. kimlerin ne borçları silinir zenginin tuketiminden luksunden vergi alinmazken.. mama lan mama. toz. marketciyi de yukarıya havale ediyorum.<br/>edit: (lemek zorunda kaldim) <br/>arkadaşlar ben hırsızlığı savunmuyor ve mesrulastirmiyorum sürekli böyle mesajlar atıp "aman neresinden tutup laf soksam" girdabında kaybolmayın. dünyanın en büyük sucunun ve günahının "hirsizlik" olduğunu bilecek vicdana sahibim. burada bir elestırı var. <br/>(pes yani bana da melih gökçek gibi büyük büyük yazdirdiniz)<br/>biri de mesaj atıp o baklava çalanlar tepsiyle çaldı 2-3 binlik zarar var demiş. seni de yukarıya havale ediyorum yazar arkadaşım.
   entry_channels: haber
@@ -46,7 +54,7 @@ data:
     avustralyalı senatörün başına yumurta vuran çocuk
   entry_id:  87800684
   entry_writer: bosa kurek ceken adam
-  entry_fav_count: 343
+  entry_fav_count: 357
   entry_content: |
     yeni zelanda senatörü fraser anning'in "bu örnekte müslümanların katil pozisyonunda bulunmaması, kendilerini suçsuz yapmaz." sözünün ertesi günü vuku bulmuş olay. insanlığın vicdanı bazen ufak bir yumurtanın içerisine sığar.<br/><br/>edit : avustralyalı senatör<br/><br/>yorumsuz edit : <a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/129dc0321758.jpg">https://s3.eksiup.com/129dc0321758.jpg</a>
   entry_channels: siyaset,haber
@@ -54,15 +62,23 @@ data:
     16 mart 2019 erdoğan'ın ayasofya açıklaması
   entry_id:  87798966
   entry_writer: dcdl
-  entry_fav_count: 298
+  entry_fav_count: 306
   entry_content: |
     ayasofya'yı biz inşa ettik gibi bir açıklama olmasıdan korktuğum için başlığı açamıyorum
+  entry_channels: siyaset,haber
+- entry_name: |
+    hollanda'da camiye çiçekle gelen genç
+  entry_id:  87807051
+  entry_writer: sertbest dusunur
+  entry_fav_count: 285
+  entry_content: |
+    dün yeni zelanda'da yaşanan insanlığın gördüğü en büyük terör eylemlerinden birisi olan yeni zelanda katliamının ardından, hollanda'da yaşayan bir genç yaşadığı üzüntüden ne yapacağını bilemiyor ve elinde çiçekler ile cuma namazını kılınmakta olan camiye gidiyor.<br/><br/>ağlayarak " ne yapacağımı bilemiyorum ama o insanlar için bir şeyler yapmam gerektiğini düşünüyorum" diyor. sonrasında müslüman cemaatle olan sarılmaları, konuşmaları insanlığın hala bir yerlerde yaşadığını gösteriyor.<br/><br/>not : 3:39'dan itibaren genci görebilirsiniz. gözlerimden kaç damla yaş boşaldı bilmiyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=hylrWD2GEbI&amp;feature=push-u-sub&amp;attr_tag=jkeRjm2xvk8nK2g9:6" title="https://www.youtube.com/watch?v=hylrWD2GEbI&amp;feature=push-u-sub&amp;attr_tag=jkeRjm2xvk8nK2g9:6">https://www.youtube.com/…ttr_tag=jkerjm2xvk8nk2g9:6</a>
   entry_channels: siyaset,haber
 - entry_name: |
     katliamı öven yazarın tutuklanması
   entry_id:  87799699
   entry_writer: dedi kuzgun
-  entry_fav_count: 269
+  entry_fav_count: 279
   entry_content: |
     olm valla çok iyi lan. halkın yarısını açık hedef haline getiren toplum önderlerini bir kenara koyup, kimsenin siklemediği bir sosyal medya kullanıcısını önce popülerleştirip sonra cezalandırıyoruz. huaaaaa demokrasi süper lan!!!<br/><br/>ekleme: şu entry'e aldığım tehdit ve hakaret mesajları buradan köye yol olur. demek ki "alenen halkın demokrasi duygusunu aşağılamak" suçundan yargılanmam gerekiyor. benim yani! beni, beni, bihterini...
   entry_channels: ekşi-sözlük,haber
@@ -70,7 +86,7 @@ data:
     yaya geçidi ihlalinden 488 tl ceza yemek
   entry_id:  87783329
   entry_writer: turk eli
-  entry_fav_count: 268
+  entry_fav_count: 270
   entry_content: |
     yazan polisi tebrik edip başarılar dilediğim olay. hatta 6 ay içinde tekrarı okursa ehliyeti alınsın yeniden kursa gönderilsin yaya geçidinde yol vermeyen kişi. yaya geçidinde yol vermeyip gazı kökleyenler potansiyel birer katildir.<br/><br/>gelen mesajlar üzerine ek:<br/><br/>yok bir de idam edilsin diye mesajlar geliyor. bu sıradan bir trafik ihlali değil. direkt başkasının ölüm tehlikesi var bu olayda. birisi yaya geçinden geçmek isterken durmamış. polis de görüp yazmış.
   entry_channels: anket
@@ -78,10 +94,18 @@ data:
     herkes 100 lira verse işlerin düzeleceği gerçeği
   entry_id:  87790715
   entry_writer: bi cay icelim mi
-  entry_fav_count: 265
+  entry_fav_count: 269
   entry_content: |
     maasimin ucte biri vergisi sgk bilmemnesi kazanirken kesiliyor, harcarkende en az onun kadar kesiliyor. oradan alsinlar ne lazimsa ihtiyaclarini karsilasinlar bir ev daha rahat gecinir o parayla. ote taraftan asil buyuk vergi mukelleflerinden vergisini vermeyen surekli affolan milyonlarca lira vergi borcu tek kalemde silinenden nasil vergi alinir bunu bir dusunsek daha bir sosyal devlet oluruz sanki
   entry_channels: siyaset,ekonomi
+- entry_name: |
+    40 yaşında tayt giyip avm'de gezen hafif milf
+  entry_id:  87793491
+  entry_writer: alabama whitman
+  entry_fav_count: 244
+  entry_content: |
+    ince bacaklarım olsa ben olabilirdim 44 yaşındayım ve avm sevmem.<br/><br/>tayt da kalın bacaklara olmuyor.<br/><br/>iki kedi annesiyim milf sayılır mı cougar mı oluyorum onu da bilemedim.<br/><br/>obez teyzeyim yeşillendirmeyin.
+  entry_channels: anket,moda
 - entry_name: |
     çok yakın arkadaşken birden tamamen kopmak
   entry_id:  87793160
@@ -91,18 +115,10 @@ data:
     çok fantastik bir şey olmasına gerek yok. en yakın arkadaşın sevgili yapması yetecektir. <br/><br/>nasıl da kopuyorlar birden. nasıl da selamı kesiyorlar. içip içip kime ağladıklarını nasıl da unutuyorlar.
   entry_channels: anket
 - entry_name: |
-    hollanda'da camiye çiçekle gelen genç
-  entry_id:  87807051
-  entry_writer: sertbest dusunur
-  entry_fav_count: 216
-  entry_content: |
-    dün yeni zelanda'da yaşanan insanlığın gördüğü en büyük terör eylemlerinden birisi olan yeni zelanda katliamının ardından, hollanda'da yaşayan bir genç yaşadığı üzüntüden ne yapacağını bilemiyor ve elinde çiçekler ile cuma namazını kılınmakta olan camiye gidiyor.<br/><br/>ağlayarak " ne yapacağımı bilemiyorum ama o insanlar için bir şeyler yapmam gerektiğini düşünüyorum" diyor. sonrasında müslüman cemaatle olan sarılmaları, konuşmaları insanlığın hala bir yerlerde yaşadığını gösteriyor.<br/><br/>not : 3:39'dan itibaren genci görebilirsiniz. gözlerimden kaç damla yaş boşaldı bilmiyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=hylrWD2GEbI&amp;feature=push-u-sub&amp;attr_tag=jkeRjm2xvk8nK2g9:6" title="https://www.youtube.com/watch?v=hylrWD2GEbI&amp;feature=push-u-sub&amp;attr_tag=jkeRjm2xvk8nK2g9:6">https://www.youtube.com/…ttr_tag=jkerjm2xvk8nk2g9:6</a>
-  entry_channels: siyaset,haber
-- entry_name: |
     erdoğan'ın mansur yavaş'ı yolsuzlukla suçlaması
   entry_id:  87802964
   entry_writer: ayi yogi diyete girmis
-  entry_fav_count: 188
+  entry_fav_count: 198
   entry_content: |
     (bkz: <a class="b" href="/?q=b%c4%b1b%c4%b1c%c4%b1m+paralar%c4%b1+s%c4%b1f%c4%b1rl%c4%b1yor+muyuz+b%c4%b1b%c4%b1c%c4%b1m">bıbıcım paraları sıfırlıyor muyuz bıbıcım</a>)
   entry_channels: siyaset,haber
@@ -110,7 +126,7 @@ data:
     düzgün erkeklerin hepsinin kapılmış olması
   entry_id:  87784441
   entry_writer: jakalako
-  entry_fav_count: 176
+  entry_fav_count: 186
   entry_content: |
     rus üstadlarından birinin bir sözü vardır <sup class="ab"><a title="(bkz: tolstoy ya da turgenyev)" href="/?q=tolstoy+ya+da+turgenyev" data-query="tolstoy ya da turgenyev">*</a></sup>:<br/><br/>"ideal bir evlilik asla olmaz, çünkü; düzgün kadın ilk teklifte kabul etmez, düzgün erkek de ikinci kez teklif etmez."<br/><br/>gençlikte zaten (bkz: <a class="b" href="/?q=pi%c3%a7+tercihi">piç tercihi</a>) diye bir şey vardır, bu tartışılmaz. daha heyecan verici bir ilişki için risk alınır... sonra muhtemelen kalbi kırılan kişi erkekler hakkında yüzlerce önyargı geliştirir ve ilişkilerinde sürekli strateji kovalar. bunun belki de en önemli parçası "kendini ağırdan satmak"tır. bu da karşıdaki "düzgün erkek" bireyini iter. sen kendini naza çektiğini zannederken, karşıdaki erkekte "demek ki beni istemiyor, ben de rahatsız etmeyeyim." düşüncesini oluşturursun... sonuç mu? baştaki alıntıyı okuyalım lütfen.
   entry_channels: ilişkiler
@@ -118,7 +134,7 @@ data:
     16 mart 2019 egm basın açıklaması
   entry_id:  87803225
   entry_writer: faze
-  entry_fav_count: 167
+  entry_fav_count: 168
   entry_content: |
     atatürk'e hakaret eden <a class="b" href="/?q=furkan+b%c3%b6l%c3%bckba%c5%9f%c4%b1">furkan bölükbaşı</a> hakkında kılını kıpırtmayan yetkililerden beklenmeyen hareket.<br/><br/>edit: herif "<a class="b" href="/?q=kudur+islam+d%c3%bc%c5%9fman%c4%b1">kudur islam düşmanı</a>" diye mesaj atıyor. profilime girse o entryi giren adam hakkında ilk entry girenlerden biri olduğumu görecekte (bkz: <a class="b" href="/entry/87755967">#87755967</a>) <br/><br/>işte zeka olmayınca...
   entry_channels: siyaset,haber
@@ -126,7 +142,7 @@ data:
     8/5 çalışmak vs 9/6 çalışmak
   entry_id:  87793203
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 161
+  entry_fav_count: 166
   entry_content: |
     amina koyim nasi bi sistem kurdularsa millet hayal kurarken bile keske x x saatlerde calissam diyor. adam hayalinde bile calisiyor kimse aga bu ne biz niye calisiyoz demiyor.
   entry_channels: anket,ekonomi
@@ -134,7 +150,7 @@ data:
     dinler savaşında ateistlerin alacağı pozisyon
   entry_id:  87800533
   entry_writer: ciyyun
-  entry_fav_count: 136
+  entry_fav_count: 147
   entry_content: |
     "dinler savaşı" diye bir şey yoktur ey gerzekler. bütün savaşlar iktisadidir.
   entry_channels: 
@@ -142,7 +158,7 @@ data:
     30 yaşına gelip düzenli bir hayat kuramayan insan
   entry_id:  87805131
   entry_writer: kararliadam
-  entry_fav_count: 95
+  entry_fav_count: 110
   entry_content: |
     düzenli hayat dediğiniz şey evlenmek arkasından 2 çocuk yapmak her sabah 07.30'da evden çıkmak ve her akşam 19.30 civarı eve gelmek ev kredisi çekip 20 yılda ev almak ve çocuklarınızın geleceğinin belli olmayacağı bir ülkede yaşamaksa ben düzensiz yaşamayı tercih ediyorum.
   entry_channels: anket,ilişkiler
@@ -150,34 +166,26 @@ data:
     çaresizlik hırsızlık yapma hakkını verir mi
   entry_id:  87801598
   entry_writer: lmca
-  entry_fav_count: 92
+  entry_fav_count: 101
   entry_content: |
     verir
   entry_channels: anket
 - entry_name: |
-    sevilen kişiden vazgeçme eşiği
-  entry_id:  87785638
-  entry_writer: tom edison
-  entry_fav_count: 85
+    akp'ye oy verin cennetin anahtarı cebinize girsin
+  entry_id:  87793064
+  entry_writer: acayip gidesim vardi
+  entry_fav_count: 87
   entry_content: |
-    ayrılık acısının yarattığı melankolik hisler bağımlılık yaratmıştı. eve gelirken alıyorum birkaç bira, hafif çakır olunca açıyorum müziği, yoksunluğumu örtbas ediyorum. <br/><br/>selda bağcan, yaprak döker bir yanımız, diyor, benim bir yanım bahar bahçe. evgeny grinko vals yapıyor, neşet ertaş, bir ayrılıktan bir de ölümden dem vuruyor. cem karaca başını alıp gidiyor. niceleri çalıp söylüyor. <br/><br/>geçiyorum şiire. bir adın kalmalı geriye, diyor ahmet hamdi. cemal süreya, gözlerin durur mu onlar da gidiyorlar, gitsinler, diye sitem ediyor. ihsan yüce, zavallı sarhoşun haline acırken, ben de kendime acıyorum. sonra orhan veli gibi düşünüyorum. bilmezdim şarkıların bu kadar güzel, kelimelerin kifayetsiz olduğunu, bu derde düşmeden önce, diyorum ve yeniden açıyorum şarkılarımı. <br/><br/>böyle geçiyor günler. sevgili yoksa da anısı var. güzel anılar. sonra öyle bir olay oluyor, öyle sözler söyleniyor ki, zihinde oluşturulan mükemmel insan bir anda yerle yeksan oluyor. yaşanan olay burada anlatılacak bir şey değil. <br/><br/>biraz zaman geçiyor. alıyorum biraları, açıyorum müziği. eşlik edemiyorum. bu melankolide aynı tat yok. kelimeler anlamsız, şarkılar güzel değil. yaprak da dökmüyoruz, bahar bahçe de değiliz. gözlerin gitmesi üzmüyor, adı da kalmıyor geriye. <br/><br/>artık anlamsızlaşmış. seni sevmeyi sevdim, diyemiyorsun. işte şarkıların anlamsız, kelimelerin gereksiz olduğu bu an, sevilen kişiden vazgeçme eşiği aşılmıştır.
-  entry_channels: ilişkiler
+    martin luther duruşma sırasında yargıçlara seslendi;<br/><br/>"milleti cehennemle korkutup, cenneti para karşılığı satıyorsunuz. sıkıysa cehennemi satsanız ya ?"<br/>yargıçlardan biri; "cehennemi kim alır ki ?"<br/><br/>martin luther, "ben alıyorum, neyse parası vereyim"<br/><br/>bedava verdiler.<br/><br/>martin kapının önüne çıktı duruşma sonucunu merak eden binlerce kişiye;<br/><br/>"cehennemi satın aldım benimdir.<br/>bundan sonra oraya kimseyi almayacağım korkmayın."<br/><br/>cehennem korkusu ve din baskısından kurtulan halk, özgür beyinlere sahip oldu.<br/>ve almanya aydınlanması 500 yıl önce başladı.<br/><br/>-alıntı
+  entry_channels: siyaset
 - entry_name: |
     mukemmeligindayanilmazhafifligi
   entry_id:  87783315
   entry_writer: mazochist
-  entry_fav_count: 74
+  entry_fav_count: 78
   entry_content: |
     bu davar hakkında soruşturma başlatılması gayet normal. terör suçu övüyor ve türkiye'de şiddete teşvik eden bir şey yazıyor.<br/><br/>öte yandan, burada ve tüm sosyal medyada gar katliamı sonrası onlarca orospu çocuğu aynı şeyi yaptı. reina katliamı sonrası onlarca orospu çocuğu aynı şeyi yaptı. tek biri bile ceza almadı. üstelik bu ülkede olması bakımından şiddete teşvik eden yönü ve olası zararları daha büyüktü.<br/><br/>böyle bir çifte standardın olduğu bir ülkede insanlar adalete ve devlete güvenemezler. ha mevcut hükümetin o bağı güçlendirmeye, insanlara vatandaşlık bilinci kazandırmaya ve aynı ulusun parçası olma hissiyatı vermeye çalıştığını düşünmüyorum. o yüzden normal durum.<br/><br/>gar'ı, güvenpark'ı, camisi, otobüsü, çarşısı, sokağı vs. nerde olduğu fark etmez; terör eylemi övenin kafasını ezeceksin, gazetesini kapatacaksın, bırak fikrini söylemeyi, nefes alma hakkı bile vermeyeceksin. bu konuda çifte standart adalet sağlamaz, ülkedeki adaletsizlik duygusunu artırır.
   entry_channels: ekşi-sözlük
-- entry_name: |
-    90'lı yıllardaki zenginlik belirtileri
-  entry_id:  87784257
-  entry_writer: amcukpress
-  entry_fav_count: 64
-  entry_content: |
-    <a class="b" href="/?q=varan">varan</a>’la otobüs yolculuğu yapmak.
-  entry_channels: anket,tarih
 - entry_name: |
     yeni zelanda'da camiye saldırı
   entry_id:  87783518
@@ -190,10 +198,26 @@ data:
     lionel messi
   entry_id:  87802586
   entry_writer: the dark knight of cydonia
-  entry_fav_count: 41
+  entry_fav_count: 48
   entry_content: |
     2005-06 şampiyonlar ligi sezonunda 6 maçta forma giyip 1 gol 1 asistle oynamıştır. gruplarda 4 maçta ve son 16'nın 2 maçında forma giymiştir. 6 maçın 4'üne ilk 11'de başlamıştır, gruptaki 2 maçta da kadroda olmasına rağmen oyuna girmemiştir. <br/><br/>kalan maçlarda forma giyememesinin sebebi ise yaşadığı sakatlıktır. son 16'nın 2. maçında 25. dakikada sakatlanıp oyuna devam edememiştir ve sezonu kapatmıştır.<br/><br/>peki ben bunları nasıl biliyorum? çünkü internette arayıp 2006'da şampiyonlar liginde neler yaptığını görmem 5 saniyemi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.transfermarkt.co.uk/lionel-messi/leistungsdaten/spieler/28003/plus/0?saison=2005" title="https://www.transfermarkt.co.uk/lionel-messi/leistungsdaten/spieler/28003/plus/0?saison=2005">aldı</a>. <br/><br/>ayrıca 2006'da aldığı kupayı saymıyorsak takımını 2 amerika 1 dünya kupasında finale çıkarmasını da şampiyonluktan sayalım o zaman. higuain'in 3 maçta kaçırdığı net goller messi'nin suçu olmadığına göre messi şampiyon olmuştur. nasıl mantık ama?
   entry_channels: spor
+- entry_name: |
+    ekşi sözlük sex yapılacak insan veri tabanı
+  entry_id:  87803300
+  entry_writer: biaksam bekleriz
+  entry_fav_count: 47
+  entry_content: |
+    (bkz: <a class="b" href="/?q=entry+nick+uyumsuzlu%c4%9fu">entry nick uyumsuzluğu</a>)
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    recep tayyip erdoğan
+  entry_id:  87785035
+  entry_writer: muhendis kizan
+  entry_fav_count: 40
+  entry_content: |
+    çocuk gibi değil mi ya? sevmediği insanların ismini farklı telaffuz ediyor. cehape, esed, eskiden mehape derdi artık demiyor. ahhhaahaha ulan millet bu adama tapıyor ya kafayı yiyecem :))
+  entry_channels: siyaset,tarih,haber
 - entry_name: |
     16 mart 2019 yazarların korkudan entry girememesi
   entry_id:  87807312
@@ -203,45 +227,45 @@ data:
     <a class="b" href="/?q=milli+m%c3%bccadele">milli mücadele</a> döneminde <a class="b" href="/?q=kuva-y%c4%b1+milliye">kuva-yı milliye</a> mensupları hakkında sıklıkla ölüm fermanları çıkartılır, haklarında idam kararları verilirdi.<br/><br/>ya da caydırma yöntemi olarak <a class="b" href="/?q=bekira%c4%9fa+b%c3%b6l%c3%bc%c4%9f%c3%bc">bekirağa bölüğü</a>nde ağır şartlarda hapis edilirlerdi.<br/><br/>ve fakat inandıkları vatan savunmasından şurası soğuktur, burada ölüm var diyerek asla taviz vermediler.<br/><br/>dipnot: (bkz: <a class="b" href="/?q=t%c3%bcrk+genci+devrimlerin+ve+cumhuriyetin+sahibidir">türk genci devrimlerin ve cumhuriyetin sahibidir</a>)
   entry_channels: siyaset,ekşi-sözlük
 - entry_name: |
-    recep tayyip erdoğan
-  entry_id:  87785035
-  entry_writer: muhendis kizan
-  entry_fav_count: 37
+    erkeğe en çok yakışan dans
+  entry_id:  87805395
+  entry_writer: cam kenari manzaralari
+  entry_fav_count: 38
   entry_content: |
-    çocuk gibi değil mi ya? sevmediği insanların ismini farklı telaffuz ediyor. cehape, esed, eskiden mehape derdi artık demiyor. ahhhaahaha ulan millet bu adama tapıyor ya kafayı yiyecem :))
-  entry_channels: siyaset,tarih,haber
+    tabi ki de efelerin dansı, zeybektir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=JzN-lfHrdUE">https://www.youtube.com/watch?v=jzn-lfhrdue</a>
+  entry_channels: anket
 - entry_name: |
     behzat ç.
   entry_id:  87789122
   entry_writer: smoby19
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     bak yukarıdaki yarak kafalı anlayabileceğin şekilde anlatayım sana.<br/><br/>behzat ç. karakteri her şeyi doğru yaptığı için sevilmiyor, doğruları, yanlışları olan bir karakter. gözaltındaki adamı tekme tokat dövdü diye sevmiyor insanlar behzat ç’yi, aslında orada bir olumsuzluk var işte, onu anlatıyor sana. yanlışı gösteriyor. <br/><br/>ama senin gibi sik kafalılar dizinin sadece arabesk kısmını görüyor, çünkü sizin öyle taraklarda beziniz yok, teşkilatın verdiği çek’i almayıp, ‘tabak iyi ama çekin amk’ diyen amirin cesareti, hayalet için ceset taşıyan ekibin duygusal bağı vs. size uzak şeyler.<br/><br/>beğenmiyorsan izleme. ama dizi hakkında hiç bir şey bilmeden de boş yapma be kardeşim.
   entry_channels: tv,sinema,edebiyat,spoiler
 - entry_name: |
-    devletin dağıtacağı prezervatife isim önerileri
-  entry_id:  87783588
-  entry_writer: paranoyak robot
-  entry_fav_count: 27
+    ssg ve sözlük'ün twitter'da linç edilmesi
+  entry_id:  87795618
+  entry_writer: niye gereksiz olsun
+  entry_fav_count: 26
   entry_content: |
-    vatandaşşak
-  entry_channels: anket,sağlık
+    eskiden gündeme bastığımızda üstlerde düzgün başlıklar görür, gündemi buradan takip ederdik. şimdi gündeme tıklamıyorum bile, sapıkça, anlamsız amlı, götlü, memeli cinsiyetçi başlıklar en tepede. <br/><br/>başlıklarını engelle diye bir şey icat ettiler, sevindik. abuk sabuk tipleri doldurdular sözlüğe ama, en azından açtıklarını görmeyiz diye umuyorduk. bir boka yaramıyor.<br/><br/>sadece siyaset ve ekonomi başlıklarına girmeye çalışıyorum ki bu bahsettiklerimi görmeyeyeyim diye onda da umut yok. alakasız başlıklar burada da geziyor. troller her yerde.<br/>kısaca sözlük mü kaldı ki linç edilsin. sözlüğün anasını bellediler el birliğiyle...
+  entry_channels: siyaset,ekşi-sözlük,teknoloji
 - entry_name: |
-    çıplak fotoğraf gönderen kadın
-  entry_id:  87784012
-  entry_writer: yuppojelibon
-  entry_fav_count: 20
+    ilçe milli eğitimin disiplin cezasını iptal etmesi
+  entry_id:  87805682
+  entry_writer: overseer38
+  entry_fav_count: 26
   entry_content: |
-    escorta falan gidin, biz de rahatlayalım sözlük de rahatlasın. ne boş beleş adamlarsınız yahu.
-  entry_channels: anket,ilişkiler
+    başlığın tam hali "ilçe milli eğitimin, okulun verdiği disiplin cezalarını iptal etmesi şımarıklığı" olacaktı.<br/><br/>okul disiplin kurulunuz, disiplin yönetmeliğine göre, bayağı mahkeme gibi delil toplayarak, ifade alarak, yazılı olan kurallara göre disiplinsiz öğrenciye ceza veriyor ve ceza ilçeye onaya gidiyor, <a class="b" href="/?q=aman+ali+r%c4%b1za+bey+tad%c4%b1m%c4%b1z+ka%c3%a7mas%c4%b1n">aman ali rıza bey tadımız kaçmasın</a> kafasında bir şube müdürü tarafından ceza beğenilmiyor ve iptal ediliyor. "çok biliyorsan gel öğretmenliği sen yap dingil" diyemiyorsun, desen amire hakaretten, 3 hayırla memuriyet elden gidiyor.<br/><br/>sonuç olarak ciddi bir ceza almayacağını bilen öğrencilerin, önce serserileşmesi, sonra tüm öğrencilere nasıl serseri olunacağını göstermesi ve kanun, kural tanımayan premium bir serseri olarak mezun olup evlendikten sonra karısını öldürmesiyle sonuçlanıyor. <br/><br/>siz bir tane serseriyi okuldan atmayalım diye devlete emanet edilmiş 10 tane mazlum çocuğa işkence edilmesine göz yumuyorsunuz. bir serserinin disiplin cezası alabilmesi için işlediği suçun somut kanıtı olması gerekiyor. yani çocuk bir tane somut kanıtlı suç işliyorsa, 10 tane akran zorbalığı, haraç kesme, tehdit etme, taciz, istismar vs gibi ortaya çıkarılması daha zor suçları işliyor. somut kanıtı olan suça bile ceza verilemezken, bu emanet çocukları gelsin şube müdürü korusun bu serserilerin elinden. <br/><br/>ben daha milletin çocuğunu emanet olarak gören ne şube müdürü, ne milli eğitim müdürü gördüm. sanki ailelerin bütün çocukları bu kifayetsizler, o koltuklarda oturabilsin diye var. ağızlarını açınca çocuk merkezli eğitim diyorlar. eğitim çocuk merkezli falan değil. şube müdürü ve milli eğitim müdürü rahat etsin merkezli. serseri çocuğu kazanacak mış mış. daha bu ülke seni kazanamamış, ne milletin serserisini kazanması. <br/><br/>örnek vakamıza gelelim; okulda kavga çıkarıp dayak yiyen bir öğrenci, bıçaklı serserilerle okul basar. bu suçun karşılığı okuldan atılma ya da okul değişikliğidir. ilçe bu cezayı hayatta onaylamaz, iptal edip geri gönderir. ararsınız telefonla, aslında öğrencinin ortam değiştirmesi serseriliğini azaltacak öğrenciye iyilik sağlayacakken "ya hocam öğrenciyi kazanmaya çalışalım, daha hafif bir ceza verin" yani bizi uğraştırmayın denir. siz de cezayı veremezsiniz.<br/><br/>çalıştığım okulun birinde sapık bir öğrencinin, okuldaki kadın öğretmenlerin hepsini taciz ettiği ortaya çıktı. bu kafadaki kifayetsizler, sırf disiplin cezası vermeyip ilçe milli eğitime hoş gözükmek için "onlar da düzgün giyinselerdi"<sup class="ab"><a title="(bkz: kıyafetleri açık falan değildi)" href="/?q=k%c4%b1yafetleri+a%c3%a7%c4%b1k+falan+de%c4%9fildi" data-query="kıyafetleri açık falan değildi">*</a></sup> dedi ve olayı kapattı. ulan onlar da düzgün giyinsin ne demek dangalak. çocuk hepsini taciz etmiş. bunların hepsi mi giyinmeyi bilmiyor. ya da açık kıyafetler giyen kadınları taciz etmek normal mi.<br/><br/>düşünün okul yönetiyorsunuz, zorunlu eğitimle ilçenin jiletçisi, hapçısı, pezevengi <sup class="ab"><a title="(bkz: meslek lisesi)" href="/?q=meslek+lisesi" data-query="meslek lisesi">*</a></sup> okula doldurulmuş, öğrenciler ilahlaştırılmış, öğrenciye disiplin cezası verme ya da okulunuzdan atma hakkınız elinizden alınmış. size bu çocukları eğit, öğret ve nihayet yurda yarar bir insan et deniyor. yapmaya çalışıyorsunuz olmuyor. sonra öğrenci başarısız olunca ya da birini bıçaklayınca, senin yüzünden böyle oldu deniyor. siktir lan ordan.<br/><br/>okul insanları gerçek hayata hazırlıyorsa, gerçek hayatta da cezaları ve mahkemeleri kaldıralım o zaman. kaldıramıyorsak okulların kanunlarıyla ve adalet sistemiyle de oynamayalım.<br/><br/>okul müdürüsünüz problemli öğrencileriniz var, problem çıkacağını biliyorsunuz ama "problem inşallah okul dışında olur" diye duya etmekten başka elinizden bir şey gelmiyor. <br/><br/>aslında ilçenin vereceği disiplin cezasını vermemek ilçe için süper iştir, ilçe hem evrak işinden kurtulur hem serseri öğrencinin velisiyle uğraşmak zorunda kalmaz, hem disiplin istatistiklerini düşük tutar. ama sonuç olarak işini yapmamış olur, öğrenciler serserileşir, mazlum öğrenciler ezilir, ceza almayacağını bilen öğrenciler, öğrenci ve öğretmenlere her istediğini yapar. öğrenciler, öğretmenler hatta müdürler serseri öğrenciler tarafından öldürülür.<br/><br/>işin aslı ilçe milli eğitim kendi sorumluluğunu, okulun yetkisini gasp ederek sorumluluğu okul idaresine iteler, okul idaresi de disiplin cezası vermeyerek kendi sorumluluğunu öğretmene iteler. öğretmenler patlamaya hazır bombaların arasında eğitim vermeye çalışır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=jAufuUK8uMY" title="https://www.youtube.com/watch?v=jAufuUK8uMY">şu olay</a>da öğrencilere küfür ediyorsunuz ya etmeyin. bu öğrenciler sisteme girdikten sonra bu hale geldiler. okulda, ceza alacağını bilen hiçbir öğrenci böyle mahalle kavgalarına teşebbüs edemez. sizi temin ederim bu olay haberlere çıkmasa öğrenciler disiplin cezası almayacaklardı, bu olay kapatılacaktı. <br/><br/>ciddi problemler yaşandığında ilk olarak öğretmen görevden alınır, kimse ilçe idarecilerine dokunmaz. hiçbir ilçe idarecisi, bu iş benim mallığım yüzünden oldu, ben öğretmenlerin ve okulların yetkilerini gasp ettim demez. çünkü bunu düşünecek kadar kapasitesi yoktur. tek özelliği "türk eğitim-bir sen"'li olmasıdır. <br/><br/>sonra pisa sonuçlarında ülke gençleri 75 ülkenin içinde <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/96787f748397" title="https://eksiup.com/96787f748397">45'inci</a> olur. ülke en kötü eğitimi veren ülkeler listesinde at başı oynar. kadına şiddet olayları <a rel="nofollow noopener" class="url" target="_blank" href="https://www.politikyol.com/wp-content/uploads/2019/01/grafik.jpg" title="https://www.politikyol.com/wp-content/uploads/2019/01/grafik.jpg">11 yılda 5 buçuk katına</a> çıkar. sorumlu tabi ki öğretmendir. saçma sendikalı, liyakatsiz, çoğunluğu din kültürü öğretmeni ilçe yöneticilerinin hiç suçu yoktur. <br/><br/>bu kardeşler her sene ilde yapılan disiplin toplantısında kabararak "bizim ilçemizde hiç disiplin olayı olmadı" demek için, yani biraz reputation kasmak için, çok rahat bir şekilde disiplin yönetmeliğinin uygulanmasına engel olurlar. <br/><br/>ilçe milli eğitimler için sonuç iyidir ama aslında öğrencilerin serseri olması sağlanmış. mazlum öğrencilerin serserilerin içinde sindirilmesine göz yumulmuş, vatandaşın devlete emanet olarak verdiği gençlere hıyanet edilmiş, genç hiç zarar görmese bile disiplinsizlik yüzünden sigaraya başlamıştır, disiplin olayları yüzünden eğitim öğretim aksatılmıştır. <br/><br/>velisiniz ve öğrenciniz dövülüyorsa, zorbalığa uğruyorsa, bıçaklanıyorsa, öldürülüyorsa, kötü alışkanlık sahibi oluyorsa, serserileşiyorsa allah için sorumluyu okulda aramayın. sorumlu ilçe milli eğitimlerde. <br/><br/>bu ülkede okulda öldürülen, yaralanan, zorbalığa maruz kalan her öğrenci ve öğretmenin sorumlusu, okulların yetkisini gasp eden, liyakatsiz ilçe ve okul yöneticileridir. yapılan yöneticilik sınavları ne yazık ki karaktersiz öğretmenleri seçiyor.<br/><br/>yea gelmişsin bir kaç münferit olayı burda yazmışsın diyen arkadaşlar. çalıştığım dördüncü ilçem hepsi bu şekilde. öğretmenler serseri öğrencilerin suyuna giderek idare etmeye çalışıyor. saygısız ve serseri bir gençlik yetişiyor. son 11 yılda kadına cinayeti sayıları <a rel="nofollow noopener" class="url" target="_blank" href="https://www.politikyol.com/wp-content/uploads/2019/01/grafik.jpg" title="https://www.politikyol.com/wp-content/uploads/2019/01/grafik.jpg">5,5 katına</a> çıktıysa bu yüzden çıktı. <sup class="ab"><a title="(bkz: boktan bir hayat bağıra bağıra geliyor)" href="/?q=boktan+bir+hayat+ba%c4%9f%c4%b1ra+ba%c4%9f%c4%b1ra+geliyor" data-query="boktan bir hayat bağıra bağıra geliyor">*</a></sup><br/><br/>bu hangi ilçeymiş diye merak ediyorsanız, en az yarısı böyle. <br/><br/>not: bakanlıktan bu yazıyı okuyan varsa allah, muhammet<sup class="ab"><a title="(bkz: sav)" href="/?q=sav" data-query="sav">*</a></sup> aşkına bu saçmalığa bir son verilsin. mümkünse zorunlu eğitim de kaldırılsın, mahallenin jiletçisi, hapçısı, pezevengi okullara doldurulmasın. lise eğitiminden sonra pezevenk normalleşmiyor, diğer öğrenciler de pezevenk oluyor <sup class="ab"><a title="(bkz: tanıdığım pezevenklik yapan öğrenci var)" href="/?q=tan%c4%b1d%c4%b1%c4%9f%c4%b1m+pezevenklik+yapan+%c3%b6%c4%9frenci+var" data-query="tanıdığım pezevenklik yapan öğrenci var">*</a></sup>. eğitimde köklü değişiklik yapmadan önce, mevcut sistemdeki aksaklıklar giderilsin. bi de hakkımda işlem yapılmasın mümkünse. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>ne olur ne olmaz tanımı: ülke eğitimine çok büyük darbe vuran olaydır.
+  entry_channels: haber,eğitim
 - entry_name: |
-    chp'nin skandal yeni zelanda açıklaması
-  entry_id:  87801074
-  entry_writer: dilbilimcisi
+    2019 avustralya gp
+  entry_id:  87791907
+  entry_writer: cabalarkebap
   entry_fav_count: 17
   entry_content: |
-    sabah gazetesinin verdiği herhangi bir haberi farklı kaynaklardan araştırmak gerektiğini öğrenmemiz gerekiyor artık. malumunuz üzere, son derece rahatlıkla yalan haber yapabilen bir gazete bu.<br/><br/>hoş, başka herhangi bir kaynakta gördüğümüz bir habere bile atlamadan önce, onu farklı kaynaklardan araştırmayı alışkanlık haline getirmekte vicdani bir fayda var.
-  entry_channels: siyaset
+    kubica seat leon ile mi katıldı sıralama turuna ya o nasıl süre ?<br/><br/>tanım: yeni sezonun ilk yarışı.
+  entry_channels: spor,otomotiv
 - entry_name: |
     16 mart 2019 beşiktaş göztepe maçı
   entry_id:  87793994
@@ -250,14 +274,6 @@ data:
   entry_content: |
     1 haftadır beşiktaş'ta kalıyorum ve üzerimde göztepe forması sweeti ile 1 haftadır çarşıda geziyorum.balıkçılar çarşısı olsun midye kokoreç yemek olsun gittiğim her mekanda beşiktaş taraftarı gayet güzel olumlu şeyler söylediler göztepe'miz için.bir kişi laf atıp yan dahi bakmadı..bazen takıldılar midye ne kadar sorusuna 1 lira ama göztepe'lilere 2 lira veya göztepe inşallah ligde kalır,göztepe gibi takımlar düşssün istemeyiz,tamer hocayı hemen kaptınız vs.. gibi gayet düzgün efendi şakalaşmarda bulunduk...<br/><br/>diyeceğim şu ki burda ortamı germeye çalışan hayatında bir kere beşiktaş'a inönüye gitmemiş televizyon taraftarı olan sözde beşiktaş'lı su katılmamış orospu çocuklarına aldırış etmeyin ben bizzat yerinden bildiriyorum gerçek beşiktaş taraftarı özellikle çarşı gerçektende efendiymiş..takdir ettim..<br/><br/>hakedenin kazanmasını dilerim.beşiktaş karşısında alacagımız 1 puan bile bizim için hayati öneme sahip..<br/><br/>haydi bastır şanlı göztepe'm!<br/><br/>edit: beşiktaş çarşısından 10 kokoreç ve midyeciyi izmir'e davet etmek isterim bugun ki maç ne olur bilemem ama midye ve kokoreçte gerçekten izmir döver..abi baharatlı midye domatesli kokoreçmi olur allasen.gelin bi ısmarlayımda midye kokoreç görün.<br/>edit 2: su katilmamis tayfadan olanlar yesillendirmeye baslamislar mesaj kutusunu..
   entry_channels: spor,anket,haber
-- entry_name: |
-    erkeğe en çok yakışan dans
-  entry_id:  87805395
-  entry_writer: cam kenari manzaralari
-  entry_fav_count: 14
-  entry_content: |
-    tabi ki de efelerin dansı, zeybektir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=JzN-lfHrdUE">https://www.youtube.com/watch?v=jzn-lfhrdue</a>
-  entry_channels: 
 - entry_name: |
     no ceiling'in de tutuklanması gerektiği
   entry_id:  87804795
@@ -275,61 +291,13 @@ data:
     alberto mielgo’nun yönettiği the witness isimli 3. bölüm , animasyon tarihinin en iyi eseri olabilir. tasarımlar , mekanlar, kamera hareketleri, şehir tasarımı, karakterlerin fiziksel hareketleri , hepsi bir işçilik ve sanat şahaseriydi.<br/>2019 da izleyebileceğim en iyi şey olma ihtimali yüksek.
   entry_channels: tv
 - entry_name: |
-    ssg
-  entry_id:  87794654
-  entry_writer: skumbag
-  entry_fav_count: 8
-  entry_content: |
-    abd'ye yerleşmekle ne kadar doğru bir iş yaptığını dün tekrar gördüğümüz sedet kişisi.<br/>adam resmen "yapacağınız işi sikeyim ben gidiyorum." demiş.
-  entry_channels: ekşi-sözlük
-- entry_name: |
-    1.75 boyuyla topuklu ayakkabı giyen kadın
-  entry_id:  87787822
-  entry_writer: olesya
-  entry_fav_count: 7
-  entry_content: |
-    (<a class="b" href="/entry/37346865">#37346865</a>) topuklu ayakkabı giymeyle ne kadar büyük<sup class="ab"><a title="(bkz: yarrak)" href="/?q=yarrak" data-query="yarrak">*</a></sup> istenildiğinin ne alaka olduğunu düşündüren entry barındıran başlık hahahahahahhaa
-  entry_channels: ilişkiler
-- entry_name: |
-    game of thrones
-  entry_id:  87799121
-  entry_writer: improbability
-  entry_fav_count: 6
-  entry_content: |
-    sayesinde yazar profilinin daha ne kadar boktanlasabilecegini anladigim dizi. biri gelir merakla bekliyorum der, digeri imdb ye bakacak akli melekeleri gelismedigi icin bolum isimlerini sorar. <br/><br/>alin yavrum. onbiner yirmibiner yazar alin. sikin biraz daha sozlugu. hala dibinde kaldi. onu da bitirin.<br/><br/>biri de pazarlama stratejinize sicayim demis. adamlar 420 dk lik epik bir eser cekiyor. pasamizin gonlu olsun diye 6 ayda cekip bitirsinler. mesela yuzuklerin efendisi filmleri arasinda 2şer sene vardi. kimse soylendi mi ona bu kadar? hayir. got un produksiyon o filmlerden eksik bir yani mi var? adamlar kac kere acikladi niye bu kadar vakte ihtiyaclari oldugunu. her yerde yaziyor sebebi.<br/><br/>2 sene beklemek zor gelirim anlarım. ama bunu pazarlama stratejisi zannetmek nasil bir cehalettir. hele bunu gelip sozluge yazmak nasil bir cahil cesaretidir. o boktan entry ye gelen 3 favori nasil bir cehalet yuceltmedir?<br/><br/>2 sene beklemek istemiyorsan cok guzel diziler var bak. kanal d, star vs hepsi her aksam yayinliyor. hem de her bolumu 3 saat.
-  entry_channels: tv,sanat,edebiyat,spoiler
-- entry_name: |
-    gülben ergen
-  entry_id:  87783435
-  entry_writer: 52hz
+    içki içen insanların ahirette vereceği hesap
+  entry_id:  87783338
+  entry_writer: negrotower
   entry_fav_count: 5
   entry_content: |
-    esli eşi erhan çelik kendisi için (bkz: <a class="b" href="/?q=allah+neden+%c4%b1slah+etmiyor+bunu+bilmiyorum">allah neden ıslah etmiyor bunu bilmiyorum</a>) şeklinde bir ifade kullanabilmişti ancak. korktu adam bariz. kadın hem sinsi hem de cidden çok tehlikeli tipler var etrafında.<br/><br/>(bkz: <a class="b" href="/entry/76061117">#76061117</a>)
-  entry_channels: tv,müzik,magazin
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  87786612
-  entry_writer: kazimisgzasvorert
-  entry_fav_count: 5
-  entry_content: |
-    bu ne iğrenç ve seviyesiz sorular ya. ekşi sözlük erkeklerinin ne kadar kalitesiz olduğunu gösteren başlık.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    brenton tarrant
-  entry_id:  87791752
-  entry_writer: volkanslim
-  entry_fav_count: 5
-  entry_content: |
-    manifestosunun bir bolumunu okudum. hepsini okuyamadim cunku okunmaya degecek bir yazi degil.<br/><br/>birincisi sunu soylemek lazim hitabeti belli bir seviyenin uzerinde. kendini iyi ifade ediyor.<br/><br/>fakat yazilarindan cehalet akiyor.<br/><br/>birincisi natoyu avrupa ordusu zannediyor. bunu dusunebilmek icin ilkokul seviyesinde bir algiya sahip olmak lazim.<br/><br/>ikincisi bir ingiliz kolonisi olan yeni zelanda vatandasi olarak etnik temelli avrupa birliginin kurulmasi gerektigini soyluyor. bunu gidip ingilterede soylese bir araba sopa yerdi sanirim. ingilizlerin kendilerini avrupali gormedigini, avrupalilari, ingilizleri tarih boyunca asagi cekmis parazitler olarak gordugunu, basta alman ve fransizlar olmak uzere avrupalilardan nefret ettiklerini bilmeyecek kadar gerceklerden bihaber.<br/><br/>buyuk ihtimalle adam gibi kurumsal bir egitim almadan internetten ordan burdan edindigi deli sacmasi fikirlere kendini inandirmis bir zavalli.
-  entry_channels: siyaset,haber
-- entry_name: |
-    sahip olunan ilk forma
-  entry_id:  87783170
-  entry_writer: aaandm
-  entry_fav_count: 4
-  entry_content: |
-    şu an çok garip geliyor ama <a class="b" href="/?q=ipswich+town">ipswich town</a> forması. sene 1993 falandı sanırım. ortaokul 2 olmalı. hayır, ünlü bi futbolcusu falan olsa anlıycam.<br/><br/>yalnız çok klas formaydı, hala saklarım. mavi beyaz forza ipswich.
-  entry_channels: spor,anket,tarih
+    bi başlığı her cuma hangi zihinsiz hortlatıyor ?<br/><br/>t: kişinin kendi vereceği hesaptır.<br/><br/>size ne, bize ne ?
+  entry_channels: anket,ilişkiler,yeme-içme
 - entry_name: |
     iphonedo
   entry_id:  87802269
@@ -347,21 +315,13 @@ data:
     fuckbuddylik kurumunu tamamen yanlış anlamış bir ilandır. dertleşeceksek fuckbuddy olmanın ne anlamı var? fuckbuddylik tamamen hayvani cinsellik dürtüsünü köreltmek amaçlı bir oluşumdur, kendisi bir mittir. dert ayağına muhabbet açayım fuckbuddy olayım dersen olabilecek bir başlıktır.
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
-    adam dövdüren arkası sağlam liseli maskülen kız
-  entry_id:  87806556
-  entry_writer: danspistindekicocuk
-  entry_fav_count: 3
-  entry_content: |
-    buyumus halini tanidigim kizdir.<br/><br/>(bkz: <a class="b" href="/?q=sila">sila</a>)
-  entry_channels: ilişkiler
-- entry_name: |
-    cumhuriyet halk partisi
-  entry_id:  87794331
-  entry_writer: zozohoma
+    ingiltere'de karşıdan karşıya geçen adam
+  entry_id:  87808485
+  entry_writer: kivanco
   entry_fav_count: 2
   entry_content: |
-    son 20 yıldır ülkenin başına bela olmuş parti. şöyleki iktidara karşı hiçbir siyaset üretemeyerek ülkenin bu duruma gelmesinde en az iktidar kadar pay sahipleridir kendileri.<br/><br/>ayrıca merkez sağ kanadında olan alternatifsizlikten çok chp'nin alternatifsizliği daha kötü bir durumdur. ülke bu partinin yerine sosyalizmi iliklerine kadar temsil edebilen bir alternatife ihtiyaç duymaktadır.
-  entry_channels: siyaset,tarih
+    ingiltere'de değil çin'de karşıdan karşıya geçen adamdır. british tipi taksi sizi yanıltmasın.<br/><br/>edit: yalnız devirdiği bariyerleri kaldırma girişimi çok şeker. en azından denedin kardeşim :)
+  entry_channels: 
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  87802426
@@ -387,6 +347,22 @@ data:
     bi salın artık şu yemeği de kendi halinde pişsin.
   entry_channels: anket,yeme-içme
 - entry_name: |
+    31 mart 2019 yerel seçimleri
+  entry_id:  87806329
+  entry_writer: theanothereconomist
+  entry_fav_count: 1
+  entry_content: |
+    otuz küsürüncü yaşımdayım, ilk kez bu kadar garip bir seçim ortamı hissediyorum. <br/><br/>insanlarımız için en hayırlı sonuçların olmasını dilediğim seçimdir.
+  entry_channels: siyaset,haber
+- entry_name: |
+    tuttuğun takımı söylemeden anlat
+  entry_id:  87792402
+  entry_writer: iron maiden fan
+  entry_fav_count: 0
+  entry_content: |
+    yurtiçi:<br/>(bkz: <a class="b" href="/?q=diren+ha+diyarbekir+diren">diren ha diyarbekir diren</a>)<br/><br/>yurtdışı:<br/>(bkz: <a class="b" href="/?q=i+m+forever+blowing+bubbles">i m forever blowing bubbles</a>)
+  entry_channels: spor,anket
+- entry_name: |
     şu anda çalan şarkı
   entry_id:  87785987
   entry_writer: zeytub
@@ -395,11 +371,35 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/X3la2BA_5eo" title="https://youtu.be/X3la2BA_5eo">sor-atiye</a>
   entry_channels: anket,müzik
 - entry_name: |
-    31 mart 2019 yerel seçimleri
-  entry_id:  87806461
-  entry_writer: tourist eomer
+    şenol güneş
+  entry_id:  87809061
+  entry_writer: civilate
   entry_fav_count: 0
   entry_content: |
-    <a class="b" href="/?q=ey%c3%bcpsultan">eyüpsultan</a>‘da <a class="b" href="/?q=chp">chp</a> adayı <a class="b" href="/?q=emel+bileno%c4%9flu">emel bilenoğlu</a>‘nun yahut <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a>‘nun pankartları ya sökülüyor ya yırtılıyor... o pankartların yerini ise ibb başkan adayı olan ve güzel simit yiyen beyefendiyle, ilçe adayının afişleri alıyor.
-  entry_channels: siyaset,haber
+    tadinda birakip gitmesi gereken teknik direktorumuz. diger ic saha macinda ciddi anlamda tepki gorecegi kesin gibi gorunuyor.
+  entry_channels: spor
+- entry_name: |
+    neden hep gece
+  entry_id:  87809256
+  entry_writer: zedsdead
+  entry_fav_count: 0
+  entry_content: |
+    mahallede büyümüş çocukların yakından tanıyacağı, her mahallede olan ercüment abi tiplemesi güldürdü. biraz daha kısa olsaydı daha iyi olabilirdi, konuşmalar çok uzun tutulmuş.<br/>(bkz: <a class="b" href="/?q=k%c3%b6pek+tutturmak">köpek tutturmak</a>)<br/>(bkz: <a class="b" href="/?q=erc%c3%bcment+abi">ercüment abi</a>)
+  entry_channels: 
+- entry_name: |
+    necip uysal
+  entry_id:  87808725
+  entry_writer: ebuomer
+  entry_fav_count: 0
+  entry_content: |
+    atiba, medel, vida, dorukhan'ın atmaya cesaret edemediği uzun topları müthiş bir özgüvenle deneyen, becerememesine rağmen sıfır moral bozukluğu ve aynı özgüvenle tekrar tekrar deneyen ciddi anlamda düşük bir ıq ya sahip top tepici. yazık gerçekten. şu gibi adamlar sırf düzenli idman yapıyor diye futboldan milyoner oldular.
+  entry_channels: spor
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  87789319
+  entry_writer: hacettepeli
+  entry_fav_count: 0
+  entry_content: |
+    yavşak yavşak link verenlere inat burdayız.<br/><br/>derdi dertle nötrleyenlerin yeridir.<br/><br/>not: ilişki “dert”leri hariç...
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
