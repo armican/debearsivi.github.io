@@ -6,7 +6,7 @@ data:
     isveççe ile türkçeyi kıyaslayan afet türk kızı
   entry_id:  88047809
   entry_writer: cift uskur hulusi reis 2
-  entry_fav_count: 916
+  entry_fav_count: 924
   entry_content: |
     maşallah diyin lan.<br/><br/>edit: yalnız üzerinde düşünmemiz gereken şey muhtemelen yurtdışında yaşayıp büyümüş bir kızın, iç anadolu, doğu karadeniz ya da güneydoğuda büyüse ne halde olacağı bence. topraklarımız insanımızı kurutan, yüzündeki gülümsemeyi silen bir zehirle kaplı adeta.
   entry_channels: haber
@@ -14,7 +14,7 @@ data:
     online oyunlarda türklerin istenmemesi
   entry_id:  88043445
   entry_writer: bana fikirlerinden bahset
-  entry_fav_count: 651
+  entry_fav_count: 655
   entry_content: |
     kesinlikle her gün karşılaştığım durumdur. fakat bende rte falan demiyorlar allah akbar falan yazıp dalga geçiyorlar. araplarla ıraklılarla falan bir tutuyorlar yani türkleri. çok da farklı sayılmayız zaten artık. emeği geçen herkesin amk.
   entry_channels: oyun,teknoloji
@@ -22,7 +22,7 @@ data:
     it gibi korkacaksınız tek bir cümle dahi yazarken
   entry_id:  88054556
   entry_writer: mrtbsrk
-  entry_fav_count: 414
+  entry_fav_count: 419
   entry_content: |
     saltanat içerisinde şeriatın gelmesini bekleyen bir tip.<br/>kaale almamak lazım.<br/>koduğumun aktrolü.<br/><br/>edit: modlog sahibi terbiyesiz entrysini güncellemiş.<br/>biz kimsenin diniyle ya da inancı ile dalga geçmiyoruz.<br/>sadece bu ideolojinin rasyonel olmadığını küçük beyinleriniz almasa dahi her fırsatta anlatmaya çalışıyoruz.<br/>istiyoruz ki sizin gibi 3-5 orospu çocuğu bir araya gelip bir 15 temmuz daha yaşatmayın bu güzel ülkeye...<br/><br/>yeni edit: bunlar hangi cemaatin hangi kadrosundan acaba?<br/>sık sık tehdit mesajları alıyorum.<br/><br/>son giri : <br/>ilgili şahıs kendi hesabının uçurulması adına başlık açmış.cesaretinden ötürü kendisini tebrik eder ve ajitasyon yaptığını anladığımızı da bilmesini isteriz.<br/>bundan sonra türkiye cumhuriyeti sınırları içerisinde özgürce düşünen kesimleri o iğrenç parmakların ile işaret ederek hedef gösterip,tehdit etmeye kalkma derim.keza o parmağını da ,kalemini de kırarlar arkadaşım.
   entry_channels: siyaset,ekşi-sözlük,magazin
@@ -30,7 +30,7 @@ data:
     kanada'da acilde 11 saat bekleyen kadının ölmesi
   entry_id:  88053435
   entry_writer: harzem
-  entry_fav_count: 383
+  entry_fav_count: 389
   entry_content: |
     kanada'da o kadar nadir bir olay ki, ta türkiye'de haber oluyor.<br/><br/>türkiye'de olsa türkiye'de bile haber olmuyor.<br/><br/>türkiye'de, doktoru gördükten sonra ilaçsızlıktan, devlet ameliyat parasını ödeyemediğinden falan ölüyorlar zaten.
   entry_channels: sağlık,haber
@@ -38,90 +38,114 @@ data:
     çift soyadı kullanan kadınlar
   entry_id:  88047474
   entry_writer: dry power
-  entry_fav_count: 284
+  entry_fav_count: 289
   entry_content: |
     tabiki kişinin kararıdır ancak benim için en komik olanı ;<br/><br/>(bkz: <a class="b" href="/?q=simge+f%c4%b1st%c4%b1ko%c4%9flu+tavuk%c3%a7uo%c4%9flu">simge fıstıkoğlu tavukçuoğlu</a>)<br/><br/>soyadını oğlu parantezine almak.<br/><br/>(fıstık +tavukçu) (oğlu)
   entry_channels: ilişkiler
 - entry_name: |
-    levent üzümcü'nün paylaştığı tweet
-  entry_id:  88048721
-  entry_writer: slayer09
-  entry_fav_count: 251
+    22 mart 2019 dolar kuru
+  entry_id:  88041912
+  entry_writer: bok gibi solo calan adam
+  entry_fav_count: 278
   entry_content: |
-    nesini savunuyorsunuz lan bu yazının. adam katil mi, tecavüzcü mü, terörist mi, alt tarafı ağaç kesmiş. ağaç kesmek dünyanın neresinde suç. bin yıllık bir ağacı mı kesmiş. belki çürük bir ağacı kesti. ağaçları kesip yol mu geçirdi, villa mi yaptı. kışlık yakacağını karşılamak için uğraşıyormuş adam. geride dört çocuk bırakmış utanmaz herifler. bu dünya için gereksizsiniz ne kadar erken kabul ederseniz o kadar iyi.
-  entry_channels: siyaset,haber
+    merkez bankası gösterge faizi %24 iken bankaları eşkiyalık yoluyla faizleri indirmeye zorlarsan, yabancısı yerlisi tabi sana güvenmeyip kaçar. bu cin fikir hangi zekanın ürünüyse kutluyorum. ama anlamadığım iki şey var, birincisi ortaya çıkmayacağını nasıl düşünebildiler? ikincisi ise yatırımcılar bunu neden bu kadar geç fark etti?<br/>tahminlerin çok üzerinde yükselmiş kurdur.<br/><br/>bunu hemen şöyle açıklayalım;<br/>yatırımcı: kardeşim senin enflasyon hafiften yükselmeye başladı faizi biraz yükselt te kaldığımıza değsin. (3.80)<br/>devlet: aman abartmayın canım faizi yükseltirsek enflasyon da yükselir ekonomi hepten durur. (4.05)<br/>yatırımcı: kardeşim bak faizleri yükseltin ben gidiyorum ona göre. (4.50)<br/>devlet: faiz enflasyona sebep olur.. (4.80)<br/>yatırımcı: bak gidiyorum (4.95)<br/>devlet: git ulan yiyorsa allahın dış mihrakı seni.. (5.20)<br/>yatırımcı: dolar daha güvenli, enflasyonu yok ve reel faizi baba gibi. ben kaçtım güle güle.. (5.90)<br/>devlet: kaçmazsan adam değilsin. (6.20)<br/>yatırımcı: ... (7.20)<br/>devlet: la gel gel vercem sana faiz söz. (6.80)<br/>yatırımcı: sana inanmıyorum (6.55)<br/>devlet: al sana %24 faiz paşalar gibi ye iç (6.10)<br/>yatırımcı: yetmez ama neyse hadi geleyim aferin aklın başına gelmiş (5.20)<br/>devlet: lan bu faizi yükselttik ama ekonomi durdu, yok mu çözümü bunun? hem dolar yükselmesin hem ekonomi işlesin seçimi kazanalım. (5.17)<br/>cin fikir bir dostumuz: bankalarla gizli odalarda konuşalım. kredi faizlerini düşürsünler mevduat faizini aynı tutsunlar birazcık karları azalır bi şey olmaz ekonomi de işler 1-2 ay idare etsinler canım nolcak.<br/>bankalar: wowowowowow karımdan vazgeçemem. ama eğer sizin de rızanız varsa mevduat faizlerini de indirirsem kredi faizlerini ancak o zaman düşünebilirim.<br/>devlet: napsak? yatırımcıya da söz verdik..<br/>cin fikirli dostumuz: merkez bankası gösterge faizi gösterge olarak kalır bir şeycik olmaz ya. 1-2 ay yeter. zaten farketmezler çoğu insan %24 ten senelik vadeye girdi.<br/>devlet: iyi bakalım o zaman senin dediğin olsun banka kardeş (5.40)<br/>yatırımcı (2 ay sonra): lan?!?!??? (5.80&gt;)<br/><br/>edit: düzeltmeler..
+  entry_channels: ekonomi
+- entry_name: |
+    erkeklerin zengin aileye damat olma hayali
+  entry_id:  88048246
+  entry_writer: atcephesi
+  entry_fav_count: 276
+  entry_content: |
+    sizin şeyma’nız varsa bizim de berat’ımız var. hadi bakalım.<br/><br/>(bkz: <a class="b" href="/?q=buras%c4%b1+%c3%a7okomelli">burası çokomelli</a>)<br/><br/>edit: “şeyma fakir değildi” “berat fakir değildi” şeklinde mesajlar atıyorsunuz. atmayın.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     240 soruda 51 yanlışla 16 bin kişide 97. olmak
   entry_id:  88059841
   entry_writer: pacificadora
-  entry_fav_count: 240
+  entry_fav_count: 264
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>turkiye'de en az 15904 gerizekali doktor oldugunun gostergesidir.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yazmış üstteki arkadaş...<br/><br/>tıp kazanmaktan, tıp eğitiminden, hekimliğin zorluklarından habersiz, cahil bir yazar beyanı.<br/><br/>arkadaşı, çıkan sorulardan bir tanesini bırakın çözmeyi, ya da anlamayı, takılmadan duraksamadan okumaya davet ediyorum. okursa alnından öpeceğim...<br/><br/>72 alan arkadaşı kutluyorum, yolun açık olsun... cerrahiden uzak dur. (doçent bir cerrah abi tavsiyesi)
   entry_channels: sağlık,eğitim
 - entry_name: |
+    levent üzümcü'nün paylaştığı tweet
+  entry_id:  88048721
+  entry_writer: slayer09
+  entry_fav_count: 257
+  entry_content: |
+    nesini savunuyorsunuz lan bu yazının. adam katil mi, tecavüzcü mü, terörist mi, alt tarafı ağaç kesmiş. ağaç kesmek dünyanın neresinde suç. bin yıllık bir ağacı mı kesmiş. belki çürük bir ağacı kesti. ağaçları kesip yol mu geçirdi, villa mi yaptı. kışlık yakacağını karşılamak için uğraşıyormuş adam. geride dört çocuk bırakmış utanmaz herifler. bu dünya için gereksizsiniz ne kadar erken kabul ederseniz o kadar iyi.
+  entry_channels: siyaset,haber
+- entry_name: |
+    23 mart 2019 selahattin demirtaş'ın açıklaması
+  entry_id:  88049182
+  entry_writer: trapezisus
+  entry_fav_count: 252
+  entry_content: |
+    "bütün halkımıza, tabanımıza çağrım ve varsa azıcık hatırım, ricam şudur ki, gerekirse bağrınıza taş basın, ama mutlaka sandığa gidip “faşizme hayır” anlamına gelecek oyunuzu kullanın. seçim sonuçları, demokrasi ve barışın gelişmesine fırsat sunabilir. oyunuz bu nedenle çok kıymetlidir. seçimi boykot etmeyi asla düşünmeyin. biz partililerimizden, aday çıkarmadığımız yerlerde chp veya iyi parti’ye severek veya gönülden oy vermelerini beklemiyoruz. bu gerçekçi de değildir. ama bazen bir tek oy, birçok mesaj içerir. işte sizin oyunuz “çok mesajlı bir güce” sahip, stratejik bir oydur."<br/>şeklinde açıklama yaparak seçimlerde değişimin öncülüğünü yine sahiplenmiştir<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.artigercek.com/haberler/mutlaka-sandiga-gidip-fasizme-hayir-anlamina-gelecek-oyunuzu-kullanin" title="https://www.artigercek.com/haberler/mutlaka-sandiga-gidip-fasizme-hayir-anlamina-gelecek-oyunuzu-kullanin">kaynak</a><br/>edit: kaynak
+  entry_channels: siyaset,tarih,haber
+- entry_name: |
     akp'ye oy vermeyenler vatan haini ve teröristtir
   entry_id:  88051578
   entry_writer: saintly
-  entry_fav_count: 205
+  entry_fav_count: 209
   entry_content: |
     nazilerin yahudilere yaptığı işaretleme sistemi gibi akp'li olmayanları da belli edecek bir işaretleme sistemi getirseler de kurtulsak amına koyayım. bir gün zillet, bir gün terörist, haftasonu hain olmaktan bıktık. sabitleniriz en azından.
+  entry_channels: siyaset,haber
+- entry_name: |
+    erdoğan'a saygısızlık yapan teyze
+  entry_id:  88062165
+  entry_writer: buyuyuncebilimkadiniolucam
+  entry_fav_count: 167
+  entry_content: |
+    ohh ne de güzel söyledin be teyzem, elini yüzünü öpeyim.
   entry_channels: siyaset,haber
 - entry_name: |
     tc kimlik numarasını 3+3+3+2 şeklinde ezberlemek
   entry_id:  88053444
   entry_writer: ertann12
-  entry_fav_count: 156
+  entry_fav_count: 158
   entry_content: |
     2+2+2+2+3
   entry_channels: anket
 - entry_name: |
-    kıro kızların ortak özellikleri
-  entry_id:  88043737
-  entry_writer: kuyruk yagi
-  entry_fav_count: 156
-  entry_content: |
-    - beyaz samsung telefon. <br/><br/>istisnasız hepsi bunlardan kullanıyor.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    ekşi sözlük'e e-devlet'ten giriş yapmak
-  entry_id:  88057484
-  entry_writer: dinazorlar turkmus haci
-  entry_fav_count: 156
-  entry_content: |
-    az önce deneyip hayran kaldığım özellik. yaparsa ak parti yapar. <br/><br/>giriş yapar yapmaz entrylerinizin toplam yatarı hesaplanıyor ve sonra "silivri mi, sincan mı?" diye yönlendirme yapıyor sistem.<br/><br/>çok başarılı.
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    erdoğan'a saygısızlık yapan teyze
-  entry_id:  88062165
-  entry_writer: buyuyuncebilimkadiniolucam
-  entry_fav_count: 120
-  entry_content: |
-    ohh ne de güzel söyledin be teyzem, elini yüzünü öpeyim.
-  entry_channels: siyaset,haber
-- entry_name: |
-    23 mart 2019 cumhur ittifakı ankara mitingi
-  entry_id:  88054568
-  entry_writer: marsli
-  entry_fav_count: 117
-  entry_content: |
-    zamanında aynı yerlerden okyanus ötesine seslenip bitsin bu hasret, tülay geri dön diye haykıranların bu sefer fetö diye haykıracağı miting.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
     2019 ekonomik krizi
   entry_id:  88053721
   entry_writer: gogu delen adam
-  entry_fav_count: 109
+  entry_fav_count: 113
   entry_content: |
     okunmayacağımı bildiğimden, instagram’da vakit geçirmek insanlara daha keyifli geldiğinden, bir de kanzuk sebebiyle sözlükten yıllardır soğuduğumdan uzun zamandır pek uzun entry yazmıyorum. şu başlığı gündemde epeydir görüyorum fakat günümüze dek bir şey yazmamıştım. şimdi 3-5 satır ekleme ihtiyacı hissettim.<br/><br/>öncelikle, ekonomik kriz kavramından anlaşılan nedir, kıstası nelerdir? farklı tanımları olabilmekle birlikte ekonominin küçüldüğü, enflasyon sebebiyle fiyatların arttığı durumun eş anlı varlığı ekonomik krizin varlığı için yeterli kıstaslar.<br/><br/>ülkemiz 2018 yılının 4. çeyreğinde, bir önceki yılın aynı çeyreğine göre %3 küçüldü. şubat 2019 dönemi itibarıyla tüketici fiyat endeksi (veya enflasyon oranı) bir önceki yılın aynı ayına göre ~%20 artmış bulunuyor. yani elimizde bir yandan küçülen, diğer yandan fiyatlar genel seviyesi artan bir ekonomik süreç mevcut.<br/><br/>diğer yandan bir de döviz krizi süreci var. bu kavramın net bir tanımı olmamakla birlikte genel fikir birliğine göre bir ülkenin para birimi döviz sepeti karşısında (bizdeki döviz sepeti ağırlıkla usd ve eur) yılda %15’ten fazla değer kaybettiyse bu durum döviz krizi varlığı için yeterli sayılıyor. bizdeki durum nasıl? 2018 yılının başında 1 usd’nin tl karşılığı 3.77 iken 2018 yılının sonunda 1 usd’nin tl karşılığı 5.26, yani yerli paradaki değer kaybı yıllık %40.<br/><br/>siyasi tartışmalara girmeden; yukarıda belirtilen 2 paragraftaki rakamlardan bu entry tarihi itibarıyla bir ekonomik kriz içerisinde olduğumuz sonucu ortaya çıkıyor. tabii ekonomik krizin boyutu finansal sektörü (ağırlıkla bankaları) ve reel sektörü (üreten sektörler) etkileme açısından farklılaşıyor. ekonomik kriz ayrıca türlerine göre de farklılaşıyor. bizim şu an içerisinde olduğumuz durum, farklı haber kaynaklarından rastlamış olabilirsiniz, slumpflasyon olarak adlandırılıyor. tanımı açık. şu an krizde olup olmadığımız yönündeki tartışmalar bu yönüyle yersiz.<br/><br/>peki bugün ekonomik krizdeyiz, yarın nasıl olacak? 2019 için <a class="b" href="/?q=%c3%b6nc%c3%bc+g%c3%b6sterge">öncü gösterge</a>ler maalesef olumsuz. misal; üreticinin üretim maliyeti (<a class="b" href="/?q=%c3%bcfe">üfe</a>), tüketicinin alım maliyetine (<a class="b" href="/?q=t%c3%bcfe">tüfe</a>) oranla daha fazla artmış. şubat 2019 itibarıyla, bir önceki yılın aynı ayına göre üfe %30, tüfe %20 artmış. demek ki üretici, üretim maliyeti %30 artmasına rağmen bunun %20’lik kısmı satış fiyatına yansıtılabilmiş, aradaki kalan kısım için üretici kârından feragat etmiş. şu an yerel seçimler ve alım gücünün düşmesi kaynaklı talep azalışı sebebiyle üreticiler maliyetlerini fiyatlara net olarak yansıtamadı. yerel seçim sonrası üreticilere yönelik zımni fiyat baskısı ortadan kalkarsa ürünlerin satış fiyatı bir miktar artabilir.<br/><br/>diğer yandan ithalatımızın kabaca %75’lik kısmı ara mal niteliğinde. yani ithalatı oluşturan asıl kalem; cebinizdeki telefonlar, evinizdeki bilgisayarlar değil; üretim için ithal edilen girdilerden oluşuyor. döviz kurundaki artış üretim maliyetini artırdığından dolaylı olarak ürünlerin yurtiçi fiyatını da artırıyor. diğer yandan, dışa açık ekonomi olmanın doğal sonucu olarak (öyle de olmalıyız zaten, aksini iddia eden eğer cazip geliyorsa kuzey kore’deki yaşama bakabilir) şampuandan diş macununa pek çok ürün ithal. döviz kurundaki artış haliyle bunların da fiyatına yansıyor.<br/><br/>bugün öncü gösterge olarak kabul edilen göstergeler var. örneğin; sanayi sektöründe kapasite kullanımı, perakende satış endeksi, ciro endeksi, tüketici güven endeksi gibi. tüik tarafından açıklanan son raporların içeriğine bakıldığında, 2018’in son çeyreğinde yaşadığımız daralmanın 2019’un ilk çeyreğinde devam etmesinin ihtimal dahilinde olduğu anlamı çıkıyor. örneğin, ocak 2019 itibarıyla sanayi üretim endeksi bir önceki yılın aynı ayına göre %7 oranında daralmış. (şubat 2019 istatistiği henüz açıklanmış değil).<br/><br/>şöyle ki, iktisat bir sosyal bilim olmakla birlikte kimi yönlerden fizik bilimini andırıyor. fizik bilimine göre yer çekiminin olduğu bir bölgede bir cismi yere bıraktığınızda havada kalmasını bekleyemezsiniz. yani yer çekiminin olduğu bir bölgede cismi yere bırakmanın (eylem) sonucu var. ekonomide de öyle. ‘bir yandan abd ile ilişkilerimiz gerilsin, ama diğer yandan döviz krizi yaşamayalım’ senaryosu söz konusu değil. haklı veya haksız demiyorum, ancak şöyle bir gerçek var. bugün ekonomik yapısı itibarıyla dış borca ihtiyaç duyan, hele hele <a class="b" href="/?q=k%c4%b1r%c4%b1lgan+5%e2%80%99li">kırılgan 5’li</a> arasında sayılan bir ülkenin abd ile ilişkisinin kötüleşmesinin bir sonucu var. biz şu an bu sonucu rahip brunson olayında kısmen yaşadık. şimdi şu günlerde abd ile yeni bir gerilim olabileceği sinyali var. ancak benim asıl merak ettiğim döviz kurunun, rusya’dan s400 savunma sisteminin teslim alınması halinde ne olacağı yönünde. muhtelif kaynaklardan karşılaşmış olabileceğiniz üzere türkiye’nin s400 sistemini teslim alması halinde yaptırıma maruz kalabileceği yönünde açıklamalar var. mesela şu an ‘s400 sistemini teslim alalım ancak döviz krizi yaşamayalım’ gibi bir seçeneğimiz keşke olsaydı, ama yok gibi görünüyor. (sürece dair örnek <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bbc.com/turkce/haberler-dunya-47492380" title="https://www.bbc.com/turkce/haberler-dunya-47492380">haber 1</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.nytimes.com/reuters/2019/03/21/world/europe/21reuters-usa-turkey-defense-dunford.html" title="https://www.nytimes.com/reuters/2019/03/21/world/europe/21reuters-usa-turkey-defense-dunford.html">haber 2</a>, <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bloomberg.com/news/articles/2018-06-27/u-s-says-it-will-sanction-nato-ally-turkey-for-russian-missiles" title="https://www.bloomberg.com/news/articles/2018-06-27/u-s-says-it-will-sanction-nato-ally-turkey-for-russian-missiles">haber 3</a>)<br/><br/>diğer yandan bu tür durumlarda merkez bankası bağımsızlığı çok önemli. ama merkez bankası da şu an açmazda. hedeflediği enflasyon %5, gerçekleşen %20. ayrıca döviz krizi yaşandığı da gerçek. enflasyonun 08/2018 döneminden sonra kayda değer şekilde artmasının ana sebebi döviz krizine bağlı fiyat artışı. usd arttığı an akaryakıttan enerjiye, fiyatı artmayan ürün/girdi/hizmet hemen hemen kalmıyor. döviz kurunu düşürmek veya dizginlemek, böylece enflasyon oranını düşürmek amacıyla faiz artırımı yapmalı. faiz artırımı elbette konut, taşıt, beyaz eşya vb. ürünlerin satışını olumsuz etkilediği gibi ayrıca ticari işletmeler için banka kredisi daha maliyetli hale geldiğinden yatırımların ve ekonomik aktivitenin de yavaşlamasını beraberinde getiriyor. zaten küçülen ve talebin zaten daraldığı bir ekonomide faiz artırımının küçülmenin ve talepteki azalmanın şiddetini artırıcı bir yönü var. diğer yandan; küçülen ekonomi sebebiyle ekonomik aktiviteyi canlandırmak adına faiz indirimi yapsa, getiriyi yeterli bulmayan yabancı yatırımın bir kısmı faizin daha yüksek ülkelere yöneleceğinden döviz kurunda ve akabinde fiyatlar genel seviyesinde artışı beraberinde getirecek.<br/><br/>yukarıda sayılan gerekçeden ötürü siyasiler tarafından merkez bankası’nın faiz oranını düşük tutması istenir. ancak bu durumun yine yukarıda belirtilen sonuçları var. işte bu yüzden merkez bankası bağımsızlığı çok ama çok önemli. bizde dönem dönem, merkez bankası bağımsızlığı üzerine yerel ve uluslararası basında tartışmalar olduğu dikkate alındığında şu an bağımsızlığın tam olarak tesis edildiğini söylemek güç.<br/><br/>yönetsel karar alırken duygusal karardan çok mantıksal karar almak önem arz ediyor gibi. evet belki abd ikili ilişkilerde haksız. evet, belki açıklamaları ve icraatları müttefik bir ülke görünümünden uzak. zaten bir deyişe göre ülkelerin dostu yok, çıkarları var. onlar da çıkarını koruyor. neyse. evet, belki abd ikili ilişkilerde haksız. ancak maalesef siyasi ve ekonomik olarak dünyanın güçlü ülkelerinden ve kuralları koyuyor. kurallara uymayan ülkeleri ise kendince cezalandırıyor. yani, şu s400 sistemini eğer teslim alırsak ve döviz kuru artar ise sebebi belli. bu sistemin teslim alınması gerektiğini savunanlar bunun siyasi ve ekonomik sonuçları olabileceği ihtimalini de göz önünde bulundurmalı. ancak; bu sonuçlara rağmen sistemin teslim alınması gerektiğini ifade edenler olabilir, onlara da saygı duyuyoruz tabii.<br/><br/>son bir not: bu parasal konularda yatırımcıların yalnızca çıkarı var. çıkarları, yatırımlarını/fonlarını türkiye’ye değerlendirmek olursa türkiye’de değerlendirirler. çıkarları türkiye’den fonlarını geri çekmek yönünde şekillenirse geri çekerler. bu durum, muhtelif ülkeler kaynaklı siyasi bir adımdan ziyade yatırımcıların çıkarlarının/risk algılarının nasıl şekillendiğine bağlı. tabii siyasi adım şu şekilde olabiliyor. trump bey bir gece tweet atıp türkiye hakkında olumsuz bir metin yazdığında yabancı yatırımcı risk algısındaki bozulmayla birlikte (cds ile ölçümleniyor) fonunu türkiye’den çekip döviz kurunda artışa sebebiyet verebiliyor. çünkü döviz de esasında bir tür mal, diğer mallardan farkı her mal ile takas edilebiliyor olması. nasıl ki piyasada patates azaldığında patatese talep sabitken patates fiyatı artıyorsa; piyasadaki döviz kıt hale geldikçe daha değerli hale geliyor (yerli para değer kaybediyor) ya da içerideki döviz miktarı yatay seyrederken dövize yönelik talep artarsa yine daha değerli hale geldiğinden yerli parada değer kaybına yol açabiliyor.<br/><br/>bir de aklıma geldi... şimdi şu süreçte ülke içi ekonomik aktivite yavaşlasa da beyaz eşya, otomobil gibi reel sektör iç talepteki daralmayı ihracat ile aşabilirdi. ancak avrupa bölgesi’nde de işler çok tıkırında olmadığından bu sürecin ihracat ile aşılması da zorlaşıyor. gerçi biraz da bu vesile ile kimsenin dilinden düşüremediği ‘fed’in faiz artırımı’ konusu bir süre daha ötelendi. tüm bu faktörlerin üzerinde bir de bu öteleme gelmeseydi bizdeki faiz oranları muhtemelen yetersiz kalacak ve artırılması gerekecekti. (artırılmaması halinde ise döviz kuru bir süre yukarı yönlü hareket edebilecekti).<br/><br/>neticede bir ekşisözlük entry’si olduğundan rakamların yanında kaynak belirtmedim. ama olur da rakamları inandırıcı bulmayıp kaynağa gereksinim duyarsanız tcmb ve tuik’in internet sitelerinde mevcut.<br/><br/>son bir ekleme yapayım: ülkemizdeki kişilerin davranış eğilimlerine bakıldığında; enflasyonun yükseldiği veya ekonominin aktivitede ivme kaybı olacağının beklendiği dönemlerde dövize yönelim var. çünkü mantıken bugün 1.000 $ bedelle aldığınız bir eşya, 1 yıl sonra yine üç aşağı beş yukarı 1.000 $ bedel ile alınabiliyor. ama kurdaki artış sebebiyle 1 yıl önce örneğin 3.000 tl'ye aldığınız eşya için bugün 5.000 tl vermek durumunda kalabilirsiniz. neyse. insanlar twitter sayfasından döviz sattıklarının şovunu yapsınlar. gelin görün ki yurtiçi yerleşiklerin döviz mevduat stokları anlamlı şekilde <a rel="nofollow noopener" class="url" target="_blank" href="https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Parasal+ve+Finansal+Istatistikler/Haftalik+Para+ve+Banka+Istatistikleri/" title="https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Istatistikler/Parasal+ve+Finansal+Istatistikler/Haftalik+Para+ve+Banka+Istatistikleri/">artıyor</a>. öyle ki 15.03.2019 cuma günü biten haftada tcmb verilerine göre yurtiçi yerleşikler ilave olarak 4 milyar dolar almış ve mevduat stokları 175.8 milyar dolara yükselmiş. demek ki insanların gelecek aylara ilişkin ekonomik aktiviteye ilişkin beklentisi iyi değil ve adım adım dövize yöneliyorlar. tabii bu durumda; tl mevduata verilen faiz oranları ve insanların hissettiği reel enflasyon düzeyi de kısmen etken.<br/><br/>ben de böylece havanın mis gibi olduğu bir cumartesi gününün 30 dakikasını kimsenin okumayacağı bir entry için ayırmış oldum. sağlık olsun. ama 1 kişi bile okuduysa, kafasında iyi kötü bir şeyler şekillendiyse benim için yeterli.
   entry_channels: siyaset,anket,ekonomi
 - entry_name: |
+    zengin yiyeceğine evrilen fakir yiyecekleri
+  entry_id:  88060662
+  entry_writer: mathilda lando
+  entry_fav_count: 100
+  entry_content: |
+    (bkz: <a class="b" href="/?q=so%c4%9fan">soğan</a>)<br/>(bkz: <a class="b" href="/?q=patates">patates</a>)
+  entry_channels: anket,yeme-içme
+- entry_name: |
     bir erkeğin futboldan hoşlanmamasının asıl sebebi
   entry_id:  88048631
   entry_writer: not black but dark
-  entry_fav_count: 95
+  entry_fav_count: 98
   entry_content: |
     erkekliğini futbol üstünden kanıtlama ihtiyacı hissedecek kadar ufak pipili olan insanlarla vakit geçirmek istememesi olabilir.<br/><br/>boş hayatınızı sikeyim afedersiniz.
   entry_channels: spor,anket
+- entry_name: |
+    avustralyalı karikatüristin rte karikatürü
+  entry_id:  88062689
+  entry_writer: adana assasin ocaklari baskani
+  entry_fav_count: 93
+  entry_content: |
+    cumhurbaşkanımızın şiddet dilini kullanması gerçekten de başta biz olmak üzere herkesi üzdü ki avustralyalılar tepki gösterdi. <br/><br/>nefreti nefretle yenemeyiz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/02591a35a417" title="https://eksiup.com/02591a35a417">karikatür</a>
+  entry_channels: siyaset,haber
+- entry_name: |
+    kadınların neden açık giyindiğini anlayamamak
+  entry_id:  88041003
+  entry_writer: mermaid and the waters
+  entry_fav_count: 86
+  entry_content: |
+    ben akpli sanmasınlar diye açık giyiniyorum.
+  entry_channels: ilişkiler,moda
 - entry_name: |
     türkiye iş bankası reklamı
   entry_id:  88040159
@@ -131,74 +155,18 @@ data:
     canımı sıkan reklam . <br/>çünkü, <a class="b" href="/?q=t%c3%bcrkiye%27den+siktir+olup+gitti%c4%9fime">türkiye'den siktir olup gittiğime</a> sadece böyle zamanlarda üzülüyorum .<br/><br/>ülkem için yeterince çalışmamışım, çabalamamışım gibi geliyor. halbuki çalıştım, hem de ülkemizin ve benim gurur duyduğumuz işlerde, projelerde.<br/><br/>ama ne zaman ata'mın bir fotoğrafını görsem; <br/>sanki bana bakıyor ve benimle hiç <a class="b" href="/?q=gurur+duymuyor">gurur duymuyor</a> gibi geliyor.
   entry_channels: tv,ekonomi
 - entry_name: |
-    zengin yiyeceğine evrilen fakir yiyecekleri
-  entry_id:  88060662
-  entry_writer: mathilda lando
-  entry_fav_count: 78
-  entry_content: |
-    (bkz: <a class="b" href="/?q=so%c4%9fan">soğan</a>)<br/>(bkz: <a class="b" href="/?q=patates">patates</a>)
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    bir türlü özhaseki diyemeyen ankara seçmenleri
-  entry_id:  88046407
-  entry_writer: can i see the money
-  entry_fav_count: 76
-  entry_content: |
-    (bkz: <a class="b" href="/?q=mehmet+%c3%b6zseksi">mehmet özseksi</a>)
-  entry_channels: siyaset
-- entry_name: |
-    doların artmasını muhalefet konusu yapmak
-  entry_id:  88057232
-  entry_writer: yuniknick
-  entry_fav_count: 64
-  entry_content: |
-    büyük resim kursu yeni mezunlarını vermiş anlaşılan.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
     tus birincilerinin aynı dersaneden çıkması
   entry_id:  88060312
   entry_writer: muhammed kohen
-  entry_fav_count: 62
+  entry_fav_count: 66
   entry_content: |
     "tıpta uzmanlık sınavı’nda (tus) ilk 10’a giren 10 isim de tusdata dershanesi’nden çıktı. <br/><br/><a class="b" href="/?q=iskenderpa%c5%9fa+cemaati">iskenderpaşa cemaati</a>’nin lideri muhammed nureddin coşan’ın kurucusu olduğu asfa eğitim vakfı’nın yönetim kurulunda da, tusdata’nın kurucusu sami selçukbiricik’in ismi geçiyor. sami selçukbiricik, iskenderpaşa cemaati’nin asfa ferda koleji yönetim kurulu başkanı olarak da görev yaptı."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/tip-sinavinin-birincileri-bakin-hangi-dershaneden-cikti-23031919.html" title="https://odatv.com/tip-sinavinin-birincileri-bakin-hangi-dershaneden-cikti-23031919.html">link</a><br/><br/>dindarlar kendi aralarında oyun oynuyorlar resmen yalnız ordu-hukuk-eğitim-sağlık kurumları böyle böyle yok oluyor.
   entry_channels: sağlık,haber,eğitim
 - entry_name: |
-    lösev'in dorock'tan bağış kabul etmemesi
-  entry_id:  88055072
-  entry_writer: bir sey dicem
-  entry_fav_count: 51
-  entry_content: |
-    losev köklü bir kurumdur. bir tane ne idugu belirsiz isletmenin kendini aklamak icin kullanacagi bir kurum değildir. <br/>kaldi ki sizin dediginiz üzümünü yiyip bağını sormayanlar ulkeyi yozlastiran baslica kisilerdir. prensiptir, etiktir bunlar önemli şeylerdir. bilinmeli, hatirlanmali. <br/><br/>nil karaibrahimgil ve kalben sizi kucaklamak istiyorum.
-  entry_channels: haber
-- entry_name: |
-    oteki pluton uçurulsun kampanyası
-  entry_id:  88056065
-  entry_writer: explorateur
-  entry_fav_count: 43
-  entry_content: |
-    din ve allahla dalga geçmek suç değildir. bu ancak <a class="b" href="/?q=g%c3%bcnah">günah</a>, <a class="b" href="/?q=ay%c4%b1p">ayıp</a> veya <a class="b" href="/?q=sayg%c4%b1s%c4%b1zl%c4%b1k">saygısızlık</a>sayılabilir.; ki bunlar da suç değildir.<br/><br/>ama tehdit etmek suçtur. ifade özgürlüğü ile alakası yoktur. kendi açtığı kampanya ile uçurulması, torunlarına anlatacağı güzel bir hatıra olabilir. destekliyorum.<br/><br/>edit: yazdığım entry <a class="b" href="/?q=yat%c4%b1r%c4%b1m+tavsiyesi+de%c4%9fildir">yatırım tavsiyesi değildir</a> elbette. cumhurbaşkanının belli bir kesimi <a class="b" href="/?q=ateist">ateist</a> diye aklınca ‘aşağıladığı’ karanlık bir dönemde “din ve allahla dalga geçmek” gibi tamamen muğlak bir konuda birileri dava açabilirler elbette. <br/><br/>yazdığım birtakım dincilerin “dalga geçiyorlar” diye sözkonusu ettikleri (aslında çok eski olan) bir başlık hakkındadır.
-  entry_channels: 
-- entry_name: |
-    gıdasız yaşayabilirim ama vatansız asla
-  entry_id:  88059360
-  entry_writer: grandemuz
-  entry_fav_count: 38
-  entry_content: |
-    bugün neden gıdasız kaldım diye düşünmezsen; yarın neden vatansız kaldım diye dövünürsün. senin yanında biz de yanarız.
-  entry_channels: siyaset
-- entry_name: |
-    avustralyalı karikatüristin rte karikatürü
-  entry_id:  88062689
-  entry_writer: adana assasin ocaklari baskani
-  entry_fav_count: 38
-  entry_content: |
-    cumhurbaşkanımızın şiddet dilini kullanması gerçekten de başta biz olmak üzere herkesi üzdü ki avustralyalılar tepki gösterdi. <br/><br/>nefreti nefretle yenemeyiz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/02591a35a417" title="https://eksiup.com/02591a35a417">karikatür</a>
-  entry_channels: siyaset,haber
-- entry_name: |
     ilk buluşmaya renault 12 toros ile gelen erkek
   entry_id:  88058973
   entry_writer: kralmidas
-  entry_fav_count: 37
+  entry_fav_count: 40
   entry_content: |
     250 ? lira verip kiralık bi arabayla gelip saksosunu çektirip gitmesini de bilirdi de işte boşver
   entry_channels: ilişkiler,otomotiv
@@ -206,7 +174,7 @@ data:
     süleyman soylu
   entry_id:  88059158
   entry_writer: 17december
-  entry_fav_count: 32
+  entry_fav_count: 38
   entry_content: |
     pkklı bükmek icin yanlis yerler secen bakan.<br/><br/>pkkli ya da fetocu ariyorsa amcasi, kardesi, dayisi, yegeni fetodan pkk’dan iceri alinmis isimlerin aday gosterildigi yahut gecmiste bunlarla is tutan adaylarinin aday gosterildigi yere baksin.<br/><br/>son 30 yilda pkk’dan dolayi, son 3 yildir da feto’den dolayi kac tane belediye iscisi ya da il genel meclisi uyesi ihrac edilmis ya da hapis cezasi almis arastirsin. karsisina hangi parti cikarsa gidip bir zahmet onlara bagirsin.
   entry_channels: siyaset
@@ -214,10 +182,26 @@ data:
     seks zevk midir ihtiyaç mıdır
   entry_id:  88061033
   entry_writer: ateluveitiesch
-  entry_fav_count: 32
+  entry_fav_count: 35
   entry_content: |
     zevkli bir ihtiyaç.
   entry_channels: anket,ilişkiler,bilim,sağlık
+- entry_name: |
+    ev kedisini sokağa atmak
+  entry_id:  88062192
+  entry_writer: mezbahasiz toplum
+  entry_fav_count: 34
+  entry_content: |
+    işte bunu yapan bursa da yaşarken üst komşumdu, kedi dışarı kaçıp hamile kaldı diye sokağa attı, atölyem alt katındaydı aldım ilgilendim bebeklerini doğurdu ama depresyona girdi çocuk, emzirmeyi reddetti neyse bebekleri büyüttük ev bulduk ama sokağa atılan kedi kayboldu aradım aradım nihayetinde maalesef ölüsünü buldum o kadar mama versemde gece dükkanda bıraksamda apartmanın önüne gidip miyavlıyor evine girmek istiyordu, ve o kişiler ile detay vermek istemiyorum ama karakolluk oldum atölyeyide taşıdım, inşallah evleri yanar başlarına o kedinin başına gelen gelir pislik insanlar.
+  entry_channels: 
+- entry_name: |
+    erdoğan'ın hep kendisiyle birlikte anılacak sözü
+  entry_id:  88054315
+  entry_writer: skandalouz
+  entry_fav_count: 34
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sen+kimsin+ya+%3f">sen kimsin ya ?</a>)
+  entry_channels: siyaset,anket
 - entry_name: |
     zeki müren'i kulağımın onda biriyle dinlemem
   entry_id:  88051891
@@ -227,53 +211,77 @@ data:
     sözlüğün kutsalları var. onlara en küçük bir laf söylersen çomar olursun. misal erkan oğur. kötü bir şey söyle, 'bak şurdan siktir git' bkz'leri beşer onar verilir. <br/>seçimlerde chp'ye oy atmayacak mısın? o zaman 'kesinlikle akapeli ve çomarın önde gideni'sindir. başka bir şansın yoktur. <br/>ya da ne bileyim, yavuz çetin'i beğenmiyor musun? 'hassiktir lan, sen kimsin de yavuz'u beğenmezsin?!' diye yapıştırılır. <br/>leyla ile mecnun güzel bir dizi değil dersin, 'siktir git amına kodumun çomarı. sen git de huzur sokağı izle' denir. <br/>spotify'a o kadar da iyi bir uygulama değil dersin, müziği youtube'dan 5 liralık kulaklıkla dinleyen köylü olur çıkarsın.<br/>yani onlardan değilsen, öteki olursun. nasıl akapeliler chpli'leri yargılar, öyle yargılanırsın. yetmez, linç yersin bazen... bunları çıkıntılık yapmak için söylemiyorsundur da üstelik. olur ya, sevmeyebilirsin. öyle aman amanlık bir durum yok bunda...<br/><br/>zeki müren konusu da aynı şekilde. ben de zeki müren'i sevmem, fakat alaturka musikisiz yaşayamam. alaturka dinleyeceksem trt sanatçılarını açarım. çünkü usûle uygun okurlar. arabeske kati suretle girmezler. rock star havaları yoktur. kimdir bunlar? mustafa sağyaşar, yaşar özel, suat sayın; yeni dönemin harikulade seslerinden bekir ünlüataer, kadınlardan mine geçili, vs... sevdiğim eserleri bu isimlerden dinlemeyi yeğliyorum. çünkü zeki müren o şarkıları okunması gerektiği gibi okumuyor. bunu mektepli kime sorarsanız sorun, benimle aynı kanıda olacaktır.<br/><br/>o yüzden bana da 'hassiktir oradan lan, sen git serdar ortaç dinle amına koduğumun çomarı' diyeceksiniz, canınız da sağ olmasın, ama durum bundan ibaret. sevdiğiniz her şey, herkes eleştirilebilir. bu da dünyanın en sıradan işi. <br/><br/>hadi hayırlı tıraşlar.
   entry_channels: magazin
 - entry_name: |
-    mansur yavaş
-  entry_id:  88045998
-  entry_writer: mind mischief
-  entry_fav_count: 29
-  entry_content: |
-    <a class="b" href="/?q=16+nisan+2017+anayasa+de%c4%9fi%c5%9fikli%c4%9fi+referandumu">16 nisan 2017 anayasa değişikliği referandumu</a> hariç son (orada da <a class="b" href="/?q=mhp+effect">mhp effect</a>e kurban gittik) 15 yıldaki tüm seçimleri 2 puan farkla tahmin edebilmiş bir insan olarak bıçak sırtında olduğunu gözlemlediğim belediye başkan adayı. her seçim aynı şey olmasından bıktığım ve usandığım için gecenin dördünde yazmaya karar verdim. danışmaları ve <a class="b" href="/?q=chp-iyi+parti">chp-iyi parti</a> teşkilatlarından birilerine iletebilecek babayiğit varsa hayra geçer. özellikle adaylar kısmı için...<br/><br/>önce ankara ve seçim atmosferi ile başlayalım.<br/><br/>öncelikle ankara seçimleri etkileyecek kadar kozmopolit bir şehir değil. nüfusun büyük bir çoğunluğu çevre şehirlerden zamanında gelen anadolu insanıyla dolu. bu kitle de ne kadar belli bir semtte toplanmış gibi görünse de ankara'nın tamamına yayılmış. ankara'da yaşamadığım için ankaralı ve ankara hakkında daha net gözlem yapabilen kişilerle görüşünce de bunu doğruladılar. <br/><br/><a class="b" href="/?q=16+nisan">16 nisan</a>'da %51 hayır, <a class="b" href="/?q=24+haziran">24 haziran</a>da %45 <a class="b" href="/?q=millet+ittifak%c4%b1">millet ittifakı</a> oy oranı vardı. 2015 kasım'da ise akp %49 ve mhp %13 oy oy oranına sahipti. görünen o ki seçimden seçime akp+mhp eriyor. cumhur ittifakı'nın %4-7 arasında daha eriyip % 40-47 seviyelerine gerileyeceğini düşünüyorum. bunu seçimlerin bir yerel seçim olması ve prim yapan "istikrar, beka" safsatalarına inanan seçmenin de " bir de mansur'u deneyelim" diyeceğini düşünüyorum. sonuç olarak akp'nin ankara'yı kaybetmesi bu tarz söylemlere inanacak seçmen için büyük bir risk atfetmiyor. <br/><br/>adaylara gelecek olursak da mansur yavaş'ın adaylığı konusunda söylenecek hiçbir şey yok. en doğru ve nokta atışı aday. önceki seçimlerden tanınırlığının yanı sıra, genel seçimler, referandumlar ve toplumsal olaylarda da partiden istifa etmesine rağmen açık desteğini belirtti. ek bir yük binmeden sadece mansur yavaş adının bile alacağı bir kemik oy var.<br/><br/><a class="b" href="/?q=mehmet+%c3%b6zhaseki">mehmet özhaseki</a> ise mikro milliyetçiliğin tavan yaptığı ankara'nın bazı ilçelerinde <a class="b" href="/?q=kayserili">kayserili</a> olması sebebiyle baştan kaybetti. bu çok küçük bir ayrıntı gibi durabilir fakat 2009 seçimlerinde çevredeki kır göçünün antalya'ya yoğunlaşması sonucu çok güçlü ve bir önceki dönem çok net bir şekilde kazanan <a class="b" href="/?q=menderes+t%c3%bcrel">menderes türel</a>'in <a class="b" href="/?q=konyal%c4%b1">konyalı</a> olması sebebiyle kaybettiğini hatırlatmakta fayda var. üstelik karşısında kazanan <a class="b" href="/?q=mustafa+akayd%c4%b1n">mustafa akaydın</a>'ın <a class="b" href="/?q=%c3%a7orumlu">çorumlu</a> ancak 1980'den bu yana antalya'da tanınan bir figür olduğunu da ekleyelim. 2007 ve 2011 seçimlerinde chp'nin %29 ve %33 oy alırken 2007 yerel seçiminde %40 gibi bir oy aldığını da eklemekte fayda var.<br/><br/>ne diyorduk mikro-milliyetçilik telaşı akp'yi öyle bir korkuttu ki mansur yavaş için "<a class="b" href="/?q=makedon">makedon</a>" söylentisi bile ortaya atıldı. akp adına çok büyük bir yanlış aday tercihi burada daha da bocalamaya başladı. akp'ye yakın kaynaklar bile bu saçmalığın mansur yavaş'tan çok özhaseki'ye zarar vereceğini açık açık beyan ettiler. <br/><br/>derken çek-senet mevzusunun birden ortaya atılması konusu ortaya çıktı. açık ve net bir şekilde ana akım medya kanallarında mansur yavaş'ın söz ve savunma hakkının çiğnenmesi mansur yavaş'ın farkı çok açtığına yoruldu fakat bence öyle değil. akp bunun karşılığında mansur yavaş ve cephesinin özhaseki'yi geçmişiyle -çok net ve sert ifadeler- kullanacağını umdu. çünkü biliyorlar ki basiretsiz muhalefet, akp'ye oy veren kitlenin fetö ile kavgada kırmızı çizgileri olmadığını bilmiyor.<br/><br/>peki mansur bey ne yaptı? bel altı vurmadan, çat çat çat şeklinde olayın başladığı günden şu anki aşamasına kadar anlattı. bakanlar, gazeteciler, rakibi ona saldırırken tek başına bütün iddialara cevap verdi. sinirlenmeden, sakince. sessiz güç...<br/><br/>mevzu bahsi geçen kişinin farklı suçlardan hüküm giyen "adam pisliğin teki çıktı rıza baba" profilinde bir adam olması ister istemez vicdanlı her insanda bir şeyler uyandırmıştır. ayrıca biraz düşünen herkes mansur yavaş'ın siyasi hayatında ve belediye başkanlığı sürecinde tek bir falsosu, yamuğu olmadığını ve bu tarz ucuz şeylerle mansur yavaş'a vurmaya çalıştığını anlar. ki iş hayatında da bir falso bulamamış garipler...<br/><br/>gelelim vaatlere. <br/><br/>belediyecilik tecrübesi olan özhaseki'nin belediye projelerinin halkı kesmemesi sonucu rakip aday karalama kampanyasına dönüşmüş olması doğal olarak mansur yavaş için de projelerini açıklayacağı zamandan baya bi götürdü. ancak mansur yavaş'ın "benim ilk projem ve vaadim ekonomi" demesi kendisine artı olarak döndü. diğer projelerin ikinci planda kalması bir takım ütopik ve mali açıdan da zor projelerin fazla konuşulmaması mansur yavaş için de iyi oldu. ekonomik krizin içinde ankara'nın <a class="b" href="/?q=alternatif+turizm">alternatif turizm</a>, <a class="b" href="/?q=oldtown">oldtown</a> düzenlemesi, fuar alanı projeleri ve getireceği <a class="b" href="/?q=istihdam">istihdam</a> gayet de yapılabilir ve başarılı olabilecek projeler. her şeyden evvel ankara'nın termal su turizmine kucak açabilecek olması bile hali hazırda üç beş turist çeken kale çevresini de ihya eder. <br/><br/>`peki tüm bunlara rağmen seçim neden hala bıçak sırtı?`<br/><br/>öncelikle görünenin ardında görünmeyen ve toplumda sesi çıkmayan çok <a class="b" href="/?q=b%c3%bcy%c3%bck+bir+sessiz+az%c4%b1nl%c4%b1k">büyük bir sessiz azınlık</a> var. şehrin varoşlarında yaşayan, işten eve, evden işe giden ver seçimler zerre kadar umurunda olmayan sessiz azınlıklar büyük bir olasılıkla "kararsız seçmen"leri oluşturuyor. istanbul, ankara, bursa ve antalya'da bu azınlıkların seçim sonuçlarına etkisini gözardı ederseniz kaybetmeye mahkumsunuz. bu insanlar ellerindekini kaybetmek istemeyen insanlar. sokakları ziftlendikçe, çöpleri zamanında alıp kokmadıkça ve asgari belediye hizmetleri yerine geldikçe kararlarını değiştirmezler. bu insanlar ikna edilmeli. yine antalya'dan örnek verecek olursak bu azınlıkların ikna edildiği seçimlerde menderes türel'in yıkıp göreve gelen akaydın bu insanların yaşadığı varsak, fatih, kepezaltı, baraj ve şarampol gibi yerlerde "belediyecilik nasıl yapılmaz?" dersi verdiğini ve bir sonraki seçimlerde şehirde çok büyük bir destek olmasına rağmen 2 puan gibi bir farkla kaybettiğini hatırlatmakta fayda var.<br/><br/>bir de akp teşkilatlarında yıllardır görev almış ve sonrasında siktiri yemiş (kendisi şu an anadolu illerinden birinden akp meclis üyesi, bu kadar hızlı değişebiliyor her şey) <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> bir tanıdığın "bizim gençlerimizin büyük çoğunluğu oy vermeye gitmiyor, gençlik teşkilatlarımızın tek çalışma konusu bu çocukları oy vermeye ikna etmek" itirafından yola çıkarak anası babası akp'li gençleri de hesaba katmakta fayda var. tabanın memnun olduğu mustafa tuna aday olsa eminim mansur yavaş'ın bu gençler için hiçbir şansı yoktu fakat şimdi var. ılımlı siyasi islamın çalışkan ve dürüst adamı portresi çizen mustafa tuna nerede, adı sık sık karışık kuruşuk işlere karışmış şimdiki aday nerede? bunu değerlendirin mansur bey. <br/><br/>bir de akp'nin klasik propaganda yöntemi olan "biz kazanıyoruz, öndeyiz" söylemini başta mansur yavaş ve ekibi olmak üzere halkın önünde sık sık dile getirmesi zaten gevşek ve ayrık olan muhalif çevreleri rehavete sokabilir. hayır kardeşim, seçim hala bıçak sırtı. manipüle etmeye lütfen kendi seçmeninizden başlamayınız. herkes gidip sandıkta size oy vermedikçe, sandıklar açılıp kapanmadıkça başkan falan değilsiniz sayın mansur yavaş. seçildiğiniz vakit rahat rahat kutlar ve başkentten yayılacak dalganın keyfini çıkarabiliriz. <br/><br/>son olarak seçim yasaklarının kapsamı ve niteliği son 10 yılda ne kadar ne kadar değişti bir fikrim yok ama hala zamanınız varken kesinlikle son kurşunu atacağınız bir reklam lazım. diksiyonunuz, verdiğiniz izlenim ve görünüşüz birkaç gün daha akıllarda kalmalı ki sandık başına kararsız giden seçmende bir şeyler uyandırın. bakarsınız ısrarla yapmaktan kaçındığınız rakip adayın geçmişini de üstü kapalı bir şekilde bu reklama sıkıştırabilirsiniz.<br/><br/>şimdiden kolay gelsin, ankara'nın kazanması dileğiyle.
-  entry_channels: siyaset
-- entry_name: |
     carrefour'da satılan tanzim soğanı
   entry_id:  88054878
   entry_writer: celomania
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     aynı zamanda 2,85 tl'ye alınıp, 2 tl'ye satılan soğandır.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    ev kedisini sokağa atmak
-  entry_id:  88062192
-  entry_writer: mezbahasiz toplum
-  entry_fav_count: 23
-  entry_content: |
-    işte bunu yapan bursa da yaşarken üst komşumdu, kedi dışarı kaçıp hamile kaldı diye sokağa attı, atölyem alt katındaydı aldım ilgilendim bebeklerini doğurdu ama depresyona girdi çocuk, emzirmeyi reddetti neyse bebekleri büyüttük ev bulduk ama sokağa atılan kedi kayboldu aradım aradım nihayetinde maalesef ölüsünü buldum o kadar mama versemde gece dükkanda bıraksamda apartmanın önüne gidip miyavlıyor evine girmek istiyordu, ve o kişiler ile detay vermek istemiyorum ama karakolluk oldum atölyeyide taşıdım, inşallah evleri yanar başlarına o kedinin başına gelen gelir pislik insanlar.
-  entry_channels: 
-- entry_name: |
-    23 mart 2019 liverpool milan efsaneler maçı
-  entry_id:  88060488
-  entry_writer: antropomorfik
-  entry_fav_count: 22
-  entry_content: |
-    milan'ın eski veteran kadrosunun şuan seri a'da mücadele eden milan kadrosundan daha iyi olduğu maçtır. inzaghi rövaşata kaçırdı şimdi yazarken.
-  entry_channels: spor
-- entry_name: |
     güler yüzlü olmanın dezavantajları
   entry_id:  88058189
   entry_writer: yellowheart
-  entry_fav_count: 20
+  entry_fav_count: 26
   entry_content: |
     herkes hemen her seyi kabul edeceksiniz sanarak size karşı saygısızlığı meşru sayıyor bi kere ses yükseltirseniz kazara melek yüzlü şeytan sayılarak hayatınızı sürdürüyorsunuz bi anlam veremedim gülücükte yaramıyor demek
   entry_channels: 
 - entry_name: |
-    wi-fi şifresini isteyen komşuyu savuşturma yolları
-  entry_id:  88060206
-  entry_writer: tr navy
-  entry_fav_count: 14
+    erkeklerin sevgili olmak istediği kızda aradıkları
+  entry_id:  88047481
+  entry_writer: i am a time traveler
+  entry_fav_count: 26
   entry_content: |
-    komşunuzu kıramıyor ya da bahane bulamıyorsanız; modemden mac kilitlemesi yapın. sadece izin verdiğiniz cihazlar internete girebilsin. sonra da şifreyi rahatlıkla verebilirsiniz. hatta kendi cihazınızdan "ağı unut" diyerek komşunun yanında şifreyi yeniden girin. onun hem güvenini kazanacaksınız hemde işiniz görülecek. en son da "abi şifre bu, seninki olmuyor." diyerek savuşturabilirsiniz.
-  entry_channels: anket,teknoloji
+    erkeklerin kızlarda aradığı özellikleri yazıyorum.<br/><br/>-çok güzel olsun ama kimse dönüp yüzüne bakmasın<br/>-güzel giyinsin ama dikkat çekmesin<br/>-zeki olsun ama ben yalan söyleyince anlamasın<br/>-çılgın olsun ama hanım hanımcık da olsun<br/>-beni paylaşamasın sahiplensin ama kıskanmasın.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    bira içmelik arkadaş veritabanı
+  entry_id:  88041486
+  entry_writer: damladamlazaman
+  entry_fav_count: 26
+  entry_content: |
+    hiç ilgim olmamasına rağmen açıp okuyorum görünce. <br/><br/>sanırım yalnızlık koklamayı seviyorum
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    23 mart 2019 liverpool milan efsaneler maçı
+  entry_id:  88060488
+  entry_writer: antropomorfik
+  entry_fav_count: 24
+  entry_content: |
+    milan'ın eski veteran kadrosunun şuan seri a'da mücadele eden milan kadrosundan daha iyi olduğu maçtır. inzaghi rövaşata kaçırdı şimdi yazarken.
+  entry_channels: spor
+- entry_name: |
+    ekrem imamoğlu
+  entry_id:  88051764
+  entry_writer: coyg
+  entry_fav_count: 21
+  entry_content: |
+    aktrollere hafta sonu mesaisi yaptıran ibb başkan adayı.<br/><br/>seçilir seçilmez bilemem ama aktrolleri her ihtimale karşın salmışlar piyasaya.
+  entry_channels: siyaset,haber
+- entry_name: |
+    hastası olunan sözler
+  entry_id:  88047030
+  entry_writer: umittaciri
+  entry_fav_count: 19
+  entry_content: |
+    "bir şarkıyı başa sarıp, tekrar tekrar dinliyorsan, o başa sardığın şarkı değil,<a class="b" href="/?q=hayaller">hayaller</a>indir.” <sup class="ab"><a title="(bkz: pablo neruda)" href="/?q=pablo+neruda" data-query="pablo neruda">*</a></sup>
+  entry_channels: anket,ilişkiler,edebiyat
+- entry_name: |
+    23 mart 2019 bddk döviz manipülasyonu soruşturması
+  entry_id:  88063368
+  entry_writer: eksi peace
+  entry_fav_count: 19
+  entry_content: |
+    akp’nin klasik düşman yaratma taktiğidir.<br/><br/>2018’deki kur fırlamasını da hsbc’ye bağlamışlardı bir ara. millet yemeyince kapandı o konu. yahu madem bankalar senin paranı bir günde yüzde 5-6 eritebilecek güce sahip sen ne diye iktidarım diye dolaşıyorsun ortada?
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    türkiye'den siktir olup gitmek
+  entry_id:  88058313
+  entry_writer: kitapokumayanadam
+  entry_fav_count: 11
+  entry_content: |
+    konuştuğumuzda 37 yaşında olan ve 30 yaşında amerika'ya yerleşmiş bir abim şöyle demişti; "vallahi son 2-3 yıldır içimde müthiş bir pişmanlık duygusu var, neden daha erken göçmedim de 30 senemi türkiye'de çürüttüm diye". böyle de bir olay işte..
+  entry_channels: siyaset,ekonomi,seyahat
 - entry_name: |
     kızların sözlüğü erkek düşürmek için kullanması
   entry_id:  88043784
@@ -283,21 +291,13 @@ data:
     ekşici 1: e mayki, sözlükten kaç kızla seviştin?<br/>ekşici 2: valla bilmiyorum kardo, insan belli bir sayıdan sonra çentik atmayı unutuyor.<br/>ekşici 3: ahaha aynen ya. vıgır vıgır kadın kaynıyor. çoğu da evli bunların ha. gizliyorlar hep.<br/>ekşici 4: doğru, doğru. günde 10'dan fazla mesaj geliyor mesela bana.<br/>ekşici 5: ahaha bana 30<br/>ekşici 6: bana 50<br/>ekşici 7: beylerrrrr.<br/>ekşici 8: buyur abi.<br/>ekşici 7: beyler bir şey diyeceğim inanmayacaksınız la.<br/>ekşici 9: niye inanmayalım abi? sen 1. nesilsin. buyur.<br/>ekşici 7: burada diyorum seviştiğim karıları böyle elele tutuştursak yarısı pasaport çıkarmak zorunda kalır lan.<br/>ekşici 10: hadi canım.<br/>ekşici 7: ekmek çarpsın bak. doydum olum ben. sarmıyor artık.<br/>ekşici 11: ben çoktan doydum.<br/>ekşici 12: ben de.<br/>ekşici 13: ben de.<br/>ekşici 14: e napalım?<br/>ekşici 7: ben diyorum ki, hazır biz bizeyken birbiri<br/>ekşici 15: tamam.<br/>ekşici 16: tamam.<br/>ekşici 7: olum cümlemi bitirmedim lan.<br/><br/>(ekşın gerçek kesit. 1 sezon bölüm 4)
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
-    bira içmelik arkadaş veritabanı
-  entry_id:  88057060
-  entry_writer: jamalthefare
-  entry_fav_count: 9
+    libido yükselten şeyler
+  entry_id:  88063451
+  entry_writer: dusunuyorum o halde dusunebiliyorum
+  entry_fav_count: 7
   entry_content: |
-    allah kitap aşkına kadıköy’de içmek isteyen yüzlerce yazar toplansın artık dediğim verit abanı.
-  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
-- entry_name: |
-    didem soydan
-  entry_id:  88045230
-  entry_writer: hollowyears
-  entry_fav_count: 6
-  entry_content: |
-    leş.
-  entry_channels: moda,magazin
+    sevgili falan olmadığınız halde bir kadının sokulması. böyle hani memelerini de değdirircesine sokulur ya. örneğin telefonda bir şey gösterirsiniz böyle dibinize kadar girer. bir de güzel kokuyordur. bilerek yapmıyorlarsa bir şey bilmiyorum.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     yemek yapan erkekler
   entry_id:  88055645
@@ -307,21 +307,29 @@ data:
     kendimi doyurmamı sağlıyor bu yeteneğim. başka hiç faydasını görmedim. olduysa da ihmal edilebilecek düzeyde (infinitesimal) olmuştur. ayrıca hint ve arap yemeklerini de iyi yaparım. italyan mutfağında da fena değilim.
   entry_channels: yeme-içme
 - entry_name: |
-    galatasaray tv'de taciz iddiası
-  entry_id:  88062131
-  entry_writer: skumbag
-  entry_fav_count: 5
+    cumartesi gecesi evde oturan ezik ve yalnız insan
+  entry_id:  88063716
+  entry_writer: antananarivo
+  entry_fav_count: 4
   entry_content: |
-    galatasaray mali genel kurulunda, galatasaray kültür sanat derneği başkanı vahap tanrıverdi'nin dile getirdiği iddiadır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberler.com/galatasaray-i-karistiran-iddia-gs-tv-de-kizlara-11868004-haberi/" title="https://www.haberler.com/galatasaray-i-karistiran-iddia-gs-tv-de-kizlara-11868004-haberi/">haber</a>
-  entry_channels: spor,haber
+    şiir okuyordur, şiir dinliyordur hatta şiir yazıyordur. <br/><br/>halinden de memnundur belki.
+  entry_channels: anket,ilişkiler
 - entry_name: |
-    libido yükselten şeyler
-  entry_id:  88063451
-  entry_writer: dusunuyorum o halde dusunebiliyorum
+    ciddi ciddi aşk acısından ağlayan erkek
+  entry_id:  88061660
+  entry_writer: sekil bozuklugu
+  entry_fav_count: 4
+  entry_content: |
+    ciddi ciddi sevmiş aşık olmuş kişidir. gerçi bu zamanda birini sevmek peşinden ağlamak, aşk acısı çekmek insanlara artık çok uçuk geliyor. her şeyin hızla tüketildiği bu zamanlarda gayet normal tabi şaşırmak.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    parasına kesinlikle değen şeyler
+  entry_id:  88060017
+  entry_writer: deeperblues
   entry_fav_count: 3
   entry_content: |
-    sevgili falan olmadığınız halde bir kadının sokulması. böyle hani memelerini de değdirircesine sokulur ya. örneğin telefonda bir şey gösterirsiniz böyle dibinize kadar girer. bir de güzel kokuyordur. bilerek yapmıyorlarsa bir şey bilmiyorum.
-  entry_channels: anket,ilişkiler
+    qatar airways
+  entry_channels: anket,ekonomi
 - entry_name: |
     golan tepeleri
   entry_id:  88040642
@@ -331,13 +339,13 @@ data:
     bu tepelerin içinden gizli bir tünel geçer. işte bu tüneli kullanarak kısa yoldan hüküm dağına ulaşmak mümkündür. bu yolu orklar bilmes, onlar fersah fersah dolaşırlar, smeagol bile bilmes. evet adısı buydu, golan tünelleri.
   entry_channels: siyaset,tarih,seyahat
 - entry_name: |
-    ciddi ciddi aşk acısından ağlayan erkek
-  entry_id:  88061660
-  entry_writer: sekil bozuklugu
+    galatasaray tv'de taciz iddiası
+  entry_id:  88062657
+  entry_writer: bigkahuna
   entry_fav_count: 3
   entry_content: |
-    ciddi ciddi sevmiş aşık olmuş kişidir. gerçi bu zamanda birini sevmek peşinden ağlamak, aşk acısı çekmek insanlara artık çok uçuk geliyor. her şeyin hızla tüketildiği bu zamanlarda gayet normal tabi şaşırmak.
-  entry_channels: anket,ilişkiler
+    galatasaray'ın acil olarak resmi açıklama yapması gereken skandal iddia. bunu dile getiren alelade birisi değil, kulübün yetkili ağızlarından bir üye. hadi adamı çıkardınız ortamdan, olay ne peki, ne oldu? aslı astarı var mı?
+  entry_channels: spor,haber
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
   entry_id:  88040100
@@ -347,6 +355,30 @@ data:
     gece uzun, konuşmak isteyen çaylakları bekliyorum <sup class="ab"><a title="(bkz: mesaj kutum açık yeşillendirin)" href="/?q=mesaj+kutum+a%c3%a7%c4%b1k+ye%c5%9fillendirin" data-query="mesaj kutum açık yeşillendirin">*</a></sup>
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
+    aşk acısını geçirmenin en kesin yolu
+  entry_id:  88062531
+  entry_writer: scottish
+  entry_fav_count: 3
+  entry_content: |
+    zihninizdeki, aşık olduğunuz o kişiye ait imajı, ki bu bir sanrıdan ibarettir, yıkmak; beyninizdeki illüzyonu bozmak.. ona alıcı olmayan bir gözle, ona bir dış gözle bakabilmek.. ona yakıştırdığınız bütüün o sıfatları gözden geçirip aşık olduğunuz vallığı yeniden tanımlayabilmek.. yanisi; prensi kurbağaya geri çevirebilmek..<br/><br/>fakat muhtemelen ve ne yazık ki, size bütün bu dönüşümü sağlayacak gözleriniz hala aşktan kör.. evet. o zaman, bir başkasının gözlerini kullanın. bırakın görmekte direndiklerinizi görsün, anlatsın size. ne? kulaklarınız da hala sağır mı? e allah iyiliğinizi versin! o zaman sizin, aşk acınızı, elinin körüne cehennemin dibine ve zıkkımın köküne kadar yaşamaktan başka çareniz yok. yaşayın yavrum. yaşan guzum. onun yerine sevebildiğiniz başka bir kurbağa bulana kadar yaşan. ve korkman, acıdan ölünmez.<br/><br/>editörün notu: evet budur!
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    wi-fi şifresini isteyen komşuyu savuşturma yolları
+  entry_id:  88060441
+  entry_writer: imola red
+  entry_fav_count: 2
+  entry_content: |
+    misafir agi olusturan modeminiz varsa bir yedek ag olusturun. hizini 10 byte/s kisitlayin sonra kullanabiliyorsa adini mcgyver koyun komsunuzun. eger misafir agi olusturamiyorsa , komsunuzun mac addresini bulun(sizinkilerde farkli olan) parental kontrollerden hizini dusurun.
+  entry_channels: anket,teknoloji
+- entry_name: |
+    kastamonu denince akla gelenler
+  entry_id:  88062121
+  entry_writer: bu sapkadan tavsan cikmaz
+  entry_fav_count: 2
+  entry_content: |
+    kayseri'nin adi cikmistir<br/>pastırma kastamonu'dan yenir<br/><br/>selametlen
+  entry_channels: anket,tarih,seyahat
+- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  88046377
   entry_writer: daniel ocean
@@ -355,51 +387,19 @@ data:
     şu sözlüğe gece uykusuz kalınca girip iki üç tanımlı başlığa entry giresim geliyor.<br/>ne zaman geceleri entry girmeye kalksam hemen biri damlıyor bu zevkimin içine sıçıyor.<br/>bu saatlerde dertleşecek kişi bulunmaz artık bunu anladım.<br/>bu saatlerde olsa olsa orospu çocuğu oluyormuş galiba.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ekşi itiraf
-  entry_id:  88044013
-  entry_writer: piertatum locomotor
+    binaların altına tekerlek konulup hareketli olması
+  entry_id:  88063745
+  entry_writer: tkg
   entry_fav_count: 2
   entry_content: |
-    bazen çok özene bezene bir elbise alırsınız, çok uzun zamandır da hayalini kurmuşsunuzdur bu elbisenin. sonra o önemli gün gelir giyersiniz ama bir şeyler olmamıştır. sizin aldığınızdaki gibi değildir o elbise ya da en baştan beri oyledir ama siz fark etmemişsinizdir. <br/>son zamanlarda genel halim aşağı yukarı bu şekilde. sanki sürekli bana uymayan giysileri giyip uydurmaya çalışıyorum. dışarıdan ne güzel gözüküyor dense de beni boğuyor aslında o elbise. rahat değilim ama çıkarıp atmak yok saymak da mümkün değil. <br/>biteceği günü bekliyorum sanki. tabi ki her anım böyle değil:) ama bende bıraktığı tat... hayallerimin ötesinde ve bu çok da iyi anlamda değil.her şeyi geçtim keşke anksiyetimi tetiklemeseydi bu süreç. ama sanırım öğrenecek bir şeyler var ki yaşıyoruz bunu da.<br/>öyle işte...
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=anlat%c4%b1m+bozuklu%c4%9funda+s%c4%b1n%c4%b1r+tan%c4%b1mayanlar+derne%c4%9fi">anlatım bozukluğunda sınır tanımayanlar derneği</a>)<br/>abostad. bekleriz, aidat 5 tl.
+  entry_channels: 
 - entry_name: |
     sevişemeyeceğini anlayınca ayrılan erkek
-  entry_id:  88061680
-  entry_writer: bilgisizadam
+  entry_id:  88063803
+  entry_writer: dema zarok
   entry_fav_count: 1
   entry_content: |
-    her insanın ilişki anlayışı farklı olabiliyor. bu cinsiyet ayırmaksızın böyle. sevişemeyeceğini anlayınca ayrılan erkek de vardır kız da. bir insan kafasındaki ilişkiyi yaşayamayınca ayrılık kaçınılmaz oluyor ama karşı tarafı sadece cinsellik için görenler ne yazık ki çok kalpsizler be
+    bir kadına sadece sevişme gözüyle bakılmaz onu anlayıp muhabbet etmek birlikte biseyler yapmak eğlenmek bunları yapmak lazım.
   entry_channels: ilişkiler
-- entry_name: |
-    psikolojik rahatsızlığı bulunan kayıp fırat serçe
-  entry_id:  88061576
-  entry_writer: yepis yesil
-  entry_fav_count: 1
-  entry_content: |
-    fırat serçe hemen bulunman ve senden saklanması suç olan sağlık durumunu öğrenmen dileğiyle, ayrıca bir tanı konulduğunda doktor durumu önce hastaya açıklamalıydı, gizlilik mahremiyet biryana hastalığını kabullenmeden tedavi olamaz insan. <br/><br/>hasta hakları bildirgesi <br/><br/>madde 2. hastalar, durumları ile ilgili tıbbi gerçekleri, önerilen tıbbi girişimleri ve her bir girişimin potansiyel risk veya <br/>yararlarını, önerilen girişimlerin alternatiflerini, tedavisiz kalmanın sonuçlarını, tanı, prognoz ve tedavinin gidişi <br/>konularını içerecek şekilde sağlık durumları konusunda tam olarak bilgilenme hakkına sahiptir.
-  entry_channels: haber
-- entry_name: |
-    parasına kesinlikle değen şeyler
-  entry_id:  88058706
-  entry_writer: viento
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hayat+kad%c4%b1n%c4%b1">hayat kadını</a>)
-  entry_channels: anket,ekonomi
-- entry_name: |
-    enpara.com
-  entry_id:  88061059
-  entry_writer: sergeichukow
-  entry_fav_count: 0
-  entry_content: |
-    geçtiğimiz aylarda yollarımı ayırdığım bankacılık uygulamasıdır. <br/><br/>limitler konusunda hepiniz haklı sayılırsınız coniler. ama hepiniz biraz eksiksiksiniz.<br/><br/>kredi kartı limiti üst sınırını kim belirler? bddk. mevzuat. <br/><br/>kredi kartı limitini kim belirler? banka. bankanın bireysel kredi politikası. <br/><br/>yani bir müşterinin maksimum kredi kartı limiti mevzuatla, gelirinize paralel olarak hesaplanır ve banka da bu üst sınırlar içerisinde istediği kadar limit verir ya da vermez. <br/><br/>eğer kredi kartı toplam limitiniz mevzuatla çizilen sınırlara ulaşmamışsa ve bir banka size kredi kartı vermiyorsa, konu doğrudan banka kredi politikasıyla ilintilidir.<br/><br/>edit:imla
-  entry_channels: teknoloji,ekonomi
-- entry_name: |
-    elleri güzel erkekler
-  entry_id:  88063067
-  entry_writer: paixsociale
-  entry_fav_count: 0
-  entry_content: |
-    çok çabuk üşüyorlar.
-  entry_channels: anket,ilişkiler
 ---
