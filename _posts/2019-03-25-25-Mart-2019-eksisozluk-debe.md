@@ -6,7 +6,7 @@ data:
     galatasaray lisesi'nin kapatılması
   entry_id:  88077328
   entry_writer: jord
-  entry_fav_count: 1031
+  entry_fav_count: 1042
   entry_content: |
     türkiye'nin en iyi lisesinin kapatılması talebi. sebebi neydi? sebebi futboldu. sdfghhjjjkhahaha<br/><br/>edit: gsl'li değilim.
   entry_channels: spor,eğitim
@@ -14,7 +14,7 @@ data:
     alt komşunun escort olması
   entry_id:  88080299
   entry_writer: hep versace versace biraz da alsace
-  entry_fav_count: 623
+  entry_fav_count: 624
   entry_content: |
     onca eskort hanım bir yerlerde yaşadığına göre olasılık dahilindedir.<br/><br/>müşterilerin ondan sekip seni sikme olasılığı yoksa ki sanmıyorum, boşver.<br/><br/>iş hayatı. yarın öbür gün yurtdışından falan müşteri gelir, gönlünü hoş tutman gerekir, lazım bile olur sana.<br/><br/>her meslekten tanıdık iyidir...
   entry_channels: ilişkiler
@@ -22,7 +22,7 @@ data:
     güldür güldür'deki yandaş medya ahaber skeçi
   entry_id:  88090033
   entry_writer: boring point
-  entry_fav_count: 558
+  entry_fav_count: 594
   entry_content: |
     levent kırca’dan sonra politik mizahı unutmuştuk. <br/>iyi geldi.<br/>hayret nasıl cesaret etmişler.
   entry_channels: siyaset,tv
@@ -30,15 +30,23 @@ data:
     erdoğan'ın finans kesimini tehdit etmesi
   entry_id:  88092165
   entry_writer: drone agabey
-  entry_fav_count: 446
+  entry_fav_count: 457
   entry_content: |
     –arka taraftan bedelini ödemeyen kaldı mı?<br/><br/>–şuradan 2 tam 1 öğrenci <a class="b" href="/?q=bedel">bedel</a> uzatırmısınız? <br/><br/>meral hanım dokunulmazlığı yok bedel ödeyecek!<br/><br/>mansur yavaş dokunulmazlığı yok o da bedel ödeyecek<br/><br/>bay kemal sen de bedel ödeyeceksin<br/><br/>ankara bedelini ağır öder?<br/><br/>sebzeciler, meyveciler, halciler <br/><br/>marketçiler, esnaf<br/><br/>finans kesimi, para piyasası<br/><br/>muhalif gazete ve tv'ler<br/><br/>hepsi bedelini ağır ödeyecek<br/><br/>sen<br/>sen sen<br/>sen<br/><br/>maşaallah bedel ödemeyecek adam kalmadı. ülke değil <a class="b" href="/?q=bedel+bank">bedel bank</a> mübarek.
   entry_channels: siyaset
 - entry_name: |
+    artık götten iğne vurulmaması
+  entry_id:  88094773
+  entry_writer: hayir ben degilim
+  entry_fav_count: 251
+  entry_content: |
+    o değil de başlık sahibi bir yıl aradan sonra bu entryi girmiş. bir yıl bunu düşündü sanırım. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: sağlık
+- entry_name: |
     büyük istanbul mitinginde açıklanacak sürpriz
   entry_id:  88072493
   entry_writer: lukretius
-  entry_fav_count: 231
+  entry_fav_count: 232
   entry_content: |
     "damat bir daha şiveli konuşmayacak"
   entry_channels: siyaset,anket
@@ -46,90 +54,66 @@ data:
     evde hiç sıkılmadan vakit geçirebilen insanlar
   entry_id:  88072963
   entry_writer: ikikalplibiradam
-  entry_fav_count: 212
+  entry_fav_count: 224
   entry_content: |
     kendi kendine yetebilen insandır başkasına ihtiyaç duymaz. evde nasıl sıkılıyorsunuz anlamıyorum elinizin altında internet gibi bir bilgi kaynağı var kullanın biraz, internet sosyal medya için değil sadece. hiç hobiniz de mi yok?
   entry_channels: anket,ilişkiler
 - entry_name: |
-    artık götten iğne vurulmaması
-  entry_id:  88094773
-  entry_writer: hayir ben degilim
-  entry_fav_count: 208
-  entry_content: |
-    o değil de başlık sahibi bir yıl aradan sonra bu entryi girmiş. bir yıl bunu düşündü sanırım. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: sağlık
-- entry_name: |
     24 mart 2019 cumhur ittifakı istanbul mitingi
   entry_id:  88082515
   entry_writer: eksi peace
-  entry_fav_count: 208
+  entry_fav_count: 210
   entry_content: |
     ak çomarın işi daha da zor. pazar pazar mesaiye başlayacak yalayacak yalayacak yalayacak, 3 kuruş için onurunu şerefini haysiyetini satacak. çocuğunun torunlarının geleceğini gasp edenlere yardım ve yataklık edecek.<br/><br/>çay ve torba dağıtılacak mitingtir.
   entry_channels: siyaset,haber
 - entry_name: |
-    millet ittifakı listelerinde 334 pkklı aday
-  entry_id:  88087473
-  entry_writer: gaiusjuliuscaesar
-  entry_fav_count: 200
-  entry_content: |
-    tommy vercetti, ken rosenberg, ricardo diaz, lance vance...<br/><br/>biliyorsunuz a haber.<br/><br/>mesaj yoluyla eklenilmesi istenilen pkk'lılar: sonny forelli, juan cortez, avery carrington, umberto robina, auntie poulet, kent paul, mercedes cortez.
-  entry_channels: siyaset,tv
-- entry_name: |
     sokakta sigara içen kadın ucuzdur
   entry_id:  88082208
   entry_writer: surveyingeng
-  entry_fav_count: 192
+  entry_fav_count: 201
   entry_content: |
     sokakta sigara içen erkek olunca normal yani. ne tuhafsınız.
   entry_channels: siyaset,haber,magazin
 - entry_name: |
-    çocukken yapılan psikopatlıklar
-  entry_id:  88073342
-  entry_writer: nick bulma sorunlu yazar
-  entry_fav_count: 178
-  entry_content: |
-    sözlükte sayısız ruh hastası olduğunu gösteren başlık. olum ben küçükken tavşanımın ayağı acımasın diye altına yastık olurdum. suya düşmüş böcekleri kelebekleri kurtarırdım. sizler nasıl ruh hastalarısınız böyle?<br/><br/>hele şu kuşların tüylerini canlı canlı yolan arkadaş, kaç yaşında olursan ol yatacak yerin yok yeminle.
-  entry_channels: anket,ilişkiler,ekşi-sözlük,tarih
-- entry_name: |
     24 mart 2019 galatasaray sözlük bildirisi
   entry_id:  88084226
   entry_writer: tyty1920
-  entry_fav_count: 176
+  entry_fav_count: 191
   entry_content: |
     --- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/>1) musfata cengiz 23 mart 2019 mali genel kurulu’nda ibra edilmemesi sonrasında hukuk savaşı başlatmalıdır. bunu kendi onuru ve gururu için değil galatasaray için gerçekleştirmelidir. 358 kişinin milyonları alaya alıp galatasaray’ın altına dinamit döşemesini engellemek adına vereceği bu hukuk savaşı cas’da verdiğinden daha önemlidir. görecek ki galatasaray taraftarı milyonlarla arkasında olacaktır. öte yandan hukuk da mustafa cengiz’in arkasındadır. <br/><br/>2) fatih terim sıradan bir teknik direktör değildir. galatasaray taraftarının vicdanı, galatasaray taraftarının gönlünü verdiği imparatordur. yol göstericidir. böyle bir ihanete karşı aktif rol alması milyonlarca taraftarın beklentisidir.<br/><br/>3) galatasaray lisesi mezunu 358 lisecinin galatasaray taraftarını, galatasaray taraftarının iradesini yok sayması, statükocu tutumlarıyla küçük görmesi, aşağılaması asla kabul edilemez. galatasaray taraftarına duvar kenarında yürüyen hamamböceği muamelesi yapılamaz. üzerine basıp ezmek mümkün değildir. galatasaray taraftarı cebini değil galatasaray’ın başarısını düşünür. galatasaray’ın geleceğini aydınlık görmek ister. son yılların en iyi başkanı mustafa cengiz’in ibra edilmemesinden sonra galatasaray taraftarı statükocu lisecilerin kendisinin daha fazla aşağılanmasına izin vermeyecektir.<br/><br/>4) idari yönden mustafa cengiz’i ibra etmeyen 358, eğer bu kulüp üzerinden rant sağlamak niyetinde değilse, soygun düzenini getirip sırtlan gibi bunun bir parçası olma gayretinde yalakalık yapmıyorsa eğer mustafa cengiz’in idari başarısızlıklarını saymalıdır. tabi ki bu başarısızlıklar objektif açıdan değer taşımalıdır. genel kurulda dinlediğimiz safsatalardan olmamalıdır. mesela bu sezon kulübün kara geçilmesi bir mali başarıdır. ama doğru idarenin getirdiği bir mali başarıdır. ancak daha da önemlisi finansal fair play anlaşmasına uyamamış camiamızın uefa ile yeni bir anlaşma imzalamayı becermesi, daha sonrasında bu anlaşma büyük tepki görünce gözden geçirilmesine yönelik alınan kararı cas nezdinde iptal ettirmesi ise bu kulüp tarihindeki en büyük idari başarılardan biridir. nitekim kulüpler birliği açıklaması karşısında sergilenen tutum, kavga ortamı yaratmadan süreç içerisinde o açıklamaya imza atan her bir kulübün küçük düşmesini sağlayarak tepki vermek, koca açıklamanın sahipsiz kalmasını sağlamak apayrı bir idari başarıdır.<br/><br/>kendini ayrıcalıklı gören bir takım lümpen züppeler istanbul boğazı’nda malibusunu yudumlarken galatasaray hakkında, galatasaray taraftarı hakkında, galatasaray yönetimi hakkında, galatasaray’ın geleceğini etkileyecek böyle bir karar alamazlar.<br/><br/>içlerinde başka takım taraftarının da bulunduğu 358 kişi bu kulübü uçuruma sürükleyecek kararları sevinç nidalarıyla alabilmekteler. ne ilginçtir ki ibrasızlık oyu veren kişilerle kongrede kendine yer edinebilmiş başka takım taraftarlarının tamamı aynı safta yer almışlardır. şiarı “fikri hür, vicdanı hür, irfani hür galatasaray” olan camia oylarını, iradelerini, karar verme haklarını devretmiş zombi genel kurul üyeleri yüzünden isimleri herkesin malumu bir takım “abilerin” elinde oyuncak olmuştur. bu abilerin en tanıdık örneği kendilerine adam diyen futbolculardır. prim uğruna milli takımı yakmaktan beis görmeyen adamlar ve rant uğruna galatasaray’ı ateşe atmaktan çekinmeyen abiler. gelinen son nokta göstermiştir ki galatasaray’a artık akla, mantığa, modern çağa uygun yeni bir tüzük gerekmektedir.<br/><br/>bu kulüp küçük olsun, bizim olsun zihniyetinden, sağlık raporu almadan devlet dairesinde imza atamayacak kişilerin dar vizyonlarından, 358 kişinin biraraya gelip çıkar odağı oluşturabildiği genel kurullardan sıyrılmalı ve geleceğe koşmalıdır. <br/><br/>bu sadece 23 mart 2019 olağan mali genel kurul meselesi değildir. olağanüstü sonuçları olmuştur. tüzük değişikliğini zaruri kılan senelerin kangreninin geldiği noktayı açıkça milyonların gözüne sokmuştur.<br/><br/>unutulmasın ki an itibarıyla 30 milyon galatasaray taraftarı bu kararın, bu zihniyetin külliyen karşısında. buna ne tüzük dayanabilir, ne de lisenin duvarları. <br/><br/>galatasaray taraftarı 23 mart 2019 tarihinde alınan ibrasızlık kararının hukuk mücadelesi ile ortadan kalkması ve hain seslerin bu dönem için kısılması ile asla tatmin olmayacaktır. ali sami yen'in, tevfik fikret'in, metin oktay'ın huzur içinde uyuyabilmeleri için gerekli tedbirlerin alınmasını en tepede demokles'in kılıcı gibi bekliyoruz. <br/><br/>saygılarımızla. galatasaray sözlük<br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://rerererarara.net/24-mart-2019-galatasaray-sozluk-bildirisi--149331?tarih=2019-03-24" title="https://rerererarara.net/24-mart-2019-galatasaray-sozluk-bildirisi--149331?tarih=2019-03-24">https://rerererarara.net/…--149331?tarih=2019-03-24</a>
   entry_channels: spor
 - entry_name: |
-    24 yaşında her türlü zevki tatmış olmak
-  entry_id:  88088752
-  entry_writer: tailofcat
-  entry_fav_count: 162
+    çocukken yapılan psikopatlıklar
+  entry_id:  88073342
+  entry_writer: nick bulma sorunlu yazar
+  entry_fav_count: 182
   entry_content: |
-    her türlü zevk diyince aklıma türlü türlü şeyler geliyor. yağlı zenciler falan böyle bilemedim şimdi.
-  entry_channels: ilişkiler
+    sözlükte sayısız ruh hastası olduğunu gösteren başlık. olum ben küçükken tavşanımın ayağı acımasın diye altına yastık olurdum. suya düşmüş böcekleri kelebekleri kurtarırdım. sizler nasıl ruh hastalarısınız böyle?<br/><br/>hele şu kuşların tüylerini canlı canlı yolan arkadaş, kaç yaşında olursan ol yatacak yerin yok yeminle.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,tarih
 - entry_name: |
     31 mart 2019 sandığa gitmeyecek yazarlar
   entry_id:  88090981
   entry_writer: donaldtrump
-  entry_fav_count: 149
+  entry_fav_count: 166
   entry_content: |
     kullanın arkadaşlar gerekirse oy pusulasının üstüne yazı yazın ama yeter ki gidin oy kullandığınıza dair imza atın boş kalmasın... sonra belki şeytan doldurur oraları...
   entry_channels: anket
 - entry_name: |
+    24 yaşında her türlü zevki tatmış olmak
+  entry_id:  88088752
+  entry_writer: tailofcat
+  entry_fav_count: 166
+  entry_content: |
+    her türlü zevk diyince aklıma türlü türlü şeyler geliyor. yağlı zenciler falan böyle bilemedim şimdi.
+  entry_channels: ilişkiler
+- entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  88086553
   entry_writer: durdentyler
-  entry_fav_count: 107
+  entry_fav_count: 113
   entry_content: |
     istanbul atatürk havalimanı dış hatlar gidiş bölümünde, kahve ve sigara tüketerek uçağımın hareket edeceği saati beklemekteyim.<br/><br/>edit: girdiğim bu entry üzerine bir yazar arkadaştan mesaj aldım. beraber kahve içtik. güzel bir anı oldu.
   entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    yeni zelanda'daki eli tüfekli afet polis
-  entry_id:  88089520
-  entry_writer: happyyy
-  entry_fav_count: 100
-  entry_content: |
-    tamam eyvallah güzel de afet değil.
-  entry_channels: haber
 - entry_name: |
     türkiye'den siktir olup gitmek
   entry_id:  88077909
@@ -142,7 +126,7 @@ data:
     galatasaray spor kulübü'nün liseden ayrılması
   entry_id:  88076952
   entry_writer: coms
-  entry_fav_count: 91
+  entry_fav_count: 93
   entry_content: |
     <a class="b" href="/?q=23+mart+2019+galatasaray+genel+mali+kurulu">23 mart 2019 galatasaray genel mali kurulu</a> itibariyle fiilen gerçekleşmiştir. 30 milyon galatasaray taraftarına karşı ufak tefek çıkarları için yönetimi değiştirmeye çalışanların elinden metin oktay'ın, fatih terim'in milyonlara ulaştırdığı, dünyaya duyurduğu galatasaray gerçek sahipleri tarafından resmi olarak da alınacak. <br/><br/>takım şampiyonluğa giderken, en kritik haftalarda ortada hiçbir şey yokken, dursun özbek gibi kulübü mali olarak batağa sokmuş kişi ibra edilmişken; bu şahsın sebep olduğu yıkımı yüklenip uefa'dan ceza alınmasına kesin gözüyle bakılırken mustafa cengiz ve yönetimi, bugünkü oylamada ibra etmeyen hiçbir liselinin sahip olmadığı yüreği, cesareti gösterip aday olup bütün galatasaray taraftarının desteğiyle seçimi kazanan mustafa cengiz ve yönetimi ibra edilmedi.<br/><br/>en büyük düşmanlarımızın damadı olup çeşitli nedenlerle lisede sahip olduğu gücü galatasaray'ı kaosa sürüklemek için kullananların sonu geldi. galatasaray spor kulübü için kökten değişim zamanı geldi. türkiye'nin en büyük kulübü olmasını sağlayan milyonlarca insan, mezunlar derneği üyesi olması gereken, aidiyet duygusu olmaksızın üye yapılmış bir kaç bin kişi tarafından yönetilemez. galatasaray spor kulübü; galatasaray lisesi mezunlar derneği'nden ayrılacak. <br/><br/>zamanı geldi.
   entry_channels: spor,haber
@@ -150,7 +134,7 @@ data:
     25 mart 2019 dolar kuru
   entry_id:  88085762
   entry_writer: vytis
-  entry_fav_count: 87
+  entry_fav_count: 88
   entry_content: |
     merkez bankasi rezervleri mart ayinin ilk 2 haftasinda 6.3 milyar $ azalmis. bu sürede 3.8 milyar $ dis borc ödemesi planlanmis. rezervlerdeki 2.5 milyar $ azalma icinse herhangi bir neden bulunamiyor ve yabanci yatirimcilar merkez bankasinin duyuru yapmadan piyasaya müdahale ettigini <a rel="nofollow noopener" class="url" target="_blank" href="https://www.bloomberg.com/news/articles/2019-03-22/turkish-markets-slide-as-local-dollar-hoarding-spooks-traders" title="https://www.bloomberg.com/news/articles/2019-03-22/turkish-markets-slide-as-local-dollar-hoarding-spooks-traders">düsünüyor</a>. <br/><br/>muhtemelen kamu bankalari veya <a class="b" href="/?q=botas">botas</a> gibi döviz ile icli disli kamu kuruluslari araciligiyla yapildigi düsünülen müdahale ile piyasaya döviz pompalanarak, kurun baskilandigi görüsü hakim.<br/><br/>bu durumu farkeden dis güclerin(!) masasi jp morgan diyor ki “rezervlerdeki 1.5 milyar $ düsüsün hazine’nin eurobond ödemelerinden kaynaklandigini hesaplayabiliyoruz. ancak geri kalani muamma. döviz rezervlerindeki bu düsüs sürdürülebilir degil. dolarin tl karsisinda 5.90 hedefle yükselecegini tahmin ediyoruz.”<br/><br/>film de bundan sonra kopuyor. ekonomi yönetimi hedef tahtasina jp morgan’i oturtup, <a class="b" href="/?q=bddk">bddk</a> ve <a class="b" href="/?q=spk">spk</a> araciligiyla manipulasyon sorusturmasi baslatiyor. <br/><br/>ne diyordu <a class="b" href="/?q=gemide">gemide</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=HUD5GBsk4kE" title="https://m.youtube.com/watch?v=HUD5GBsk4kE">filminde</a>:<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>pezevengi öldür "1 cinayet", kızı al "2 adam kaçırma", kızı en az iki kişi s.k "3 ırza tecavüz", her gece esrara takıl nerden baksan "4 içicilik", heriflerin cebinden paralarını al "5 gasp", bütün bu bokları yedikten sonra polislerin suratına bakıp "kusura bakmayın abi kaza oldu" diyemezsin.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>yabanci yatirimcinin gözünden olan biten:<br/><br/>1- piyasaya gizliden müdahale et ama bilgi verme<br/>2- sive yaparak dolar alanlarla dalga gec<br/>3- dolar bir günde 5.45’ten 5.85’e ciksin izlemekle yetin<br/>4- sonra da bir günah kecisi bul ve manipulasyonla sucla.<br/><br/>tüm bunlari yaptiktan sonra yabanci yatirimcinin suratina bakip “kusura bakmayin abi kaza oldu” diyemezsin.<br/><br/>bddk ve spk, jp morgan’in tam olarak nasil bir manipulasyon icerisinde bulundugunu; merkez bankasi ise döviz rezervlerindeki azalisin neyden kaynaklandigini umarim piyasalar acilana kadar aciklar.<br/><br/>haber akisina göre sekillenecek kurdur.<br/><br/><a class="b" href="/?q=yasal+uyar%c4%b1">yasal uyarı</a><br/><br/>burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir. yatırım danışmanlığı hizmeti, aracı kurumlar, portföy yönetim şirketleri, mevduat kabul etmeyen bankalar ile müşteri arasında imzalanacak yatırım danışmanlığı sözleşmesi çerçevesinde sunulmaktadır. burada yer alan yorum ve tavsiyeler, yorum ve tavsiyede bulunanların kişisel görüşlerine dayanmaktadır. bu görüşler, mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi, beklentilerinize uygun sonuçlar doğurmayabilir.<br/><br/>ulaşmış olduğunuz bu site kapsamındaki gerek sözel gerekse de grafik bilgiler ulaşılabilen ilk kaynaklardan iyi niyetle ve doğruluğu, geçerliliği, etkinliği velhasıl her ne şekil ve surette olursa olsun herhangi bir karar dayanak oluşturması hususunda herhangi bir teminat, garanti oluşturmadan yalnızca bilgi edinilmesi amacıyla toplanmıştır.
   entry_channels: ekonomi
@@ -158,7 +142,7 @@ data:
     24 mart 2019 yenikapı mitingi katılımcı sayısı
   entry_id:  88093557
   entry_writer: barboza
-  entry_fav_count: 78
+  entry_fav_count: 85
   entry_content: |
     ben de alandaydim. yalan soyluyorlar, yaklasik olarak 100 milyor kisi vardi. <br/><br/>(bkz: <a class="b" href="/?q=milyor">milyor</a>)
   entry_channels: siyaset,anket
@@ -171,26 +155,10 @@ data:
     hayır liseden mezun olan herkes de en aşağı 100 yıl yaşıyor amk. pilav pilav degil asteriksin şurubu, galyalı iksiri sanki
   entry_channels: spor,haber
 - entry_name: |
-    adidas'ın son yıllarda kalitesini iyice bozması
-  entry_id:  88086216
-  entry_writer: kayravekinyas
-  entry_fav_count: 71
-  entry_content: |
-    türkiye'ye düşük 3. kalite mallari kitledikleri için olandır. bu durum diğer firmalar için de geçerlidir. çünkü türkiye ne verilse yutan insanların yaşadığı, hirsizlardan bile hesap soramamis bir halkin yaşadığı bir üçüncü dunya ulkesidir.
-  entry_channels: moda
-- entry_name: |
-    mansur yavaş
-  entry_id:  88073831
-  entry_writer: mhmetengineer
-  entry_fav_count: 69
-  entry_content: |
-    geçen seçimlerdeki olan olaylardan bir kesiti şöyleydi..<br/>oylar ilk açıklandığında 58e 35 civarı melih gökçek öndeydi. <br/>yalnız bu sonuçlarda ilginç bir şekilde akp'ye oy çıkan bütün ilçelerin oyları sisteme yüzde 75 civarında girilmişken chp'ye yakın olan yerler sisteme yüzde 20-25 civarında girilmişti. gece 11 civarında 46ye 42 felandı..<br/>gece 1-2 gibi izliyorum 44e 43 oldu sisteme oy girilmiyor. çankaya oyları 75'de kalmış. <br/>o arada bir kargaşa.. seyranbağlarında ve çankaya'nın kimi yerlerinde helikopter ve ferrari olayları, çöp kamyonu olayları...<br/>efkan ala'nın ysk binasına girmesi derken, cnn türk'de aynen şu kelimeleri duymuştum.. "ilk kez böyle bir şeyle karşılaşıyoruz 2 saattir sisteme oy girilmedi." <br/><br/>bu olaylardan 1 saat felan önce i.melih gökçek basın açıklaması yapmıştı. ankara büyükşehir belediye başkanı ben oldum. benden başkası olursa da ona yedirmem, ona belediye başkanlığını yaptırmam. yok öyle sadece 1-2 ilçeyi alıp belediye başkanlığını almak. il meclisindeki oranlar ne durumda vs vs gibi açıklamalar yapmıştı. <br/><br/>mansur yavaş'da ben kazandım diye açıklamalar yaptı.. hala sisteme girilmeyen oylar ve yanlış girilen yerler var ysk'dan net sonucu bekliyoruz dedi.<br/><br/>ertesi gün insanlar ysk binasının önüne toplanmıştı. kargaşa ve sitem vardı.<br/>adalet istiyordu insanlar.<br/>mansur yavaş alana geldi ve adaleti ben hukuk yolunda arayacağım. burda sizin yapacağınız bir şey yok. hiç birinizin burnunun kanamasını o koltuğa değişmem dedi. (bkz: <a class="b" href="/entry/41652657">#41652657</a>)<br/>(1nisan 2014 entrylerine bakarak bulabilirsiniz bu durumları. biz canlı yaşadık zaten. ) <br/><br/>ölene dek seninleyiz mansur başkan. <br/>haftaya ankara büyükşehir belediye başkanı olmazsan (ki yüksek ihtimalle olacaksın) daha büyük oyna başkanım. <br/><br/>sana meclisin en büyük koltuğu yakışır.
-  entry_channels: siyaset
-- entry_name: |
     dizi tarihinin en ezik karakteri
   entry_id:  88072410
   entry_writer: monotonluk
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     sihirli annem - avni
   entry_channels: anket,tv
@@ -198,7 +166,7 @@ data:
     gss prim borcu
   entry_id:  88090336
   entry_writer: ne istediler de vermedik
-  entry_fav_count: 68
+  entry_fav_count: 69
   entry_content: |
     erkeklerin toplumun piçi olduğunu kanıtlayan başka bir devlet uygulamasıdır. <br/><br/>anneden babadan emekli maaşları kadınlara kalır. erkeklere kalır mı?<br/>kalmaz. çünkü erkekler vatandaş değildir.<br/><br/>erkekler, sizin göreviniz cepheye gidip ölmek, çalışırken ölmek, olur da buralarda ölmezseniz köle gibi onlarca sene çalışıp yüklendiğiniz aile sorumluluğunun altında ezilmek, emekliliğinizde de yokluk ve sefalet içerisinde ölmektir.<br/><br/>unutmadan, bir de şerefsiz gibi kadınlara sürekli eziyet ediyorsunuz. ulan ne pislik, ne uğursuz bir grupsunuz lan.<br/><br/>çükünüz düşsün aşağılıklar.<br/>----------------------------------------------------------------------------------------------------------------<br/><br/>erkekler, keyfinize bakın lan. çok ciddiyim. bırakın bu vatan, millet, sakarya tatavalarını.<br/>toprağı vatan yapan insandır. insan olarak değer görmediğiniz bu topraklarda ya yaşamayın, ya da yapılanlara tepkinizi ortaya koyacak eylemlerde bulunun. <br/><br/>eylem deyince meydanlara çıkılmasını kast etmiyorum. mesela, çok vergi ödediğiniz tüketimlerinizi kısıtlamaya çalışın, araba alıp da tonla vergi ödemeyin. canınız çıkıyor o paraları kazanırken.<br/><br/>evlilikmiş, aşkmış geçin bu işleri.<br/><br/>aşk ve evlilik erkekleri kontrol edebilmek için uydurulmuş tasmalardır. arada muhakkak gerçek aşklar ve güzel evlilikler vardır. onlara lafım yok. fakat çevrenize ve yaşadıklarınıza bakınca bunların azınlık olduğunu fark edeceksiniz.<br/><br/>yapabiliyorsanız çekin gidin bu ülkeden. hangi siyasi parti gelirse gelsin durum değişmez. çünkü sorunun kaynağı siyasiler değil toplum. kanıt mı?<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=4XnX_wC1r8c">https://www.youtube.com/watch?v=4xnx_wc1r8c</a><br/>yukarıdakini iyi izle. çeyrek asır önce çekilmiş. yetmedi mi?<br/>bir doz vatandaş rıza verelim.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=YlNkA9AJQ5o">https://www.youtube.com/watch?v=ylnka9ajq5o</a><br/><br/>yine mi yetmedi?<br/>gülen adam da altın vuruş olur herhalde.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=So6b5qua_zc">https://www.youtube.com/watch?v=so6b5qua_zc</a><br/><br/>yeşilçam sinemasını küçümsemeyin. çünkü bu filmler türkiye'de özgürlükler varken çekilmiş, yükse dozda siyasal ve toplumsal eleştiri içeren filmler. uzun süredir böyle filmler çekilmiyor. <br/><br/>bunları iyice izleyin. çünkü göreceksiniz ki değişen bir şey yok. hepiniz piçsiniz, kıymetiniz yok. bir zenginin evcil hayvanı kadar kıymetli değilsiniz.<br/><br/>sayın çüklüler, başlık altında ödeyeni siksinler falan yazmayın ayıp oluyor. sayın hanımefendiler rahatsız oluyorlardır. <br/>böyle yazdıkça salaklığınızı da kanıtlayıp duruyorsunuz. evladım, devlet senin dibini zaten doğduğun andan beri dövüyor, farkında değilsin. daha götün bokluyken eline tutuşturulan bayram harçlığıyla bakkal amcandan aldığın o çikolataların, sakızların, şekerlerin hepsinden çatır çatır vergisini aldı devlet. adı da kdv. hatta bakkal amcan da fiş kesmeyerek devlete yancı oldu.<br/><br/>çüklüler sizlere kdv'nin filmini de atıyorum ki, testosteron dolu beyin hücreleriniz azıcık farklı şeylerle uğraşsın da kadınları lütfen rahat bırakın. çünkü onlar gerçek vatandaşlar, gerçek insanlar. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=HBPVASeq9Cw">https://www.youtube.com/watch?v=hbpvaseq9cw</a><br/><br/>bana çemkiren kadınlar olabilir. sayın kadın, niye herhangi bir çüklüyle muhatap olacaksın ki?<br/>insan mıyız biz. lütfen kendinizi yormayın saygıdeğer hanımefendi.<br/><br/>çüklüler, kaçın......
   entry_channels: siyaset,sağlık,ekonomi
@@ -206,66 +174,74 @@ data:
     ultraslan'ın galatasaray lisesi'ni basması
   entry_id:  88093011
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 66
+  entry_fav_count: 68
   entry_content: |
     lisenin çıkışında ultraslanın ne işi varmış amk. güçleri liseli sabilere mi yetecekmiş?<br/>manyak mısınız olm?<br/>bari mezunlar derneğine gidin, aradıklarınıza orada bir ihtimal ulaşabilirsiniz.<br/><br/>not: bjk spor.
   entry_channels: spor
 - entry_name: |
+    bir erkeğin bir kadına verebileceği en iyi şey
+  entry_id:  88072436
+  entry_writer: ankaralihypatia
+  entry_fav_count: 62
+  entry_content: |
+    hayallerini paylaşması. kadın veya erkek fark etmeksizin böyledir.<br/><br/>bir insanın yumuşak karnıdır, güvenmiştir.<br/>bu kadar özel bir şeyi paylaşıyordur, sevmiştir.<br/>birlikte zaman geçirmekten keyif alıyordur, dostu olmuştur.<br/>onunla heyecanlanıyordur, arzu duymaktadır.
+  entry_channels: ilişkiler
+- entry_name: |
     35 yaş ve üstü dertleşecek insan veritabanı
   entry_id:  88077743
   entry_writer: nolimetangere
-  entry_fav_count: 60
+  entry_fav_count: 61
   entry_content: |
     dert değil neşe paylaşacaklar yazabilir. sikiyim dertleri. sanki konuşunca çözülecek. yaş 40.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    ölünce yaratıcıya söylenecek ilk söz
-  entry_id:  88080966
-  entry_writer: haylaz ruzgar
-  entry_fav_count: 46
-  entry_content: |
-    allahım, günah ve gaflet içinde bir hayat yaşadım affet. bugün beni senin merhametinden başka kurtaracak hiçbirşey yok.
-  entry_channels: anket
-- entry_name: |
     meyve ve sebzelerin eski tadının olmaması
   entry_id:  88095050
   entry_writer: doremerod
-  entry_fav_count: 46
+  entry_fav_count: 54
   entry_content: |
     bugün pazara çıkıp hiç meyve ve sebze almadan gelmeme sebep olan durum.<br/>muhtemelen nedeni "papilla" değil "papel"
   entry_channels: yeme-içme
 - entry_name: |
-    24 mart 2019 chp reklamı
-  entry_id:  88092151
-  entry_writer: 3lly
-  entry_fav_count: 44
-  entry_content: |
-    berbat çekilmiş reklam. liyakat liyakat dersiniz de kendinizde liyakat yok. genç parlak fikirli reklamcılarla çalışın.
-  entry_channels: siyaset,tv
-- entry_name: |
     konya'da komşuların evden attırdığı köpek
   entry_id:  88094239
   entry_writer: turk eli
-  entry_fav_count: 41
+  entry_fav_count: 52
   entry_content: |
     durumun ayrintisini bilip bilmeden elestirilmemesi gereken olay.<br/><br/>yasayan bilir. bizim apartmanin giris katinda da sabah aksam havlayip inleyen bir kopek var. bazen evde yalniz birakiyorlar ve hic araliksiz havlayip inliyor. neyseki benim dairemin degil yan konsumum altinda kaliyor. ancak yan komsum hayattan bezmis durumda. polise sikayet yapildi ve kopegin veya kiracinin evden cikarilmasi icin surec basladi. onceden de kopegi vardi ve sanirim oldu yerine yavru bir kopek getirdi adam.<br/><br/>not: mekan konya degil belcika.
   entry_channels: ilişkiler,haber
 - entry_name: |
+    ölünce yaratıcıya söylenecek ilk söz
+  entry_id:  88080966
+  entry_writer: haylaz ruzgar
+  entry_fav_count: 51
+  entry_content: |
+    allahım, günah ve gaflet içinde bir hayat yaşadım affet. bugün beni senin merhametinden başka kurtaracak hiçbirşey yok.
+  entry_channels: anket
+- entry_name: |
+    dolgulu sütyen
+  entry_id:  88086907
+  entry_writer: kahredengercek
+  entry_fav_count: 49
+  entry_content: |
+    cüzdan dolu gözüksün diye tüm parayı 5 tl lik banknota çevirmek gibidir.
+  entry_channels: ilişkiler,sağlık,moda
+- entry_name: |
+    24 mart 2019 chp reklamı
+  entry_id:  88092151
+  entry_writer: 3lly
+  entry_fav_count: 46
+  entry_content: |
+    berbat çekilmiş reklam. liyakat liyakat dersiniz de kendinizde liyakat yok. genç parlak fikirli reklamcılarla çalışın.
+  entry_channels: siyaset,tv
+- entry_name: |
     ciddi ciddi aşk acısından ağlayan erkek
   entry_id:  88074615
   entry_writer: yesilerikciktimi
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     normal insandır. bırakmıştır bulamamıştır, sevmiştir sevilmemiştir, sevmiştir kavuşamamıştır, ama en kötüsü sevdiğine doyamamıştır. kader zalimdir bazen, sevenleri istemeseler de ayırır, o zaman herkes ağlar, kimseye kızmayın.
   entry_channels: ilişkiler
-- entry_name: |
-    güler yüzlü olmanın dezavantajları
-  entry_id:  88072736
-  entry_writer: taktaktaksii
-  entry_fav_count: 27
-  entry_content: |
-    kadınsan ilk etapta basit kadın yaftası yemene neden oluyor ki bu yaftadan kurtulmak için ekstra mesafeli davranmak gerekiyor herkese. ben çalıştığım hiç bir yerde erkek iş arkadaşlarıma direkt ismi ile hitap etmedim. her zaman <a class="b" href="/?q=ahmet+bey">ahmet bey</a>, <a class="b" href="/?q=mehmet+bey">mehmet bey</a> dedim. yaşının küçüklüğünü büyüklüğünü, pozisyonun düşüklüğünü yüksekliğini hesaba katmadan. o zaman da özellikle düşük rütbede ya da küçük yaşta olanlarda ukala bir hava gerçekleşiyor bazen. onu dengelemek için de ek çıkışlar, gerginlikler gerekiyor. emin olun bunların hepsi güler yüzlü olmakla başlıyor. olma güler yüzlü diyecekler için de kimseye surat yapma hakkı görmüyorum kendimde. mutluysam orda gülümserim ben değiştirebileceğim bir özellik değil. ama karşıdaki olgun biri değilse saygısının azalmasına neden oluyor o da bir gerçek.<br/><br/>eskiden çalıştığım bir yerde benim için "onun ne derdi olabilir ki, hep neşeli" demişlerdi. için kan ağlarken yüzünün gülmesi nasıl bilmiyorlar belli ki. gülümseme karşıdaki insana saygıdan gelir. suratlı insanlar saygısız gibi geliyor bana.
-  entry_channels: anket
 - entry_name: |
     galatasaray
   entry_id:  88073357
@@ -286,7 +262,7 @@ data:
     kastamonu denince akla gelenler
   entry_id:  88075458
   entry_writer: elarabasinisatanbilge
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     ağzımı çok da bozmak istemiyorum ama daha poposundaki sivilceler kurumamış insanların gidip de görmedikleri hissetmedikleri yaşamadıkları coğrafyayı ve insanları küçümsemesi beni güldürüyor. gidin gezin görün yaşayın köylü her yerde cahildir evet bir fularlı beklemeyin karşınızda ..birçok özelliği var memleketimin pek tabi.bak ne güzel yazıyorum değil mi kardeşim ve emin ol diksiyonum da oldukça düzgün ..kısaca gendünü sanıma altun gün gelü döğerin döşer kalursun şaşkun.. bunu da şimdi uydurdum meali: kendini sanma altın gün gelir değerin düşer olursun şaşkın
   entry_channels: anket,tarih,seyahat
@@ -294,7 +270,7 @@ data:
     ekrem imamoğlu
   entry_id:  88090636
   entry_writer: pembe ananas
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     akp istanbul’u asla birakmaz diyerek bastan kaybettirilen istanbul buyuksehir belediye baskan adayi.. <br/><br/>bakin onlar ankara’yi kaybediyorlar su an, ama kabul etmiyorlar. siz kazabilecekken, maglup olmayi kabul ediyorsunuz. yapmayin.. gidin oyunuzu kullanin, sandiga gitmeyecegim diyen varsa da ikna edin. <br/><br/>akp istanbul’u birakmayacak; siz istanbul’u kazanacaksiniz. mart’in sonu bahar..
   entry_channels: siyaset,haber
@@ -307,13 +283,13 @@ data:
     nöroplasti sorusuyla tüm gamerların gönlünde taht kuran sınavdır.
   entry_channels: eğitim
 - entry_name: |
-    rte ile devlet bahçeli'nin el ele tutuşması
-  entry_id:  88072465
-  entry_writer: el cordobeslerin sonuncusu
-  entry_fav_count: 14
+    24 mart 2019 kola kutusundan çıkan fare
+  entry_id:  88096937
+  entry_writer: neyazacaktim
+  entry_fav_count: 16
   entry_content: |
-    benim gördüğüm iki ihtiyarın merdivenden düşmemek için ele ele tutuşması.<br/><br/>iktidardan düşmemek için de aynısını yapıyorlar. gayet normal.
-  entry_channels: siyaset
+    çoğu kızdan güzel eli olan fare.
+  entry_channels: 
 - entry_name: |
     filtre kahve tavsiyeleri
   entry_id:  88080866
@@ -323,13 +299,13 @@ data:
     brezilya ve etiyopya’dan özel helikopterle getirttiğim çekirdekleri harmanlıyorum. tabi belli oranları var bunların, burada açık edemem. bunları bir güzel harmanladıktan sonra yozgat’tan getirttiğim el yapması havanlarda yine yozgat’tan getirttiğim yozgatlılara dövdürüyorum. döğdürdükten sonra finlandiya’da sırf bu işler için dikilmiş ağaçlardan elde edilen filtre kağıtlarını kullanarak kahvemi colombia sıcaklığında pişiriyorum, colombia sıcağını da özel getirtiyorum. kahve işi özel getirtmelerle olur zira. <br/><br/>çibo, sıtarbaks diyenin ağzına tüküreyim ayrıca! boklar! yine en iyi ben anlarım kahveden! mmmhhhh
   entry_channels: anket,yeme-içme
 - entry_name: |
-    31 mart 2019 yerel seçimleri
-  entry_id:  88073473
-  entry_writer: 17december
-  entry_fav_count: 10
+    ülke umrumda değil ben hayatımı yaşarım
+  entry_id:  88097122
+  entry_writer: denizkumsal
+  entry_fav_count: 8
   entry_content: |
-    yerel secimden baska her seye benzetilmeye calisilan secim.<br/><br/>halihazirda hem tbmm hem cb makami hem de ist ank belediyeleri akp’de olmasina ragmen var oldugu iddia edilen “beka” sorunu var oluyorsa, varsayalim, ist ank akp’de kalinca nasil kalkacak bu sorun ortadan? <br/><br/>chp ankara’yi, iyi parti balikesir’i kazanamayinca kendi kendine ortadan mi kalkacak? yoksa erdogan-bahceli beka sorununun kalkmasi icin yapilacaklari acikladi da biz mi duymadik?<br/><br/>hayir, zaten 17 senelik kesintisiz bir iktidarda bile ulke eger yok olma esigine geliyorsa, sizin deyiminizle, iki tane belediyeyi elinizde tutunca mi atlatilacak bu durum?<br/><br/>madem bu kadar kritik ve guvenlik sorunu teskil eden bir durum yaratacak, neden secime gidiyoruz? yahut neden 81 ile kayyum atanmiyor? <br/><br/>hadi acik konusalim, koca bir tiyatro ceviriyorsunuz ve buna da cidden kisa vadede olsa inandirip, bir sonraki secime kadar idare etmek istiyorsunuz. hayir, akp kazansa ne olur, ankara’yi yine alsa ne olur. ulkeye ne verecek bir umudunuz kaldi ne de bir vaat. <br/><br/>sistemi ve memleketi tamamen iflas ettirmeden basarili olmus saymayacaksiniz sanirim kendinizi.
-  entry_channels: siyaset,haber
+    hiç televizyon izlemeyen, haberlerden, gündemden uzak duran, bugün dolar ne kadar olmuş diye bakmayan, öyle sadece günlük hayatı yaşayıp, başka neler olduğunu merak etmeyen ve mutlu olan bir arkadaşımın sözü.
+  entry_channels: siyaset
 - entry_name: |
     go ahead eagles'ın türkçe çevirisi
   entry_id:  88095958
@@ -339,21 +315,29 @@ data:
     (bkz: <a class="b" href="/?q=sald%c4%b1r+be%c5%9fikta%c5%9f%27%c4%b1m+oley">saldır beşiktaş'ım oley</a>)
   entry_channels: spor
 - entry_name: |
-    24 mart 2019 kola kutusundan çıkan fare
-  entry_id:  88096937
-  entry_writer: neyazacaktim
-  entry_fav_count: 7
-  entry_content: |
-    çoğu kızdan güzel eli olan fare.
-  entry_channels: 
-- entry_name: |
     en sevilen radyo kanalları
   entry_id:  88096573
   entry_writer: melankolik optimist
-  entry_fav_count: 5
+  entry_fav_count: 8
   entry_content: |
     (bkz: <a class="b" href="/?q=kafa+radyo">kafa radyo</a>)
   entry_channels: anket
+- entry_name: |
+    supernatural'dan akılda kalanlar
+  entry_id:  88094012
+  entry_writer: strongunion
+  entry_fav_count: 7
+  entry_content: |
+    dean’in morg da pantolonunu indirip pudding diye bağırdığı bölüm
+  entry_channels: tv,spoiler
+- entry_name: |
+    survivor 2019 türkiye-yunanistan
+  entry_id:  88073451
+  entry_writer: rockinside
+  entry_fav_count: 6
+  entry_content: |
+    erzak oyununda okay hata yapip parkurun basina dondugune cins cins hareketler yapip milleti gaza getirmeye calisan sude; seni de gorduk dokunulmazlikta. gulme komsuna gelir basina demisler.
+  entry_channels: tv
 - entry_name: |
     türk kızlarının çoğunun ruh hastası olması
   entry_id:  88094117
@@ -363,13 +347,13 @@ data:
     - ikinci buluşmamızda telefonumun şifresini tespit edip whatsapp mesajlarımı okuyan bir hukukçu <br/><br/>- ilk tanışmadan sonra para lazım benim için kredi çeker misin diyen dolandırıcı <br/><br/>- başkalarıyla görüşmeyelim diyip dating app'lerde gezen yavşak<br/><br/>- sevgilisi/eşi olduğu halde asılıp sonra yanlış anladın diyen sözde dürüstler <br/><br/>bunların arasında ruh hastası olan ben oluyorum öyle mi?<br/>oldu canım ne demek!
   entry_channels: ilişkiler
 - entry_name: |
-    ülke umrumda değil ben hayatımı yaşarım
-  entry_id:  88097122
-  entry_writer: denizkumsal
+    hürriyet (gazete)
+  entry_id:  88096361
+  entry_writer: madonnanin yagli zencisi 2
   entry_fav_count: 3
   entry_content: |
-    hiç televizyon izlemeyen, haberlerden, gündemden uzak duran, bugün dolar ne kadar olmuş diye bakmayan, öyle sadece günlük hayatı yaşayıp, başka neler olduğunu merak etmeyen ve mutlu olan bir arkadaşımın sözü.
-  entry_channels: siyaset
+    ne zamandir ne twitter'da takip ediyorum ne linkine tikliyorum ancak twitter'da linkleri onume geliyor<br/><br/>besiktasli degilim ama oncelikle<br/>(bkz: <a class="b" href="/?q=yeter+y%c4%b1ld%c4%b1r%c4%b1m+demir%c3%b6ren">yeter yıldırım demirören</a>)<br/><br/>abi tamam dolar cinsinden kredi alarak medya isine girdin, kur uctu gitti, yedigin kazigin haddi hesabi yok da<br/><br/>aydin amca akp propagandasini en azindan daha alttan alta veriyordu.<br/>cunku turkiye'de gazete alan kesim belli. <br/><br/>ancak hurriyet son gunlerde direkt a haber moduna girdi. <br/>hitap ettigin kitle de zaten gazete aliyorsa hurriyet de almaz.<br/><br/>ha sen diyorsan ki "bak zenci kardes, ben diger medya kuruluslari gibi tek bir kisiye yonelik haber yapiyorum"..eyvallah.
+  entry_channels: siyaset,edebiyat,haber
 - entry_name: |
     s-400
   entry_id:  88092053
@@ -395,6 +379,14 @@ data:
     soru:islam hakkında ne düşünüyorsunuz? başörtüsü bir seçim mi, özgürlüğü mü simgeliyor sizce?<br/><br/>cevap: özgürlüktür tabi ki. kadınların ne giyip giymeyeceğine lütfen artık kendisi dışında kimse karar vermesin. isteyen mini etek giyer isteyen başını örter. sene 2019 hala böyle konularda anlayışsızlık var şaka gibi.<br/><br/>islam hak din. ben müslümanım ve beni gören beni seven bana değer veren benim hakkımı gözeten sevgi dolu bir tanrının varlığına inanıyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    24 mart 2019 fenerbahçe opet eczacıbaşı vitra maçı
+  entry_id:  88096679
+  entry_writer: collega
+  entry_fav_count: 1
+  entry_content: |
+    eczacıbaşı kesinlikle daha iyi bir kadro, kazanmaları sürpriz olmaz ancak hakemlerin motta etkisi ile karar değiştirip fenerbahçe opet'in ritmini kırmaları kötü oldu. trt için ise takunyalılar geldiğinden beri söylenecek pek söz yok.
+  entry_channels: spor
+- entry_name: |
     sadece adı ve soyadıyla e-mail alabilen insan
   entry_id:  88076586
   entry_writer: transendental
@@ -402,4 +394,12 @@ data:
   entry_content: |
     bu konuda benim hikayem sanırım biraz ilgi çekici olabilir.<br/><br/>rahatsız edici bir soyadına sahip olduğumdan ve özellikle de eşime bu problemi yaşatmak istemediğimden evlendikten bir süre sonra soyadı değişikliği davası açtım.<br/><br/>dava dilekçesi hazırlama sürecinin ortasında gmail’i açtım ve adım ile birlikte birçok soyadı denedim e-mail adresi almak için. büyük çoğunluğu alınmıştı denediğim kombinasyonların. şu anki soyadımın olduğu adsoyad@gmail.com adresini aldığımda dava dilekçesini tamamlayarak o soyadını mahkeme kararı ile edinmiş oldum.
   entry_channels: teknoloji
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  88073004
+  entry_writer: heaolrole
+  entry_fav_count: 0
+  entry_content: |
+    dişe dokunur derdin varsa gel, bakalım.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
