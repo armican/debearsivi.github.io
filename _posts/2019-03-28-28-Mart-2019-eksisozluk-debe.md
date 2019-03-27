@@ -6,23 +6,23 @@ data:
     osmaniye'de şemsiyeyle uçan adam
   entry_id:  88199752
   entry_writer: gomlegini ters giymis hunili
-  entry_fav_count: 1377
+  entry_fav_count: 1428
   entry_content: |
     (bkz: <a class="b" href="/?q=o+g%c3%bczel+insanlar+%c5%9femsiyelerine+binip+gittiler">o güzel insanlar şemsiyelerine binip gittiler</a>)
   entry_channels: haber
 - entry_name: |
-    depoyu fullemenin aptallık olması
-  entry_id:  88191023
-  entry_writer: prekerims
-  entry_fav_count: 440
+    lösev'in kan donduran mart bülteni
+  entry_id:  88202530
+  entry_writer: hateoflove
+  entry_fav_count: 457
   entry_content: |
-    (bkz: <a class="b" href="/?q=s%c4%b1%c3%a7t%c4%b1ktan+sonra+arabaya+binmek">sıçtıktan sonra arabaya binmek</a>)
-  entry_channels: otomotiv
+    göz göre göre kanser tedavisinin önüne geçildiğini gösteren kan dondurucu bültendir.<br/><br/>edit: arkadaşlar linkler uçmuş, <a class="b" href="/?q=papucumun+entrysi">papucumun entrysi</a> sağ olsun eksiup'a yüklemiş, güncel linkler:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/db95e8e1e237.jpg">https://s3.eksiup.com/db95e8e1e237.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/e51200364261.jpg">https://s3.eksiup.com/e51200364261.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/8b965add7584.jpg">https://s3.eksiup.com/8b965add7584.jpg</a>
+  entry_channels: siyaset,sağlık,haber
 - entry_name: |
     27 mart 2019 borsa istanbul endeksi
   entry_id:  88192614
   entry_writer: xspace
-  entry_fav_count: 440
+  entry_fav_count: 444
   entry_content: |
     serbest düşüşteki endekstir.<br/><br/>açılıştan bu yana (15:08) %5 civarı değer kaybı gerçekleşti. son 7 günlük kayıp, %11'i aştı.<br/>ara edit: (16:40) itibariyle kayıp %6. son 7 günlük kayıp ise %13'e dayandı.<br/><br/>normalde dolar düşünce, insanların dolarlarını satıp borsaya girmeleri beklenir. ancak şu anda merkez bankasının tl kıtlığı yaratması nedeniyle dolar düştüğü için, insanlar borsadan satış yapıp, tl edinip, dolar almak zorunda kalıyorlar. bu nedenle dolar düşerken, borsa da düşüyor.<br/><br/>swap piyasasında millet tl borçlanıp, dolar alamasın diye tl arzını tıkadılar. piyasada tl kıtlığı oluştu. adamlar da tl bulmak için, tl cinsinden karşılığı olan varlıklarını bozduruyor. yani ellerindeki türk hisselerini satıyorlar. (bkz: <a class="b" href="/?q=%c3%b6yle+swapa+b%c3%b6yle+swap">öyle swapa böyle swap</a>)<br/><br/>neticede hükümet doları 1 hafta önceki seviyesine indirmek için borsayı komaya soktu. valla bu reis muhteşem bir adam.<br/><br/>bu arada borsadan çıkan dolara geçmiyor, tl'de faize geçiyorlar. seçimden sonra bu adamlar dolarlarını alıp, memleketlerine döndüklerinde borsa batmış, dolar da yeniden fırlamış olabilir.<br/><br/>uzun lafın kısası, serbest piyasa ile şaka olmaz. george soros, ingiltere merkez bankasını tokatlamış adam. bu para babalarının karşısında 450 milyar dolar borçlu ve net rezervi 20 milyar doların altında olan, üretimi, gelişmeyi bir kenara bırakıp, her yere imam hatip ve cami açan bir ülkenin şansı ne kadar?<br/><br/>erdoğan'a biri derhal ulaşsın, hisse satmayı yasaklarsak düşüşü durdururuz. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber,ekonomi
@@ -38,79 +38,55 @@ data:
     özhaseki dururken yavaş'a mı oy vereceksiniz
   entry_id:  88195109
   entry_writer: kuyruk yagi
-  entry_fav_count: 383
+  entry_fav_count: 387
   entry_content: |
     ‘soyadı yavaş olan adama mı oy vereceksiniz’ kısmıyla beni benden almış açıklamadır. <br/><br/>bu adamın soyadı yavaş’sa, demek ki yavaş çalışır. hahah nasıl kafalar lan bunlar? adam resmen seçmeninin zekasına hakaret ediyor.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset
 - entry_name: |
-    market çalışanının doktora sen demesi
-  entry_id:  88200193
-  entry_writer: eve gidecegime gote geldim
-  entry_fav_count: 381
-  entry_content: |
-    dedi naber dedim iyidir ne dedi dedi kim dedi dedi ne dedi dedi.
-  entry_channels: sağlık,yeme-içme
-- entry_name: |
     denizbank'ın müşterisine sus demesi
   entry_id:  88198278
   entry_writer: absorbe
-  entry_fav_count: 367
+  entry_fav_count: 379
   entry_content: |
     denizbank'ın çalışanını tüm denizbank'a mal etme girişimidir. gram işim olmaz denizbankla ama bu kadar çarpıtılmış bir rezalet de görmedim arkadaş. git bankacıyı şikayet et işte.<br/><br/>ayrıca o nasıl başlık açmaktır? <br/><br/>rezalet puanı: 0/10
   entry_channels: ekonomi
 - entry_name: |
-    lösev'in kan donduran mart bülteni
-  entry_id:  88202530
-  entry_writer: hateoflove
-  entry_fav_count: 350
-  entry_content: |
-    göz göre göre kanser tedavisinin önüne geçildiğini gösteren kan dondurucu bültendir.<br/><br/>edit: arkadaşlar linkler uçmuş, <a class="b" href="/?q=papucumun+entrysi">papucumun entrysi</a> sağ olsun eksiup'a yüklemiş, güncel linkler:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/db95e8e1e237.jpg">https://s3.eksiup.com/db95e8e1e237.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/e51200364261.jpg">https://s3.eksiup.com/e51200364261.jpg</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://s3.eksiup.com/8b965add7584.jpg">https://s3.eksiup.com/8b965add7584.jpg</a>
-  entry_channels: siyaset,sağlık
-- entry_name: |
     pkk'lı rıza altun'un vurulması
   entry_id:  88191693
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 300
+  entry_fav_count: 302
   entry_content: |
     f-16 ile vurulmuş. adam yaralı.<br/>tekrarlıyorum. f-16'nin nişan aldığı hedefteki adam yaralı.
   entry_channels: siyaset,haber
 - entry_name: |
-    dolar 16.5 tl olacak
-  entry_id:  88205394
-  entry_writer: windowsun penceresi
-  entry_fav_count: 243
-  entry_content: |
-    (bkz: <a class="b" href="/?q=dolar+16+tlye+d%c3%bc%c5%9f%c3%bcnce+sesi+kesilen+ek%c5%9fici">dolar 16 tlye düşünce sesi kesilen ekşici</a>)
-  entry_channels: haber,ekonomi
-- entry_name: |
     emekliyim perişanım oyum ak partiye
   entry_id:  88207233
   entry_writer: wakashimazu
-  entry_fav_count: 207
+  entry_fav_count: 258
   entry_content: |
     valla ata'm sana hayranlığım her gün biraz daha artıyor. bu halkla 7 düvele karşı vallahi büyük adammışsın. nur içinde yat.
   entry_channels: siyaset
 - entry_name: |
-    motosiklet sürücüsünün dehşet anları
-  entry_id:  88198979
-  entry_writer: dwarf seven genc
-  entry_fav_count: 198
-  entry_content: |
-    sürücü tam bir şerefsiz cahildir. bir başkasının canına kast etme durumu söz konusudur.<br/><br/>insanlar eğleniyor diye yorum yazan hıyar ağası'na, başka bir araca çarparak başkalarına zarar verebilir veya hayatlarını kaybettirebilirler, artçı kişi yaralanabilir veya ölümle sonuçlanabilir. bir başkasının canına kast içerecek duruma nasıl eğleniyorlar denilebilir ki? <br/><br/>gelişmiş bir toplumda bu durum ile karşılaşılsa polis direk sürücüyü hakim karşısına çıkartıp içeri attırır ve adaleti sağlanırdı.
-  entry_channels: motosiklet
-- entry_name: |
     saat tam 18.00'da mecidiyeköy'de olmak
   entry_id:  88204557
   entry_writer: mushtopus
-  entry_fav_count: 196
+  entry_fav_count: 207
   entry_content: |
     yuzlerce kilometre uzakta olmama ragmen sol framede gorunce bile keyfimi kaciran durum.
   entry_channels: seyahat
 - entry_name: |
+    motosiklet sürücüsünün dehşet anları
+  entry_id:  88198979
+  entry_writer: dwarf seven genc
+  entry_fav_count: 199
+  entry_content: |
+    sürücü tam bir şerefsiz cahildir. bir başkasının canına kast etme durumu söz konusudur.<br/><br/>insanlar eğleniyor diye yorum yazan hıyar ağası'na, başka bir araca çarparak başkalarına zarar verebilir veya hayatlarını kaybettirebilirler, artçı kişi yaralanabilir veya ölümle sonuçlanabilir. bir başkasının canına kast içerecek duruma nasıl eğleniyorlar denilebilir ki? <br/><br/>gelişmiş bir toplumda bu durum ile karşılaşılsa polis direk sürücüyü hakim karşısına çıkartıp içeri attırır ve adaleti sağlanırdı.
+  entry_channels: motosiklet
+- entry_name: |
     erkeklerin seks partneri seçme kriterleri
   entry_id:  88197925
   entry_writer: amaderyaiyiydi
-  entry_fav_count: 181
+  entry_fav_count: 193
   entry_content: |
     ayna tutuyoruz ağzına, buhar olmuşsa kafidir.
   entry_channels: anket,ilişkiler
@@ -118,7 +94,7 @@ data:
     artık bakırköylüler gezmek için bağcılara geliyor
   entry_id:  88196081
   entry_writer: more than ever people
-  entry_fav_count: 149
+  entry_fav_count: 153
   entry_content: |
     30 senelik bakırköylü olarak kıçımla güldüğümdür. bağcılara kuşu kafesten salsan gitmez kafese geri döner.
   entry_channels: siyaset
@@ -126,7 +102,7 @@ data:
     abd'de aşısı olmayan çocuklara kamusal alan yasağı
   entry_id:  88204493
   entry_writer: thegirlwhoislost
-  entry_fav_count: 128
+  entry_fav_count: 146
   entry_content: |
     faşizm değildir.
   entry_channels: sağlık,haber
@@ -134,23 +110,23 @@ data:
     katar'dan seçim sonrası milyarlarca dolar akacak
   entry_id:  88206821
   entry_writer: oric
-  entry_fav_count: 118
+  entry_fav_count: 129
   entry_content: |
     sportmenlik geregi secimden once akmayan paralardır.
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    instagram'daki aşırı garip teyze
+    neclacanal
   entry_id:  88208150
   entry_writer: mridul
-  entry_fav_count: 94
+  entry_fav_count: 108
   entry_content: |
     muhtemelen yeni neslin olur olmaz her şeyi sosyal medyadan paylaşmasıyla kendi üslubunca dalga geçen teyze (ya da kişi). siz hala sosyal medyayı yanlış anlamış, garip falan deyin. teyzenin tek farkı size/bize göre “cool” olmayan şeyler paylaşması. halbuki paylaşılan fotoğrafın nesnesi değişik ama mantığı aynı.
-  entry_channels: teknoloji,haber,moda,magazin
+  entry_channels: teknoloji
 - entry_name: |
     28 mart 2019'da rte'nin açıklayacağı sürpriz
   entry_id:  88201854
   entry_writer: kertenkinetik
-  entry_fav_count: 94
+  entry_fav_count: 100
   entry_content: |
     bir ara twitter mwitter hepsinin kökünü kazıyorlardı noldu o iş?
   entry_channels: siyaset,haber
@@ -158,23 +134,23 @@ data:
     4 kadın ve sınırsız cariye alma hakkı
   entry_id:  88198988
   entry_writer: kacarkenkovaladim
-  entry_fav_count: 77
+  entry_fav_count: 81
   entry_content: |
     çükünüze metal bir koruma taktıktan sonra kendinizi canlı bomba olarak patlattığınızda sınırsız huri + ssk şeklinde seçenekleri vardır.
   entry_channels: ilişkiler
 - entry_name: |
-    bir kadına söylenebilecek en güzel şey
-  entry_id:  88181887
-  entry_writer: sessiz sakin suskun adam
-  entry_fav_count: 40
+    60 fps çözünürlükte twerk yapan kadın
+  entry_id:  88208548
+  entry_writer: decimal mulayim
+  entry_fav_count: 44
   entry_content: |
-    lise yıllarında, hem de din kültürü ve ahlak bilgisi dersinde, tüm öğrenci ve öğretmenin gözü önünde, böyle gözlerinin içine baka baka, aşkımı söyledim ben ona.<br/><br/>evet dedi öğretmen ''diğer ezanlara göre sabah ezanında farklı okunan nedir?'' diye sordu.<br/><br/>tek parmak kaldıran ben oldum.<br/><br/>''buyur oğlum'' dedi.<br/><br/>''esselatü hayrun minen nevm'' hocam dedim.<br/><br/>aferim oğlum sana, 100 dedi. '' kılıyor musun peki namaz?'' diye ekledi.<br/><br/>'' hayır. sadece çok aşığım hocam ve onu düşünmekten sabahlara kadar uyuyamıyorum, uyuyamayınca çok ezanlar duydum'' dedim. bunu derken gözüm sevdiğim kızdaydı, biliyordu hoşlandığımı, utandı gözünü kaçırdı.<br/><br/>işte ben söylenebilecek en güzel şeyi o gün o derste kalbim yerinden çıkacakmış gibi anlattım ama işte kalp çizgisi teknolojisine göre aşkımın tamamı ona geçmediği için aşık sayılmadım. olmadı be sözlük.
-  entry_channels: anket,ilişkiler
+    60 fps'nin cozunurluk oldugu paralel evrende gerceklesmistir.
+  entry_channels: sanat
 - entry_name: |
     seval türkeş'in mansur yavaş'ı desteklemesi
   entry_id:  88206665
   entry_writer: taiga
-  entry_fav_count: 39
+  entry_fav_count: 42
   entry_content: |
     <a class="b" href="/?q=mhp">mhp</a>’nin kurucusu ve ilk genel başkanı <a class="b" href="/?q=alparslan+t%c3%bcrke%c5%9f">alparslan türkeş</a>’in eşi <a class="b" href="/?q=seval+t%c3%bcrke%c5%9f">seval türkeş</a>’in, 2019 yerel seçimlerinde ankara büyükşehir belediye başkanlığı için millet ittifakı adayı mansur yavaş'ı desteklemesidir<a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/alparslan-turkes-in-esi-seval-turkes-ten-mansur-yavas-a-destek,814237" title="https://t24.com.tr/haber/alparslan-turkes-in-esi-seval-turkes-ten-mansur-yavas-a-destek,814237">.</a><br/><br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---<br/><br/>“mansur yavaş, hayatı boyunca milliyetçi görüşünden ödün vermemiş bir siyasetçidir. şahsıyla ilgili hiçbir olumsuzluk gündeme gelmemiş, görevini layıkıyla ve dürüst bir şekilde yerine getirmiştir. mansur yavaş, ankara’nın sorunlarını çok iyi bilen ve bu sorunların çözümü için önemli projeler hazırlamış bir siyasetçidir. sayın mansur yavaş’ın ankara büyükşehir belediye başkanı seçilmesi halinde ülkemiz, demokrasimiz ve ankara için hayırlı hizmetler vereceğine inanıyor ve kendisine başarılar diliyorum”<br/>--- <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a> ---
   entry_channels: siyaset,haber
@@ -190,58 +166,34 @@ data:
     okula klasörle gitmiş efsanevi nesil
   entry_id:  88196792
   entry_writer: schoko pirens
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     lise zamanlarimda benim de aralarinda bulundugum nesildir ama efsaneden ziyade dandik bir nesildir. itiraf edelim beyler, ergen aklimizla klasörün cok karizmatik durdugunu, karsi cinsi daha kolay etkileyecegimizi düsünürdük. malum o yaslarda kan beyin yerine baska yerlere giderdi. üzerinde cesitli cikartmalar, mesajlar filan bulunurdu ancak hic pratik bir sey degildi. sirt cantasinin degerini 30lu yaslardan sonra anladim
   entry_channels: anket,eğitim
 - entry_name: |
-    binali yıldırım'ın donanım haber'den oy istemesi
-  entry_id:  88202780
-  entry_writer: saintly
-  entry_fav_count: 30
-  entry_content: |
-    (bkz: <a class="b" href="/?q=o+son+vergiyi+getirmeyecektin">o son vergiyi getirmeyecektin</a>)
-  entry_channels: siyaset,haber
-- entry_name: |
-    60 fps çözünürlükte twerk yapan kadın
-  entry_id:  88208548
-  entry_writer: decimal mulayim
-  entry_fav_count: 29
-  entry_content: |
-    60 fps'nin cozunurluk oldugu paralel evrende gerceklesmistir.
-  entry_channels: sanat
-- entry_name: |
     bensu soral'ın türkiye'nin en güzel kadını olması
   entry_id:  88206456
   entry_writer: angie
-  entry_fav_count: 28
+  entry_fav_count: 30
   entry_content: |
     bir kadinin turkiye’nin en guzel kadini oldugunu iddia ederken instagram fotograflari kullanmak, onun kadar guzel olmadigi iddia edilen baska bir kadinin ise internetten kotu ciktigi bir fotografini ornek olarak gostermek nasil bir anlayis, merak ediyorum. ben 3 yasinda bir kiz cocuguyken daha delikanliydim, daha serefle dovusuyordum parklarda bahcelerde.
   entry_channels: anket,magazin
 - entry_name: |
-    türk bayrağı ile chp mitingine alınmayan kadın
-  entry_id:  88199166
-  entry_writer: elienduil
-  entry_fav_count: 24
-  entry_content: |
-    chp mitingi değildir. ankara başta olmak üzere türkiye'nin birçok yerinde chp mitingini canlı görmüş birisi olarak, mitingin %70'i zaten türk bayrağı ve atatürk bayrakları dolu olur.<br/><br/>ayrıca nasıl bir video olduğunu anlamak için 1 hafta önce videonun altına rastgele insanlar tarafından yapılan yorumlara bakmanız yeterli. yeni bir video gibi servis ediyorlar. kim bilir kaç yıl öncesinden, hangi hdp mitinginden bir video.<br/><br/><a class="b" href="/?q=not">not</a>: bu videoyu spamleyip yalan algı kasanlarla ankara'da büyük kürdistan hdp olarak mansur yavaş ı destekliyoruz broşürleri dağıtan şerefsiz provokatör güruh aynı güruhtur.<br/><br/>hadi diyorsunuz ki ben beyinsiz bir çomarım, atatürk zamanında dedemi öyle bir astı ve tüm irticacıları öyle bir sikti ki acım geçmedi, şu görselleri de mi aratmıyorsunuz?<br/><br/>sizin yerinize ben arattım. bir tane chp mitingini doğu olsun batı olsun türk bayraksız ve atatürk postersiz gösterin 180 derece dönüp tövme etmeyen adam değildir. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/search?q=chp+mitingi+2019&amp;client=opera&amp;hs=T2&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjA9__KraLhAhWMzoUKHTtiAf8Q_AUIDigB&amp;biw=1600&amp;bih=759" title="https://www.google.com.tr/search?q=chp+mitingi+2019&amp;client=opera&amp;hs=T2&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjA9__KraLhAhWMzoUKHTtiAf8Q_AUIDigB&amp;biw=1600&amp;bih=759">https://www.google.com.tr/…auidigb&amp;biw=1600&amp;bih=759</a>
-  entry_channels: siyaset,haber
-- entry_name: |
     trabzon fındığı vs giresun fındığı
   entry_id:  88204929
   entry_writer: yarindan onceki gun
-  entry_fav_count: 23
+  entry_fav_count: 29
   entry_content: |
     bir trabzonlu olarak bu versusa şiddetle karşı çıkıyorum. <br/><br/>giresun fındığı türkiyedeki en güzel fındıktır. hele görele’de yetişenler belki de dünyada en güzelidir. <br/><br/>giresun fındığını yiyen birisi trabzon fındığına “yabani bu” diye burun kıvırabilir, hakkıdır.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    aşk evliliği mi yoksa mantık evliliği mi
-  entry_id:  88180418
-  entry_writer: machool
-  entry_fav_count: 18
+    binali yıldırım'ın donanım haber'den oy istemesi
+  entry_id:  88203260
+  entry_writer: papucumun entrysi
+  entry_fav_count: 17
   entry_content: |
-    gerçekçi olmak gerekirse mantıklı aşk evliliği...
-  entry_channels: anket,ilişkiler
+    "aliexpress'den 50 kuruşa aldığımız şarj kablosundan bile 5 lira vergi alan partinin adayı teknoloji forumunda oy istiyor. muhahah"<br/>diyen bir ölücü tarafından lafı verilmiştir.<br/>adam haklı ben de kırgınım bu konuda.
+  entry_channels: siyaset,haber
 - entry_name: |
     çirkin bir kadını güzel gösteren şeyler
   entry_id:  88202783
@@ -259,6 +211,54 @@ data:
     bir de ikisine de kızıp "dışarı çıkıp müzik dinleyin" diyen var:)<br/><br/>zaten insanların tv izlememesinin nedeni dışarıdaki insanlar.sahilde gezmeye kalksan kanat mangal-semaver yapan üç çocuklu cahiller, yürüyüş yapsan lpgli şahinle gezen ya da biraz daha lüks otomobille hayvandan beter davranan it sürüsü var dışarıda...bu ülkede dışarıya çıkan zaten ruh hastası... oturduğun mekanda sikik bir şey içmeye kalksan 20 tl kitliyorlar.biranin içine basmışlar musluk suyu sohbet ortamı desen hak getire herkes sikik yaşamını sosyal medyada etiketleme derdinde.<br/><br/>netflix, spotify beni efsunlamiyor tam aksine kulturleniyorum...bilgilenmek istiyorsan explained diye şahane belgesel serisi var mesela ya da ne bileyim aç planet earth izle...kafa dağıtmalik diziler de var.disariya adım attığım an 30 tl gidiyor bu platformlar ayda 40 tl...üstelik sikik halkla da muhatap olmuyorsun.<br/><br/>dışarısı da sizin olsun televizyon kanallariniz da. siktigimin ibnesi bide evde takılanlari asagilamis.<br/><br/>edit:adamlar hala statü diyor amk... statü dedikleri platform tek ekran için 15 lira iki ekrana 28 lira falan alıyor:) aniden statulendik.
   entry_channels: tv,teknoloji
 - entry_name: |
+    rte'nin ankara'yı bu kadar çok istemesinin sebebi
+  entry_id:  88209315
+  entry_writer: karanfil kokuyor cigaram
+  entry_fav_count: 14
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ihale">ihale</a>)<br/>(bkz: <a class="b" href="/?q=rant">rant</a>)
+  entry_channels: siyaset,anket
+- entry_name: |
+    alper potuk'un yeni imajı
+  entry_id:  88204807
+  entry_writer: 29 ekim 1923
+  entry_fav_count: 13
+  entry_content: |
+    saçını değiştireceğine oyununu geliştirse de bir boka yarasa.
+  entry_channels: spor,magazin
+- entry_name: |
+    fikret ormanın cumhur ittifakına destek vermesi
+  entry_id:  88208384
+  entry_writer: tourist eomer
+  entry_fav_count: 11
+  entry_content: |
+    beşiktaş başkanı olarak hiçbir siyasi faaliyetin içinde yer alamaz. hem beşiktaş tüzüğüne aykırı bir durumdur hem beşiktaş başkanlık makamına yakışmaz.<br/><br/>bu adam beşiktaş tarihinin kara lekesidir.
+  entry_channels: spor,siyaset,haber
+- entry_name: |
+    sıla ile hazer amani'nin aynı eve çıkması
+  entry_id:  88209613
+  entry_writer: misskokuluturta
+  entry_fav_count: 9
+  entry_content: |
+    kira fazla geldiyse bölüşmek istemiş olabilirler.
+  entry_channels: haber,magazin
+- entry_name: |
+    bir ateistin iyilik yapmasının nedeni
+  entry_id:  88206630
+  entry_writer: babato150
+  entry_fav_count: 9
+  entry_content: |
+    uzun zamandır biz ateistler’e sallayan birini görmemiştim. bu saçmalıklarınız bir türlü bitmedi gitti. bu argümanlarınıza binlerce kez cevap verildi ama hiçbiri zahmet edip okumadığınız için burada başlık açıp kendinizi tatmin ediyorsunuz.
+  entry_channels: anket
+- entry_name: |
+    adana mutfağı vs antep mutfağı
+  entry_id:  88205094
+  entry_writer: yulay
+  entry_fav_count: 9
+  entry_content: |
+    adana'yı başka bir şehirle kıyaslarsanız mutfağından bahsedebilirsiniz; ama antep ile kıyaslıyorsanız, ilkinin kebabı, ikincisinin mutfağı vardır derim.
+  entry_channels: yeme-içme,seyahat
+- entry_name: |
     netflix dizilerindeki eşcinselliğin bıktırması
   entry_id:  88196245
   entry_writer: vardevela
@@ -270,26 +270,34 @@ data:
     aysun kayacı
   entry_id:  88197484
   entry_writer: ruzgar agacin dili
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     31 mart gecesi <a class="b" href="/?q=t%c3%bcrkiye%27den+siktir+olup+gitmek">türkiye'den siktir olup gitmek</a> başlığı ile birlikte gündemin üst sıralarına yerleşecek ünlü türk filozofu.
   entry_channels: tv,moda,magazin
 - entry_name: |
-    sıla ile hazer amani'nin aynı eve çıkması
-  entry_id:  88209497
-  entry_writer: kuyruk yagi
-  entry_fav_count: 5
+    sözlük yazarlarının özlediği şeyler
+  entry_id:  88180890
+  entry_writer: hergecemehtabacikanadam
+  entry_fav_count: 6
   entry_content: |
-    hazer armani umarım sigara içmiyordur. ikinci bir küllük vakasına kurban gitmesin de.
-  entry_channels: haber,magazin
+    yazları 3 ay tatil yaptığım zamanları özlüyorum.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    rammstein
-  entry_id:  88181078
-  entry_writer: omni
-  entry_fav_count: 5
+    sevgilisiz yaşayabilen insan
+  entry_id:  88208544
+  entry_writer: notserious
+  entry_fav_count: 6
   entry_content: |
-    <a class="b" href="/?q=latince">latince</a> "28 mart 2019" adını verdikleri ve toplama kapmında asılmak üzere olan çizgili pijamalı yahudileri canlandırdıkları 30 saniyelik videoyla sansasyonel bir yeni şarkı ve klibin haberini veren alman metal grubu.
-  entry_channels: müzik
+    sevgili yapmanın sosyal bir zorunluluk olduğunu kabullenmiş ve kendini buna inandırmış olan ergenler sevgilisiz yaşayamazlar. <br/>sevgilisi olmadığı zaman beğenilmediğini ve dışlandığını düşünür bu modeller. <br/>sevgilisiz yaşayamayan, kendine yetmeyen insan kendisine saygısı olmayan bir, kancıktır. :/<br/>ühühü üüü benim sevgilim yok, olması için de pek fazla çabalamıyorum açıkçası. <br/>sevgili yaptığı sıralarda çoğu şeyi deneyimleyip aştıktan sonra bazı şeyleri aramadan da yaşayabiliyor insan, tavsiye ederim. cups
+  entry_channels: ilişkiler
+- entry_name: |
+    apple nokia gibi tükeniş yoluna girmiştir
+  entry_id:  88209719
+  entry_writer: hazard ratio
+  entry_fav_count: 6
+  entry_content: |
+    önemli bir tespit. daha önce bir iki teknoloji yazarından daha duydum.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>medyada bir apple kıyameti koparılıyor iki gündür. vay müthiş yenilikler gelecekmiş, vay efendim apple bir kez daha dünyayı değiştirecekmiş. yapmayın arkadaşlar. ne siz salaksınız ne de biz. <br/><br/>apple çok açık biçimde bitme yoluna girmiş bir şirket. steve jobs gider, apple biter. daha önce de oldu, yine olacak. açıkladıkları şeylerde de hiçbir yenilik yok. başarısız oldukları apple tv uygulamasını yeniden canlandırmaya çalışıyorlar ama geçmiş olsun. öldü o, canlanmaz. kral öldü, yaşasın yeni kral netflix. <br/><br/>yıllar önce apple tv’ye yüklediğim birkaç yüz dolar var, emin olun kullanacak yer bulamıyorum, para orada duruyor. telefonlar desen çinli, koreli geldi geçiyor. yeni gelen nesil apple’ın kapalı evrenini sevmiyor, geleceği yok o evrenin. gelişmiyor zaten. cihazın da bir özelliği kalmadı. öyle ki. artık görgüsüzlük sembolü haline geliyor giderek apple telefon kullanmak. <br/><br/>bilgisayarları hâlâ biraz farklı, biraz daha iyi. ama o da aradaki fiyat farkına değecek kadar iyi değil ve giderek seviye kaybediyor. şimdi haber işine falan girecek diye gazlıyorlar bize. geçmiş olsun. youtube ve diğerleri üsküdar’ı değil, bolu’yu geçti. <br/><br/>kim niye apple’la işbirliği yapsın. parasını saçar, savurur sonra da batar gider. apple’dan bu kafa ile cacık olmaz artık. kandırmayın bizi apple apple diye. <br/><br/>beni de sakın apple düşmanı sanmayın. 1980’lerden beri kullandığım tüm bilgisayarlar apple. çıktığından beri kullandığım tek telefon iphone. ama bitti. kusura bakmasınlar. nokia’ya baksınlar...<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.haberturk.com/yazarlar/fatih-altayli-1001/2414176-araplar-fransiz" title="https://m.haberturk.com/yazarlar/fatih-altayli-1001/2414176-araplar-fransiz">https://m.haberturk.com/…01/2414176-araplar-fransiz</a>
+  entry_channels: teknoloji
 - entry_name: |
     ekşi sözlük kızlarının taş gibi olması
   entry_id:  88187043
@@ -299,13 +307,13 @@ data:
     anadolu yakası insanıyım ben. hattı zatında kadıköy insanıyım. bu sebeptendir ki avrupa yakası benim için hep mistik, siberpunk bir yaşam alanı olmuştur. ama nedendir bilmem bir taksim, bir cihangir beynime <a class="b" href="/?q=%c3%a7ok+fena+%c5%9fekilde+siki%c5%9f+d%c3%b6nd%c3%bc%c4%9f%c3%bc+d%c3%bc%c5%9f%c3%bcn%c3%bclen+yerler">çok fena şekilde sikiş döndüğü düşünülen yerler</a> olarak kodlanmış. <br/>aynı yıllarda taksim ve cihangir ile benzer şekilde aklımda yer eden bir mecra daha vardı. ekşi sözlük. <br/><br/>henüz klavyesi güçlü yazarların bu gücü hatrı sayılır otuz bir geçmişlerinden aldığı ortaya çıkmamış, femme fatale entrylerin ardında hayattan bezmiş bankacı kadınların olduğu gerçeği bizlere tokat gibi çarpmamıştı. <br/>hal böyle olunca insan ister istemez entry sahiplerini yazılanlardan yola çıkarak resmetmeye başlıyor.<br/>evet evet, o fena sikişin döndüğü düşünülen yerde bu harama uçkur cözüşe çanak tutan kesin bu entry sahipleri, janti beyfendiler ve şuh hanımefendiler diye geçiriyordum aklımdan.<br/><br/>şimdi adını hatırlayamadım, ama sözlüğün bir foto fasilitesi vardı. sözlükçüler fotolarını ya da kendi çektikleri fotoları paylaşırlardı. ki manzara fotosu çekiyorum ayağına mevzudan seks devşirmek de bu döneme tekabül eder, yıllar geçse de hatırladığım birkaç şey var bu görseller içinden.<br/><br/><a class="b" href="/?q=alameti+farika">alameti farika</a> diye bir yazar. allah sahibine bağışlasın, sözlük kızları söz konusu olunca x sabiti olarak kendisini kabul etmiştim. hani bu sözlükçü hatunlar bu şahıstan 3 5 birim az güzelse, zaten güzeldir. 5 10 birim az güzelse de gideri vardır şeklinde. ki bu sözlükten yediğim ilk kazıktı. <br/><br/>ikinci bir görsel ise, <a class="b" href="/?q=ug+tek">ug tek</a> isimli hanımefendinin ki kendisini severek okurdum, götüydü. şaşırdın di mi? severek okumayı nasıl da göte bağladım? e öğrendik genco biz de bu işleri. yanılmıyorsam bir blogu vardı ve bu görseli orada yayınlamıştı. bu bardağı taşıran son damla oldu benim için. bir yanda esmer güzeli, bir yanda kavisli ve şekilli bir göt. taksim ve cihangir'e hala ayağım çekmiyordu ama artık sözlüğe adım atmalıydım ben de.<br/><br/>yediğim ilk kazık diyordum, kazıklardan bir diğeri ug tek'in bloguydu. ug tek'in blog bdsm bloguymuş, iki meme görücez diye sözlükteki sapların sikleriyle muhatap olduk. <br/>ekşi sözlük cihangir'de, taksimin teras katlarında acaip seksler dönen bir yer değilmiş, aksine hasanpaşa kıraathanesiymiş.<br/><br/>edit:imla
   entry_channels: ilişkiler
 - entry_name: |
-    rte'nin ankara'yı bu kadar çok istemesinin sebebi
-  entry_id:  88209315
-  entry_writer: karanfil kokuyor cigaram
+    instagramdaki aşiret tanıtım sayfası
+  entry_id:  88210092
+  entry_writer: warcolds
   entry_fav_count: 4
   entry_content: |
-    (bkz: <a class="b" href="/?q=ihale">ihale</a>)<br/>(bkz: <a class="b" href="/?q=rant">rant</a>)
-  entry_channels: anket
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/Bqz_5U5H9wT/" title="https://www.instagram.com/p/Bqz_5U5H9wT/">şu</a> post ne demek ya. anlayamadım mafya ülkesi mi burası? öncülük etmiş falan filan. tsk'nın içini boşaltırsanız aha işte böyle olur. ülkede normal vatandaşı bu magandalardan koruyacak kurum kalmadı. iç savaş çıksa hepimizi kesecek bu tipler.
+  entry_channels: teknoloji,haber
 - entry_name: |
     en sevilen game of thrones karakteri
   entry_id:  88190826
@@ -314,14 +322,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=game+of+thrones%27un+en+sevilen+karakteri">game of thrones'un en sevilen karakteri</a>)<br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck%c3%a7%c3%bclerin+en+sevdi%c4%9fi+game+of+thrones+karakteri">sözlükçülerin en sevdiği game of thrones karakteri</a>)<br/>(bkz: <a class="b" href="/?q=game+of+thrones%27un+en+sevilen+karakterleri">game of thrones'un en sevilen karakterleri</a>)
   entry_channels: anket,tv
-- entry_name: |
-    sevgilisiz yaşayabilen insan
-  entry_id:  88208544
-  entry_writer: notserious
-  entry_fav_count: 2
-  entry_content: |
-    sevgili yapmanın sosyal bir zorunluluk olduğunu kabullenmiş ve kendini buna inandırmış olan ergenler sevgilisiz yaşayamazlar. <br/>sevgilisi olmadığı zaman beğenilmediğini ve dışlandığını düşünür bu modeller. <br/>sevgilisiz yaşayamayan, kendine yetmeyen insan kendisine saygısı olmayan bir, kancıktır. :/<br/>ühühü üüü benim sevgilim yok, olması için de pek fazla çabalamıyorum açıkçası. <br/>sevgili yaptığı sıralarda çoğu şeyi deneyimleyip aştıktan sonra bazı şeyleri aramadan da yaşayabiliyor insan, tavsiye ederim. cups
-  entry_channels: ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  88200953
@@ -347,28 +347,36 @@ data:
     maslow'un ihtiyaclar piramidi diye aratirsan, hatta maslow yazarsan google gerisini tamamlar, bi bak derim<br/><br/>edit: maslov, maslow olarak duzeltildi.
   entry_channels: ilişkiler
 - entry_name: |
-    instagramdaki aşiret tanıtım sayfası
-  entry_id:  88210092
-  entry_writer: warcolds
+    sevişmeye en müsait ev tipi
+  entry_id:  88211014
+  entry_writer: tunyescobar
   entry_fav_count: 1
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/Bqz_5U5H9wT/" title="https://www.instagram.com/p/Bqz_5U5H9wT/">şu</a> post ne demek ya. anlayamadım mafya ülkesi mi burası? öncülük etmiş falan filan. tsk'nın içini boşaltırsanız aha işte böyle olur. ülkede normal vatandaşı bu magandalardan koruyacak kurum kalmadı. iç savaş çıksa hepimizi kesecek bu tipler.
-  entry_channels: 
-- entry_name: |
-    fikret ormanın cumhur ittifakına destek vermesi
-  entry_id:  88208325
-  entry_writer: peder hoze
-  entry_fav_count: 1
-  entry_content: |
-    ne işin var orda arkadaş besiktas başkanı sıfatını taşıyorsun, normal vatandaş değilsin. millet - cumhur farketmez bir besiktasli olarak rahatsız etmistir. beşiktaş tüzüğüne de aykırıdır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/m/haber/spor/1316451/Fikret_Orman__Cumhur_ittifaki_icin_sahaya_indi__Besiktas_Baskani_na_buyuk_tepki.html" title="http://www.cumhuriyet.com.tr/m/haber/spor/1316451/Fikret_Orman__Cumhur_ittifaki_icin_sahaya_indi__Besiktas_Baskani_na_buyuk_tepki.html">haber linki</a>
-  entry_channels: spor,siyaset,haber
+    öğrenci evinin verdiği rahatlık, huzur, güven hangi rezidans hangi otelde hangi yatak odasında var sorarım size ahali ?
+  entry_channels: ilişkiler
 - entry_name: |
     evlenmek isteyebileceğiniz kızın kültürsüz olması
   entry_id:  88206791
   entry_writer: monotonluk
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     bencil olmasından iyidir. biraz okursa kültürlenir ama bencilliğin çözümü yok.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  88210548
+  entry_writer: dituba
+  entry_fav_count: 0
+  entry_content: |
+    "ne sen bulutsun ne de ben yağmur<br/>ne sen mağrur ne de ben mağrur<br/>hüzünlü bir akşam susmuşuz durgunuz hepsi bu..."<br/>ahmet kaya - hep sonradan<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Rvr2pBlqTaw">https://youtu.be/rvr2pblqtaw</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    seçim 2019 için bir uydurma haber yaz
+  entry_id:  88206744
+  entry_writer: aynstayninoglu
+  entry_fav_count: 0
+  entry_content: |
+    anketlere göre akp büyük şehirlerin bir çoğunu kaybediyor.
   entry_channels: 
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
@@ -386,14 +394,6 @@ data:
   entry_content: |
     her türlü dert dinlenir.<br/>biz düğününüzde halay başı, cenazenizde göz yaşıyız.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    bir ateistin iyilik yapmasının nedeni
-  entry_id:  88209494
-  entry_writer: momentumunkorunumu
-  entry_fav_count: 0
-  entry_content: |
-    diğer insanlarınkinden farklı değildir. hepimizin bildiği gibi allah yoktur. artık bunu tartışmayalım yani, 2019'a geldik.<br/><br/>(bkz: <a class="b" href="/?q=geri+kalm%c4%b1%c5%9fl%c4%b1%c4%9f%c4%b1n+%c3%b6l%c3%a7%c3%bcs%c3%bc+olarak+islam">geri kalmışlığın ölçüsü olarak islam</a>)
-  entry_channels: anket
 - entry_name: |
     arda duman
   entry_id:  88180512
