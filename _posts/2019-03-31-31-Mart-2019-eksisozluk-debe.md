@@ -6,7 +6,7 @@ data:
     imamoğlu kazanırsa 100 kişiye bira ısmarlıyorum
   entry_id:  88309745
   entry_writer: monreve
-  entry_fav_count: 966
+  entry_fav_count: 978
   entry_content: |
     **platinium extra edit**<br/>yazarların ben de getirebilirim dediği ürünler kategorilere ayrıldı. anlaşılan şu imamoğlu başkan olursa fıstık ve midye lobisi devrede :)<br/><br/>”en en üst edit”<br/>ama artik kabak tadi verdi hala bana troll denmesi. degilim olm vallahi billahi tillahi degilim lan. <br/>tek niyetim muhtemel sevincimi paylasmak vallahi billahi tillahi <br/>ellerini acmis yeter ama aq diyen tavşan caps’i gelsin buraya. bulamadim simdi<br/><br/>geldi <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/432e16da5557">https://eksiup.com/432e16da5557</a> <br/><br/>**en üst edit**<br/><br/>ilgi gösteren ve destek veren herkese çok içten teşekkür ederim. gündem sebebi ile de olayı farklı boyutlara çekenlere de ben hakkımı helal ediyorum. ne içersek içelim hepimiz aynı otobüsteyiz :)<br/>ben bira çok severim mesela.. sen çay, o soda diğeri fuse tea limon.. benim canım bunu yazmak istedi diye birinden özür mü dilemem gerekiyor şimdi tam anlamadım. insanların aylardır uğraştığı seçim çalışmalarını baltaladım mı şimdi ben bu halimle. olm ben basit bir adamım lan.<br/><br/>azıcık gevşeyelim yahu.. gülelim ( çok ) - eğlenelim ( saatlerce ) - dans edelim ( sessizce ) - yiyelim ( kilo almayalım ) - içelim ( canın ne isterse )<br/><br/>ekrem imamoğlu'nun seçimi kazanması halinde 13 nisan 2019'da caddebostan sahilde çimlerin üzerinde kuruluyoruz ve ilk 100 kişiye dilediği marka birayı ısmarlıyorum<br/><br/>tek eksik, biranın yanında verilecek çerezleri ısmarlayacak kişi.. (bkz: <a class="b" href="/?q=o+sen+olsan+bari">o sen olsan bari</a>)<br/><br/>editler silsilesi;<br/><br/>* gelemeyecek ama para göndermek isteyen yazarlara sonsuz teşekkürler*** 1 krş para akışı bile kabul edilmemekte. <br/>1'i eski diğeri piyasaya yeni giren uygulamayla bişiler yollarsan hayır demeyiz :)<br/>** şu hayatta bir çok kötü alışkanlığım olabilir, çok kötü biri olabilirim mesela ama aktroll ya da benzeri asla :) *** <br/>*** bir hevesle açılan ve tutmaz dediğim başlık semt pazarına dönüştü. eserimle gurur duyuyorum :) <br/>**** listede olmayan ama katkı göstereceğini söyleyen arkadaşlar, eklicem bi ara söz <br/>***** neden 13 nisan diyenler olmuş toplu yanıt: gelecek hafta bir kaç gün işlerim sebebi ile yoğun olacağım 14'ünde derbi maç var. <br/><br/>bu sefer biz kazanıcaz!<br/>------<br/><br/>kişilerin tedarik edebilirim dediği ürünleri kategori yaptım.<br/><br/>içecekler<br/>bira: monreve<br/>getirilen bira sayısı kadar ayrıca ayran aq. yeter ki bi rahat verin: monreve<br/>3 şişe şarap: emenayk<br/>hand made 10 litre <a class="b" href="/?q=kalimotxo">kalimotxo</a>. ego masturbatoru<br/>hand made 20 years old şarap : seritatil <br/>+100 bira: severek izliyoruz<br/>+50 bira: hanhan<br/>+200 bira: fugit<br/>+3 kasa bira: sakaci sairr<br/>+50 bira: baydanisko<br/>3 litre viski + pringles + ekşici fuları: kuzeyin torunu <br/>4 chivas. kaç yıllık olduğu bilinmiyor: cocain<br/>10 tane parti açılış şampanya chilling ( mantar'ı uçmalı mı? )<br/>1 tane 100lük russian standart ve 10 bira: mrlaw<br/>2 şişe tekila: buckethead ( olmeca ama )<br/>200 şişe soda / 4 şişe moet şampanya: fornature<br/>10 bira 10 şarap ve karışık 5kg çerez: papazekber<br/>vişne suyu: atin eksin yuruyusu<br/>100 kişilik çay: byekizz ( bardak ve kaşık dahil mi )<br/><br/>yiyecek - çerez<br/>karışık çerez: redturtle<br/>5 kilo tuzlu fıstık : shitdeath<br/>bir çuval fıstık: kacma seker vercem<br/>daha da fıstık aq: endokuranya<br/>5 kg kabuklu yer fıstığı: burdaondokuzharfvar ( fıstık olayı kapanmıştır )<br/>5 kg kabak çekirdeği : tuyukonduranadam<br/>kusuncaya kadar cips &amp; midye: cybocek<br/>cips mips bişiler : ninjabey<br/>1 kg çiğdem: besteciselin ( kesin izmirli / berkay )<br/><br/>yiyecek - diğer<br/>bir sürü midye dolma: chrysaor<br/>2000 midye:uc bucuktan dort ( midyeci ahmet mi yoksa )<br/>2001 midye: uc bucuktan dort ( yok yok ahmet bu )<br/>çocuk gelecekse gofret:boris yeltmesin ( çocukları ayrı bir köşede misafir edicez onlar güneşim tadını çıkarsın ne de olsa marttan sonra bahar )<br/>patlamış mısır: xplod <br/>daha çok patlamış mısır : scream2015<br/>büyük seçim patlamış mısır: endokuranya<br/>1 kg kuru et: pakobundy<br/>2 kg kuruetle geliyom lan(pirşuta): samsaninkiliyik ( aynen kopyaladım karşim. )<br/>çiğköfte: blowjoe<br/>çubuk kraker: karaou<br/>haydari ve rus salatası: frozen76<br/>domates: naughty ninja ( salkım mı kokteyl mi? )<br/>1 kg meyve:buzdagi<br/><br/>yan ürünler<br/>çöplerimiz için poşet &amp; ıslak mendil : boranir<br/>masa: severek izliyoruz<br/>müzik destek: i was tony montana<br/>10. yıl marşı çalımı &amp; dinletisi all2uslubas<br/>izmir marşı çalımı &amp; dinletisi: soyutgercek<br/>2 sandalye biraz cips: achilles030211028 ( artır hocam daha. kendine almısın bunları :) )<br/>tirbüşon: ionizer<br/>4 gitar virtüözü ve 2 adet smirnoff cnttn<br/>40 adet örtü: bobarctor ( sayı uymazsa söyle karşim )<br/>kendi yazdığı şarkı ve 3 şişe şarap : lambayapufdee<br/>ihtiyaç halinde limon: pixies bey<br/><br/>kategorisiz<br/>allah korusun tıbbi destek: lmrvnx ( kbb dahil değil )<br/>varlığım yeter dedi: albipacino<br/><br/>en son ne eksik kaldıysa: kukreyenaslan<br/><br/>eksik listesi<br/>alex de souza<br/>hagi<br/>nouma<br/>szymkowiak<br/>mususi<br/>ediz bahtiyar
   entry_channels: siyaset,ekşi-sözlük
@@ -14,31 +14,15 @@ data:
     son günlerde yaşanan statik elektrik çarpmaları
   entry_id:  88299349
   entry_writer: kimimbenki
-  entry_fav_count: 872
+  entry_fav_count: 886
   entry_content: |
     bana özel sandığım bir durum. üç gündür günde birkaç doz çarpılıyorum.<br/><br/>edit 1: başlığı açan kayıp. arkadaş son kez çarpıldı sanırım?<br/><br/>edit 2: geri geldi, yanlışlıkla silinmiş entry.
   entry_channels: haber
 - entry_name: |
-    30 mart 2019 yılmaz özdil yazısı
-  entry_id:  88294381
-  entry_writer: bilimtarihi
-  entry_fav_count: 730
-  entry_content: |
-    bir <a class="b" href="/?q=34g">34g</a> yazısıdır , <a class="b" href="/?q=34z">34z</a> ye filan benzemiyor , aktarmasız.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2TLPeNC" title="http://bit.ly/2TLPeNC">sozcu.com.tr</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a class="b" href="/?q=istanbul">istanbul</a><br/><br/>aslında her şey “<a class="b" href="/?q=istanbul">istanbul</a>'u <a class="b" href="/?q=londra">londra</a> yapacağız” dediklerinde başladı.<br/><br/>?<br/><br/><a class="b" href="/?q=londra">londra</a> ayaklarıyla çift katlı otobüs getirdiler.<br/>küçük bi pürüz vardı…<br/>londra'da trafik tersten akıyor, duraklar solda, dolayısıyla ithal ettikleri çift katlı otobüslerin kapıları da soldaydı.<br/>e, istanbul'da sağdan gidecekler, duraklar da sağda…<br/>hadi bakalım, eşşek yükü para ödedikleri gıcır gıcır otobüslerin soldaki kapılarını söktüler, kaynakla parça ekleyip kapattılar, sağ tarafı kaynakla kesip, soldan sökülen kapıları sağa taktılar.<br/>oldu sana <a class="b" href="/?q=londra">londra</a>!<br/><br/>?<br/><br/>yolun ortasına yol yaptılar.<br/>durakları da, yolun ortasına yaptıkları yolun ortasına diktiler.<br/>küçük bi pürüz vardı…<br/>çift katlı otobüslerin kapısını soldan söküp sağa taktıkları için, yolun ortasına diktikleri duraklar da, çift katlı otobüslerin solunda kaldı!<br/>indirmeye bindirmeye yanaşamıyorlardı.<br/>düşündüler taşındılar.<br/>hadi bakalım, trafiğin akışını ters yönden yürüttüler, çift katlı otobüsleri yolun sağından değil, solundan götürmeye başladılar.<br/>oldu sana tam <a class="b" href="/?q=londra">londra</a>!<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>raysız imitasyon metromuz, tek hat üstünde gayet güzel gidiyordu ama, gelemiyordu!<br/>yol bitince, kafayı asansörün kapısına kaptırmış gibi sıkışıp kalıyor, dönemiyordu.<br/>işte o anda, hattın başladığı ve bittiği yere u dönüşü için kavşak yapmayı unuttukları anlaşıldı.<br/>derhal kriz masası topladılar, zabıtaları devreye soktular.<br/>zabıtalar <a class="b" href="/?q=e5">e5</a>'e fırladı… el kol işaretleriyle trafiği durduruyor, balina ebatlarındaki metrobüsleri geniş bir kavisle manevra yaptırarak <a class="b" href="/?q=e5">e5</a>'e çıkarıyor, gene geniş bir kavisle tekrardan metrobüs hattına sokuyordu.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>trafik keşmekeşine çözüm olarak icat ettikleri metrobüsler, zabıta marifetiyle yoldan çıkıp, tekrardan yola girme manevrası yaparken, trafiği hiç görülmediği kadar felç ediyordu.<br/>yumruklaşmalar başladı.<br/>direksiyon başında sinir krizi geçiren asabi vatandaşlarımız, zabıtaları dövdü.<br/>derhal kriz masası topladılar, trafik sıkışıklığına çözüm olarak icat ettikleri metrobüsleri, trafiğin yoğun olduğu saatlerde seferden çekme kararı aldılar iyi mi!<br/>hava kararınca trafik rahatlıyor, bu süperzeka arkadaşlar da metrobüsleri hava kararınca sefere koyuyordu.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>seferlerin hava kararınca başladığı saatlerde sokakta kimse kalmadığı için, metrobüsler boş boş gidip geliyordu.<br/>baktılar ki, şoförden başka kimse metrobüse binmiyor, kriz masasını topladılar, düşündüler taşındılar, <a class="b" href="/?q=e5">e5</a>'in ortasına uçan daire gibi havada duran u dönüşü yerleri yaptılar.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>u dönüşü yapılacak yerleri nihayet akıl etmişlerdi ama, yolun ortasına diktikleri duraklara insanların nasıl geleceğini düşünmemişlerdi.<br/>metrobüs şakır şakır gidip geliyor, ahali uzaktan seyrediyordu.<br/>metrobüs hattının kenarlarında duvar gibi bariyer olduğu için, <a class="b" href="/?q=e5">e5</a>'te de acayip trafik olduğu için, <a class="b" href="/?q=e5">e5</a>'in ortasına dikilen duraklara geçemiyorlardı, e5'i aşsalar duvarı aşamıyorlardı.<br/>derhal kriz masası topladılar.<br/>aralarından biri “acaba üstgeçit mi yapsak” dedi.<br/>öbürleri alkışladı.<br/><br/>?<br/><br/>küçük bir pürüz vardı…<br/>çift katlı otobüsler üst geçitlerin altından geçemiyordu, üst geçitler alçak kalıyordu, çift katlı otobüsler yüksek kalıyordu, sığmıyordu.<br/>hadi bakalım, hollanda'dan tek katlı otobüs almaya karar verdiler.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>hollanda'nın elinde yeteri kadar tek katlı otobüs yoktu, ha deyince üretilmiyordu, en az üç dört aya ihtiyaç vardı.<br/>derhal kriz masası topladılar, otobüsler üretilene kadar, hollanda'nın elinde varolan kullanılmış otobüslerden kiralama yoluna gittiler.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>öylesine titizlikle planlama yapmışlardı ki, <a class="b" href="/?q=hollanda">hollanda</a>'dan apar topar kiraladıkları metrobüs otobüslerinin, durak levhalarını sökmeyi unutmuşlardı.<br/>kiminde utrecht yazıyordu, kiminde eindhoven yazıyordu.<br/>üstelik, sanki memlekette şoför yokmuş gibi, şoförleri de hollanda'dan kiralamışlardı, güya hollandalı şoförler bizim şoförleri eğiteceklerdi.<br/>“birader nereye gidiyor bu?” diye sorulduğunda, hollandalı şoförler “ben anlamiyo turkce” diye cevap veriyordu.<br/>deneme yanılma yöntemiyle, <a class="b" href="/?q=eindhoven">eindhoven</a>'e binersen, <a class="b" href="/?q=cevizliba%c4%9f">cevizlibağ</a>'a, utrecht'e binersen, <a class="b" href="/?q=topkap%c4%b1">topkapı</a>'ya gideceğin anlaşıldı.<br/>e baktılar ki, bu iş tamam, asrın projesi dedikleri metrobüsü, köprüyü geçirip, anadolu yakasına götürmeye karar verdiler.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/><a class="b" href="/?q=hollanda">hollanda</a>'dan tanesini 1.5 milyon eurocuğa aldıkları 70 otobüs, düz yolda gidiyor, yokuşta çekmiyordu!<br/>kadıköy'den binenler, şoförün “beyler bi el atalım” anonsuyla köprü yokuşunda iniyor, ittiriyor, düze çıkınca tekrar biniyordu.<br/>derhal kriz masası topladılar, bildiğin körüklü otobüsleri devreye soktular, kırk yıllık körüklü otobüsleri metrobüsmüş gibi yaptılar.<br/>tanesini 1.5 milyon eurocuğa aldıkları 70 otobüsü düz yerlerde, körüklü otobüsleri yokuşta kullanmaya başladılar.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>yağmur yağdı, metrobüs hattı <a class="b" href="/?q=f%c4%b1rat+nehri">fırat nehri</a>'ne döndü.<br/>zodyaklar çalışıyor, otobüsler çalışamıyordu.<br/>derhal kriz masası toplandı, incelendi, yolun ortasına yaptıkları yolu, normal yoldan beş santim aşağı yaptıkları ortaya çıktı!<br/>seferleri durdurup, asfaltı yükselttiler.<br/>bu sefer kar yağdı. asfalt sütlaca döndü. hadi bakalım, gene seferleri durdurup, çukurları yamadılar.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>tamirat için bölüm bölüm kapatıp, çift yönlü yolu tek yönlü kullanırken, zaten ters yön kullanan şoförlerin iyice nevri döndü.<br/>sağdan mı gidiyorduk, soldan mı filan derken, tek hat üzerinde kafa kafaya tokuşmaya başladılar.<br/>nasıl becerdiler bilmiyorum, iş makinesi metrobüse patlattı, ölenler oldu.<br/>tamirat nihayet bitti, kalan sağlarla devam edildi.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>asrın projesi dedikleri proje, muhteşem hesap kitap nedeniyle asrın maliyetini yarattı.<br/>mesela, <a class="b" href="/?q=avc%c4%b1lar">avcılar</a>'a tünel yaptılar, <a class="b" href="/?q=37+trilyon">37 trilyon</a> liracık harcadılar, bizzat asrın liderimiz tarafından açıldı, gel gör ki, metrobüsler sığmadı, dar geldi, manevrayı engelliyordu. hadi bakalım, trafiği rahatlatması için 37 trilyon liracık harcadıkları tüneli, beton duvarla kapattılar, metrobüslerin manevra yapabilmesi için kavşak yaptılar.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/><a class="b" href="/?q=makine+m%c3%bchendisleri+odas%c4%b1">makine mühendisleri odası</a>, basın toplantısı düzenledi, <a class="b" href="/?q=metrob%c3%bcs">metrobüs</a> hattındaki ters istikamet uygulamasının acilen kaldırılmasını istedi. ters trafik nedeniyle, şoförlerde konsantrasyon kaybı oluştuğunu, gerekenin aksi yönünde refleks vermelerine sebep olduğunu, çarpışmaların, ölümlü kazaların meydana geldiğini açıkladılar.<br/>bunun üzerine, <a class="b" href="/?q=iett+genel+m%c3%bcd%c3%bcr%c3%bc">iett genel müdürü</a> açıklama yaptı, yeni ihale açacaklarını, <a class="b" href="/?q=sol">sol</a> tarafında kapıları olan yeni otobüsler alacaklarını, böylece metrobüs hattındaki <a class="b" href="/?q=ingiliz">ingiliz</a> trafiğinin son bulacağını açıkladı.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>asrın <a class="b" href="/?q=liderimiz">liderimiz</a>, <a class="b" href="/?q=kadir+topba%c5%9f">kadir topbaş</a>'ı zart diye görevden aldı, onun yerine zurt diye <a class="b" href="/?q=mevl%c3%bct+uysal">mevlüt uysal</a>'ı getirdi.<br/>mevlüt uysal da bismillah ilk iş, iett genel müdürünü zart diye görevden aldı, sanki o <a class="b" href="/?q=iett">iett</a> genel müdürü <a class="b" href="/?q=chp">chp</a>'nin iett genel müdürüymüş gibi “biliyorsunuz en çok şikayet metrobüsten geliyordu” dedi.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/>zart diye görevden alınan <a class="b" href="/?q=iett">iett</a> genel müdürünün, aslında zaten istanbulla pek alakası yoktu, <a class="b" href="/?q=iett+genel+m%c3%bcd%c3%bcr%c3%bc">iett genel müdürü</a> olmadan önce <a class="b" href="/?q=kayseri">kayseri</a> belediyesinde ve <a class="b" href="/?q=malatya">malatya</a> belediyesinde çalışıyordu, <a class="b" href="/?q=malatya">malatya</a>'dan getirip iett'nin başına oturtmuşlardı.<br/>zart diye görevden alınınca, gitti <a class="b" href="/?q=%c3%a7ank%c4%b1r%c4%b1">çankırı</a>'ya <a class="b" href="/?q=akp">akp</a>'den belediye başkan aday adayı oldu.<br/><br/>?<br/><br/>küçük bi pürüz vardı…<br/><a class="b" href="/?q=kadir+topba%c5%9f">kadir topbaş</a> tarafından zurt diye <a class="b" href="/?q=iett">iett</a>'nin başına getirilen, <a class="b" href="/?q=mevl%c3%bct+uysal">mevlüt uysal</a> tarafından zart diye <a class="b" href="/?q=iett">iett</a>'nin başından alınan <a class="b" href="/?q=iett">iett</a> genel müdürüne, zurt diye çankırı'yı vermediler, adaylığı kabul edilmedi.<br/><br/>?<br/><br/>küçük bi pürüz daha vardı…<br/>asrın liderimiz tarafından <a class="b" href="/?q=ba%c5%9fak%c5%9fehir">başakşehir</a> belediye başkanlığından alınarak zart diye <a class="b" href="/?q=kadir+topba%c5%9f">kadir topbaş</a>'ın yerine getirilen <a class="b" href="/?q=mevl%c3%bct+uysal">mevlüt uysal</a>, <a class="b" href="/?q=b%c3%bcy%c3%bck%c5%9fehir+belediye+ba%c5%9fkan+aday%c4%b1">büyükşehir belediye başkan adayı</a> yapılmadı, zurt diye <a class="b" href="/?q=b%c3%bcy%c3%bck%c3%a7ekmece">büyükçekmece</a>'ye belediye başkan adayı yapıldı.<br/><br/>?<br/><br/>akp'nin istanbul vizyonunun özeti, <a class="b" href="/?q=metrob%c3%bcs">metrobüs</a>tür.<br/><br/>?<br/><br/>komiktir.<br/>trajiktir.<br/><br/>?<br/><br/>milyar dolarların heba edilmesi, senelerin senelerin senelerin kaybedilmesi, insanımızın eziyet çekmesi bir yana… akıla mantığa bilime, <a class="b" href="/?q=t%c3%bcrkiye">türkiye</a>'nin bilgi birikimine, gözbebeğimiz <a class="b" href="/?q=istanbul">istanbul</a>'un imajına hakarettir.<br/><br/>?<br/><br/>yarın sadece seçim değil, <a class="b" href="/?q=k%c3%b6pr%c3%bcden+%c3%b6nce+son+%c3%a7%c4%b1k%c4%b1%c5%9f">köprüden önce son çıkış</a>tır.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a class="b" href="/?q=edit">edit</a>: metrobüs piçlerine yalan yea videoları , kim bilir belki babalarını bulurlar...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2FO3AcV" title="http://bit.ly/2FO3AcV">youtu.be</a> *<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2YAyixj" title="http://bit.ly/2YAyixj">* youtu.be</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2JRJv9D" title="http://bit.ly/2JRJv9D">** youtu.be</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2FMxmPc" title="http://bit.ly/2FMxmPc">*** youtu.be</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2HU4iHR" title="http://bit.ly/2HU4iHR">**** youtu.be</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2WAwwKC" title="http://bit.ly/2WAwwKC">***** youtu.be</a> *<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bit.ly/2UiUJHZ" title="http://bit.ly/2UiUJHZ">****** youtu.be</a>
-  entry_channels: haber
-- entry_name: |
-    bir gecede iki farklı erkekle birlikte olmak
-  entry_id:  88302228
-  entry_writer: runwhileucan
-  entry_fav_count: 658
-  entry_content: |
-    ablacım sen ne yaptın ya<br/><br/>birazdan mesaj kutun tek elle yazılmış mesajlarla dolacak<br/><br/>(bkz: <a class="b" href="/?q=oray%c4%b1+y%c4%b1karlar">orayı yıkarlar</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
     bir ömür nasıl perişan edilir
   entry_id:  88287001
   entry_writer: dogmamis olmayi isteyen adam
-  entry_fav_count: 524
+  entry_fav_count: 528
   entry_content: |
     benim gibi "o hep geç kalmışlık hissi." içerisinde olmak, hayatı hep film izler gibi izlemek, ne yaparsa yapsın başarısız olacakmışsın gibi hissetmek ve her şeyden tam anlamıyla zevk alamamak. böyle bir karakter ile bir ömür çok güzel perişan edilebiliyor sözlük.
   entry_channels: anket,ilişkiler,spoiler
@@ -54,23 +38,15 @@ data:
     bacakta damar belirmesi
   entry_id:  88311032
   entry_writer: kokusuzkurbaga
-  entry_fav_count: 410
+  entry_fav_count: 413
   entry_content: |
     bağırsaktır. <br/>ağırlığı fazla abartınca bağırsağın bacağına kaçmış.
   entry_channels: 
 - entry_name: |
-    bir chp'li olarak sandığa gitmeyecek olmam
-  entry_id:  88299003
-  entry_writer: zararyokziyanvar
-  entry_fav_count: 391
-  entry_content: |
-    bize ne arkadaş? bunu buraya başlık olarak açıyorsan akp’li bir trolsün. bir de beni bağlar yazmış. sadece seni bağlarsa git bağlandığın yerde havla.
-  entry_channels: siyaset
-- entry_name: |
     rte'nin ekrem imamoğlu'nun soyadını söylememesi
   entry_id:  88312780
   entry_writer: circiriye
-  entry_fav_count: 342
+  entry_fav_count: 349
   entry_content: |
     çünkü biliyor ki kendi seçmenini 17 senedir "allah kitap" söylemleri ile elinde tutuyor. <br/>adam ülkenin bug ını bulmuş<br/><br/>neyse yeri gelmişken;<br/>(bkz: <a class="b" href="/?q=din+afyondur">din afyondur</a>)
   entry_channels: 
@@ -78,7 +54,7 @@ data:
     türkçe'de ğ diye bir ses olmadığı gerçeği
   entry_id:  88299271
   entry_writer: zeusslide
-  entry_fav_count: 326
+  entry_fav_count: 329
   entry_content: |
     peki diş fırçaladıktan sonra ağız çalkalama anında çıkan ses nedir ğağağağağağaa olmuyor mu o :)
   entry_channels: edebiyat
@@ -86,7 +62,7 @@ data:
     1 nisan 2019 kılıçdaroğlu'nun istifa etmesi
   entry_id:  88306445
   entry_writer: babamukuru
-  entry_fav_count: 228
+  entry_fav_count: 235
   entry_content: |
     laikçi tayfanın ıslak rüyası, akape seçmeninin kabusudur. <br/><br/>not: laikçi tayfa.<br/><br/>büdüt: konuyla pek ilgisi olmasa da başka bir provokasyonu daha gündemde tutmak adına sizlerden özür dileyerek aşağıdaki başlığa bir göz atmanızı rica ediyorum. <br/><br/>(bkz: <a class="b" href="/?q=%c5%9fehit+ailesinin+zeydan+karalar%27dan+%c3%b6z%c3%bcr+dilemesi">şehit ailesinin zeydan karalar'dan özür dilemesi</a>)
   entry_channels: siyaset,haber
@@ -94,7 +70,7 @@ data:
     partilerin sms tacizi
   entry_id:  88311846
   entry_writer: skumbag
-  entry_fav_count: 218
+  entry_fav_count: 232
   entry_content: |
     her seçimden önce maruz kaldığımız taciz. <br/><br/>arkadaş, maltepe'de oturuyorum, maltepe adayları günde 2 defa atıyor, ibb adayları atıyor, bir dönem ankara'da yaşadığım için ankara adayları atıyor, memleketimdeki adaylar atıyor... <br/>bu nedir yav? sikerim seçiminizi, bir rahat verin.
   entry_channels: siyaset,teknoloji
@@ -102,7 +78,7 @@ data:
     bir cümle ile seks hayatın
   entry_id:  88303672
   entry_writer: henry chinaski
-  entry_fav_count: 214
+  entry_fav_count: 230
   entry_content: |
     uhud savaşı'nda tepeyi terk eden okçular.
   entry_channels: anket,ilişkiler
@@ -110,50 +86,42 @@ data:
     bursa'da makas atarken kaza yapan bmw
   entry_id:  88297194
   entry_writer: leytirain
-  entry_fav_count: 213
+  entry_fav_count: 220
   entry_content: |
     olan gene sakin giden adama olmuş.
   entry_channels: haber
 - entry_name: |
-    31 mart'ta ak parti'ye oy vermeme sebepleri
-  entry_id:  88294681
-  entry_writer: burakowski
-  entry_fav_count: 206
+    mrtcevik sözlükten uçurulsun kampanyası
+  entry_id:  88309392
+  entry_writer: entrynikuyumu
+  entry_fav_count: 172
   entry_content: |
-    (bkz: <a class="b" href="/?q=pkk%27l%c4%b1+%c3%b6ld%c3%bcren+17+askerin+tutuklanmas%c4%b1">pkk'lı öldüren 17 askerin tutuklanması</a>)<br/>(bkz: <a class="b" href="/?q=25+ilde+patates+ekiminin+yasaklanmas%c4%b1">25 ilde patates ekiminin yasaklanması</a>)<br/>(bkz: <a class="b" href="/?q=patl%c4%b1can+yemeyince+%c3%b6lmezsiniz">patlıcan yemeyince ölmezsiniz</a>)<br/>(bkz: <a class="b" href="/?q=11+mart+2019+patates+kararnamesi">11 mart 2019 patates kararnamesi</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27nin+saman+ithal+etmesi">türkiye'nin saman ithal etmesi</a>)<br/>(bkz: <a class="b" href="/?q=9+aral%c4%b1k+2018+ithal+so%c4%9fan+m%c3%bcjdesi">9 aralık 2018 ithal soğan müjdesi</a>)<br/>(bkz: <a class="b" href="/?q=dondurulmu%c5%9f+patates+firmas%c4%b1n%c4%b1n+ortado%c4%9fu+dan%c4%b1%c5%9fman%c4%b1">dondurulmuş patates firmasının ortadoğu danışmanı</a>)<br/>(bkz: <a class="b" href="/?q=yerel+tohum+sat%c4%b1%c5%9f%c4%b1n%c4%b1+yasaklayan+bakanl%c4%b1k">yerel tohum satışını yasaklayan bakanlık</a>)<br/>(bkz: <a class="b" href="/?q=ucuz+ekmek+satan+f%c4%b1r%c4%b1na+ihtar+ve+ceza+tehditi">ucuz ekmek satan fırına ihtar ve ceza tehditi</a>)<br/>(bkz: <a class="b" href="/?q=yurtd%c4%b1%c5%9f%c4%b1ndan+zarar%c4%b1na+arpa+almak">yurtdışından zararına arpa almak</a>)<br/>(bkz: <a class="b" href="/?q=makine+kimya+end%c3%bcstrisinin+%c3%b6zelle%c5%9ftirilmesi">makine kimya endüstrisinin özelleştirilmesi</a>)<br/>(bkz: <a class="b" href="/?q=bize+oy+verirseniz+mah%c5%9ferde+hesap+yok">bize oy verirseniz mahşerde hesap yok</a>)<br/>(bkz: <a class="b" href="/?q=c.b+aleyhinde+karar+veren+hakime+ceza+verilmesi">c.b aleyhinde karar veren hakime ceza verilmesi</a>)<br/>(bkz: <a class="b" href="/?q=bas%c4%b1n+%c3%b6zg%c3%bcrl%c3%bc%c4%9f%c3%bcnde+42+%c3%bclke+i%c3%a7inde+42.+olmak">basın özgürlüğünde 42 ülke içinde 42. olmak</a>)<br/>(bkz: <a class="b" href="/?q=mehmet+cengiz%27in+vergi+borcunun+silinmesi">mehmet cengiz'in vergi borcunun silinmesi</a>)<br/>(bkz: <a class="b" href="/?q=615.9+milyonluk+vergi+borcunu+7+milyona+d%c3%bc%c5%9f%c3%bcrmek">615.9 milyonluk vergi borcunu 7 milyona düşürmek</a>)<br/>(bkz: <a class="b" href="/?q=cengiz+in%c5%9faat%27%c4%b1n+vergi+borcunun+silinmesi">cengiz inşaat'ın vergi borcunun silinmesi</a>)<br/>(bkz: <a class="b" href="/?q=29+nisan+2017+wikipedia%27ya+eri%c5%9fim+yasa%c4%9f%c4%b1">29 nisan 2017 wikipedia'ya erişim yasağı</a>)<br/>(bkz: <a class="b" href="/?q=wikipedia%27dan+vergi+istemek">wikipedia'dan vergi istemek</a>)<br/>(bkz: <a class="b" href="/?q=30+may%c4%b1s+2016+paypal%27%c4%b1n+t%c3%bcrkiye%27den+%c3%a7ekilmesi">30 mayıs 2016 paypal'ın türkiye'den çekilmesi</a>)<br/>(bkz: <a class="b" href="/?q=bu+fakir+g%c3%b6revde+olduk%c3%a7a+o+ter%c3%b6risti+alamazs%c4%b1n">bu fakir görevde oldukça o teröristi alamazsın</a>)<br/>(bkz: <a class="b" href="/?q=abd+umar%c4%b1m+anlam%c4%b1%c5%9ft%c4%b1r+bask%c4%b1yla+netice+al%c4%b1nmaz">abd umarım anlamıştır baskıyla netice alınmaz</a>)<br/>(bkz: <a class="b" href="/?q=yarg%c4%b1dan+m%c3%bcsade+alacaksak+bu+makamda+durmayay%c4%b1m">yargıdan müsade alacaksak bu makamda durmayayım</a>)<br/>(bkz: <a class="b" href="/?q=aym+ba%c5%9fkan%c4%b1n%c4%b1n+rte%27nin+%c3%b6n%c3%bcnde+e%c4%9filmesi">aym başkanının rte'nin önünde eğilmesi</a>)<br/>(bkz: <a class="b" href="/?q=cumhurba%c5%9fkan%c4%b1na+itaat+etmek+farzd%c4%b1r">cumhurbaşkanına itaat etmek farzdır</a>)<br/>(bkz: <a class="b" href="/?q=akp%27liye+oy+vermek+mah%c5%9ferde+beraat+belgesidir">akp'liye oy vermek mahşerde beraat belgesidir</a>)<br/>(bkz: <a class="b" href="/?q=erdo%c4%9fan%27a+oy+verin+cennetin+anahtar%c4%b1n%c4%b1+al%c4%b1n">erdoğan'a oy verin cennetin anahtarını alın</a>)<br/>(bkz: <a class="b" href="/?q=rte%27nin+dine+g%c3%bcncelleme+%c3%a7a%c4%9fr%c4%b1s%c4%b1">rte'nin dine güncelleme çağrısı</a>)<br/>(bkz: <a class="b" href="/?q=ak+parti%27ye+oy+vermeyeni+dergah%c4%b1ma+almam">ak parti'ye oy vermeyeni dergahıma almam</a>)<br/>(bkz: <a class="b" href="/?q=akp%27nin+ter%c3%b6r+olaylarini+arastirmak+istememesi">akp'nin terör olaylarini arastirmak istememesi</a>)<br/>(bkz: <a class="b" href="/?q=mehmet+%c3%b6zhaseki%27nin+pkk%27l%c4%b1lara+gerilla+demesi">mehmet özhaseki'nin pkk'lılara gerilla demesi</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6zhasekinin+%c5%9fehitlerin+niye+%c3%b6ld%c3%bc%c4%9f%c3%bc+belirsiz+demesi">özhasekinin şehitlerin niye öldüğü belirsiz demesi</a>)<br/>(bkz: <a class="b" href="/?q=30+mart+2014+ankara+yerel+se%c3%a7im+sonu%c3%a7lar%c4%b1">30 mart 2014 ankara yerel seçim sonuçları</a>)<br/>(bkz: <a class="b" href="/?q=adalarda+tespit+edilen+500%27%c3%bc+a%c5%9fk%c4%b1n+hayali+se%c3%a7men">adalarda tespit edilen 500'ü aşkın hayali seçmen</a>)<br/>(bkz: <a class="b" href="/?q=kad%c4%b1k%c3%b6y%27de+oy+pusulalar%c4%b1n%c4%b1n+araziden+%c3%a7%c4%b1kmas%c4%b1">kadıköy'de oy pusulalarının araziden çıkması</a>)<br/>(bkz: <a class="b" href="/?q=24+haziran+2018+elektrik+kesintileri">24 haziran 2018 elektrik kesintileri</a>)<br/>(bkz: <a class="b" href="/?q=31+mart+2014+yak%c4%b1lm%c4%b1%c5%9f+oy+pusula+g%c3%b6r%c3%bcnt%c3%bcleri">31 mart 2014 yakılmış oy pusula görüntüleri</a>)<br/>(bkz: <a class="b" href="/?q=ankara%27da+yak%c4%b1lm%c4%b1%c5%9f+oy+pusulalar%c4%b1n%c4%b1n+bulunmas%c4%b1">ankara'da yakılmış oy pusulalarının bulunması</a>)<br/>(bkz: <a class="b" href="/?q=10+%c5%9fubat+2018+man+adas%c4%b1+belgelerinin+do%c4%9frulanmas%c4%b1">10 şubat 2018 man adası belgelerinin doğrulanması</a>)<br/>(bkz: <a class="b" href="/?q=1+metre+hortuma+78+lira+%c3%b6deyen+belediye">1 metre hortuma 78 lira ödeyen belediye</a>)<br/>(bkz: <a class="b" href="/?q=100+km%27de+63+litre+motorin+yakan+clio">100 km'de 63 litre motorin yakan clio</a>)<br/>(bkz: <a class="b" href="/?q=tbmm%27ye+yeni+ara%c3%a7+m%c3%bcjdesi">tbmm'ye yeni araç müjdesi</a>)<br/>(bkz: <a class="b" href="/?q=12+may%c4%b1s+2016+ensar+vakf%c4%b1+tecav%c3%bcz+skandal%c4%b1">12 mayıs 2016 ensar vakfı tecavüz skandalı</a>)<br/>(bkz: <a class="b" href="/?q=90+y%c4%b1ll%c4%b1k+enkaz+ensar+vakf%c4%b1+ve+45+%c3%a7ocu%c4%9fa+taciz">90 yıllık enkaz ensar vakfı ve 45 çocuğa taciz</a>)<br/>(bkz: <a class="b" href="/?q=karaman%27da+45+erkek+%c3%b6%c4%9frenciye+tecav%c3%bcz">karaman'da 45 erkek öğrenciye tecavüz</a>)<br/>(bkz: <a class="b" href="/?q=ensar+vakf%c4%b1%27n%c4%b1+inad%c4%b1na+destekleyece%c4%9fiz">ensar vakfı'nı inadına destekleyeceğiz</a>)<br/>(bkz: <a class="b" href="/?q=aile+bakan%c4%b1%27n%c4%b1n+ensar+vakf%c4%b1+a%c3%a7%c4%b1klamas%c4%b1">aile bakanı'nın ensar vakfı açıklaması</a>)<br/>(bkz: <a class="b" href="/?q=bir+kere+rastlanan+olaydan+ensar+vakf%c4%b1+karalanamaz">bir kere rastlanan olaydan ensar vakfı karalanamaz</a>)<br/>(bkz: <a class="b" href="/?q=beka+meselesi+%c3%b6nergesinin+tbmm%27de+reddedilmesi">beka meselesi önergesinin tbmm'de reddedilmesi</a>)<br/>(bkz: <a class="b" href="/?q=askerlerin+zehirlenmesi+%c3%b6nergesinin+reddedilmesi">askerlerin zehirlenmesi önergesinin reddedilmesi</a>)<br/>(bkz: <a class="b" href="/?q=6+%c5%9fubat+2019+and%c4%b1m%c4%b1z+%c3%b6nergesinin+reddedilmesi">6 şubat 2019 andımız önergesinin reddedilmesi</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+telekom+ara%c5%9ft%c4%b1rma+%c3%b6nergesinin+reddedilmesi">türk telekom araştırma önergesinin reddedilmesi</a>)<br/>(bkz: <a class="b" href="/?q=fet%c3%b6%27n%c3%bcn+siyasi+aya%c4%9f%c4%b1+%c3%b6nergesinin+reddedilmesi">fetö'nün siyasi ayağı önergesinin reddedilmesi</a>)<br/>(bkz: <a class="b" href="/?q=donarak+%c5%9fehit+olan+askerler+%c3%b6nergesinin+reddi">donarak şehit olan askerler önergesinin reddi</a>)<br/>(bkz: <a class="b" href="/?q=soma%27daki+kazalara+ili%c5%9fkin+%c3%b6nergenin+reddedilmesi">soma'daki kazalara ilişkin önergenin reddedilmesi</a>)<br/>(bkz: <a class="b" href="/?q=akp+ve+mhp+oylar%c4%b1yla+reddedilen+israil+%c3%b6nergesi">akp ve mhp oylarıyla reddedilen israil önergesi</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7ocuk+istismar%c4%b1+%c3%b6nergesini+reddeden+parti">çocuk istismarı önergesini reddeden parti</a>)<br/>(bkz: <a class="b" href="/?q=akpli+vekillerin+oylar%c4%b1yla+reddedilen+17+%c3%b6nerge">akpli vekillerin oylarıyla reddedilen 17 önerge</a>)<br/>(bkz: <a class="b" href="/?q=akp%27nin+reddetti%c4%9fi+%c3%b6nergeler">akp'nin reddettiği önergeler</a>)<br/>(bkz: <a class="b" href="/?q=27+mart+2014+ahmet+davuto%c4%9flu+ses+kayd%c4%b1">27 mart 2014 ahmet davutoğlu ses kaydı</a>)<br/>(bkz: <a class="b" href="/?q=millet+ittifak%c4%b1+sokaklarda+gezemeyecek">millet ittifakı sokaklarda gezemeyecek</a>)<br/>(bkz: <a class="b" href="/?q=%c3%a7in+%c3%bcr%c3%bcnlerine+5.2tl+vergi+koyulmas%c4%b1">çin ürünlerine 5.2tl vergi koyulması</a>)<br/>(bkz: <a class="b" href="/?q=6+a%c4%9fustos+2018+dolar+kuru">6 ağustos 2018 dolar kuru</a>)<br/>(bkz: <a class="b" href="/?q=elektrik+da%c4%9f%c4%b1t%c4%b1m+bedeline+%2515.7+zam+yap%c4%b1lmas%c4%b1">elektrik dağıtım bedeline %15.7 zam yapılması</a>)<br/>(bkz: <a class="b" href="/?q=18+%c5%9fubat+2019+akaryak%c4%b1t+zamm%c4%b1">18 şubat 2019 akaryakıt zammı</a>)<br/>(bkz: <a class="b" href="/?q=25+%c5%9fubat+2019+akaryak%c4%b1t+zamm%c4%b1">25 şubat 2019 akaryakıt zammı</a>) (bir ayda 2 zam)<br/>(bkz: <a class="b" href="/?q=13+%c5%9fubat+2019+ila%c3%a7lara+y%c3%bczde+26.4+zam+gelmesi">13 şubat 2019 ilaçlara yüzde 26.4 zam gelmesi</a>)<br/>(bkz: <a class="b" href="/?q=ayakkab%c4%b1+kutusunda+4.5+milyon+dolar+saklamak">ayakkabı kutusunda 4.5 milyon dolar saklamak</a>)<br/>(bkz: <a class="b" href="/?q=abinin+katilinin+ilk+duru%c5%9fmada+serbest+kalmas%c4%b1">abinin katilinin ilk duruşmada serbest kalması</a>)<br/>(bkz: <a class="b" href="/?q=soylu%27nun+saadet+partiliyi+g%c3%b6zalt%c4%b1na+ald%c4%b1rmas%c4%b1">soylu'nun saadet partiliyi gözaltına aldırması</a>)<br/>(bkz: <a class="b" href="/?q=televizyonlara+talimat+verdim">televizyonlara talimat verdim</a>)<br/>(bkz: <a class="b" href="/?q=say%c4%b1%c5%9ftay+raporu+17+y%c4%b1ll%c4%b1k+zarar%c4%b1n%c4%b1+a%c3%a7%c4%b1klad%c4%b1">sayıştay raporu 17 yıllık zararını açıkladı</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye+birincisi+rengin%27in+atanamamas%c4%b1">türkiye birincisi rengin'in atanamaması</a>)<br/>(bkz: <a class="b" href="/?q=mersin%27de+tecav%c3%bcze+u%c4%9frayan+12+ya%c5%9f%c4%b1ndaki+k%c4%b1z">mersin'de tecavüze uğrayan 12 yaşındaki kız</a>)<br/>(bkz: <a class="b" href="/?q=tank+palet+fabrikas%c4%b1n%c4%b1n+sat%c4%b1lmas%c4%b1">tank palet fabrikasının satılması</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9feyin+trene+bakt%c4%b1%c4%9f%c4%b1+gibi+bak%c4%b1yorlar">şeyin trene baktığı gibi bakıyorlar</a>)<br/>(bkz: <a class="b" href="/?q=hadi+bi+takla+at+oyna+g%c3%b6reyim">hadi bi takla at oyna göreyim</a>)<br/>(bkz: <a class="b" href="/?q=g%c3%b6zlerin+g%c3%b6rm%c3%bcyor+sana+i%c5%9f+vermi%c5%9fiz">gözlerin görmüyor sana iş vermişiz</a>)<br/>(bkz: <a class="b" href="/?q=engellileri+insan+yerine+koyduk">engellileri insan yerine koyduk</a>)<br/>(bkz: <a class="b" href="/?q=sizleri+resul%c3%bcn+gemisi+ak+parti%27ye+davet+ediyoruz">sizleri resulün gemisi ak parti'ye davet ediyoruz</a>)<br/>(bkz: <a class="b" href="/?q=menderes+t%c3%bcrel%27in+e%c5%9finin+skandal+ses+kayd%c4%b1">menderes türel'in eşinin skandal ses kaydı</a>)
-  entry_channels: siyaset,anket
+    <a class="b" href="/entry/88308165">#88308165</a><br/><a class="b" href="/entry/88307423">#88307423</a><br/><a class="b" href="/entry/88289460">#88289460</a><br/><br/>bir başlıkta küskün chp'li gibi yazıp diğer başlıkta yürü be uzun adam diyen , uydurma anket paylaşıp provoke ve trollük yapan , sözlüğü trol çöplüğüne çeviren bu tiplerin (siyasi görüşüne bakılmaksızın) sözlükten uçurulmasını istiyoruz.<br/><br/>edit: <a class="b" href="/?q=xhipasgladius">xhipasgladius</a> uyardı sağolsun ; engelle seçeneğini caylak yada yazar olmayanlar kullanamıyormuş. dolayısıyla alenen provakasyonun hedefi oluyorlar.
+  entry_channels: siyaset,ekşi-sözlük
 - entry_name: |
-    alley-oop'a türkçe isim önerileri
-  entry_id:  88287344
-  entry_writer: renksiz hayat
-  entry_fav_count: 145
+    türkçe dil bilgisi takıntısı olan ruh hastaları
+  entry_id:  88297784
+  entry_writer: c demorgane
+  entry_fav_count: 141
   entry_content: |
-    (bkz: <a class="b" href="/?q=al+da+at+dercesine">al da at dercesine</a>)
-  entry_channels: spor,anket
-- entry_name: |
-    ankaralılar dışında ankara'yı kimsenin sevmemesi
-  entry_id:  88296376
-  entry_writer: dcdl
-  entry_fav_count: 107
-  entry_content: |
-    işte o yüzden mansur diyoruz. <br/>ankaraya ankaralı aday
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=yaln%c4%b1z+entelekt%c3%bcel+olacak+o">yalnız entelektüel olacak o</a>)
+  entry_channels: edebiyat,eğitim
 - entry_name: |
     ekrem imamoğlu
   entry_id:  88290980
   entry_writer: efsian
-  entry_fav_count: 103
+  entry_fav_count: 108
   entry_content: |
     ben hayatımda hiç chp'ye oy vermedim.<br/><br/>düşman olduğumdan da değil hani. yakın bulamadığımdan.<br/>chp'nin o kalıplaşmış, bağnaz, fönlü, fötrlü kadrolarını kendime yakın bulamadığımdan belki. belki de süleymaniye'de doğdup, eyüp sultan'da büyüdüğümden bilmiyorum.<br/><a class="b" href="/?q=insan+ya%c5%9fad%c4%b1%c4%9f%c4%b1+yere+benzer">insan yaşadığı yere benzer</a><sup class="ab"><a title="(bkz: edip cansever)" href="/?q=edip+cansever" data-query="edip cansever">*</a></sup> üstadım. istanbul'da doğdum. istanbul'da büyüdüm, <a class="b" href="/?q=istanbul+a%c5%9fkt%c4%b1%2c+istanbul+oldum">istanbul aşktı, istanbul oldum</a>.<br/><br/>peki hangi istanbul? kimin istanbul'u kaldı geriye? aidiyet kuramadığım, trafikte, hastane sırasında, kendi mahallemde, artık arşınlayamadığım istiklal caddesinde, camide ulan camide! büsbütün yabancı olduğum şehir de mi? çok ötekileştik üstadım, artık herkes birbirine ganimet, herkes herkese öteki!<br/><br/>peki ben kimim? ben senim kardeşim. youtube izleyip güldüğün o iki kelimeyi bir araya getiremeyen adam senin dayın. sırf başka partili bir genci aşağılamaya çalışan kadın az okumuş ablan. ne ara sevmez olduk bakkal irfan abiyi? biziz ulan bu! ne ara bu denli uzaklaştık bir birimizden?<br/><br/>az önce balkonda son sigaramı tüttürüp yatağıma doğru seyirtmeden önce aklıma geldi bunlar. ardındandan bir şeyler değişecek hissi. ağır, heyecanlı olduğu kadar kasvetli o duygu.<br/>tarihe bir şekilde tanıklık edecek olmanın sorumluluğu.<br/>benzer şeyleri 15 temmuz darbe girişiminden 2 hafta önce de <a class="b" href="/entry/61490687">#61490687</a>, taksim gönlümüzü bölerken de <a class="b" href="/entry/34161669">#34161669</a>, hatta evleneceğim kadını bulduğumu düşündüğüm anda da <a class="b" href="/entry/57416369">#57416369</a> hissettim üstadım. bir şeyler değişecek. değişmeli. ben sıkıldım gırtlak gırtlağa yaşamaktan.<br/><br/>ben hayatımda hiç chp'ye oy vermedim.<br/>fakat bu adamın, adam gibi adam, kadın gibi kadın olan herkesin desteğine ihtiyacı var. adamlığını sorgulayanlara inat. zira "zorlaştırmayın, kolaylaştırın". ayrıştırmayın, birleştirin.<br/><br/>yeter be!
   entry_channels: siyaset
 - entry_name: |
-    cumhuriyetçilerin sonunu getir yarabbi
-  entry_id:  88312048
-  entry_writer: oberyn2
+    bir chp'li olarak oyum akp'ye
+  entry_id:  88317364
+  entry_writer: yono kollonoco
   entry_fav_count: 103
   entry_content: |
-    tutuklanan sözlük yazarının söyleminden farklı olmayan bir nefret söylemi. aynı muameleyi görecek mi bakalım.
-  entry_channels: siyaset,haber
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/b74c0b620436" title="https://eksiup.com/b74c0b620436">geldi yine</a>
+  entry_channels: siyaset
 - entry_name: |
     31 mart 2019 yerel seçimleri
   entry_id:  88287132
@@ -166,23 +134,15 @@ data:
     en güzel teoman şarkı sözü
   entry_id:  88288029
   entry_writer: yarardancokzararim
-  entry_fav_count: 95
+  entry_fav_count: 96
   entry_content: |
     dayanmıştı<br/>daha da dayanırdı <br/>ama ne gerek vardı?
   entry_channels: anket,müzik,edebiyat
 - entry_name: |
-    bir chp'li olarak oyum ak parti'ye
-  entry_id:  88317364
-  entry_writer: yono kollonoco
-  entry_fav_count: 93
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/b74c0b620436" title="https://eksiup.com/b74c0b620436">geldi yine</a>
-  entry_channels: 
-- entry_name: |
     sahip olunan arabayı markasını söylemeden anlatmak
   entry_id:  88296371
   entry_writer: shadowweaver
-  entry_fav_count: 75
+  entry_fav_count: 76
   entry_content: |
     beyaz, 5 vites , arkadaş itişli.
   entry_channels: anket,otomotiv
@@ -195,26 +155,26 @@ data:
     (bkz: <a class="b" href="/?q=kesin+bedava+%c3%a7ay+kapt%c4%b1">kesin bedava çay kaptı</a>)
   entry_channels: siyaset
 - entry_name: |
-    muhsin yazıcıoğlu yaşasa akp'nin kaybedecek olması
-  entry_id:  88306641
-  entry_writer: shot bardagi
-  entry_fav_count: 73
-  entry_content: |
-    muhsin yazıcıoğlu yaşasaydı şu an akp sivas belediye başkanı adayıydı. beka beka diyerek oy istiyordu.
-  entry_channels: siyaset
-- entry_name: |
     bir fuckbuddy'de olması gereken özellikler
   entry_id:  88302310
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 57
+  entry_fav_count: 73
   entry_content: |
     (bkz: <a class="b" href="/?q=esnek+sevisme+saatlerine+uyum+gosterebilmesi">esnek sevisme saatlerine uyum gosterebilmesi</a>)
   entry_channels: anket,ilişkiler
 - entry_name: |
+    mansur yavaş kazanırsa 25 kişiye dt bileti almak
+  entry_id:  88317820
+  entry_writer: thepols
+  entry_fav_count: 63
+  entry_content: |
+    ön edit: mansur yavaş kazanamazsa da biletleri hediye etmeye karar verdim.<br/><br/>ankara devlet tiyatrolarının sıkı bir takipçisi olarak, 1 nisan sabahına mansur yavaş'ın başkanlığı ile uyanırsak 25 tane öğrenciye istedikleri herhangi bir devlet tiyatroları oyununa bilet hediye edeceğim kampanya.<br/><br/>içki kampanyası olduğu için ben de sanat kampanyası başlatmak istedim. ister toplanır birlikte gideriz, ister tek gidersiniz, ister sevgilinle gidersin. benim için hiç fark etmez. <br/><br/>tiyatro izleyin suserler. izleyin ve izlettirin.<br/><br/>edit: arkadaşlar gün sonunda çekiliş yapmayı düşünüyorum. <br/>5 bilet hediye için <a class="b" href="/?q=push">push</a> ile iletişime geçebilirsiniz.<br/>10 bilet hediye için <a class="b" href="/?q=cekse">cekse</a> ile iletişime geçebilirsiniz.<br/>5 bilet hediye için <a class="b" href="/?q=zargonyali">zargonyali</a> ile iletişime geçebilirsiniz.<br/><br/>listeye eklenen yazarlar ve çaylaklar:<br/>+2 bilet: peh peh peh peh peh peh peeeh<br/>+1 bilet: mantar sote<br/>+2 bilet: secdede sorun yasayan zenci<br/>+3 bilet: ekaraot<br/>+1 bilet: hukukokuyankanunsuz<br/>+1 bilet: pitiradam<br/>+1 bilet: justfight<br/>+1 bilet: fatiucesur12<br/>+1 bilet: ruyalarin yapildigi maddeden olan<br/>+1 bilet: kristadaki ets elemani<br/>+1 bilet: sansure hayir<br/>+1 bilet: md1111<br/>+1 bilet: silsmile<br/>+2 bilet: urgot<br/>+1 bilet: unicornt<br/>+1 bilet: kişi<br/>+1 bilet: 1merto<br/>+2 bilet: soguk kahve icen fakir adam<br/>+1 bilet: hastabirteldehastabirnagme<br/>+2 bilet: finrid<br/>+2 bilet: ucurdunuz da beni yine geldim<br/>+2 bilet: breakingbaddekikalinkasliadam<br/>+1 bilet: carnil<br/>+1 bilet: kicked ass<br/>+1 bilet: sanjuro kuwabatake<br/>+2 bilet: alperencaca<br/>+1 bilet: karalahana<br/>+2 bilet: sanagoresevmeler<br/>+1 bilet: zularag<br/>+1 bilet: sleipnir<br/>+2 bilet: peacebar<br/><br/>eksik veya yanlış olan varsa lütfen yeşillendirin.<br/><br/>edit 2: bir yazar arkadaşımız neden mansur yavaş kazanamazsa hediye etmiyorsunuz diye bir eleştiri getirmiş. şahsen böyle bir durum açıkçası sözlükte açılan diğer kampanyalar ile birlikte aklıma geldi. normal günlük yaşantımda onlarca kişinin tiyatroya gitmesine vesile olmuş biriyim, ki bizzat biletlerini de kendim alıyorum. burada duyar kasmak gibi bir derdim yok. amacım hem ankara'ya benim desteklediğim ve iyi geleceğine inandığım adayı ön plana çıkartmak hem de sanatı yaymak. teşekkür ederim.
+  entry_channels: 
+- entry_name: |
     mansur yavaş ülkücü mü değil mi sorunsalı
   entry_id:  88316366
   entry_writer: boylamdevlet
-  entry_fav_count: 53
+  entry_fav_count: 54
   entry_content: |
     bay bahçeli ve megri megricilerden daha milliyetçi ve vatanseverdir diye cevaplanacak soru .
   entry_channels: 
@@ -222,7 +182,7 @@ data:
     şerdil dara odabaşı
   entry_id:  88303817
   entry_writer: patoschik
-  entry_fav_count: 51
+  entry_fav_count: 53
   entry_content: |
     yıllardır altı ok dışında bir partiye oy atmam derken bu seçim iyi parti adayı emre kınay'a oy atmama sebep olacak adaydır .<br/>kadıköy sizden razı değil ey cehaaapee yönetimi
   entry_channels: siyaset,haber
@@ -230,7 +190,7 @@ data:
     lionel messi
   entry_id:  88313540
   entry_writer: yazmamdahasksiiri
-  entry_fav_count: 51
+  entry_fav_count: 53
   entry_content: |
     az sonra frikikten gol atacak olan tarihin en iyisi.
   entry_channels: spor
@@ -238,39 +198,39 @@ data:
     türkiye'den siktir olup gitmek
   entry_id:  88290233
   entry_writer: duseyazar
-  entry_fav_count: 48
+  entry_fav_count: 51
   entry_content: |
     pazartesi gerçekleştireceğim eylem.<br/><br/>bir yandan seviniyorum ama asla affetmeyeceğim bir durum var: ailemden ve sevdiklerimden ayrılmak zorunda kalmak. beni buna iten tüm vasat siyasilerin ve beyinsiz destekçilerinin varsa allah belasını versin.
   entry_channels: siyaset,ekonomi,seyahat
 - entry_name: |
-    rastgele entry numarası yazmak
-  entry_id:  88292040
-  entry_writer: zizonkovac
-  entry_fav_count: 36
+    imamoğlu'nun ateist olması
+  entry_id:  88320132
+  entry_writer: ungamunga
+  entry_fav_count: 48
   entry_content: |
-    <a class="b" href="/entry/31313131">#31313131</a>
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=trollerin+orospu+cocugu+olmasi">trollerin orospu cocugu olmasi</a>)<br/><br/>baslik basa kalmis<br/><br/>trolun birisi imamoglunu babasi tarafindan baski gormus bir ateist oldugu felan soyluyordu ss valan varsa yollasin ekleyeyim.
+  entry_channels: siyaset
 - entry_name: |
     ankara'da lahmacunu süper olan mekanlar
   entry_id:  88314322
   entry_writer: mihalakikusu
-  entry_fav_count: 34
+  entry_fav_count: 37
   entry_content: |
     anıttepe düveroğlu
   entry_channels: 
 - entry_name: |
-    charles leclerc
-  entry_id:  88312796
-  entry_writer: devletbizebahmiyir
-  entry_fav_count: 28
+    onedio'nun hangi mustafa kemal'sin testi
+  entry_id:  88317667
+  entry_writer: garipbasci
+  entry_fav_count: 35
   entry_content: |
-    ne zaman baksam jules bianchi'yi görüp gözlerim doluyor. bu konuda dalga geçmiyorum 10 yılı geçen bir süredir şampiyonluk görememiş bir takımın taraftarı olarak duyguluyum heyecanlıyım. beni ancak beş yaşında sabah 5'te kalkıp avustralya gp izlemiş insanlar anlayabilir. <br/>ferrari takım ruhu, geleneği ticari değildir, sponsorluk değildir. bir pilot ancak iyi bir pilot olduğuna inanılırsa ve özel yaşantısıyla ferrari kimliğinin önüne geçmeyeceğine inanılırsa bu koltuğun sahibi olabilir. charles leclerc'in o pilotlardan bir tanesi olduğunu düşünüyorum. yolun açık olsun evlat jules bianchi seni izliyor.
-  entry_channels: spor,otomotiv
+    akp pohpohlaması yapan onedio'nun, tık sayısı azalınca chp'li kullanıcılara yürümesine neden olan test.<br/><br/>para için şu rezilliğe imza atan adamların sitesine girmeyin:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://onedio.com/haber/nereden-nereye-10-maddede-2002-den-once-ve-sonra-turkiye-nin-durumu-864693" title="https://onedio.com/haber/nereden-nereye-10-maddede-2002-den-once-ve-sonra-turkiye-nin-durumu-864693">https://onedio.com/…sonra-turkiye-nin-durumu-864693</a>
+  entry_channels: siyaset,anket
 - entry_name: |
     annenin akp'ye oy vermesi
   entry_id:  88317968
   entry_writer: mantar sote
-  entry_fav_count: 25
+  entry_fav_count: 33
   entry_content: |
     annedir, candır. bu yüzden de insanın canını çok yakar. yolsuzlukları, usulsüzlükleri tek tek anlatıp ispatlarını önüne koyarsınız. ama o hep akp'li ağzıyla konuşup kendi evladına cephe almaktan bile çekinmez. bu da benim imtihanım demek şu hayatta. çok zor.<br/><br/>edit: altta yeterince donanımlı bir muhalif değilsiniz demek ki yazan arkadaş. buyur gel sen ikna et. din faktörü o kadar etkili bir faktör ki, annem muhalifleri din düşmanı olarak gördüğü için diğer taraf ne yaparsa yapsın yine de ehveni şer onun nazarında. insanların hayatlarını bilmeden yorum yapıyorsunuz.<br/><br/>edit 2: annem üniversite mezunu. din faktörü diyorum arkadaşlar. eğitimli eğitimsiz ayırt etmiyor maalesef. hatta eğitimli olunca işiniz daha zor. bu sefer abuk sabuk komplolara kaptırıyor kendini. hesapta eğitimli ya, "büyük resmi" kendisinin gördüğünü düşünüyor.<br/><br/>edit 3: yandaş tv izlemiyor ama internetten sürekli büyük resim storyleri okuyor. fatih portakal'la fox haber en dayanamadığı program. adam haber anlatırken oturduğu yerden ona sinirle cevap veriyor. sanki kılıçdaroğlu re re rö filan diye. öyle zamanlarda ben ortamı usulca terk ediyorum.
   entry_channels: 
@@ -278,18 +238,50 @@ data:
     olduğundan genç göstermek
   entry_id:  88301733
   entry_writer: rizz
-  entry_fav_count: 21
+  entry_fav_count: 27
   entry_content: |
     20'li yaşlarda dezavantajdır ama 30'larda avantaja dönüşür. ev sahibi olup kapıya gelenlerce 'anneni çağırır mısın' sorularına mı maruz kalmadım, yaşımı büyüten kompleksli kadın mı olmadım, kalabalık yerlerde canım sen kalk ben oturayım diyen yaşıtım kadınlarca sandalyelerden mi kaldırılmadım. belki de çocuk ve çocuk gibi gözüken insanlara bu yüzden bu kadar saygılıyım.<br/><br/>yaş, görüntü, meslek, konum... bu ülke insanı kendinden "küçük" gördüğü herkese, her şeye saygısız.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    menderes türel'in eşinin skandal ses kaydı
-  entry_id:  88287297
-  entry_writer: cekirdekkabugu
-  entry_fav_count: 20
+    mustafa bozbey kazanırsa iskender + tiyatro bileti
+  entry_id:  88317301
+  entry_writer: bendebiseydiycem
+  entry_fav_count: 23
   entry_content: |
-    burayı okuyosundur sen kahpe. haysiyetsiz, arsız kahpe. utanmaz, iftiracı, namussuz kahpe. kul hakkı yiyen kahpe. kahpe!
-  entry_channels: siyaset,haber
+    mademki var böyle kampanyalar(bkz: <a class="b" href="/?q=ekrem+imamo%c4%9flu+kazan%c4%b1rsa+5+ki%c5%9fiye+votka">ekrem imamoğlu kazanırsa 5 kişiye votka</a>)(bkz: <a class="b" href="/?q=mansur+yava%c5%9f+kazan%c4%b1rsa+%c3%bc%c3%a7+ki%c5%9fiye+ankara+simidi">mansur yavaş kazanırsa üç kişiye ankara simidi</a>)(bkz: <a class="b" href="/?q=imamo%c4%9flu+kazan%c4%b1rsa+100+ki%c5%9fiye+bira+%c4%b1smarl%c4%b1yorum">imamoğlu kazanırsa 100 kişiye bira ısmarlıyorum</a>) <br/>ben de mustafa bozbey kazanırsa bursa heykeldeki meşhur iskenderciden 5 arkadaşa iskender (1 porsiyon olmak kaydıyla ve içecekle tatlıya karışmam) akabinde yandaki avp sahnesinden devlet tiyatrosu bileti. hadi bakalım<br/><br/>tanım: bir iddia, bir kampanya, bir hizmet.
+  entry_channels: 
+- entry_name: |
+    iz bırakan kitap cümleleri
+  entry_id:  88288768
+  entry_writer: benimle gel wendy
+  entry_fav_count: 21
+  entry_content: |
+    “keşke içimizdeki bitki örtüsünü çürümeye terk etmek zorunda olmasak. kendimizi emanet edebileceğimiz kişiyi bulana kadar canımız çıkmasa.”
+  entry_channels: anket,edebiyat
+- entry_name: |
+    1 nisan 2019 dolar kuru
+  entry_id:  88303318
+  entry_writer: xspace
+  entry_fav_count: 21
+  entry_content: |
+    herkes artacak diyorsa düşecektir diyenlerin sayısının aşırı fazla artmasından dolayı düşmeyecek kurdur. piyasa ne beklenirse tersini verirmiş çünkü. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: ekonomi
+- entry_name: |
+    kaplana dayılanan pitbull
+  entry_id:  88319215
+  entry_writer: devecialpay
+  entry_fav_count: 17
+  entry_content: |
+    benimde bu köpekte en sevdiğim özellik artis artis havlayıp saldırması daha sonra kurşunu yedikten sonra sesi kısık gibi heevvv diye son havlamasını yapmasıdır .
+  entry_channels: 
+- entry_name: |
+    evlenecek erkek bulamamak
+  entry_id:  88320249
+  entry_writer: capetonian
+  entry_fav_count: 15
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yeteri+kadar+zengin+erkek+bulamamak">yeteri kadar zengin erkek bulamamak</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     cine5 denince akla gelenler
   entry_id:  88291637
@@ -299,21 +291,21 @@ data:
     külçe altın
   entry_channels: tv
 - entry_name: |
-    onedio'nun hangi mustafa kemal'sin testi
-  entry_id:  88318261
-  entry_writer: push
+    30 mart 2019 screenshot ve urlacher seçim analizi
+  entry_id:  88319960
+  entry_writer: screenshot
   entry_fav_count: 12
   entry_content: |
-    (bkz: <a class="b" href="/?q=onedio+testi+%c3%a7%c3%b6zenlerin+beyni+olmamas%c4%b1+sorunsal%c4%b1">onedio testi çözenlerin beyni olmaması sorunsalı</a>)
+    değerli ekşisözlük ahalisi,<br/><br/>malumunuz olduğu üzere, yarın ülkemizde yerel seçimler olacak ve yüksek seçim kurulu'nun (ysk) açıklamasına göre, türkiye genelinde 52 milyon 695 bin 831 seçmen, önümüzdeki 5 yıl boyunca mahallelerini, ilçelerini ve şehirlerini idare edecek yöneticileri seçmek üzere, 194 bin 310 sandıkta oy kullanacak.<br/><br/>yarın, 30 mart 2014 tarihinde gerçekleşen son yerel seçimlerden<sup class="ab"><a title="(bkz: 30 mart 2014 yerel seçimleri)" href="/?q=30+mart+2014+yerel+se%c3%a7imleri" data-query="30 mart 2014 yerel seçimleri">*</a></sup> tam olarak 5 yıl 1 gün sonra, ekonomik krizi emarelerini kuvvetli bir şekilde barındıran bir ortamda, türkiye'deki son seçimlerin üzerinden henüz bir yıl bile geçmemişken, cumhurbaşkanlığı hükümet sisteminin ilk yerel seçimlerini yaşayacağız.<br/><br/>malumunuz, iktidarda bulunan cumhur ittifakını oluşturan partilerin liderleri, yerel seçimlere girecek olmamıza rağmen, ülkede bir beka problemi olduğundan bahisle, kendi seçmenlerini özellikle konsolide etmeye çalışıyor. bu esnada muhalefet partileri ise, ülkede bir beka problemi olmadığını, öyle bir problem varsa bile bu problemin yerel seçimlerle bir ilgisi olmayacağını, seçmenin belediyeyi yönetme yetkisini gerçekten hak eden adaya vermesi gerektiğini ifade ederek seçmenin oyunu istiyor.<br/><br/>24 haziran 2018 tarihindeki son genel seçimlerde<sup class="ab"><a title="(bkz: 24 haziran 2018 genel seçimleri)" href="/?q=24+haziran+2018+genel+se%c3%a7imleri" data-query="24 haziran 2018 genel seçimleri">*</a></sup>, geçerli oyların, %42,56'sını ak parti, %11,10'unu mhp (<a class="b" href="/?q=cumhur+ittifak%c4%b1">cumhur ittifakı</a>); %22,65'ini chp, %9,96'sını iyi parti, %1,34'ünü saadet partisi (<a class="b" href="/?q=millet+ittifak%c4%b1">millet ittifakı</a>), %11,70'ini hdp almış ve seçimlerin galibi %53,66 oy oranıyla cumhur ittifakı olmuştu.<br/><br/>20 yılı aşkın süredir tanışıklığı olan iki arkadaş (ben ve <a class="b" href="/?q=urlacher">urlacher</a>) olarak, seçimlerde son 12 yıldır oy kullanma görevimizi ifa etmekle birlikte, sandıkların güvenliğini sağlamak adına da son 5 yıldır aktif olarak görev yaptık. bu 5 yıl içindeki her seçim öncesinde de kendimizce belli analizler yapıp, oy oranları tahminleri yapardık ve çoğunlukla bunlarda üç aşağı beş yukarı başarılı olurduk.<br/><br/>son 17 senedir iktidarda olup, yerel seçimlerden de çoğu zaman galip çıkan ak parti ile son yıllarda kendisiyle işbirliği içindeki mhp'nin, bahse konu 17 yıldır en güçsüz olduğu söylenen bir zaman dilimindeyiz ve bu seçimlerde yaptığımız analizi kağıda dökelim ve kendimizce seçimlere hazırlanalım istedik.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>peki bu analizi nasıl yaptık?<br/><br/>son genel seçimlerin üstünden daha bir yıl bile geçmemişken düşündük ki, oy verenler tercihlerini çok fazla değiştirmemiştir. bunun üzerine, ittifakların oluşumuna, partilerin aday çıkarıp çıkarmamasına ve seçim öncesi yapılan destek açıklamalarına bakarak kendimizce her ildeki oy oranlarını hesapladık.<br/><br/>bunu yaparken neleri varsaydık?<br/>1. ittifakların tek adayla yarıştığı illerde, ittifak partilerinin 24 haziran seçimlerindeki oy oranlarını birbirlerine ekledik. (mesela cumhur ittifakı adayı ak parti'den ise, oy oranı; o ilde 24 hazirandaki seçimde ak parti ve mhp'nin aldığı oy oranlarını toplamıydı)<br/>2. eğer bir ilde, ittifak yok ise, ittifakı oluşturan partiler yarınki seçimlerde de 24 haziran'daki oylarını koruyacak gibi düşündük.<br/>3. hdp'nin aday çıkarmadığı illerde (şanlıurfa hariç, burada muhalefet partilerinin hepsi saadet partisi adayını destekliyor), chp'den gösterilen millet ittifakı adayını destekleyeceğini açıklaması üzerine, bu illerde millet ittifağının oy toplamına hdp oyunu ekledik.<br/>4. millet ittifakı'nın adayı iyi parti'den olduğu batıdaki illerde, hdp'nin aday çıkaracağını açıklaması üzerine, adayı yoksa bile hdp oyunu millet ittifakına eklemedik.<br/>5. her ilde, iktidarda yer alan cumhur ittifakı partileriyle, o ildeki en yüksek muhalefet partisi oyunu kıyaslayarak, seçimi kimin kazanacağını belirledik.<br/><br/>peki seçimde hiç mi oy geçişi olmayacak?<br/>ekonomik krizin bu denli ağır bir şekilde hissedildiği, insanların aç kaldığı, işten çıkarıldığı, iş bulamadığı bir ortamda, oy geçişinin mutlaka olacağını düşündük. ve de bu durumda rasyonel düşünen seçmenlerin oy tercihlerini değiştirerek, cumhur ittifakı adayları yerine muhalefet bloğundaki partilerin adaylarına oy vereceğini varsaydık.<br/><br/>bu oy geçişini hesaplamalarımıza nasıl yansıttık?<br/>bu sebeple de seçmenlerin nispeten konsolide olduğu böyle bir ortamda, düşündük ki 24 haziran genel seçimlerinde cumhur ittifakına oy veren seçmen, yaşadığı sıkıntılar sebebiyle mantıklı davranıp oyunu muhalefet bloğundaki seçilmesi en olası adaya verir. bu yüzden de her ilde; "cumhur ittifakından %5, %7,5 ve %10'luk oy kopuşu olursa ne olur?" diye düşünüp üç farklı senaryo hazırladık ve her cumhur ittifakı adayının veya ittifak yoksa cumhur ittifakı partilerinin 24 haziran seçimlerinde aldığı oyların sırasıyla %5'ini, %7,5'ini veya %10'unu kaybettiğindeki oy oranlarını hesapladık ve bu kayıpları, o ilde muhalefet bloğunun en güçlü adayı kimse ona ekledik. <br/><br/>örnek vermek gerekirse, hesaplamalarımıza göre adana'daki cumhur ittifakı adayı (mhp adayı) normal şartlarda %45,2 alacakken, ittifak burada aldığı oyların %10'unu kaybettiğinde %4,52 oy kaybetmiş olacak ve yeni oy oranı %40,68, burada millet ittifakı adayı normal şartlarda oyların %51,9'unu alacakken, gelen %4,52 oy ile oyunu %56,42 yapacak ve %11,22 oy farkıyla seçimleri rahat bir şekilde alacak.<br/><br/>tüm hesaplarımızı bir excel dosyası üzerinde yaptık ve özetini aşağıdaki linklerde bulabilirsiniz:<br/><br/>seçim özeti: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/d39ea9081797">https://eksiup.com/d39ea9081797</a><br/><br/>detaylı analizimiz: <a rel="nofollow noopener" class="url" target="_blank" href="https://docdro.id/ADtUSO3">https://docdro.id/adtuso3</a><br/><br/>edit:<br/>analizle ilgili notlar:<br/>1. entry'de yer verdiğimiz sonuçlar, sadece 24 haziran'daki oy oranlarına göre yapılmış hesaplamaları göstermekteydi. bu nedenle yanlış anlaşılmalara yol açmış. o sonuçları bu sebeple sildim. seçimde gerçekleşmesini beklediğimiz senaryoları detaylı analizimiz'deki pdf dosyası içinde bulabilmekteydiniz. tahminimiz, cumhur ittifakı bloğunun oylarının bir kısmını kaybetmesi, hatta bu kaybın %10 civarına ulaşacağıdır. bunun için pdf'deki %10 duyarlılık tablosunu inceleyebilirsiniz.<br/>2. aday faktörünün öneminin farkındayız. bu sebeple, adana'da <a class="b" href="/?q=zeydan+karalar">zeydan karalar</a>'ın, ankara'da <a class="b" href="/?q=mansur+yava%c5%9f">mansur yavaş</a>'ın, antalya'da <a class="b" href="/?q=muhittin+b%c3%b6cek">muhittin böcek</a>'in, bursa'da <a class="b" href="/?q=mustafa+bozbey">mustafa bozbey</a>'in, hatay'da <a class="b" href="/?q=l%c3%bctf%c3%bc+sava%c5%9f">lütfü savaş</a>'ın, mersin'de <a class="b" href="/?q=vahap+se%c3%a7er">vahap seçer</a>'in, şanlıurfa'da <a class="b" href="/?q=sabahattin+cevheri">sabahattin cevheri</a>'nin, yalova'da <a class="b" href="/?q=vefa+salman">vefa salman</a>'ın 24 haziran seçimlerine dayalı tahminlerimizden fazla oy alacağını düşünüyoruz.<br/>3. mevcut ekonomik konjonktürde, cumhur ittifakının yönetimde olduğu adana, ankara, antalya, bursa, istanbul ve şanlıurfa'da seçimleri kaybedeceğini düşünüyoruz.<br/>4. düşüncemiz; dsp'nin aday çıkardığı illerde millet ittifakının oy oranlarında kayıplar yaşanabilecek olmakla birlikte, bu kayıpların kayda değer olmayacağı yönünde.<br/>5. dördüncü maddede bahsettiğimiz durum, gaziantep'te farklı seyrediyor. ilin eski belediye başkanlarından celal doğan, seçimlere dsp adayı olarak giriyor ve kendisini hdp de destekleyeceğini açıkladı, ancak ak parti'nin mevcut adayı fatma şahin'in seçimleri kaybedeceğini düşünmüyoruz. tabii ki seçimlerde celal doğan, fatma şahin'i zorlayabilir, ama bunu seçim öncesi "matematiksel" olarak tahmin etmek kolay değil. malumunuz olduğu üzere, doğan hdp milletvekili olarak görev yaptığı için milliyetçi seçmenlerden oy almakta zorlanabilir.<br/>6. kırklareli'nde, 30 mart 2014 tarihinde %38 oy alan ve chp'den belediye başkanı seçilen mehmet siyam kesimoğlu, partisi tarafından aday gösterilmeyince, seçimlerde bağımsız aday olmuştur. bu durumun chp'nin mevcut adayı mehmet tuna soykan'ın seçimi kazanmasını engellemeyeceğini düşünüyoruz.<br/>7. mersin'de, iyi parti adayı burhanettin kocamaz aday olamadığı için, iyi parti seçime demokrat parti adayı ayfer yılmaz ile katılacak. bu durum millet ittifakının oylarının bölünmesine neden olacak gibi gözükse de iyi parti'nin genel seçimdeki oy oranı çok yüksek olmadığından ve ayfer yılmaz, mhp'nin mevcut adayın hamit tuna'dan da oy alacağını düşündüğümüzden mersin'de vahap seçer'in kazanma ihtimalinin olduğunu düşünüyoruz.<br/>8. ankara'da, chp üyesi olan haydar yılmaz, partisinden istifa ederek dsp'ye katılmış ve bu partinin ankara büyükşehir belediye başkan adayı olmuştur. ancak bu durumun mansur yavaş'ın ankara'yı kazanacağı tahminimizi değiştireceğini düşünmüyoruz.<br/>9. matematiksel olarak da görüleceği üzere ekrem imamoğlu istanbul'da çok şanslı ve seçimi kazanması işten bile değil.<br/><br/>gerektiği takdirde yeni notlar eklenecektir.
   entry_channels: siyaset,anket
 - entry_name: |
-    kaplana dayılanan pitbull
-  entry_id:  88318798
-  entry_writer: ganamos
-  entry_fav_count: 12
+    ekmek arasına konulabilecek muhteşem şeyler
+  entry_id:  88315757
+  entry_writer: brkmu13
+  entry_fav_count: 10
   entry_content: |
-    o teller olmasaydı başlık “ kaplana yemek olan pitbull “ olurdu.
-  entry_channels: 
+    bayram çikolataları değildir.<br/><br/>küçükken topladığım çikolataları erime kıvamına getirip ekmek arası yapardım. kaliteli çikolataların olduğu yer güzel, dandik çikolataların olduğu yer berbat bir tat verir ve sonrasında karman çorman bi tat oluşurdu ağızda.<br/><br/>tavsiye edilmez.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     31 mart 2019 yerel seçimleri tahminleri
   entry_id:  88291447
@@ -323,13 +315,13 @@ data:
     dolar kurunun <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/f63aec38d466" title="https://eksiup.com/f63aec38d466">son kapanış rakamları</a> ve 1-2 hafta önce, bahçeli'nin muhalefet liderleri için yaptığı 5 harfliler açıklaması, evren bize ne tür bir mesaj yollamak, nereye varmak istemektedir diyorum.
   entry_channels: siyaset,anket
 - entry_name: |
-    futbol tarihinin en iyi 3 driplingcisi
-  entry_id:  88311047
-  entry_writer: uhud
-  entry_fav_count: 6
+    yeni evli kadın kırolukları
+  entry_id:  88308307
+  entry_writer: kahve muptelasi
+  entry_fav_count: 8
   entry_content: |
-    birinci <a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=x5r55L6BGmE" title="http://www.youtube.com/watch?v=x5r55L6BGmE">belli</a>.<br/><br/>diğerleri değişkenlik gösterebilir.
-  entry_channels: spor
+    eşleriyle beraber çektirdikleri fotoğraflarda daima avuç içlerinin kocişlerinin göbeklerinde gezmesi.<br/><br/>ıyyyyy midem bulandı.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  88318037
@@ -339,13 +331,13 @@ data:
     insanlar kendi yetersizliklerini görmemek, düşünmemek ve hatta mümkünse aksini hissetmek için kendilerine olabilen en saf biçimde yaklaşan insanların üzerine basarlar. bu yaygın olandır. <br/>elbette tam aksi durumlar da vardır. <br/><br/>bazı insanların ödülü de cezası da kendisidir. nasıl mı?<br/>öyle bir insansınızdır ki nasıl biri olduğunuzu bile fark edemiyorsunuzdur. bu sizin cezanızdır.<br/>elbette tam aksi durumda olanlar da vardır.<br/><br/>yıllar herkes için geçiyor ve ölüm herkes için adilce yaklaşıyor. umarım yaşantınızı noktalamadan önce "içim gerçekten rahat" diyebilirsiniz. <br/>bunu yapabilmenin tek yolu "olabildiğince yalın olmak" metodundan geçiyor. <br/><br/>sevgiler...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    oy vermeye giderken unutulmaması gerekenler
-  entry_id:  88318849
-  entry_writer: otekizede
-  entry_fav_count: 5
+    uzun boylu kızlar
+  entry_id:  88315885
+  entry_writer: aretwoane
+  entry_fav_count: 4
   entry_content: |
-    doğalgaz faturalarınız.
-  entry_channels: siyaset,haber
+    kısa boylu kızlara göre daha içten ve daha saf/iyi niyetli oluyorlar, bugüne kadar karşılaştığım çoğu uzun boylu kadın (175cm üzeri) hep masum ve saf olmuştu.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     yaşanılan ilçeyi ismini söylemeden anlatmak
   entry_id:  88311203
@@ -355,14 +347,6 @@ data:
     chp, ceket koysa seçilir.
   entry_channels: anket
 - entry_name: |
-    uzun boylu kızlar
-  entry_id:  88315885
-  entry_writer: aretwoane
-  entry_fav_count: 3
-  entry_content: |
-    kısa boylu kızlara göre daha içten ve daha saf/iyi niyetli oluyorlar, bugüne kadar karşılaştığım çoğu uzun boylu kadın (175cm üzeri) hep masum ve saf olmuştu.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  88293771
   entry_writer: saftirik yazar
@@ -371,20 +355,28 @@ data:
     ''derdi olan dert dinlemek isteyen kadın yazarları beklerim'' demiş bir arkadaş.cümleyi 3 defa okudum ulan dedim memem olsa şimdi bu adam iyi niyetle benim derdimi dinleyecek,empati yapacak daha sonra kendi tecrübelerinden yola çıkarak mevzunun akışına göre telkinde bulunacak veya yol göstermek isteyecek.şimdi tüm bunlardan mememiz yok diye mahrum mu kaldık:( ne yazık öyle bir toplum olmuşuz ki karşındaki bireyle yatma ihtimaline göre yardım eder olmuşuz.ölsek önce mememize bakar lan bunlar
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ekmek arasına konulabilecek muhteşem şeyler
-  entry_id:  88318509
-  entry_writer: s1r
+    oy vermeye giderken unutulmaması gerekenler
+  entry_id:  88320223
+  entry_writer: boya takintisi olan adam
   entry_fav_count: 2
   entry_content: |
-    karnıyarık harcıdır. daha iyisi olmadı, olmayacak.
-  entry_channels: anket,yeme-içme
+    (bkz: <a class="b" href="/?q=beyin">beyin</a>)
+  entry_channels: siyaset,haber
 - entry_name: |
-    sandığa gitmeyen yazarlar ve nedenleri
-  entry_id:  88309574
-  entry_writer: kovboyunusikenduldul
+    fransızca bilen erkek karizması
+  entry_id:  88318176
+  entry_writer: ragnarblabla
+  entry_fav_count: 2
+  entry_content: |
+    c1 belgem var, yıllardır fransızca felsefi metin okuyorum ama fransızca bildiğimi iddia edemem. maşallah ekşi'nin yarısı fransızca biliyormuş ama :)
+  entry_channels: ilişkiler
+- entry_name: |
+    saadet partisi
+  entry_id:  88313921
+  entry_writer: yoksabenzurnamiyimha
   entry_fav_count: 1
   entry_content: |
-    1500 km yol gelip 1 oy ile 15 senelik kabusa son veremeyeceğimi bildiğim için gitmeyeceğim. 7 yıldır olduğu gibi açıcam laptopumu fox tvde portakalın kuduruşunu buruk bir üzüntü ile seyredeceğim. ah canım ülkem vah canım ülkem sen düzel de ben sana gelem.
+    saadet partisine atanamayan akp yazanları da akp'den kurtaracak partidir. yıllardır her kırılma noktasında adil davranmasına rağmen hâlâ atanamayan akp, iktidar olsa akp gibi olacak yazan sığırlar akp'ye cansuyu verenlerdir. onlar sussa akp tarihte kalır.
   entry_channels: siyaset
 - entry_name: |
     kim milyoner olmak ister
@@ -395,11 +387,19 @@ data:
     tıp öğrencisi çocuğun yarıştığı program. saçlarını kesse yakışıklı efendi olacak da bu uzun saçla anca kızları kıskandırır.
   entry_channels: tv
 - entry_name: |
-    mansur y. kazanırsa 25 kişiye dt bileti alıyorum
-  entry_id:  88321119
-  entry_writer: başlık taşıyan
-  entry_fav_count: 0
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  88290084
+  entry_writer: geniusatplay
+  entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=mansur+yava%c5%9f+kazan%c4%b1rsa+25+ki%c5%9fiye+dt+bileti+almak">mansur yavaş kazanırsa 25 kişiye dt bileti almak</a>)
-  entry_channels: 
+    basliga ilk defa girdim olay ne diye, lan bildigin abazan mekaniymis. olm gidin bi 100$ atesleyin halledin isinizi, kendinizi bu kadar kucuk dusurmeyin, utanmasaniz damarli 21 cm filan yazcaksiniz...
+  entry_channels: ilişkiler,ekşi-sözlük
+- entry_name: |
+    çamaşır makinesinde ayakkabı yıkamak
+  entry_id:  88314672
+  entry_writer: surround
+  entry_fav_count: 1
+  entry_content: |
+    ayakkabıya zarar veren bir uygulamadır. <br/>su geçirmez membranlara sürtünmeden dolayı zarar verebilir.<br/>tabanlar birleşme yerlerinden atabilir, patlayabilir.<br/>çoraplık-topuk kısmından sünger çıkabilir.<br/><br/>ota boka para harcayacağınıza birden fazla ayakkabı alın ve değiştirerek giyin. o saçma sapan kaba saba adidaslara 500-600 tl para verip buz gibi soğuk ve yağışlı havada gezen tipler görüyorum. sonra ayakkabı makineye atmadan iflah olmaz hale geliyor, gelir tabi.<br/><br/>1 bot, 1 spor ayakkabı fiyatına 1 ayakkabı alırsanız tüm sezon o içi dışı leş ayakkabılarla gezersiniz. girdiğiniz ortamı zehirlersiniz, zaten 1-2 senede parçalanır, daha fazla ödersiniz.<br/><br/>yıkamak zorunda kalmamak için<br/>her gün temiz ayak temiz çorap, ayaklarınız akıyorsa pudra (antiseptik olanlardan)<br/>işportadan naylonlu çorap almayın, akrilik ne giyseniz kokutur.<br/><br/>hem fakir, hem pasaklıysanız yapacak bir şey yok tabi
+  entry_channels: teknoloji,moda
 ---
