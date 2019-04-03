@@ -6,7 +6,7 @@ data:
     eşim belediyede memur biz ona hizmet edemeyiz
   entry_id:  88493748
   entry_writer: kucuk fil kulagi
-  entry_fav_count: 1845
+  entry_fav_count: 1905
   entry_content: |
     belediyelerin başkanlara değil halka hizmet ettiğinden bihaber şahıs beyanı, komik.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     a haber'e reklam veren firmaları boykot ediyoruz
   entry_id:  88480864
   entry_writer: aeneass
-  entry_fav_count: 1358
+  entry_fav_count: 1384
   entry_content: |
     a haber'in kurulduğu günden bu yana millet cıkarları yerine akp propagandası yaptıgıni herkes biliyor. fakat son günlerde seçimlerin kaybedilmesiyle birlikte, bir tık daha ötesine gecen ilkesiz bu sözde haber kanalı ve omurgasız mensupları "seçimlerde hile yaptılar" yalanıyla halkı galeyana getirmek amaclı yayınlara başladılar.<br/><br/>bunlar halk düşmanıdır. bunlara reklam veren firmalarda destekçileridir. yarından itibaren bu kanaldan reklamını cekmeyen firmalar burada listelenecek ve boykot edilecektir. <br/><br/>edit: yeni ibb başkanı imamoğlu'na ve halkın özgür iradesine savaş başlatan bu leş oluşuma, halktan da tepkiler var. boykotumuz sosyal mecralarda da destek görüyor. <br/>yarın sabah firmaları ifşa etmeye başliyoruz.bunların yanında olan, halkın karşısındadır..<br/><br/>zorunlu edit: bazı arkadaşlar hani liste diye sitem ediyorlar. yarına kadar zaman verdim ki, cekme kararı alanların bir sanşı olsun..<br/><br/>yalan haberlere destek veren firmalar..
   entry_channels: siyaset,anket,tv
@@ -22,7 +22,7 @@ data:
     3 nisan 2019 ysk kararları
   entry_id:  88471534
   entry_writer: haters gonna bad
-  entry_fav_count: 1160
+  entry_fav_count: 1164
   entry_content: |
     ibb başkanımızın anıtkabir ziyareti öyle bir dokunmuş ki artık ne yapacaklarını şaşırdı ampulistler. <br/><br/>şimdi de sadi amcaları nezdinde skandal bir karar aldırıp her zaman olduğu gibi oldu bittiye getirmeye çalışıyorlar meseleyi. <br/><br/>kardeşim senin koyduğun yetkili saydı mı oyları? saydı. <br/>ıslak imzalı tutanağı tutup şerh koymadan sonuçları girdi mi? girdi. <br/><br/>ee o zaman kusura bakma girdiyse girmiştir ağlamanın zırlamanın alemi yok. delikanlı olun biraz. <br/><br/>işte “chp korkmuyorsa neden saydırmıyor” gerekçeye bakar mısın amına koyayım? niye saydırsın lan müptezel? şerh yok bişey yok oldu kardeşim sinmedi içime allah ın hakkı üç tekrar say. boşuna yıpranmayın gidin bir mide ilacı filan alın iyi gelir hazımsızlığa.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     imamoğlu türk milletinin sinirini bozmaktadır
   entry_id:  88499814
   entry_writer: apiko
-  entry_fav_count: 791
+  entry_fav_count: 841
   entry_content: |
     (bkz: <a class="b" href="/?q=sen+de+bizim+sinirimizi+bozuyorsun">sen de bizim sinirimizi bozuyorsun</a>)<br/><br/>kazandim diye ekrana cikip aciklama yapiyorsun, yetmiyor istanbul'un her kösesine tesekkürler diye afis astiriyorsun. <br/>sen kazandigini neye dayanarak ilan ediyorsun?<br/><br/>hepsini gectim, koskoca ülkeye senelerdir yöneten partisiniz. secimlerin güvenligi sizde, genel baskan yardimcisi türkiye'nin en saibeli secimi oldu diyor. <br/>daha önce de kandirilan siz, secimlerde güvenlik saglamasi gereken ve zafiyeti var diyen de siz. bu ne perhiz bu ne lahana tursusu?<br/><br/>asil sizler türk miletinin sinirlerini bozuyorsunuz.
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     bana ne lan çıkmam saraydan
   entry_id:  88495436
   entry_writer: cagosil
-  entry_fav_count: 639
+  entry_fav_count: 677
   entry_content: |
     bin ali dedik oldu in ali<br/>ankara derken istanbul da gitti<br/>teşkilat süreci uzattı sakız gibi<br/>bana ne lan çıkmam saraydan
   entry_channels: siyaset,edebiyat
@@ -46,7 +46,7 @@ data:
     ucuzuna asla meyledilmemesi gereken şeyler
   entry_id:  88477954
   entry_writer: bicaremadenmuhendisi
-  entry_fav_count: 438
+  entry_fav_count: 441
   entry_content: |
     insan
   entry_channels: anket
@@ -54,7 +54,7 @@ data:
     istanbul'un 17 ilçesinde oyların tekrar sayılması
   entry_id:  88492101
   entry_writer: kuzeybuzdenizi
-  entry_fav_count: 435
+  entry_fav_count: 439
   entry_content: |
     allah belanizi versin arsiz, yuzsuzler ordusu.<br/><br/>iblisin bizzat kendisi bile sizin yaninizda masum kalir.
   entry_channels: siyaset,haber
@@ -62,23 +62,15 @@ data:
     oğlunun spermiyle hamile kalan kadın
   entry_id:  88485107
   entry_writer: anani siken kadi
-  entry_fav_count: 414
+  entry_fav_count: 421
   entry_content: |
     doğrusu oğlunun spermiyle değil, oğlunun sperminin döllediği yumurtaya taşıyıcı annelik yaparak hamile kalan kadındır. oğlunun spermiyle deyince sanki kadının yumurtasını oğlu döllemiş gibi oluyor (gerçi bu başlığı atanların amacı da bu zaten)
   entry_channels: ilişkiler,bilim,sağlık
 - entry_name: |
-    binali yıldırım'ın gümbür gümbür gelmesi
-  entry_id:  88492070
-  entry_writer: ravinrabbid
-  entry_fav_count: 390
-  entry_content: |
-    olsa olsa <a class="b" href="/?q=binali+y%c4%b1ld%c4%b1r%c4%b1m%27%c4%b1n+lambur+lumbur+gelmesidir">binali yıldırım'ın lambur lumbur gelmesidir</a> o. yapı itibariyle böylesi daha olası.
-  entry_channels: siyaset
-- entry_name: |
     bunlar topal ördek
   entry_id:  88494175
   entry_writer: chnanthemoca
-  entry_fav_count: 372
+  entry_fav_count: 395
   entry_content: |
     demek istediği; onları iş göremez hale getireceğim.<br/>seçim gecesi "nasıl yönetecekler göreceğiz" demişti.<br/><br/>halkın iradesi masalı buraya kadar.<br/>bu adam türkiye'ye çok pahalıya mal olacak.
   entry_channels: siyaset,haber
@@ -86,7 +78,7 @@ data:
     dilek imamoğlu'nun semiha yıldırım açıklaması
   entry_id:  88494340
   entry_writer: egsi
-  entry_fav_count: 349
+  entry_fav_count: 389
   entry_content: |
     sosyal medyada dilek imamoğlu ve semiha yıldırım dış görünüş açısından karşılaştırılmış.ve dilek imamoğlu bu konu çok da uzamadan olaya el atmıştır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqg2YThPwmywfi9NCua7M36jS-WjXUC_cN4bd4Ub1X-sWXzN1" title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqg2YThPwmywfi9NCua7M36jS-WjXUC_cN4bd4Ub1X-sWXzN1">ilgili görsel</a><br/><br/>açıklaması ise şu şekildedir:<br/><br/>"eğer bir aşağılama ya da güzelleme yaptıklarını sanıyorlarsa bilmeliler ki beni de aşağılıyorlar. çünkü ben sayın semiha yıldırım'ın fotoğrafına bakınca kendi annemi, kendi ablamı görüyorum. onların tercihi de böyle. o yüzden bu paylaşımı hiç iyi niyetli bulmuyorum"<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.memurlar.net/haber/820550/imamoglu-nun-esinden-o-fotograf-icin-aciklama.html" title="https://www.memurlar.net/haber/820550/imamoglu-nun-esinden-o-fotograf-icin-aciklama.html">kaynak</a>
   entry_channels: siyaset,haber
@@ -94,7 +86,7 @@ data:
     ekrem imamoğlu'nun cumhurbaşkanı olması
   entry_id:  88495850
   entry_writer: nakresdemo
-  entry_fav_count: 284
+  entry_fav_count: 303
   entry_content: |
     oyları biraz daha sayarlarsa zaten olacağı o.
   entry_channels: siyaset
@@ -110,7 +102,7 @@ data:
     ikinci gezi parkı direnişinin yavaştan yaklaşması
   entry_id:  88499073
   entry_writer: koi
-  entry_fav_count: 229
+  entry_fav_count: 238
   entry_content: |
     zaten sandıkta dalgayı vermiş millet. şu saatten sonra sadece kaostan beslenenlere yarayacak yanlış düşünce.
   entry_channels: siyaset
@@ -118,7 +110,7 @@ data:
     3 nisan 2019 imamoğlu ikinci açıklaması
   entry_id:  88500939
   entry_writer: al bunu al al al al al al
-  entry_fav_count: 190
+  entry_fav_count: 193
   entry_content: |
     ''madem o kadar ilçe kazandınız, onlar için yaptınız, keşke onların fotoğraflarını assaydınız'' diyerek yüzyılın ayarını vermiştir.<br/>ben muharrem abi dönemi dahil olmak üzere böyle kapak görmedim.<br/><br/>gelen sorular üzerine edit: onlar kim diyen arkadaşlar oldu. cümle de %100 bu şekilde değil, benim hatam. keşke kendi fotoğraflarınız yerine o belediyeleri kazanan kardeşlerimin fotoğraflarını koysaydınız şeklinde bir cümle kurulmuştur.<br/><br/>tam cümleyi yazmak adına gelen son edit: <br/><br/>''... ve bugün diyorsunuz ki biz 25 belediye kazandık, 25 belediyeyi kutlayamaz mıyız? sizi uyarıyorum, kutlamayı yaptıysanız 25 belediye, o 25 belediye başkanı kim? onlarla ben çalışacağım artık. o kardeşlerim, o arkadaşlarım, o sevgili başkanlarımıza haksızlık yaptınız. çünkü her ilçeye keşke sizin değil de onun fotoğrafını assaydınız.''<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/imamogluekrem/videos/326274024694052/" title="https://www.facebook.com/imamogluekrem/videos/326274024694052/">kaçıranlar için video burada</a>, bahsi geçen konu 16. dakikada başlıyor.
   entry_channels: siyaset,haber
@@ -126,15 +118,23 @@ data:
     fetöcülerin imamoğlu ve yavaş'a oy verdiği gerçeği
   entry_id:  88502489
   entry_writer: natteravn
-  entry_fav_count: 170
+  entry_fav_count: 184
   entry_content: |
     fetullah gülen'e on yıllarca hizmet etmiş mehmet özhaseki ve binali yıldırım'a vermedilerse ayıp etmişlerdir.
   entry_channels: siyaset
 - entry_name: |
+    3 nisan 2019 ekrem imamoğlu açıklaması
+  entry_id:  88483872
+  entry_writer: hippie blues lady
+  entry_fav_count: 179
+  entry_content: |
+    arkadaşlar rica ediyorum aktroll orospu çocuklarına köpek demeyelim. köpeklerin ne suçu var amk? köpekleri seviyoruz &lt;3<br/><br/>bir kullanıcı arkadaştan mesaj gelmiş: “orospuların ne suçu var, vatanlarını satmadılar.” diye. haklısın kardeşim, orospulardan da özür diliyorum. memleketimin orospusu bile vatansever.
+  entry_channels: siyaset,haber
+- entry_name: |
     dinden haktan bahsedenlerin çatır çatır hak yemesi
   entry_id:  88498831
   entry_writer: teryxx
-  entry_fav_count: 167
+  entry_fav_count: 178
   entry_content: |
     ağzından namaz, oruç, besmele eksik olmayan kişilerin torpille işe girmekten tutun da aleyhlerine olan bir durumu düzenbazlıkla lehlerine çevirmelerine kadar yaptıkları dini paravan olarak kullanarak kendilerini masum gösterip diğer taraftan da çatır çatır hak yemek değil de nedir? <br/>muhafazakar, dinci kesimden kişilerin (hepsi değil tabi ki, bahsettiğim paralarının kaynağı belli olmayan ve lüks bir yaşam süren kişiler) <br/>altlarında hep bir daire değerinde son model araba. hepinizin mi fabrikası var? nereden geliyor bu yoğurdun bolluğu? anlamış değilim.
   entry_channels: siyaset
@@ -142,47 +142,55 @@ data:
     imamoğlu'nun stv'de spor yorumculuğu yapması
   entry_id:  88504365
   entry_writer: klorobam
-  entry_fav_count: 141
+  entry_fav_count: 153
   entry_content: |
     hatta oradaki insanların önünde ''gel bitsin bu hasret'' demişliği de vardır. <br/><br/>dur lan o başkasıydı..
   entry_channels: spor,siyaset,tv,haber
 - entry_name: |
-    dağda ölmek üzere olan 12 keçiyi kurtarıyoruz
-  entry_id:  88496215
-  entry_writer: ivory black
-  entry_fav_count: 107
+    engin ardıç'ın komünist başkan ile dalga geçmesi
+  entry_id:  88489927
+  entry_writer: exfreak
+  entry_fav_count: 140
   entry_content: |
-    içimi acıtan, vicdanımı yaralayan <a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberaktuel.com/12-keci-kurtarilmayi-bekliyor-haberi-2675081.html" title="https://www.haberaktuel.com/12-keci-kurtarilmayi-bekliyor-haberi-2675081.html">12 keçiyi kurtarma kampanyasıdır.</a><br/><br/>evet, belki kayalıklara çıkıp bu hayvanları kurtaramayız belki ama kurtaracak olan mercileri harekete geçirebiliriz. umarım kedi, köpek gibi canlarımıza gösterdiğimiz ilgiyi bu keçilere de gösterebiliriz.
-  entry_channels: haber
-- entry_name: |
-    acilden sevgili bulmak
-  entry_id:  88485157
-  entry_writer: jackrai
-  entry_fav_count: 95
-  entry_content: |
-    (bkz: <a class="b" href="/?q=entry+ve+nick+uyumu">entry ve nick uyumu</a>)
-  entry_channels: anket,magazin
-- entry_name: |
-    arda turan
-  entry_id:  88482500
-  entry_writer: kucukkenanabritanicayikitapgibiokuyan
-  entry_fav_count: 87
-  entry_content: |
-    güçlü istanbul için <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a>'nu tebrik ediyorum diye video çekip yayınlamasını beklediğim topçu.<br/><br/>sonunu da şöyle bağlasın;<br/><br/>istanbul'u kazanacağını bilmiyordum, al sık kafama.
-  entry_channels: spor,magazin
+    (bkz: <a class="b" href="/?q=engin+ard%c4%b1%c3%a7">engin ardıç</a>)<br/><br/>bir tanım yapmaya lüzum dahi yok, başlığını açıp okumak kafi.<br/><br/>malum kesimin barzosu.
+  entry_channels: siyaset,haber
 - entry_name: |
     okçular vakfının 16.6 milyon tl ile ne yapması
   entry_id:  88502206
   entry_writer: karisan
-  entry_fav_count: 84
+  entry_fav_count: 123
   entry_content: |
     ibb'den yaklaşık 17 trilyon yardım almış bu vakıf.<br/><br/>siz 17 milyar, siz milyor para ile ne yaptınız?<br/><br/>17 milyon liralık ok alsan bir yerlerde bir ülkeyi kuşatırsın amk! nedir bu allasen?
   entry_channels: siyaset,haber
 - entry_name: |
+    dağda ölmek üzere olan 12 keçiyi kurtarıyoruz
+  entry_id:  88496215
+  entry_writer: ivory black
+  entry_fav_count: 108
+  entry_content: |
+    içimi acıtan, vicdanımı yaralayan <a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberaktuel.com/12-keci-kurtarilmayi-bekliyor-haberi-2675081.html" title="https://www.haberaktuel.com/12-keci-kurtarilmayi-bekliyor-haberi-2675081.html">12 keçiyi kurtarma kampanyasıdır.</a><br/><br/>evet, belki kayalıklara çıkıp bu hayvanları kurtaramayız belki ama kurtaracak olan mercileri harekete geçirebiliriz. umarım kedi, köpek gibi canlarımıza gösterdiğimiz ilgiyi bu keçilere de gösterebiliriz.
+  entry_channels: haber
+- entry_name: |
+    3 nisan 2019 mike pence açıklaması
+  entry_id:  88505105
+  entry_writer: allwithinmyhands
+  entry_fav_count: 100
+  entry_content: |
+    pence bir dur oylari sayiyoruz amk. sayimlar bitsin senin uyduruk cümlelerini tartisiriz.<br/><br/>trump yonetiminin artik alistigimiz cikislarindan biridir.
+  entry_channels: siyaset
+- entry_name: |
+    arda turan
+  entry_id:  88482500
+  entry_writer: kucukkenanabritanicayikitapgibiokuyan
+  entry_fav_count: 92
+  entry_content: |
+    güçlü istanbul için <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a>'nu tebrik ediyorum diye video çekip yayınlamasını beklediğim topçu.<br/><br/>sonunu da şöyle bağlasın;<br/><br/>istanbul'u kazanacağını bilmiyordum, al sık kafama.
+  entry_channels: spor,magazin
+- entry_name: |
     10 nisan'da çığır açan bir buluşu paylaşacağız
   entry_id:  88476922
   entry_writer: yeldas
-  entry_fav_count: 84
+  entry_fav_count: 85
   entry_content: |
     tüm dünyada eşzamanlı basın toplantısı ???<br/><br/>(bkz: <a class="b" href="/?q=dan+brown">dan brown</a>)<br/>(bkz: <a class="b" href="/?q=ba%c5%9flang%c4%b1%c3%a7">başlangıç</a>)
   entry_channels: bilim,haber
@@ -190,18 +198,10 @@ data:
     ben feridun düzağaç sorularınızı bekliyorum
   entry_id:  88489322
   entry_writer: buraya ne yaziyoz
-  entry_fav_count: 82
+  entry_fav_count: 84
   entry_content: |
     abi zamanı mı ya...
   entry_channels: ekşi-sözlük,müzik
-- entry_name: |
-    3 nisan 2019 mike pence açıklaması
-  entry_id:  88505105
-  entry_writer: allwithinmyhands
-  entry_fav_count: 77
-  entry_content: |
-    pence bir dur oylari sayiyoruz amk. sayimlar bitsin senin uyduruk cümlelerini tartisiriz.<br/><br/>trump yonetiminin artik alistigimiz cikislarindan biridir.
-  entry_channels: siyaset
 - entry_name: |
     ekrem imamoğlu
   entry_id:  88475845
@@ -211,26 +211,26 @@ data:
     anitkabir defterindeki imzası mazbata almadan amerika'ya giderek abd başkanı ile gorusenlerin içine dert olmuş.
   entry_channels: siyaset
 - entry_name: |
-    ilk siyah kadın ve eşcinsel belediye başkanı
-  entry_id:  88505002
-  entry_writer: x e u diyoruz
-  entry_fav_count: 61
-  entry_content: |
-    netflix bir insan olsaydı muhtemelen bu olurdu.
-  entry_channels: 
-- entry_name: |
     gardiyan kadın teorisi
   entry_id:  88472728
   entry_writer: profesyonel cekirge
-  entry_fav_count: 54
+  entry_fav_count: 55
   entry_content: |
     (bkz: <a class="b" href="/?q=beyefendiye+literat%c3%bcr+g%c3%b6nderelim">beyefendiye literatür gönderelim</a>)<br/><br/>"her nasıl erkek ve dişi -biyolojik anlamda- birbirlerinin değil ama türlerinin kurbanıysa, karı ve koca da kendilerinin yaratmadığı bir kurumun<sup class="ab"><a title="(bkz: evlilik kurumu)" href="/?q=evlilik+kurumu" data-query="evlilik kurumu">*</a></sup> boyunduruğu altında ezilirler. eğer erkeğin kadını baskıladığı fikri ileri sürülürse, koca yapılan bu haksızlığa içerler; baskı görenin kendisi olduğunu düşünür – ki öyledir de; ama gerçek şudur ki erkekler tarafından, erkeklerin menfaatleri gözetilerek oluşturulmuş maskülen kurallar, kadının yerini her iki cinsiyet için de bir zulüm kaynağı olmasına neden olacak şekilde konumlandırmıştır."<br/><br/>"biologically - males and females are never victims of one another but both victims of the species, so man and wife together undergo the oppression of an institution they did not create. if it is asserted that men oppress women, the husband is indignant; he feels that he is the one who is oppressed - and he is; but the fact is that it is the masculine code, it is the society developed by the males and in their interest, that has established woman's situation in a form that is at present a source of torment for both sexes." <br/><br/>-<a class="b" href="/?q=simone+de+beauvoir">simone de beauvoir</a><br/><br/>yani diyeceğim o ki yazar kardeş bahsetmeye çalıştığınız sorun yeni keşfedilmiş olmadığı gibi sayın <a class="b" href="/?q=simone+de+beauvoir">simone de beauvoir</a> tarafından etraflıca incelenmiştir. toplumumuzun sorunu erkek ya da kadın değil maskülenliktir. bu yüzden feminenlik sözcüğü ile kökünü paylaşan feminizm de yalnızca kadının hakkını değil, kadın ve erkeğin hakkını birlikte savunur. eril deyince size bir gülme geliyor biliyorum ama eril de maskülenin öz türkçesidir. tereciye feminizm satıyorsunuz, komik oluyor...<br/><br/>edit: türkçe çeviri eklenmiştir.
   entry_channels: ilişkiler
 - entry_name: |
+    sinop'tan izmir'e akp'siz gitmek
+  entry_id:  88500553
+  entry_writer: cavus malaki
+  entry_fav_count: 51
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/secim2019/" title="https://www.sozcu.com.tr/secim2019/">artık mümkün olan durumdur.</a> anadolu devrimin ilk adımını atmıştır. hatta sahilden devam ederek akp'siz bir şekilde hatay'a kadar gitmek mümkündür.
+  entry_channels: siyaset,seyahat
+- entry_name: |
     insan ruhuna en iyi gelen şey
   entry_id:  88499886
   entry_writer: summertime happiness
-  entry_fav_count: 44
+  entry_fav_count: 50
   entry_content: |
     müzik, sinema, edebiyat evet ama...<br/><br/>bunlardan daha da iyi gelen bir şey var ki o da; keşfettiğin, çok sevdiğin bir şarkıyı, filmi ya da kitabı bir an önce söylemek istediğin, o da dinlesin, o da izlesin diye heyecanlandığın birinin varlığı. <br/><br/>şarkıdan, filmden, kitaptan aldığın zevki ikiye katlar...
   entry_channels: anket,ilişkiler,sağlık
@@ -238,31 +238,39 @@ data:
     joker
   entry_id:  88492543
   entry_writer: spiritus sanctus
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     joker, zannedilenin aksine aksiyon değil; dibine kadar drama dolu bir karakter ve bugüne kadar maalesef ama maalesef hep batman'in gölgesinde kaldı. <br/><br/>"breaking bad" olduğunu her halinden anlayabildiğimiz bu villain'e daha evvel birbirinden yetenekli oyuncular birbirinden farklı hikayelerle can verdi ancak ilk defa hikayenin odağında joker'i izleyebileceğiz hem de robert de niro'lu bir kadrodan; joaquin phoenix ile. <br/><br/>çok büyük beklentiler içerisine girdim ve umutla bekliyorum.
   entry_channels: tv,müzik,sinema,oyun
 - entry_name: |
-    kadın erkek ilişkisindeki en önemli şey
-  entry_id:  88497262
-  entry_writer: girdaplicorba
-  entry_fav_count: 41
+    ysk mazbatayı binali yıldırım'a verirse olacaklar
+  entry_id:  88506838
+  entry_writer: mc43
+  entry_fav_count: 40
   entry_content: |
-    farkındalık.<br/><br/>öncelikle kendinin farkında olmalısın. nasıl birisin, nelerden hoşlanıyorsun, beklentilerin neler bunların ayırdında olman gerekir. sonrasında karşındaki insanı iyi tanıman lazım. o kendisini ne kadar pazarlarsa pazarlasın tanımanın yollarını öğrenmiş olman gerekir. senin beklentilerini karşılıyor mu, mutlu olabiliyor musunuz, birlikte vakit geçirirken, paylaşırken gerçekten istediğin için mi yapıyorsunuz. onun beklentilerini karşılayabiliyor musun? <br/><br/>bunları göz ardı edip kendini hormonlarına bıraktığında yanlış ilişkilere yelken açabiliyorsun işte. sonuçta mutsuz oluyorsun. o mutsuzluk üzerine yapışıyor. ama ders almayıp tekrar deniyorsun. ama yeni bir insan yeni bir sayfa gibi olmuyor. senin izli aklında yeni izler bırakabiliyor. sonra da inancını kaybediyorsun. işte meşhur 4s kuralımız. ama öyle değil maalesef. yalnızca kendini tanımadın ve her önüne gelene zamanını harcadın. belki hayatı öğrendiğini insan ilişkilerini daha doğru kavradığını sanıyorsun artık. değerlerden uzaklaşıp cinsellik için yaşıyorsun. bir iki üç beş on yirmi akıp gidiyor. bonobolar gibi. <br/><br/>eee. kaybettin. sevebilmeyi kaybettin. yaşamın boyunca.
-  entry_channels: anket,ilişkiler
+    bir bok olmayacak zira öyle bir şey olmayacaktır
+  entry_channels: siyaset,anket
 - entry_name: |
     ekrem imamoğlu ve danışmanlarına tavsiye
   entry_id:  88488183
   entry_writer: sallamakahve
-  entry_fav_count: 37
+  entry_fav_count: 39
   entry_content: |
     burada söylenenleri dikkate almasın, ne yapıyorsa onu yapmaya devam etsin.<br/>kimse senden iyi bilmiyor, bu çizgiyi bozma başkanım.
   entry_channels: siyaset,anket
 - entry_name: |
+    emre cemil ayvalı
+  entry_id:  88504718
+  entry_writer: beton mustafa
+  entry_fav_count: 36
+  entry_content: |
+    allah'ın avanta arayan ak parti gençlik kolları üyesine an itibariyle haber türk'te "araştırmacı-gazeteci" olarak yazmışlar...<br/><br/>söylenecek çok şey var ama ne desem gg...<br/><br/>şu ülkede haber türk gibi bir kanalda bu saatte konuşmaya yetecek kadar geçmişi bilgi ve deneyimi olan binlerce insan var biliyoruz. ama gelin görün ki kerameti kendinden menkul bu zat, ak parti kontenjanından buralara çıkabiliyor.<br/><br/>türkiye böyle işte...
+  entry_channels: siyaset,tv
+- entry_name: |
     5 yıl çalışıp ev alamamak
   entry_id:  88492451
   entry_writer: cuhadar
-  entry_fav_count: 31
+  entry_fav_count: 35
   entry_content: |
     yirmi yıl çalışıp ev alamamış birisi olarak yazıyorum. çok zor.
   entry_channels: edebiyat,magazin,spoiler
@@ -275,53 +283,37 @@ data:
     "hep denedin. hep yenildin. olsun. yine dene. yine yenil. daha iyi yenil."<br/><br/>sözünü fazla benimsedim. yenilmelere doyamıyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    kelle paça çorbası içip kokoreç yiyen kız
-  entry_id:  88479452
-  entry_writer: alt metin
-  entry_fav_count: 24
-  entry_content: |
-    karides yiyince oluyor da kelle paça içince mi olmuyor?
-  entry_channels: ilişkiler,yeme-içme
-- entry_name: |
-    kedi besleyenlerin evinde yemek yememek
-  entry_id:  88468750
-  entry_writer: seferoglusuphi
-  entry_fav_count: 20
-  entry_content: |
-    misafire ayrılan yemeğin kediye verilmesi ile sonuçlanacak eylem.
-  entry_channels: yeme-içme
-- entry_name: |
-    emre cemil ayvalı
-  entry_id:  88504718
-  entry_writer: beton mustafa
-  entry_fav_count: 20
-  entry_content: |
-    allah'ın avanta arayan ak parti gençlik kolları üyesine an itibariyle haber türk'te "araştırmacı-gazeteci" olarak yazmışlar...<br/><br/>söylenecek çok şey var ama ne desem gg...<br/><br/>şu ülkede haber türk gibi bir kanalda bu saatte konuşmaya yetecek kadar geçmişi bilgi ve deneyimi olan binlerce insan var biliyoruz. ama gelin görün ki kerameti kendinden menkul bu zat, ak parti kontenjanından buralara çıkabiliyor.<br/><br/>türkiye böyle işte...
-  entry_channels: siyaset,tv
-- entry_name: |
     manisa yunusemre belediyesi secimleri
   entry_id:  88492721
   entry_writer: regresyon
-  entry_fav_count: 19
+  entry_fav_count: 24
   entry_content: |
     140.699 secmenin oy kullandigi manisanin yunusemre ilcesinde akp adayi mehmet cerci 21 oy farkla resmi olmayan sonuclara gore secimi kazandi. 2.olan iyip adayi kursat mithat ozkan ve iyip nin itirazlari reddedildi. ıstanbul da 20 kusur bin ankara da 100 kusur bin oy fark varken nerdeyse butun sandiklar acilip tek tek tekrardan sayilirken 140 bin kisinin oy kullandigi yerde sadece 21 oyla secim kazaniliyor ve itiraz kabul edilmiyor. <br/><br/>ınsan gercekten hayret ediyor.<br/><br/>mehmet çerçi (akp) oy: 57.875 %42.85<br/><br/>kürşad mithat özkan( iyip ) oy: 57.854 %42.83<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://secim.ntv.com.tr/manisa/yunusemre-yerel-secim-sonuclari" title="http://secim.ntv.com.tr/manisa/yunusemre-yerel-secim-sonuclari">secim sonuclari</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ismailsaymaz/status/1113426399405248513?s=19" title="https://twitter.com/ismailsaymaz/status/1113426399405248513?s=19">ismail saymaz in konuyla ilgili paylasimi</a>
+  entry_channels: siyaset
+- entry_name: |
+    canan kaftancıoğlu
+  entry_id:  88471964
+  entry_writer: dr nihilist
+  entry_fav_count: 23
+  entry_content: |
+    muharrem ince faciasından beri yakından takip ettiğim bir isim. o facia gecesinde kendisine hakaret eden andavalların hocası "adam kazandı." diye mesaj atıp, inzivaya çekilirken, eren erdem ile birlikte sabah 6'ya kadar açıklama bekleyen seçmenlerle iletişim kuran iki isimden biriydi. o günden bu güne, hem kendi partizanlarından hem de dışarıdan her türlü saldırıya uğramasına rağmen görevinden taviz vermedi. ekrem imamoğlu ile birlikte istanbul'un kazanılmasına büyük rol oynadı.<br/><br/>bu realiteye rağmen, seçim gecesi kendisi saat 4.30'da imamoğlu ile birlikte açıklama yaparken bile ekşi sözlük dahil sosyal medyada yemediği küfür, hakaret kalmadı. halbuki seçmenlere koyun muamelesi yapıp popülist ergen bozması milliyetçilik üzerinden sağa sola saldırsaydı bu andavallardan büyük takdir toplayacaktı.<br/><br/>size uyan isim elbetteki canan kaftancıoğlu değil; süleyman soylu'dur, mustafa destici'dir, hulusi akar'dır, tayyiptir. ah bir de islamcı olmasalardı, ülkedeki %0,005'lik katkınızla kapılarında köpek olurdunuz.<br/><br/>sözüm, görüşlerinden mütedair şahsına saldıran kafatasçı dinozorlara. eğitilmezsiniz lan siz.
   entry_channels: siyaset
 - entry_name: |
     kilo yapmasa ölümüne yenecek 3 tatlı
   entry_id:  88495864
   entry_writer: zita
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     başlığa girmemle zaten direkt 3 kilo aldım. nerede o günler.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    binali yıldırım
-  entry_id:  88498759
-  entry_writer: songotbuzucu
-  entry_fav_count: 13
+    akp'nin istanbul'u kaybetme sebepleri
+  entry_id:  88507091
+  entry_writer: skumbag
+  entry_fav_count: 12
   entry_content: |
-    bu adama sempatik diyenler vardı bir ara. bunların hepsi vampir ulan, kan emen sülükler. bir tenya ne kadar sempatik olabilirse o kadar sempatikler.
-  entry_channels: siyaset,haber
+    chp'den daha az oy almalarıdır.
+  entry_channels: siyaset
 - entry_name: |
     yazarların aylık ticket sodexo multinet tutarları
   entry_id:  88485423
@@ -334,50 +326,58 @@ data:
     yatçaz kalkçaz yatçaz kalkçaz sonuç ortaya çıkacak
   entry_id:  88505964
   entry_writer: olsun lan bizi de seven olur
-  entry_fav_count: 3
+  entry_fav_count: 9
   entry_content: |
     muhalifim ama ay çok sevimli, diğerleri gibi değil, ne güzel simit yiyor vs diye öve öve bitiremediniz. buyurun devam edin methetmeye.
   entry_channels: siyaset,müzik
 - entry_name: |
-    evlenilecek erkek burcu
-  entry_id:  88473018
-  entry_writer: coretta
-  entry_fav_count: 3
+    topal ördek terör örgütü
+  entry_id:  88499027
+  entry_writer: oyuncak bulut
+  entry_fav_count: 8
   entry_content: |
-    yengeç ve koç erkeği direkt olarak evlen ...
-  entry_channels: anket,ilişkiler
+    <a class="b" href="/?q=t%c3%b6t%c3%b6">tötö</a> olarak adlandırılan ve su birikintileri etrafında oluşum sağlayan çok tehlikeli örgüttür.<br/>öyle masum göründüklerine bakmayın.<br/>sayıları çok fazla ve bizim için <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/5a67ddf53715" title="https://eksiup.com/5a67ddf53715">geliyorlar</a>.
+  entry_channels: 
 - entry_name: |
-    sevişmek için evli insanları tercih etmek
-  entry_id:  88506424
-  entry_writer: bay kardan adam
-  entry_fav_count: 2
+    bitcoin
+  entry_id:  88476165
+  entry_writer: tipinisikiyimfularlipic
+  entry_fav_count: 8
   entry_content: |
-    (bkz: <a class="b" href="/?q=mahalle+yanarken+orospu+sacini+tararmis">mahalle yanarken orospu sacini tararmis</a>)<br/><br/>ergenler iki gün sabredin, sonra yine sol frame'i libidomuzu yükselten başlıklarla kırmızıya boyarsınız..
+    kerizleri yine silkeleyecekler <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: teknoloji,ekonomi
+- entry_name: |
+    erkeksiz dünyanın daha güzel olacağı gerçeği
+  entry_id:  88505663
+  entry_writer: excelsior was here
+  entry_fav_count: 4
+  entry_content: |
+    karaktersiz erkekleri bizlere gösteren sözüm ona gerçek. şu başlıkta yazan ve hemcinslerini aşağılayan erkekleri (bkz: <a class="b" href="/entry/87745017">#87745017</a>) gördükçe onların yerine ben utanıyorum. allah sizi bildiği gibi yapsın lan. biz bunları meriç entry'leri ifşa platformuna yazdığımız zaman kadın düşmanı oluyoruz. herkes elini vicdanına koysun ve karakterini düşünsün biraz. size alfa olun demiyorum, adam olun diyorum.
   entry_channels: ilişkiler
 - entry_name: |
-    geceye bir şarkı bırak
-  entry_id:  88501950
-  entry_writer: pinkspidersinpinki
-  entry_fav_count: 2
+    barış yarkadaş
+  entry_id:  88506981
+  entry_writer: byfanathic
+  entry_fav_count: 4
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/1yft7zmhKDw" title="https://youtu.be/1yft7zmhKDw">feridun düzağaç - nadas</a>
-  entry_channels: anket,müzik
+    güzel konuşuyor, bazı görüşlerine katılırım ancak, seçimden önce iyi parti hakkında ''iyi parti neyine güveniyor da istanbul'da ilçe istiyor, iyi parti ittifakına karşıyım.'' diyerek ittifaka karşı çıkmış, o sıralarda chp ile iyi parti arasındaki görüşmeler durma noktasına gelmişti. ancak kılıçdaroğlu ve akşener'in kendi partilerini karşılarına alarak sürdürdüğü ittifak sayesinde şu an istanbul, ankara ve diğer büyükşehirlerin çoğu chp'ye geçti. <br/><br/>ama kendisi şu an durmadan demirtaş ve hdp güzellemesi yapıp duruyor. evet hdp seçmeninin bu illerde chp'ye katkısı olmuştur ancak, kendisinin istediği gibi iyi parti ile ittifak görüşmeleri kestirilip atılsaydı, chp istanbul ve ankara'yı rüyasında görürdü. kendisinin iyi parti'ye de hakkını teslim etmesi gerekir.
+  entry_channels: siyaset
+- entry_name: |
+    sekse ulaşmada kadınların daha avantajlı olması
+  entry_id:  88506653
+  entry_writer: penguent
+  entry_fav_count: 3
+  entry_content: |
+    doğru tespit.<br/><br/>ulan şurada şimdi bir sözlük kızı çıkıp "ilk mesaj atana vericem@ yazsa, sözlük mesaj sunucuları çöker emin olun.
+  entry_channels: ilişkiler
 - entry_name: |
     binali yıldırım şimdi ne iş yapacak sorunsalı
   entry_id:  88504160
   entry_writer: stratejisizsiniz
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     (bkz: <a class="b" href="/?q=okuma+yazma+seferberli%c4%9fi">okuma yazma seferberliği</a>)
   entry_channels: siyaset,anket,haber
-- entry_name: |
-    yeni insanlarla tanışmak
-  entry_id:  88486930
-  entry_writer: sonsovalye
-  entry_fav_count: 0
-  entry_content: |
-    hikayeni yeniden anlatmak<sup class="ab"><a title="(bkz: hiç gereği yok)" href="/?q=hi%c3%a7+gere%c4%9fi+yok" data-query="hiç gereği yok">*</a></sup>
-  entry_channels: ilişkiler
 - entry_name: |
     sözlük yazarlarının satın aldıkları son kitap
   entry_id:  88478483
@@ -395,11 +395,11 @@ data:
     viyana'da bozuk para üstü yerine, bir shot jagermeister atıyor insanlar.<br/><br/>şöyle içilir, böyle içilir triplerine gerek olmayan içki.
   entry_channels: ekşi-sözlük,yeme-içme
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  88499278
-  entry_writer: oyuncak bulut
+    fiyatı ilginç bir şekilde artmayan ürünler
+  entry_id:  88507716
+  entry_writer: little fiction
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=memleket+yan%c4%b1yor+bunlar+siki%c5%9f+derdinde">memleket yanıyor bunlar sikiş derdinde</a>)
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=panda+stix">panda stix</a>) 15 yildir 50 kurus. hatta 500 bin lira olmuslugu bile vardir.
+  entry_channels: ekonomi
 ---
