@@ -6,7 +6,7 @@ data:
     ekremciğim daha başkan olmadın oğlum
   entry_id:  88601723
   entry_writer: tucoramires
-  entry_fav_count: 1331
+  entry_fav_count: 1346
   entry_content: |
     ekrem başkan oldu, sen hala adam olamadın oğluuum.
   entry_channels: siyaset,haber
@@ -14,15 +14,23 @@ data:
     1948 yılında çekilmiş karaköy fotoğrafı
   entry_id:  88605569
   entry_writer: yoldakisubirikintisi
-  entry_fav_count: 1180
+  entry_fav_count: 1188
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/826bae4df655" title="https://eksiup.com/826bae4df655">fotoğraf</a> <br/><br/>sanki biz geçmişteyiz de onlar gelecekte gibi duran, buram buram kalite kokan bir fotoğraf.
   entry_channels: sanat,tarih
 - entry_name: |
+    alt komşunun sütyeninin balkonunuza düşmesi
+  entry_id:  88619557
+  entry_writer: vasistas tencere
+  entry_fav_count: 743
+  entry_content: |
+    (bkz: <a class="b" href="/?q=06+nisan+2019+newton%27un+k%c3%b6r+olmas%c4%b1+rezaleti">06 nisan 2019 newton'un kör olması rezaleti</a>)
+  entry_channels: anket
+- entry_name: |
     bütün şehre zorla klasik müzik dinletmek
   entry_id:  88603549
   entry_writer: beredayi
-  entry_fav_count: 707
+  entry_fav_count: 712
   entry_content: |
     bütün şehre zorla günde bes vakit ezan dinletmenin yanında lafı olmayandır.<br/><br/>e: mazbatımızı istiyoruz ulan! (bkz: istanbul büyükşehir belediye başkanı ekrem imamoğlu bey diyeceksiniz)
   entry_channels: siyaset,müzik
@@ -30,71 +38,63 @@ data:
     istanbul havalimanı
   entry_id:  88589629
   entry_writer: spinapubica
-  entry_fav_count: 673
+  entry_fav_count: 688
   entry_content: |
     taksim, besiktas veya mecidiyekoy'den en hizli ulasim su sekilde:<br/><br/>taksim'den kalkan otobuslerle sabiha gokcen'e geciyorsunuz. <br/>sabiha gokcen'den herhangi bir ucusla ankara'ya ucuyorsunuz. <br/>ankara esenboga'dan istanbul havalimani'na gelen bir ucakla geri donuyorsunuz. <br/><br/>olabilecek en hizli yol bu sekilde.
   entry_channels: siyaset,anket,tarih,teknoloji,ekonomi,havacılık,seyahat
 - entry_name: |
-    alt komşunun sütyeninin balkonunuza düşmesi
-  entry_id:  88619557
-  entry_writer: vasistas tencere
-  entry_fav_count: 626
+    %53 oy almış cumhur ittifakını yendim sanmak
+  entry_id:  88600545
+  entry_writer: garipbasci
+  entry_fav_count: 665
   entry_content: |
-    (bkz: <a class="b" href="/?q=06+nisan+2019+newton%27un+k%c3%b6r+olmas%c4%b1+rezaleti">06 nisan 2019 newton'un kör olması rezaleti</a>)
-  entry_channels: anket
+    akp'nin yönettiği belediyeler: toplam nüfusun %26'sı.<br/><br/>chp'nin yönettiği belediyeler: toplam nüfusun %48'i.<br/><br/>"istatistik mini eteğe benzer; çok şey gösterir, ama asıl görünmesi gerekeni göstermez."
+  entry_channels: siyaset,anket
 - entry_name: |
     6 nisan 2019 sigara zammı
   entry_id:  88597781
   entry_writer: isimgucumgoygoy
-  entry_fav_count: 567
+  entry_fav_count: 568
   entry_content: |
     bu kadar seçim harcamasını ceplerinden ödeyecek değiller ya. kim ödeyecek peki? <br/><br/>1.sigara içenler<br/>2.alkol kullananlar<br/>3.utanmadan kıyma alıp yiyenler<br/>4.terbiyesizce evine sebze sokanlar (en tehlikeli güruh bu)<br/>5.arabasına benzin alan ahlaksizlar<br/>6.traktörüne mazot alan çiftçiler<br/>7.<br/>8.<br/><br/>diye gider bu liste.
   entry_channels: haber,ekonomi
 - entry_name: |
-    atatürk'ü dünyanın en büyük lideri zanneden insan
-  entry_id:  88591770
-  entry_writer: voyager altin plak
-  entry_fav_count: 537
-  entry_content: |
-    atatürk dünyanın en büyük <a class="b" href="/?q=liderlerindendir">liderlerindendir</a> ve bu, birilerinin eleştirisine veya yorumuna kalmamıştır. çenenizi kapatıp <a class="b" href="/?q=sayg%c4%b1+duyacaks%c4%b1n%c4%b1z">saygı duyacaksınız</a>.
-  entry_channels: siyaset,tarih
-- entry_name: |
     atatürk heykeline saldıran suriyeliler
   entry_id:  88613390
   entry_writer: chie shih shuai
-  entry_fav_count: 519
+  entry_fav_count: 547
   entry_content: |
     kendi vatanını satmış vatan hainlerinden başkasının vatanına ve değerlerine saygılı olmasını bekleyemezsiniz. oranın vatan haini buradaki vatana ve kurucularına sevgi göstermez.
   entry_channels: siyaset,haber
 - entry_name: |
-    saadetli müşahitlerin çocuklarına sahip çıkıyoruz
-  entry_id:  88617196
-  entry_writer: ikinciadam
-  entry_fav_count: 495
+    atatürk'ü dünyanın en büyük lideri zanneden insan
+  entry_id:  88591770
+  entry_writer: voyager altin plak
+  entry_fav_count: 543
   entry_content: |
-    31 mart günü açık oy kullandırmak isteyen akp'li adayın yeğenine karşı gelip oylarımıza sahip çıkarken katledilen sandık müşahitlerinin çocuklarına sahip çıkıyoruz.<br/><br/>hesap adı: cansuyu yardımlaşma ve dayanışma derneği<br/>iban: tr79 0020 6000 8299 4444 4400 01<br/>açıklama: ilyas aktaş ailesi<br/><br/>not: başlığı uplayalım<br/><br/>----önemli-----<br/>açıklama kısmına "ilyas aktaş ailesi" yazılacakmış. lütfen unutmayın.<br/>----önemli----<br/><br/>edit: arkadaşlar kusura bakmayın yazmayı unutmuşum<br/>soranlar oldu. iban numarası doğruluğu teyit için: <a rel="nofollow noopener" class="url" target="_blank" href="http://cansuyu.org.tr/tr/icerik/1359/268/hesap-numaralarimiz" title="http://cansuyu.org.tr/tr/icerik/1359/268/hesap-numaralarimiz">cansuyu - hesap numaralarımız</a> <br/>dernek güvenilir. saadet partisi ile aynı kökten olan milli görüşçü bir dernek. <br/><br/>edit 2: mesai saatleri içinde cansuyu derneği'ni arayarak konu hakkında bilgi alabilirsiniz.
-  entry_channels: siyaset,ekonomi
+    atatürk dünyanın en büyük <a class="b" href="/?q=liderlerindendir">liderlerindendir</a> ve bu, birilerinin eleştirisine veya yorumuna kalmamıştır. çenenizi kapatıp <a class="b" href="/?q=sayg%c4%b1+duyacaks%c4%b1n%c4%b1z">saygı duyacaksınız</a>.
+  entry_channels: siyaset,tarih
 - entry_name: |
     trt'nin sayımları canlı yayınlama talebi
   entry_id:  88616807
   entry_writer: isen buga
-  entry_fav_count: 456
+  entry_fav_count: 524
   entry_content: |
     seçim sürecinde toplam 5 dakika yer verdikleri imamoğlu'nun zaferini yayınlamak istemişler herhalde.<br/>uyar, hodri meydan.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    kızının cinsel hayatına karışmayan laik aile
-  entry_id:  88609057
-  entry_writer: degetallasen
-  entry_fav_count: 437
+    saadetli müşahitlerin çocuklarına sahip çıkıyoruz
+  entry_id:  88617196
+  entry_writer: ikinciadam
+  entry_fav_count: 512
   entry_content: |
-    laiklikle alakası yoktur. en azından kendi kızına hallenen laik olmayan ebeveynlerden de iyidirler.
-  entry_channels: ilişkiler
+    31 mart günü açık oy kullandırmak isteyen akp'li adayın yeğenine karşı gelip oylarımıza sahip çıkarken katledilen sandık müşahitlerinin çocuklarına sahip çıkıyoruz.<br/><br/>hesap adı: cansuyu yardımlaşma ve dayanışma derneği<br/>iban: tr79 0020 6000 8299 4444 4400 01<br/>açıklama: ilyas aktaş ailesi<br/><br/>not: başlığı uplayalım<br/><br/>----önemli-----<br/>açıklama kısmına "ilyas aktaş ailesi" yazılacakmış. lütfen unutmayın.<br/>----önemli----<br/><br/>edit: arkadaşlar kusura bakmayın yazmayı unutmuşum<br/>soranlar oldu. iban numarası doğruluğu teyit için: <a rel="nofollow noopener" class="url" target="_blank" href="http://cansuyu.org.tr/tr/icerik/1359/268/hesap-numaralarimiz" title="http://cansuyu.org.tr/tr/icerik/1359/268/hesap-numaralarimiz">cansuyu - hesap numaralarımız</a> <br/>dernek güvenilir. saadet partisi ile aynı kökten olan milli görüşçü bir dernek. <br/><br/>edit 2: mesai saatleri içinde cansuyu derneği'ni arayarak konu hakkında bilgi alabilirsiniz.
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     epsilon'un yayınladığı skandal çocuk kitabı
   entry_id:  88599415
   entry_writer: soyutpadisah
-  entry_fav_count: 382
+  entry_fav_count: 386
   entry_content: |
     bir cocuk kitabinda bulunmamasi gereken icerikleri barindiran kitapdir.<br/>pedagoglar tarafindan incelenmesinde fayda var dusuncesindeyim.<br/>ben olsam zaten kapagindan dolayi almazdim cocuguma bu kitabi...
   entry_channels: edebiyat,eğitim
@@ -102,7 +102,7 @@ data:
     sonsuz evrende ölümün saçmalığı
   entry_id:  88602958
   entry_writer: mrtbsrk
-  entry_fav_count: 302
+  entry_fav_count: 303
   entry_content: |
     hakkaten ya .<br/>yıl olmuş 2019 ve hâlâ mal gibi ölüyoruz a.q<br/>çok ilkel lan...
   entry_channels: anket,tarih,edebiyat,sağlık,magazin,spoiler
@@ -110,7 +110,7 @@ data:
     dostoyevski dirilse ekşi sözlük'te açacağı başlık
   entry_id:  88612815
   entry_writer: molla bekir
-  entry_fav_count: 269
+  entry_fav_count: 277
   entry_content: |
     (bkz: <a class="b" href="/?q=tolstoy+%c5%9fi%c5%9firilmi%c5%9f+bir+balondur">tolstoy şişirilmiş bir balondur</a>)
   entry_channels: anket,ekşi-sözlük,edebiyat
@@ -118,39 +118,31 @@ data:
     erkan tan
   entry_id:  88596038
   entry_writer: biraz uzak
-  entry_fav_count: 266
+  entry_fav_count: 267
   entry_content: |
     sesi mandanın suya sıçarken çıkardığı sese benzeyen, yanar döner, öncenin fethullah yalaması, şimdinin iktidar borazanı kişilik. akp gittiğinde programlarını onuncu yıl marşı eşliğinde yapması muhtemeldir.
   entry_channels: siyaset,tv,haber,magazin
 - entry_name: |
-    bir sokakta 24 tane kedi görmek
-  entry_id:  88606158
-  entry_writer: kendicapinda
-  entry_fav_count: 261
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bug%c3%bcn+k%c3%bcf%c3%bcr+yemek+istiyorum+ba%c5%9fl%c4%b1%c4%9f%c4%b1">bugün küfür yemek istiyorum başlığı</a>)
-  entry_channels: 
-- entry_name: |
-    bekaretimi kocama saklıyorum felsefesi
-  entry_id:  88590761
-  entry_writer: marcobelinelli
-  entry_fav_count: 134
-  entry_content: |
-    ister kocasına saklar ister karısına saklar ister eşeğe saklar ister ata saklar ister damacanaya saklar sanane oğlum bundan? insanlar sevişip sevişmeyeceğine de mi kendi karar veremeyecek? bir erkek de isterse karısına saklayabilir kendini belki de bazı şeyleri erken yaşamak istemiyordur kutsallaştırmıştır size ne oğlum? yıl olmuş 2019 gidip okul okuyacağına, kitap bakacağına, kendini geliştireceğine gelmişsin burda elalemin bekaretine takmışsın. bari o sığ düşüncelerini kendine sakla da burda başlık hortlatıp bizim gözümüze sokma.<br/><br/>edit: kadın olduğumu sanıp merhaba marcobelinelli hanım diye mesaj atanlar, üst tarafı yeniden okuyun sözlerim sizin gibilere.
-  entry_channels: ilişkiler
-- entry_name: |
     sen utanma biz utanalım
   entry_id:  88608677
   entry_writer: xspace
-  entry_fav_count: 127
+  entry_fav_count: 179
   entry_content: |
     istanbul büyükşehir belediye başkanı ekrem imamoğlu'nun sokakta fıstık satan bir gençle yaptığı konuşmada söylediği yürekleri titreten söz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/adursunoglu/status/1114425595583238144" title="https://twitter.com/adursunoglu/status/1114425595583238144">buradan izleyebilirsiniz.</a>
   entry_channels: siyaset,haber
 - entry_name: |
+    bekaretimi kocama saklıyorum felsefesi
+  entry_id:  88590761
+  entry_writer: marcobelinelli
+  entry_fav_count: 140
+  entry_content: |
+    ister kocasına saklar ister karısına saklar ister eşeğe saklar ister ata saklar ister damacanaya saklar sanane oğlum bundan? insanlar sevişip sevişmeyeceğine de mi kendi karar veremeyecek? bir erkek de isterse karısına saklayabilir kendini belki de bazı şeyleri erken yaşamak istemiyordur kutsallaştırmıştır size ne oğlum? yıl olmuş 2019 gidip okul okuyacağına, kitap bakacağına, kendini geliştireceğine gelmişsin burda elalemin bekaretine takmışsın. bari o sığ düşüncelerini kendine sakla da burda başlık hortlatıp bizim gözümüze sokma.<br/><br/>edit: kadın olduğumu sanıp merhaba marcobelinelli hanım diye mesaj atanlar, üst tarafı yeniden okuyun sözlerim sizin gibilere.
+  entry_channels: ilişkiler
+- entry_name: |
     recep tayyip erdoğan'ın türkiye'ye kazandırdıkları
   entry_id:  88590392
   entry_writer: aynstayninspermi
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     suriyeliler
   entry_channels: siyaset,anket
@@ -158,7 +150,7 @@ data:
     berat albayrak'ın dışişleri bakanlığına geçmesi
   entry_id:  88589677
   entry_writer: eternel
-  entry_fav_count: 85
+  entry_fav_count: 87
   entry_content: |
     (bkz: <a class="b" href="/?q=acc%c4%b1k+da+d%c4%b1%c5%9f+i%c5%9fleriylen+oynim+mi+kay%c4%b1nbabac%c4%b1m">accık da dış işleriylen oynim mi kayınbabacım</a>)
   entry_channels: siyaset
@@ -166,18 +158,10 @@ data:
     emine erdoğan'ın 280 bin liralık inci kolyesi
   entry_id:  88613292
   entry_writer: biz erenlerden hal bekleriz
-  entry_fav_count: 75
+  entry_fav_count: 79
   entry_content: |
-    nereden nereye <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/2e316e83c279" title="https://eksiup.com/2e316e83c279">dedirtmiştir</a><br/><br/>(bkz: <a class="b" href="/?q=oy+veren+ve+destekleyen+akp%e2%80%99liler+d%c3%bc%c5%9f%c3%bcns%c3%bcn">oy veren ve destekleyen akp’liler düşünsün</a>)
+    nereden nereye <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/2e316e83c279" title="https://eksiup.com/2e316e83c279">dedirtmiştir</a><br/><br/>(bkz: <a class="b" href="/?q=oy+veren+ve+destekleyen+akp%e2%80%99liler+d%c3%bc%c5%9f%c3%bcns%c3%bcn">oy veren ve destekleyen akp’liler düşünsün</a>)<br/><br/>edit: inci kolyesinin 280 bin liralık olduğunu iddia eden kişi moda tasarımcısı <a class="b" href="/?q=barbaros+%c5%9fansal">barbaros şansal</a>. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/barbarosansalfn/status/1114530444282925060" title="https://mobile.twitter.com/barbarosansalfn/status/1114530444282925060">ilgili tweet</a>
   entry_channels: siyaset,haber,magazin
-- entry_name: |
-    seks yapmayı modern olmak sanan laik kadın
-  entry_id:  88610452
-  entry_writer: nickbulamadimnolcak
-  entry_fav_count: 69
-  entry_content: |
-    çevrem derken annesini kasteden gerizekalı trol bokunun hayalindeki kadın. <br/>olum anan senin yemiş, onla bunla sikişmesini sana açıklamak için laiklik kavramını kullanmış. o bezelye kadar beynini azcık kullansan insanların değil devletlerin laik olduğunu okurdun bir yerlerden. <br/>kısaca anan laik değil sürtük.
-  entry_channels: siyaset,ilişkiler
 - entry_name: |
     imamoğlu ile yıldırım arasındaki oy farkı
   entry_id:  88595778
@@ -198,42 +182,50 @@ data:
     ekrem imamoğlu
   entry_id:  88590911
   entry_writer: muhendisabisi
-  entry_fav_count: 54
+  entry_fav_count: 55
   entry_content: |
     erdoğan'ı sandığa gömmüş kişidir.<br/>%95 yazılı ve görsel medyayı propaganda silahı olarak kullan,devlet kurumları parti teşkilatın gibi davransın ama buna rağmen bir adam 4 ayda gelsin koca istanbul'da eline versin.<br/>erdoğan bundan sonra bu adama sandıkta rakip olamaz çünkü yaptığı bir pr var ve bu pr'ı bozulursa gerçek erdoğan'ı en azılı ak partili bile görmüş olur erdoğan'ın bu son seçimiydi ve kaybetti.
   entry_channels: siyaset
 - entry_name: |
-    inanılmaz çekici dans eden turkuaz giysili kız
-  entry_id:  88615380
-  entry_writer: eternalcycle
-  entry_fav_count: 39
+    kızların konuşmaya bayıldığı 3 konu
+  entry_id:  88589726
+  entry_writer: he is not a man she is not a woman
+  entry_fav_count: 52
   entry_content: |
-    "bu videoyu nasıl buldun?" yasası çıkmalı artık
-  entry_channels: anket,ekşi-sözlük,magazin
+    başka kızlar<br/>başka kızların sevgilileri<br/>başka kızların kıyafetleri.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     martin linnes
   entry_id:  88616303
   entry_writer: mete han turkyilmaz
-  entry_fav_count: 38
+  entry_fav_count: 42
   entry_content: |
     çok seviyorum kendisini.<br/><br/>zeki, çevik, ahlaklı.
   entry_channels: spor
 - entry_name: |
-    doktorların ilaç yazması yasaklansın
-  entry_id:  88618732
-  entry_writer: excelsior was here
-  entry_fav_count: 34
+    inanılmaz çekici dans eden turkuaz giysili kız
+  entry_id:  88615380
+  entry_writer: eternalcycle
+  entry_fav_count: 41
   entry_content: |
-    annelerin doğurması yasaklansın diye cevap vereceğim istek.
-  entry_channels: sağlık
+    "bu videoyu nasıl buldun?" yasası çıkmalı artık
+  entry_channels: anket,ekşi-sözlük,magazin
 - entry_name: |
     mbaye diagne
   entry_id:  88617696
   entry_writer: clujian
-  entry_fav_count: 32
+  entry_fav_count: 34
   entry_content: |
     çok tehlikeli yerlerden penaltı kullanıyor.
   entry_channels: spor
+- entry_name: |
+    instagram'dan soğutan sebepler
+  entry_id:  88618858
+  entry_writer: iyibiriyimm
+  entry_fav_count: 34
+  entry_content: |
+    keşfetten çıkan ve bir türlü engellenemeyen alişan ve ailesi. sırf bunlar yüzünden girmiyorum.
+  entry_channels: anket,programlama,teknoloji,yeme-içme,moda,magazin
 - entry_name: |
     profilime sabitle
   entry_id:  88613739
@@ -246,66 +238,42 @@ data:
     zindan denince akla gelen
   entry_id:  88610710
   entry_writer: ileri iade
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     (bkz: <a class="b" href="/?q=zinedine+zindane">zinedine zindane</a>)
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    saati 200 tl olan psikolog
-  entry_id:  88594062
-  entry_writer: nik bulmakta kotuyum
-  entry_fav_count: 26
+    millete foko foko ondan sonra moko
+  entry_id:  88606856
+  entry_writer: c2vkyxq
+  entry_fav_count: 25
   entry_content: |
-    tanımsı: 200tl psikoterapi için istanbul rakamları düşünülürse uygun bir bedel. bazı entrylerde terapist değil danışanın kendi çabasıyla yol kastedildiğini okudum ki bu genellikle terapistin başarısı olarak yorumlanabilir; terapist danışana direkt ne yapacağını söylemez, endirekt de söylemez, onun törpülenmesi gereken davranış ya da yorumlarına dikkat çekip sorgulamasını sağlar, danışan durduk yere bu farkındalığa gelmez ve bu işi arkadaş, eskort da yapar diyenler bir kez daha düşünse yine böyle mi düşünür bilmem.
-  entry_channels: sağlık,ekonomi
+    bir sokak löpöltajında duygularıma tercüman olmuş cümledir.<br/><br/>rte'ye "al gör resmimi at beni cezaevine" diyerek mutluluktan delirmiştir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/millete-foko-foko-ondan-sonra-moko-oyle-bir-sey-yok-06041909.html" title="https://odatv.com/millete-foko-foko-ondan-sonra-moko-oyle-bir-sey-yok-06041909.html">buradan buyrun</a>
+  entry_channels: siyaset,ekşi-sözlük,haber,magazin
+- entry_name: |
+    doktorların ilaç yazması yasaklansın
+  entry_id:  88618870
+  entry_writer: cuce felaketi
+  entry_fav_count: 24
+  entry_content: |
+    işini iyi yapan doktor sayısı az diye dükkanı çırağa bırakıp giden diplomalı bakkalların ilaç yazması önerisidir. iq puanım 20 düştü, gidip futbol izliyim bari amk.
+  entry_channels: sağlık
 - entry_name: |
     6 nisan 2019 galatasaray yeni malatyaspor maçı
   entry_id:  88616856
   entry_writer: alezengi
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     yerdeki adam linnes ise ve faul bekliyorsa faul de verilse penaltı da verilse karar doğrudur derim. kızımı istese veririm, öyle karakterli adam.
   entry_channels: spor
 - entry_name: |
-    görüyorum ki çaresizliği tatmamışsınız hayatınızda
-  entry_id:  88618289
-  entry_writer: ahmetgm
-  entry_fav_count: 18
-  entry_content: |
-    melek olmuş bir kızın iç yakan cümlesi.<br/>rahat uyu dilek, güzel hatırlanacak sensin, onların devri ise elbet bitecek.
-  entry_channels: siyaset,sağlık,haber
-- entry_name: |
-    instagram'dan soğutan sebepler
-  entry_id:  88618993
-  entry_writer: tuzludonor
-  entry_fav_count: 14
-  entry_content: |
-    en gereksiz sosyal medya uygulaması olması.
-  entry_channels: anket,programlama,teknoloji,yeme-içme,moda,magazin
-- entry_name: |
     ysk'nın trt'nin canlı yayın teklifini kabul etmesi
   entry_id:  88620429
   entry_writer: isimsiz fosil
-  entry_fav_count: 12
+  entry_fav_count: 18
   entry_content: |
     olmayan kabuldür. ysk haber amaçlı olarak çekim yapılmasına izin vermiştir. canlı yayın vs. izni vermemiştir.<br/><br/>kaba etinizden element uydurmayınız lütfen.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.trthaber.com/haber/gundem/trt-haber-amacli-sandiklari-goruntuleyebilecek-411079.html" title="https://www.trthaber.com/haber/gundem/trt-haber-amacli-sandiklari-goruntuleyebilecek-411079.html">haber linki</a>
   entry_channels: siyaset,tv
-- entry_name: |
-    elif özge çankaya
-  entry_id:  88589597
-  entry_writer: azizszm
-  entry_fav_count: 12
-  entry_content: |
-    şu dilekçeyi vermiş ve akp kadrolarına göz kırpmış bir avukattır. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.postimg.cc/rqY9wPhg/7498-AC2-D-BF8-E-406-C-A8-BC-C1530-FE07-DA5.jpg?dl=1" title="https://i.postimg.cc/rqY9wPhg/7498-AC2-D-BF8-E-406-C-A8-BC-C1530-FE07-DA5.jpg?dl=1">https://i.postimg.cc/…a8-bc-c1530-fe07-da5.jpg?dl=1</a><br/><br/>elif özge çankaya kimdir:<br/>- sicil numarası 1928, samsun barosuna kayıtlı avukat’tır. <br/>- güney hukuk bürosunda çalışıyor.<br/>- 694570 ile başlayan tc kimlik no’suna sahiptir, tc kimlik gizliliğine önem vermesini tavsiye ediyorum bu genç avukata.<br/>- samsun sosyal bilimler lisesini bitirmiş.<br/>- 251110314 öğrenci no’su ile istanbul üniv. hukuk fakültesini ikinci öğretim olarak okumuştur.<br/>- 2017 yılınds avukatlık ruhsatını almıştır.<br/>- 2016-2017 eğitim yılı için özel hukuk dalında tezli yüksek lisans başvurusu yapmış, ve mülakat puanı en yüksek 4. puan olmasına rağmen, 14. sırada yedeklerde kalmıştır.<br/>- ales-ea puanı 77, lisans puanı 75, yds 66’dır.<br/><br/>not: internette açık olarak bulunan bilgilerin derlemesi yapılmıştır.
-  entry_channels: siyaset,haber
-- entry_name: |
-    renkli iç çamaşırı giyen erkek
-  entry_id:  88619322
-  entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 11
-  entry_content: |
-    herkes.<br/>saydam iç çamaşarı mı var sanki.
-  entry_channels: moda
 - entry_name: |
     bir fuckbuddy'de olması gereken özellikler
   entry_id:  88609294
@@ -315,20 +283,12 @@ data:
     hepiniz amerikan dizi karakterisiniz zaten amk. yanimda kalmak da nereden ciktiymis. bak bak bak. bu tripleri yapan adamlarin %90'i net bir sekilde sevistikten sonra sevistigi kiza biraz daha otur gitme diyen tip.<br/><br/>boyle rayban takmis hollywood karakteriymissiniz gibi yazinca ne oluyor acaba. ustunuzdeki dizi cikmis pijama gidiyor yerine deri kiyafetler falan mi geliyor amk?<br/><br/>fuck buddymis. ikinizde de olmasi gereken biraz adamlik amk. gidin kendinize dogru duzgun sevgililer bulun bulamiyorsaniz birbirinize sevgili olun da geleceginiz icin bir sey yapin beraber bir sey kurun. herkes don juan amk yerinde.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    bakirliğimi karıma saklıyorum felsefesi
-  entry_id:  88621602
-  entry_writer: devecialpay
-  entry_fav_count: 8
-  entry_content: |
-    27 yıldır uyguladığım felsefe . yapamıyorum kendimi öyle kandırıyorum diyen arkadaş escorta gitmek zor değil verirsin parasını yapabildiğin kadar yaparsın ama bu işler benim gibi iffetini koruyan erkeklere ters.<br/>sadece kadın değil erkeğin de iffeti vardır . herşey sevişmek değil lan idrak edin artık gayette yaşayabiliyorum evet bir ihtiyaç ama olmazsa ölürsün kadar değil .<br/>öyle bir ahir zamandayız ki olması gereken doğru şey yanlış utanç verici bir şeymiş gibi bahsediliyor artık .
-  entry_channels: 
-- entry_name: |
     14 nisan 2019 fenerbahçe galatasaray maçı
-  entry_id:  88618720
-  entry_writer: dadanda
+  entry_id:  88618649
+  entry_writer: halikarnas balikcisi
   entry_fav_count: 8
   entry_content: |
-    luyindama ve marcao'nun (bkz: <a class="b" href="/?q=fener+ol">fener ol</a>) kampanyasına katkıda bulunacağı maçtır.
+    iki stopersiz gittiğimize göre gene senaryo belli. o sene bu sene değil beyler.
   entry_channels: spor
 - entry_name: |
     portakal çiçeği karnavalı
@@ -339,13 +299,37 @@ data:
     hüseyin sözlü ve mhp zihniyetinden kurtulmayı kutluyoruz bu sene sokaklarda. bir tane bile olay olmadı herkes kendi kendine içiyor eğleniyor her sokakta.
   entry_channels: tarih,müzik,haber
 - entry_name: |
-    bir cümle ile seks hayatın
-  entry_id:  88615214
-  entry_writer: fosforik asit
-  entry_fav_count: 4
+    ingilizce 8 ile yazılabilen kelimeler
+  entry_id:  88620301
+  entry_writer: swollenmember
+  entry_fav_count: 6
   entry_content: |
-    komşular şikayetçi.
-  entry_channels: anket,ilişkiler
+    anlamadığım konudur, please elabor8.
+  entry_channels: 
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  88591194
+  entry_writer: gleam
+  entry_fav_count: 3
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Ah0Ys50CqO8" title="https://youtu.be/Ah0Ys50CqO8">billie eilish-you should see me in a crown</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    ortaköy camisindeki foto çekimine yobaz tepkisi
+  entry_id:  88622391
+  entry_writer: crazyspecialist
+  entry_fav_count: 3
+  entry_content: |
+    fotoğrafın montaj olduğu açıklanmış olduğu için gerçekliğini yitiren iddiadır.
+  entry_channels: 
+- entry_name: |
+    eski sevgilinin evlenmesi
+  entry_id:  88621345
+  entry_writer: swollenmember
+  entry_fav_count: 3
+  entry_content: |
+    mutsuz olmak için sana ihtiyaç duymadığına işaret eder.
+  entry_channels: ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  88603570
@@ -371,29 +355,45 @@ data:
     no panty for young men
   entry_channels: anket,edebiyat
 - entry_name: |
+    dar sütyenden fışkıran sırt eti
+  entry_id:  88622655
+  entry_writer: swollenmember
+  entry_fav_count: 2
+  entry_content: |
+    <a class="b" href="/?q=antrikot">antrikot</a>'tur.
+  entry_channels: 
+- entry_name: |
     cumartesi gecesi evde oturan ezik ve yalnız insan
   entry_id:  88616266
   entry_writer: yocaxx
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     keşke evde olsaydım dedirtendir. şu an 500 kişilik sıkıcı bir dügündeyim.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    yemeksepeti.com
-  entry_id:  88618930
-  entry_writer: mystyc
-  entry_fav_count: 0
-  entry_content: |
-    siz yine iyisiniz . bir cumartesi evde oturuyoruz. kapı çalmaya başladı. kameradan baktık tanımadığımız kişi herhalde yanlış bastı . açmadık. birden yabancı bir numara aramaya başladı. açtım, telefondaki :<br/><br/>-abi yemek sepetinden kokoreç siparişiniz vardı onu getirdim , dedi.<br/>ben - bizim siparisimiz yok, o siparişi geçen hafta vermistim. sonra tarafınızdan iptal edilmişti dedim. <br/><br/>adam dumur oldu gitti.<br/>geleceğe mektup gibi , geleceğe kokoreç sipariş alan internet sitesi mübarek. <br/><br/><a class="b" href="/?q=bu+da+b%c3%b6yle+bir+an%c4%b1md%c4%b1r">bu da böyle bir anımdır</a>.
-  entry_channels: teknoloji,yeme-içme,ekonomi
-- entry_name: |
     içi boşaltılmış kavramlar
-  entry_id:  88597488
-  entry_writer: cozulemeyen adam
+  entry_id:  88597934
+  entry_writer: malesefbudakullanilamaz
+  entry_fav_count: 1
+  entry_content: |
+    gündemden bağımsız konuşuyorum: <br/><a class="b" href="/?q=a%c5%9fk">aşk</a>(bkz: <a class="b" href="/?q=demokrasi">demokrasi</a>)(bkz: <a class="b" href="/?q=din">din</a>)(bkz: <a class="b" href="/?q=%c3%a7o%c4%9fulculuk">çoğulculuk</a>)(bkz: <a class="b" href="/?q=hukukun+%c3%bcst%c3%bcnl%c3%bc%c4%9f%c3%bc">hukukun üstünlüğü</a>)(bkz: <a class="b" href="/?q=sosyal+devlet">sosyal devlet</a>)(bkz: <a class="b" href="/?q=muhafazakarl%c4%b1k">muhafazakarlık</a>)(bkz: <a class="b" href="/?q=milliyet%c3%a7ilik">milliyetçilik</a>)(bkz: <a class="b" href="/?q=atat%c3%bcrk%c3%a7%c3%bcl%c3%bck">atatürkçülük</a>)(bkz: <a class="b" href="/?q=ter%c3%b6rizm">terörizm</a>)(bkz: <a class="b" href="/?q=elit">elit</a>)(bkz: <a class="b" href="/?q=k%c3%b6yl%c3%bc">köylü</a>)(bkz: <a class="b" href="/?q=ahlak">ahlak</a>)
+  entry_channels: siyaset,anket,ilişkiler
+- entry_name: |
+    havalimanına metrosu olmayan dünya başkenti
+  entry_id:  88621410
+  entry_writer: bildiginkirmizimercimekk
+  entry_fav_count: 1
+  entry_content: |
+    on binlerce insana(bavulları,çantalarıyla) köy otobüsleriyle getir götür yaptırarak ulaşımı sağlayabileceğine inanmışların vizyon fukaralığına kurban gitmiş güzelim şehirdir.. <br/><br/>dünyanın en büyük havalimanı, yeni türkiye vizyonu ... <br/><br/>yersen !
+  entry_channels: anket,havacılık
+- entry_name: |
+    yemeksepeti.com
+  entry_id:  88622477
+  entry_writer: testester10
   entry_fav_count: 0
   entry_content: |
-    sözlükteki <a class="b" href="/?q=bkz.">bkz.</a> lar.
-  entry_channels: siyaset,anket,ilişkiler
+    bana 10 tl indirim kuponu tanımladılar, kullanamadım 15 tl oldu, kullanmadım 20 tl oldu. ama sadece online ödemede geçerli ve ben kredi kartı kullanmıyorum. mail attım bari kapıda ödeme için bir şeyler yapın deyu, özür dileyerek 25 tl'lik online ödemede geçerli indirim kuponu tanımladılar. şapşik bir firma.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: teknoloji,yeme-içme,ekonomi
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  88605117
