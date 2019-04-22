@@ -6,7 +6,7 @@ data:
     22 nisan 2019 ülkü ocakları'nın açıklamaları
   entry_id:  89211285
   entry_writer: romantik jedi abaza sith e karsi
-  entry_fav_count: 2366
+  entry_fav_count: 2370
   entry_content: |
     o kadar çok istiyorlar ki bir iç savaş çıkartmayı. kimse ekonomi sormayacak, ülkeyi batırdınız diyemeyecek ve yine mağdur olacaklar.
   entry_channels: siyaset,haber
@@ -14,15 +14,23 @@ data:
     kılıçdaroğlu'nun gelmesinden çok üzüntü duydum
   entry_id:  89219545
   entry_writer: nickson
-  entry_fav_count: 1330
+  entry_fav_count: 1331
   entry_content: |
     şehide kelle, apo'ya sayın diyenler öyle bir doldurdu ki halkı; herkes malum şahsı şehitleri çok seven vatansever, muhalefeti de terör destekçisi sanıyor. böyle bir algı operasyonuna medyasıyla, hükümetiyle herkes hizmet etti. kutuplaştırdılar ama çok da istediklerini alamadılar. bu halk ne kadar kara propagandaya maruz kalsa da çoğunlukla hala sağduyulu.<br/><br/>dün kılıçdaroğlu'na saldıran iç anadolu çomarları emin olun azınlıkta, bu ülke türk'üm diyemeyen bop eşbaşkanına artık itimat etmiyor.<br/><br/>edit: şehidimizin babası yeni bir açıklama yapmış; "cenazemize herkes gelebilir" demiş. acılı babanın gerçek düşünceleri için haber <a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/sehidin-babasi-kilicdaroglu-na-linc-girisiminin-ardindan-konustu-cenazeme-herkes-gelebilir,817870" title="https://t24.com.tr/haber/sehidin-babasi-kilicdaroglu-na-linc-girisiminin-ardindan-konustu-cenazeme-herkes-gelebilir,817870">linki</a>
   entry_channels: siyaset,haber
 - entry_name: |
+    fatih portakal
+  entry_id:  89236080
+  entry_writer: doyoubelieveinlifeafterlove
+  entry_fav_count: 466
+  entry_content: |
+    bu akşamki yorumlarına “helal olsun” diyorum ve tekrar “helal olsun” diyorum. <br/><br/>heykelini diksek taşaklarına beton yetmez fatih. <br/><br/>süleyman soy/lu, rte ve bahçeli’nin milleti provake ettiğini söyleyebilen ana akım medyadaki tek kişidir kendisi.<br/><br/>edit: parti kur oy verelim. (ciddiyim)
+  entry_channels: siyaset,tv,haber
+- entry_name: |
     yakın o evi diyen kadının gözaltına alınması
   entry_id:  89232914
   entry_writer: e8
-  entry_fav_count: 426
+  entry_fav_count: 435
   entry_content: |
     ulan kadın "yakın o evi" diye katliama azmettiriyor, bir diğeri kafam kadar taşları arabalara atıp cinayete teşebbüs ediyor. bir dangalak da çıkıp bunların tutuklanmasına cadı avı diyor. cadı avı masum insanların bok yoluna gittiği durumlarda kullanılır, masum mu şimdi bunlar?
   entry_channels: siyaset,haber
@@ -30,55 +38,47 @@ data:
     bisikletle işe gitmek şov mudur sorunsalı
   entry_id:  89228971
   entry_writer: cibez
-  entry_fav_count: 417
+  entry_fav_count: 421
   entry_content: |
     ben işe bisikletle gidiyorum. 3.9km ev ile iş arası. ankara ortamında doğrudan toplu taşıma yok aktarma yapmam lazım. otomobilim de var. yürüyerek 40dk, otomobille 20 dk trafik yüzünden , bisikletle 15dk sürüyor. geçen hafta yağmur var diye otomobille gittim, denyonun biri az kaldı çarpıyordu arabaya. çarpsa uğraş dur. maaşım dediğin limitin üstünde. 27 yıldır trafikte bisiklet süren biriyim. ben trafikte bisiklet sürmeye başladığım yıllarda sözlük ahalisinin pekçoğu ana babalarının hayallerinde bile yoktu. şov demeyelim de tercih diyelim tamam mı kardşim.
   entry_channels: spor,anket,seyahat
 - entry_name: |
-    fatih portakal
-  entry_id:  89236080
-  entry_writer: doyoubelieveinlifeafterlove
-  entry_fav_count: 381
+    mansur yavaş'ın parmağı var mı araştırılsın
+  entry_id:  89236441
+  entry_writer: akan ha bu dereler
+  entry_fav_count: 417
   entry_content: |
-    bu akşamki yorumlarına “helal olsun” diyorum ve tekrar “helal olsun” diyorum. <br/><br/>heykelini diksek taşaklarına beton yetmez fatih. <br/><br/>süleyman soy/lu, rte ve bahçeli’nin milleti provake ettiğini söyleyebilen ana akım medyadaki tek kişidir kendisi.<br/><br/>edit: parti kur oy verelim. (ciddiyim)
-  entry_channels: siyaset,tv,haber
+    sabah ilaç saatini kaçırmış bir ihtiyarın beyanıdır.
+  entry_channels: siyaset,haber
 - entry_name: |
     21 nisan 2019 levent gök saldırı görüntüleri
   entry_id:  89229141
   entry_writer: untold
-  entry_fav_count: 379
+  entry_fav_count: 382
   entry_content: |
     yurtdışında yaşayan birisi olarak çok utanıyorum yemin ederim. <br/>sanki benim türk olduğumu bilen herkes,bana bakıp dalga geçiyor gibi geliyor.<br/>insanlara “yaa arkadaşlar bunlar benim ülkemi temsil etmiyor,bunlar bir avuç satılık orospu çocuğu” diye bağırmak,olayları anlatmak istiyorum.<br/><br/>edit :imla<br/>edit 2 : yurtdışında yaşadığımı özellikle belirtmemin sebebi olaylar burdan daha net görünüyor ve gerçekten bize olan önyargıları için üzülüyoruz. <br/>nasıl sen suriyelilere kızıyorsun zaman zaman münferit hadiseler için,hep bir önyargın var,hemen hemen aynı mevzu. yoksa yurtdışında yaşamam tabii ki seni alakadar etmiyor amın oğlu.<br/><br/>edit3: arzik76 nickli arkadaş bana diyor ki özelden yazdığı mesajda: aşağılık kompleksi var sizde, bu ülke sizin değil, utanmana gerek yok diyor. <br/>şimdi güzel kardeşim senin o aşağılık kompleksi dediğin şeye biz utanma,sıkılma,ar,namus diyoruz. siz rafa kaldırdığınız için bu kavramları size boş geliyor ve her ne olursa olsun size normal geliyor. mesela başka ülkede yaşayan bir ingiliz vatandaşı,londra’da yaşanan kötü bir durumla ilgili bize açıklama yaparken utanabiliyor. bunlar tamamen insani,vicdani durumlar. sizde bulunmayan mevzular anlamazsınız.ayrıca ülkemden utanmıyorum sevgili akkurt ve çomar kırması beyefendi,o yumruk atanın benim ülkemde yaşamasına ve ona bu cesareti verdikleri için utanıyorum.
-  entry_channels: siyaset,haber
-- entry_name: |
-    mansur yavaş'ın parmağı var mı araştırılsın
-  entry_id:  89236441
-  entry_writer: akan ha bu dereler
-  entry_fav_count: 364
-  entry_content: |
-    sabah ilaç saatini kaçırmış bir ihtiyarın beyanıdır.
-  entry_channels: siyaset,ilişkiler,tv,haber
-- entry_name: |
-    22 nisan 2019 ekrem imamoğlu bm toplantısı
-  entry_id:  89229706
-  entry_writer: kesesini kaybeden kanguru
-  entry_fav_count: 301
-  entry_content: |
-    "bağırarak konuşmak marifet değildir. böyle yaparsanız, arkama yaslanır, sesiniz kısılana kadar beklerim" dedi. hahahaha, ulan ne güldüm ya. kahkaha attım resmen.<br/><br/>++<br/><br/>her öneriye itiraz ediyor akp'liler. yahu ne pislik sürüsü bir zihniyetsiniz.
   entry_channels: siyaset,haber
 - entry_name: |
     konyalı avukattan saldırganları savunurum beyanı
   entry_id:  89234517
   entry_writer: lahmacunmania
-  entry_fav_count: 296
+  entry_fav_count: 310
   entry_content: |
     affedersiniz konya.
   entry_channels: siyaset
 - entry_name: |
+    22 nisan 2019 ekrem imamoğlu bm toplantısı
+  entry_id:  89229706
+  entry_writer: kesesini kaybeden kanguru
+  entry_fav_count: 302
+  entry_content: |
+    "bağırarak konuşmak marifet değildir. böyle yaparsanız, arkama yaslanır, sesiniz kısılana kadar beklerim" dedi. hahahaha, ulan ne güldüm ya. kahkaha attım resmen.<br/><br/>++<br/><br/>her öneriye itiraz ediyor akp'liler. yahu ne pislik sürüsü bir zihniyetsiniz.
+  entry_channels: siyaset,haber
+- entry_name: |
     dersim katliamı
   entry_id:  89219306
   entry_writer: konoha no kiiroi
-  entry_fav_count: 230
+  entry_fav_count: 242
   entry_content: |
     sadece isyancılar hak ettiklerini bulmuşlardır. tüm tunceli'ye yönelik bir harekat değildir. bir takım aşiret ağası kendisini devletten üstün görür de başkaldırırsa o başlar elbette ki ezilir.
   entry_channels: siyaset,tarih
@@ -86,7 +86,7 @@ data:
     bozkurt ulumasını tüm dünyaya duyurmak istiyorum
   entry_id:  89213402
   entry_writer: astin
-  entry_fav_count: 181
+  entry_fav_count: 182
   entry_content: |
     ülke nat geo wild belgeseline dönmüş haberimiz yok.
   entry_channels: siyaset,haber
@@ -94,10 +94,18 @@ data:
     game of thrones
   entry_id:  89217561
   entry_writer: larsvontier
-  entry_fav_count: 148
+  entry_fav_count: 150
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>arya sonunda mazbatayı aldı<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: tv,sanat,tarih,edebiyat
+- entry_name: |
+    erkeklerin zeki kadın sevmemesi
+  entry_id:  89218885
+  entry_writer: butundunyaaskolsun
+  entry_fav_count: 145
+  entry_content: |
+    turk erkeklerinin cogu kendilerine ayakta uyutabilecekleri ve her istediklerini yapabilecek kadin istedigi icin her zaman gecerli onerme. <br/><br/>toplum da onlara sadece erkek olduklari icin ustun olduklarini dikte ediyor. kendilerinden zeki ve egitimli birisini bulduklarinda isik hizinda kaciyorlar ezik hissettikleri icin. tecrube ile sabit.
+  entry_channels: ilişkiler
 - entry_name: |
     21 nisan 2019 kılıçdaroğlu'na saldırı
   entry_id:  89214584
@@ -107,18 +115,10 @@ data:
     saldıranları tanıyorum. hem de o kadar yakından tanıyorum ki... yobazın harman olduğu konya'daki dayım bu benim. gerçekten dayım yani. alzheimer olan annesine karşı merhametsiz, kardeşlerinin hakkını, emeğini gönül rahatlığıyla yerken vicdansız, namaz kılarken çıkarcı... babasını amcası öldürmüştür iki dönüm tarla için. yengesinin adı başka bir amcasıyla çıkmıştır. köylük yerde gizli kalmaz böyle şeyler. hiçbir şey olamayan oğlunu cemaatlerin yurtlarına gönderir, polis yapar. cemaat darbeye kalkışınca en azılı cemaat düşmanı o olur, yıllarca cemaatle mücadele edenleri terörist ilan eder. annesi ölünce karısı annesinin dolabındaki altınları iç eder daha cenaze ortadayken. kızı öğretmen omuştur, öğrencilerini artık dövemeyince kendi çocuğunu döver. rüzgâr yön değiştirince başını kapatır bir de. örnek öğretmen! bu dayı ve oğlu ve kızı ve aklını kocasına emanet eden karısı bir zamanlar mhp'lidir. kendini bir yere ait hissetmeden yaşayamayan bu güruh her zaman en güçlü gruba dahil olmak ister. tayyip %52 oy alınca yeğenini arar, nasıl başkan olduk ama diye. başkan kakasını altın tuvalete yaparken bizimki inek boku temizler ama verdiği bir oyla kendini başkan olmuş zanneder. güçlüden yana olunca güçten pay aldığını zanneder ama ona düşen bok temizlemekten, borçlanmaktan ve şükretmekten fazlası değildir. bir zamanlar "şerefsiz" dediğine şimdi "kankam" diyen kişiliksizleri göklere çıkarır. üç kuruşluk kârı için yapmayacağı pislik yoktur ama namaz kılar, oruç tutar, kurban keser, para bulursa hacca bile gider. duası ezberindedir. her namazdan sonra ezbere dua eder. teröristleri davul zurnayla karşılayanları iyi niyetli, artık kan dökülmesin diyen siyasetçileri terörist gibi görür. bunları mevcut iktidar doğurmadı. zaten vardılar ama evlerinin duvarında menderes'in, özal'ın, erbakan'ın fotoğrafları asılıyken bu kadar pislik ve bu kadar tehlikeli değillerdi. kılıçdaroğlu'nun -ki o da akrabamdır- yumruk yediği fotoğraftaki suratlara iyi bakın. bu nefret dolu suratlar size de çok tanıdık geliyor değil mi?
   entry_channels: siyaset,haber
 - entry_name: |
-    erkeklerin zeki kadın sevmemesi
-  entry_id:  89218885
-  entry_writer: butundunyaaskolsun
-  entry_fav_count: 141
-  entry_content: |
-    turk erkeklerinin cogu kendilerine ayakta uyutabilecekleri ve her istediklerini yapabilecek kadin istedigi icin her zaman gecerli onerme. <br/><br/>toplum da onlara sadece erkek olduklari icin ustun olduklarini dikte ediyor. kendilerinden zeki ve egitimli birisini bulduklarinda isik hizinda kaciyorlar ezik hissettikleri icin. tecrube ile sabit.
-  entry_channels: ilişkiler
-- entry_name: |
     aksaray'da flamingoların tüfekle vurulması
   entry_id:  89229559
   entry_writer: untold
-  entry_fav_count: 128
+  entry_fav_count: 130
   entry_content: |
     flamingoların aksaray’da ne işi varmış? <br/><br/>şaka bir yana elalemin adamı bu kuşların asil duruşunu ,inceleme altına alıyor,kas yapılarını inceliyor. ilginç duruşlarının adını :<br/>“pasif yerçekimsel duruş mekanizması" koyuyor. <br/><br/>diğer tarafta bi amına kodumun oğlu,tüfekle bu güzelim hayvanlara ateş ediyor.<br/>yani dünya üzerinde aynı oksijeni tüketen insanların,bu kadar tezat iş yapması ve götlüğü yapanların genelde bizim ülkemizde bulunması çok enteresan değil mi?
   entry_channels: haber
@@ -126,7 +126,7 @@ data:
     2019 ekonomik krizi
   entry_id:  89218411
   entry_writer: kecicim
-  entry_fav_count: 102
+  entry_fav_count: 108
   entry_content: |
     bak hele kodumun çapsız haysiyet yetmezliği çeken trolüne. gittiğim petrol devi veya sanayi devi ülkeleri bir kenara koyarak söylüyorum; avrupa insanının köpek bakımına harcadığı para senin yoksulluk sınırına denk. adamların araçları, evleri, yedikleri, giydikleri filan diye tek tek değinmeyeceğim. senin emeklin patates kuyruğunda beklerken adamların emeklisi dünyayı geziyor. senin kapıcı dairesinde oturduğun yaşta adamlar devasa evlerde keyfine bakıyor. 1 alman'ın 1 günlük asgari ücretle aldıklarını sen 1 haftada alamıyorsun. <a class="b" href="/?q=sen+bu+krizin+faturas%c4%b1n%c4%b1">sen bu krizin faturasını</a> <a class="b" href="/?q=%c3%a7ocu%c4%9fu+imam+hatipte+okumas%c4%b1n+diye">çocuğu imam hatipte okumasın diye</a> <a class="b" href="/?q=bo%c4%9faz%c4%b1ndan+kesip+zoraki+%c3%b6zel+okula">boğazından kesip zoraki özel okula</a> <a class="b" href="/?q=g%c3%b6nderen+adama+kesemezsin+ulan!">gönderen adama kesemezsin ulan!</a><br/>sen bu krizin faturasını metroda götünde başkasının aletiyle yol gitmesin diye boktan micra alan kadına kesemezsin!sen bu krizin faturasını en doğal hakkı olan tatile 800 euro (en gariban avrupalının 15 günlük kazancı) verip senede bir kere deniz gören insana kesemezsin! sen insanca yaşamak isteyenlere onursuzca fareler gibi yaşamalarını emredemezsin!<br/>ağababaların semirip bitleri kanlanırken bu ülkeyi sömüremezsin. <br/>yaşam stiline laf etmiş konuşan vibratör. seni alıp oslo'ya filan götürmeyi değil daha 30 yıl önce diktatör altında inim inim inleyen romanya'ya götürsem aklın gider. polonya dediğimiz eski doğu bloğu ülkesi bile bizden iyi yaşıyor sen kimsin lan krizin faturasını kıt kanaat geçinen millete kesiyorsun. vakıfların yediklerine bakacaksın. iktidarın 5 atlısı şirketlere bakacaksın. omurgasız tüsiad'ına, fetöcü tuskon'una, allah diyip hamuduyla götüren diğer müsiad'ına askon'una bakacaksın. <br/>senin evine eti geçtim soğanla patates girmiyor lan artık utanmaz arlanmaz. <br/>terbiyesiz köppek seni!
   entry_channels: siyaset,ekonomi
@@ -142,7 +142,7 @@ data:
     behzat ç.
   entry_id:  89214628
   entry_writer: civilengg
-  entry_fav_count: 87
+  entry_fav_count: 88
   entry_content: |
     bazi arkadaslar eski tadi vermeyecegini soyluyor.<br/>olsun arkadaslar, biz de mutsuz olalim, herkes mutlu olacak diye bir sey yok, ben amirimle mutsuzluga da varim.
   entry_channels: tv,sinema,edebiyat,spoiler
@@ -150,7 +150,7 @@ data:
     sıla gençoğlu
   entry_id:  89225790
   entry_writer: dictum sapienti sat est
-  entry_fav_count: 82
+  entry_fav_count: 83
   entry_content: |
     ahmet kural: "buradan açıklıyorum. kendisi hem erkeklere hem kadınlara psikolojik ve fiziksel şiddet uygulamayı çok sever."<br/><br/>bu açıklamanın yüzde 100 doğru olduğunu düşünmekteyim.
   entry_channels: müzik,magazin
@@ -163,20 +163,28 @@ data:
     aynı başlık geçen sene bu aylarda fenerbahçe için açılmıştı ve sonuç malum.<br/><br/>ben beşiktaş'ı biraz olsun tanimissam son haftalarda kendini o strese sokmaz ve bu akşam sivas'a puan kaybeder.<br/><br/>edit: (bkz: <a class="b" href="/entry/72405976">#72405976</a>)
   entry_channels: spor
 - entry_name: |
+    terorist elebaşına sayın diyen cumhurbaşkanı
+  entry_id:  89224902
+  entry_writer: draculaya inanmayan sivrisinek
+  entry_fav_count: 63
+  entry_content: |
+    muz cumhuriyetinde gerçekleşmiş ütopik hadise. aynı zamanda vatanı uğruna ölmüş insanlara, şehitlerine de kelle demiştir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/-o5DUfJQaWA?t=88s" title="https://youtu.be/-o5DUfJQaWA?t=88s">link</a><br/><br/>ek: şehit ailelerinin açtığı manevi tazminat davasına da "3 kuruşluk" diyerek aklınca dalga geçmiştir.
+  entry_channels: siyaset
+- entry_name: |
+    arya stark
+  entry_id:  89219652
+  entry_writer: carsafgibideniz
+  entry_fav_count: 58
+  entry_content: |
+    uzunca zamandır görmeyeli seni<br/>bir başka kadın, bir hoş olmuşsun<br/>kollarıma alıp da sarmayalı seni<br/>beyaz penir gibiydin, kaşar olmuşsun
+  entry_channels: tv,edebiyat
+- entry_name: |
     devlet bahçeli
   entry_id:  89211252
   entry_writer: kuyles
   entry_fav_count: 57
   entry_content: |
     1987'den beri siyaset yapıyormuş. 32 yıl yani. bugün 71 yaşında, ve tam 32 yıldır yaşadığı ülke medenileşmesin, insanlar bir araya gelmesin, birbirlerini sevmesin, herkes herkese düşman olsun, kimse mutlu huzurlu insanca bir yaşam sürmesin diye bıkmadan usanmadan çabalıyor bu adam. müthiş bir azim, inanılmaz bir ülke ve ülke insanı nefreti. ve bunun adına "milliyetçilik" diyorlar. <br/><br/>tanım: kendisini, yaşadığı ülkeye her türlü kötülüğü yapmaya adamış kişi.
-  entry_channels: siyaset
-- entry_name: |
-    terorist elebaşına sayın diyen cumhurbaşkanı
-  entry_id:  89224902
-  entry_writer: draculaya inanmayan sivrisinek
-  entry_fav_count: 54
-  entry_content: |
-    muz cumhuriyetinde gerçekleşmiş ütopik hadise. aynı zamanda vatanı uğruna ölmüş insanlara, şehitlerine de kelle demiştir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/-o5DUfJQaWA?t=88s" title="https://youtu.be/-o5DUfJQaWA?t=88s">link</a><br/><br/>ek: şehit ailelerinin açtığı manevi tazminat davasına da "3 kuruşluk" diyerek aklınca dalga geçmiştir.
   entry_channels: siyaset
 - entry_name: |
     kılıçdaroğlu'na kaldırım taşı atan kadın
@@ -187,50 +195,34 @@ data:
     bu sey degil mi ya; teyzemmm diye hitap ettiginiz "misafirperver, sicak anadolu kadini"? <br/><br/>firsat bulsa iste boyle tasla 70 yasindaki adamin kafasini ezmeye calisir bu misafirperver, tontis teyze.
   entry_channels: siyaset,haber
 - entry_name: |
-    ibb.istanbul'un 13 milyon tl'ye yapılması
-  entry_id:  89214371
-  entry_writer: chess player
-  entry_fav_count: 47
+    22 nisan 2019 kağıthane'de bina çökmesi
+  entry_id:  89227935
+  entry_writer: opak
+  entry_fav_count: 48
   entry_content: |
-    yapan şirketin yönetim kurulu başkanı, başaksehirsporun başkan vekili imiş aynı zamanda. vay vay vay. paranın nereden geldiği belli oluyor. fakirden alıp zengine vererek hırsızlığa yeni bir boyut katmış lavuklar.<br/><br/>doğruluğu ibb tarafından teyit edilmesi gereken bilgi.
-  entry_channels: siyaset,teknoloji,haber
-- entry_name: |
-    arya stark
-  entry_id:  89219652
-  entry_writer: carsafgibideniz
-  entry_fav_count: 44
-  entry_content: |
-    uzunca zamandır görmeyeli seni<br/>bir başka kadın, bir hoş olmuşsun<br/>kollarıma alıp da sarmayalı seni<br/>beyaz penir gibiydin, kaşar olmuşsun
-  entry_channels: tv,edebiyat
-- entry_name: |
-    22 nisan 2019 devlet bahçeli geri vitesi
-  entry_id:  89235617
-  entry_writer: excelsior was here
-  entry_fav_count: 40
-  entry_content: |
-    bahçeli evde 3 erkekle hoş vakit geçirirken denk geldiğim geri vitesdir. şimdi bahçeli evde mangalımıza devam ediyoruz. rakı falan da yaparız birazdan.
-  entry_channels: siyaset
+    aynı zamanda akbelediyeciliğin çöküşüdür.<br/><br/>2 sene önce yapılmış bina bugün yerle bir oluyor. bunun gibi onbinlerce yapı var.<br/><br/>istanbul’a yapılan bu ihaneti biz affetsek tarih affetmeyecek.<br/><br/>edit: bina kaynaklı değil, kazı kaynaklı imiş çökme. sorumlu aynı kalsa da sebep farklıymış.
+  entry_channels: siyaset,haber
 - entry_name: |
     bir entelektüelin olmazsa olmaz aksesuarı
   entry_id:  89235619
   entry_writer: codmother
-  entry_fav_count: 38
+  entry_fav_count: 43
   entry_content: |
     beynidir.
   entry_channels: anket
 - entry_name: |
-    ilişkilerin bitme sebepleri
-  entry_id:  89230862
-  entry_writer: moon grass
-  entry_fav_count: 33
+    22 nisan 2019 devlet bahçeli geri vitesi
+  entry_id:  89235617
+  entry_writer: excelsior was here
+  entry_fav_count: 41
   entry_content: |
-    ilişkinin türü önemli değil, yüksek ego. <br/><br/>muhakkak benim de egomu az ya da çok, bilerek ya da bilmeyerek ortaya koyduğum durumlar vardır ama karşıdakinin canını yakmaya yönelik, onu kötü hissettirecek sözler sarf ettirecek ego bambaşka bir şey. bundan duyduğum tiksinti ete kemiğe bürünüyor; başımı ağrıtıp, midemi bulandırıyor.
-  entry_channels: ilişkiler
+    bahçeli evde 3 erkekle hoş vakit geçirirken denk geldiğim geri vitesdir. şimdi bahçeli evde mangalımıza devam ediyoruz. rakı falan da yaparız birazdan.
+  entry_channels: siyaset
 - entry_name: |
     sözlükçülerin en sevdiği pokemon
   entry_id:  89232604
   entry_writer: fuckgloballythinklocally
-  entry_fav_count: 28
+  entry_fav_count: 31
   entry_content: |
     tabii ki <a class="b" href="/?q=egemen+ba%c4%9f%c4%b1%c5%9f">egemen bağış</a>.
   entry_channels: anket,tv
@@ -238,10 +230,42 @@ data:
     2019 ramazan ilk dayak piyangosu
   entry_id:  89234905
   entry_writer: chess player
-  entry_fav_count: 19
+  entry_fav_count: 25
   entry_content: |
     bir sürprize imza atılıp istanbul'da gerçekleşecektir. sonrasında sakarya, konya, kayseri, erzurum ve bayburt dayakların yeniden sayımı için itirazda bulunur.
   entry_channels: siyaset,anket,ilişkiler
+- entry_name: |
+    23 nisan 2019 ysk ara kararı
+  entry_id:  89238143
+  entry_writer: trendline
+  entry_fav_count: 24
+  entry_content: |
+    ara karar ne demek amk? sevişelim ama sevgili olmayalım gibi bir şey mi?
+  entry_channels: siyaset,haber
+- entry_name: |
+    ekrem imamoğlu ve fatih portakal ile eve çıkmak
+  entry_id:  89238373
+  entry_writer: thessaloniki
+  entry_fav_count: 19
+  entry_content: |
+    fatih yemek yaparken "evet şimdi izmir köfte gelsin" der, ekrem başkan da "sofrada olan da olmayan da, kars'ın ketesi de izmir'in köftesi de benimdir. ben bütün yemeklerin başkanıyım" der.
+  entry_channels: 
+- entry_name: |
+    2019 2020 sezonu fenerbahçe teknik direktörü
+  entry_id:  89224568
+  entry_writer: lordstar
+  entry_fav_count: 17
+  entry_content: |
+    üstteki yazarların fanatik gsli teknik direktörleri fenerbahçeye aday göstermesi eksik futbol bilgilerini göstermektedir. bence fenerbahçeliliğinizi sorgulayın öncelikle
+  entry_channels: spor
+- entry_name: |
+    bir kedi ile ev arkadaşı olmak
+  entry_id:  89230588
+  entry_writer: cibez
+  entry_fav_count: 16
+  entry_content: |
+    5 yıl önce, veterinerin kapısına terkedilmiş. 4 ya da 5 aylıkken. evimi açtım; evin sahibi oldu. ben onun her akşam konuğuyum. kapılarda karşılar, hatrımı sorar, derdimi dinler, oyunlar oynar benle, yemek seçer, şımarmaz, hanımhanımcık bir tekir. sokak kedisi irmam, değme salon kedisinden soylu. yalnızlığınıza ilaç olur, mırıltı olur derdinize. tavsiye ederim.
+  entry_channels: 
 - entry_name: |
     22 nisan 2019 sivasspor beşiktaş maçı
   entry_id:  89238789
@@ -251,6 +275,14 @@ data:
     yine anadolu takımı noname zencisinin sikip attığı başka bir maç :d bunlar bunları nerden buluyor aq
   entry_channels: spor
 - entry_name: |
+    16 şubat 2019 vakko rezaleti
+  entry_id:  89225772
+  entry_writer: nickime takmiyorum
+  entry_fav_count: 15
+  entry_content: |
+    bırakalım duygusallığı ve bıraz ortadogunun ölmüş keçi götü kokan havasından sıyrılıp, demokratik ve özgür bir ülkede, adaletli bir ülkede yaşadığımızı varsayalım...<br/>biliyorum, çok ama çok zor olacak bu!<br/>hatta ütopik bir varsayım bu ama işte, sanki insanmışız da , değerimiz varmış ve insan gibi yaşıyormuşuz gibi yapalım!<br/>olduğu kadar artık:<br/><br/>1. bir müşteri özel bir hizmet almak için para ödüyor.<br/>2. müşteri hizmeti almak için istekli.<br/>3. satıcının elinde müsterinin para ödeyerek aldığı hizmeti karşılayacak ürün yok.<br/>4. satıcı ürün tedariği için zaman istiyor. müşteri bedelini ödediği hizmeti almak için zaman kaybını kabul edıyor. <br/>5. fırma bu urunu tedarık edemıyor. musterınin bedelini odeyere alması gereken hızmetı karsılayamıyor.<br/>6. musterı bu bedeli gerı istiyor. cunku satıcının ıyı nıyetlı olması, asıl memnunıyetı saglayacak urun olmadan anlamlı değil...<br/>7. alınmamış-alınamamış bu hızmetın bedelının gerı odenmesı hayatın normal akısına uygun olandır.<br/>8. bu da vakko'ya hıc yakısmamıs!<br/>9. aaa! pardon! turkıyenın vakkosuydu bu! cok yakışmış, bravo! aynen devam!
+  entry_channels: ekonomi
+- entry_name: |
     bir cümle ile seks hayatın
   entry_id:  89221287
   entry_writer: gecoldugucoldu
@@ -258,22 +290,6 @@ data:
   entry_content: |
     tanrı dağlarında yalnız uluyan vekil gibi.
   entry_channels: anket,ilişkiler
-- entry_name: |
-    2019 2020 sezonu fenerbahçe teknik direktörü
-  entry_id:  89224568
-  entry_writer: lordstar
-  entry_fav_count: 14
-  entry_content: |
-    üstteki yazarların fanatik gsli teknik direktörleri fenerbahçeye aday göstermesi eksik futbol bilgilerini göstermektedir. bence fenerbahçeliliğinizi sorgulayın öncelikle
-  entry_channels: spor
-- entry_name: |
-    16 şubat 2019 vakko rezaleti
-  entry_id:  89225772
-  entry_writer: nickime takmiyorum
-  entry_fav_count: 14
-  entry_content: |
-    bırakalım duygusallığı ve bıraz ortadogunun ölmüş keçi götü kokan havasından sıyrılıp, demokratik ve özgür bir ülkede, adaletli bir ülkede yaşadığımızı varsayalım...<br/>biliyorum, çok ama çok zor olacak bu!<br/>hatta ütopik bir varsayım bu ama işte, sanki insanmışız da , değerimiz varmış ve insan gibi yaşıyormuşuz gibi yapalım!<br/>olduğu kadar artık:<br/><br/>1. bir müşteri özel bir hizmet almak için para ödüyor.<br/>2. müşteri hizmeti almak için istekli.<br/>3. satıcının elinde müsterinin para ödeyerek aldığı hizmeti karşılayacak ürün yok.<br/>4. satıcı ürün tedariği için zaman istiyor. müşteri bedelini ödediği hizmeti almak için zaman kaybını kabul edıyor. <br/>5. fırma bu urunu tedarık edemıyor. musterınin bedelini odeyere alması gereken hızmetı karsılayamıyor.<br/>6. musterı bu bedeli gerı istiyor. cunku satıcının ıyı nıyetlı olması, asıl memnunıyetı saglayacak urun olmadan anlamlı değil...<br/>7. alınmamış-alınamamış bu hızmetın bedelının gerı odenmesı hayatın normal akısına uygun olandır.<br/>8. bu da vakko'ya hıc yakısmamıs!<br/>9. aaa! pardon! turkıyenın vakkosuydu bu! cok yakışmış, bravo! aynen devam!
-  entry_channels: ekonomi
 - entry_name: |
     ekşi itiraf
   entry_id:  89211023
@@ -283,77 +299,69 @@ data:
     bir sevgi istiyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    akp-chp koalisyonu
-  entry_id:  89213519
-  entry_writer: herzt
-  entry_fav_count: 8
-  entry_content: |
-    chp-msp koalisyonu farklı görüşlere, ideolojilere sahip olsa da, kendi meşreplerince ülkenin selameti ortak paydasında buluşabilen taraflardı, ikisinin de düşündüğü türkiye idi. bu koalisyonunsa bir ayağının tek amacı hainlik, gericilik, bölücülüktür (bilin bakalım hangisi?). o sebepten olamayacak koalisyondur.
-  entry_channels: siyaset,haber
-- entry_name: |
-    23 nisan 2019 ysk ara kararı
-  entry_id:  89238143
-  entry_writer: trendline
-  entry_fav_count: 8
-  entry_content: |
-    ara karar ne demek amk? sevişelim ama sevgili olmayalım gibi bir şey mi?
-  entry_channels: siyaset,haber
-- entry_name: |
-    mehmet tevfik göksu
-  entry_id:  89228978
-  entry_writer: izzetisormazatenperisan
-  entry_fav_count: 5
-  entry_content: |
-    şu anda canlı yayınlanan ibb belediye meclis toplantısını resmen sabote etmektedir. istanbul'un 39 ilçesi arasındaki en kötü 3 ilçeden birisi kendisinde olup, kendisi de 10 yıldlır belediye başkanıdır. tamamen tribüne oynamakta şu an. pişkinlğin bu kadarı da olmaz. senin ilçende daha devlet hastanesi yok, sokaklar torbacıdan geçilmiyor. kentsel dönüşüm diye diktirdiğin yeni apartmanların yüzde sekseninin altında otopark yok puşt. millet sokakta üstüste araba park ediyor. çomar ilçenin çomar başkanı. işin zor valla ekrem başkan allah yardımcın olsun.<br/><br/>edit: imla ve ekleme
-  entry_channels: siyaset
-- entry_name: |
-    göksel gümüşdağ
-  entry_id:  89230697
-  entry_writer: fsoceity
-  entry_fav_count: 5
-  entry_content: |
-    iktidar tarafından "futbola siyaset karıştırmayın" dedikten hemen sonra istanbul büyükşehir belediye başkan vekili seçilen başakşehir adlı bahis takımının başkanıdır.
-  entry_channels: spor,siyaset
-- entry_name: |
-    ankarada ekmeğe yüzde 25 zam gelmesi
-  entry_id:  89236736
-  entry_writer: cenkdesouza
-  entry_fav_count: 5
-  entry_content: |
-    gramajdan çala çala yakında sandiviç ekmek olacaktı.<br/>belki biraz olsun haysiyetli ekmek yer ankara halkı.
-  entry_channels: haber,yeme-içme,ekonomi
-- entry_name: |
     kılıçdaroğlu'nun zorla şehit cenazelerine gitmesi
   entry_id:  89238914
   entry_writer: import os
-  entry_fav_count: 2
+  entry_fav_count: 9
   entry_content: |
     sarayda altın klozete sıçmak yerine devlet adamlığını tercih ettiği için gidiyor olmasın ?
   entry_channels: siyaset,anket,tv,haber
 - entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  89215724
-  entry_writer: asimpleman
-  entry_fav_count: 2
+    devlet bahçeli'nin cinsel yönelimi
+  entry_id:  89228395
+  entry_writer: grundikkafa
+  entry_fav_count: 8
   entry_content: |
-    uzunca bir süredir soru sormuyordum.<br/><br/>gerçek sevginin ne demek olduğunu bilen kadınların çok daha öz güvenli, çok daha güçlü kadınlar olduğunu biliyorum.<br/><br/>özellikle çocukluk döneminde, başta babaları tarafından gerçekten sevilip desteklenen kız çocukları karşımıza güçlü ve özgüvenli, üstelik başarılı kadınlar olarak çıkıyor.<br/><br/>bu doğrultuda sizler, gerçek sevgi nedir sorusuna nasıl yanıt verirsiniz?<br/><br/>bu duygunun nasıl bir şey olduğunu biliyor musunuz?<br/><br/>bu konuda herhangi bir keşkeniz var mı?<br/><br/>eğer sizler için şu üç soruma yahut herhangi birine cevap vermek nezaketini gösterirseniz çokça memnun olurum.<br/><br/>teşekkür ederim.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    mete kalkavan
-  entry_id:  89239493
-  entry_writer: keyfinbilir
-  entry_fav_count: 1
-  entry_content: |
-    burayı boş bıraktık galiba. it-köpek doluşmuş yine. ilk yarıda beşiktaş’ın net penaltısını vermedi.<br/><br/>2-0 bitmesi muhtemel ilk yarı 1-1 bitti.<br/><br/>bir hakemin bir takımı kollaması için o takımın ismi galatasaray olmalı bu ligde. tarihe böyle yazıldı.
-  entry_channels: spor
+    sedat peker ile aynıdır, travesti siken kuçu kuçularinin bir üst versiyonudur
+  entry_channels: 
 - entry_name: |
     anne olmak istemeyen kadın
-  entry_id:  89218983
-  entry_writer: yesim
+  entry_id:  89235575
+  entry_writer: tuzbuzz
+  entry_fav_count: 8
+  entry_content: |
+    benımkı tamamen hayatıma gırecek erkegın ekonomık durumuyla alakalı.<br/>bır cocuk buyutebılecek kadar cok kazanmıyorum ben.<br/>sevgılımde de cebınde ne tasıdıgına bakmıyorum, kulturlu mu dıye bakıyorum, yakısıklı mı dıye bakıyorum, beyfendı mı dıye bakıyorum, nuktedan bı zekası var mı, arada benı guldurebılıyor mu dıye bakıyorum, vefalı mı zor gunde orda olur mu dıye bakıyorum.<br/>beraber yaslanmayı dusundugum erkek arkadasımın sansa durumu ıyı olursa cocuk yaparım.<br/>ekonomık olarak durumu sıkıntılıysa cocuk dogurmam, bı bebegın gelecegıyle oynayıp onu sefalet ıcınde buyutemem.<br/>boyle bı durumda bızım sevgımız o kadar buyuk kı yokluk da ceksek bırbırımıze yeterız dıye dusunurum.<br/>ben gogus gererım ask ıcın ekonomık sıkıntıya. cıksak da batsak da beraberız.<br/>ama cocugun vebalını bu konuda alamam.
+  entry_channels: ilişkiler,sağlık
+- entry_name: |
+    mehmet tevfik göksu
+  entry_id:  89228978
+  entry_writer: izzetisormazatenperisan
+  entry_fav_count: 6
+  entry_content: |
+    şu anda canlı yayınlanan ibb belediye meclis toplantısını resmen sabote etmektedir. istanbul'un 39 ilçesi arasındaki en kötü 3 ilçeden birisi kendisinde olup, kendisi de 10 yıldlır belediye başkanıdır. tamamen tribüne oynamakta şu an. pişkinlğin bu kadarı da olmaz. senin ilçende daha devlet hastanesi yok, sokaklar torbacıdan geçilmiyor. kentsel dönüşüm diye diktirdiğin yeni apartmanların yüzde sekseninin altında otopark yok puşt. millet sokakta üstüste araba park ediyor. çomar ilçenin çomar başkanı. işin zor valla ekrem başkan allah yardımcın olsun.<br/><br/>edit: imla ve ekleme
+  entry_channels: siyaset
+- entry_name: |
+    ankarada ekmeğe yüzde 25 zam gelmesi
+  entry_id:  89236736
+  entry_writer: cenkdesouza
+  entry_fav_count: 6
+  entry_content: |
+    gramajdan çala çala yakında sandiviç ekmek olacaktı.<br/>belki biraz olsun haysiyetli ekmek yer ankara halkı.
+  entry_channels: haber,yeme-içme,ekonomi
+- entry_name: |
+    eski sevgiliye edilebilecek en büyük beddua
+  entry_id:  89236258
+  entry_writer: hz emreyiz
+  entry_fav_count: 3
+  entry_content: |
+    "umarım bana yaşattıklarının aynısını yaşarsın"
+  entry_channels: ilişkiler
+- entry_name: |
+    hayatta hiçbir şey beceremeyip akıl veren tip
+  entry_id:  89229257
+  entry_writer: huzursuz
   entry_fav_count: 1
   entry_content: |
-    yarın bir gün kocasının onu bırakma ihtimalini göz önünde bulundurup, çoçuğun sorumluluğunu almak istemeyen kadın da olabilir.
-  entry_channels: ilişkiler,sağlık
+    30k kredi karti borcu olan arkadasimin, kredi kartini nasil kullanmam gerektigini anlattiginda dusundugum sey. anlatisinin sonunda da zaten "senin 30k borcun var, demek ki dediklerinin tersini yapmak daha cikarli olabilir" diye bir cikarima varmis, arkadasima da bunu ifade etmistim.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ahmet kural
+  entry_id:  89221466
+  entry_writer: ugurcemergin
+  entry_fav_count: 1
+  entry_content: |
+    hapis cezasını nasıl aldı ya? hani suçsuzdu lan.
+  entry_channels: tv,sinema,magazin
 - entry_name: |
     22 nisan 2019 vpn'lerin çalışmaması
   entry_id:  89236488
@@ -364,42 +372,34 @@ data:
   entry_channels: teknoloji
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  89212420
-  entry_writer: tough times
+  entry_id:  89239688
+  entry_writer: testester10
   entry_fav_count: 0
   entry_content: |
-    aşkı arayan çaylak kadınlar yazabilir
+    kan değerleri düzgün olan, sağlıklı, buz dolu bir küvette uyanmayı göze alabilen, yeşil ameliyat önlüğü seven kadın çaylakları beklediğim veritabanıdır. kek ve vişne suyu ikramımızdır.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
-    loris karius
-  entry_id:  89239179
-  entry_writer: not just a dream izzet altinmese 2
+    mete kalkavan
+  entry_id:  89240371
+  entry_writer: efee0101
   entry_fav_count: 0
   entry_content: |
-    liverpool'un sahada attığı 8 gol yetmedi, saha dışındada bi tane attılar, bu kova ile. seneye de lovren'i aldık mı tamamdır, 10'a tamamlamış oluruz.
+    son 20 dk, maç 1-1 beşiktaşa penaltı çalmak için fırsat kolluyan tilki. bu maç 1-1 bitsin bu herif 3 gün ağlar
   entry_channels: spor
 - entry_name: |
-    eski sevgiliye edilebilecek en büyük beddua
-  entry_id:  89231838
-  entry_writer: darlamabenijohn
+    loris karius
+  entry_id:  89239331
+  entry_writer: dv8
   entry_fav_count: 0
   entry_content: |
-    bence "umarım hiçbir zaman mutlu olamazsın" dır. bir ara etmişliğim vardır, zaman geçtikten sonra lafımı geri aldım tabi orası ayrı.
-  entry_channels: ilişkiler
+    yediği golde nasıl suçu yok? kaleyi açsan bu kadar kolay gol atılır zaten. adam açısını tutturamıyor nasıl kaleci olmuş anlaşılır gibi değil. kornerde de topa yükselişi akıllara zarar.<br/>not:gs
+  entry_channels: spor
 - entry_name: |
-    en son gerçekten mutlu hissedilen an
-  entry_id:  89211480
-  entry_writer: gulaylaylay
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  89213447
+  entry_writer: karakids
   entry_fav_count: 0
   entry_content: |
-    sanırım hatırlamıyorum.
-  entry_channels: anket
-- entry_name: |
-    21 nisan 2019 sri lanka patlamaları
-  entry_id:  89238436
-  entry_writer: aparkat hamdi
-  entry_fav_count: 0
-  entry_content: |
-    cok ilginc ya, sri lanka da 200-300 kisi ölüyor kimseden ses yok. yeni zelanda'da 40-50 kisi ölüyor dunya ayaklaniyor. demek ki bu oldurulenin dininden ziyade katliamin yasandigi ulkenin onemiyle daha dogru orantili. bu 200-300 hristiyan 1. dunya ulkelerinden herhangi birinde oldurulseydi su an bu haberler falan cok daha farkli veriliyor olacakti.
-  entry_channels: siyaset,haber
+    tanımadığınız birinden çiçek aldınız? tepkiniz nasıl olur?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
