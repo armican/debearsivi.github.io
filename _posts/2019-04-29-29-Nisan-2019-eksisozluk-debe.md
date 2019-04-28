@@ -6,39 +6,23 @@ data:
     deep turkish web için 5-10 yıl arası hapis istemi
   entry_id:  89445405
   entry_writer: serendiptytr
-  entry_fav_count: 943
+  entry_fav_count: 959
   entry_content: |
     oha dediğim haberdir yok artık amk! kılıçdaroğluna linç girişiminde bulunup, darp edenler serbest bırakılıyor saçma bir video için adamların geleceğini yakıyorlar lan!
   entry_channels: haber
 - entry_name: |
-    bolu belediyesi'nde itfaiyecinin efsanevi kariyeri
-  entry_id:  89439783
-  entry_writer: tabudeviren
-  entry_fav_count: 534
-  entry_content: |
-    2004-2019 yılları arasında <a class="b" href="/?q=alaaddin+y%c4%b1lmaz">alaaddin yılmaz</a> (akp) tarafından yönetilen bolu belediyesi'ne 10 sene önce itfaiye eri olarak giren <a class="b" href="/?q=serkan+%c4%b1lgaz">serkan ılgaz</a>'ın (başkanın uzaktan akrabasıymış) efsanevi kariyeridir. itfaiye eri olarak işe başlayan serkan ılgaz, şunların <a rel="nofollow noopener" class="url" target="_blank" href="https://www.cnnturk.com/yerel-haberler/bolu/merkez/bolu-belediyesinde-6-ust-duzey-gorevi-birden-yurutuyordu-itfaiye-eri-oldu-983917" title="https://www.cnnturk.com/yerel-haberler/bolu/merkez/bolu-belediyesinde-6-ust-duzey-gorevi-birden-yurutuyordu-itfaiye-eri-oldu-983917">hepsini birden yürütüyormuş:</a><br/><br/>• özel kalem müdür vekilliği<br/>• insan kaynakları birim sorumluluğu<br/>• belediye bünyesindeki 'tabiatın kalbi bolu' şirketinin yönetim kurulu üyeliği, <br/>• iş sağlığı ve güvenliği uzmanlığı, <br/>• belediye bilişim birim sorumluluğu<br/>• halk ekmek fırın müdür vekilliği<br/><br/>2019 yerel seçimlerinin ardından tanju özcan (chp) belediye başkanı seçilince bütün görevlerinden alınıp tekrar itfaiye eri yapılmış.<br/><br/>edit: bolu'da yaşan bir arkadaşımız haberde 10.000 lira olarak gösterilen maaşın sadece "tabiatın kalbi bolu" biriminden geldiğini, başka birimlerden de artı para aldığını söyledi. eşi ve annesi de belediyede memurmuş arkadaşın dediğine göre.
-  entry_channels: siyaset,haber
-- entry_name: |
     ekşi sözlük mühendisleri robot yapsın kampanyası
   entry_id:  89445116
   entry_writer: askeriucret750tlolsun
-  entry_fav_count: 289
+  entry_fav_count: 297
   entry_content: |
     genel müdürlük lazımsa ben yapabilirim. atölyeye 5 dakika uğrar aferin evladım der ofisime geçerim.
   entry_channels: anket,ekşi-sözlük,bilim,programlama,teknoloji
 - entry_name: |
-    oral seks yapmayı seven kadın
-  entry_id:  89440767
-  entry_writer: uc tel bir omur
-  entry_fav_count: 251
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=LkuLlDinGJY" title="https://www.youtube.com/watch?v=LkuLlDinGJY">gerçek prensestir, tam olarak şu özelliklere sahiptir</a>
-  entry_channels: ilişkiler
-- entry_name: |
     canan kaftancıoğlu
   entry_id:  89429558
   entry_writer: lahmacunmania
-  entry_fav_count: 248
+  entry_fav_count: 249
   entry_content: |
     valla istediğiniz kadar götünüzü yırtın, kadın 31 mart'ta çalıştı.. chp yine her seçim olduğu gibi oyları çaldırıp arkasından alık gibi bakmadıysa bu kadının payı büyüktür. bu ülkede seçim kazanılacaksa sike sike kürtlerden oy alacaksınız. bu kadın gibi sonuçlarla değil, pkkcılara siyasi zemin hazırlayan onları kürtlere ulaşmanın bir aracı olarak kabullendirenlere laf edin. pkk yöneticisinin arkadaşını belediye başkanı yaptı bu halk ve çok sevdiği ampulü, sktirin gidinde onlara laf edin.<br/><br/>edit: bu kadın var diye ak yürüyenler oy vermezmiş. yarak vermez, kendi çobanları kırk yıllık terörist başına methiyeler düzerken, türk kanı içmek istiyorum diyen şivan perverle halaylar çekerken, türklüğü milliyetçiliği ayaklar altına alırken, barzaniyle yatağa girerken verdiyse şimdi de verir. biliyorlardı görüyorlardı yine de verdiler. seçmenin bi omurgası var falan zannediyorsunuz. zaten vermezlersede kendi pisliklerinde çürüsünler. sikim kadar oyu olan mhp nin boş kahvehane milliyetçiliğini sözlükçüler bile yemiş. bu millet milliyetçi falan değil. işine geldimi milliyetçisi.
   entry_channels: siyaset,magazin
@@ -46,7 +30,7 @@ data:
     evlenilen erkeğin patlak çıkması
   entry_id:  89441405
   entry_writer: tepengatikelasen
-  entry_fav_count: 242
+  entry_fav_count: 246
   entry_content: |
     yallah babasının evine.patlak bir erkek ortasından sıkılmış diş macunu gibidir.<br/>nitekim hiçkimse kadınların oyuncağı olmuş,denemediği pozisyon kalmamış,milletin altında üstünde orasında burasında inlemiş bir erkeği çocuklarının babası yapmak istemez.<br/>zırtlan meriçeler “bekaret önemli değil yeah ,bu kadar geri kafalı olma”ayaklarına yatıp kandırır bu akıl fikir yoksunlarını.iki güzel laf edip bir iki hediye aldın mı hemen teslim eder kendini bunlar da.halbuki otur oturduğun yerde yemek falan yap,ne işin var elin kadınlarıyla.<br/>her haltı yedikten sonra benim gibi helal süt emmiş,işi gücü yerinde,mülayim kadın arayışına girer bir de bunlar.ama yemezler canım,hadi başka kapıya.kucaklarına atlayıp yatağına girdiğin kadınlar bir gün tekmeyi bastığında,piyasan bittiğinde aklına gelir efendi kadınların değeri.<br/>hadi tüm bunları geçtim zaten bi insan neden sevişir,götüne şaplak attırır hiç anlam veremem.
   entry_channels: ilişkiler
@@ -54,7 +38,7 @@ data:
     bir öğretmenin kalitesiz olduğunu gösteren şeyler
   entry_id:  89444448
   entry_writer: yummudukcukluluk
-  entry_fav_count: 184
+  entry_fav_count: 191
   entry_content: |
     öğretmemesi. <br/>ilkokulda beden eğitimi öğretmenlerinde çok görülürdü bu. sıraya geçerdik sonra serbestsiniz çocuklar derdi, biz de en çok öyle hocaları severdik. <br/>öğrencilerine 2-3 top verip, serbestsiniz diyen hocalar için; ders başlar başlamaz derse gelip, zil çalana kadar bir şeyler öğretmek isteyen hocaları üzdük. <br/>sonra da eğitim niye gelişmiyor yeağh diye dövünüp durduk kendimizce. ama biz aslında bunu hakettik.
   entry_channels: anket,eğitim
@@ -62,23 +46,15 @@ data:
     30 yaş üstü bekar kadınların kayışı koparması
   entry_id:  89436728
   entry_writer: cirkinlik ne kadar kolay
-  entry_fav_count: 164
+  entry_fav_count: 167
   entry_content: |
     ülkede herşey yolunda nasılsa, bekar kadının tek derdi bekarlığı..o yüzden kayışı koparıyor.<br/><br/>her gün emeğimiz sömürülüyor berbat çalışma koşullarıyla<br/>otobüste sokakta iş yerinde taciz mobbing <br/>güvenmediğimiz bir adalet sistemi<br/>akşam haberlerinde irademizi onurumuzu seçimlerimizi sürekli yargılayan ve bunlar için bize hakaret eden siyasiler<br/>çocuklara, hayvanlara, ağaçlara, güzel olan ne varsa hepsine düşman olan zihniyetin her geçen gün yaygınlaşması<br/>ekonominin geldiği noktada durmadan kötüleşen yaşam şartları ......<br/><br/>tanım: bu ülkede kayışı koparmanız için onca neden varken sevişmememize takmış ergenlerin derdi.
   entry_channels: ilişkiler
 - entry_name: |
-    günlerdir oy sayan 272 sandık görevlisinin ölmesi
-  entry_id:  89447664
-  entry_writer: delirmeyetekbilet
-  entry_fav_count: 162
-  entry_content: |
-    ülkemizde olduğunu sanarak başlığa tıklamam, ülkemizin hangi sınıfta olduğunu düşündürtmesi açısından da ilginçtir.
-  entry_channels: siyaset,haber
-- entry_name: |
     5 yaşındaki çocuk sokakta ne yapıyormuş
   entry_id:  89442516
   entry_writer: annie are you okay
-  entry_fav_count: 145
+  entry_fav_count: 148
   entry_content: |
     (bkz: <a class="b" href="/?q=m%c3%bcsl%c3%bcman+ahlaks%c4%b1zl%c4%b1%c4%9f%c4%b1">müslüman ahlaksızlığı</a>)
   entry_channels: haber
@@ -86,7 +62,7 @@ data:
     elektrik elektronik'in en zoru olması
   entry_id:  89432602
   entry_writer: saksmaviler
-  entry_fav_count: 143
+  entry_fav_count: 146
   entry_content: |
     (bkz: <a class="b" href="/?q=niye+bu+kadar+sinirlisiniz+aq">niye bu kadar sinirlisiniz aq</a>)
   entry_channels: anket,eğitim
@@ -94,7 +70,7 @@ data:
     insanların yalnız kalmasının gerçek sebepleri
   entry_id:  89429402
   entry_writer: eindaclub
-  entry_fav_count: 106
+  entry_fav_count: 107
   entry_content: |
     başka bir frekanstan yayın yapmaları.<br/><br/>geçenlerde bir makalede okumuştum. bilimadamları yıllardır dev bir balinayı izliyorlar ve bu balinanın hiç eş bulamayışı ve kimseyle iletişime geçemeyişi dikkatlerini çekiyor.<br/><br/>iyice araştırınca fark ediyorlar ki bu balinanın gönderdiği sesler veya sinyaller diğer balinalarınkinden daha farklı bir frekansta. bir başka deyişle diğer hiçbir balina bu balinayı duymuyor.<br/><br/>böyle böyle tek başına yaşlanarak ölüyor balina. tek sebebi farklı bir frekansta olması. hatta son zamanlarına doğru dışarıya çağrı yapmayı da kesiyor. <br/><br/>insanlarda da böyle oluyor diye düşünüyorum. bazen etrafımızdaki kimse ifade etmek istediklerimizi gerçekten duymaz. e biz de bir süre sonra bırakırız kendimizi ifade etmeye çalışmayı. tıpkı bu yalnız balina gibi.
   entry_channels: anket,ilişkiler
@@ -118,7 +94,7 @@ data:
     burak yılmaz
   entry_id:  89443101
   entry_writer: talk iiii
-  entry_fav_count: 77
+  entry_fav_count: 84
   entry_content: |
     galatasaray'dayken hırsız, beşiktaş'a gelince kral olan ve galatasaraylılar'ı kudurtan oyuncu? çok ilginç. bu durumda kuduran galatasaraylı hiç görmedim ben. adam hiçbir takımda oynarken herhangi bir galatasaraylı tarafından kötü söz işitmedi. adama küfreden, yeren hep beşiktaşlılar'dı. şimdi beşiktaş'ta oynayınca neden galatasaraylı biri kudursun? yıllarca hırsız dediğiniz adama muhtaç kaldınız ve savunma psikolojisi olarak da şimdi onu bunu kudurtuyor diye kendi hayal dünyanızda bir şey uyduruyorsunuz amk. burak galatasaray ile şampiyonluklar yaşadı ve güzel de ayrıldı. hem tükürdüğünü yalayan hem de kuduran bir güruh var ama önce kendinize itiraf etmeniz gerekiyor bunu :)<br/><br/>galatasaray ile şampiyonluklar kazanan ve şampiyonlar ligi gören eski gs'li futbolcu.
   entry_channels: spor
@@ -126,7 +102,7 @@ data:
     30-40 yaş erkek ve kadın yazarları evlendiriyoruz
   entry_id:  89452389
   entry_writer: lu lu lu lukas podolski
-  entry_fav_count: 74
+  entry_fav_count: 83
   entry_content: |
     28 yaşında olduğum için beni teğet geçen kampanyadır.<br/><br/>şansa yaşıyoruz valla.
   entry_channels: ilişkiler,ekşi-sözlük
@@ -134,10 +110,18 @@ data:
     28 nisan 2019 beşiktaş ankaragücü maçı
   entry_id:  89429534
   entry_writer: tuco benedicto pacifico juan ramirez
-  entry_fav_count: 73
+  entry_fav_count: 77
   entry_content: |
     zamanında inönü'ye deplasmana gelen bir grup ankaragüçlü'nün dramını paylaşacağım sizinle. ciddi dram içerir, paylaşmadan uyarıyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tuco39467317/status/1122437864204251136" title="https://twitter.com/tuco39467317/status/1122437864204251136">buyrun</a>
   entry_channels: spor
+- entry_name: |
+    canan kaftancıoğlu'nun pkk sempatizanı olması
+  entry_id:  89441404
+  entry_writer: bonviavola
+  entry_fav_count: 71
+  entry_content: |
+    bu gerzek trollere cevap vermeye değmez ama şu fotoğraf muhabbetine olur da inan olur diye;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://teyit.org/fotograflarin-canan-kaftancioglunu-kandilde-gosterdigi-iddiasi" title="https://teyit.org/fotograflarin-canan-kaftancioglunu-kandilde-gosterdigi-iddiasi">https://teyit.org/…lunu-kandilde-gosterdigi-iddiasi</a><br/><br/>bir de akp veya trolleri birini hedef bellemişse belli ki ilerlemesini istemedikleri başarılı biridir.
+  entry_channels: siyaset
 - entry_name: |
     avustralya'nın 2 milyon kediyi yok etmesi
   entry_id:  89437511
@@ -147,18 +131,10 @@ data:
     tam bir kedici olarak fikir paylaşmadan sadece bilgi vermek için yazıyorum.hergün defarca gördüğümüz ve iç içe yaşadığımız kalabalık sincap ailesi,2 tane kedimizin çoğalarak 10lu saylılara ulaşmasından sonra yavaş yavaş azalarak tamamen kayboldu.bir gün kedilerden birinin ağzında sincap görene kadar anlam verememiştik.
   entry_channels: sağlık,haber
 - entry_name: |
-    canan kaftancıoğlu'nun pkk sempatizanı olması
-  entry_id:  89441404
-  entry_writer: bonviavola
-  entry_fav_count: 70
-  entry_content: |
-    bu gerzek trollere cevap vermeye değmez ama şu fotoğraf muhabbetine olur da inan olur diye;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://teyit.org/fotograflarin-canan-kaftancioglunu-kandilde-gosterdigi-iddiasi" title="https://teyit.org/fotograflarin-canan-kaftancioglunu-kandilde-gosterdigi-iddiasi">https://teyit.org/…lunu-kandilde-gosterdigi-iddiasi</a><br/><br/>bir de akp veya trolleri birini hedef bellemişse belli ki ilerlemesini istemedikleri başarılı biridir.
-  entry_channels: siyaset
-- entry_name: |
     trafik cezalarındaki artışa ohh iyi oldu diyen tip
   entry_id:  89451880
   entry_writer: passionflower
-  entry_fav_count: 59
+  entry_fav_count: 64
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>hayatı yollarda geçenler üç ayda 5000 tl ceza yiyor.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ınsan gibi kullan, ceza yeme o zaman aq muptezeli.
   entry_channels: haber,otomotiv
@@ -174,7 +150,7 @@ data:
     serbest bırakılan tacizcinin tacizden yakalanması
   entry_id:  89450753
   entry_writer: pert araba alan adam
-  entry_fav_count: 55
+  entry_fav_count: 56
   entry_content: |
     daha önce bir çocuğu taciz eden ve masum yavrunun tacizci ile yüzleşme korkusu nedeniyle kalp krizi geçirip ölmesine sebep olan şahıs tekrar iki çocuğu tacizden yakalanmış.<br/>umarım mutlusunuzdur serbest bırakan hakimler.<br/>tanım: ne yazsam ki?<br/><br/>link patlamış editi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.dha.com.tr/yurt/muglada-cocuklara-taciz-suphelisi-insaat-iscisi-tutuklandi/haber-1639507" title="https://www.dha.com.tr/yurt/muglada-cocuklara-taciz-suphelisi-insaat-iscisi-tutuklandi/haber-1639507">https://www.dha.com.tr/…si-tutuklandi/haber-1639507</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/YolTV/status/1122496433247137797?s=19" title="https://twitter.com/YolTV/status/1122496433247137797?s=19">https://twitter.com/…tatus/1122496433247137797?s=19</a><br/><br/>aslagelmeyecektelefonubekleyenadam 'ın hatırlatmasıyla gelen edit:<br/>(bkz: <a class="b" href="/?q=tacize+u%c4%9fray%c4%b1p+kalp+krizi+ge%c3%a7iren+9+ya%c5%9f%c4%b1nda+%c3%a7ocuk">tacize uğrayıp kalp krizi geçiren 9 yaşında çocuk</a>)
   entry_channels: haber
@@ -190,7 +166,7 @@ data:
     sözlükteki mühendisler
   entry_id:  89431817
   entry_writer: tomorrowland is dream
-  entry_fav_count: 50
+  entry_fav_count: 51
   entry_content: |
     makine mühendisiyim ve işsizim. yeni mezunsanız ve mühendisseniz hayat çok zor..<br/>edit: adamlar kız düşürmek için yazıyorlarmış meğersem benim ne işim var burda. neyse 10 k maaş alıyorum kızlar bana da yazın.
   entry_channels: anket,eğitim
@@ -206,10 +182,18 @@ data:
     atatürk'e şeytan diyen adamın swingercı çıkması
   entry_id:  89452279
   entry_writer: corsairsgold35
-  entry_fav_count: 41
+  entry_fav_count: 44
   entry_content: |
     ne kadar arapperest çöl maymunu var ise böyle ahlaksız, rezil, sapkın oluyor. bir kere de beni yanıltın be sapık piçler.
   entry_channels: 
+- entry_name: |
+    game of thrones
+  entry_id:  89431656
+  entry_writer: semenderrr
+  entry_fav_count: 42
+  entry_content: |
+    ulan ne güldüm.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a9a9ccad5562">https://eksiup.com/a9a9ccad5562</a>
+  entry_channels: tv,edebiyat,spoiler
 - entry_name: |
     akınsoft'un dört ayaklı robotu
   entry_id:  89429672
@@ -227,18 +211,10 @@ data:
     kan tükürmeli bi diş macunu reklamı var ya.<br/>işte o.<br/><br/>edit/ek: kurum reklamı kisvesiyle hükümet propagandası yapılan tüm reklamlar.<br/>vakıfbank, halkbank, vs.
   entry_channels: anket,tv
 - entry_name: |
-    game of thrones
-  entry_id:  89431656
-  entry_writer: semenderrr
-  entry_fav_count: 39
-  entry_content: |
-    ulan ne güldüm.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/a9a9ccad5562">https://eksiup.com/a9a9ccad5562</a>
-  entry_channels: tv,edebiyat,spoiler
-- entry_name: |
     bursaspor
   entry_id:  89452017
   entry_writer: bindikbiralametegidiyoruzkiyamete
-  entry_fav_count: 37
+  entry_fav_count: 38
   entry_content: |
     bursaspor layık olduğu yere gidiyor, gidin bir daha gelmeyin.
   entry_channels: spor
@@ -254,7 +230,7 @@ data:
     asgari ücretli olarak çalışıp 3-5 çocuk yapmak
   entry_id:  89451211
   entry_writer: hadi git
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     deliliktir, cehalettir, vicdansızlıktır. asgari ücretten çok fazla kazanıp ikinciyi nasıl yaparız, yetişemeyiz diye düşürürken, umarsızca üç beş çocuk sahibi olan gürüha diyecek laf bulamıyorum. sonra çocuk işçiler, sonra cahil bir gençlik, fakir ve hunlar bir toplum. geleceği olmayan çocuklar dünyaya getirmek dünyanın en saçma şeyi.
   entry_channels: ilişkiler,ekonomi
@@ -262,15 +238,23 @@ data:
     nick değiştirmek istiyoruz kampanyası
   entry_id:  89433552
   entry_writer: ellerinkaranlikyanlizligi
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     lan bu en çok da benim hakkım. ben yazım yanlışı konusunda takıntılı biriyim ve bu nicki alırken kafam neredeydi bilmiyorum. yanlız yazmışım ya yanlız yazmışım ve bunu tam tamına üç sene sonra fark ettim. hadi hepsini geçtim. nickim şarkıda geçen bir söz, ellerin karanlık yalnızlığı, meğer doğrusu evlerin karanlık yalnızlığı imiş. allah belanızı versin anksiyete sahibi oldum sayenizde.
   entry_channels: ekşi-sözlük
 - entry_name: |
+    kerimcan durmaz
+  entry_id:  89455700
+  entry_writer: the father who must be killed
+  entry_fav_count: 31
+  entry_content: |
+    sabahtan beri kadına erkeğe oral başlıklarının altına girdi düzen sözlük yazarlarının interneti çocuklar kullanıyor diyerek 31 çekene duyar kasmaya başladığı başlık.
+  entry_channels: tv,magazin
+- entry_name: |
     bir izmirli olarak istanbul'dan nefret ediyorum
   entry_id:  89450739
   entry_writer: yeni hayat lazim
-  entry_fav_count: 29
+  entry_fav_count: 31
   entry_content: |
     <a class="b" href="/?q=izmirli+iticili%c4%9fi">izmirli iticiliği</a> diye bir şey kesinlikle var. sürekli bunu ispat ediyorsunuz, yanılmadığımı görmek üzücü.. bir insanda nasıl bu kadar fanatik bir şehir merakı olur ve bunu üstünlük vesilesi yapar anlayamıyorum. aslında gelen mesajlara da bakılırsa durumun özeti (bkz: <a class="b" href="/?q=a%c5%9fa%c4%9f%c4%b1l%c4%b1k+kompleksi">aşağılık kompleksi</a>)
   entry_channels: 
@@ -283,13 +267,29 @@ data:
     ayıptır kızlar. sizin abiniz, babanız yok mu onlara böyle yapılsa ne hissedersiniz?
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
+    yurt dışındayken en çok özlenen şeyler
+  entry_id:  89436866
+  entry_writer: soyulmamis hiyar
+  entry_fav_count: 26
+  entry_content: |
+    ben en çok türkiye'de sahip olduğum sosyal yaşantıyı özlüyorum, tabii arkadaşların yanında aile ve yakın akrabalarım da bu yaşantıya dahil. amerika'da kurulan diyalogların oldukça yüzeysel ve yapay olması gibi bir problem var ki bunu burada yaşayan pek çok insandan da duydum. bundan dolayı, kiminle ne kadar ne konuşursam konuşayım kesinlikle türkiye'dekinin yerini tutmuyor. türkiye'de farklı insanlarla, kimi zaman tanımadıklarımla farklı şeyler konuşmak beni gerçekten mutlu ediyor.<br/><br/>bunun yanında yalnız yaşamak ve istediğinde gidemeyecek olmak da biraz üzücü bir husus. en son türkiye'ye gittiğimde fark ettim, o an konuşmuyor, birbirimizi görmüyor olsak bile odamda otururken annemin mutfaktan gelen yemek yapma seslerini duymak bile bana ilginç bir huzur veriyor. aile ya da çok yakın arkadaşlarla oturulan uzun soluklu sofralara değinmek bile istemiyorum. bunların hepsi özleniyor.
+  entry_channels: anket,seyahat
+- entry_name: |
     hakan muhafız
   entry_id:  89435340
   entry_writer: corbaya ekmek banan adam
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     yüksek bütçeli flash tv oyunculuğu.
   entry_channels: tv,spoiler
+- entry_name: |
+    evde 4 lira 37 kuruşa mis gibi karnını doyurmak
+  entry_id:  89454404
+  entry_writer: tahtelbahir
+  entry_fav_count: 19
+  entry_content: |
+    yanlış hesap bağdattan dönermiş. tamamıyla hatalı bir hesaptır. <br/><br/>evin kiralık mı yoksa sahibi mi olduğuna göre bile değişebilen bir hesaptır. maliyete evde harcanan o anlık, su, elektrik, gaz, aidat varsa sigorta, ayrıca eşyaların birim fiyatının (örneği domatesi ve peyniri kesmek için kullanılacak bıçağın) bile amortisman maliyetinin eklenmesi gerekir ki o zaman gerçek maliyet ortaya çıkacaktır.
+  entry_channels: 
 - entry_name: |
     2019 azerbaycan gp
   entry_id:  89450201
@@ -300,36 +300,20 @@ data:
   entry_channels: spor
 - entry_name: |
     oral seks yapmayı seven erkek
-  entry_id:  89453190
-  entry_writer: yesil basli govel santor
-  entry_fav_count: 15
+  entry_id:  89452971
+  entry_writer: hobilik
+  entry_fav_count: 16
   entry_content: |
-    (bkz: <a class="b" href="/?q=tek+elle+entry+yazanlar+derne%c4%9fi">tek elle entry yazanlar derneği</a>)
+    ten uyumu varsa bırakın tiksinmeyi ayıla bayıla yaparsınız zaten. sevmeyeniniz de mi var lan?
   entry_channels: ilişkiler
 - entry_name: |
-    opet vs shell vs bp vs total
-  entry_id:  89433451
-  entry_writer: ciddiye almamak gerek
-  entry_fav_count: 14
+    ramazanda mutfak ucuzlayacak
+  entry_id:  89455406
+  entry_writer: aguen
+  entry_fav_count: 9
   entry_content: |
-    neyle neyi kıyaslıyorsunuz bilmiyorum ama havanda su dövülüyor gibi. akaryakıtlar aynı rafineriden çıkar. birbirinden farkı yoktur. ithal edilenler ise testten geçer yurtiçinde dağıtımı yapılan akaryakıta uygunluğu varsa onay verilir. marker dediğiniz şey akaryakıtın kimliğidir, kalitesini belirlemez. <br/><br/>kıyaslayacağınız şey katkılı ve katkısız akaryakıtlardır. epdk katkılı akaryakıtların katkısızlardan daha pahalı satılmasına onay vermiştir. bunun için bilimsel test raporlarının sunulması gerekir. raporla katkılı yakıtın faydası olduğu ispatlanırsa 5-10 kuruş fazla satılmasına izin verilir. meşhur bir katkılı yakıtın raporunu okudum. o kadar çok parametre ölçmüşler, netice % 1 oranında tasarruf sağladığı belirtilmiş. 3000 litre yakıtın içine sadece bir litre katkı konuluyor. bu da şu demek 20 liraya mal ettikleri katkıyı tüketiciye 200 liraya satıyorlar. <br/><br/>bir depo yakıt ile km hesabı yapanlar kendini kandırıyor. yakıt tüketimini değiştiren o kadar çok şey var ki: ağırlık, fazladan bir bavul, yol eğimi, lastik basıncı, enjeksiyon temizliği, motorun kurumu, şehrin rakımı, havanın nem oranı. adamlar laboratuvar ortamında test edip farkı anlayabiliyor. millet memlekete gidip gelirken ölçtüm diyor ve farklı olduğunu iddia ediyor. hepsi standart pistte elektronik verileri merkeze gönderen formula 1 aracı kullanıyor mübarekler.
-  entry_channels: anket,otomotiv,ekonomi
-- entry_name: |
-    evde 4 lira 37 kuruşa mis gibi karnını doyurmak
-  entry_id:  89454404
-  entry_writer: tahtelbahir
-  entry_fav_count: 10
-  entry_content: |
-    yanlış hesap bağdattan dönermiş. tamamıyla hatalı bir hesaptır. <br/><br/>evin kiralık mı yoksa sahibi mi olduğuna göre bile değişebilen bir hesaptır. maliyete evde harcanan o anlık, su, elektrik, gaz, aidat varsa sigorta, ayrıca eşyaların birim fiyatının (örneği domatesi ve peyniri kesmek için kullanılacak bıçağın) bile amortisman maliyetinin eklenmesi gerekir ki o zaman gerçek maliyet ortaya çıkacaktır.
-  entry_channels: 
-- entry_name: |
-    sözlükçülerin vücutlarına bakıp söyledikleri
-  entry_id:  89430536
-  entry_writer: kuturkuturyesilpapazerik
-  entry_fav_count: 8
-  entry_content: |
-    aklima geldikçe şükür ediyorum. üzerinde durabildiğim ayaklarım için, bütün uzuvlarımın yerli yerinde olduğu için, minik detaylarda kıyak geçtiğin ve en önemlisi ameliyat ile duzeltilecek bir yerim olmadığı için sana bolca teşekkür ediyorum ve sen vasitanla yaradana.<br/>gerisinde benim begenmediklerim, benim tembelliğimden kaynaklı yani o kısıma kulak asma, iyiyiz böyle.
-  entry_channels: anket,ekşi-sözlük,sağlık
+    3 öğün yerine 2 öğün yiyeceksiniz. böyle 33% tasarruf yapmış olacaksınız.<br/><br/>gördüğünüz gibi, allah'ın mucizelerinden bir tanesi daha.
+  entry_channels: yeme-içme,ekonomi
 - entry_name: |
     27 nisan 2019 fenerbahçe trabzonspor maçı
   entry_id:  89430579
@@ -338,6 +322,22 @@ data:
   entry_content: |
     fenere karşı ilk yarı ne kadar doğru oynadıysak, ikinci yarı o kadar kötü oynadık.<br/><br/>ünal hoca daha soğukkanlı davranıp maça ufak müdahaleler ile skoru en azından koruyabilirdi. fenerin on kişi ile gösterdiği mücadeleyi takdir ettim. bu mücadeleyi göz ardı edip yan hakemin kararına kurban etmek insafsızlık olur.
   entry_channels: spor
+- entry_name: |
+    fiyatı korkunç bir şekilde artan ürünler
+  entry_id:  89453200
+  entry_writer: seni gidi bok
+  entry_fav_count: 7
+  entry_content: |
+    zamanında ulan çok ucuz diyerek (antalya’da bir avm’de neredeyse tanesi 1 tl’ye denk geliyordu) onlarca aldığımız flormar ve golden rose ojelerin tanesinin 5-20 tl arasına çıkması. <br/><br/>şu hayattaki en iyi gelecek öngörümü zamanında onlarca oje alarak yapmışım resmen.
+  entry_channels: anket,ekonomi
+- entry_name: |
+    kerimcan durmaz'ın mastürbasyon videosu
+  entry_id:  89454967
+  entry_writer: arkadasbirazmemeyeduskun
+  entry_fav_count: 6
+  entry_content: |
+    iyi yapmış, onu takip edenlere yarraağı müstehak.
+  entry_channels: magazin
 - entry_name: |
     28 nisan 2019 burnley manchester city maçı
   entry_id:  89452330
@@ -355,29 +355,29 @@ data:
     avrupa birliğine üye bulgaristan vatandaşlarına ait düğün görüntüleridir
   entry_channels: 
 - entry_name: |
-    pazar sabahı erken kalkmak için bir neden
-  entry_id:  89436367
-  entry_writer: smelly cat
-  entry_fav_count: 3
+    thanos hayranlığı
+  entry_id:  89439153
+  entry_writer: chicagolu mutsuz punk
+  entry_fav_count: 4
   entry_content: |
-    bahar gelince avazı çıktığı kadar cıvıldayan kuşlar. <br/><br/>bıcır bıcır konuşuyorlar sabahtan beri :) <br/>ne kadar heyecanlılar yeni bir güne başlarken. birazdan kadın kavgası yapan kediler de katılır onlara.<br/>bakalım bizi nasıl bir gün bekliyor?<br/><br/>olanca farkındalığımla uyanmışım, haneme +1 puan yazıyorum. <br/><br/>(bkz: <a class="b" href="/?q=mindfulness">mindfulness</a>)
-  entry_channels: anket
-- entry_name: |
-    ekşi itiraf
-  entry_id:  89428982
-  entry_writer: zbawzbaw
-  entry_fav_count: 2
-  entry_content: |
-    bir seyleri eksik mi yaptim acaba düsüncesinden her ne olursa olsun kurtulamiyorum. <br/><br/>başima gelen her seyi bir neden sonuc iliskisiyle bagdaslastirmaya calisiyorum, gecmiste yaptigim hataların sonucuyla ilinti kurmaya calisiyorum.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=hatunlar%c4%b1n+efendi+adam+yerine+pi%c3%a7+tercihi">hatunların efendi adam yerine piç tercihi</a>)<br/>(bkz: <a class="b" href="/?q=thanos%27un+tam+bir+pi%c3%a7+adam+olmas%c4%b1">thanos'un tam bir piç adam olması</a>)
+  entry_channels: sinema
 - entry_name: |
     28 nisan 2019 konyaspor'un attığı tweet
   entry_id:  89454804
   entry_writer: aziz matta
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     bir sorun göremediğim tweet.
   entry_channels: spor
+- entry_name: |
+    28 nisan 2019 internet hızı problemi
+  entry_id:  89456055
+  entry_writer: cok yorgun ve cok uykusuz
+  entry_fav_count: 3
+  entry_content: |
+    türk telekom'da her daim olan problem.
+  entry_channels: 
 - entry_name: |
     şu an okunan kitap
   entry_id:  89430745
@@ -387,19 +387,19 @@ data:
     (bkz: <a class="b" href="/?q=bir+omur+nasil+yasanir">bir omur nasil yasanir</a>) <br/><br/>benim yasadigim gibi yasamamak gerekiyormus.<br/><sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,edebiyat,eğitim
 - entry_name: |
-    kerimcan durmaz
-  entry_id:  89455740
-  entry_writer: maestr10
-  entry_fav_count: 0
+    yazarlardan roket üretimine destek
+  entry_id:  89453729
+  entry_writer: frts
+  entry_fav_count: 1
   entry_content: |
-    yumuşaklar gerçekten yumuşak oldukları için yumuşak oluyolarmış bunu anladım bu ibnetorun paylaşımından. <br/>(bkz: <a class="b" href="/?q=sertle%c5%9fme+problemi">sertleşme problemi</a>)
-  entry_channels: tv,magazin
+    (bkz: <a class="b" href="/?q=roket+tak%c4%b1m%c4%b1">roket takımı</a>)<br/><br/>tek desteğim uplamak olabilir genç.
+  entry_channels: 
 - entry_name: |
-    kerimcan durmaz'ın mastürbasyon videosu
-  entry_id:  89455465
-  entry_writer: sonadora
+    sinemia
+  entry_id:  89445372
+  entry_writer: nano16
   entry_fav_count: 0
   entry_content: |
-    sözlük gibi saçma sapan şeylerin bile günlerce gündemde tutulduğu bir ortamda, bu herif hakkındaki son entry bir buçuk ay önce girilmiş. yaz sezonu da yaklaşırken neden durup dururken böyle bir şey yaptığı hakkında yeterince fikir vermiştir herhalde.
-  entry_channels: magazin
+    ilk çıktığında kullanmıştım yaklaşık 1 sene.. çok memnundum ama şimdi okuduklarımı görünce gözlerime inanamadım.. demek her güzel olan şey gibi bunu da mahvetmişler..
+  entry_channels: sinema,teknoloji
 ---
