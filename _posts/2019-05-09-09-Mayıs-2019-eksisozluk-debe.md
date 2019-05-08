@@ -6,7 +6,7 @@ data:
     izmir'e göç edip hayatı kayanlar
   entry_id:  89820587
   entry_writer: casper53
-  entry_fav_count: 772
+  entry_fav_count: 778
   entry_content: |
     bende doğma büyüme izmirliyim. izmirli arkadaşların çogunlugu hayatı kordon'da çimlere çömelip bira içmek sanıyor. ama gerçekten şehir gelişmişliği olarak türkiye standartları'nın hatta avrupa standartları'nın çok altında.<br/><br/>kendinizi tatmin etmeyin beyler, doğru söylüyeni dokuz köyden kovarlarmış.
   entry_channels: anket,seyahat
@@ -14,7 +14,7 @@ data:
     8 mayıs 2019 chp'nin genel seçim iptali başvurusu
   entry_id:  89836027
   entry_writer: komikadam
-  entry_fav_count: 564
+  entry_fav_count: 569
   entry_content: |
     yapılması gereken bir başvuru idi yapıldı. başvurunun kabul veya ret edilmesinin dışında, bu hamle bizim burada bağırdığımız, çağırdığımız mantıksızlıklar silsilesi durumun resmiyete dökülmesi anlamına geliyor. hukuksuz bir kuruma hukuki olması gereken durumlar üzerinden itiraz ederek çok yerinde davranıyorlar. buda reddedilecek hukuksuzluk keskinleşecek. iktidar iyice zora sürüklenir iken muhalefet aynı ölçüde rahatlayacak. bu durum sadece bu seçim için geçerli değil, akp tarihinin en büyük hatasını yaptı. kamuoyu önünde açık açık devlet de irade de benim sizde trensiniz dedi halka.<br/><br/>edit: suser bir arkadaşımız entry'nin ilgi görmesine binaen çok hassas bir konuda yardımımı talep etti. bir bakarsınız çok sevinirim.<br/>(bkz: <a class="b" href="/?q=uvey+babasinin+istismarina+ugrayan+cocuk">uvey babasinin istismarina ugrayan cocuk</a>)
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     hürriyet'i siliyoruz kampanyası
   entry_id:  89830749
   entry_writer: medeniyetsiz
-  entry_fav_count: 556
+  entry_fav_count: 562
   entry_content: |
     hürriyet şu an türkiye'de en çok ziyaret edilen yerli web sitelerinden birisi, zaman zaman birinciliği alıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.similarweb.com/top-websites/turkey" title="https://www.similarweb.com/top-websites/turkey">kaynak</a> <br/><br/>çoğu zaman üstü örtülü, bazen de alenen akp propagandası yapıyor. ancak insanlar eski alışkanlıklarından ötürü burayı takip etmeyi bırakmıyor. <br/><br/>geçen yıl satılan ve eski çizgisinde olmayan bu mecra terk edilmeli.<br/><br/>alternatif siteleri soruyor insanlar;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://tr.sputniknews.com/" title="http://tr.sputniknews.com/">sputniknews</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://t24.com.tr/" title="http://t24.com.tr/">t24 haber</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://diken.com.tr/" title="http://diken.com.tr/">diken</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://odatv.com/" title="http://odatv.com/">oda tv</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://gazeteduvar.com.tr/" title="http://gazeteduvar.com.tr/">gazete duvar</a> <br/><br/>şöyle baskın muhalefet siteler de var;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sozcu.com.tr/" title="http://sozcu.com.tr/">sözcü</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://birgun.net/" title="http://birgun.net/">birgün</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://evrensel.net/" title="http://evrensel.net/">evrensel</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://haber.sol.org.tr/" title="http://haber.sol.org.tr/">sol haber</a> <br/><br/>gelen bazı tavsiyeleri de aşağıda ekledim.<br/><br/>tavsiyeler;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://medyascope.tv/" title="http://medyascope.tv/">medyascope</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://tr.euronews.com/" title="http://tr.euronews.com/">euronews türkçe</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://dw.com/tr" title="http://dw.com/tr">dw türkçe</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://turkiyemtv.com.tr/" title="http://turkiyemtv.com.tr/">türkiyem tv</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://bbc.com/turkce" title="http://bbc.com/turkce">bbc türkçe</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://vaziyet.com.tr/" title="http://vaziyet.com.tr/">vaziyet</a> (buranın haberlerde mizah da söz konusuymuş)<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://sondakika.com/" title="http://sondakika.com/">sondakika</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://artigercek.com/" title="http://artigercek.com/">artı gerçek</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://yenicaggazetesi.com.tr/" title="http://yenicaggazetesi.com.tr/">yeniçağ</a>
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     üvey babasının istismarına uğrayan çocuk
   entry_id:  89837219
   entry_writer: mencistir beyefendisi
-  entry_fav_count: 538
+  entry_fav_count: 547
   entry_content: |
     nihai üst edit: saat 18.08 itibarıyla ne yazık ki her türlü teyit alındı. nişanlı çift tarafından başlığın gündemde kalması rica edildi. kamuoyu baskısı şu an çok önemli. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/uzunwestmavi/status/1126139998636580865?s=19" title="https://twitter.com/uzunwestmavi/status/1126139998636580865?s=19">silinen tweetler için açıklama</a> <br/>dosya kırıkkale aile mahkemesinde görülüyor.<br/>yukarıdaki twitter hesabını takibe alıp atılan tweetlere etkileşim verebilirsek twitter'dan da baskı yapılabilir.<br/><br/>nişanlı hanımın bilgilendirme yapacağı <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/uzunwestmavi?s=09" title="https://twitter.com/uzunwestmavi?s=09">twitter hesabı</a> <br/><br/>sevgili yazarlar, entry girersek başlık gündemde kalır. şimdiden teşekkür ediyorum.<br/><br/>nişanlı eşle iletişimdeyiz. tüm ekşi sözlük halkına teşekkür ediyor. "rabbim doğmuş ve doğacak bütün çocuklarınızı koruyup gözetsin." diyor. ağlamamak elde değil.<br/><br/>önemli üst edit: malesef olay teyit edildi. avukat bey ile yaptığım görüşme sonrası aldığım bilgileri paylaşıyorum.<br/><br/>olayda yazılanlar tamamen doğru. öz annenin evlendiği adamın başka çocuklara tacizden dosyaları olmasına rağmen velayet anneye veriliyor. aile bakanlığı izniyle çocuk şu an babada kalıyor, resmi görüş süresi aşılmış olmasına rağmen savcılık ceza uygulamayacak. <br/>dosya aile mahkemesinde görüşülüyor, muhtemelen bu cuma günü karar verilecek. <br/>nişanlılar, kamuoyu baskısı için olayın gündemde kalmasını rica etti. sözlük halkına önemle duyurulur.<br/><br/>üst edit: olayı aktaran nişanlılardan herhangi biri bu başlığı okuyorsa bana ekşi sözlük hesabımdan ya da mencistirbeyefendisi@gmail.com adresinden ulaşsın. mesaj kutum çaylaklara da açıktır. sözlük olarak, sizlere her türlü desteği sağlayabileceğimizi umuyorum. gereken bilgileri burada paylaşabilirim. <br/><br/>üst edit 2: twitter linki patladı. avukatlarla iletişim halindeyiz. gerekli bilgilendirmeler üst edit şeklinde yapılacak.<br/><br/>üst edit 3: saat 16.53 itibarıyla aldığım bir mesaja göre; aile ve sosyal politikalar bakanlığı olaya dahil oldu. bunun üzerine haber ajansları haberleştirme çalışmalarına başladı ancak nişanlı eş haber yapılmasını istemedi ve tweet dizisini sildi. 16.59 itibariyle twitter hesabı komple kapatılmış durumda. haber aldıkça editleyeceğim.<br/><br/>üst edit 4: teyit ile ilgili çok ciddi sorunlarımız var. olaya yorum katmak istemedim ancak olayı öğrenmeye giden her yol kapatılıyor. eğer yargıya intikal sürecinden dolayı twitter hesabı kapatıldıysa bu başlığa da sansür gelecektir. bu duruma anlam veremedik. umarız istediğimiz olur ve olayın doğruluğu teyit edilemez. bu olayın gerçek olduğunu düşünmek benim beynimi durduruyor.<br/><br/>moderatör editi: 17.08 itibarıyla, teyit gelene kadar başlığı 'çocuğa aile içi istismar iddiası' şeklinde düzenlemenizi rica ediyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ucim.org.tr/ihbar.asp" title="http://www.ucim.org.tr/ihbar.asp">ihbar adresinden</a> ihbar edip olayı yargıya daha hızlı taşıyabiliriz.<br/><br/>okurken elim ayağım titredi.<br/>acilen gündeme çıkması gereken başlık. sözlük göreve.<br/>olay kırıkkale'de gerçekleşiyor.<br/><br/>şimdilik <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/uzunwestmavi/status/1126065652882714625?s=19" title="https://twitter.com/uzunwestmavi/status/1126065652882714625?s=19">twitter linkini</a> bırakıyorum, bilgisayara geçince bütün floodu buraya editleyeceğim.<br/><br/>edit3: yemin ederim yarım saattir boşluğa bakıyorum. sinirden ellerim uyuştu. kıyamet kopmalı artık.<br/><br/>edit2: moderatörler bu başlığı "aile içinde istismara uğrayan çocuk" diye değiştirirse daha doğru olacaktır.<br/><br/>edit: olayı noktasına virgülüne dokunmadan aktarıyorum.<br/><br/>"bu bir yardım çığlığıdır!!<br/>lütfen sesimizi duyurmamıza yardım edin..!<br/>4,5 yaşında bir kız çocuğunun uğradığı cinsel istismar ve aile içi şiddet üzerine çaresizliğimizin vardığı son noktada bu floodu yazıyorum..<br/><br/>bahsi geçen kız çocuğu, nişanlımın ilk evliliğinden olma öz kızıdır. velayeti annesinde ve babasının sadece ayda bir hafta sonu görüş günü var. ben görüş gününde onunla vakit geçirebilmek için 03.05.2019 cuma gecesi konya'dan kırıkkale'ye gittim.<br/><br/>04.05.2019 cumartesi sabahı yasal görüş günümüzde nişanlım kızını annesinden teslim alıp geldiğinde, çocuğumuzun altında bez vardı. kendim okul öncesi öğretmeni olduğum için, daha önce hiçbir şekilde idrar kaçırma ve tutamama problemi olmayan 4,5 yaşındaki bir çocuğun altında bez gördüğümde aklıma ilk olarak cinsel istismar yahut şiddet geldi ama yine de bir baba olarak bunu kaldıramayacağını düşündüğüm için bunu nişanlıma yansıtmadım. bezi çıkardım ama gün içerisinde defalarca kaçacak, akıyo diyerek tuvaleti geldiğinde ağlamaya başladı.<br/><br/>tuvalete girdiğimizde bacaklarını ayırmaktan çekinmesi, genital bölgesini sildirmek istememesi, silerken acıyo diye çığlık atması, karnım ağrıyo diyerek kucağımdan inmemesi şüphelerimi iyice artırmaya başladı. gece olduğunda yanımda yatırmak istedim. güzelce uyuttum.<br/><br/>gece boyunca iki defa bağırıp çığlık atarak uyandı, okşayıp öperek uyuttum her defasında ve sabaha doğru çişini tamamen altına yaptı. korkutmamak için tepki vermedim. kıyafetlerini değiştirip tekrar sarıldım uyanmasını bekledim sabah tuvalete götürdüğümde biraz konuşmaya çalıştım.<br/><br/>bana hafif hafif açılmaya başladığında elime telefonu alıp video kaydı başlattım ve çok net sorular sorarak kendini ifade etmesini sağlamaya çalıştım. eliyle göstererek tüm olayları en ince ayrıntısına kadar anlatmasını kayıt altına aldım. daha sonra nişanlıma kızımızda idrar yolu enfeksiyonu olabileceğini söyleyerek acile götürmeyi teklif ettim. 05.05.2019 tarihinde kırıkkale ihtisas hastanesi'nin aciline başvurduk. nişanlıma şüphelerimden orada bahsettim, kaldırması zordu inanın çok zordu.. doktora şüphelerimizi söyledikten sonra hastane polisi yanımıza geldi.<br/><br/>bizim için çocuk şube ekiplerini çağırdılar. acil doktoru tarafından sadece dış muayenesi yapıldı ve çocuk şubeden 2 polis memuru geldikten sonra birlikte (çocuğumuz yanımızdayken) hastaneden çıkıp çocuk şubeye gittik. orda detaylı bir şekilde ifademizi vererek, iç muayene muayene istediğimize dair tutanak imzalayıp elimizdeki video kaydını teslim ettik. pazartesi günü saat 13:00 te çocuk izlem merkezi'nde olmamız söylendi.<br/><br/>yasal görüş günümüz 05.05.2019 pazar akşamı sona ereceği için çocuğumuzu yasal vasisi olan annesine teslim etmemiz gerektiği hakkında uyarıldık. ama durum böyleyken sadece ben ve nişanlım değil vicdan sahibi hiç bir allahın kulunun bu kız çocuğunu o eve elleriyle götürüp teslim edemeyeceğinden eminim. <br/><br/>nitekim biz de götürmedik ve o gece bizimle kaldı, ertesi gün 06.05.2019 pazartesi günü bize söylenen saatte çocuk şubeye gittik. oradan ekiplerle birlikte kırıkkale çocuk izlem merkezi'ne geçiş yaptık. önce babası ve çocuğumuz içeriye alındı. aradan 40-50 dakika geçtikten sonra nişanlım beni çağırıp, kızımızın hiç konuşmadığını söyledi.<br/><br/>yasal olarak kızımızın üzerinde hiçbir söz hakkım olmadığı için dışarıda bırakılmıştım. pedagoglardan izin isteyip kızımızın yanına girdim. bizi gözlem odasından başka bir odaya aldılar. çocuğumuz yanında benim olmamın rahatlığıyla yavaş yavaş sorulara cevap vermeye başlamıştı.<br/><br/>ama bu sorular, okula gidip gitmediği, renkler, yaşı vs gibi yüzeysel konular hakkındaydı. daha sonra savcı çağırıldı. ve ben tekrar dışarı çıktım. çocuğumuz o ortamda yaklaşık 4,5-5 saat kaldı. savcının işi çıktığı için yerine başka bir savcının geleceği söylendi, bekledik.<br/><br/>savcı geldiğinde pedagog tekrar konuşturmaya çalışmış kızımızı, 4,5 yaşında daha önce hiç okula gitmemiş, evden çıkarılmamış, arkadaşı dahi olmayan bir çocuğun tanımadığı bir yetişkine, hiç aşina olmadığı bi ortamda ve 4,5 saatlik bir beklemenin sonunda bana atlattığı olayları anlatması beklendi. çocuk ifadesi sırasında sadece o evde kalmak istemediğini babasıyla ve benimle yaşamak istediğini beyan etmesine rağmen, hiçbir karara varılmadan sadece evlere sosyal hizmetlerden görevlilerin gelip gözlem yapacağı söylenerek biz çıkarıldık.<br/><br/>ve çocuk istismarı anlatıp sanığı tarifleyemediği için iç muayenesi yapılmadı. oradan çıktıktan sonra yine kızımızı o eve teslim etmedik.<br/><br/>daha önce velayet davamızda mahkemeye sunduğumuz, elimizde olan bir dosyada kızımızla aynı evde yaşamakta olan, annesinin nikahlı eşinin daha önce hakkında açılmış taciz davasında, şahsın kendi öz erkek çocuklarına cinsel sapkınlığa varan düzeyde davranışlarının olduğu yönünde tanık beyanları ve çocukların duygusal ve sosyal gelişimlerine zarar verici bir ortamda yaşadıklarının tesbitine dair uzman pedagog raporu bulunmaktadır.<br/><br/>kendi yazdığımız detaylı dilekçe, bahsi geçen şahsın taciz dosyası ve konu hakkındaki pedagog raporuyla, elimizdeki video kayıtlarını savcılığa götürüp elden başvuru yaparak, kızımız için koruma kararı talep ettik. savcı koruma kararı isteğimizi olumlu karşıladı ve kırıkkale aile mahkemesi'ne sevketti. dün yine kızımızı teslim etmedik ve bugün hala aile mhkemesi'nden çıkmış bir karar bulunmamaktadır. kızımız için endişeliyiz, ne gecemiz var ne gündüzümüz, onu teslim etmediğimiz her an nişanlım ceza alma durumuyla karşı karşıya.<br/><br/>ve biz bir an önce kızımızın velayetini almak istiyoruz. benim kanım değil, ama benim canımdan. ciğerim yanıyor, çok yanıyor. bir an önce velayetini alıp, yaralarını sarmak, psikolojik yardım aldırmak,düğünümüz için tuttuğumuz evdeki odasını kızımla birlikte hazırlamak yepyeni bir şehirde, yepyeni bir başlangıçla ona her şeyi unutturmak istiyorum. nolur sesimizi duyurmamıza yardım edin! insanlığa dair umutlarımı yitirirsem ben bu yaralı yavruma nasıl merhem olayım, nolur duyun sesimizi, kızımızı koruyun o zalimlerden!"
   entry_channels: ilişkiler,haber
@@ -38,7 +38,7 @@ data:
     1.55 boyundaki büyük memeli esmer minyon güzel kız
   entry_id:  89834551
   entry_writer: casasola
-  entry_fav_count: 473
+  entry_fav_count: 474
   entry_content: |
     orucu sakata getireceksiniz bre ibneler.
   entry_channels: ilişkiler
@@ -46,7 +46,7 @@ data:
     8 mayıs 2019 bedelli askerlik platformu bildirisi
   entry_id:  89836454
   entry_writer: suffocated
-  entry_fav_count: 428
+  entry_fav_count: 429
   entry_content: |
     "bana kışlasız bedelli askerlik verirsen sana oyumu satarım ;)" şeklinde özetlenecek bildiri. bu arsızlıkları söylenecek bir şey bırakmıyor insana.
   entry_channels: haber
@@ -54,15 +54,23 @@ data:
     8 mayıs 2019 ysk toplantısı
   entry_id:  89838259
   entry_writer: mikail bey olmez
-  entry_fav_count: 376
+  entry_fav_count: 380
   entry_content: |
     muhtemelen çay, kuru pasta yedikten sonra "reddettik, çok da sikimizdeydiniz" açıklaması yapacaklar. dün iyi parti'nin başvurusunu 2-3 saatte reddettiler, onda da bir üye 1.5 saat sonra gelebilmiş trafikte kaldığı için.
   entry_channels: siyaset
 - entry_name: |
+    çocuk istemeyenlerin soyunun tükeneceği gerçeği
+  entry_id:  89830258
+  entry_writer: invector
+  entry_fav_count: 300
+  entry_content: |
+    ne önemi var bunun? yer yüzünde benim soyumdan biri daha olunca ne oluyor? varoluşun sebebini bilmiyorsunuz ama buna rağmen değer veriyorsunuz, truva'lıların truva atına değer verdiği gibi. önce bir hayatı anlayalım, sonra genlerimizin devam etmesinin önemli olup olmadığını tartışırız.<br/><br/>bakamayacağınız çocuğu yapmayın şimdilik, yeter. adam 80 yaşında, 3 jenerasyon üretmişler ailecek, 30 kişi olmuşlar, aralarından 1 tane işe yarayan kişi yok, hepsi ev hanımı, konfeksiyoncu falan olmuş, 1 tane bilim adamı veya düşünür yok. gereksiz yere yer kaplayan 30 kişi üretti diye mutlu mu ölecek bu adam?
+  entry_channels: anket,ilişkiler,sağlık
+- entry_name: |
     ysk'nın kılıçdaroğlu'nu kınaması
   entry_id:  89847010
   entry_writer: hukukcuyum gomutan
-  entry_fav_count: 250
+  entry_fav_count: 275
   entry_content: |
     şimdi size bir fıkra anlatacağım. <br/><br/>"yüksek seçim kurulu, baskı, yıldırma, iftira, hakaret ve tehdit kampanyalarından etkilenmeksizin görevini yapmaya devam edecektir."<br/><br/>doğru söyleyin şimdiye kadar en çok güldüğünuz fikra bu olmadı mı?
   entry_channels: siyaset,haber
@@ -78,7 +86,7 @@ data:
     game of thrones'u geym of tırons diye okuyan tip
   entry_id:  89845410
   entry_writer: munzeviseyyah
-  entry_fav_count: 176
+  entry_fav_count: 196
   entry_content: |
     frons'un f'si niye düştü birader? irlanda'nın hangi köyündensin?
   entry_channels: anket,tv,eğitim
@@ -86,15 +94,31 @@ data:
     oruçlu kişinin ağzının kokusu
   entry_id:  89837979
   entry_writer: oyuncak bulut
-  entry_fav_count: 149
+  entry_fav_count: 160
   entry_content: |
     ağız kokusınun dini, imanı olmaz ulan.<br/>ağız kokusu, ağız kokusudur.<br/><br/>(bkz: <a class="b" href="/?q=ho%c5%9ft.+%c3%b6%c4%9f%c4%9fggkkk">hoşt. öğğggkkk</a>)
   entry_channels: sağlık,yeme-içme
 - entry_name: |
+    galatasaray divan kurulundan imamoğlu'na destek
+  entry_id:  89845288
+  entry_writer: koministimam2
+  entry_fav_count: 160
+  entry_content: |
+    şahsen bir fenerbahçeli olarak, 2000 ki yıllardan sonra bir kez daha ezeli rakip ile bu kadar gurur duyuyorum...<br/>umarım divan başkanının da dediği gibi son divan kurulları olmaz! <br/><br/>bu arada <a class="b" href="/?q=hayri+kozak">hayri kozak</a> emmi, ne taşşak varmış be sende :))<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sporcope/status/1126128321253838850?s=21" title="https://twitter.com/sporcope/status/1126128321253838850?s=21">https://twitter.com/…tatus/1126128321253838850?s=21</a>
+  entry_channels: spor
+- entry_name: |
+    esenyurt'ta bir vatandaşın erdoğan'a verdiği ayar
+  entry_id:  89847808
+  entry_writer: thornografi
+  entry_fav_count: 156
+  entry_content: |
+    sırf cesaretinden ötürü tebrik edilmesi gereken bir bayan. <br/><br/>ritim gittikçe hızlanıyor yalnız durdurulamıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=0dxgAfnes8w">https://www.youtube.com/watch?v=0dxgafnes8w</a>
+  entry_channels: siyaset,haber
+- entry_name: |
     7 mayıs 2019 liverpool barcelona maçı
   entry_id:  89817289
   entry_writer: yol agzi
-  entry_fav_count: 142
+  entry_fav_count: 143
   entry_content: |
     liverpool 4-0 real madrid <br/>liverpool 4-0 barcelona<br/>liverpool 8-0 beşiktaş<br/><br/>beşiktaş= real madrid+barcelona
   entry_channels: spor
@@ -102,31 +126,31 @@ data:
     akp istanbul'u alamayacak olsa seçimi yeniletmezdi
   entry_id:  89842283
   entry_writer: celomania
-  entry_fav_count: 134
+  entry_fav_count: 138
   entry_content: |
     seçimin iptalinden sonra bir takım kişilerin hala aynı öğrenilmiş çaresizlikle sarf ettikleri cümle. <br/><br/>bu insanlardan uzak durun. bu kişiler, güncel yaşamda da insanın olan umudunu ve enerjisini emer. <br/><br/>freni boşalmış kamyon gibi, düşüncesizce hareket ettiklerini ve günü kurtarma derdinde olduklarını görün artık<br/><br/>bu umutsuzluk aşılayan kişi yada trollere karşı, günde bir doz alınması üzere aşağıya iki söz bırakıyorum. <br/>bir gün birisini, ertesi gün diğerini kullanabilirsiniz.<br/><br/>***"mustafa kemal, ingilizleri yeninceye kadar tanrıyı'da ingiliz zannederdim..." mahatma gandhi<br/>***“umutsuz durumlar yoktur, umutsuz insanlar vardır. ben hiçbir zaman umudumu yitirmedim.” m.k.atatürk
   entry_channels: siyaset
 - entry_name: |
-    galatasaray divan kurulundan imamoğlu'na destek
-  entry_id:  89845288
-  entry_writer: koministimam2
-  entry_fav_count: 128
-  entry_content: |
-    şahsen bir fenerbahçeli olarak, 2000 ki yıllardan sonra bir kez daha ezeli rakip ile bu kadar gurur duyuyorum...<br/>umarım divan başkanının da dediği gibi son divan kurulları olmaz! <br/><br/>bu arada <a class="b" href="/?q=hayri+kozak">hayri kozak</a> emmi, ne taşşak varmış be sende :))<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sporcope/status/1126128321253838850?s=21" title="https://twitter.com/sporcope/status/1126128321253838850?s=21">https://twitter.com/…tatus/1126128321253838850?s=21</a>
-  entry_channels: spor
-- entry_name: |
     jürgen klopp
   entry_id:  89817703
   entry_writer: zagora kesikmis
-  entry_fav_count: 125
+  entry_fav_count: 127
   entry_content: |
     dünyanın en iyi hocası. kümede kalmaya oynayan borç batağındaki dortmundu aldı lig şampiyonu yaptı şampiyonlar liginde final oynattı. liverpool gibi uzun yıllardır başarısı olmayan takımı aldı 2 sene üst üste şampiyonlar ligi finaline çıkardı, ligde muhtemelen 97 puan topladı. <br/><br/>bek oyuncusuna 100 milyon verip şampiyonlar liginde kaç yıldır yarı final bile göremeyen keltoşla mukayese bile edilmez klopp hocam.<br/><br/>oyunculardan aldığı verim inanılmaz.<br/><br/>origi'ye kornerden golü attıran arnold 20 yaşında liverpool altyapısından çıkma.<br/><br/>golü atan origi city'de olsa benchte bile oturtmazlar.<br/><br/>ikinci yarıda girip 2 gol atan wijnaldum kariyerinde vasatı geçememiş bi oyuncu.<br/><br/>milner city'nin beğenmeyip gönderdiği adam<br/><br/>mane 25 yaşına kadar en fazla southampton'da oynamış bi adam. <br/><br/>robertson'u hull city'den 3 milyona aldılar şu an satmak isteseler en büyük kulüpler sıraya girer.<br/><br/>böyle bi kadroyu ilmik ilmik işleyerek bugünlere getirdi, kupaları toplamaya da er geç başlayacak. inancımız tam.
   entry_channels: spor
 - entry_name: |
+    gezen tavuk
+  entry_id:  89842704
+  entry_writer: all2uslubas
+  entry_fav_count: 117
+  entry_content: |
+    gezen tavuk orospudur yumurtası haramdır.
+  entry_channels: sağlık,yeme-içme
+- entry_name: |
     çaylak onay listesi
   entry_id:  89835399
   entry_writer: arkadasim bi bakar misin bana
-  entry_fav_count: 112
+  entry_fav_count: 115
   entry_content: |
     son zamanlarda öyle garip girdiler gözüme takılıyor ki yazarına girip bakma ihtiyacı hissediyorum. <br/><br/>ki hiç yapmadığım bir harekettir. istisnasız çiçeği burnunda “yazar” arkadaşımızın format dinlemeden duhul ettikleri bu mecrada halen daha çaylak olarak kalmanın haklı gururunu yaşıyorum.<br/><br/>muazzam bir listedir. hiç can sıkılmasın. <br/>“yazar” diye kabul görenlerin hali daha çok can sıkıcı.
   entry_channels: ekşi-sözlük
@@ -134,7 +158,7 @@ data:
     ramazanda rakı masasında domuz eti yemek
   entry_id:  89818220
   entry_writer: buzlutuz
-  entry_fav_count: 108
+  entry_fav_count: 115
   entry_content: |
     hak yemekten iyidir diye yazılmadan buraya ilişeyim. bırakın millet ne yerse yesin herkesin dini de, dinsizliği de kendine. ateist yada deisttir. yada kadir gecesi günahları affolcak bir müslümandır ya da canı istemiştir. herkesin günahı sevabı kendineyken size ne bize ne.
   entry_channels: yeme-içme
@@ -142,23 +166,15 @@ data:
     game of thrones
   entry_id:  89817254
   entry_writer: normalde kullanmiyorum
-  entry_fav_count: 107
+  entry_fav_count: 108
   entry_content: |
     azor ahai tartışmalarına son noktayı şu şekilde koyacak dizidir;<br/><br/>jaime king's landing e sızar, cersei yi öldürür, jon mad queen e dönüşen dany i öldürür, ikisi de bir nevi azor ahai olur. sonrasında jaime ve jon birbirlerine olan aşklarını ilan ederler ve dizi ikisi yan yana demir tahtta el ele otururlarken sona erer. <br/><br/>bu sayede hem tüm hayran teorileri çürütülür hem de lgbt toplululuğu adına farkındalık yaratılmış olur. <br/><br/>not: yazar burada game of thrones sıçtı, bari iyice sıvasın demeye getirmektedir.
   entry_channels: tv,edebiyat,spoiler
 - entry_name: |
-    gezen tavuk
-  entry_id:  89842704
-  entry_writer: all2uslubas
-  entry_fav_count: 104
-  entry_content: |
-    gezen tavuk orospudur yumurtası haramdır.
-  entry_channels: sağlık,yeme-içme
-- entry_name: |
     üç ayda 255 bin liralık yemek yiyen kayyum
   entry_id:  89842133
   entry_writer: oberyn2
-  entry_fav_count: 96
+  entry_fav_count: 99
   entry_content: |
     diyarbakır'a atanan kayyum tarafından yapılan eylemdir. üç ayda 255 liralık yemek yiyenlerin oy verdikleri tarafından atanan kayyumdur aynı zamanda. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber-detay/diyarbakirda-kayyum-3-ayda-255-bin-tllik-yemek-yemis.html?amp&amp;__twitter_impression=true" title="https://www.birgun.net/haber-detay/diyarbakirda-kayyum-3-ayda-255-bin-tllik-yemek-yemis.html?amp&amp;__twitter_impression=true">kaynak</a><br/><br/>edit: haberin içeriği zorlarına giden aktroller kaynağa saldırıyor. teröristseverlerin yaptığı habermiş, bak sen şu işe. asıl teröristsever öcalan'a sayın, şehide kelle deyip pkk'yı halaylarla sınırdan içeri sokanlardır. herkes her şeyin farkında artık sevgili maaşlı aktroller. bir siz fark edemediniz. sizde de bunları anlayacak kapasite olmadığı için.<br/><br/>edit 2: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/QwNPV-3l25U" title="https://youtu.be/QwNPV-3l25U">şu</a> videoda aynı kayyum kişisinin makam odasını saraya çevirdiğini görüyoruz. eski bir haber fakat hatırlatalım. aktroller hala kaynağa ve bana saldırmaya devam etsinler, size her şey müstehak. aç aç sokaklarda dolaşsanız üzülmem.<br/><br/>geri zekalı ifşa editi: https: (bkz: <a class="b" href="/entry/89846598">#89846598</a>) dağdakiler yiyeceğine devlet memuru yesin demiş. siz nasıl primatlarsınız lan? insan türünün kaç seviye aşağısındaki primatlarsınız? sorsan, kul hakkı yemeyen, allah kimseyi aç bırakmasın diyen sevgi ve merhamet dolu bir müslümandır. nasıl bir şans var ki bizde sizin gibi beyinsiz mahluklarla aynı dönemde yaşıyoruz.
   entry_channels: siyaset,haber,eğitim,ekonomi
@@ -166,7 +182,7 @@ data:
     devlet bahçeli'nin kılıçdaroğlu'na verdiği ayar
   entry_id:  89842876
   entry_writer: ertunga
-  entry_fav_count: 73
+  entry_fav_count: 77
   entry_content: |
     ayardan ziyade çiçek abbas gibi. bekledim ki "dağlar kurdun yollar ford'un" da desin. demedi.
   entry_channels: siyaset
@@ -174,7 +190,7 @@ data:
     en kaliteli tişörtün bile beş giyişte eprimesi
   entry_id:  89833749
   entry_writer: haciz mahallinde tango
-  entry_fav_count: 68
+  entry_fav_count: 70
   entry_content: |
     üst edit: lan hala "eprimek" diyor birileri, gidip ona takılmışlar şu konuda. hayatınızda hiç mi kitap okumadınız be? şaka gibi!<br/><br/>sürekli şikayetlendiğim sinir bozucu durum.<br/><br/>en basitinden en kalitelisine, en pahalısından en ucuzuna, bütün tişörtler maksimum 4-5 yıkayışta pijama kıvamına geliyor.<br/><br/>20 liraya aldığım <a class="b" href="/?q=lcw">lcw</a>, <a class="b" href="/?q=defacto">defacto</a>, <a class="b" href="/?q=collezione">collezione</a> tişörtlerim de, 150-200 liraya aldığım <a class="b" href="/?q=lacoste">lacoste</a>, <a class="b" href="/?q=adidas">adidas</a>, <a class="b" href="/?q=ipekyol">ipekyol</a> tişörtlerim de aynı yolun yolcusu; özellikle beyaz olanlar... <br/><br/>üstelik hepsini yıkama talimatlarına uygun yıkıyorum, özenle kurutuyorum; ama yok arkadaş; hiçbir şekilde geçen sene aldığım tişörtü bu sene de giymeyi başaramıyorum; her yaz işin yoksa yeniden tişört al. evde birikmiş onlarca eski tişört de ya pijama olarak değerlendiriliyor, ya da toz bezi... <br/><br/>dayanmıyor bu tişört denen hede, iki günde ağzı burnu yamuluyor; hiç bir şey olmasa <br/>yan dikişlerinin şakülü kayıp tişört garip bir şekilde yana doğru dönüyor, anlamıyorum. sanırım penye ve türevi kumaşların kalitesi sınırlı; daha iyisini üretemiyorlar. ya da böyle üretmek işlerine geliyor, bilemedim. bildiğim tek şey her sene baştan tişört almak zorunda kalıyor olmam. <br/><br/>sinirimi bozan bir durum kısacası.<br/><br/>edit: olması gereken kelimeyi (eprimek) kullandığımız için "entel" olmuşuz, bir tişörte ederi olmayan binlerce lirayı vermediğimiz için fakir olmuşuz... <br/>oğlum siz konuya odaklansanıza! diyorum ki ben, "tüm talimatlara uymama rağmen tişörtler maksimum beş giyişte yıpranıyor ve bence bu bir sorun"; bu sizin için sorun değil mi gerçekten?<br/>göz göre göre söğüşlendiğinizi hissetmiyor musunuz sahi lan?<br/><br/>edit 2: "yıkamayı bilmiyorsun" diyenlere ithafen; 30 derecede, özenle ayırdığım renklerle, 800 devir sıkmada 1 saat yıkıyorum.<br/>daha ne yapam? :)<br/><br/>edit 3: makinam yeni, her türlü deterjanı denedim, sererek kurutuyorum. velhasılı sorun bende değil a dostlar; adamlar kalitesiz üretiyor!<br/>daha dün ön tarafında altın varaklı ince bir yazı olan bir beyaz tişört aldım. yukarıda bahsettiğim koşullarda yıkayıp serdim; baktım ki önündeki varaklı yazı uçmuş; geriye sapsarı, meşinimsi bir yüzey kalmış...<br/><br/>verdiğimiz paraya yazık arkadaşlar, aynı tişörtü 3 ay giymek mucize oldu artık.
   entry_channels: anket,moda
@@ -182,10 +198,18 @@ data:
     tolga öcal
   entry_id:  89817548
   entry_writer: insaatyaresulallah
-  entry_fav_count: 66
+  entry_fav_count: 67
   entry_content: |
     nasıl milli sporcuymuş lan bu 13 yaşında velet vermiş eline.
   entry_channels: spor,haber
+- entry_name: |
+    bir erkeğin boş biri olduğunu anlama yöntemi
+  entry_id:  89836169
+  entry_writer: damador gujarati
+  entry_fav_count: 67
+  entry_content: |
+    arabasına çok düşkünse, kitap okumuyorum eksikliğini hissetmiyorum diyorsa, rakı edebiyatı yapıyorsa, sevgilisi ile ilgili mahrem şeyleri arkadaşlarına anlatıyorsa, sosyal medya hesabının biosunda; gitmediği bir üniversiteye gidiyor veya "hayat okulundan mezun" yazıyorsa, komik olmadığı halde kendini komik sanıyorsa, bodybuilding olayını abartıyorsa mesela; arakadaş ortamında geçen bi x kg bastım salonda diyorsa, "bilmiyorum" demiyor, diyemiyorsa, tanımadığı kadınlara; hanfendi<sup class="ab"><a title="(bkz: evet hanfendi)" href="/?q=evet+hanfendi" data-query="evet hanfendi">*</a></sup>, bayan, erkeklere ise karşiim ve türevleri diyerek hitap ediyorsa, problemleri kaba kuvvetle halletmeye çalışıyorsa, müzik zevki arebeskten öteye gitmiyorsa... arkanıza bakmadan kaçın<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: ekleme. <br/>buarada, tabiki de kendimi anlatmıyorum, onu da nerden çıkarttınız arkadaşlar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ayrılıktan 9 gün sonra sevgili bulan eski sevgili
   entry_id:  89835068
@@ -198,26 +222,34 @@ data:
     tekirdağ'da kaybolan engelli kız çocuğu
   entry_id:  89820650
   entry_writer: cagdas donem kuramcisi
-  entry_fav_count: 61
+  entry_fav_count: 62
   entry_content: |
     duyuru'dan gördüm up'lamaya geldim.<br/><br/>"yeğenimiz başak saral, 1 mayıs akşam çorlu önerler mahallesindeki evinden çıkmış ve kaybolmuştur.<br/><br/>pembe bir t-shirt, fotoğraftaki yelek ve gri renkli eşofman altı giymektedir.<br/><br/>kızımız duyamıyor ve konuşamıyor. görenlerin, 0532 265 18 34 nolu telefona haber vermeleri rica olunur."<br/><br/>kızımızın fotoğrafı da bu:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://pbs.twimg.com/media/D5z-a0QXsAAYUY6.jpg:large" title="https://pbs.twimg.com/media/D5z-a0QXsAAYUY6.jpg:large">https://pbs.twimg.com/…ia/d5z-a0qxsaayuy6.jpg:large</a><br/><br/>barça'yı ekrem'i tayyip'i bırakın da az başlığı yukarı taşıyın la. yazık, el kadar bebe daha. kavuşsun ailesine hayırlısıyla.
   entry_channels: anket,ilişkiler,ekşi-sözlük,sağlık,haber,seyahat
 - entry_name: |
-    bir erkeğin boş biri olduğunu anlama yöntemi
-  entry_id:  89836169
-  entry_writer: damador gujarati
-  entry_fav_count: 58
+    8 mayıs 2019 ysk açıklaması
+  entry_id:  89847124
+  entry_writer: kimyasal boru
+  entry_fav_count: 61
   entry_content: |
-    arabasına çok düşkünse, kitap okumuyorum eksikliğini hissetmiyorum diyorsa, rakı edebiyatı yapıyorsa, sevgilisi ile ilgili mahrem şeyleri arkadaşlarına anlatıyorsa, sosyal medya hesabının biosunda; gitmediği bir üniversiteye gidiyor veya "hayat okulundan mezun" yazıyorsa, komik olmadığı halde kendini komik sanıyorsa, bodybuilding olayını abartıyorsa mesela; arakadaş ortamında geçen bi x kg bastım salonda diyorsa, "bilmiyorum" demiyor, diyemiyorsa, tanımadığı kadınlara; hanfendi<sup class="ab"><a title="(bkz: evet hanfendi)" href="/?q=evet+hanfendi" data-query="evet hanfendi">*</a></sup>, bayan, erkeklere ise karşiim ve türevleri diyerek hitap ediyorsa, problemleri kaba kuvvetle halletmeye çalışıyorsa, müzik zevki arebeskten öteye gitmiyorsa... arkanıza bakmadan kaçın<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: ekleme. <br/>buarada, tabiki de kendimi anlatmıyorum, onu da nerden çıkarttınız arkadaşlar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket,ilişkiler
+    milletin aklıyla dalga geçen siz, itibarsızlaştıran biz miyiz?
+  entry_channels: siyaset,haber
 - entry_name: |
-    esenyurt'ta bir vatandaşın erdoğan'a verdiği ayar
-  entry_id:  89847808
-  entry_writer: thornografi
+    hukuku bilgisayarların devralması gerektiği
+  entry_id:  89841042
+  entry_writer: tyler durdenin yedinci packi
+  entry_fav_count: 52
+  entry_content: |
+    insanların günümüzde adalet duygusu çok kısıtlı. manipüle edilebilirliği yüksek tarafsızlığı da göreceli. en mantıklı seçenek olarak hukuk yönetim sistemi kullanmak. ai ve deep leargning kullanarak hem kurallar hem de içtihatlar bilgisayarlara öğretilebilir ve daha adil sonuçlar geliştirilebilir. şu an teknoloji bunu yapmaya yetkin durumda. <br/>tabi hangi yönetici manipüle edemeyeceği hukukçuları ister hangisi biraz yemle istediği sonuçları veren satılmış insanlardan vazgeçebilir onu bilmiyorum. şu anda hukuk bir yöneticinin hırsızlık yapan eline ayağının hüküm vermesinden ibaret gibi görünüyor.
+  entry_channels: siyaset,bilim,teknoloji
+- entry_name: |
+    erkeklerin %96.5'i aynı anda üç kızı idare ediyor
+  entry_id:  89831582
+  entry_writer: kulube i ahzan
   entry_fav_count: 51
   entry_content: |
-    sırf cesaretinden ötürü tebrik edilmesi gereken bir bayan. <br/><br/>ritim gittikçe hızlanıyor yalnız durdurulamıyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=0dxgAfnes8w">https://www.youtube.com/watch?v=0dxgafnes8w</a>
-  entry_channels: haber
+    bu söylenilenin gerçek olması için kadınların %96.5'inin de aynı anda üç erkeği idare etmesi gerekiyor. <br/><br/>dediğimi anlayan kadın varsa mesaj atabilir, meriçlere ve matematikten anlamayan kadınlara cevap vermeyeceğim.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ekrem imamoğlu
   entry_id:  89817172
@@ -227,42 +259,10 @@ data:
     cok afedersiniz kendisi tam bir zihni sinir ustasi, dar-ul harb ve psikolojik savas komutanidir.<br/><br/>yaygaraci bir kisim muhalif de sesini kesip bu adamin direktiflerine uyarsa 47 gunde kendisi, tipki 90 gunde ibb secimlerini kazandigi gibi 2. galibiyetini alacaktir.<br/><br/>sahsen 31 mart gunune kadar hatta aksam saat 6-7’ye kadar bile 1-2 puan farkla kaybedecegini dusunurken adam %48.8’i cakti :) nasil ki bu performansi ve ustaligi basardiysa yine basarir. eminim.<br/><br/>ilk paragrafi biraz acacak olurasam, dun muhalefet kitlesindeki siniri ve yikimi sadece 1-2 saatte resmen sifirladi, bugun itibari ile seferberlik emri gibi buyuk bir motivasyona cevirdi. 12 saat icinde, karsi tarafin “simdi bunlarin yarisi boykot der kalani secim der birbirlerini yerler” oyununu, o dedigim psikolojik savas komutanligini kullanarak paramparca etti. <br/><br/>daha cok yazariz burada, simdilik diyecegim. kendi kendize gelin guvey olmak yerine imamoglu’nun adimlarini izleyin yeter.
   entry_channels: siyaset,haber
 - entry_name: |
-    erkeklerin %96.5'i aynı anda üç kızı idare ediyor
-  entry_id:  89831582
-  entry_writer: kulube i ahzan
-  entry_fav_count: 50
-  entry_content: |
-    bu söylenilenin gerçek olması için kadınların %96.5'inin de aynı anda üç erkeği idare etmesi gerekiyor. <br/><br/>dediğimi anlayan kadın varsa mesaj atabilir, meriçlere ve matematikten anlamayan kadınlara cevap vermeyeceğim.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    imamoğlu'yla birlikte insanlarda artan özgüven
-  entry_id:  89842783
-  entry_writer: cnttn
-  entry_fav_count: 48
-  entry_content: |
-    daha düne kadar konuşmaktan bile korkan odalar, toplum örgütleri, iş adamları ve insanlar ekrem imamoğlu ile birlikte ciddi ciddi konuşmaya başlamışlardır.<br/><br/>kıvılcımı ekrem imamoğlu çakmıştır ve halkı da onun rüzgarı olacaktır.<br/><br/>özgür ve konuşan bir türkiye için her şey çok güzel olacak!
-  entry_channels: siyaset
-- entry_name: |
-    hukuku bilgisayarların devralması gerektiği
-  entry_id:  89841042
-  entry_writer: tyler durdenin yedinci packi
-  entry_fav_count: 47
-  entry_content: |
-    insanların günümüzde adalet duygusu çok kısıtlı. manipüle edilebilirliği yüksek tarafsızlığı da göreceli. en mantıklı seçenek olarak hukuk yönetim sistemi kullanmak. ai ve deep leargning kullanarak hem kurallar hem de içtihatlar bilgisayarlara öğretilebilir ve daha adil sonuçlar geliştirilebilir. şu an teknoloji bunu yapmaya yetkin durumda. <br/>tabi hangi yönetici manipüle edemeyeceği hukukçuları ister hangisi biraz yemle istediği sonuçları veren satılmış insanlardan vazgeçebilir onu bilmiyorum. şu anda hukuk bir yöneticinin hırsızlık yapan eline ayağının hüküm vermesinden ibaret gibi görünüyor.
-  entry_channels: siyaset,bilim,teknoloji
-- entry_name: |
-    yerli otomobilde sipariş kuyruğu
-  entry_id:  89830963
-  entry_writer: isimsiz fosil
-  entry_fav_count: 45
-  entry_content: |
-    "eki eki yapılırsa bizde alcaz" temalı bir adet yalama içeren haberdir.<br/><br/>sabaha tık kazandırmadan habere bakmak isteyenler için:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/pf4513krizgn" title="https://eksiup.com/p/pf4513krizgn">eksiup</a>
-  entry_channels: otomotiv
-- entry_name: |
     bir kadının boş biri olduğunu anlama yöntemi
   entry_id:  89830856
   entry_writer: ben cok dusunceliyimdir
-  entry_fav_count: 38
+  entry_fav_count: 42
   entry_content: |
     fetö'den , 'pensilvanya'daki zat ' diye bahsetmesi.<br/>evet, fiziki görüntüsü manken gibi olan kadının , bugün bu şekilde konuştuğuna tanık oldum. pensilvanya'daki zat ne a.q , tayyip misin nesin?
   entry_channels: anket,ilişkiler
@@ -270,47 +270,39 @@ data:
     sekse tabu olarak bakmayan çağdaş ve modern kız
   entry_id:  89838762
   entry_writer: barely evil
-  entry_fav_count: 35
+  entry_fav_count: 36
   entry_content: |
     sekse tabu olarak bakmayan çağdaş ve modern erkek ile çatır çatır sevişiyordur, siz yine osbire devam gençler.
   entry_channels: ilişkiler
 - entry_name: |
-    oruçluyken spor yapmak
-  entry_id:  89840181
-  entry_writer: trollsavar
-  entry_fav_count: 32
-  entry_content: |
-    sadece yağ yakımına değil kas kaybına da neden olur.kısacası sağlıksızdır.yapan kişilere yapmamalarını öneririm.<br/><br/>edit : bu entry'den sonra mesaj atan arkadaşlar oldu.bazısı ciddi ciddi sordu bazısı ise karşıt bir argüman sunmadan ergence mesajlar attı.<br/><br/>13-14 saat vücudu aç bırakıyorsunuz ve vücudunuza su girişi olmuyor.spor esnasında da sıvı girişi olmayacak bu (bkz: <a class="b" href="/?q=dehidrasyon">dehidrasyon</a>) a neden olur.bu vücuda yapılmış bir kötülüktür.su , minarel ve tuz kaybı yaşarsınız.uzun süre aç bırakılan ve besin girişi olmayan vücuda yükleme yapılırsa vücut kendine enerji sağlamak için kas ve yağlara saldırır.ciddi bir kas kaybına uğradıktan sonra yaptığın spor sana fiziksel olarak tartıda kilo bazında eksi yazar ancak sağlıksız eksi yazar.oysa hafif bir iftardan sonra yapılacak spor aksine fayda sağlar.aynı zamanda bu şekilde yapılan spor başta kalbinizi zorlamanıza sebebiyet verebilir.3-5 kilo vereceğim diye vücut anatominizi bozmayın.
-  entry_channels: spor,sağlık,yeme-içme
-- entry_name: |
-    odunpazarında odun dışında her şey olması
-  entry_id:  89843866
-  entry_writer: yalnizlik onur boyu
-  entry_fav_count: 31
-  entry_content: |
-    (bkz: <a class="b" href="/?q=porsuk+%c3%a7ay%c4%b1%27nda+porsuk+d%c4%b1%c5%9f%c4%b1nda+her+%c5%9feyin+olmas%c4%b1">porsuk çayı'nda porsuk dışında her şeyin olması</a>)
-  entry_channels: 
-- entry_name: |
-    green card
-  entry_id:  89817764
-  entry_writer: wonderkid
-  entry_fav_count: 31
-  entry_content: |
-    milwaukee ikmal maliye çıktı.<br/>aynı yere düşen yazarlar yeşillendirsin.
-  entry_channels: siyaset,seyahat
-- entry_name: |
     norm ender
   entry_id:  89836135
   entry_writer: adler91
-  entry_fav_count: 22
+  entry_fav_count: 32
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/NormEnder/status/1126051395092779008?s=19" title="https://twitter.com/NormEnder/status/1126051395092779008?s=19">ne yaptın sen yeğen yaw?</a><br/><br/>liselilerin(freeezhel tayfa) sevgilisi olan rapcilere imamoğlu konusunda sessiz kaldıkları için roket atmış olan arkadaş.
   entry_channels: müzik,magazin
 - entry_name: |
+    ilave tv'ye içini döken çöp toplayan dayı
+  entry_id:  89831032
+  entry_writer: nilsholgersson
+  entry_fav_count: 28
+  entry_content: |
+    elindeki 1 liralık bulguruyla üzmüştür. hele bu bana yetiyor demesi yok mu. ah be sözlük cidden ne insanlar var şu ülkede. saygısını da hiç bozmuyor cumhurbaşkanına hitap ederken. suriyelelire yapılanın onda biri bu amcaya yapılıyor mu? bu durumu düzeltsin dediği kişi vakıfların yardımına istanbulun bütçesinin derdine düşmüş durumda.
+  entry_channels: siyaset,haber
+- entry_name: |
+    recep tayyip erdoğan
+  entry_id:  89818248
+  entry_writer: eq
+  entry_fav_count: 23
+  entry_content: |
+    kenan evren, emre belezoğlu, cem garipoğlu nerede itici, değersiz insan varsa gözümde hepsinden daha da değersiz ve hep nefretle andığım şahıs. böyle mi olmalıydı? en azından eskiden türkiye'de insanlar cb falan diye saygı duyardı en üst makamdaki insanlara. inanın saygım falan yok. ölse arabayla tura çıkarım. çıkmazsam anasımı, avradımı.
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
     türkmüş gibi duran yabancı markaları
   entry_id:  89840038
   entry_writer: dracox
-  entry_fav_count: 20
+  entry_fav_count: 22
   entry_content: |
     (bkz: <a class="b" href="/?q=irfan+view">irfan view</a>)
   entry_channels: anket
@@ -323,13 +315,13 @@ data:
     açılın, eski, lisanslı yüzücü geldi! (böyle giriş yapanlara hep özenirdim, nasip oldu.)<br/><br/>görüntüyü izledim, bence kasıt var. o yaştaki bir çocuk, erken yaşta iyi bir antrenör eşliğinde başlamışsa canavar gibi yüzer, bu bir; uzun süre yani kondisyon odaklı bir yüzme eylemi sonrasında sendeleme olabilir ancak bu şu şekilde olur: sudan çıktığın gibi baş dönmesi veya denge kaybı yaşıyorsan sağa sola sarhoş gibi yalpalarsın, hızını almışken çelme takılmış gibi fırlayamazsın, bu iki; çocuk ve adamın arasındaki mesafe gayet yatay, yani orada amaç ipi göğüslemekse acele şekilde, yalpalayan adam yana değil, öne doğru fırlar ve yüz üstü düşer, bu da üç. adamın amacının ipi göğüslemekten ziyade başka bir heves olduğunu düşündürdü bu video bana. hani futbolda bir oyuncu havadaki topa bakr ama rakibi direk ona bakarak dalar ya, bu da gayet bakarak öyle dalmış.<br/><br/>13 yaşındaki bir çocuğa haksızlığı tattırmaya değecek bir şeyin de bu dünya üzerinde var olmadığını düşünüyorum. ayıp.<br/><br/>ek: bu başlığa değil de skandal başlığına yazmalıymışım aslında ama olsun, dursun burada. sinirden oldu, kusura bakmayın.<br/><br/>ek2: sinirle yazdığım meme imalarını düzelttim. günah alma ihtimaline karşı yaptım bunu. belki de sadece kişisel hırs vb. bir şey de olabilir dedim kendime. dedikodu üzerinden yorum yapmanın yakışmayacağını düşündüm özünde. böyle işte.<br/><br/>ek3: hiç bu kadar ek yapmamıştım. organizasyon açıklamasını okudum. onlar da hemfikir. yani bizim izlediğimiz ve anladığımız şeyi onlar da aynı şekilde değerlendirmiş. çocuğumuz kendi yaş kategorisinde 1. olmuş. bu adamın hevesi, hırsı nedir? ilk göğüsleyen kendisi olmak istedi sanırım. çocuğu düşürdükten sonra dönüp bakmıyor bile. 2. videoyu da izledim, sonuç aynı: kasıt görüyorum. ayıp. yolda bir çocuğa görmeden temas ettiğinizde dahi hemen durup çocukla ilgilenirsiniz değil mi? bu ilgilenmez işte.
   entry_channels: spor,anket
 - entry_name: |
-    8 mayıs 2019 ysk açıklaması
-  entry_id:  89846845
-  entry_writer: causa proxima
-  entry_fav_count: 14
+    ben cem seymen sorularınızı yanıtlıyorum
+  entry_id:  89828840
+  entry_writer: insandoktoru
+  entry_fav_count: 12
   entry_content: |
-    ysk'den yapılan açıklamada, "hakimlerin verdikleri kararlar nedeniyle kişisel olarak hedef gösterilmesi ve itibarsızlaştırılması kabul edilemez" demiş..<br/><br/>bu yüzsüzlükten başka ne olabilir? bari açıklama yapıp milletin aklıyla alay etmeyin..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.gazetekarga.com/post/ysk-hakimlerin-verdikleri-kararlar-nedeniyle-kişisel-olarak-hedef-gösterilmesi-kabul-edilemez" title="https://www.gazetekarga.com/post/ysk-hakimlerin-verdikleri-kararlar-nedeniyle-kişisel-olarak-hedef-gösterilmesi-kabul-edilemez">kaynak</a>
-  entry_channels: siyaset,haber
+    2. dünya savaşı öncesi almanyasında hitlere sessiz kalanlar hakkında ne düşünüyorsunuz?
+  entry_channels: siyaset,tv,ekşi-sözlük,haber
 - entry_name: |
     marmaris'te yüzme yarışında yaşanan skandal olay
   entry_id:  89824924
@@ -340,12 +332,28 @@ data:
   entry_channels: spor,haber
 - entry_name: |
     bülent yıldırım
-  entry_id:  89844976
-  entry_writer: hakorman
+  entry_id:  89846163
+  entry_writer: draconian
+  entry_fav_count: 10
+  entry_content: |
+    fetocular icin gorevini yapti, paralari cukkaladi ve siktirdi gitti klasik cinconlu. fiksturu terimle yapan ali durustlu federasyon seneye baska emekli edilecek hakemi gese-bjk macina verir. bu isler boyle.
+  entry_channels: spor
+- entry_name: |
+    ekşi itiraf
+  entry_id:  89818896
+  entry_writer: jaweh
   entry_fav_count: 9
   entry_content: |
-    orospu evladının tekidir, geçiniz
-  entry_channels: spor
+    hayvanları sevmeyen insanlara pek güvenemiyorum ama bir hayvan bir insanı sevmezse, o hayvana güvenirim.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    sevgili olmalık kadın bulamamak
+  entry_id:  89846104
+  entry_writer: pinkylips
+  entry_fav_count: 7
+  entry_content: |
+    (bkz: <a class="b" href="/?q=dolmal%c4%b1k+biber+bulamamak">dolmalık biber bulamamak</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     8 mayıs 2019 ajax tottenham maçı
   entry_id:  89822221
@@ -355,13 +363,21 @@ data:
     son 5 maçından 4 tanesini 1-0 kaybeden, bir tanesini 1-0 brighton karşısında kazanan, bu karşılaşmalarda sadece 1 gol atabilen tottenham ile son 20 maçının 16 sını kazanırken rakip kaleleri 61 kere havalandıran , bu galibiyetlerinden 2'sini şampiyonlar ligi deplasmanında real madrid ve juventusu toplamda 6 gol atarak geçen, yine şampiyonlar ligi yarı finalinin ilk maçında deplasmanda bugün ki rakibini 0-1 yenerek avantaj elde takım ajax.<br/><br/>birileri çıkmış tottenham bu ajaxı yenemezse ekşi sözlüğü bırakırım diyor. asadkjka<br/><br/>hayır bütün ülke olarak zaten kafayı yedik ama bari bu işlerde amı götü dağıtmayalım, bu ajax derken çok iyi durumda ki ajaxı ima etmediği malum, ama sanırım sadece isimlere bakarak tahmin yürütüyor.<br/><br/>neyse uzun lafın kısası, ajax bugünün favorisi, tersini yazan adamlara güvenmeyin, onlar sadece isimlere bakıyor.
   entry_channels: spor
 - entry_name: |
-    ibb'den ekrem başkanın atadığı işçilerin kovulması
-  entry_id:  89846777
-  entry_writer: lordstar
+    kadın mısın erkek misin diyen çocuğu hırpalamak
+  entry_id:  89846838
+  entry_writer: dexmach
   entry_fav_count: 5
   entry_content: |
-    mazbata iptali sonrası ibb'de ekrem başkanın getirdiği kişiler görevlerinden bir bir uzaklaştırılmaya başlanmış, bu ne acele, bu ne kindarlık ?<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>mazbatanın iptal edilmesinin ardından ibb’deki işten çıkarmalar yaşandı. ilk işten çıkarılan ise imamoğlu’nun danışmanı murat ongun oldu. ongun'un ardından diğer danışmanlar da kovuldu.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/ibb-bakin-ilk-kimi-kovdu-08051957.html" title="https://odatv.com/ibb-bakin-ilk-kimi-kovdu-08051957.html">kaynak</a>
-  entry_channels: siyaset,haber
+    küçükken biriyle böyle dalga geçmiştik 3 arkadaş, abi bize "allah belanızı versin" demişti, keşke dövseydi diyorum şimdi, öyle üzülüyorum yaptığımıza. <br/><br/>birinin kompleksini çiğneyip, belki aylarca depresyona sokacaksınız, belki o kişinin de bir çocuk kadar psikolojik savunma mekanizması yok. birinin elindeki güç içgüdüsellik, diğerinin elindeki güç fizik, çok da farkları yok. <br/><br/>dayak çocuğun içgüdüselliğini bastırmak için en kötü yoldur ama hiç bastırılmamış bir çocuk için makuldur.<br/><br/>ed: bunları çocuğun dalga amaçlı sorduğunu varsayarak söyledim, art arda soruşundan o anlaşılıyor, amacı o değilse bunlar geçerli değil tabi.
+  entry_channels: ilişkiler,haber
+- entry_name: |
+    fatih portakal
+  entry_id:  89832666
+  entry_writer: enola gay
+  entry_fav_count: 5
+  entry_content: |
+    "üniversitelilerin büyük çoğunluğu imamoğluna oy verdi. akpye oy veren üniversiteli sayısı yok denecek sayıda. istanbulda 1 milyon 500 üniversite öğrencisi var. bunların 1 milyondan fazlası şehir dışında. tahminimce akp nin burdan oy kaybı 200 bin ise imamoğlunun kaybı 800 bin olur."<br/><br/>"o yüzden okulların tatil olacağı tarihi belirlediler. hangi işadamı bu öğrencilerin gidiş-dönüş otobüs bileti masrafını karşılamayı düşünür? tüsiad bu duruma el atar mı?"<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/finansanalizci/status/1126050457380630528" title="https://twitter.com/finansanalizci/status/1126050457380630528">https://twitter.com/…zci/status/1126050457380630528</a><br/><br/>önemli not: bu konudan imamoğlu'nun da haberi vardır ancak chp'nin ya da imamoğlu'nun bu konuyla ilgili bi kampanya benzeri bir şey başlatması şart.
+  entry_channels: siyaset,tv,haber
 - entry_name: |
     yazılımcılığın şirk olma ihtimali
   entry_id:  89840669
@@ -371,35 +387,19 @@ data:
     manyak mısın olm, dili bile var:<br/>'c şirk' (c#)
   entry_channels: programlama
 - entry_name: |
-    lucifer
-  entry_id:  89841807
-  entry_writer: ameliaa
+    hayrettin kozak
+  entry_id:  89844547
+  entry_writer: little mr sunshine
   entry_fav_count: 4
   entry_content: |
-    dönmüştür. <br/><br/>chloe'ye ne olmuş öyle? fazla estetik mi, yaşlanma mı? çok çirkin görünüyor.
-  entry_channels: tv,müzik,sinema,edebiyat,spoiler
+    galatasaray divan toplantısında ekrem imamoğlu na açıkca destek veren gs divan kurulu üyesi. siz gs a fetöcü, surıyelı, fransız, şu, bu, istedıgınz iftirayı yapın ama bu galatasaray'ın ataturk ve tevfik fikret izini takip ettiği gercegıni degıstırmiyor. helal olsun diyorum hayrettin dedemize
+  entry_channels: spor
 - entry_name: |
-    fatih portakal
-  entry_id:  89832666
-  entry_writer: enola gay
-  entry_fav_count: 4
+    brooklyn'de bir yahudinin yumruklanması
+  entry_id:  89849172
+  entry_writer: glide
+  entry_fav_count: 1
   entry_content: |
-    "üniversitelilerin büyük çoğunluğu imamoğluna oy verdi. akpye oy veren üniversiteli sayısı yok denecek sayıda. istanbulda 1 milyon 500 üniversite öğrencisi var. bunların 1 milyondan fazlası şehir dışında. tahminimce akp nin burdan oy kaybı 200 bin ise imamoğlunun kaybı 800 bin olur."<br/><br/>"o yüzden okulların tatil olacağı tarihi belirlediler. hangi işadamı bu öğrencilerin gidiş-dönüş otobüs bileti masrafını karşılamayı düşünür? tüsiad bu duruma el atar mı?"<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/finansanalizci/status/1126050457380630528" title="https://twitter.com/finansanalizci/status/1126050457380630528">https://twitter.com/…zci/status/1126050457380630528</a><br/><br/>önemli not: bu konudan imamoğlu'nun da haberi vardır ancak chp'nin ya da imamoğlu'nun bu konuyla ilgili bi kampanya benzeri bir şey başlatması şart.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
-    kadın mısın erkek misin diyen çocuğu hırpalamak
-  entry_id:  89846838
-  entry_writer: dexmach
-  entry_fav_count: 3
-  entry_content: |
-    küçükken biriyle böyle dalga geçmiştik 3 arkadaş, abi bize "allah belanızı versin" demişti, keşke dövseydi diyorum şimdi, öyle üzülüyorum yaptığımıza. <br/><br/>birinin kompleksini çiğneyip, belki aylarca depresyona sokacaksınız, belki o kişinin de bir çocuk kadar psikolojik savunma mekanizması yok. birinin elindeki güç içgüdüsellik, diğerinin elindeki güç fizik, çok da farkları yok. <br/><br/>dayak çocuğun içgüdüselliğini bastırmak için en kötü yoldur ama hiç bastırılmamış bir çocuk için makuldur.<br/><br/>ed: bunları çocuğun dalga amaçlı sorduğunu varsayarak söyledim, art arda soruşundan o anlaşılıyor, amacı o değilse bunlar geçerli değil tabi.
-  entry_channels: ilişkiler,haber
-- entry_name: |
-    bir insanın cahil olduğunu gösteren şeyler
-  entry_id:  89848350
-  entry_writer: tegmen ed j exley
-  entry_fav_count: 0
-  entry_content: |
-    akp'li olması. 17 sene gözlemledim hic beni şaşırtan olmadı. çok net .
-  entry_channels: anket,ilişkiler,eğitim
+    (bkz: <a class="b" href="/?q=bundan+bize+ne+olmas%c4%b1">bundan bize ne olması</a>)
+  entry_channels: 
 ---
