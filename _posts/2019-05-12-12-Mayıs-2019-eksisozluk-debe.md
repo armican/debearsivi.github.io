@@ -1,0 +1,405 @@
+---
+layout: post
+title: 12 Mayıs 2019 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    bursa'da sabah 8.30'da çekilen varlık fotoğrafı
+  entry_id:  89948240
+  entry_writer: samimi panda
+  entry_fav_count: 1004
+  entry_content: |
+    olm uzaylı sanıp sevindim lan. neden boşuna heyecan yaratıyorsunuz :(
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    abdullah öcalan avukatı ile görüşmeli
+  entry_id:  89953625
+  entry_writer: alukard
+  entry_fav_count: 997
+  entry_content: |
+    soran olursa, hdp ile ortaklık yapan parti, iyi parti ile chp dersiniz kim bilecek.
+  entry_channels: siyaset,haber
+- entry_name: |
+    hatırlatalım ekşi sözlüğüde zamanında kapatmıştık
+  entry_id:  89937588
+  entry_writer: sentenza
+  entry_fav_count: 948
+  entry_content: |
+    başlıkta bilinçsizce yapılan bir yazım yanlışı yok, olduğu gibi aktarıyorum. <br/>modlar da düzeltmezse iyi olur.<br/><br/>koskoca digitürk tarafından <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/DigiAntiFraud/status/1126912073382993927?s=19" title="https://twitter.com/DigiAntiFraud/status/1126912073382993927?s=19">şu tweet</a>'te kullanılan ifade. <a rel="nofollow noopener" class="url" target="_blank" href="https://prnt.sc/nmzear" title="https://prnt.sc/nmzear">silinirse diye ss</a><br/><br/><a class="b" href="/?q=game+of+thrones">game of thrones</a> çevirmeni <a class="b" href="/?q=e%c5%9fekherif">eşekherif</a>i tehdit ediyorlar. <br/><br/>1. dahi anlamındaki "de" ayrı yazılır.<br/>2. digitürk'ün herhangi bir siteyi kapatma yetkisi yok. "kapatmıştık" nasıl bir kafanın ürünü acaba? digitürk, türkiye cumhuriyeti'nin bir yargı organı mı? "kapattırmıştık" olmasın o? <br/><br/>gemi iyice azıya alan bu şirket için artık ses çıkartmak lazım. piyasada tekel konumunda olması ve bu sayede uyguladığı fahiş fiyat politikasıyla, insanları yolunacak kaz gibi gören bu şirkete bir ders vermenin zamanı gelmiş olmalı.<br/><br/>(bkz: <a class="b" href="/?q=digiturk+aboneli%c4%9fi+iptal+kampanyas%c4%b1">digiturk aboneliği iptal kampanyası</a>)<br/><br/>ekleme: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/DigiturkDestek/status/1126934473533206529?s=19" title="https://twitter.com/DigiturkDestek/status/1126934473533206529?s=19">söz konusu hesap digitürk'e ait.</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://prntscr.com/nmzplv">http://prntscr.com/nmzplv</a><br/><br/>edit: @digiantifraud hesabı tweet'ini silmiş. zaten ss almıştım ancak şunlar da kenarda dursun:<br/><br/><a class="b" href="/?q=ehti">ehti</a> nickli yazardan gelen arşiv kaydı: <a rel="nofollow noopener" class="url" target="_blank" href="http://arweave.net/Gy4anLchHxEOQ8graWJFKirTETZlVRJJGsqggZO7DiU" title="http://arweave.net/Gy4anLchHxEOQ8graWJFKirTETZlVRJJGsqggZO7DiU">http://arweave.net/…q8grawjfkirtetzlvrjjgsqggzo7diu</a><br/><a class="b" href="/?q=sene+1986">sene 1986</a> nickli yazardan gelen video kaydı: <a rel="nofollow noopener" class="url" target="_blank" href="https://vimeo.com/335568704">https://vimeo.com/335568704</a>
+  entry_channels: tv,ekşi-sözlük,teknoloji,haber
+- entry_name: |
+    4 milyon suriyelinin evine dönmesi
+  entry_id:  89955571
+  entry_writer: stereotomy
+  entry_fav_count: 794
+  entry_content: |
+    hala öğrenemediniz mi?<br/><br/>bunların ağzından çıkan 3 sözün 2'si yalan, 1'i yanlıştır. bu saatten sonra bu hükümetten artık "icraat" çıkmaz. sadece "laf" çıkar.<br/><br/>akp hükümeti artık "topal ördek"tir. hiçbir şey yapamaz. gerçi, bundan önce hangi vaatlerini yaptılar ki?<br/><br/>en basitinden partinin ismine bakın, türkiye'de bugün "adalet" mi var, "kalkınma" mı?<br/><br/>halkı adalet ve kalkınma vaadiyle kandırıp üçün birini verdiler. kendileri malı götürdüler. sana da hesabı ödemek kaldı.<br/><br/>bunların herhangi bir lafına inanan gerizekâlıdır. net.
+  entry_channels: siyaset,haber
+- entry_name: |
+    zengin imamoğlu kazansın diye yırtınan fakir solcu
+  entry_id:  89954667
+  entry_writer: suedehead
+  entry_fav_count: 738
+  entry_content: |
+    fakir binali yıldırım varken büyük saçmalamış solcudur.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
+    azerbaycan'ın arsenalli futbolcuya vize vermemesi
+  entry_id:  89953985
+  entry_writer: kizilsaman00
+  entry_fav_count: 425
+  entry_content: |
+    sırf ermeni diye vize vermemesi değil. ajitasyonunu sevdiklerim yine başlamışlar ağlamaya. dağlık karabağ'ı propaganda için ziyaret ettiği için azerbaycan'a girişi yasak. hadi ağlamaya devam.
+  entry_channels: spor
+- entry_name: |
+    türk futbolunda şike soruşturması
+  entry_id:  89962253
+  entry_writer: coldzera
+  entry_fav_count: 404
+  entry_content: |
+    yıllar önce gerçekleşen ve hiçbir takımın küme düşürülmediği soruşturma.
+  entry_channels: spor
+- entry_name: |
+    ramazanda içenlerin ahirette vereceği hesap
+  entry_id:  89937627
+  entry_writer: animus
+  entry_fav_count: 392
+  entry_content: |
+    öyle bir hesap yok. arap masalları üzerinden sorgulama yapılmaz.<br/><br/>şu an mesela bin tane inanışa aykırı iş yapıyorumdur;<br/><br/>evimde buda heykeli yoktur, bu akşam brahma'ya dua etmemişimdir, şiva'ya yalvarmamışımdır, yemek yerken isa'ya şükrememişimdir, tokat yerken öbür yanağımı çevirmemişimdir, artemis'in sunağına tuttuğum balıklardan koymamışımdır, ahura mazda için yanan ateşi korlamamışımdır, atalar ruhunu çağırmak için davul çalmamışımdır.<br/><br/>hangi birini yapayım? bırakın iki lokma demleneyim, yoruldum din yükünden.
+  entry_channels: sağlık,yeme-içme
+- entry_name: |
+    18cm + 184cm + 15mio tl + amg gt + boğazda villa
+  entry_id:  89947520
+  entry_writer: lex est dictamen rationis
+  entry_fav_count: 294
+  entry_content: |
+    +boğaz'daki villalara yalı dendiğini bilmeyecek kadar cehalet<br/><br/>diye devam eden matematik işlemi sorusu.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ben cem yılmaz'ı bundan sonra sevemem
+  entry_id:  89952547
+  entry_writer: baytarafli
+  entry_fav_count: 269
+  entry_content: |
+    balgat hükümdarı sözde bilge lider devlet bahçeli'nin son açıklaması.<br/><br/>"mhp genel başkanı devlet bahçeli, cem yılmaz'ın açıklamaları için “herkes cem yılmaz bey’i sever. ben ise onu görünce ‘önce bir elbiseni değiştir’ derim. <a class="b" href="/?q=ben%2c+cem+y%c4%b1lmaz%e2%80%99%c4%b1+bundan+sonra+sevemem">ben, cem yılmaz’ı bundan sonra sevemem</a>” tepkisini gösterdi. " <a rel="nofollow noopener" class="url" target="_blank" href="https://t.co/RazaUTIlLX" title="https://t.co/RazaUTIlLX">kaynak.</a><br/><br/>meral akşener bir konuşmasında devlet bahçeli'ye vasi atanması gerektiğini söylemişti. bunu ciddi şekilde değerlendirmek gerek galiba.
+  entry_channels: siyaset,magazin
+- entry_name: |
+    asude defne özkan
+  entry_id:  89939076
+  entry_writer: sorg
+  entry_fav_count: 267
+  entry_content: |
+    yıllık ücreti 50.000 lira olan özel okulda okumuş, çoğunuzun rüyasında bile göremeyeceği bir sürü yer gezmiş, new york senin paris benim takılmış zengin çocuğu bu kız ve okan üniversitesi muadili sikimsonik bir okula gidip dandik oyunculuk egitimi almak için utanmadan, yüzsüzce para dileniyor. basit bir keriz silkeleme olayı sanıp tepki gösterdim ama meğer milletvekilleri, ünlüler, hatta new york konsolosluğu bile bu zengin bebesi amerika'nın okan üniversitesi'nde okuma hayalini gerçekleştirsin diye sıraya gitmiş. ne küfür edeceğimi bilemedim birader. hadi diğer herkesin kendi parası, ister çiftlikbanka kaptırsın ister sokağa atsın kendilerini ilgilendirir ama bir devlet kurumu kalkıp vatandaşın vergilerini şımarık zengin kızı selinsu new york'ta gününü gün etsin diye çarçur edemez. böyle saçmalık olmaz kardeşim. ailesinde para bok gibi olup özel okullarda okumuş, dünyayı gezmiş selinsulara gelene kadar yardımı hakeden onca zeki, yetenekli fakir gençler var. onlara yardım edin edecekseniz. <br/><br/>bir de burada bunu savunan meriç sürüsü var ki akıllara zarar. bir sürü fakir çocuğu imkansızlıklar yüzünden ne hayallerden vazgeçmek zorunda kalıyor, bir çoğumuz dünya kadar emek harcadığımız, uğruna nelerden fedakarlık ettiğimiz ne hayallerimizi çöpe atmak zorunda kaldık. amerika'nın okan üniversitesinde oyunculuk eğitimi almak gibi yerlerde sürünen dandik hayalleri olan şımarık zengin bebesine para yağdırılmasına isyan etmeyelim de neye edelim? hayale bak ya, kimsenin adını duymadığı, amerika'nın en dipteki en dandik okullarından birine kabul almış, sokaktan tinerci toplasan kabul ediyorlar zaten. kalkıp bunu sanki nasa'da astronot eğitimine kabul edilmiş gibi yalanlarla bezeyip saf vatandaşları resmen dolandırmış ve burada insanlar okuduğu özel okulların ücretine, gezdiği bir sürü ülkeye kadar dökmüşken hala daha savunan var ya. çiftlikbankçı tosunu da savunun bari tutarlı olun en azından.
+  entry_channels: sinema,magazin,eğitim
+- entry_name: |
+    boşnak denince akla gelenler
+  entry_id:  89948931
+  entry_writer: marsta su bulan zenci
+  entry_fav_count: 217
+  entry_content: |
+    maalesef (bkz: <a class="b" href="/?q=rasim+ozan+k%c3%bctahyal%c4%b1">rasim ozan kütahyalı</a>)
+  entry_channels: anket
+- entry_name: |
+    galatasaray'u uefa'ya şikayet ediyoruz kampanyası
+  entry_id:  89966738
+  entry_writer: srfydn
+  entry_fav_count: 197
+  entry_content: |
+    boş çalışma.<br/><br/>uefa iç işlere karışmıyor karşim. yoksa fb ve bjk şikeden çoktan küme düşmüşlerdi.
+  entry_channels: spor,anket
+- entry_name: |
+    anca karı gibi arkadan konuşun
+  entry_id:  89954419
+  entry_writer: asyamaris
+  entry_fav_count: 197
+  entry_content: |
+    anneler günü arefesinde beşiktaş kulüp başkanı <a class="b" href="/?q=fikret+orman">fikret orman</a> tarafından söylenmiş söz.<br/><br/>bu büyük terbiyesizliği “oruçlu olmama verin” diyerek örtmeye çalışması daha da çirkindi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tribundergi/status/1127187619060830211?s=21" title="https://twitter.com/tribundergi/status/1127187619060830211?s=21">buradan izleyebilirsiniz.</a><br/><br/>zamanında süleyman seba gibi mükemmel insanların efsaneleştiği büyük bir kulübün geldiği duruma bir galatasaraylı olarak gerçekten üzülüyorum.
+  entry_channels: spor,haber
+- entry_name: |
+    sivrihisar devlet hastanesi acil servisi rezaleti
+  entry_id:  89953117
+  entry_writer: darmadagintepesi
+  entry_fav_count: 160
+  entry_content: |
+    tarafıma yapılan resmi yazılı cevap şu şekildedir:<br/><br/>“yukarıda açık kimlik bilgileri yazılı ölen m.ö.’nün 03/03/2019 günü saat 17.00 sularında kollarındaki uyuşma sebebiyle sivrihisar devlet hastanesi acil polikliniğine başvurduğu, ölenin bilinçsiz hareketlerinden şüphelenen görevli doktorun uyuşturucu madde kullanılması sebebiyle adli rapor düzenlediği, bunun üzerine cumhuriyet başsavcılığınca olaya adli vaka olarak işlem yapıldığı, ilçe devlet hastanesinde yapılan müdahaleler sonucu rahatsızlığı düzelmeyen ölenin aynı gün 112 acil ekipleriyle birlikte esogü tıp fakültesi hastanesine sevk edildiği, ancak ölenin burada yapılan tüm müdahalelere rağmen rahatsızlığının düzelmediği ve 06/03/2019 tarihinde gece saatlerinde vefat ettiği, eskişehir cumhuriyet başsavcılığı tarafından aynı gün yapılan ölü muayene işlemi sonucu m.ö.’nün ölümünün beyin damarlarının (pca) enfaktüsü nedeniyle gelişen beyin iskemisi ve gelişen komplikasyonlar sonucu husule geldiğinin tespit edildiği, ayrıca ölenden alınan kan örneklerinde herhangi bir uyuşturucu veya uyarıcı maddeye rastlanılmadığı, sivrihisar ilçe devlet hastanesinde uyuşturucu madde kullanımından şüphelenilmesi sebebiyle adli rapor düzenlenmesi sonucu olayın adli vakaya dönüştüğü, m.ö.’nün ölümünün kendisinde bulunan rahatsızlığı sonucu gelişen doğal ölüm olduğu ve herhangi bir şüpheli durumun bulunmadığı anlaşılmakla soruşturmaya konu olay hakkında “suç yokluğu” nedeniyle kamu adına kovuşturma yapılmasına yer olmadığına”<br/><br/>çelişen durumlar şu şekildedir:<br/><br/>- babam m.ö. esogü tıp fakültesine değil, eskişehir şehir hastanesine götürülmüştür.<br/><br/>- sivrihisar devlet hastanesine giriş saati 17.00 olarak belirtilmesine rağmen, sevki için: “aynı gün” ifadesi kullanılmıştır.<br/><br/>- yapılan kan tahlilinde “uyuşturucu ya da uyarıcı maddeye rastlanmamıştır” sonucu çıkmasına rağmen; kovuşturmaya yer olmadığı hükmüne varılmıştır. yanlış tanıyla gerekli tedavinin yapılmayışı ve saatlerce hastanede bekletilmesi “kovuşturma” için yeterli sebep görülmemiştir.<br/><br/>- benim şikayetimle aynı doğrultuda “uyuşturucu madde” kullanmadığı anlaşılmasına rağmen ve hiçbir iftira ya da yalan beyan bulunmamasına rağmen başlıktaki tüm entry lerin silinmesine karar verilmiştir. olayı hatırlamayan ya da bilmeyenler için silinen entry aşağıdadır.<br/><br/>“babam m.ö. 3 mart 2019 saat 16:00 sularında el ve ayaklarındaki uyuşma sebebiyle; amcam n.ö. refakatinde sivrihisar/eskişehir devlet hastanesi acil polikliniğine başvurmuştur. <br/><br/>acilde nöbet tutan hekim semptomların çok tehlikeli olduğununun önemini gözardı ederek hastaya sadece serum takmakla yetinmiştir. amcam n.ö.’den aldığım bilgilere göre zamanla kötüleşen babamın bilinci kapanmaya başlamış ve solunum yetisini kaybetmiştir.<br/><br/>bu durumdan sonra olayın vehametini anlayan acil hekimi solunum desteği sağlasa da gerçeğin pıhtı atması olduğu eskişehir şehir hastanesi tarafından tespit edilmiştir. eskişehir şehir hastanesi acil polikliniğine babam ambulansla geldiğinde saatler 20:00 dır.<br/><br/>pıhtı atması sonucu erken müdahale hastayı hayata döndürebilecekken, sivrhisar devlet hastanesindeki acil hekiminin olayı sıradan görerek sadece serum tedavisi uygulaması babam müştak özmen’in ölümüyle sonuçlanmıştır. <br/><br/>üstelik pıhtı atması sonucu olarak babamın el ve ayaklarındaki koordinasyon bozukluğunu acil hekimi “uyuşturucu madde” kullanmış olarak değerlendirmiş ve sevk ederken dosyasına eklemiştir. eskişehir şehir hastanesinde yapılan kan tahlillerinde uyuşturucu maddeye rastlanmamıştır. dosyaya bu durumun eklenmesi adli vaka olarak kayıtlara geçmiş olması nedeniyle babamın ölümü sonra savcı otopsi yapmak üzere osmangazi üniversitesi tıp fakültesi morguna gelmiştir.<br/><br/>durumu kendisine özetlemem sonucu ölüm nedeni pıhtı atması sonucu olarak kayıt altına alınmıştır. bir ihmal babamı bizden almış ve 56 yaşında aramızdan ayırmıştır. <br/><br/>nereden başlasam kimi nereye şikayet etsem bilmiyorum ama bildiğim tek bir gerçek var o da artık babam bizimle değil.”<br/><br/>edit: aklıma geldikçe yazıyorum ve bazı doktor yazarların hastane personelinden aldığı yarım yamalak bilgilerle; meslektaşlarını korumaya çalışması üzerine şunları soruyorum:<br/><br/>1. babamın bilinç bulanıklıgından dolayı “işini yap sen ben uyusturucu kullanmadım” demiş ve doktor cevaben “niye geldin o zaman buraya benim ne iş yapmam gerektiğini biliyorsan” diyerek azarlamıştır. (şahitler mevcuttur).<br/><br/>2. hastanın durumu kötüleşip sevk oldugunda dahi doktor uyusturucu fikrinden bir adım ileri gidememiş ve dosyasına eklemiştir.<br/><br/>3. sizin bu mantığınızla gidersek sivrihisar ilçesinde emboli olayı sonrası herkes ölsün, felç kalsın.<br/><br/>4. doktor madem haklı erişim engeli getirtmesindeki amaç nedir? (iftira, yalan vs yokken).
+  entry_channels: sağlık
+- entry_name: |
+    11 mayıs 2019 cem yılmaz'ın geri vitesi
+  entry_id:  89960087
+  entry_writer: hadi git
+  entry_fav_count: 153
+  entry_content: |
+    oğlum adam bayaa bi ti’ye almış bence, ne geri vitesi(:
+  entry_channels: haber,magazin
+- entry_name: |
+    eşekherif
+  entry_id:  89938800
+  entry_writer: alt epidermis
+  entry_fav_count: 143
+  entry_content: |
+    interaktif sektör'de bir korsan gerçeği var olduğu için ilk bakışta " yanlış " geldiği için alışılageldik bir şekilde ezbere nutuk atan, korsana karşı olan tipler çıkıyor.<br/><br/>bugün netflix denen bir oluşum varsa tamamen korsanın varlığından dolayı var.<br/><br/>korsan olmasa dizi/film sektörü bir arpa boyu yol ilerleyemez. <br/><br/>neden biliyor musun?<br/><br/>korsan demek rekabetçiliğin en vahşi halidir. öyle ki yaptığın işi insanlar bedavaya temin edip izleyebiliyor. o halde işini çok çok iyi yapman lazım ki para kazanabil.<br/><br/>korsan denen bir olgu var olmasa şuan digiturk'e ayda 90 tl verip " lost " falan izliyordunuz.<br/><br/>peki ya emek hırsızlığı?<br/><br/>bugüne kadar iyi film/dizi çekip de ben paramı kazanamadım arkadaş diyen kaç kişi var? bu tamamen ezbere bir nutuk. düzgün iş yapan adam parasını milyon milyon kazanıyor zaten.<br/><br/>dizi/film sektörü kar marjı açısından öyle bir sektör ki enes batur gibi adamlar bile çıkıyor dünyanın parasını kazanıyor.<br/><br/>bu denklemden korsanı çıkartın ve sektörün erişebileceği noktayı hayal etmeye çalışın.<br/><br/>1 koyup 1000 alınan bu sektörün dengelenmesi, iş yapan firmaların hizmet kalitelerini arttırması için korsanın var olması gerekiyor.<br/><br/>ayrıca bugün zaten popülerite açısından korsan izleyici çok değerli. tıpkı windows'u windows yapanların parasız kullanıcılar olması gibi bugün got'u got yapanlar da parasız izleyenler.<br/><br/>internette, sağda solda insanlar yazıp çizmese, hakkında konuşmasa dünyanın reklam parasını harcamaları gerekir.<br/><br/>bu da dizi/film sektöründe gerekli olan yatırım maliyetini çok fazla arttırır.<br/><br/>bu da kaliteli işlerin var olabilmesini engellediği gibi, dizi/film sektöründeki ekonomik pastayı, kısaca sektörü hayvan gibi küçültür.<br/><br/>parasız izleyiciler aslında şirketin " harcamadığı " reklam bedelini şirket için reklam yaparak bir yandan bir nebze de olsa harcamış oluyorlar.<br/><br/>1 koyup 1000 alınan bu sektörde rekabetçiliği arttırması, hizmet kalitesini arttırması, reklam maliyetlerini düşürmesi açısından korsan izleyici gayet de değerlidir.<br/><br/>zaten önüne geçmek de neredeyse imkansızdır.<br/><br/>bu sektördeki korsan realitesini kabul edip oyunu kurallarına göre oynamak istemeyen, hizmet kalitesini arttırmak istemeyen digiturk " bu köşe benim ben kaptım " mantığıyla 2019 yılında para kazanmayı umuyor.<br/><br/>korsan her zaman var olacak. geliri olmayan öğrenciler, dar gelirli vatandaşlar vs her zaman korsanı kullanacaklar. bu bir dünya realitesi. sanıldığı gibi sektöre zarar verdiği de yok.<br/><br/>bugün eşekherif'in twitterını kapatırsın yarın ben çeviririm? kaç kişiyle uğraşacaksın? nasıl bununla baş edeceksin? ben de ingilizce biliyorum, kimse bu diziyi sizin yüzünüzden çevirmesin, çevirmezsem orospu çocuğuyum. benim gibi binlerce insan var.<br/><br/>buraya harcadığınız emek ve vakti netflix gibi hizmet kalitemizi nasıl arttırabiliz'e ayırsanız ya?<br/><br/>korsan bir dünya gerçeğidir. sanıldığı kadar öcü bir şey de değildir. öğrencinin cebindeki 10 liranın peşine düşen otopark mafyası vari tipler günün sonunda her zaman kaybedecektir.<br/><br/>arkandayız reis.<br/><br/><a class="b" href="/?q=edit">edit</a>: <br/><br/>bugün bir sigara parasına game of thrones izleyebiliyor muşuz, o yüzden korsan yanlışmış.<br/><br/>korsan dediğin şey doğru olduğu için bir paket sigara parasına game of thrones izleyebiliyorsun. <br/><br/>eğer bu sektörde korsan denen bir unsur olmasaydı game of thrones gibi en popüler ve en fazla para gömülen işler rekor kar marjıyla insanlara sunulurdu. <br/><br/>abd'de adam başı bu dizi 50 dolara verilirdi. türkiye'ye alım gücü düşük diye bir ayrıcalık yapılmaması durumunda getirecek şirketin 50 dolar + kar marjı + türkiye vergilerini düşünün.<br/><br/>kısaca korsan dediğiniz şey var olmasaydı bugün lig tv parasına yeni yeni lost izliyordunuz.
+  entry_channels: tv,sinema,edebiyat
+- entry_name: |
+    said nursi'nin mucizeleri
+  entry_id:  89950877
+  entry_writer: owerdosse
+  entry_fav_count: 132
+  entry_content: |
+    vatan haini bir orospu çocuğu olması<br/><br/>editullah: vatan hainleri çökmüş özel mesajla. küfür eden mi ararsın, ipi yılana çevirmiş diyen mi. bu fetoşcu tayfa asla tükenmeyecek gibi duruyor. hepinizin anasını sikeyim ne kadar fetoşcu bediuzzamanci varsa.<br/><br/>editullah 2: neresi vatan haini diye soran ve ayrıca küfür eden dalyaraklar işinizi kolaylastiramam. araştırın amk. azcik çalıştırın beyninizi belki bi ise yarar.
+  entry_channels: anket
+- entry_name: |
+    fazla düşünme sorunu olan insanların ortak yanları
+  entry_id:  89950593
+  entry_writer: esplendor
+  entry_fav_count: 121
+  entry_content: |
+    bir şeyler düşündükten sonra bir de bakarsınız ki aslında kitap okuyorsunuz ve o sayfadaki hiçbir şeyi anlamamışsınız.
+  entry_channels: anket,sağlık
+- entry_name: |
+    mbaye diagne
+  entry_id:  89955406
+  entry_writer: klimandjaro
+  entry_fav_count: 110
+  entry_content: |
+    penaltı olmazsa bugün gol atamayacak golcümüz.<br/><br/>edit:onu da atamadı.<br/><br/>edit-2: 90+7 de attı.
+  entry_channels: spor
+- entry_name: |
+    11 mayıs 2019 galatasaray'ın kullandığı 2. penaltı
+  entry_id:  89963792
+  entry_writer: burakas
+  entry_fav_count: 101
+  entry_content: |
+    on acidan izleyenler gorecekki net penalti. onyekuru'ya vurmadiysa rizeli oyuncu ayagi nasil titresiyor. cok net bir fizik kanunu.
+  entry_channels: spor
+- entry_name: |
+    mustafa kemal'in gerçek askeri erdoğan'dır
+  entry_id:  89956038
+  entry_writer: quat
+  entry_fav_count: 79
+  entry_content: |
+    kayyum bu trollere ekstra prim falan mı verdi? coştu bu salaklar bu ara.
+  entry_channels: siyaset
+- entry_name: |
+    11 mayıs 2019 çaykur rizespor galatasaray maçı
+  entry_id:  89963642
+  entry_writer: kendine bile muhalif adam
+  entry_fav_count: 74
+  entry_content: |
+    açılış<br/>0-1 “rize yatıyor böyle tiyatro olmaz”<br/>1-1 “muriqi döşedi”<br/>2-1 “aminu yağladı”<br/>2-2 “şike fetö himmet”<br/>2-3 “tiyatro “<br/>tinerci ağlayışları<br/>kapanış
+  entry_channels: spor
+- entry_name: |
+    ssg yok ekşi sözlük kendiliğinden oldu
+  entry_id:  89966962
+  entry_writer: balron
+  entry_fav_count: 56
+  entry_content: |
+    (bkz: <a class="b" href="/?q=evrim+varsa+%c5%9fimdiki+%c3%a7aylaklar+neden+yazar+olmuyor">evrim varsa şimdiki çaylaklar neden yazar olmuyor</a>)
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    emre akbaba
+  entry_id:  89960825
+  entry_writer: pinata
+  entry_fav_count: 55
+  entry_content: |
+    maalesef ayagi kirildi. <br/><br/>moralini bozmamali, bugun rizespor'un teknik direktorlugunu yapan okan buruk'un ayagi kirilip 90 derece aci yapacak sekilde kaval kemiginden donerek yana dusmustu. o okan, yillar boyu basariyla oynadi, inter'e transfer oldu. <br/><br/>aslanlar gibi geri gelecektir.
+  entry_channels: spor
+- entry_name: |
+    ekşi itiraf
+  entry_id:  89938578
+  entry_writer: shinegirl
+  entry_fav_count: 50
+  entry_content: |
+    annem kanseri yendiiiiiii. bugun tedavi bitti.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    11 mayıs 2019 samudio'nun gördüğü kırmızı kart
+  entry_id:  89963192
+  entry_writer: allwithinmyhands
+  entry_fav_count: 45
+  entry_content: |
+    samudio topa vururken emre akbaba araya girmeye calisinca tekme ayagina geldi. hakem emre'nin ayagi kirilinca ayip olmasin diye kirmizi cikardi. maalesef haksiz karar. evet futbolda bazen adamin ayagi kirilir ama faul bile yoktur. bazen de 20 mac ceza gerekecek darbe vardir.
+  entry_channels: spor
+- entry_name: |
+    30-40 yaş erkek ve kadın yazarları evlendiriyoruz
+  entry_id:  89949027
+  entry_writer: serciyoo
+  entry_fav_count: 42
+  entry_content: |
+    annem ekşi sözlük yazarı olsaydı, ilk entryi bu başlığa girerdi.
+  entry_channels: ilişkiler,ekşi-sözlük
+- entry_name: |
+    digiturk aboneliği iptal kampanyası
+  entry_id:  89938234
+  entry_writer: rencidefelek
+  entry_fav_count: 41
+  entry_content: |
+    2 saat önce iptal ederek katıldığım kampanya.<br/><br/>bu sözüm de digitürk'e:<br/><br/>sktirin gidin!
+  entry_channels: siyaset,tv
+- entry_name: |
+    galatasaray
+  entry_id:  89963519
+  entry_writer: aqes
+  entry_fav_count: 40
+  entry_content: |
+    ne kadar akp takımı varsa; başakşehir, beşiktaş, rize demeden sikerek yoluna devam eden takımım.<br/><br/>kanırta kanırta, ağlata ağlata, sike sike şampiyon olacaktır.<br/><br/>başlığında ağlayan tiplerin ne bok olduğu ise bellidir. gidin başakşehir holiganlığı yapın haftaya kadar hadi bakalım.
+  entry_channels: spor,tarih
+- entry_name: |
+    fikret orman
+  entry_id:  89950718
+  entry_writer: hatanin varyansi
+  entry_fav_count: 36
+  entry_content: |
+    an itibariyle bugün oruçlu olduğunu açıklamış. <br/><br/>seçimi kazanmak için yarına kadar hacca bile gider gelir bu bence. beşiktaşlı arkadaşlara geçmiş olsun.<br/><br/>not : ibra edildi. dediğim gibi geçmiş olsun.
+  entry_channels: spor
+- entry_name: |
+    11 mayıs 2019 serkan çınar'a açılacak soruşturma
+  entry_id:  89964366
+  entry_writer: istanbulunsokaklari
+  entry_fav_count: 35
+  entry_content: |
+    (bkz: <a class="b" href="/?q=hakemler+de+insan+hata+yapar">hakemler de insan hata yapar</a>)
+  entry_channels: spor,siyaset,haber
+- entry_name: |
+    30+ ablalarından sözlük erkeklerine öğütler
+  entry_id:  89956037
+  entry_writer: papuayenigine02561
+  entry_fav_count: 32
+  entry_content: |
+    bana öğüt verme milf kardeş, bana meme ver.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    bekar kalıp yalnız ölmek
+  entry_id:  89939663
+  entry_writer: winstoncodeaqua
+  entry_fav_count: 30
+  entry_content: |
+    küçükken evimizin en üst katında bir abi vardı. ismi erkan’dı. <br/>bir akşam üzeri yukarıdan bir bağırış duyduk. sakin geçen akşam üzerinin o mahmurluğunda o çığlıklar hala kulağımı yırtar. hepimiz kapıya koştuk, annem bizim çıkmamıza izin vermedi. biz tabi merakla kapıdayız acaba ne oldu diye. <br/><br/>beş on dakika kadar sonra erkan abiyi gördüm. <br/>birilerinin omzundaydı, kaskatı kesilmişti. üzerinde havlu vardı. saçları da ıslaktı. öylece apar topar geçtiler önümüzden. biz ne olduğunu anlayamadık. <br/>meğer şofbenden zehirlenmiş. akşam arkadaşlarıyla maçı varmış. o zamanlar cep telefonu yok. ev telefonu da yoktu erkan abi’nin. ailesinden uzakta çalışmak için gelmişti. arkadaşları merak etmişler niye gelmedi diye. kapısını çalmışlar, açmamış. o zamanlar şofben mevzuları çok tabi. hemen anlamışlar ve çilingire kapısını açtırmışlar. erkan abi’yi banyonun içinde öyle görüp acele bir şekilde hastaneye götürmüşler. <br/><br/>evinin yedek anahtarı bizdeydi. annem hastaneye gitti, giderken de bize tembih etti gidip evi kapatın diye. yukarıya basan her basamakta ölümün ürpertisini omuzlarımda hissettim. korkuyordum ama söyleyemiyordum. açık kapıyı gördük önce ablamla. erkan abi’nin hayatını hep merak ederdik, nasıl oluyor da yalnız yaşıyor diye. işte o merak bizi çocuk aklımızla içeriye kadar sürükledi. <br/><br/>o odaların yalnızlığını hala unutmam. belki saçma bulacaksınız ama odalarda gri bir ton vardı sanki. ya da çocuk aklımla bir renk biçmiştim o yalnızlığa. boğulacak gibi oldum. içeride bir şeyler sanki boğaz’ıma yapıştı. hem korkuyordum hem de tuhaf bir ürperti hissediyordum. o an <a class="b" href="/?q=yaln%c4%b1zl%c4%b1k">yalnızlık</a> için kafamda bir resim belirmişti. hala daha aynıdır yalnızlığın resmi kafamda. soluk beyaz ışık’lar, dağınık odalar, gri renkli eşyalar, ıslak zemin, açık kalmış bir dış kapı, üzerine basılmış ayakkabılar, bulaşıkların hala tezgahta olduğu mutfak.<br/><br/>erkan abi öldü. kurtaramadılar. sonra o evi yine biz toplamak için girdik birkaç gün sonra. ailesi buna dayanamayacaklarını söyledi. tekrar girdim o eve. bu defa daha kötü bir şey daha vardı o odaların içinde;<br/>yalnızlığın içinde ölmek..<br/>ona ait her şey battı bana, traş köpüğü, kirli çamaşırları, kitapları, dağınık yatağı, elbiseleri. hiçbirinin duruşunu bile hala unutmam. ne zaman yalnızlık ve ölüm bir arada anılsa erkan abiyi anımsarım, ıslak saçlarıyla kaskatı kesilmiş bedeniyle önümden geçerken. <br/><br/>o yüzden evimde hiç beyaz ışık bulundurmam. tavan lambası da asla kullanmam. evimi de hiçbir zaman dağınık bırakıp çıkmam. annem her gün arar beni belirli periyotlarla. dış kapımın anahtarı da hem annemde, hem de komşumda vardır. korkum ölüm falan değil, sanırım kafamdaki o ‘yalnız ölmek’ tanımındaki erkan abiye benzemek..
+  entry_channels: ilişkiler
+- entry_name: |
+    digiturk
+  entry_id:  89937693
+  entry_writer: svorm
+  entry_fav_count: 21
+  entry_content: |
+    bu firmayla spor paketi haric izleyenleri anlamiyorum.<br/>hadi spor paketi baska alternetifin yok, var da yok diyelim aslinda.<br/>diger kanallari biye izlersin burada.<br/>7 sene once aboneligimi kapattim. 3 defa gittim borcu yoktur kagidi almak icin veremiyoruz ama sistemde borcunuz gozukmuyor deyip gonderdiler.<br/>aradan 1 sene gecti icra takibi baslatmislar.<br/>kesinlikle tavsiye etmedigim uzak durulmasi gereken firmadir. (bkz: <a class="b" href="/?q=nefret+edilen+markalar">nefret edilen markalar</a>)
+  entry_channels: tv,sinema,teknoloji
+- entry_name: |
+    28 kasım 2018 kulüpler birliği açıklaması
+  entry_id:  89963821
+  entry_writer: tucek
+  entry_fav_count: 20
+  entry_content: |
+    buradan devam ediyoruz kuşlar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>hesapsiz bir aciklama.
+  entry_channels: spor
+- entry_name: |
+    serkan çınar
+  entry_id:  89961911
+  entry_writer: sektorunde lider suser
+  entry_fav_count: 18
+  entry_content: |
+    galatasaray'a operasyon yapacakmış hahaha, rizespor'un anasını sikiyor, şerefsiz köpek...
+  entry_channels: spor
+- entry_name: |
+    ucuz pide sattığı için azarlanan fırıncı
+  entry_id:  89953848
+  entry_writer: sosis
+  entry_fav_count: 17
+  entry_content: |
+    toplumun beslenmesini ilgilendiren konularda belirlenen fiyatın üst sınır olması gerekli.<br/>isteyen istediği kadar altına ile bilir böylece.<br/>bu ülkede kuru ekmekle pideyle karnını doyurmaya muhtaç insanlar var her kuruş önemli onlar için.<br/>ceza kesilecekse o bu adı koyup ekmek fiyatlarını şişirenlere kesilsin.<br/>sözüm ona zam yapmıyorum deyip ekmeğin gramajını defalarca düşüren kurumu savunmayın burada.<br/>halkın ekmeği ile oynamayın.<br/>halkın ekmeği demişken millet yiyecek ekmek bulamazken milyonlarca ekmeğin bedelini arda turan'a sponsorluk için harcayan halk ekmeği de bir kez daha kınıyorum.<br/>bekleyelim şunun şurasında ne kaldı 24 haziran'a.
+  entry_channels: siyaset,yeme-içme,ekonomi
+- entry_name: |
+    süper ligin en şaibeli sezonu
+  entry_id:  89963915
+  entry_writer: kamalbey
+  entry_fav_count: 16
+  entry_content: |
+    kim 500 milyar ister baslangic sorusu seviyesindeki basit soru. <br/><br/>cevap tabi ki 2010-2011 sezonudur.
+  entry_channels: spor
+- entry_name: |
+    rıdvan dilmen
+  entry_id:  89964808
+  entry_writer: psychedeliceffect
+  entry_fav_count: 15
+  entry_content: |
+    “insanları sokağa dökeceksiniz” diyerek nerden talimat alıp konuştuğu çok belli oluyor. <br/><br/>t: fenerbahçe tv yorumcusu.
+  entry_channels: spor,tv
+- entry_name: |
+    beşiktaş ve fenerbahçe'ye maça çıkmama çağrısı
+  entry_id:  89964843
+  entry_writer: vusta
+  entry_fav_count: 14
+  entry_content: |
+    süper kupa maçına da çıkamamışlardı. sebebi ise şikeydi
+  entry_channels: spor
+- entry_name: |
+    11 mayıs 2019 fenerbahçe akhisarspor maçı
+  entry_id:  89967653
+  entry_writer: skiptomyloujr
+  entry_fav_count: 14
+  entry_content: |
+    mehmet topal sakatlanıp çıkınca atalım nasıl top oynuyor. emekli olup gitse de kurtulsak şu kabiliyetsiz el freninden.
+  entry_channels: spor
+- entry_name: |
+    belediye reisi zengin mi fakir mi olmalı sorunsalı
+  entry_id:  89961243
+  entry_writer: yyildirayy
+  entry_fav_count: 9
+  entry_content: |
+    zengin olmalı ki sonra zengin olmak için uğraşmamalı.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
+    galatasaray'ın 22. şampiyonluğunun şaibeli olması
+  entry_id:  89967618
+  entry_writer: uzun yoldan gelen gariban
+  entry_fav_count: 6
+  entry_content: |
+    kanatlı müptezellerin akbil yancılığında seviye atladığı şampiyonluk olacak.<br/><br/>iktidarın spor aparatını da, birleşip bildiri yayınlayan 17'leri de üst üste koyduk koyacağız.<br/><br/>tokatlıyadur aslanım!
+  entry_channels: spor
+- entry_name: |
+    hasan kartal
+  entry_id:  89965967
+  entry_writer: deplasmanda alinan uc puan
+  entry_fav_count: 3
+  entry_content: |
+    emre akbaba icin bir cift laf etmeyip, agzini acip da gecmis olsun demeyen, “rizespor ustunde oyunlar oynaniyor” diyen rize baskani.<br/><br/>rizespor ustunde nasil ve neden oyun oynansin ayrica:)))<br/>atmacayi mi vuracaklar bir avuc prim icin? :)
+  entry_channels: spor
+- entry_name: |
+    şikesaray
+  entry_id:  89966072
+  entry_writer: uzun yoldan gelen gariban
+  entry_fav_count: 1
+  entry_content: |
+    avrupa'da şikenin benckmark'ı olarak kullanılan kuşların hezeyanı.
+  entry_channels: spor
+- entry_name: |
+    beşiktaşlı ağlaklığı
+  entry_id:  89967859
+  entry_writer: grezcar
+  entry_fav_count: 1
+  entry_content: |
+    galatasaray'ı yenmeyi becerememiş futbol takımının taraftarının eylemidir. <br/><br/>başkanınız kulüpler birliği başkanıyken uyduruk bir bildiri yayımladı. diğer kulüp başkanlarından da imza aldı. o gün insan olan hakemler bugün hayvan mı oldular ?<br/><br/>geçiniz.
+  entry_channels: spor
+- entry_name: |
+    11 mayıs 2019 rizespor başkanının konuşması
+  entry_id:  89968380
+  entry_writer: ak740
+  entry_fav_count: 1
+  entry_content: |
+    “nasıl çıkacaklar bu staddan!!!” <br/><br/>önce tehdit edip sonra aman şimdi bir sıkıntı olur ihale bana kalır korkusuyla kıvırması takdire şâyan. iyi güldürdü.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/nocontextgs/status/1127246298254577664?s=20" title="https://twitter.com/nocontextgs/status/1127246298254577664?s=20">şu</a> konuşmayı yapıp ağzını açamazsın güzel kardeşim, sana yapılırken iyi başkasına yapılınca rerö yok öyle.
+  entry_channels: spor,haber
+- entry_name: |
+    yazarların 1 saatte kazandığı ücret
+  entry_id:  89937835
+  entry_writer: ramoli
+  entry_fav_count: 0
+  entry_content: |
+    295 tl kazananı gördükten sonra bende escort olmaya karar verdim :(
+  entry_channels: anket
+- entry_name: |
+    11 mayıs 2019 kuşların büyük zırlayışı
+  entry_id:  89967912
+  entry_writer: dedi babam
+  entry_fav_count: 0
+  entry_content: |
+    federasyon bunlarda, mhk bunlarda, gs’ı katlettiler bildiri yayınladılar, bu şerefli arkadaşların sesi çıkmadı. fb-gs maçında faul sonrası gol yedi gs “ağlayın” dediler. geçen hafta öyle köküne kadar koydukki hala ağlıyorlar.
+  entry_channels: spor
+---
