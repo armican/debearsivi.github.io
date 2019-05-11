@@ -6,7 +6,7 @@ data:
     4 milyon suriyelinin evine dönmesi
   entry_id:  89955571
   entry_writer: stereotomy
-  entry_fav_count: 1098
+  entry_fav_count: 1202
   entry_content: |
     hala öğrenemediniz mi?<br/><br/>bunların ağzından çıkan 3 sözün 2'si yalan, 1'i yanlıştır. bu saatten sonra bu hükümetten artık "icraat" çıkmaz. sadece "laf" çıkar.<br/><br/>akp hükümeti artık "topal ördek"tir. hiçbir şey yapamaz. gerçi, bundan önce hangi vaatlerini yaptılar ki?<br/><br/>en basitinden partinin ismine bakın, türkiye'de bugün "adalet" mi var, "kalkınma" mı?<br/><br/>halkı adalet ve kalkınma vaadiyle kandırıp üçün birini verdiler. kendileri malı götürdüler. sana da hesabı ödemek kaldı.<br/><br/>bunların herhangi bir lafına inanan gerizekâlıdır. net.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     abdullah öcalan avukatı ile görüşmeli
   entry_id:  89953625
   entry_writer: alukard
-  entry_fav_count: 1063
+  entry_fav_count: 1069
   entry_content: |
     soran olursa, hdp ile ortaklık yapan parti, iyi parti ile chp dersiniz kim bilecek.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     zengin imamoğlu kazansın diye yırtınan fakir solcu
   entry_id:  89954667
   entry_writer: suedehead
-  entry_fav_count: 904
+  entry_fav_count: 926
   entry_content: |
     fakir binali yıldırım varken büyük saçmalamış solcudur.
   entry_channels: siyaset,anket,ekonomi
@@ -30,7 +30,7 @@ data:
     türk futbolunda şike soruşturması
   entry_id:  89962253
   entry_writer: coldzera
-  entry_fav_count: 552
+  entry_fav_count: 562
   entry_content: |
     yıllar önce gerçekleşen ve hiçbir takımın küme düşürülmediği soruşturma.
   entry_channels: spor
@@ -38,7 +38,7 @@ data:
     galatasaray'u uefa'ya şikayet ediyoruz kampanyası
   entry_id:  89966738
   entry_writer: srfydn
-  entry_fav_count: 462
+  entry_fav_count: 478
   entry_content: |
     boş çalışma.<br/><br/>uefa iç işlere karışmıyor karşim. yoksa fb ve bjk şikeden çoktan küme düşmüşlerdi.<br/><br/>(bkz: <a class="b" href="/?q=cas%e2%80%99%c4%b1n+be%c5%9fikta%c5%9f+hakk%c4%b1ndaki+gerek%c3%a7eli+karar%c4%b1">cas’ın beşiktaş hakkındaki gerekçeli kararı</a>)<br/>(bkz: <a class="b" href="/?q=cas%e2%80%99%c4%b1n+fenerbah%c3%a7e+hakk%c4%b1ndaki+gerek%c3%a7eli+karar%c4%b1">cas’ın fenerbahçe hakkındaki gerekçeli kararı</a>)
   entry_channels: spor
@@ -46,39 +46,31 @@ data:
     ramazanda içenlerin ahirette vereceği hesap
   entry_id:  89937627
   entry_writer: animus
-  entry_fav_count: 420
+  entry_fav_count: 422
   entry_content: |
     öyle bir hesap yok. arap masalları üzerinden sorgulama yapılmaz.<br/><br/>şu an mesela bin tane inanışa aykırı iş yapıyorumdur;<br/><br/>evimde buda heykeli yoktur, bu akşam brahma'ya dua etmemişimdir, şiva'ya yalvarmamışımdır, yemek yerken isa'ya şükrememişimdir, tokat yerken öbür yanağımı çevirmemişimdir, artemis'in sunağına tuttuğum balıklardan koymamışımdır, ahura mazda için yanan ateşi korlamamışımdır, atalar ruhunu çağırmak için davul çalmamışımdır.<br/><br/>hangi birini yapayım? bırakın iki lokma demleneyim, yoruldum din yükünden.
   entry_channels: sağlık,yeme-içme
 - entry_name: |
-    asude defne özkan
-  entry_id:  89939076
-  entry_writer: sorg
-  entry_fav_count: 282
-  entry_content: |
-    yıllık ücreti 50.000 lira olan özel okulda okumuş, çoğunuzun rüyasında bile göremeyeceği bir sürü yer gezmiş, new york senin paris benim takılmış zengin çocuğu bu kız ve okan üniversitesi muadili sikimsonik bir okula gidip dandik oyunculuk egitimi almak için utanmadan, yüzsüzce para dileniyor. basit bir keriz silkeleme olayı sanıp tepki gösterdim ama meğer milletvekilleri, ünlüler, hatta new york konsolosluğu bile bu zengin bebesi amerika'nın okan üniversitesi'nde okuma hayalini gerçekleştirsin diye sıraya gitmiş. ne küfür edeceğimi bilemedim birader. hadi diğer herkesin kendi parası, ister çiftlikbanka kaptırsın ister sokağa atsın kendilerini ilgilendirir ama bir devlet kurumu kalkıp vatandaşın vergilerini şımarık zengin kızı selinsu new york'ta gününü gün etsin diye çarçur edemez. böyle saçmalık olmaz kardeşim. ailesinde para bok gibi olup özel okullarda okumuş, dünyayı gezmiş selinsulara gelene kadar yardımı hakeden onca zeki, yetenekli fakir gençler var. onlara yardım edin edecekseniz. <br/><br/>bir de burada bunu savunan meriç sürüsü var ki akıllara zarar. bir sürü fakir çocuğu imkansızlıklar yüzünden ne hayallerden vazgeçmek zorunda kalıyor, bir çoğumuz dünya kadar emek harcadığımız, uğruna nelerden fedakarlık ettiğimiz ne hayallerimizi çöpe atmak zorunda kaldık. amerika'nın okan üniversitesinde oyunculuk eğitimi almak gibi yerlerde sürünen dandik hayalleri olan şımarık zengin bebesine para yağdırılmasına isyan etmeyelim de neye edelim? hayale bak ya, kimsenin adını duymadığı, amerika'nın en dipteki en dandik okullarından birine kabul almış, sokaktan tinerci toplasan kabul ediyorlar zaten. kalkıp bunu sanki nasa'da astronot eğitimine kabul edilmiş gibi yalanlarla bezeyip saf vatandaşları resmen dolandırmış ve burada insanlar okuduğu özel okulların ücretine, gezdiği bir sürü ülkeye kadar dökmüşken hala daha savunan var ya. çiftlikbankçı tosunu da savunun bari tutarlı olun en azından.
-  entry_channels: sinema,magazin,eğitim
-- entry_name: |
-    anca karı gibi arkadan konuşun
-  entry_id:  89954419
-  entry_writer: asyamaris
-  entry_fav_count: 266
-  entry_content: |
-    anneler günü arefesinde beşiktaş kulüp başkanı <a class="b" href="/?q=fikret+orman">fikret orman</a> tarafından söylenmiş söz.<br/><br/>bu büyük terbiyesizliği “oruçlu olmama verin” diyerek örtmeye çalışması daha da çirkindi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tribundergi/status/1127187619060830211?s=21" title="https://twitter.com/tribundergi/status/1127187619060830211?s=21">buradan izleyebilirsiniz.</a><br/><br/>zamanında süleyman seba gibi mükemmel insanların efsaneleştiği büyük bir kulübün geldiği duruma bir galatasaraylı olarak gerçekten üzülüyorum.
-  entry_channels: spor,haber
-- entry_name: |
     fazla düşünme sorunu olan insanların ortak yanları
   entry_id:  89950593
   entry_writer: esplendor
-  entry_fav_count: 258
+  entry_fav_count: 289
   entry_content: |
     bir şeyler düşündükten sonra bir de bakarsınız ki aslında kitap okuyorsunuz ve o sayfadaki hiçbir şeyi anlamamışsınız.
   entry_channels: anket,sağlık
 - entry_name: |
+    asude defne özkan
+  entry_id:  89939076
+  entry_writer: sorg
+  entry_fav_count: 284
+  entry_content: |
+    yıllık ücreti 50.000 lira olan özel okulda okumuş, çoğunuzun rüyasında bile göremeyeceği bir sürü yer gezmiş, new york senin paris benim takılmış zengin çocuğu bu kız ve okan üniversitesi muadili sikimsonik bir okula gidip dandik oyunculuk egitimi almak için utanmadan, yüzsüzce para dileniyor. basit bir keriz silkeleme olayı sanıp tepki gösterdim ama meğer milletvekilleri, ünlüler, hatta new york konsolosluğu bile bu zengin bebesi amerika'nın okan üniversitesi'nde okuma hayalini gerçekleştirsin diye sıraya gitmiş. ne küfür edeceğimi bilemedim birader. hadi diğer herkesin kendi parası, ister çiftlikbanka kaptırsın ister sokağa atsın kendilerini ilgilendirir ama bir devlet kurumu kalkıp vatandaşın vergilerini şımarık zengin kızı selinsu new york'ta gününü gün etsin diye çarçur edemez. böyle saçmalık olmaz kardeşim. ailesinde para bok gibi olup özel okullarda okumuş, dünyayı gezmiş selinsulara gelene kadar yardımı hakeden onca zeki, yetenekli fakir gençler var. onlara yardım edin edecekseniz. <br/><br/>bir de burada bunu savunan meriç sürüsü var ki akıllara zarar. bir sürü fakir çocuğu imkansızlıklar yüzünden ne hayallerden vazgeçmek zorunda kalıyor, bir çoğumuz dünya kadar emek harcadığımız, uğruna nelerden fedakarlık ettiğimiz ne hayallerimizi çöpe atmak zorunda kaldık. amerika'nın okan üniversitesinde oyunculuk eğitimi almak gibi yerlerde sürünen dandik hayalleri olan şımarık zengin bebesine para yağdırılmasına isyan etmeyelim de neye edelim? hayale bak ya, kimsenin adını duymadığı, amerika'nın en dipteki en dandik okullarından birine kabul almış, sokaktan tinerci toplasan kabul ediyorlar zaten. kalkıp bunu sanki nasa'da astronot eğitimine kabul edilmiş gibi yalanlarla bezeyip saf vatandaşları resmen dolandırmış ve burada insanlar okuduğu özel okulların ücretine, gezdiği bir sürü ülkeye kadar dökmüşken hala daha savunan var ya. çiftlikbankçı tosunu da savunun bari tutarlı olun en azından.
+  entry_channels: sinema,magazin,eğitim
+- entry_name: |
     boşnak denince akla gelenler
   entry_id:  89948931
   entry_writer: marsta su bulan zenci
-  entry_fav_count: 239
+  entry_fav_count: 244
   entry_content: |
     maalesef (bkz: <a class="b" href="/?q=rasim+ozan+k%c3%bctahyal%c4%b1">rasim ozan kütahyalı</a>)
   entry_channels: anket
@@ -86,7 +78,7 @@ data:
     11 mayıs 2019 cem yılmaz'ın geri vitesi
   entry_id:  89960087
   entry_writer: hadi git
-  entry_fav_count: 193
+  entry_fav_count: 195
   entry_content: |
     oğlum adam bayaa bi ti’ye almış bence, ne geri vitesi(:
   entry_channels: haber,magazin
@@ -102,7 +94,7 @@ data:
     11 mayıs 2019 galatasaray'ın kullandığı 2. penaltı
   entry_id:  89963792
   entry_writer: burakas
-  entry_fav_count: 149
+  entry_fav_count: 151
   entry_content: |
     on acidan izleyenler gorecekki net penalti. onyekuru'ya vurmadiysa rizeli oyuncu ayagi nasil titresiyor. cok net bir fizik kanunu.
   entry_channels: spor
@@ -118,15 +110,23 @@ data:
     ssg yok ekşi sözlük kendiliğinden oldu
   entry_id:  89966962
   entry_writer: balron
-  entry_fav_count: 139
+  entry_fav_count: 145
   entry_content: |
     (bkz: <a class="b" href="/?q=evrim+varsa+%c5%9fimdiki+%c3%a7aylaklar+neden+yazar+olmuyor">evrim varsa şimdiki çaylaklar neden yazar olmuyor</a>)
   entry_channels: ekşi-sözlük
 - entry_name: |
+    anca karı gibi arkadan konuşun
+  entry_id:  89956348
+  entry_writer: yamuk
+  entry_fav_count: 141
+  entry_content: |
+    mubarek ramazan nefsi terbiye için değil, nefsimizin hatalarına bahane olsun diye inmiş.
+  entry_channels: spor,haber
+- entry_name: |
     mbaye diagne
   entry_id:  89955406
   entry_writer: klimandjaro
-  entry_fav_count: 114
+  entry_fav_count: 115
   entry_content: |
     penaltı olmazsa bugün gol atamayacak golcümüz.<br/><br/>edit:onu da atamadı.<br/><br/>edit-2: 90+7 de attı.
   entry_channels: spor
@@ -134,15 +134,23 @@ data:
     11 mayıs 2019 çaykur rizespor galatasaray maçı
   entry_id:  89963642
   entry_writer: kendine bile muhalif adam
-  entry_fav_count: 100
+  entry_fav_count: 106
   entry_content: |
     açılış<br/>0-1 “rize yatıyor böyle tiyatro olmaz”<br/>1-1 “muriqi döşedi”<br/>2-1 “aminu yağladı”<br/>2-2 “şike fetö himmet”<br/>2-3 “tiyatro “<br/>tinerci ağlayışları<br/>kapanış
+  entry_channels: spor
+- entry_name: |
+    silahım olsa hakemi vururdum
+  entry_id:  89971445
+  entry_writer: jimmy jackson
+  entry_fav_count: 96
+  entry_content: |
+    bir rizeli olarak, rizeliler ve karadenizlilerden neden tiksindiğimi özetler nitelikte bir açıklama.<br/><br/>bu ülkenin suriyelilerden sonra en büyük problemi karadenizlilerdir.
   entry_channels: spor
 - entry_name: |
     11 mayıs 2019 samudio'nun gördüğü kırmızı kart
   entry_id:  89963192
   entry_writer: allwithinmyhands
-  entry_fav_count: 78
+  entry_fav_count: 85
   entry_content: |
     samudio topa vururken emre akbaba araya girmeye calisinca tekme ayagina geldi. hakem emre'nin ayagi kirilinca ayip olmasin diye kirmizi cikardi. maalesef haksiz karar. evet futbolda bazen adamin ayagi kirilir ama faul bile yoktur. bazen de 20 mac ceza gerekecek darbe vardir.
   entry_channels: spor
@@ -150,18 +158,34 @@ data:
     galatasaray
   entry_id:  89963519
   entry_writer: aqes
-  entry_fav_count: 76
+  entry_fav_count: 82
   entry_content: |
     ne kadar akp takımı varsa; başakşehir, beşiktaş, rize demeden sikerek yoluna devam eden takımım.<br/><br/>kanırta kanırta, ağlata ağlata, sike sike şampiyon olacaktır.<br/><br/>başlığında ağlayan tiplerin ne bok olduğu ise bellidir. gidin başakşehir holiganlığı yapın haftaya kadar hadi bakalım.
   entry_channels: spor,tarih
 - entry_name: |
+    11 mayıs 2019 sol frame'i
+  entry_id:  89970707
+  entry_writer: dilber87
+  entry_fav_count: 76
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/o56835py8dia">https://eksiup.com/p/o56835py8dia</a><br/>an itibariyle gündemin ilk 7 maddesi galatasaray ile alakalıdır. bıktık ulan futbolunuzdan da, fanatizminizden de! <br/><br/>ülkenin anası bellenmiş durumda sizin tek derdiniz futbol. yazıklar olsun.<br/><br/>edit: (bkz: <a class="b" href="/?q=silah%c4%b1m+olsa+hakemi+vururdum">silahım olsa hakemi vururdum</a>)<br/>ohaaaa!
+  entry_channels: spor,ekşi-sözlük
+- entry_name: |
     emre akbaba
   entry_id:  89960825
   entry_writer: pinata
-  entry_fav_count: 63
+  entry_fav_count: 65
   entry_content: |
     maalesef ayagi kirildi. <br/><br/>moralini bozmamali, bugun rizespor'un teknik direktorlugunu yapan okan buruk'un ayagi kirilip 90 derece aci yapacak sekilde kaval kemiginden donerek yana dusmustu. o okan, yillar boyu basariyla oynadi, inter'e transfer oldu. <br/><br/>aslanlar gibi geri gelecektir.
   entry_channels: spor
+- entry_name: |
+    ekşi itiraf
+  entry_id:  89938578
+  entry_writer: shinegirl
+  entry_fav_count: 56
+  entry_content: |
+    annem kanseri yendiiiiiii. bugun tedavi bitti.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     hasan kartal
   entry_id:  89963790
@@ -171,22 +195,6 @@ data:
     galatasaray divanı sırf ekrem imamoğlu'na destek verdi diye galatasaray'a bilenip oyunculara prim verdiği iddia edilen çaykur rizespor başkanı. şu an canlı yayında kıpkırmızı olmuş bağırıp çağırıyor, kendinden geçecek dikkat etmezse.
   entry_channels: spor
 - entry_name: |
-    ekşi itiraf
-  entry_id:  89938578
-  entry_writer: shinegirl
-  entry_fav_count: 54
-  entry_content: |
-    annem kanseri yendiiiiiii. bugun tedavi bitti.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    11 mayıs 2019 serkan çınar'a açılacak soruşturma
-  entry_id:  89964366
-  entry_writer: istanbulunsokaklari
-  entry_fav_count: 45
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hakemler+de+insan+hata+yapar">hakemler de insan hata yapar</a>)
-  entry_channels: spor,haber
-- entry_name: |
     digiturk aboneliği iptal kampanyası
   entry_id:  89938234
   entry_writer: rencidefelek
@@ -195,29 +203,13 @@ data:
     2 saat önce iptal ederek katıldığım kampanya.<br/><br/>bu sözüm de digitürk'e:<br/><br/>sktirin gidin!
   entry_channels: siyaset,tv
 - entry_name: |
-    11 mayıs 2019 sol frame'i
-  entry_id:  89970707
-  entry_writer: dilber87
-  entry_fav_count: 32
+    bir şeylerin olması için ölmem mi gerek
+  entry_id:  89969425
+  entry_writer: kalemi kilicindan keskin olan adam
+  entry_fav_count: 27
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/o56835py8dia">https://eksiup.com/p/o56835py8dia</a><br/>an itibariyle gündemin ilk 7 maddesi galatasaray ile alakalıdır. bıktık ulan futbolunuzdan da, fanatizminizden de! <br/><br/>ülkenin anası bellenmiş durumda sizin tek derdiniz futbol. yazıklar olsun.
-  entry_channels: spor,ekşi-sözlük
-- entry_name: |
-    bitcoin
-  entry_id:  89950300
-  entry_writer: enola gay
-  entry_fav_count: 30
-  entry_content: |
-    uzun dönemli bitcoin yatırımcıları için (bugünden itibaren en az 1 yıl tutmayı düşünenler) "<a class="b" href="/?q=kesin">kesin</a>" satış zamanının nasıl geldiğini gösterecek indikatörlerden bahsedeyim, %100 çalışıyor:<br/><br/>• taksiciler/uber sürücüleri konuşmaya başladığında.<br/>• metro/metrobüste bitcoin muhabbetleri başladığı zaman.<br/>• işyerinizdeki arkadaşların muhabbetleri özellikle de evde anne ve babanızın "nasıl bitcoin alırım?" diye sormaya başlaması.<br/>• '<a class="b" href="/?q=x">x</a> coin çok ucuzmuş ondan aldım' muhabbeti.<br/>• medyada çılgınlar gibi bitcoin haberlerinin dönmeye başlaması.<br/>• google aramalarında "buy bitcoin" aramasının 2017 seviyelerine <a rel="nofollow noopener" class="url" target="_blank" href="https://trends.google.com.tr/trends/explore?date=2017-10-10 2019-01-10&amp;q=buy bitcoin" title="https://trends.google.com.tr/trends/explore?date=2017-10-10 2019-01-10&amp;q=buy bitcoin">gelmesi</a> <br/>• crypto fear &amp; greed <a rel="nofollow noopener" class="url" target="_blank" href="https://alternative.me/crypto/fear-and-greed-index/" title="https://alternative.me/crypto/fear-and-greed-index/">index</a><br/>• en önemlisi: moon math grafiğinde kırmızı alana girdiğimizde. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.moonmath.win/" title="https://www.moonmath.win/">link</a><br/><br/>anlayacağınız, yolumuz çok uzun.. fomo'nun f harfine bile gelmedik daha.
-  entry_channels: teknoloji,ekonomi
-- entry_name: |
-    silahım olsa hakemi vururdum
-  entry_id:  89971445
-  entry_writer: jimmy jackson
-  entry_fav_count: 23
-  entry_content: |
-    bir rizeli olarak, rizeliler ve karadenizlilerden neden tiksindiğimi özetler nitelikte bir açıklama.<br/><br/>bu ülkenin suriyelilerden sonra en büyük problemi karadenizlilerdir.
-  entry_channels: spor,haber
+    bir aşk yaşamışsınız. kız sana güvenmiş nude atmış veya bir aradayken sen çekmişsin.<br/>ayrılınca, o kızın babasına fotoğraf göndermek nedir yavşak?<br/>bir babayı, kızıyla sınamak nedir? o baba öfkeyle kızına bir şey yapsa, sen nasıl uyuyabilecektin orospu çocuğu?<br/>veya o baba, kalp krizi geçirse hiç mi vicdanın sızlamayacaktı?<br/><br/>hepimiz yaşadık bunu vaktiyle, hepimiz terk edildik lan.<br/>ben de terk edildim ama canına kastetmedim.<br/>elimde bıçakla üstüne yürüyüp, babasına kızının çıplak hallerini göndermedim.<br/>can verdim her gece ağlaya ağlaya ama onun canına kıyamadım.<br/>ayrıca her önüne gelenle yatarsan böyle olur diyen o polis memurunun da anasını sikeyim.
+  entry_channels: ilişkiler,haber
 - entry_name: |
     serkan çınar
   entry_id:  89961911
@@ -235,21 +227,13 @@ data:
     kim 500 milyar ister baslangic sorusu seviyesindeki basit soru. <br/><br/>cevap tabi ki 2010-2011 sezonudur.
   entry_channels: spor
 - entry_name: |
-    akhisar belediyespor
-  entry_id:  89970489
-  entry_writer: skumbag
-  entry_fav_count: 22
+    fenerbahçe
+  entry_id:  89966012
+  entry_writer: bana kedicik derdi
+  entry_fav_count: 20
   entry_content: |
-    taraftarı akhisar'da "fener kümeye" diye bağırmıştı. <br/>bugün fener onlari kümeye yolladı.<br/><br/>hadi yallah.
+    ilahi adalet mi diyeyim, ne diyeyim bilmiyorum bugun yasananlara. seneler boyunca ulkenin her alanini sarmis gs lobisi ile mucadele eden tek takim oldu. denizli'de tarihin en saibeli macinda sampiyonlugu calinip tarihin en iyi fenerbahce'si dagitilirken, 2011'de pensilvanya destekli feto operasyonlariyla en az 15 senesi yok edilirken bugun sampiyonlugumuz caliniyor diye aglayanlar o zamanlar o sampiyonluklari calanlarin yaninda birlikte egleniyorlardi. neden? cunku gs lobisinin sahada yarisamadigi fenerbahce ile mucadele edebilmek icin bilincli olarak ulkenin her kademesine bastigi fenerbahce nefreti ve dusmanliginin esiri olmuslardi. <br/><br/>kimse kusura bakmasin, fenerbahce mason lobisi karsisinda seneler boyu tek basina savasirken sesi cikmayanlarin doktugu gozyaslarini ben hic ciddiye alamiyorum. biz bir sure ortasira takimiyiz, yarattiginiz canavarla biraz da siz ugrasin bakalim keyifli oluyor muymus. hic de bosuna aglamayin turk futbolu bitmis yok bilmemne diye, bunlar ulke futbolunun mhk'sindan tff'sine, medya'sina her kademeye yerlesip istedikleri gibi at kostururken hepinizin tek derdi fenerbahce idi, alin hayrini gorun bakalim.
   entry_channels: spor
-- entry_name: |
-    bir şeylerin olması için ölmem mi gerek
-  entry_id:  89969425
-  entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 21
-  entry_content: |
-    bir aşk yaşamışsınız. kız sana güvenmiş nude atmış veya bir aradayken sen çekmişsin.<br/>ayrılınca, o kızın babasına fotoğraf göndermek nedir yavşak?<br/>bir babayı, kızıyla sınamak nedir? o baba öfkeyle kızına bir şey yapsa, sen nasıl uyuyabilecektin orospu çocuğu?<br/>veya o baba, kalp krizi geçirse hiç mi vicdanın sızlamayacaktı?<br/><br/>hepimiz yaşadık bunu vaktiyle, hepimiz terk edildik lan.<br/>ben de terk edildim ama canına kastetmedim.<br/>elimde bıçakla üstüne yürüyüp, babasına kızının çıplak hallerini göndermedim.<br/>can verdim her gece ağlaya ağlaya ama onun canına kıyamadım.<br/>ayrıca her önüne gelenle yatarsan böyle olur diyen o polis memurunun da anasını sikeyim.
-  entry_channels: ilişkiler,haber
 - entry_name: |
     tek başına tatile çıkmak
   entry_id:  89937553
@@ -267,6 +251,14 @@ data:
     kanatlı müptezellerin akbil yancılığında seviye atladığı şampiyonluk olacak.<br/><br/>iktidarın spor aparatını da, birleşip bildiri yayınlayan 17'leri de üst üste koyduk koyacağız.<br/><br/>tokatlıyadur aslanım!
   entry_channels: spor
 - entry_name: |
+    burak yılmaz'ın olay yaratan galatasaray paylaşımı
+  entry_id:  89971011
+  entry_writer: yokonunjohnu
+  entry_fav_count: 19
+  entry_content: |
+    yıllarca hakemleri aldatmaya yönelik oscarlık performans göstermiş sütten çıkmış ak kaşığa bak sen !!
+  entry_channels: spor
+- entry_name: |
     rıdvan dilmen
   entry_id:  89964808
   entry_writer: psychedeliceffect
@@ -275,13 +267,13 @@ data:
     “insanları sokağa dökeceksiniz” diyerek nerden talimat alıp konuştuğu çok belli oluyor. <br/><br/>t: fenerbahçe tv yorumcusu.
   entry_channels: spor,tv
 - entry_name: |
-    fenerbahçe
-  entry_id:  89966012
-  entry_writer: bana kedicik derdi
+    pudingin kabuk tutmaması için yapılanlar
+  entry_id:  89971342
+  entry_writer: losfelizdavis
   entry_fav_count: 18
   entry_content: |
-    ilahi adalet mi diyeyim, ne diyeyim bilmiyorum bugun yasananlara. seneler boyunca ulkenin her alanini sarmis gs lobisi ile mucadele eden tek takim oldu. denizli'de tarihin en saibeli macinda sampiyonlugu calinip tarihin en iyi fenerbahce'si dagitilirken, 2011'de pensilvanya destekli feto operasyonlariyla en az 15 senesi yok edilirken bugun sampiyonlugumuz caliniyor diye aglayanlar o zamanlar o sampiyonluklari calanlarin yaninda birlikte egleniyorlardi. neden? cunku gs lobisinin sahada yarisamadigi fenerbahce ile mucadele edebilmek icin bilincli olarak ulkenin her kademesine bastigi fenerbahce nefreti ve dusmanliginin esiri olmuslardi. <br/><br/>kimse kusura bakmasin, fenerbahce mason lobisi karsisinda seneler boyu tek basina savasirken sesi cikmayanlarin doktugu gozyaslarini ben hic ciddiye alamiyorum. biz bir sure ortasira takimiyiz, yarattiginiz canavarla biraz da siz ugrasin bakalim keyifli oluyor muymus. hic de bosuna aglamayin turk futbolu bitmis yok bilmemne diye, bunlar ulke futbolunun mhk'sindan tff'sine, medya'sina her kademeye yerlesip istedikleri gibi at kostururken hepinizin tek derdi fenerbahce idi, alin hayrini gorun bakalim.
-  entry_channels: spor
+    tutsun,tutmalı bence. öyle 2 katmanlı daha güzel, yoksa lapa gibi olmaz mı?
+  entry_channels: yeme-içme
 - entry_name: |
     11 mayıs 2019 fenerbahçe akhisarspor maçı
   entry_id:  89967653
@@ -299,12 +291,28 @@ data:
     kör değillerdir.<br/><br/>sene başından beri hakemlerin yetersiz ve eyyamcı olduğunu dile getiren gruptuk. hatta bunu dedik diye 17 kulüp aynı bildiriye imza attı.<br/><br/>yetmedi kadıköyde galibiyetimiz çalındı. şimdi bu ağlamak niye?
   entry_channels: spor
 - entry_name: |
+    rıdvan dilmen hakkında soruşturma açılması
+  entry_id:  89969716
+  entry_writer: italiano20
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: olmamış olaylar hakkında başlık açan yazarların götünden sikilmesi)<br/><br/>ne salak bi yer oldu lan burası, mal pazarı gibi.
+  entry_channels: spor
+- entry_name: |
     fatih terim
   entry_id:  89965340
   entry_writer: occupy gezi
   entry_fav_count: 9
   entry_content: |
     sözlük <a class="b" href="/?q=jurgen+klopp">jurgen klopp</a> larına göre bugünkü maçı fatih terim'e rağmem kazanmışız. bak sen. <br/><br/>bugünkü maçı inadı ve güveniyle kazanmıştır. bugünkü maçta 3 puanı fatih terim tek başına almıştır. <br/>bütün türkiye'nin diagne'yi çıkar hoca demesine rağmen hayatının kumarını oynamıştır elinde iki papaz'la all-in demiştir, rakip iki ace açmıştır ama yere papaz düşmüştür. three of a kind ile eli almıştır. <br/><br/>bazen şans gereklidir pokerde evet ama eline güvenmek de büyük cesaret ister. büyüksün hoca.
+  entry_channels: spor
+- entry_name: |
+    19.05.2019 galatasaray'ın 22. şampiyonluğu
+  entry_id:  89969162
+  entry_writer: dadanda
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: <a class="b" href="/?q=19+may%c4%b1s+2019+galatasaray+m.ba%c5%9fak%c5%9fehir+ma%c3%a7%c4%b1">19 mayıs 2019 galatasaray m.başakşehir maçı</a>) bitiş düdüğüyle ilan edilecek olan şampiyonluktur.
   entry_channels: spor
 - entry_name: |
     chp tavuklara oy kullandırdı
@@ -318,49 +326,41 @@ data:
     benimle söyle
   entry_id:  89970431
   entry_writer: greeny16
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     juri kadrosu nuhun gemisi gibi.
   entry_channels: tv
 - entry_name: |
-    rıdvan dilmen hakkında soruşturma açılması
-  entry_id:  89969609
-  entry_writer: arsizca yaladim leopari
-  entry_fav_count: 4
+    akp seçmeni vs galatasaray taraftarı
+  entry_id:  89971759
+  entry_writer: saintly
+  entry_fav_count: 8
   entry_content: |
-    (bkz: <a class="b" href="/?q=bknz">bknz</a>)<br/><br/>5237 s.lı türk ceza kanunu madde 216<br/>halkı kin ve düşmanlığa tahrik veya aşağılama<br/>(1) halkın sosyal sınıf, ırk, din, mezhep veya bölge bakımından farklı özelliklere sahip bir kesimini, diğer bir kesimi aleyhine kin ve düşmanlığa alenen tahrik eden kimse, bu nedenle kamu güvenliği açısından açık ve yakın bir tehlikenin ortaya çıkması halinde, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
-  entry_channels: spor
-- entry_name: |
-    geceye bir şiir bırak
-  entry_id:  89940038
-  entry_writer: komikse bizde gulelim
-  entry_fav_count: 4
-  entry_content: |
-    “bir şey yap, güzel olsun. çok mu zor? o vakit güzel bir şey söyle. dilin mi dönmüyor? güzel bir şey gör veya güzel bir şey yaz. beceremez misin? öyleyse güzel bir şeye başla. ama hep güzel şeyler olsun. çünkü her insan ölecek yaşta…”
-  entry_channels: edebiyat
-- entry_name: |
-    19.05.2019 galatasaray'ın 22. şampiyonluğu
-  entry_id:  89969162
-  entry_writer: dadanda
-  entry_fav_count: 4
-  entry_content: |
-    (bkz: <a class="b" href="/?q=19+may%c4%b1s+2019+galatasaray+m.ba%c5%9fak%c5%9fehir+ma%c3%a7%c4%b1">19 mayıs 2019 galatasaray m.başakşehir maçı</a>) bitiş düdüğüyle ilan edilecek olan şampiyonluktur.
-  entry_channels: spor
+    başakşehir'in şampiyonluğunu isteyen fanatik fenerbahçeli cumhurbaşkanı ve yönetim kadroları beşiktaşlı, fenerbahçeli dolu tff'ye rağmen galatasaray'a ayrıcalık tanındığını iddia eden gerizekalıların uydurduğu versus. federasyon başkanı beşiktaş'tan 100 milyon tl alacağı olan eski beşiktaş başkanıydı amına koyayım. <br/><br/>asıl olarak sizin gibi davarların her gelişmeyi, 'dış güçler'e bağlayan çomarlardan ne farkı var?
+  entry_channels: spor,siyaset,anket
 - entry_name: |
     11 mayıs 2019 rizespor başkanının konuşması
-  entry_id:  89970020
-  entry_writer: srfydn
-  entry_fav_count: 4
+  entry_id:  89968138
+  entry_writer: depremoldudiyeyazmakicingeldim
+  entry_fav_count: 7
   entry_content: |
-    "hakemler de insandır hata yapabilirler" içerikli kulüpler birliği açıklamasına imza attığını açıklayan başkan açıklamaları.<br/><br/>ağlaması manidar ve 30 milyon galatasaraylı için oldukça eğlenceli.<br/><br/>edit: imza atmamış sadece destek vermiş :)
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/10BadouBoy/status/1127240053795717121" title="https://twitter.com/10BadouBoy/status/1127240053795717121">https://twitter.com/…boy/status/1127240053795717121</a><br/><br/>primler yalan oldu tabi<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: spor
 - entry_name: |
-    sofiane feghouli
-  entry_id:  89958266
-  entry_writer: allahiniz yok mu ulaaan
+    dolaptaki tüm gömlekleri ütüledikten sonra ölmek
+  entry_id:  89970974
+  entry_writer: aglama gozlerim
+  entry_fav_count: 4
+  entry_content: |
+    son gömlek ütülendiğinde beyaz adam ütünün yenmeyen bir şey olduğunu anlayacak. ilacım nerede benim.<br/><br/>(bkz: <a class="b" href="/?q=yava%c5%9f+yava%c5%9f+delirdim+kimse+fark+etmedi">yavaş yavaş delirdim kimse fark etmedi</a>)
+  entry_channels: 
+- entry_name: |
+    akhisar belediyespor
+  entry_id:  89970995
+  entry_writer: historien
   entry_fav_count: 3
   entry_content: |
-    belhanda ve onyekuru ile birlikte takımını sırtlayan oyuncudur. şu üçünden ikisi oynamasa maç kazanacağımızı sanmıyorum.
+    fenerbahçe taraftarlarının haksızlık ettiği takım.<br/><br/>erzurum, göztepe, bursa her başlığa yazıyorsunuz da fener kümeye demeyen takım mı vardı bu sene?<br/><br/>uzun yıllar ligimize renk katmış takımdır.
   entry_channels: spor
 - entry_name: |
     11 mayıs 2019 kuşların büyük zırlayışı
@@ -379,6 +379,22 @@ data:
     (bkz: <a class="b" href="/?q=fener+a%c4%9flama">fener ağlama</a>)
   entry_channels: spor
 - entry_name: |
+    çocuk sahibi olmak istemenin asıl sebebi
+  entry_id:  89969480
+  entry_writer: daenerystargeryan
+  entry_fav_count: 2
+  entry_content: |
+    bana öyle geliyor ki cogu insan sadece bir norma uymak icin cocuk yapiyor. cocuk neden istenir? bir insan neden kendi genlerinin bu denli aktarilmasini ister hic anlamiyorum. dünyada bu kadar cok insan varken zaten sirf insani bir takim hisleri istekleri tatmin etmek adina cocuk yapmak bilincsizlikten baska bir sey degil.<br/>türk toplumundaki cocuk baskisi ise baska bir konu. <br/>her cift cocuk sahibi olmak zorunda degil ve kadinlar dogurmak icin dünyaya gelmiyor.
+  entry_channels: anket,ilişkiler,sağlık
+- entry_name: |
+    11 mayıs 2019 göztepe sivasspor maçı
+  entry_id:  89970492
+  entry_writer: naaalayan adam
+  entry_fav_count: 2
+  entry_content: |
+    berabere biten maçtır.<br/><br/>göztepe bu maç nedeniyle küme düşerse ; tayfur denen keko yüzünden olacaktır,20 dakikada 3 hatalı pas verip resmen sivas'a pozisyon hazırlamıştır,bu pasların biri nedeniyle reis kırmızı kart görmüş ve frikikten gol yemişlerdir,diğer ikisinde de allah kurtardı desek yeridir.
+  entry_channels: spor
+- entry_name: |
     güney afrika denince akla gelenler
   entry_id:  89969735
   entry_writer: 1223334444
@@ -386,20 +402,4 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=elon+musk">elon musk</a>)
   entry_channels: siyaset,bilim,tarih,sinema,ekonomi,seyahat
-- entry_name: |
-    dolaptaki tüm gömlekleri ütüledikten sonra ölmek
-  entry_id:  89970974
-  entry_writer: aglama gozlerim
-  entry_fav_count: 1
-  entry_content: |
-    son gömlek ütülendiğinde beyaz adam ütünün yenmeyen bir şey olduğunu anlayacak. ilacım nerede benim.<br/><br/>(bkz: <a class="b" href="/?q=yava%c5%9f+yava%c5%9f+delirdim+kimse+fark+etmedi">yavaş yavaş delirdim kimse fark etmedi</a>)
-  entry_channels: 
-- entry_name: |
-    30-35 bin liraya alınabilecek en iyi araba
-  entry_id:  89948826
-  entry_writer: cift uskur hulusi reis 2
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=fiat+palio">fiat palio</a>) 10 yaşında 30 bine bulma ihtimalin var. yeni şöförsün. sağa sola vurma ihtimalin de var. parçası da ucuz. al geç.
-  entry_channels: anket,otomotiv
 ---
