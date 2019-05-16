@@ -6,7 +6,7 @@ data:
     imamoğlu'nun yoksula yapılan yardımı sıfırlaması
   entry_id:  90150663
   entry_writer: connexion
-  entry_fav_count: 2544
+  entry_fav_count: 2546
   entry_content: |
     (bkz: <a class="b" href="/?q=bak+%c5%9furdan+siktir+git">bak şurdan siktir git</a>)<br/><br/>doğrusu için;<br/><br/>imamoğlu tekrar seçilince akp'nin "yoksullara yardım yapıyorum" diyerek derneklere verilen paranın %90'ını peşkeş çekip kalanı sadaka niyetine dağıtmasının önüne geçecek, yoksullara yardımın diğerlerini soymadan nasıl yapılacağını gösterecektir.<br/><br/>edit: sözkonusu derneklerin yoksullara yardım etme yöntemlerinden bir kısmını özel mesaj ile bildiren @aslagelmeyecektelefonubekleyenadam'a teşekkürler.<br/><br/>1 - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/yazarlar/cigdem-toker/ibbden-vakiflara-hizmet-raporu-3288303/" title="https://www.sozcu.com.tr/2019/yazarlar/cigdem-toker/ibbden-vakiflara-hizmet-raporu-3288303/">ibb’den vakıflara “hizmet” raporu</a><br/><br/>2 - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/yazarlar/cigdem-toker/ibbnin-secilmis-vakiflara-destegi-3321490/" title="https://www.sozcu.com.tr/2019/yazarlar/cigdem-toker/ibbnin-secilmis-vakiflara-destegi-3321490/">ibb’nin seçilmiş vakıflara desteği</a><br/><br/>3 - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/yazarlar/cigdem-toker/ibb-ve-seffaflik-sozu-3349504/" title="https://www.sozcu.com.tr/2019/yazarlar/cigdem-toker/ibb-ve-seffaflik-sozu-3349504/">ibb ve “şeffaflık” sözü</a><br/><br/>4 - (bkz: <a class="b" href="/?q=ibb%27nin+14+milyon+liraya+web+sitesi+yapt%c4%b1rmas%c4%b1">ibb'nin 14 milyon liraya web sitesi yaptırması</a>)<br/><br/>5 - (bkz: <a class="b" href="/?q=ok%c3%a7ular+vakf%c4%b1n%c4%b1n+16.6+milyon+tl+yard%c4%b1m+almas%c4%b1">okçular vakfının 16.6 milyon tl yardım alması</a>)<br/><br/>6 - (bkz: <a class="b" href="/?q=ibb%27nin+t%c3%bcgva+i%c3%a7in+bina+kiralamas%c4%b1">ibb'nin tügva için bina kiralaması</a>)<br/><br/>7 - (bkz: <a class="b" href="/?q=ibb%27nin+ensar+ve+t%c3%bcrgev%27e+81.5+milyon+vermesi">ibb'nin ensar ve türgev'e 81.5 milyon vermesi</a>)<br/><br/>8 - (bkz: <a class="b" href="/?q=ibb%27den+c%c3%bcbbelinin+damad%c4%b1na+milyonluk+ihale">ibb'den cübbelinin damadına milyonluk ihale</a>)
   entry_channels: siyaset,ekonomi
@@ -14,7 +14,7 @@ data:
     karnını doyuruyorsunuz yine de oy vermiyor
   entry_id:  90144812
   entry_writer: danspistindekicocuk
-  entry_fav_count: 1751
+  entry_fav_count: 1761
   entry_content: |
     beynini doldurursaniz hic oy vermeyecektir diye bilmesi gereken cumhurbaskani beyani.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     16 mayıs 2019 adalet bakanı'nın öcalan açıklaması
   entry_id:  90156700
   entry_writer: bigtiger88
-  entry_fav_count: 865
+  entry_fav_count: 886
   entry_content: |
     ne kadar büyük rant varmış istanbul'da dedirten gelişmeler.<br/><br/>ayrıca<br/><br/>(bkz: <a class="b" href="/?q=her+%c5%9fey+%c3%a7ok+g%c3%bczel+olacak">her şey çok güzel olacak</a>)
   entry_channels: siyaset,tarih,haber
@@ -30,7 +30,7 @@ data:
     imamoğlu'nun makam odasına x-ray taktırması
   entry_id:  90160860
   entry_writer: yuci
-  entry_fav_count: 761
+  entry_fav_count: 767
   entry_content: |
     bunu eleştireceğine kendisine uçaklar aldırtan, başkente 1100 odalı saray, muğlada 300 odalı yazlık yaptıranları eleştirseniz daha doğru olmaz mı acaba? neymiş odasına xray taktırmış! 300 korumayla 30-40 araç konvoyla şov yapmadı en azından.
   entry_channels: siyaset
@@ -38,7 +38,7 @@ data:
     il milli eğitim müdürlüklerinden ekşisözlük yazısı
   entry_id:  90138046
   entry_writer: sixty one
-  entry_fav_count: 608
+  entry_fav_count: 614
   entry_content: |
     biri saçma sapan bir tweet atınca #haddinibiltwitter demek gibidir.
   entry_channels: ekşi-sözlük,eğitim
@@ -46,7 +46,7 @@ data:
     ted ankara koleji anaokulunun 73 bin 250 tl olması
   entry_id:  90158612
   entry_writer: spmormon
-  entry_fav_count: 525
+  entry_fav_count: 544
   entry_content: |
     bu tur okullarin ucreti, sinif farkini yansitmak icin boyledir. cocugunu ted koleji anaokuluna gonderen bir aile icin o para hicbir seydir.<br/><br/>sunu anlayin, herkesin vizyonu bir degil. o anaokuluna giden cocuk kendi statusunde olan cocuklarla takilir, benzer hayalleri paylasirlar. o kadar zengin bir cocugu, fakir cocuklarin arasina koyarsaniz, olasi problemlere goz kirparsiniz.<br/><br/>ayrica zenginler, henuz zihni bos bir defter gibi olan cocuklarinin fakirlikle ilgili konularla dolmasini istemezler.
   entry_channels: haber,eğitim
@@ -54,7 +54,7 @@ data:
     m. yıldızdoğan'ın oğlunun bedelli askerlik yapması
   entry_id:  90144339
   entry_writer: svobodaozgur
-  entry_fav_count: 414
+  entry_fav_count: 416
   entry_content: |
     utanmadan bir de ayağına taş yanağına yaş değmesin diyor. görün bu milliyetçi diye gezen sülüklerin nasıl karaktersiz olduklarını. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/myildizdogann/status/1128459794459742208?s=21" title="https://twitter.com/myildizdogann/status/1128459794459742208?s=21">https://twitter.com/…tatus/1128459794459742208?s=21</a>
   entry_channels: siyaset,haber
@@ -62,7 +62,7 @@ data:
     samsung'un muhteşem 19 mayıs reklamı
   entry_id:  90157414
   entry_writer: osgiliathburns
-  entry_fav_count: 320
+  entry_fav_count: 343
   entry_content: |
     çok güzel reklam. ama ne yazık ki bi tanısa yüzümüze tükürürdü muhtemelen.
   entry_channels: tv,teknoloji
@@ -70,7 +70,7 @@ data:
     kalitesiz insanların övündükleri şeyler
   entry_id:  90143516
   entry_writer: devecialpay
-  entry_fav_count: 273
+  entry_fav_count: 278
   entry_content: |
     çocukları .<br/>oturduğu her ortamda çocuklarının yaptığı her aktiviteyi anlatıp durması başarılarından bahsedip durması.
   entry_channels: anket,ilişkiler
@@ -78,7 +78,7 @@ data:
     devlet bahçeli'den öcalana'a görüşme kıyağı
   entry_id:  90158772
   entry_writer: veni vidi yaziyorum
-  entry_fav_count: 251
+  entry_fav_count: 262
   entry_content: |
     andımız geri gelsin mi? <br/>hayır<br/>tc geri gelsin mi? <br/>hayır<br/>terörist başı avukatıyla görüşsün mü? <br/>evet evet evet<br/><br/>tanım : her an onun adı gelir, diye bir reklam.
   entry_channels: siyaset,haber
@@ -86,23 +86,15 @@ data:
     ç. rizespor başkanının 11 gün ceza alması
   entry_id:  90160040
   entry_writer: i was in heaven
-  entry_fav_count: 220
+  entry_fav_count: 226
   entry_content: |
     gs başkanı “hakemler taraflı maç yönetiyor” dediğinde 150 gün ceza yemişti. rize başkan “silahım olsa hakemi vururdum” diyor ve 11 gün ceza alıyor. adalet terazinizi sileyim.
   entry_channels: spor
 - entry_name: |
-    15 mayıs 2019 ankara da haarp
-  entry_id:  90160770
-  entry_writer: kimseye hayir diyemeyen hiyar
-  entry_fav_count: 217
-  entry_content: |
-    bu büyük resim kursunun nerede olduğunu merak ettiren saldırı.
-  entry_channels: bilim,teknoloji
-- entry_name: |
     gs store'da tişörtlerdeki gala yazısı
   entry_id:  90157321
   entry_writer: benfica
-  entry_fav_count: 215
+  entry_fav_count: 219
   entry_content: |
     asıl, neden nkfvas gibi şahane bir kısaltma varken bunu secmisizdir
   entry_channels: spor,moda
@@ -110,7 +102,7 @@ data:
     finlandiyalı mühendisin geliştirdiği duş sistemi
   entry_id:  90161214
   entry_writer: kirkbirincikarakter
-  entry_fav_count: 211
+  entry_fav_count: 212
   entry_content: |
     başlığı görünce teknolojik bir devrim olarak düşünüp heyecanlandım. bildiğin anadoluda tofaş motorundan uçak yapıp yerel haberlere çıkan dayılardan biriymiş.
   entry_channels: bilim,teknoloji,sağlık
@@ -118,7 +110,7 @@ data:
     aşırı kitap okumanın kişiyi dünyadan koparması
   entry_id:  90155288
   entry_writer: conficker
-  entry_fav_count: 187
+  entry_fav_count: 202
   entry_content: |
     "kişi, öteki insanlardan uzaklaştığı ölçüde hakikate yaklaşır. günlük yaşam, yalanlardan kurulu yüzeysel bir düzendir."<br/><br/>(bkz: <a class="b" href="/?q=k%c3%b6rle%c5%9fme">körleşme</a>)<br/>(bkz: <a class="b" href="/?q=elias+canetti">elias canetti</a>)
   entry_channels: edebiyat,sağlık
@@ -126,7 +118,7 @@ data:
     sevişirken beni aşağıla diyen kadın
   entry_id:  90139672
   entry_writer: tkg
-  entry_fav_count: 166
+  entry_fav_count: 171
   entry_content: |
     e: "dahi anlamındaki de'leri ayrı yazamıyorsun"<br/>k: "oh baby"
   entry_channels: ilişkiler
@@ -134,7 +126,7 @@ data:
     tatilya'ya gitmiş efsane nesil
   entry_id:  90153767
   entry_writer: passenger28
-  entry_fav_count: 164
+  entry_fav_count: 169
   entry_content: |
     bizim nesildir ama biz dahil olamadık. çok mu para istemişti lan acaba okul? hatırlamıyorum. hatırladığım şey ise parayı verenlerin otobüse doluşup sevinç çığlıklarıyla <a class="b" href="/?q=tatilya">tatilya</a>'ya gidişleri ve bizim de okulun arkasında futbolcu kartlarıyla pişti oynadığımız.<br/>geri döndükleri zaman öyle bir anlatmışlardı ki bize şerefsizler o gece yattığımda hep orayı hayal etmiştim. bence okullardaki bu gezi işlerinin ya tamamen ücretsiz olması ya da hiç olmaması lazım.
   entry_channels: tarih,oyun
@@ -142,7 +134,7 @@ data:
     15 mayıs 2019 alabama'da kürtajın yasaklanması
   entry_id:  90155835
   entry_writer: sudabogulanmarjinalbalik
-  entry_fav_count: 140
+  entry_fav_count: 147
   entry_content: |
     bir tane ezik ak troll'ün gelip de bir kadının bir çocuğu zorla doğurması gerektiğini yazdığı başlık. sana ne ulan arap piçi ? zorla çocuk mu doğurtacaksın bir kadına ?
   entry_channels: siyaset,sağlık,haber
@@ -155,98 +147,74 @@ data:
     asuman küçük değil ibrahim mi yaşlı sorunsalını akla getiren ilişki
   entry_channels: ilişkiler
 - entry_name: |
-    galatasaraylılarla futbol konuşmuyoruz kampanyası
-  entry_id:  90155831
-  entry_writer: schweizko
-  entry_fav_count: 125
+    2019-2020 futbola 1tl bile harcamıyoruz kampanyası
+  entry_id:  90168100
+  entry_writer: srfydn
+  entry_fav_count: 114
   entry_content: |
-    galatasaraylılar olarak çok memnun olacağımız kampanya. biz zaten sizle futbol konuşmuyoruz, salağa anlatır gibi anlatmaya çalışıyoruz .
-  entry_channels: spor
-- entry_name: |
-    prezervatifli seks vs prezervatifsiz seks
-  entry_id:  90136193
-  entry_writer: aparkat hamdi
-  entry_fav_count: 99
-  entry_content: |
-    ben prezervatifli seks yapmayi sevmiyorum. ama cinsel yolla bulasan hastalik da kapmak istemiyorum. o yuzden sikis sokus olayini biraktim. bence one night stand denen olay tam bir populer kultur dayatmasidir. herkes takir takir sikisiyor ben neden sikismeyeyim diye korkulara dusuren yeri geldiginde sevismek istemedigi tiplerle bile sevistiren bir trenddir. sonucta benzer trendlerin topluma devlet politikasi olarak dayatildigini ikinci dunya savasi sonrasi azalan nufusu yeniden eski noktasina getirebilmek icin insanlari surekli evlenip daha fazla cocuk yapmaya ikna ettikleri gibi simdi de dunya baris halindeyken, nufus duzenli bicimde artiyorken mumkun mertebe insanlari bireysel yasama, evlenmeyeye, insanin kesfettigi en verimli toplumsal yapi tasi olan ailelesmemeye iterek ayni nufus kontrolunu yapiyorlar. <br/><br/>o yuzden ben daha one night stand falan yapmiyorum. tanidigim bildigim iliski kurdugum o iliskiyi gelistirebildigim insanlarla sevisiyorum. hem erkek tarafi surekli ne zaman sevisicez diye bekleyen taraf olmayinca kadin tarafi <a class="b" href="/?q=acaba+niye+surekli+sevismeye+hazir+gozukmuyor">acaba niye surekli sevismeye hazir gozukmuyor</a> diye meraklanip bu sefer kendileri o kapiyi zorlayan taraf olmaya basliyorlar. <br/><br/>yattiginiz kisinin hakkinda cinsel hastalik tasiyip tasimadigindan cok daha fazlasini bilmeye ihtiyaciniz var. toplumun beklentileriyle sidik yaristiracagim diye adini bilmediginiz insanlarin gotunu gormenize gerek yok. az sakinlesin amk. azgin bogalar gibi sikismeseniz de olur attiginiz sikisin bir anlami olsun.
-  entry_channels: anket,ilişkiler,sağlık
-- entry_name: |
-    15 mayıs 2019 galatasaray akhisarspor maçı
-  entry_id:  90135682
-  entry_writer: paul sahillleri
-  entry_fav_count: 89
-  entry_content: |
-    akhisarspor'un elleriyle galatasaray'a armağan ettiği kupa finali.<br/><br/>1-0 öndesin rahatsın o penaltıyı neden yaparsın? hadi yaptın allah'ın lütfu olarak diagne golü atamamışken 2. penaltıyı neden yaparsın?<br/><br/>bu maçı akhisarspor'a kaybettiren koç - fiko - gümüşdağ üçlüsü ve onların medyadaki beslemeleri, tetikçileridir.<br/><br/>özellikle akhisarsporlu futbolcular medya üzerinden yapılmakta olan operasyondan öylesine etkilenmişler ki gayet verilmesi gereken hakem kararlarına bile delicesine itiraz ettiler. ve tabi bunun sonucunda da maçtan koparak kupayı elleriyle galatasaray'a teslim ettiler.
+    galatasaray iç sahada rize, konya, fb, dış sahada trabzon, bjk, fb maçlarında doğranmışken “hakem de insandır hata yapabilir” mottosu haricinde ses çıkarmamış troll hezeyanı.<br/><br/>bre yüzsüzler! yallah katar ligine.
   entry_channels: spor
 - entry_name: |
     1 milyon tl param olsun asla çalışmam diyenler
   entry_id:  90146395
   entry_writer: duccio
-  entry_fav_count: 88
+  entry_fav_count: 89
   entry_content: |
     eli üç kuruş maaşından başka para görmemiş adamlar ''1 milyon tl para mı lan'' diyebiliyor tabi.
   entry_channels: anket,ekonomi
 - entry_name: |
-    19 mayıs 2019 galatasaray m.başakşehir maçı
-  entry_id:  90136802
-  entry_writer: paul sahillleri
-  entry_fav_count: 70
+    sadece sabaha kadar oturanların bildiği şeyler
+  entry_id:  90136800
+  entry_writer: venera
+  entry_fav_count: 84
   entry_content: |
-    galatasaray'ın sözde muhalifleri hükümetsporlu yapacağı maç.<br/><br/>çok büyüksün galatasaray çok...
-  entry_channels: spor
+    - 1 civarı şehir de hareketli, zihin de. hiçbir şey sakinleşmiş değil. <br/>- saat 2 gibi insan "birazdan yatarım" diye düşünmeye başlıyor. sanki bir eşik gibi o saat civarı. eşik atlandı mı, sabahı görüyor insan.<br/>- saat 3'ten sonra etrafa yayılan dinginlik çok başka, ana rahmi gibi.<br/>- 4'te kafa iyice dinlenmiş oluyor. zihin susuyor. şehir zaten susmuş. çok uzaklardan motor sesleri geliyor arada.<br/>- saat 5 civarinda havada muazzam bir koku, tazelik oluyor. insanın içinde tarifsiz bir yenilik hevesi, doğayla beraber güne hazırlanıyor sanki hücreler. eskiler boşuna güneşten önce uyanın demiyorlar. <br/>- 6 civarı havanın rengi dönüyor, akvaryum gibi, bebe mavisi, çivit mavisi gibi, inceden güneş boyuyor ufukları, apartmanlardan güç bela görünen bulutları.<br/>- 7'ye doğru şehir hareketleniyor, hava artık dümdüz mavi, uzaklardan araba uğultuları sessizliği yırtıyor, yine hiçbir sey sakin değil.<br/><br/>gelgelelim gece uykusunun yerini hiçbir şey tutmuyor, düzeni bozmamak lazım.
+  entry_channels: anket
 - entry_name: |
     dövme yaptırılası sözler
   entry_id:  90148720
   entry_writer: the wade
-  entry_fav_count: 67
+  entry_fav_count: 75
   entry_content: |
     <a class="b" href="/?q=hi%c3%a7bir+%c5%9fey+olmasa+bile+kesinlikle+bir+%c5%9feyler+oldu">hiçbir şey olmasa bile kesinlikle bir şeyler oldu</a>
   entry_channels: anket,edebiyat,moda
 - entry_name: |
-    game of thrones'un en iyi repliği
-  entry_id:  90135817
-  entry_writer: leonista
-  entry_fav_count: 54
+    19 mayıs 2019 galatasaray m.başakşehir maçı
+  entry_id:  90136802
+  entry_writer: paul sahillleri
+  entry_fav_count: 75
   entry_content: |
-    arya stark'ın frey hanesini feci şekilde yok ettikten sonra sağ bıraktığı tek kadına söylediği;<br/><br/>''insanlar sana burada ne olduğunu sorduklarında onlara 'kuzey unutmaz' de..'' <sup class="ab"><a title="(bkz: the north remembers)" href="/?q=the+north+remembers" data-query="the north remembers">*</a></sup>
-  entry_channels: tv,spoiler
-- entry_name: |
-    2019-2020 futbola 1tl bile harcamıyoruz kampanyası
-  entry_id:  90168100
-  entry_writer: srfydn
-  entry_fav_count: 50
-  entry_content: |
-    galatasaray iç sahada rize, konya, fb, dış sahada trabzon, bjk, fb maçlarında doğranmışken “hakem de insandır hata yapabilir” mottosu haricinde ses çıkarmamış troll hezeyanı.<br/><br/>bre yüzsüzler! yallah katar ligine.
+    galatasaray'ın sözde muhalifleri hükümetsporlu yapacağı maç.<br/><br/>çok büyüksün galatasaray çok...
   entry_channels: spor
-- entry_name: |
-    ben ruşen çakır sorularınızı yanıtlıyorum
-  entry_id:  90155924
-  entry_writer: rusen cakir
-  entry_fav_count: 37
-  entry_content: |
-    merhaba, iyi günler. ben <a class="b" href="/?q=ru%c5%9fen+%c3%a7ak%c4%b1r">ruşen çakır</a>.<br/><br/>34 yıllık gazetecilik, neredeyse 4 yıllık <a class="b" href="/?q=medyascope">medyascope</a> serüvenimle ilgili sorularınız, yorumlarınız ve eleştirileriniz varsa beklerim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BxhcnXfA0l1/?igshid=18c3ubdowkp8z" title="https://www.instagram.com/p/BxhcnXfA0l1/?igshid=18c3ubdowkp8z">kanıt</a><br/><br/>edit: benim için zor ama keyifli bir söyleşi oldu. kuruldugundan beri uzaktan izledigim kimi zaman beni kızdıran, kimi zaman da cok mutlu eden sözlük demek ki böyle bir şeymiş. bu arada medyascope'un da bundan böyle sözlük'te oldugunu duyurmak isterim:<a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/medyascope">https://eksisozluk.com/biri/medyascope</a> herkese çok teşekkürler.<br/><br/>sorularınıza verilmiş yanıtları görmek için şu bağlantıyı kullanabilirsiniz: (bkz: <a class="b" href="/?q=ben+ru%c5%9fen+%c3%a7ak%c4%b1r+sorular%c4%b1n%c4%b1z%c4%b1+yan%c4%b1tl%c4%b1yorum%2f%40rusen+cakir">ben ruşen çakır sorularınızı yanıtlıyorum/@rusen cakir</a>)<br/><br/>not: soru cevap etkinliğini mobil ve web tarayıcınızdan takip edebilirsiniz.
-  entry_channels: siyaset,ekşi-sözlük,haber
-- entry_name: |
-    chernobyl (dizi)
-  entry_id:  90138370
-  entry_writer: marlboro geliyor
-  entry_fav_count: 36
-  entry_content: |
-    içinde biraz sovyet kara propagandası barındırmasına rağmen o gergin atmosferi sonuna kadar hissettiren mini dizi. çernobil kazası kimilerine göre sovyetler için sonun başlangıcı olmuştur. <br/><br/>o tarihlerde israil’in ırak’taki nükleer santrali vurması sonucu, sovyetler bu tür saldırılara karşı tatbikatlar yapmaya başladı. çernobildeki test de olası saldırı sonrası reaktörlerin gücünün kısılması ve tekrar çalıştırılması üzerine bir testti. vardiya müdürü dyatlov oğlunu kanserden kaybettiği için nükleer güçle arasında kişisel bir savaş vardı. testi belirlenen güç miktarı olan 700 megaton enerji yerine 200’e indirerek yaptı.<br/><br/>reaktör iyice güç kaybetti ardından durdu. jeneratörlerin devreye girmesi için geçen 40-50 saniye gibi bir süre boyunca su pompaları çalışmadığı için reaktör soğutulamadı. dyatlov reaktörü kapatmak yerine tekrar çalıştırılmasını emretti. git gide gücü tekrar artan reaktörün sıcaklığı kontrol altına alınamadı. <br/><br/>o zamanki teknolojide reaktörlerin sigortası olan kontrol çubuklarının ucu grafit kaplıydı. kontrol odası çubukları indirdiğinde ucu grafit kaplı çubuklar reaksiyonu durdurmadan önce grafitle tepkimeye giren uranyum 235 önce büyük bir ısı açığa çıkardı ve ilk patlama gerçekleşti. <br/><br/>ısınmaya devam eden reaktör ikinci patlamayı gerçekleştirdi ve 350 kiloluk koruma grafitleri yerinden uçtu. ardından çekirdek açığa çıktı ve sonrası malum.<br/><br/>dyatlov 10 yıl hapse mahkum edildi ama bir insanın ömrü boyunca aldığı radyasyonun 200 katını bir günde aldığı için hastalandı 3.5 yıl sonra tahliye edildi.<br/><br/>olayda çok fazla ihmal var. kontrol odasındaki yanlış kararlardan tutun da santralin erken açılması ve terfi alabilmek için acele iş yapan santral müdürleri. hatalı tasarımlar vs...<br/><br/>ama benim aklıma hala takılan şey şudur. israil ırak’taki santrale saldırı gerçekleştirmeseydi belki de bugün bunların hiçbiri olmayacaktı hatta sovyetler hala ayakta duracaktı. saygılar<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/nDroFgcxv_w" title="https://youtu.be/nDroFgcxv_w">belgesel</a>
-  entry_channels: tv
 - entry_name: |
     elit kesimin çocuklara koyduğu sikimsonik isimler
   entry_id:  90161039
   entry_writer: odisya
-  entry_fav_count: 35
+  entry_fav_count: 58
   entry_content: |
     güncel listesine <a rel="nofollow noopener" class="url" target="_blank" href="https://www.tedankara.k12.tr/files/duyurular/tum.pdf" title="https://www.tedankara.k12.tr/files/duyurular/tum.pdf">buradan</a> ulaşılabilir.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    chernobyl (dizi)
+  entry_id:  90138370
+  entry_writer: marlboro geliyor
+  entry_fav_count: 38
+  entry_content: |
+    içinde biraz sovyet kara propagandası barındırmasına rağmen o gergin atmosferi sonuna kadar hissettiren mini dizi. çernobil kazası kimilerine göre sovyetler için sonun başlangıcı olmuştur. <br/><br/>o tarihlerde israil’in ırak’taki nükleer santrali vurması sonucu, sovyetler bu tür saldırılara karşı tatbikatlar yapmaya başladı. çernobildeki test de olası saldırı sonrası reaktörlerin gücünün kısılması ve tekrar çalıştırılması üzerine bir testti. vardiya müdürü dyatlov oğlunu kanserden kaybettiği için nükleer güçle arasında kişisel bir savaş vardı. testi belirlenen güç miktarı olan 700 megaton enerji yerine 200’e indirerek yaptı.<br/><br/>reaktör iyice güç kaybetti ardından durdu. jeneratörlerin devreye girmesi için geçen 40-50 saniye gibi bir süre boyunca su pompaları çalışmadığı için reaktör soğutulamadı. dyatlov reaktörü kapatmak yerine tekrar çalıştırılmasını emretti. git gide gücü tekrar artan reaktörün sıcaklığı kontrol altına alınamadı. <br/><br/>o zamanki teknolojide reaktörlerin sigortası olan kontrol çubuklarının ucu grafit kaplıydı. kontrol odası çubukları indirdiğinde ucu grafit kaplı çubuklar reaksiyonu durdurmadan önce grafitle tepkimeye giren uranyum 235 önce büyük bir ısı açığa çıkardı ve ilk patlama gerçekleşti. <br/><br/>ısınmaya devam eden reaktör ikinci patlamayı gerçekleştirdi ve 350 kiloluk koruma grafitleri yerinden uçtu. ardından çekirdek açığa çıktı ve sonrası malum.<br/><br/>dyatlov 10 yıl hapse mahkum edildi ama bir insanın ömrü boyunca aldığı radyasyonun 200 katını bir günde aldığı için hastalandı 3.5 yıl sonra tahliye edildi.<br/><br/>olayda çok fazla ihmal var. kontrol odasındaki yanlış kararlardan tutun da santralin erken açılması ve terfi alabilmek için acele iş yapan santral müdürleri. hatalı tasarımlar vs...<br/><br/>ama benim aklıma hala takılan şey şudur. israil ırak’taki santrale saldırı gerçekleştirmeseydi belki de bugün bunların hiçbiri olmayacaktı hatta sovyetler hala ayakta duracaktı. saygılar<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/nDroFgcxv_w" title="https://youtu.be/nDroFgcxv_w">belgesel</a>
+  entry_channels: tv
+- entry_name: |
+    ben ruşen çakır sorularınızı yanıtlıyorum
+  entry_id:  90155924
+  entry_writer: rusen cakir
+  entry_fav_count: 38
+  entry_content: |
+    merhaba, iyi günler. ben <a class="b" href="/?q=ru%c5%9fen+%c3%a7ak%c4%b1r">ruşen çakır</a>.<br/><br/>34 yıllık gazetecilik, neredeyse 4 yıllık <a class="b" href="/?q=medyascope">medyascope</a> serüvenimle ilgili sorularınız, yorumlarınız ve eleştirileriniz varsa beklerim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BxhcnXfA0l1/?igshid=18c3ubdowkp8z" title="https://www.instagram.com/p/BxhcnXfA0l1/?igshid=18c3ubdowkp8z">kanıt</a><br/><br/>edit: benim için zor ama keyifli bir söyleşi oldu. kuruldugundan beri uzaktan izledigim kimi zaman beni kızdıran, kimi zaman da cok mutlu eden sözlük demek ki böyle bir şeymiş. bu arada medyascope'un da bundan böyle sözlük'te oldugunu duyurmak isterim:<a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/medyascope">https://eksisozluk.com/biri/medyascope</a> herkese çok teşekkürler.<br/><br/>sorularınıza verilmiş yanıtları görmek için şu bağlantıyı kullanabilirsiniz: (bkz: <a class="b" href="/?q=ben+ru%c5%9fen+%c3%a7ak%c4%b1r+sorular%c4%b1n%c4%b1z%c4%b1+yan%c4%b1tl%c4%b1yorum%2f%40rusen+cakir">ben ruşen çakır sorularınızı yanıtlıyorum/@rusen cakir</a>)<br/><br/>not: soru cevap etkinliğini mobil ve web tarayıcınızdan takip edebilirsiniz.
+  entry_channels: siyaset,ekşi-sözlük,haber
+- entry_name: |
     istanbul'da 5000 tl'lik işi reddetmek
   entry_id:  90161358
   entry_writer: marjinalbiz
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     potansiyel ev sahibin, iett ve kalan paranı harcayacağın süpermarketler hariç kimsenin zarar ettiğini düşünmemelisin.
   entry_channels: ekonomi
@@ -254,15 +222,31 @@ data:
     2001 ekonomik krizi vs 2019 ekonomik krizi
   entry_id:  90161890
   entry_writer: neslini sevdigim
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     2001- atv, bizim city enflasyon canavarı<br/>2019- atv, süper güç olduk.<br/>çok basit bir örnek ama içinde çok şey barındırıyor. 2001 senesinde, trt hariç tüm basın organları sürekli ekonomik kriz, enflasyon, işsizlik ve açlık haberleri yaparlardı.<br/>günümüzde ise nasıl haberler yaptıkları, nasıl beyin yıkadıkları aşikar. eğer, basın ve tv kanalları, geçmiş haberlerin 10’da 1’i kadar bu durumları yazabilseydi, şu an istanbul seçimlerini değil, yerel seçimler konuşuluyor olurdu. hatta şimdi değil, 2-3 sene önce akp tarih olmuştu, tıpkı anap, dyp gibi.
   entry_channels: ekonomi
 - entry_name: |
+    bir insanla ilişiği kesmek için yeter sebepler
+  entry_id:  90146071
+  entry_writer: dort yanlis bir dogruyu goturur
+  entry_fav_count: 22
+  entry_content: |
+    kullanıldığınızı hissettiğiniz zaman.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    öğretmene hakaret ettiği sanılan yazar açıklaması
+  entry_id:  90166650
+  entry_writer: overeem
+  entry_fav_count: 21
+  entry_content: |
+    entry'i cok merak etmistim, simdi malum entry'i okudum. anladim ki cok efsane bir linc kulturumuz var bizim, abd'nin linc kulturunu twitter uzerinden test ettigi bir denek ulke falan olabiliriz.<br/><br/>tanim: insani bir aciklamadir yazarin yapmaya calistigi lakin linc kulturune dusenler bir daha kaldirilmazlar dostum. sen artik olusun, huzur icinde uyu.
+  entry_channels: ekşi-sözlük,eğitim
+- entry_name: |
     ilk kez öpüşecekler için faydalı bilgiler
   entry_id:  90157792
   entry_writer: x uzeri y nin z ye gore turevi
-  entry_fav_count: 20
+  entry_fav_count: 21
   entry_content: |
     ibo-seda sayan öbüşme videosunu izleyip aynen tatbik edin. bıyık yoksa üst dudağınıza elbise fırçası yapıştırak aynı etkiyi yaratabilirsiniz. unutmayın, insan gibi değil, hayvan gibi.
   entry_channels: anket,ilişkiler
@@ -270,26 +254,34 @@ data:
     motosiklet sürücülerinin iq seviyesi
   entry_id:  90160882
   entry_writer: defoe
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     kebapçı motoru ve kuryeler için geçerli olan hadise. bunun iq ile bağlantısı var ancak bir yere yetişme arzusu daha baskın.<br/>ayrıca motosiklette cc arttıkça eğitim seviyesi ve kalite de artıyor. bunun tek istisnası racing motosiklet kullanan apaçiler.
   entry_channels: 
 - entry_name: |
-    23 haziran'da sp ve vp'den sandik gorevlisi olmak
-  entry_id:  90164912
-  entry_writer: 3lly
-  entry_fav_count: 14
-  entry_content: |
-    sp için sakalları şimdiden bırakmaya başlayın beyler anca uzar. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: siyaset
-- entry_name: |
     mesaj atsam mı atmasam mı tereddüdü
   entry_id:  90152352
   entry_writer: mix minded
-  entry_fav_count: 13
+  entry_fav_count: 18
   entry_content: |
     tam şu anda arada kaldığım ikilem. hayır öyle bir şey ki iki ucu boklu değnek. içim inanılmaz derecede yazmak istiyor, gururu falan boşver diyor. sonra mantığım diyor ki bir erkek bir şeyi isterse onu yapar. demek ki o istemiyor, neden yazıp gururunu kırasın? ama sonra diyorum ki ne kaybedebilirsin zaten konuşmuyorsunuz. sonra diyorum ki bunca zaman o neden yazmadı? sonra diyorum ki’ler böyle ardı ardına gidiyor işte.
   entry_channels: ilişkiler
+- entry_name: |
+    tırnakları pis insan
+  entry_id:  90168082
+  entry_writer: suclu kalem
+  entry_fav_count: 12
+  entry_content: |
+    yıllar evel öğrenciyken, mesleğe ilk başladığımda toplu taşıma kullandığım dönemlerde, insanlara yer verme konusunda ayırt edici kriter olarak gözettiğim durumdu bu.<br/><br/>ne zaman ayakta giden, tırnakları pis, parmakları nasır tutmuş, koca elli emekçi babaları görsem; oturan götümden utanır, o güzel insanların evine ekmek götürme gayretine kayıtsız kalmaz ve koltuğumu kendilerine verirdim. <br/><br/>tırnaklarının içi emek kiriyle dolmuş bir babanın, halk otobüsünde gözleri boşluğa dalmış yorgun bir şekilde giderken kendisine yer verdiğinizde yüzüne oturan gülümseme, bu dünyanın en güzel gülüşlerinden biridir her daim benim için..
+  entry_channels: sağlık
+- entry_name: |
+    köpeği oto çekicinin arkasına bağlayan yaratık
+  entry_id:  90164787
+  entry_writer: ananas avradas
+  entry_fav_count: 11
+  entry_content: |
+    çalıştığı firmanın iş akdini sonlandırdığı söylenen yaratıktır.<br/>umarım doğrudur ve işine son verilmiştir.<br/>nasıl yorulmuş, bacakları kan içinde kalmış yavrumun..<br/>günahsız yavruya bunu yapan insanlara daha beterini yapar.
+  entry_channels: 
 - entry_name: |
     geceye bir şiir bırak
   entry_id:  90136441
@@ -299,21 +291,13 @@ data:
     hepsinin gelmesini bekleme; <br/>bir kişi gelmeyecek.<br/><br/>sen alışmayasın diye,<br/>korkmayasın diye,<br/>düşünesin diye..<br/><br/>kendine yetmen için..<br/>herkesin kendinden kaçacağı yerlerde<br/>sen kaçmayasın diye.<br/><br/>gelenler gitmeyecekmiş gibi..<br/>doğumlarda ölümlerde <br/>duyasın diye.<br/><br/>bildiğini bildirmek için<br/>bilmeme'yi öğrenmelisin.<br/>tam kalasın diye.<br/><br/>hepsinin gelmesini bekleme,<br/>sen var olasın diye.<br/>bir kişi gelmeyecek,<br/>sen, bir olasın diye.<br/><br/>(bkz: <a class="b" href="/?q=%c3%b6zdemir+asaf">özdemir asaf</a>)<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcng%c3%bc">düşüngü</a>)
   entry_channels: edebiyat
 - entry_name: |
-    epic games store
-  entry_id:  90163257
-  entry_writer: geraltofrivia
+    düşün ki o bunu okuyor
+  entry_id:  90137638
+  entry_writer: sen adisin
   entry_fav_count: 8
   entry_content: |
-    <a class="b" href="/?q=bana+bunlarla+gel">bana bunlarla gel</a><br/><br/>hah şöyle yola geleceksin epic efendi.<br/><br/>bu piyasada tutunmak istiyorsan oyuncuyu kazanacaksın oyun yapımcısını değil. <br/><br/>öyle iki üç indie yapımcıyı kafalamak ile olmaz bu işler, pc oyuncusu adama diş geçiremezsin. sen metro exodusu sike sike benden alacaksın dersin adam gider stalker, fallout modlar onu oynar. sana da götünü avuclamak kalır.<br/><br/>bu indirimlere kadar tek kullanıcı dostu hareketi olmayan bir platformdu. başkan yardımcısı ` önemli olan yapımcıları gütmek aga, zaten oyuncular da arkasından gelir` minvalinde açıklama yapıyordu.<br/><br/>akılları başlarına gelmiş heralde. bu yolda devam etsinler. ha ben pc me kurmam ayrı konu, çünkü çinlilerin oyun zevki bana uymuyor ve piyasada tekel olup sikimsonik oyun anlayışlarını batı dünyasına da dikte etmelerine destek olmak istemiyorum. bu benim prensibim.<br/><br/>öte yandan steam in götü başının ayrı oynamaması açısından iyi bir şey epic. her iki taraf da oyuncu dostu olduktan sonra piyasada rekabet olması oyuncunun işine gelir.
-  entry_channels: programlama,oyun,teknoloji
-- entry_name: |
-    hiçbir yazarı engellemeyen yazar
-  entry_id:  90164302
-  entry_writer: gelmis gecmis en buyuk troll zaaaar
-  entry_fav_count: 7
-  entry_content: |
-    siyaset ve futbol gibi, fanatizm ve kutuplaşmanın fazla olduğu başlıkları okumayan, o başlıklara entry girmeyen yazardır.<br/><br/>bunun dışında insanlara hakaret ve küfür etmeden entry girer. hakaret ve küfür içerikli entryleri de görmezden gelir.<br/><br/>hasbel kader küfürlü mesaj alırsa güler geçer. seviyeyi düşürerek küfürlü bir mesajla dönüş yapmaz. en fazla ''şu salyalarını sil dostum :)'' der.<br/><br/>zaten atsa atsa karşı cinse mesaj atar ve karşı cinsten mesaj alır. hemcinslerine nadiren yazar.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: ilişkiler,ekşi-sözlük
+    dünyamı ışıklarla dolduran canım. bana bir defa bile pişmanlık yaşatmadığın için, hiçbir erkeğe benzemediğin için, yanlış yapıp beni utandırmadığın için, beni yanından bir saniye bile ayırmak istemediğin için teşekkür etmiştim. bu entry'yi yazarken bile 3 metre ötemde başını eğmiş çalışıyorsun. her zaman yanımda olduğun için sana teşekkür yetmez. sana bir ömür adayarak bunu göstereceğim. doğduğun güne şükürler olsun. seni tanıdığım güne şükürler olsun. seni seçtiğim güne şükürler olsun. beni seçtiğin güne şükürler olsun. siyah kirpiklerinin her teline şarkılar yazmak istiyorum.
+  entry_channels: ilişkiler,edebiyat
 - entry_name: |
     düz vites araçla dik yokuşta durmak zorunda kalmak
   entry_id:  90165406
@@ -323,53 +307,45 @@ data:
     zevklidir. <br/><br/>dişli çark sisteminin bir çeşit kaldıraç olduğunu ispatladığınız anlardan biridir. silindirlere şimdi size az biraz oksijen vericem ve yavaş yavaş dünyayı kaldırıcaz dersiniz.
   entry_channels: otomotiv
 - entry_name: |
-    tırnakları pis insan
-  entry_id:  90168082
-  entry_writer: suclu kalem
-  entry_fav_count: 6
-  entry_content: |
-    yıllar evel öğrenciyken, mesleğe ilk başladığımda toplu taşıma kullandığım dönemlerde, insanlara yer verme konusunda ayırt edici kriter olarak gözettiğim durumdu bu.<br/><br/>ne zaman ayakta giden, tırnakları pis, parmakları nasır tutmuş, koca elli emekçi babaları görsem; oturan götümden utanır, o güzel insanların evine ekmek götürme gayretine kayıtsız kalmaz ve koltuğumu kendilerine verirdim. <br/><br/>tırnaklarının içi emek kiriyle dolmuş bir babanın, halk otobüsünde gözleri boşluğa dalmış yorgun bir şekilde giderken kendisine yer verdiğinizde yüzüne oturan gülümseme, bu dünyanın en güzel gülüşlerinden biridir her daim benim için..
-  entry_channels: sağlık
-- entry_name: |
-    kadınları etkilemenin yolları
-  entry_id:  90167137
-  entry_writer: adougles
+    nihat özdemir'in tff başkan adayı olması
+  entry_id:  90168529
+  entry_writer: hayatinkakasi
   entry_fav_count: 5
   entry_content: |
-    bir zamanlar bir kadın vardı.<br/>severdik sevilirdik vesselam.<br/>doğum günü ya da sevgililer günü vardı yakın zamanda bende hediye bakıyordum yavaştan.<br/><br/>düşündüm ne yapsam diye.. sürprizli birşeyler yapmak lazım adougles dedim.<br/><br/>arıyorum bakıyorum düşünüyorum.<br/>bir hediye dükkanında ufak iki kare kutulu bir takvim zımbırtısı gördüm 1 liraydı. öyle hoşuma gitti aldım belki veririm diye. tarihini de ilk sevgili olduğumuz güne ayarladım. ama verilmez şimdi bu dedim hediye bakmaya devem ettim. koydum cebe durdu.<br/><br/>sonra gittim güzel bir kutu aldım orta boy. içine viski bardağı sığacak ebatta. tabi viski bardağı hediye etmicem. sonra gidip küpe aldım. ufak kutusu vardı. <br/>eve gidip ufak ufak notlar yazdım kağıda, aramızda güzel olan, anısı olan ne sözcük varsa.. hepsini yazdım yazdım katladım koydum cebime.<br/><br/>buluşmaya çağırdım.<br/>yolda bir gül aldım.<br/>kutunun dibine küpe kutusunu koydum.<br/>içini gül yaprakları ile doldurdum.<br/>notları aralara serptim.<br/>en üstte sadece gül yaprakları vardı.<br/>kutuyu kapattım ve yola çıktım.<br/><br/>buluştuk.<br/>o bana kazak almıştı. teşekkür ettim aldım.<br/>sıra bana geldi.<br/>kutuyu çıkardım koydum masaya önüne doğru.<br/>gülümsedi. açtı..<br/>önce gülleri gördü. tebessüm etti.<br/>tek tek yaprakları kaldırdı ve notlara denk geldi.<br/>sakin sakin tek tek açtı açtı okudu.<br/>mutluydu. <br/>her notta bir daha gülüyordu.<br/>notlar bitti, güller bitti.<br/>en son bir kutu daha..<br/>onu da açtı. <br/>baykuş küpe. <br/>hoşuna gitti teşekkür etti.<br/>"çok güzeldi" dedi.<br/><br/>sonra dedim bak bişey daha aldım da, <br/>öylesine yani onu da vereyim.<br/><br/>o aldığım 1 liralik takvimdeki tarihi gördü, <br/>herşeyden hepsinden çok sevindi.<br/>o kadar uğraşılmış hediyeden daha çok<br/>1 liralik takvime sevindi.<br/><br/>yani belli olmuyor dostlar.<br/>kadınların sağı solu belli olmuyor.
-  entry_channels: anket,ilişkiler
+    (bkz: <a class="b" href="/?q=biri+gidiyor+biri+geliyor">biri gidiyor biri geliyor</a>)
+  entry_channels: 
 - entry_name: |
-    a haber seyredip sabah gazetesi okumak
-  entry_id:  90166978
-  entry_writer: orta saha oynayan iguana
+    game of thrones'taki en seksi karakter
+  entry_id:  90168821
+  entry_writer: vokalipso
   entry_fav_count: 4
   entry_content: |
-    (bkz: <a class="b" href="/?q=beyin+%c3%b6l%c3%bcm%c3%bc">beyin ölümü</a>)
-  entry_channels: siyaset,tv,haber
-- entry_name: |
-    her başarının arkasında düzenli seksin olması
-  entry_id:  90165082
-  entry_writer: cuce felaketi
-  entry_fav_count: 2
-  entry_content: |
-    (bkz: <a class="b" href="/?q=isaac+newton">isaac newton</a>)
-  entry_channels: 
+    <a class="b" href="/?q=margaery+tyrell">margaery tyrell</a> kısa öz laflarına ek üsten bakan yeşil gözleri olsun ince dudaklarina rağmen dikkat çekici gülümsemesi olsun ve süzülen yürüyüşü olsun takdir edilesiydi. o <a class="b" href="/?q=joffrey">joffrey</a> pisligine bile cilve yapabildiği için gerçek bir dişiydi rahmetli.
+  entry_channels: anket,tv
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  90167454
   entry_writer: stoica
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     şanzelize’de dom perignon eşliğinde fransız sevgilimle bir takım sanatsal şeyler üzerine konuşuyoruz. şaka şaka teyzemgilde enişteyle sohbet ediyoruz, dobloyu satacağmış onu anlatıyo
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    köpeği oto çekicinin arkasına bağlayan yaratık
-  entry_id:  90164504
-  entry_writer: untold
-  entry_fav_count: 1
+    her başarının arkasında düzenli seksin olması
+  entry_id:  90165407
+  entry_writer: doominsert
+  entry_fav_count: 2
   entry_content: |
-    (bkz: <a class="b" href="/?q=araban%c4%b1n+arkas%c4%b1na+k%c3%b6pe%c4%9fi+ba%c4%9flayarak+gezen+cani">arabanın arkasına köpeği bağlayarak gezen cani</a>)
-  entry_channels: 
+    katılmıyorum. her başarının ardında no seks yatar.
+  entry_channels: anket,ilişkiler,sağlık
+- entry_name: |
+    a haber'e inanan vatandaş
+  entry_id:  90166852
+  entry_writer: rem1903
+  entry_fav_count: 2
+  entry_content: |
+    bol bol sokak röportajları izlerim. bu kanalda ne haber yapılıyorsa onu tekrar ediyor insanların bir kısmı. ama eklemeyi asla unutmuyorlar, bilmiyorum doğru haber midir ama öyle gördük biz haberlerde diyorlar.<br/><br/>yani bu kanala inanan sanılanın aksine fazla sayıda insan yok, lakin inanmak isteyen insan sayısı çok fazla. bu zaten yeterli bu kanal için, herhangi bir haber içerik iddiaları olduğunu düşünmüyorum, kafa karıştırsın yeter modunda yayınlar yapıyorlar. <br/><br/>tespitim budur.
+  entry_channels: siyaset,tv
 - entry_name: |
     john wick 3 parabellum
   entry_id:  90163603
@@ -379,6 +355,22 @@ data:
     ilk iki fimle ilgili bayağı bayağı dalga geçmiş hatta dalga geçmenin boyutunu abartmıştım. geçen yine bir toplantıda konusu açıldı, ben yine ehahaehah mermisi bitmeyen glock yapmışlar, ehöhehehe her atışı hedefi bulan ajan yapmışlar diye yardırırken, ankara özel harekattan bir amir arkadaş bana tuhaf tuhaf bakıp, yoo ben sevdim, gayet de gerçekçi bir seri, abartı bir şey yok, parabellum'u da çok merak ediyorum dedi......<br/><br/>ben sessizce ortamdan uzaklaştım.
   entry_channels: sinema,spoiler
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  90157623
+  entry_writer: apwbd
+  entry_fav_count: 1
+  entry_content: |
+    günün ilerleyen saatlerine kadar içinde bulunacağım veritabanı ancak benim derdimden anlasa anlasa, 27-38 yaş sınırları içerisinde, 174-185 cm boyları arasında, yakışıklı, beden kitle indeksi 23-27 arasında olan, kel ya da uzun saçlı olmayan, akıllı, kültürlü, hayvansever, üniversite sınavında sayısal türkiye sıralaması en kötü 22.000 olan, türkçeyi düzgün konuşabilen, vizyonu geniş, burçlara inanmayan, korku filmlerini seven, ders çalışma konusunda insanları çok güzel gazlayabilenler anlar. <br/>arkadaşlar, daha ne kadar düşüreyim kriterlerimi, söyler misiniz? :(
+  entry_channels: ilişkiler,ekşi-sözlük
+- entry_name: |
+    yazarların en sevdiği sokak yemeği
+  entry_id:  90160491
+  entry_writer: poslwa
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=midye">midye</a>)<br/>(bkz: <a class="b" href="/?q=kokore%c3%a7">kokoreç</a>)
+  entry_channels: anket,yeme-içme
+- entry_name: |
     ekşi itiraf
   entry_id:  90150387
   entry_writer: nunnajina
@@ -386,6 +378,14 @@ data:
   entry_content: |
     ağzınla kuş tutsan, neden burnunla yapmadın derler.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    a haber seyredip sabah gazetesi okumak
+  entry_id:  90168078
+  entry_writer: sana noluyo len
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yol+yabd%c4%b1">yol yabdı</a>) (bkz: <a class="b" href="/?q=hastanelerde+s%c4%b1ra+yok">hastanelerde sıra yok</a>) (bkz: <a class="b" href="/?q=egonomi+coh+eyi">egonomi coh eyi</a>)
+  entry_channels: siyaset,tv,haber
 - entry_name: |
     2019 eurovision şarkı yarışması
   entry_id:  90157525
@@ -396,7 +396,7 @@ data:
   entry_channels: tv,müzik
 - entry_name: |
     #haddinibilekşisözlük
-    <li data-id="90135100" data-author="ekşisözlük" data-author-id="8275" data-flags="share report vote" data-isfavorite="false" data-ispinned="true" data-favorite-count="366" data-seyler-slug="" data-comment-count="0">
+    <li data-id="90135100" data-author="ekşisözlük" data-author-id="8275" data-flags="share report vote" data-isfavorite="false" data-ispinned="true" data-favorite-count="368" data-seyler-slug="" data-comment-count="0">
     entry_content: |
         bugün açılan ve öğretmenlerimize yönelik kabul edilemez bir ithamda bulunan başlık kapatılmış, söz konusu başlığı açan yazar sözlük'ten uçurulmuştur.<br/><br/>ekşi sözlük, yürüdükleri zorlu ve onurlu yolda her daim öğretmenlerimizin yanındadır. bu tür ithamlarda bulunan söylemlerin ekşi sözlük'te barındırılmasının hiçbir şekilde mümkün olmayacağını paylaşmak isteriz.
   entry_channels: ekşi-sözlük,haber
