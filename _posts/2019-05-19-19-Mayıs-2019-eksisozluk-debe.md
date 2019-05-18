@@ -6,7 +6,7 @@ data:
     mansur yavaş'ın ses kesmesi
   entry_id:  90227598
   entry_writer: runwhileucan
-  entry_fav_count: 2045
+  entry_fav_count: 2114
   entry_content: |
     şahlanan ekonomiye, ülkeye diye başlayıp; gezi direnişiyle teröristlerin darbe girişimini bir tutan bir varlığın; aynı zamanda ülkede yıllardır yapılan ad hominemin sesinin kesilmesi olayıdır. <br/><br/>eline sağlık mansur başkanım. bu millet artık bunların seslerinden bıktı, usandı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/masal_ortusu/status/1129690205399736321?s=08" title="https://mobile.twitter.com/masal_ortusu/status/1129690205399736321?s=08">sesini kesiyorum</a>
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     18 mayıs 2019 burger king darp rezaleti
   entry_id:  90222195
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 631
+  entry_fav_count: 636
   entry_content: |
     lisede bir anımı anlatarak başlayım. adapazarı atatürk lisesi 5 edebiyat sınıfında okuyoruz. sınıfımızda engelli bir arkadaşımız vardı. kantinciden simit ve çay almak istemiş, kantinci de kendisine hakaret etmiş, önce tüm sınıf olarak kantini bastık ama okul yönetimi kantinciyi elimizden aldı. sonra oturup sınıfça ne yapabilirizi konuştuk. sonrasında bir eylem geliştirdik. zil çaldığında hemen sınıfı terk edip, merdivenlerin kantine inen kısmında kolkola girip diğer sınıfların kantine inmesine engel olduk. disiplin cezası aldık, okuldan atılmakla tehdit edildik ama bu eylemi 1 ay sürdürebildik. 1 ay sonunda kantinci köpek oldu, engelli arkadaşımızdan özür diledi, ağladı, sızladı, sevdiğimiz, saygı duyduğumuz hocalarımız devreye girdi, eyleme son verdik.<br/>bir dahaki sene de o kantinci o kantini işletemedi. eyleme son versek dahi kendiliğinden bir tepki oluşmuş, öğrencilerin bir kısmı kantine girmek yerine dışarıdan alışveriş yapmaya başlamıştı.<br/><br/>elbette yasal haklarınız için gerekli başvuruları yapın ama bu olayı tüm fakülteye duyurun, burger king'in önünde gerekirse stand açıp bu durumu anlatan bildiriler dağıtıp, engel olabildiğiniz kadar öğrencinin oradan yemek yemesine engel olun.<br/><br/>sadece cezai yaptırımlar için mücadele etmeyin.<br/>burger king ticari bir müessesedir, ekonomik olarak şah damarını kesmeye çalışın.<br/>emin olun başarırsınız.<br/><br/>mücadele edin. sadece hukukla değil, hukukun içinde kalarak protesto eylemini ffiliyata dökün.
   entry_channels: ilişkiler,haber,yeme-içme
@@ -22,15 +22,15 @@ data:
     iki ayda heykele iki milyon harcayan chp
   entry_id:  90231319
   entry_writer: get on the my floor
-  entry_fav_count: 560
+  entry_fav_count: 592
   entry_content: |
-    kadayıf dolmasına 1.3 milyon kahveye 300 bin harcanmasına sesi çıkmayan gavatlara dert olmuş harcamadır.
+    kadayıf dolmasına 1.3 milyon kahveye 300 bin harcanmasına sesi çıkmayan gavatlara dert olmuş harcamadır.<br/><br/>edit:anama küfredenler bu harcamayı neden eleştirmiyorsun sen de chp trolüsün diyen saydım 158 mesaj almışım. <br/>ankara dediğiniz belediye tek bir ağaca ihale bile yapmadan 40 bin tl vermiş bir belediyeydi. <br/>türkiye cumhuriyetinin başkenti 23 yıldır kurucusunun heykellerini çürümeye terk etmişti. o harcanan para ulus heykeli dahil restorasyon parası 23 yılın bakım parası. <br/>troller saldırmadan önce siktirip gidiniz ve daha geçen sene 8 milyon tl ye ihale edilen peyzaj ihalesinin mansur bey tarafından kaça verildiğine bakınız. <br/><br/>yedikleriniz içtikleriniz burnunuzdan gelsin efendiler. bu mazlumların ahı çıkacak. korkmayın ve unutmayın türkiye cumhuriyeti ilelebet payidar kalacaktır. <br/><br/>bu vesile ile 19 mayıs atatürk’ü anma gençlik ve spor bayramınızı kutlarım. hayırlı ve bereketli ramazanlar dilerim.
   entry_channels: siyaset,haber
 - entry_name: |
     murat boz'un imamoğlu için 100 bin tl bağışlaması
   entry_id:  90223627
   entry_writer: limoncino eksi degil sicilyayi sikim
-  entry_fav_count: 547
+  entry_fav_count: 552
   entry_content: |
     chp'li taklidi yapan tayfanın "düzen döneceği zaman acımayacağız." diyerek korkutmaya çalıştıkları şarkıcı.<br/>zamanında bir hata yapmıştır, şimdi de hatasından dönmüştür. kendisini tebrik ediyor ve diğerlerine örnek olmasını diliyorum. teşekkürler murat boz.<br/><br/>(bkz: <a class="b" href="/?q=aktrollerin+chp%27li+taklidi+yapmas%c4%b1">aktrollerin chp'li taklidi yapması</a>)<br/><br/>gerçekten chp'li olan arkadaşlar bu oyuna gelip aktrollerin maşası olmayın. öfke ve nefret siyasetine alet olmayın. imamoğlu'nun yanında öfke ve nefrete yer yok.
   entry_channels: siyaset,haber,magazin
@@ -38,7 +38,7 @@ data:
     milf seven gençler derneği
   entry_id:  90226716
   entry_writer: west thrace
-  entry_fav_count: 436
+  entry_fav_count: 445
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>anasına bak anasını al<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler
@@ -46,7 +46,7 @@ data:
     17 mayıs 2019 istanbul havaalanı'na uçak inememesi
   entry_id:  90211328
   entry_writer: kacaksevgilim
-  entry_fav_count: 335
+  entry_fav_count: 336
   entry_content: |
     sorun yan rüzgar gibi gözükse de değil aslında, sorun bu devasa meydanın alternatif bir pistinin olmaması.<br/><br/>rüzgar dediğiniz şey vektörel bir büyüklüktür, yani belli yönü vardır, hatta rüzgara karşı iniş ve kalkış hem kokpitin hem de meydanın tercih ettiği bir olaydır.<br/><br/>iyi de rüzgar kafadan veya kuyruktan gelmiyor da yandan geliyorsa ne yapacaksın, iniş veya kalkış yapacağın pisti değiştireceksin, atatürk havalimanında vardı böyle bir pist<br/><br/>bakın; <a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/wLmsNPb">https://ibb.co/wlmsnpb</a><br/><br/>birbirini yaklaşık 50 derece açı ile kesen iki pist var, haliyle rüzgarın yönüne göre aktif pisti belirleyebilirsiniz, rüzgar kuzey-güney yönündeyse iniş ve kalkışları marmara denizine dik olan piste, rüzgar doğu-batı yönündeyse marmara denizine paralel olan piste alırsın, rüzgarın şiddetine ve trafiğe göre en fazla hold yersin havada. rüzgar yönü ne kuzey-güney, ne de doğu-batı değil de ikisinin arasında ise baskın yöne göre pisti belirleyip <a class="b" href="/?q=crosswind+landing">crosswind landing</a> yaptırırsın.<br/><br/>şimdi de istanbul havalimanına bakalım;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/gmvTJ2d">https://ibb.co/gmvtj2d</a><br/><br/>burada pistler kuzey-güney yönüne uzanıyor ve neredeyse birbirine paralel (9 derecelik fark var aralarında).<br/><br/>haliyle rüzgar doğu-batı yönünde eserken, alternatif pist olmadığı için mecburen crosswind yiyorsun, crosswind limitlerin dışındaysa da inemiyorsun, rüzgarın şiddetinin limitlere dahil olmasını bekliyorsun havada döne döne, yakıt kritiğe girince de divert edecek meydan arıyorsun kendine.<br/><br/>inşaat sürecinde 50 kere söylendi bunlar, ama ciddiye alınmadı, sonuç bu. daha kara kışı var bakalım bunun, başımıza bir şey gelmese bari.
   entry_channels: haber,ekonomi,havacılık
@@ -54,7 +54,7 @@ data:
     türkiye'de deaş bir hareketlilik içerisinde
   entry_id:  90221991
   entry_writer: eksi peace
-  entry_fav_count: 286
+  entry_fav_count: 293
   entry_content: |
     görevin bu hareketliliği kontrol altında tutmak değil mi? niye bize dert yanıyorsun sayın soylu?<br/><br/>soylu açıklaması.
   entry_channels: siyaset,haber
@@ -62,7 +62,7 @@ data:
     ilkokulda pipi kontrolü yaptırmış efsanevi nesil
   entry_id:  90212650
   entry_writer: tahir tribbiani
-  entry_fav_count: 268
+  entry_fav_count: 270
   entry_content: |
     bizimki neden kontrol edilmedi arkadaşlar durduk yere tedirgin olduk gece gece? pazartesi en yakın okula gidip ilgililere gösteriyorum.
   entry_channels: sağlık,eğitim
@@ -70,7 +70,7 @@ data:
     18 mayıs 2019 ziya selçuk açıklamaları
   entry_id:  90224585
   entry_writer: koseli cember
-  entry_fav_count: 259
+  entry_fav_count: 261
   entry_content: |
     ziya selçuk'tan sonra gelecek milli eğitim bakanı tarafından değiştirilecek sisteme ait açıklamalar. dolayısıyla içerik çok önemli değil, bakanın ne yaptığı önemli.
   entry_channels: haber,eğitim
@@ -78,7 +78,7 @@ data:
     devran dönünce akp'ye saldıracak akp'liler
   entry_id:  90225924
   entry_writer: serkaninci
-  entry_fav_count: 195
+  entry_fav_count: 198
   entry_content: |
     (bkz: <a class="b" href="/?q=mehmet+barlas">mehmet barlas</a>)<br/>(bkz: <a class="b" href="/?q=rasim+ozan+k%c3%bctahyal%c4%b1">rasim ozan kütahyalı</a>)<br/>(bkz: <a class="b" href="/?q=nagehan+al%c3%a7%c4%b1">nagehan alçı</a>)
   entry_channels: siyaset
@@ -86,26 +86,26 @@ data:
     imamoğlu'nun trabzon milletvekilinden yediği ayar
   entry_id:  90228451
   entry_writer: abihadi
-  entry_fav_count: 192
+  entry_fav_count: 196
   entry_content: |
     ak gençlik çalışıyor. yiyin vergileri atm soyguncuları.
   entry_channels: siyaset
 - entry_name: |
-    breaking bad
-  entry_id:  90211067
-  entry_writer: sexpert
-  entry_fav_count: 176
-  entry_content: |
-    bu diziyi de kötüleyen otursun ejderhalarını izlesin biz bize yeteriz.
-  entry_channels: tv,spoiler
-- entry_name: |
     buzdolabında durdukça güzelleşen şeyler
   entry_id:  90229083
   entry_writer: returning to a nightmare
-  entry_fav_count: 173
+  entry_fav_count: 187
   entry_content: |
     (bkz: <a class="b" href="/?q=zeytinya%c4%9fl%c4%b1+yaprak+sarmas%c4%b1">zeytinyağlı yaprak sarması</a>)<br/><br/>tek geçerim.
   entry_channels: anket,yeme-içme
+- entry_name: |
+    breaking bad
+  entry_id:  90211067
+  entry_writer: sexpert
+  entry_fav_count: 177
+  entry_content: |
+    bu diziyi de kötüleyen otursun ejderhalarını izlesin biz bize yeteriz.
+  entry_channels: tv,spoiler
 - entry_name: |
     istanbul havalimanı rüzgarına alternatif çözüm
   entry_id:  90213575
@@ -115,26 +115,26 @@ data:
     atatürk havalimanı’yla yeni havalimanı arasına bir uçak genişliğinde yol yapalım. uçaklar atatürk havalimanı’na inip taksi yaparak yeni istanbul havalimanı’na gitsin. oraya da inse yarım saat taksi yapıyormuş zaten.<br/>edit:ulan ne kadar dar vizyonluyum ya. ne 1 uçağı. 2 uçak genişliğinde... duble olucak o yol.
   entry_channels: anket,teknoloji,havacılık
 - entry_name: |
-    tl'ye sahip çık
-  entry_id:  90224656
-  entry_writer: wohan
-  entry_fav_count: 160
-  entry_content: |
-    altın ve döviz alarak tl'ye sahip çıkıyorum. başka türlü eriyip gidiyor elimde.
-  entry_channels: haber,ekonomi
-- entry_name: |
     eft dekontuyla arabasını satan adam
   entry_id:  90230338
   entry_writer: beylerbeyi66
-  entry_fav_count: 153
+  entry_fav_count: 162
   entry_content: |
     noter 50 defa sorar. paranı aldın mı?
+  entry_channels: haber
+- entry_name: |
+    rok'un ukrayna'da bira içerken çekilen videosu
+  entry_id:  90233202
+  entry_writer: isteoylesine
+  entry_fav_count: 156
+  entry_content: |
+    ak partili rasim ozan kütahyalı ramazan ayında, ukrayna da bira ile serinlerken.<br/>oruç tutan kendine tutar, içki içen kendine içer eyvallah fakat bu videodaki kişi iyi partili veya chpli olsaydı rasim ozan ne tepki verirdi?<br/><br/>muharrem ince bira içti diye yeri göğü ayağa kaldıran aktroll kardeşlerimi bizzat görmek isterim acaba bu olaya nasıl bir cevap verecekler. bir de tabi ki nagehan neler diyecek onu da merak etmiyor değilim <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/UmitKaraca_/status/1129763837782253570" title="https://twitter.com/UmitKaraca_/status/1129763837782253570">kaynak</a>
   entry_channels: haber
 - entry_name: |
     arda turan galatasaray'a gelsin kampanyası
   entry_id:  90223979
   entry_writer: omer cakir
-  entry_fav_count: 126
+  entry_fav_count: 127
   entry_content: |
     sözde aklı selim gs taraftarının tespiti.<br/><br/>dedesi yaşında adama diklenen ve döven, tehdit eden top tepicinin metin oktay forması ile bir daha iletişimi olmaz. bitti
   entry_channels: spor,anket,ilişkiler
@@ -142,7 +142,7 @@ data:
     aslan marşı
   entry_id:  90227557
   entry_writer: mros
-  entry_fav_count: 123
+  entry_fav_count: 126
   entry_content: |
     oğlum bu ne lan leş gibi marş aq, betül demir yapmış bide mayıslar bizimdir diye şampiyonluk şarkısı o da serdar ortaç şarkısı gibi bir şey olur eminim.<br/><br/>yok mu kardeşim şu kıraç'ın fenere yaptıklarının yarısı kadar iyisini bize yazacak cimbomlu müzisyen<br/><br/>çok çok kötüyüz bu marş konularında, hatta en kötüsü biziz aq
   entry_channels: spor,müzik
@@ -150,10 +150,18 @@ data:
     tayland ve tayvan birleşsin
   entry_id:  90226492
   entry_writer: nuri
-  entry_fav_count: 117
+  entry_fav_count: 122
   entry_content: |
     o zaman avusturya ile avustralya da birleşsin amk.
   entry_channels: 
+- entry_name: |
+    polisin suruç'ta tarım işçilerini taraması
+  entry_id:  90233221
+  entry_writer: ilgeru
+  entry_fav_count: 86
+  entry_content: |
+    yalanını silktiğimin sol haber sitesinin duran araca polislerin ateş ettiğini iddia ettiği olay. ulan resimde bile aracın tekerlekleri patlamış ve araç yolun kenarına sapmış. polis dur diyorsa duracaksın kardeşim ne bileceğiz senin bomba yüklü araç olmadığını ya da teröristleri taşımadığını. sürmeye devam edersen elbette şüpheli konumuna düşeceğin için ateş açarlar. terör bölgesindeysen prosedür böyledir.
+  entry_channels: haber
 - entry_name: |
     17 mayıs 2019 fenerbahçe beko anadolu efes maçı
   entry_id:  90210992
@@ -171,45 +179,37 @@ data:
     -mennan bey’in önüne çıplak karı dergileri koyacaksın.<br/>+mennan’a çıplak karı dergileri...<br/>-bu mithat bey. zampara geçinir. telefonu mithat bey’in yanına çek. müjde ona durmadan başka başka karılar gibi telefon edecek. müjde’ye ben söylerim.<br/>+telefonu mithat bey’e. baş üstüne. başka başka karılar...<br/>-hı hı<br/>+bu latif bey. karıdan ödü patlar. hanımını çağıralım :)<br/>-zevzekliği bırak! latif’in önüne puro koyacaksın. mennan bey gıcık olsun.<br/>+kılıbık latif’e puro... mennan gıcık olacak.<br/>-viski de al.<br/>+viski alacağım.<br/>-bu da şadi bey. çok sofudur. ona meyva suyu. mennan bey’in çıplak dergilerini sakın görmesin.<br/>+şadi’ye meyva suyu. karıları göstertmem.<br/>-masanın üstüne bizim cikletlerden, şekerlemelerden koy. bol eğlence olsun. çay, kahve... konuşmaya fırsat bulamasınlar. koş hadi...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Vxwjia6hxEM" title="https://youtu.be/Vxwjia6hxEM">köşeyi dönen adam toplantı</a><br/><br/>valla bunu bi uygulayın bakalım işe yarıyor mu?
   entry_channels: anket,bilim,yeme-içme
 - entry_name: |
-    rok'un ukrayna'da bira içerken çekilen videosu
-  entry_id:  90233253
-  entry_writer: baydanisko
-  entry_fav_count: 69
-  entry_content: |
-    afiyet olsun panpa.<br/>yalnız bu kesın ukrayna karılarına para yedirmiştir söylim nagiş sen bunu hala boşamıyor musun yoksa?
-  entry_channels: haber
-- entry_name: |
     hamburgeri süper olan mekanlar rehberi
   entry_id:  90221056
   entry_writer: histiocytosis
-  entry_fav_count: 59
+  entry_fav_count: 71
   entry_content: |
     sivas için; öyle bir mekan bulunamadı.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    chernobyl (dizi)
-  entry_id:  90211115
-  entry_writer: cesario
-  entry_fav_count: 54
-  entry_content: |
-    insanı ister istemez türkiye ile kıyaslatan bir dizi. dünya'da gelmiş geçmiş en büyük felaketi anlatmaya ne diziler ne kitaplar yeter orası ayrı. <br/><br/>çernobil hakkında sizi daha çok araştırmaya sevk eden bir yapım. 2 bölüm su gibi aktı. ardından 2015 nobel edebiyat ödülü getiren (bkz: <a class="b" href="/?q=%c3%a7ernobil%27den+sesler">çernobil'den sesler</a>) bir nükleer felaketin sözlü tarihi adlı kitabı da bitirdim. olayın ciddiyetini, bürokrasiyi vs o zaman daha iyi anlıyorsunuz. 1 haftalığına oraya göreve gideceksiniz denilip aylarca orada kalan görevliler, zorla "gönüllü" altında götürülmeleri, halkın bilgilendirilmemesi, olayın üzerinin kapatılmaya çalışılması, insanların göç ettiği yerde dışlanması... arkadaşlar dizide ne kadar değinilir bu konulara bilinmez ama kesinlikle kitabı da okuyun.<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+radyasyon+var+diyenler+dinsizdir">türkiye'de radyasyon var diyenler dinsizdir</a>) diyen bakan ve özal'ın sonradan (bkz: <a class="b" href="/?q=radyoaktif+%c3%a7ay+daha+lezzetli">radyoaktif çay daha lezzetli</a>) açıklamaları acaba bu olay günümüz türkiye'sinde yaşansa neler olur sorusunu insana ister istemez sorduruyor. çernobil kazası sadece ukrayna'ya, rusya'ya değil bütün dünya'ya ders olmalıydı ama bizim gibi milletler ders alamıyor. japonya atom bombası yedi sonradan geldiği nokta ortada. <br/><br/>mersin'e yapılan santralin beton zemininin birkaç kez çatlaması ve santrali ruslar'ın yapması beni ister istemez korkutuyor. <br/><br/>olaydan en çok belarus etkileniyor. topraklarının %23'ü kirleniyor. kaza bir şekilde atlatıldı ama atlatılamasaydı bütün avrupa'nın soyu kırılmış olacaktı belki de, şu an şansa yaşıyoruz resmen.
-  entry_channels: tv
-- entry_name: |
-    polisin suruç'ta tarım işçilerini taraması
-  entry_id:  90233221
-  entry_writer: ilgeru
-  entry_fav_count: 50
-  entry_content: |
-    yalanını silktiğimin sol haber sitesinin duran araca polislerin ateş ettiğini iddia ettiği olay. ulan resimde bile aracın tekerlekleri patlamış ve araç yolun kenarına sapmış. polis dur diyorsa duracaksın kardeşim ne bileceğiz senin bomba yüklü araç olmadığını ya da teröristleri taşımadığını. sürmeye devam edersen elbette şüpheli konumuna düşeceğin için ateş açarlar. terör bölgesindeysen prosedür böyledir.
-  entry_channels: haber
-- entry_name: |
     18 mayıs 2019 trabzonspor beşiktaş maçı
   entry_id:  90217827
   entry_writer: falconvirtue
-  entry_fav_count: 45
+  entry_fav_count: 46
   entry_content: |
     2 gereksiz takımın mücadelesiymis taraftarı da gereksizmiş ama entry girecek ve tahminde bulunacak kadar gerekli bir maç olmuş renkliye.<br/>(bkz: <a class="b" href="/?q=o%c4%9flum+sizi+ne+ile+besliyorlar">oğlum sizi ne ile besliyorlar</a>)
   entry_channels: spor
+- entry_name: |
+    volvo varken mercedes bmw audi almak
+  entry_id:  90228284
+  entry_writer: aliceinwndrlnd
+  entry_fav_count: 43
+  entry_content: |
+    volvo'da calismis bir muhendis olarak diger araclarinin guvenliginin volvo ile yarisamayacagini dusunuyorum. benim calistigim ekip klima kontrol ekibiydi, 20 kisilik ekibin 12 kisisi ön camdaki gorusu engelleyen faktorleri onlemek icin calisiyordu, cunku guvenlik! bir de cozmemiz gereken klima fan sesi sorunu var, kimse 1 sene boyunca probleme el atmadi, habire otelediler. fan sesi cozulmuyor ama on camdaki gorusu onleyen faktorlerin %95 dogruluk ile calisan matematiksel modellerine sahipler.<br/><br/>ote yandan bmw araclarindaki sportif surus hissini, mercedesteki konforu, audideki "paramiz mercedese yetmedi" hissini volvoda bulamazsiniz.
+  entry_channels: anket,otomotiv
+- entry_name: |
+    game of thrones
+  entry_id:  90211553
+  entry_writer: adam olan cocuk
+  entry_fav_count: 42
+  entry_content: |
+    şimdi sevgili arkadaşlar, dünya genelinde diziyi izleyenlerin bu sezon için ortak kanısı; yapımcıların dizinin içine sıçtığı yönünde. bunu gerek yorumlardan, gerek imdb puanlarından, gerek bu sezonun yeniden çekilmesi için başlatılan imza kampanyası vb. gibi durumlardan anlayabiliyoruz.<br/><br/>memnun olmayanlar olduğu gibi memnun olanlar da var. sonuçta bir dizi bu ve insanların düşünceleri/beklentileri farklı olabiliyor elbette. sözlükte de var beğenen arkadaşlarımız. onlara 'neresini bu kadar çok beğendiniz yav' diye çıkışacak halimiz yok. onların da bize 'siz nesini beğenmediniz angutlar' diye saydırmaya hakkı yok. izleyin yorumunuzu yapın geçin.<br/><br/>ama..<br/><br/>yapmayın gözünüzü seveyim. her şey ortada. dizinin yapımcıları böyle savunmuyor olum ne yiyip içiyorsunuz da körü körüne savunuyosunuz bu sezonu allah aşkına? <br/><br/>dizinin oyuncuları bile memnun değil bu sezondan açın izleyin şunu: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=YB4tbZimRC4" title="https://www.youtube.com/watch?v=YB4tbZimRC4">tık</a><br/><br/>özellikle kitabın yazarı g.r.r. martin'in konuşmasına dikkat edin. kısaca diyor ki; eğer bir olay için altyapı hazırladıysanız ve bunu insanlar çözdüğü için ters köşe yapma amacıyla farklı yöne çekerseniz; iyi bok yerseniz.<br/><br/>d.b. weiss ve david benioff denen iki düdük makarnasının yaptığı iş tam olarak bu işte. anasını satayım sezonlar boyu belli başlı karakterleri/olayları ilmek ilmek dokuyup buraya getirmişsiniz. dizi popüler olmuş, milyonlarca izleyicisi ve teoriler var. herhalde birileri tutacak. siz ne halt yemeye olay örgüsünü bozup işleri saçma sapan noktaya getiriyosunuz olum ters köşe yapacaz diye? elinizin altında her türlü imkan var, her türlü sahneyi çekebiliyorsunuz. son bölümde çektiniz zaten. mantıklı bir olay örgüsü içinde yapın bu görkemli çekimleri bitsin gitsin. mutlu musunuz şimdi?<br/><br/>fak of.<br/><br/>şu final bölümü bi yayınlansın asıl o zaman yarıdırıcam durun siz.
+  entry_channels: tv,sanat,edebiyat,spoiler
 - entry_name: |
     cinsel ilişki teklifi alan erkek
   entry_id:  90222031
@@ -219,50 +219,26 @@ data:
     oto saniyeye her gittiğimde alıyorum, ne var ki bunda? ya da ben mi öyle algılıyorum acaba?<br/><br/>bana söylenen:<br/>+ abi bunun çıkması 5 bin!<br/><br/>benim algıladığım:<br/>+ abi seni şurda yatırıp...
   entry_channels: ilişkiler,haber
 - entry_name: |
-    volvo varken mercedes bmw audi almak
-  entry_id:  90228284
-  entry_writer: aliceinwndrlnd
-  entry_fav_count: 41
-  entry_content: |
-    volvo'da calismis bir muhendis olarak diger araclarinin guvenliginin volvo ile yarisamayacagini dusunuyorum. benim calistigim ekip klima kontrol ekibiydi, 20 kisilik ekibin 12 kisisi ön camdaki gorusu engelleyen faktorleri onlemek icin calisiyordu, cunku guvenlik! bir de cozmemiz gereken klima fan sesi sorunu var, kimse 1 sene boyunca probleme el atmadi, habire otelediler. fan sesi cozulmuyor ama on camdaki gorusu onleyen faktorlerin %95 dogruluk ile calisan matematiksel modellerine sahipler.<br/><br/>ote yandan bmw araclarindaki sportif surus hissini, mercedesteki konforu, audideki "paramiz mercedese yetmedi" hissini volvoda bulamazsiniz.
-  entry_channels: anket,otomotiv
-- entry_name: |
-    game of thrones
-  entry_id:  90211553
-  entry_writer: adam olan cocuk
-  entry_fav_count: 40
-  entry_content: |
-    şimdi sevgili arkadaşlar, dünya genelinde diziyi izleyenlerin bu sezon için ortak kanısı; yapımcıların dizinin içine sıçtığı yönünde. bunu gerek yorumlardan, gerek imdb puanlarından, gerek bu sezonun yeniden çekilmesi için başlatılan imza kampanyası vb. gibi durumlardan anlayabiliyoruz.<br/><br/>memnun olmayanlar olduğu gibi memnun olanlar da var. sonuçta bir dizi bu ve insanların düşünceleri/beklentileri farklı olabiliyor elbette. sözlükte de var beğenen arkadaşlarımız. onlara 'neresini bu kadar çok beğendiniz yav' diye çıkışacak halimiz yok. onların da bize 'siz nesini beğenmediniz angutlar' diye saydırmaya hakkı yok. izleyin yorumunuzu yapın geçin.<br/><br/>ama..<br/><br/>yapmayın gözünüzü seveyim. her şey ortada. dizinin yapımcıları böyle savunmuyor olum ne yiyip içiyorsunuz da körü körüne savunuyosunuz bu sezonu allah aşkına? <br/><br/>dizinin oyuncuları bile memnun değil bu sezondan açın izleyin şunu: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=YB4tbZimRC4" title="https://www.youtube.com/watch?v=YB4tbZimRC4">tık</a><br/><br/>özellikle kitabın yazarı g.r.r. martin'in konuşmasına dikkat edin. kısaca diyor ki; eğer bir olay için altyapı hazırladıysanız ve bunu insanlar çözdüğü için ters köşe yapma amacıyla farklı yöne çekerseniz; iyi bok yerseniz.<br/><br/>d.b. weiss ve david benioff denen iki düdük makarnasının yaptığı iş tam olarak bu işte. anasını satayım sezonlar boyu belli başlı karakterleri/olayları ilmek ilmek dokuyup buraya getirmişsiniz. dizi popüler olmuş, milyonlarca izleyicisi ve teoriler var. herhalde birileri tutacak. siz ne halt yemeye olay örgüsünü bozup işleri saçma sapan noktaya getiriyosunuz olum ters köşe yapacaz diye? elinizin altında her türlü imkan var, her türlü sahneyi çekebiliyorsunuz. son bölümde çektiniz zaten. mantıklı bir olay örgüsü içinde yapın bu görkemli çekimleri bitsin gitsin. mutlu musunuz şimdi?<br/><br/>fak of.<br/><br/>şu final bölümü bi yayınlansın asıl o zaman yarıdırıcam durun siz.
-  entry_channels: tv,sanat,edebiyat,spoiler
-- entry_name: |
     türkan saylan
   entry_id:  90213054
   entry_writer: hareketligenclik
-  entry_fav_count: 37
+  entry_fav_count: 40
   entry_content: |
     tam 10 yıl olmuş bugün yaşama veda edeli.<br/>fetö denilen terör örgütünü daha 1999 yılında deşifre eden, bu terör örgütüne savaş açan isimdi. hasta yatağında bedel ödettiler bu nedenle. kendisine yaşatılan haksızlıkların şahidiyiz. o gün haykırıyorduk bugün yine haykırmaya devam ediyoruz. ruhun şad olsun, aydın ve yılmaz türk kadını türkan hocam.
   entry_channels: siyaset,bilim,sağlık,eğitim
 - entry_name: |
-    19 mayıs 2019 galatasaray m.başakşehir maçı
-  entry_id:  90215908
-  entry_writer: m for vendetta
-  entry_fav_count: 34
+    arnold schwarzenegger'e uçan tekme atan eleman
+  entry_id:  90234894
+  entry_writer: papazi dovdurmeyecektik
+  entry_fav_count: 38
   entry_content: |
-    tarihe not düşülsün...<br/><br/>cüneyt çakır denen eyyamcı hakemin, galatasarayı lime lime doğrayacağı maç olacaktır. <br/><br/>beceriksiz iki yönetici, sırf kendi başarısızlıklarını örtmek için ortamı öyle bir gerdiler ki, sanarsın iki takım da uzay futbolu oynuyor ama hakemler bunları katletti.<br/><br/>bunlardan birisi, resmi olarak seçildiği günün üzerinden 24 saat geçmeden kendi tribünlerince istifaya çağrılan fikret orman...<br/><br/>diğeri, vizyon adı altında comolli denen futbol fukarısını da yanına alıp, yüz yıllık camiayı rezil rüsva eden ali koç.<br/><br/>medya, taraftar, sosyal medya bu yapay nefreti körükledikçe körükledi. troll hesaplar olmadık şekilde gündemi şişirdi. aynı adamlar daha 3-5 hafta önce oynanan fenerbahçe galatasaray derbisinde yaşananlar sorulduğunda sus pus oluyor ama televizyon ekranlarından 30 kere izlendiğinde bile kimden çıktığı anlaşılmayan bir taç pozisyonunun peşinden algı kasıyorlar. <br/><br/>hele ali koç... sırf 3 forma fazla satayım, 5 sms fazla gelsin diye hiç kendini alakadar etmeyen bir durumdan pay çıkardı, çıktı akıl almaz yorumlar yaptı. abi önce dön bir kendine bak, takımının haline bak. <br/><br/>beşiktaşlı tinerci tayfa... önce kendine şunu sor;<br/><br/>şenol güneş şampiyonluk maçına o rezil kadroyu nasıl çıkardı?<br/>takım birbirinin aynısı 2 golü nasıl yedi? bu maça nasıl hazırlanıldı ki, bu derece konsantrasyon eksikliği yaşandı? kabul edin, o golleri amatör küme ekipleri bile yemezler.<br/><br/>fenerbahçeli alık tayfa... önce kendine şunu sor;<br/><br/>ya da sorma amk boşver. zaten size giren çıkan bir şey yok. ittire kaktıra kümede kaldınız. bu ayıp size 100 yıl yeter.<br/><br/>maça gelirsek...<br/><br/>cüneyt çakır'a, ali koç'a, fikret orman'a, medyaya, trollere, holigan taraftarlara, sosyal medyaya rağmen... akbilspor a öyle bir koyacağız ki, cümle alem inim inim inleyecek. gücünüz yeter mi sanıyorsunuz? 32 yıldır ne dediysek oldu, yine olacak. kabul edin...<br/><br/>we have fatih terim, they don't.<br/><br/>#kaldırdıkbekliyoruz
-  entry_channels: spor
-- entry_name: |
-    çok sevilip çok özlendiği halde aranmayan insan
-  entry_id:  90230761
-  entry_writer: manasicokderin
-  entry_fav_count: 33
-  entry_content: |
-    bir şekilde kalbinizi kırmış kişidir. arasanız ne olacaktır sanki. bazen sessizligin huzurunda dalgaların üzerinde sallanmak, hüzünlü gözyaşlarını akıtmak gerekir. onu sessizce sakince anmak belki gülümsemek tabi ki hüzünlenmek...
-  entry_channels: ilişkiler
+    güney afrika'da bir festival sırasında gerçekleşmiş saldırıdır. reis <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Schwarzenegger/status/1129768197094346753" title="https://twitter.com/Schwarzenegger/status/1129768197094346753">açıklama</a> yapmış:<br/><br/>"thanks for your concerns, but there is nothing to worry about. ı thought ı was just jostled by the crowd, which happens a lot. ı only realized ı was kicked when ı saw the video like all of you. ı’m just glad the idiot didn’t interrupt my snapchat."<br/><br/>meali: sinek ısırdı sandım amk.
+  entry_channels: sanat,sinema,haber,magazin
 - entry_name: |
     steteskop çalan tıp öğrencisi
   entry_id:  90233697
   entry_writer: cazibe
-  entry_fav_count: 31
+  entry_fav_count: 35
   entry_content: |
     üstteki entrye ithafen giriyorum. tıp öğrencisinin kullandığı stetoskop ile 100 liralık olan bir mı sanıyorsun. bir de iftira atıyorsun. littman kullanıyor tıp öğrencileri. arkadaşımız başka bir marka aldı ve hoca onu azarlar biçimde uyardı. bunlarla dinleme yapmıyoruz dedi. ayrıca ben 500 lirayı bile düşük girmisim şimdi girdim littman yazarak 600 -700 lira tanesi. hayır halden anlamıyorsun bari dalga geçme.
   entry_channels: eğitim
@@ -270,7 +246,7 @@ data:
     altınordu
   entry_id:  90233424
   entry_writer: herospower
-  entry_fav_count: 30
+  entry_fav_count: 34
   entry_content: |
     "küçük düşünürsen asla büyüyemezsin" diyen arkadaşlara mersin idman yurdu'nun süper lige çıkıp kapanmasıyla biten süreci bir okumalarını tavsiye ederim.<br/><br/>bakın geri düşmesi değil, kulüp kapandı lan! <br/><br/>adamların bir vizyonu ve hedefi var ve o yolda devam ediyorlar. bunu süper lige çıkarak gerçekleştireceklerini düşünmüyorlar. bence de sonuna kadar haklılar. süper lige çıkmış, yabancı oyuncu oynatmayan bir takım başarısız olacaktır. bu başarısızlık kulübün gençlerine kötü örnek olacağı gibi hedeflerine ulaşmada zorluk yaratacaktır. <br/><br/>çünkü altınordu, şehrin tümü tarafından bu ideolojide desteklenmiyor. bakın athletic bilbao'ya. adamlar değil yabancı, kendi bölgeleri dışında doğmuş adam oynatmıyor. ama bunu tek başına gerçekleştiremezdi. bunun arkasında duran koca bir şehir, koca bir ideoloji var.<br/><br/>bu takım süper lige çıktığı anda bu başarısı cezasız kalmayacak şekilde aleyhlerine dönecektir, bunu yöneticiler de biliyor. umarım bu zihniyet değişir. ama süper ligimizde konuşulan mevzulara bir dönüp bakın, ondan sonra kurulmuş olan bu biricik sistemi orada harcatmaya gönüllü olur muydunuz, düşünün.
   entry_channels: spor
@@ -278,7 +254,7 @@ data:
     john wick 3 parabellum
   entry_id:  90211838
   entry_writer: koyu cimbomlu
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     got'dan avengers'dan sonra ilaç gibi gelen film.
   entry_channels: sinema,spoiler
@@ -299,22 +275,6 @@ data:
     galatasaray’a dönmesi 3 şartı gerçekleştirirse kabul edilebilir. aşağıya yazıyorum:<br/><br/>1) samimiyetle tüm yanlışlarını kabul edip verdiği rahatsızlıklar sebebi ile tüm türkiye’den özür dileyecek<sup class="ab"><a title="(bkz: bize özel terbiyesizlik yapmadı bu itici)" href="/?q=bize+%c3%b6zel+terbiyesizlik+yapmad%c4%b1+bu+itici" data-query="bize özel terbiyesizlik yapmadı bu itici">*</a></sup>. <br/><br/>2) bir passolig çıkartacak<sup class="ab"><a title="(bkz: bu devletin şartı malesef)" href="/?q=bu+devletin+%c5%9fart%c4%b1+malesef" data-query="bu devletin şartı malesef">*</a></sup>.<br/><br/>3) hangi tribünü istiyorsa oradan kombinesini satın alacak.<br/><br/>tüm bunları gerçekleştirirse o zaman aramıza katılıp takıma bağırarak destek olabilir. hatta kendini kanıtlarsa amigo bile olabilir...
   entry_channels: spor,magazin
 - entry_name: |
-    3 dedenin tekmeli yumruklu kavgası
-  entry_id:  90221397
-  entry_writer: tasaltinda kurba
-  entry_fav_count: 22
-  entry_content: |
-    nine meselesi galiba.
-  entry_channels: 
-- entry_name: |
-    starbucks'ta kahve içerken düzeni eleştiren tip
-  entry_id:  90225248
-  entry_writer: mekanikzombi
-  entry_fav_count: 21
-  entry_content: |
-    starbucks düzeni eleştirilecek en doğru yerdir.<br/><br/>hiçbir şey almadan oturabileceğiniz yada evde yaptığınız sandviçi hiç bir tepki almadan yiyebileceğiniz yane mekan.<br/><br/>düzen gibi uzun soluklu sohbetler için en ekonomik yer.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://onedio.com/haber/begenmeyen-yallah-nargileciye-turkiye-de-statu-simgesi-sayilan-starbucks-in-neden-tercih-edildigini-tek-tek-anlatiyoruz-832889" title="https://onedio.com/haber/begenmeyen-yallah-nargileciye-turkiye-de-statu-simgesi-sayilan-starbucks-in-neden-tercih-edildigini-tek-tek-anlatiyoruz-832889">herkesin anlayacağı şekilde burada anlatılmıştır</a>
-  entry_channels: yeme-içme
-- entry_name: |
     ekşi itiraf
   entry_id:  90214068
   entry_writer: artpainter
@@ -323,13 +283,13 @@ data:
     aynı katta oturduğumuz yeni evli genç bir çift var. benim büyük oğlumla yaşıtlar ve biraz da belki bunun etkisiyle yakınlaştık. halısaha maçlarında birlikte oynarız, yemeği biraz fazla yapar onlara da veririm, aynını onlar yapar v.s. böyle güzel bir komşuluk ilişkimiz oluştu.<br/><br/>bu arada yaklaşık 9 ay süren akciğer kanseri ile olan ahbaplığımız sona erdi ve kendisiyle sessizce vedalaştık. tamamen temizlendiğine dair raporu aldığım günün gecesi kapı çaldı. açtığımda, karanlıkta üzerinde mum olan bir pasta eşliğinde, "yeni hayatında mutluluklar" cümlesiyle beni çok mutlu ettiler. <br/><br/>kolay kolay şaşıran biri değilim ama ne diyeceğimi ilk anda bilemedim. düşünceli insanlar, hele de komşunuzsa iki kez mutlu ediyor insanı. insan biriktirmenin en doğru işlerden biri olduğu, bir kez daha doğrulanmış oldu.
   entry_channels: anket,ilişkiler,ekşi-sözlük,müzik,eğitim
 - entry_name: |
-    arnold schwarzenegger'e uçan tekme atan eleman
-  entry_id:  90234894
-  entry_writer: papazi dovdurmeyecektik
+    bir kadının bağımlılık yapabilecek özellikleri
+  entry_id:  90212061
+  entry_writer: confused bourgeois
   entry_fav_count: 18
   entry_content: |
-    güney afrika'da bir festival sırasında gerçekleşmiş saldırıdır. reis <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Schwarzenegger/status/1129768197094346753" title="https://twitter.com/Schwarzenegger/status/1129768197094346753">açıklama</a> yapmış:<br/><br/>"thanks for your concerns, but there is nothing to worry about. ı thought ı was just jostled by the crowd, which happens a lot. ı only realized ı was kicked when ı saw the video like all of you. ı’m just glad the idiot didn’t interrupt my snapchat."<br/><br/>meali: sinek ısırdı sandım amk.
-  entry_channels: sanat,sinema,haber,magazin
+    sevgisini ifade ediş biçimi. insanın özünde iyi olana yönelme eğiliminde olduğuna inananlardanım. iyi olanın <a class="b" href="/?q=altruizm">altruizm</a>in bir ürünü olarak kendiliğinden ortaya çıkması gerektiğini düşünürüm. yani iyi olanın ne olduğu tartışmasından bağımsız olarak sevginin, ahlaki olarak iyi olana yönelmedeki en doğal yol olduğu kanısındayım. konuyla ilgili olarak <a class="b" href="/?q=g%c3%bcnd%c3%bcz+vassaf">gündüz vassaf</a> <a class="b" href="/?q=cehenneme+%c3%b6vg%c3%bc">cehenneme övgü</a> kitabında şöyle bahseder: <br/><br/>“sevmek bir altruizmdir. buna kucaklamak da denilebilinir. kimseyi aynı sevemeyeceğimiz gibi, sevgi kelimesi herkeste farklı olacağı için kavramsal olarak kucaklamaktır. ancak bir şeyi sevmek, başka bir şeyi sevmeme halini doğurmaz. her şeyi sevebiliriz ve sevdiğimiz her şeyi farklı bir şekilde kendimizce severiz. yani aslında kucaklamaktır. bu karşılıklı da olabilir, olmayadabilir. sevginin konusu bizden dışarıya vurulan bir eğilimdir. bize geri dönüşü önemli değildir.” <br/><br/>bu bağlamda sadece bir kadın özelinde değil genel olarak bir insanı severken de onun kucaklama biçimi benim için değerli bir şeydir. çünkü özgünlük burada ortaya çıkmaktadır. insanlar iyi olana yönelirken işin fayda kısmını düşünmeden yani bahsettiğim özgeciliğin bir ürünü olarak kendiliğinden gelişen bu sevgi halini fark edecek bilinçte olmamalılardır. ki bilinç devreye girdiği an bütün denklem değişir ve gündüz vassaf’ın bahsettiği gibi geri dönüşü önemli olan bir faydacılığa gider ve kötülük ortaya çıkabilir. dolayısıyla bu kendi içinden gelen kucaklama hali farklı biçimlerde insanlardan dışarıya yansıyabilir. bazan bir hayvanı severken veya bazan bir çiçeğe su verirken...
+  entry_channels: anket,ilişkiler
 - entry_name: |
     adana demirspor
   entry_id:  90217656
@@ -339,45 +299,45 @@ data:
     gençlerbirlikli olarak demir'e başarılar.<br/><br/>umarım yeniliriz.<br/><br/>ama denizli de yenilsin<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8o11279458u2" title="https://eksiup.com/p/8o11279458u2">bonus</a> ; ilk yarı oynadığımız pamukspor maçından.<br/><br/>not: adanalı değilim. sadece hayatımda tanıdığım en delikanlı adam <a class="b" href="/?q=demir+gibi+adam">demir gibi adam</a>dı.
   entry_channels: spor
 - entry_name: |
-    yazarların telefonunda kayıtlı ünlüler
-  entry_id:  90228944
-  entry_writer: muchadoaboutnothing
-  entry_fav_count: 10
-  entry_content: |
-    can bonomo var idi. arada whatsapptan çevrimiçi mi diye bakıyordum sadece, hiç yazmışlığım ya da aramışlığım yok. o zaman niye vardı di mi numarası :) ne biliyim ben, seviyorum adamı olması hoşuma gidiyordu. ama ben onu seviyorum diye sapık gibi adama yazıp arayıp onu rahatsız etmeye hakkım yoktu sonuçta. ara ara çevrimiçi olduğunu görüp gülümseyip kapatıyordum :) ben onun bana bir arama düğmesi uzağımda olması fikrini sevdim. peh! çok uzun süredir de bakmıyordum başlığı görünce hemen baktım ki whatsappı uçmuş, yok :( numarasını değiştirmiş olsa gerek. canomom o benim, üzüldüm ya çok.
-  entry_channels: anket,tv,sanat,müzik,magazin
-- entry_name: |
-    ergin ataman
-  entry_id:  90219701
-  entry_writer: abukan
-  entry_fav_count: 10
-  entry_content: |
-    tarih şubat 2015<br/><br/>ergin ataman : yönetim galatasaray basketboluna değer vermiyor . bana da ezeli rakibimizin bütçesini versinler her sene final four yapardım <br/><br/>yaptı
-  entry_channels: spor
-- entry_name: |
     binali yıldırım'a size yakışmadı diyebilmek
   entry_id:  90234399
   entry_writer: istanbulunsokaklari
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     binali yıldırım kendi başına karar verecek profilde olmadığını zaten başbakanlığa atandığından beri biliyoruz.
   entry_channels: siyaset
 - entry_name: |
-    saçmalıyorsun demenin en ince yolu
-  entry_id:  90221949
-  entry_writer: demesi kolay tabii
-  entry_fav_count: 8
+    kanunlar örf ve adetlerin üzerinde olamaz
+  entry_id:  90234237
+  entry_writer: eeuummm
+  entry_fav_count: 10
   entry_content: |
-    diplomasinin ağası ingilizler çözümü bulmuş: (bkz: <a class="b" href="/?q=interesting">interesting</a>)<br/><br/>bir ingiliz interesting diyorsa, o <a class="b" href="/?q=wtf">wtf</a>'tır. benim gibi oyuna gelmeyin; büyük resmi görün.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    klasik siyasal islam sıçmıgı. daha onemli akp li insanın davasi ne sorunsali var henüz onu çözemedik.
+  entry_channels: siyaset,haber
 - entry_name: |
-    evlenilecek kadın burcu
-  entry_id:  90213141
-  entry_writer: fatih leon
+    90lı yıllardan gelmesini istediğin birşey
+  entry_id:  90218115
+  entry_writer: eemmhmt
+  entry_fav_count: 9
+  entry_content: |
+    o efsane şarkılar. mahallede yapılan maçlar, atari oyunları, sabahın erken saatin de çizgi film izlemek ve daha sayamayacağım kadar çok şey var fakat bunlar gelse bile biz büyüdük be artık. en azından şimdi ki çocuklar da görsem ben yapmış kadar mutlu olurum.
+  entry_channels: anket
+- entry_name: |
+    öldürülen böceğin kaybolması
+  entry_id:  90235229
+  entry_writer: ice age
   entry_fav_count: 7
   entry_content: |
-    kova burcu dışında hepsi.
-  entry_channels: anket,ilişkiler
+    (bkz: <a class="b" href="/?q=ceset+yoksa+cinayet+de+yoktur">ceset yoksa cinayet de yoktur</a>)
+  entry_channels: bilim
+- entry_name: |
+    araba alacak olanlara tavsiyeler
+  entry_id:  90224596
+  entry_writer: beeyore
+  entry_fav_count: 5
+  entry_content: |
+    alacaginiz sinifin en optimum modelini alin. <br/><br/>marka olarak da en iyi f/p secenekler sunan markaya yonelin. devir prestij degil nakitte kalma devridir.<br/><br/>reno, ford, mazda gibi markalara yonelip uzun vadeli alin. kriz ortaminda en azindan 4-5 sene sorunsuz kullanacaginiz bir sey alin.<br/><br/>aylik garanti geliriniz 20bin tl ustu degilse 150bin tl uzeri araclara yonelmemeye calisin (akp ekonomik krizi gecene kadar)<br/><br/>en onemlisi ise bu dahil hicbir tavsiyeyi dinlemeyin. ozellikle eksisozlukte araba tavsiyesi verenlerin cogunun kaykayi bile yok. bakma mercedes bmw vs atip tuttuklarina.
+  entry_channels: anket,otomotiv,seyahat
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  90214145
@@ -387,13 +347,29 @@ data:
     var mı canı sıkılan hatun yazan açların olduğu veritabanı. fuck buddy başlığı sol frame'e gelmiyor herhalde ki, buraya dadanmış delik çoraplılar. önce gidin de karnınızı doyurun. iki şişe birayı zor alıyorsunuz kendinize. siz güzel karakterli, yakışıklı olsanız zaten buralara kalmazsınız. yazık kimlerin çocuklarıysa. yazık kimlerin dertleştikleriyse.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    kanunlar örf ve adetlerin üzerinde olamaz
-  entry_id:  90234237
-  entry_writer: eeuummm
+    yazarların telefonunda kayıtlı ünlüler
+  entry_id:  90228033
+  entry_writer: halitkin
   entry_fav_count: 3
   entry_content: |
-    klasik siyasal islam sıçmıgı. daha onemli akp li insanın davasi ne sorunsali var henüz onu çözemedik.
-  entry_channels: haber
+    döviz kuru bu kadar yükselmeseydi 1800 euro'yu gözden çıkararak <a class="b" href="/?q=manowar">manowar</a> üyelerinin kişisel numarası rehberimi süsleyebilirdi ancak bu kurla çok zor.<br/><br/>numara pastanın çileği tabi 1800 euro'nun içinde imzalı elektro gitar, grup üyeleriyle tanışma gibi bir çok ekstra var. <a rel="nofollow noopener" class="url" target="_blank" href="http://www.thekingdomofsteel.eu/ufe-upgrade-istanbul-turkey-july-20-2019/" title="http://www.thekingdomofsteel.eu/ufe-upgrade-istanbul-turkey-july-20-2019/">detaylar şurada</a><br/><br/>"iyi ama benim ingilizcem yok adamlarla telefonda ne konuşacağım?" diyorsanız dert etmeyin, <a class="b" href="/?q=joey+demaio">joey demaio</a> çatır çatır <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8ejvL7wj0bU" title="https://www.youtube.com/watch?v=8ejvL7wj0bU">türkçe konuşabiliyor</a><sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>.
+  entry_channels: anket,tv,sanat,müzik,magazin
+- entry_name: |
+    bekçiye öğretmenden fazla maaş vermek
+  entry_id:  90221450
+  entry_writer: zargonyali
+  entry_fav_count: 3
+  entry_content: |
+    bir maaşın düşüklüğünü başka bir maaşla ölçmek kadar büyük saçmalık yok. <br/>"<a class="b" href="/?q=bek%c3%a7ilik">bekçilik</a> " denilen saçmalığın varlığını tartışmamız gerekirken burada maaşını tartışıyoruz. paranın değerini iyice kaybetmesini tartışmamız gerekirken maaşımız düşük diye dert yanıyoruz.<br/><br/>üretimin olmazsa o maaşın hiç yetmeyecek güzel kardeşim. yazın yediğin domatesin tohumunun gramı altınla yarışırken ve senin ülkende <a class="b" href="/?q=yerli+tohum+yasa%c4%9f%c4%b1">yerli tohum yasağı</a><sup class="ab"><a title="(bkz: yerli tohumun yasaklanması)" href="/?q=yerli+tohumun+yasaklanmas%c4%b1" data-query="yerli tohumun yasaklanması">*</a></sup> varken sen kıçını yırtsan da sana 15000 de verseler bir boka yaramayacak. paran bir boka yaramıyor artık.<br/>(bkz: <a class="b" href="/?q=venezuela">venezuela</a>)
+  entry_channels: anket,eğitim,ekonomi
+- entry_name: |
+    şenol güneş
+  entry_id:  90235986
+  entry_writer: yumuklusucurta1
+  entry_fav_count: 2
+  entry_content: |
+    yarrağımın başının efsanesi.haindir her zaman hain bir futbol cahili olarak anılacaktır.
+  entry_channels: spor
 - entry_name: |
     ilginç isimler
   entry_id:  90212821
@@ -402,4 +378,28 @@ data:
   entry_content: |
     <a class="b" href="/?q=ido">ido</a>
   entry_channels: anket,magazin
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  90226224
+  entry_writer: dreamfactory
+  entry_fav_count: 1
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/hwsufz9C4A8" title="http://youtu.be/hwsufz9C4A8">parov stelar - the princess</a>
+  entry_channels: anket,müzik,edebiyat
+- entry_name: |
+    akp'nin iyi yaptığı işler
+  entry_id:  90215382
+  entry_writer: bozdogan
+  entry_fav_count: 1
+  entry_content: |
+    vakti zamanındaki imar kanununa göre nizami olarak yapılmış evimin ruhsatı, yenileme tarihini geçirdiğim için iptal olmuştu.<br/><br/>yeni imar kanununa uymayan yan cekme mesafesi nedeniyle ruhsatı yenileyemiyordum.<br/><br/>imar affı ile sorunum nihayet çözüldü.<br/><br/>oldum olası ak parti karşıtıyım ve "bozuk saat bile günde iki kez doğruyu gösterir dedikleri buymuş diye düşünmeye başlamıştım taaaki karadeniz yaylalarının içler acısı halini görene kadar. böyle bir rant şerefsizliği, talancı orospu çocukluğu olamaz. keşke benim gibi affa ihtiyacı olanların evleri başlarına yıkılsaydı da karadeniz'in eşsiz doğasının ırzına geçemeseydi amk çomarları kahpe karı evlatları.<br/><br/>demem o ki bu haramilerin yaptığı iyi birşey yoktur.
+  entry_channels: siyaset,anket
+- entry_name: |
+    spotify
+  entry_id:  90223213
+  entry_writer: arcturus
+  entry_fav_count: 0
+  entry_content: |
+    şimdiki müzik önerileri ilk kullanmaya başladığım zamanlardaki önerilerinin yanından bile geçemeyen uygulama. kendim uğraşmasam aylardır adam gibi şarkı bulamıyorum.
+  entry_channels: müzik,teknoloji,haber
 ---
