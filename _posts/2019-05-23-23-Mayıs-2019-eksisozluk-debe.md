@@ -6,39 +6,23 @@ data:
     tevfik göksu'nun ibbden 1.3 milyar tl ihale alması
   entry_id:  90375505
   entry_writer: steam
-  entry_fav_count: 2602
+  entry_fav_count: 2611
   entry_content: |
     üst edit: bu yazı sonrası sözlük yönetimi tarafından 21 haziran'a kadar <a class="b" href="/?q=lanetli">lanetli</a> olup <a class="b" href="/?q=%c3%a7aylak">çaylak</a> yapıldığımı öğrendim. sözlükte 10 yıllık yazarım birisi bana sebebini açıklayabilir mi? anlaşılan birilerine dokunan yanıyor. <br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck+yazar%c4%b1+steam%27in+%c3%a7aylak+yap%c4%b1lmas%c4%b1">sözlük yazarı steam'in çaylak yapılması</a>)<br/><br/><a class="b" href="/?q=mehmet+tevfik+g%c3%b6ksu">mehmet tevfik göksu</a>’nun abisi <a class="b" href="/?q=mahmut+g%c3%b6ksu">mahmut göksu</a>nun yönetiminde olduğu <a class="b" href="/?q=yeni+d%c3%bcnya+vakf%c4%b1">yeni dünya vakfı</a>nın ibbden ve esenler belediyesinden toplamda 1.3 milyar tl (eski para ile <a class="b" href="/?q=1.3+katrilyon">1.3 katrilyon</a> tl )ihale aldığını gazeteci <a class="b" href="/?q=murat+a%c4%9f%c4%b1rel">murat ağırel</a>in ortaya çıkarması olayıdır. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/hesap-buyuk-olay-buyuk-52003yy.htm" title="https://www.yenicaggazetesi.com.tr/hesap-buyuk-olay-buyuk-52003yy.htm">bahsi geçen yazı</a> <br/><br/>anlaşılan o ki <a class="b" href="/?q=mehmet+tevfik+g%c3%b6ksu">mehmet tevfik göksu</a> istanbul büyükşehir belediye başkanı seçilen <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a>na <a class="b" href="/?q=pontus">pontus</a> benzetmesi yaparken akrabalarının ve bu vakıflar aracılığıyla paraları iç etmelerinin sonunun geldiğini bilerek ve izansızca boş yere saldırmıyormuş. <br/><br/>vakfın yönetiminde kimler yok ki: <br/>esenler belediye başkanının abisi <a class="b" href="/?q=mahmut+g%c3%b6ksu">mahmut göksu</a>.<br/>eski aile ve sosyal politikalar bakanı ve cumhurbaşkanı başdanışmanı <a class="b" href="/?q=ay%c5%9fen+g%c3%bcrcan">ayşen gürcan</a>.<br/>iş adamı <a class="b" href="/?q=gazi+akmercan">gazi akmercan</a>, <br/>ahmet davutoğlu'nun danışmanı genar'ın sahibi <a class="b" href="/?q=mustafa+%c5%9fen">mustafa şen</a>.<br/>eski keçiören belediye başkanı danışmanı <a class="b" href="/?q=ali+tok%c3%b6z">ali toköz</a>.<br/>thy da görevli <a class="b" href="/?q=h%c3%bcseyin+sa%c4%9flam">hüseyin sağlam</a> <br/>akp eski mv. sağlık bakanı danışmanı <a class="b" href="/?q=ahmet+baha+%c3%b6%c4%9f%c3%bctken">ahmet baha öğütken</a>.<br/>gümüşhane belediye başkanı <a class="b" href="/?q=ercan+%c3%a7imen">ercan çimen</a>.<br/>gaziosmanpaşa belediye başkanı <a class="b" href="/?q=hasan+tahsin+usta">hasan tahsin usta</a>.<br/>bağcılar belediye başkanı <a class="b" href="/?q=lokman+%c3%a7a%c4%9f%c4%b1r%c4%b1c%c4%b1">lokman çağırıcı</a>, <br/>eski fatih belediye başkanı ve akp mv. <a class="b" href="/?q=mustafa+demir">mustafa demir</a>.<br/>liste çok uzun… <br/><br/>bunlar milletin malını, mülkünü çeşitli vakıflar aracılığıyla kendi şirketlerine aktararak yeme peşindeler. <br/><br/>ekrem imamoğlunun da dediği gibi: adama, kişilere, gruplara, cemaatlere ,vakıflara, derneklere hizmet işi bitti. bundan sonra istanbullulara hizmet dönemi başlayacak.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OMDIMiNjqQQ">https://www.youtube.com/watch?v=omdiminjqqq</a><br/><br/>ne olur ne olmaz yazıya bir şey olursa diye yazının tamamı<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>katıldığı bir iftar programında konuşma yapan esenler belediye başkanı tevfik göksu, istanbul büyükşehir belediye başkanı seçilen daha sonra da ysk'nın tartışmalı kararı ile mazbatası elinden alınan ekrem imamoğlu'na tepki gösterdi.<br/>imamoğlu'nun kazanmasına "en çok yunan medyasının sevindiğini" ifade eden göksu daha sonra imamoğlu'nun nereli olduğunu iftar programına katılan vatandaşlara sordu. vatandaşlardan "trabzon" cevabını alan göksu "e hesap başka" dedi.<br/>tabii buradaki amacı hepimiz biliyoruz. sadece biz değil tüm trabzonlular biliyor.<br/>hafta sonu panel için trabzon beşikdüzü'ne gittim. orada da tepki devam ediyordu. mahkeme kararı ile videonun yayınlanması yasaklandı. barış yarkadaş'ın sosyal medyada paylaştığına göre videoyu yasaklayan hakim avukatlıktan hakimliğe geçen eski akp edremit ilçe başkanıymış.<br/>benim üzerinde duracağım konu ise başka.<br/>mehmet tevfik göksu ile ilgili araştırma yaparken "kalyon holding genel müdürü", "iski genel müdür yard.", "bakan danışmanı", "azerbaycan'a transfer" gibi sıfatlar ile karşılaştım. hem belediye başkanı hem bu görevleri nasıl yapıyor diye kafam karıştı ve kendisini aradım. aynı isimde kuzeninin olduğunu bu görevlerde de bulunduğunu öğrendim.<br/>esenler belediye başkan'ı mehmet tevfik göksu'nun abisinin başkanı olduğu bir vakıf var.<br/>adı: yeni dünya vakfı.<br/>vakfın başkanı ve mütevelli heyetinde yer alan kişi, esenler belediye başkanı tevfik göksu'nun abisi mahmut göksu.<br/>yönetim, mütevelli heyeti ve istişare heyetinde hayli ilginç isimler mevcut. birçok akp'li isim yer alıyor.<br/>esenler belediye başkanının abisi mahmut göksu.<br/>eski aile ve sosyal politikalar bakanı ve cumhurbaşkanı başdanışmanı ayşen gürcan.<br/>iş adamı gazi akmercan, ahmet davutoğlu'nun danışmanı genar'ın sahibi mustafa şen.<br/>eski keçiören belediye başkanı danışmanı ali toköz.<br/>thy da görevli hüseyin sağlam akp eski mv. sağlık bakanı danışmanı ahmet baha öğütken.<br/>gümüşhane belediye başkanı ercan çimen.<br/>gaziosmanpaşa belediye başkanı hasan tahsin usta.<br/>bağcılar belediye başkanı lokman çağırıcı, eski fatih belediye başkanı ve akp mv. mustafa demir.<br/>liste çok uzun…<br/>fetö mensuplarının eyüpsultan'daki buluşma noktası olarak bilinen otel ve restoran olarak kullanılan halit paşa konağı 15 temmuz sonrası yıkıldı. yerine de ibb, şadırvan ve tuvalet yaptı.<br/>bu binanın karşısında bulunan ek bina ise ohal kapsamında maliye hazinesine devredildi. binanın dışındaki ahşap kaplamalar söküldü. yeni dünya vakfı da arazinin sosyal kültürel tesis olarak kullanılması için başvuru yaptı. plan değişikliği yapıldı yüksekliği arttırıldı. plan değişiklikleri akp oyları ile geçti. ek bina ve arazisi yeni dünya vakfına tahsis edildi.<br/>yeni dünya vakfı'nın yönetiminde bulunan kişilerin ve birinci derece akrabalarının iş ilişkileri de çok dikkat çekiyor.<br/>mesela mütevelli heyetinde bulunan sağlık bakanı eski yardımcısı ahmet baha öğütken. ablası fatma mehvibe özgün.<br/>öğütken'in 2015 yılında sağlık bakan yardımcısı olarak atanması sonrası ilginçtir abla fatma mehvibe özgün, avrasya bağımsız denetim ve yeminli mali müşavirlik a.ş. adlı firma ile istanbul büyükşehir belediye başkanlığı sağlık istanbul başta olmak üzere ihaleler almaya başlamış.<br/>(2016/2881-2017/28903-2018/33417 ihale numarası ile) sağlık istanbul'dan…<br/>(2016/10508 -2016/570453-2018/30859) ve 2018/680547 ihale numarası ile) istanbul halk ekmek'ten…<br/>(2019/40525 ihale kayıt no ile de) isper'den toplamda 989 bin tl'lik "mali denetim ve tam tasdik hizmet alım işi" adlı ihaleleri almış.<br/>daha önce almamış mı peki?<br/>almış tabii ki ancak kardeşi bakan yardımcısı olmadan önce 2013-2016 tarihleri arasında şahıs şirketi ile ihale almış. isbak, beltur, iston ve otobüs a.ş'den almış ihaleleri toplamı da 974 bin 500 tl!<br/>yönetimde bulunanların ilginç bağlantıları bitti mi? hayır tabi.<br/>mesela bir örnek daha;<br/>gazi akmercan; akmercan turizm taşımacılık'ın sahibi. önce acaba esenler belediyesi'nden ihale almış mı diye merak edip baktım.<br/>evet almış.<br/>(2011/109793, 2011/178537, 2012/135505, 2014/88189, 2017/336966) ihale numaraları ile toplamda 52.8 milyon tl ihale almış.<br/>tabi bu kadar işi esenler belediye başkanı mehmet tevfik göksu'ya sordum. "evet doğru hem temizlik işleri yapan büyük bir firma. benim dönemimde de öncesinde de işler aldı almıştır. büyük bir firma normaldir" dedi.<br/>peki, sadece ihaleleri esenler belediyesi'nden mi almış? hayır tabi ki.<br/>akmercan adlı firma, istanbul büyükşehir belediyesine bağlı iski'den 5 ihale almış ve toplam tutarı 14.7 milyon tl.<br/>tüm türkiye'deki başta istanbul ilçe belediyeleri olmak üzere tüm kurumlardan 2010-2019 tarihleri arasında aldığı 120 ihalenin toplamı ise 1.3 milyar tl. yani eski para ile 1 katrilyon 361 trilyon…<br/>akmercan adına kayıtlı olanlar sadece bu.<br/>mesela yine aynı aileye ait olan s.g.s.turizm taşımacılık ltd. şti var. sahibi cemal akmercan. gazi akmercan'ın sahibi olduğu akmercan turizm ile marmara ünv. taşıma ihalelerini birlikte almışlar. işin ilginç tarafı yine aynı vakıf yönetiminde bulunan sağlık bakan yard. ahmet baha öğütken'in ablası fatma mehvibe özgün bu firmanı mali müşaviri!<br/>bu kadar araştırmadan sonra diyorum ki ne vakıfmış ama!<br/>anlayacağınız türkiye'de akp'li siyasilerin tüm maddi kaynakları vakıflar üzerinden ihale alarak sağlanıyor. millete ve seçilmiş belediye başkanı ekrem imamoğlu'na hakaret etseler de onlar için bu feryat figanın nedeni, seçimi kaybetmeleri halinde ibb'den alamayacakları ihalelerdir aslında.<br/>yani bal tutan parmağını yalıyor.<br/>vakıflar ihaleler için kimlik onaylama yeri olmaya devam ediyor.<br/>yazık güzel ülkeme…<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    cnn greece hesabının ekrem imamoğlu tweeti
-  entry_id:  90381296
-  entry_writer: ben de dahi olan de
-  entry_fav_count: 827
-  entry_content: |
-    bu yunanlıların güzel olan her şeye "bizim" muhabbeti yapmasına çok gülüyorum.<br/><br/>tamam rakı sizin olsun, baklava da... ama insanımıza sahip çıkmak nedir ülen. <br/><br/>gidin az ötede oynayın komşi.
-  entry_channels: siyaset,haber
-- entry_name: |
     bir nişan tahtının 13 bin tl olması
   entry_id:  90389201
   entry_writer: bir coolunu cok sevdim
-  entry_fav_count: 827
+  entry_fav_count: 846
   entry_content: |
     arkadaşına söyle derhal nişanı atsın dedirten olay. daha bunun kınası var, düğünü var, baby showerı var.
   entry_channels: ilişkiler,ekonomi
 - entry_name: |
-    karadeniz'de tespit edilen aşırı yüksek radyasyon
-  entry_id:  90381212
-  entry_writer: sorg
-  entry_fav_count: 774
-  entry_content: |
-    üst edit: ordu valiliği harekete geçip açıklama yapmış: <br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.ordu.gov.tr/basin-duyurusu-2019-57">http://www.ordu.gov.tr/basin-duyurusu-2019-57</a><br/><br/>az önce bir yazar arkadaş mesaj atıp şu bilgiyi iletti: ' merhaba az önce taek'in 4448235 nolu telefonunu aradım ve orada görevli bir mühendisle görüştüm. kendisinin söylediği şeyleri yazıyorum.<br/><br/>''bu istasyonlar elektrik direkleri, devlet dairelerinin dış cepheleri gibi yerlerde konuşlandırılır ve ölçümledikleri değerleri telefon ya da elektrik hatları ile bilgisayarlara gönderirler. bilgisayara gelen bu veriler el değmeden avrupa komisyonunun radioactivity environmental monitoring sistemine gönderilir. ordu'da gözlenen bu anormal artış anlık olarak voltaj dalgalanması gibi teknik bir hata sonucu olmuş olabilir. eğer ki ordu'da radyasyon serpintisi ya da sızıntısı olasydı çevre istasyonlardan da birbirine yakın veriler gözlemlenmeliydi. ayrıca radyasyon seviyeleri anlık olarak değil belli bir düzende artıp maksimum değerine ulaştıkan sonra belli bir düzende azalması gerekirdi.'' <br/><br/>bu yazıyı paylaşırsan sevinirim. endişe edilecek bir durum söz konusu değil, özellikle o bölgede yaşayan ya da ailesi akrabası olanlar için önemli. son olarak daha fazla bilgi almak isteyenler 4448235'i arayıp bilgi alabilirler. mühendis bey gayet düzgün bir şekilde konu hakkında bilgilendiriyor.'<br/><br/>yetkililerin harekete geçip açıklama yapması, vatandaşların bilinçli olup uzmanlarla bizzat iletişim kurması umut veren gelişmeler, demek ki vatandaş kendini zehirletmeyecek artık bundan sonra. <br/><br/>.................<br/><br/>bilgi mesajları üzerine edit: işin uzmanı arkadaşlar mesaj atıp bilgilendirdi, bu dozlar msv olsa çernobil patladığı gunlerdeki pripyat ile kıyaslanabilir ancak nsv olarak çok düşük kalıyor ve kanser yapacak tehlikeli doz değilmiş. <br/><br/>yanlış bilgi vermiş oldum ama yine de böyle aşırı sıçramalar olmaması gerekiyor, ölçümler hatalı ise cihazların bakımı yapılsın. tehlike arz eden bir doz değilse bile araştırılması gerekiyor çünkü anormal, nükleer atık kaçakçılığı falan mı var, sonuçta ikitelli nükleer atık vakası ve inşaatta cihazdan düşen radyoaktif maddeyi cebine atıp her yeri radyasyon yanığı olunca %80 engelli durumuna düşen genç vakası gibi cehaletin tavan yaptığı berbat olaylar yaşanan bir ülke sözkonusu. radyasyon ihmal edilecek bir konu değil, bu kadar bariz oynamalar varsa dozu tehlike yaratacak seviyede olmasa bile araştırılması gerekir. <br/><br/>belki ben fazla evhamlı davranıyorum ama devletin yıllarca bizi yalanlarla uyutup zehirlenmesinden ve nükleer atıkların hurdacılara satılması gibi olaylardan sonra gel de evham yapma.<br/><br/>---------<br/>edit 2: orijinal bilgiyi bana aktaran arkadaş <a class="b" href="/?q=coolisababaniz">coolisababaniz</a> bu durum anlık değil sık sık oluyor dedi. takip edelim, başka illerde de oluyor mu ve ne kadar sıklıkla.hangi dozlarda. gizlice nükleer atık taşıyıp depolama, başka ülkeden alınan nükleer atıkların karadeniz rotasından geçmesi gibi durumlar gayet mümkün. belki atık getirip ordu'ya gömüyorlar ve kamyondan konteyneri indirip açınca cihaz tarafından bu şekilde tespit edilen sıçramalar oluyor? belki rus gemisi gizlice karadeniz'e nükleer atık boca ediyor ve atık varili denizin dibine inene kadar cihazlar dışarı sızan az miktar ışımayı böyle algılıyor? öyle olmadığının garantisini versin yetkililer o zaman.<br/><br/>kozmik tesadüf ise niye ikide bir bu sıçramalar oluyor. bunun arkasında halktan gizli nükleer atık gömme gibi pis bir şey olmadığını nereden bilelim? sonuna kadar takip edelim ama panik yapmadan. içimizi rahatlatacak sağlam delliller almadan peşini bırakmamalıyız. <br/><br/>-------<br/>avrupa birliği'ne ait çevre radyasyonu gözlem sistemi haritalarında şu an görülmekte olan, nükleer kaza olmuş gibi korkunç derecede yüksek gamma radyasyonu. bildiğimiz gibi gamma ışıması en ölümcül, en tehlikeli radyasyon türüdür.<br/><br/>şu an yeni güncellenmiş haritada görülebilir: <a rel="nofollow noopener" class="url" target="_blank" href="https://remap.jrc.ec.europa.eu/GammaDoseRates.aspx">https://remap.jrc.ec.europa.eu/gammadoserates.aspx</a><br/><br/>bu da ekran görüntüsü: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/p714246twmvz">https://eksiup.com/p/p714246twmvz</a><br/><br/>normalde olması gereken doğal arkaplan radyasonu 50-150 nsv/h iken burada 32.000, 66.000 nsv/h gibi neredeyse çernobil reaktörünün patladığı gün pripyat'taki gibi halk sağlığı için tehlike arzedecek seviyede radyasyon çıkıyor. kaynak avrupa birliği'ne ait uluslararası gözlem sistemi, katılımcı ülkelerden sürekli veri akışı ile bu harita otomatik olarak güncelleniyor. belli ki türkiye de katılımcı olmuş ve ülkenin her yerindeki radyadyon ölçümü istasyonlarından veri yolluyor. <br/><br/><a class="b" href="/?q=coolisababaniz">coolisababaniz</a> isimli yazar arkadaşın aktardığına göre karadeniz bölgesinde samsun-trabzon civarında sık sık böyle tehlikeli radyasyon seviyesi görülüyormuş. gidin o bas bas bağıran hücreye tıklayın, ölçüm istasyonunun tespit ettiği radyasyon seviyesini görün. benim şu an gördüğüm rakam ortalama 32.000 nsv/h (yuh!)<br/><br/>bu radyasyonun kaynağı nedir diye soralım o zaman, madem türkiye böyle bir sisteme katılımcı olmuş, bunu gözleyen eden bilim insanları yok mu? neden halka bor bilgilendirilme yapılmıyor? çernobil patlamasından 30 yıl sonra patlama yeni olmuş ve radyoaktif serpinti daha dün yağmış gibi rakamlar ne iştir? bu gamma ışıması nereden gelmektedir, buraya neden yetkililer gidip ölçüm yapmıyor? neden halk uyarılmıyor? karadeniz 'de neredesye her hanede kanser varken bu vurdumduymazlık nedir ya?<br/><br/>arkadaşlar sosyal medyada gürültü koparalım ve açıklama talep edelim. orada radyasyon ölçen cihazlarda arıza oldu falan diye yalan atabilirler, bu işin peşini sonuna kadar bırakmamak lazım.<br/><br/>edit: istasyon linklerine tıklayıp baktım, radyasyonun şu an tespit edildiği yer ordu ili ve cok büyük sıçramalar şeklinde görülüyor: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ju14265crfnd">https://eksiup.com/p/ju14265crfnd</a><br/><br/>21 mayıs'ta öğleden sonra 12-6 arasında 90.000 nsv/h çıkmış (oha!) ordu'da nükleer silah testi falan mi yapılıyor nedir bu kardeşim? böyle devam ederse orada herkes kanserden kırılıp gider yahu. bu işin üstüne gidelim millet. <a class="b" href="/?q=funda+esen%c3%a7">funda esenç</a> denen terbiyesizi linç ettiginiz enerjinin onda birini şunu gündem yapmaya harcasanız yeter. sosyal medyada yayabildiğimiz kadar yayıp ab yetkililerinden falan da yardım istememiz lazım -malum bizim yetkililere zerre kadar güvenilmez, hele de akp tiranlığı altında. akp vekili daha dün çıkıp karadeniz'de çernobil kanseri falan yok dedi. yabancı kurumlardan yardım isteyelim adam yollayıp ölçüm yapsınlar tespit etsinler.<br/><br/>edit: mesajla bilgilendiren vatandaş bu olayın sık sık görüldüğünü söylüyor, arıza varsa bunu kaç gündür gören eden yok mu, arızalı cihazı neden devreden çıkarıp tamire yollamıyorlar o zaman?
-  entry_channels: bilim,teknoloji,sağlık,haber
-- entry_name: |
     binali yıldırım'ı eleştirenlerin cv'leri
   entry_id:  90386369
   entry_writer: benburayaciplakgeldim
-  entry_fav_count: 559
+  entry_fav_count: 572
   entry_content: |
     itü mezunu mühendis ama yazı yazmayı bilmiyor.
   entry_channels: siyaset
@@ -46,31 +30,31 @@ data:
     21 mayıs 2019 türkiye geneli uyku alamama problemi
   entry_id:  90379265
   entry_writer: 34bjk1903
-  entry_fav_count: 521
+  entry_fav_count: 526
   entry_content: |
     hiçbir şey olmasa bile kesin bir şey oldu...
   entry_channels: anket,sağlık
 - entry_name: |
-    erdoğan'a göre gençlerin 5.200 lira maaş alması
-  entry_id:  90392003
-  entry_writer: akolitik
-  entry_fav_count: 429
-  entry_content: |
-    suriyeli gençlerin askerlik yapmadığını biri erdoğan'a hatırlatabilir mi? gençleri karıştırdı sanırım.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     ak partili ablamızın rte'ye sorduğu mükemmel soru
   entry_id:  90396971
   entry_writer: sirgodin
-  entry_fav_count: 386
+  entry_fav_count: 479
   entry_content: |
     daha yararlı bir bilgi sunayım.<br/><br/>dll'lerin kullanımı, kodun birimlere ayrışımına, yeniden kullanılmasına, etkili bellek kullanımına ve disk alanı kullanımını azaltmaya yardımcı olur. bu nedenle, işletim sistemini ve programları daha hızlı yüklenir, daha hızlı çalışmasını ve daha az disk alanı bilgisayarda gerçekleştirir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://support.microsoft.com/tr-tr/help/815065/what-is-a-dll" title="https://support.microsoft.com/tr-tr/help/815065/what-is-a-dll">dll dosyası nedir, ne işe yarar</a><br/><br/>(bkz: <a class="b" href="/?q=dll+not+found">dll not found</a>)<br/>edit: bkz
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
+    erdoğan'a göre gençlerin 5.200 lira maaş alması
+  entry_id:  90392003
+  entry_writer: akolitik
+  entry_fav_count: 439
+  entry_content: |
+    suriyeli gençlerin askerlik yapmadığını biri erdoğan'a hatırlatabilir mi? gençleri karıştırdı sanırım.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     22 mayıs 2019 ysk gerekçeli kararı
   entry_id:  90397744
   entry_writer: sea19
-  entry_fav_count: 328
+  entry_fav_count: 414
   entry_content: |
     şerh düşen üyeler, "iptali gerektirecek tek bir kanıt yok" diye yazmışlar.<br/>yani meşru seçim gasp edildi. sorsan aynı gemideyiz. ulan değil sizinle aynı gemide olmak aynı gezegende yaşamak bile utanç verici.<br/>hırsız herifler!
   entry_channels: siyaset,haber
@@ -78,7 +62,7 @@ data:
     emre belözoğlu'nun fenerbahçe'ye transferi
   entry_id:  90393426
   entry_writer: yo bitch whatsup
-  entry_fav_count: 323
+  entry_fav_count: 334
   entry_content: |
     defansa edu, lugano, carlos; ileri de kezman gelsin. semih şentürk yedek.
   entry_channels: spor
@@ -86,23 +70,15 @@ data:
     22 mayıs 2019 tunceli belediyesi dersim kararı
   entry_id:  90387723
   entry_writer: 50promil
-  entry_fav_count: 317
+  entry_fav_count: 328
   entry_content: |
     bizim " komi " lerde sike sürülecek aklın olmadığını göstermiştir. lan gerzek. türkiye de bir örneksin, senin gibi adamların artmasını istiyor insanlar. herkesin gözü üzerinde. düzgün işler yapıp insanları özendireceğine amcık boncuk işlerle uğraşıyorsun. millet kıllanıyor oğlum işte,yapmayın şu bokları.
   entry_channels: siyaset,haber
 - entry_name: |
-    sahibinden.com'daki satılık ada ilanı
-  entry_id:  90391559
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 309
-  entry_content: |
-    aramizda para toplayip alalim aq.<br/><br/>ayri bi cumhuriyet kurariz. sartlari yerine getirirsek ab'ye bile gireririz lan.. para birimimizi de avro yaptik mi ondan sonra kim siker yalova kaymakamini.<br/><br/>caylaklari da aliriz yanımıza.. getir gotur islerinde calistiririz balik falan tutarlar.
-  entry_channels: ekonomi,seyahat
-- entry_name: |
     bir fuckbuddy'de olması gereken özellikler
   entry_id:  90368647
   entry_writer: stevedore
-  entry_fav_count: 278
+  entry_fav_count: 281
   entry_content: |
     kadın olanı için:<br/>zevkle sevişiyor olması,<br/>kalçalarının güzel olması,<br/>sağlıklı olması,<br/>kalçalarının güzel olması,<br/>hijyenik olması,<br/>kalçalarının güzel olması,<br/>en az karşı taraf kadar tutkulu olması,<br/>kalçalarının güzel olması,<br/>boy - kilo orantısının normal seviyede olması,<br/>kalçalarının güzel olması.<br/><br/>son olarak kalçalarının güzel olması.
   entry_channels: anket,ilişkiler
@@ -118,7 +94,7 @@ data:
     sinema salonları 10 yıl içinde kapanacak
   entry_id:  90390000
   entry_writer: kuduzdoktorhektor
-  entry_fav_count: 239
+  entry_fav_count: 240
   entry_content: |
     zaten uzun süredir tartışılan bir konuyu ilk defa kendisinin düşündüğünü sanan birinin açtığı başlık.
   entry_channels: sinema
@@ -126,7 +102,7 @@ data:
     sevişelim mi demenin gizli yolları
   entry_id:  90377282
   entry_writer: moonsteer
-  entry_fav_count: 225
+  entry_fav_count: 229
   entry_content: |
     mazbatani vereyim mi bu gece?
   entry_channels: anket,ilişkiler
@@ -142,7 +118,7 @@ data:
     sigaranın orucu bozması
   entry_id:  90381959
   entry_writer: papazi dovdurmeyecektik
-  entry_fav_count: 207
+  entry_fav_count: 208
   entry_content: |
     değerli âlim muhammed b. salih el-useymîn koklanan bir gazın mideye gittiğini düşünüyorsa o kadar da değerli bir alim olmayabilir.<br/><br/>edit: yahu ağızdan burundan giren gazlar bir şekilde mideye gidebilir diye mesaj atmayalım. e heralde gidebilir, bunu bilmek için alim olmaya gerek yok. hatta bir gazı doğrudan yutabilirsin de. ama biz burada "koklamak" diyoruz "yutmak" demiyoruz. koklamak yalnız ve yalnızca sinirsel bir aktivitedir. koklanan şeyin sonradan yutulması ayrı bir konudur. ona bakarsak havada gözle görülen gazlar da bir şekilde mideye gidebilir, gidemez mi? o zaman "görmek de orucu bozar" dememiz lazım. velhasıl değerli âlim muhammed b. salih el-useymîn sadece tütsülerin değil bütün gazların partiküllerden oluştuğunu bilmediği için böyle saçmalamış. onun dediğini baz alırsak teknik olarak gerçek bir oruç tutabilmenin tek yolu gaz maskesiyle oruç tutmaktır.
   entry_channels: sağlık,yeme-içme
@@ -150,49 +126,33 @@ data:
     ece erken
   entry_id:  90393525
   entry_writer: imperialis
-  entry_fav_count: 189
+  entry_fav_count: 202
   entry_content: |
     su gibi hatun. eskiden daha güzeldi. çocukken sabah programlarını izler bir köşede usul usul sıvazlardık. çok şey bilmeye ya da zeki olmaya ihtiyacı yok. zeka çirkinlere has bir özelliktir. istiyorsunuz ki hem güzel olsun hem de zeki. oldu aq ejderhası da olsun mu?
   entry_channels: tv,magazin
 - entry_name: |
-    kuzey kutbundan dev borularla soğuk hava çekmek
-  entry_id:  90389784
-  entry_writer: beyler derebeyi
-  entry_fav_count: 186
-  entry_content: |
-    borular yüksek yalıtımlı ve yer altında olacak. tıpkı doğalgaz dağıtır gibi soğuk hava dağıtıyoruz evlere. her yer serin serin, her yer püfür püfür esiyor olacak.<br/><br/>bir de çöllerden sıcak hava çekme projem var ama onu sonra yazayım. takatim kalmadı şu an.
-  entry_channels: bilim,teknoloji
-- entry_name: |
     tsk'ya er olarak giren generalliğe yükselebilecek
   entry_id:  90379425
   entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 179
+  entry_fav_count: 181
   entry_content: |
     yandaş mısınız?<br/><br/>general mi olmak istiyorsunuz?<br/><br/>amaa askeri okul bitirmediniz mi? hatta sizi almadılar mı? <br/><br/>hiç problem değil artık akp hükümeti sayesinde her yandaş general olabiliyor.<br/><br/>bu fırsatı kaçırmamak için yapmanız gereken tek şey ilçe teşkilatımıza üye olmak.
   entry_channels: siyaset,haber
 - entry_name: |
-    chernobyl (dizi)
-  entry_id:  90369274
-  entry_writer: megabyte
-  entry_fav_count: 90
+    fatih terim'in orhan ak'a yumruk atma anı
+  entry_id:  90395348
+  entry_writer: an mani
+  entry_fav_count: 91
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>- ev kadar büyük, saatte 20 litre benzin yakan, bir ton gürültü ve duman çıkaran, elmayı da üçe bölen şey nedir?<br/>- elmayı dörde bölsün diye yapılan sovyet makinesi!<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: tv
+    fatih terim'in dhalsim oldugunu ogrendigimiz goruntulerdir efendim.<br/><br/>3 metre var lan arada allahsizlar.
+  entry_channels: spor
 - entry_name: |
     beşiktaş 2019-2020 sezonu teknik direktörü
   entry_id:  90393152
   entry_writer: firebird
-  entry_fav_count: 81
+  entry_fav_count: 82
   entry_content: |
     dinamitleri bilen bir avcı ile şampiyonluk kesin <a class="b" href="/?q=swh">swh</a>
-  entry_channels: spor
-- entry_name: |
-    fatih terim'in orhan ak'a yumruk atma anı
-  entry_id:  90395348
-  entry_writer: an mani
-  entry_fav_count: 79
-  entry_content: |
-    fatih terim'in dhalsim oldugunu ogrendigimiz goruntulerdir efendim.<br/><br/>3 metre var lan arada allahsizlar.
   entry_channels: spor
 - entry_name: |
     tişört kot giyip sıfır makyajla gezen kadın
@@ -206,7 +166,7 @@ data:
     2019 ekonomik krizi
   entry_id:  90372938
   entry_writer: reisul ekber
-  entry_fav_count: 63
+  entry_fav_count: 74
   entry_content: |
     öğrenci mahallesinden bildiriyorum, bütün cafeler dolu. sigara içmeyen nerdeyse yok. milk shake fotosunu instagrama atmadan kalkmıyorlar masadan. <br/>komik olan, bir çoğunun harçlığı 500 liralık kykdan ibaret. aç geziyorlar amk. <br/><br/>ülke şu veya bu sebepten zor zamanlar geçiriyor, yarını göreceğimizin garantisi yok.<br/><br/>ama nargile içip okey oynayabilmek için aç kalan denyolar var. <br/><br/>kurtarıcı bekliyorsunuz ya, 30 yaş üstü tayfa. beklemeyin boşuna. bizde durum bu, sizin durumu da entrylerden görüyoruz az çok.
   entry_channels: siyaset,haber,ekonomi
@@ -214,26 +174,50 @@ data:
     arm'ın huawei cihazları banlaması
   entry_id:  90389551
   entry_writer: benaskeregidecem
-  entry_fav_count: 57
+  entry_fav_count: 71
   entry_content: |
     teknoloji üretmenin, üretileni alıp ucuza montajlamaktan ne kadar daha değerli olduğunu gösteren karar.
   entry_channels: teknoloji,haber
 - entry_name: |
-    cuckold
-  entry_id:  90373964
-  entry_writer: stavrogin
-  entry_fav_count: 51
+    aspiratör ışığının verdiği huzur
+  entry_id:  90374751
+  entry_writer: zattiri zottiri
+  entry_fav_count: 65
   entry_content: |
-    (bkz: <a class="b" href="/?q=cuckold+erke%c4%9fi+gavat+diyerek+a%c5%9fa%c4%9f%c4%b1lamak">cuckold erkeği gavat diyerek aşağılamak</a>) <br/><br/>ya ben bu tip başlıklarda gavat, godoş minvalinde küfür eden tiplere çok gülüyorum ya. gerçekten aşağıladıklarını da düşünüyorlar da adam zaten cuckoldsa bu tip kelimeleri duymaktan rahatsız olmayı geçtim yüksek ihtimalle hoşlanıyor bile olabilir. adamın zaten cinsel fantezisi bu ve siz bu kelimeyi söyleyerek adamı doğru yola getireceksiniz öyle mi? hayır, ahlakçıların niye insanları hizaya getirmek istedikleri ayrı mesele de en azından cuckold bir erkeğe gavat ya da godoş diyerek aşağıladığını düşünmek çok acayip bir oksimoronluk bana kalırsa.
-  entry_channels: ilişkiler
+    bir diğeri de apartman arası serinliğidir.ikisi de huzur verir.
+  entry_channels: 
 - entry_name: |
     düğün işi elli binden ucuz olmayacak diyen kadın
   entry_id:  90396878
   entry_writer: cukutassanadenk
-  entry_fav_count: 49
+  entry_fav_count: 53
   entry_content: |
     bir ömür bekar kalması, evde kuruması, turşusunun kurulması gereken kadındır.<br/><br/>ben böyle örfü adeti sikeyim ya, ilk kim çıkarmış bu amına koyduğumun düğün merasimlerini.
   entry_channels: ilişkiler
+- entry_name: |
+    cuckold
+  entry_id:  90373964
+  entry_writer: stavrogin
+  entry_fav_count: 53
+  entry_content: |
+    (bkz: <a class="b" href="/?q=cuckold+erke%c4%9fi+gavat+diyerek+a%c5%9fa%c4%9f%c4%b1lamak">cuckold erkeği gavat diyerek aşağılamak</a>) <br/><br/>ya ben bu tip başlıklarda gavat, godoş minvalinde küfür eden tiplere çok gülüyorum ya. gerçekten aşağıladıklarını da düşünüyorlar da adam zaten cuckoldsa bu tip kelimeleri duymaktan rahatsız olmayı geçtim yüksek ihtimalle hoşlanıyor bile olabilir. adamın zaten cinsel fantezisi bu ve siz bu kelimeyi söyleyerek adamı doğru yola getireceksiniz öyle mi? hayır, ahlakçıların niye insanları hizaya getirmek istedikleri ayrı mesele de en azından cuckold bir erkeğe gavat ya da godoş diyerek aşağıladığını düşünmek çok acayip bir oksimoronluk bana kalırsa.
+  entry_channels: ilişkiler
+- entry_name: |
+    evde vücut geliştirmek
+  entry_id:  90374108
+  entry_writer: plustic
+  entry_fav_count: 49
+  entry_content: |
+    mümkündür. <br/>4-5 aydır her gün 200 şınav, 200 mekik, 30 barfiks çekiyorum, afedersiniz taş gibiyim, packs, adonis, omuz, kol var. beyaz tişört hiç bu kadar güzel olmamıştı. 20 ile başladım, 200'e kadar çıktım, protein tozu da almıyorum. ciğer, pirzola, paça çorbası filan yetiyor. her akşam da 4-5 bira içiyorumdur, zerre etkisi yok. <br/>tek ihtiyacınız kendi ağırlığınız ve bir adet slayer albümü.<br/><br/>edit: mesajlara yetişemiyorum, toplu yanıt maiyetinde olsun;<br/>şınav set; 40 x 5, mekik set: 50 x 4, barfiks set: 15 x 2 şeklinde yapıyorum. <br/>çok fazla foto isteyen oluyor: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/3y14689j9n2y" title="https://eksiup.com/p/3y14689j9n2y">1</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/s6146925mtcj" title="https://eksiup.com/p/s6146925mtcj">2</a>
+  entry_channels: spor,sağlık
+- entry_name: |
+    sophie turner
+  entry_id:  90393235
+  entry_writer: limoncino eksi degil sicilyayi sikim
+  entry_fav_count: 42
+  entry_content: |
+    dünkü bok, kendini oyuncu sanması dünyanın en komik fıkrasıdır. <br/>patates filesi bile bundan daha iyi oyuncudur.
+  entry_channels: tv,sinema
 - entry_name: |
     birlikte içki içmek istenen got karakteri
   entry_id:  90377224
@@ -243,34 +227,18 @@ data:
     cersei lannister tabi ki..<br/>bi kere queen, guzel ve seksi. kari icince kardesiyle yatiyor benimle mi yatmayacak. gecenin sonu kesinlikle sekse baglanir.<br/><br/>siz de gidin cuceyle icin aq
   entry_channels: anket,sinema,spoiler
 - entry_name: |
-    evde vücut geliştirmek
-  entry_id:  90374108
-  entry_writer: plustic
-  entry_fav_count: 35
-  entry_content: |
-    mümkündür. <br/>4-5 aydır her gün 200 şınav, 200 mekik, 30 barfiks çekiyorum, afedersiniz taş gibiyim, packs, adonis, omuz, kol var. beyaz tişört hiç bu kadar güzel olmamıştı. 20 ile başladım, 200'e kadar çıktım, protein tozu da almıyorum. ciğer, pirzola, paça çorbası filan yetiyor. her akşam da 4-5 bira içiyorumdur, zerre etkisi yok. <br/>tek ihtiyacınız kendi ağırlığınız ve bir adet slayer albümü.
-  entry_channels: spor,sağlık
-- entry_name: |
-    sophie turner
-  entry_id:  90393235
-  entry_writer: limoncino eksi degil sicilyayi sikim
-  entry_fav_count: 26
-  entry_content: |
-    dünkü bok, kendini oyuncu sanması dünyanın en komik fıkrasıdır. <br/>patates filesi bile bundan daha iyi oyuncudur.
-  entry_channels: tv,sinema
-- entry_name: |
     efendi erkeğin önünde sonunda kazanacak olması
-  entry_id:  90394870
-  entry_writer: either or
-  entry_fav_count: 20
+  entry_id:  90395406
+  entry_writer: oguzbatur
+  entry_fav_count: 24
   entry_content: |
-    son ne zaman ? onu da söyler misiniz ? fazla vaktimiz kalmamış olabilir çünkü.<br/><br/>t: pek inanmadığım bir iddia.
+    iki eliyle bir siki doğrultamayan kekoların kendine efensi demesi... <br/><br/>ne kazanacaksınız oğlum? hadi o kız döndü dolaştı sana geldi diyelim. sana gelen kız ne olacak? kucaktan kucağa gezmiş, duvardan duvara vurulmuş, doggyde saçları çekilip kalçaları tokatlanmış, saksoda gırtlağına zorlanmış bir kaşardan fazlası değil.. <br/><br/>sen de bu kız sana gelince kazanmış olacaksın öyle mi? beynini sikeyim ben senin güzel kardeşim
   entry_channels: ilişkiler
 - entry_name: |
     kızdan cep telefonu numarası isteme yöntemleri
   entry_id:  90395808
   entry_writer: professor james moriarty
-  entry_fav_count: 15
+  entry_fav_count: 20
   entry_content: |
     beğendiğiniz kızın yanına gitmeden önce çevreden birini vurun, sonra ambulansı aramam lazım adam kan kaybediyor diye telefonunu isteyin, telefonunu size verince asfaltın üstünde denizde taş sektirir gibi sektirin, sektirme sayısı 3 ise kız sizindir. kızı aldıktan sonrasını da biz anlatmayalım.<br/><br/>edit: adamı nasıl vuralım soruları geliyor, karadenizliyseniz tabanca ile değilseniz sopayla vurun.
   entry_channels: anket,ilişkiler
@@ -278,15 +246,47 @@ data:
     sözlük yazarlarının rumuzlarının hikayeleri
   entry_id:  90384049
   entry_writer: sagayadukusu
-  entry_fav_count: 14
+  entry_fav_count: 18
   entry_content: |
     kızımın 2-3 yaşlarındayken kültablası için uydurduğu isimdir "sagaya dukusu". sigara paketi değil yani küllük, kültablası.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
+    108 sandıkta sayım döküm cetvelinin bulunmaması
+  entry_id:  90399155
+  entry_writer: tanru canu ala
+  entry_fav_count: 17
+  entry_content: |
+    itirazında ise asıl önemli olanın sandık tutanağı olduğu, bu tutanaklarda ak partili ve mhp'li üyelerin de ıslak imzası yer aldığı , bunun yeterli olduğu ifadesine rağmen seçim iptal edilmiştir.<br/><br/>ek olarak söz konusu sandıklardaki imzasız döküm cetvelleri ile ıslak imzalı tutanaklar arasında bir uyumsuzluk olmadığı da belietilmiştir.<br/>yazacaksanız tam yazın, ayıptır.
+  entry_channels: siyaset
+- entry_name: |
+    emine erdoğan'ın abd'li iş adamlarını kabulü
+  entry_id:  90399222
+  entry_writer: nickachu
+  entry_fav_count: 16
+  entry_content: |
+    (bkz: <a class="b" href="/?q=dolar+g%c3%bcn%c3%bc">dolar günü</a>)<br/><br/>first lady’mizin iş adamları ile altın veya dolar günü yapması olayıdır gerçekse.<br/><br/>haftaya kısır ve sarma benden.
+  entry_channels: 
+- entry_name: |
+    aldatmak için en geçerli sebep
+  entry_id:  90394657
+  entry_writer: issox
+  entry_fav_count: 16
+  entry_content: |
+    kendinize bahane üretip, o yalana sarılmayın karakterini siktiklerim.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    bmw'nin mercedes'e attığı gol
+  entry_id:  90389053
+  entry_writer: zamazingonun tam ortasi amazing
+  entry_fav_count: 12
+  entry_content: |
+    dieter zetche'nin kendisinin değil bir benzerinin rol aldığı reklamdır elbette. yahu siz kraliçe elizabet'li reklamlarda da kraliçenin bizzat oynadığını filan mı zannediyorsunuz... kendisi oynasaydı şu anda mercedes'in kendisine açtığı astronomik tazminat davasını konuşuyor olurduk.
+  entry_channels: otomotiv,motosiklet
+- entry_name: |
     22 mayıs 2019 ysk'nın gerekçeli kararı açıklaması
   entry_id:  90398084
   entry_writer: xevna zaroka
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     red oyu kullanan hakimlerden biri "kararı kamuoyuna açıklayamazsak hukuk yara alır." demiş.<br/><br/>çok naif bir ifade. yara almaktan korkan norveç hukuku'na baksın. burda sikiş var, sikiş.
   entry_channels: siyaset,haber
@@ -294,18 +294,26 @@ data:
     emre belözoğlu
   entry_id:  90393808
   entry_writer: baytarafli
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     kral son bir galatasaray şampiyonluğu daha görmek istiyor belli ki.
   entry_channels: spor
 - entry_name: |
-    emine erdoğan'ın abd'li iş adamlarını kabulü
-  entry_id:  90399222
-  entry_writer: nickachu
-  entry_fav_count: 8
+    ekşi itiraf
+  entry_id:  90369824
+  entry_writer: dr griffin
+  entry_fav_count: 9
   entry_content: |
-    (bkz: <a class="b" href="/?q=dolar+g%c3%bcn%c3%bc">dolar günü</a>)<br/><br/>first lady’mizin iş adamları ile altın veya dolar günü yapması olayıdır gerçekse.<br/><br/>haftaya kısır ve sarma benden.
-  entry_channels: 
+    işyerimizin arka tarafında, yardımcı personelimizin temizleyip döşediği, içinde mis kokulu çiçekler yetiştirdiği şirin bir konteyner var. ramazanın tenhalığını fırsat bilip öğlen arasında kestirmek ya da biraz kafa dinlemek için iş arkadaşımla arada dönüşümlü olarak kullanıyoruz. bugün personelimiz temiz yastık, çarşaf koyduğunu söyleyince, öğlen arasında şöyle bir uzanıp kitap okuyayım dedim orada. uyuyakalmışım... uyandığımda ne göreyim; yakıcı olmayan, iç ısıtan mayıs güneşi, yanıbaşımdaki pencerenin çiçek desenli tüllerini delip odaya tatlı tatlı sızmış, renkli saksılardaki çeşit çeşit bitkileri uyandırmış, canlandırmış, yatağın kenarını aydınlatmış... hüzmeler son olarak duvarda biçimsiz şekiller oluşturup etrafa dağılarak yolculuğuna son vermiş. bi an kendimi klasik bir film sahnesinde gibi hissettim, hani her şeyin yolunda olduğu, herkesin mutlu olduğu bir filmin sahnesi. ve bu hissi de en son 2014'ün ekim ayında yaşamıştım.<br/><br/>biliyorum ki dünyada bugünkü o huzuru hissettirebilecek, o anı aynı duygularla yaşatabilecek çok az şey var.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,magazin
+- entry_name: |
+    754 sandık başkanının kamu görevlisi olmaması
+  entry_id:  90399795
+  entry_writer: limon kimyon zorro
+  entry_fav_count: 7
+  entry_content: |
+    kamu görevlileri yerinde kimler varmış. chpkkhdpdll.exe mi varmış. daha önceki seçimlerde de olduğu gibi memur yoksa çağırılan banka çalışanları senin benim gibi insanlar varmış. bu nasıl iptal gerekçesi müdür. siz bizimle alenen taşak geçiyorsunuz ama taşağın kralını yakında görceksiniz. artık beni bile çileden çıkardınız.
+  entry_channels: siyaset
 - entry_name: |
     eski sevgilisinin mutlu olmasını isteyen insan
   entry_id:  90392395
@@ -315,21 +323,13 @@ data:
     herkes ne tontiş ne medeni ne esmer bay cingılbört ya. benimkilerin hepsi ya posterimi bastırıp kurşunladı ya da cihat ilan etti. demek ki ben hep beyaz yakalı ebubekir el bağdadi’ye denk gelmişim. şu an bütün hayat tercihlerim için çk üzlyrm.
   entry_channels: ilişkiler
 - entry_name: |
-    108 sandıkta sayım döküm cetvelinin bulunmaması
-  entry_id:  90399155
-  entry_writer: tanru canu ala
-  entry_fav_count: 5
-  entry_content: |
-    itirazında ise asıl önemli olanın sandık tutanağı olduğu, bu tutanaklarda ak partili ve mhp'li üyelerin de ıslak imzası yer aldığı , bunun yeterli olduğu ifadesine rağmen seçim iptal edilmiştir.<br/><br/>ek olarak söz konusu sandıklardaki imzasız döküm cetvelleri ile ıslak imzalı tutanaklar arasında bir uyumsuzluk olmadığı da belietilmiştir.<br/>yazacaksanız tam yazın, ayıptır.
-  entry_channels: siyaset
-- entry_name: |
-    abd yaptırımlarına hazırlanıyoruz
-  entry_id:  90395992
-  entry_writer: rebelist
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  90368641
+  entry_writer: sewmelimiyim
   entry_fav_count: 4
   entry_content: |
-    sebze ve meyve kuyruğunda olan halkımız hazır ve nazır paşam .
-  entry_channels: siyaset,haber,ekonomi
+    canı sıkılan, anlatmak isteyen arkadaşları cinsiyet farketmeksizin dinleyebilirim . yazar ya da çaylak farketmez . <br/><br/>antalya içi arkadaşlar var ise sıcak bir kahve de ikram edebilirim .
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     trabzonspor
   entry_id:  90399167
@@ -347,13 +347,21 @@ data:
     - zaman<br/>- zeka<br/>- yetenek<br/>- sağlık <br/>- mutluluk <br/>- güzellik <br/>- arkadaş <br/>- dost <br/>- sevgili<br/>- aile <br/>- insanlık<br/>- ahlak<br/>- kuvvet<br/>- mental güç<br/>- huzur<br/>- kişilik<br/>- saygı<br/>- sadakat<br/>- aşk<br/>- başarı<br/>- geçmiş<br/>- yaşam<br/>- özgürlük <br/>- kişilik, huy<br/>- karakter özellikleri.<br/><br/>para kazanmaya devam aynen...
   entry_channels: anket
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  90368641
-  entry_writer: sewmelimiyim
-  entry_fav_count: 3
+    türkiye'deki eğitim sisteminin ana sorunu
+  entry_id:  90399631
+  entry_writer: cekip gitmeden once
+  entry_fav_count: 2
   entry_content: |
-    canı sıkılan, anlatmak isteyen arkadaşları cinsiyet farketmeksizin dinleyebilirim . yazar ya da çaylak farketmez . <br/><br/>antalya içi arkadaşlar var ise sıcak bir kahve de ikram edebilirim .
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    hangi eğitim sistemini kurarsanız kurun, sisteminizi ayakta tutacak güç öğretmenlerinizin kalitesi kadardır.<br/>ana sorunumuz öğretmenlerimizin kalitesidir. temeli güçlü tutmadığınız sürece kuracağınız her sistem çökmeye mahkumdur.
+  entry_channels: anket,eğitim
+- entry_name: |
+    m. manson'un dansçının kıçına mikrofon sokması
+  entry_id:  90400337
+  entry_writer: jimmy jib
+  entry_fav_count: 2
+  entry_content: |
+    selam ben hans bu kizin ailesiyim. bence kizim kendi kararlarini verebilecek ozgur bir birey. onu her konuda oldugu gibi merilin konusinda da destekliyorum.
+  entry_channels: müzik
 - entry_name: |
     en havalı japonca soyisim
   entry_id:  90369764
@@ -363,14 +371,6 @@ data:
     (bkz: <a class="b" href="/?q=toranaga">toranaga</a>)<br/>nasıl yazılmaz?
   entry_channels: anket
 - entry_name: |
-    22 mayıs 2011 sivasspor fenerbahçe maçı
-  entry_id:  90398882
-  entry_writer: kumulatifvergimatrahi
-  entry_fav_count: 2
-  entry_content: |
-    kasa kasa hamsiyle şike yapan katarsporlulara sokup sokup çıkardığımız maç. sonucunda alınan kupa da halen kadıköyde müzededir. ince ince çalışma yapan müteahhit bakanınıza ve manevi babanıza söyleyin gelsin alsın kupayı. yerse.
-  entry_channels: spor
-- entry_name: |
     şu anda çalan şarkı
   entry_id:  90394000
   entry_writer: jackrai
@@ -379,27 +379,27 @@ data:
     5467436346. kez yazılıyor ama adam süper okumuş ya<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=evQWMrKlDQE">https://www.youtube.com/watch?v=evqwmrkldqe</a> hayko cepkin - bırak seveyim, rahat edeyim
   entry_channels: anket,müzik,edebiyat
 - entry_name: |
-    sevgilinin en öpülesi yeri
-  entry_id:  90391317
-  entry_writer: ahsap dibegin demir tokmagi
+    sadi güven
+  entry_id:  90398553
+  entry_writer: 17december
   entry_fav_count: 1
   entry_content: |
-    antrikot..…<br/>yok bu o değildi...
-  entry_channels: anket,ilişkiler
+    ysk gerekceli kararindaki serhi ile 7 uyeye hukuk dersi verse de iptalin onune gecememis ysk baskani.<br/><br/>iptal kararinda kendisine fazla cullanilmisti fakat isin kendisini de asan bir guc tarafindan aldirildigi artik net.
+  entry_channels: siyaset
 - entry_name: |
     kanser hastasına yardım kampanyası
-  entry_id:  90394071
-  entry_writer: shinigami ryuk
+  entry_id:  90394642
+  entry_writer: sorg
   entry_fav_count: 1
   entry_content: |
-    her hayat kutsaldır ve bu başlığın gündem de tutulması elzemdir. <br/><br/>ayrıca terbiyesizliğin lüzumu yok troll mroll dinlemem siber dilenci diyen ağzınıza sıçarım.
+    (bkz: <a class="b" href="/entry/90394444">#90394444</a>)<br/><br/>(bkz: <a class="b" href="/?q=suriyelileri+yedirmeye+i%c3%a7irmeye+devam+edece%c4%9fiz">suriyelileri yedirmeye içirmeye devam edeceğiz</a>) ve (bkz: <a class="b" href="/?q=suriyelilere+31+milyar+euro+harcad%c4%b1k">suriyelilere 31 milyar euro harcadık</a>) diyen rte ve akp'liler duysun bunu. devlete vergiyi biz mi veriyoruz suriyeliler mi veriyor? suriyelileri hastanelerde öncelik vererek beleşe tedavi etmeye muktedir olan devlet kendi vatandaşına sahip çıkmaktan aciz midir?<br/><br/>neden böyle vakalara hep kampanya açmak zorunda kalıyoruz kardeşim, verginin vergisini alan, bir otomobilden bir otomobil fiyatı kadar vergi alan, suriyelilere 31 milyar euro harcayan devlet bir el atsın.
   entry_channels: sağlık,ekonomi
 - entry_name: |
-    türkiye'deki eğitim sisteminin ana sorunu
-  entry_id:  90399631
-  entry_writer: cekip gitmeden once
-  entry_fav_count: 0
+    22 mayıs 2011 sivasspor fenerbahçe maçı
+  entry_id:  90400168
+  entry_writer: hatalicool
+  entry_fav_count: 1
   entry_content: |
-    hangi eğitim sistemini kurarsanız kurun, sisteminizi ayakta tutacak güç öğretmenlerinizin kalitesi kadardır.<br/>ana sorunumuz öğretmenlerimizin kalitesidir. temeli güçlü tutmadığınız sürece kuracağınız her sistem çökmeye mahkumdur.
-  entry_channels: anket,eğitim
+    bu maça ve gaziantepspor maçına şike dediler. bütün taraftarlıklarınızı bırakın açın şu 2 maçı 90 dk izleyin. tek bir şike emaresine dahi rastlayamazsınız. ulan gaziantepspor ne mücadele etti be kadıköy de son saniyelerde bulduğumuz golle kazandık be. o maçta stattaydım çıplak gözle seyrettim bu maçı ben adamlar ne savunma yapmışlardı sivas maçı keza aynı şekilde yahu maç 0-1, 1-1, 1-3, 2-3, 2-4, 3-4 şeklinde gitti ve son 3 dk sivas bizim kaşeyi ablukaya aldı. şimdi hatırlamazsınız ibrahim akın mehmet ikilisi vardı çok etkililerdi. <br/><br/>bakın oturun izleyin iki maçı ayıptır yazıktır.
+  entry_channels: spor
 ---
