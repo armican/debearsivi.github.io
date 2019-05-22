@@ -6,7 +6,7 @@ data:
     tevfik göksu'nun ibbden 1.3 milyar tl ihale alması
   entry_id:  90375505
   entry_writer: steam
-  entry_fav_count: 2620
+  entry_fav_count: 2624
   entry_content: |
     üst edit: bu yazı sonrası sözlük yönetimi tarafından 21 haziran'a kadar <a class="b" href="/?q=lanetli">lanetli</a> olup <a class="b" href="/?q=%c3%a7aylak">çaylak</a> yapıldığımı öğrendim. sözlükte 10 yıllık yazarım birisi bana sebebini açıklayabilir mi? anlaşılan birilerine dokunan yanıyor. <br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck+yazar%c4%b1+steam%27in+%c3%a7aylak+yap%c4%b1lmas%c4%b1">sözlük yazarı steam'in çaylak yapılması</a>)<br/><br/><a class="b" href="/?q=mehmet+tevfik+g%c3%b6ksu">mehmet tevfik göksu</a>’nun abisi <a class="b" href="/?q=mahmut+g%c3%b6ksu">mahmut göksu</a>nun yönetiminde olduğu <a class="b" href="/?q=yeni+d%c3%bcnya+vakf%c4%b1">yeni dünya vakfı</a>nın ibbden ve esenler belediyesinden toplamda 1.3 milyar tl (eski para ile <a class="b" href="/?q=1.3+katrilyon">1.3 katrilyon</a> tl )ihale aldığını gazeteci <a class="b" href="/?q=murat+a%c4%9f%c4%b1rel">murat ağırel</a>in ortaya çıkarması olayıdır. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/hesap-buyuk-olay-buyuk-52003yy.htm" title="https://www.yenicaggazetesi.com.tr/hesap-buyuk-olay-buyuk-52003yy.htm">bahsi geçen yazı</a> <br/><br/>anlaşılan o ki <a class="b" href="/?q=mehmet+tevfik+g%c3%b6ksu">mehmet tevfik göksu</a> istanbul büyükşehir belediye başkanı seçilen <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a>na <a class="b" href="/?q=pontus">pontus</a> benzetmesi yaparken akrabalarının ve bu vakıflar aracılığıyla paraları iç etmelerinin sonunun geldiğini bilerek ve izansızca boş yere saldırmıyormuş. <br/><br/>vakfın yönetiminde kimler yok ki: <br/>esenler belediye başkanının abisi <a class="b" href="/?q=mahmut+g%c3%b6ksu">mahmut göksu</a>.<br/>eski aile ve sosyal politikalar bakanı ve cumhurbaşkanı başdanışmanı <a class="b" href="/?q=ay%c5%9fen+g%c3%bcrcan">ayşen gürcan</a>.<br/>iş adamı <a class="b" href="/?q=gazi+akmercan">gazi akmercan</a>, <br/>ahmet davutoğlu'nun danışmanı genar'ın sahibi <a class="b" href="/?q=mustafa+%c5%9fen">mustafa şen</a>.<br/>eski keçiören belediye başkanı danışmanı <a class="b" href="/?q=ali+tok%c3%b6z">ali toköz</a>.<br/>thy da görevli <a class="b" href="/?q=h%c3%bcseyin+sa%c4%9flam">hüseyin sağlam</a> <br/>akp eski mv. sağlık bakanı danışmanı <a class="b" href="/?q=ahmet+baha+%c3%b6%c4%9f%c3%bctken">ahmet baha öğütken</a>.<br/>gümüşhane belediye başkanı <a class="b" href="/?q=ercan+%c3%a7imen">ercan çimen</a>.<br/>gaziosmanpaşa belediye başkanı <a class="b" href="/?q=hasan+tahsin+usta">hasan tahsin usta</a>.<br/>bağcılar belediye başkanı <a class="b" href="/?q=lokman+%c3%a7a%c4%9f%c4%b1r%c4%b1c%c4%b1">lokman çağırıcı</a>, <br/>eski fatih belediye başkanı ve akp mv. <a class="b" href="/?q=mustafa+demir">mustafa demir</a>.<br/>liste çok uzun… <br/><br/>bunlar milletin malını, mülkünü çeşitli vakıflar aracılığıyla kendi şirketlerine aktararak yeme peşindeler. <br/><br/>ekrem imamoğlunun da dediği gibi: adama, kişilere, gruplara, cemaatlere ,vakıflara, derneklere hizmet işi bitti. bundan sonra istanbullulara hizmet dönemi başlayacak.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OMDIMiNjqQQ">https://www.youtube.com/watch?v=omdiminjqqq</a><br/><br/>ne olur ne olmaz yazıya bir şey olursa diye yazının tamamı<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>katıldığı bir iftar programında konuşma yapan esenler belediye başkanı tevfik göksu, istanbul büyükşehir belediye başkanı seçilen daha sonra da ysk'nın tartışmalı kararı ile mazbatası elinden alınan ekrem imamoğlu'na tepki gösterdi.<br/>imamoğlu'nun kazanmasına "en çok yunan medyasının sevindiğini" ifade eden göksu daha sonra imamoğlu'nun nereli olduğunu iftar programına katılan vatandaşlara sordu. vatandaşlardan "trabzon" cevabını alan göksu "e hesap başka" dedi.<br/>tabii buradaki amacı hepimiz biliyoruz. sadece biz değil tüm trabzonlular biliyor.<br/>hafta sonu panel için trabzon beşikdüzü'ne gittim. orada da tepki devam ediyordu. mahkeme kararı ile videonun yayınlanması yasaklandı. barış yarkadaş'ın sosyal medyada paylaştığına göre videoyu yasaklayan hakim avukatlıktan hakimliğe geçen eski akp edremit ilçe başkanıymış.<br/>benim üzerinde duracağım konu ise başka.<br/>mehmet tevfik göksu ile ilgili araştırma yaparken "kalyon holding genel müdürü", "iski genel müdür yard.", "bakan danışmanı", "azerbaycan'a transfer" gibi sıfatlar ile karşılaştım. hem belediye başkanı hem bu görevleri nasıl yapıyor diye kafam karıştı ve kendisini aradım. aynı isimde kuzeninin olduğunu bu görevlerde de bulunduğunu öğrendim.<br/>esenler belediye başkan'ı mehmet tevfik göksu'nun abisinin başkanı olduğu bir vakıf var.<br/>adı: yeni dünya vakfı.<br/>vakfın başkanı ve mütevelli heyetinde yer alan kişi, esenler belediye başkanı tevfik göksu'nun abisi mahmut göksu.<br/>yönetim, mütevelli heyeti ve istişare heyetinde hayli ilginç isimler mevcut. birçok akp'li isim yer alıyor.<br/>esenler belediye başkanının abisi mahmut göksu.<br/>eski aile ve sosyal politikalar bakanı ve cumhurbaşkanı başdanışmanı ayşen gürcan.<br/>iş adamı gazi akmercan, ahmet davutoğlu'nun danışmanı genar'ın sahibi mustafa şen.<br/>eski keçiören belediye başkanı danışmanı ali toköz.<br/>thy da görevli hüseyin sağlam akp eski mv. sağlık bakanı danışmanı ahmet baha öğütken.<br/>gümüşhane belediye başkanı ercan çimen.<br/>gaziosmanpaşa belediye başkanı hasan tahsin usta.<br/>bağcılar belediye başkanı lokman çağırıcı, eski fatih belediye başkanı ve akp mv. mustafa demir.<br/>liste çok uzun…<br/>fetö mensuplarının eyüpsultan'daki buluşma noktası olarak bilinen otel ve restoran olarak kullanılan halit paşa konağı 15 temmuz sonrası yıkıldı. yerine de ibb, şadırvan ve tuvalet yaptı.<br/>bu binanın karşısında bulunan ek bina ise ohal kapsamında maliye hazinesine devredildi. binanın dışındaki ahşap kaplamalar söküldü. yeni dünya vakfı da arazinin sosyal kültürel tesis olarak kullanılması için başvuru yaptı. plan değişikliği yapıldı yüksekliği arttırıldı. plan değişiklikleri akp oyları ile geçti. ek bina ve arazisi yeni dünya vakfına tahsis edildi.<br/>yeni dünya vakfı'nın yönetiminde bulunan kişilerin ve birinci derece akrabalarının iş ilişkileri de çok dikkat çekiyor.<br/>mesela mütevelli heyetinde bulunan sağlık bakanı eski yardımcısı ahmet baha öğütken. ablası fatma mehvibe özgün.<br/>öğütken'in 2015 yılında sağlık bakan yardımcısı olarak atanması sonrası ilginçtir abla fatma mehvibe özgün, avrasya bağımsız denetim ve yeminli mali müşavirlik a.ş. adlı firma ile istanbul büyükşehir belediye başkanlığı sağlık istanbul başta olmak üzere ihaleler almaya başlamış.<br/>(2016/2881-2017/28903-2018/33417 ihale numarası ile) sağlık istanbul'dan…<br/>(2016/10508 -2016/570453-2018/30859) ve 2018/680547 ihale numarası ile) istanbul halk ekmek'ten…<br/>(2019/40525 ihale kayıt no ile de) isper'den toplamda 989 bin tl'lik "mali denetim ve tam tasdik hizmet alım işi" adlı ihaleleri almış.<br/>daha önce almamış mı peki?<br/>almış tabii ki ancak kardeşi bakan yardımcısı olmadan önce 2013-2016 tarihleri arasında şahıs şirketi ile ihale almış. isbak, beltur, iston ve otobüs a.ş'den almış ihaleleri toplamı da 974 bin 500 tl!<br/>yönetimde bulunanların ilginç bağlantıları bitti mi? hayır tabi.<br/>mesela bir örnek daha;<br/>gazi akmercan; akmercan turizm taşımacılık'ın sahibi. önce acaba esenler belediyesi'nden ihale almış mı diye merak edip baktım.<br/>evet almış.<br/>(2011/109793, 2011/178537, 2012/135505, 2014/88189, 2017/336966) ihale numaraları ile toplamda 52.8 milyon tl ihale almış.<br/>tabi bu kadar işi esenler belediye başkanı mehmet tevfik göksu'ya sordum. "evet doğru hem temizlik işleri yapan büyük bir firma. benim dönemimde de öncesinde de işler aldı almıştır. büyük bir firma normaldir" dedi.<br/>peki, sadece ihaleleri esenler belediyesi'nden mi almış? hayır tabi ki.<br/>akmercan adlı firma, istanbul büyükşehir belediyesine bağlı iski'den 5 ihale almış ve toplam tutarı 14.7 milyon tl.<br/>tüm türkiye'deki başta istanbul ilçe belediyeleri olmak üzere tüm kurumlardan 2010-2019 tarihleri arasında aldığı 120 ihalenin toplamı ise 1.3 milyar tl. yani eski para ile 1 katrilyon 361 trilyon…<br/>akmercan adına kayıtlı olanlar sadece bu.<br/>mesela yine aynı aileye ait olan s.g.s.turizm taşımacılık ltd. şti var. sahibi cemal akmercan. gazi akmercan'ın sahibi olduğu akmercan turizm ile marmara ünv. taşıma ihalelerini birlikte almışlar. işin ilginç tarafı yine aynı vakıf yönetiminde bulunan sağlık bakan yard. ahmet baha öğütken'in ablası fatma mehvibe özgün bu firmanı mali müşaviri!<br/>bu kadar araştırmadan sonra diyorum ki ne vakıfmış ama!<br/>anlayacağınız türkiye'de akp'li siyasilerin tüm maddi kaynakları vakıflar üzerinden ihale alarak sağlanıyor. millete ve seçilmiş belediye başkanı ekrem imamoğlu'na hakaret etseler de onlar için bu feryat figanın nedeni, seçimi kaybetmeleri halinde ibb'den alamayacakları ihalelerdir aslında.<br/>yani bal tutan parmağını yalıyor.<br/>vakıflar ihaleler için kimlik onaylama yeri olmaya devam ediyor.<br/>yazık güzel ülkeme…<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: siyaset,haber,ekonomi
@@ -14,23 +14,15 @@ data:
     bir nişan tahtının 13 bin tl olması
   entry_id:  90389201
   entry_writer: bir coolunu cok sevdim
-  entry_fav_count: 861
+  entry_fav_count: 880
   entry_content: |
     arkadaşına söyle derhal nişanı atsın dedirten olay. daha bunun kınası var, düğünü var, baby showerı var.
   entry_channels: ilişkiler,ekonomi
 - entry_name: |
-    cnn greece hesabının ekrem imamoğlu tweeti
-  entry_id:  90381296
-  entry_writer: ben de dahi olan de
-  entry_fav_count: 832
-  entry_content: |
-    bu yunanlıların güzel olan her şeye "bizim" muhabbeti yapmasına çok gülüyorum.<br/><br/>tamam rakı sizin olsun, baklava da... ama insanımıza sahip çıkmak nedir ülen. <br/><br/>gidin az ötede oynayın komşi.
-  entry_channels: siyaset,haber
-- entry_name: |
     binali yıldırım'ı eleştirenlerin cv'leri
   entry_id:  90386369
   entry_writer: benburayaciplakgeldim
-  entry_fav_count: 580
+  entry_fav_count: 586
   entry_content: |
     itü mezunu mühendis ama yazı yazmayı bilmiyor.
   entry_channels: siyaset
@@ -38,10 +30,18 @@ data:
     ak partili ablamızın rte'ye sorduğu mükemmel soru
   entry_id:  90396971
   entry_writer: sirgodin
-  entry_fav_count: 533
+  entry_fav_count: 571
   entry_content: |
     daha yararlı bir bilgi sunayım.<br/><br/>dll'lerin kullanımı, kodun birimlere ayrışımına, yeniden kullanılmasına, etkili bellek kullanımına ve disk alanı kullanımını azaltmaya yardımcı olur. bu nedenle, işletim sistemini ve programları daha hızlı yüklenir, daha hızlı çalışmasını ve daha az disk alanı bilgisayarda gerçekleştirir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://support.microsoft.com/tr-tr/help/815065/what-is-a-dll" title="https://support.microsoft.com/tr-tr/help/815065/what-is-a-dll">dll dosyası nedir, ne işe yarar</a><br/><br/>(bkz: <a class="b" href="/?q=dll+not+found">dll not found</a>)<br/>edit: bkz
   entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    22 mayıs 2019 ysk gerekçeli kararı
+  entry_id:  90397744
+  entry_writer: sea19
+  entry_fav_count: 541
+  entry_content: |
+    şerh düşen üyeler, "iptali gerektirecek tek bir kanıt yok" diye yazmışlar.<br/>yani meşru seçim gasp edildi. sorsan aynı gemideyiz. ulan değil sizinle aynı gemide olmak aynı gezegende yaşamak bile utanç verici.<br/>hırsız herifler!
+  entry_channels: siyaset,haber
 - entry_name: |
     21 mayıs 2019 türkiye geneli uyku alamama problemi
   entry_id:  90379265
@@ -51,18 +51,10 @@ data:
     hiçbir şey olmasa bile kesin bir şey oldu...
   entry_channels: anket,sağlık
 - entry_name: |
-    22 mayıs 2019 ysk gerekçeli kararı
-  entry_id:  90397744
-  entry_writer: sea19
-  entry_fav_count: 480
-  entry_content: |
-    şerh düşen üyeler, "iptali gerektirecek tek bir kanıt yok" diye yazmışlar.<br/>yani meşru seçim gasp edildi. sorsan aynı gemideyiz. ulan değil sizinle aynı gemide olmak aynı gezegende yaşamak bile utanç verici.<br/>hırsız herifler!
-  entry_channels: siyaset,haber
-- entry_name: |
     erdoğan'a göre gençlerin 5.200 lira maaş alması
   entry_id:  90392003
   entry_writer: akolitik
-  entry_fav_count: 442
+  entry_fav_count: 447
   entry_content: |
     suriyeli gençlerin askerlik yapmadığını biri erdoğan'a hatırlatabilir mi? gençleri karıştırdı sanırım.
   entry_channels: siyaset,haber,ekonomi
@@ -70,7 +62,7 @@ data:
     emre belözoğlu'nun fenerbahçe'ye transferi
   entry_id:  90393426
   entry_writer: yo bitch whatsup
-  entry_fav_count: 347
+  entry_fav_count: 360
   entry_content: |
     defansa edu, lugano, carlos; ileri de kezman gelsin. semih şentürk yedek.
   entry_channels: spor
@@ -78,7 +70,7 @@ data:
     22 mayıs 2019 tunceli belediyesi dersim kararı
   entry_id:  90387723
   entry_writer: 50promil
-  entry_fav_count: 333
+  entry_fav_count: 342
   entry_content: |
     bizim " komi " lerde sike sürülecek aklın olmadığını göstermiştir. lan gerzek. türkiye de bir örneksin, senin gibi adamların artmasını istiyor insanlar. herkesin gözü üzerinde. düzgün işler yapıp insanları özendireceğine amcık boncuk işlerle uğraşıyorsun. millet kıllanıyor oğlum işte,yapmayın şu bokları.
   entry_channels: siyaset,haber
@@ -86,31 +78,15 @@ data:
     bir fuckbuddy'de olması gereken özellikler
   entry_id:  90368647
   entry_writer: stevedore
-  entry_fav_count: 282
+  entry_fav_count: 284
   entry_content: |
     kadın olanı için:<br/>zevkle sevişiyor olması,<br/>kalçalarının güzel olması,<br/>sağlıklı olması,<br/>kalçalarının güzel olması,<br/>hijyenik olması,<br/>kalçalarının güzel olması,<br/>en az karşı taraf kadar tutkulu olması,<br/>kalçalarının güzel olması,<br/>boy - kilo orantısının normal seviyede olması,<br/>kalçalarının güzel olması.<br/><br/>son olarak kalçalarının güzel olması.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    game of thrones
-  entry_id:  90369003
-  entry_writer: bigboned
-  entry_fav_count: 277
-  entry_content: |
-    --- 8x06 <a class="b" href="/?q=the+iron+throne">the iron throne</a> spoiler ---<br/><br/>bu başlığa 100bin kelimenin üzerinde entry girdikten sonra dizinin son bölümünün incelemesi için 20 kelime bile yazasım yok. diziye kızgın olduğum için filan değil aslında, diziye 4 senedir kızgınım ve bu kızgınlık genelde beni motive eden şey oluyordu. bugün hissettiğim kızgınlıktan çok, üçüncü sınıf hollywood senaryosunu ciddi ciddi eleştiriyormuşum gibi hissetmem. bu adamların yazdığı şeyin ne benim yazarken, ne de sizin okurken harcadığınız vakte değecek bir yanı yok. ben seriyi tamamlamak ve bana mesaj atanları kırmamak adına bir şeyler yazayım, siz de son bir kez daha harcayın bir 15 dakikanızı. <br/><br/>dizi, geçen hafta dany'i adolf hitler olarak işleme kararı alınca, bu karakterin gidebileceği hiç bir açık kapı bırakmadı. yüzbinlerce masum insanı öldüren bir kraliçe yaratırsanız, o karakteri öldürmekten başka bir çareniz kalmaz. dany'nin westeros'u bir korku imparatorluğuna dönüştürdüğü bir son, dizinin yazdığı saçmalıktan çok daha iyi olurdu aslında ama hbo'nun focus grupları için böyle bir senaryo fazla karanlık kaçardı. zaten, george r.r. martin'in dizi yapımcılarına verdiği notlarda dany'nin öleceği büyük ihtimal var. kitapta farklı olacağına inandığım nokta, dany'e bırakılacak açık kapı meselesi. <br/><br/>dizi farklı işlemiş olsa da, ben hala kitapta dany'nin king's landing'i, wildfire stoklarını havaya uçurarak kazayla yakacağına inanıyorum. dany'nin karakter dönüşümü daha iyi işlenecek olsa da, bu karakterin hiç gözünü kırpmadan sivil halka saldıracak kadar yoldan çıkıp çıkmayacağına emin değilim. dany, king's landing'i kazayla yakacak ve bu işlediği insanlık suçunu daha hafif bir hale getirmeyecek. dizideki, 1 milyon kişi yaktıktan sonra dünyayı ele geçirme planları yapan dany yerine, kitapta işlediği suçtan pişman olan bir dany göreceğiz. olayın kazayla olmuş olması ve dany'nin de bundan pişman olmuş olması, jon'un dany'i öldürme kararını aşırı zorlaştırıp ortaya daha etkili bir son çıkarabilirdi. dizi, jon'un hala bu kararı almakta zorlandığını işledi ancak daha 10 dakika önce wehrmacht'a "dünyayı ele geçireceğiz" konuşması yapan bir diktatörü öldürme kararı almak neden zor oldu bilmiyorum. <br/><br/>diziyi bu sezon yerden yere vurmuş olsam da, jon, dany'i öldürdüğü anda "the end" yazısı çıksaydı, çok fazla şikayet etmezdim. sonuçta dizi, 3 sezondur bütün yan hikayeleri bir kenara koyup, tamamen dany'e odaklanmıştı ve onun öldüğü noktada da bitseydi, belki daha anlamlı olurdu. ice and fire'ın vücüda burünmüş hali olan jon bile, battle of the bastards'tan beri tamamen figüran olarak dolaşıyordu. eğer dizi, dany'nin öldüğü yerde bitseydi, "jon, targaryen kimliği sayesinde kral oldu ve gondor ondan sonra hep mutlu mesut yaşadı" diye bir son yazardım kafamda ve gerçek son için kitabı beklerdim. ama maalesef dizi, dany'nin öldüğü yerden sonra tam anlamıyla akıl almaz işlere imza atarak, hepimizin ağzında leş gibi bir tad bırakmayı başardı. <br/><br/>dany ölür ölmez yaşanan ilk saçmalık, drogon'un ortama gelmesiyle yaşandı. bu noktada, dizinin tamamen unuttuğu, jon'un bir targaryen olduğu gerçeğinin devreye gireceğini ve jon'un bir şekilde drogon'un kontrolünü alacağını filan düşündüm ama tabi ki senaristler tamamen anlamsız bir sahne yazmayı tercih etmişler. drogon, ya inanılmaz felsefik bir mesaj vererek, "jon, dany'i sen değil bu çürük sistem öldürdü. sistem eleştirimi de bu tahtı yakarak yapacağım" dedi ya da "dany'i öldüren kılıç, bu tahtta da bir sürü kılıç var, o zaman dany'i de bu taht öldürmüş olmalı" diyerek mükemmel bir dedektiflik başarısına imza attı. hangisinin gerçekleştiğini sizin yorumunuza bırakıyorum. <br/><br/>bu sahneden sonra senaryo iyice yokuş aşağı gitmeye başladı ve tyrion'un yargıç grey worm tarafından yargılandığı sahneye geldik. westeros'un 7 krallığının lordları ortama gelmiş ama yargıçlık yapma yetkisi hale grey worm denilen ne idüğü belirsiz adamda öyle mi? 2 sezondur girdiği 15 tane savaşta bir türlü azalmayan ordusuyla mı elinde tutuyor bu yetkiyi grey worm? öyleyse bile 7 krallığın birleşen orduları geri alamıyor mu king's landing'i bu elemanlardan? grey worm, neden teslim olan askerleri kasap gibi öldürürken, kraliçesini öldüren kişiyi ve onun azmettiricisini yargı önüne çıkarmayı tercih ediyor? eğer, tyrion, grey worm'ün tutsağıysa, nasıl oluyor da kral seçmesine izin veriliyor? grey worm, binlerce kişinin ölümünden sorumlu olmasına rağmen, gemilerini de alıp tatile gidebiliyor öyle mi? "grey worm, kraliçen öldü ve teslim olan askerleri öldürme suçundan yargılanacaksın" diyen bir tane bile lord yok mu?<br/><br/>edmure tully'i bilmem kaç bölüm unuttuktan sonra rezil etmek için neden geri getirdiniz? dany ile birlikte 1 milyon kişinin de öldüğü, westeros'un başkentinin dümdüz olduğu bir olaydan sonra nasıl oluyor da komiklik yapma derdinde olabiliyorsunuz? son 3 bölümde çok üzüldük e biraz da gülelim diye mi yazdınız bu comic relief sahneleri? dizinin "bittersweet" olması gereken tonunun anasını bellediğinizin farkında mısınız?<br/><br/>sam, herkesin oy kullanarak kral seçmesini teklif ettiğinde, yara greyjoy neden gülüyor? yara, ironborn'un kingsmoot geleneğini unuttu mu? <br/><br/>tyrion, "en iyi hikayesi olanı kral yapalım!!" diye saçmaladığında, neden en iyi hikaye bran'a ait oluyor? bran'ın hikayesinin anlamı ne? bran neden kuzeye gidip three eyed raven oldu? bu değişim ona hangi gücü kazandırdı? neleri görüp neleri göremiyordu? eğer bran geleceği görebiliyorsa, kral olmak için dany'nin 1 milyon kişiyi yakmasına göz mü yumdu? eğer göremiyorsa onu özel yapan ne? daha 3 bölüm önce "ben winterfell lordu olamam, artık başka bir şeyim" dediğinde kendini demir taht için mi saklamıştı? "buraya neden geldim sanıyorsun?" diyerek, herşeyi bilerek yaptığını itiraf mı etti? böyle bir planı bilerek uyguladıysa kendisini idam etmemiz gerekmez mi? bran ölüp geriye bir varis bırakmadığında, bütün lordlar gelip paşa paşa yeni bir kral mı seçecek sanıyorsunuz? herkesin kendi istediği adayı direttiği bir iç savaş daha olası gözükmüyor mu size? <br/><br/>demir tahtın varisi olarak doğtuktan sonra bütün hayatını bir piç olduğunu zannederek yaşayan, westeros tarihinin en onurlu insanlarından birisi tarafından yetiştirilmiş, diyara lord commander olarak hizmet etmiş, wildlinglere yardım etmek uğruna hayatını vermiş, ölümden geri gelip önce kuzeyi boltonların elinden alıp sonra da night king tehlikesine karşı savaşmış, targaryen ve stark gibi diyarın en köklü ailelerinin çocuğu olan jon snow'un hikayesi "beyin özürlü ergen" bran'dan daha iyi değil mi sizce? bu kitabın en kritik gizemlerinden birisi olan jon'un targaryen olmasının hikayeye nasıl bir etkisi oldu? <br/><br/>jon'un kral olmasını engelleyen ne? grey worm mu? jon'un night's watcha yollanması kararını grey worm hangi yetkiyle diretebiliyor? grey worm gittikten sonra seçimi tekrar yapıp tahtı jon'a versek? bu arda night's watch diyarı kimden koruyor? tormund'tan mı?<br/><br/>sansa, tahta bir stark çıkmışken neden kuzeyi bağımsız yapmak istesin? eğer sansa bunu yapabiliyorsa, yüzyıllardır bağımsızlık peşinde koşan iron islands ve dorne lordlarının eli armut mu topluyor? dorne lordu, hiç tanımadığı özürlü bir gencin kral olmasını nasıl hiç bir soru sormadan kabul ediyor? sam, davos ve brieene hangi yetkiyle bu seçimde oy kullanıyorlar? <br/><br/>süper-akıllı-kral bran, para için yedi sülalesini satacak bir adam olan bronn'a önce westeros'un en verimli topraklarını verip sonra da kraliyet hazinesini emanet etmenin bir hata olabileceğini düşünüyor mu? teknik olarak hala night's watch'a yeminli olan sam'in king's landing'te ne işi var? <br/><br/>inceleme diye başlayıp çok saçma sapan sorular bütünü olarak bitirdiğim için kusura bakmayın ama tüm bu soruları alt alta yazmak beni çok mutlu ediyor. çünkü dizi o kadar saçma sapan bitti ki, kitabın sonu hakkında spoiler yemiş olma olasılığımız yok. dany'nin öldüğü, jon'un kuzeye gidip bran'ın tahta çıktığı bir son pek tabi ki mümkün ancak dizi o kadar baştan savma yazıldı ki, son 2 kitabın diziyle hiç bir alakası olmayacak. <br/><br/>bu saçmalık üzerine ciddi ciddi binlerce satır yazı yazmanın bir anlamı olmaması nedeniyle, dizi incelemesini burada keserek artık bu diziyi de hayatımdan çıkarmak istiyorum. dizi bombok bir yere çıkmış olsa da, son 4-5 senede yazdıklarımı okuyup benimle got geyiği yapan herkese teşekkür ediyorum. ilerleyen günler, aylar ve yıllarda kitaptaki karakterler ve olaylar üzerine bir şeyler yazmaya devam edebilirim. asoiaf muhabbetine devam etmek isteyen herkese inbox'ım da açık. bu cumartesi, 16:00'da <a rel="nofollow noopener" class="url" target="_blank" href="https://www.twitch.tv/tancan" title="https://www.twitch.tv/tancan">tancan</a>la dizinin finalinin geyiğini yapıp biraz da karakterlerin kitapta nereye gideceği üzerine tahmin yürüteceğiz. <br/><br/>now my watch has ended.
-  entry_channels: tv,sanat,edebiyat,spoiler
-- entry_name: |
-    oruçlu musunuz'un ingilizcesi
-  entry_id:  90381367
-  entry_writer: mafyanin yan kolu
-  entry_fav_count: 252
-  entry_content: |
-    (bkz: <a class="b" href="/?q=fasten+your+seatbelt">fasten your seatbelt</a>)
-  entry_channels: yeme-içme
-- entry_name: |
     sinema salonları 10 yıl içinde kapanacak
   entry_id:  90390000
   entry_writer: kuduzdoktorhektor
-  entry_fav_count: 243
+  entry_fav_count: 246
   entry_content: |
     zaten uzun süredir tartışılan bir konuyu ilk defa kendisinin düşündüğünü sanan birinin açtığı başlık.
   entry_channels: sinema
@@ -118,7 +94,7 @@ data:
     sevişelim mi demenin gizli yolları
   entry_id:  90377282
   entry_writer: moonsteer
-  entry_fav_count: 235
+  entry_fav_count: 240
   entry_content: |
     mazbatani vereyim mi bu gece?
   entry_channels: anket,ilişkiler
@@ -126,7 +102,7 @@ data:
     ece erken
   entry_id:  90393525
   entry_writer: imperialis
-  entry_fav_count: 219
+  entry_fav_count: 234
   entry_content: |
     su gibi hatun. eskiden daha güzeldi. çocukken sabah programlarını izler bir köşede usul usul sıvazlardık. çok şey bilmeye ya da zeki olmaya ihtiyacı yok. zeka çirkinlere has bir özelliktir. istiyorsunuz ki hem güzel olsun hem de zeki. oldu aq ejderhası da olsun mu?
   entry_channels: tv,magazin
@@ -142,7 +118,7 @@ data:
     sigaranın orucu bozması
   entry_id:  90381959
   entry_writer: papazi dovdurmeyecektik
-  entry_fav_count: 211
+  entry_fav_count: 212
   entry_content: |
     değerli âlim muhammed b. salih el-useymîn koklanan bir gazın mideye gittiğini düşünüyorsa o kadar da değerli bir alim olmayabilir.<br/><br/>edit: yahu ağızdan burundan giren gazlar bir şekilde mideye gidebilir diye mesaj atmayalım. e heralde gidebilir, bunu bilmek için alim olmaya gerek yok. hatta bir gazı doğrudan yutabilirsin de. ama biz burada "koklamak" diyoruz "yutmak" demiyoruz. koklamak yalnız ve yalnızca sinirsel bir aktivitedir. koklanan şeyin sonradan yutulması ayrı bir konudur. ona bakarsak havada gözle görülen gazlar da bir şekilde mideye gidebilir, gidemez mi? o zaman "görmek de orucu bozar" dememiz lazım. velhasıl değerli âlim muhammed b. salih el-useymîn sadece tütsülerin değil bütün gazların partiküllerden oluştuğunu bilmediği için böyle saçmalamış. onun dediğini baz alırsak teknik olarak gerçek bir oruç tutabilmenin tek yolu gaz maskesiyle oruç tutmaktır.
   entry_channels: sağlık,yeme-içme
@@ -150,7 +126,7 @@ data:
     tsk'ya er olarak giren generalliğe yükselebilecek
   entry_id:  90379425
   entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 184
+  entry_fav_count: 185
   entry_content: |
     yandaş mısınız?<br/><br/>general mi olmak istiyorsunuz?<br/><br/>amaa askeri okul bitirmediniz mi? hatta sizi almadılar mı? <br/><br/>hiç problem değil artık akp hükümeti sayesinde her yandaş general olabiliyor.<br/><br/>bu fırsatı kaçırmamak için yapmanız gereken tek şey ilçe teşkilatımıza üye olmak.
   entry_channels: siyaset,haber
@@ -158,7 +134,7 @@ data:
     fatih terim'in orhan ak'a yumruk atma anı
   entry_id:  90395348
   entry_writer: an mani
-  entry_fav_count: 106
+  entry_fav_count: 111
   entry_content: |
     fatih terim'in dhalsim oldugunu ogrendigimiz goruntulerdir efendim.<br/><br/>3 metre var lan arada allahsizlar.
   entry_channels: spor
@@ -166,31 +142,31 @@ data:
     arm'ın huawei cihazları banlaması
   entry_id:  90389551
   entry_writer: benaskeregidecem
-  entry_fav_count: 89
+  entry_fav_count: 105
   entry_content: |
     teknoloji üretmenin, üretileni alıp ucuza montajlamaktan ne kadar daha değerli olduğunu gösteren karar.
   entry_channels: teknoloji,haber
 - entry_name: |
-    binali yıldırım'ın bir gecede 2 iftara katılması
-  entry_id:  90379890
-  entry_writer: altay horda
-  entry_fav_count: 85
+    chernobyl (dizi)
+  entry_id:  90369274
+  entry_writer: megabyte
+  entry_fav_count: 91
   entry_content: |
-    binali başkanın büyüksevaba(!) girdiğini gösteren haber.<br/>haberi biz yapmadık, kendi kanalınız a haber'de yapıldı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/ux9dj">https://streamable.com/ux9dj</a><br/><br/>bir günde iki iftar= x2 sevap point.<br/>önce işçilerle, sonra işadamlarıyla iftar yapmış.<br/><br/>işçilerin menüsü tatmin etmediyse demek, biraz da zengin yemeği yiyelim demişler.<br/><br/>not: ali ihsan yavuz'da binali bey'in yanında.
-  entry_channels: siyaset,haber,yeme-içme
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>- ev kadar büyük, saatte 20 litre benzin yakan, bir ton gürültü ve duman çıkaran, elmayı da üçe bölen şey nedir?<br/>- elmayı dörde bölsün diye yapılan sovyet makinesi!<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: tv
 - entry_name: |
     beşiktaş 2019-2020 sezonu teknik direktörü
   entry_id:  90393152
   entry_writer: firebird
   entry_fav_count: 82
   entry_content: |
-    dinamitleri bilen bir avcı ile şampiyonluk kesin <a class="b" href="/?q=swh">swh</a>
+    dinamitleri bilen bir avcı ile şampiyonluk kesin <a class="b" href="/?q=swh">swh</a><br/><br/>edit: ilk entryde dinamit, dinamik olarak düzeltilmiş.<br/>bana kalırsa dinamiti degil de c4ü hızlı kurup koruyabilen bir teknik direktör iş yapar.
   entry_channels: spor
 - entry_name: |
     2019 ekonomik krizi
   entry_id:  90372938
   entry_writer: reisul ekber
-  entry_fav_count: 78
+  entry_fav_count: 81
   entry_content: |
     öğrenci mahallesinden bildiriyorum, bütün cafeler dolu. sigara içmeyen nerdeyse yok. milk shake fotosunu instagrama atmadan kalkmıyorlar masadan. <br/>komik olan, bir çoğunun harçlığı 500 liralık kykdan ibaret. aç geziyorlar amk. <br/><br/>ülke şu veya bu sebepten zor zamanlar geçiriyor, yarını göreceğimizin garantisi yok.<br/><br/>ama nargile içip okey oynayabilmek için aç kalan denyolar var. <br/><br/>kurtarıcı bekliyorsunuz ya, 30 yaş üstü tayfa. beklemeyin boşuna. bizde durum bu, sizin durumu da entrylerden görüyoruz az çok.
   entry_channels: siyaset,haber,ekonomi
@@ -206,15 +182,23 @@ data:
     evde vücut geliştirmek
   entry_id:  90374108
   entry_writer: plustic
-  entry_fav_count: 56
+  entry_fav_count: 70
   entry_content: |
     mümkündür. <br/>4-5 aydır her gün 200 şınav, 200 mekik, 30 barfiks çekiyorum, afedersiniz taş gibiyim, packs, adonis, omuz, kol var. beyaz tişört hiç bu kadar güzel olmamıştı. 20 ile başladım, 200'e kadar çıktım, protein tozu da almıyorum. ciğer, pirzola, paça çorbası filan yetiyor. her akşam da 4-5 bira içiyorumdur, zerre etkisi yok. <br/>tek ihtiyacınız kendi ağırlığınız ve bir adet slayer albümü.<br/><br/>edit: mesajlara yetişemiyorum, toplu yanıt maiyetinde olsun;<br/>şınav set; 40 x 5, mekik set: 50 x 4, barfiks set: 15 x 2 şeklinde yapıyorum. <br/>çok fazla foto isteyen oluyor: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/3y14689j9n2y" title="https://eksiup.com/p/3y14689j9n2y">1</a> ve <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/s6146925mtcj" title="https://eksiup.com/p/s6146925mtcj">2</a>
   entry_channels: spor,sağlık
 - entry_name: |
+    m. manson'un dansçının kıçına mikrofon sokması
+  entry_id:  90399983
+  entry_writer: arycanda
+  entry_fav_count: 69
+  entry_content: |
+    kız sahnede çırılçıplak dans ediyor.. sana mı düştü ailesini düşünmek? <br/><br/>rammstein’in pussy klibini hiç seyretme o zaman.. klip değil, hard porn.. sonra kızları skiyorlar diye ona da üzülürsün falan...
+  entry_channels: müzik
+- entry_name: |
     sophie turner
   entry_id:  90393235
   entry_writer: limoncino eksi degil sicilyayi sikim
-  entry_fav_count: 53
+  entry_fav_count: 64
   entry_content: |
     dünkü bok, kendini oyuncu sanması dünyanın en komik fıkrasıdır. <br/>patates filesi bile bundan daha iyi oyuncudur.
   entry_channels: tv,sinema
@@ -222,47 +206,39 @@ data:
     düğün işi elli binden ucuz olmayacak diyen kadın
   entry_id:  90396878
   entry_writer: cukutassanadenk
-  entry_fav_count: 53
+  entry_fav_count: 56
   entry_content: |
     bir ömür bekar kalması, evde kuruması, turşusunun kurulması gereken kadındır.<br/><br/>ben böyle örfü adeti sikeyim ya, ilk kim çıkarmış bu amına koyduğumun düğün merasimlerini.
-  entry_channels: ilişkiler
-- entry_name: |
-    birlikte içki içmek istenen got karakteri
-  entry_id:  90377224
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 38
-  entry_content: |
-    cersei lannister tabi ki..<br/>bi kere queen, guzel ve seksi. kari icince kardesiyle yatiyor benimle mi yatmayacak. gecenin sonu kesinlikle sekse baglanir.<br/><br/>siz de gidin cuceyle icin aq
-  entry_channels: anket,sinema,spoiler
-- entry_name: |
-    m. manson'un dansçının kıçına mikrofon sokması
-  entry_id:  90399983
-  entry_writer: arycanda
-  entry_fav_count: 34
-  entry_content: |
-    kız sahnede çırılçıplak dans ediyor.. sana mı düştü ailesini düşünmek? <br/><br/>rammstein’in pussy klibini hiç seyretme o zaman.. klip değil, hard porn.. sonra kızları skiyorlar diye ona da üzülürsün falan...
-  entry_channels: müzik
-- entry_name: |
-    efendi erkeğin önünde sonunda kazanacak olması
-  entry_id:  90395406
-  entry_writer: oguzbatur
-  entry_fav_count: 30
-  entry_content: |
-    iki eliyle bir siki doğrultamayan kekoların kendine efensi demesi... <br/><br/>ne kazanacaksınız oğlum? hadi o kız döndü dolaştı sana geldi diyelim. sana gelen kız ne olacak? kucaktan kucağa gezmiş, duvardan duvara vurulmuş, doggyde saçları çekilip kalçaları tokatlanmış, saksoda gırtlağına zorlanmış bir kaşardan fazlası değil.. <br/><br/>sen de bu kız sana gelince kazanmış olacaksın öyle mi? beynini sikeyim ben senin güzel kardeşim
   entry_channels: ilişkiler
 - entry_name: |
     kızdan cep telefonu numarası isteme yöntemleri
   entry_id:  90395808
   entry_writer: professor james moriarty
-  entry_fav_count: 28
+  entry_fav_count: 39
   entry_content: |
     beğendiğiniz kızın yanına gitmeden önce çevreden birini vurun, sonra ambulansı aramam lazım adam kan kaybediyor diye telefonunu isteyin, telefonunu size verince asfaltın üstünde denizde taş sektirir gibi sektirin, sektirme sayısı 3 ise kız sizindir. kızı aldıktan sonrasını da biz anlatmayalım.<br/><br/>edit: adamı nasıl vuralım soruları geliyor, karadenizliyseniz tabanca ile değilseniz sopayla vurun.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    birlikte içki içmek istenen got karakteri
+  entry_id:  90377224
+  entry_writer: ofis canlisiyim multinetle beslenirim
+  entry_fav_count: 39
+  entry_content: |
+    cersei lannister tabi ki..<br/>bi kere queen, guzel ve seksi. kari icince kardesiyle yatiyor benimle mi yatmayacak. gecenin sonu kesinlikle sekse baglanir.<br/><br/>siz de gidin cuceyle icin aq
+  entry_channels: anket,sinema,spoiler
+- entry_name: |
+    efendi erkeğin önünde sonunda kazanacak olması
+  entry_id:  90395406
+  entry_writer: oguzbatur
+  entry_fav_count: 34
+  entry_content: |
+    iki eliyle bir siki doğrultamayan kekoların kendine efensi demesi... <br/><br/>ne kazanacaksınız oğlum? hadi o kız döndü dolaştı sana geldi diyelim. sana gelen kız ne olacak? kucaktan kucağa gezmiş, duvardan duvara vurulmuş, doggyde saçları çekilip kalçaları tokatlanmış, saksoda gırtlağına zorlanmış bir kaşardan fazlası değil.. <br/><br/>sen de bu kız sana gelince kazanmış olacaksın öyle mi? beynini sikeyim ben senin güzel kardeşim
+  entry_channels: ilişkiler
+- entry_name: |
     sözlük yazarlarının rumuzlarının hikayeleri
   entry_id:  90384049
   entry_writer: sagayadukusu
-  entry_fav_count: 22
+  entry_fav_count: 26
   entry_content: |
     kızımın 2-3 yaşlarındayken kültablası için uydurduğu isimdir "sagaya dukusu". sigara paketi değil yani küllük, kültablası.
   entry_channels: anket,ekşi-sözlük
@@ -270,23 +246,31 @@ data:
     108 sandıkta sayım döküm cetvelinin bulunmaması
   entry_id:  90399155
   entry_writer: tanru canu ala
-  entry_fav_count: 22
+  entry_fav_count: 26
   entry_content: |
     itirazında ise asıl önemli olanın sandık tutanağı olduğu, bu tutanaklarda ak partili ve mhp'li üyelerin de ıslak imzası yer aldığı , bunun yeterli olduğu ifadesine rağmen seçim iptal edilmiştir.<br/><br/>ek olarak söz konusu sandıklardaki imzasız döküm cetvelleri ile ıslak imzalı tutanaklar arasında bir uyumsuzluk olmadığı da belietilmiştir.<br/>yazacaksanız tam yazın, ayıptır.
-  entry_channels: siyaset
+  entry_channels: siyaset,haber
 - entry_name: |
     bmw'nin mercedes'e attığı gol
   entry_id:  90389053
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     dieter zetche'nin kendisinin değil bir benzerinin rol aldığı reklamdır elbette. yahu siz kraliçe elizabet'li reklamlarda da kraliçenin bizzat oynadığını filan mı zannediyorsunuz... kendisi oynasaydı şu anda mercedes'in kendisine açtığı astronomik tazminat davasını konuşuyor olurduk.
   entry_channels: otomotiv,motosiklet
 - entry_name: |
+    22 mayıs 2019 binali yıldırım habertürk yayını
+  entry_id:  90401280
+  entry_writer: heecnormal
+  entry_fav_count: 16
+  entry_content: |
+    <a class="b" href="/?q=didem+arslan+y%c4%b1lmaz">didem arslan yılmaz</a> gerekçeli karar'da sizin iddia ettiğiniz gibi bir "çalınma" ibaresi yok.<br/><a class="b" href="/?q=binali+y%c4%b1ld%c4%b1r%c4%b1m">binali yıldırım</a>: biz halk dilinde söylüyoruz<br/><br/>edit: didem abla, sayende feminist oldum.<br/><br/>"dünyayı kurtarsa kurtarsa kadınlar kurtarır" :)
+  entry_channels: siyaset,tv
+- entry_name: |
     sadi güven
   entry_id:  90398734
   entry_writer: do while
-  entry_fav_count: 13
+  entry_fav_count: 15
   entry_content: |
     şu kadarcık ciğerin varsa çıkıp halka açıklama yaparsın, ysk'ya darbe yapılmıştır diye... 250 sayfalık açıklamaya çıkıp da yalandan şerh koymak, gelecekte devran döndüğünde beni rahatsız etmeyin demektir. adaletin temsilcileri korkak olamaz!<br/><br/>insan bulunduğu yüce makamdan, çocuğundan, torunundan, ülkenin günahsız yavrularından utanır be!
   entry_channels: siyaset
@@ -294,7 +278,7 @@ data:
     emre belözoğlu
   entry_id:  90393808
   entry_writer: baytarafli
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     kral son bir galatasaray şampiyonluğu daha görmek istiyor belli ki.
   entry_channels: spor
@@ -315,13 +299,13 @@ data:
     (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1k+nedir+nas%c4%b1l+a%c3%a7%c4%b1l%c4%b1r">başlık nedir nasıl açılır</a>)<br/><br/>yuh hakkaten yuh kardeşim ya. millet yıllarca çaylak çaylak bekliyor, onca yıl bir kere açıp okuyacak vaktin de mi olmadı nasıl başlık açılır diye. dikkatini de mi çekmedi bu kadar insan niye kıvranıyor başlık için diye. yuh. engelleyin salatalığı.<br/><br/>değişirse diye yazayım, elemanın açtığı başlık şu "annelere iyi haber. ayda 2400 tl veriliyor".
   entry_channels: 
 - entry_name: |
-    yedi üyeyi haksız bulup dört üyeyi haklı görmek
-  entry_id:  90399635
-  entry_writer: dont waste it taste it
-  entry_fav_count: 6
+    22 mayıs 2011 sivasspor fenerbahçe maçı
+  entry_id:  90398882
+  entry_writer: kumulatifvergimatrahi
+  entry_fav_count: 8
   entry_content: |
-    secimin gecersizligi somut deliller ile ispatlanmis olsaydi hakli bulurduk bebegim, merak etme. yirim seni!
-  entry_channels: siyaset
+    kasa kasa hamsiyle şike yapan katarsporlulara sokup sokup çıkardığımız maç. sonucunda alınan kupa da halen kadıköyde müzededir. ince ince çalışma yapan müteahhit bakanınıza ve manevi babanıza söyleyin gelsin alsın kupayı. yerse.
+  entry_channels: spor
 - entry_name: |
     eski sevgilisinin mutlu olmasını isteyen insan
   entry_id:  90392395
@@ -355,29 +339,21 @@ data:
     her hayat kutsaldır ve bu başlığın gündem de tutulması elzemdir. <br/><br/>ayrıca terbiyesizliğin lüzumu yok troll mroll dinlemem siber dilenci diyen ağzınıza sıçarım.
   entry_channels: sağlık,ekonomi
 - entry_name: |
-    en havalı japonca soyisim
-  entry_id:  90369764
-  entry_writer: alebahad
+    22 mayıs haber global ekrem imamoğlu yayını
+  entry_id:  90401778
+  entry_writer: fikirsahabi
   entry_fav_count: 2
   entry_content: |
-    (bkz: <a class="b" href="/?q=toranaga">toranaga</a>)<br/>nasıl yazılmaz?
-  entry_channels: anket
+    buradan resim yüklemeyi bilemediğim için yazarak açıklama yapıyorum; twitter da şu an erdoğan ve imamoğlu aynı anda canlı yayın da konuşuyor. takip eden sayıları:<br/>erdoğan : 420<br/>imamoğlu : 9400
+  entry_channels: siyaset,tv,haber
 - entry_name: |
-    22 mayıs 2011 sivasspor fenerbahçe maçı
-  entry_id:  90400168
-  entry_writer: hatalicool
-  entry_fav_count: 2
+    tsk'ye teseka demek
+  entry_id:  90401204
+  entry_writer: yfc
+  entry_fav_count: 1
   entry_content: |
-    bu maça ve gaziantepspor maçına şike dediler. bütün taraftarlıklarınızı bırakın açın şu 2 maçı 90 dk izleyin. tek bir şike emaresine dahi rastlayamazsınız. ulan gaziantepspor ne mücadele etti be kadıköy de son saniyelerde bulduğumuz golle kazandık be. o maçta stattaydım çıplak gözle seyrettim bu maçı ben adamlar ne savunma yapmışlardı sivas maçı keza aynı şekilde yahu maç 0-1, 1-1, 1-3, 2-3, 2-4, 3-4 şeklinde gitti ve son 3 dk sivas bizim kaşeyi ablukaya aldı. şimdi hatırlamazsınız ibrahim akın mehmet ikilisi vardı çok etkililerdi. <br/><br/>bakın oturun izleyin iki maçı ayıptır yazıktır.
-  entry_channels: spor
-- entry_name: |
-    21 mayıs 2019 yardım bekleyen çaylak
-  entry_id:  90375966
-  entry_writer: ungamaogabokata
-  entry_fav_count: 2
-  entry_content: |
-    bana son derece tuhaf görünen yardım çağrısıdır..<br/><br/>bu tip yardımlasmalarda şahıs arastirilmadan edilmeden seferber olmanin tehlikeli olduğunu düşünüyorum<br/><br/>ekşiden bağımsız birseysel olarak is guc bulacak edecek olana değil lafım ama yarın;<br/>"eksi sözlüğün el birliğiyle chp li belediyede işe aldırdığı şahıs x y z bağlantılı çıktı" diye bir haber görürsen ahaber de ağlamayin sonra<br/><br/>paranoyak olmam ortada bir tuhaflık olmadığı anlamına gelmez.
-  entry_channels: ekşi-sözlük,ekonomi
+    kuvvet kelimesi arapça kökenli olduğu için anormal olmayan durum.
+  entry_channels: siyaset,bilim,eğitim
 - entry_name: |
     trabzonspor
   entry_id:  90377692
@@ -387,19 +363,43 @@ data:
     büyük aksilikler yaşamazsa, başkanlarına sahip çıkarlar ve futbolcularını korurlarsa önümüzdeki 5 yılda şampiyonluğun içerisinde yer alacak ve muhtemel odur ki muhakkak şampiyonluk görecek kulüp.
   entry_channels: spor
 - entry_name: |
+    paranın satın alamayacağı şeyler
+  entry_id:  90397874
+  entry_writer: trollere siktir ceken adam
+  entry_fav_count: 1
+  entry_content: |
+    zaman. geri kalan her şeyi bir şekilde yeterli para verirsen alabilirsin.<br/><br/>yeterki paran olsun. etrafından ne dostun eksik olur ne akraba.<br/><br/>en zeki adamları bulur çalıştırırsın. en iyi sağlık hizmetini alırsın. <br/>mesela telomer tedavisi yaptırıyorlar. bir seans 15 bin dolardan başlıyor. neye yarıyor biliyor musunuz? hücresel gençleşmeye. <br/><br/>o yüzden fakir avuntusunu bırakın. para kazanmaya başlayın. yoksa şükür şükür diye diye geberirsiniz allah korusun.
+  entry_channels: anket
+- entry_name: |
     şu anda çalan şarkı
-  entry_id:  90399943
-  entry_writer: baymrdak
+  entry_id:  90376479
+  entry_writer: seventhson
   entry_fav_count: 0
   entry_content: |
-    dönüyor aman dünya başım duman <br/>batıyor ama acıtmıyor senin sevdan<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=3wny8qawanA" title="https://www.youtube.com/watch?v=3wny8qawanA">acıtmıyor sevdan</a>
+    (bkz: <a class="b" href="/?q=red+hot+chili+peppers">red hot chili peppers</a>) (bkz: <a class="b" href="/?q=throw+away+your+television">throw away your television</a>)
   entry_channels: anket,müzik,edebiyat
 - entry_name: |
-    huawei'nin intikamı
-  entry_id:  90400501
-  entry_writer: taze sicak smith
+    sıfır bir
+  entry_id:  90370249
+  entry_writer: benide sikleyin
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=at%c4%b1n+intikam%c4%b1">atın intikamı</a>)
+    6x02<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>neasseh abe iyi adamsın hoş adamsın da kafan biraz kalın amk.tek başına mekan mı basılır.dostlarına haber verseydin ölmüştü şimdiye gö-khan abe.ama sana bir şey demiyorum tek başına mekan basma klişesi arka sokaklardan tutun da csı'ya kadar her dizide mevcut.<br/><br/>allah için biri şu bertoyu öldürsün amk.vallaha baydı şu karakterin hoplama zıplamaları.hayır vurulmasa bişey demeyeceğim her sezon finalinde de vuruluyor ibne,geri diriliyor.<br/><br/>hapishane müdürü daşaklı adam çıktı.savage ve jihad'ın nejat ve zahit ağayı çökertmesinde büyük payı olacak gibi duruyor.<br/><br/>gö-khan abe'nin adamlarından irfo mırtıp duruyor.bence gö-khan abe'ye ihanet etme potansiyeli var.<br/><br/>mahalleliye de ayrı ayar oldum amk.lan bu adamların sizin kiranızı ödeme gibi bir mesuliyeti mi var ? çalış öde ödeyemiyorsan da çık git kimsenin evini işgal etme.ekmek elden su gölden akıyor tabi para az kıtlık olunca burak-cengo oç oluyor.<br/><br/>3 bilemedin 4.bölümde nejat ve zahit ağaları yiyecekler ama ben ölümleri nasıl olacak merak ediyorum.bence finalde de gö-khan abe game of thrones misali mahalledeki herkesi öldürsün sonra ninja berto ağaçtan atlayıp bıçaklasın onu.mükkemmel bir final olur aq.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: tv,teknoloji,spoiler
+- entry_name: |
+    huawei'nin intikamı
+  entry_id:  90401134
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 0
+  entry_content: |
+    yazılımda soğuk savaş dönemi.<br/>doğu bloğu yazılımları vs batı bloğu yazılımları.<br/><br/>çift kutuplu yazılım dünyasına doğru gideceğiz.
   entry_channels: ilişkiler,teknoloji
+- entry_name: |
+    22 mayıs 2019 adanademirspor hatayspor maçı
+  entry_id:  90389654
+  entry_writer: marjinalbiz
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=hatayspor">hatayspor</a>) ise m.ö 3200'den beri süper lige hasret o yüzden onlara yakışır.
+  entry_channels: spor
 ---
