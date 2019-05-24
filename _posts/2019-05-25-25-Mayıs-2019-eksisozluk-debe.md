@@ -6,7 +6,7 @@ data:
     mansur yavaş'ın 812 milyon tl tasarruf etmesi
   entry_id:  90464611
   entry_writer: xspace
-  entry_fav_count: 3835
+  entry_fav_count: 3867
   entry_content: |
     mansur yavaş'ın tek ihalede 812 milyon tl tasarruf etmesidir.<br/><br/>mansur yavaş, anfa genel müdürlüğünün ankara ili sınırları içinde büyükşehir belediyesine bağlı park, bahçe, mezarlık, refüj ve yol kenarı bantlarda yer alan yeşil alanların bakım ve onarımı ihalesinin geçen yıllarda senelik 1 milyar tl'ye mal ettiğini bu sene ise kendilerinin şeffaf ve rekabetçi bir ihale ortamı yarattıklarını, ihaleyi canlı yayınladıklarını ve bu sayede 188 milyon tl'ye mal ettiklerini aktardı. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tcbuyuksehir/status/1131821276161613825" title="https://twitter.com/tcbuyuksehir/status/1131821276161613825">kaynak</a><br/><br/>bakın tek bir ihaleden elde edilen tasarruf bu. aslında bu para birilerinin cebine giren para. yoksa bu bir tasarruf olamaz. bir iş müsriflik nedeniyle en fazla 2 katına mal edilir, oysa görülüyor ki akp'li belediyeler 1 tl'lik işi 5 tl'ye mal etmişler. <br/><br/>birilerinin ceplerine giden paralar kesilirse belediyeler ucuza da su verir, ulaşımda da indirim yapar.
   entry_channels: siyaset,haber,ekonomi
@@ -14,7 +14,7 @@ data:
     24 mayıs 2019 erdoğan'a eyt tepkisi
   entry_id:  90468480
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 1072
+  entry_fav_count: 1080
   entry_content: |
     işsizim diyen kadına yanıt: "kocan ne iş yapıyor."<br/>bu adam cumhurbaşkanı. bu adam ülkenin en tepesindeki adam.<br/>bu adam kim mi?<br/>senin benim paramla yaptırdığı 1000 odalı sarayda yaşayıp, işsiz bir kadına it muamelesi çeken bir adam.<br/>daha da acınası durum bu konuşmanın ardından "bravo başkanım" diye alkışlayanların olması.<br/><br/>diktatörler, kendileri diktatör olmazlar. boyun eğen halk onları diktatör yapar.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     binali yıldırım'ın tv düellosunu kabul etmesi
   entry_id:  90474922
   entry_writer: cus la
-  entry_fav_count: 571
+  entry_fav_count: 634
   entry_content: |
     turkiye'de <a class="b" href="/?q=super+bowl">super bowl</a> havasinda gececek duellodur. devre arasinda tarkan falan ciksa bari.
   entry_channels: siyaset,tv,haber
@@ -30,7 +30,7 @@ data:
     ramazanda saklanarak su içen kuş
   entry_id:  90456268
   entry_writer: carsafgibideniz
-  entry_fav_count: 553
+  entry_fav_count: 555
   entry_content: |
     videonun thumbnail'ında "bu kuşun sadece ramazanda böyle su içtiğini biliyor muydunuz?" yazıyor. <br/><br/>peki videoya bir de kuran koyan pek dindar kardeşim, yalan söylemenin günah olduğunu ve hatta kitleleri kandırarak kul hakkına girdiğinizi biliyor muydunuz?
   entry_channels: yeme-içme
@@ -38,7 +38,7 @@ data:
     kadınlar da askerlik yapabilsin
   entry_id:  90462383
   entry_writer: cevirimanyagi
-  entry_fav_count: 498
+  entry_fav_count: 503
   entry_content: |
     tutmayacak öneri. olm hala kadınların eşitlik istediğini sanan saflar var. onların derdi eşitlik değil, nerede yağlı kapı varsa sırf kadın oldukları için avantaj sağlamak. mesela şirketlerin üst düzey yönetim kademesinde kadın sayısı az diye ağlarlar, sen hiç "madenci kadın sayısı az, maden şirketlerindeki işçilerin yarısı kadın olsun" diyen feminist gördün mü? üniversitede kendi başına alıp yediği kyk kredisini bile kocasına kitlemek için bekleyen bir sürü kadın var. ya da final haftası iki sınavdan geçemeyince "zengin koca bulsam da kurtulsam" diyen kızlara bizzat şahidim.<br/><br/>askerlik de benzer şekilde zor iş, ona hiç yanaşırlar mı? mesela "milletvekillerinin yarısı zorunlu olarak kadınlardan oluşsun" deseydin hemen atlarlardı. çünkü eşitlik anlayışları sadece haklarda eşit olmak, sorumlulukta değil.
   entry_channels: siyaset,haber
@@ -54,58 +54,34 @@ data:
     mars'a türkiye'den 1000000 kişinin isim göndermesi
   entry_id:  90446069
   entry_writer: dcdl
-  entry_fav_count: 379
+  entry_fav_count: 382
   entry_content: |
     ön edit: 3. ya da 4. entryi girmiştim ama başlık başa kalmış<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/>kuzey koreden ismini yazan 200 küsür kişiyi merak ettim. her kimse onlar huzur içinde uyusunlar.
   entry_channels: anket,teknoloji
 - entry_name: |
-    özel üni'den sevgili yapınca karşılaşılan çete
-  entry_id:  90460410
-  entry_writer: paintbrush
-  entry_fav_count: 373
-  entry_content: |
-    90’lı yıllarda emrah’ın seren serengil’le böyle bi filmi vardı. emrah motorsikletli çeteden zincirle dayak yiyordu. filmin sonunu hatırlamıyorum ama ben olsam gitmezdim sfjskjsksk<br/><br/>edit: filmin adı <a class="b" href="/?q=yasak+sokaklar">yasak sokaklar</a>.
-  entry_channels: ilişkiler,eğitim
-- entry_name: |
     24 mayıs 2019 huawei için microsd kart yasağı
   entry_id:  90466830
   entry_writer: maykil turner
-  entry_fav_count: 353
+  entry_fav_count: 360
   entry_content: |
     elindeki pazarı kaybetmeye başlayan ''demokrasinin beşiği'' abd' nin çıkarlarına ters bir durumda nasıl da taş devri insanından farksız olduğunu görüyoruz. aslında şaşırmamak lazım, insanoğlu her zaman böyleydi. belki ileride uçan arabalar olacak, her şey dijitalleşecek ama insanoğlunun hırsları, tutkuları hiçbir zaman değişmeyecek.
   entry_channels: teknoloji,haber
 - entry_name: |
-    rte karikatürü paylaşan işçiye hapis cezası
-  entry_id:  90460343
-  entry_writer: saintly
-  entry_fav_count: 286
+    24 mayıs 2019 fenerbahçe'nin uefa üst kurula sevki
+  entry_id:  90474796
+  entry_writer: ortalamasiboyundankucukmulkiyeli
+  entry_fav_count: 313
   entry_content: |
-    ülke yargısının içler acısı halini tekrardan görmemizi sağlayan inşaat işçisidir. paylaştığı karikatürlerde hakaret, küfür vb. şeyler olmamasına rağmen, "cumhurbaşkanına hakaret" suçlamasıyla 2 yıl 2 ay hapis cezası verilmiş ve ceza ertelenmemiş.<br/><br/>ceza verilen karikatürler için <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/q215825ak5wo" title="https://eksiup.com/p/q215825ak5wo">link</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/380045/insaat-iscisine-karikatur-paylastigi-icin-hapis-cezasi-verildi" title="https://www.evrensel.net/haber/380045/insaat-iscisine-karikatur-paylastigi-icin-hapis-cezasi-verildi">haber detayları</a><br/><br/>yazık hakikaten.
-  entry_channels: siyaset,haber
-- entry_name: |
-    yerli otomobilin 2 boyutlu çizimlerinin bitmesi
-  entry_id:  90455167
-  entry_writer: kroma
-  entry_fav_count: 284
-  entry_content: |
-    gelecek yila bir erken secim yapilirsa onda da 3 boyutlu tasarim biter.<br/><br/>muhtemel 4-5 erken secime de bir prototip biterse, boka battigimiz gun herhalde yuruyen aksami sokakta goruruz. ucan arabadan sonra kim buna binmek isterse artik.<br/><br/>t: yerli ve milli tasarim
-  entry_channels: haber,otomotiv
+    sorun olmayacaktır. bizim asgari ücretliler aralarında para toplar mali destekte bulunurlar.<br/><br/>(bkz: <a class="b" href="/?q=fakirin+cahili+zengine+zekat+verirmi%c5%9f">fakirin cahili zengine zekat verirmiş</a>)
+  entry_channels: spor
 - entry_name: |
     suriyelilerin bursa'da çocuk bıçaklaması
   entry_id:  90471490
   entry_writer: eeuummm
-  entry_fav_count: 278
+  entry_fav_count: 283
   entry_content: |
     fitne diyen ağzını zikiyim, 2 fav için suriyeli mültecilere dibini dövdürücek kıvama geldi sözlük duyarcıları.<br/><br/>gencecik çoçuk vatan toprağında at hırsızı biri tarafından bıçaklanıyo tepki fitne çıkarmayın.
   entry_channels: siyaset,haber
-- entry_name: |
-    24 mayıs 2019 fenerbahçe'nin uefa üst kurula sevki
-  entry_id:  90474796
-  entry_writer: ortalamasiboyundankucukmulkiyeli
-  entry_fav_count: 271
-  entry_content: |
-    sorun olmayacaktır. bizim asgari ücretliler aralarında para toplar mali destekte bulunurlar.<br/><br/>(bkz: <a class="b" href="/?q=fakirin+cahili+zengine+zekat+verirmi%c5%9f">fakirin cahili zengine zekat verirmiş</a>)
-  entry_channels: spor
 - entry_name: |
     24 mayıs 2019 kent'in bayram reklamı rezaleti
   entry_id:  90460190
@@ -118,119 +94,87 @@ data:
     24 mayıs 2019 istanbul yağmuru
   entry_id:  90452377
   entry_writer: larkdevil
-  entry_fav_count: 242
+  entry_fav_count: 243
   entry_content: |
     tanrılar bu son istanbul seçimine çok kızmış olmalı. binali gel vazgeç bu sevdadan tanrılar bile ekrem ımamoğlu diyor.
   entry_channels: haber
 - entry_name: |
-    fox tv ve halk tv tarafsız mıdır sorunsalı
-  entry_id:  90461113
-  entry_writer: uckuruslukopera
-  entry_fav_count: 163
-  entry_content: |
-    bu bir troll başlığı da olsa, bunlar yazılmalı. çünkü yüzsüzlük bir salgındır. erken dönemde önlemek gerekir. <br/><br/>halk tv ve fox tarafsız değildir. düzgün bir eğitime sahip, vicdan sahibi bir insanın şu ortamda tarafsız olması demek haysiyetsiz olması demektir. <br/><br/>başkentin göbeğindeki lüks bir plazada genç bir kız 20 cm’lik bir aralıktan pencerede hiç parmak izi olmayacak şekilde düşüp ölüyorsa ve sosyal medya duyurana kadar aylarca kimse tutuklanmıyorsa bu olaya tarafsız bakan kişi problemlidir.<br/><br/>kaçak, denetlenmeyen, bilerek göz yumulan, bakanlıklar ve malum medya tarafından tamamı inkar edilen ve “tarikat yurdu değildi” denilen aladağ yurt yangınında canlı canlı yanarak ölen <a class="b" href="/?q=cennet+karata%c5%9f">cennet karataş</a>‘ın günlüğüne yazdığı <br/><br/>“bugün okula gitmem için 8 günüm kaldı. 4 sınıfı bitirdim. 5'e geçtim. aladağ'a süleymancılar gidiyorum.<br/>annem ve babam benim için her şeyi yapıyor. benim okumam için herşeyi yapıyorlar.<br/><br/>ben de okumak için herşeyi yapıyorum. eğer ben okursam kardeşlerimi de okuturum. okumak için elimden gelen imkanları değerlendireceğim."<br/><br/>sözleri eğer sizde bir öfke nöbeti yaratmıyorsa, plazanızdan gözleriniz dolarak çıkıp hava alma ihtiyacı duymuyorsanız size ne tarafsız denir ne de insan denir. <br/><br/>tarafsız olmak mesela, 13 yaşında antalya’da geceleri tarla ortasında sac kaplı bir barakada uyuyup, gündüzleri sigortasız günlük 30 tl’ye portakal toplarken hortumda ölen <a class="b" href="/?q=berivan+karake%c3%a7ili">berivan karakeçili</a>‘nin adını anmamaksa, tarafsızlığınızı bir yerinize sokabilirsiniz. kendi neslim adına, bu millet okuttu bizi, bu milletten tarafız biz. tarafsız değiliz.<br/><br/>insan olmak taraf olmaktır. güçsüzden, kimsesizden yana taraf olmayacaksanız, gregor samsa gibi bir gün dev bir böcek olarak uyanırsınız. böcekler tarafsızdır.
-  entry_channels: siyaset,anket,ilişkiler,tv,haber
-- entry_name: |
-    erkeği peşinden koşturmak isteyenlere tavsiyeler
-  entry_id:  90458868
-  entry_writer: capivals
-  entry_fav_count: 160
-  entry_content: |
-    (bkz: <a class="b" href="/?q=pe%c5%9ften+ko%c5%9fmak">peşten koşmak</a>)<br/><br/>peki sormazlar mı toynaklarınızla nasıl başlık açıyorsunuz diye?
-  entry_channels: anket
-- entry_name: |
-    s-400 bizi kimden koruyacak
-  entry_id:  90469941
-  entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 153
-  entry_content: |
-    uçağını düşürdüğümüz rusya'yı hatırladın mı?<br/>işte bu s-400 onun diyeti. bizim iett şoförü öngöremediğinden hemen kabul etti.<br/>sandı ki s-400 alırım, ruslar da bu parayla olayı kapatır gider.<br/>putin çok kindar bir adam bunu anlamak için biraz araştırmak yeter.<br/>s-400 bizi sapladı. bunun nihayetinde nato'dan atılmamız da söz konusu. abd ile düşman olmamız da. almanya bile iptal edin diyor. var gerisini sen düşün.<br/>yani rusya bizi aslında çırılçıplak soydu ve yalnızlaştırdı.<br/>abd'den bile dost olma ihtimali var ama ruslardan asla dost olmaz.<br/>bunu tarih bile haykırdı da bi bizimkiler anlamadı.<br/><br/>düşmanın sana taş attıysa sen de ona taş atma. taş attığı elini kes.<br/>en güzel stratejidir. ve rusya bunu harika bir şekilde gerçekleştirdi.<br/><br/>ayrıca o nasıl bir nick evveliyatını siktiğim.
-  entry_channels: siyaset
-- entry_name: |
     cs_assault'taki gıcırdayan kapı
   entry_id:  90470423
   entry_writer: etsiz cig kofte olmaz
-  entry_fav_count: 152
+  entry_fav_count: 165
   entry_content: |
     nice meslek aşkı ile yanan counter bu kapı yüzünden helak olmuştur.<br/>vatan haini teröristler tarafından kasıtlı olarak yağlanmadığını düşünmekteyim.
   entry_channels: oyun
 - entry_name: |
+    fox tv ve halk tv tarafsız mıdır sorunsalı
+  entry_id:  90461113
+  entry_writer: uckuruslukopera
+  entry_fav_count: 164
+  entry_content: |
+    bu bir troll başlığı da olsa, bunlar yazılmalı. çünkü yüzsüzlük bir salgındır. erken dönemde önlemek gerekir. <br/><br/>halk tv ve fox tarafsız değildir. düzgün bir eğitime sahip, vicdan sahibi bir insanın şu ortamda tarafsız olması demek haysiyetsiz olması demektir. <br/><br/>başkentin göbeğindeki lüks bir plazada genç bir kız 20 cm’lik bir aralıktan pencerede hiç parmak izi olmayacak şekilde düşüp ölüyorsa ve sosyal medya duyurana kadar aylarca kimse tutuklanmıyorsa bu olaya tarafsız bakan kişi problemlidir.<br/><br/>kaçak, denetlenmeyen, bilerek göz yumulan, bakanlıklar ve malum medya tarafından tamamı inkar edilen ve “tarikat yurdu değildi” denilen aladağ yurt yangınında canlı canlı yanarak ölen <a class="b" href="/?q=cennet+karata%c5%9f">cennet karataş</a>‘ın günlüğüne yazdığı <br/><br/>“bugün okula gitmem için 8 günüm kaldı. 4 sınıfı bitirdim. 5'e geçtim. aladağ'a süleymancılar gidiyorum.<br/>annem ve babam benim için her şeyi yapıyor. benim okumam için herşeyi yapıyorlar.<br/><br/>ben de okumak için herşeyi yapıyorum. eğer ben okursam kardeşlerimi de okuturum. okumak için elimden gelen imkanları değerlendireceğim."<br/><br/>sözleri eğer sizde bir öfke nöbeti yaratmıyorsa, plazanızdan gözleriniz dolarak çıkıp hava alma ihtiyacı duymuyorsanız size ne tarafsız denir ne de insan denir. <br/><br/>tarafsız olmak mesela, 13 yaşında antalya’da geceleri tarla ortasında sac kaplı bir barakada uyuyup, gündüzleri sigortasız günlük 30 tl’ye portakal toplarken hortumda ölen <a class="b" href="/?q=berivan+karake%c3%a7ili">berivan karakeçili</a>‘nin adını anmamaksa, tarafsızlığınızı bir yerinize sokabilirsiniz. kendi neslim adına, bu millet okuttu bizi, bu milletten tarafız biz. tarafsız değiliz.<br/><br/>insan olmak taraf olmaktır. güçsüzden, kimsesizden yana taraf olmayacaksanız, gregor samsa gibi bir gün dev bir böcek olarak uyanırsınız. böcekler tarafsızdır.
+  entry_channels: siyaset,anket,ilişkiler,tv,haber
+- entry_name: |
     roma imparatorluğu
   entry_id:  90468029
   entry_writer: taiga
-  entry_fav_count: 151
+  entry_fav_count: 161
   entry_content: |
     (bkz: <a class="b" href="/?q=m%c3%bclk+allah%c4%b1nd%c4%b1r">mülk allahındır</a>)
   entry_channels: siyaset,tarih
 - entry_name: |
-    hırsızlara bu işi bırakmayacağız
-  entry_id:  90466636
-  entry_writer: sodyumklorur
-  entry_fav_count: 147
+    s-400 bizi kimden koruyacak
+  entry_id:  90469941
+  entry_writer: kalemi kilicindan keskin olan adam
+  entry_fav_count: 159
   entry_content: |
-    biz de aynısını diyoruz reis.<br/><br/>(bkz: <a class="b" href="/?q=%23her%c5%9fey%c3%a7okg%c3%bczelolacak">#herşeyçokgüzelolacak</a>)
-  entry_channels: siyaset,haber
+    uçağını düşürdüğümüz rusya'yı hatırladın mı?<br/>işte bu s-400 onun diyeti. bizim iett şoförü öngöremediğinden hemen kabul etti.<br/>sandı ki s-400 alırım, ruslar da bu parayla olayı kapatır gider.<br/>putin çok kindar bir adam bunu anlamak için biraz araştırmak yeter.<br/>s-400 bizi sapladı. bunun nihayetinde nato'dan atılmamız da söz konusu. abd ile düşman olmamız da. almanya bile iptal edin diyor. var gerisini sen düşün.<br/>yani rusya bizi aslında çırılçıplak soydu ve yalnızlaştırdı.<br/>abd'den bile dost olma ihtimali var ama ruslardan asla dost olmaz.<br/>bunu tarih bile haykırdı da bi bizimkiler anlamadı.<br/><br/>düşmanın sana taş attıysa sen de ona taş atma. taş attığı elini kes.<br/>en güzel stratejidir. ve rusya bunu harika bir şekilde gerçekleştirdi.<br/><br/>ayrıca o nasıl bir nick evveliyatını siktiğim.
+  entry_channels: siyaset
 - entry_name: |
     kavgaya çağrılabilecek sözlükçüler
   entry_id:  90462352
   entry_writer: coksakatvar
-  entry_fav_count: 141
+  entry_fav_count: 142
   entry_content: |
     cinsiyet: erkek<br/>boy: 1.58<br/>kilo: 63<br/>yetenekler: yok
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    kocan napıyor
-  entry_id:  90471646
-  entry_writer: oddiedud
-  entry_fav_count: 117
-  entry_content: |
-    "iyi, senin kocan ne yapıyor?" şeklinde cevap verilmesi gereken soru cümlesi.
-  entry_channels: siyaset,haber
-- entry_name: |
-    a101'de kasiyere saldıran maganda
-  entry_id:  90469623
-  entry_writer: moguk
-  entry_fav_count: 104
-  entry_content: |
-    aynı magandanın, yurt dışında anasına küfret, elini oynatamaz.çünkü bilir ki, vurursa anasını siker devlet. fakat yurdumda "bozuk kaymak" yüzünden bile saldırabilir bir gence, çünkü biliyor cezasının olmadığını!
-  entry_channels: 
-- entry_name: |
-    24 mayıs 2019 abdurrahman uzun imamoğlu videosu
-  entry_id:  90462160
-  entry_writer: oddiedud
-  entry_fav_count: 91
-  entry_content: |
-    izlemedim. bunların başı her gün tv'de böğürüyor zaten. ekstradan cahil bulup izlemenin bir anlamı yok.<br/><br/>tanım: kim olduğu belli olmayanın ne olduğu belli olmayan videosudur herhalde.
-  entry_channels: siyaset,haber
-- entry_name: |
-    mesleklerin günlük hayata katkıları
-  entry_id:  90457898
-  entry_writer: balbaloise
-  entry_fav_count: 90
-  entry_content: |
-    photoshop'ta cami minarelerini rokete çeviriyorum.
-  entry_channels: anket
-- entry_name: |
-    sağ beynini mi kullanıyorsun sol beynini mi testi
-  entry_id:  90465808
-  entry_writer: hamu humu
-  entry_fav_count: 84
-  entry_content: |
-    ben ikisini de kullanmıyorum.<br/>(bkz: <a class="b" href="/?q=beyincik">beyincik</a>) yetiyor bana.<br/>temel hayatta kalma refleksleri yeterli.<br/>fazlası zarar.
-  entry_channels: anket,bilim
-- entry_name: |
     yıldırım imamoğlu düellosunu sunacak moderatör
   entry_id:  90477033
   entry_writer: senersongur
-  entry_fav_count: 78
+  entry_fav_count: 110
   entry_content: |
     <a class="b" href="/?q=fatih+altayl%c4%b1">fatih altaylı</a> en ideal isimdir.
   entry_channels: siyaset,anket,tv,haber
 - entry_name: |
+    a101'de kasiyere saldıran maganda
+  entry_id:  90469623
+  entry_writer: moguk
+  entry_fav_count: 106
+  entry_content: |
+    aynı magandanın, yurt dışında anasına küfret, elini oynatamaz.çünkü bilir ki, vurursa anasını siker devlet. fakat yurdumda "bozuk kaymak" yüzünden bile saldırabilir bir gence, çünkü biliyor cezasının olmadığını!
+  entry_channels: 
+- entry_name: |
+    mesleklerin günlük hayata katkıları
+  entry_id:  90457898
+  entry_writer: balbaloise
+  entry_fav_count: 91
+  entry_content: |
+    photoshop'ta cami minarelerini rokete çeviriyorum.
+  entry_channels: anket
+- entry_name: |
+    yıldırım vs imamoğlu tv düellosuna kanal önerileri
+  entry_id:  90475868
+  entry_writer: imamihanife
+  entry_fav_count: 57
+  entry_content: |
+    <a class="b" href="/?q=habert%c3%bcrk">habertürk</a>'ten başkası olmaz. hem habertürk bu işin fikir babası hem <a class="b" href="/?q=didem+arslan+y%c4%b1lmaz">didem arslan yılmaz</a> iki tarafı da konsolide edecek profesyonel bir moderatör.
+  entry_channels: siyaset,anket,tv
+- entry_name: |
     chernobyl (dizi)
   entry_id:  90445307
   entry_writer: iamafathousecat
-  entry_fav_count: 55
+  entry_fav_count: 57
   entry_content: |
     ağızda metal tadı bırakan dizi.
   entry_channels: tv,spoiler
@@ -238,10 +182,18 @@ data:
     ekşicilerin evindeki en eski eşyanın yaşı
   entry_id:  90445029
   entry_writer: siper al
-  entry_fav_count: 50
+  entry_fav_count: 51
   entry_content: |
     <a class="b" href="/?q=antika+h%c4%b1rs%c4%b1zl%c4%b1%c4%9f%c4%b1na+giri%c5%9f+101">antika hırsızlığına giriş 101</a>
   entry_channels: anket
+- entry_name: |
+    çin'in iphone üretimini durdurma ihtimali
+  entry_id:  90469927
+  entry_writer: tdsfirstlaw
+  entry_fav_count: 48
+  entry_content: |
+    (bkz: <a class="b" href="/?q=olmam%c4%b1%c5%9f+olaylar+hakk%c4%b1nda+olmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">olmamış olaylar hakkında olmuş gibi başlık açmak</a>) dolu bakınız.
+  entry_channels: 
 - entry_name: |
     ferudun niğdelioğlu
   entry_id:  90456435
@@ -251,26 +203,10 @@ data:
     galatasaray'ın hem akp hem de fetö tarafından kollandığını iddia eden bir kısım gerizekalı beşiktaşlı ve fenerbahçeli tarafından, "adam gibi adam" falan diye savunulan vasat holigan. yaptığı yorumların ne gerçekliği ne de kanıtı vardır. tamamen fenerbahçeli olmasından kaynaklı tv ekranında kahvehane, erkek öğrenci evi muhabbeti yapmıştır ve bunun karşılığında kovulmuştur. biz sözlükte yazarken bile dikkat ediyorken, galatasaraylıların da vergisiyle çarkını döndüren kanalda mal mal konuşurken böyle paket ederler, yallah fb tv'ye.<br/><br/>ayrıca bu durumun galatasaray ile alakası yok. "beşiktaş'tan 100 milyon tl alacağı olan demirören sayesinde beşiktaş şaibeli şekilde iki yıl üst üste şampiyon oldu" deseydi de kovulurdu. fenerbahçe örneği veremiyorum çünkü başarısız bir takım. herhangi bir örneğe dahil olabilecek durumda değil.
   entry_channels: spor
 - entry_name: |
-    yıldırım vs imamoğlu tv düellosuna kanal önerileri
-  entry_id:  90475868
-  entry_writer: imamihanife
-  entry_fav_count: 46
-  entry_content: |
-    <a class="b" href="/?q=habert%c3%bcrk">habertürk</a>'ten başkası olmaz. hem habertürk bu işin fikir babası hem <a class="b" href="/?q=didem+arslan+y%c4%b1lmaz">didem arslan yılmaz</a> iki tarafı da konsolide edecek profesyonel bir moderatör.
-  entry_channels: siyaset,anket,tv
-- entry_name: |
-    hasan şaş
-  entry_id:  90445350
-  entry_writer: rahatsiz edilmek istemeyen utu
-  entry_fav_count: 42
-  entry_content: |
-    yanarım yanarım bu adamı savunan insanlara yanarım. ordaki görevliyi tartaklamasını haklı görenler var maalesef. görevli ben ne yaptım ki diye bağırıyor yani karşılıklı bir kavga bile değil orda olan, adam da şaşkın. bu işin takımı falan yok, takımcılık yapanların hepsi de defolsun gitsin artık. bu iş fenerbahçe, galatasaray, beşiktaş işi değil. her takımda var böyleleri ve her birinden nefret ediyorum. bunlar haklı haksız fark etmeksizin trafikte kavga eden, küfür eden mahlukatlar. sözlüğümüzde de bu mahlukatlardan fazlasıyla var ne yazık ki.<br/><br/>edit: sonra ben atatürkçüyüm, ekrem başkancıyım diye geçinmeyin. iş takıma gelince holiganlaşmayın, öncelikle ahlaklı sporcuların yanında durun, bu ahlaksızların yanında değil.
-  entry_channels: spor
-- entry_name: |
     24 mayıs 2019 uefa açıklaması
   entry_id:  90474903
   entry_writer: linngari
-  entry_fav_count: 39
+  entry_fav_count: 43
   entry_content: |
     "tiz yabanci futbolcu sayisi 3 e dusurulsun. nerede lan benim 1959 dan onceki sampiyonluklarim?"
   entry_channels: spor,haber
@@ -278,18 +214,18 @@ data:
     25 litre
   entry_id:  90476691
   entry_writer: zeyamak
-  entry_fav_count: 35
+  entry_fav_count: 39
   entry_content: |
     en yoğun saatte böyle bir belgesele yer verdiği için yerli ve milli fox tv'ye sonsuz teşekkürler.
   entry_channels: tv,bilim,haber
 - entry_name: |
-    chp'li bakkala verilen imamoğlu tarzı ayar
-  entry_id:  90473797
-  entry_writer: maximillian
-  entry_fav_count: 31
+    amerika birleşik devletleri
+  entry_id:  90445172
+  entry_writer: tovbebismillah
+  entry_fav_count: 36
   entry_content: |
-    sonuç olarak asıl hırsız sensin. ben mi yanlış anladım yoksa?
-  entry_channels: siyaset,edebiyat,ekonomi
+    "türkiye'nin iç işlerine müdahele ediye!..." diye ağlanmış.<br/>adam ol da ettirme aq! <br/>boş atarla "eyyylerle, van minütler" ile değil ama...<br/>kaya gibi ekonomiyle, üretim kaynaklarınla, bilgisayar, silah, uzay teknolojinle, sanatınla, sinemanla, kitabınla, biliminle, turizminle, eğitim seviyen ve insan kalitenle kafa tut.<br/>bu alanlarda ağzını gözünü tokatla amerikanın. <br/>sen onun iç işlerine müdahele et.<br/>zencilere, kızılderililere doğru davranın, aklınızı almayayım filan de...<br/>ne işi var lan sizin geminizin akdenizde de...<br/>çekilin bakiim ortadoğudan, almıyım aklınızı de mesela...<br/>yoksa bik bik ötme.<br/>oyun güç oyunudur.<br/>gücün yoksa hiçbir şeysin...
+  entry_channels: siyaset,tv,tarih,teknoloji,haber,ekonomi,seyahat
 - entry_name: |
     2010-2011 sezonu şampiyonu ts diyebilen fenerli
   entry_id:  90473316
@@ -299,6 +235,14 @@ data:
     o fenerli o sezon ts nin maçlarını izlememiştir. benim tanıdığım ts lide o sezon yaptıkları maçlardaki kolay galibiyetleri anlatır. bir gaziantep maçı var kimsenin haberi yok ama bizi şampiyon yapmak için çıkmıştı antepliler diye başlar cümleye
   entry_channels: spor,siyaset
 - entry_name: |
+    24 mayıs 2019 beşiktaş kasımpaşa maçı
+  entry_id:  90456808
+  entry_writer: duserkalkar
+  entry_fav_count: 30
+  entry_content: |
+    hasan şaş için adam gibi adam yazan trollerin bjk kazanır çünkü hakemler ittiriyor diye entry girdiği maç. <br/>(bkz: <a class="b" href="/?q=ars%c4%b1za+s%c3%b6z+i%c5%9flemez">arsıza söz işlemez</a>)
+  entry_channels: spor
+- entry_name: |
     erkekler yatakta ne ister
   entry_id:  90448159
   entry_writer: bean bandit
@@ -307,13 +251,13 @@ data:
     ahahahah bu entryler ne lan böyle. kanzuk ağzına sıçayım gel bak gel bak.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    24 mayıs 2019 beşiktaş kasımpaşa maçı
-  entry_id:  90456808
-  entry_writer: duserkalkar
-  entry_fav_count: 29
+    sözlüğün 30 yaş üstü amca ve teyze kaynaması
+  entry_id:  90461300
+  entry_writer: zararyokziyanvar
+  entry_fav_count: 26
   entry_content: |
-    hasan şaş için adam gibi adam yazan trollerin bjk kazanır çünkü hakemler ittiriyor diye entry girdiği maç. <br/>(bkz: <a class="b" href="/?q=ars%c4%b1za+s%c3%b6z+i%c5%9flemez">arsıza söz işlemez</a>)
-  entry_channels: spor
+    burada başlık açamayan, cümle kuramayan, muhakeme yeteneği olmayan ergenlere dert olmuş durum.<br/><br/>bu siteyi bizler kurduk, geliştirdik, büyüttük çocuğum. çok rahatsızsan (bkz: <a class="b" href="/?q=k%c4%b1zlarsoruyor.com">kızlarsoruyor.com</a>) tam sizin zekanıza göre.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     sevişmek istenen ünlüler
   entry_id:  90467065
@@ -339,13 +283,29 @@ data:
     fatih hocamın yerinde olsam bu maçı verip maç sonu “kadıköyde fenerbahçeden aldığımız 1 puan sayesinde şampiyon olduk” açıklaması yapardım.<br/><br/>tanım: 2018/2019 tsl 34. hafta maçı
   entry_channels: spor
 - entry_name: |
+    atatürk'ü teke tekte yenecek olmam
+  entry_id:  90478800
+  entry_writer: bizansa karsi memleket takimi
+  entry_fav_count: 19
+  entry_content: |
+    şerefsiz bir aktrollün suç teşkil eden hezeyanları.<br/>(bkz: <a class="b" href="/?q=engelle">engelle</a>)<br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)
+  entry_channels: 
+- entry_name: |
     nazlanacak kimsenizin olmaması
   entry_id:  90475979
   entry_writer: never dont give up
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     hangi yaşta olursanız olun, ne kadar güçlü olursanız olun, ister aile babası ister 3 çocuk annesi olun her insanın nazlanmaya ihtiyaç duyduğu zamanlar olur. bunun güçlü olmakla veya olgun olmakla alakası yok. bazen şımarmak isteriz, kedi gibi mırıldanıp sırnaşmak isteriz, modumuz düşer naz yapalım karşıdaki toparlasın isteriz. bu tamamen psikolojik bir ihtiyaç.<br/><br/>eğer etrafınızda nazınızı çeken insanlar varsa gerçekten çok şanslısınız demektir.
   entry_channels: ilişkiler
+- entry_name: |
+    striptiz gösterili rus düğünü
+  entry_id:  90478251
+  entry_writer: uff snne be slk
+  entry_fav_count: 14
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/U5mTfh8sb2g">https://youtu.be/u5mtfh8sb2g</a><br/>bizde de erik dalı amk.
+  entry_channels: haber,moda,magazin
 - entry_name: |
     ideal erkek boyunun 173 ve 177cm aralığında olması
   entry_id:  90472091
@@ -358,7 +318,7 @@ data:
     karısına jeep alan erkek
   entry_id:  90474069
   entry_writer: adams kerler
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     elini görüyorum ve arttırıyorum. %99.7 ihtimalle bir başkasına çakıyordur. var böyle bir tanıdığım. her enselendiğinde jeep almaz ama karısının altındaki arabanın marka ve modelini yenilerdi.
   entry_channels: ilişkiler,otomotiv
@@ -366,40 +326,80 @@ data:
     fenerbahçe'nin avrupa kupalarından men edilmesi
   entry_id:  90474739
   entry_writer: allwithinmyhands
-  entry_fav_count: 11
+  entry_fav_count: 13
   entry_content: |
     bilmeyenler için olasi ceza bu sene degil, fenerin avrupa kupalarina katilim hakki kazandigi ilk sezon uygulanacaktir. yani fener ceza alirsa önümüzdeki sene şampiyon olsa bile avrupa'da yok.
   entry_channels: spor
 - entry_name: |
-    güven yalçın
-  entry_id:  90478241
-  entry_writer: hadibeoradan
+    en son gerçekten mutlu hissedilen an
+  entry_id:  90455541
+  entry_writer: iyyakenabuduveiyyakenestain
   entry_fav_count: 5
   entry_content: |
-    gol attığında 3'yen aşağı atmayan genç oyuncu. beşitaş daha fazla gol atmasın diye devre arasında oyundan çıkartılabilir.
+    dün..<br/><br/>öğrencilerimle dersin kalan son 5 dakikasında bir mevzuya dair konuşuyoruz. konu yaşlılara geldi. alperen isimli bir öğrencim; " hocam ben yolda yaşlı biri görünce , onu geçip önünden yürüyemiyorum. utanıyorum hocam, içim sızlıyor. ya yolumu değiştiriyorum ya da yavaşlıyorum ." dedi.<br/><br/>bunları duyunca dayanamadım alnından öptüm koca oğlanı..<br/><br/>öğretmenlik böyle bir şey işte; <br/>ders vermek için sınıfa girer, ders alır çıkarsınız..
+  entry_channels: anket
+- entry_name: |
+    istanbullu gelin
+  entry_id:  90478398
+  entry_writer: ilsu
+  entry_fav_count: 2
+  entry_content: |
+    zavallı dilara, herkes kendini kurtardı, olan sana oldu.
+  entry_channels: tv,spoiler
+- entry_name: |
+    24 mayıs 2019 ekrem imamoğlu tv5 yayını
+  entry_id:  90462056
+  entry_writer: iphoneumdangonderildi
+  entry_fav_count: 2
+  entry_content: |
+    izlemeyi düşündüğüm yayındır.<br/><br/>fakat imamoğlu sürekli sokaklarda insanlarla birlikte, iftarlara gidiyor, tv programlarına katılıyor. helal olsun.<br/><br/>adamda göklerden gelen bitmeyen enerji var lan.<br/><br/>#herseycokguzelolacak
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    kadın sevişmiyorsa koca ne yapmalı
+  entry_id:  90478649
+  entry_writer: bach baba
+  entry_fav_count: 1
+  entry_content: |
+    daha ilginç sorunsal bu durumda erkeğin nasıl istiyor oluşu. sevişmek nihayetinde arzulamak ve arzulanmak olsa gerek ihtiyaç gidermek değil.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    fenerbahçe
+  entry_id:  90462167
+  entry_writer: mozambik asilliyim
+  entry_fav_count: 1
+  entry_content: |
+    yepyeni bir sayfa diyerek yola çıkıp aziz yıldırım dönemindeki isimleri birer birer tekrar getirmeye başlayan takım.<br/><br/>önce ersun geldi sonra volkan demirel tekrar kadroya dahil edildi ondan sonra volkan ballı getirildi...<br/><br/>emre belözoğlu'na geldi... şimdi de bir yönetici istifa etmiş yerine hakan bilal kutlualp'in geleceği söyleniyor... abi niye kıvranıyorsunuz ki. aziz yıldırım'ı getirin tekrar, kökten çözüm olsun.
   entry_channels: spor
 - entry_name: |
-    şenol güneş
-  entry_id:  90464705
-  entry_writer: 2gundeucurulanyazar
-  entry_fav_count: 3
+    fatih terim
+  entry_id:  90447312
+  entry_writer: afilli nick bulamiyorum lan
+  entry_fav_count: 1
   entry_content: |
-    hayatında görmediği desteği ve başarıyı gördüğü beşiktaş camiasına son 2 sezonda kişisel kaprisleri ve takıntıları yüzünden ihanet etmiş olan milli takım antrenörü.
+    birisi demiş ki galatasaray’ın efsaneleri arasına girdi artık diye. pardon da bu kadar çok kupa kazanan, türkiye kupası ve süper kupayı fındık fıstık gibi hissettiren, 8 tane lig şampiyonluğu olan (bu 8 şampiyonluğu 9.5 yıl teknik direktörlük yaparak kazandı) 1 tane avrupa kupası alan başka teknik direktörler mi var da, aralarına girdi hoca?<br/><br/>arkadaşlar fatih terim galatasaray’ın en büyük efsanesidir, en büyük 3 isminden birisidir gelmiş geçmiş. kurucu ali sani yen ve metin oktay’dan sonra. <br/><br/>teknik direktör olarak bakarsak gelmiş geçmiş sadece galatasaray değil türk futbolunun en büyük ismiyle karşılaşıyoruz. galatasaray’da kazandıklarının üstüne 3 avrupa şampiyonasına katılma hakkı ve 1 yarı final ekleyin? kaldı ki geriye kalan 1 avrupa şampiyonası ile 1 dünya kupası üçüncülüğünün bu adamın kurduğu iskeletle geldiğinden bahsetmiyorum bile. <br/><br/>bir galatasaraylı olarak içimi en fazla yakan, olsa nasıl olurdu diye kurduğum hayal de şudur: bu adam 2000-2011 arası kulüpte 1.5 sene çalıştı sadece, kariyerinin tamamını 96’dan beri 23 yıldır galatasaray’da devam ettirmiş olsa neleri kazanmış olurduk? bir nevi fergusonumuz olsaydı...
   entry_channels: spor
 - entry_name: |
-    psikolog sevgili
-  entry_id:  90475020
-  entry_writer: senirsirt
-  entry_fav_count: 3
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  90446623
+  entry_writer: kendimikendimdencikarsam0kalmaz
+  entry_fav_count: 1
   entry_content: |
-    eve iş getirmeyen prensipte birisi ise umduğunuzu bulamayabilirsiniz. ( beklentiler yalan oldu)
-  entry_channels: ilişkiler
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=i7x57ySh_UI">https://www.youtube.com/watch?v=i7x57ysh_ui</a><br/><br/>mohsen namjoo dinlerken bedenine iran ateşi dolup, o milletin bütün tarihi, acısını şu an burada ruhunda hisseden başka insan var mı?<br/><br/>yani ortada bir ''aşk'' var ama öznesi yok. kime? yok. niye? yok. sadece salt 'aşk' kavramı üzerinden kulağından beynine sızan bi tını var. <br/><br/>anlatamıyorum. daha iyi anlatabilen beri gelsin.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    en güzel bira
-  entry_id:  90445405
-  entry_writer: albiceleste
+    güzel bar adları
+  entry_id:  90454335
+  entry_writer: demba
   entry_fav_count: 0
   entry_content: |
-    tabikide elinizin altındaki
-  entry_channels: anket,yeme-içme
+    en iyisi; ambar
+  entry_channels: yeme-içme
+- entry_name: |
+    güven yalçın
+  entry_id:  90476972
+  entry_writer: istemeyi bileceksin
+  entry_fav_count: 0
+  entry_content: |
+    kasımpaşa'ya çok tatlı bir gol atmış 20 yaşındaki futbolcu.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/BesiktasOrdusu/status/1131986517264601094" title="https://twitter.com/BesiktasOrdusu/status/1131986517264601094">link</a><br/><br/>edit 2: hat-trick yapmıştır.
+  entry_channels: spor
 ---
