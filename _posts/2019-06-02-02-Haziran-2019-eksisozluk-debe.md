@@ -6,7 +6,7 @@ data:
     türkiye'ye büyük bir tezgah hazırlıyorlar
   entry_id:  90763010
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 1309
+  entry_fav_count: 1313
   entry_content: |
     adamin rakiplerine bak,<br/><br/>-eski basbakan<br/>-icisisleri bakani<br/>-cumhurbaskani<br/>-pelikan teror orgutu<br/>-tum tv ve radyo kanallari<br/>-akp genclik kollari<br/>-ibb uyeleri, calisanlari<br/><br/>vallahi bravo. bu adam bu secimi kazanirsa ki kazanacak gibi duruyor akp icinde cok kelle gidecek coook.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     suriyelileri istememenin ırkçılık olması
   entry_id:  90765984
   entry_writer: saintly
-  entry_fav_count: 625
+  entry_fav_count: 633
   entry_content: |
     <a class="b" href="/?q=bilal%27e+anlat%c4%b1r+gibi">bilal'e anlatır gibi</a> özet geçiyorum: <br/><br/>dünyanın hiçbir yerinde 5 milyon insana rastgele sınırları açıp, "istediğiniz şehirlere dağılın" şeklinde bir mülteci politikası yok, olamaz. akp, bunu yaptı ve birçok şehir sosyo-ekonomik-kültürel anlamda yıkıma uğradı. kiralar yükseldi, iş alanları daraldı, zaten pek güvenilir olmayan sokaklar iyice kriminalize oldu. bu insanlar geri gönderilecek mi? bu konuda hiçbir çalışma yok. üzerine genç, orta yaşlı suriyeli erkeklerin karıştığı adli olayların sayısı da çokça artınca ülkenin kendi vatandaşının tepkisi artıyor, keskinleşiyorlar. ekonomik kriz koşullarında suriyelilere harcanan parayı saymıyorum bile.<br/><br/>herkese elbette kefil olmuyorum ancak; akp'nin rezil kepaze mülteci politikasını eleştirmenin neresi ırkçılık? niye ırkçılık? götünüzden element uydurmanın anlamı yok çünkü suriyeliler meselesi orospu çocuğu ak troller de dahil olmak üzere tüm ülke vatandaşları için çözülmesi gereken bir sorun. ayrıca her eleştiriye, "ama onlar savaştan kaçtı" diye hıyar gibi koşmayın. şuan suriye'nin %95'lik kısmında savaş bitmiş durumda.
   entry_channels: siyaset,ilişkiler
@@ -22,7 +22,7 @@ data:
     ekrem imamoğlu'na oy vermeye elim gitmiyor
   entry_id:  90762725
   entry_writer: kezbanmonoksit
-  entry_fav_count: 621
+  entry_fav_count: 626
   entry_content: |
     17 sene öbürüne şans verdin ve senin benim paramı çarçur ederek göz boyadılar, bir de bu temiz yüzlüye şans ver. kaldı ki 17 sene beklemene gerek yok 5 sene sonra indirirsin aşağı.<br/><br/>edi ile büdü: yazmadan önce başlık sahibinin yazdıklarına baktım, aktroll olmadığına kanaat getirip yazdım. <br/><br/>akp’den vazgeçmeyen annemi “babamın, kredi kartlarıyla ve kredilerle sana refah bir hayat yaşattıktan sonra para bitince ve kimse kredi vermeyince; hep komşular (dış güçler) yüzünden oldu demesiyle, bunların yaptığı icraatlar ve söylemler de aynı” diyerek ve destekleyerek ikna etmiştim. <br/><br/>hülasa bunların yaptığı hizmet bir taraftan peşkeş çekip bir taraftan borç alınan hizmet.
   entry_channels: siyaset,anket
@@ -30,7 +30,7 @@ data:
     fatih terim'e neden tazminat ödedik
   entry_id:  90777178
   entry_writer: elbistan
-  entry_fav_count: 484
+  entry_fav_count: 515
   entry_content: |
     ne güzel dünya lan. sezon başı gelip milyonlarca euro parayı kiralık ya da bonservisli oyunculara bayıl. 1 tanesi dahi tutmasın. buna bağlı olarak kendi takımın ligin ilk yarısını küme düşme hattında tamamlasın. ama sen sabah akşam fatih terim galatasaray diye algı kas. <br/><br/>bir de bu arkadaşa ülke emanet etmek isteyen romantikler var.
   entry_channels: spor,haber
@@ -38,7 +38,7 @@ data:
     twitter'daki beyin yakan bdsm paylaşımı
   entry_id:  90772220
   entry_writer: oyledusunmuyorum
-  entry_fav_count: 469
+  entry_fav_count: 475
   entry_content: |
     <a class="b" href="/?q=ger%c3%a7ek+bdsm+bu+de%c4%9fil">gerçek bdsm bu değil</a> <br/>ulan efendi gibi sevişin işte bu nedir?<br/>zaten bu tahrik de etmez ki insanı, dümdüz sopayı veriyor adama.<br/><br/>o değil de, ne garip hayatlar var cidden. biz böyle efendi gibi falan yaşıyoruz ama türlü türlü insanlar var dünyada.<br/><br/>edit: kadının hesabına bakma gafletinde bulundum, bu tarz videolarla dolu ama 21 saat önce kandil de kutlamış ahahah. senin de kutlu olsun ablacım, hayırlı işler.
   entry_channels: ilişkiler
@@ -54,7 +54,7 @@ data:
     uzun penis vs kalın penis
   entry_id:  90754676
   entry_writer: muzu bicakla soyan adam
-  entry_fav_count: 430
+  entry_fav_count: 437
   entry_content: |
     sokacak yer bulamadıktan sonra hangisine sahip olduğunuzun bir önemi yoktur.
   entry_channels: anket,ilişkiler,sağlık
@@ -62,7 +62,7 @@ data:
     nusret'in araplara özel altın kaplama hamburgeri
   entry_id:  90765507
   entry_writer: juggernaut
-  entry_fav_count: 349
+  entry_fav_count: 355
   entry_content: |
     ben arapların parasını aldığı için saçma şekilde para saçmak isteyen görgüsüzleri silkelemesine seviniyorum.sadwce merak ettiğim bu yenilen altının bünyeye zararlı olup olmadığı. çünkü zararlı değilse üzülürüm.
   entry_channels: yeme-içme,ekonomi
@@ -70,23 +70,15 @@ data:
     ali koç
   entry_id:  90758946
   entry_writer: skiptomyloujr
-  entry_fav_count: 310
+  entry_fav_count: 313
   entry_content: |
     kulübün hayvan gibi borcu var. borcu ödemeye çalışan adama gelen eleştirilrrin 50de 1i borcu yapan adam gelmiyor. borcu kapatmaya çalışan adamı sürekli eleştirenler siz neyin peşindesiniz? adam bir şey yapıyor başarılı da oluyor gibi uefa görüşmesinden sonra netleşecek. keşke bu adamı eleştirdiğiniz kadar kulübü batıran adamı eleştirseniz biraz daha samimi olurdu.
   entry_channels: spor,siyaset,ekonomi
 - entry_name: |
-    ramazanda alkol içen çarpılır mı
-  entry_id:  90775350
-  entry_writer: yerleske
-  entry_fav_count: 291
-  entry_content: |
-    hızlı içersen çarpar, yavaş yavaş iç eğer bünyen hassas ya da alkol eşiğin düşükse.
-  entry_channels: anket
-- entry_name: |
     f.sultan mehmet şu an uyansa söyleyeceği ilk söz
   entry_id:  90774807
   entry_writer: naneli sosyopat
-  entry_fav_count: 265
+  entry_fav_count: 280
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sizin gibi torunun amk<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: anket,tarih
@@ -94,7 +86,7 @@ data:
     gs'lilerin ali koç'u itibarsızlaştırma çabası
   entry_id:  90775662
   entry_writer: usbaygiti
-  entry_fav_count: 254
+  entry_fav_count: 270
   entry_content: |
     bize gerek yok adam her konuşmasında kendisini daha da itibarsızlaştırıyor.
   entry_channels: spor
@@ -102,47 +94,31 @@ data:
     m.gökçek'in marmaris'te 230mil.euro'ya otel alması
   entry_id:  90767048
   entry_writer: 1501
-  entry_fav_count: 212
+  entry_fav_count: 213
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/i-melih-gokcek-otel-mi-aldi-52123yy.htm" title="https://www.yenicaggazetesi.com.tr/i-melih-gokcek-otel-mi-aldi-52123yy.htm">kaynak</a><br/><br/>melih gökçek’in oğlu osman gökçek’in marmaris’te 15 temmuz sonrası kayyum atanan <a class="b" href="/?q=angel%e2%80%99s+peninsula">angel’s peninsula</a> otelini aldığı iddiaları varmış. otel fiyatı da 230 milyon euro. <br/><br/>siyasilerin çocukları yani bu genç girişimcilerimiz nasıl oluyorda bu kadar çabuk iş hayatında “başarılı” oluyor inanın anlam veremiyorum. birisi mezun olur olmaz ilk kazancıyla gemicik alır, diğeri ilk ihalesini ptt’den 100 milyona alır vs vs (bkz: <a class="b" href="/?q=yersen">yersen</a>)<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>otelin işletmesini tuğra makine ve jeoloji diye bir firma yapıyor. sahibi durali akpınar. durali akpınar kim? kimi kaynaklara göre söğüt inşaat'ın genel müdürü, kimi kaynaklara göre söğüt inşaat yönetim kurulu başkanı. <br/><br/>dolmuş şoförlüğü yapan bir ismin ankara büyükşehir belediyesinden 2.8 milyar tl ihale, onlarca arazi almasını "ticari başarı"olarak açıklamak biraz zor.<br/><br/>tabi insan söğüt inşaat ve gökçek ailesi arasındaki samimiyetten şüphe duyuyor. öyle ki bu işi araştırmaya koyulduğumda kulislerde dolaşan iddialar beni şaşırttı. ben dedikodu gazetecisi değilim ama yıllardır ankara kulisleri de malum. söğüt inşaat'a ait olan özel uçak ile yunanistan'a para taşındığı ve mit'in olaya dahil olduğu, aynı uçak ile mehmet özhaseki'nin şırnak dönüşü için bu uçağı kiraladığı iddialarını ben doğrulayamadım. ama ankara'da siyaset yapan hemen hemen herkesin konuştuğu şeyler ister istemez beni de şüphelendirmiyor değil.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>edit. iddia olduğunu yazdım zaten. haberi yapan <a class="b" href="/?q=murat+a%c4%9f%c4%b1rel">murat ağırel</a> de otel sahibi tuğra makina ama osman gökçek olduğu konuşuluyor, aradım cevap hakkı var demiş. <br/>ama kimse gökçek değildir ya olur mu öyle şey diyemiyor değil mi? <br/>(bkz: <a class="b" href="/?q=ate%c5%9f+olmayan+yerden+duman+%c3%a7%c4%b1kmaz">ateş olmayan yerden duman çıkmaz</a>)
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    ispark nasıl zarar ediyor onu ben de anlamadım
-  entry_id:  90765798
-  entry_writer: bacakkillarinitarayanadam
-  entry_fav_count: 162
+    iban'i iban diye okuyan cahil
+  entry_id:  90780685
+  entry_writer: eczblade
+  entry_fav_count: 211
   entry_content: |
-    gelince anlayacağız, demiş.<br/><br/>ulan 17 senedir chp mi yönetiyor. <br/>2 gün önce kadir topbaş'ı ben mi ziyaret ettim. <br/>mevlüt uysal'a niye sormadın. <br/><br/>deli ediyorlar insanı. <br/>yattığım yerde nabızım 120'ye çıktı ya.<br/>allah belanızı versin.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    inşaat sektörünün krize girmesi
-  entry_id:  90763721
-  entry_writer: nbafan
-  entry_fav_count: 152
-  entry_content: |
-    daha önce yazmıştım buraya kopyalayayım.<br/><br/>emlak sektöründe balon var mı sorusu sözlükte daha çok kişisel tecrübelerle tartışılıyor; bu durumu rakamlarla açıklamak istedim. emlak balonunun bilimsel açıklaması emlak fiyatlarının beş sene içinde %50, üç sene içinde ise %35 prim yaptıktan sonra dramatik şekilde değer kaybetmesidir.(en az %35) türkiye’de konut fiyatlarını incelediğimizde en eski verilere ulaşabildiğimiz 2010’dan 2017’e kadar her beş senede konut fiyatları %50 prim yapmış ve 2010’dan günümüze kadar konut fiyatları %140 prim yapmış. bu rakamlar kağıt üzerinde şişmiş bir emlak balonu olarak yorumlanabilir fakat ayrıntıya girince görünüm değişiyor.<br/><br/>reel olarak(enflasyondan arındırılmış) konut fiyatları yükseliş gösterdiği 2012-2017 arası sadece %29 prim yapmış iken 2017’den günümüze konut fiyatları %20 değer kaybetmiş yani reel olarak konut fiyatlarındaki artış bir emlak balonundan çok enflasyon sorununa benziyor. burada da şu sorun karşımıza çıkıyor; emlak sektöründe belirleyici olan faktör reel fiyatlar mı yoksa naminal fiyatlar mı? <br/><br/>türkiye’de konut sektörü çok farklı bir konumda; toplumda konutlar bir yatırım aracı olarak değrlendiriliyor, bu başlıkta bile konutlar hakkında yorum yapıp ‘’yatırım tavsiyesi değildir’’ diye yorumu sonlandıran birçok yazar mevcut, konut fiyatları ile ilgili ‘’yatırım tavsiyesi değildir’’ demek ile domates fiyatlarına ‘’yatırım tavsiyesi değildir.’’ diye yorum yapmak arasında bir fark yoktur. türkiye’de konutların bir yatırım enstrümanı olarak görülmesinin en temel sebebi yatırımcı profilidir.<br/><br/>her toplumda yaş gruplarının ekonomi için farklı anlamları olur; 45-65 yaş grubu ekonomiler için tasarrufu temsil eder ki türkiye’de de sermayenin çok büyük kısmı bu yaş grubunun elindedir. türkiye’de bahsettiğim yaş grubu doksanlı yıllar tecrübesi yaşadığından dolayı emlak sektörünü bir ihtiyaç değil bir yatırım aracı olarak değerlendiriyorlar; dikkat ederseniz çevremizde birden fazla ev sahibi olan ve devamlı olarak konut ticareti ile servet artırmaya çalışan insanların önemli bir kısmı bu yaş grubuna dahildir.<br/><br/>son yıllarda enflasyonun ekonomi için ne kadar zorlayıcı bir faktör olduğunu yaşayarak öğreniyoruz; doksanlı yıllarda bu durum çok daha ağırdı, bununla beraber yine doksanlı yıllarda bankacılık sistemine güven(dolaylı olarak yatırım araçlarına) günümüze göre son derece zayıftı, bu sebeple toplumumuzda konut veya benzer ürünler ile(araba, yastık altı altın vs.) sermaye koruma veya kazanç sağlama çabası çok güçlüydü. bahsettiğim yaş grubu insanlar size 1 birim fiyata aldığı evi nasıl 5-10 birim fiyata sattığını ve kar ettiğini anlatırlar; bu insanların günümüzde en az 5-10 ev alacak kadar serveti yoksa ki yok, bu kişiler alıp sattığı evlerin 5-10 kat prim yapması reel değer artışı değil, enflasyondur. bir konuta 5-10 kat prim yaptıracak enflasyon yaşanan bir ekonomide evlerin reelde değer kaybettiğini tahmin etmek zor değil.(mb, 2010 öncesi verileri sitesinden kaldırdığı için veriler ile kanıtlayamıyorum.)<br/><br/>finansal okur yazarlığın da zayıflığı sebebiyle günümüzde birçok insan konutları aldıkları maliyetin çok altında satıyorlar, %19.5 enflasyon ortamında(inşaat maliyetindeki artış manşet enflasyonun da çok üstünde %30 civarında) konut fiyatlarında artış sadece %3.5 bu rakam ciddi bir sorun o yüzden sıfır ev fiyatlarındaki satışlar %30’a yakın düşerken ikinci el konutlarda satışlar sadece %8 düşmüş. bu durumun ana sebebi konutlarını reel maliyetinin altında satıp kar ettiğini düşünen kesimdir.<br/><br/>konut fiyatları ilk defa düşüş gösterdiği temmuz-2018’den beri yerinde sayıyor ve (sadece %0.03 artış var) trend ise fiyatların zayıflaması yönünde, şu an türkiye’de çok sınırlı bölgede konut fiyatları nominal olarak düşüyor <a rel="nofollow noopener" class="url" target="_blank" href="https://www.yusufyuksel.com/2019/04/illere-gore-konut-fiyat-endeksi.html" title="https://www.yusufyuksel.com/2019/04/illere-gore-konut-fiyat-endeksi.html">link</a> fakat bu durum kuvvetlenirse konutları yatırım aracı olarak gören kesim (konutlar asla değer kaybetmezciler) kendi bakış açılarıyla da konut fiyatlarının düştüğünü görecekler ki finansal okur yazarlığı zayıf insanların ellerindeki varlıkların değer kaybetmesine tepkileri genelde abartılı olur.
-  entry_channels: siyaset,haber,ekonomi
+    kısaltmalar türkçe okunur...<br/>ha bu arada cahil sensin iban da götüne girsin
+  entry_channels: ilişkiler,ekonomi
 - entry_name: |
     zeki hatunların sevgili bulamaması
   entry_id:  90755237
   entry_writer: zamyatin
-  entry_fav_count: 130
+  entry_fav_count: 132
   entry_content: |
     (bkz: <a class="b" href="/?q=sevgili+bulamayan+hatunlar%c4%b1n+kendini+zeki+sanmas%c4%b1">sevgili bulamayan hatunların kendini zeki sanması</a>)
   entry_channels: ilişkiler
 - entry_name: |
-    iban'i iban diye okuyan cahil
-  entry_id:  90780685
-  entry_writer: eczblade
-  entry_fav_count: 93
-  entry_content: |
-    kısaltmalar türkçe okunur...<br/>ha bu arada cahil sensin iban da götüne girsin
-  entry_channels: 
-- entry_name: |
     son 20 günde hiçbir çaylağın yazar yapılmaması
   entry_id:  90764913
   entry_writer: ayi yogi diyete girmis
-  entry_fav_count: 82
+  entry_fav_count: 83
   entry_content: |
     sözlük adına güzel şeyler de oluyor dedirtti.
   entry_channels: ekşi-sözlük
@@ -150,10 +126,18 @@ data:
     sevdiğini 60 dk görmek için 8 saat yol giden insan
   entry_id:  90753963
   entry_writer: dusunce pompasi
-  entry_fav_count: 80
+  entry_fav_count: 81
   entry_content: |
     gideceği yere uçakla gidip 8 saat beraber vakit geçirmesi daha sağlıklı olacaktır.<br/><br/>tamam sevin ama bu kadar da mal olmayın.
   entry_channels: ilişkiler,seyahat
+- entry_name: |
+    tiktok'ta atatürk'e hakaret eden şahıs
+  entry_id:  90774347
+  entry_writer: dede korkut paradoksu
+  entry_fav_count: 76
+  entry_content: |
+    dincilerin şu selanik ve selaniklilerle alıp veremediği nedir hiç anlamıyorum. selanik dediğin yer 1392 yılında yıldırım bayezid tarafından fethedilen ve 8 kasım 1912'de tek kurşun atılmadan yunan'a terk edilene kadar da imparatorluğun en önemli ikinci büyük şehriydi. istanbul selanik'in fethinden 61 yıl, trabzon da 69 yıl sonra osmanlı'ya katılmıştı. erzurum'un, elazığ'ın, adana'nın, şanlıurfa'nın ve gaziantep'in fethi bile selanik'in fethinden 200 yıl sonrasını bulur siz düşünün artık. selanik kaybedilene kadar %44'lük türk ve müslüman nüfusuyla çorum'dan, kayseri'den, samsun'dan bile daha tescilli bir türk şehriydi. anadolu'daki bir çok yerleşim yerinin isimleri bile rumca ya da ermenice iken selanik'in mahalleleri ve köyleri bile özbeöz türkçe isimler taşıyordu.<br/><br/>dincilerimizin selanik takıntısının sebebi tabii ki atatürk. atatürk niğdeli olsa bu sefer de niğdelilere takık olurlardı.
+  entry_channels: siyaset,ilişkiler,teknoloji
 - entry_name: |
     öğrencileri için cebinden para harcayan öğretmen
   entry_id:  90753773
@@ -163,29 +147,37 @@ data:
     madem bu mecrada nick'lerimizin arkasına saklanarak konuşuyoruz ben de katılayım bari.<br/><br/>benim bu kişi. ne olur ne olmaz diye her ayın on beşinde aldığımız maaşa haram bulaşmasın diye kalem, defter, silgi, top kağıt , eğitimle ilgili ne varsa alırım. derste arkadaşlarından kalem ya da uç isteyen isteyen öğrencilere cebimden çıkarıp veririm. sınıf ile ilgili bir etkinlik olursa çoğunu cebimden karşılarım. veliler sorduklarında ise "bi hayırsever bu iş için para verdi" derim. <br/>inanın bu işi bir çok arkadaşım da yapıyor. kimseye de hava falan atmıyoruz. öyle para sevdalısı insanlar değiliz. <br/>yanlış tanımışsınız bizi.
   entry_channels: anket,eğitim
 - entry_name: |
-    kyk borçlarının silinmesi kanun teklifi
-  entry_id:  90753396
-  entry_writer: turkce karakter sorunu
-  entry_fav_count: 74
+    rick and morty
+  entry_id:  90760181
+  entry_writer: dessas
+  entry_fav_count: 65
   entry_content: |
-    devletin sildiği borçların ortak özelliği devlet kasasından para çıkmamış olmasıdır. trafik cezaları, köprü cezaları, vergi afları, faiz afları bunlara birer örnektir.<br/><br/>kyk borçları öğrencilerin devlet kaynağından aldığı paralardır ve anaparaların silinmesi adil bir yaklaşım olmaz. faizler silinse ve sadece anapara talep edilse o zaman akla uygun olur çünkü devlet verdiğini geri alacaktır. <br/><br/>zaten kyk borçları, burs değil kredi borçlarıdır. burs karşılıksız olur, kredinin karşılığı vardır. dediğiniz gibi borçlar silinse, devlet yüzbinlerce öğrenciye karşılıksız burs mu vermiş olacak? bunun yerine sizin borcunuzu sileceğine, "500 bin üniversiteliye karşılıksız burs vereceğiz" diye propoganda yapmaları çok daha etkili ve hukuka uygun bir politika olur.<br/><br/>kyk borçlarının bu şekilde silinmesi başka konuları da gündeme getirir. mesela çiftçi destekleri, kobi destekleri gibi. bu adamlar da demezler mi kyk borçlarını sildin, hadi bizimkileri de sil, bizim başımız kel mi?<br/><br/>sözün özü: devlet verdiği paranın karşılığını her türlü alır sayın yazarlar. o yüzden boşuna hayal kurmayın, gidin ödeyin borcunuzu.
-  entry_channels: siyaset,haber,ekonomi
+    bu dizi değil animasyon değil film değil bu dünyanın en güzel şeyi. bak şeyi diyorum bunu beğenmeyen siktirsin gitsin pepe izlesin.
+  entry_channels: tv,spoiler
 - entry_name: |
-    tiktok'ta atatürk'e hakaret eden şahıs
-  entry_id:  90774347
-  entry_writer: dede korkut paradoksu
-  entry_fav_count: 69
+    karşı cinse çekici gelmediğini bildiğin için
+  entry_id:  90779160
+  entry_writer: tuzbaba
+  entry_fav_count: 62
   entry_content: |
-    dincilerin şu selanik ve selaniklilerle alıp veremediği nedir hiç anlamıyorum. selanik dediğin yer 1392 yılında yıldırım bayezid tarafından fethedilen ve 8 kasım 1912'de tek kurşun atılmadan yunan'a terk edilene kadar da imparatorluğun en önemli ikinci büyük şehriydi. istanbul selanik'in fethinden 61 yıl, trabzon da 69 yıl sonra osmanlı'ya katılmıştı. erzurum'un, elazığ'ın, adana'nın, şanlıurfa'nın ve gaziantep'in fethi bile selanik'in fethinden 200 yıl sonrasını bulur siz düşünün artık. selanik kaybedilene kadar %44'lük türk ve müslüman nüfusuyla çorum'dan, kayseri'den, samsun'dan bile daha tescilli bir türk şehriydi. anadolu'daki bir çok yerleşim yerinin isimleri bile rumca ya da ermenice iken selanik'in mahalleleri ve köyleri bile özbeöz türkçe isimler taşıyordu.<br/><br/>dincilerimizin selanik takıntısının sebebi tabii ki atatürk. atatürk niğdeli olsa bu sefer de niğdelilere takık olurlardı.
-  entry_channels: siyaset,ilişkiler,teknoloji
+    (bkz: <a class="b" href="/?q=seni+buraya+yazar+yapt%c4%b1klar%c4%b1+i%c3%a7in">seni buraya yazar yaptıkları için</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     bir ailenin çocuğuna yapabileceği en büyük kötülük
   entry_id:  90754392
   entry_writer: ben cok acilar cektim
-  entry_fav_count: 60
+  entry_fav_count: 62
   entry_content: |
     kendimden bahsedeyim.<br/><br/>özgüvensiz yetiştirildim. bu sebeple kalabalıkta bulunmaktan ve konuşmaktan utanırdım. mesela eczaneden ilaç alınacak. sen yapamazsın diyerek, böyle bile küçük bir şeyi yaptırmadılar. yapamaz oldum. ilkokul, ortaokulda çok yakın arkadaşım beni kollardı. liseye geçtiğimde sudan çıkmış balığa döndüm. bana sataşırlardı. kendimi doğru düzgün savunamazdım. haklıyken haksız duruma defalarca düştüm. mücadele hırsım yoktu. hiç öğretilmedi.<br/><br/>anaokuluna gideceğim ilk gün babamın tavsiyesi “kantinden bir şey aldığında, arkadaşların isterse verme. enayilik yapma. kızlarla sevgili olma. onlara takılma. sadece derslere çalış.” oldu. bu ne biçim tavsiyedir aq ve salak gibi yıllarca ben bu öğütü dinleyip uyguladım.<br/><br/>zayıf ve güçsüz olmamı hep yüzümü vurdular. bu sebeple derslerine önem verip, sınavlarda yüksek puan alarak masa başı işte çalışmamı istediler. hayatın gerçeklerini, hazır olmadığım zaman defalarca yüzüme vurdular. işçi olursam böyle olur, şöyle olur, sen yapamazsın vs.<br/><br/>sevgi gösterdiler. eyvallah ama cahilce bir sevgi gösterisiydi bu. arkadaşlarımın veya eski sevgililerimin daha küçük ilgisi bile beni daha mutlu etti.<br/><br/>çocukken herkes meraklı ve öğrenmeye açtır. merak duyduğum sorulara cevap vermediler. çok konuşmamam gerektiğini söylediler. böylece içindeki öğrenme duygusunun içine ettiler.<br/><br/>bilgisayar ve internet dönemi başladığında oyun oynamaya başladım. sınıfın en iyi öğrencilerinden biri olmama rağmen, babam 1 saat oyun oynadım diye azarladı.<br/><br/>derslerine çalış. derslerine çalış. bana milyon kez söylendi. fakat ailem beni çalıştıracak düzeyde olmadığından, derslere nasıl çalışacağıma dair fikir vermediler.<br/><br/>öylesine asosyaldim ki, çevremde insanların hangi olaya ne tepki vereceğini bilmiyordum. tıpkı the big bang theory’de sheldon cooper gibi. insanların güldükleri şeyler bana saçma, benim güldüklerim ise onlara tuhaf gelirdi.<br/><br/>hayatla ilgili çoğu şeyi internetten öğrendim. istediğim şeyin ne olduğuna dair cevap bulamadım. travmaları ve sosyal hayatta düzgün bir birey olmam yıllarımı aldı.<br/><br/>en basit şey duygularımızı açığa vurmaktır. insanı hayvandan ayıran özelliktir bu. hoşlandığım bir kadına, ondan hoşlandığım özelliklerini söyleyemedim. onu değerli hissettiremedim. arkadaşlarıma ise, benim için çok önemli olduklarını belirtemedim.<br/><br/>biri için iyi bir şey yapmak ne kadar zor olabilir ki? sahip olduğum tek şey ailemdi. fakat hiç tanımadığım insanlar, bana onlardan daha iyi davrandı. her hatamda ailemi suçlamıyorum. benimde hatalarım oldu. fakat ben kötülük ve şiddetle büyüdüm. bazen sinirlerime hakim olamayıp bazı kişilere fiziksel ve psikolojik şiddet uyguladım. pişman da olmadım. özellikle lise zamanı tavan yapan içimdeki şiddet dürtüsünden çok keyif aldım.<br/><br/>şimdi ise ailemi üniversite ve meslek seçiminde dinlemedim. kendi kararlarımı uyguladım ve hiç pişman değilim. çocuk yetiştirmek sanıldığının aksine zor bir şeydir. çoğumuz travmalarla büyüyoruz. bu problemleri atlatmamız bazen çeyrek, bazen yarım asır sürüyor. bazen atlatılmıyor. hayatlarımız bok oluyor.<br/><br/>en büyük kötülük. ebeveyn bilinçsiz ise çocuk doğurmaktır.
   entry_channels: anket,ilişkiler,eğitim
+- entry_name: |
+    mete han şu an uyansa söyleyeceği ilk söz
+  entry_id:  90778311
+  entry_writer: serbest stil aylak
+  entry_fav_count: 59
+  entry_content: |
+    onlu sistemi neden kurdum biliyor musunuz?<br/>neden?<br/>çünkü onsuz yapamıyorum. ve orta asya dumanaltı.
+  entry_channels: siyaset,anket,tarih
 - entry_name: |
     kadınların kötü günde terk edip gitmeleri
   entry_id:  90754237
@@ -193,22 +185,6 @@ data:
   entry_fav_count: 56
   entry_content: |
     kanserle savaşırken terk edilen bir kadın olarak söylüyorum; şerefsizliğin cinsiyeti yoktur. <br/><br/>her şey bir gün biter. çekilen acılar son bulur. bahar gelir, yaz olur. tüm bunlar olurken kendinize ve yaşadıklarınıza saygınızı kaybetmeyin.<br/><br/>gelen mesajlar üzerine edit. merak edip soranlara teşekkür ederim. iyiyim, geçti çok şükür.
-  entry_channels: ilişkiler
-- entry_name: |
-    mete han şu an uyansa söyleyeceği ilk söz
-  entry_id:  90778311
-  entry_writer: serbest stil aylak
-  entry_fav_count: 55
-  entry_content: |
-    onlu sistemi neden kurdum biliyor musunuz?<br/>neden?<br/>çünkü onsuz yapamıyorum. ve orta asya dumanaltı.
-  entry_channels: siyaset,anket,tarih
-- entry_name: |
-    karşı cinse çekici gelmediğini bildiğin için
-  entry_id:  90779160
-  entry_writer: tuzbaba
-  entry_fav_count: 54
-  entry_content: |
-    (bkz: <a class="b" href="/?q=seni+buraya+yazar+yapt%c4%b1klar%c4%b1+i%c3%a7in">seni buraya yazar yaptıkları için</a>)
   entry_channels: ilişkiler
 - entry_name: |
     chernobyl (dizi)
@@ -227,13 +203,37 @@ data:
     ayrıntılı olarak kafa yorduğum ekonomiyi kurtarma eylemi. yapacağımız şey basit. abd'den düşük fiyata iphone alıp avrupaya satacağız.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.apple.com/shop/buy-iphone/iphone-xs" title="https://www.apple.com/shop/buy-iphone/iphone-xs">apple abd iphone xs başlangıç fiyatı</a>: 999 dolar (890 euro)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.apple.com/de/shop/buy-iphone/iphone-xs" title="https://www.apple.com/de/shop/buy-iphone/iphone-xs">apple almanya iphone xs başlangıç fiyatı</a>: 1149 euro<br/><br/>1 adet iphone xs'ten edeceğimiz kâra bakalım: 1149-890=259 euro<br/>avrupa nüfusu 741 milyon. <br/>ios kullanıcılarının oranı %26<br/>yani avrupa nüfusunun 192,6 milyonu iphone'cu. <br/>150 milyon avrupalıya satsak: 150m x 259= <a class="b" href="/?q=38+milyar+euro+net+k%c3%a2r">38 milyar euro net kâr</a><br/><br/>sadece avrupaya iphone satarak 38.8 milyar euro para girişi sağlamış olacağız. diğer kıtalara da el atarsak ülkeye <a class="b" href="/?q=100-150+milyar+euro">100-150 milyar euro</a> para girişi sağlarız. bu da dış borcumuzu kapatmak için hatrı sayılır bir miktar.<br/><br/>kargo masrafını ve gümrük işlemlerini aşmak için abd'den dönen her vatandaşa görev olarak iphone aldıracağız. sonra devlet onları avrupaya satacak. bence süper fikir!
   entry_channels: ekonomi
 - entry_name: |
+    31 mayıs 2019 virginia silahlı saldırısı
+  entry_id:  90759131
+  entry_writer: vandelayindustries
+  entry_fav_count: 36
+  entry_content: |
+    abd'nin bir lobiler diktatörlüğü olduğunu kanıtlayan olaylar dizisinden sadece biri.<br/><br/>ortalamaya vurulduğu zaman 2013'ten bu yana neredeyse ayda bir bu tarz toplu katliamlar oluyor. geçen sene abd'de öğrenci ve öğretmenlerin üst üste gerçekleşen okul baskınlarından sonra yaptıkları <a rel="nofollow noopener" class="url" target="_blank" href="https://www.aa.com.tr/tr/dunya/abdde-silah-karsiti-ogrenci-protestosu/1089044" title="https://www.aa.com.tr/tr/dunya/abdde-silah-karsiti-ogrenci-protestosu/1089044">büyük yürüyüş ve eylemleri</a> oldu<br/><br/>bu tip olaylar amerikan toplumunda büyük bir infial yaratıyor ve silahlanma yasasının değişmesine yönelik büyük talepler var ama ne hikmetse demokrasinin beşiği, özgürlükler ülkesi, uber insan haklarına saygılı bu ülke bu silah yasasını değiştirmiyor. kongrede bunun tartışması bile doğru dürüst yaptırılmıyor.<br/><br/>nedeni ise basit. silah firmalarının her yıl milyarlarca dolar bağış yaptıkları, abd'nin en büyük lobilerinden olan nra yüzünden.<br/><br/>(bkz: <a class="b" href="/?q=national+rifle+association">national rifle association</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.bbc.com/turkce/haberler/2015/10/151001_abd_silahli_saldiri" title="https://www.bbc.com/turkce/haberler/2015/10/151001_abd_silahli_saldiri">ne ayda biri günde bir diyor bbc</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.trthaber.com/haber/dunya/new-yorkta-25-yil-sonra-ilk-defa-bir-hafta-sonu-silahli-saldiri-olmadan-gecti-389665.html" title="https://www.trthaber.com/haber/dunya/new-yorkta-25-yil-sonra-ilk-defa-bir-hafta-sonu-silahli-saldiri-olmadan-gecti-389665.html">adamlar 25 yıl sonra ilk kez silahlı saldırı olmadan bir gün geçirmişler buna seviniyorlar</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.aydinlik.com.tr/abd-de-toplumsal-cinnet-6-haftada-18-saldiri-dunya-subat-2018" title="https://www.aydinlik.com.tr/abd-de-toplumsal-cinnet-6-haftada-18-saldiri-dunya-subat-2018">6 haftada 18 saldırı</a><br/><br/>tüm bunlar yaşanırken ulusal tüfek birliği'ne kimse dokunamıyor. <br/><br/>ortamlarda kapitalizm, liberalizm çok güzel, demokrasi, insan hakları vs. dersin kim bilecek.
+  entry_channels: haber
+- entry_name: |
     zümrüt apartmanı
   entry_id:  90758671
   entry_writer: cekilmis gayfe
-  entry_fav_count: 29
+  entry_fav_count: 31
   entry_content: |
     ulan hala yok az basılmış, yok zaten kurguymuş, yok bilmem neymiş diye savunan gizli pedofiller var aramızda. sizin ben zihniyetinizi sikeyim. ne yani milyonlarca basılsın diye bekleyelim de o zaman mı tepki verelim? sizin bu pedofiliyi normalleştirme çabanızı yemezler arslanım. siktir git başka konularda kurgu yap. entel takılan pedofil sapık yavşaklar sizi.
   entry_channels: edebiyat,haber
+- entry_name: |
+    29 yaşında beyin cerrahı bekar erkek
+  entry_id:  90780518
+  entry_writer: koministimam2
+  entry_fav_count: 31
+  entry_content: |
+    ayda 30 bin al ama gariban eskorta 300 lirayı çok gör, sözlükten beleşe getirmeye çalış! yazık! <br/>sana beyin cerrahı olamazsın demedim, adam olamazsın dedim evladım!
+  entry_channels: ilişkiler
+- entry_name: |
+    jose antonio reyes
+  entry_id:  90770008
+  entry_writer: kafkasli17
+  entry_fav_count: 28
+  entry_content: |
+    daha geçen emre akbaba'nın reklam filmine bakıp duygulanmıştık, bugün öğreniyoruz ki reyes göçmüş bu dünyadan. <br/><br/>her yaz türk takımlarına transfer oluyordu, bu yaz da cennete göçmüştür umarım.
+  entry_channels: spor
 - entry_name: |
     nihat özdemir
   entry_id:  90771439
@@ -243,21 +243,13 @@ data:
     ne demisti slaven bilic ? türkiye'de yetkisi olanların bilgisi yok, bilgisi olanların ise yetkisi yok. ne kadar doğru bir teşhis değil mi ? <br/><br/>nihat özdemir çok başarılı bir iş insanı olabilir. bilemem. ama futbol ile alakası nedir ? hangi bilgi birikimi ile ülke futbolu emanet edildi kendisine ? yıldırım demirören gibi birilerinin emirlerinin uygulayıcısı olarak makama getirildi, hepsi bu.
   entry_channels: spor,ekonomi
 - entry_name: |
-    1 haziran 2019 ek derslerin hala yatmamış olması
-  entry_id:  90764770
-  entry_writer: thor x
+    metro kokusu
+  entry_id:  90777943
+  entry_writer: berfinaskinsogukyuzu
   entry_fav_count: 16
   entry_content: |
-    ek ders yatsaydı sıkıntı göstergesi yoktu yani ekonomide öyle mi? <br/><br/>dostum dertlenmen gereken daha acı bir konu var. geçen sene full ek ders ücretin ile 300 kg peynir alabilirken, şu anda 150 kg alamıyorsun.<br/><br/>yoksa hani tabi yani orasına ben de katılıyorum, ek ders yatmış olsa, ekonomide sıkıntı göstergesi yok başka yani, tabi.<br/><br/>edit : işçilerin kıdem tazminatına dahi göz dikildi, maaşlarınızın alım gücü 1 senede yarı yarıya düştü, hakkınızı aradınız mı? hakkını arayanlar için protestoya falan katıldınız mı? yok. bana dokunmayan yılan bin yaşasın diyen bir tayfa, hakkını arıyormuş, suçlu ilan ediliyormuş, üstelik de bu tayfaya karşı konuşanlar eğitilemez bir cehalete sahipmiş. hassiktir diyorum. cehalet; alım gücü yarı yarıya düştüğü halde cüzi zamlara götünün rahatı için ses çıkarmayanları esir almıştır. kimse kusura bakmasın.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    istanbullu gelin
-  entry_id:  90753284
-  entry_writer: mysticfalls
-  entry_fav_count: 15
-  entry_content: |
-    7 senede kimsenin saç şekli bile değişmemiş sadece evin çalışanı aşırı yaşlanmış. iğrenç bir final.
-  entry_channels: tv,spoiler
+    izmirdeki ilk seferler yapılmaya başlandığında vagonlar ahır gibi kokuyordu. her bindiğimde geçer umuduyla içeri girip daha da ağırlaşan bi hal aldı. sonrasında bir kaç kişiden daha bu durumu duydum. sanırım o kokuyu gideremiyorlarmiş.<br/>10 yıldan fazladır metro ahır gibi kokmaya devam ediyor. artık geceleri koyun keçi sevkiyatı yaptıklarını filan düşünmeye başladım. <br/>umarım bir gun parfüm kokulu metrolara bineriz.
+  entry_channels: ilişkiler
 - entry_name: |
     abdullah avcı
   entry_id:  90776489
@@ -270,50 +262,50 @@ data:
     1 haziran 2019 tottenham liverpool maçı
   entry_id:  90755086
   entry_writer: chess player
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     eriksen, kane, son, dele alli gibi isimlerin hiçbirinin büyük takımlarda oynayamayacağını öğrenmemize vesile olan maç. bunu ciddi ciddi yazmışlar. <br/><br/>benzema, casemiro, bale, coman, müller, gnarby, martinez, arthur, busquets, coutinho, rakitic. bunlar da bahsettiği büyük takımların 11'lerinden oyuncular.<sup class="ab"><a title="(bkz: lol)" href="/?q=lol" data-query="lol">*</a></sup>
   entry_channels: spor
 - entry_name: |
-    metro kokusu
-  entry_id:  90777805
-  entry_writer: arayisicindebirinsan
-  entry_fav_count: 12
-  entry_content: |
-    istanbul'daki metrolarda hep koyun,keçi boku kokusu alıyorum.sabah işe giden beyaz yakalılarla dolu metroda bu koku ironi gibi.
-  entry_channels: ilişkiler
-- entry_name: |
-    jose antonio reyes
-  entry_id:  90769995
-  entry_writer: supervelet
-  entry_fav_count: 11
-  entry_content: |
-    tüh ulan diyerek ölümüne üzüldüğüm futbolcu. fm 2006'da kendisini hangi takıma gitsem götürürdüm. film artisti gibi adı vardı. türkiye'den birçok kulüple adı anıldı ama bir türlü gelmedi. mekanı cennet olsun.
-  entry_channels: spor
-- entry_name: |
-    viskiye tek mi çift mi buz atma sorunsalı
-  entry_id:  90780532
-  entry_writer: empty bottle
-  entry_fav_count: 8
-  entry_content: |
-    yine ölümlülere alkol hakkında ders verme zamanı gelmiş.<br/><br/>ben viski taşı kullandığım için (gerçi bunu yapamıyorum pek daha yeni bulabildim alıp kaybettiğim taşları) beni ilgilendirmeyen sorundur, fakat viski taşınız yok ise hiç buz atmamanızı ya da çok az bir buz atarak içmenizi öneririm. (bir buz bile değil) tabii, burada whisky mi whiskey mi içiyorsunuz önemli olan aslında budur. eğer whisky içiyorsanız bu scotch içiyorsunuz anlamına gelir ve bir çok aromaya sahip olabilen bir viskiyi buz ile soğutursanız içerken bu katman katman olan yoğun aromaları alamazsınız yani scotch viskinin aromasını susturursunuz çünkü aslında oda sıcaklığında olan viskinin aromalarını büyük oranda hissedeceğiniz burun faktörü ortadan kalkar. whiskey içiyorsanız irlanda viskilerinin aroma yönünden iddaası zaten pek olmadığı için buz atıp soğuk içebilirsiniz soğuk içmenin de ayrı bir tadı olacaktır. artık ne içtiğinizi ve nasıl davranmanız gerektiğini size öğrettim gerisi size kalıyor.<br/><br/>bir sonraki derste görüşmek üzere :)
-  entry_channels: anket,yeme-içme
-- entry_name: |
     koç holding markalarını boykot kampanyası
   entry_id:  90779613
   entry_writer: fetboyselim
-  entry_fav_count: 8
+  entry_fav_count: 10
   entry_content: |
     tüpraş'ı protesto etmek için yegane tercihiniz elektrikli otomobil<br/>haberiniz olsun...
   entry_channels: spor,siyaset,ekonomi
 - entry_name: |
-    kadınların orgazm olamama nedenleri
-  entry_id:  90778223
-  entry_writer: karanlikruya
+    süleyman soylu
+  entry_id:  90763974
+  entry_writer: haydarduzen
+  entry_fav_count: 9
+  entry_content: |
+    türkiye tarihinin gördüğü en popülist siyasetçilerden. taraftara oynarken yalan söylemekte en ufak bir beis görmüyor. <br/><br/>net ve naif bir tabirle tanım yapayım: iyi bir insan değildir.
+  entry_channels: siyaset
+- entry_name: |
+    1 haziran 2019 huzursuzluk hissi
+  entry_id:  90781048
+  entry_writer: bunlarhepoc
+  entry_fav_count: 9
+  entry_content: |
+    (bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+ya%c5%9famak">türkiye'de yaşamak</a>)
+  entry_channels: sağlık,haber
+- entry_name: |
+    viskiye tek mi çift mi buz atma sorunsalı
+  entry_id:  90780998
+  entry_writer: isenbuga
   entry_fav_count: 4
   entry_content: |
-    kadına çok nazik davranmanız, "canım-cicim sen benim herşeyimsin" gibi yaklaşmanız, kendinizi düşünmek yerine kadın odaklı sevişmeniz, kendi keyfinize varmamanız, kadının size hiç güvenmemesi veya tam tersi çok güvenmesi, ön sevişmenin yetersiz olması, sizinle duygusal bir kontakt kuramamış olması buna sebep olur. sizi arzulayan, isteyen kadın anında orgazma ulaşır.<br/>esas sorunlardan biri de şudur:<br/>(bkz: <a class="b" href="/?q=a%c5%9f%c4%b1k+oldu%c4%9fu+k%c4%b1zla+seks+d%c3%bc%c5%9f%c3%bcnemeyen+erkek%2f%40karanlikruya">aşık olduğu kızla seks düşünemeyen erkek/@karanlikruya</a>)
-  entry_channels: anket,ilişkiler
+    "gerçek erkekler jiletle değil, usturayla sakal tıraşı olur" diyen bir gerizekalıya "gerçek erkekler tıraş olmaz" diye verilen efsane bir cevap var.<br/><br/>viskinin içine tek veya çift herhangi birşey atan ılık götlüler umarım mesajı almışlardır.
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    kardeşlerini yuvadan atan kuş yavrusu
+  entry_id:  90781222
+  entry_writer: aresayt
+  entry_fav_count: 4
+  entry_content: |
+    guguk kuşu, başkalarının kuluçkalarına yumurtlayan yavrusunu başkasına baktıran çok şerefsiz bir kuştur.
+  entry_channels: 
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  90774454
@@ -331,10 +323,18 @@ data:
     tek sıkıntımız bu olsun dedirten rezalettir.
   entry_channels: haber
 - entry_name: |
+    tayyip'in sigara gerizekalılığı
+  entry_id:  90781012
+  entry_writer: renksiz hayat
+  entry_fav_count: 3
+  entry_content: |
+    sevdiğim nadir işlerinden biri. bu çağda hala sigara içmek... neyse.<br/><br/>edit: başlığı açan tüymüş.
+  entry_channels: 
+- entry_name: |
     kadınlar saat kaça kadar sokağa çıkabilir
   entry_id:  90767034
   entry_writer: seagogol
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     kadınlar istediği saatte dışarı çıkabilir.eğer evliler ise sorumluluk bilincinde olan bir kadın saatini zaten bilir,kocasının izin vermesine gerek yoktur kimse kimsenin kulu kölesi değil.
   entry_channels: siyaset,anket,haber
@@ -347,21 +347,13 @@ data:
     4-5 yıl önce ilk defa panik atak yaşarken kalp krizi geçirdiğimi sanmıştım. göğüs bölgesi daralıp açılmıştı o an aha gittim dedim :) herhalde ölüm böyle bir şey diyerek korkuyla karışık bir gülümseme belirdi yüzümde. son andı. anneme ben sıçtım hadi selametle der gibi bakıyordum. işte o anın fotoğrafı olmalıydı. o an nasıl göründüğümü bilmek isterdim.
   entry_channels: anket,sanat,teknoloji
 - entry_name: |
-    bira içmelik arkadaş veritabanı
-  entry_id:  90766926
-  entry_writer: akolitik
-  entry_fav_count: 2
-  entry_content: |
-    bu tarz başlıklardan anlıyorum ki kadıköydeki hemcinslerim çok arkadaş canlısı.hepsi bekar ve hiçbirinin sevgilisi yok.<br/><br/>bir araya gelsek parti kurarız.partinin adını söylemeyeyim. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket,ilişkiler,ekşi-sözlük,magazin
-- entry_name: |
     1 haziran 2019 metro turizm rezaleti
   entry_id:  90780384
   entry_writer: jelibonpanda
   entry_fav_count: 2
   entry_content: |
     binmeyerek suratına attırılmasından kurtulmuşsun kardeşim.<br/><br/>şaka maka bir yana, metro olunca hiçbir şeye şaşırmıyorum. gayet rezalet bir durum.
-  entry_channels: 
+  entry_channels: ekşi-sözlük,haber
 - entry_name: |
     sözlükçülerin özlemini çektikleri şeyler
   entry_id:  90758202
@@ -371,13 +363,21 @@ data:
     babamı sevdiğim aklı kesmeyen zamanları özlüyorum. bazen neyi sevdiğini bilmiyorken sevmek daha kolay. hesaplamadan anlamadan bilmeden sevmek daha kolay. ama hayat, hep böyle devam edemiyor elbette. zamanı geliyor bir gün anlamaya başlıyorsun aslında babanın iyi bir adam olmadığını ve kursağında bi düğüm kalıyor 20 yıldır yutkunuyorum, geçmiyor.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    öğretmenlerin erken yeşil pasaport talebi
-  entry_id:  90775381
-  entry_writer: tovbebismillah
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  90753683
+  entry_writer: muzu bicakla soyan adam
   entry_fav_count: 0
   entry_content: |
-    sanırım edebiyat öğretmenleri sahiden hak etmiyorlar. yoksa millet "hak etmek" nasıl yazılır, çoktan öğrenmiş olurdu.
-  entry_channels: haber,eğitim,ekonomi,seyahat
+    1-sevdiğiniz insana söyleyecek 1 cümle hakkınız olsa bu cümle ne olurdu?<br/><br/>2-bir kadının en aciz olduğu an ne zamandır?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  90757382
+  entry_writer: ufkuask
+  entry_fav_count: 0
+  entry_content: |
+    apış arası kokan tabandır. <br/><br/>lan oğlum yazmayın işte, düşmüyor. düşmez...
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     şule çet
     <li data-id="90705571" data-author="ekşisözlük" data-author-id="8275" data-flags="share report vote" data-isfavorite="false" data-ispinned="true" data-favorite-count="82" data-seyler-slug="" data-comment-count="0">
@@ -386,7 +386,7 @@ data:
   entry_channels: haber
 - entry_name: |
     şule çet'in otopsi raporu
-    <li data-id="90707601" data-author="ekşisözlük" data-author-id="8275" data-flags="share report vote" data-isfavorite="false" data-ispinned="true" data-favorite-count="32" data-seyler-slug="" data-comment-count="0">
+    <li data-id="90707601" data-author="ekşisözlük" data-author-id="8275" data-flags="share report vote" data-isfavorite="false" data-ispinned="true" data-favorite-count="37" data-seyler-slug="" data-comment-count="0">
     entry_content: |
         ankara batı 2. sulh ceza hakimliği'nin çağatay aksu’nun talebi üzerine verdiği 29.05.2019 tarih ve 2019/2586 d.iş sayılı kararı uyarınca şule çet ile ilgili başlıklarda bulunan içeriklere erişimin engellenmesi kararıyla ilgili bir açıklama yapmak isteriz.<br/><br/>ekşi sözlük, türk hukukuna tabi bir internet sitesi olarak mahkeme kararlarını uygulamak yükümlülüğündedir. dolayısıyla bu ve benzeri durumlarda elimize ulaşan mahkeme kararları doğrultusunda hareket ederek, ilgili başlıklardaki içerikleri kaldırmak durumundayız. <br/><br/>bu karara itiraz edecek olmakla beraber, itiraz sürecinin kararı uygulamayı ertelemediğini belirtmek isteriz.<br/><br/>tarafımıza iletilen kararların uygulanması yasa gereği olup, kararı benimsediğimiz veya olumladığımız anlamına gelmemektedir. <br/><br/>hukuk sistemimizdeki hataların, yanlışların, adalet duygusunu zedeleyen uygulama ve kararların giderilmesinin yolu, eleştirilerin doğru makam ve mercilere yöneltilmesinden geçer. genel olarak mahkemelerin içerik kaldırılmasına ilişkin kararlarındaki hoyratlık ve bu kararlara ilişkin itirazların incelenmesi süreçlerindeki özensizlik nedeniyle oluşan kamuoyu tepkisinin ilgili ve yetkili mercilere yönelmesi halinde bu hatalı işleyişin düzelmesi yönünde olumlu adımlar atılır diye umuyoruz.
   entry_channels: siyaset,haber
