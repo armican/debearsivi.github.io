@@ -6,7 +6,7 @@ data:
     140journos'un esenler otogarı videosu
   entry_id:  91320036
   entry_writer: umth
-  entry_fav_count: 953
+  entry_fav_count: 956
   entry_content: |
     blutv’ye içerik yapmaktan artan kalan zamanlarında lütfedip tamamlamışlar nihayet. kusura bakmayın yorduk sizi de krallar.
   entry_channels: teknoloji,haber,seyahat
@@ -14,7 +14,7 @@ data:
     demet akalın'ın 300 tl'lik hesaba isyan etmesi
   entry_id:  91337691
   entry_writer: valar m0rghulis
-  entry_fav_count: 787
+  entry_fav_count: 793
   entry_content: |
     o kadar açgözlüler ki pahalılık karşısında isyan etmeyi bile fakire bırakmıyorlar..
   entry_channels: haber,magazin
@@ -30,7 +30,7 @@ data:
     abd'nin çöküşünü başlatan olay
   entry_id:  91330950
   entry_writer: saftirik tilki
-  entry_fav_count: 492
+  entry_fav_count: 493
   entry_content: |
     amerika'nın çöküşü mü? cigarayı bir an önce bırakmalısınız. gelecek yüzyılın da dünyanın en güçlü ülkesidir. çökme değil dünyadaki gücünde en ufak bir gerileme bile yok. ülkelerin büyüklükleri beşeri sermayeyle ölçülür. dümdüz olmuş avrupa nasıl ayağa kalktı? insan gücüyle. bir bilimsel çalışmada vardı. abd'yi dümdüz etsen iki senede yine eski haline gelir diye. o insan gücüyle her şeyi yaparlar. gidin biraz o toplumun içinde yaşayın, sıradan insanların bile ne kadar bilgili, donanımlı, işine bağlı ve çalışkan olduğunu görün ondan sonra atarsınız. yok trumpmış yok borçmuş yok piyasaymış. bunlar mevzu değil.
   entry_channels: siyaset,anket,ekonomi
@@ -38,7 +38,7 @@ data:
     hollandalı turiste işkence eden afgan göçmenler
   entry_id:  91333043
   entry_writer: perish the sacrament
-  entry_fav_count: 431
+  entry_fav_count: 433
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mynet.com/ellerinden-kacip-cobana-siginmisti-hollandali-turiste-kabusu-yasatan-2-afgan-tutuklandi-190101162531" title="https://www.mynet.com/ellerinden-kacip-cobana-siginmisti-hollandali-turiste-kabusu-yasatan-2-afgan-tutuklandi-190101162531">https://www.mynet.com/…fgan-tutuklandi-190101162531</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>istanbul'dan yürüyerek konya'ya giden hollandalı annelot rosemijn (27) adlı kadına, afyonkarahisar'ın bolvadin ilçesinde tecavüz ettiği iddia edilen afgan uyruklu aziz eskandari (22) ve sayd ahmet sadıgi (26), jandarma tarafından kısa sürede yakaladıktan sonra tutuklandı.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>sınır kapısını yol geçen hanı gibi açan çok değerli(!) büyüklerimiz umarım bu haberi görür ve utanırlar. artık tamamen ortadoğu ülkesi olduk, yakında ülkeye bırakın turisti göçmen kuşlar bile gelmez.<br/><br/>edit: akzemoy'a uyarıları için teşekkürler.
   entry_channels: siyaset,haber
@@ -46,7 +46,7 @@ data:
     vasıfsız türbanlı bloggerlerin takipçileri
   entry_id:  91334539
   entry_writer: tugican
-  entry_fav_count: 402
+  entry_fav_count: 403
   entry_content: |
     bazen instagram'da denk geldiğim durum. elemanların hiç bir özellikleri yokken milyonlarca takipçiyi nasıl edinebiliyorlar ?<br/><br/>örneğin şu çift;<a rel="nofollow noopener" class="url" target="_blank" href="https://instagram.com/omertubaliya?igshid=y3qjeqp6trmp" title="https://instagram.com/omertubaliya?igshid=y3qjeqp6trmp">bu ne aq</a><br/><br/>ömer aslan diye biri dünyaya gelecek diye sevinen binlerce ezik. <br/><br/>allah akıl fikir versin.
   entry_channels: 
@@ -54,7 +54,7 @@ data:
     türkiye'de her hobinin pahalı olması
   entry_id:  91329664
   entry_writer: sikilgan
-  entry_fav_count: 345
+  entry_fav_count: 348
   entry_content: |
     (bkz: <a class="b" href="/?q=t%c3%bcrkiye%27de+pahal%c4%b1+olmayan+neyin+olmas%c4%b1">türkiye'de pahalı olmayan neyin olması</a>)
   entry_channels: ekonomi
@@ -62,34 +62,66 @@ data:
     güven vermeyen ve sevilmeyen meslek grupları
   entry_id:  91320434
   entry_writer: aganin poku ustune olan pok
-  entry_fav_count: 285
+  entry_fav_count: 286
   entry_content: |
     ulan acaba dolandırılıyor muyum hissi veren meslek gruplarıdır:<br/><br/>avukat<br/>emlakçı<br/>kuyumcu<br/>müteahhit<br/>pazarlamacı<br/><br/>ve maalesef son 7-8 senedir trajikomik bir şekilde güven sorunu yaratan bir meslek grubu: polisler...
   entry_channels: anket,ekonomi
 - entry_name: |
-    atatürk'ün mülteci olduğu gerçeği
-  entry_id:  91338904
-  entry_writer: mataas
-  entry_fav_count: 260
-  entry_content: |
-    lan amına koduklarım o zaman selanik osmanlı toprağı değil mi? bu adam kendi ülkesinde şehir değiştirince nasıl mülteci oluyor?<br/><br/>balkan savaşları sırasında makedonya'yı kaybeden osmanlı devleti, 8 kasım 1912 günü selanik'i de yunan kuvvetlerine terk etmek zorunda kaldı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.dunyabulteni.net/tarih-dosyasi/tarihte-bugun-8-kasim-selanik-kaybedildi-h234035.html" title="https://www.dunyabulteni.net/tarih-dosyasi/tarihte-bugun-8-kasim-selanik-kaybedildi-h234035.html">kaynak güncel</a>
-  entry_channels: siyaset
-- entry_name: |
     16 haziran 2019 imamoğlu yıldırım canlı yayını
   entry_id:  91320369
   entry_writer: tanriya allah diyen cocuk
-  entry_fav_count: 253
+  entry_fav_count: 273
   entry_content: |
     binali yıldırım'ı o kadar iyi anlıyorum ki..<br/><br/>bayram tatilini kıbrıs'ta bir kumarhanede barmenlik yaparak geçirdim. kazandığım paranın yarısını, aynı kumarhanede harcamaya karar verdim son gün. diğer yarısı bana rahatlıkla yeterdi.<br/><br/>bütün cesaretimi toplayıp; kelli felli 3 tane dayının poker oynadığı masaya oturdum.<br/>pokerde kaybedebileceğim 2 bin liram vardı.<br/><br/>henüz daha ilk elden <a class="b" href="/?q=karo+as">karo as</a> ve <a class="b" href="/?q=karo+papaz">karo papaz</a> çektim. açılacak ilk 3 kağıdı görelim falan derken, 1000 liraya kadar da düştüm. ama şanslıydım. yere sırasıyla <a class="b" href="/?q=karo+k%c4%b1z">karo kız</a>, <a class="b" href="/?q=karo+10">karo 10</a> ve <a class="b" href="/?q=sinek+2">sinek 2</a> açıldı ve masada 3.300 lira toplandı. poker bilmeyenler için özetlemek gerekirse; son açılacak 2 kağıttan sadece bir tanesinin bile herhangi bir <a class="b" href="/?q=karo">karo</a> ya da herhangi bir <a class="b" href="/?q=joker">joker</a><sup class="ab"><a title="(bkz: bacak)" href="/?q=bacak" data-query="bacak">*</a></sup> olması durumunda, en basit tabirle, 2 tane krupiyer kızı koluma takıp çıkabilirdim mekandan. 200 lira daha arttırdım.<br/><br/>elimde 800, masada 3700 ve oyunda 2 kişi kalmıştık. dördüncü kağıt <a class="b" href="/?q=ma%c3%a7a+6">maça 6</a> açıldı. son bir şansım daha vardı ve rakibim gergin gözüküyordu.<br/>600 lira daha arttırdım.<br/><br/>son kağıt olarak da <a class="b" href="/?q=kupa+6">kupa 6</a> açıldı. elimde kalan son 200 lirayla, masada toplanan 4900 liraya kedinin ciğere baktığı gibi bakıyordum. çok büyük kaybetmiştim.<br/><br/>güldüm, bir sigara yaktım, arkama yaslandım ve son paramı da kendimden emin bir şekilde ileriye sürdüm.<a class="b" href="/?q=%27batt%c4%b1+fishing+yan+going%27">'battı fishing yan going'</a> sonuçta, 200 lirayı götüme mi sokayım.<br/><br/><a class="b" href="/?q=%27%27rest!!%27%27">''rest!!''</a><br/><br/>artık mekanın ikram ettiği ücretsiz içkilerden mi, yoksa yaradanın bana geçtiği bir bayram kıyağı mı bilemem ama olabilecek en saçma şey oldu ve karşımdaki salak o son 200 lirayı vermemek için oyundan çekildi.<br/><br/>ben kazandım..<br/>----------------------------------------------- <br/><br/>o son 200 lirayı, <a class="b" href="/?q=%27eeeeeehhhh+sikerler%27">'eeeeeehhhh sikerler'</a> deyip; bastığım o çaresizlik anı var ya, işte sayın binali yıldırım da tam olarak aynı durumda şu an.<br/>kaybettiğinden, yine kaybedeceğinden, kaybetmeye mahkum olduğundan o kadar emin ki, anlatamam.<br/><br/>hani geçen gün, <a class="b" href="/?q=%27%27isterlerse%2c+gelsin+u%c4%9fur+d%c3%bcndar+y%c3%b6netsin%27%27">''isterlerse, gelsin uğur dündar yönetsin''</a> falan dedi ya, işte o da yıldırım'ın son 200 lirasıydı aga. çaresizce bıraktı, gidiyor..
   entry_channels: siyaset,tv,haber
 - entry_name: |
+    kürt kökenli kardeşlerimiz canımız ciğerparemizdir
+  entry_id:  91328722
+  entry_writer: nickson
+  entry_fav_count: 266
+  entry_content: |
+    sizin ciğerpareniz kürt kökenli vatandaşlar değil, ipten kurtardığınız ve avukatlarıyla rahatça görüşmeli dediğiniz bebek katili apo'dur.
+  entry_channels: siyaset,haber
+- entry_name: |
+    atatürk'ün mülteci olduğu gerçeği
+  entry_id:  91338904
+  entry_writer: mataas
+  entry_fav_count: 261
+  entry_content: |
+    lan amına koduklarım o zaman selanik osmanlı toprağı değil mi? bu adam kendi ülkesinde şehir değiştirince nasıl mülteci oluyor?<br/><br/>balkan savaşları sırasında makedonya'yı kaybeden osmanlı devleti, 8 kasım 1912 günü selanik'i de yunan kuvvetlerine terk etmek zorunda kaldı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.dunyabulteni.net/tarih-dosyasi/tarihte-bugun-8-kasim-selanik-kaybedildi-h234035.html" title="https://www.dunyabulteni.net/tarih-dosyasi/tarihte-bugun-8-kasim-selanik-kaybedildi-h234035.html">kaynak güncel</a>
+  entry_channels: siyaset
+- entry_name: |
+    antalya'da kadın sürücünün yaptığı bir garip kaza
+  entry_id:  91328539
+  entry_writer: dimkir
+  entry_fav_count: 221
+  entry_content: |
+    anlamadan dinlemeden ahkam kesme ekibinin hemen işbaşı yapmasına neden olan kazadır. ulan belki motosiklet sürücüsü kusurludur kazada, kazaya kendisi sebep olmuştur??hemen kadının dikkatsizliği ot bok püsür, kaza hakkında zerre bilgi sahibi değilsiniz ama yorum, itham, linç gırla gidiyor. bilgi sahibi olmadan fikir sahibi olunmaz demiş zamanında üstat ama, bizim ata sporumuz bu faaliyet. <br/><br/>belki de motosiklet sürücüsünün tam kusuru ile gerçekleşmiştir kaza da, kadın da o panikle yok yere hapse gireceğini falan düşünüyordur? olamaz mı? ılla hayatını kaybeden motosiklet sürücüsü diye hatalı tarafın otomobil sürücüsü mü olması lazım?
+  entry_channels: haber
+- entry_name: |
+    16 haziran 2019 e. imamoğlu'nun aşırı gergin hali
+  entry_id:  91348249
+  entry_writer: porngrinder
+  entry_fav_count: 208
+  entry_content: |
+    terleyen binali yıldırım. normal olan imamoğlu...<br/>o sebeple ak troll kardeş git köşede otla.
+  entry_channels: siyaset,ilişkiler,tv,haber
+- entry_name: |
     bir sapa balta olamayınca seçilen meslek
   entry_id:  91340592
   entry_writer: er ak koca
-  entry_fav_count: 164
+  entry_fav_count: 169
   entry_content: |
     (bkz: <a class="b" href="/?q=polis">polis</a>) <br/>(bkz: <a class="b" href="/?q=bek%c3%a7i">bekçi</a>)
   entry_channels: anket,ekonomi
+- entry_name: |
+    spermi kuyruğundan yakalayan robot
+  entry_id:  91344668
+  entry_writer: untold
+  entry_fav_count: 168
+  entry_content: |
+    yakalandığına göre çocuk kesin salak olacak amk.
+  entry_channels: bilim
 - entry_name: |
     hangi burcun erkeği ideal
   entry_id:  91327793
@@ -99,18 +131,10 @@ data:
     zengin burcu erkeği şu sıralar en ideali
   entry_channels: anket,ilişkiler
 - entry_name: |
-    spermi kuyruğundan yakalayan robot
-  entry_id:  91344668
-  entry_writer: untold
-  entry_fav_count: 153
-  entry_content: |
-    yakalandığına göre çocuk kesin salak olacak amk.
-  entry_channels: bilim
-- entry_name: |
     atatürk'ün abartılmış bir lider olması
   entry_id:  91339342
   entry_writer: wohan
-  entry_fav_count: 143
+  entry_fav_count: 149
   entry_content: |
     23 enty'li akraba evliliği mahsülü bir troll hesabıdır, okumadım bile. biraz daha fazla para basıp 1000'den fazla entry'si bulunan hesap alın aktroller.<br/><br/>(bkz: <a class="b" href="/?q=engelle">engelle</a>)<br/><br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)
   entry_channels: siyaset
@@ -121,6 +145,22 @@ data:
   entry_fav_count: 130
   entry_content: |
     terbiyesizliktir, alçaklıktır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ismailsaymaz/status/1140210873014861824?s=19" title="https://twitter.com/ismailsaymaz/status/1140210873014861824?s=19">video</a><br/><br/>pendik'in akp meclis üyesi herif kalkıyor yemeği ben verdim, siyaset yapma diyor. ulan belediye başkanın aynı yemekte kalkıp binali'ye oy istiyor ama.<br/><br/>şerdil başkan al o mikrofonu der gibi eline vermiş herifin.
+  entry_channels: siyaset,haber
+- entry_name: |
+    badass için türkçeleştirme önerisi
+  entry_id:  91336112
+  entry_writer: lobo hammer
+  entry_fav_count: 121
+  entry_content: |
+    (bkz: <a class="b" href="/?q=k%c3%b6t%c3%bc+g%c3%b6t">kötü göt</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    16 haziran 2019 bahçeli'nin ankara'ya dönmesi
+  entry_id:  91337424
+  entry_writer: hadi git
+  entry_fav_count: 120
+  entry_content: |
+    mehter marşıyla gelmişti, izmir marşıyla uğurluyoruz kendisini(:<br/><br/>yaşa mustafa kemal paşa yaşa!!!<br/><br/>edit: demiştim ben, videosunu da yapmışlar. niye benden arakladınız lan(:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/m_slk3/status/1140258350111891457?s=21" title="https://twitter.com/m_slk3/status/1140258350111891457?s=21">https://twitter.com/…tatus/1140258350111891457?s=21</a>
   entry_channels: siyaset,haber
 - entry_name: |
     16 haziran 2019 uğur dündar tweet'i
@@ -139,6 +179,14 @@ data:
     keşke birazdan başlığa damlayacak arap yalayıcı oçlardan bazılarını aralarına alıp döve döve dans etse suri kardeşlerimiz.
   entry_channels: siyaset,haber
 - entry_name: |
+    cem yılmaz'ın sahneye çıkan kediyi trollemesi
+  entry_id:  91344438
+  entry_writer: sahadaki adam
+  entry_fav_count: 97
+  entry_content: |
+    neden gülüyorlar diyenler asıl siz komiksiniz. şovun ortasına kadar gülmekten kırılmışlardır artık bazı şeylere anlamsız güler haldedirler. gayet normal. <br/><br/>arkadaşlarla geyik yaparken hiç mi anlamsızca gülmediniz her şeye. bu kadar mı dünyaya karşı soğuksunuz. hayat akıyor yahu. her şeye rağmen gülün.<br/><br/>edit:imla
+  entry_channels: magazin
+- entry_name: |
     babalar günü
   entry_id:  91319725
   entry_writer: basabbasbas
@@ -147,21 +195,29 @@ data:
     8 sene önceydi. kaş kalkan'dan antalya'ya doğru dönüyorduk. yaz vakti, hava sıcak. hanım yan tarafımda, ben direksiyonda üstü çıplak, kemer de takmamışım. benzinlikten yakıtı doldurdum, yolda devam ederken bir anda nedense kemeri takasım geldi. o yoldaki nadir düzlüklerden olan bir yerde, demre'ye girerken, bir tane çöp kamyonunu sollamaya çıktım. ben gaz verdikçe adam da gaz veriyordu. çöp kamyonunu zar zor sollarken, kafamı kamyona doğru çevirip, sinirli bir bakış attım. adamla göz göze geldik, umursamaz bir tavırdaydı. birkaç dk sonra virajlarda ilerlerken, hanım tabelalardan gördüğü mavi yengeçten yemek istedi. ileride sağda viraj ağızında bir restaurant gözüme çarptı. yalnız, deniz tarafında değil, dağ tarafında park yeri vardı. gidiş gelişli yolda ters istikametimde kalıyordu. sinyal verdim, arkayı kontrol ettim, karşıya bakıp yavaş yavaş park yerine doğru ilerlerken güüm!<br/><br/>biraz önce bana yol vermemek için kendini yırtan çöp kamyonu, ön ve arka kapının birleştiği yerden, direk tarafından çarptı. kafamı sola çevirdiğim anda kamyonun ön ızgarasını görmüştüm. o psikolojiyle aman arabayı dağ dibine, kenara çekeyim, gidişli gelişli yolda ne kendimize, ne de başkasına sebep olmayayım diye düşündüm. arabayı o ruh haliyle güvenli bölgeye yanaştırdım. üstüm çıplak olmasına ve yan cam tuz buz olmasına rağmen üzerimde sanki kalkan varmışçasına tek bir çizik bile yoktu, ama eşimin yüzü kanıyordu. karşıdan restorandan insanlar koştu yanımıza. biz o kadar sakindik, insanlarda ise gözle görülür bir telaş vardı. ambulans geldi, ilçe hastanesine gittik. babamlar yakındı bize, kısa zamanda geldiler yanımıza. kafamı çarpmıştım, şişmişti, eşimin de karnında atan bir kalp vardı. belki de bizim şansımız oydu. <br/><br/>daha sonra düşündüm de,kamyon on, on beş cm daha önden çarpsa, ya da kemeri takmamış olsam, muhtemelen herşey çok daha kötü olacaktı. belki de henüz aramıza katılmamış olan, kara kuzum hayata babasız başlayacaktı. aylar geçti, herşey yolunda giderken, bir anda sabırsızlandı ve doktor dedi ki bugün alacağız öğleden sonra. aramıza 5 hafta erken katıldı. bir hafta, kuvöz macerası sonrasında evindeydi. aklımda kalan ilk enstantanelerden birisi, çamaşır kurutma askısındaki küçük pembe çoraplardı. şu an hatırlayınca bile heyecanla karışık tatlı bir tebessüm yaşatıyor.<br/><br/>zaman geçtikçe ilk banyo, kırkıdır, ilk dişidir, ilk adımlarıdır, ağzından dökülen ilk baba sözcükleri ve diğer ilkleri. babaları, kız çocuklarının ilk aşkı derler hep. kızım büyüdükçe daha çok hissediyorum onu. yaptığı naz, kucağındayken hissettiği huzur, elini tuttuğunda hissettiği güven... hepsi geçiyor bana. traş olduğumda sarılıp, yumuşacık olan yanaklarımdan öpmeye bayılıyor. bazen düşünüyorum şimdiden, istemeye geldiklerinde her ne kadar sert mizaçlı gibi olsam da dayanamam duygusallaşırım ben. kendi kendime diyorum, seni nasıl veririm kız ben<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>kızların babalarıyla olan ilişkileri belki başka ama, babaların da kızlarıyla olan ilişkileri bambaşka. kara kuzum büyüyor. bu sene okumayı yazmayı da öğrendi ve ilk defa kendi minik kalbinden dökülen hislerini kağıda döktüğü kelimelerle babasına, babalar günü hediyesi verdi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/fx33667ng6ov">https://eksiup.com/p/fx33667ng6ov</a><br/><br/>yükte hafif ama, kıymeti paha biçilemez bir hediye. belki kendi hatırlamayacak bunu ilerde, ama kendi minik kalbiyle, babasına yazdığı bu sözler ileride kendisine, babasından hatıra kalacak.<br/><br/>eğer babanız hayatta ise, yanınızda ise yanlarına gidin, değilse de varlığınızı hissettirin ve babalar gününü kutlayın. ister tüketimin dayatması deyin, isterse de önemseyin, ama siz gene de hissedin, hissettirin, mutlu edin. belki kızgınsınız, belki de küssünüz, ama ne olursa olsun yutkunsa da, haykıramasa da, sanki yüreği taş bağlamış gibi gözükse de, bir babanın yüreğinde kuzusuna her zaman yer vardır.<br/>ister mutlulukla, ister haykıra haykıra, ama gösterin, sarılın o ilk kahramanlarınıza. unutmayın, kiminiz, kınalı, kiminiz sarı kiminiz kara kuzu ama o adamların her zaman kuzusunuz siz. babaları hayatta olmayanlar da varsa evlatlarına sarılsın, yoksa da, o kalbi güzel adama bir tebessüm göndersin. <br/><br/>hayatta olsun olmasın, <br/>tüm babaların, babalar günü kutlu olsun.
   entry_channels: ilişkiler
 - entry_name: |
-    cem yılmaz'ın sahneye çıkan kediyi trollemesi
-  entry_id:  91344438
-  entry_writer: sahadaki adam
-  entry_fav_count: 94
-  entry_content: |
-    neden gülüyorlar diyenler asıl siz komiksiniz. şovun ortasına kadar gülmekten kırılmışlardır artık bazı şeylere anlamsız güler haldedirler. gayet normal. <br/><br/>arkadaşlarla geyik yaparken hiç mi anlamsızca gülmediniz her şeye. bu kadar mı dünyaya karşı soğuksunuz. hayat akıyor yahu. her şeye rağmen gülün.<br/><br/>edit:imla
-  entry_channels: magazin
-- entry_name: |
     türkiyelilerin suriyelileri küçümsemesi hususu
   entry_id:  91342798
   entry_writer: ne guzel komsumuzdun sen fahriye abla
-  entry_fav_count: 90
+  entry_fav_count: 92
   entry_content: |
     kimsenin kimseyi küçümsediği ya da aşağıladığı yok. siktir olup gitsinler bizi rahat bıraksınlar yeter. bir hükümet düşünün ki kendi vatandaşlarına tanımadığı hakları bu çapulculara tanıyor. halkın tam olarak isyanı budur. ben 2 ay öncesinden hastaneye randevu alamaz iken, bu şerefsizler pata küte içeri alınıyorsa, ben işsiz kaldığımda kuş kadar maaş alırken, yetim, emekli, dul, gazi üç kuruş maaşla boğaz tokluğuna yaşıyor iken, bu piçler çatır çatır benden fazla maaş alıyorsa, benim askerim oralarda ölürken, bu ipneler sahillerde benim karımı kızımı taciz ediyorsa sikerim böyle mülteci politikasını.
   entry_channels: 
+- entry_name: |
+    15 haziran 2019 ibb'nin attığı tweet
+  entry_id:  91335783
+  entry_writer: maket kartonu
+  entry_fav_count: 92
+  entry_content: |
+    hali hazırda kayyum tarafından ve sözde tarafsızca yönetilen belediyenin attığı twittir. <br/><br/>bu ülkeye en büyük ve asırlarca hatırlanacak iyiliğimiz, akp gibi insan müsveddelerinden oluşan bir organizasyonu tarihin karanlık çöplüğüne göndermek olacak.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    zengin imamoğlu kazansın diye yırtınan fakir solcu
+  entry_id:  91340499
+  entry_writer: germe beni germe
+  entry_fav_count: 86
+  entry_content: |
+    rakibininin mal varlığıyla karşılaştırıldığında pek de zengin sayılmayacak ekrem imamoğlu'na atılan çamurlardan bir tanesi dahadır. sayın yıldırım'ın 200 kiloluk oğlu kıbrıs'ta kumar oynasın istiyorsanız siz de iktidarın adayına oy verip ceplerini beş sene daha doldurmalarına izin verebilirsiniz.<br/><br/>seçim yaklaştıkça iyice kuduran bu aktrollerin başlığına yazmamak gerekiyor olsa bile içimi dökmem gerekiyordu, cengizem çaylak oldu sıra sizde.
+  entry_channels: siyaset,anket,ekonomi
 - entry_name: |
     tuğrul selmanoğlu
   entry_id:  91325143
@@ -171,21 +227,13 @@ data:
     evlad-ı orosbu çocuğudur...
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    16 haziran 2019 e. imamoğlu'nun aşırı gergin hali
-  entry_id:  91348249
-  entry_writer: porngrinder
-  entry_fav_count: 58
+    ayt 2019
+  entry_id:  91335052
+  entry_writer: zenit77
+  entry_fav_count: 54
   entry_content: |
-    terleyen binali yıldırım. normal olan imamoğlu...<br/>o sebeple ak troll kardeş git köşede otla.
-  entry_channels: siyaset,ilişkiler,tv,haber
-- entry_name: |
-    çıplak gözle görülmüş en güzel manzara
-  entry_id:  91320467
-  entry_writer: dr rome
-  entry_fav_count: 46
-  entry_content: |
-    bir gezgin olarak türkiye için mutlaka görün diyeceğim 20 manzara:<br/>1) artvin borçka karagöl. artvin’in her yeri muhteşem doğa.<br/>2) trabzon kadıralak yaylası mavi yıldız çiçekleri, hıdırnebi yaylası bulutlar üstü, çaykara uzungöl <br/>3) balıkesir ayvalık şeytan sofrası<br/>4) antalya adrasan, fasalis, olimpos ve çıralı<br/>6) muğla fethiye ölüdeniz <br/>8) mersin mut yerköprü şelalesi <br/>9) sinop hamsilos kıyısı <br/>10) mardin mezopotamya manzarası<br/>11) istanbul pierre loti tepesi ve galata kulesi; aya sofya manzarası <br/>12) adana seyhan ve üniversite içi baraj manzarası <br/>13) rize dağmaran <br/>14) kırklareli longoz ormanları<br/>15) adıyaman nemrut dağı <br/>16) akbük, akyaka, dalyan<br/>17) eskişehir sazova<br/>18) amasra <br/>19) ordu boztepe <br/>20) tabii ki kapadokya özellikle kızılçukur
-  entry_channels: anket,seyahat
+    nuh'un gemisinde girdiğim sınavdır.<br/><br/>45-50'lik dayılar mı dersin deprem efekti verenler mi dersin sınav boyu uyuyanlar mı dersin hepsini geçtim sınav başlamadan önce gözetmene "makine mühendisliği için hangi bölümü çözmem gerekiyor?" diye soran ultra sorumlu öğrenci mi dersin her çeşit insan vardı. çıkışın serbest olduğu saat geldiği an uyuyanların bir anda dirildiğini ve kapıya hücum ettiğini gördüm, garip bir ortamdı sınavın sonunda 3 kişi mi ne kalmıştık.
+  entry_channels: 
 - entry_name: |
     hdp'ye oy veren 6 milyonun 6 milyonu da pkklıdır
   entry_id:  91342411
@@ -211,10 +259,26 @@ data:
     doksanlı yıllarda savaş ay en tehlikeli akıl hastalarının olduğu 46'lılar koğuşuna girer.<br/><br/>orada anasını babasını baltayla doğramış bir akıl hastasına, cinayeti neden işlediğini sorar. <br/><br/>adam sakince, "kemençe çalıyorlardı" der.
   entry_channels: anket,müzik
 - entry_name: |
+    okan bayülgen'in nusret'e verdiği ayar
+  entry_id:  91337138
+  entry_writer: mavericks
+  entry_fav_count: 39
+  entry_content: |
+    leş gibi popülizm kokan zırvalar. diyor ki "bizim millet fakirdir ama belli değerleri vardır, para bunu bozamaz." bu dediğine kendisi inandı mı merak ediyorum. parayla bizim milletin her şeyini bozar, baştan toplarsın.
+  entry_channels: magazin
+- entry_name: |
+    decathlon'da satılan gri spor ayakkabı
+  entry_id:  91319806
+  entry_writer: heretikadam
+  entry_fav_count: 37
+  entry_content: |
+    ilk kez gördüm diyen mi ararsın, ben o fiyata ayakkabının bağını satın alıyorum diyen mi... insanlar üç kuruşa çalışıyorlar kardeşim. insanlar, hayatta kalmaya çalışıyorlar. bir şeyi eleştirmeden önce düşünün lan azıcık.
+  entry_channels: haber,moda
+- entry_name: |
     bir evi daha yaşanılır kılan detaylar
   entry_id:  91321265
   entry_writer: hafifleticisepetler
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     - sarı ve loş ışık. bunu ister lambader ile ister mum ile sağlayın hepsi güzeldir. <br/>- çiçeklerin varlığı. çiçekler ve toprakla uğraşmak kadar rahatlatıcı bir şey yoktur.<br/>- bir evcil hayvanınızın olması. kapıda sizi karşılayabilir.<br/>- kitaplarınız, kitap kokusu.<br/>- pencere ve kapılarda sineklik olması böceklerden korkanlar için ihtiyaç değil zorunluluktur. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket
@@ -222,7 +286,7 @@ data:
     ismail küçükkaya
   entry_id:  91323159
   entry_writer: sopaipilla
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     binali yıldırım'a servetini ve kaynağını sormazsa gazeteci falan değildir.
   entry_channels: siyaset,tv,haber
@@ -230,7 +294,7 @@ data:
     evlendikten sonra değişmeyen kadın
   entry_id:  91343156
   entry_writer: sick city
-  entry_fav_count: 29
+  entry_fav_count: 32
   entry_content: |
     insanlar değişmez. biz onları gerçek anlamda tanımadan nikah masasına otururuz. bu da bizim kabahatimizdir. evlilik öncesi bize batan şeyleri o an önemsemeyiz çoğu kez.<br/><br/>sonra adı sen değiştin oluyor.
   entry_channels: anket,ilişkiler
@@ -251,6 +315,14 @@ data:
     3 tane bıyıklı muhalifleri koyun gibi güdüyor yine. neymiş it demiş mi, dememiş mi? montaj mı değil mi?<br/>deprem sonrasi toplanma alanlarina dahi avm yapan bir iktidarin yozlaşmisliklarini konuşmak dururken mesela, atm personelini, cemmatlere dağitilan kaynaklari, mülteci sorununu, ekonomik krizi, sefaleti, beyin göçünü falan konuşmak yerine imamoğlu it dedi mi demedi mi o konuşuluyor. <br/>kaç senedir manipüle edilmekten, ayakta sikilmekten bıkmadiniz mi? <br/>kaç senedir aktroller tarafindan kandirilmadiniz mi?<br/>yetmedi mi?
   entry_channels: siyaset
 - entry_name: |
+    binali yıldırım
+  entry_id:  91346375
+  entry_writer: mc43
+  entry_fav_count: 26
+  entry_content: |
+    ulan aktroller bu adam için istanbul trafiğini şöyle iyileştirdi falan diyordunuz<br/><br/>adam canlı yayına yetişemedi lan. daha canlı yayına zamanında gelemeyen adam istanbulu mu yönetecek?
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     tanrının yarattığı en güzel şey
   entry_id:  91320495
   entry_writer: alaskardan
@@ -258,30 +330,6 @@ data:
   entry_content: |
     sözlük'teki tek ateist olarak haliyle boş geçeceğim bir nanedir.<br/><br/>ay ben de inanmıyorum derken hep kandırdınız demek beni:/
   entry_channels: anket
-- entry_name: |
-    lionel messi
-  entry_id:  91325453
-  entry_writer: varyete
-  entry_fav_count: 19
-  entry_content: |
-    milli takımda 2016’ya kadar hiç fena performansı yoktu. 3 kupada finale çıkan takımın en önemli adamıydı; ama o sene kaybedilen final kendisi için büyük travma oldu ve bir türlü bunu atlatamadı. arjantin kötü bir takım. her sene de daha kötüye gidiyor; ama messi de messi gibi değil. sahadaki yüz ifadesi, top kontrolü ve paslarından bile bunu belli ediyor. bunun nedeni de form değil psikolojik bence.
-  entry_channels: spor
-- entry_name: |
-    çirkin bir kadın olmak
-  entry_id:  91324949
-  entry_writer: yedinci element
-  entry_fav_count: 18
-  entry_content: |
-    erkeklerin gözünde yok olmaktır.<br/><br/>bakın yok hükmünde demiyorum. direkt yok olmaktır.<br/><br/>kadınları her türlü eleştirelim ama, çirkin karşı cinse karşı erkeklere göre daha toleranslılar. çünkü erkek çirkin olsa bile bazı kaynaklara erişimi olabiliyor bu da onu tercih edilebilir yapabiliyor.<br/><br/>ama erkek çirkin kadını direkt yok sayıyor çünkü erkeğin kendisi kaynak sağlayıcı konumunda olduğu için kadının erişebildiği diğer kaynaklar onda öncelik olmuyor sadece onun genetik materyali ile ilgileniyor o kadar.<br/><br/>neden güzel kızlara bu kadar aşırı yığılma var sanıyorsunuz? güzel olmayanları baksak bile görmüyoruz da ondan.<br/><br/>neden kadınlar "istanbul erkekleri, izmir erkekleri, ankara erkekleri, rus erkekleri" gibi genellemeler yapmıyor da biz "izmir kızı, rus kızı, slav kızı" gibi genellemelerle koskoca bir kitleye komple güzellik atfedebiliyoruz? çünkü çirkin olanlarını değerlendirmeye bile almıyoruz da ondan. geriye sadece güzeller kalıyor biz de hıyar gibi "tüm x kızları güzel oluyor abiii" diyoruz.<br/><br/>ek: gerçek hayattan örnek, aşağıda "çirkin kadın mı kaldı abii" diyen arkadaş. sokak çirkin kadın dolu, siz görmüyosunuz. kurgusal örnek ise bomba bir yerden vericem - harry potter serisinde 4 yıl, bakın 4 koca yıl sonra; baloya götürecek kız bulamayan ron'un çaresizlik ve yokluk içinde kaldığı anda hermione'a "sen de kızsın değil mi?" diye sorması. işte jk rowling kadın bir yazar olarak erkeklerin farkında bile olmadığı bu fenomeni en net haliyle yazmış. :)))
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
-    binali yıldırım
-  entry_id:  91346375
-  entry_writer: mc43
-  entry_fav_count: 18
-  entry_content: |
-    ulan aktroller bu adam için istanbul trafiğini şöyle iyileştirdi falan diyordunuz<br/><br/>adam canlı yayına yetişemedi lan. daha canlı yayına zamanında gelemeyen adam istanbulu mu yönetecek?
-  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     vietnam'ın ilk yerli otomobili fadıl
   entry_id:  91344147
@@ -291,13 +339,13 @@ data:
     o değil de adamlar bu otomobil hakkında; "tum dünyanın yaptığını vietnamlilar da yapabilir" demişler. <br/><br/>olm "türkiye hariç" deseydiniz bari la.
   entry_channels: haber,otomotiv
 - entry_name: |
-    binali yıldırım'ın ekrem imamoğlu'nu sıkıştırması
-  entry_id:  91348187
-  entry_writer: insan donuna girmis telli turna
+    imamoğlu'nun canlı yayına çok hazırlıklı gelmesi
+  entry_id:  91347484
+  entry_writer: mrsjanesmith
   entry_fav_count: 15
   entry_content: |
-    (bkz: <a class="b" href="/?q=g%c3%b6t%c3%bcyle+yay%c4%b1n%c4%b1+izlemek">götüyle yayını izlemek</a>)
-  entry_channels: siyaset,anket,ilişkiler,tv,haber
+    masaya cikarip vuruyor helal lan
+  entry_channels: siyaset,tv
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  91319786
@@ -307,21 +355,21 @@ data:
     bizim dayılar annemin tarlasını 18 senedir ekiyorlar annem bu sene hakkım neyse vereceksiniz diye posta koymuş hepsi küsmüş anneme şerefsizler. annem dertli onu dinliyoz.
   entry_channels: anket,ekşi-sözlük,sanat,edebiyat,moda,seyahat
 - entry_name: |
-    inşaat mühendisliği
-  entry_id:  91342104
-  entry_writer: taratara
-  entry_fav_count: 11
+    binali yıldırım'ın yalana tahammül edememesi
+  entry_id:  91349191
+  entry_writer: tekkalan
+  entry_fav_count: 9
   entry_content: |
-    sorun inşaat sektörünün durumundan ziyade mezun olan inşaat mühendisi sayısının olağanüstü yüksek seviyelere ulaşmış olması. inşaat sektörü hiçbir zaman bu kadar mezuna iş olanağı sağlayacak kadar büyük olmadı, hiçbir zaman o seviyeye ulaşamayacak. üstüne bir de ekonomik durgunluk eklenince durum iyice içinden çıkılmaz bir hal alıyor.
-  entry_channels: bilim,teknoloji,eğitim
+    an itibariyle canlı yayında söylediğidir. <br/><br/>binali yıldırım ve mizah anlayışı gerçekten insanı ufuklardan ufuklara sürüklüyor. <br/><br/>yalandan bu kadar rahatsız oluyorsa kendisine ve reisine nasıl tahammül ediyor anlamak güç.
+  entry_channels: siyaset
 - entry_name: |
-    imamoğlu'nun canlı yayına çok hazırlıklı gelmesi
-  entry_id:  91347484
-  entry_writer: mrsjanesmith
-  entry_fav_count: 7
+    ismail küçükkaya ekşi'de yazar olsa alacağı nick
+  entry_id:  91344515
+  entry_writer: titia
+  entry_fav_count: 6
   entry_content: |
-    masaya cikarip vuruyor helal lan
-  entry_channels: siyaset,tv
+    once_inceyi_sonra_imamoglunu_harcadim_reisim
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  91336315
@@ -331,75 +379,27 @@ data:
     umudum her zaman bakidir ama<br/>zaman kısa, ben yorgunum, yol uzun.<sup class="ab"><a title="(bkz: yalvarış)" href="/?q=yalvar%c4%b1%c5%9f" data-query="yalvarış">*</a></sup><sup class="ab"><a title="(bkz: abdurrahim karakoç)" href="/?q=abdurrahim+karako%c3%a7" data-query="abdurrahim karakoç">*</a></sup>
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ismail küçükkaya ekşi'de yazar olsa alacağı nick
-  entry_id:  91344515
-  entry_writer: titia
-  entry_fav_count: 4
-  entry_content: |
-    once_inceyi_sonra_imamoglunu_harcadim_reisim
-  entry_channels: 
-- entry_name: |
-    ismail baki'nin e. imamoğlu ve b. yıldırım taklidi
-  entry_id:  91342593
-  entry_writer: 11erkan11
-  entry_fav_count: 4
-  entry_content: |
-    binali bey kusura bakma taklidin bile çekilmiyor
-  entry_channels: siyaset,tv
-- entry_name: |
     ismail küçükkaya'nın yanakları
   entry_id:  91348149
   entry_writer: noirhaze
-  entry_fav_count: 1
+  entry_fav_count: 4
   entry_content: |
     diş iltihabı yaşamaktadır
   entry_channels: 
 - entry_name: |
-    ikinci kez aşık olamamak
-  entry_id:  91327481
-  entry_writer: illusionnn
-  entry_fav_count: 1
-  entry_content: |
-    yahu bi kasmayın kendinizi, rahat bırakın. ortalama 70 yıllık bir ömürde, yok bi kere aşık olurum, yok unutamam, ama o farklıydı ve türevleri romantizm çok lüks bu hayata. bi kere aşık olma nosyonu sizi olduğunuzdan daha değerli biri yapmıyor. bir kere aşık olup, başka da olmayınca hayatınız daha elit ve kaliteli olmuyor aynı sizin de olmadığınız gibi. hayat çok güzel, insanlar çeşit çeşit. bol bol aşık olun. her aşık olduğunuz insanda yeni bir kendinizi bulun. kim demiş ki, aşk uzun sürmeli veya kalıcı olmalı? şartlamayın kendinizi o ağlak şarkıları dinleyerek ve saçma romantik filmleri izleyerek. zaten bir dolu acı, mutsuzluk, kötü şey var her zaman, her yerde. aşk olmadan nasıl çekilir ki? ayrıca acı çektiğiniz ölçüde aşık değilsiniz, o saçma genellemeyi de bir kenara bırakın. sadece yerinde ve zamanında vaz geçmeyi bilin. kendinize saygınızı kaybetmeden gidebilin. kimseyi de kendinizden fazla sevmeyin.
-  entry_channels: ilişkiler
-- entry_name: |
     binali yıldırım'ın ciddiyetsizliği
   entry_id:  91346753
   entry_writer: atin besinci bacagi
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     üniversite sınavına girecek olsa<br/><br/>(bkz: <a class="b" href="/?q=yks%e2%80%99ye+ge%c3%a7+kal%c4%b1p+kap%c4%b1y%c4%b1+tekmelemek">yks’ye geç kalıp kapıyı tekmelemek</a>)<br/><br/>durumunda kalacağının göstergesi
   entry_channels: 
 - entry_name: |
-    binali yıldırım'ın canlı yayına geç kalması
-  entry_id:  91346847
-  entry_writer: the glass ballerina
-  entry_fav_count: 1
-  entry_content: |
-    ekrem imamoğlu 21:00’deki yayın için 20:25’de gelirken, binali yıldırım yayına birkaç dakika kala geldi ve yayının geç başlamasına sebep oldu. bence sırf bu bile yapılacak olan yayına ve izleyecek seçmene tarafların gösterdiği saygının bir ölçütü.
-  entry_channels: haber
-- entry_name: |
-    şeyma subaşı'nın 2. kitabına isim önerileri
-  entry_id:  91331557
-  entry_writer: nugua
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=akl%c4%b1ndan+bir+koca+tut">aklından bir koca tut</a>)
-  entry_channels: anket,magazin
-- entry_name: |
     kanser hastasına yardım kampanyası
-  entry_id:  91349384
-  entry_writer: nazgul1234
+  entry_id:  91343620
+  entry_writer: chess player
   entry_fav_count: 0
   entry_content: |
-    şuan ekrem imamoğlu tarafından yerin dibine sokulan zat ikide bir ne zaman 31 martı geçiyoruz diyor zuhahahah
+    amacına ulaşmasını dilediğim kampanya.
   entry_channels: sağlık,ekonomi
-- entry_name: |
-    imamoğlu'nun ortak yayında yıldırım'ı mahvetmesi
-  entry_id:  91345008
-  entry_writer: eksi peace
-  entry_fav_count: 0
-  entry_content: |
-    kripto akp'li ismail öyle bir şeye izin vermez, beklentiye girmeyin.<br/><br/>olmayacak hadise.
-  entry_channels: siyaset,tv,haber
 ---
