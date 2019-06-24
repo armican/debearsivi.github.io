@@ -6,7 +6,7 @@ data:
     suriyeli sığınmacılar için referandum yapmak
   entry_id:  91645507
   entry_writer: woolrock
-  entry_fav_count: 1818
+  entry_fav_count: 1859
   entry_content: |
     turkiye'nin acilen gundeme almasi ve 6 ay icinde de sandiga gidilmesi gerekiyor.<br/><br/>bati ulkeleri nerede insanlik diye mizmizlanirlarsa, buyrun suriyelileri siz alin dersiniz, olur biter. 60 milyar dolar harcadik, yazik degil mi?
   entry_channels: siyaset,anket
@@ -14,7 +14,7 @@ data:
     4 lezbiyen hatunla beraber seks yapmak
   entry_id:  91660772
   entry_writer: climberserdar
-  entry_fav_count: 1724
+  entry_fav_count: 1762
   entry_content: |
     (bkz: <a class="b" href="/?q=baran+kalk+o%c4%9flum+sabah+oldu">baran kalk oğlum sabah oldu</a>)<br/><br/>:-) 1600 fav nedir arkadaş. kafayı mı yediniz. :)
   entry_channels: ilişkiler
@@ -22,7 +22,7 @@ data:
     istanbul'un valiye it diyen belediye başkanı oldu
   entry_id:  91660930
   entry_writer: viraja hizli girdigi iddia edilen arac
-  entry_fav_count: 1000
+  entry_fav_count: 1034
   entry_content: |
     bu adam imamoglu'nu cumhurbaskani yapana kadar susmayacak anlasilan.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     işkur genel müdürü'nün attığı tweet
   entry_id:  91655368
   entry_writer: scuddy
-  entry_fav_count: 890
+  entry_fav_count: 892
   entry_content: |
     liyakat olsaydi o da orada olmazdi
   entry_channels: siyaset
@@ -38,7 +38,7 @@ data:
     r.t.erdoğan'a bir nasihat bırak
   entry_id:  91635479
   entry_writer: ayamandrake
-  entry_fav_count: 793
+  entry_fav_count: 796
   entry_content: |
     en büyük hatayı, en güçlü olduğunu düşündüğün an yaparsın.<br/><br/>bertrand russell
   entry_channels: siyaset
@@ -46,7 +46,7 @@ data:
     imamoğlu'na oy veren başörtülü genç kızlar
   entry_id:  91656969
   entry_writer: dilbilimcisi
-  entry_fav_count: 732
+  entry_fav_count: 739
   entry_content: |
     ideoloji karmaşası yaşadığı zannedilen, aslen herhangi bir karmaşa yaşadığı filan olmayan, senin benim gibi normal insanlardır.
   entry_channels: siyaset,anket,moda
@@ -62,15 +62,23 @@ data:
     caminin önünde şampanya patlatan cahil
   entry_id:  91652046
   entry_writer: scorpioraptor
-  entry_fav_count: 501
+  entry_fav_count: 502
   entry_content: |
     lan nerede şampanya patlatalım ? her yere cami diktiniz aq!<br/><br/>osursak caminin önünde osurdun diyeceksiniz!
   entry_channels: siyaset,haber
 - entry_name: |
+    her şey çok güzel olacak sloganının proje olması
+  entry_id:  91666032
+  entry_writer: mdh
+  entry_fav_count: 463
+  entry_content: |
+    bu neyi değiştirecek,merak ettirmiştir.<br/>proje demişken:<br/>(bkz: <a class="b" href="/?q=15+temmuz+2016+darbe+giri%c5%9fimi">15 temmuz 2016 darbe girişimi</a>)
+  entry_channels: siyaset
+- entry_name: |
     gerçekte istanbul'un kaybetmesi
   entry_id:  91660513
   entry_writer: nickbulamadimnolcak
-  entry_fav_count: 457
+  entry_fav_count: 459
   entry_content: |
     (bkz: <a class="b" href="/?q=he+yarram+he">he yarram he</a>)<br/><br/>başlığı açıp da kaçanın dalağını <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/j839919ar37q" title="https://eksiup.com/p/j839919ar37q">siksinler mi!?</a>
   entry_channels: siyaset
@@ -78,23 +86,15 @@ data:
     plajda soyunan suriyeliyi döven dayı
   entry_id:  91654428
   entry_writer: saintly
-  entry_fav_count: 409
+  entry_fav_count: 414
   entry_content: |
     deli falan mı acaba? çoluk çocuğun içinde donunu indirmek nedir? <br/><br/>nasıl bir saçmalıklar silsilesi bu amına koyayım. mevzuya bak.
   entry_channels: haber
 - entry_name: |
-    her şey çok güzel olacak sloganının proje olması
-  entry_id:  91666032
-  entry_writer: mdh
-  entry_fav_count: 395
-  entry_content: |
-    bu neyi değiştirecek,merak ettirmiştir.<br/>proje demişken:<br/>(bkz: <a class="b" href="/?q=15+temmuz+2016+darbe+giri%c5%9fimi">15 temmuz 2016 darbe girişimi</a>)
-  entry_channels: siyaset
-- entry_name: |
     23 haziran 2019 ahsen tv röportajı
   entry_id:  91650187
   entry_writer: kissofh3ll
-  entry_fav_count: 381
+  entry_fav_count: 383
   entry_content: |
     bu adam hırsız çünkü kalbimizi çaldı. hahah oğlum bu seviye de iyiymiş ya. almanya hamburg'da yaşayan arkadaşa sesleniyorum gel burada yaşa yarrrrrağım.<br/><br/>ayrıca elazığlı muhtar arkadaşın recep tayyip erdoğan'a "takoz" dediği röportajdır.
   entry_channels: siyaset,haber
@@ -110,7 +110,7 @@ data:
     muharrem ince
   entry_id:  91634864
   entry_writer: madmen
-  entry_fav_count: 308
+  entry_fav_count: 312
   entry_content: |
     her şeyin fitilini ateşleyen bir lider olarak her zaman akıllarda ve gönüllerde olacağından hiçbir şüphem yok.<br/><br/>sen o ilk kibriti çakmasan bugün istanbul'u kazanamamıştık muharrem abi, iyi ki varsın.
   entry_channels: siyaset,haber,eğitim
@@ -118,7 +118,7 @@ data:
     bazen kazanmak kaybetmektir kaybetmek kazanmaktır
   entry_id:  91663361
   entry_writer: teryxx
-  entry_fav_count: 288
+  entry_fav_count: 300
   entry_content: |
     ama gerçek olan; kaybettiysen kaybetmişsindir, kazandıysan kazanmışsındır.
   entry_channels: siyaset,haber
@@ -126,10 +126,26 @@ data:
     akp'nin yaptığı tünelde içerek kutlama yapıyorlar
   entry_id:  91655059
   entry_writer: invector
-  entry_fav_count: 277
+  entry_fav_count: 281
   entry_content: |
     ak parti cebinden mi verdi o tünelin parasını? o zaman susacaksın.<br/><br/>o tünel türkiye cumhuriyeti tarafından yapılmıştır ve tünel yapmak cumhuriyeti yöneten hükümetin görevidir. vatandaş da o tünelden geçerken istediğini yapar, ne yaptığını size soracak değil. <br/><br/>ayrıca tünel paralı aq adam parasını vermiş geçiyor, size ne oluyor?
   entry_channels: siyaset,haber,yeme-içme
+- entry_name: |
+    süleyman soylu
+  entry_id:  91635403
+  entry_writer: anatole
+  entry_fav_count: 269
+  entry_content: |
+    ic isleri bakanligi doneminde sirf secim kazanabilmek teroristbasinin mesaji devlet ajansinda yayinlanan, kirmizi bulten ile aranan bir teroristin devlet televizyonunda aciklama yapmasina izin verilen, bunlara ragmen hala “teroristlerin anasini ..... devam edecek” seklinde savunulabilen utanc abidesidir.
+  entry_channels: siyaset
+- entry_name: |
+    türkiye erken genel seçim kararı beklentisi
+  entry_id:  91652647
+  entry_writer: blissray
+  entry_fav_count: 244
+  entry_content: |
+    aga yeter bir seçim için yüz milyonlar harcanıyor. seçimi hizmet yapılsın diye yapıyoruz hizmet yapmaya zaman bırakmadan tekrar seçiyoruz. yazık günahtır erken seçim konuşulmasın artık. bu ülkenin seçimden çok daha büyük problemleri var.
+  entry_channels: siyaset
 - entry_name: |
     ekrem imamoğlu'na bir mesaj bırak
   entry_id:  91634974
@@ -137,6 +153,14 @@ data:
   entry_fav_count: 236
   entry_content: |
     atatürk resmini sırıtarak makamdan indiren bir eleman vardı ya.<br/>o resmi o elemana astır lütfen.
+  entry_channels: siyaset,anket
+- entry_name: |
+    ak parti'nin istanbul seçimlerini kaybetme nedeni
+  entry_id:  91635262
+  entry_writer: bunker tepesi dusleri
+  entry_fav_count: 222
+  entry_content: |
+    pek çok şey sayılabilecek nedenlerdir.<br/><br/>şöyle yazalım:<br/><br/>1. 31 mart seçimlerinde bolca dillendirilen " beka " söyleminin bu seçimde ağza alınmaması ve bu söylemin kofluğunun seçmen tarafından idrak edilmesi, <br/><br/>2. aynı zarfa konulan 4 pusulanın sadece 1 tanesinin iptal edilmesi ve " hırsız çaldı " söyleminin ysk tarafından açıklanan gerekçeli kararda dahi olmaması,<br/><br/>3. seçimler dolayısıyla arka plana atılan ekonomik sıkıntıların ciddi oranda artmaya başlaması ve bunun görmezden gelinmesi,<br/><br/>4. yanlış seçim stratejisi yürütmeleri. şöyle ki; ben 40 liraya aylık 10 gba yakın internet zaten kullanıyorum. akil projeler yerine saçma sapan vaatler ortaya konması,<br/><br/>5. imamoğlu'nun akpnin istediği türde oyunu oynamaması. akp kutuplaştırıcı söylemlere sığınan bir iktidar yıllardır. imamoğlu'nun bunun aksine nefret söyleminden uzak, sakin ve birleştirici strateji izlemesi, <br/><br/>6. cumhur ittifakının kendileri hariç toplumun diğer tüm kesimlerini olmadık yaftalarla etiketlemesi; pontus, rum terörist ve sisi gibi söylemler,<br/><br/>7. kılıçdaroğlu, akşener, karamollaoğlu ve son olarak demirtaş'ın seçim sürecini aynı dil üzerinde yürütmeyi başarabilmeleri. hakeza; rte ve bahçelinin sürekli olarak birbirlerini tenkit eder söylemlerde bulunmaları,<br/><br/>8. imamoğlu'nun 18 günlük başkanlık süresi boyunca gösterdiği şeffaf yönetim şekli. akbil ve suya yapılan indirimler,<br/><br/>9. erdoğan'ın seçilse bile görevinden olur türü söylemleri,<br/><br/>10. seçim sürecinde hain ve terörle özdeşlestirdiği kürtlerin oylarını konsolide etmek için devletin resmi organlarında aponun çağrısını duyurması,<br/><br/>11. kendi içlerinde başlattıkları " metal yorgunluk " söyleminin halk nezdinde; " kibir kulesinde yaşayanlar " olarak onanması,<br/><br/>12. merkez parti olarak yola çıkan bir hareketin ilk kez bu raddede tek bir kesim için hareket ediyor hale gelmesi,<br/><br/>13. sosyal medyayı yeterince ciddiye almamış olmaları,<br/><br/>14. ve resmin bütün halinden yola çıkarak; eğitim, ekonomi, mülteciler, işsizlik, dış politika, tarım, hayvancılık gibi türkiye geneli sıkıntıların giderek artmış olması,<br/><br/>15. kılıçdaroğlu chp'sinin daha fazla merkeze kayan doğru politika izliyor olması. akp seçmenin oyunu dahi alacak bir ılımlılık izlemesi. ( örnek: üsküdar, fatih ve eyüp ilçe seçim sonuçları )<br/><br/>16. dini ve milli söylemlerin bolca kullanılmasına karşın, bunların kendi yaşantılarında o kadar da mühim bir şey olmadığının iyiden iyiye görülmüş olması, ( binali yıldırım'ın oğlunun kumar olayı falan mesela )<br/><br/>17. asıl kaybediş de zaten malum olduğu üzere parlamenter sistemin değiştirilmesi ile başlamıştır. o tarihten bu yana herşeyin tepetaklak gitmeye başlaması,<br/><br/>18. akpnin 2009a kadar sürdürdüğü argümanların toplumda yarattığı umut ve beklentinin, 2009dan bu yana toplum üzerinde artık iyice korku ve baskıya dönüşmesi,<br/><br/>19. ve bütün bunlar, ülkenin en büyük nüfus ve ekonomisini barındıran <a class="b" href="/?q=istanbul">istanbul</a> nezdinde iktidara bir ikaz olarak değerlendirilebilir.<br/><br/>vs vs. <br/><br/>son söz olarak; bunca tutarsız ve izansız politika ile muhtarlık bile kazanılmaz. <br/><br/>soğuk su?
   entry_channels: siyaset,anket
 - entry_name: |
     ekrem imamoğlu
@@ -150,7 +174,7 @@ data:
     24 haziran 2019 metrobüslerin seyrek gelmesi
   entry_id:  91659049
   entry_writer: bozdogan
-  entry_fav_count: 176
+  entry_fav_count: 178
   entry_content: |
     (bkz: <a class="b" href="/?q=g%c3%b6t%c3%bcyle+inatla%c5%9fan+donuna+s%c4%b1%c3%a7ar">götüyle inatlaşan donuna sıçar</a>)<br/><br/>ekrem başkan işin başındaki amiri -varsa bir sabotaj- hemen görevinden alır, yeni gelen amir gerekli düzenlemeleri yapar, sistem sağlıklı işleyişine devam eder.<br/><br/>bundan sonra herkes işini layığı ile yapacak.<br/>siyasetçinin orospusu ve kölesi olmuş, liyakatı ve işini unutmuş bir avuç insana çalışmayı hatırlatacağız.<br/>eline mikrofon alıp göt yalayan ibb personeli dönemi bitmiştir.
   entry_channels: siyaset,haber
@@ -158,9 +182,33 @@ data:
     chp'lilerin hiç değişmemiş olması
   entry_id:  91663420
   entry_writer: skumbag
-  entry_fav_count: 170
+  entry_fav_count: 174
   entry_content: |
     (bkz: <a class="b" href="/?q=serin+hikaye">serin hikaye</a>)<br/><br/>kekoya bak kendisini ünlü bir yazar filan sanıyor. okuyucum ne amk?
+  entry_channels: siyaset
+- entry_name: |
+    ikili ilişkilerde başarılı olmanın püf noktaları
+  entry_id:  91665535
+  entry_writer: makmuhdevmem
+  entry_fav_count: 156
+  entry_content: |
+    10 <a class="b" href="/?q=dakikada">dakikada</a> bir gelen mesaja, 10 <a class="b" href="/?q=saniyede">saniyede</a> cevap verirsen kaybedersin gerizekalı.<br/><br/>o kadar önemseme.<br/>kaçan kovalanır.<br/>her şeyini uğruna harcadığın, gün gelir sana tekmeyi atan olur.<br/>insanoğlu nankördür, güvenme.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    recep tayyip erdoğan
+  entry_id:  91634847
+  entry_writer: newplanet
+  entry_fav_count: 153
+  entry_content: |
+    17 yıldır ilk defa balkon konuşması yapamadı, balkonu mutfağa katmışlar herhalde! lol!
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    valiye it diyen belediye başkanı
+  entry_id:  91634804
+  entry_writer: rising star of anatolia
+  entry_fav_count: 147
+  entry_content: |
+    twitter'da söylenenlere göre; 400 küsür avukat bulunan ordu barosundaki 300 küsür avukat kendisine seçimlerde destek olmak için istanbul'a gelmiş.
   entry_channels: siyaset
 - entry_name: |
     23 haziran 2019 istanbul yerel seçimi
@@ -171,26 +219,50 @@ data:
     amina kodumun misiroglu'su bu gunleri goremeden öldü gitti.
   entry_channels: siyaset,haber
 - entry_name: |
-    ikili ilişkilerde başarılı olmanın püf noktaları
-  entry_id:  91665535
-  entry_writer: makmuhdevmem
-  entry_fav_count: 129
-  entry_content: |
-    10 <a class="b" href="/?q=dakikada">dakikada</a> bir gelen mesaja, 10 <a class="b" href="/?q=saniyede">saniyede</a> cevap verirsen kaybedersin gerizekalı.<br/><br/>o kadar önemseme.<br/>kaçan kovalanır.<br/>her şeyini uğruna harcadığın, gün gelir sana tekmeyi atan olur.<br/>insanoğlu nankördür, güvenme.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     nagehan alçı
   entry_id:  91636025
   entry_writer: rahmetli komodor
-  entry_fav_count: 115
+  entry_fav_count: 119
   entry_content: |
     az önce "akp içindeki bir takım gruplar, cumhurbaşkanını gaza getirip seçimin yenilenmesini sağladı" dedi. normal bir ülkede olsak baya bir skandal bu aslında. yani diyor ki, mevzu usulsüzlük falan değil, birileri istedi diye seçim yeniden yapıldı diyor.
   entry_channels: siyaset,tv,haber
 - entry_name: |
+    binali yıldırım'a alternatif meslek önerileri
+  entry_id:  91647911
+  entry_writer: aragon tr
+  entry_fav_count: 104
+  entry_content: |
+    ğ'den sorumlu olsun.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
+    sabah duş almak vs geceden duş almak
+  entry_id:  91668175
+  entry_writer: takdag90
+  entry_fav_count: 93
+  entry_content: |
+    işini seven sabah,eşini seven gece.
+  entry_channels: anket,sağlık
+- entry_name: |
+    bahçeli'nin akp'yi bitirmek için yaptığı deli plan
+  entry_id:  91662751
+  entry_writer: eksi peace
+  entry_fav_count: 86
+  entry_content: |
+    planın içerisinde apo'ya el açmak varsa baya kamikaze bir plan olmuş.<br/><br/>inandırıcı olmayan plandır.
+  entry_channels: siyaset
+- entry_name: |
+    24 haziran 2019 ömer turan tweet'leri
+  entry_id:  91651428
+  entry_writer: veniceviolins
+  entry_fav_count: 75
+  entry_content: |
+    konjektür'e kadar, her şey şaşırtıcı derecede iyi gidiyordu.
+  entry_channels: siyaset
+- entry_name: |
     üstü çıplak patates kızartmak
   entry_id:  91664993
   entry_writer: indirkaldirhavalandir
-  entry_fav_count: 69
+  entry_fav_count: 73
   entry_content: |
     patateslerin ustunun ciplak oldugu ogrendigim basliktir.
   entry_channels: 
@@ -203,45 +275,37 @@ data:
     ülke babalar gibi satılırken (bkz: <a class="b" href="/?q=babalar+gibi+satar%c4%b1z">babalar gibi satarız</a>)<br/>kozmik odalara girilip, şanlı türk subayları hapislerde çürütülürken<br/>ankara parsel parsel satılırken <br/>yani özetle ülkenin soyulup soğana çevirilmesi, milletin kutuplaştırılıp birbirine düşman edilmesi esnasında kıllarını kıpırdatmayanlar bugün kurtarıcı mı olacakmış. başka kapıya davutpaşa, babacan paşa ve gül paşa.
   entry_channels: siyaset
 - entry_name: |
-    sabah duş almak vs geceden duş almak
-  entry_id:  91668175
-  entry_writer: takdag90
-  entry_fav_count: 54
-  entry_content: |
-    işini seven sabah,eşini seven gece.
-  entry_channels: anket,sağlık
-- entry_name: |
     ali babacan'ın kuracağı partiye isim önerileri
   entry_id:  91665819
   entry_writer: ortadanicki
-  entry_fav_count: 46
+  entry_fav_count: 58
   entry_content: |
     egemen bağış'ın kuracağı partiye verilecek isimle karıştırılmamalıdır
   entry_channels: siyaset,anket
 - entry_name: |
-    erkan tan'ın ordu valisi istanbul'a atansın demesi
-  entry_id:  91660495
-  entry_writer: saatin arkasindaki civi
-  entry_fav_count: 40
+    e.i. seçilince %54'ün de valiye it demiş olması
+  entry_id:  91668134
+  entry_writer: berlin sefili
+  entry_fav_count: 57
   entry_content: |
-    hizmet için iki taraf da yemin ediyor, söz veriyor, ben daha güzel yaparım diyor. seçimi kaybeden taraf halen taş koymaya çalışıyor yola. sizin bu kininizle 2 ayda 800 bin oy arttı ama halen farkında değilsiniz. devam böyle.
-  entry_channels: siyaset,haber
+    istanbulda yaşamıyorun, oy kullanamadım ,lütfen beni de hesaba katın.
+  entry_channels: siyaset
 - entry_name: |
     iç ses ile tartışmak
   entry_id:  91662811
   entry_writer: gravatli okuz
-  entry_fav_count: 37
+  entry_fav_count: 42
   entry_content: |
     - şuna bakssss ne de guselllllsss<br/>+icmicem len<br/>-yaksana efendimissssss<br/>+ sus lan<br/>- bı dalcık bişey olmaassssss<br/>+lan git<br/>- burnumuzdan duman çıkarıyossss<br/>ağzıcığımızdan da çıkayıosss efendimissss<br/>+ yapma len ühühüü<br/>-yakınıssssss efendimisss o bisim kıymetlimiissss<br/>+ evet evet yakmalıyım<br/>-iste böyle efendimissss o bisim bizzzzim, şişko doktor bilmessss bilemessss<br/>+senin ağzına sıçarım lan içmeyecem deyyusss<br/>- biras nikotin için neler vermezdim ki, nikotin kıymetlimis, nikotin. nikottttiğğğğğnnnn<br/><br/>bu aralar benim iç ses kavgam böyle maalesef :(
   entry_channels: ilişkiler
 - entry_name: |
-    e.i. seçilince %54'ün de valiye it demiş olması
-  entry_id:  91668134
-  entry_writer: berlin sefili
-  entry_fav_count: 37
+    evlilikte seksin bitme sebebi
+  entry_id:  91665333
+  entry_writer: thegirlwhoislost
+  entry_fav_count: 36
   entry_content: |
-    istanbulda yaşamıyorun, oy kullanamadım ,lütfen beni de hesaba katın.
-  entry_channels: siyaset
+    yav evlilikte seks nasıl bitiyor bir kadın olarak ben anlamıyorum. sevdiğinle evlenmişsin ve sonsuz seks hakkınız var ve siz bunu kullanmıyorsunuz. noluyor aq? evde sana ait olan bir penis varken bir kadın neden seks yapmak istemez? hormonlar gerçekten bu kadar bitiyor mu? çocuk olunca insanın libidosu yok mu oluyor? hayat ne kadar yoğun olursa olsun o seks bitmemeli.<br/><br/>edit: mesaj kutumda yaş çok sorulmuş, 78 yaşındayım. genç yakışıklı jigoloları mesaj kutuma bekliyorum.<br/><br/>ekşide benden kimseye ekmek çıkmaz kardeşim yazmayın boşuna, iyi osbirler.
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     30 yaşında yakışıklı ama bekar erkek arızalıdır
   entry_id:  91658990
@@ -251,13 +315,13 @@ data:
     yakışıklılığım tartışılabilir bir durum olsa da katıldığım tespittir. benimle evlenecek kadar vizyonsuz kadınla ben evlenmem zaten.
   entry_channels: ilişkiler
 - entry_name: |
-    ali ihsan yavuz'un başına konan kelebek
-  entry_id:  91665795
-  entry_writer: againstthelife
-  entry_fav_count: 29
+    yazarların sevgililerine taktıkları lakap
+  entry_id:  91657896
+  entry_writer: sayfa hirsizi
+  entry_fav_count: 27
   entry_content: |
-    lafı amma dolandırdınız. <br/><br/>(bkz: <a class="b" href="/?q=at+sikine+konan+kelebek">at sikine konan kelebek</a>)
-  entry_channels: siyaset,tv,haber
+    (bkz: <a class="b" href="/?q=izninizle+kusaca%c4%9f%c4%b1m">izninizle kusacağım</a>)
+  entry_channels: anket,ilişkiler
 - entry_name: |
     tarkan'ın aleyna tilki'den az dinlenmesi
   entry_id:  91664612
@@ -267,12 +331,20 @@ data:
     bu tip eski starlar konserlerine gidilen ama dinlenmeyen isimler oldular. tarkan konser yapsa biletleri aninda biter ama insanlar evde, arabada, telefonda dinlemezler. amerikan piyasasi da ayni.
   entry_channels: müzik
 - entry_name: |
+    bira içerken gelen aşırı sigara içme isteği
+  entry_id:  91667771
+  entry_writer: makmuhdevmem
+  entry_fav_count: 25
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ah+t%c3%bcrk%c3%a7e">ah türkçe</a>)<br/>(bkz: <a class="b" href="/?q=ah+kanzuk">ah kanzuk</a>)
+  entry_channels: 
+- entry_name: |
     suriyeli öğrencinin lgs birincisi olması
-  entry_id:  91668681
-  entry_writer: aimu
+  entry_id:  91668770
+  entry_writer: corsairsgold35
   entry_fav_count: 21
   entry_content: |
-    suriye'de burs kazanmasını temenni ettiğim suriyeli
+    suriyeli'leri şirin göstermeye çalışmayın. bırakın bu taktikleri. geriye kalan 4.999.999 suriyeli'yi ne yapcaz hürriyet denilen lağım medyasının figuranı?
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
     bihter ziyagil
@@ -283,45 +355,13 @@ data:
     canım bihter... kusura bakma o kadar mutluyuz ki seni bu sene hakkıyla anamıyoruz. ama şunu unutma; bir nesil senin sayende aptallık etmemeyi öğrendi. 9 sene önce sen de aptallık etmeseydin, bugün beraber sevinebilirdik...
   entry_channels: tv,edebiyat
 - entry_name: |
-    gece 2'de whatsapp'tan iş hatırlatan müdür
-  entry_id:  91667216
-  entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 17
+    nagehan alçı'nın ciddi derecede güzel olması
+  entry_id:  91665227
+  entry_writer: eygl
+  entry_fav_count: 15
   entry_content: |
-    evli cocuklu bi kadina hatırlatmasi durumunda cok pis dayak yiyen mudure evrilebilir. arkadasim 5 yillik evli bi cocugu var ve 3 aydir ayni sirkette satin alma depertmaninda calisiyor. <br/><br/>bi gece telefonuna whatsapp uzerinden bi mesaj geliyor, mesaji kadin degil o an uyanik olan esi okuyor. mesajin icerigi is ile ilgili ama gereksiz emojiler kullanilmis ve resmi bi dille yazilmamis. <br/><br/>adam lan nooluyo diyerek ertesi gun kadinin is yerine gidiyor ve mudurle mesaj atarsin atamazsin munakasasina giriyor. filmin sonunda mudur dayak yiyor, kadin isi birakiyor, mudur davaci. mudurun savunmasi; o gece yurtdisina cikmam gerekiyordu sarjimin bitmek uzere oldugunu fark ettim aramak yerine mesaj atmayi tercih ettim, art niyetim yoktu. bu arada havayolu sirketi mudurun boyle bir ucus plani olmadiginin bilgisini veriyor. dava devam ediyor..<br/><br/>simdi be amk muduru bu kadar onemli ne olabilir? sirkette yangin cikmis olsa bile sen bi kadina birak gece 2'yi mesai bitiminden hemen sonra bile mesaj atamazsin. o gonderdigin goz kirpma emojini gotune sokararlar 2 ay pipetle beslenirsin iste.. haa ne var ya bunda diyecek alagavat eksiciler olacaktir, saygi duyarim.
-  entry_channels: ilişkiler
-- entry_name: |
-    sigarayı bırakmak bira içerken aşırı sigara isteği
-  entry_id:  91667771
-  entry_writer: makmuhdevmem
-  entry_fav_count: 14
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ah+t%c3%bcrk%c3%a7e">ah türkçe</a>)<br/>(bkz: <a class="b" href="/?q=ah+kanzuk">ah kanzuk</a>)
-  entry_channels: ekşi-sözlük,sağlık
-- entry_name: |
-    ekşi itiraf
-  entry_id:  91647112
-  entry_writer: nice tnetennba
-  entry_fav_count: 9
-  entry_content: |
-    tablette annemin instagram'ı bağlı. anamın iznini aldım, orta yaşlı akrabaların story'lerini açıp gülüyor, keşfet kısmına düşen "hindistan cevizi serpiştirilmiş çikolatalı karamelli mercimek köftesi" tariflerine bakıp kusmamak için kendime meydan okuyorum. böyle böyle ufak bir eğlencem oldu hayatta. tabii, en sevdiğim şey, abimin paylaştığı story'lere annemin hesabından, annemmişçesine cevap vermek. mesela abim, ikimizin fotoğrafını paylaşıyor, ben de annemin hesabından, "ah benim canım kızım, iyi ki doğurmuşum seni. ne güzelsin. kara kuru öteki sen siktir git." yazıyorum.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    evlilikte seksin bitme sebebi
-  entry_id:  91665390
-  entry_writer: leolominadze
-  entry_fav_count: 8
-  entry_content: |
-    evli olmayıp, evlilikte seksin bitme sebebiyle ilgili beş paragraf yazı yazmak. <br/><br/>(bkz: <a class="b" href="/?q=i%c5%9fsizlik">işsizlik</a>)
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
-    akp'nin en sevilmeyen ikinci ismi
-  entry_id:  91665722
-  entry_writer: voluspa
-  entry_fav_count: 7
-  entry_content: |
-    geçen seneye kadar <a class="b" href="/?q=bekir+bozda%c4%9f">bekir bozdağ</a> derdim fakat artık <a class="b" href="/?q=s%c3%bcleyman+soylu">süleyman soylu</a> kesinlikle onu geçti.
-  entry_channels: siyaset,ilişkiler
+    düşündüğünüz kadar güzel olsa rok gibi bir dalyarrak ile mi evlenir dedirten önerme.
+  entry_channels: tv,magazin
 - entry_name: |
     motosiklet kazası geçirmiş sözlükçüler
   entry_id:  91661510
@@ -334,7 +374,7 @@ data:
     hem klibi hem kendisi güzel olan şarkılar
   entry_id:  91660281
   entry_writer: feanorr
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     (bkz: <a class="b" href="/?q=mabel+matiz">mabel matiz</a>)(bkz: <a class="b" href="/?q=boyal%c4%b1+da+sa%c3%a7lar%c4%b1n">boyalı da saçların</a>)<br/>(bkz: <a class="b" href="/?q=burak+kut">burak kut</a>)(bkz: <a class="b" href="/?q=ya%c5%9fand%c4%b1+bitti">yaşandı bitti</a>)<br/>(bkz: <a class="b" href="/?q=depeche+mode">depeche mode</a>)(bkz: <a class="b" href="/?q=wrong">wrong</a>)<br/>(bkz: <a class="b" href="/?q=metallica">metallica</a>)(bkz: <a class="b" href="/?q=one">one</a>)<br/>(bkz: <a class="b" href="/?q=tarkan">tarkan</a>)(bkz: <a class="b" href="/?q=ikimizin+yerine">ikimizin yerine</a>)(bkz: <a class="b" href="/?q=%c3%b6l%c3%bcr%c3%bcm+sana">ölürüm sana</a>)<br/>(bkz: <a class="b" href="/?q=gece">gece</a>)(bkz: <a class="b" href="/?q=yar%c4%b1m">yarım</a>)<br/>(bkz: <a class="b" href="/?q=redd">redd</a>)(bkz: <a class="b" href="/?q=a%c5%9fkt%c4%b1+bu">aşktı bu</a>)<br/>(bkz: <a class="b" href="/?q=levent+y%c3%bcksel">levent yüksel</a>)(bkz: <a class="b" href="/?q=zalim">zalim</a>)(bkz: <a class="b" href="/?q=sultan%c4%b1m">sultanım</a>)<br/>(bkz: <a class="b" href="/?q=feridun+d%c3%bcza%c4%9fa%c3%a7">feridun düzağaç</a>)(bkz: <a class="b" href="/?q=s%c3%b6z+ver">söz ver</a>)<br/>(bkz: <a class="b" href="/?q=radiohead">radiohead</a>)(bkz: <a class="b" href="/?q=street+spirit">street spirit</a>)<br/>(bkz: <a class="b" href="/?q=coldplay">coldplay</a>)(bkz: <a class="b" href="/?q=paradise">paradise</a>)<br/>(bkz: <a class="b" href="/?q=sezen+aksu">sezen aksu</a>)(bkz: <a class="b" href="/?q=yanm%c4%b1%c5%9f%c4%b1m+s%c3%b6nm%c3%bc%c5%9f%c3%bcm+ben">yanmışım sönmüşüm ben</a>)
   entry_channels: anket,müzik
@@ -342,42 +382,10 @@ data:
     ekrem imamoğlu'na lakap buluyoruz kampanyası
   entry_id:  91665998
   entry_writer: m for vendetta
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     bulunmuşu var,<br/><br/>(bkz: <a class="b" href="/?q=ekrem+abi">ekrem abi</a>)
   entry_channels: anket
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  91642497
-  entry_writer: machone
-  entry_fav_count: 3
-  entry_content: |
-    bu başlık dertleşmekten çok,90'larda 2000 başlarında,erkeklerin parayla üye olabildikleri,tanışma platformuna dönmüş.<br/>ne bu böyle?
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    24 haziran 2019 motorin zammı
-  entry_id:  91668561
-  entry_writer: rising star of anatolia
-  entry_fav_count: 3
-  entry_content: |
-    seçim bittikten sonra bekleyen zamların ilkidir. başlangıcıdır. daha dur..
-  entry_channels: haber
-- entry_name: |
-    usta şoförlerden acemi şoförlere tavsiyeler
-  entry_id:  91668152
-  entry_writer: carriebradshaw
-  entry_fav_count: 1
-  entry_content: |
-    usta değil kıdemli bir şoför olarak tek bir tavsiyem var;<br/>zor bir durumda kaldığınız/bırakıldığınızda etrafı görmezden gelmeniz; kulak tıkamanız.<br/><br/>her boku bilir türk insanı, anasından direksiyonla doğduğunu sanıyor.<br/>dolayısıyla park etmeye çalışırken biraz oyalandığınızda,<br/>dar bir sokakta karşı karşıya kaldığınızda,<br/>yokuşta kalkamadığınızda,<br/>arabayı stop ettirdiğinizde içindeki magandayı <a class="b" href="/?q=bankai">bankai</a> gibi salıveriyor.<br/>kornalar, bağrış çağrış hak getire.<br/><br/>duymayın, görmeyin. susacak.<br/>paniklemeniz onlarda tatmin yaratıyor; hayattaki tek başarısı araba kullanmak olduğu için bir başkasını kendisinden az becerikli görerek şişiniyor.<br/><br/>siz işinize bakın, ağır ağır. hiç önemli değil.
-  entry_channels: anket,otomotiv,motosiklet,eğitim
-- entry_name: |
-    nagehan alçı'nın ciddi derecede güzel olması
-  entry_id:  91665953
-  entry_writer: mahatma
-  entry_fav_count: 1
-  entry_content: |
-    cim - cif tarzi bir cekiciligi var. hal ve tavirlari da destekliyor.
-  entry_channels: tv,magazin
 - entry_name: |
     köpeklere koyulan ilginç isimler
   entry_id:  91669243
@@ -387,19 +395,11 @@ data:
     (bkz: <a class="b" href="/?q=latte">latte</a>)<br/><br/>renkleri öyle yavru kuşumun.<br/><br/>zengin muhitlerdeki kafelerde sağa sola bakıyor yavrucak. kendinize konuşacak başka sikimsonik meseleler bulun, kızımın boynu ağrıyor.
   entry_channels: anket
 - entry_name: |
-    kaslı kadın vücudu
-  entry_id:  91669453
-  entry_writer: reanarchy
+    enpara.com
+  entry_id:  91669384
+  entry_writer: mavericks
   entry_fav_count: 0
   entry_content: |
-    eğer erkek vücudu gibi maskülen bir yapıda değilse beğeniyorum ben. sımsıkı kalça, yağsız hatta kaslı karın bölgesi. sütun gibi bacaklar. <br/><br/>ama bakın ince çizgi sörvayvıra katılan kadın boksçu vücudu. buna yaklaşınca hayattaki tek sahip olduğu şey spor salonu olan ve bunun dışında hiçbir sohbet yapamayan lüzumsuz ergen irilerine benziyor kadınlar.<br/><br/>ha sen bira göbeği olan adamsın kaslı kadın senin neyine derseniz eyvallah der susarım.
-  entry_channels: ilişkiler
-- entry_name: |
-    binali yıldırım'a bir iş öner
-  entry_id:  91669374
-  entry_writer: başlık taşıyan
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=binali+y%c4%b1ld%c4%b1r%c4%b1m%27a+alternatif+meslek+%c3%b6nerileri">binali yıldırım'a alternatif meslek önerileri</a>)
-  entry_channels: siyaset,anket
+    sabah hesabıma gelen parayı yeni gelmiş gibi bildirim gönderek beni akşam akşam heyecanlandırmış uygulama. müşteri haftaya yapacağı ödemeyi de gönderdi demek ki işi çok beğendi dedim ben de. gururlanmam kısa sürdü.
+  entry_channels: teknoloji,ekonomi
 ---
