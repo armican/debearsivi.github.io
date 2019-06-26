@@ -1,0 +1,405 @@
+---
+layout: post
+title: 27 Haziran 2019 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    imamoğlu'na yetki darbesi
+  entry_id:  91728875
+  entry_writer: kukreyenaslan
+  entry_fav_count: 2273
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/gundem/son-dakika-ekrem-imamoglu-ve-mansur-yavasa-yetki-darbesi-5198382/" title="https://www.sozcu.com.tr/2019/gundem/son-dakika-ekrem-imamoglu-ve-mansur-yavasa-yetki-darbesi-5198382/">https://www.sozcu.com.tr/…sa-yetki-darbesi-5198382/</a><br/><br/>bakın bunu iyi okuyon. belediye iştiraklerine (29 sirket ve cok buyuk cok yolsuz sirketler) yonetim kurulu atama yetkisi belediye baskanından alınarak beledıye meclısıne verilmis. hem de kanuni olmayan bir ara yolla. ticaret sicilinde onaylamayarak.<br/>nasıl panikler rant gidiyor diye farkındasınız degil mi? <br/>imamoğlu butun bunları her bilboardda her toplantıda paylasmalı<br/>anlamadıkları su: bu tavır size kaybettirmeye devam edecek
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    #amasyadaaskerigüneştebekletme
+  entry_id:  91735625
+  entry_writer: eksi peace
+  entry_fav_count: 1403
+  entry_content: |
+    (bkz: <a class="b" href="/?q=1000+lira+farkla+g%c3%b6lgede+beklemek+ister+misiniz">1000 lira farkla gölgede beklemek ister misiniz</a>)
+  entry_channels: magazin
+- entry_name: |
+    tayyip erdoğan'a aşırı tepkili şeriatçı vatandaş
+  entry_id:  91734160
+  entry_writer: erdeneris
+  entry_fav_count: 688
+  entry_content: |
+    uzun zamandır kendi icimde sorguladığım bir şey var;<br/><br/>aşırı dindarlıkla psikolojik normallik asla yanyana durmuyor.<br/><br/>ekleme yapıyorum;<br/><br/>türkiye de siyasal islamcı oyu %25 dir. iktidara oy veren diğer %25, 90ların sağ merkez seçmenidir. bu seçmen pragmatik bakar, ekonomi kötüyse ondan oy alamazsın.<br/><br/>istanbul seçimlerini belirleyen başat aktör ekonomidir.<br/><br/>bir siyasal islamcının normalde; içkisi sigarası yoktur. tatile gitmez, sinemaya, konsere gitmez, bir hırka bir gömlek felsefesiyle mütevazı yaşar. işi ve evi mahallesindedir. yola para vermez. istiklale çıkmaz, bebek de gezmez. çayını evinde, kahvesini dükkanın da içer. + camii de bedavadır. dolayısıyla ekonomik krizden en az etkilenen adamdır kendisi ve oyu değişmez. <br/><br/>bu arada normalinden bahsediyorum. jeep e bineninden, boğazda yalısı olandan değil.<br/><br/>son bir edit:<br/><br/>bir arkadaş demiş ki aşırı dindarın psikolojisi bozuk da, aşırı milliyetcinin, aşırı solcunun değil mi?<br/><br/>buna da hak vermek zorundayım.
+  entry_channels: siyaset,haber
+- entry_name: |
+    gençlerin gözüyle akparti'nin kaybetmesinin sebebi
+  entry_id:  91740195
+  entry_writer: geyikterapistisi
+  entry_fav_count: 560
+  entry_content: |
+    (bkz: <a class="b" href="/?q=wikipedia">wikipedia</a>)<br/>(bkz: <a class="b" href="/?q=yasaklar">yasaklar</a>)<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcnce+%c3%b6zg%c3%bcrl%c3%bc%c4%9f%c3%bc">düşünce özgürlüğü</a>)<br/>(bkz: <a class="b" href="/?q=suriyeliler">suriyeliler</a>)<br/>(bkz: <a class="b" href="/?q=nefret+siyaseti">nefret siyaseti</a>)<br/>(bkz: <a class="b" href="/?q=ter%c3%b6r+%c3%b6rg%c3%bctleri">terör örgütleri</a>)<br/>(bkz: <a class="b" href="/?q=uber">uber</a>)<br/><br/>istek üzerine; <br/><br/>(bkz: <a class="b" href="/?q=paypal">paypal</a>)<br/>(bkz: <a class="b" href="/?q=g%c3%bcmr%c3%bck+vergileri">gümrük vergileri</a>)<br/>(bkz: <a class="b" href="/?q=yurtd%c4%b1%c5%9f%c4%b1+al%c4%b1%c5%9fveri%c5%9fi">yurtdışı alışverişi</a>)<br/><br/>edit: her şey çok güzel olacak.<br/><br/>edit: başlığı açan arkadaşım çözüm önerilerini sunmamızı istemiş de. daha ne kadar açık şekilde anlatılabilir ki çözümler.
+  entry_channels: siyaset,anket
+- entry_name: |
+    bacak kıllarını almayıp şort giyen erkek
+  entry_id:  91731928
+  entry_writer: jonathan safran foer
+  entry_fav_count: 479
+  entry_content: |
+    çok şaşırdım. gerçekten alalım mı hanımlar?<br/><br/>ben bir kere almıştım. elimi bacağıma sürdüğümde şeyim kalkıyordu. korktum. daha da kesmedim. fjdshf.
+  entry_channels: sağlık,moda
+- entry_name: |
+    evlenelim yoksa ben başkasıyla evleneceğim
+  entry_id:  91739788
+  entry_writer: pikatelcombo
+  entry_fav_count: 453
+  entry_content: |
+    "o zaman git başkasıyla evlen" şeklinde cevaplanması gereken kezban sözü.<br/><br/>ulan senin amacın evlenmek demek ki. "benimle" evlenmek değil. siktir git evlen.
+  entry_channels: ilişkiler
+- entry_name: |
+    hülya avşar'ın imamoğlu yorumu
+  entry_id:  91741343
+  entry_writer: eksi peace
+  entry_fav_count: 347
+  entry_content: |
+    kendisinden bahsetmiyordur umarım, olmayan şey göç edemez çünkü.<br/><br/>saray gediklisi bir gereksizin yorumudur.
+  entry_channels: siyaset,magazin
+- entry_name: |
+    tunç soyer'in izmir'de faytonları kaldırması
+  entry_id:  91738899
+  entry_writer: yerli targeryan
+  entry_fav_count: 329
+  entry_content: |
+    ekrem imamoğlu’ndan da adalar’daki faytonlar için benzer bir karar gelse süper olmaz mı?
+  entry_channels: siyaset,haber
+- entry_name: |
+    feyza gündüz'ün ibb ile ilişiğinin kesilmesi
+  entry_id:  91745304
+  entry_writer: lettherebegay
+  entry_fav_count: 279
+  entry_content: |
+    ibb biraz önce twitter üzerinden gelen şikayetlere cevaben "ilgili personelin kurumumuz ile ilişiği kesilmiştir." açıklamasını yapmaya başladı. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ibbBeyazmasa/status/1143847222762790913?s=20" title="https://twitter.com/ibbBeyazmasa/status/1143847222762790913?s=20">link</a> adalet yerini bulmuştur - katkısı olan herkese teşekkürler. aynı işlemin videodaki diğer şahıs (bkz: <a class="b" href="/?q=umut+can+%c3%bcnl%c3%bc">umut can ünlü</a>) için de yapılmasını gönülden diliyorum.<br/>(bkz: <a class="b" href="/?q=git+burnunu+yapt%c4%b1r+aptal+fakir">git burnunu yaptır aptal fakir</a>)
+  entry_channels: siyaset
+- entry_name: |
+    messi'yim diyerek 23 kadınla ilişkiye girmek
+  entry_id:  91735215
+  entry_writer: meursault samsa
+  entry_fav_count: 193
+  entry_content: |
+    kadınların mağduriyetini anlayamadım ben; messi sikmedi mağduruz mu demişler? eğer öyleyse messi'den rica etsin adam, belki yardımcı olur messi. kadınlar da şikayetlerini geri alırlar.<br/><br/>edit: hayır, hiç de bu tarz entryler yazan biri değilim de bu nasıl bir saçmalık? messi'yim diye kandırıp güvenlerini kazanıp tecavüz etse tamam, maddi çıkar elde etse tamam ama adam ben messi'yim sevişelim mi demiş, onlar da sevişmiş. sonra öğrenmişler ki aslında seviştikleri kişi messi değil. mağduriyet kısmı nerede bunun? ben bugün bir kadınla sevişsem sonra da kadının uzun saçlı bir esmer olmadığını, saçının peruk olduğunu görsem mağdur mu oldum demeliyim yani? he peruğun altından erkek çıkarsa o zaman mağdurum derim ama öyle bir fahiş hata da yapmam diye umuyorum.<br/><br/>asıl mağduriyet burada anlatılandır;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=T3i12C7j0CE">https://www.youtube.com/watch?v=t3i12c7j0ce</a> (09:42'den itibaren)
+  entry_channels: spor,haber
+- entry_name: |
+    bir bakan danışmanının haddimizi bildirmesi
+  entry_id:  91737718
+  entry_writer: zyvz
+  entry_fav_count: 176
+  entry_content: |
+    dün başımıza gelen enteresan olay.<br/><br/>o kadar sinirlendim, üzüldüm ki hala başım ağrıyor.<br/><br/>ankara'da uzun zamandır görüşmediğim kız arkadaşlarımla buluştuk, mekan çok gürültülü olunca rahat sohbet edemiyoruz diye sakin bir çay bahçesi var bildiğim diyerek 3 kız arkadaşımı türkocağı caddesinde teiaş kampüsü içinde yer alan <a class="b" href="/?q=gazi%27m+cafe">gazi'm cafe</a>'ye götürdüm. semaver söyledik 5 dakika sonra geldi. daha çay demini almamıştı ki garson kız yanımıza gelip "çok özür dilerim ama arka masada bebek uyuyormuş ve biraz daha sessiz olabilir misiniz, özellikle kahkalarınızdan rahatsız olduklarını ifade ettiler." dedi. ben de dedim ki tabii ki dikkat edelim ama burası çocuk uyutmaktan ziyade muhabbet etme yeri değil mi? evet dedi garson kız ama işte kem küm... rahatsız oluyorlarsa başka bir masaya da alabilirsiniz bizi ya da onları dedim. nargile içtikleri için burada oturuyorlar isterseniz sizi başka yere alayım dedi. peki dedim uyuyan bebeğin yanında nargile içmenin, kahkahadan daha zararlı olduğunu hatırlatın. arka masadaki şikayetçi kadın sanane beee, istediğim yerde uyuturum. gülmenin de bir adabı olur dedi. hanımefendi birbirimizi tanımıyoruz öncelikle senli benli konuşmanız hoş değil, biz gülmeye devam edeceğiz rahatsızsanız başka yere geçebilirsiniz dedim ama nafile canımız sıkıldı, moralimiz bozuldu. kadınların yanındaki nargile içen abiler de bi' hareketlendiler ters ters bakmaya başladılar. mekanın işletmecisini çağırdım. konuyu izah ederken bi' saniye ben bir konuşayım sözümü kesmeyin demez mi? beyefendi durumu izlemenize rağmen müdahale etmediniz şimdi ben sizi çağırdığımda içinizi dökesiniz mi geldi dedim. söz konusu masadakiler demişler ki: "buranın kalitesini iyice bozdunuz." işletmeci arkadaş da burası böyle sizin gibi insanlara alışık değil dedi. sizin gibi derken dedim? bizler kamuda çalışan belli yaşın üzerinde insanlarız ne demek istiyorsunuz? yok yanlış anladınız dedi. beyefendi bakan danışmanı, eşi de rahatsız oldu. ben birazdan gelirim masalara bakayım dedi ve gitti. gidiş o gidiş... ne bir garson bizimle ilgilendi, ne de boşları aldılar. göz teması bile kurmadılar.<br/><br/>ulan fakirlik zor zanaat. onurlu bir duruş bile sergileyemiyorsun. semaver yeni geldi diye kalkıp gidemedik.<br/><br/>bir süre daha moraller sıfır oturduktan sonra hesabı ödeyip kalkalım diye kasaya gittik. orada da bir süre konuştular bir dahaki sefere telafi edelim, kusura bakmayın. beyefendi bakan danışmanı ve devamlı gelirler buraya. ben de işletmemi ve garsonlarımı düşünmek zorundayım hak verirseniz dedi. pekala dedim. güçlünün (!) yanındaki duruşunuzla size hayırlı işler diliyorum, biz bu ortama uygun olmayanlar olarak tekrar gelmeyiz zaten. size başarılar dedim ve 4 kız çıkarken o masadan bir adam "herkes haddini bilecek!" diye bağırdı arkamızdan. beynime kan sıçradı! dönüp bir şeyler söylemek, bir şeyler fırlatmak istedim. ne olacaktı ki? işte bakın edepsizler denilecekti, karşıdan bakan göz kimin seviyesiz olduğunu anlamayacaktı. hani "beyinlerimiz yarışsın isterdim ama görüyorum ki siz silahsızsınız." sükunetiyle uzaklaştık. arabada giderken öfke doluyduk. konuşmakla soğutamadık içimizi. mekanı aradım hangi bakanın danışmanı olduğunu sordum ama bu bilgiyi paylaşamayız, lütfen siz de uzatmayın. canınızı da sıkmayın diye tavsiye alarak kapattım.<br/><br/>bu bana anlatılsa önyargımla bu hikayede eksik bir şeyler vardır ya bu kadar da olmaz derdim. yaşayınca anladım. ne mutlu ki böyle kötü insanlarla karşılaşmamışım ki şaşkınlıktan feleğim şaştı.<br/><br/>beddua etmeyeceğim, allah'a havale ediyorum. umarım layığınızı bulursunuz.<br/><br/>orada ağlayamadım kızları da ben götürdüğümden ekstra üzgündüm. yolda tek başıma eve giderken arabanın önünden bir yavru kedi koşarak karşıya geçti. hüngür hüngür ağlamaya başladım. <br/><br/>sen bu yolda ne arıyorsun, seni bu pislikler ezerler...
+  entry_channels: siyaset,haber
+- entry_name: |
+    japonya'ya saldırılırsa 3. dünya savaşına gireriz
+  entry_id:  91750130
+  entry_writer: sigara kibrit
+  entry_fav_count: 172
+  entry_content: |
+    "japonya vurursa dikiş atarlar, biz vurursak toprak atarlar." <br/><br/>-w@shingtonlu bel@
+  entry_channels: siyaset,haber
+- entry_name: |
+    turkcell'den vodafone'a geçmek
+  entry_id:  91719420
+  entry_writer: eterniaprensi
+  entry_fav_count: 159
+  entry_content: |
+    türkiye'de ki tüm geçişler eşekten inip eşeğe binmektir.
+  entry_channels: teknoloji
+- entry_name: |
+    a. gül'ün yeni partiye daron acemoğlu'nu çağırması
+  entry_id:  91746019
+  entry_writer: sikimsonikya
+  entry_fav_count: 151
+  entry_content: |
+    ak partinin kuruluş dönemine benzemektedir. toplumun tamamını kucaklayacak kişilerle yola çıkılmak istenir sonrasında nasıl olursa olur partinin kuruluş yolundan çıkılır ve toplumun sadece bir kısmına seslenilir. sonunda da istanbul belediyesi kaybedilir vs.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    almanya'nın ismail türüt'e vize cevabı
+  entry_id:  91751310
+  entry_writer: sancili90
+  entry_fav_count: 137
+  entry_content: |
+    almanya'nın ne kadar akıllı bir devlet olduğunu gözler önüne sermiştir. <br/><br/>şarkıcı ismail türüt almanya'da konser için vize başvurusu yapmış, almanya'da tüm ekibine 6 ay, türüt'e 2 gün vize vermiş. neden olarak da;" konserlerinde siyasi şarkılar söylüyorsun" yanıtını vermiş.<br/><br/>bence gayet makul. abi adam çekmek zorunda mı senin siyasi sözlerini? siz almanya'dan gelip türkiye'de merkel için şarkı söyleyen birini gördünüz mü?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.maksatistihdam.com/ismail-turute-almanyada-vize-soku/" title="https://www.maksatistihdam.com/ismail-turute-almanyada-vize-soku/">kaynak</a>
+  entry_channels: siyaset,müzik,haber
+- entry_name: |
+    15 ay askerlik yapanların tazminat alması
+  entry_id:  91749079
+  entry_writer: b0k
+  entry_fav_count: 109
+  entry_content: |
+    eğer böyle bir şey olsaydı 4 sene askerlik yapanlar ömürlerine ilave 3 sene alırlardı.
+  entry_channels: siyaset
+- entry_name: |
+    vali chpli değil cafer abi sen gerizekalısın
+  entry_id:  91750950
+  entry_writer: vuruyimmi sirtina ha
+  entry_fav_count: 104
+  entry_content: |
+    sevgili aktroller,<br/><br/>biliyorum salyalarınızı saça saça buraya büyük bir iştahla geldiniz ama bugün de 3'ün 1'ini alacaksınız gibi duruyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/mw41359umefa" title="https://eksiup.com/p/mw41359umefa">ekrem imamoğlu 250 ibb personelini kovdu</a><br/><br/>tanım: henüz gerçekleşmemiş durum.
+  entry_channels: 
+- entry_name: |
+    mehmet topal
+  entry_id:  91732560
+  entry_writer: wertigo
+  entry_fav_count: 98
+  entry_content: |
+    saga, sola, geriye, rakibe hizmet dönemi bitti.
+  entry_channels: spor
+- entry_name: |
+    rte'nin çayları geri toplama videosu
+  entry_id:  91751466
+  entry_writer: sallamakahve
+  entry_fav_count: 97
+  entry_content: |
+    "istanbul'u kaybeden erdoğan, çayları geri topladı." tabi ki haber kaynağı zaytung. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/zatungcom/status/1143900801510858758" title="https://twitter.com/zatungcom/status/1143900801510858758">tık tık</a><br/><br/>yarmıştır;<br/>-ne biçim atıyon olm?
+  entry_channels: siyaset,yeme-içme
+- entry_name: |
+    sporda cinsiyete göre gelir eşitsizliği
+  entry_id:  91732741
+  entry_writer: patronaj
+  entry_fav_count: 94
+  entry_content: |
+    messi'yi sahada olduğu her an 12.234.485 kişi izliyor çünkü dangalak denmesi gereken eşitsizlik.<br/>abd milli takımının maçlarını birkaç yüz bin kişi belki izliyordur.<br/><br/>eşitsizlik arıyorsanız neden erkeklerin maçları kadınlardan daha çok ilgi çekiyor diye sorun. ne mal insanlarsınız.<br/><br/>ek: ha bm ve sahibi kapitalizm bunun farkında. gelsinler gelir eşitsizliğini, sömürü düzenini konuşalım. ya sosyalizm ya barbarlık diye boşuna demiyoruz.
+  entry_channels: spor,ekonomi
+- entry_name: |
+    gizemi çözüldüğünde rahatlatacak şeyler
+  entry_id:  91744098
+  entry_writer: iki saattir seni ariyorum nick
+  entry_fav_count: 85
+  entry_content: |
+    seneler önce sahibinden.com'dan bir akıllı telefon almıştım. bu alışveriş süresince satıcı abinin insan oğlu denen garabet yaratığa duyduğu aşırı güven beni çok şaşırtmıştı. birkaç nöronumu şimdiye kadar işgal etmiş olacak ki bu işgaliyeden kurtulmak için bu giriyi yazıyorum.<br/><br/>kredi kartı kullanmayan biriyim, her ayın belirli günü aklımda obsesifçe yeretmesi gereken ödemelerden nefret ediyorum. zaten elektrik, emlak telefon vs tonla fatura var zaruri. whatever.. telefonu alacağım lakin ödemeyi başka bir kanaldan yapmam lazım açıkçası bunun kaç alternatifi var onu da bilmiyorum niyetim sadece bunu belirtip satıcı konumundaki yüce gönüllü sivaslı ağabeyin bana yol göstermesini sağlamak. ve ben bunu söyler söylemez adam durumu normalize eden bir rahatlıkla "ee o zaman sana hesap bilgilerimi ve şifreyi vereyim de atmden yatır sana zahmet" dedi. sandım ki adam şaka yapıyor ve sonunda basacak kahkayı ama o söze şöyle devam etti. "o zaman iş çıkışı telefonu yolluyorum, bir kaç gün kullan beğenirsen parayı yollarsın" hala da dalga geçilmeye müsait bir durumdaydım ama "eyvallah" deyip konuyu kapattım ve adresi de mesajla attım. <br/><br/>sanırım ertesi gün telefon elimdeydi ve gayet de o gün için harika bir telefondu sony xperia p adlı bu cihaz. telefonu ikinci el piyasasından temin etmiş olmakla büyük kara geçmiştim, şimdi tek yapmam gereken parasını yollamaktı. sivaslı ağabey telefonu açtı ve sözü uzatmadan bana hayırlı olsun dedi ardından da banka hesabıyla ilgili bütün bilgileri söyledi bana. hesap numarasıyla atmye girdim. orta halli bir adamın hesabında olabilecek kadar para vardı hesapta. eklemem kadarını ben ekleyip çıktım. <br/><br/>peki ben neyi merak ediyorum, bu işin gizemi ne? gizem şu ki: bu adam hem sattığı telefondan hem hesabındaki paradan olma ihtimalini hesap etmeyecek kadar insanlara güven duyacak ne yaşadı?!! sokaklar hırsız dolu, esnaf hırsızdan beter, taksici vesaire bir çok grup artık bildiğin mafya iken sen ne yaşadın da böyle güzel bir insan oldun sivaslı ağabey. <br/><br/>umarım hiç kimse bu güvenini yıkmamış, seni böyle biri olduğuna pişman etmemiştir.
+  entry_channels: anket,bilim,tarih,teknoloji
+- entry_name: |
+    sigara içenle içmeyen arasındaki fark
+  entry_id:  91737104
+  entry_writer: esofmanalti
+  entry_fav_count: 74
+  entry_content: |
+    bir arkadaşım bir koli kitap taşımak için benden yardım istedi. ikiye böldü kitapları beraber çıkıyorduk. 3. katta nefesi kesildi durup soluklanmaya başladı. ben de ondaki kitapları da alıp 3 kat daha çıkardım. işte fark budur. içen de ölüyor içmeyen de demeyin. yaşarken kaliteli yaşamak başka bir şey.<br/><br/>edit: ikimizin de sporla ilgisi yok. zaten bu olay da sporla kondisyon kazanmış insanlarla ilgili değildir. boş konuşmayın sigara nefes kalitesini düşürür. hepiniz biliyorsunuz.
+  entry_channels: sağlık,yeme-içme,ekonomi
+- entry_name: |
+    çaylak onay listesi
+  entry_id:  91719368
+  entry_writer: bu adam is yapar
+  entry_fav_count: 69
+  entry_content: |
+    eski yazarları çok iyi anlıyorum. muhtemelen hissettikleri tam olarak sınır kapısının açılıp binlerce suriyelinin içeri dolması.
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    suriyeli komşu istemeyen faşist türk
+  entry_id:  91732597
+  entry_writer: cicarito
+  entry_fav_count: 67
+  entry_content: |
+    bir dönem suriye de bulundum ve devletimizin inkar edilemez bir yardımı var.lakin bu topluluk ister suriyeli kardeşlerimiz diyin ister araplar diyin ne bir vefa ne bir sağduyu ne bir insanlık ne bir minnet duygusu hiç bir şey yok.zaten tarihe bakarsanız da hiç olmamış bundan sonra da olmayacak.<br/>ama aralarında iyileri varmış ta yok öyleymiş te siktirsingitsinler ..
+  entry_channels: siyaset
+- entry_name: |
+    etinin bütün ürünlerinin ülkerden iyi olması
+  entry_id:  91752324
+  entry_writer: vaneli
+  entry_fav_count: 66
+  entry_content: |
+    eti kaliteyi bozmaz fiyatı arttırır. (bkz: <a class="b" href="/?q=eti+puf+40+kuru%c5%9f">eti puf 40 kuruş</a>)<br/><br/>ülker kaliteyi bozar, fiyatı az arttırır. (bkz: çikolatalı gofretteki çikolatanın altından, gofretin görünmesi)
+  entry_channels: yeme-içme
+- entry_name: |
+    kyk borçlarının silinmesi kanun teklifi
+  entry_id:  91741706
+  entry_writer: gazoz kapagi
+  entry_fav_count: 55
+  entry_content: |
+    silinme değil de, bir işe girene kadar faiz işletilmeyebilir. zaten işsizlik almış başını gidiyor. bir de yeni mezuna iş veren neredeyse yok gibi... <br/><br/>işe girdiği anda direkt maaş hesaba yatar yatmaz aylık taksiti kessinler. okumuşu da okumamışı da devletten bir şeyler kaçırma derdinde amk! silinsin nedir! faiz işletilmesin de, borcum borç de eyvallah da silinsin ne amk! senin ödemeyeceğin para yine bana ekstra vergi olarak gelecek. sikeyim sizin zihniyetinizi!
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    yeni başlayanlar için almanya
+  entry_id:  91742641
+  entry_writer: elewentin
+  entry_fav_count: 49
+  entry_content: |
+    yaz ayında gidiyor da olsanız yanınızda ince bir ceket götürün. hava sabah 37 derece iken öğlen yağmur yağabiliyor.<br/><br/>edit: insanlar birbirlerinin deneyimlerinden yararlansın diye açılan başlıkta, yaprak döner tartışması sürüyor. inanılmaz.
+  entry_channels: anket,seyahat
+- entry_name: |
+    yazarların en sevdiği yeşilçam repliği
+  entry_id:  91740609
+  entry_writer: sol si re sol
+  entry_fav_count: 49
+  entry_content: |
+    bir <a class="b" href="/?q=zeki+m%c3%bcren">zeki müren</a> filmindeki efsanevi repliktir. şöyle ki; <br/><br/>zeki müren: paranın miktarı değil, ağırlığı ilgilendirir beni!<br/><br/>zengin kötü adam: öyle mi? niçin?<br/><br/>zeki müren: iğrenç suratınıza çarptığım zaman biraz olsun acıtması için.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: anket,sinema
+- entry_name: |
+    twitter'daki kamile orak rezilliği
+  entry_id:  91746677
+  entry_writer: conservator
+  entry_fav_count: 47
+  entry_content: |
+    okul öncesi öğretmeni olan bu kadının "neyim ben x falan mı" diyerek paylaşım yapan güruhu eleştirdikten sonra bir kız çocuğunun omuzlarından ince askıları indirip twitter'da kızın fotoğrafını "neyim ben twitter'ın en seksi bebeği falan mı?" diyerek paylaşması durumudur. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/atavrattroll/status/1143491316845879297?s=19" title="https://twitter.com/atavrattroll/status/1143491316845879297?s=19">link</a>. <br/><br/>ayrıca "chp'ye oy atanlar teröristtir" deyip sonrasında "arkadaşlar hesabım hacklenmişti" gibi saçma bir yalan açıklama yapan da bir şahıstır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/atavrattroll/status/1143513616676728833?s=19" title="https://twitter.com/atavrattroll/status/1143513616676728833?s=19">link</a>.<br/><br/><a class="b" href="/?q=feyza+g%c3%bcnd%c3%bcz">feyza gündüz</a> olayından sonra destek vermenizi dilediğim bir başlıktır, dün ortalık yoğun ve karışıktı, bu da bugüne kaldı. bir yandan çok içim el vermedi ama yaptığı sapıklık bambaşkadır. <br/><br/>deliklerinden utanmazca çıkan zehirli yılanların hadsizliğinde, elinde taşla duran insanlar ortaya çıksın. başları ezilmeden bitmeyecekler.<br/><br/><a class="b" href="/?q=edit">edit</a>: (bkz: <a class="b" href="/?q=ikinci+kattan+d%c3%bc%c5%9fen+bebe%c4%9fi+kurtaran+gen%c3%a7">ikinci kattan düşen bebeği kurtaran genç</a>)
+  entry_channels: teknoloji,haber
+- entry_name: |
+    yunanların çikolatalı lokmayı sahiplenmesi
+  entry_id:  91751837
+  entry_writer: tekkalan
+  entry_fav_count: 39
+  entry_content: |
+    yunanlıların türk olmak dışında türkiye topraklarındaki her şeyi sahiplenmeleridir.
+  entry_channels: yeme-içme
+- entry_name: |
+    himym'i friends'ten daha çok beğenmek
+  entry_id:  91735001
+  entry_writer: kitik
+  entry_fav_count: 37
+  entry_content: |
+    <a class="b" href="/?q=seinfeld">seinfeld</a>'i , <a class="b" href="/?q=friends">friends</a>'i , <a class="b" href="/?q=how+i+met+your+mother">how i met your mother</a>'ı 2'şer kez izledim. <br/><br/>sadece friends'i 3. kez izleyeceğime eminim.
+  entry_channels: tv
+- entry_name: |
+    köpeğin kafasını zorla pastaya sokmak
+  entry_id:  91743190
+  entry_writer: manszz
+  entry_fav_count: 36
+  entry_content: |
+    hayvan sahiplenme ehliyeti filan mı getirsinler size amkoyduğumun gerzekleri düzgün davransanıza hayvanlara.
+  entry_channels: haber
+- entry_name: |
+    öcalan'ın kırmızı bültenle arandığını bilmiyordum
+  entry_id:  91753676
+  entry_writer: batiatuss
+  entry_fav_count: 35
+  entry_content: |
+    çok sevdiğim bir deyimi paylaşmak istiyorum.<br/><br/>hatta takvim yaprağında gördüm.şöyle yazıyor<br/>"" at yalanı sikeyim inanani""
+  entry_channels: siyaset,haber
+- entry_name: |
+    feyza gündüz
+  entry_id:  91720580
+  entry_writer: hulki bey
+  entry_fav_count: 33
+  entry_content: |
+    muhtemelen bmw'lerde millete sakso çeken ama topluluk içinde evlenmeden aynı evde yaşayan kızları orospu olarak niteleyen bir ak parti hijabı.
+  entry_channels: siyaset,haber
+- entry_name: |
+    steam summer sale 2019
+  entry_id:  91722200
+  entry_writer: benide sikleyin
+  entry_fav_count: 30
+  entry_content: |
+    yahu o değil de bu call of duty i yapan firma ne kadar cimriymiş amk.13 senelik call of duty 2 bile normal fiyatı 50 lira indirimle 25.lan o oyundan kazanacağını kazanmışsın zaten sal da 20 liradan indirimle 10 liraya alalım bari.torunlarına "call of duty efsane bir oyun serisiydi bizim jenerasyonda bilmeyen yoktur." yerine "amına koduklarım pahalıya satardı zengin piçler alırdı bizim gibi torrent indirmeyen delikanlılar da başını aldı" şeklinde cümleler kuracak bir nesil yetiştirdiniz amk.
+  entry_channels: oyun,teknoloji
+- entry_name: |
+    terörist başının mektubundan fayda uman namerttir
+  entry_id:  91745972
+  entry_writer: amuda kalkan zararla oturur
+  entry_fav_count: 28
+  entry_content: |
+    <a class="b" href="/?q=memento">memento</a> filmindeki karakterin hastalığına yakalanmış olması muhtemel birinin açıklaması.
+  entry_channels: siyaset,haber
+- entry_name: |
+    19 yaşında bir kızın hayatının kararması
+  entry_id:  91748372
+  entry_writer: kizil saman
+  entry_fav_count: 22
+  entry_content: |
+    şantaj yapandan öyle aileye hepsinin canı cehenneme. o konuda sorun yok ama anlamadığım bir nokta var. şimdi biri bu kızı elimde başının açık olduğu yani tesettürlü olmadığın fotoğrafların var. bunu ailene gösteririm diye tehdit edip çıplak fotoğraf istiyor. kız bir noktadan sonra boyun eğip gönderiyor. ya arkadaş ailesinin başı açık fotoğraflarının başka erkeklerde olmasını öğrenmesinden bu kadar çekinen bir insan hangi akla hizmet birine çıplak fotoğrafını gönderir.<br/><br/>bana olayda bir tutarsızlık var gibi geldi. <br/><br/>not: kızı hiçbir şekilde suçlamıyorum. yapan orospu çocuğu en kısa zamanda belasını bulur umarım.
+  entry_channels: ekşi-sözlük,haber
+- entry_name: |
+    işbankasının 78 tl yıllık kart ücreti alması
+  entry_id:  91746918
+  entry_writer: saliyeri
+  entry_fav_count: 18
+  entry_content: |
+    çare (bkz: <a class="b" href="/?q=enpara.com">enpara.com</a>)
+  entry_channels: ekonomi
+- entry_name: |
+    hasan kaçan
+  entry_id:  91738708
+  entry_writer: kolonyak
+  entry_fav_count: 14
+  entry_content: |
+    gökhan oğuz'a laf çakmış twitter'dan. gökhan, ekrem imamoğlu için, ilk kez bir siyasi liderin kendi dünya görüşüne tam olarak uyduğu minvalinde bir twit atmış. ak sakallı troll hasan'da chp'yi kastederek, 'din kardeşlerine yaptığı zulümleri de bilemeyebilirsin.<br/>ama artık şu "sanatçı muhaliftir" palavrasını bırakın. "sanatçı erdoğan'a muhaliftir." deyin. siz de rahat edin biz de.' demiş. ak sakallı trol hasan o kadar eskimiş, o kadar köhne, o kadar hiçbir şeysin ki ve sen de bunun farkındasın. uzun senin ekmek teknen olmuş savunuyor da savunuyorsun... sana acıyorum canım benim, hem de kederli bir şekilde, içimden gelerek acıyorum...
+  entry_channels: tv,sanat,sinema
+- entry_name: |
+    eski sevgilinin evlenmesi
+  entry_id:  91739929
+  entry_writer: rigolettooo
+  entry_fav_count: 11
+  entry_content: |
+    bunun ilerleyen bölümleri şöyle zuhur eder:<br/><br/>1- eski sevgilinin çocuk yapması,<br/>2- eski sevgilinin boşanması,<br/>3- eski sevgilinin yogaya başlaması<br/>4- eski sevgilinin yoga eğitmeni olması (başlamasıyla eğitmen olması arasında max. 6 ay gibi bir süre olur genelde) <br/>5-eski sevgilinin artık eski sevgilim demeye dilinin varmaması. <br/>6-kapanış<br/>7- sovyet marşı ( ve muharebe yeniden başladı, içimiz ve kalbimiz heyecan dolu)
+  entry_channels: ilişkiler
+- entry_name: |
+    ekrem imamoğlu
+  entry_id:  91719158
+  entry_writer: kar seven tosba
+  entry_fav_count: 10
+  entry_content: |
+    belediye binası önünde bildiri okuyan ve arkasında duranları işten kovmayacağını açıklamış yeni istanbul büyükşehir belediye başkanı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberler.com/ekrem-imamoglu-acikladi-ibb-onunde-bildiri-12181626-haberi/" title="https://www.haberler.com/ekrem-imamoglu-acikladi-ibb-onunde-bildiri-12181626-haberi/">kaynak</a><br/><br/>daha önce şunu (bkz: <a class="b" href="/entry/91629874">#91629874</a>) yazmıştım ama şuan aynı gladyatör filminde halk gibiyim. evet önce öldür öldürr öldürrr diye bağırdım ama affedince de “ekremius the merciful” diye bağırıyorum. her türlü kahraman yani adam. yapacak bişi yok
+  entry_channels: siyaset
+- entry_name: |
+    türkiye'nin en güzel kızlarının olduğu il
+  entry_id:  91719664
+  entry_writer: istemek unutmaya yetmedi
+  entry_fav_count: 8
+  entry_content: |
+    bu nasıl bi başlık allasen. ya da nasıl bi genellemedir. miss turkey gibi en güzel kızları seçip bir şehrin içine mi doldurmuşlar. ankara’da hiç güzel görmemişmiş iç anadolu’da zaten yokmuş. naptın bütün hanelerin kapısını tek tek çalıp içlerine mi baktın. <br/><br/>çok il gezdim. her yerde de gayet güzel kızlar gördüm. öbek öbek dolaşmıyo bunlar belki ondan göremiyosun. turlara falan bak oralarda daha çok seçenek olur.
+  entry_channels: anket
+- entry_name: |
+    bitcoin
+  entry_id:  91724723
+  entry_writer: david people
+  entry_fav_count: 8
+  entry_content: |
+    bankadaki parasının reel karşılığının olduğunu düşünen insanların eleştirdiği kripto para. maalesef bankalardaki paralarınız da sadece 0 ve 1'lerden oluşuyor çağımızda. üstelik o veriler, blockchain gibi şu ana kadar geliştirilen en güvenli veri saklama yöntemini de kullanmıyorlar ve bankalarda çalışan insanlara emanetler. <br/><br/>ha ama altın alıp tarlanıza gömebilirsiniz. o zaman içiniz rahat bir şekilde uyuyabilirsiniz geceleri.
+  entry_channels: teknoloji,ekonomi
+- entry_name: |
+    gss prim borcu
+  entry_id:  91748817
+  entry_writer: londonphile
+  entry_fav_count: 7
+  entry_content: |
+    biri bu rezalete dur desin, bu kadar stk var, muhalefet partisi var, birileri anayasa mahkemesine, avrupa insan hakları mahkemesine gitsin artık. millet kyk borçları silinsin diye alıp harcadığı parayı ödememek için kamuoyu oluşturuyor, gss prim borclulari hiçbir şekilde almadıkları bur hizmetin parasını ödemeye zorlanıyorlar. yakında icra takipleri başlarsa ne olacak? gençlerin anne babalarının maaşlarına dayanarak geliri var gösteriliyor. aileleri zaten gelir vergisi ödüyor, prim yatırıyor. çifte vergilendirme var, her türlü hukuksuzluk var bu işin içinde. <br/><br/>kesilen bu paralarla en iyi hastabelerde özel sağlık sigortası yapılır. derdiniz insanların sağlığı olsaydı özel sağlık sigortası yaptıranlardan gss prim borcu kesmeyecegiz diyebilirdiniz. ama derdiniz bu değil. bu konunun mağduru bu kadar az mı yoksa farkında değiller de ondan mi sesleri cikmiyor?
+  entry_channels: siyaset,sağlık,ekonomi
+- entry_name: |
+    akit'in akp'yi eleştirmesi
+  entry_id:  91726894
+  entry_writer: mehmetc
+  entry_fav_count: 7
+  entry_content: |
+    hiç bir şey olmuyorsa bile kesinlikle bir şeyler oluyor gibi. "acaba yanlışlıkla mı yazdılar?" diye şaşırdım. ciddi ciddi tokat belediyesi'ni kim almış diye araştırdım. ama yanlış yok. bildiğin manşetten çakmışlar.<br/><br/>gecenin köründe girilmiş bir haber ama olsun. gerçekten habercilik yapmaya bir yerden başlamaları lazımdı. en azından taraf oldukları konularda objektif olarak eleştiri yapmayı öğrenmeleri gerekiyordu. umarım tüm yandaşlar yola gelmeye başlarlar.<br/><br/>beklentim akp'yi eleştirmeleri değil, yapılan yanlışlara "yanlış" diyebilmeleridir. bu da bir şeydir.<br/><br/>ss manşet: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/va40946iob5z" title="https://eksiup.com/p/va40946iob5z">resim</a><br/>ss haber içeriği: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/zw40947eo6cj" title="https://eksiup.com/p/zw40947eo6cj">resim</a><br/><br/>kaynak:<a rel="nofollow noopener" class="url" target="_blank" href="https://www.yeniakit.com.tr/haber/ak-partili-belediyeden-skandal-saygisizlik-turbeyi-kafe-yaptilar-814166.html" title="https://www.yeniakit.com.tr/haber/ak-partili-belediyeden-skandal-saygisizlik-turbeyi-kafe-yaptilar-814166.html">haber linki</a><br/><br/>tanım: akit internet sitesinde akp'li tokat belediyesi'nin eleştirilmesi olayıdır. zamanlama manidar görünüyor.<br/><br/>sığır editi: habere tıklamak istemeyenler oltaya gelmesin diye at kafası gibi net bir şekilde 'haber linki' yazmışım. akite tık göndermek istemeyenler için ss de koymuşum. daha ne yapmamı istiyorsun sayın 'osuruktan nem kapan' arkadaş?
+  entry_channels: 
+- entry_name: |
+    çirkinlerin bu dünyadaki imtihanı
+  entry_id:  91750957
+  entry_writer: foxtrot
+  entry_fav_count: 3
+  entry_content: |
+    kalbimiz taş olana kadar etrafına duvarlar örmek, daha çok para kazanmak ve daha çok gezmek bu sınavlardan birkaçıdır.
+  entry_channels: 
+- entry_name: |
+    kişinin kendisini en özgür hissettiği an
+  entry_id:  91736803
+  entry_writer: dariusmad
+  entry_fav_count: 2
+  entry_content: |
+    çizdiğin hesapladığın ve tamamladığın projeyi, köprüyü.. dönüp baktığında insanların üzerinden rahatça geçtiğini görüp mutlu olman..<br/>ve kıyısına köşesine kazıdığın kendi ismin..<br/>belki yıllar sonra bakım yapılırken görecekler..
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ekşi itiraf
+  entry_id:  91726291
+  entry_writer: reshad the lionheart
+  entry_fav_count: 2
+  entry_content: |
+    cok sevdigim, yunan bi arkadasim var. bayagi zeki, komik ve icten bi cocuk. yakisikli da bence. her muhabbetimizde mutlaka bahsi gecen bi sevgilisi vardi, seviyordu kizi epey. kiz da ingiltere'ye her geldiginde iki cift kelam ediyorduk, duzgun ve kafa dengi birine benziyordu. <br/><br/>ama aldatiyormus bizimkini. iki haftadir sehirdeki her pub'i gorduk bu kiz sayesinde. cunku icmeden anlatamiyor eleman. derdini anlatabilecegi kimse de yok benden baska. baska yunan arkadaslari da yok degil ama kendi insaniyla paylasmak istemedigi turde bir yara galiba bu, kutsal gorev benim omuzlarima dustu bu vesileyle. icip icip anlatiyor, ben de klise bolumlerde yarim kulakla dinleyip orijinal bisi soylendiginde muhabbete dahil oluyorum. ortada cozulecek bi mesele olmadigi, tek ihtiyacin anlatip rahatlamak oldugu bu gibi durumlarda izlenecek en iyi yol da bu zaten, bana kalirsa.<br/><br/>fakat bu arkadasimin durumu beni biraz dusundurdu. cunku her acidan harika bi insan. ve kizin takildigi brezilyali it de son derece siradan bi tip. komsunun bahcesindeki cimlerin daha yesil ve yan seridin daha akici gorunmesi gibi, insanlar hayatlarinda olan ve belli bi deger ifade eden seyleri zamanla kiymetsiz gormeye baslamaya meyilli, anlasilan o ki. <br/><br/>ne kadar cool, enteresan ve daha onemlisi kompakt olursaniz olun, uzun sureli bi iliskide zayifliklarinizin ve banalliklerinizin muhatabinizi sikmamasi, itmemesi ve rahatsiz etmemesi mumkun degil. cunku insan ufak tefek ve son derece aciz bi mahluk. hayat da inisli cikisli, bazen cok sert ruzgarlarin estigi ve bu gibi durumlarda tum defolarinizin ortaya dokuldugu bir mecra. dolayisiyla, bu gercegin farkinda olan, kendisinin de bu kisitlamaya tabi oldugunun bilincinde ve -ister pratik ister idealist gerekcelere dayansin- vefali insanlarla yol yurume amacinda olmali insan. <br/><br/>evet, andreas efendi. senin sayende sehirdeki tum cranberry juice'leri icmis olmanin etkisiyle yazdim hic okuyamayacagin bu satirlari. insallah yarin daha iyi olur, belki bu tecrube vesilesiyle gercek aski bulursun.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    cehennemin aklen zorunlu olduğu gerçeği
+  entry_id:  91752350
+  entry_writer: sireltoro
+  entry_fav_count: 2
+  entry_content: |
+    ben her hangi bir tanrının insanlara adalet, eşitlik, intikam veya ödül vaadettiğine şahit olmadım siz oldunuz mu ? kusura bakmayın ama tanrı sizlerin beklentilerine göre hareket tarzı geliştirecek yani size göre pozisyon alacak edilgen bir varlık değildir. bana göre evren bir müdahale ile var olmuş ama içinde ne olup bittiğiyle ilgilenilmeyen bir yapıdır. <br/><br/>hep söylerim; unutmayın ki tecavüze uğrayan bir bebeğe tecavüz eden de bir zamanlar kucaklarda sevilen bir bebekti.
+  entry_channels: 
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  91753679
+  entry_writer: uroboros
+  entry_fav_count: 0
+  entry_content: |
+    yakışıklı beyleri sohbete bekliyorum.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+---
