@@ -6,15 +6,23 @@ data:
     fakir büyümenin insanda yarattığı alışkanlıklar
   entry_id:  92348808
   entry_writer: tekkalan
-  entry_fav_count: 1736
+  entry_fav_count: 1749
   entry_content: |
     birisi bir şey ikram ettiğinde otomatikman yok ben istemiyorum demektir. halbuki başkalarının elindekileri görünce bakakalan çocuklardandır o insan.<br/><br/>sonradan kazanıyor insan, parası da oluyor, imkanı da. ama bir iz mutlaka kalıyor.
   entry_channels: anket,ekonomi
 - entry_name: |
+    kadının doğurmaktan başka yaptığı en önemli şey
+  entry_id:  92352082
+  entry_writer: istheisare
+  entry_fav_count: 1263
+  entry_content: |
+    isi, gucu olup, zekasıyla bir yere gelmiş hiç bir erkekten boyle bi soru duymadım. bu tarz sorular nedense hep eksi sözlükte ayda 400 entry giren adamlardan cikiyor. bilim adamları, tech mühendisleri boyle sorular sormuyorlar, cunku hepsinin birlikte calistigi kadınlar var. ama babasının dukkanini isleten killi anadolu maymunu, düşünüyor, tasiniyor, bulamıyor bu soruya bir cevap. <br/><br/>senin ne gibi bir özelliğin var ? gururla ovunmekten çekinmediğin erkek zeka ve becerisi sende mevcut mu ? nerede calisiyorsun ? yoksa sabah 8 aksam 6 ofis boyluk yapip, kadınların da parçası olduğu bilisim ve mühendislik teknolojilerini kullanarak "kadınlar da hiç bir ise yaramıyor yaa" diyenlerden misin ? <br/><br/>senin bir erkek olarak bu dunya'ya ne gibi bir katkin oldu da, bu soruyu sorabilme yetkisini kendinde goruyorsun ? senin yapabildiğin ama kadınların yapamadigi nedir tam olarak?
+  entry_channels: ilişkiler
+- entry_name: |
     istanbul'da cildiye randevusu alamamak
   entry_id:  92349977
   entry_writer: longmarch
-  entry_fav_count: 888
+  entry_fav_count: 890
   entry_content: |
     birkaç hafta önce randevu almayı denedim ancak boş bir hastane bulamadım. bugünlerde tekrar deniyorum yine boş hastane yok. ben yığınla vergi ödüyorken en basit sağlık hizmetinden bile faydalanamıyorsam sokayım böyle sistemin içine.<br/><br/><a class="b" href="/?q=edit">edit</a>: sıra bekleyeceksin diyenler var. aloooo randevu alamıyorum diyorum hiç yok diyorum vermiyorlar sıra falan. haftalar sonrasına bile alamıyorum ve hastalığın acil olmayanı mı olur lan neyin kafası bu.<br/><br/>bir <a class="b" href="/?q=yazar">yazar</a> arkadaşımızın rica <a class="b" href="/?q=edit">edit</a>i: yarın 9 çocuğuna 3 sene boyunca tecavüz eden şahısın karar mahkemesi var. 2. mahkemede şahıs serbest bırakıldı, sonrasında ev hapsine çevrildi. gündeme getirilmesi gerekiyor. (bkz: <a class="b" href="/entry/92364400">#92364400</a>)<br/><br/>bir <a class="b" href="/?q=%c3%a7aylak">çaylak</a> arkadaşımızın eklemek istediği <a class="b" href="/?q=edit">edit</a>i, aynen kopyalıyorum: ufak tefek kaşınmalarım vardı ilk başlarda önemsemedim sonrasında artmaya başladı ve artık geceleri uyuyamıyordum. cildiyeden randevu almaya çalıştım alamadım. peşpeşe iki gün acile gittim serum verip yolladılar ama o gece bile geçmedi. artık sıfır uykuyla işe gidiyordum. her gece randevu almaya çalışıyordum zaten uyuyamadığım için. tam 3 hafta sonra randevu alabildim ve 2 hafta bekledim. çoktan 2 ay geçmişti bile. bu iki ayda kahve bağımlısı oldum iş yerinde uykusuz hallerim yüzünden patronumdan çok kez azar işittim. işlerimi yapamıyordum, sınavlarıma çalışamıyordum. korkudan sevdiklerime dokunmuyordum iki aydır ne anneme ne kız arkadaşıma temasım olmadı. çernobilden çıkan itfaiyeciler gibi yaşıyordum. doktor günü geldiğinde uyuz teşhisi konuldu. verdiği ilaçları düzenli kullandım her günümün 1 saatini temizliğe ayırdım her gün çarsaflar değiştirdim ama geçmiyordu. 1 ay böyle gitti tekrar randevu almaya çalıştım ve yine haftalarca bekledim. zor bela bir randevu daha aldım bu seferki doktor da başka yöntem söyledi onu da uyguladım yine nafile oldu. artık ne kadar süreç geçtiğini siz düşünün ben sayamıyorum artık. asgari ücretle çalışan birisi olduğum için 2 kere özele gittim fakat ilgilenmediler bile elimii uzatıp egzema olmuş olabilir mi diye sorduğumda kafasını bile çevirmeden zeytinyağı sür dedi bana doktor özelde. özetle bütün hayat akışım bozuldu geceler vücudumu parçalayana kadar kaşıyıp sabah işe gittim çok zor günler geçirdim sevdiklerimden uzak kaldım ve hala da tam geçmiş değil. bu mesajı cildiye acil değildir diyenler için yazdım. sağlık sorunu her ne olursa olsun acildir efendim. hastaneye gidip doktorların kapısında yattım nolur ilgilenin diye hepsi randevu al diyip kovdular, instagramda gördüğüm her dermatoloğa mesaj attım yardım edin diye hiçbiri cevap vermedi. halimi siz düşünün acil miymiş değil miymiş.<br/><br/><a class="b" href="/?q=edit">edit</a> 2: özelden yazan <a class="b" href="/?q=%c3%a7aylak">çaylak</a> ve <a class="b" href="/?q=yazar">yazar</a> arkadaşlar diğer şehirlerde de aynı problemin olduğunu söylüyorlar. ayrıca diğer <a class="b" href="/?q=bran%c5%9f">branş</a>larda da randevu bulunmadığını yazıyorlar. örneğin; <a class="b" href="/?q=psikiyatri">psikiyatri</a>, <a class="b" href="/?q=g%c3%b6z">göz</a>, <a class="b" href="/?q=di%c5%9f">diş</a>.<br/><br/><a class="b" href="/?q=edit">edit</a> 3: mesajlara yetişemiyorum arkadaşlar 10 sayfayı geçti mesajlar. teşekkür ederim iyi niyetleriniz için.
   entry_channels: sağlık,haber
@@ -22,10 +30,26 @@ data:
     tavuk pişirince suyuna da çorba yapan varoş kız
   entry_id:  92365185
   entry_writer: aman da amann
-  entry_fav_count: 559
+  entry_fav_count: 570
   entry_content: |
     her yıl 1.3 milyar ton gıda israf ediliyor.<br/>dünyada 124 milyon çocuk ve ergen obez.<br/>üretilen meyve ve sebzenin yüzde 50'si çöpe gidiyor.<br/>gıda israfı ,iklim değişikliğe sebep olan en büyük 3.etken .<br/><br/>teşekkürler.
   entry_channels: ilişkiler,yeme-içme
+- entry_name: |
+    yüzde 50 kalksın başkanlık devam etsin
+  entry_id:  92362081
+  entry_writer: unorthodox fighter
+  entry_fav_count: 519
+  entry_content: |
+    hem ayranım dökülmesin, hem...
+  entry_channels: siyaset
+- entry_name: |
+    yürek burkan öğrencilik anıları
+  entry_id:  92344046
+  entry_writer: catlakmisir
+  entry_fav_count: 469
+  entry_content: |
+    ılkokul yillarim. öğretmenler ev ziyareti yapar, velilerle görüşürler ve öğrencilerin çalışma ortamlarını görmek isterlerdi. öğretmenim size geleceğiz dediğinde hiç gelmesini istemiyordum. çok utaniyordum. yaşadığımız ev kerpiç bir evdi. tuvaleti disarida, ahırı olan bir yatak odası bir girişi bir de salonu (salonunda duvar delikti ve dışarıya açılıyordu bu delik) olan ev demeye bin sahit bir yerdi. akşam oldu öğretmenim geldi, benim canım anam dolma ve sarma yapmıştı onu ikram etti. catlakmisirin odası var mı dedi annem yok dedi. peki çalışma masası var mı dedi o da yok. bu çocuk nerede nasıl çalışıyor dedi, annem de yerde çalışıyor deyince öğretmenim senin çocuğun nasıl oluyor da bu imkansızlıklara rağmen okul birincisi oluyor dedi. <br/><br/>okul hayatımda bir kez bile harcligim olmadı. lisede arkadaşlarım tarafından sen hiç kantinden bir şey almiyosun diye dalga geçilen kişi oldum. bilmiyolar ki cebimde bir lira dahi yok alamiyorum. hep benim canım istemiyor derdim. bir kez derse geç kaldım ve fizik hocasi hadi sınıfa çikolata ismarlayacaksin dedi ben de diyemiyorum ki hocam yapma etme ben nasıl yapayım bunu. bir arkadasim vardı o da geç kalmıştı. ailesi varlikliydi, bende para yok da sen alsan olur mu demiştim o da almıştı sağolsun.<br/><br/>daha böyle niceleri var..hep mahcup olduk, boynumuz bükük gezdik ama okuduk iyi yerlere geldik. belki bu yerlere gelmemizde o yaşanmışlıkların çok etkisi var. daha da iyi olup bu ülkede benim gibi olan birçok çocuğumuza yardım etmeye yemin ettim.
+  entry_channels: anket,eğitim
 - entry_name: |
     aile yapısının bozulmaya başlaması
   entry_id:  92357156
@@ -38,7 +62,7 @@ data:
     kitap okumuyorum eksikliğini hissetmiyorum
   entry_id:  92367818
   entry_writer: gbkpamugu
-  entry_fav_count: 352
+  entry_fav_count: 362
   entry_content: |
     sen okuma ulan ayı. okuyunca ev sahibi olunmuyor görgü sahibi olunuyor . eşşek kafalı...
   entry_channels: edebiyat,haber,magazin
@@ -46,7 +70,7 @@ data:
     9 temmuz 2019 ab açıklamaları
   entry_id:  92376732
   entry_writer: aires blue
-  entry_fav_count: 285
+  entry_fav_count: 303
   entry_content: |
     olm ben de buradan avrupalıları tehdit edip egosunu okşayanları anlamıyorum. yok salarmış mültecileri falan da filan. sal hadi salabiliyorsan. işte ülkenin dış politikası da bu mantıkla yönetildiği için bugün bu durumlardayız. diplomasimiz bile tehdit üzerine kurulu. en son halkı tehdit eder gibi konuşanların neler kaybettiğini hep beraber gördük yakın zamanda.<br/><br/>sonuçları ağır olabilecek yaptırımlardır bunlar. mahalle kabadayısı tavrı ile karşılık verirsen götüne bıçağı takarlar.<br/><br/>edit: biz buradan sınır kapısını açınca karşı tarafın da sınır kapısını açacağını sananlar ve zombi akını gibi mülteci akını olacak sanan mallar var, allah akıl fikir versin. fazla walking dead izlemeyin olm siz, yaramıyor belli ki.<br/><br/>edit 2: diplomasimiz bile tehdit üzerine kurulu deyince türkiye'yi gömmüş oluyormuşuz. merak etme, ben senden daha fazla bu ülkeyi ve bu ülkenin insanını düşünüyorum. aptal politikaların lüzumu yok. ülkenin bu kaosun içinden çıkmasının tek yolu akıllıca bir politika izlemektir. nasıl yaparlar bilemem ama mülteci ile tehdit etmek değildir.<br/><br/>bırakın bu ucuz milliyetçilik şovlarını. neyin var lan elinde mültecilerden başka avrupayı tehdit edecek, neyin artistliğini yapıyorsun? ekonomik olarak üst düzey misin? hayır. onlara bağlı mısın? evet. teknolojik üretimin var mı? hayır. bu anlamda onlara ve müttefiklerine muhtaç mısın? evet. tarımda durumun yerlerde mi? evet. ekmek yaptığın buğdayı bile onlardan alıyor musun? evet. ulan be mal elindeki tek kozun olan mülteciler ile yapacağın herhangi bir hareket ters teperse sadece avrupa ile ilişkilerin bozulmaz, avrupa başta olmak üzere bütün dünyayı karşına alırsın. sonra rusya'nın kucağına tam olarak oturursun. uygulanabilecek ambargoları düşünmek bile istemiyorum. burada açlıktan birbirimizi doğrarız.<br/><br/>edit 3: üstte avrupaya mülteci salmaktan bahseden arkadaşa verilen cevaba "tehdit edilen biziz" diyen var. tehdit edilen biziz o belli zaten, bunları yazmamın sebebi üstteki arkadaşın mülteci tehdidi ile alakalı.
   entry_channels: siyaset,haber
@@ -54,7 +78,7 @@ data:
     10 temmuz 2019 tokat çocuk istismarı davaları
   entry_id:  92364400
   entry_writer: sallamakahve
-  entry_fav_count: 282
+  entry_fav_count: 291
   entry_content: |
     özet: devletin kurumuna emanet edilen 9 kimsesiz veya ihtiyaç sahibi çocuğun 3 sene boyunca kurum çalışanı tarafından cinsel tacize uğraması. <br/><br/>arkadaşlar bu işin peşini bırakmayın. işin içerisinde cinsel tacize uğramış 9 çocuk ve serbest bırakılıp daha sonra ev hapsine mahkum edilen bir şahıs var. yarın mahkeme var. bu çocuklar hepimizin, lütfen kendi evladınız gibi düşünün. şahıs umarım en yüksek noktadan ibretlik cezayı alacaktır. <br/><br/>mahkeme heyetinden birileri eğer burayı görürse kamuoyu vicdanını hatırlamasını ve bu konuda oluşan tepkiyi okuması en büyük temennimdir. lütfen şahısa emsal olabilecek düzeyde bir ceza verin. bu cezaları verin ki olayların yaşanması yavaşlasın ve zamanla sonlansın. bu konuda söz ve karar mercisi sizsiniz, lütfen vicdanınızın sesine kulak verin.<br/><br/>ortada devletin kurumuna emanet edilen çocuklara cinsel taciz var. bu tacizin organize şekilde saklandığına dair kuvvetli iddialar var. bu çocuklar zaten hayata çok geriden başlamışlar, bu yüzden devletin kurumuna emanet edilmişler. devlet evladına bunu yapar mı veya yapanlara göz yumar mı? sizlerin bu gerçeklikle hareket edeceğinize inancımız sonsuz.<br/><br/>*******<br/><br/>twitter üstünde denk geldiğim, insanlığa lanet ettiğim haber. <br/>arkadaşlar buna lütfen sessiz kalmayın. manyağın birisi 9 çocuğa 3 sene boyunca cinsel istismarda bulunuyor ve 2. duruşmada serbest bırakılıyor.<br/>neyse ki hakimlerden birisi şerh koyuyor ve zanlı için karar ev hapsine çevriliyor.<br/>9 çocuğa 3 sene boyunca cinsel istismarda bulunan birisinin hakkı ağırlaştırılmış müebbet olmalı! serbest bırakmak nedir allah aşkına? o hakim olmasa 9 çocuğa cinsel istismarda bulunan kişi yarın mahkemeye gelecek miydi?! siz hangi gerekçeyle 9 çocuğa 3 sene cinsel istismarda bulunan birisini serbest bırakabiliyorsunuz? bunun kabul edilebilir kısmı neresidir? kamuoyu vicdanını rahatlatan kısmı neresidir? bu karar kabul edilebilir değildir!<br/><br/>"tokat'ta çarşamba günü davamız var. 9 kız çocuğunu istismar eden adam maalesef hala serbest. artık çocuklarımızın üzerinden ellerinizi çekin" <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/_Ayaprak/status/1148216120903634945" title="https://twitter.com/_Ayaprak/status/1148216120903634945">kaynak</a><br/><br/>10 temmuz'da 2 ayrı dava var tokat'ta.<br/>biri tokat 1. ağır ceza mahkemesinde 9 çocuğun istismar edilmesiyle ilgili açılan dava.<br/>diğeri; turhal sevgi evlerinde çocuklara fiziki ve psikolojik şiddet iddiası ile ilgili açılan dava. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.tokattan.com/2-gun-sonra-tokat-ta-neler-olacak-makale,153.html" title="https://www.tokattan.com/2-gun-sonra-tokat-ta-neler-olacak-makale,153.html">kaynak</a><br/><br/>bu arada istismar davasından okul müdürünün haberi olduğu doğrulandı. onu da detayları <a rel="nofollow noopener" class="url" target="_blank" href="https://www.tokattan.com/o-ifadeye-gore-il-ve-ilce-milli-egitim-mudurleri-taciz-olayindan-haberdardi-makale,154.html" title="https://www.tokattan.com/o-ifadeye-gore-il-ve-ilce-milli-egitim-mudurleri-taciz-olayindan-haberdardi-makale,154.html">burada</a> olay git gide iğrençleşmeye başladı.... madem haberiniz var neden işlem yapmıyorsunuz? sizin işlem yapmama sebebiniz tam olarak nedir? burada bir çıkar organizasyonu mu var?<br/><br/>haberde dikkatimi çeken en büyük detay şu: "benzer istismar suçunu işleyenlerin yaklaşık 20 yıl yattığı ülkemizde.. 9 çocuğu 3 yıl boyunca defalarca istismar ettiği gerekçesiyle tokat'ta yargılanan a.a. henüz ikinci duruşmada serbest bırakıldı.<br/>allah'tan hakimlerden birinin şerh koyması sonucu tahliye kararı verilen zanlı için karar, ev hapsine çevrildi. ev hapsi. sanırsın diplomat, sanırsın siyasi suçlu."<br/><br/>9 çocuğa 3 sene boyunca cinsel istismarda bulunan bir kişi nasıl 2. duruşmada serbest bırakılabilir? yarın da bu şahıs yine serbest mi bırakılacak?!<br/><br/>edit:<br/>şahıs <a rel="nofollow noopener" class="url" target="_blank" href="https://ozgurdenizli.com/tokatta-cocuklara-cinsel-istismar-skandali-ogretmen-istismar-etti-okul-yonetimi-gizledi/" title="https://ozgurdenizli.com/tokatta-cocuklara-cinsel-istismar-skandali-ogretmen-istismar-etti-okul-yonetimi-gizledi/">hakkında bilgileri</a> okuyabilirsiniz. konu geçen sene medyaya düşmüş ama gündem yoğunluğundan kendine yeterince yer bulamamış.<br/><br/>ayrıca ülkenin sahipsiz veya istismara uğrayan çocuklarının olduğu bir kurum mahkemelik olmuşsa burada bir sorun vardır. hatta orada olan herkeste bir sorun vardır. orada bulunan ve misafir edilen evlatlarımız nelere maruz kaldı? yöneticilerin burada rolü nedir demiyorum zira adı üstünde "yönetici". mesuliyette sen de sorumlulukta. olası bir sorun veya kaos durumunda hesap sorulacak isimler bellidir. lütfen bu kurumda bulunan evlatlarımız tek tek incelensin ve durumları tespit edilsin. kurumun çürümüş yönetim kadrosu altında çocukların acı çekmesi veya sorunlar yaşaması kabul edilebilir değildir.<br/><br/>ayrıca;<br/>üstte ki twitter adresi konuyla ilgilenen avukata aittir. kendisine bu konuda sürekli ihbar gidiyor, yeni bilgiler ulaşıyor. onlarda bunları işliyorlar ve değerlendiriyorlar.<br/>eğer konu hakkında bilginiz, duyumunuz varsa lütfen kendisiyle iletişime geçin. bu çocukları yarın bu pislik içerisinden çıkartırsa avukatların güçlü bilgileri kurtaracaktır. lütfen bu konuda bilginiz varsa sessiz kalmayın, bu insanlık dışı konuya ortak olmayın.
   entry_channels: haber
@@ -67,26 +91,34 @@ data:
     konya havzan bölgesinde askeriyeden devralınan tank taburuna yapılacak olan 30 bin kişilik camii için çalışmalar başlatıldı ..<br/><br/>1- o bölgede 1 kilometrekare çapında 50 tane cami var zaten en son ihtiyaç duyulan şey camii. .<br/><br/>2- bölgede inanılmaz otopark problemi var.. çevre apartmanlarda (özellikle sültemler ve mado civarı) oturan vatandaş utanmasa apartmana sokacak arabalarını yer yokluğundan.<br/><br/>3- bölgede 300 apartmana 1 çocuk parkı gibi bir çocuklara oyun alanı problemi var..<br/><br/>4- bölgede 100 civarında çok büyük konut sitesi (sültem, beyzade, güzelbahçe, meramkent, altınkoza, altınbaşak, altındamla) olmasına rağmen ulaşım 2 şeritli tek bir cadde ve sokaklarla sağlanmaya çalışıyor. sabah ve akşam mesai çıkışı trafiği 15 temmuz köprüsünden beter durumda.<br/><br/>5- türkiyede kişi başı en çok cami ve en az genç cemaat ihtiva eden konya ve konyalının en son ihtiyacı bölgeye yapılacak cami.<br/><br/>6- adı geçen şahıs kendisi orospu çocuğu fetullah gülen ve kaçak darbeci adil öksüzün 1 numaralı kankası olarak bilinir konyada.<br/><br/>7- biraderi eski belediye başkanlarının birinden sonra en çok küfür edilen isim muhtemelen.<br/><br/>8- yapımda ve yayında emeği geçenlerin topunun allah belasını versin ..<br/><br/>not1: bölgede oturuyorum.<br/>not2: günde en az 2 vakit camide cemaatle kılarım.<br/>not3: adı geçen şahsı konyalılar biliyor. onun dışında çok merak eden arar bulur zaten.<br/>not4: mansur yavaş spor.
   entry_channels: siyaset
 - entry_name: |
-    mb'nin kripto parasına isim önerileri
-  entry_id:  92373385
-  entry_writer: rivilat
-  entry_fav_count: 245
+    avrupa'ya düzensiz göçü yüzde 99 oranında azalttık
+  entry_id:  92368732
+  entry_writer: enemy
+  entry_fav_count: 270
   entry_content: |
-    recep tayyip ercoin
-  entry_channels: anket
+    normal bir ülkede, şu sözü eden şahsın oyu ilk seçimde %3'e filan düşer.
+  entry_channels: siyaset,haber
 - entry_name: |
     kanada başbakanı'nın yarattığı koruma terörü
   entry_id:  92375132
   entry_writer: altay horda
-  entry_fav_count: 239
+  entry_fav_count: 267
   entry_content: |
     artık kanada halkını bunaltmış olan koruma terörüdür.<br/>kanada başbakanı justin trudeau metro istasyonuna giriyor ve korumaların yarattığı izdiham halkı canından bezdiriyor;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/xw1zq">https://streamable.com/xw1zq</a><br/><br/>keşke kanada'da bizim gibi demokratik, insan haklarına saygılı ve halkın içinden gelen bir başkan seçebilse. umarım bir gün seçerler.
   entry_channels: siyaset
 - entry_name: |
+    mb'nin kripto parasına isim önerileri
+  entry_id:  92373385
+  entry_writer: rivilat
+  entry_fav_count: 252
+  entry_content: |
+    recep tayyip ercoin
+  entry_channels: anket
+- entry_name: |
     düşük not verdiği için hapis cezası alan profesör
   entry_id:  92363282
   entry_writer: kl7mu
-  entry_fav_count: 236
+  entry_fav_count: 238
   entry_content: |
     bildiğim kadarıyla bu tarz bir durumda öğrencinin kağıdı bilirkişi olarak aynı alanda çalışan başka hocalara okutulur. farklı iki ya da üç hocanın benzer bir aralıkta puan alınması gerektiğine hükmetmesi demek, davalı hocanın kasten düşük not verdiğine ve kağıdı objektif şekilde değerlendirmediğine dalalettir. haliyle hocanın ceza alması çok doğru görünüyor burada, zira bu yaptığı görevi kötüye kullanmak ve fiili olarak da aslında mobbing oluyor. hiç tatava yapmayın.
   entry_channels: eğitim
@@ -110,10 +142,10 @@ data:
     izmir marşı okunurken salonu terk eden protokol
   entry_id:  92377715
   entry_writer: altay horda
-  entry_fav_count: 136
+  entry_fav_count: 182
   entry_content: |
     <a class="b" href="/?q=piri+reis+%c3%bcniversitesi">piri reis üniversitesi</a> mezuniyet töreninde <a class="b" href="/?q=izmir+mar%c5%9f%c4%b1">izmir marşı</a> okunduğu sırada salonu terk eden protokoldür.<br/><br/><a class="b" href="/?q=yunan+protokol%c3%bc">yunan protokolü</a>dür. zira hiçbir türk izmir marşı okunmasından rahatsız olacak kadar kanı bozuk değildir. <a class="b" href="/?q=bunlar+olsa+olsa+yunand%c4%b1r">bunlar olsa olsa yunandır</a>.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/bxe69">https://streamable.com/bxe69</a>
-  entry_channels: siyaset,haber
+  entry_channels: siyaset,haber,eğitim
 - entry_name: |
     cüneyt özdemir
   entry_id:  92350876
@@ -134,18 +166,58 @@ data:
     emre mor
   entry_id:  92374765
   entry_writer: dadanda
-  entry_fav_count: 89
+  entry_fav_count: 101
   entry_content: |
     arda turan magandası geleceğine, gelmesini bin kere tercih edeceğim futbolcudur.
   entry_channels: spor
 - entry_name: |
+    yurt dışı çıkış harç pulunun 50 lira olması
+  entry_id:  92344141
+  entry_writer: tersayak
+  entry_fav_count: 80
+  entry_content: |
+    “abisi yurt dışına çıkıyorsun sende var para.bizede ateşlesene bee”
+  entry_channels: ekonomi,seyahat
+- entry_name: |
     stadyumda canlı izlenen en güzel gol
   entry_id:  92368551
   entry_writer: snough
-  entry_fav_count: 78
+  entry_fav_count: 80
   entry_content: |
     deivid’in intere attığı gol. stadyumda 55000 kişi mental olarak boşalmıştık. sonra uzun süre o duygu olmadı. <br/><br/>ekrem sağolsun bu yaz yine yaşattı.
   entry_channels: spor,anket
+- entry_name: |
+    5 yaşındaki kıza penisini gösteren suriyeli
+  entry_id:  92381266
+  entry_writer: hadi git
+  entry_fav_count: 64
+  entry_content: |
+    senin yüreğine, o küfürleri eden dillerine sağlık be abla. yerin cennetlik.<br/><br/>siz öylece oturun ağalar, milyar dolarlar harcayıp öylece oturun! belki bu abladan utanırsınız biraz diyeceğim ama ne gezer o sizde!
+  entry_channels: haber
+- entry_name: |
+    mustafa cengiz
+  entry_id:  92379387
+  entry_writer: mr and mrs brown
+  entry_fav_count: 56
+  entry_content: |
+    yıllardır şampiyon olamayan, 11 yıldır şampiyonalar ligi’ne gidemeyen, başarısızlıklarına rağmen sırf galatasaray’ın elinden oyuncu aldığı için sevinen ve tura bile çıkmayı düşünen, amatör şampiyonlukları profesyonel şampiyonluklarla toplayıp 28 şampiyonluğumuz var diye kendini avutan, sene başından beri aynı seviyeye çıkamadığı bir takım hakkında sürekli konuşan, hatayı kendinde aramak yerine hep başkalarını boklayan takım taraftarlarına göre galatasaraylıları uyutuyormuş. <br/><br/>uyutulan birileri olduğu doğru ama bunlar sizce galatasaraylı mı yoksa başka takımı mı tutuyor?
+  entry_channels: spor
+- entry_name: |
+    tanrının kötü olması
+  entry_id:  92373073
+  entry_writer: arthistorist
+  entry_fav_count: 55
+  entry_content: |
+    hayatımın son 5 yılında yaşadıklarımdan çıkardığım sonuç. kanımca insanlar üzerinde yaptıkları, bondage discipline domanation submission sadism'den (bdsm) farksız. hayatın sürekliliği içerisinde tanrının insanoğluna hatta bütün yarattıklarına, hastalık, açlık ve bunun gibi bir çok kötü musibet ile işkence yaptığı gerçeği kesinlikle reddedilemez. olayın komik tarafı tüm bu işkencelere rağmen bizden sürekli bir itaat beklentisi içerisinde olması, yukarıda savunduğum tezi destekler vaziyette. bir bakıma elindeki kırbaçla kurbanını kırbaçlayan biri ile bu acının içinde zevk arayan ve tüm bu işkencelere rağmen sahibine hala itaat edip, çektiği acılardan dolayı, ona boyun eğerek efendisini mutlu ettiğini düşünen pasif bir karakter ne kadar aşağılıksa, tanrının ona verdiği tüm dertleri, acıları, işkenceleri yücelten ve sorgulamayan bir beyinde en az onun kadar aşağılıktır.
+  entry_channels: anket
+- entry_name: |
+    kilo vermek isteyenlere tavsiyeler
+  entry_id:  92359319
+  entry_writer: udemoforever
+  entry_fav_count: 53
+  entry_content: |
+    cips/çerez yerine elma.<br/>kola yerine ayran.<br/>mayonez yerine yoğurt.<br/>tatlı yerine hiç bir şey.<br/><br/>not: yatırım tavsiyesi değildir. hayat tavsiyesidir.
+  entry_channels: anket,sağlık,yeme-içme
 - entry_name: |
     insana güncelleme gelse istenecek özellik
   entry_id:  92370984
@@ -155,37 +227,29 @@ data:
     günde 5 saat uyku ile yaşamını sorunsuz idame ettirebilme özelliği.
   entry_channels: anket,ilişkiler,teknoloji
 - entry_name: |
-    mustafa cengiz
-  entry_id:  92379387
-  entry_writer: mr and mrs brown
+    vatanı için savaşmayanlar plajımıza giremez
+  entry_id:  92378888
+  entry_writer: 0 5 ucu olan adam
   entry_fav_count: 45
   entry_content: |
-    yıllardır şampiyon olamayan, 11 yıldır şampiyonalar ligi’ne gidemeyen, başarısızlıklarına rağmen sırf galatasaray’ın elinden oyuncu aldığı için sevinen ve tura bile çıkmayı düşünen, amatör şampiyonlukları profesyonel şampiyonluklarla toplayıp 28 şampiyonluğumuz var diye kendini avutan, sene başından beri aynı seviyeye çıkamadığı bir takım hakkında sürekli konuşan, hatayı kendinde aramak yerine hep başkalarını boklayan takım taraftarlarına göre galatasaraylıları uyutuyormuş. <br/><br/>uyutulan birileri olduğu doğru ama bunlar sizce galatasaraylı mı yoksa başka takımı mı tutuyor?
-  entry_channels: spor
-- entry_name: |
-    piri reis universitesi mezuniyet töreni
-  entry_id:  92364801
-  entry_writer: hastalikli ruh
-  entry_fav_count: 44
-  entry_content: |
-    tanim: piri reis universitesi mezuniyet toreninde mezun olan gencler, izmir marsi soylemeye baslayinca, protokolde oturan cumhuriyet dusmani yardakcilar, mezuniyet torenini terk ettigi olay.<br/><br/>sizlere seve seve olmasa bile, sike sike hem cumhuriyeti, hem de ataturk’u sevdirecegiz. bunu bilmenizi isteriz.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/bilio_muydunuz/status/1148532677559115777?s=21" title="https://twitter.com/bilio_muydunuz/status/1148532677559115777?s=21">olayin linki</a>
-  entry_channels: siyaset,eğitim
+    <a class="b" href="/?q=sinop">sinop</a> kaleyazısı’nda bulunan limaniçi plajı’na asılan pankartta yazan mesaj.<br/><br/>ağzınıza, elinize sağlık. arapçasını da yazmışlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vaziyetcomtr/status/1148609616110071809?s=20" title="https://twitter.com/vaziyetcomtr/status/1148609616110071809?s=20">https://twitter.com/…tatus/1148609616110071809?s=20</a><br/><br/><a class="b" href="/?q=not">not</a>: bedelliden hiç haz etmesem de adam ülkeye hizmetini bir şekilde ödemiş. ayrıca benim vatandaşım, vergisiyle istediği yere girer. savaştan canını kurtardı iddiasıyla ülkeye sokulan 4 milyon nargileciye tabiiki soracağım vatanın için ne yaptın diye.
+  entry_channels: haber
 - entry_name: |
     sinemada alkışlama kültürü
   entry_id:  92371496
   entry_writer: sercomputer
-  entry_fav_count: 42
+  entry_fav_count: 44
   entry_content: |
     gereksiz bir kültür. böyle bir kültür yerleştiği takdirde otu boku alkışlayıp konsantre olduğunuz filmin içine edecek ciddi bir potansiyel var zira.<br/><br/>sonuç olarak böyle bir kültürün oluşmaması için elimizden geleni yapmalıyız. herkes efendi gibi filmini izlesin, yorumunu yapıp puan verebileceği zibilyon tane mecra var internet üzerinde. devir <a class="b" href="/?q=iner+misin+%c3%a7%c4%b1kar+m%c4%b1s%c4%b1n">iner misin çıkar mısın</a> devrindeki gibi alkış oranıyla sinemaya puan verilecek bir devir değil.
   entry_channels: anket,tarih
 - entry_name: |
-    vatanı için savaşmayanlar plajımıza giremez
-  entry_id:  92378888
-  entry_writer: 0 5 ucu olan adam
-  entry_fav_count: 38
+    bein sports'un türkiye'den çekilmek istemesi
+  entry_id:  92353391
+  entry_writer: kurtarin kendinizi
+  entry_fav_count: 40
   entry_content: |
-    <a class="b" href="/?q=sinop">sinop</a> kaleyazısı’nda bulunan limaniçi plajı’na asılan pankartta yazan mesaj.<br/><br/>ağzınıza, elinize sağlık. arapçasını da yazmışlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vaziyetcomtr/status/1148609616110071809?s=20" title="https://twitter.com/vaziyetcomtr/status/1148609616110071809?s=20">https://twitter.com/…tatus/1148609616110071809?s=20</a>
-  entry_channels: siyaset,ilişkiler,tarih,haber
+    ülkedeki ekonomik bağımsızlık, öngörülebilir iktisadi nizam ve demokrasi olmayınca gayet normal olan hadise.<br/><br/>millet eğlence sanıyor hala. şu ekonomik kriz biraz daha derinleşip amerikan ambargosu ile de taçlanırsa ne futbol keyfi kalır ne de ayakta kalabilen futbol kulübü kalır ortada. a'dan z'ye hayattaki tüm keyiflerden mahrum oluyoruz yavaş yavaş.<br/><br/>kendi fantezilerine uymuyor diye merkez bankası başkanını kovanlar düşünsün biraz da tasasını.
+  entry_channels: spor,tv,haber,ekonomi
 - entry_name: |
     1000 lira mı ekşi sözlük yazarlığı mı sorunsalı
   entry_id:  92371160
@@ -198,10 +262,26 @@ data:
     küt böreği mi kürt böreği mi sorunsalı
   entry_id:  92366906
   entry_writer: zengin komunist
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     (bkz: <a class="b" href="/?q=b%c3%b6lge+halk%c4%b1+b%c3%b6re%c4%9fi">bölge halkı böreği</a>)
   entry_channels: anket,yeme-içme
+- entry_name: |
+    ilk kez starbucks'a gideceklere tavsiyeler
+  entry_id:  92380767
+  entry_writer: one does not simply walk into eksisozluk
+  entry_fav_count: 33
+  entry_content: |
+    bokunuzu yiyim şu 1 liralık kahve geyiğini bırakın yıl 2019 kahvehanelerde çay 1.5 tl. çay bardağında vip coffee 2.5 tl. nolur lütfen 1 liralık kahveye 10 tl veriyolar hehehe demeyin artık bıktım.
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    cansu taşkın'ın 1 milyon tik alan sabah sporu
+  entry_id:  92381261
+  entry_writer: freddie mercurynin biyigi
+  entry_fav_count: 33
+  entry_content: |
+    alttaki “biz elimizden geleni yaptık cansu hanım teşekkürler” yorumuna kahkaha attım.
+  entry_channels: magazin
 - entry_name: |
     istanbul'da kaybolan 13 yaşındaki kız
   entry_id:  92346778
@@ -211,69 +291,53 @@ data:
     <a class="b" href="/?q=amber+alert">amber alert</a>'ün ne denli önemli olduğunu ve bir an önce türkiye'de de yasalaşması gerektiğini düşündüren olay.<br/><br/>konuyla ilgili bir yasa gündeme gelirse toplumun her kesiminden destek alacaktır. <br/><br/>bu tür kayıp çocuk vakalarında ilk 24 saatin ne denli önemli olduğu düşünülürse, duyuruların sadece web 2.0 üzerinde değil de daha sistemli yapılması şart.
   entry_channels: haber
 - entry_name: |
-    eljif elmas
-  entry_id:  92358938
-  entry_writer: birdirbir oynarken sek sek seken kedi
-  entry_fav_count: 29
+    kılıçdaroğlu bize tarafsız cumhurbaşkanı göstersin
+  entry_id:  92364057
+  entry_writer: quat
+  entry_fav_count: 28
   entry_content: |
-    (bkz: <a class="b" href="/?q=xabi+s%c3%bcbyan">xabi sübyan</a>)
-  entry_channels: spor
+    bahçeli çok yaşlandığı için hatırlamıyor olabilir ama kendisinin de kararı ile aday gösterilip mecliste geniş bir konsensüsle seçilen, ahmet necdet sezer tabi ki tarafsızdı, ama türkiye cumhuriyeti anayasasına bağlıydı, o yüzden ecevitle de ters düştü tayyiple de derdi kişisel çıkar değil devletin çıkarıydı.<br/><br/>çok devletçiydi diye eleştir anlarım ama taraflı dersen hassiktir derim.
+  entry_channels: siyaset,haber
 - entry_name: |
     beşiktaş'ın fener'den 2. büyüklüğü alma ihtimali
   entry_id:  92373544
   entry_writer: segregate
-  entry_fav_count: 25
+  entry_fav_count: 27
   entry_content: |
     bjk ve fb'nin toplam kupa sayıları neredeyse eşitlendi. <br/><br/>günümüzde oynanmakta olan resmi kupalar üzerinden bakarsak; fb'nin toplam 34 kupası olduğunu görüyoruz ( 19 lig kupası - 6 türkiye kupası - 9 süper kupa<sup class="ab"><a title="(bkz: cumhurbaşkanlığı = süper kupa)" href="/?q=cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1+%3d+s%c3%bcper+kupa" data-query="cumhurbaşkanlığı = süper kupa">*</a></sup> ), bjk'ın ise toplam 32 resmi kupası var ( 15 lig kupası - 9 türkiye kupası - 8 süper kupa ).<br/><br/>bjk bir sezon kafayı kaldırsa direk fb'yi geçecek duruma geldi.<br/><br/>farklı kulvarların oyuncusu olan galatasaray ise toplam 57 resmi kupaya sahip ( 22 lig kupası - 18 türkiye kupası - 15 süper kupa - 2 avrupa kupası )<br/><br/>*ayrıca gs ağustos'ta birde süper kupa finali oynayacak.<br/><br/>galatasaray 2-3 sene daha şimdiki ortalaması ile kupa alsa, bjk+fb nin toplam kupa sayısına tek başına sahip olacak.<br/><br/>bjk ve fb'yi karşılaştırdığımız bu yazımızı bir final cümlesi ile bitirelim.<br/><br/>ıq'sü 70'in üzerinde olan herkes kabul edecektir ki; tek büyük galatasaray.
   entry_channels: spor,anket
 - entry_name: |
-    kadınların felsefeye katkısının olmaması
-  entry_id:  92379484
-  entry_writer: frege
-  entry_fav_count: 23
-  entry_content: |
-    şöyledir:<br/><br/>***erkek***<br/>-3-15 yaş arası: resim, müzik, spor, oyun, arkadaşlık kurma, sosyal ilişkiler kurma çabası, kendini tanıma, kişilik geliştirme endişesiyle kişisel gelişime giriş 101<br/><br/>-15-25 yaş arası: ergenliğin etkisiyle kızlara yoğun ilgi gösterirken, daha başarılı, daha karizmatik, daha güçlü bir erkek olarak "seçilme" ihtimalini artırmak için yoğun kişisel gelişim çabası. ayrıca erkeklere yüklenen toplumsal sorumluluk nedeniyle, para kazanmaya, hayatı anlamaya, dünya düzenini çözmeye yönelik yoğun bir çaba, öğrenme, anlama ihtiyacı ve bu yönde alınan eğitimler, faliyetler, girişimler.<br/><br/>25-45 yaş arası: eğer kezbanın tekiyle evlenmeden kurtulmayı başarmışsa, yetişkin yaşlarındaki becerileriyle daha güzel bir hayat kurmak, daha bilinçli, daha zekice, daha üretken faliyetlerle hayatını zenginleştirmek için uğraşır.<br/><br/>45+: kazandığı bilgeliği dünyayı, çevresini, kendi hayatını güzelleştirmek için yoğun olarak kullanır. (tabi kezbanın tekiyle evlenmişse bu mümkün değil. karısının pasifize ettiği bir dede olmak üzere evinde göt büyütür.)<br/><br/>şimdi bir de kadına bakalım:<br/><br/>***kadın***<br/>-3-15 yaş arası: prenses olma hayali kurmak.<br/>-15-25 yaş arası: prenses olma hayalini gerçekleştirmek için koca aramak.<br/>-25-30 yaş arası: prenses olma hayaliyle evlendiği kocasını sömürerek instagrama prenses pozlar basmak ve çocuk sıç... doğurmak.<br/>-30+ yaşlar: prenses olamadığı ve yaşlanmaya başladığı için sinir krizleri içinde, boşanmış, dul, çocuklu, çapsız, vasıfsız, nafaka ile yaşayan, koca götlü, obez, sağlıksız, sayko, ruh hastası, şizofren bir hayat + instagram'da ben daha yaşlanmadım pozlarıyla genç oğlanları baştan çıkararak yeniden prenses gibi hissedebilme çabası.
-  entry_channels: bilim
-- entry_name: |
-    ahmet hakan
-  entry_id:  92356468
-  entry_writer: 17december
-  entry_fav_count: 23
-  entry_content: |
-    chp’nin %85 aldigi mahallelerde gezip, bos beles ahkam kesen tip.<br/><br/>kendisini, imamoglu’nu konuk ettigi ve sadece polemiklere zaman ayirip, belediye baskaninin asil meselesi olan vaatler kismina gelince tamam tamam kapattik dedigi programla hatirlayacagim.<br/><br/>eminim, o kadar istiyordu ki imamoglu kaybetsin de ben de kosemden “bahin bahin ben demistim” demeyi. <br/><br/>onun hincinda daha beyfendi.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
     otomatik vites aracı ışıklarda boşa almak
   entry_id:  92374490
   entry_writer: malchir
-  entry_fav_count: 22
+  entry_fav_count: 26
   entry_content: |
     "yeav bu dsg çok dandik, hep bozuluyor" adlı kitapta anlatılan bir olaydır.
   entry_channels: ekşi-sözlük,otomotiv
 - entry_name: |
-    5 yaşındaki kıza penisini gösteren suriyeli
-  entry_id:  92381266
-  entry_writer: hadi git
-  entry_fav_count: 21
+    eljif elmas
+  entry_id:  92376050
+  entry_writer: nikola tesla isimli sahis
+  entry_fav_count: 16
   entry_content: |
-    senin yüreğine, o küfürleri eden dillerine sağlık be abla. yerin cennetlik.<br/><br/>siz öylece oturun ağalar, milyar dolarlar harcayıp öylece oturun! belki bu abladan utanırsınız biraz diyeceğim ama ne gezer o sizde!
-  entry_channels: haber
-- entry_name: |
-    ilk kez starbucks'a gideceklere tavsiyeler
-  entry_id:  92380767
-  entry_writer: one does not simply walk into eksisozluk
-  entry_fav_count: 20
-  entry_content: |
-    bokunuzu yiyim şu 1 liralık kahve geyiğini bırakın yıl 2019 kahvehanelerde çay 1.5 tl. çay bardağında vip coffee 2.5 tl. nolur lütfen 1 liralık kahveye 10 tl veriyolar hehehe demeyin artık bıktım.
-  entry_channels: anket,yeme-içme
+    napoli'ye satılan adama bile transferinde usulsüzlük var imaları yapan kekolar var acınacak haldesiniz başka bir şey değil gidin de 27 yaşına kadar 2 milyon bile bonservis bedeli verilmemiş 13 milyonluk anadolu topçusu kazığınızın altında ağlayın hadi naş hadi.
+  entry_channels: spor
 - entry_name: |
     buram buram medeniyet kokan şehirler
   entry_id:  92380000
   entry_writer: 126
-  entry_fav_count: 10
+  entry_fav_count: 12
   entry_content: |
     türkiye'de çanakkale der çekilirim
   entry_channels: bilim,sanat,tarih,müzik,eğitim,seyahat
+- entry_name: |
+    ekşi itiraf
+  entry_id:  92344087
+  entry_writer: saffer95gp
+  entry_fav_count: 11
+  entry_content: |
+    atam, seni cok severim sayarim ama sana iki konuda kirginligim var:<br/><br/>1) gurcistandan cumhuriyet kuruldugunda goc etmek zorunda kalan aileme keske kucak acmasaydin da turk dogmak zorunda kalmasaydik.<br/><br/>2) her gun burayi okudugumda anliyorum ki, enerjini cok yanlis ulkeye ve cok yanlis insanlara harcamissin be atam, yazik etmissin..
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     bu mükemmel sistem kendiliğinden olmuş olabilir mi
   entry_id:  92376392
@@ -291,69 +355,29 @@ data:
     okuyamayanlar için özetliyorum; hastalık hastası malın üst solunum yolu enfeksiyonu için acil servise gitmesi olayı. yüzüne de bakmamışlar, çok üzülmüş malımız.
   entry_channels: sağlık
 - entry_name: |
+    yazarların en eski üyelikleri olduğu site
+  entry_id:  92344323
+  entry_writer: volkanbaba
+  entry_fav_count: 7
+  entry_content: |
+    mynet 1999
+  entry_channels: anket,teknoloji
+- entry_name: |
     aslen selanikliyiz
   entry_id:  92375783
   entry_writer: mehtapta demlenen hamsi
   entry_fav_count: 6
   entry_content: |
     benim etrafımda selanik göçmeni olmayan yok. hepsi selanik. biraz daha zorlasak paşaya komşu hepsi. bunun yurtiçi versiyonu da aslen yörüğüz.
-  entry_channels: ilişkiler,tarih
-- entry_name: |
-    tanrının kötü olması
-  entry_id:  92373326
-  entry_writer: muhalif tosbaa
-  entry_fav_count: 4
-  entry_content: |
-    büyük ihtimalle benim lepistesler de benim için bunu düşünüyorlar. bazen yem vermeyi unutuyorum. su değişimi yapmam gerektiğinde istisnasız hep erteliyorum. ama ne yapayım yani lepistesler de tüm evrenin kendi etraflarında döndüğünü zannetmeselermiş. <br/>ha sevmiyor muyum? elbette seviyorum ama onların zannettikleri kadar sikimde değiller açıkçası.
-  entry_channels: anket
-- entry_name: |
-    sevişirken prezervatif kullanmayı reddeden erkek
-  entry_id:  92379377
-  entry_writer: yamukceneligiz
-  entry_fav_count: 4
-  entry_content: |
-    welcome to hivland!
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
-    yurt dışından alışveriş için 5 ürün sınırı
-  entry_id:  92378351
-  entry_writer: suclu kalem
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=berat+albayrak+buna+%c3%bcz%c3%bcld%c3%bc">berat albayrak buna üzüldü</a>)<br/><br/>şimdi nasıl çokomelli yüzük alacak adam..
-  entry_channels: ekonomi
-- entry_name: |
-    kadınların hergün yapıp erkeklerin
-  entry_id:  92378135
-  entry_writer: altayz
-  entry_fav_count: 3
-  entry_content: |
-    hazırlan canım birazdan <sup class="ab"><a title="(bkz: lanetli çaylak)" href="/?q=lanetli+%c3%a7aylak" data-query="lanetli çaylak">*</a></sup> olacaksın
-  entry_channels: anket
-- entry_name: |
-    cansu taşkın'ın 1 milyon tik alan sabah sporu
-  entry_id:  92381367
-  entry_writer: sikik gotlu amcik kurbaga
-  entry_fav_count: 3
-  entry_content: |
-    fondaki müziğe bak<br/>"gül gibi uyuyan yılanı uyandırdın..."
-  entry_channels: spor,magazin
+  entry_channels: ilişkiler
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  92343937
-  entry_writer: colifact
-  entry_fav_count: 2
+  entry_id:  92344023
+  entry_writer: veni vidi party
+  entry_fav_count: 3
   entry_content: |
-    içinde bulunduğum veritabanı. şu sıralar gün içinde epey boş zamanım oluyor. her telden konuşabiliriz.
+    dertleşmek değil de yaş ve cinsiyetin önemi olmadan iki lafın belini kırmak isteyen olursa mesaj kutuma bekliyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    beşiktaş'ın şampiyonlar ligi'nde kırdığı 5 rekor
-  entry_id:  92379761
-  entry_writer: mr and mrs brown
-  entry_fav_count: 2
-  entry_content: |
-    galatasaray uefa’dan sonra üstüne ne koydu diye kalbürüstü yabancı takımlar sorabilir ama şampiyonlar liginde çeyrek finali görememiş hayalci tinerciler soramaz. <br/><br/>biz uefa’dan sonra şampiyonlar liginde 2 kere çeyrek final, 2 kere 2.tur gördük, sen ne gördün koçero?<br/><br/>şampiyonlar ligi rekortmeni bjk’nın kırdığı diğer rekorları anlatan başlık.
-  entry_channels: spor
 - entry_name: |
     şaka maka milyarlarca insanın dinlere inanması
   entry_id:  92378570
@@ -371,35 +395,11 @@ data:
     (bkz: <a class="b" href="/?q=engelle">engelle</a>)<br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>)
   entry_channels: anket
 - entry_name: |
-    kardeşini yiyen kartal yavrusu
-  entry_id:  92380911
-  entry_writer: eksikhaykiris
-  entry_fav_count: 1
-  entry_content: |
-    tam bir beşiktaşlı duruşu sergilemiştir. biz de birbirimizi yer dururuz böyle.
-  entry_channels: ilişkiler,bilim,sağlık,haber
-- entry_name: |
-    gelen hediyenin internetten fiyatına bakmak
-  entry_id:  92380285
-  entry_writer: ogenki
-  entry_fav_count: 1
-  entry_content: |
-    son zamanlarda oldukça yaygınlaşan eylemdir.
-  entry_channels: ilişkiler
-- entry_name: |
-    ekşi itiraf
-  entry_id:  92346855
-  entry_writer: narutonunkuzeni
-  entry_fav_count: 1
-  entry_content: |
-    sevgilisi olan arkadaşlarımın takipten çıktığı kızım ben .
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     redd'in en iyi şarkısı
-  entry_id:  92381269
-  entry_writer: yamukceneligiz
+  entry_id:  92381477
+  entry_writer: layneischains
   entry_fav_count: 0
   entry_content: |
-    mükemmel boşluk albümündeki tüm şarkıları! benim göz bebeğim ise kanıyorduk şarkısıdır. <br/><br/>“resmini buldum yıllar sonra, bir kitapta.<br/>nasıl da yakışmıştı yüzün o sayfaya.<br/>bir devle savaşıyordu adam, yorulmuştu.<br/>bir sonraki sayfaya geçmeden vurulmuştu.<br/><br/>yıldızlar meraklı gözler gibi, karanlıkta<br/>ay yarım kalmış diyordu yazar, bizim gibi.<br/>düşüyorduk uzaydan bakınca,<br/>ama aslında yükseliyorduk dünyadan.<br/>mutluyduk uzaktan bakınca,<br/>ama aslında kanıyorduk aşkla.<br/><br/>özlemek seni yıllar sonra acıtıyor.<br/>kalbim bi' kağıt gibi yırtılıyor.<br/>bir devle savaşıyordum ben hep, bu hayatta.<br/>ölmeyi isterdim oysa kollarında.”<br/><br/>doğan duru’yu çok severim. adamda ego sıfır. konser öncesinde mekanda otururken onu bira içerken yakalamıştım. tanışma fırsatım oldu ve gerçekten en az şarkıları kadar kaliteli bir adam.
+    girişindeki atağın güzelliğinden dolayı <a rel="nofollow noopener" class="url" target="_blank" href="https://open.spotify.com/track/1gqH2fRNxrcUnYMbQ8gAd2?si=B5Vopnv5RdKNP7CQBpo-Bw" title="https://open.spotify.com/track/1gqH2fRNxrcUnYMbQ8gAd2?si=B5Vopnv5RdKNP7CQBpo-Bw">falan filan</a> diyorum.
   entry_channels: anket,müzik
 ---
