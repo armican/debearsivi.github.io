@@ -6,7 +6,7 @@ data:
     11 temmuz 2019 avrupa birliği türkiye kararı
   entry_id:  92454384
   entry_writer: yuruyen ucak mi
-  entry_fav_count: 1318
+  entry_fav_count: 1322
   entry_content: |
     80 milyonluk nüfus yapılarını bozacak diye birliğe almıyorlar, şimdi de kendi denizimizde petrol bulmamızı istemiyorlar.<br/><br/>inşallah sağlam petrol çıkar da muhtaç kalırsınız. gerçi petrol de var gibi. yoksa bu kadar yaygara yapmazlar.<br/><br/>edit:petrol değil gaz diyorlar.
   entry_channels: siyaset,haber,ekonomi
@@ -14,23 +14,15 @@ data:
     eve atılan erkeğin 1 dakikada boşalması
   entry_id:  92476873
   entry_writer: paolno
-  entry_fav_count: 949
+  entry_fav_count: 1105
   entry_content: |
     geç boşalmıştır. bir keresinde bir hatun beni eve davet etmişti yoldayken boşalmıştım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler
 - entry_name: |
-    e. imamoğlu'nun yavaş yavaş piyasadan silinmesi
-  entry_id:  92467996
-  entry_writer: eyimis
-  entry_fav_count: 845
-  entry_content: |
-    sebebi oldukça basit aslında. işinde gücünde adam.
-  entry_channels: siyaset,anket,tv,haber
-- entry_name: |
     türk kızının en yetenekli olduğu konu
   entry_id:  92447830
   entry_writer: degirmenderedeki smokinli adam
-  entry_fav_count: 366
+  entry_fav_count: 367
   entry_content: |
     maruz kaldığı cinsiyetçi başlıklarla başa çıkmak
   entry_channels: anket,ilişkiler
@@ -38,7 +30,7 @@ data:
     yusuf yazıcı
   entry_id:  92461432
   entry_writer: benibirazboylehatirla
-  entry_fav_count: 358
+  entry_fav_count: 361
   entry_content: |
     manchester united’in bonservisine 61 milyon avro vereceği ve old trafford stadının ismini <a class="b" href="/?q=uy+trafford">uy trafford</a> olarak değiştireceği iddia edilen oyuncu<br/><br/>edit: hanginiz çalıp twitter’da paylaştı lan entrymi
   entry_channels: spor
@@ -46,7 +38,7 @@ data:
     rakının kötü bir içki olduğunun kabullenilememesi
   entry_id:  92445934
   entry_writer: darth neset
-  entry_fav_count: 329
+  entry_fav_count: 332
   entry_content: |
     genelde kompleksli insanların yaptığı bişeydir.<br/>zeytinyağlı meze olacak<br/>peynir olacak<br/>ahtapot salatası olacak<br/>deniz börülcesi olacak<br/>yoğurtlu meze olacak<br/>kızartma-şakşuka olacak<br/>meyve olacak<br/>et olacak<br/>kuruyemiş olacak<br/>yanına soğuk su olacak<br/>yanına şalgam olacak<br/>güzel müzik olacak<br/>eş dost yanyana olacak <br/>manzara olacak<br/>ananın amı olacak afedersin.<br/>avrupa birliğine mi giriyoruz, kafamızı kırmaya mı çalışıyoruz?
   entry_channels: anket,yeme-içme
@@ -54,63 +46,47 @@ data:
     antalya'da açıklanamayan bulut görüntüsü
   entry_id:  92464702
   entry_writer: handmadegod
-  entry_fav_count: 319
+  entry_fav_count: 325
   entry_content: |
     dayıyı işe alsınlar dizi senaryosu yazsın. iki dakikada adam eski uzay gemisi dedi yenisi başka dedi. zaman yolculuğu dedi. ekmek yer bu işten.
-  entry_channels: ekşi-sözlük
-- entry_name: |
-    sünnetin yapılabileceği en ideal yaş
-  entry_id:  92457646
-  entry_writer: anani siken kadi
-  entry_fav_count: 313
-  entry_content: |
-    +18.<br/>bırakın kendi karar versin amk.
-  entry_channels: anket,sağlık
-- entry_name: |
-    300 yıl sonraki ekşi sözlük başlıkları
-  entry_id:  92441971
-  entry_writer: golgesiz111
-  entry_fav_count: 313
-  entry_content: |
-    (bkz: <a class="b" href="/?q=1+temmuz+2319+karn%c4%b1m%c4%b1n+ac%c4%b1kmas%c4%b1">1 temmuz 2319 karnımın acıkması</a>)<br/><br/>inanıyorum.
   entry_channels: ekşi-sözlük
 - entry_name: |
     suudiler'in türkiye boykotu
   entry_id:  92470094
   entry_writer: mrfigo
-  entry_fav_count: 309
+  entry_fav_count: 319
   entry_content: |
     lütfen gerçek olsun. gelmeyin bedeviler.
   entry_channels: haber
 - entry_name: |
-    saati 200 tl olan psikolog
-  entry_id:  92438407
-  entry_writer: yalnizgenc
-  entry_fav_count: 284
+    300 yıl sonraki ekşi sözlük başlıkları
+  entry_id:  92441971
+  entry_writer: golgesiz111
+  entry_fav_count: 316
   entry_content: |
-    yapılan yorumları okuduğumda dehşete kapılıyorum. ruh sağlığını bu kadar hafife almak psikolog ve psikolojik danışmanları itibarsızlaştırmak bu kadar kolay olmamalı. ülkede son yıllarda yaşanan gerilimler, cinayetler, istismar vakaları ve daha nice kötü olay toplum olarak psikolojimizin yerinde olmadığının en büyük göstergesi. sonuçta bir lokantaya gittiğinde 1 saatte 500 lira da harcayabilirsin ya da alışverişte gittiğinde sadece 15 dakikada bir servet yatırabilirsin. lütfen artık olaylara geniş çerçeveden bakalım. at gözlüğümüzü bir kenara bırakalım. alınan uzman yardımının(uzmanın niteliğine göre) tabiki bir bedeli olacak.<br/>edit: entrye birçok geri dönüş aldım fikirlerinizi paylaştığınız için çok teşekkür ederim. günümüz ekonomik koşullarında tabiki bu ücretler hepimizi zorluyor. ruh sağlığı hizmeti herkesin ulaşabileceği durumda olmalı zaten.lakin özel kurumlar ya da kişiler de günümüz şartlarıyla mücadele etmekte. ilerki süreçte devlet hastaneleri ya da kurumları umarım bu durumu göz önünde bulundurarak hizmeti kolaylaştırır benim de isteğim bu yönde.
-  entry_channels: anket,sağlık
-- entry_name: |
-    hıncal uluç'un hasan hüseyin sel kardeşler yorumu
-  entry_id:  92466297
-  entry_writer: fizik kimya
-  entry_fav_count: 210
-  entry_content: |
-    2 kilo baklavaya yazmış olabilir bu yazıyı. azaltıyorum, yarım kilo da olabilir. kalemi o kadar ucuz çünkü.
-  entry_channels: tv,haber
+    (bkz: <a class="b" href="/?q=1+temmuz+2319+karn%c4%b1m%c4%b1n+ac%c4%b1kmas%c4%b1">1 temmuz 2319 karnımın acıkması</a>)<br/><br/>inanıyorum.
+  entry_channels: ekşi-sözlük
 - entry_name: |
     kürt erkeğinin en yetenekli olduğu konu
   entry_id:  92475196
   entry_writer: interesting65
-  entry_fav_count: 206
+  entry_fav_count: 245
   entry_content: |
     teke tek kavgaya, 10 kişiyle gelmesi, en yetenekli olduğu konudur.
   entry_channels: ilişkiler
 - entry_name: |
+    hıncal uluç'un hasan hüseyin sel kardeşler yorumu
+  entry_id:  92466297
+  entry_writer: fizik kimya
+  entry_fav_count: 213
+  entry_content: |
+    2 kilo baklavaya yazmış olabilir bu yazıyı. azaltıyorum, yarım kilo da olabilir. kalemi o kadar ucuz çünkü.
+  entry_channels: tv,haber
+- entry_name: |
     donald trump türk olsa nereli olurdu
   entry_id:  92478927
   entry_writer: eoamt
-  entry_fav_count: 143
+  entry_fav_count: 171
   entry_content: |
     kesinlikle baba tarafı rizeli, anne tarafı trabzonlu olurdur.
   entry_channels: siyaset,anket
@@ -118,23 +94,15 @@ data:
     1.90'dan kısa boylu erkeğin erkeğim diye gezmesi
   entry_id:  92451399
   entry_writer: miafori
-  entry_fav_count: 122
+  entry_fav_count: 123
   entry_content: |
     travestilerin genelde 1.90 civarında olması ile çürütülen tespittir.
   entry_channels: ilişkiler
 - entry_name: |
-    seydioğlu baklava'nın tabelalarının indirilmesi
-  entry_id:  92473672
-  entry_writer: 1501
-  entry_fav_count: 105
-  entry_content: |
-    <a class="b" href="/?q=seyido%c4%9flu+baklava">seyidoğlu baklava</a>’nın isim benzerliği için açtığı davada mahkeme, aracın üzerinde zıplayıp araca da tecavüze yeltenen baklavacıların marka tecavüzünden dolayı tabelalarının indirilmesine karar verdi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/hamile-kadinin-bulundugu-araca-saldiran-baklavaci-kardeslerin-tabelalari-indirilecek,830177" title="https://t24.com.tr/haber/hamile-kadinin-bulundugu-araca-saldiran-baklavaci-kardeslerin-tabelalari-indirilecek,830177">kaynak</a><br/><br/>sosyal medya gücüyle söke söke alınan adalet!
-  entry_channels: haber,yeme-içme,ekonomi
-- entry_name: |
     sabah deniz çarşaf gibiydi diyen amca
   entry_id:  92476455
   entry_writer: hotelcharliebravo
-  entry_fav_count: 105
+  entry_fav_count: 122
   entry_content: |
     çoklukla tatil beldesinde deniz kenarında evi olan amcadir. günübirlikçilerden şikayet eder.<br/>bütün yazı bu tatil beldesinde geçirir. sabah 5 te yüzmeye gider, döner kahvaltı eder, öğle sıcağında uyur, akşam oldumu birasını rakisini alır keyif yapar.<br/><br/>ulan inşallah görürüz bu günleri beee
   entry_channels: ilişkiler
@@ -142,15 +110,23 @@ data:
     otelde tıkılı kalmak vs cruise tatili
   entry_id:  92474480
   entry_writer: bitikbatarya
-  entry_fav_count: 105
+  entry_fav_count: 117
   entry_content: |
     bu başlık beni aşar biz şileye, çınarcığa falan gidiyoz tatile
   entry_channels: seyahat
 - entry_name: |
+    seydioğlu baklava'nın tabelalarının indirilmesi
+  entry_id:  92473672
+  entry_writer: 1501
+  entry_fav_count: 116
+  entry_content: |
+    <a class="b" href="/?q=seyido%c4%9flu+baklava">seyidoğlu baklava</a>’nın isim benzerliği için açtığı davada mahkeme, aracın üzerinde zıplayıp araca da tecavüze yeltenen baklavacıların marka tecavüzünden dolayı tabelalarının indirilmesine karar verdi. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/hamile-kadinin-bulundugu-araca-saldiran-baklavaci-kardeslerin-tabelalari-indirilecek,830177" title="https://t24.com.tr/haber/hamile-kadinin-bulundugu-araca-saldiran-baklavaci-kardeslerin-tabelalari-indirilecek,830177">kaynak</a><br/><br/>sosyal medya gücüyle söke söke alınan adalet!
+  entry_channels: haber,yeme-içme,ekonomi
+- entry_name: |
     twitter
   entry_id:  92479501
   entry_writer: aminkofim
-  entry_fav_count: 99
+  entry_fav_count: 102
   entry_content: |
     hepsi çöker ona bir şey olmaz dediğimiz sosyal ağ an itibariyle çökmüştür. maşallah dediğimiz kırk gün yaşamıyor.
   entry_channels: teknoloji
@@ -158,114 +134,90 @@ data:
     suriyeli kardeşlerine bir mesaj bırak
   entry_id:  92470249
   entry_writer: hokayiyamasitakombamba
-  entry_fav_count: 97
+  entry_fav_count: 100
   entry_content: |
     siktiringidin
   entry_channels: ilişkiler
 - entry_name: |
-    çayı şekersiz içmek
-  entry_id:  92452130
-  entry_writer: bedenimialanaruhumbedava
-  entry_fav_count: 89
-  entry_content: |
-    asıl zor olan şekerli içmektir. uzun süre şekersiz içince, şekerli olanını içmek gerçekten zor.
-  entry_channels: sağlık,yeme-içme
-- entry_name: |
-    ben emrah safa gürkan sorularınızı cevaplıyorum
-  entry_id:  92462791
-  entry_writer: emrah safa gurkan
-  entry_fav_count: 80
-  entry_content: |
-    merhaba ben <a class="b" href="/?q=emrah+safa+g%c3%bcrkan">emrah safa gürkan</a>,<br/><br/>akademisyenim, aslında işim arşivlerde kargacık burgacık yazılar okuyup makale ve kitap yazmak. yazdığım şeylerin sıkıcılığı karşısında dehşete düştüğüm günün bunun beni kesmeyeceğini farkettim. akabinde flutv’den gelen cazip teklifi reddedemedim ve ilker canikligil ve mustafa seven’le olmaz öyle saçma tarih’i yapmaya başladım. youtube’a düşmemin benim değil, 1.000 kişinin içinde senede 1 kitap bile okumayan o 999 kişinin (tüik verisi) suçu olduğunu düşünüyorum (mayışlar yatmıyor!!!).<br/><br/>amacım sadece popülerleştikçe vasatlaşan tarihi malumatfuruş muhterislerin elinden kurtarmak ya da sinemadan bilgisayar oyunlarına, müzikten futbola provokatif fikirlerimi, subjektif ve belki de rüküş zevklerimi empoze ederek egomu pompalamak değil (ki çok hoş bir his allah için). popüler olanın kalitesiz olmaya mahkum olmadığını göstermek ve geniş kitleleri skolastik bir tarih ve sosyal bilimler anlayışından kurtarmak; kitap okumanın modası geçmiş bir şey olduğunu düşünen milyonların olduğu ülkemizde insanların hayatlarına biraz kalite katmak. bilgi vermek değil de, bilgiyi edinmeyi öğretmek, belki biraz kafalardaki ezberleri, kolaycı kategorileri bozmak…<br/><br/>15-20 yıldır zaten her gün buradayım da bu sefer nickimin arkasına saklanmayayım ve papyonum ve kaytan bıyığımla arz-ı endam edeyim dedim. gg falan düşünmeden istediğinizi söyleyebilir ve sorabilirsiniz. bir tek kırmızı çizgimiz var: sûret-i hüsrevânelerimi yılmaz erdoğan ya da faruk duman’a benzeten bogomiller ocak dışı kalacaktır. hadi bakalım guzât-ı nusret-karîn klavyelerin başına, marche marche!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/BzxpTIlgLbn/?igshid=713pzzjajk25" title="https://www.instagram.com/p/BzxpTIlgLbn/?igshid=713pzzjajk25">kanıt</a><br/><br/>edit: bogomiller! hocanız yoruldu. şimdi videolu soru cevaba geçiyoruz. çünkü trafik olmadan kaçmak istiyoruz. <br/><br/>sorularınıza verilmiş yanıtları görmek için şu bağlantıyı kullanabilirsiniz: (bkz: <a class="b" href="/?q=ben+emrah+safa+g%c3%bcrkan+sorular%c4%b1n%c4%b1z%c4%b1+cevapl%c4%b1yorum%2f%40emrah+safa+gurkan">ben emrah safa gürkan sorularınızı cevaplıyorum/@emrah safa gurkan</a>)<br/><br/>not: soru cevap etkinliğini mobil ve web tarayıcınızdan takip edebilirsiniz.
-  entry_channels: ekşi-sözlük
-- entry_name: |
     banka hesabında 10 milyon tl görünce yapılacaklar
   entry_id:  92472131
   entry_writer: tasaltinda kurba
-  entry_fav_count: 80
+  entry_fav_count: 88
   entry_content: |
     9,996,000 görebilirim. - 4000 maaş hesabım.
   entry_channels: anket,ekonomi
 - entry_name: |
-    işverenin biz bir aileyiz mesajı vermesi
-  entry_id:  92440831
-  entry_writer: annebenmanyagim
-  entry_fav_count: 73
+    cem yılmaz vs enes batur
+  entry_id:  92461920
+  entry_writer: nebiliyimolcmedimki
+  entry_fav_count: 84
   entry_content: |
-    bok ailesin kodugum evladi. isine gelmeyince kut diye cikariyosunuz ibneler. aile dedigin cocugu sokaga mi atar.
-  entry_channels: ilişkiler
+    (bkz: <a class="b" href="/?q=enes+batur+kim+amk">enes batur kim amk</a>)
+  entry_channels: magazin
 - entry_name: |
     tc ibaresi bölücülüktür
   entry_id:  92460836
   entry_writer: cok guzel peynirim var abla
-  entry_fav_count: 64
+  entry_fav_count: 73
   entry_content: |
     vatan millet ümmet osmanlı sevdalısı aktrolleri piste alalım lütfen. <br/><br/>neyse nasılsa buna tepki göstermeyecekler. en iyi çocukları pistten alalım lütfen
   entry_channels: siyaset,haber
 - entry_name: |
-    iş hayatında çalışmaktan tiksindiren şeyler
-  entry_id:  92438915
-  entry_writer: yogayapanshrek
-  entry_fav_count: 50
-  entry_content: |
-    efendim bu kardeşiniz 10 yıllık satışçı.<br/>şu anda da bursa da bölge satış müdürlüğü yapıyor.<br/>öyle aman aman birşey değil he. bildiğin it gibi müşteri ziyareti falan yapıyoruz makine satacağız diye. her gün en az 4,5 kişiye aynı şeyleri anlatmaktan gına geldi.<br/><br/>bu bile başlı başına işkence ama asıl anlatacağım farklı.<br/>benim inegöl’de bir bayim var.<br/>olmaz olsun bu herifleri benden önceki bölge müdürü bayi yapmış. adamlar ne müşteri gezer, ne satış yapar. ne de aldığı malın parasını zamanında öder.<br/>bu abileri geçen hafta ziyaret ettim. bir süredir uğramıyordum çünkü içimi bayıyorlardı hep aynı bahaneleri ürettiklerinden.<br/>neyse efendim. ortaklardan biriyle çay, kahve, sohbet derken diğer kılkuyruk ortak geldi.<br/>bu arkadaş her daim agresif konuşan ve sürekli elleri kolları oynayan, taleplerimize hep planlarımız var, hazırlıklarımızı tamamlıyoruz diye bahaneler uyduran değişik bir tip.<br/><br/>standart bayi bahaneleri dinlememe müteakip ortam gerilmeye başladı.<br/>diğer ortak bu manyağı kaş gözle yetmedi direkt müdahale ederek sakinleştirmeye çalışsa da başarılı olamadı.<br/>bu değişik tip en sonunda zıplayıp küfürler etmeye ve beni kovmaya hatta üzerime yürümeye kadar götürdü olayı.<br/><br/>şimdi tam o anda zihinsel bir gel git yaşadım kendi içimde.<br/>suratıma karşı küfür edip boyuna posuna bakmayan bu yavşağın ağzını burnunu kırmakla , bayisini döven bir bölge müdürü olmamak ve aklı selim davranmak arasında.<br/>yuttum maalesef küfürleri ve dükkandan çıkıp gittim.<br/><br/>ve bir sonraki müşteri ziyaretime doğru arabamı sürerken işte tam da o an iş hayatında çalışmaktan gerçekten tiksindiğimi gerçekten anladım.<br/><br/>ulan yavşak, ulan göt ben orada firmamın temsilcisi değilde kendi firmamın sahibi olarak bulunsaydım görürdün kim kimin .mına koyuyor.<br/><br/>neyse efenim bu da böyle boktan bir anımdır.
-  entry_channels: anket,ekonomi
-- entry_name: |
     boşanmış bir kadınla evlenmek
   entry_id:  92468828
   entry_writer: dark2lien
-  entry_fav_count: 47
+  entry_fav_count: 50
   entry_content: |
     <a class="b" href="/?q=hz.+muhammed">hz. muhammed</a>'in yaptığıdır.
   entry_channels: ilişkiler
 - entry_name: |
+    2019 ekonomik krizi
+  entry_id:  92450562
+  entry_writer: kubbanito
+  entry_fav_count: 44
+  entry_content: |
+    (bkz: <a class="b" href="/?q=2019+haziran%27da+i%c5%9fsiz+say%c4%b1s%c4%b1nda+tarihi+rekor%2f%40kubbanito">2019 haziran'da işsiz sayısında tarihi rekor/@kubbanito</a>)<br/><br/>işkur verilerine göre işsiz sayısı mayıs ayında 4 milyonken, haziran ayında 4 milyon 400 bine çıkarak türkiye tarihindeki en yüksek işsiz sayısına ulaşıldı. <a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/turkiye-de-kayitli-issiz-sayisi-rekor-kirdi,830056" title="https://t24.com.tr/haber/turkiye-de-kayitli-issiz-sayisi-rekor-kirdi,830056">kaynak</a><br/><br/>bu arada bunlar resmi rakamlar. yani sadece önceki ay "ben işsizim, bana iş bulun." diye işkur'a başvuranların sayısı. önceki ay başvurmayanlar bu sayıya dahil değil. gerçek sayı çok daha fazla yani.<br/><br/>gerçekten başkanlık sistemine geçince çok güzel şahlandık. her önemli olayı takip edip not alıyorum. bakın başkanlık nasıl ve kime şahlanmış:<br/>(bkz: <a class="b" href="/?q=24+haziran+2018+se%c3%a7imlerinden+sonra+ya%c5%9fananlar%2f%40kubbanito">24 haziran 2018 seçimlerinden sonra yaşananlar/@kubbanito</a>)<br/><br/>biz açlıktan, işsizlikten kırılırken, insanlar intihar ederken bakın rte nasıl yaşıyor:<br/>(bkz: <a class="b" href="/?q=rte+vs+di%c4%9fer+d%c3%bcnya+liderleri+konvoy+ve+konutlar%c4%b1%2f%40kubbanito">rte vs diğer dünya liderleri konvoy ve konutları/@kubbanito</a>)
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     ideal kadın boyu
   entry_id:  92450467
   entry_writer: bozkirin kalbini hizlandiran mizrak
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     erkeğin çene hizasını geçmeyecek ki sarıldıklarında kadın kafasını erkeğin omzu ile boynu arasına yaslayabilsin. kriterim budur.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    cem yılmaz vs enes batur
-  entry_id:  92470501
-  entry_writer: crazyspecialist
-  entry_fav_count: 38
-  entry_content: |
-    hagi ile tarık çamdal kıyaslaması daha anlamlı olurdu diyeyim oradan pay biç. <br/><br/>tanım : saçma kıyaslama.
-  entry_channels: magazin
-- entry_name: |
-    kısacık saçlı kadınlar
-  entry_id:  92467863
-  entry_writer: bagdatnights
-  entry_fav_count: 37
-  entry_content: |
-    kısa saç her kadının harcı değildir.tartışmasız yüz güzelliği ister.saç kısaldıkça yüz ortaya çıkar ve yüzünüzde beğenmediğiniz yerler varsa (mesela burnunuz) ortaya çıkar.
-  entry_channels: anket,ilişkiler,moda
-- entry_name: |
-    topçam otobüs firması rezaleti
-  entry_id:  92473511
-  entry_writer: ladygaga
-  entry_fav_count: 36
-  entry_content: |
-    9 temmuz da inegöl'den tokat'a gitmek için internet sitesinden 3 gün önceden saat 18:15'e otobüs biletimi aldım. daha sonra gün geldi ve terminale ailemle beraber gittik. saat 18:15 oldu otobüs yok, 18:25 oldu hala yok. ben bir aksilik olmuştur bekleyelim gelir diye bir 10 dakika daha bekledim fakat halen gelen giden yoktu. en sonunda yazıhaneye gittim ve 18:15'de olan otobüsümün hala gelmediğini söyledim. yazıhanede ki çalışan bursa'yı aradı ve bursada ki çalışanlar inegölde yolcu olduğunu unuttuk, geri dönemeyiz deyip yapacak bir şey yok dediler. böyle bir şey nasıl olabilir dedim. inegöl de ki çalışan benim suçum değil deyip topu bursa'ya attı. yinede sinirlerime hakim olup hoş görüyle karşıladım ve biletimi 10 temmuz 18:15'e 46 numaraya rezerve ettirdiler. asıl olay bundan sonra başlıyor..dün 03:52'de rezerve edilen koltuğumun 06:15'de iptal olacağına dair mesaj geldi ama ben bu mesajı fazla dikkate almadım çünkü bursadakiler beni not aldığını söylemişlerdi. saat geldi ve tekrardan yola çıkabilme umuduyla terminale gittim. bu sefer ilk işim yazıhaneye uğrayıp geldiğimi haber vermekti. yazıhanede ki çocukla olan muhabbetimi aynen yazacağım size yazıhane (y), ben (b).<br/><br/>b: merhabalar, dün gelmiştim hani otobüs beni unutup gitmişti koltuk ayırtmıştınız, son durum nedir?<br/><br/>y: evet sizin koltuğu ayırttım ama sanırım sabah rezervasyonun düşmüş şoförle konuşacağım.<br/><br/>b: nasıl yani? madem rezervasyon düşecek neden bileti satın almış gibi göstermediniz?<br/><br/>y: biletini internetten aldığın için ben çok karışamıyorum, şuan yer ayırtabilmem için senden para almam gerekli ondan deyip gel otobüsü bekleyelim dedi ve dışarı çıktık.<br/><br/>çocuk dışarıda 2-3 dakika bekleyip içeri gitti. o gittikten hemen sonrada otobüs geldi bavulumu verdim ve şoföre durumu anlattım. ş (şoför)<br/><br/>b: benim normalde 8 temmuz da otobüse binmem lazımdı ama siz beni unutup gidince bugüne sarktı ben hangi koltuğa oturacağım. (bu arada yazıhanede ki çocuk hala piyasada yok.) <br/><br/>ş: ne koltuğu kardeşim, yer yok otobüs full.<br/><br/>b: ee ne yapayım ben şimdi? benim suçum mu? bu üslup ne şimdi?<br/><br/>ş: başka zaman gidersin ne olacak. (konuşma tarzını bir görseniz tam bir yobaz)<br/><br/>b: dün sizin işgüzarlığınız yüzünden gidemedim. başka zaman gidersin de ne demek? benim acil bir işimde olabilirdi bu ne bencillik ya?<br/><br/>daha sonra muavin geldi ve ona da durumu anlattım beraber yazıhaneye gittik. giderken de muavin yolda yapacak bir şey yok otobüs full deyip duruyordu. yazıhaneye geldik çocukla konuştu. bu da bir işe yaramadı tabi. muavin de yer yok yapacakta bir şey yok deyip gitti. ben deliye döndüm ve direkt bursayı aradım. bursadakiler biz sizi not almıştık nasıl unuttular bilmem ki deyip olayı kapatmaya çalıştılar. daha sonra telefonu kapatıp yazıhanede ki çocuğa paramı geri istiyorum dedim çocukta maalesef artık zaman geçtiği için iade yapamıyoruz dediler. bu tavır ne ya, parasıyla aldığım koltuğa bir türlü ulaşamıyorum, bu rezillik ne bana merkezin numarasını ver dedim. ve merkezin numarasını alıp aradım. oradakiler de bu duruma şok oldular. ve bugüne tekrardan koltuğu rezerve ettirdiler.<br/><br/>bugün gidebilecek miyim, nasıl bir rezillikle karşılaşacağım hiç bilmiyorum. 2 gündür bavullarla garaja git gel rezil oldum. ve birisinin çıkıp en ufak özür bile dilememesi, sanki ben suçluymuşum davranmaları beni çileden çıkarttı. umarım bugün o otobüse binebilirim.<br/><br/>sonunda otobüse binebildim, şuan otobüsteyim lakin bana verilen koltuk başkasına verildiği söyleniyor. ben uzun boylu olduğum için en arka koltuklar harici sığamıyorum, rahat edemiyorum. topçam müdürüyle görüştüm en arkada oturabilirsin dedi. şuan en arkada 44 numarali koltukta yolculuk ediyorum. normalde en arkaya kadın yolcuları da vermezler. sol karşımda kadın yolcular var şaka gibi firma gerçekten. bakalım koltuğum hakkında sorun olacak mı neler olacak bilmiyorum, bekleyip göreceğim.<br/><br/>edit: bu arada eklemeyi unutmuşum bugün beni terminalden almak yerine, tek yolcu olduğum için yoldan aldılar. terminale girmeye bile tenezzül etmediler. eğer topçamdan bilet alacaksanız iki kere düşünün derim.<br/><br/>edit: imla.
-  entry_channels: seyahat
-- entry_name: |
-    adana hafızlık kursu'nun hatıra fotoğrafı
-  entry_id:  92439692
-  entry_writer: crowbar
-  entry_fav_count: 30
-  entry_content: |
-    bazı geri kafalılar küçük çocuk bikini giyip denize girince sorun yok ama bu fotoğrafa rerörö falan demiş, ulan adı üstünde <a class="b" href="/?q=%c3%a7ocuk">çocuk</a>! suda oynamak ister, koşmak ister yüzmek ister. bundan doğal ne var? zihninin en açık ve aktif olduğu yaşlarda ona anlamını bilmediği başka bir dilden cümleleri anlamını bile açıklamadan ezberletmekle gurur mu duyuyorsunuz?<br/>bir de bunu din düşmanlığına mı yorumluyorsunuz?<br/>burda "çocuklar kuran öğrenmesin" diyen tek kişi var mı? birazcık daha büyüsün, anlamını öğrenebilecek yaşa gelsin öyle öğrensinler. yoksa başka bir kaygınız mı var da illa bebek yaştan oraya getiriyorsunuz?<br/>mesele yaşın bunun için çok küçük olması. tepki buna. ve bunu çocukların dans, yüzme, spor yapması ile karşılaştıran ve buna karşı çıkan zihniyet. <br/>adam 5 yaşında çocuğun bikinili suya girmesini müstehcen buluyor lan! bundan daha tehlikeli bir şey mi var?<br/>o çocuklar timsahla, piranayla yüzse emin olun bu zihniyetteki yobazlarla suya girmelerinden daha güvenli!
-  entry_channels: siyaset,haber,eğitim
-- entry_name: |
     geceye bir kayıp 90'lar popçusu bırak
   entry_id:  92478085
   entry_writer: yok edin insanin insana kullugunu
-  entry_fav_count: 28
+  entry_fav_count: 34
   entry_content: |
     (bkz: <a class="b" href="/?q=ak%c4%b1n">akın</a>)<br/><br/>gidelim gel hadi senle bu gece<br/>rebekanın yerine<br/>götürelim rakı fazlasıyla<br/>gel canım yakışır sana<br/><br/>nasıl da güzel bir şarkıdır.
   entry_channels: müzik
+- entry_name: |
+    ispanyolca bir kelime yaz
+  entry_id:  92474410
+  entry_writer: balthasar van der ast
+  entry_fav_count: 32
+  entry_content: |
+    (bkz: <a class="b" href="/?q=los+pollos+hermanos">los pollos hermanos</a>)
+  entry_channels: anket,edebiyat
+- entry_name: |
+    sesi ile tipi tezat olan insanlar
+  entry_id:  92479734
+  entry_writer: voyager altin plak
+  entry_fav_count: 30
+  entry_content: |
+    (bkz: <a class="b" href="/?q=midyeci+ahmet">midyeci ahmet</a>)<br/><br/>adamdan bayağı kalın, boru gibi ses ve biraz doğu şivesi bekliyordum; herif resmen ana haber spikeri gibi konuşuyor.
+  entry_channels: anket
+- entry_name: |
+    bir daha onu sevdiğim gibi kimseyi sevemem hissi
+  entry_id:  92441780
+  entry_writer: omantanrem
+  entry_fav_count: 29
+  entry_content: |
+    bir de bunun “onun beni sevdiği kadar kimse sevemez” versiyonu vardır ki evlerden ırak.
+  entry_channels: ilişkiler
 - entry_name: |
     türkiye'nin en kötü bankasını seçiyoruz
   entry_id:  92438845
@@ -274,6 +226,14 @@ data:
   entry_content: |
     birkaç yazar arkadaş iş bankası demiş, şaka yapmışlar herhalde. iki senedir tek bir şikayetim yok ne bankadan ne web sitesinden ne mobil uygulamadan. <br/><br/>iş bankası adamdır.
   entry_channels: anket,ekşi-sözlük,ekonomi
+- entry_name: |
+    selanikten göçüp suriyeli mazlumlara söven tip
+  entry_id:  92483412
+  entry_writer: marx i tecavuz eden redkit
+  entry_fav_count: 27
+  entry_content: |
+    türk ile suriyeli ayrımı yapamayan aktrol sıçmığı. <br/><br/>osmanlıyı emperyalizme satan, ülkesini bir avuç teröriste teslim eden tipler ile türkleri bir tutan en büyük haindir.
+  entry_channels: siyaset
 - entry_name: |
     ekşi itiraf
   entry_id:  92438329
@@ -291,28 +251,12 @@ data:
     evde kedi beslemeyen yazar beyanı.<br/><br/>bir kere kedi bin yıllar öncesinden evcilleşmiş mi? evet. ha bu evcilleşme tabii ki evin içi değil ama o buna da uyum sağlamış zamanla. ayrıca onun doğal ortamı içinde cam kırıkları olan çöp kutuları mı? asfalt mı? <br/><br/>hem kediyi istediğimiz zaman sevemiyoruz. böyle bir dünya yok yani kedisi olan herkes bilir kedimin bokunu temizlememe rağmen suratıma bakmazdı.
   entry_channels: ilişkiler
 - entry_name: |
-    ispanyolca bir kelime yaz
-  entry_id:  92474410
-  entry_writer: balthasar van der ast
-  entry_fav_count: 24
-  entry_content: |
-    (bkz: <a class="b" href="/?q=los+pollos+hermanos">los pollos hermanos</a>)
-  entry_channels: anket,edebiyat
-- entry_name: |
     almanca bir kelime yaz
   entry_id:  92473023
   entry_writer: yorgun herakles
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     sözlüğün amına koydunuzgen.<br/><br/>böyle yarrak kürek başlık açanlara bakıyorum 10-20 entrysi olan, geçen hafta yazar olmuş kişiler. şu sözlüğün formatını anlamayan insanları yazar yaparak siktiniz sözlüğü ey yönetim.<br/><br/>edit: sözlükte (bkz: <a class="b" href="/?q=%c3%bcstteki+yazar%c4%b1n+e%c5%9fkalini+tarif+etmek">üstteki yazarın eşkalini tarif etmek</a>) gibi bir başlık gördü bu gözler. sözlüğün bilgi kaynağı olmaktan çok çok uzaklaştığı kesin
-  entry_channels: anket
-- entry_name: |
-    sesi ile tipi tezat olan insanlar
-  entry_id:  92479734
-  entry_writer: voyager altin plak
-  entry_fav_count: 21
-  entry_content: |
-    (bkz: <a class="b" href="/?q=midyeci+ahmet">midyeci ahmet</a>)<br/><br/>adamdan bayağı kalın, boru gibi ses ve biraz doğu şivesi bekliyordum; herif resmen ana haber spikeri gibi konuşuyor.
   entry_channels: anket
 - entry_name: |
     fransızca bir kelime yaz
@@ -339,28 +283,44 @@ data:
     krep
   entry_channels: anket,yeme-içme
 - entry_name: |
-    azerbaycan türkçesinde bir kelime yaz
-  entry_id:  92480769
-  entry_writer: arycanda
-  entry_fav_count: 10
+    ömer günel'in melih gökçek'e yolladığı füze
+  entry_id:  92483293
+  entry_writer: kavimleringoctuguadam
+  entry_fav_count: 13
   entry_content: |
-    süleyman demirel’in onuruna bakü’ de görkemli bir yemek veren haydar aliyev, demirel için ne kadar övgüye değer söz varsa hepsini söyler. <br/>bu övgü dolu sözlerinin içinde haydar aliyev, demirel için “<a class="b" href="/?q=pezevenk">pezevenk</a>” sözcüğünü çok sık vurgular,<br/>azeri dilinde pezevenk sözcüğünün kelime anlamı “başarılı yetenekli’ anlamındadır.<br/>böylesi görkemli yemekte haydar aliyev “süleyman gardaşım dünyanın gelmiş geçmiş en başarılı siyasi pezevengi” der ve ekler:<br/>‘kadehimi de değerli pezevenk gardaşımın ve heyetinin onuruna kaldırıyorum” <br/><br/>bu sözler demirel ve heyetinde bulunan siyasiler, gazeteciler arasında, türk heyetinde büyük gülüşmelere neden olur. <br/>haydar aliyev’den sonra konuşma sırası demirel’e gelir, demirel de devlet adamına yakışır diplomatik bir dille ve<br/>kendine münhasır espri yeteneğiyle haydar aliyev’e döner ve bombayı patlatır;<br/><br/>“sen de az pezevenk değilsin!”<br/><br/>kelime olmadı ama, idare edin.
-  entry_channels: anket
+    <a class="b" href="/?q=ku%c5%9fadas%c4%b1+belediye+ba%c5%9fkan%c4%b1">kuşadası belediye başkanı</a> <a class="b" href="/?q=%c3%b6mer+g%c3%bcnel">ömer günel</a>'in, melih gökçek'in attığı çamuru alıp yüzüne çarpması olayı. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/omergunel/status/1149364898163507200" title="https://twitter.com/omergunel/status/1149364898163507200">twitter link</a><br/><br/>yandaş <a class="b" href="/?q=a+haber">a haber</a>'in yalan videosunu paylaşan gökçek, engellediği ömer başkan'dan ayarı yemeden duramamış. içimin yağları eridi.
+  entry_channels: siyaset,haber
 - entry_name: |
-    hd iskender kampanya rezaleti
-  entry_id:  92442613
-  entry_writer: ramoli
+    sevişirken parmağıyla klitorisi uyaran erkek
+  entry_id:  92482405
+  entry_writer: neverhide
   entry_fav_count: 8
   entry_content: |
-    ulan adam başlık açmış başkaları aynı durumu yaşamasın,böyle fırsatçılara prim vermeyin demek istemiş hala <a class="b" href="/?q=derdini+sikeyim+butonu">derdini sikeyim butonu</a> yazan var...<br/><br/>hd iskender 20 gram et için binbir takla atıyor o sorun değilde buraya yazınca mı sorun oluyor gidin hd iskender'in derdini sikin..
-  entry_channels: yeme-içme
+    otuz dakikadır gidip gelerek 1-2 kere boşalmasını ertelediyse ve kadının boşalmasını da önemsiyorsa son çare olarak 'e hadi artık amına kodumun' hareketidir. bazı kadınlar böyle maalesef, kimse boşaltamamış demesin boşalan bu sürede 3-4 kere boşalıyor. boşalmak ne saçma kelimeymiş mk yazdıkça soğudum.
+  entry_channels: ilişkiler
 - entry_name: |
-    şu an okunan kitap
-  entry_id:  92481675
-  entry_writer: metiss
+    sahibinin sesiyle okunan cümle
+  entry_id:  92483718
+  entry_writer: besteceeu
   entry_fav_count: 6
   entry_content: |
-    george orwell - hayvan çiftliği
+    (bkz: <a class="b" href="/?q=tut+%c5%9funun+ucunu+d%c3%b6%c5%9feyelim+abi">tut şunun ucunu döşeyelim abi</a>)
+  entry_channels: anket
+- entry_name: |
+    ali babacan
+  entry_id:  92472644
+  entry_writer: marazi
+  entry_fav_count: 5
+  entry_content: |
+    bu adama ekonominin bu hale gelmesinin nedeni diyenler şu alttaki yazıyı bir açıp okusunlar. 2012den itibaren bakanlığı sürse de itibarsızlaştırılan susturulan yetkileri hiçe sayılan hatta meydanlarda halka şikayet edilen vatan haini ilan edilen bir bakan ve ekibi vardı. en son çılardığı ekonomide şeffaflık programı ekonomiyi kurtarmaya yönelik son hamlesiydi. bu program kapsamında yapacağı reform ve iyileştirmeler rte etrafındaki menfaat gruplarını rahatsız etti şikayet edildi rteye bizzat bunun üzerine kaç kez istifasını sundu ama kabul edilmedi. neden? rte görevden alır çünkü öyle bir ego var herifte. şimdi gelinen nokta arkamızdan hançerlendik ümmeti<br/>parçalıyorlar. öyle mi? hadi yaa. elinin altında olmasına alışmış herkesi mal gören bir adama ters köşe yapınca böyle oluyor demek. <br/>[http:/m.hurriyet.com.tr/yazarlar/erdal-saglam/dpt-ciler-kritik-virajda-27506777 erdal sağlam ın yazısı]
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    şu an okunan kitap
+  entry_id:  92472720
+  entry_writer: dreamworld
+  entry_fav_count: 4
+  entry_content: |
+    <a class="b" href="/?q=homeros">homeros</a> - <a class="b" href="/?q=ilyada">ilyada</a><br/><br/>geç bile kaldım :(
   entry_channels: anket,edebiyat,eğitim
 - entry_name: |
     rock ve metal müzik seven sözlükçüler
@@ -370,6 +330,14 @@ data:
   entry_content: |
     38 yaşında bir <a class="b" href="/?q=slayer">slayer</a> fanı olarak içinde bulunduğum komünitedir.
   entry_channels: anket,ekşi-sözlük,müzik
+- entry_name: |
+    azerbaycan türkçesinde bir kelime yaz
+  entry_id:  92479607
+  entry_writer: ozhakikitosunpasa
+  entry_fav_count: 3
+  entry_content: |
+    körpe gezintide(bebek firarda)
+  entry_channels: anket
 - entry_name: |
     11 temmuz 2019 twitter'ın çökmesi
   entry_id:  92480706
@@ -387,6 +355,14 @@ data:
     yoksa, o arı sen misin?
   entry_channels: sinema,spoiler
 - entry_name: |
+    geceye bir film tavsiyesi bırak
+  entry_id:  92481967
+  entry_writer: convallariamajalis
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=hidden+figures">hidden figures</a>)
+  entry_channels: anket,sinema
+- entry_name: |
     bir ingilizce kelime yaz
   entry_id:  92445650
   entry_writer: regina phalange
@@ -395,11 +371,35 @@ data:
     <a class="b" href="/?q=serendipity">serendipity</a> <br/><br/>en sevdigim ingilizce kelime
   entry_channels: anket,eğitim
 - entry_name: |
-    geceye bir film tavsiyesi bırak
-  entry_id:  92481967
-  entry_writer: convallariamajalis
+    sevişirken eski sevgilinin adını söylemek
+  entry_id:  92482565
+  entry_writer: diyezonbir
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=hidden+figures">hidden figures</a>)
-  entry_channels: anket,sinema
+    bir arkadaşımın başına gelmiştir, karşı taraf ise olayı uzatmıştır ve haklıdır. günlük yaşantıda bu olabilir, sonuçta hepimiz insanız. amma velakin sevişme esnasında büyük sıkıntıdır, geçmiş olsun demek lazım.
+  entry_channels: ilişkiler
+- entry_name: |
+    geceye bir şarkı bırak
+  entry_id:  92485265
+  entry_writer: mariachi52
+  entry_fav_count: 0
+  entry_content: |
+    “alanis morissette - ironic”
+  entry_channels: anket,müzik
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  92481195
+  entry_writer: evillive
+  entry_fav_count: 0
+  entry_content: |
+    ortalama kaç dakikada bir seks aklınıza geliyor?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  92461632
+  entry_writer: polat2345
+  entry_fav_count: 0
+  entry_content: |
+    beklerim sıkıldım iki laf ederiz
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
