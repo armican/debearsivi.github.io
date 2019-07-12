@@ -6,7 +6,7 @@ data:
     s500 varken s400 almak
   entry_id:  92506082
   entry_writer: coder
-  entry_fav_count: 821
+  entry_fav_count: 843
   entry_content: |
     s500 henüz satışa çıkmadığı için olabilir. 2 sene daha bekleyip s600 almak da mantıklı olabilir. tabi bunlar mcdonald's menüsü ya 1 lira farkla büyük boy seçim yapabiliyoruz...
   entry_channels: siyaset
@@ -14,23 +14,15 @@ data:
     pucca'nın yedi yıl hapis cezası alması
   entry_id:  92502300
   entry_writer: su anda calan sarki
-  entry_fav_count: 808
+  entry_fav_count: 821
   entry_content: |
     kırmızı bültenle aranan teröristi devlet kanalına çıkaranlara hala maaş veren devletin böyle saçma bir olay için 7 yıl vermesi gerçekten ibretliktir.<br/><br/>pukka kim bilmem, etmem ama bir tweet ile uyuşturucuya başlamak ne bileyim!?<br/><br/>edit; arkadaşlar yeter!! suç teşkil ettiği hususunda bir beis yok sadece ağır bir karar olduğunu düşünüyorum.<br/><br/>edit2; bugün bu entry için en az 100 mesaj yazdım. evet arkadaşlar bu pukka<sup class="ab"><a title="(bkz: pucca)" href="/?q=pucca" data-query="pucca">*</a></sup> denen şahsın yaptığı suç. yalnız benim anlam veremediğim ve bazılarınızın ısrarla görmezden geldiği şey şu; muhalif insanlar işledikleri suçun cezasını en kısa sürede çekerken yandaş olanlar neden görmezden geliniyor? mesela yine yukarıda bahsettiğim terörist osman öcalanın devlet televizyonuna çıkarılmasına neden bu kadar hassasiyet göstermediniz? o piçin ve o piçi o kanala çıkaranların alması gereken cezayı hesaplamadınız? o piçin elinde kaç şehidin kanı var neden saymadınız?<br/><br/>(bkz: <a class="b" href="/?q=rabia+naz+vatan">rabia naz vatan</a>)<br/>(bkz: <a class="b" href="/?q=%c5%9fule+%c3%a7et">şule çet</a>)
   entry_channels: haber,magazin
 - entry_name: |
-    rte'ye gazi unvanı önerisi
-  entry_id:  92498864
-  entry_writer: icinizdenius
-  entry_fav_count: 788
-  entry_content: |
-    (bkz: <a class="b" href="/?q=toplanak+allah+diyek">toplanak allah diyek</a>)
-  entry_channels: siyaset,haber
-- entry_name: |
     s-400'lerin teslimatının başlaması
   entry_id:  92503166
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 706
+  entry_fav_count: 712
   entry_content: |
     (bkz: <a class="b" href="/?q=siparisiniz+kargoya+verilmistir">siparisiniz kargoya verilmistir</a>)<br/><br/>alamazsin dediler getiremezsin dediler abd dediler o dediler bu dediler. particilik bi kenara dursun turkiye cumhuriyeti icin buyuk bi gundur, nasil ki zamaninda ecevit abd'yi dinlemeyip ayseyi tatile cikardiysa ayni sey s 400ler icin de gecerlidir.<br/><br/>erdogani sevmem ama sezarin hakki sezara.
   entry_channels: siyaset,haber
@@ -38,7 +30,7 @@ data:
     12 temmuz 2019 uçakta yer gaspı rezaleti
   entry_id:  92509237
   entry_writer: primus
-  entry_fav_count: 555
+  entry_fav_count: 574
   entry_content: |
     rezalet değilse de bal gibi de can sıkıcı olaydır. bir de aptal yerine koymuş kadına bak ya. aferin kardeşim, yedirme hakkını. ben de olsam aynı şeyi yapardım.
   entry_channels: haber
@@ -46,7 +38,7 @@ data:
     ekşi sözlük norveç klonundan başlıklar
   entry_id:  92511046
   entry_writer: black adam
-  entry_fav_count: 418
+  entry_fav_count: 427
   entry_content: |
     (bkz: <a class="b" href="/?q=12+temmuz+2019+somonla+adam+d%c3%b6vmem">12 temmuz 2019 somonla adam dövmem</a>)
   entry_channels: anket,ekşi-sözlük
@@ -54,39 +46,23 @@ data:
     1989'da gelen bulgarları suriyelilerle gönderelim
   entry_id:  92488543
   entry_writer: ccigarr
-  entry_fav_count: 345
+  entry_fav_count: 348
   entry_content: |
     bulgaristan göçmenleri türk, suriye kaçakları arap diyerek çürüttüğüm önerme. <br/><br/>bulgaristan göçmenleri ana vatanlarına geldi. suriye kaçakları arabistan'a adım bile atamaz.
   entry_channels: siyaset,haber
 - entry_name: |
-    erekte penis ile işemek
-  entry_id:  92503576
-  entry_writer: tixanthrope
-  entry_fav_count: 301
-  entry_content: |
-    hafiften domalarak sik doğrultusunun kuburla çakışması sağlanır. bu esnada ellerin (ya da sikin elle kontrolü gerekiyorsa boşta kalan bir tek elin) duvar, rezervuar gibi bir noktadan destek alması önerilir. bu tekniğin doğru uygulanması sidik tazyiki azaldıkça domalma açısının da -sidik trajektorisinin kuburdan geçmesi durumunu korumak adına- buna koşut olarak azaltılmasını içerir.
-  entry_channels: sağlık
-- entry_name: |
     ekrem imamoğlu'nun cuma namazı paylaşımı
   entry_id:  92514106
   entry_writer: tawes
-  entry_fav_count: 275
+  entry_fav_count: 281
   entry_content: |
     seni rahatsız eden şey ülkede birilerini on yedi yıl iktidar yapıyorsa bi zahmet sus.
-  entry_channels: haber
-- entry_name: |
-    bir yavru kedi için otelime zarar verdiniz
-  entry_id:  92506193
-  entry_writer: angara beyefendisi
-  entry_fav_count: 271
-  entry_content: |
-    kullanmasını bilse, kendine "iyilik" olarak dönecek bir mevzuda, evrene "benden bir bok olmaz" mesajını göndermeyi seçen bir ablanın cümlesi.
-  entry_channels: haber
+  entry_channels: siyaset,haber
 - entry_name: |
     volkswagen'in türkiye'de fabrika açması
   entry_id:  92504080
   entry_writer: eyimis
-  entry_fav_count: 243
+  entry_fav_count: 250
   entry_content: |
     inşallah buna da müşteri garantisi vermemişizdir.
   entry_channels: siyaset,haber,otomotiv,ekonomi
@@ -94,7 +70,7 @@ data:
     sahibinin sesiyle okunan cümle
   entry_id:  92488736
   entry_writer: metiss
-  entry_fav_count: 195
+  entry_fav_count: 198
   entry_content: |
     adama, kişiye, kişilere, gruplara, cemaatlere, vakıflara, derneklere hizmet işi bitti
   entry_channels: anket
@@ -102,7 +78,7 @@ data:
     hem s-400 hem patriotu olan dünyadaki tek ülke
   entry_id:  92517472
   entry_writer: leyleginomru
-  entry_fav_count: 156
+  entry_fav_count: 157
   entry_content: |
     s-400 alınınca türkiyenin süper güç olacağını sananlar, başkanlık sistemi geldiğinde ekonomimizin coşacağını, terörün biteceğini kısaca her konuda süper olacağımızı sananlarla aynı kişiler.<br/><br/>aldığımız füzeler 44 tanesi yedek olmak üzere 186 adet. peki abd son suriye saldırısında kaç adet tomahawk füzesi attı? 150 adet. ayrıca bu, vurana kadar attığı sayıydı, vurmasa devamı gelecekti. hiç öyle hüloggg yapmayın.
   entry_channels: 
@@ -110,7 +86,7 @@ data:
     koltuğu geriye yatırma hakkı
   entry_id:  92519824
   entry_writer: solidsnake
-  entry_fav_count: 128
+  entry_fav_count: 148
   entry_content: |
     bu hak hakkında yapacağınız yorumlar sizin medeniyetsiz bir ayı ve medeni bir birey olduğunuzu gösterecek.<br/><br/>koltuğun geriye yatırılması uzun süren gece yolculukları içindir, öğlen 12'de bindiğiniz araçta yapacağınız 2 saatlik bir yolculukta lap diye yatırıyorsanız müjde, medeniyetsiz bir ayısınız.<br/><br/>arkanızdaki insanı yatırmaya mecbur bırakmak ve domino etkisi ile herkesin yatırmasını istemekse bizim gibi ortadoğu bataklığı ülkelerinde hüküm süren bencilliğin eseridir.<br/><br/>edit : aklıma geldi şöyle bir şey eklemek istiyorum. ben yolda uyuyamam, kısa da olsa uzun da olsa uyuyamam ve kitap okurum. tepemdeki lambanın kullanım hakkı bende olmasına ve uyku tutmamasına rağmen 23:30 gibi o lambayı kaparım ki insanlar rahat uyusun. medeni yaşam böyle bir şey, yapmak istediğim bir şeyi başkalarının hakkını düşünerek yapmamak.
   entry_channels: ilişkiler
@@ -118,47 +94,31 @@ data:
     hutbeyi beğenmiyorum diye cumaya gitmeyen tip
   entry_id:  92513767
   entry_writer: ne clark kentim ne supermanim
-  entry_fav_count: 126
+  entry_fav_count: 133
   entry_content: |
     giden gider, gitmeyen gitmez. ben diyanetin kafasına göre yorumladığı bazı olayları nasıl dinlemek zorunda olabilirim ? adam hutbeye cıkmıs siyaset yapıyorsa ben onu neden dinlemek zorundayım ? islami açıdan tabiki dinlemek zorundayım, ama benim orda almak isteme amacım siyasi söylemler değil. dinle ilgili bilmediğim şeylerden bahsetse daha iyi olmaz mı ? köprüde şehit olan 1 günlük erlerin şehitten sayılmadığı yine 1 günlük erlerin müebbet hapis cezasına çarptırıldığı bir darbe sadece 250 şehit diyerek, konu üzerinden siyasi propaganda yapma yeri camii değildir.
   entry_channels: ilişkiler
 - entry_name: |
-    film tavsiyeleri
-  entry_id:  92487682
-  entry_writer: hanging rock
-  entry_fav_count: 107
-  entry_content: |
-    (bkz: <a class="b" href="/?q=az+ki%c5%9fi+taraf%c4%b1ndan+bilinen+%c5%9faheser+filmler+%2f%40hanging+rock">az kişi tarafından bilinen şaheser filmler /@hanging rock</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6lmeden+%c3%b6nce+izlenmesi+gereken+filmler+%2f%40hanging+rock">ölmeden önce izlenmesi gereken filmler /@hanging rock</a>)<br/>(bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1k+ve+melankoli+ile+ilgili+filmler+%2f%40hanging+rock">yalnızlık ve melankoli ile ilgili filmler /@hanging rock</a>)
-  entry_channels: anket,sinema
-- entry_name: |
     antidepresan mı daha zararlı depresyon mu
   entry_id:  92513187
   entry_writer: wiggin
-  entry_fav_count: 102
+  entry_fav_count: 113
   entry_content: |
     depresyonun tıbbi bir rahatsızlık olduğu kabul edildiğinde anlamsız kalan soru. kalp krizi mi daha zararlı yoksa antihipertansifler mi?<br/><br/>ayrıca aranızda depresyonu can sıkıntısı, moral bozukluğu, post travmatik stres hatta anksiyeteyle karıştıranlar var. onlara cevap üniversitedeki hocamdan gelsin.<br/><br/>"sana depresyonun tanımını yaparsam depresyona girersin"
   entry_channels: sağlık
 - entry_name: |
-    #ardayıistemiyoruz
-  entry_id:  92514336
-  entry_writer: tatsuyuharada
-  entry_fav_count: 97
+    film tavsiyeleri
+  entry_id:  92487682
+  entry_writer: hanging rock
+  entry_fav_count: 108
   entry_content: |
-    babası yaşında adama yumruk atan, milletin karısına sarkan, mahalle kabadayısı edasıyla ortalarda gezinen mental olarak futbolcu olmaması gereken şahıs için benimde görüşüm takımımızda istemiyoruz. ayarlarını bozmayın şu takımın. başakşehir en uygun takımdır senin için orda kal arda.
-  entry_channels: spor
-- entry_name: |
-    1.93 boyunda 64 kilo erkek
-  entry_id:  92504703
-  entry_writer: sakizmezarligi
-  entry_fav_count: 93
-  entry_content: |
-    afrikalılar da 5000 metre koşuyor ama hiç birisi aslında sağlıklı değil. musabık olmayan sevdiği için hobi olarak düzenli spor yapıp 90 kilo olan erkek, 65 kilo olup seke seke merdiven çıkan afrikalının yanında 2 tane 20litrelik damacanayla o merdivenleri 3'er 3'er çıkar. yanındaki çiroz da ağzı açık izler. <br/><br/>ronaldonun 187 boyunda 88 kilo<br/>ibrahimovicin 195 boyunda 95 kilo<br/>usain boltun 192 boyunda 94 kilo <br/>drogbanın 189 olup 90 kilo<br/>robben 180 boyunda olup 80 kilo<br/>rafael nadalın 185 boyunda 86 kilo<br/>messinin 169 boyunda olup 68 kilo olduğundan haberi olmayıp kilo eşittir yağ sanarak cahil cahil tavsiye verir. ulan akıl fukarası messiden 5 kilo eksik olup 20 -25 cm uzunsun ve sağlıklı olduğunu iddia ediyorsun. madem bilmiyorsun cahilsin yahu aklını kullanıp insan önce aynaya bakar , hadi bakıp anlamadın durumu, vücudu güzel olan insanlarla ve sporcularla kendini kıyaslarsın gene doğruyu bulursun.<br/><br/>sağlam kafa sağlam vücutta bulunur.
-  entry_channels: anket,ilişkiler,sağlık
+    (bkz: <a class="b" href="/?q=az+ki%c5%9fi+taraf%c4%b1ndan+bilinen+%c5%9faheser+filmler+%2f%40hanging+rock">az kişi tarafından bilinen şaheser filmler /@hanging rock</a>)<br/>(bkz: <a class="b" href="/?q=%c3%b6lmeden+%c3%b6nce+izlenmesi+gereken+filmler+%2f%40hanging+rock">ölmeden önce izlenmesi gereken filmler /@hanging rock</a>)<br/>(bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1k+ve+melankoli+ile+ilgili+filmler+%2f%40hanging+rock">yalnızlık ve melankoli ile ilgili filmler /@hanging rock</a>)
+  entry_channels: anket,sinema
 - entry_name: |
     serhat osman karagöz'ün tehdit paylaşımı
   entry_id:  92515462
   entry_writer: gecenyinebeynimyok
-  entry_fav_count: 91
+  entry_fav_count: 95
   entry_content: |
     pucca’yı günahım kadar sevmem, kocası da aynı mal ama adamın yazdığı şey tamamen öfkeyle ve çaresizlikle yazılmış. sevdiğiniz biri, çocuğunuzun annesi bomboş bir sebepten hapse girse siz de çok farklı tepki vermezsiniz diye düşünüyorum. goygoy amaçlı bir tweet yüzünden bir insanı 7 sene hapse mahkum etmek absürttür. siz ne derseniz diyin.
   entry_channels: magazin
@@ -166,7 +126,7 @@ data:
     bedelli askerlik dönüşündeki geçmeyen öksürük
   entry_id:  92497552
   entry_writer: mosuruk
-  entry_fav_count: 88
+  entry_fav_count: 89
   entry_content: |
     gelmiş yine tipine osurduklarım. ben 6 ay askerlik yaptım. ben 18 ay yaptım. ben helikopterden helikoptere atlarken şarjör değiştirdim. bu şovmen askerler 3 gün ktm bekletilseler devlete dava açarlar aq.<br/><br/>6 ay poşetlik yaptım, sonrasında astım hastası oldum. doktor kontrollerini aksatma, ömrünün sonuna kadar seninle yaşayacak belki de ölümüne neden olacak bir hastalık kapmış olabilirsin. her şey vatan için nassolsa.
   entry_channels: siyaset,anket
@@ -174,7 +134,7 @@ data:
     12 temmuz 2019 pentagon açıklaması
   entry_id:  92520671
   entry_writer: gunisiginda asili duran toz zerresi
-  entry_fav_count: 76
+  entry_fav_count: 83
   entry_content: |
     başlığı açıyorsun, bari takibini yap; ne oldu, açıklama oldu mu, başladı mı? ertelendi mi? ne dediler? yorumlara bakıyorsun herkes cem yılmaz'ın yan charı gibi komiklikler şakalar. sayfalarca entryden kayda değer hiçbir şey yok.<br/><br/>edito:abd savunma bakanı vekili "teslimatı izliyoruz, f-35'lerle ilgili duruşumuz değişmedi. türk mevkidaşım hulusi akar'la görüşeceğim"<br/><br/>bu şekilde açıklama var. pentogon'un ayrıca bir açıklama yapacağını zannetmiyorum.<br/><br/>edit:imla.
   entry_channels: siyaset,haber
@@ -182,10 +142,18 @@ data:
     youtube reklamlarının artık höh dedirtmesi
   entry_id:  92521166
   entry_writer: morethanwords
-  entry_fav_count: 71
+  entry_fav_count: 82
   entry_content: |
     ben youtube’u televizyonumdan izliyorum.oradan nasıl engellenir acaba?<br/><br/>sana soruyorum sana çok bilmiş adblock kullanan arkadaş.
   entry_channels: teknoloji
+- entry_name: |
+    gelmiş geçmiş en iyi milletvekili
+  entry_id:  92519722
+  entry_writer: gecenyinebeynimyok
+  entry_fav_count: 73
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kamer+gen%c3%a7">kamer genç</a>)
+  entry_channels: 
 - entry_name: |
     dünyanın en karaktersiz futbolcusu
   entry_id:  92505510
@@ -203,14 +171,6 @@ data:
     bu kadar cahilini ilk kez goruyorum. aklima kosova'da roportaj esnasinda konustugu cocuga turkcen baya iyi diyen spiker geldi. <br/>-turkcen cok iyi. <br/>+sen nerelisin dayi. ıstanbul mu?<br/>-evet?<br/>+istanbul 1453 yilinda turk oldu kosova 1389 yilinda :))<br/><br/>sizin ummetci cehaletinize biz balkan turklerini yedirmeyiz lan!
   entry_channels: siyaset,anket
 - entry_name: |
-    gelmiş geçmiş en iyi milletvekili
-  entry_id:  92519722
-  entry_writer: gecenyinebeynimyok
-  entry_fav_count: 62
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kamer+gen%c3%a7">kamer genç</a>)
-  entry_channels: 
-- entry_name: |
     12 temmuz 2019 cuma hutbesi
   entry_id:  92508316
   entry_writer: amokhaci
@@ -222,7 +182,7 @@ data:
     fernando francisco reges
   entry_id:  92495292
   entry_writer: hicbisikimikabuletmiyon
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     fernandoyu satmak : kötü<br/><br/>fernandoyu 4.5 m.euroya satmak:kötü<br/><br/>fernandoyu 32 yaşındayken 4.5'a satmak: iyi<br/><br/>fernandoyu 32 yaşında ve 1 yıl sözleşmesi kalmışken 4.5'a satmak : çok iyi
   entry_channels: spor
@@ -230,26 +190,26 @@ data:
     chp'de neler oluyor
   entry_id:  92519202
   entry_writer: jurukhai
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     işlerini düzgün yapsınlar, hırsızlık yapmasınlar da ister cumaya gitsinler ister krem peynire tapsınlar; ister çay içsinler ister <a class="b" href="/?q=kokoyin">kokoyin</a> çeksinler umurumda değil.<br/>partizanlığın modası geçti artık, mesele memleket meselesi.
   entry_channels: 
 - entry_name: |
-    boşanmış bir kadınla evlenmek
-  entry_id:  92488702
-  entry_writer: nickitamm
+    reynmen
+  entry_id:  92522007
+  entry_writer: faze
   entry_fav_count: 50
   entry_content: |
-    eşimin yaptığı eylemdir.hem de çocuklu bir kadındım.eşim ise hiç evlenmemiş üstelik benden beş yaş küçüktür gayette mutlu huzurluyuz.saçma sapan tespitlerinizi kendinize saklayın.
-  entry_channels: ilişkiler
+    ucuz yırtmışız moruk. düşünsene <a class="b" href="/?q=2000">2000</a>'den sonra doğan <a class="b" href="/?q=10+iq%27lu+bir+velet">10 iq'lu bir velet</a> olduğunu. önünde bu ayak takımı tek seçenek. ne popülerse sende onu takip ediyorsun çünkü veletsin çünkü 2000'lisin.<br/><br/><a class="b" href="/?q=1990+nesli">1990 nesli</a> olarak ucuz yırttık. sokakta bütün mahallenin katılımı ile saklambaçta oynadık, ağaçlara da tırmandık, başımızı da kırdık. ama 2000'li nesil bunları göremedi. hızlı şehirleşme, internetin ve teknolojinin hayatımıza bu kadar hızlı girmesi ile aynı fanusda yaşayan balıklar gibi yetişiyorlar. <br/><br/>gerçek hayat onlar için <a class="b" href="/?q=instagram">instagram</a>, <a class="b" href="/?q=youtube">youtube</a> olmuş. sanatçı kişiler onlar için <a class="b" href="/?q=enes+batur">enes batur</a>, <a class="b" href="/?q=reynmen">reynmen</a>, <a class="b" href="/?q=danla+bilic">danla bilic</a> olmuş.<br/><br/>üzülüyorum sözlük, böyle olmamalıydı. yinede bizim neslimiz ucundan yırttı, kendimizi şanslı hissetmeliyiz.
+  entry_channels: tv
 - entry_name: |
-    ekrem imamoğlu'nun amedspor paylaşımı
-  entry_id:  92504704
-  entry_writer: umursamazgenc
-  entry_fav_count: 47
+    sivas'ta ufo görülmesi
+  entry_id:  92502449
+  entry_writer: redbassman
+  entry_fav_count: 49
   entry_content: |
-    hazımsız ve inkar politikası ile hayatına devam edenleri bir araya getiren başlık.<br/><br/>amedspor tff'nin onay verdiği, türkiye'de futbol oynayan legal bir spor kulübüdür.<br/><br/>siz kabul etseniz de, etmeseniz de bu böyle.<br/><br/>ekrem başkan çok ince düşünmüş. amedspor yönetimini de tebrik etmek gerekiyor. <br/><br/>ayrıca; size küfür etmemem, haketmediğiniz anlamına gelmiyor.
-  entry_channels: siyaset,haber
+    sivasa dünyalı gitmiyor uzaylının ne işi var
+  entry_channels: magazin
 - entry_name: |
     kürt erkeğinin en yetenekli olduğu konu
   entry_id:  92494035
@@ -275,61 +235,45 @@ data:
     l'equipe gazetesine göre 120 milyon euroluk serbest kalma bedelinin ödenmesi ile barcelona'ya transfer olan oyuncu. bence barcelona gene bir hata yaptı ve deli gibi ihtiyaç duymadığı bir oyuncuya dünyanın parasını ödedi. hiçbir şekilde sisteme uymayacak, tam tersine üzerlerine sistem kurulacak oyuncuları transfer edip duruyor barcelona. ernesto valverde son 2 senedir ne kadar yetersiz olduğunu göstermesine rağmen hala inanılmaz futbolcuları bu adama emanet ediyorlar ya pes.<br/><br/>hoca 2 senedir 3 farklı avantajla girdiği eşleşmeleri veriyor, takımın sağ beki aslında orta saha olup sağ bekte yetersiz kalan sergi roberto, takım messi'siz solda sıfır ama hala valverde'ye sonsuz bir güven duyuluyor. coutinho inatla vasatı aşamadığı sol açıkta oynuyor, takımın tavanı en yüksek oyuncusu dembele andrew wiggins cosplayi haline gelmiş durumda. sağ kanat roberto'dan dolayı işlemediği için sürekli sol kanattan hücum ediliyor. sorun üstüne sorun var takımda. ve hoca bu sorunların hiçbirine sorun üretecek vasıfta değil, messi'nin la liga'yı domine etmesiyle yolunu buluyor. takıma orta saha için coutinho, arthur, vidal, paulinho getirtti ama hala orta sahaya muhtaçlar, yeni gelen frenkie de jong'un işi çok zor. messi ve suarez temelli bir takım oluşturduğu için malcom, deulofeu, coutinho, dembele gibi hücum oyuncularının hiçbirinden yararlanamayıp her birini geriye götürüyor ve verimlerini düşürüyor. benim 3 sene önce dortmund'daki ikinci veya üçüncü maçında izlediğim dembele 3-0'lık liverpool maçındaki dembele'nin 10 misli iyi topçuydu. watford'da hayatının topunu oynayan deulofeu'yu doğru düzgün bir yedek olarak bile kullanamadı. ama en vahimi kesinlikle malcom transferiydi. transferi uğruna avrupa'da son yıllarda görülen en ağır transfer kazığını roma'ya attı barcelona ancak valverde'nin istememesi üzerine adam resmen aforoz edildi takımdan, aşırı rotasyona gitmedikçe de fırsat vermedi. rotasyon yok diye gitti avrupa'nın en sorunlu adamı olan kevin prince boateng'i getirtip oynattı ama malcom'u oynatmadı adam. barcelona'nın başında böyle bir beceriksiz var işte.<br/><br/>griezmann da bir anda çakılır, 2 sene sonra da ne kadar faydasız ve barcelona sistemine uymayan bir oyuncu olduğu fark edilip şutlanır/şutlanmaya çalışılır. takımın başındaki adam değişmedikçe biz aynı filmi izlemeye devam ederiz, buna hiç şüphem yok. messi ve ter stegen haricinde herkes performans olarak yerlerde, messi gibi bir maestro olmasa ne la liga şampiyonu olurlar ne şampiyonlar ligi'ne aday olurlar. resmen camia çocuğu ayağına tüm süprüntü hocalara şans veriyorlar, valverde sonrasında da bu değişmeyecek muhtemelen. kabak da messi'nin futbolu bırakmasının ardından takımın başına geçen adama patlayacak.
   entry_channels: spor
 - entry_name: |
-    reynmen
-  entry_id:  92522007
-  entry_writer: faze
-  entry_fav_count: 32
-  entry_content: |
-    ucuz yırtmışız moruk. düşünsene <a class="b" href="/?q=2000">2000</a>'den sonra doğan <a class="b" href="/?q=10+iq%27lu+bir+velet">10 iq'lu bir velet</a> olduğunu. önünde bu ayak takımı tek seçenek. ne popülerse sende onu takip ediyorsun çünkü veletsin çünkü 2000'lisin.<br/><br/><a class="b" href="/?q=1990+nesli">1990 nesli</a> olarak ucuz yırttık. sokakta bütün mahallenin katılımı ile saklambaçta oynadık, ağaçlara da tırmandık, başımızı da kırdık. ama 2000'li nesil bunları göremedi. hızlı şehirleşme, internetin ve teknolojinin hayatımıza bu kadar hızlı girmesi ile aynı fanusda yaşayan balıklar gibi yetişiyorlar. <br/><br/>gerçek hayat onlar için <a class="b" href="/?q=instagram">instagram</a>, <a class="b" href="/?q=youtube">youtube</a> olmuş. sanatçı kişiler onlar için <a class="b" href="/?q=enes+batur">enes batur</a>, <a class="b" href="/?q=reynmen">reynmen</a>, <a class="b" href="/?q=danla+bilic">danla bilic</a> olmuş.<br/><br/>üzülüyorum sözlük, böyle olmamalıydı. yinede bizim neslimiz ucundan yırttı, kendimizi şanslı hissetmeliyiz.
-  entry_channels: tv
-- entry_name: |
     12 temmuz 2019 hulusi akar açıklamaları
   entry_id:  92519003
   entry_writer: okkesoglu haydar
-  entry_fav_count: 25
+  entry_fav_count: 32
   entry_content: |
     "biz bi halt yedik ama affedin. " der gibi.
   entry_channels: siyaset,haber
 - entry_name: |
+    50 lira verip 5 bira alamamak
+  entry_id:  92522243
+  entry_writer: patronaj
+  entry_fav_count: 25
+  entry_content: |
+    hükümet alkole zam yaparken en çok “o zaman şunu iç”çilere güveniyor yemin ediyorum.<br/>bu şerefsizler kadar asalak kimse yok.<br/>yarın milka 20 lira olmuş desek, “bim’den çikolata alın o zaman” diye çıkarlar.
+  entry_channels: 
+- entry_name: |
     behzat ç.
   entry_id:  92520119
   entry_writer: kafkasli17
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     (<a class="b" href="/entry/92519529">#92519529</a>) <br/><br/>kızını diğer kızının öldürdüğü, bir kadın tarafından reddedilen daha sonra birine aşık olup evlenen fakat karısının cenazesini gören, bir psikopatın arkasına aldığı derin güçlerle sürekli uğraştığı adam behzat ç. <br/><br/>hayattaki tek aşık olduğu kadına amcasının tecavüz ettiği adam akbaba<br/><br/>sevdiği kadınları kendi eliyle cezaevine yollayan ya da intiharına şahit olan hayalet<br/><br/>ama dram harun üzerinden işleniyordu. tamam..<br/><br/>tanım : efsane
   entry_channels: tv,sinema,spoiler
 - entry_name: |
-    ekşi itiraf
-  entry_id:  92487973
-  entry_writer: blind man chasing the cake
-  entry_fav_count: 21
+    25 çocuğu taciz eden öğretmenin tahliyesi
+  entry_id:  92505217
+  entry_writer: kirmizibaykus
+  entry_fav_count: 15
   entry_content: |
-    şu an şirketimizin ana showroomundaki koltuklarda yatan bir evsiz arkadaşımız var ve orada kalabileceğini ben söyledim. peki buraya nasıl geldim?<br/><br/>birkaç aydır iş nedeniyle miami'deyim, her gün işe gelip giderken altından geçtiğim bir köprü var ve bazı günler bu köprünün altında bir adam görüyordum. bu adam tahminimce birinin çöpe attığı kanepeyi alıp orada kendine gölgede yatacak yer yapmıştı. saçı sakalı birbirine karışmış, üstündeki kıyafetler paramparça bir garip adam. ne zaman görsem yaşadığım hayatı sorgulamama neden olan bir adam. birkaç kez onu gördükten sonra gidip ona yiyecek bir şeyler aldım ama döndüğümde gitmişti. biraz bekledim de ama şirkete dönmem gerektiği için gitmek zorunda kaldım. dönüp de bulamadığımda yemeğini kanepesine bırakıyordum. <br/><br/>sonunda bugün öğle vakti yine onu gördüm ama kanepesi yoktu betonda yatıyordu, yanında durdum ve aç olup olmadığını sordum. çok açım, dedi. bir yere gitmemesini tembihleyip gidip yiyecek bir şeyler aldım ve döndüm. yemeğini verdim ve çok içten bir şekilde teşekkür etti ben de yanına oturdum. yolun kenarları dar ve bu yüzden adamın kanepesi birazcık yola doğru taşıyordu. kanepesine ne olduğunu sordum, o da bana görevli birilerinin gelip "yolu kapadığı için" alıp götürdüğünü söyledi. üzüldüm dedim, arabanın bagajında duran bir ufak mat vardı onu alıp getirdim yine çok teşekkür etti, alıp yanına koydu ve yemeğini yemeye devam etti. belli ki karnı çok açtı. bu noktada yardımımı yapıp işe dönme derdindeydim. sonra benim yemekleri bırakan kişi olup olmadığımı sordu, evet ben bıraktım bekledim ama gelmedin dedim. masmavi gözleri doldu bana sarıldı, ağladı. "o kanepe sahip olduğum her şeydi" dedi. tahminim doğruydu, kanepeyi yakınlardaki çöpten almış birkaç insanın yardımıyla taşımıştı. <br/><br/>çöpten aldığı kanepesini kaybedince sahip olduğu her şeyini kaybeden adama sarıldım, her şey çok güzel olacak dedim. hikayesini dinledim. bir kez daha rastgele karşıma çıkan bir yabancıdan çok şey öğrendim. hikayesini duyduktan sonra ona daha fazla yardım etmem gerektiğini düşündüm. benimle gelmesini söyledim, şaşırdı ve ne yapmaya çalıştığımı anlamadı ama alışveriş sepetinde duran eşyalarını ufak çantasına koydu ve geldi. yarın bir trade show için atlanta'da olmam gerekiyor bu yüzden şu anda elimde tüm işlerin yanında bir gün içinde kalacak ve çalışacak yer bulmam gereken bir arkadaş var. sanırım yine bir şeyleri ayarında bırakmadım...
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    ayşe arman’ın mağdur bir aile ile yaptığı röportajı gözlerim dolarak okudum, bu alçağın serbest bırakılması siyasal iktidara yazar çok net, nasıl serbest bırakıldı perde arkası hemen araştırılıp bu alçak tutuklanmadıkça bunun vebali boynunuza asılı kalacaktır. <br/><br/>salak saçma başlıklara üşüşen yazarlar bu başlığa duyarsız kalması olmamış, yakışmamış. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/yazarlar/ayse-arman/buralardan-kaciyorsun-ama-allahtan-kacamayacaksin-41271399" title="http://www.hurriyet.com.tr/yazarlar/ayse-arman/buralardan-kaciyorsun-ama-allahtan-kacamayacaksin-41271399">ayşe arman röportaj</a>
+  entry_channels: haber
 - entry_name: |
-    eve atılan erkeğin 1 dakikada boşalması
-  entry_id:  92487467
-  entry_writer: reyiz
-  entry_fav_count: 20
+    fenerbahçe
+  entry_id:  92490527
+  entry_writer: manta style
+  entry_fav_count: 14
   entry_content: |
-    başlık altı mağdur kadın kaynıyor, yürünür buradan.
-  entry_channels: ilişkiler
-- entry_name: |
-    banka hesabında 10 milyon tl görünce yapılacaklar
-  entry_id:  92488485
-  entry_writer: jonathan safran foer
-  entry_fav_count: 20
-  entry_content: |
-    önce bankayı arar gelen paranın kaynağını öğrenir, daha sonra da bana ait olmadığını yazılı bir dilekçe ile bankaya bildiririm. dilekçemin kopyasını alırım, savcılığa başvururum.
-  entry_channels: anket,ekonomi
-- entry_name: |
-    50 lira verip 5 bira alamamak
-  entry_id:  92522243
-  entry_writer: patronaj
-  entry_fav_count: 18
-  entry_content: |
-    hükümet alkole zam yaparken en çok “o zaman şunu iç”çilere güveniyor yemin ediyorum.<br/>bu şerefsizler kadar asalak kimse yok.<br/>yarın milka 20 lira olmuş desek, “bim’den çikolata alın o zaman” diye çıkarlar.
-  entry_channels: 
+    rodrigues de geldiyse ayağı fiziği düzgün bir stoper+kolarov(stoperi de kanadı da yedekleyebilir)+ bir forvet transferi haricinde yaz döneminden beklentim kalmamıştır. sadece ligi ve kupayı götürebilecek bir takım oldu bence. sıkıntılı süreçte daha fazlasına gerek yok. <br/><br/>dirar-isla-moses sağ tarafı tamamen götürür. rodrigues-kolarov-hak sol tarafı tamamen götürür. kolarov olmazsa transfer düşünülmeli.<br/><br/>jailson-emre-tolgay-ozan-ekici vs kim varsa ortayı götürür. fejsa-gustavo vs konuşulan transferler olursa ok olmazsa da çok önemli değil. <br/><br/>kaleciler ok zaten 5-6 tane oldular. ama atanın ve tutanın iyi olacak prensibine göre iyi seçimler yapılmalı.<br/><br/>atan kısmında kruse-muriqi-transfer yeterli. serdar-sadık-transfer yeterli.<br/><br/>yeter amk daha ne.
+  entry_channels: spor
 - entry_name: |
     ne izledim lan ben dedirten filmler
   entry_id:  92487525
@@ -338,6 +282,14 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=bal">bal</a>) <br/><br/>hıncal uluç bu film için "balı izledikten sonra insanları ikiye ayırdım "bal'ı izleyenler ve bal'ı izlemeyenler" demişti. bu laflara kanıp izlemiştim ama yıllar geçti hala ne izledim çözemedim. olsun hıncal uluç beni bal'ı izleyenler kategorisine yazdı.
   entry_channels: anket,tv,sinema
+- entry_name: |
+    feyza altun
+  entry_id:  92521611
+  entry_writer: canned
+  entry_fav_count: 13
+  entry_content: |
+    "bundan sonra tivitlerimi şoplayanlarla uğraşacağım" diyerek mahkemeleri boş işlerine alet ettiği tivitlerinden birini google arşivinden bulup çıkarmışlar. maalesef gerçeklerin er geç ortaya çıkmak gibi kötü bir huyu olduğunu öğrenememiş avukat bir hanım.<br/><br/>tiviti çıkaran kişi: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/belibagliorun/status/1149700544790978560" title="https://twitter.com/belibagliorun/status/1149700544790978560">https://twitter.com/…run/status/1149700544790978560</a><br/><br/>fotoşop dediği tivitin arşiv kaydı: <a rel="nofollow noopener" class="url" target="_blank" href="http://web.archive.org/web/20170801194858/https:/twitter.com/feyzaltun/status/228042117648375810" title="http://web.archive.org/web/20170801194858/https:/twitter.com/feyzaltun/status/228042117648375810">http://web.archive.org/…n/status/228042117648375810</a><br/><br/>feyza hanımın mahkeme tiviti: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/feyzaltun/status/1149672044558278656" title="https://twitter.com/feyzaltun/status/1149672044558278656">https://twitter.com/…tun/status/1149672044558278656</a><br/><br/>edit: hanfendi ışık hızıyla hesabını kitledi. takip etmeyenler için ekran görüntüsü: <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/nk515883af5y">https://eksiup.com/p/nk515883af5y</a>
+  entry_channels: siyaset
 - entry_name: |
     satrançta at mı fil mi daha değerlidir sorunsalı
   entry_id:  92509897
@@ -350,10 +302,18 @@ data:
     12 temmuz 2019 rafael nadal roger federer maçı
   entry_id:  92496711
   entry_writer: istedikleri yere gidenler
-  entry_fav_count: 9
+  entry_fav_count: 10
   entry_content: |
     sene olmus 2019, hala nadal vs. federer maci var diye dusundurmustur.<br/><br/>bu adamlarin kariyerleri, ak parti'nin tarihiyle paralel gitti. koca bir jenerasyon, bunlardan baska bir sey gormedi.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: spor
+  entry_channels: spor,haber
+- entry_name: |
+    evi arabası olan 10 bin tl maaşlı bekar kadın
+  entry_id:  92518774
+  entry_writer: thor x
+  entry_fav_count: 8
+  entry_content: |
+    çapsızlığınla alakalı dostum, kesin bilgi. <br/><br/>çok sayıda var olan kadındır.
+  entry_channels: ilişkiler,ekonomi
 - entry_name: |
     kayıp 90'lar popçuları
   entry_id:  92490149
@@ -363,6 +323,22 @@ data:
     <a class="b" href="/?q=g%c3%b6ksel">göksel</a> son single'ına klip çekeli 1 ay olmadı. <a class="b" href="/?q=izel">izel</a> daha geçtiğimiz bahar komple albüm çıkardı. <a class="b" href="/?q=kay%c4%b1p">kayıp</a> kelimesinin anlamını bildiğinizden emin değilim.<br/><br/>edit: hayvanın biri de <a class="b" href="/?q=g%c3%b6khan+%c3%b6zen">gökhan özen</a> yazmış. gökhan özen'in ilk albümü 2000 çıkışlı.<br/><br/>edit 2: bazı arkadaşlar erkek olan göksel'den bahsettiklerini mesajla ilettiler.
   entry_channels: anket,müzik,magazin
 - entry_name: |
+    yemezsem ölürüm yiyecekleri
+  entry_id:  92506027
+  entry_writer: keremica
+  entry_fav_count: 6
+  entry_content: |
+    bir hafta yemesem yoğurt kaybından ölebilirim. o derece
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    18 yaşındaki kızla beraber olan 30 yaşındaki erkek
+  entry_id:  92521430
+  entry_writer: el hombre biscolata
+  entry_fav_count: 6
+  entry_content: |
+    kötü konuşmak istemezdim ama erkeğin niyeti pompadır, kızın çıtırlığından, tazeliğinden faydalanmaktır. bir nevi onun saflığını kullanmaktır. <br/><br/>sonra bu ilişkinin mental olarak verebileceği hiçbir şey yoktur. allah aşkına 18 yaşında bir kız 2001’li demek. araba markası gibi. jenerasyon farkı var bir kere. <br/><br/>beraber şirinleri, sevimli kahramanları, pokemonu mu konuşacaklar ki niyetimiz aslında oldukça iyi diyorlar... <br/><br/>şunu muhafazakar veya islamcı biri yapsa herkes saydırır ama liberal veya açık görüşlü biri yapınca ekşici yapınca faydacılık olmuyor mu... <br/><br/>hayır bunun adı bellidir. kim yaparsa yapsın! etik değildir. 18 yaşında bir kızın en fazla 20 21 yaşında bir çocukla çıkması normaldir. ondan ötesi sakattır.
+  entry_channels: 
+- entry_name: |
     inanılmaz tatlı bass'ları olan şarkı
   entry_id:  92489120
   entry_writer: hemengelmesimdigel
@@ -371,13 +347,29 @@ data:
     <a class="b" href="/?q=modjo">modjo</a> - <a class="b" href="/?q=lady">lady</a>
   entry_channels: müzik
 - entry_name: |
-    almanca kelimeler
-  entry_id:  92491254
-  entry_writer: werejackal
+    rock ve metal müzik seven sözlükçüler
+  entry_id:  92491122
+  entry_writer: kadayif dolmasi
+  entry_fav_count: 4
+  entry_content: |
+    tool yeni albüm çıkarıyor bu yıl...
+  entry_channels: anket,ekşi-sözlük,müzik
+- entry_name: |
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  92489466
+  entry_writer: gleominas
   entry_fav_count: 2
   entry_content: |
-    die <a class="b" href="/?q=sehnsucht">sehnsucht</a>: özlem<br/><br/>güzide grup <a class="b" href="/?q=rammstein">rammstein</a> der ki,<br/><br/>"sehnsucht versteckt<br/>sich wie ein ınsekt<br/>ım schlafe merkst du nicht<br/>daß es dich sticht."<br/><br/>"özlem, gizler<br/>kendini bir böcek gibi<br/>uykunda fark etmezsin<br/>seni sokuverdiğini."
-  entry_channels: anket
+    biz ne zaman bu kadar düştük diye düşündüren başlıktır. (bkz: <a class="b" href="/?q=abazal%c4%b1ktan+k%c4%b1r%c4%b1lanlar">abazalıktan kırılanlar</a>)
+  entry_channels: ilişkiler,ekşi-sözlük
+- entry_name: |
+    bir kediye verilebilecek en güzel isim
+  entry_id:  92522106
+  entry_writer: mortanrisi
+  entry_fav_count: 2
+  entry_content: |
+    koca kulaklarından dolayı <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/k351590z7624" title="https://eksiup.com/p/k351590z7624">dobby</a>
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     yazarların bu akşamki alkol tercihi
   entry_id:  92520301
@@ -387,19 +379,27 @@ data:
     sonunda beklenen gece geldi. once raki, sonra bira sonra shot olarak aklima ne gelirse. dibine vuracagim bu gece. kafayi dagitmam lazim
   entry_channels: anket,yeme-içme
 - entry_name: |
-    bir kediye verilebilecek en güzel isim
-  entry_id:  92522106
-  entry_writer: mortanrisi
+    sinemia'nın kapanması
+  entry_id:  92521679
+  entry_writer: burdan post modern nicklere selam ederim
   entry_fav_count: 1
   entry_content: |
-    koca kulaklarından dolayı <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/k351590z7624" title="https://eksiup.com/p/k351590z7624">dobby</a>
-  entry_channels: anket,ekşi-sözlük
+    duygulandırmıştır. zamanında black friday’de yıllık üyelik almıştım, çok ucuza. aylık 35-40 tl olması lazımdı. bir sene boyunca hiç değilse ayda 15 gün sinemaya gidiyordum. o vakitler imax, 3d, efendime söyleyeyim artırılmış gerçeklik falan her şey dahildi ve her gün kullanılabiliyordu. cinemaximum’u soyup soğana çevirdim. daha sonra bu bonusları ayda bire indirdiler, biraz kıllanmıştım ama 3d fanı olmadığım için yıkılmadım. bir ara her güzel şey gibi üyeliğim de bittince aylık üyelik şeklinde, bildirimde bulunmadan kartımdan çekmeye devam ettiler. iki buçuk katı fiyatına. nedenini sorduğumda yıllık üyeliğin bitmesine on beş gün kala üyeliğimi sonlandırmam gerektiğini, aksi halde falanca maddenin e fıkrası gereğince üyeliğimin devam edeceğini söylediler. kalbim kırıldı, küstüm. sonlandırdım üyeliğimi. o ay son kez gıcıklığına her gün sinemaya gitmiştim. sonra bir ara tekrar almak istediğimde de çok pahalıydı ve ben artık fakirdim. üstelik her gün bir bilet olayı sona ermişti. artık cimrilerdi. ben de almadım. zengin olunca kendi paramla giderim diye düşündüm, bugün kapandığını öğrendim. ve zengin olamamıştım.<br/><br/>kısacası sisteme ilk girenlerden biri olarak erken çıkıp kazanç elde ettim. saadet zincirleri böyledir işte. ilk girenlerden olacaksın, fazla oyalanmayacaksın. elveda sinemia.
+  entry_channels: sinema
 - entry_name: |
-    rusça kelimeler
-  entry_id:  92488127
-  entry_writer: inostranniy
+    bira içmelik arkadaş veritabanı
+  entry_id:  92519344
+  entry_writer: bi turlu anlatamadim
+  entry_fav_count: 1
+  entry_content: |
+    gelenin sövüp gidenin savurduğu başlık. <br/><br/>olm adamlar dese ki, beraber sinemaya ya da kütüphaneye gidelim; tamam saçma.<br/><br/>insan gibi ağzıyla içecek insan (bkz: <a class="b" href="/?q=biliminsan%c4%b1">biliminsanı</a>) arıyolar.<br/><br/>ricky gervais'in güzel bi betimlemesi var: times meydanında "gitar kursu" yazan ilandaki numarayı arayıp "aq ben kurs falan istemiyorum" demek gibi...<br/><br/>ilgisini çekmeyen devam etsin.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    şaka maka yazılımcıların çok maaş alması
+  entry_id:  92513899
+  entry_writer: arth6415
   entry_fav_count: 0
   entry_content: |
-    tanım: nickim
-  entry_channels: 
+    up<br/><br/>gündemdeki tek konu olması dileğiyle. <br/>gençler yazılımcığa özendirilsin. hırsızlığa yolsuzluğa değil
+  entry_channels: programlama,teknoloji
 ---
