@@ -6,7 +6,7 @@ data:
     5 günlük askerin 15 kez müebbet alması
   entry_id:  92542678
   entry_writer: beyinsizjaponaskeri
-  entry_fav_count: 2744
+  entry_fav_count: 2750
   entry_content: |
     izlerken gözyaşlarımı tutamadığım darbe dramlarından biri. eğer dünyanın gram adaleti varsa bu annenin gözyaşlarının hesabını akp vermelidir, verecektir. <br/>sizden ricam, kocaman hayatınızın küçücük 1 dakikasını ayırıp bu kadına kulak verin. videoyu izleyin. <br/><br/>5 günlük askerin 15 kez müebbet almasının saçmalığını yazıyorum. <br/><br/>makbule özdemir bir anne. mayıs 2016'da çorum'daki evinin önünde askere gidecek oğlu için şenlik düzenliyor. oğlu ahmet ve arkadaşları o gece halay çekip, eğleniyor, tüm sınıf arkadaşlarıyla helalleşiyor. annesi ahmet'in omzuna allı pullu ayyıldızlı yazmasını (allık) takıyor, ellerine kınasını yakıp peygamber ocağı diye adlandırdığı malesef lanet kaderine dogru yol aliyor. hayırlısıyla gitsin gelsin diye dualarla ugurluyor.<br/><br/>o zaman 20 yaşında olan ahmet özdemir, 5 mayıs 2016'da önce ısparta'daki acemi birliğine, 10 temmuz'da da istanbul metris kışlasına teslim oluyor. ve bir daha geri dönemiyor.<br/>darbe gecesi hiçbir kanıtı, hiçbir görüntüsü, hiçbir mantıklı açıklaması olmayan cinayetle suçlanıyor, yüzlerce benzer arkadaşı gibi. <br/>ahmet o gece henüz üzerine zimmetli bir silahı bile yokken polise teslim oluyor. <br/>sonuç mu ?<br/><br/>gerisini vicdanınız el verirse linkten izleyin, duyurun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/SnQKP8Wk1C8" title="https://youtu.be/SnQKP8Wk1C8">buyrun</a><br/><br/>annesi ; <br/>“ oglumu gormeye gidemiyorum, param yok yavrum, henuz daha körpecik lise arkadaslari aralarinda para toplayip yanina yolluyor beni, zoruma gidiyor cocugum “ <br/><br/>allah da sizin belanizi versin, vicdansizlar.<br/><br/>edit: bir tanıdığı olan gazeteci vs. varsa en azından şu kadıncağıza yardımcı olsun. sesini duyursun.<br/><br/>edit: 3-5 azınlık da olsa gerizekalilara sesleniyorum. youtube da izleyip üzüldüğüm bir video, yok proje yok bilmem ne, mal mısınız siz ? gram vicdan yok sizde.<br/><br/>edit: bold kanalı fetöcüymüş bilmem neymiş eee ? şerefsizlerin kanalı olması olayın gerçeğini değiştirmiyor. bir yüreği yanan anne diyorum, o kadar da vicdanı olmayanlar olduğunu görüyorum.<br/>yazık be.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     penis şıklatmanın zararlı olması
   entry_id:  92558650
   entry_writer: farkimifarket
-  entry_fav_count: 364
+  entry_fav_count: 370
   entry_content: |
     şıklatmak derken bunun argosu yok mu abi ben anlamadım şıklatmayı.<br/><br/>edit : trollendik dağılın.
   entry_channels: anket,ekşi-sözlük,sağlık
@@ -30,7 +30,7 @@ data:
     beğendiği her erkekle yatan kadın
   entry_id:  92536635
   entry_writer: buralar eskiden bag bahceydi
-  entry_fav_count: 346
+  entry_fav_count: 348
   entry_content: |
     ne methiyeler duzulmus amk.<br/><br/>basit bir kadindir. (erkek versiyonu da oyledir)<br/>hastalik kapma ihtimali yuksektir. <br/>yukaridaki abazanlarin yem attigi kadindir. <br/>benden uzak dursundur.<br/><br/>not: herkesin hayatina kimse karisamaz spor.
   entry_channels: ilişkiler
@@ -38,47 +38,39 @@ data:
     marmaris hacı lokantasındaki korkunç fiyat listesi
   entry_id:  92560427
   entry_writer: makuona kubone
-  entry_fav_count: 257
+  entry_fav_count: 285
   entry_content: |
     marmaris'te meclis lokantası var da bizim mi haberimiz yok?
   entry_channels: yeme-içme,seyahat
 - entry_name: |
+    türbanlı tıp öğrencisi
+  entry_id:  92559274
+  entry_writer: de nada
+  entry_fav_count: 217
+  entry_content: |
+    çankaya'nın first lady'si türbanlı olur mu tartışmalarında üniversite öğrencisiydim. şiddetle hayır olamaz diyordum çünkü öyle öğrenmiş, öğretilmiştim. sonra bir baktım ki oluyormuş.<br/><br/>üniversitelere baş örtüsü ile girilmeyen yılları da gördüm. öğrenciler binanın hemen dışında başlarını açarlardı. ben de bunu olması gereken olarak karşılardım. çünkü üniversitelere başörtüsü ile girilemez demişlerdi, ben de inanmış, inandırılmıştım. bu yüzden bu zulmü, haksızlığı içime sindirirdim. sınıf arkadaşımın hemen yanı başımda binanın dış penceresini kendine ayna yapıp okumak için zorla başörtüsünü çıkarmasını makul, okumak için ödemeleri gereken bir bedel olarak gördüm. bu haksızlığa içimden bile ses çıkarmadım. çünkü üç beş oy için, birileri yerlerini koyusun, varlık sebeplerini devam ettirsinler diye başörtüsü ile üniversiteye girilmez yalanına inanmış, inandırılmıştım. kendi aklımı kiraya vermiştim.<br/><br/>sonraları insanların neye nasıl inanıyorlarsa öyle yaşamaları gerektiğini anladım. bu gerizekalı türban kompleksinden garip liberal bir aydınlanma ile vazgeçtim ve inanın çok rahatladım.<br/><br/>üniversitenin son senesinde ise üniversite öğrencilerinine türban yasağının kalkmasına da şahit oldum. kendi intern grubumda olan ve sevdiğim arkadaşlarımın baş örtülerini takıp önlüklerini giyip çalışmalarını gördüm. aynı insanlardı, aynı ilkelerle çalışıyorlardı, aynı işi aynı ciddiyetle yapıyorlardı ama bir farkla; o gün hepsinin gözleri ışıl ışıldı, hepsinin gözleri gülüyordu.<br/><br/>türbandan korkmayın tahammülsüzlükten korkun, türbana tahammülsüzlüğün maşası olmayın, sınıf arkadaşınızın, komşunuzun, çocukluk arkadaşınızın destekçisi olun. biz beraber oldukça güçlüyüz, birkaç oy için manipüle edilmeyin. bu insanlar düşman değil, herkes ile eşit vatan evladı. bunu unutmayın.
+  entry_channels: siyaset,sağlık,eğitim
+- entry_name: |
     13 temmuz 2019 mehmet şevket eygi'nin ölmesi
   entry_id:  92543683
   entry_writer: boya takintisi olan adam
-  entry_fav_count: 206
+  entry_fav_count: 208
   entry_content: |
     madımak katillerinden amerikancı, yobaz gazeteci mehmet şevket eygi'nin ölümüdür. <br/>kendisi kadir mısıroğlu'nun yakın arkadaşı olmakla da bilinir. <br/><br/>toprağı gübre olsun.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/turkiye/1485394/Mehmet_Sevki_Eygi_oldu.html" title="http://www.cumhuriyet.com.tr/haber/turkiye/1485394/Mehmet_Sevki_Eygi_oldu.html">kaynak</a>
   entry_channels: siyaset,haber
 - entry_name: |
-    eljif elmas
-  entry_id:  92535066
-  entry_writer: olsun lan bizi de seven olur
-  entry_fav_count: 185
+    boşta duracağına 2 bin 500 tl'ye çalış
+  entry_id:  92562189
+  entry_writer: sadrazamin kulak memesi
+  entry_fav_count: 164
   entry_content: |
-    suriyelilerin performansı bu ara inanılmaz<br/><br/>07.45 uyanış <br/><br/>08.00 çikolatalı ekmek<br/><br/>08.15 disney junior'da pijamaskeliler qeyfi<br/><br/>09.00 nesquik eşliğinde sözlüğe giriş<br/><br/>09.01 fenerbahçe başlığına girip "ehueheheuhe bok gibiler yaa" diye 37 paragraf entry döşeme<br/><br/>09.30 garry rodrigues başlığında "zaten bok gibiydi yeaaa" ağlama seansı <br/><br/>10.00 ali koç başlığında ağlama<br/><br/>10.30 emre mor, salah'tan daha yetenekli seansı<br/><br/>12.00 öğle uykusu<br/><br/>15.00 fenerbahçe çok kötü, şikeci, fenev vs<br/><br/>17.00 elif elmas şikeyle satıldı<br/><br/>18.00 herkes bizi kıskaniyür
-  entry_channels: spor
-- entry_name: |
-    türbanlı tıp öğrencisi
-  entry_id:  92559274
-  entry_writer: de nada
-  entry_fav_count: 182
-  entry_content: |
-    çankaya'nın first lady'si türbanlı olur mu tartışmalarında üniversite öğrencisiydim. şiddetle hayır olamaz diyordum sonra bir baktım ki oluyormuş. üniversitelere baş örtüsü ile girilmeyen yılları da gördüm. öğrenciler binanın hemen dışında başlarını açarlardı. ben de bunu olması gereken olarak karşılardım. bu zulmü hakikaten içime sindirirdim. sonraları insanların neye nasıl inanıyorlarsa öyle yaşatmaları gerektiğini anladım. bu gerizekalı türban kompleksinden garip liberal bir aydınlanma ile vazgeçtim. çok rahatladım, üniversitenin son senesinde üniversite öğrencilerinine türban yasağının kalkmasına da şahit oldum. kendi intern grubumda olan ve sevdiğim arkadaşlarımın baş örtülerini takıp önlüklerini giyip çalışmalarına şahit oldum. aynı insanlardı, aynı ilkelerle çalışıyorlardı, aynı işi aynı ciddiyetle yapıyorlardı ama bir farkla. o gün hepsinin gözleri ışıl ışıldı, hepsinin gözleri gülüyordu. türbandan korkmayın tahammülsüzlükten korkun, türbana tahammülsüzlüğün maşası olmayın, sınıf arkadaşınızın, komşunuzun, çocukluk arkadaşınızın destekçisi olun. biz beraber oldukça güçlüyüz, birkaç oy için manipüle edilmeyin. bu insanlar düşman değil, herkes ile eşit vatan evladı.
-  entry_channels: siyaset,sağlık,eğitim
-- entry_name: |
-    35 bin skeç çektik ama kadın demeyi öğretemedik
-  entry_id:  92543890
-  entry_writer: krozac
-  entry_fav_count: 157
-  entry_content: |
-    haber eskiymiş ama bugün hortlayınca, bir içimi dökeyim istedim.<br/><br/>bayan değil kadın deyince tecavüzler, tacizler, dayaklar, hor görülmeler, aşağılanmalar, kısıtlanmalar, eleştiriler, tahammülsüzlükler ve daha niceleri bitecek mi? eğer bir kelime bu kadar önemliyse, temcit pilavı gibi ısıtılıp ısıtılıp servis ediliyorsa, bunların hepsini kökten kurutması gerekir. olmuyorsa zorlamanın anlamı yok. <br/><br/><a class="b" href="/?q=bir+kad%c4%b1n+bir+erkek">bir kadın bir erkek</a> adlı programın neredeyse her bölümünü seyrettim. oradaki kadın tiplemesi; ev hanımı, iş yaşamında yer alan kadınları kıskanan hatta bir nevi de aşağılayan, tek isteği alışveriş yapmak olan ve bu isteğini adamın parasıyla yapan, sürekli dedikodu yapan, erkeğe sürekli “öküz” diyen, sürekli çiçek bekleyen, narin gibi ama değil gibi de bir kadındı. bölümün sonlarına doğru iş kurdu ama adamın parasıyla. onu da tam beceremedi. kurduğu iş neydi? doğru tahmin! cafe! çünkü bir kadın, domestik işler haricinde bir işyeri kuramazdı. zaten cafe açtı ama adamın kiraladığı yere. adamın parasıyla. sonra battı o iş. çünkü neden? ciddi sübliminaller çakmışlar da bunca yıl anlamamışız. senaristler boş vakitlerinde dönemin rihanna kliplerini seyredip sübliminal işine mi bulaştı acaba? her neyse! daha bitmedi, devam ediyor. kadının annesine yardım etmesi gerekti ama adamla ortak parasından. ortak para, adamın maaşı +adamın kadına verdiği harçlık bu arada. kadın o skeçlerde beş kuruş para kazanmadı iş kurana kadar. ( epey izlemişim .oha. daha da bitmedi. devamı geliyor) 7 -8 yıl evlenmeyi bekledi.neden? adam teklif etmiyor diye. evlenmek için bir sürü para biriktirdi. biriktirdiği para da adamın verdiği mutfak masrafı harçlıkları. sonra aldatıldı. adam sekreteriyle aldattı onu. bir bölüm sürdü sancısı. sonra hemen öpüşmeler koklaşmalar. <br/><br/>yani, <a class="b" href="/?q=bize+maval+okuma+can%c4%b1s%c4%b1">bize maval okuma canısı</a>. önce senaryodaki karaktere bakın düzgün mü diye? sonra toplumu eğitmeye kalkın. bütün kadınlar bir kadın bir erkek skeçlerindeki o kadın değil çünkü.
-  entry_channels: haber,magazin
+    ben de direndim, 4 sene oldu hala işsizim.
+  entry_channels: 
 - entry_name: |
     adı duyulunca ürkülen semtler
   entry_id:  92549434
   entry_writer: volkanslim
-  entry_fav_count: 153
+  entry_fav_count: 155
   entry_content: |
     ostimin nesinden korktunuz lan? oto yedek parca fiyatlarindan mi?
   entry_channels: anket
@@ -86,82 +78,82 @@ data:
     azerbaycan denince akla gelenler
   entry_id:  92555241
   entry_writer: duhaman
-  entry_fav_count: 130
+  entry_fav_count: 133
   entry_content: |
     -eurovision için tüm sokak hayvanlarını canlı canlı yakmaları.<br/>-acımasız diktatörlük rejimi. <br/>-göstermelik seçimler. seçim sonuçlarını protesto etmeye kalkan halka kanlı müdahale.<br/>-azerbaycan hapishanelerindeki düşünürler, aydınlar, gazeteciler. <br/>-en ufak muhalif sesin acımasızca susturulması. <br/>-türk dizilerinin yasaklanması<br/>-azerbaycan üniversitelerindeki başörtüsü yasağı. <br/>-intihar eden lgbti bireyler<br/>-socar<br/>-haber global <br/>-rüşvet <br/>-rusya'nın en iyi kukla devleti olması <br/><br/>edit: » @handemir nickli yazar arkadaşımız, kendi görüşünü paylaşmış : <br/>"bütün tespitlerinize katılıyorum, sadece son madde bence yanlış. azerbaycan rusya'nın kontrolünde değil, abd-ıngiltere'nin kontrolündedir. petrolünün kaymağı da british petroleum'a gider" <br/><br/>edit2: » @brunoanthony nickli yazar arkadaşımızın mesajı: <br/>"türkiye'den bile fazla olan gelir eşitsizliğini de ekleyebilirsiniz. ayda 150 dolar kazanan insanların yanında sokakta lamborghini'si ile tur atan insanlar var."<br/><br/>edit3: » @anorthosis famagusta nickli yazar arkadaşımız, rusya'nın kontrolünde olduğunu belirtip, "rusyada moskovada en cafcaflı avm gurubu vegas dır. aliyevin damadına aittir.<br/>zengin azerilerin çoğu parası moskovaya akar, kgb bağlantılı kişiler aliyev ve ailesi zaten." yazmış, paylaşayım.<br/><br/>edit4: » @davidddd nickli yazar arkadaşımızın rüşvetin boyutunu da gözler önüne seren mesajını da şuraya bırakayım:<br/>(<a class="b" href="/entry/92555241">#92555241</a>) <br/>" 2. memur vs. az maaş aldığı için rüşvet almış başını gidiyor. en kral polise birkaç manat ateşlediğiniz zaman her işiniz çözülür. vize evrağı filan doldurmanıza gerek yok havalimanında pasaportun içine 20dolar şeklindeydi tarife. değişti mi bilemem.<br/>3. başkanı kimse sevmez ama %90 üstünde oy alır.<br/>4. ülkeye girecek markalar devletle görüşür. mesela burgerking yoktu sadece mcdonalds var. iyi parayı veren ülkede iş yapar ve rakipleri ülkeye sokulmaz, tekel oluşturulur."<br/><br/>edit5: » @ascartia<br/>(<a class="b" href="/entry/92555241">#92555241</a>) <br/>yarım saat önce bakü uçağından indim, şimdi taksiyle eve gidiyorum. evinde misafir olduğum azeri arkadaşım avukattı, fakat şu an emlakçılık yapıyor. sebebini de “insanlar avukatlık için vereceği parayı hakime rüşvet olarak verdiği zaman sorununu zaten çözüyor” olarak belirtti.
   entry_channels: anket
 - entry_name: |
-    boşta duracağına 2 bin 500 tl'ye çalış
-  entry_id:  92562189
-  entry_writer: sadrazamin kulak memesi
-  entry_fav_count: 115
-  entry_content: |
-    ben de direndim, 4 sene oldu hala işsizim.
-  entry_channels: 
-- entry_name: |
-    türkiye'yi bu hale getiren meslek grubu
-  entry_id:  92556998
-  entry_writer: cilician
-  entry_fav_count: 111
-  entry_content: |
-    siyasilerdir.<br/><br/>atanamamış eziklerin sözlükte öğretmen nefreti kusmasından ise gına gelmiştir. gidip kpss çalışın hadi abicim.
-  entry_channels: siyaset
-- entry_name: |
-    24 yaşında 4 bin lira maaş alan insan
-  entry_id:  92559538
-  entry_writer: cilician
-  entry_fav_count: 98
-  entry_content: |
-    özel okullarda taban fiyattaki öğretmen maaşı olmayan bir meblağı alan insandır.<br/><br/>arkadaşlar siz şaka mısınız? özel okulların 1300 lira bile önerdiğini gördük. taban maaş 4k imiş hahaha komik.
-  entry_channels: anket,ekonomi
-- entry_name: |
     kırmayan tartışmayan ilgilenen aldatmayan erkek
   entry_id:  92562396
   entry_writer: jambonluyumurta
-  entry_fav_count: 79
+  entry_fav_count: 129
   entry_content: |
     kırılır, tartışılır, ilgilenilmez, aldatılır.
   entry_channels: ilişkiler
 - entry_name: |
+    24 yaşında 4 bin lira maaş alan insan
+  entry_id:  92559538
+  entry_writer: cilician
+  entry_fav_count: 120
+  entry_content: |
+    özel okullarda taban fiyattaki öğretmen maaşı olmayan bir meblağı alan insandır.<br/><br/>arkadaşlar siz şaka mısınız? özel okulların 1300 lira bile önerdiğini gördük. taban maaş 4k imiş hahaha komik.
+  entry_channels: anket,ekonomi
+- entry_name: |
+    türkiye'yi bu hale getiren meslek grubu
+  entry_id:  92556998
+  entry_writer: cilician
+  entry_fav_count: 117
+  entry_content: |
+    siyasilerdir.<br/><br/>atanamamış eziklerin sözlükte öğretmen nefreti kusmasından ise gına gelmiştir. gidip kpss çalışın hadi abicim.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
     suç işleyen suriyelileri sınır dışı edeceğiz
   entry_id:  92554023
   entry_writer: bilemiyorum altan bilemiyorum
-  entry_fav_count: 70
+  entry_fav_count: 71
   entry_content: |
     habere göre bir rte <a rel="nofollow noopener" class="url" target="_blank" href="https://www.turkiyegazetesi.com.tr/gundem/636730.aspx" title="https://www.turkiyegazetesi.com.tr/gundem/636730.aspx">söylemi.</a><br/><br/>-ülkelerine dönmelerini teşvik edeceğiz. <br/>-suç işleyenleri kesinlikle sınır dışı edeceğiz. <br/>-aldıkları sağlık hizmeti karşılığında bir katkı payı alınmasını öngörüyoruz.<sup class="ab"><a title="(bkz: öngörüyoruz ne demekse artık)" href="/?q=%c3%b6ng%c3%b6r%c3%bcyoruz+ne+demekse+art%c4%b1k" data-query="öngörüyoruz ne demekse artık">*</a></sup><br/><br/>demiş.<br/><br/>reyiz çok erken değil mi ya bu politikalar için. daha burada doğanlar büyüyüp çocuk yapacak falan. acele etmeyin. asasdf.<br/><br/>"biz suriyelilere kapılarımızı açmak zorundaydık. görmezden gelemezdik. onlara sahip çıktık."<br/><br/>sanki ab ile 3 milyar euro ve vize serbestliği için anlaşmamış, daha geçen gün "ödemezseniz salarım ha hepsini" dememiş gibi.<br/><br/>(bkz: <a class="b" href="/?q=geri+kabul+anla%c5%9fmas%c4%b1">geri kabul anlaşması</a>)
   entry_channels: siyaset,haber
 - entry_name: |
-    pucca'nın yedi yıl hapis cezası alması
-  entry_id:  92533030
-  entry_writer: sanfransiskolu mufettis
-  entry_fav_count: 69
-  entry_content: |
-    bu ülkede tanımında "özendirmek" geçen bir suç olmasından utanıyorum. özendirmek nedir? ben şimdi sana git kendini uçurumdan at desem bu özendirme midir? ya da millet kendisini boğaz köprüsünden atıyor desem? ya da intihar edecek olsanız hangi noktayı seçerdiniz diye sorsam? ya da mesela kendimi uçurumdan atsam?<br/><br/>buradaki yorumlardan da anlaşılacağı gibi türk halkının çoğunluğunun kafası almıyor. çocuğunuzu uyuşturuculardan korumanın yolu uyuşturucuların varlığının konuşmasını engellemek olamaz. evladınızın uyuşturuculardan korumak için onu kenara çeker, kendisiyle bir birey olduğunu hissettirerek konuşur, uyuşturucuların zarar ve tehlikelerini kendisine anlatırsınız. siz bir ebeveyn olarak üzerinize düşen görevi yaparsanız çocuğunuz internette gördüğü bir geri zekalının sorduğu soruyu okuyup uyuşturuculara özenmez. hoş, bunları yapmasanız da kimse kimseyi, hele ki salakça bir soruyla uyuşturucu batağına çekemez. <br/><br/>türk adalet sistemi tam anlamıyla ilkeldir. özendirme diye bir suç olamaz. kişi kendisinden sorumludur. yaşı ufaksa da kendisinden ebeveyni sorumludur. suçu övmek diye bir suç da olamaz. bir şeyin yasak olup olmadığı kanunlarla belirlenmişse gün gelir o kanunlar değişir ve bakarsınız ki eskiden suç olan şey artık suç olmaktan çıkmış. bunun adına ilerleme denir. ancak bu ilerlemenin olabilmesi için birisinin çıkıp toplumu suç olarak kabul edilen şeyin suç olmaması gerektiğine ikna edebilmesi gerekir. bunun için de kanunların suçu övme, suça özendirme gibi şeyleri suç olarak tanımlamaması gerekir. buna da ifade özgürlüğü adı verilir.<br/><br/>şöyle birkaç örnek vereyim. galile zamanında dünya'nın evrenin merkezi olmadığını iddia etmek yakılmayı gerektiren bir suçtu. 1865'e kadar abd'de kölelik vardı. 30'larda alkollü içkiler yasaktı. 60'ların ortalarına kadar ırk ayrımcılığı vardı, yakın zamana kadar neredeyse dünyanın her yerinde eşcinsellik suçtu. yukarıdaki örnekler için galile haricinde kimse bunlar suç olmamalıdır dediği için suçlanmadı. kimse suçu övmek suçuyla yargılanıp ceza almadı. bu kanunlar değişti çünkü insanların kanunun yanlış olduğunu iddia edip bu konuda kamuoyunu ikna etmeye çalışmalarına kimse engel olamadı. kamuoyunu kanunun yanlış olduğuna ikna edebilirseniz o kanun eninde sonunda değişir. eğer kanun doğru bulunuyorsa değişmez. ancak bu tartışmanın yapılabilmesi için demokratik altyapının mevcut olması gerekir. karşıt düşüncelerin sesinin kesildiği yerde demokratik tartışma olmaz, iktidar istediği kanunu dikte edip bunun tartışılmasını suçu övmek, suça özendirmek suçlamalarını kullanarak engeller. <br/><br/>bu nedenle toplumsal değişimler ya ifade özgürlüğünün olduğu ülkelerde birilerinin halkı o değişime ikna etmesiyle ve o değişimin dünyaya yayılmasıyla gelişir, ya da ifade özgürlüğünün olmadığı ülkelerdeki kanlı devrimler ve halk ayaklanmalarıyla. şanslıyız ki bu güne kadar çoğunlukla demokrasinin işlediği ülkeler (belki de bu özellikleri sayesinde) güçlü kalabilip dünyaya yön verebildiler. örneğin 2. dünya savaşının kazananı mihver devletleri olsaydı bugün bütün dünyada ırk ayrımcılığı devam edecek, belli ırklar köle olarak kullanılacak, belli ırklar, eşcinseller, engelliler ve muhalifler yakalandıkça öldürüleceklerdi. <br/><br/>konu dallanıp budaklandı ama yeniden temeline dönelim. dünyanın daha iyi bir yer olabilmesi için iyiye doğru bir değişim zorunludur. değişimin de halkın istekleri doğrultusunda barışçıl yollarla gelebilmesi için tartışılabilmesi gerekir. kanunları değişmez ideal gerçekler olarak görüp tartışılmasını engellerseniz bunlardan hiç birisi gerçekleşemez. o nedenle kanunlara muhalefet edebilme hakkı demokrasilerin olmazsa olmazıdır. ve tabi ki kanunlara muhalefet edebilme hakkının olduğu bir yerde suçu övmek, suça özendirmek gibi ilkel suçlar da olamaz. <br/><br/>bu demek değildir ki kanunu istemeyen kanuna karşı gelebilsin. güncel örnekten gidersek, insanların uyuşturucu tehlikeli değildir diyebilme hakkı olmalı ancak kanunu değiştirecek desteği bulamadıkları sürece uyuşturucu ticareti yapmaları suç teşkil etmelidir. ancak hangi uyuşturucuyu kullanırdınız gibi naif bir soru için 7 yıl hapis cezası vermek, karnını doyurabilmek için çaldığı ekmek yüzünden kürek cezasına çarptırandan bile daha absürt, daha despot, daha insanlıktan nasibini almamış bir adalet sisteminin varlığına işaret eder.
-  entry_channels: haber,magazin
-- entry_name: |
-    at avrat silah yerine alternatif üçlemeler
-  entry_id:  92533182
-  entry_writer: atduskunumuthisbirinsan
-  entry_fav_count: 67
-  entry_content: |
-    doblo,mangal,piknik
-  entry_channels: anket
-- entry_name: |
     süper lig tarihinin en sansasyonel 3 transferi
   entry_id:  92534342
   entry_writer: ilgisiz garson
-  entry_fav_count: 66
+  entry_fav_count: 70
   entry_content: |
     türkiye'ye çok büyük futbolcular gelmiştir ama bu yazılan isimlerin bir çoğu kariyerinin sonlarına doğru, yıldızları düşmeye başladığı dönemlerde gelmiştir. ancak bunların içinde bir tanesi vardır ki bence hakikaten sansasyoneldir, o da <a class="b" href="/?q=nicolas+anelka">nicolas anelka</a>transferidir. adam kariyerinin, performansının hala zirvesindeyken türkiye'ye gelmiştir.<br/><br/>not: gs<br/><br/>not-2: peşinen söyleyeyim, drogba, hagi, carlos ilk aklıma gelen dünya yıldızları, bunlar anelka'yı tabi ki kariyerleri ile tokatlar ama bunlar kariyerlerinin sonunda türkiye'ye geldiler unutmayın. <br/><br/>en iyisi şuraya anelka'nın transfer geçmişini koyayım;<br/><br/>95 - psg -<br/>96 - arsenal - $866k<br/>99 - r.madrid - $39.9m<br/>00 - psg - $39.3m<br/>01 - liverpool - kiralık ($1.6m)<br/>02 - m. city - $17.1m<br/>04 - f.bahçe - $12.2m<br/>06 - bolton - $13.7m (kulüp transfer rekoru)<br/>07 - chelsea - $20.5m<br/>11 - shenhua - bedava<br/>12 - juventus - bedava<br/>13 - w. broom - bedava
   entry_channels: spor,anket
 - entry_name: |
+    at avrat silah yerine alternatif üçlemeler
+  entry_id:  92533182
+  entry_writer: atduskunumuthisbirinsan
+  entry_fav_count: 68
+  entry_content: |
+    doblo,mangal,piknik
+  entry_channels: anket
+- entry_name: |
     fenerbahçe
   entry_id:  92533848
   entry_writer: ilkel barbar
-  entry_fav_count: 56
+  entry_fav_count: 64
   entry_content: |
     ulan hala yaziyorlar :)) amk fetullah gibi beddua etmeyi kesin lan aglak yosmalar!<br/>fetoyla uc bes kupa aldiniz diye kendinizi nimetten mi saydiniz amina kodumun maklubecileri!<br/>2011 de celme taktiniz, 2015 te silahli saldiri yaptiniz fuze de atsaniz ananizi sikmeye devam edecegiz.<br/>her gun birinizi bir gun hepinizi!
   entry_channels: spor
+- entry_name: |
+    içilen en lezzetli sigara
+  entry_id:  92537589
+  entry_writer: celeron 300a
+  entry_fav_count: 53
+  entry_content: |
+    lisede üniversitede falan, gecenin köründe, aileden gizli, camda balkonda içilenlerdir. daha asla o tadı tekrar alamazsınız.
+  entry_channels: 
+- entry_name: |
+    hayat sloganı yapılacak söz
+  entry_id:  92544075
+  entry_writer: celaliyimcelalisincelali1
+  entry_fav_count: 45
+  entry_content: |
+    "bıyık büküle büküle kaytan, insan düzüle düzüle şeytan olur."
+  entry_channels: anket
 - entry_name: |
     bir kediye verilebilecek en güzel isim
   entry_id:  92533941
@@ -174,10 +166,18 @@ data:
     yazarların kitaplığındaki en sevdiği kitap
   entry_id:  92550720
   entry_writer: henryfonda
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     (bkz: <a class="b" href="/?q=otostop%c3%a7unun+galaksi+rehberi">otostopçunun galaksi rehberi</a>)
   entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    audi vs bmw vs mercedes
+  entry_id:  92532927
+  entry_writer: ssarer
+  entry_fav_count: 42
+  entry_content: |
+    bir mercedesten daha iyi olan şey iki mercedestir.
+  entry_channels: anket,teknoloji,otomotiv
 - entry_name: |
     iyi insan olmanın hiçbir işe yaramaması
   entry_id:  92548800
@@ -219,18 +219,10 @@ data:
     (bkz: <a class="b" href="/?q=gastroenterolog">gastroenterolog</a>)<br/>(bkz: <a class="b" href="/?q=dahiliye+uzman%c4%b1">dahiliye uzmanı</a>)<br/><br/>bilimsel uzmanlıktan şaşmamak gerek.
   entry_channels: anket,sağlık
 - entry_name: |
-    içilen en lezzetli sigara
-  entry_id:  92537589
-  entry_writer: celeron 300a
-  entry_fav_count: 35
-  entry_content: |
-    lisede üniversitede falan, gecenin köründe, aileden gizli, camda balkonda içilenlerdir. daha asla o tadı tekrar alamazsınız.
-  entry_channels: 
-- entry_name: |
     malatya kayısısının abartılmış bir balon olması
   entry_id:  92558580
   entry_writer: kurt madam
-  entry_fav_count: 23
+  entry_fav_count: 25
   entry_content: |
     haaaah her kuşu öpmüştünüz bir malatya kayısısı kalmıştı bravo ekşi sözlük bir siki beğenmeme timine hoş geldiniz buyrun üyelik kartınız götünüze sokabilirsiniz
   entry_channels: yeme-içme
@@ -238,15 +230,31 @@ data:
     mide bulandıran pavyon videosu
   entry_id:  92562488
   entry_writer: mungke tengriyin kucudur
-  entry_fav_count: 19
+  entry_fav_count: 23
   entry_content: |
     yav onu bunu geçtim de, bu videoları ne aratıp da buluyorsunuz lan? ne çeşit bi’ manyaksınız arkadaş.
   entry_channels: ilişkiler,müzik,magazin,seyahat
 - entry_name: |
+    zabıta tarafından balonlarına el koyulan çocuk
+  entry_id:  92561049
+  entry_writer: kalemi kilicindan keskin olan adam
+  entry_fav_count: 17
+  entry_content: |
+    ağlaya ağlaya "para lazım, eve ekmek götürücem" diyor çocuk.<br/>çevredekiler de izliyor.<br/><br/>el koyduğunuz şey kaçak sigara değil. uyuşturucu değil.<br/>balon.<br/>bu orospu çocuğu zabıtaları görevden almayanlar ve o çocuğun ağlamasını izleyenler.<br/>sizin vicdanınızı sikeyim.<br/><br/>"dünya kötülük yapanlar yüzünden değil, hiçbir şey yapmadan durup izleyenler yüzünden tehlikeli bir yerdir."<br/><a class="b" href="/?q=einstein">einstein</a>
+  entry_channels: ilişkiler,haber
+- entry_name: |
+    arda turan
+  entry_id:  92537645
+  entry_writer: misaldiyorum
+  entry_fav_count: 17
+  entry_content: |
+    sevgili arda turan, sanmiyorum ama buralari okuyorsan galatasaray taraftarina bir kez olsun kulak ver ve galatasaray'a donmeye calisma. <br/><br/>yaptigin butun yanlislari gectim, fatih hoca'ya yaptigin terbiyesizligi gectim, barcelona'da oynarken galatasaray'in senin icin yaptigi teklife "komikti" dedin.<br/><br/>ben senin yerinde olsam bedavaya bile oynardim galatasaray'da. ama profesyonel yasam boyle degil tabii. siz profesyonel insanlarsiniz.<br/><br/>tum bunlar yasanmasa, biz de olaylara duygusal yaklasip, arda yuvasina donsun, 66 numarayi giysin, futbolu bizde biraksin derdik ama artik biz de duygusal bakmiyoruz olaylara.<br/><br/>taraftar olarak biz de profesyonel davranip, son iki yildir dogru duzgun top oynamamis, gobekli, mental olarak problemli, gittigi her yerde sorun olan bir oyuncuyu takimimizda gormek istemiyoruz. gercekten galatasarayli'ysan takima donmezsin.
+  entry_channels: spor,magazin
+- entry_name: |
     mount and blade ii bannerlord
   entry_id:  92553917
   entry_writer: ghostronaut
-  entry_fav_count: 14
+  entry_fav_count: 15
   entry_content: |
     üstteki entrye katılıyorum. bu saatten sonra yarın çıkartıyoruz deseler de almam. <br/><br/>bu kararı da zaten içlerinden aptal bir lavuk “biz oyunu zamanında yetiştireceğiz diye kötü oyun yapamayız, biteceği zaman biter.” şeklinde bir açıklama yaptığında vermiştim. <br/><br/>sen şuna desene bizim götümüz yok çalışmıyoruz diye. bütün dünyada oyun geliştiricileri deadlinelara yetişmek için kan ter gözyaşı dökecek, bizim götü kalkık ipneler biterse biter çekecek. <br/><br/>alanı siksinler.
   entry_channels: oyun
@@ -258,14 +266,6 @@ data:
   entry_content: |
     dün zaman bulamadığım tüm işlerimin yanında bir sorumluluk daha aldım. bu durumu da burada anlattım. (bkz: <a class="b" href="/entry/92487973">#92487973</a>) kimseyle paylaşmadığım bir durum olduğu için yıllar sonra ilk defa derdimi sözlükte anlatmış oldum. dünden beri gelen tüm mesajlarla buranın ne kadar güzel insanlarla dolu olduğunu bir kez daha hatırladım. gelen birçok mesaja cevap verme vaktim olmadığı için herkesin merak ettiği birkaç konuyu bu entry ile açıklamanın iyi bir fikir olacağını düşündüm. <br/><br/>öncelikle şunu belirtmeliyim ki bazı arkadaşlar işimi kaybetme riskini alarak arkadaşımızı alıp götürmem nedeniyle beni kahraman ilan etti fakat böyle bir durum yok. şirket aileme ait ve aynı zamanda ailem de çok yardımsever insanlardır bu nedenle haberleri olsa dahi böyle yoğun bir dönemde iş dışındaki şeylere odaklanmamam konusunda bir tavsiye duyardım fakat içlerinde bu çabayı takdir ederlerdi diye düşünüyorum. <br/><br/>abimize gelirsek, abimiz 52 yaşında bir garip adam. kendisi bir süredir sokaklarda kalıyormuş. daha önce daha güneyde birkaç yerde böyle kalmış “etraftakilerin rahatsız olması” gibi nedenlerle yer değiştire değiştire kendini onu ilk gördüğüm yerde bulmuş. kendisi aslında yetenekli bir abi, marangoz. yıllarca marangozluk yapmış. kimsesi yok. sadece uzak akrabaları varmış texas’ta. onlar ne durumda olduğunu bilmiyorlar mı diye sordum. biliyorlar, dedi. hiçbiri iş, kalacak yer filan teklif etmemiş. sen bir iş bulup bulamayacaklarını sormadın mı, dedim. sordum, yardımcı olamayacaklarını söylediler, dedi. abimiz iyi niyet gösterip yardımcı olmaya çalıştığı bir arkadaşının kötü niyetine kurban gitmişti. burada sanat galerisi olan bir arkadaşım var. onun tablolar filan için ahşaptan anlayan bir adama ihtiyacı olabileceğiniz düşündüm. bu abi de daha önce tablolar için çerçeve yapmış, tecrübesi var. arkadaşı arayıp tecrübeli bir ahşap ustasının işine yarayıp yaramayacağını sordum, yetenekli biriyse görüşmek isteyeceğini söyledi, görüşmeyi ayarladık. <br/><br/>abimiz saç sakal tıraşı, duş ve bir adet takım elbise sonrasında yeniden bir başarılı ahşap ustası adayıydı. kendisini görüşmeye götürdüm. arkadaşım abinin miami'de daha önce nerede çalıştığı gibi yakın geçmişi sorgulamaya başlayınca ona abinin miami’ye yeni taşındığını söyledim. aslında yalan söylemedim, abimiz dün sokakta kalıyordu. şimdi ise arkadaşımın işyerine pek de uzak olmayan bir yere, ev arkadaşı arayan bir tanıdığımızın evine taşınmıştı. ev arkadaşı arayan çocuk bir müşterimizin yanında çalışıyordu ve iki yatak odalı evde kalmasına karşın tek başına yaşadığı için kirayı paylaşmak istiyordu. bu çocuk de sevinmişti, artık ahşap ustası bir ev arkadaşı vardı. evde ne bozulsa tamir eder? <br/><br/>arkadaşımla görüşmesi güzel geçti ve haftaya işe başlamasını istedi. bu işin piyasasına göre pek iyi bir saatlik ücret teklif etmediği için abinin kabul edip etmeyeceğinden emin değildi, abi ne olursa tamam diyeceği için seve seve kabul etti. bizim arkadaş da kendisine çok makul gelen bir fiyata istediği tecrübeye, bilgiye sahip elemana sahip olmuş oldu. abimizin karnı tok şu anda yeni evinde. abimizi eve bıraktığımdaki “thank you for everything brother” hayatım boyunca duyduğum en içten teşekkürdü. ev arkadaşı arayan çocuk doğal olarak bir katkı bekliyordu taşındığı gün. ilk ayın kira katkısıyla ilgili yardımcı oldum, sonraki aylarda kendi kazandığı parayla ödeyebileceği makul bir tutar zaten. en iyi yer, en iyi ev değil ama abimiz, arkadaşım ve ev sahibi kardeşimiz hepsi mutlu ama sanırım en çok ben mutluyum. şimdi show time, bu süreçte halletmem gerek bazı işleri üstlenen iş arkadaşlarıma hiçbir zaman görmeyecekleri bu yerde teşekkür ederim.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    temmuz güncellemesiyle 2019 model araç fiyatları
-  entry_id:  92539189
-  entry_writer: 600f
-  entry_fav_count: 13
-  entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>2019 model, 0 km corollanin abd fiyati da 18.000-20.000$ arasi. tl ile carpinca fiyat bu listedeki fiyat oluyor zaten. 0 km ithal arabayi 20bin teleye mi satacaklardi?<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>bak bunu yazan adama sen clio 1.0 arabayı 500 bine de satarsın. çünkü adamdaki zeka abaküs ile hesap yapamayacak seviyede. okuduğun okula ayrı yazık, okuyasın diye sana para harcayan ailene ayrı yazık yemin ediyorum.
-  entry_channels: haber,otomotiv
 - entry_name: |
     türbanlı hakim
   entry_id:  92558813
@@ -283,13 +283,13 @@ data:
     hadi gene iyisin tayfun, çelik erişçi, kahtalı mıçı, küçük ceylan ve hatta ismail yk... hepinizden özür diliyorum. biz size büyük haksızlık etmişiz. affedin.<br/><br/>tanım: overclick rated ünlümsü
   entry_channels: tv,müzik
 - entry_name: |
-    zabıta tarafından balonlarına el koyulan çocuk
-  entry_id:  92561049
-  entry_writer: kalemi kilicindan keskin olan adam
+    n11'de 19.899 tl'ye satılan bebek küveti
+  entry_id:  92562259
+  entry_writer: haydari
   entry_fav_count: 9
   entry_content: |
-    ağlaya ağlaya "para lazım, eve ekmek götürücem" diyor çocuk.<br/>çevredekiler de izliyor.<br/><br/>el koyduğunuz şey kaçak sigara değil. uyuşturucu değil.<br/>balon.<br/>bu orospu çocuğu zabıtaları görevden almayanlar ve o çocuğun ağlamasını izleyenler.<br/>sizin vicdanınızı sikeyim.<br/><br/>"dünya kötülük yapanlar yüzünden değil, hiçbir şey yapmadan durup izleyenler yüzünden tehlikeli bir yerdir."<br/><a class="b" href="/?q=einstein">einstein</a>
-  entry_channels: ilişkiler,haber
+    avrupada 335 euro<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.amazon.it/Ok-Baby-38380001-Okbaby-Idromassaggio/dp/B07F5RHX8H/ref=pd_aw_sbs_75_1/259-4709062-7628723?_encoding=UTF8&amp;pd_rd_i=B07F5RHX8H&amp;pd_rd_r=ac82ac5b-a58c-11e9-af60-adc40eafed34&amp;pd_rd_w=6Lqjs&amp;pd_rd_wg=GVOpI&amp;pf_rd_p=9699f369-9a7d-439d-92a3-9e2b6427cf7f&amp;pf_rd_r=NGKVRZCVYR15GDASYWZ0&amp;psc=1&amp;refRID=NGKVRZCVYR15GDASYWZ0#" title="https://www.amazon.it/Ok-Baby-38380001-Okbaby-Idromassaggio/dp/B07F5RHX8H/ref=pd_aw_sbs_75_1/259-4709062-7628723?_encoding=UTF8&amp;pd_rd_i=B07F5RHX8H&amp;pd_rd_r=ac82ac5b-a58c-11e9-af60-adc40eafed34&amp;pd_rd_w=6Lqjs&amp;pd_rd_wg=GVOpI&amp;pf_rd_p=9699f369-9a7d-439d-92a3-9e2b6427cf7f&amp;pf_rd_r=NGKVRZCVYR15GDASYWZ0&amp;psc=1&amp;refRID=NGKVRZCVYR15GDASYWZ0#">ahanda</a><br/><br/>bu paragöz çakallar avrupada yeni ürünleri vergi dahil 4000 e getirir burada zengin kezbanlarına 20000 tl ye kitlerler.
+  entry_channels: haber
 - entry_name: |
     antidepresan mı daha zararlı depresyon mu
   entry_id:  92540781
@@ -299,14 +299,6 @@ data:
     altındaki tavsiyelerle beni benden alan karşılaştırma. biri spor yapın diyor, biri kitap okuyun. cidden biz neden düşünmüyoruz bunları acaba ya? depresyonda değil gerizekalıyız herhalde.<br/>kardeş bakın. okuyamıyon. konsantrasyon falan yok, 3 satırdan ileri gidemiyorsun okur gibi yapıyorsun, gözler satırların üzerinde geziyor ama kafa almıyor, kabul etmiyor. ben depresyonda değilim, anksiyete sorunum var ama depresyon yüzünden de bunu yaşayanlar var. felç geçirmiş hastaya her şey kafanda kalk yürü demek gibi bir şey bu ya. daha ne diyeyim bilmiyorum, cidden efsanesin sözlük.
   entry_channels: sağlık
 - entry_name: |
-    n11'de 19.899 tl'ye satılan bebek küveti
-  entry_id:  92562259
-  entry_writer: haydari
-  entry_fav_count: 7
-  entry_content: |
-    avrupada 335 euro<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.amazon.it/Ok-Baby-38380001-Okbaby-Idromassaggio/dp/B07F5RHX8H/ref=pd_aw_sbs_75_1/259-4709062-7628723?_encoding=UTF8&amp;pd_rd_i=B07F5RHX8H&amp;pd_rd_r=ac82ac5b-a58c-11e9-af60-adc40eafed34&amp;pd_rd_w=6Lqjs&amp;pd_rd_wg=GVOpI&amp;pf_rd_p=9699f369-9a7d-439d-92a3-9e2b6427cf7f&amp;pf_rd_r=NGKVRZCVYR15GDASYWZ0&amp;psc=1&amp;refRID=NGKVRZCVYR15GDASYWZ0#" title="https://www.amazon.it/Ok-Baby-38380001-Okbaby-Idromassaggio/dp/B07F5RHX8H/ref=pd_aw_sbs_75_1/259-4709062-7628723?_encoding=UTF8&amp;pd_rd_i=B07F5RHX8H&amp;pd_rd_r=ac82ac5b-a58c-11e9-af60-adc40eafed34&amp;pd_rd_w=6Lqjs&amp;pd_rd_wg=GVOpI&amp;pf_rd_p=9699f369-9a7d-439d-92a3-9e2b6427cf7f&amp;pf_rd_r=NGKVRZCVYR15GDASYWZ0&amp;psc=1&amp;refRID=NGKVRZCVYR15GDASYWZ0#">ahanda</a><br/><br/>bu paragöz çakallar avrupada yeni ürünleri vergi dahil 4000 e getirir burada zengin kezbanlarına 20000 tl ye kitlerler.
-  entry_channels: haber
-- entry_name: |
     sevilen şiirin en vurucu cümlesi
   entry_id:  92535338
   entry_writer: taegutec
@@ -314,14 +306,6 @@ data:
   entry_content: |
     bil ki ölmüşüm.<br/>fakat yine üzülme, müsterih ol;<br/>kabirde böceklere ezberletirim güzelliğini,<br/>ve neden sonra<br/>tekrar duyduğun gün sesimi gökkubbede,<br/>hatırla ki mahşer günüdür<br/>ortalığa düşmüşüm seni arıyorum.
   entry_channels: anket,edebiyat
-- entry_name: |
-    hayat sloganı yapılacak söz
-  entry_id:  92559232
-  entry_writer: eylulika
-  entry_fav_count: 5
-  entry_content: |
-    “şımaracak kimsen olmayınca hayat seni kocaman bir adama çevirir.”
-  entry_channels: anket
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  92553027
@@ -355,22 +339,6 @@ data:
     kendisini hapse atan akp-fetö koalisyonundan fetöyü yerden yere vuran ama akpye sütten çıkmış ak kaşık muamelesi yapan şahıs.<br/>olanlardan akp de en az fetö kadar suçlu.<br/>nedim gibi kullanışlı aptallar bu gerçeği değiştiremez.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    mansur yavaş'ın ibret olsun diye ağaç dikmesi
-  entry_id:  92562329
-  entry_writer: sancili90
-  entry_fav_count: 2
-  entry_content: |
-    mansur başkan'ın başkan olduktan sonra gökçeğin tanesi 25 bin liraya aldığını fark ettiği ağaçları kızılay'a dikmesi olayı...<br/><br/>görüyor musunuz akp'liler ağaca ne kadar önem veriyormuş. 25 bin lirayı ağaç fidanlarına gözü kapalı vermişler. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.maksatistihdam.com/mansur-yavas-o-agaclari-ibret-olsun-diye-dikti/" title="https://www.maksatistihdam.com/mansur-yavas-o-agaclari-ibret-olsun-diye-dikti/">kaynak</a>
-  entry_channels: haber
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  92551690
-  entry_writer: chon mooye to
-  entry_fav_count: 2
-  entry_content: |
-    dertleşme veritabanı değil erkeklerin kız düşürme veritabanıdır.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     takip edilesi youtube kanalları
   entry_id:  92557956
   entry_writer: mmrothello
@@ -395,11 +363,43 @@ data:
     benım burada anlamadıgım bı konu olan.<br/><br/>arkadaslar bazı erkekler goruyorum, sadece bayanlar yazsın yazıyorlar.<br/>gercekten arkadas arıyorsanız bunun cınsıyetı olur mu?<br/>yok eger ozel hukuklu bı seyler arıyorsanız bunun tınderı var, okcupıd ı var, happen ı var.<br/>burası dogru mecra degıl.<br/>tıpınıze mı guvenmıyorsunuz veya o kıt zekanıza fazla mı guvenıyorsunuz?<br/>tesekkurler.
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 - entry_name: |
+    13 temmuz 2019 ankara'da havada görülen cisim
+  entry_id:  92564037
+  entry_writer: jakeal122
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=a%c3%a7may%c4%b1n+korkun%c3%a7lu+pixel">açmayın korkunçlu pixel</a>)
+  entry_channels: 
+- entry_name: |
     yazarların bu akşamki alkol tercihi
-  entry_id:  92536612
-  entry_writer: qwert123
+  entry_id:  92537214
+  entry_writer: blingling
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7ay">çay</a>)<sup class="ab"><a title="(bkz: eser miktarda alkol icerebilir)" href="/?q=eser+miktarda+alkol+icerebilir" data-query="eser miktarda alkol icerebilir">*</a></sup>
+    demli çay
   entry_channels: anket,yeme-içme
+- entry_name: |
+    yakışıklı erkek görünce verilen tepkiler
+  entry_id:  92563492
+  entry_writer: eksimtrack
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=amk+%c3%a7ocu%c4%9fu">amk çocuğu</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    sözlükte hiç polis olduğunu söyleyen olmaması
+  entry_id:  92563284
+  entry_writer: afti ine i sparti
+  entry_fav_count: 0
+  entry_content: |
+    hangi meslek mensupları söylüyor? böyle bir gereklilik mi var?<br/>ayrıca polislere sessiz kalındığı filan yok. gerekince giydiriliyor. içlerinde kahramanlar da var şerefsizler de.
+  entry_channels: siyaset,ilişkiler,ekşi-sözlük
+- entry_name: |
+    mansur yavaş'ın ibret olsun diye ağaç dikmesi
+  entry_id:  92562676
+  entry_writer: sezery
+  entry_fav_count: 0
+  entry_content: |
+    belediyenin yapması gereken işlerden sadece birini yapmış. ibretlik bir durum yok kanımca.
+  entry_channels: siyaset,haber
 ---
