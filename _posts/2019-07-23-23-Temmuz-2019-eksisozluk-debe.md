@@ -3,10 +3,26 @@ layout: post
 title: 23 Temmuz 2019 Ekşi Sözlük Debe
 data:
 - entry_name: |
+    ibb lozan afişleri
+  entry_id:  92913112
+  entry_writer: fikirtepeli
+  entry_fav_count: 1356
+  entry_content: |
+    ibb abdülhamit afişleri asarken sana ne senin ne işin olur abdülhamit'le diyememiş davarların sokuk duyarları. adam olacaksınız. sike sike alışacaksınız. sizin devriniz bitti. abdülhamit'inizle birlikte siktir olup gideceksiniz.<br/><br/>edit: arapperestler küfür mesajı atmayın artık. tamam bir gün herkes arap olacak. sizsiniz.
+  entry_channels: siyaset,haber
+- entry_name: |
+    seydioğlu baklavacılarının hayatının kararması
+  entry_id:  92924530
+  entry_writer: mehyanede sabahlayan adam
+  entry_fav_count: 1172
+  entry_content: |
+    arabanın üzerinde tepinirken iyiydi dimi amk barzosu. beter olun, aç kalın aç, gün yüzü görmeyin amk.
+  entry_channels: haber,yeme-içme
+- entry_name: |
     gidişi en çok üzen futbolcu
   entry_id:  92936846
   entry_writer: mystyc
-  entry_fav_count: 463
+  entry_fav_count: 488
   entry_content: |
     (bkz: <a class="b" href="/?q=alex+de+souza">alex de souza</a>)
   entry_channels: spor
@@ -14,7 +30,7 @@ data:
     türk kızlarının nezaket sorunu
   entry_id:  92927036
   entry_writer: pikan
-  entry_fav_count: 418
+  entry_fav_count: 428
   entry_content: |
     iyi davranmayı "gönlü var olarak algılayan türk erkeği" ne fazla bile nazik davranıyoruz...<br/><br/>edit: mesaj kutum küfürle doldu... çok nazik beyler özür dilerim, kendinizi ne güzel ifade ediyorsunuz... oysa iki dakika sizinle yazışsam, ne iltifatlar duyar, ne türlü teklifler alırdım. pardon... keşke beni utandırsaydınız nezaketinizle beyefendiliğinizle de, ben haksız çıksaydım.
   entry_channels: ilişkiler
@@ -22,7 +38,7 @@ data:
     suriyelinin türk bayrağı çizimi
   entry_id:  92917552
   entry_writer: cicatrix4
-  entry_fav_count: 417
+  entry_fav_count: 420
   entry_content: |
     oraya 2 karı ve 4 çocuk daha çizmenizi rica ediciğim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Y_2K0LmkZVk&amp;feature=share" title="https://www.youtube.com/watch?v=Y_2K0LmkZVk&amp;feature=share">başkentine gitsene orospu evladı</a><br/><br/>almıyorlar ama. bu vatansız kansız orospu evlatlarını kendi ülkesi kabul etmiyor geliyor türk bayrağına montaj yapıyor o cüreti gösterebiliyor. bu orospu evlatları başkentlerine gidemez!<br/><br/>insanlığa hakarettir araplar.<br/><br/>edit: @xaxxbczczaaxa yazar paylaştı: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/images/65/88/g458905w3him.jpg">https://eksiup.com/images/65/88/g458905w3him.jpg</a>
   entry_channels: siyaset,haber
@@ -30,7 +46,7 @@ data:
     22 temmuz 2019 imamoğlu'nun tatilde olması
   entry_id:  92935128
   entry_writer: godot is dead
-  entry_fav_count: 393
+  entry_fav_count: 401
   entry_content: |
     ekrem imamoğlu'na oy vermiş bir chp seçmeni olarak objektif olmam gerekirse imamoğlu'nun bu tavrını gayet de doğru buluyorum. <sup class="ab"><a title="(bkz: ahahaha)" href="/?q=ahahaha" data-query="ahahaha">*</a></sup>
   entry_channels: siyaset
@@ -38,7 +54,7 @@ data:
     22 günlük gelinin evi terk etmesi
   entry_id:  92920688
   entry_writer: everythingsfine
-  entry_fav_count: 336
+  entry_fav_count: 339
   entry_content: |
     kendinize ev arkadaşı, iş ortağı seçer gibi eş seçerseniz olacağı budur. evi hazırdı, arabası hazırdı, bir kız lazımdı "evlenmelik"! onu da buldu evlendi. muhtemelen anasına da bu gelin adayını onaylattırıyor. nasıl olsa tertemiz devlet memuru, öğretmen hanım kızımız. bu daha çok iş anlaşması gibi olmuş. eminim kadının da başına gelse, adam aynısını yapardı. birbirlerini sevmiyorlar sadece ara sıra seks yapan(belki de onu bile yapmayan) ev arladaşı onlar. ve ülkenin çoğu böyle evleniyor.<br/>bu işin kadını erkeği yok arkadaşlar. aynısını erkek de yapar hatta erkekler bunu daha çok yapıyor. kanserli halam ölmeden kaç yıllık kocası kendine eş aramaya başlamıştı. <br/><br/>demek istediğimi sevgili suser çok güzel açıklamış. dediklerimi anlamadan zırlamayın. <br/>(bkz: <a class="b" href="/entry/92922326">#92922326</a>) <br/><br/>edit: mantık evliliği olsa bile yapmamalıydı demişler. bir de bana orspu çocuğu demişler. haha lan böyle bir ilişki de ikisi de bir amaç uğruna evleniyor yani sizi çok sevdiği için değil. baktı ki adam hasta, kocişinden veledler doğuramayacak vınlıyor anında. bunu belki 5-10 senelik kadın yapsaydı karaktersizlik olurdu. ama öğretmen oğlum bunlar! "atanam da, evlenem de, kocişle kahve keyfi fotoları atam da, tez vakitte bebeler yapam da, herkesi de çatır çatır çatlatam" kafasında kadınlar çoğu.. aniden evleniyorlar, aniden de bırakıyorlar. kısacası erkek için de bu durum geçerli kadında da... daha 1 ay olmadan hasta olsa onlar da bırakırdı. eminim bunlar daha 22 günde samimiyet bile kuramamışlardır.<br/><br/>bu arada erkek değil kadınım. bazıları kadın düşmanı demiş de bana... ben her iki cinse de söyledim. istisnalar olabilir ama kaideyi bozmaz.
   entry_channels: ilişkiler,sağlık
@@ -46,7 +62,7 @@ data:
     devlet pkk'lı kadınları vahşice öldürdü
   entry_id:  92934580
   entry_writer: enseye dusen bir damla su
-  entry_fav_count: 298
+  entry_fav_count: 309
   entry_content: |
     canan kaftancıoğlu'na ısınamadım. söylemleri benim siyasi ve askeri görüşümle tamamen zıt. ama ekrem imamoğlu'na oy vermeme engel değil. imralıdan gelen mektup ve hatta kırımızı bültenle aranan bir adamın kürt seçmenin oyunu değiştirmek için trt'ye röportaj vermesi nasıl sizin oy vermenize engel olmuyorsa aynı durum bu tarafta da var. bu ve bunun gibiler gelir geçer.
   entry_channels: siyaset,haber
@@ -54,7 +70,7 @@ data:
     baklavanın aşırı abartılı bir tatlı olması
   entry_id:  92928987
   entry_writer: cagatayy
-  entry_fav_count: 239
+  entry_fav_count: 241
   entry_content: |
     sen yeme ulan ayı!<br/><br/>edit: gelen istek üzerine ekleme yapılmıştır.
   entry_channels: anket,yeme-içme
@@ -62,15 +78,23 @@ data:
     netflix dizilerindeki eşcinselliğin bıktırması
   entry_id:  92917701
   entry_writer: lazika
-  entry_fav_count: 231
+  entry_fav_count: 235
   entry_content: |
     rica ediyorum bu başlık altında gereksiz duyar kasılmasın, komik oluyor. <br/><br/>dizinin en heyecanlı yerinde birden bire anırta anırta birbirini götten s*ken insan görmek midemi bulandırıyor.<br/><br/>eşcinsellikle ilgili bir sorunum yok. isteyen istediğini s*ksin ama bana bu ucuz numaralarla dayatılmasın, ben onun derdindeyim.
   entry_channels: ilişkiler,tv
 - entry_name: |
+    22 temmuz 2019 istanbul valiliği açıklaması
+  entry_id:  92932277
+  entry_writer: rehzen
+  entry_fav_count: 231
+  entry_content: |
+    kayitli olduklari ulkeye donseler demeden ettirmeyen.
+  entry_channels: siyaset,haber
+- entry_name: |
     çok gezdiği halde instagram'a fotoğraf atmayan tip
   entry_id:  92919784
   entry_writer: aqp 1990
-  entry_fav_count: 216
+  entry_fav_count: 217
   entry_content: |
     birazdan instagram kullanmıyorum,ego tatmininden başka bir şey değil diyip burada gezdiği yerleri anlatacak tipler gelecek.
   entry_channels: anket,teknoloji,seyahat
@@ -78,7 +102,7 @@ data:
     30 yaş üstü erkeklerin patatese dönmesi
   entry_id:  92933280
   entry_writer: lsdninformulu
-  entry_fav_count: 209
+  entry_fav_count: 213
   entry_content: |
     32 yim patatese çeviririm.<br/><br/>edit: entry e gelen yoğun dm leriniz için teşekkürler arkadaşlar. püre olmak isteyenler yesillendirsin. kendi kazandigin mal varlığından başlayalım, bisiklet olur, 1e1 basketbol olur, ps4 olur, bilek güreşi de olur. hatun kişiler için farkli durumlar olur.
   entry_channels: ilişkiler
@@ -86,7 +110,7 @@ data:
     whatsapp'ın olmadığı zamanlar sevgili ile iletişim
   entry_id:  92912335
   entry_writer: jimmy jib
-  entry_fav_count: 179
+  entry_fav_count: 180
   entry_content: |
     çaldırma vardı çaldırma amk... karanlık gunler.
   entry_channels: tarih,teknoloji
@@ -94,63 +118,71 @@ data:
     reçeteye kendi numarasını yazan acil doktoru
   entry_id:  92941926
   entry_writer: ineffective
-  entry_fav_count: 147
+  entry_fav_count: 155
   entry_content: |
     ben doktorun yazdığı reçeteyim, olay doğru arkadaşlar.<br/><br/>tanım: "bu insanlar sözlüğe girmeden önce ne kullanıyorsa ben de aynı kafadan yaşamak istiyorum" dedirten başka bir hikaye.
   entry_channels: anket
 - entry_name: |
-    instagram'ı kapatmak
-  entry_id:  92934984
-  entry_writer: oyuncak bulut
-  entry_fav_count: 144
+    maden suyu şişesi patlaması
+  entry_id:  92944323
+  entry_writer: imamihanife
+  entry_fav_count: 150
   entry_content: |
-    her kapatana benden bir bira diyerek desteklediğim hareket.<br/>huzur bulacaksınız.<br/><br/>edit: hiç instagram hesabı açmamışlara rakı eşliğinde kırmızı ejder meyveli smoothie ısmarlıyorum.
-  entry_channels: 
+    yazar sürekli çıplaklık vurgusu yaparak ne yapmak nereye varmak istemektedir.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     en iyi dondurma kombinasyonu
   entry_id:  92912458
   entry_writer: iced emre
-  entry_fav_count: 113
+  entry_fav_count: 114
   entry_content: |
     sade ve antep fıstıklı.<br/><br/>dip not: evet yaşlıyım. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,yeme-içme
 - entry_name: |
+    instagram'ı kapatmak
+  entry_id:  92935652
+  entry_writer: kontrpiyede kalan kameraman
+  entry_fav_count: 109
+  entry_content: |
+    düşük profil insanların anlam yüklediği sıradan eylem.
+  entry_channels: 
+- entry_name: |
     ateizm eşiğindeki gençlere tavsiyeler
   entry_id:  92934681
   entry_writer: burada basladi burada bitti
-  entry_fav_count: 101
+  entry_fav_count: 105
   entry_content: |
     gençler size bir iyi bir de kötü haberim var,<br/><br/>önce kötü haberi veriyorum; allah var mı bilmiyoruz.<br/><br/>şimdi de iyi haberi veriyorum; allah varsa bile bunların anlattığı gibi değil.<br/><br/>tercih size kalmış.
   entry_channels: anket,bilim
 - entry_name: |
-    maden suyu şişesi patlaması
-  entry_id:  92944323
-  entry_writer: imamihanife
-  entry_fav_count: 89
-  entry_content: |
-    yazar sürekli çıplaklık vurgusu yaparak ne yapmak nereye varmak istemektedir.
-  entry_channels: 
-- entry_name: |
     kişinin enerjisini tüketen şeyler
   entry_id:  92933914
   entry_writer: idacadi
-  entry_fav_count: 86
+  entry_fav_count: 95
   entry_content: |
     olumsuz negatif enerji salan insanlardir benim enerjimi tuketenler
-  entry_channels: 
+  entry_channels: anket,sağlık
 - entry_name: |
     türk erkeklerinin bisiklete binmeme nedeni
   entry_id:  92938926
   entry_writer: lowpoly
-  entry_fav_count: 75
+  entry_fav_count: 82
   entry_content: |
     bu ülkede bisiklete binmek cesaret ister. aklınız varsa da binmeyin. halen mahkemeyle uğraşıyorum. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/91740434" title="https://eksisozluk.com/entry/91740434">ilgili entrym</a> <br/><br/>edit: sevgili yazar arkadaşlarım ve çaylak arkadaşlarım, geçmiş olsun dilekleriniz için teşekkür ediyorum. kısa bir şey eklemek istiyorum, bisiklet medeni insanların kullanabilecekleri bir araçtır. ülkemiz sınırları içerisinde adaleti ve hukuku saymazsak. bisiklete bindiğinizde aldığınız sorumluluk sizindir. bisiklet yoluna kurulan mangala çarpıp düşen arkadaşım. bir kamyon sopa yedi. neymiş etlerini ziyan ettiği için. bakın bu da başkası, bisiklet yolunda yürüyen maganda, kız arkadaşım bisiklet zili çaldı diye tacize uğruyor. bisiklet yoluna park eden aracın şöförünü uyarıyorsun, arabadan haydar ile iniyor. bunlar benim yaşadıklarım. canınızı seviyorsanız, sevdikleriniz varsa, araba alın üstüne de bisikletinizi yerleştirin, gidin kimsenin olmadığı yerde rahat rahat sürün.
   entry_channels: anket
 - entry_name: |
+    devlet bahçeli'nin f-35 için biz de yaparız demesi
+  entry_id:  92909433
+  entry_writer: interstellar star
+  entry_fav_count: 75
+  entry_content: |
+    (bkz: <a class="b" href="/?q=senin+i%c5%9f+pazartesiye+tamam+abi">senin iş pazartesiye tamam abi</a>)
+  entry_channels: haber,magazin
+- entry_name: |
     ronaldinho gaucho
   entry_id:  92931088
   entry_writer: yapma carlos
-  entry_fav_count: 62
+  entry_fav_count: 66
   entry_content: |
     prime dönemi çok kısa süren oyuncu. ancak o hali günümüz piyasasında olsa 450-500 milyon euro vereni çıkardı eminim.
   entry_channels: spor
@@ -158,26 +190,34 @@ data:
     fiyatı korkunç bir şekilde artan ürünler
   entry_id:  92909858
   entry_writer: akuila
-  entry_fav_count: 61
+  entry_fav_count: 62
   entry_content: |
     hersey sasece 1-2 ürün yada marka değil.<br/>-alkol<br/>-meyve sebze<br/>-temizlik ürünleri<br/>-kişisel bakım ürünleri<br/>-cep telefonu<br/>-elektronik eşyalar<br/>-bilgisayar <br/>-otomobil (0'ıda ikinci elide)<br/>-ulaşım ücretleri(otobüs uçak ve şehiriçi ulaşım)<br/><br/>artmayan şeyler<br/>-maaş ve insanın değeri<br/>-yerseniz birde enflasyon var
   entry_channels: anket,ekonomi
 - entry_name: |
-    hasan şaş
-  entry_id:  92924441
-  entry_writer: cembom
-  entry_fav_count: 54
+    ayt 250.si gence tıp fakültesi yazdırmak
+  entry_id:  92909414
+  entry_writer: spinapubica
+  entry_fav_count: 59
   entry_content: |
-    doping yaptığı için değil soğuk algınlığı esnasında o sıralar yasak olan aferin isimli ilacı içtiği için ceza almıştır. bilip bilmeden konuşmayın lütfen. hata kendisine ait değil, takım doktoruna aittir. neticede <a class="b" href="/?q=z%c4%b1rva+tevil+g%c3%b6t%c3%bcrmez">zırva tevil götürmez</a>
-  entry_channels: spor
+    ayt'de ilk 250'ye girecek bir ogrenci eger iyi bir kilavuzluk almis olsaydi, sene ortasindan once mit, stanford, berkeley veya benzeri bir universiteye basvurmus ve buyuk ihtimalle kabul almis olurdu. <br/><br/>universiteye hazirlanan gencler icin kilavuzlugun onemi cok yuksek.
+  entry_channels: anket,bilim,eğitim
 - entry_name: |
     cep telefonuna sevgili ismini kaydetme biçimleri
   entry_id:  92909439
   entry_writer: 23arizonas23
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     sevgilim olmadığı için beni ilgilendirmeyen biçimdir.
   entry_channels: anket,ilişkiler,teknoloji
+- entry_name: |
+    bilkent vs itü vs koç vs boğaziçi vs odtü
+  entry_id:  92937890
+  entry_writer: emzegrit
+  entry_fav_count: 51
+  entry_content: |
+    (boğaziçi = odtü) &gt; (bilkent = koç) &gt; itü<br/><br/>cenabı hak öyle kusursuz bi düzen yaratmıştır ki kategori içinde şehir seçebilmenize olanak verir.
+  entry_channels: anket
 - entry_name: |
     flamingo köy
   entry_id:  92909542
@@ -187,13 +227,13 @@ data:
     sahibi olan agir kompleksli yobaz trabzonlu bireyin evinin arka bahcesinde kurdugu sikimsonik yerdir.
   entry_channels: haber,yeme-içme
 - entry_name: |
-    bilkent vs itü vs koç vs boğaziçi vs odtü
-  entry_id:  92937890
-  entry_writer: emzegrit
+    canlı performansı albümüne eşit olan sanatçılar
+  entry_id:  92933522
+  entry_writer: keremica
   entry_fav_count: 42
   entry_content: |
-    (boğaziçi = odtü) &gt; (bilkent = koç) &gt; itü<br/><br/>cenabı hak öyle kusursuz bi düzen yaratmıştır ki kategori içinde şehir seçebilmenize olanak verir.
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=candan+er%c3%a7etin">candan erçetin</a>)<br/><br/>sonuçta para karşılığı yaptığı bir iş ama hiç öyle görünmüyor sahnede.<br/>büyük bir titizlikle hazırlandığı ve ciddiye aldığı çok belli.<br/>şarkı söylemeyi çok seviyor muhtemelen. <br/>ne mutlu tutkusunu işe dönüştürüp, tutkuyla işini yapabilen insanalara. <br/>bize de hayran kalmak düşüyor böylelerine.
+  entry_channels: anket,tv,müzik,magazin
 - entry_name: |
     nihat genç
   entry_id:  92909810
@@ -203,13 +243,29 @@ data:
     özelden yazan müritlerine göre nihat genç ve müritleri hariç tüm muhalifler pkk'lıdır. bir tek onlar, 40 bin veryansın tv izleyicisi vatansever, geri kalan herkes pkk'lı. ama cumhur ittifakı pkk'lı değil. muhalifler hep pkk'lı.
   entry_channels: siyaset,tv,edebiyat
 - entry_name: |
-    canlı performansı albümüne eşit olan sanatçılar
-  entry_id:  92933522
-  entry_writer: keremica
-  entry_fav_count: 40
+    canan kaftancıoğlu
+  entry_id:  92936678
+  entry_writer: illuminaki
+  entry_fav_count: 39
   entry_content: |
-    (bkz: <a class="b" href="/?q=candan+er%c3%a7etin">candan erçetin</a>)<br/><br/>sonuçta para karşılığı yaptığı bir iş ama hiç öyle görünmüyor sahnede.<br/>büyük bir titizlikle hazırlandığı ve ciddiye aldığı çok belli.<br/>şarkı söylemeyi çok seviyor muhtemelen. <br/>ne mutlu tutkusunu işe dönüştürüp, tutkuyla işini yapabilen insanalara. <br/>bize de hayran kalmak düşüyor böylelerine.
-  entry_channels: anket,tv,müzik,magazin
+    aynen öyle kardeşim hem kürtçü, hem ermenici, hem rumcu yahudici alevici ne ararsan ne kadar azınlık aklına geliyorsa hepsinin sesi olacak kadın.<br/><br/>chp'nin de içinde olduğu sözcü - yılmaz özdil faşizminden, "ben atatürk'ü seviyorum o yüzden bu da benim aydın olduğum anlamına gelir, ne düşünürsem haklıyımdır kesin" kafasından artık uzaklaşabilmeli chp, o yüzden tam da aranan kan kendisidir.<br/><br/>memlekette senden nefret mi etsinler istiyorsun?<br/>azınlıklardan nefret etmediğini belli et yeter.<br/>maalesef böyle bir ortamda kafanıza cetvelle vura vura insan edecek sizi kaftancıoğlu.<br/><br/>yüzleşmekten korktuğunuz bazı laflar edilmeye başlandı ya, derdiniz o.
+  entry_channels: siyaset,sağlık,haber
+- entry_name: |
+    bmw'sini göstermek için 4000 km yol tepen gurbetçi
+  entry_id:  92944398
+  entry_writer: partizan turks
+  entry_fav_count: 33
+  entry_content: |
+    gecen sene munih'e seyahat etmistim. havaalanindan sehre goturen taksici turk'tu. konu nerden acildi tam hatirlamiyorum turkiye'ye ucak'la mi gittigini sordugumda arabayla cevabini vermisti. niye diye sordugumda verdigi cevap mantikliydi. 1) aile kalabalik, o kadar kisi icin ucak bileti ucuz degil. 2) gittigimizde en az bir ay kaliyoruz, o kadar sure icin arac kiralamak ucuz degil. tabi bir de munih almanya'dan turkiye'ye seyahat icin en kisa mesafade olan sehirlerden biri. google'a gore istanbul 1900km mesade. iki gunde gelinebilecek bir uzaklik. tek basina uc gun kalmak icin yapmiyorsa cok dert etmemek lazim. <br/><br/>buna benzer abd'de de ara sira abuk sabuk mesafeler gelen tipleri gorurum. mesela boston'da birden cok sefer alaska plakali arac gormuslugum var. boston-anchorage arasi mesafe 7400km falan. kafayi mi yediler diye dusunmemek elde degil ama vardir bu cengaverlerin de mantikli sebepleri.
+  entry_channels: 
+- entry_name: |
+    geneleve hiç gitmemiş erkek
+  entry_id:  92940459
+  entry_writer: kurtarin kendinizi
+  entry_fav_count: 32
+  entry_content: |
+    benim bu. çünkü iğrenç bir davranış.<br/><br/>bir insanın tanımadığı etmediği ve geçmişini bilmediği hastalık kaynağı başka bir insan ile para verip birlikte olması kadar tehlikeli, çirkin, aciz ve etik dışı bir hareket yoktur.<br/><br/>kendime hakaret sayarım bu tarz bir davranışı. çok ciddi bir aciziyet göstergesidir.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     en güzel bira
   entry_id:  92909417
@@ -219,21 +275,21 @@ data:
     ötv’si olmayan biradır.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    karşısından gelen güzel kıza bakmayan erkek
-  entry_id:  92909954
-  entry_writer: icinizdenius
-  entry_fav_count: 31
+    şimdiki çocukların itici ve sevimsiz olması
+  entry_id:  92940478
+  entry_writer: venusteki limon agaci
+  entry_fav_count: 25
   entry_content: |
-    ne yaparsa yapsın, isterse gözlerini siyah bantlarla kapatsın. yine de bakmamaktaki amacına, motivasyonuna ulaşamayacak olan erkektir.<br/><br/>çünkü ne yaparsa yapsın, karşıdan gelen kız, kendisine bakıldığını düşünecek. beyni öyle çalışıyor çünkü.
-  entry_channels: ilişkiler
+    çocuklar için yapılmış en iyi tanım: little drunk people. eğer gözlemlerseniz alayının 1 metrelik bir serhoş gibi davrandığını görürsünüz. <br/><br/>çocuk terörüne maruz kalan biri olarak açıkça söyleyebilirim ki, çocuklar itici ve sevimsiz değildir. bir leyla vasati şöyle demişti: ben bu dünyaya çocukların bir şeyler bilerek geldiğini düşünüyorum. büyüdükçe bildiğimiz o şey neyse, unutuyoruz. <br/><br/>sümüğünü koluna silen, çıldırtana kadar şarkı söyleyebilen, kedinin veterinere götürüleceğini öğrenince “kedinin doktoru da kedi mi?” diye sorabilen bir canlı itici değil olsa olsa sevilesi bir salak olur. <br/><br/>şimdiki çocukların itici ve sevimsiz olmaları değil şimdiki çocukların ebeveynlerinin(geneli orta üst sınıf ebeveynler) itici ve sevimsiz olmaları durumu vardır. <br/><br/>alayının çocuğu prenses, şehzade, ipad hacker. benim babam beni 14 yaşıma kadar boklu diye sevdi be:(
+  entry_channels: anket
 - entry_name: |
-    geneleve hiç gitmemiş erkek
-  entry_id:  92940459
-  entry_writer: kurtarin kendinizi
-  entry_fav_count: 30
+    22 temmuz 2019 wolfsburg fenerbahçe maçı
+  entry_id:  92945693
+  entry_writer: i was me but now he s gone
+  entry_fav_count: 23
   entry_content: |
-    benim bu. çünkü iğrenç bir davranış.<br/><br/>bir insanın tanımadığı etmediği ve geçmişini bilmediği hastalık kaynağı başka bir insan ile para verip birlikte olması kadar tehlikeli, çirkin, aciz ve etik dışı bir hareket yoktur.<br/><br/>kendime hakaret sayarım bu tarz bir davranışı. çok ciddi bir aciziyet göstergesidir.
-  entry_channels: anket,ilişkiler
+    aylar yıllar sonra ferdi kadıoğlu oyunda. ama sağ bekte. hollanda genç milli takımının 10 numarası sağ bekimizde oynuyor. muazzam.
+  entry_channels: spor
 - entry_name: |
     ekşi itiraf
   entry_id:  92909891
@@ -243,29 +299,21 @@ data:
     2 gün önce doğum günümdü. ve ben bunu yeni hatırladım, ve benden başka hatırlayan da olmamış demekki...<br/><br/>nasıl bir hafta geçirdiysem artık...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    şimdiki çocukların itici ve sevimsiz olması
-  entry_id:  92940478
-  entry_writer: venusteki limon agaci
-  entry_fav_count: 21
-  entry_content: |
-    çocuklar için yapılmış en iyi tanım: little drunk people. eğer gözlemlerseniz alayının 1 metrelik bir serhoş gibi davrandığını görürsünüz. <br/><br/>çocuk terörüne maruz kalan biri olarak açıkça söyleyebilirim ki, çocuklar itici ve sevimsiz değildir. bir leyla vasati şöyle demişti: ben bu dünyaya çocukların bir şeyler bilerek geldiğini düşünüyorum. büyüdükçe bildiğimiz o şey neyse, unutuyoruz. <br/><br/>sümüğünü koluna silen, çıldırtana kadar şarkı söyleyebilen, kedinin veterinere götürüleceğini öğrenince “kedinin doktoru da kedi mi?” diye sorabilen bir canlı itici değil olsa olsa sevilesi bir salak olur. <br/><br/>şimdiki çocukların itici ve sevimsiz olmaları değil şimdiki çocukların ebeveynlerinin(geneli orta üst sınıf ebeveynler) itici ve sevimsiz olmaları durumu vardır. <br/><br/>alayının çocuğu prenses, şehzade, ipad hacker. benim babam beni 14 yaşıma kadar boklu diye sevdi be:(
-  entry_channels: anket
-- entry_name: |
-    bmw'sini göstermek için 4000 km yol tepen gurbetçi
-  entry_id:  92944398
-  entry_writer: partizan turks
-  entry_fav_count: 20
-  entry_content: |
-    gecen sene munih'e seyahat etmistim. havaalanindan sehre goturen taksici turk'tu. konu nerden acildi tam hatirlamiyorum turkiye'ye ucak'la mi gittigini sordugumda arabayla cevabini vermisti. niye diye sordugumda verdigi cevap mantikliydi. 1) aile kalabalik, o kadar kisi icin ucak bileti ucuz degil. 2) gittigimizde en az bir ay kaliyoruz, o kadar sure icin arac kiralamak ucuz degil. tabi bir de munih almanya'dan turkiye'ye seyahat icin en kisa mesafade olan sehirlerden biri. google'a gore istanbul 1900km mesade. iki gunde gelinebilecek bir uzaklik. tek basina uc gun kalmak icin yapmiyorsa cok dert etmemek lazim. <br/><br/>buna benzer abd'de de ara sira abuk sabuk mesafeler gelen tipleri gorurum. mesela boston'da birden cok sefer alaska plakali arac gormuslugum var. boston-anchorage arasi mesafe 7400km falan. kafayi mi yediler diye dusunmemek elde degil ama vardir bu cengaverlerin de mantikli sebepleri.
-  entry_channels: 
-- entry_name: |
-    22 temmuz 2019 wolfsburg fenerbahçe maçı
-  entry_id:  92945693
-  entry_writer: i was me but now he s gone
+    kalp kırmadan ter kokuyorsun deme yolları
+  entry_id:  92914029
+  entry_writer: paranormal paranoyak
   entry_fav_count: 18
   entry_content: |
-    aylar yıllar sonra ferdi kadıoğlu oyunda. ama sağ bekte. hollanda genç milli takımının 10 numarası sağ bekimizde oynuyor. muazzam.
-  entry_channels: spor
+    böyle bir yol yok arkadaşım. varsa da ben bilmiyorum. dans dersindeyim, sürekli eş değiştiriliyor ama o 5 dk bile insana eziyet yemin ederim. bir keresinde dersten sonra hocaya demiştim, gidin söyleyin diye. hoca da "ben nasıl söyleyeyim" diyor. siz söylemezseniz sınıfın ortasında "herkes duş alıp gelsin, deodorant falan kullansın" diyeceğim, artık kim üstüne alınırsa demiştim.<br/><br/>temiz ter insanı rahatsız edecek şekilde kokmaz zaten. kokan, karşıdaki insanın ya günlük duş almaması ya da artık terli kıyafetleri tekrardan mı giyiyorlar anlamıyorum ondan kaynaklı bence. o kadar insanla dans etmişimdir, yeri geliyor karşımdaki insan terliyor, yeri geliyor benim sırtımdan boynumdan süzülüyor. kimse de karşındakine bunu demiyor çünkü düzenli duş alıyor insanlar. duş almaya utanmayıp sizi rahatsız eden insana bunu söylemekten utanmayın bence. ben öyle yapıyorum şahsen.
+  entry_channels: anket,ilişkiler,sağlık
+- entry_name: |
+    mesleklere özgü yalanlar
+  entry_id:  92932202
+  entry_writer: birbasi
+  entry_fav_count: 16
+  entry_content: |
+    - <a class="b" href="/?q=g%c3%bcney+cephe">güney cephe</a> <br/>emlakçılara göre bu cephe 240 derece filan olmalı. bütün evler güney cephe, çok azı doğu ve batı. kuzey diye bi şey yok, olamaz.
+  entry_channels: anket,ekonomi
 - entry_name: |
     ntv spor'un eljif elmas tweet'i
   entry_id:  92937732
@@ -275,21 +323,21 @@ data:
     tartıştıkları konunun başlığını içeren twit. ntvspor yorumcuları konuyu tartışıyor. twitter hesabından da link veriliyor. <br/><br/>sahiden bu seviyede bir zekayla hayatta kalmaya çalışmak zor olmuyor mu sizin için?
   entry_channels: 
 - entry_name: |
-    mesleklere özgü yalanlar
-  entry_id:  92932202
-  entry_writer: birbasi
-  entry_fav_count: 15
+    türk erkeklerinin 30 yaşında çökmesi
+  entry_id:  92935718
+  entry_writer: wholelottarosie
+  entry_fav_count: 13
   entry_content: |
-    - <a class="b" href="/?q=g%c3%bcney+cephe">güney cephe</a> <br/>emlakçılara göre bu cephe 240 derece filan olmalı. bütün evler güney cephe, çok azı doğu ve batı. kuzey diye bi şey yok, olamaz.
-  entry_channels: anket,ekonomi
+    en büyük faktörün muhtemelen stres olduğu durumdur.
+  entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
-    kalp kırmadan ter kokuyorsun deme yolları
-  entry_id:  92914029
-  entry_writer: paranormal paranoyak
-  entry_fav_count: 15
+    vedat muriqi
+  entry_id:  92944259
+  entry_writer: ofis canlisiyim multinetle beslenirim
+  entry_fav_count: 11
   entry_content: |
-    böyle bir yol yok arkadaşım. varsa da ben bilmiyorum. dans dersindeyim, sürekli eş değiştiriliyor ama o 5 dk bile insana eziyet yemin ederim. bir keresinde dersten sonra hocaya demiştim, gidin söyleyin diye. hoca da "ben nasıl söyleyeyim" diyor. siz söylemezseniz sınıfın ortasında "herkes duş alıp gelsin, deodorant falan kullansın" diyeceğim, artık kim üstüne alınırsa demiştim.<br/><br/>temiz ter insanı rahatsız edecek şekilde kokmaz zaten. kokan, karşıdaki insanın ya günlük duş almaması ya da artık terli kıyafetleri tekrardan mı giyiyorlar anlamıyorum ondan kaynaklı bence. o kadar insanla dans etmişimdir, yeri geliyor karşımdaki insan terliyor, yeri geliyor benim sırtımdan boynumdan süzülüyor. kimse de karşındakine bunu demiyor çünkü düzenli duş alıyor insanlar. duş almaya utanmayıp sizi rahatsız eden insana bunu söylemekten utanmayın bence. ben öyle yapıyorum şahsen.
-  entry_channels: anket,ilişkiler
+    top aliyor top sakliyor ve top dagitiyor.<br/>hic olmazsa faul kazandiriyor.<br/>wolsburg ve bursaspor maclarinda gorduk ki pozisyon takibi de yapabiliyor, top neredeyse muriqi de orada 90 + 45 dakikada 2 gol atti. <br/><br/>slimani sezon boyunca 2 gol atamadi.. avradini sikeyim slimani senin.<br/><br/>@daydream093 uyardi 2 degil 3 golmus.. slimani senin ben amina koyim ibne.
+  entry_channels: spor
 - entry_name: |
     nightwish'in en güzel şarkısı
   entry_id:  92941206
@@ -299,6 +347,14 @@ data:
     (bkz: <a class="b" href="/?q=sleeping+sun">sleeping sun</a>)
   entry_channels: 
 - entry_name: |
+    eski sevgiliyle yeniden başlamak
+  entry_id:  92945438
+  entry_writer: sedanter
+  entry_fav_count: 11
+  entry_content: |
+    <a class="b" href="/?q=17+temmuz+2019+yks+sonu%c3%a7lar%c4%b1">17 temmuz 2019 yks sonuçları</a> başlığından çıkan buraya gelmiş. bakmayın gençler burada yok kirli donu yeniden giymektir, çorabı tekrar koklamaktır yazan ergenlere. biz evlendik, dünya tatlısı bir kızımız var ikincisi de yolda. her ilişkinin dinamiği farklıdır ve kendi içinde değerlendirilmelidir. eyyorlamam bu kadar
+  entry_channels: anket,ilişkiler
+- entry_name: |
     45 yaş üstü kadınların muşmulaya dönmesi
   entry_id:  92943498
   entry_writer: dreamfactory
@@ -307,99 +363,43 @@ data:
     ben 24 yaşımda bile muşmulaya benziyordum. uyurken ama. uyanıkken ilik gibiydim.<br/><br/>bir gün uçuştan geldim, tv seyrederken koltukta uyuyakalmışım ama tam uyumuyorum da, uykuyla uyanıklık arasındaki o ince çizgideyim. kardeşimle nişanlım hakkımda konuşuyor:<br/><br/>- abi, baksana, ablamın yüzü muşmula gibi.<br/>+ haha erik kurusu gibi lan.<br/>- salyası akıyo abi.<br/>+ bırak aksın.
   entry_channels: 
 - entry_name: |
-    üniversite not ortalamasının önemi
-  entry_id:  92942861
-  entry_writer: seytakargasatmasyondehalkoltamusal
-  entry_fav_count: 9
-  entry_content: |
-    korner bayrağının ütülü olmasıyla eşdeğerdir.
-  entry_channels: anket,eğitim
-- entry_name: |
-    eski sevgiliyle yeniden başlamak
-  entry_id:  92945438
-  entry_writer: sedanter
+    la casa de papel
+  entry_id:  92934914
+  entry_writer: burdan post modern nicklere selam ederim
   entry_fav_count: 7
   entry_content: |
-    <a class="b" href="/?q=17+temmuz+2019+yks+sonu%c3%a7lar%c4%b1">17 temmuz 2019 yks sonuçları</a> başlığından çıkan buraya gelmiş. bakmayın gençler burada yok kirli donu yeniden giymektir, çorabı tekrar koklamaktır yazan ergenlere. biz evlendik, dünya tatlısı bir kızımız var ikincisi de yolda. her ilişkinin dinamiği farklıdır ve kendi içinde değerlendirilmelidir. eyyorlamam bu kadar
-  entry_channels: anket,ilişkiler
+    önceki sezonlarda da vardı ama bu sezonda bariz bir çocuksuluk var. dizi kendi parodisine dönüştü.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>- adam başı 300 milyon avromuz var, brunei sultanlığı'nın 2019 bütçesini tek başımıza fonlayabiliyoruz, tanesi 345 bin malezya dinarından 330.000 tane toki konutu alabiliyoruz, niye burdayız? <br/>+ rio'yu kurtarmamız lazım.<br/>- neden?<br/>+ bencil oğlu bencil, salak oğlu salak tokyo ve onun liseli sevgilisi bir kez daha protokolün dışına çıkıp yapılmayacak bir iş yaptı da ondan.<br/>- peki ne yapacaz?<br/>+ ispanya merkez bankasını soyacaz. altın çalacaz. bütün ispanya'nın kefen parasını indirecez, dolar fırlayacak, faizler uçacak, soğanın tanesi 15 avro olacak, bütün euro bölgesi kırmızı alarm verecek, abd ve papalık donanma gönderecek, ulusal ordu binayı kuşatacak, tepemizden f-16'lar uçacak, üzerimize s-400 atacaklar, biz de bir adet mitralyöz ikişer tane de kelebek bıçak ve beş on tane taramalı tüfekle kendimizi savunacağız.<br/>- ok.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: tv,spoiler
 - entry_name: |
-    vedat muriqi
-  entry_id:  92944535
-  entry_writer: daimicocuk
+    sözlükçülerin şu an ihtiyacı olan şey
+  entry_id:  92925338
+  entry_writer: haylaz ruzgar
   entry_fav_count: 6
   entry_content: |
-    boş kale canavarı demişler. arkadaşlar geçen seneki forvetlerimiz boş kaleye bile gol atamıyordu.
-  entry_channels: spor
-- entry_name: |
-    üniversite tercihi yapacaklara tavsiyeler
-  entry_id:  92931290
-  entry_writer: integral alan adam
-  entry_fav_count: 5
-  entry_content: |
-    uyarı: tıp fakültesi tercih etmek istiyorum diyenlere yöneliktir... <br/><br/>günlerdir yazmamak için zor tutuyordum kendimi ama vakti geldi sanırım. son yılında olan bir doktor abiniz olarak fikrimi beyan etmek isterim. <br/><br/>yukarıda bir yazar da söylemiş "tıp 19.000 e kadar düştü" diye, girip kontrol ettim ve gerçekten de bir devlet üniversitesi 19 bin ile öğrenci alıyor, yazıktır, günahtır. tıp fakültesi ciddi ciddi ele ayağa düşmüş bir durumda. girizgahımı yaptıktan sonra anafikri verelim. <br/><br/>hekimlik şöyle kutsaldır, böyle iyidir söylemlerini hızlıca geçiyorum, arkadaşlar bu meslek insanların kolayla emekli olmadığı, yaşam tarzı halini alan ve kişiyi tamamen esiri alma potansiyeli olan bir meslek. bir ömür yapacağınız işin kalitesi de alacağınız eğitimin niteliği ile birebir ilişkili. bazı yazarlar sıralama tutuyorsa istersen 19bin yap yine de tıp yazın demiş, kesinlikle katılmıyorum. bazıları fakültenin önemli olmadığını, önemli olanın uzmanlığın nerede yapıldığı olduğunu savunmuş, buna hiç mi hiç katılmıyorum. <br/><br/>sizin hekimliğinizin - bir çok faktör var tabi - en önemli belirleyicisi hangi fakülteden mezun olduğunuz olacaktır, nokta! bunun için de kıytırık bir taşra üniversitesinde tıp okumak sizin aleyhinizde bir harekettir. <br/><br/>yaz yaz bitmez, anlatacak çok şey var da uğraşmak istemedim açıkçası<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>özet: sıralamanız 10k dan düşükse tıp tercihi yapmamanız şiddetle tavsiye olunur. <br/><br/>son bir not: <a class="b" href="/?q=istanbul+t%c4%b1p+fak%c3%bcltesi">istanbul tıp fakültesi</a> - namı diğer çapa - isteyenler yeşillendirebilir
-  entry_channels: anket,eğitim
-- entry_name: |
-    selam almayan öküz komşu
-  entry_id:  92944129
-  entry_writer: macavity
-  entry_fav_count: 5
-  entry_content: |
-    paris'te yan komşu tüm fransız ırkının bonjour demezse ölecek prensibine muhalefet olarak asla selam verip almıyordu. ilk başlarda farketmedim. sonra baktım hiçbir selamıma cevap vermiyor. dediler ki onun lakabı "sans bonjour" yani bonjoursuz, kimseye selam vermez. meğer bilinçli almıyormuş artist. o zaman ben de bundan sonra ona selam vermem diye tribal formatıma geçtim hemen. bir selam vermeden geçtim yanından, iki selam vermeden geçtim yanından, üçüncüde yine umarsızca geçerken bizim bonjoursuzun sesi ilk defa duyuldu ve bingo: bonjour diye mırıldandı! <br/><br/>ve <a class="b" href="/?q=t%c3%bcrk+k%c4%b1z%c4%b1+tribi">türk kızı tribi</a>nin evrensel gücü!<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>ps: fakat kendisini başlıktaki nahoş kelimeden tenzih ederim..
-  entry_channels: anket,ilişkiler
+    11 tane berabere bitecek maç.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     behzat ç.
-  entry_id:  92946424
-  entry_writer: cinali
-  entry_fav_count: 4
+  entry_id:  92930178
+  entry_writer: hatalicool
+  entry_fav_count: 1
   entry_content: |
-    pek iyimser değilim... sanırım yine kurtlar vadisi triplerine girecekler. bana ne doğu akdeniz'den, derin devletten veya abilerden, reislerden ???<br/>keşke bir seri katilin cinayetlerinden sonra behzat'ın rica minnet teşkilata döndürülüp olayı çözeceği bir senaryo olsaydı. dizinin en keyif aldığım bölümleri kuru temizlemecinin, kabin amirinin, oyuncakçının yani sıradan insanların işlediği cinayetlerin çözüldüğü bölümlerdi. ve tabi ki boka saran 3. sezonda serdar orçin ve gökhan yıkılkan ikilisinin seri cinayetleri...<br/>yine de perşembe akşamına kadar saat hatta dakika sayıyoruz o ayrı...
+    netflix gibi tüm bölümler aynı anda yayımlanmayacak haberiniz olsun. her hafta 1 bölüm yayımlanacak. <br/><br/>son 3 gün...
   entry_channels: tv,sinema,spoiler
 - entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  92918300
-  entry_writer: sarinar
-  entry_fav_count: 3
-  entry_content: |
-    bir bitmedi sorularınız.hayır cevaplayan da yok ne bu inatla soru sorma isteği.açıkça söylemek gerekirse sorular sorulara cevap verme gereği bile duymadım. gülüp geçiyoruz bilin istedim.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  92914961
-  entry_writer: rakamlaiki
+    en son gerçekten mutlu hissedilen an
+  entry_id:  92939234
+  entry_writer: kotununeniyisi
   entry_fav_count: 0
   entry_content: |
-    atın atın.üstüme heryerime atın.
-  entry_channels: ilişkiler,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=8-9+senedir+kendimi+iyi+hissetmiyorum">8-9 senedir kendimi iyi hissetmiyorum</a>)
+  entry_channels: anket
 - entry_name: |
-    yazarların bu akşamki alkol tercihi
-  entry_id:  92946459
-  entry_writer: meco
+    bira içmelik arkadaş veritabanı
+  entry_id:  92945354
+  entry_writer: babato150
   entry_fav_count: 0
   entry_content: |
-    uzum rakısı(kailashka rakia)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/tg59363k9hcq">https://eksiup.com/p/tg59363k9hcq</a>
-  entry_channels: anket,ekşi-sözlük,yeme-içme
-- entry_name: |
-    murat sağlam
-  entry_id:  92945660
-  entry_writer: profirth
-  entry_fav_count: 0
-  entry_content: |
-    hem bursa maçında hem de bugün gayet iyi oynayan yürüyeduracak çocuk.<br/><br/>böyle devam eder umarım, çok yetenekli bir çocuk almışız.
-  entry_channels: spor
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  92943602
-  entry_writer: ibrahimhasimi
-  entry_fav_count: 0
-  entry_content: |
-    alsancak da iki bira ısmarlarım. hiç tanımadığı insanlarla dertleşmek hoş bir şey.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    canan kaftancıoğlu
-  entry_id:  92944375
-  entry_writer: sanver
-  entry_fav_count: 0
-  entry_content: |
-    siyasi görüşleri beğenilmeyebilir ancak haksızlığa uğrayan bir insana, hele ki bir kadınsa, sahip çıkmak gerekir. hükümet yanlısı çakma <a class="b" href="/?q=feminist">feminist</a>ler bir kadın siyasetçiye bunlar yapılırken nasıl susabiliyorlar... hayret!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.sputniknews.com/turkiye/201907221039732004-kaftancioglu-ben-turkiye-cumhuriyetiniasagilamam-cunku-ben-ataturkun-kurdugu-partide-gorevliyim/" title="https://tr.sputniknews.com/turkiye/201907221039732004-kaftancioglu-ben-turkiye-cumhuriyetiniasagilamam-cunku-ben-ataturkun-kurdugu-partide-gorevliyim/">https://tr.sputniknews.com/…ugu-partide-gorevliyim/</a>
-  entry_channels: siyaset,sağlık,haber
+    istanbul’dan katıldığım veritabanı. (:
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 ---
