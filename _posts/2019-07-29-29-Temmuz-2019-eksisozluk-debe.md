@@ -6,7 +6,7 @@ data:
     mansur yavaş'ın çalışanlara sakal yasağı getirmesi
   entry_id:  93175032
   entry_writer: syndesmosis
-  entry_fav_count: 3250
+  entry_fav_count: 3271
   entry_content: |
     sonuna kadar katıldığım hede. umarım tüm devlet dairelerine yayılır da işid’li tiplerle muhattap olmak zorunda kalmayız.
   entry_channels: siyaset,haber
@@ -14,23 +14,15 @@ data:
     28 temmuz 2019 küçük çocuğa tecavüz eden suriyeli
   entry_id:  93169530
   entry_writer: atgozlukluyobaz
-  entry_fav_count: 2114
+  entry_fav_count: 2126
   entry_content: |
     kaynak geldi:<a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/gundem/istanbul-gungorende-suriyeliler-8-yasindaki-cocugu-istismar-etti-iddiasi-son-dakika-haberleri-5253760/" title="https://www.sozcu.com.tr/2019/gundem/istanbul-gungorende-suriyeliler-8-yasindaki-cocugu-istismar-etti-iddiasi-son-dakika-haberleri-5253760/">sözcü</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/mobi/istanbulda-kucuk-kiza-cinsel-istismar-2-suriyeli-gozaltinda-243621h.htm" title="https://www.yenicaggazetesi.com.tr/mobi/istanbulda-kucuk-kiza-cinsel-istismar-2-suriyeli-gozaltinda-243621h.htm">yeniçağ haber link</a> <br/>üst edit: olayla ilgili bir suser tarafından verilen bilgiyi aktarıyorum.<br/>olayı yakından takip eden biri olarak bir kaç detay dışında tamamen doğru ve o adam adli kontrol ile serbest kaldı. kesin net bilgi. serbest kaldığını duyunca sinirden kan beynime sıçradı ama yüce adaletimiz! böyle karar verdi maalesef<br/>oğlu yok işin içinde hatta oğlunun olduğuna dair dosyada hiç bir bilgi yok.<br/>adam 45 yaşlarında cips vereceğim diyerek tecavüz olmasa bile istismar olayını gerçekleştirmiş. ama maalesef mağdurun küçük olması ve görgü tanığı iki kişinin küçük olması ki üçünün ifadesi tamamen tutarlı olmasına rağmen yüce adaletimize yetmedi.<br/>ek bilgi: uzman raporu gelince muhtemelen savcılık itiraz edecek ve inşallah tutuklanacaktır.<br/><br/>olay istanbul güngören'de yaşanıyor.<br/>7-8 yaşlarında küçük kız çocuğu, suriyeli bir genç tarafından tecavüze uğramıştır çocuk şuan hastanede ve kontrol altında.<br/>olay şöyle gelişiyor m.. adinda ki küçük kız ilçe meydanında oyun oynarken küçük kızı gözüne kestiren suriyeli tarafından yanına çağırılıyor suriyeli gencin babası ile beraber sokak arasında işlettiği bir bakkal dükkanları var küçük kızı oraya çağırarak şeker verme bahanesi ile kandırıyor ve küçük kız suriyeli genci diyemiyeceğim artık orospu çocuğuna inanarak dükkana giriyor ve tecavüze uğruyor küçük çocuk o korku ve telaşla dükkandan koşarak uzaklaşıyor ve ilçe meydanına gidiyor, orada küçük çocuğu gören abisi telaşla çocuğa ne olduğunu soruyor, çocuğun tacize uğradığını anlayan abisi çığlıklar atarak suriyeli orospu çocuklarının dükkanına gidiyor peşinden de arkadaşları eşlik ediyor. dükkanda taciz olayını gerçekleştiren orospu çocuğunu goren küçük kızın abisi arkadaslari ile suriyeli yi darp etmeye başlıyor o sırada babanın tecavüz ettiğini bilmedikleri için babaya birşey yapmıyorlar. olayı duyan vatandaşlarda büyük bir kalabalık olusturuyor dükkanın önünde tam o sırada suriyeli yi linç edeceklerken biz vatandaşlar ne zaman zor durumda kalsak çok gec olay yerine gelen polis ekiplerimiz emniyet birimlerimiz birden geliyor ve kalabalığı dağıtmak istiyor kalabalık dağılmayınca iki suriyeli orospu çocuğu baba ve oğulu apar topar araçlara atıp olay yerinden uzaklaşıyor ardından baska bir ekip gelip küçük kızı ve annesini alıp hastaneye götürüyor hastanede yapılan kontroller sonucu küçük kızın tecavüze uğradığı ortaya çıkıyor.<a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/e663372pzt34" title="https://eksiup.com/p/e663372pzt34">olay yerinden fotoğraf</a><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/yj63389jpti5" title="https://eksiup.com/p/yj63389jpti5">foto2</a> <br/>edit: gelen haberlere göre suriyeli baba da küçük kıza tecavüz etmiş <br/>edit2:moderatörlerden ricam başlıktaki suriyeli kelimesini suriyeliler olarak tecevüzü ise tecavüzü olarak düzeltmeleri<br/>edit3:fotoğrafları çeken benim kaynak sormayın.<br/>bu arada fotoğrafı cektigimi farkeden bir polis memuru yanıma koşarak gelerek sen ne çekiyorsun sil çabuk onları dedi. <br/>bende cevap olarak ben bu ülkenin bir vatandaşı olarak bu kayıtları silmeyeceğim ve duyuracağım dedim. o sırada polisle münakaşa ettiğimi fark eden babam beni kenara çekerek polise görevinizi yapın ve suçluları alın fotoğrafı çeken oğluma dokunamazsınız diyerek polis memurunu beni tehdit ettigi sırada yanıma gelerek uzaklaştırmıştır<br/>son edit:beni yargıya vermek ile tehdit eden kişiler sizlere sesleniyorum.<br/>daha ne kadar susacağız? küçük bir kızımıza yapılan bu insanlık dışı elim olayı aydınlatmaya çalışmak benim vicdan borcum.<br/><br/>tecavüz olayının ardından ben küçük yavrumuzu gördüm çocuk aglamaktan nefes alamıyor tir tir titreyerek ayakta durmakta zorluk çekiyordu.<br/><br/>isteyen istediği yere davasını açabilir. basında çıkmamış şurada çıkmamış diye kirli fikirlerini üstüme yıkan kişiler. basın her olayı olağanca şeffaflığı ile halka ve her kesime ulastirabiliyormu?<br/>buradan beni korku içerisine çekmek isteyen kişiler.<br/>korkmuyorum korkmayacağım ve susmayacağım susturamayacaksınız elimden geldiği kadar ülkemizin pirlantasi gençlerimize yapılan baskıyı ve özgürlük kısıtlamasını eleştireceğim.<br/><br/>edit:<br/>(bkz: <a class="b" href="/?q=atlara+bogazi+kapatmislar">atlara bogazi kapatmislar</a>) yazar arkadaşın yazmış olduğu entry.<br/>olayın yalan olabileceğini düşünen, kışkırtma amaçlı vs olabileceğini düşünen tüm arkadaşlar emin olabilirsiniz, olay yalan değil!!!<br/><br/>güngören emniyet çocuk bürodaki bir tanıdığımızın bizzat kendisi söyledi bunu, olay tecavüz. taciz dahi değil. çocuğa tecavüz edilmiş. ve şöyle ki,<br/><br/>çocuğa tecavüz edildiği öğrenilince emniyet müdürlüğünden not geçilmiş tüm bürolara bu olayı gizli tutun, ifşa etmeyin, basın ile paylaşmayın, elbette emniyet müdürlüğü bunu sadece suriyelileri korumak için değil, olası bir toplumsal tepkiyi asgari seviyede tutmak, kontrol altına almak için yapmıştır. <br/><br/>şimdi haber bültenleri suriyeliler kız çocuğuna tecavüz etti diye haberler yapsa bu ülkede neler olabilir kestirilemiyor. ancak böyle olayları saklamak olayın kendisinden daha fazla tepki de çekebiliyor. <br/><br/>tekrar etmek gerekirse, olay kesin ve kesin gerçek. tüm girdileri okumadım fakat ortada bir çocuğa yapılmış tecavüz olayı var ve bu olayı misafir kabul ettiğimiz suriyeliler yaptı.
   entry_channels: haber
 - entry_name: |
-    türkiye illerinin uydu fotoğraflarıyla son 35 yılı
-  entry_id:  93176586
-  entry_writer: neoprometheus
-  entry_fav_count: 1756
-  entry_content: |
-    1984 ve 2019 yıllarında <sup class="ab"><a title="(bkz: bazı istisnalar hariç)" href="/?q=baz%c4%b1+istisnalar+hari%c3%a7" data-query="bazı istisnalar hariç">*</a></sup> çekilen uydu fotoğraflarıyla illerimizin geçmişini ve bugününü görebileceğimiz 35 yıl.<br/><br/>hava koşulları ve uydu konumu nedeniyle bazı görüntüler yılın aynı tarihlere denk gelmemektedir.<br/>van gölü ve doğusu uydu <sup class="ab"><a title="(bkz: landsat 5)" href="/?q=landsat+5" data-query="landsat 5">*</a></sup> kapsama alanı dışındadır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDw" title="https://gifyu.com/image/EDDw">adana</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDk" title="https://gifyu.com/image/EDDk">adıyaman</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDD3" title="https://gifyu.com/image/EDD3">afyon</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDE" title="https://gifyu.com/image/EDDE">aksaray</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDN" title="https://gifyu.com/image/EDDN">amasya</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDI" title="https://gifyu.com/image/EDDI">ankara</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDl" title="https://gifyu.com/image/EDDl">antalya</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDn" title="https://gifyu.com/image/EDDn">artvin</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDu" title="https://gifyu.com/image/EDDu">aydın</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDR" title="https://gifyu.com/image/EDDR">balıkesir</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDD8" title="https://gifyu.com/image/EDD8">bartın</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDD0" title="https://gifyu.com/image/EDD0">batman</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDC" title="https://gifyu.com/image/EDDC">bayburt</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDU" title="https://gifyu.com/image/EDDU">bilecik</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDf" title="https://gifyu.com/image/EDDf">bingöl</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDr" title="https://gifyu.com/image/EDDr">bolu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDD" title="https://gifyu.com/image/EDDD">burdur</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDD5" title="https://gifyu.com/image/EDD5">bursa</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDo" title="https://gifyu.com/image/EDDo">bursa2</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDD1" title="https://gifyu.com/image/EDD1">çanakkale</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDA" title="https://gifyu.com/image/EDDA">çankırı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDJ" title="https://gifyu.com/image/EDDJ">çorum</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDX" title="https://gifyu.com/image/EDDX">denizli</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDo2" title="https://gifyu.com/image/EDo2">diyarbakır</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDP" title="https://gifyu.com/image/EDDP">düzce</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoS" title="https://gifyu.com/image/EDoS">edirne</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDob" title="https://gifyu.com/image/EDob">elazığ</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoz" title="https://gifyu.com/image/EDoz">erzincan</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoM" title="https://gifyu.com/image/EDoM">erzurum</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDop" title="https://gifyu.com/image/EDop">eskişehir</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDos" title="https://gifyu.com/image/EDos">gaziantep</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoL" title="https://gifyu.com/image/EDoL">giresun</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDox" title="https://gifyu.com/image/EDox">gümüşhane</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoH" title="https://gifyu.com/image/EDoH">hatay</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoK" title="https://gifyu.com/image/EDoK">içel</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoN" title="https://gifyu.com/image/EDoN">ısparta</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDok" title="https://gifyu.com/image/EDok">istanbul</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDow" title="https://gifyu.com/image/EDow">istanbul avrupa</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoT" title="https://gifyu.com/image/EDoT">istanbul anadolu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDov" title="https://gifyu.com/image/EDov">izmir</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoq" title="https://gifyu.com/image/EDoq">kahramanmaraş</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDom" title="https://gifyu.com/image/EDom">karabük</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDo7" title="https://gifyu.com/image/EDo7">karaman</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoI" title="https://gifyu.com/image/EDoI">kastamonu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDod" title="https://gifyu.com/image/EDod">kayseri</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDon" title="https://gifyu.com/image/EDon">kilis</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDou" title="https://gifyu.com/image/EDou">kırıkkale</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoQ" title="https://gifyu.com/image/EDoQ">kırklareli</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoW" title="https://gifyu.com/image/EDoW">kırşehir</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoc" title="https://gifyu.com/image/EDoc">kocaeli</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoi" title="https://gifyu.com/image/EDoi">konya</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoj" title="https://gifyu.com/image/EDoj">kütahya</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDo0" title="https://gifyu.com/image/EDo0">malatya</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoC" title="https://gifyu.com/image/EDoC">manisa</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoF" title="https://gifyu.com/image/EDoF">mardin</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoZ" title="https://gifyu.com/image/EDoZ">muğla</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoV" title="https://gifyu.com/image/EDoV">muş</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDof" title="https://gifyu.com/image/EDof">nevşehir</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoY" title="https://gifyu.com/image/EDoY">niğde</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoa" title="https://gifyu.com/image/EDoa">ordu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDot" title="https://gifyu.com/image/EDot">osmaniye</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDor" title="https://gifyu.com/image/EDor">rize</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDo5" title="https://gifyu.com/image/EDo5">sakarya</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoD" title="https://gifyu.com/image/EDoD">samsun</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoo" title="https://gifyu.com/image/EDoo">sinop</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDo1" title="https://gifyu.com/image/EDo1">sivas</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoA" title="https://gifyu.com/image/EDoA">şanlıurfa</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoB" title="https://gifyu.com/image/EDoB">tekirdağ</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoy" title="https://gifyu.com/image/EDoy">tokat</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoO" title="https://gifyu.com/image/EDoO">trabzon</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoX" title="https://gifyu.com/image/EDoX">tunceli</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/ED1b" title="https://gifyu.com/image/ED1b">uşak</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/ED1S" title="https://gifyu.com/image/ED1S">yalova</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/ED1z" title="https://gifyu.com/image/ED1z">yozgat</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EopM" title="https://gifyu.com/image/EopM">zonguldak</a><br/><br/>bonus<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDa" title="https://gifyu.com/image/EDDa">bodrum</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoU" title="https://gifyu.com/image/EDoU">marmaris</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDol" title="https://gifyu.com/image/EDol">keban barajı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDDW" title="https://gifyu.com/image/EDDW">atatürk barajı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EDoJ" title="https://gifyu.com/image/EDoJ">tuz gölü</a><br/><br/>istekler<br/><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EoHR" title="https://gifyu.com/image/EoHR">merzifon</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EovG" title="https://gifyu.com/image/EovG">ergani</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eoml" title="https://gifyu.com/image/Eoml">beyşehir gölü</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eoma" title="https://gifyu.com/image/Eoma">salda gölü</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eoq8" title="https://gifyu.com/image/Eoq8">kadirli</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eoqo" title="https://gifyu.com/image/Eoqo">edremit - kaz dağları</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EoqJ" title="https://gifyu.com/image/EoqJ">tarsus</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EoIS" title="https://gifyu.com/image/EoIS">fethiye</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EoI4" title="https://gifyu.com/image/EoI4">karadeniz ereğli</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eods" title="https://gifyu.com/image/Eods">anamur</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eodx" title="https://gifyu.com/image/Eodx">alanya</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eonf" title="https://gifyu.com/image/Eonf">akşehir</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EonD" title="https://gifyu.com/image/EonD">konya ereğli</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/Eone" title="https://gifyu.com/image/Eone">andırın</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EouI" title="https://gifyu.com/image/EouI">kuşadası</a><br/>- <a rel="nofollow noopener" class="url" target="_blank" href="https://gifyu.com/image/EouC" title="https://gifyu.com/image/EouC">gemlik</a><br/><br/>kaynak<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sentinel-hub.com/">https://www.sentinel-hub.com/</a>
-  entry_channels: tarih
-- entry_name: |
     26 temmuz 2019 karma yatakhane rezaleti
   entry_id:  93165128
   entry_writer: medeniyet
-  entry_fav_count: 1218
+  entry_fav_count: 1222
   entry_content: |
     (bkz: <a class="b" href="/?q=kezban+tatilde">kezban tatilde</a>)
   entry_channels: seyahat
@@ -38,15 +30,15 @@ data:
     haftada 45 saat çalışmaya tepki gösterilmemesi
   entry_id:  93190315
   entry_writer: tunalizade
-  entry_fav_count: 1090
+  entry_fav_count: 1212
   entry_content: |
-    anlam veremediğim tepkisizlik.<br/><br/>c.tesi pazarın tatil olduğu bir işyerinde 8.30-18.30 saatleri arasında çalışıyorum. işe gidebilmek için saat 6.10'da uyanıyorum, duş hazırlanma yol derken 8.15 civarında işyerinde olabiliyorum, kahve çay içip işe başlıyorum. iş çıkışından sonra eve ulaşabildiğim saat 20.10 suları. eve geldikten sonra yemek hazırlıyorum, yemek yiyorum derken saat 22.00'yi geçmiş oluyor. bir bölüm dizi izlersem izliyorum sonra uykum geliyor.<br/><br/>yani ben beş gün boyunca günlük yaşamımın 14 saatini iş için harcıyorum.<br/><br/>c.tesi günü bulaşık, çamaşır, ütü, ev temizliği, market alışverişi ile tükeniyor. pazar günü de kendime ayırabilirsem ayırıyorum, dışarı çıkıyorum yada yorgunluğum o kadar fazla oluyor ki evden dışarı çıkmıyorum.<br/><br/>ve sistem ben daha kendime bile gelemeden hafta başından itibaren yine mükemmel bir performans ile patronuma daha fazla kazandırabilmemi bekliyor.<br/><br/>yıllık izin sürem 14 gün, bu 14 günün içşne c.tesi günlerini dahil edip hesaplıyorlar.<br/><br/>haftalık maksimum çalışma saatini devlet belirliyor, işyeri bu maksimum saati uygular yada uygulamaz, ben maksimum saatte çalışılan bir işyerindeyim ve biliyorum ki türkiyede çoğu işyeri bu 45 saati uyguluyor. daha fazlasını da uygulayan var muhakkak.<br/><br/>avrupanın birçok ülkesinde çalışma saati haftalık 30-35 (35-40 olarak düzenliyorum, birkaç ülkede 35 saatin üstündeymiş allah da beni bildiği gibi yapsın) saat. yıllık izin süresi 8 hafta. buna rağmen ekonomik koşulları ve yaşam kalitesini kıyaslamaya gerek dahi yok.<br/><br/>fakat insanlar o derece hayatında baskıya maruz kalmış ki sürekli bir 'şükür' havasında. şükür bir işim var, şükür işsiz değilim, şükür bugün de karnımız doydu.<br/><br/>bu çalışma koşullarının değişmesi ile ilgili bir tane de stk, bir siyasi oluşum yada bir kuruluş tepki göstermiyor.<br/><br/>özellikle kışın güneş görmüyorum, gece gidiyorum işe gece dönüyorum. güneşi görmediğim halde benden nasıl bir akıl sağlığı beklenebilir ki? mutsuzum ve bu şartlar altında çalışan kişilerin de mutsuz olduğuna eminim. ama hiçbir adım atılmaması daha da geleceğe dönük umutlarımı söndürüyor.<br/><br/>bu sisteme zorunlu halde bizi sokan kişiler umarım güneş göremez olurlar! bu da bedduamdır.<br/><br/>ek: şükür politikasını ödev edinmiş kişiler 45 saatin normal olduğunu savunarak bunu şımarıklık olarak göstermeye çalışmış. ne yazık ki bu da olayın ne derece vahim olduğunu gösteriyor. yazdıklarımın hiçbir yerinde 45 saattem fazla çalışanları yermedim, aksine 45 saat beter ama bundan fazla çalışılan daha beter işler de var dedim. fakat ne yazık ki her zaman olduğu gibi şikayet edilen durumdan daha kötü şartlarda yer alan kişiler bunu desteklemek yerine 'sen sesini kes al maaşını otur oturduğun yerde' yaklaşımında. kötü şartlarda çalışan kesim kendisine göre iyi şartlar altında çalışanın şartlarına gözü dikmek yerine olaya karşı çıkışta destek sunsa daha fazla yol alınacağını düşünüyorum.<br/><br/>ek 2: daha okuduğunu anlayamayan nesiller yetiştiren eğitim sistemine de kafam girsin!<br/><br/>ek 3: yaşadığım şehir istanbul. işim b.evlerde, evim b.düzünde. işe gidiş geliş süresinin fazlalığı bu yüzden. işe yakın oturamam çünkü bahçelievler dolaylarında yaşayabilmem için kazancım iki katına çıkmalı. haliyle mümkün değil. <br/><br/>işsizliğin 5 milyon civarında olmasının nedenlerinden biri de çalışma saatlerinin fazlalığıdır. haliyle bardağa hep boş tarafından bakmak yerine biz bu boş tarafı nasıl doldururuzu düşünmek gerekir. fakat siz bu vizyonsuzluğa devam ettiğiniz, hak arayanın arkasında durmak yerine 'bu benden daha fazla kazanıyor ya ben kazanmıyorsam o da kazanmasın' dediğiniz sürece birilerinin cebi daha fazşa dolarken biz hep pazar günü gelse de evde yatsam diye düşünürüz.<br/><br/>ek 4: avrupada çalışma saatleri hk,<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.euronews.com/2018/10/16/avrupa-da-haftalik-ortalama-calisma-saatinin-en-uzun-oldugu-ulke-turkiye" title="https://tr.euronews.com/2018/10/16/avrupa-da-haftalik-ortalama-calisma-saatinin-en-uzun-oldugu-ulke-turkiye">https://tr.euronews.com/…n-uzun-oldugu-ulke-turkiye</a><br/><br/>ek 5: bundan tam 5 yıl önce iş ararken açtığım başlık,<br/>(bkz: <a class="b" href="/?q=g%c3%bcnde+12+saat+%c3%a7al%c4%b1%c5%9fmaya+ayl%c4%b1k+1800+tl+teklif+etmek">günde 12 saat çalışmaya aylık 1800 tl teklif etmek</a>) <br/>5 yıl önce de şükretmedim, bugün de şükretmiyorum. biatçı kötü fikirli kininizi gitin ötede kusun! şu an türkiye'nin bu halde olmasının nedenlerinden biri de sizin bu her şeyi kabullenen, baş kaldıranı da ezmeye çalışan kötü düşünceleriniz.<br/><br/>şükretmek/dua etmek üzerine güzel bir söz paylaşayım;<br/><br/>"misyonerler afrika'ya geldiklerinde onların elinde incil, bizim elimizdeyse toprağımız vardı. bize gözlerimizi kapayarak dua etmeyi öğrettiler. gözümüzü açtığımızda bizim elimizde incil, onların ellerinde topraklarımız kalmıştı.<br/>kenyanın ilk devlet başkanı jomo kenyatta
+    anlam veremediğim tepkisizlik.<br/><br/>c.tesi pazarın tatil olduğu bir işyerinde 8.30-18.30 saatleri arasında çalışıyorum. işe gidebilmek için saat 6.10'da uyanıyorum, duş hazırlanma yol derken 8.15 civarında işyerinde olabiliyorum, kahve çay içip işe başlıyorum. iş çıkışından sonra eve ulaşabildiğim saat 20.10 suları. eve geldikten sonra yemek hazırlıyorum, yemek yiyorum derken saat 22.00'yi geçmiş oluyor. bir bölüm dizi izlersem izliyorum sonra uykum geliyor.<br/><br/>yani ben beş gün boyunca günlük yaşamımın 14 saatini iş için harcıyorum.<br/><br/>c.tesi günü bulaşık, çamaşır, ütü, ev temizliği, market alışverişi ile tükeniyor. pazar günü de kendime ayırabilirsem ayırıyorum, dışarı çıkıyorum yada yorgunluğum o kadar fazla oluyor ki evden dışarı çıkmıyorum.<br/><br/>ve sistem ben daha kendime bile gelemeden hafta başından itibaren yine mükemmel bir performans ile patronuma daha fazla kazandırabilmemi bekliyor.<br/><br/>yıllık izin sürem 14 gün, bu 14 günün içşne c.tesi günlerini dahil edip hesaplıyorlar.<br/><br/>haftalık maksimum çalışma saatini devlet belirliyor, işyeri bu maksimum saati uygular yada uygulamaz, ben maksimum saatte çalışılan bir işyerindeyim ve biliyorum ki türkiyede çoğu işyeri bu 45 saati uyguluyor. daha fazlasını da uygulayan var muhakkak.<br/><br/>avrupanın birçok ülkesinde çalışma saati haftalık 30-35 (35-40 olarak düzenliyorum, birkaç ülkede 35 saatin üstündeymiş allah da beni bildiği gibi yapsın) saat. yıllık izin süresi 8 hafta. buna rağmen ekonomik koşulları ve yaşam kalitesini kıyaslamaya gerek dahi yok.<br/><br/>fakat insanlar o derece hayatında baskıya maruz kalmış ki sürekli bir 'şükür' havasında. şükür bir işim var, şükür işsiz değilim, şükür bugün de karnımız doydu.<br/><br/>bu çalışma koşullarının değişmesi ile ilgili bir tane de stk, bir siyasi oluşum yada bir kuruluş tepki göstermiyor.<br/><br/>özellikle kışın güneş görmüyorum, gece gidiyorum işe gece dönüyorum. güneşi görmediğim halde benden nasıl bir akıl sağlığı beklenebilir ki? mutsuzum ve bu şartlar altında çalışan kişilerin de mutsuz olduğuna eminim. ama hiçbir adım atılmaması daha da geleceğe dönük umutlarımı söndürüyor.<br/><br/>bu sisteme zorunlu halde bizi sokan kişiler umarım güneş göremez olurlar! bu da bedduamdır.<br/><br/>ek: şükür politikasını ödev edinmiş kişiler 45 saatin normal olduğunu savunarak bunu şımarıklık olarak göstermeye çalışmış. ne yazık ki bu da olayın ne derece vahim olduğunu gösteriyor. yazdıklarımın hiçbir yerinde 45 saattem fazla çalışanları yermedim, aksine 45 saat beter ama bundan fazla çalışılan daha beter işler de var dedim. fakat ne yazık ki her zaman olduğu gibi şikayet edilen durumdan daha kötü şartlarda yer alan kişiler bunu desteklemek yerine 'sen sesini kes al maaşını otur oturduğun yerde' yaklaşımında. kötü şartlarda çalışan kesim kendisine göre iyi şartlar altında çalışanın şartlarına gözü dikmek yerine olaya karşı çıkışta destek sunsa daha fazla yol alınacağını düşünüyorum.<br/><br/>ek 2: daha okuduğunu anlayamayan nesiller yetiştiren eğitim sistemine de kafam girsin!<br/><br/>ek 3: yaşadığım şehir istanbul. işim b.evlerde, evim b.düzünde. işe gidiş geliş süresinin fazlalığı bu yüzden. işe yakın oturamam çünkü bahçelievler dolaylarında yaşayabilmem için kazancım iki katına çıkmalı. haliyle mümkün değil. <br/><br/>işsizliğin 5 milyon civarında olmasının nedenlerinden biri de çalışma saatlerinin fazlalığıdır. haliyle bardağa hep boş tarafından bakmak yerine biz bu boş tarafı nasıl doldururuzu düşünmek gerekir. fakat siz bu vizyonsuzluğa devam ettiğiniz, hak arayanın arkasında durmak yerine 'bu benden daha fazla kazanıyor ya ben kazanmıyorsam o da kazanmasın' dediğiniz sürece birilerinin cebi daha fazla dolarken biz hep pazar günü gelse de evde yatsam diye düşünürüz.<br/><br/>ek 4: avrupada çalışma saatleri hk,<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.euronews.com/2018/10/16/avrupa-da-haftalik-ortalama-calisma-saatinin-en-uzun-oldugu-ulke-turkiye" title="https://tr.euronews.com/2018/10/16/avrupa-da-haftalik-ortalama-calisma-saatinin-en-uzun-oldugu-ulke-turkiye">https://tr.euronews.com/…n-uzun-oldugu-ulke-turkiye</a><br/><br/>ek 5: bundan tam 5 yıl önce iş ararken açtığım başlık,<br/>(bkz: <a class="b" href="/?q=g%c3%bcnde+12+saat+%c3%a7al%c4%b1%c5%9fmaya+ayl%c4%b1k+1800+tl+teklif+etmek">günde 12 saat çalışmaya aylık 1800 tl teklif etmek</a>) <br/>5 yıl önce de şükretmedim, bugün de şükretmiyorum. biatçı kötü fikirli kininizi gidin ötede kusun! şu an türkiye'nin bu halde olmasının nedenlerinden biri de sizin bu her şeyi kabullenen, baş kaldıranı da ezmeye çalışan kötü düşünceleriniz.<br/><br/>şükretmek/dua etmek üzerine güzel bir söz paylaşayım;<br/><br/>"misyonerler afrika'ya geldiklerinde onların elinde incil, bizim elimizdeyse toprağımız vardı. bize gözlerimizi kapayarak dua etmeyi öğrettiler. gözümüzü açtığımızda bizim elimizde incil, onların ellerinde topraklarımız kalmıştı.<br/>kenyanın ilk devlet başkanı jomo kenyatta
   entry_channels: 
 - entry_name: |
     28 temmuz 2019 hadise'nin instagram paylaşımı
   entry_id:  93168150
   entry_writer: karabasan811
-  entry_fav_count: 1062
+  entry_fav_count: 1070
   entry_content: |
     zengini ya da fakiri bütün gurbetçiler kıro olmak zorunda mı arkadaş?!!!
   entry_channels: magazin
@@ -54,7 +46,7 @@ data:
     chp'li başkanın oğlunu gmy olarak ataması
   entry_id:  93185925
   entry_writer: iskenderkebap ii
-  entry_fav_count: 655
+  entry_fav_count: 679
   entry_content: |
     akp yapinca da allah belalarini versin, chp yapinca da. yanlis her zaman yanlis.<br/><br/>simdi bir de kaynak koysaniz...<br/><br/>edit: kaynak gelmis. guvenebilecegim kimse yoktu oglumu ise aldim ne demek amk. isin bu, ara bul. gerekirse kaf daginin ardindan getir, oturma odasindan degil.
   entry_channels: 
@@ -62,47 +54,23 @@ data:
     starbucks'ta grande boya orta boy diyen insan
   entry_id:  93171799
   entry_writer: brankhidler
-  entry_fav_count: 388
+  entry_fav_count: 397
   entry_content: |
     o zaman soran kişide italyanca sorsun hangi boy diye? bazen de uyuz olup orta boy beyaz çikolatalı moka diyorum. osmanlıdan beri hepiniz bi kırma oldunuz. <br/>memleketin zeka ortalamasını dengelemek için kendimizden vermicez artık
   entry_channels: anket,yeme-içme
 - entry_name: |
-    sahibinden.com'daki dosta gitmeyecek araba
-  entry_id:  93164715
-  entry_writer: unknownmaninchains
-  entry_fav_count: 346
-  entry_content: |
-    okuyunca kendi kendime <a class="b" href="/?q=lan+ne+g%c3%bczel+insanlar+var+hala+memlekette">lan ne güzel insanlar var hala memlekette</a> dedim. tanıdığımız bazı insanlar için referans olup olmadığımız sorulduğunda <a class="b" href="/?q=ekme%c4%9fi+yenilir+suyu+i%c3%a7ilir">ekmeği yenilir suyu içilir</a> deriz ya tam öyle bir insan. bu insanlara geçmiş olsun denmez, bu tür şeyler bu adamları yaralamaz çünkü, paraya tapmazlar.
-  entry_channels: otomotiv
-- entry_name: |
     hadise'nin fiziği
   entry_id:  93180853
   entry_writer: patiska
-  entry_fav_count: 316
+  entry_fav_count: 326
   entry_content: |
     gayet güzel bir fiziği vardır. herkes sıfır beden olmak zorunda değildir, tek güzellik ölçütü de sıfır beden olmak değildir. <br/><br/>sıktınız.
   entry_channels: magazin
 - entry_name: |
-    sade sütsüz filtre kahve
-  entry_id:  93163059
-  entry_writer: agresifprofil
-  entry_fav_count: 227
-  entry_content: |
-    hastalıkta, sağlıkta, ölüm bizi ayırıncaya dek onunla her şeye varım. çoğu zaman placebo yapıyor bunun farkındayım.
-  entry_channels: yeme-içme
-- entry_name: |
-    dökük saç büyük sırt çantası kulaklık aşırı kıl
-  entry_id:  93185924
-  entry_writer: mehcekemen
-  entry_fav_count: 215
-  entry_content: |
-    (bkz: <a class="b" href="/?q=post+42">post 42</a>)
-  entry_channels: ilişkiler,moda,seyahat
-- entry_name: |
     kafka'nın dönüşüm kitabıyla günde 2 kız ayıklamak
   entry_id:  93190786
   entry_writer: eskisehir cok uzak degil
-  entry_fav_count: 203
+  entry_fav_count: 212
   entry_content: |
     gregor samsa'nin kaymağını kafka bile bu kadar yememistir. milena da milena diyip göç etti adam.
   entry_channels: 
@@ -110,7 +78,7 @@ data:
     norm ender'in ekşi sözlük hakkındaki tweet'i
   entry_id:  93186861
   entry_writer: maylo napiyor acaba
-  entry_fav_count: 197
+  entry_fav_count: 207
   entry_content: |
     sözlük bu kadar iyi tanıtılamazdı dediğim tweet’tir. son birkaç yıldır sözlükteki başlıkların seviyesi düştü. yazar olan gelip fantezi dünyasını başlık olarak açıyor. herkes çok matah bir şeymiş gibi birbirine küfürlü iletiler yazıyor. <br/>kutsal bilgi kaynağı çöplüğe dönmüş durumda. <br/><br/>(bkz: <a class="b" href="/?q=temiz+s%c3%b6zl%c3%bck+istiyoruz+kampanyas%c4%b1">temiz sözlük istiyoruz kampanyası</a>)
   entry_channels: ekşi-sözlük,magazin
@@ -118,114 +86,66 @@ data:
     trendyol dolap.com'daki pişkin dolandırıcı
   entry_id:  93192367
   entry_writer: jaycee chan
-  entry_fav_count: 174
+  entry_fav_count: 203
   entry_content: |
     dolap.com bir trendyol sitesi. ve onun güvencesinde. 2. el ürünler uygun fiyata alıcı buluyor. ve bu sitede yasal dolandırıcılar var. birisi de bize denk geldi sağ olsun. <br/><br/>bize orijinal victoria’s secret parfümünü sadece kutusu açılmış deyip 200 tl’ye satan ancak sonra 25 tl’ye başka siteden aldığını öğrendiğimiz ‘okul öncesi öğretmenliği mezunu’ olan bir satıcının sahtekarlığıdır söz konusu olan. ve bu hanımın bugünkü yazdıklarıma <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/32636847nx8j" title="https://eksiup.com/p/32636847nx8j">cevabı</a> burada. sitenin bizi umursamamasının sebebi de tahminimizce bu satışlardan belli bir yüzde komisyon alıyor olması. <br/><br/>öncelikle şunu söyleyebilirsiniz. “bu kadar saf olmasaydınız bunun gibi binlercesi var.” haklı olabilirsiniz. ama parayı falan umursamıyoruz. zaten ‘otomatik de olsa onay verdiniz’ denerek o kapıyı kapattılar bize. ama biz bu satıcıyı merak ettik ve peşini bırakmadık. geçen ay yaşadığımız bu olay sonrasında anaokulu öğretmeni olacak olan bu satıcının satışlarını takip ettik. bizden sonra da aynı duruma düşen alıcıları fark ettik. ki bunlar hesaptaki yorumlarda da mevcut. ve bunu site yönetimine söyledik ama yönetim bunu da kulak ardı etti ve bizim kullanıcıları uyardığımızı görünce bizim hesabımızı silmeyi tercih etti. ve ‘başka hesapla da rahatsız etmeyin’ diye de akıl verdi. yani ‘alıcıları uyandırmayın biz böyle iyiyiz’ olarak algıladık biz bunu. <br/>bizim için asıl rezalet budur aslında. <br/>ve bugün sitede yeni bir hesaptan diğer kullanıcıları uyarmak istediğimizde kızımızın pişkin pişkin yorumlarıyla karşılaştık. <br/><br/>bir diğeri de;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/rp63683u8bsw" title="https://eksiup.com/p/rp63683u8bsw">ss</a><br/><br/>aşağıya doğru inince okuyabileceğiniz bu ss’lerin orijinal linkleri;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://dolap.com/urun/mango-cicek-desenli-askili-canta-yeni-etiketli-moddyt-19070634" title="https://dolap.com/urun/mango-cicek-desenli-askili-canta-yeni-etiketli-moddyt-19070634">pişkin 1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://dolap.com/urun/pandora-gumus-taki-yeni-etiketli-moddyt-31289094" title="https://dolap.com/urun/pandora-gumus-taki-yeni-etiketli-moddyt-31289094">pişkin 2</a><br/><br/>bu trendyol kuruluşuna yaşananları defalarca maillerde anlattık. zaten telefon numaraları da yok. görüşme yolu kapalı. sadece mail yazabiliyorsunuz. verdikleri tek cevap; papağan gibi “ bu yazdıklarınızı ancak ürünü onaylamadan yapabildiniz. iş işten geçti” ... sonuç;<br/><br/>siteden atıldık. evet. sonuç bu
   entry_channels: teknoloji,moda
 - entry_name: |
-    kütahyalılar'ın diyarbakır'da yaşamaması
-  entry_id:  93179210
-  entry_writer: mesinieskimiskeneftakunyasi
-  entry_fav_count: 158
-  entry_content: |
-    kütahyalılar bir örnek. diyarbakır'lılar herhangi bir batı şehrine yerleşip iş sahibi olabiliyor. dolmuşçuluk, inşaat ustalığı veya market açabiliyor. oraya iyice yerleştikten sonra da eşini akrabasını çağırıp gettolaşıyor. anadolu insanı da sesini çıkarmıyor. ama bir kütahyalı diyarbakır'da dükkan açmak istese halkı izin vermez, orada barındırmazlar. diyarbakır'da bir kütahyalılar mahallesi bulamazsın. ama bursa'da, izmir'de diyarbakırlıların, mardinlilerin bulunduğu mahalleler var.<br/>olayın özeti şu: türkler doğululara karşı hoşgörülü. ama aynı hoşgörüyü doğulu vatandaşlardan göremiyoruz. bir de mağdur olan onlar. kürt sorunu varmış...asıl türkiye'de türk sorunu var be!
-  entry_channels: seyahat
-- entry_name: |
     fatih terim'in 3.5 milyon euro tazminat alması
   entry_id:  93185393
   entry_writer: youth gone wild
-  entry_fav_count: 140
+  entry_fav_count: 145
   entry_content: |
     bizim paramız ile ödenmeyen tazminat. tff özerk kuruluştur, cahil cahil konuşmayın.
   entry_channels: spor
 - entry_name: |
-    osmanlı imparatorluğu'nun en devrimci lideri
-  entry_id:  93189952
-  entry_writer: goygoycu baba
-  entry_fav_count: 122
-  entry_content: |
-    <a class="b" href="/?q=ikinci+mahmut">ikinci mahmut</a>tur. batının her anlamda osmanlıya tur bindirmekte olduğunun nihayet farkına varan padişah olup bu bağlamda kısmen başarılı reformlar yapmıştır.<br/><br/>kadir patlamışmısıroğlu denen dallamanın müritlerinin çoğu kafasındaki <a class="b" href="/?q=fes">fes</a>i bu abimizin getirdiğini bilmezler. ama gavur padişah diye sallamaktan da geri kalmazlar. tıpkı bugün atatürk'ün kurduğu koltuklarda oturup atatürk'ü anmaktan imtina edenler gibi.
-  entry_channels: siyaset,anket,tarih
-- entry_name: |
     iyi insan olmanın sonuçları
   entry_id:  93191535
   entry_writer: evosistan
-  entry_fav_count: 117
+  entry_fav_count: 129
   entry_content: |
     aşağılık bir kadın yada erkek tarafından ezilmek ezilmek ezilmek.<br/>borç verip geri alamamak.<br/>çok çalışmak başkalarının işini yapmak.<br/>bir .mcık tarafından büyük ihtimalle aldatılmak.<br/>kovulmak.<br/>alay konusu olmak.<br/>çocukların tarafından hor görülmek.<br/>marketten eksik para üstü almak.<br/>havuzda şezlongu kaptırmak.<br/>sinemada koltuğu kaptırmak.<br/>konserde en boktan yere varıncaya dek birilerine yer vermek.<br/>otobüste hep ayakta kalmak.<br/>trafikte küfür yemek.<br/>.<br/>.<br/>.<br/>.<br/>sürekli eleştirilmek.<br/>sürekli öz eleştiri yapmak.<br/>ezik olmakla suçlanmak .<br/>keriz olmakla itham edilmek.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    okan bayülgen'in yeni imajı
-  entry_id:  93193744
-  entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 102
+    osmanlı imparatorluğu'nun en devrimci lideri
+  entry_id:  93189952
+  entry_writer: goygoycu baba
+  entry_fav_count: 128
   entry_content: |
-    (bkz: <a class="b" href="/?q=atanamam%c4%b1%c5%9f+walter+white">atanamamış walter white</a>)
-  entry_channels: magazin
-- entry_name: |
-    üzmeden kız terk etme yolları
-  entry_id:  93169994
-  entry_writer: magdur kurbaga
-  entry_fav_count: 91
-  entry_content: |
-    inin evladim su kaf dagindan cidden. evet terkettiginde üzülecektir belki aglayacaktir ama üzmeden süründüre süründüre ayrilmaya calismaniz daha da yipratacaktir kendini. <br/><br/>kendinden sogutma: senelerdir berabersiniz, ayrilmayi kafaya takmissiniz ve mesafe birakirsaniz soguyup kolayca ayrilacaginizi düsünüyorsunuz. o is öyle kolay degil yani kiz önce günlerce, haftalarca kendi kendini yiyecek "biri mi var, beni sevmiyor mu?" gibi sorularla tabii sizin götünüz dürüstce konusup ayrilmayi yemedigi icin "yok canim olur mu öyle sey aa vaktim yok mesgulum" falan diyip kizi iyice delirteceksiniz.<br/><br/>nefret ettirmek: diyelim aldatip kendinizden nefret ettireceksiniz ya da büyük bir yalaninizi ortaya cikartip. bunu o insana yapmaya hakkiniz var mi? aldatilma psikolojisi savas psikolojisi ile kiyaslanirken hem de. hayir baska nasil nefret ettirmek istiyorsunuz? sümügünüzü falan mi yiyeceksiniz, kötü mü davranacaksiniz kendisine? siz nasil insanlarsiniz aq.<br/><br/>sözde üzmeden terketme yollari hep benzer yere cikiyor "götüm yemiyor aslinda dürüst olmaya ve tamamen üzmemek adina nasil bir manyak oldugumu anlayamayip aci cekmesini izlemek istiyorum." <br/><br/>sadist misiniz lan siz?
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    türkiye 2. dünya savaşına katılmış olsa olacaklar
-  entry_id:  93164473
-  entry_writer: uykusuzbiri
-  entry_fav_count: 88
-  entry_content: |
-    1. dünya savaşı ve kurtuluş savaşını atlatan bir millet üstüne 2. dünya savaşına katılmış olsaydı sonumuz çok hayırlı olmazdı. bu milletin gücünü küçümsemiyorum ama o dönem teknolojisine epey uzak durumdaydık. ismet inönü’nün en doğru yaptığı şeylerden biri bu milleti savaştan uzak tutmak olmuştur.
+    <a class="b" href="/?q=ikinci+mahmut">ikinci mahmut</a>tur. batının her anlamda osmanlıya tur bindirmekte olduğunun nihayet farkına varan padişah olup bu bağlamda kısmen başarılı reformlar yapmıştır.<br/><br/>kadir patlamışmısıroğlu denen dallamanın müritlerinin çoğu kafasındaki <a class="b" href="/?q=fes">fes</a>i bu abimizin getirdiğini bilmezler. ama gavur padişah diye sallamaktan da geri kalmazlar. tıpkı bugün atatürk'ün kurduğu koltuklarda oturup atatürk'ü anmaktan imtina edenler gibi.
   entry_channels: siyaset,anket,tarih
 - entry_name: |
     derhal orta asyaya ananızın mına kadar yolunuz var
   entry_id:  93193046
   entry_writer: directalpine
-  entry_fav_count: 88
+  entry_fav_count: 126
   entry_content: |
     bu <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/upjc9" title="https://streamable.com/upjc9">videoda</a> türk milletine hakaret eden şahsın adı (bkz: <a class="b" href="/?q=cihat+duman">cihat duman</a>) kendisi avukatmış ancak yasaları bilmediği de ortada. türk milletine hakaret, halkı kin ve düşmanlığa sevketmek suretiyle suç işleyen cihat dumanın türk adaletine teslim olmasını umuyoruz. türk milleti adına türk adaletinin gereğini yapacağına olan inancımız tamdır.
   entry_channels: siyaset,haber
 - entry_name: |
-    türkiye'nin bir film olması halinde alacağı isim
-  entry_id:  93180896
-  entry_writer: guvec pide
-  entry_fav_count: 71
+    okan bayülgen'in yeni imajı
+  entry_id:  93193744
+  entry_writer: ortalama insan dusuncesine sahip insan
+  entry_fav_count: 108
   entry_content: |
-    bir film olarak yapılmışı var zaten.<br/><br/>(bkz: <a class="b" href="/?q=z%c3%bcb%c3%bck">zübük</a>)
-  entry_channels: siyaset,anket,tarih,sinema
-- entry_name: |
-    abd'de polis dövmek
-  entry_id:  93184833
-  entry_writer: eternal rains will come
-  entry_fav_count: 67
-  entry_content: |
-    (bkz: <a class="b" href="/?q=police+d%c3%b6vmek">police dövmek</a>)<br/><br/>poliçe diye okudum ilk bir. dedim herhalde yaktı yıktı bütün kağıtları.<br/><br/>e o zaman öyle kafaya böyle tarak (bkz: <a class="b" href="/?q=bullshit">bullshit</a>)
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=atanamam%c4%b1%c5%9f+walter+white">atanamamış walter white</a>)
+  entry_channels: magazin
 - entry_name: |
     misvak dergisinin türk bayrağına hakareti
   entry_id:  93193619
   entry_writer: yok be olum
-  entry_fav_count: 61
+  entry_fav_count: 69
   entry_content: |
     düşünsene ağaçsın ve seni kesip misvak dergisinde kullanıyorlar. onca bilimsel, entelektüel içerikli dergi varken... böyle bir aşağılama olamaz.
   entry_channels: 
 - entry_name: |
-    yeni neslin leş gibi olması
-  entry_id:  93164641
-  entry_writer: saksiya feslegen gibi oturturum
-  entry_fav_count: 52
+    2070 ekşi sözlük başlıkları
+  entry_id:  93188152
+  entry_writer: helen kontesolan
+  entry_fav_count: 61
   entry_content: |
-    yaşlılık belirtisi hezeyandır. entrylerde de örnekler verilmiş. insanoğlu 2500 yıl önce bile, bir sonraki nesli kendince beğenmemiştir. ama medeniyetin 2500 yılda kat ettiği mesafe ortadadır. <br/><br/>şükela modunda entryleri okuyorum. hezeyanlar gerçekten komedi. beyler ve bayanlar, mağaradan yeni mi çıktınız?<br/><br/>"dinledikleri boktan müzikler, saçmasapan takma isimlerle sözde şarkı yaptığını sanan rapçiler ve bunları popüler halen getiren ergenler.<br/>hiç bir şey olmasa bile bi müzik zevki vardı eskilerin. reynmen ne a.k ? bu nasıl bir takma isim."<br/><br/>doğuş, özcan deniz hayranı genç kızlar hangi nesildendi? müslüm gürses konserlerinde kendilerini jiletleyenler hangi nesildendi? köyünden üç kuruş parasıyla yola çıkıp, plakçılarda götünü yırtan borazan sesliler hangi nesildendi? reynmen meynmen duymadım da dinlemedim de; küçük ibo, küçük onur neydi peki olm? neden böyleydiniz? niye türkücü-manken dizilerine prim veren bir nesildiniz?<br/><br/>"enes batur, reynmen, berkcan güven, danla bilic, ezhel, ben fero vb. gibi tipleri izleyen dinleyen nesilden ne bekliyorsunuz amk."<br/><br/>90lı yılları severim de, 90lı yıllara dair gülümseten anılarınızda annenizin sizi yıkadıktan sonra şahane pazar izlediğinizi anlatan adamlarsınız oğlum. televole karşısında ekrana kilitlenen, hülya avşar ricky martin'i kaseyi nasıl elledi hihihi diyen nesilsiniz.<br/><br/>" eskiden sabahları çizgi film izlemek için dahi akşamdan anne babamızdan izin alırdık; şimdi her evde akıllı telefonlar, tabletler..."<br/><br/>ne alaka lan? ben çocukken dial-up modem ile, bugün 5 dakikada indireceğim şarkıları 18-19 sene önce 1 haftada anca indirip, istediğimde walkman'de dinleyebileyim diye boş kasetlere çekmiş adamım. teknoloji güzel şey, kullanmayı bilene.<br/><br/>sosyal medyada aşırı vakit geçirdiğiniz ve orta yaş krizine girdiğiniz için saçmalıyorsunuz. başka ülkeleri bilemem de, türkiye'nin ortalaması her zaman bu seviyelerde olmuştur. sosyal medya türkiye'nin ortalamasını gözünüze sokuyor ve şok oluyorsunuz.
-  entry_channels: anket
-- entry_name: |
-    28 temmuz 2019 bordeaux galatasaray maçı
-  entry_id:  93183608
-  entry_writer: srfydn
-  entry_fav_count: 47
-  entry_content: |
-    şikecilerin de ilgisini çeken futbol karşılaşması.
-  entry_channels: spor
+    (bkz: <a class="b" href="/?q=torunlar%c4%b1m%c4%b1n+bir+baltaya+sap+olamamas%c4%b1+rezaleti">torunlarımın bir baltaya sap olamaması rezaleti</a>)
+  entry_channels: ekşi-sözlük
 - entry_name: |
     tripsiz kaprissiz baskısız nazsız dertsiz kız
   entry_id:  93162837
@@ -238,7 +158,7 @@ data:
     karizmatik stadyum isimleri
   entry_id:  93185836
   entry_writer: gayptagezen
-  entry_fav_count: 36
+  entry_fav_count: 44
   entry_content: |
     giuseppe meazza
   entry_channels: spor,anket
@@ -246,130 +166,178 @@ data:
     engin nurşani'ye destek oluyoruz
   entry_id:  93178061
   entry_writer: kovalakus sapiens
-  entry_fav_count: 34
+  entry_fav_count: 37
   entry_content: |
-    aşık ali nurşani'nin kendisi gibi ozan olan oğlu engin nurşani gırtlak kanseri ile savaşıyor.aşık ali nurşani de gırtlak kanserine yakalanmış ve sesini kaybetmişti.aşık ali nurşani herşeyini oğlunun tedavisi için harcadığını artık gücü kalmadığını söylüyor ve yardım istiyor.<br/>gencecik bir insanın kurtulması için bir platform oluşturmalı ve yardımların ulaşmasını sağlamalıyız.<br/>haydi ekşi sözlük sosyal medyanın gücünü gösterelim.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t.co/bsO9xLLLQI">https://t.co/bso9xlllqi</a><br/><br/>edit: paylaştığım hesap numarası aşık nurşani'ye ait hesap numarası idi fakat öğrendiğime göre @ahbapplatformu bizzat ilgileniyormuş .o sebeple iban numarasını kaldırdım.yardım etmek isteyenler @ahbapplatformu ile temasa geçebilir.
+    aşık ali nurşani'nin kendisi gibi ozan olan oğlu engin nurşani gırtlak kanseri ile savaşıyor.aşık ali nurşani de gırtlak kanserine yakalanmış ve sesini kaybetmişti.aşık ali nurşani herşeyini oğlunun tedavisi için harcadığını artık gücü kalmadığını söylüyor ve yardım istiyor.<br/>gencecik bir insanın kurtulması için bir platform oluşturmalı ve yardımların ulaşmasını sağlamalıyız.<br/>haydi ekşi sözlük sosyal medyanın gücünü gösterelim.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t.co/bsO9xLLLQI">https://t.co/bso9xlllqi</a><br/><br/>edit: paylaştığım hesap numarası aşık nurşani'ye ait hesap numarası idi fakat öğrendiğime göre @ahbapplatformu bizzat ilgileniyormuş .o sebeple iban numarasını kaldırdım.yardım etmek isteyenler @ahbapplatformu ile temasa geçebilir.<br/><br/>edit2: sağlık bakanlığı da olaya müdahil olmuş ilgileneceklermiş.
+  entry_channels: 
+- entry_name: |
+    instagramdaki amentü biyoenerji sayfası
+  entry_id:  93192689
+  entry_writer: marsli gocmen
+  entry_fav_count: 36
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://images.app.goo.gl/7TSxBy31Cpd7rUbu9">https://images.app.goo.gl/7tsxby31cpd7rubu9</a>
   entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  93162780
   entry_writer: belirsiz belirgi
-  entry_fav_count: 33
+  entry_fav_count: 36
   entry_content: |
     öz ablam sandigim ablam megersem evlatlikmis bugun bunu ögrendim 35 yil aradan sonra bunu neden soylediniz ki biraksaydiniz hem ben hem o boyle bilseydi.bisey degismedi tabi ki ama kizin kafasini karistirdiniz.ablam ayni anneden olmasakda biz ayni hayati paylastik ayni anilari beraber biriktirdik kan bagimizin olmamasinin hic bir onemi yok seninle aramizda yurek bagimiz var.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    instagramdaki amentü biyoenerji sayfası
-  entry_id:  93192689
-  entry_writer: marsli gocmen
-  entry_fav_count: 31
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://images.app.goo.gl/7TSxBy31Cpd7rUbu9">https://images.app.goo.gl/7tsxby31cpd7rubu9</a>
-  entry_channels: 
-- entry_name: |
     2019 almanya gp
   entry_id:  93190196
   entry_writer: vela
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     günün en iyi mercedes’i güvenlik arabasıydı.
   entry_channels: spor
 - entry_name: |
+    eşini aldatmış biriyle evlenmek
+  entry_id:  93197826
+  entry_writer: maigre
+  entry_fav_count: 28
+  entry_content: |
+    hayat kadınıyla evlenilir eşini aldatmısla evlenilmez
+  entry_channels: ilişkiler
+- entry_name: |
     mangal için çam ağacını oyan adam
   entry_id:  93189459
   entry_writer: core i
-  entry_fav_count: 22
+  entry_fav_count: 24
   entry_content: |
     yeminle başlığı okuyunca orayı oyup içinde rüzgardan korunaklı alan yaptı zannettim.(sanki daha az acıklı gibi)<br/><br/>baya çıra/çalı/çırpı bildiğin katı yakıt için kesmiş ağacı.<br/><br/>&lt;seviye off&gt;<br/>senin ben inandığın davaları sikeyim, sizin ben yaşam algoritmanızın amına koyım.<br/>&lt;/seviye off&gt;<br/><br/>iyi akşamlar, hayırlı pazarlar.
   entry_channels: 
 - entry_name: |
-    2070 ekşi sözlük başlıkları
-  entry_id:  93188302
-  entry_writer: papucumun entrysi
+    kötü ilişki vs yalnızlık
+  entry_id:  93195962
+  entry_writer: yuesbisi bozuk kart okuyucu
+  entry_fav_count: 24
+  entry_content: |
+    (bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1k">yalnızlık</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    radamel falcao garcia
+  entry_id:  93169405
+  entry_writer: twitter
+  entry_fav_count: 20
+  entry_content: |
+    artık gelme amına koyduğumun çocuğu. kaybolan malezya uçağına döndü bu iş. haftalardır yok geldi yok gelecek yok uçakta yok anasının amında. arkadaşından tut yemek yediği lokantalardaki garsonlardan tut havaalanı çalışanından medet umar olduk. <br/>gelirsen de ananı sikeyim gelmezsen de bu dakkadan sonra. <br/>ligden düşmekten son anda kurtulan takımdan kurtarıyoruz seni. buraya gelirsen ilah olacaksın. hala bi nazlanmalar istemem şekiller falan. <br/>not: buraya gelirsen o saçlar uzayacak eskisi gibi sikerim.
+  entry_channels: spor
+- entry_name: |
+    birini unutmanın en iyi yolu
+  entry_id:  93180293
+  entry_writer: dreamfactory
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=milf+hatunlardan+mesaj+bekleyen+s%c3%b6zl%c3%bck+yazarlar%c4%b1">milf hatunlardan mesaj bekleyen sözlük yazarları</a>)
-  entry_channels: ekşi-sözlük
+    zihne ket vurmak.<br/><br/>yapması biraz zor ama yılmamak lazım, unutmak isteğiniz kişiyi düşünmeye başladığınızda zihninize dur demeniz lazım, hemen başka bir şey düşünmek ya da kafanızı meşgul edecek bir işe yönelmeniz lazım. <br/>o kişi hiç varolmamış gibi, öyle biri hayatınıza hiç girmemiş gibi yapmalısınız.<br/><br/>zamanla beyin buna inanıyor.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     bir dizi vesilesi ile öğrenilmiş en iyi şarkı
   entry_id:  93191802
   entry_writer: snowronark
-  entry_fav_count: 15
+  entry_fav_count: 19
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=lt-udg9zQSE" title="https://www.youtube.com/watch?v=lt-udg9zQSE">welcome to the machine</a><br/><br/>floyd dinleyicisi değilim fakat duyduğumda etkilenmiştim.<br/>person of interest
   entry_channels: anket,tv,müzik
 - entry_name: |
     erzurum'da bir gencin gözünü çıkaran suriyeli
-  entry_id:  93196268
-  entry_writer: das odium
-  entry_fav_count: 13
+  entry_id:  93196688
+  entry_writer: yavruyumurta
+  entry_fav_count: 11
   entry_content: |
-    bizde muşta taşımak suçken bunlara polis güvencesi bile veriliyor. vallahi de billahi de sakallı nurettin paşa'yı özledik.
+    durun etmeyin dadaş gardaşlar, onlar reisin, ümmetin emaneti dediğimdir.<br/><br/>gönderin artık bu suriyelileri.
   entry_channels: siyaset,haber
-- entry_name: |
-    pazar sabahı erken kalkmak için bir neden
-  entry_id:  93172311
-  entry_writer: volkanyapak
-  entry_fav_count: 12
-  entry_content: |
-    tuvalete diye kalkmak sonrasında ise uyuyamamak olabilir.
-  entry_channels: anket
-- entry_name: |
-    kötü ilişki vs yalnızlık
-  entry_id:  93195962
-  entry_writer: yuesbisi bozuk kart okuyucu
-  entry_fav_count: 11
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yaln%c4%b1zl%c4%b1k">yalnızlık</a>)
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    alman dendiğinde zihinde oluşan ilk imge
-  entry_id:  93170960
-  entry_writer: double trouble
-  entry_fav_count: 11
-  entry_content: |
-    ilk patronum, cok delikanli adamdin, don quixote gibi adamdin, kac sene gecti boyle bir yoneticiye ne turkiye'de, ne avrupa'da, ne de abd'de bir daha denk gelmedim... kariyerimi sana borcluyum... yavsak departman mudulerini benim gibi kiliksiz bir turk stajyerle ugrasiyorlar diye dansoz etmistin... tum yoneticileri toplayip 22 yasinda bebenin sunumunu zorla izletmistin... dedem yasinda oldugun halde bana excel'de macro ogretmistin... iskoliktin, aileni ihmal ederdin, ama geyik muhabbeti, yalan dolan, dalkavukluk sevmezdin... oldun mu, kaldin mi bilmem, ama kulaklarin cinlasin herr jaeschke... dunya hala donuyorsa senin gibi isini ibadet eder gibi yapan bir avuc insan sayesinde...
-  entry_channels: siyaset,anket,tarih,teknoloji
 - entry_name: |
     cihat duman
   entry_id:  93187878
   entry_writer: buradamuslumdenenhiyarvarmis
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/upjc9">https://streamable.com/upjc9</a><br/>biz bu topraklara savaşarak geldik atmak istediler savaşarak kan dökerek kaldık. senin gibi bir beyinsiz istedi diye bu ülkeyi araplaştırmasına izin verecek değiliz. az zamanınız kaldı. devir sizin ama elbet gideceksiniz. hemde bunu o çok sevdiğiniz ümmetçiliğiniz sayesinde gideceksiniz.
-  entry_channels: edebiyat
+  entry_channels: siyaset,edebiyat
 - entry_name: |
-    sevgilisini kebap sevdiği için terk eden kız
-  entry_id:  93195993
-  entry_writer: ne var yahu
-  entry_fav_count: 8
+    yazarların engelledikleri yazar sayısı
+  entry_id:  93196071
+  entry_writer: nice tnetennba
+  entry_fav_count: 10
   entry_content: |
-    ben kebap ve cigere üzüldüm.
-  entry_channels: 
+    2640 kişi.<br/><br/>engelliyoruz da ne oluyor? engellediğim yazarların açtıkları başlıklar, sol frame'den gitmiyor. herhangi bir başlığın şükela modu'na tıkladığımda, hali hazırda engellediğim kişiyi en tepede görebiliyorum. na böyle kabbbak gibi. kardeşim, ben senin yazdığın şeyleri okumak istemiyorum yav. istersen kadına düşman ol, istersen hayvana, gel düşmanlığını buraya kus; ama ben seni her başlıkta görmek istemiyorum. görmek istemediğim için de engelliyorum. benim düşüncelerim senin hoşuna gitmezse, gel sen de beni engelle. neden birbirimizi görmek zorundayız? <br/><br/>forumculuktan kudurduğum lise yıllarımda, din, siyaset, evrim bilmem ne tartışıp en fazla kalıcı ban yerdik. insanın bir müddet sonra düşünceleri oturmaya başladığından, karşı tarafla tartışmasının hiçbir manası kalmıyor. bir de meselelere "kadınlar, paraya tapar;]]]]", "bir erkekle bir kadın, asla arrhadaş olamaz, çünkü emişşirler;]]]" antenliğinde bakan kazık kadar insanlarla ne tartışabilirsin? <br/><br/>tartışamazsın, tartışmaya gerek de yok. adam engellemek için kullandığım belli başlık ve kelimeler:<br/><br/>1) <a class="b" href="/?q=sjw">sjw</a>, <a class="b" href="/?q=feminazi">feminazi</a>, <a class="b" href="/?q=kezofeminist">kezofeminist</a>, <a class="b" href="/?q=the+red+pill">the red pill</a>: bu tarz başlıklara yazan çoğunluğu engelledim. ciddi ciddi, cümle aralarına "sjw" yazabilen bir insanı gördüğümde engellemekten başka bir şey yapamıyorum. <br/><br/>2) <a class="b" href="/?q=erkek+yazarlardan+kad%c4%b1n+yazarlara+sorular">erkek yazarlardan kadın yazarlara sorular</a>: başlığa bakarsanız soruların yüzde doksanı "para mı sekiz mi, dokuz mu", "neden hepiniz aptalsınız, neden hobiniz yok, neden film izlemiyorsunuz", "yakındaysan buluşup sigişelim mi", "hangi pozisyonda orgazım oluyorsun", "seni titreteyim mi", "ancuk var mı" şeklinde. başlığa tıkladığınız vakit terli taşşak kokusu genzinizi yakıyor. "kadınlarrr, efendi erkekler varken piç erkekleri neden tercih ediyorsunuz?" kardeşşş, sen ne orijinal bi adammışsın. hala mı be? hala mı? mısır hiyerogliflerinden günümüze gelen sorunun esrarını hala çözememişler.<br/><br/>3) <a class="b" href="/?q=bir+kad%c4%b1n%c4%b1n+kaliteli+oldu%c4%9funu+g%c3%b6steren+detaylar">bir kadının kaliteli olduğunu gösteren detaylar</a>: canım erkekler ve araya serpiştirilmiş canım hemcinslerim, neyi yaptığımızda kaliteli, neyi yapmadığımızda horospu olduğumuzu maddeler halinde listelemekte beis görmemişler. bir kadın, küfür ediyorsa kalitesizmiş. bu başlık sayesinde, kalitesiz bir horospu çocuğu olduğum tescillendi...<br/><br/>4) <a class="b" href="/?q=kad%c4%b1nlar+olarak+k%c4%b1llar%c4%b1m%c4%b1z%c4%b1+almak+zorunda+de%c4%9filiz">kadınlar olarak kıllarımızı almak zorunda değiliz</a>: bu başlığa yazan kadın yok. erkekler, kendi kendilerine deliriyorlar ara ara. adamın biri gelip "biz de sizi skmek zorunda değiliz." diyor, sonra başkaları onu destekliyor. tam bir geri zekalı şovu yemin ederim. adam iki dakika düşünmüyor da "ulan, kıllarını almak zorunda olmadığını söyleyen kadın, benim onunla ilişkiye girip girmememi umursar mı" diye.<br/><br/>5) <a class="b" href="/?q=bir+erkekle+bir+k%c4%b1z+ger%c3%a7ekten+arkada%c5%9f+olabilir+mi">bir erkekle bir kız gerçekten arkadaş olabilir mi</a>: olamazlar. eğer oluyorlarsa kadın çirkin, erkek ipnedir. erkek ipne değilse, kadın, erkeği yedekte tutuyordur. erkek yakışıklı kadın tipsizse, kadın, geceleri ağlıyordur. kadın yakışıklı, erkek güzelse, kadın, erkeğe pegging yapıyordur. <br/><br/>pvq ise p=q<br/>ve <br/>pvq=qvp<br/><br/>6) evlenmek istemiyorum, evlenmek iğrenç bişi, tüm kadınlar beni kıskanıy: elbette, hemcinslerimi de engelliyorum. sürekli aynı şeyleri yazıp durmalarının sıkıcılığını belirttiğinizde, "beni qısqanı0rlr" diye abuk subuk triplere giren, yalnızca kendi hayatını mükemmel bulup etrafındaki çiftleri boklayıp duran manyak kafalara engeli basıyorum. erkeği de ayrı sıyırmış oluyor bunların. yazdıklarınızdan mutsuzluk, sıkıcılık, kıskançlık, kompleks akıyor. de hele hepiniz gidin.
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    sözlük yazarlarının seks itirafları
+  entry_id:  93188912
+  entry_writer: gorken
+  entry_fav_count: 10
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/qAbjMZ.jpg" title="https://i.hizliresim.com/qAbjMZ.jpg">.</a>
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    köyde yapılacak en iyi aktivite
+  entry_id:  93176131
+  entry_writer: elmas37
+  entry_fav_count: 9
+  entry_content: |
+    köyden köye değişir. ben norvec'in köylerine benzeyen bir köyde yaşıyorum. geceleri cok güzel oluyor. karşıdaki ormanını içinden doğan ay güzel bir manzara sunuyor. ormanlardan gelen kurt cakal ulumaları acaip bir mistik hava katıyor. <br/>aktivite cok. <br/>cok canın sıkılırsa aşağı pazar inmek. nostaljik kahvelerde cay içmek. yaşlı amcalarla daşak gecmek. <br/>cok canını sıkılırsa karşıdaki dağı aşmak( yürüyerek olursa daha zevkli. toprak ormanların arasındaki keci yollundan gidiyorsun) buz gibi karadenizin sullarında yüzmek.<br/>cok daha canın sıkılırsa, yönünü tam kuzeye değil kuzey batıya cevirip 1,5 saat daha yürüyüp ilçeye inmek. yürümem diyorsan. çin işi motorsikletle direk yoldan 20 dakikada gidebilirsin. <br/>ilcede tatilci kızları kesmek. <br/>acaip canım sıkkın diyorsan direkt şehre gidebilirsin.<br/>çin işi motorunla ormanların içinde dolaşabilirsin. bir dağın tepesine cıkıp kuzeyde masmavi karadenizi geri kalan yerde yem yeşil ormanları izleyerek biranı içebilirsin. <br/>bazen bu eşsiz manzarıyı pinik tüpünü motorun kite sıkıştırıp cay içerekte yapabilirsiniz. <br/>huzur başka ne olsunki. 11 yıl içerde gecen kayıp yıllarımı böyle huzurla uzatmaya calışıyorum.
+  entry_channels: anket,tarih,sağlık,seyahat
 - entry_name: |
     herıld yani neslinin boş yapma neslini beğenmemesi
   entry_id:  93195813
   entry_writer: saladze
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     herıld yani bir hayli eskidir. 1993-1998 yılları diyebiliriz. herıld yani diyen adam gırgırına derdi. tam emin olmamakla birlikte "hypelandım", "triggerlandım", "boş yapma", "yükseldim" gibi "şeyler"i bugünkü nesil normal konuşma diline gömmüş durumda. <br/><br/>"saat kaç? eti kemik geçiyor" ise zaten ilkokul çocuklarının şakalarıdır. ortaokulda bile yapılmazdı. "deeermişim" için 2000'ler başı diyebiliriz. kemal sunal'ın "mesela yani"sinin modern versiyonuydu. yani yine gırgır amaçlı kullanılırdı. yine de hoş değildi elbette.<br/><br/>oha falan oldum. oldu gözlerim doldu. bunlar zaten avrupa yakasındaki kızın dillere soktuğu bir saçmalıktı. diyosuuuuuğn falan benim yaşarken bunları ciddi ciddi kullanan bir tanıdığım hiç olmadı. yine başta anlattığım konu. elbette güzel bir noktaya parmak basılmış ama bugünkü neslin tırtlığının adı gerçekten yok.
   entry_channels: 
 - entry_name: |
-    anıtkabir dışında ankara'da gidilecek yerler
-  entry_id:  93197672
-  entry_writer: cift uskur hulusi reis 2
-  entry_fav_count: 5
+    tek başına tatile çıkan ezik ve yalnız insan
+  entry_id:  93184013
+  entry_writer: blacktreacle
+  entry_fav_count: 7
   entry_content: |
-    sincan lale meydanı. hollanda'da dahi göremeyeceğiniz bir adet lale heykeli ve yüzlerce yürüyen g.t lalesi görebilirsiniz.
-  entry_channels: 
+    asıl biriyle tatile çıkmak büyük acizlik göstergesidir ve ezikliktir.zira beraber gidilen kişinin istekleri de yerine getirilmek zorunda kalınacaktır bu tatilde. o pizza yemek isteyecek, sen hamburger ve illaki bir gün o pizza yenecek!
+  entry_channels: anket,ilişkiler,seyahat
+- entry_name: |
+    fenerbahçe
+  entry_id:  93163543
+  entry_writer: kranc
+  entry_fav_count: 6
+  entry_content: |
+    futbol şubesi küçülmeye gitmiş takımım. 2018 yazı sonunda yeni kadromuza 49.9 milyon euro yıllık ücret ödeyeceğimizi başkan açıklamıştı hatırlarsınız. 2017’de 65 milyon euro ödediğimizi düşünürsek oldukça olumlu bir haber gibi gözüküyordu o zamanlar.<br/><br/>kadrodaki ani gelişen bu revizyon bize tarihimizin en kötü sezon başlangıcını yaşattı. ilk defa devre arasını 17. sırada bitiren bir fenerbahçe gördük. çözüm olsun diye ersun yanal’ı getirdik ve devre arası 5 yeni transfer yaptık. yeni aldığımız oyuncular ve aatıfın ayrılmasıyla maaş bütçemiz 55.740.000 euro’ya çıktı. <br/><br/>bonservis ücretlerinden bahsetmiyorum çünkü ffp kuralları gereğince gelir-gider dengesi zaten denk tutulmakta.<br/><br/>sözleşmesi bitenlerle elimiz rahatlar, hareket alanı oluşur, iyi bir kadro kurarız diye düşünüyorduk. başkan sürekli gelecek sezon için şampiyonluk sözü veriyordu ama şöyle bir haberle karşılaştık:<br/><br/>“yüksek ücret alan oyuncularla yollarını ayıracak olan fenerbahçe yönetimi, transferde ekonomisini zorlamayacak ve maaş bütçesini 40 milyon euro sınırına çekecek.”<br/><br/>sene sonu takımdan toplam 12 oyuncu ayrıldı. takımdan ayrılan oyuncuların yıllık ücreti 28.900.000 euro. şu ana kadar takıma 7 yeni oyuncu katıldı. katılan oyuncular bu yıl yaklaşık 7.700.000 euro kazanacak. yani bugün itibariyle mevcut maaş yükümüz 34.540.000 euro oldu.<br/><br/>altyapımızdan yükselttiğimiz gençler hariç 28 tane futbolcu var takımda. bu yıl 28 oyuncuya 34.540.000 euro maaş ödeyeceğiz. aynı kalibrede, benzer maaşlar alan onlarca az yetenekli futbolcu. <br/><br/>romantikliğe gerek yok, bütçe demek başarı demektir. bizim bu şekilde şampiyon olmamız maalesef tesadüflere bağlıdır. biz takımın yetersiz olduğunu düşünürken bu kadroyu yeterli görmek başkan için çok büyük soru işaretidir. <br/><br/>eljif elmas’ın gidişiyle beraber 11 milyon euro transfer harcaması yapma hakkımız oluştu. bu parayla sanırım yine aynı kalibrede, düşük maaşlı 3-4 oyuncu alıp ersun yanal’ın şapkadan tavşan çıkarmasını bekleyeceğiz. <br/><br/>takımda hasan ali dışında sol bek olmamasına rağmen sol bek alınmayacağını da öğrendik çok şükür bugün. kanatlarda rodrigues’in ve moses’ın yedeği alper potuk. kanat transferi de yapılmayacakmış. gidişatı olumlu göremiyorum, umarım yanılırım.
+  entry_channels: spor
 - entry_name: |
     hatay dönerinin abartılmış bir balon olması
   entry_id:  93194641
   entry_writer: ister zengin ol ister fukara
-  entry_fav_count: 3
+  entry_fav_count: 5
   entry_content: |
     hatay döneri ile özellikle antakya'da yapılan döneri yememiş olduğunu düşündüğüm arkadaşın açtığı başlık.<br/>hatay dönerinin sınıflandırması ve türkiye'ye yayılmasını şu şekilde ele alacağım.<br/>dönercilere baktığınızda genellikle şu ibareleri görürsünüz<br/>1)meşhur hatay döneri<br/>2)iskendrun döneri<br/>3) antakya döneri (nadir bulunur)<br/>öncelikle hatay'a gidip hatayın ilçelerini gezenler hatay'ın zengin sofrasının hangi ilçesinden yoğunlaştığını bilir bu hatay/merkez yani antakya ilçesidir. hatay çok kültürlü kozmopolit yapısı ve arap asıllı birçok türk vatandaşına ev sahipliği yapmaktadır. hatay'ın geçim kaynağı geçtiğimiz 20 yılı çıkartırsak, tarım ve ortadoğu'ya yolladığı zanaatkarların dövizlerinden oluşmaktadır. iskendrun, hariç üniversite mezunu azdır.<br/><br/>bilen bilir özellikle arap asıllı zanaat bilen birçok hataylı gencin yıllarca para kazanmak için ortadoğu'daki ülkelerde çalıştığını. suudi arabistan, libya, ürdün, katar, bahreyn, libya, b.a.e ve yakın zamanlarda dubai okumamış zanaatkar hataylıların para kazanmak için gurbete gittiği ülkelerdir. bu nedenle hatay sofrası kavramı gaziantep ve urfa sofrası kadar bilinmezdi. çünkü hataylı ustalar, ortadoğuda çalışırdı. <br/>hatay dönerinin türkiye'ye açılması<br/><br/>donas'ın piyasaya girmesi<br/><br/>hatay döneri veya iskendrun dönerinin türkiye'ye yayılmasında en önemli dönüm noktası çoğu kişinin aşina olduğu <a class="b" href="/?q=donas">donas</a>'tır. bundan yıllar önce donasın sahibi olan kişi para biriktirmek için yurtdışında dönercilik yaptıktan sonra yurda döner. eskişehirde okuyan bazı gençler iskendrun asıllı bu abiye eskişehir'de iş yeri açarsa iyi para kazanabileceğini iddia ederler. bu zamana kadar hatay'ın çoğu yerinde yediğiniz tavuk dönerin içinde domates veya marul bulamazsınız. lavaş ekmeği incedir. hem tavuk soslanır hem de içine özel sos konur. tavuk boldur. bu durum hatay sofrasının şanındandır.<br/><br/>tavuk dönerin mc donaldslaşması<br/><br/>donas eskişehir'e ilk geldiğinde kendi usulü ile döner yapar. döneri çok beğenilir. fakat öğrenci milleti hem lezzetli hem doyurucu hem de ucuz yemek ister. hatay döneri lezzetlidir ama işletme için kar oranı düşüktür. özellikle eskişehir'in gelişmesi ile artan masraflar dönerin maliyetine katılır. işte tam da bu süreç şu an <a class="b" href="/?q=iskendrun+d%c3%b6neri">iskendrun döneri</a> veya <a class="b" href="/?q=donas">donas</a> dediğiniz ürünün ortaya çıkmasına sebep olur. içine ucuz domates ve marul girer, ekmek kalınlaşır, tavuk eti miktarı tartıyla ayarlanır ayrıca olması gerekenden daha azdır. işletme kar oranını yükseltmek ama bu süreçte öğrenciyi de memnun etmek için yeni bir ürün ortaya çıkarmıştır. bu hatay sofrasından çıkan bir ürünün mc donalds'laşması sürecidir.<br/><br/>yüksek kar oranları ve dönerin yayılması<br/><br/>eskişehir türkiyenin dört bir yanından öğrenci çeken bir şehirdir. eskişehir'de yedikleri donası çok severler. doyurucudur ve sosludur. işletme sahibi eskişehir'de şube sayısını arttırır. sonra çevre illere ve öğrencinin çok olduğu şehirlere yayılır. bu durum ve donas'ın sahibin zenginleşmesi birçok döner ustası ve zanaatkara ev sahipliği yapan iskendrunlu ustaların, girişimcilerin dikkatini çeker. donas benzeri bir oluşumla donası girmediği şehirlere girmeye başlarlar. kar marjı için tavuk döneri değişmiştir. derken öncü, dois ve birçok marka döner satmak için anadolu'ya yayılır.<br/>burada dikkatinizi çekmek istediğim nokta antakya dönerinin ve antakyalı girişimcilerin bu işe mesafeli olmasıdır. bunun sebebi de iskendrun'un demirçelik sanayi yüzünden antakya'ya göre anadoludan ve büyük şehirlerden daha fazla göç almasıdır. iskendrun anadolu ile bağlantılıdır. antakya'nın ise ortadoğu ile bağları yüksektir.<br/><br/>her ile bir üniversite politikası ve hatay sofrası yükseliyor<br/><br/>2007 yılında zirveye ulaşan her ile bir üniversite fikri ile pasta oldukça büyümüştür. artık ucuz, lezzetli ve doyurucu yemek arayan öğrenci sayısı artmış ve anadolu'nun dört bir yanına dağılmıştır. insanlar yedikleri şeye hatay döneri adını vermeye başlar. hataylı olmayanlar bile içine sos koydukları şeye iskendrun döneri veya hatay döneri demeye başlar.<br/>2008 ekonomik krizi ve sonra arap baharı, arap ülkelerinin karışmasına neden olur. burada eskisi kadar kolay iş imkanı bulunmaz. suriye olayları da patlak verince 400 bin mülteci hatay'ın kısıtlı olan gelirini paylaşmaya başlar. artık anadolu'ya açılma vakti gelmiştir. hatay sofrası, antakya sofrası, hatay medeniyetler sofrası, antakya künefesi vs gibi tabelalar çoğalmaya başlar. bu arada antakya'dan <a class="b" href="/?q=kat%c4%b1k+d%c3%b6ner">katık döner</a> ve <a class="b" href="/?q=kebo">kebo</a> adlı markalar anadolu'da iş yapmaya başlar. ilk önce katık döner girer. donas gibi 2. veya 3. sınıf bir döner yapar. antakya'nın lüks dönercilerinden <a class="b" href="/?q=kebo">kebo</a>ise avmlerde ve şehrin kavşak noktalarında, etten kısmadan 1. sınıf döner satmaya çalışır.<br/>isteyenler meşhur donas'ın iskenderun ilçesindeki şubesine bakarak bahsettiğim dönerin lezzet sınıflamasının ne demek olduğunu anlar.<br/>hatay sofrası bir kültürdür. bu kültürün birleştiği yer ve merkezi ise antakya'dır.<br/>antakya'da döner yiyebileceğiniz mekanlar. bu mekanlar domates veya salata kullanmazlar. tavuk soslaması ve içine koydukları soslar farklıdır.<br/>kebo<br/>eskici<br/>mudurnu<br/>necmi usta döner<br/>efe döner<br/>biber döner
   entry_channels: 
+- entry_name: |
+    akp'nin nasıl bir türkiye bırakacağı sorunsalı
+  entry_id:  93195807
+  entry_writer: lahmacunmania
+  entry_fav_count: 5
+  entry_content: |
+    akp'nin giderken orta da hala türkiye diye birşey bıracağını falan zanneden saf bir kardeşimizşn açtığı başlıktır. kaldır kafanıda bir etrafa bak kardeşim, tabelalarda bile yok tc.
+  entry_channels: siyaset
+- entry_name: |
+    twitter'daki ismail saymaz banu güven tartışması
+  entry_id:  93196151
+  entry_writer: sosyopatiz elhamdurillah
+  entry_fav_count: 4
+  entry_content: |
+    banu güven ve nurcan baysal enteresan şekilde ümmetçilerin paralelinde suriyeli koruyuculuğuna giriştiler, bunların demek ki solculuğu hikayeymiş, bunlar <a class="b" href="/?q=ayy+ma%c4%9fduriyet+hemen+ma%c4%9fdur+olmal%c4%b1y%c4%b1m">ayy mağduriyet hemen mağdur olmalıyım</a> solcuları, halka inemediklerinden suriyelileri de <a class="b" href="/?q=ay+can%c4%b1m+benim+yerim+onlar%c4%b1">ay canım benim yerim onları</a> diyerek savunuyorlar starbucks kafelerinden.<br/><br/>*ismail saymaz'ın , aynı şekilde nurcan baysal'ı da bi güzel söndürmesini diliyorum.
+  entry_channels: siyaset,haber
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  93164023
+  entry_writer: gokcesadik
+  entry_fav_count: 3
+  entry_content: |
+    25 dakikada 25 tane bacak arasi sorusu yazılmış. yazık valla, allah sizi ıslah etsin. bunlara cevap veren salak var mı?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     ankara'yı sevme nedenleri
   entry_id:  93165881
@@ -379,27 +347,59 @@ data:
     melih ipnesinden kurtulmuş olması.
   entry_channels: anket
 - entry_name: |
-    sivrisineklerin yılda 725 bin kişiyi öldürmesi
-  entry_id:  93197426
-  entry_writer: feanor fingolfin
+    tepsi gibi götüyle tayt giyen kızın asıl amacı
+  entry_id:  93194894
+  entry_writer: zeki ama calsmiyor
   entry_fav_count: 2
   entry_content: |
-    köpekbalığı, kurt gibi en korkulan hayvanların sadece 10, yazı ile on adet insan öldürmesine rağmen kötü şöhretlerinin bu kadar yüksek olması bize algılarımızla nasıl oynandığını gösteriyor.<br/><br/>köpek kurdun 2500 katı fazla ölüme sebep olmasına rağmen ay canım yerim onu diyen insanoğlu ne riyakar.
+    -kendi götünü tepsi gibi görmüyor olabilir<br/>-erkeklerin ilk göte baktığını bilmiyor olabilir<br/>-götüyle barışık olabilir<br/>-götünün tepsi gibi olduğunu biliyor ama bunu umursamıyor olabilir<br/>-olabilir oğlu olabilir.
+  entry_channels: ilişkiler,moda
+- entry_name: |
+    şu an okunan kitap
+  entry_id:  93165603
+  entry_writer: zonderland85
+  entry_fav_count: 1
+  entry_content: |
+    varoluşçu psikoterapi, irvin d. yalom
+  entry_channels: anket,edebiyat
+- entry_name: |
+    çaylak entry'sini favorileyen yazar
+  entry_id:  93197587
+  entry_writer: jack in od kesesi ya da kirik kalbi
+  entry_fav_count: 1
+  entry_content: |
+    zamanında kendisi de çaylak olan bir yazarın hezeyanı.<br/><br/>ayrıca (bkz: <a class="b" href="/?q=mal+beyan%c4%b1">mal beyanı</a>)
   entry_channels: 
 - entry_name: |
-    çocuğum dahi sendromu
-  entry_id:  93196499
-  entry_writer: vatan sag olsun diye solcuyuz
-  entry_fav_count: 0
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  93170406
+  entry_writer: kerim89
+  entry_fav_count: 1
   entry_content: |
-    maalesef bir türkiye gerçeği..<br/><br/>oğlum çok zeki bak tableti açabiliyor.<br/><br/>kızım dahi yaa.çok akıllı.bakın internetten video oynatabiliyor..<br/><br/>haa bu ailelerin başarısız olan çocukları için 10 sene sonra söyleyecekleri;<br/><br/>çocuğum çok zeki ama çalışmıyor...
-  entry_channels: bilim,sağlık,eğitim
+    derdi olan buyursun, gelsin. kapım herkese açık.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    tek başına tatile çıkan ezik ve yalnız insan
-  entry_id:  93184380
-  entry_writer: inanmiss
+    anıtkabir dışında ankara'da gidilecek yerler
+  entry_id:  93197432
+  entry_writer: hellfida
+  entry_fav_count: 1
+  entry_content: |
+    hacı bayram veli türbesi.
+  entry_channels: 
+- entry_name: |
+    türkiye'den çıkacak nba takımlarına isim önerileri
+  entry_id:  93198182
+  entry_writer: methapor
   entry_fav_count: 0
   entry_content: |
-    abi yalniz yapilan her aktivitede neden insanlari ezik olarak damgaliyorsunuz. tek basina tatilen cikan insan “hepinizden nefret ediyorum keske olseniz” modunda olan insandir. kafa dinlemek icin kalabaliga gereksinim duymayan, kendine zaman ayiran ve kendi basina gayet guzel eglenebilen, kendini iyilestirmek icin ugrasan kisidir. simdi dagilin
-  entry_channels: anket,ilişkiler,seyahat
+    ankara babies.
+  entry_channels: spor,anket
+- entry_name: |
+    arapların gitmesi için yapılması gerekenler
+  entry_id:  93198660
+  entry_writer: aleykumkonuz
+  entry_fav_count: 0
+  entry_content: |
+    sosyal medya kesinlikle itici güç. aksiyon çabuk alıyorlar. trendden düşürülmemesi lazim gelir.
+  entry_channels: 
 ---
