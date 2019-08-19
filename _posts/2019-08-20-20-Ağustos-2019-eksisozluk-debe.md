@@ -6,7 +6,7 @@ data:
     youtube'da hayvan videoları çeken çocuk
   entry_id:  94142308
   entry_writer: cauchygalois
-  entry_fav_count: 2445
+  entry_fav_count: 2571
   entry_content: |
     yaşıtları gibi saçma salak challenge videoları, slime yapıyoruz vs gibi paylaşımlar yapmadığı için 279 abonede kalmış <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/channel/UCdDrQhKJqNVr6HqocVNG21w" title="https://www.youtube.com/channel/UCdDrQhKJqNVr6HqocVNG21w">çocuktur.</a> kanalını inceledim gayet de güzel videoları var. bu yaşta bir çocuğun doğa sevgisine bilimsel merakına destek olalım lütfen. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/channel/UCdDrQhKJqNVr6HqocVNG21w" title="https://www.youtube.com/channel/UCdDrQhKJqNVr6HqocVNG21w">kanal link</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=5Qz0DJLtcoY" title="https://www.youtube.com/watch?v=5Qz0DJLtcoY">oluklu kertenkele</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=GvuVrMNMNtQ" title="https://www.youtube.com/watch?v=GvuVrMNMNtQ">avuva böceği</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=-3Nd1zEByhk" title="https://www.youtube.com/watch?v=-3Nd1zEByhk">engerek yılanı</a><br/><br/>edit: destek veren arkadaşlara sonsuz teşekkür ediyorum. abone sayısı eksponansiyel olarak artıyor gördüğüm kadarıyla. kendi kanalımmış gibi mutlu oldum. sağolun, varolun. (ilk 30 dk 119 yeni abone)<br/>edit 2: inanılmaz az önce 1000 aboneyi geçti.<br/>edit 3: çocuk hesabını kontrol edince büyük şok yaşayacak muhtemelen. daha 1 saat bile olmadı neredeyse 1000'e yakın yeni abone geldi.<br/>edit 4: tam 1 saat oldu 2000 abone teşekkürler sözlük.<br/>edit5: şu anda 4000'i bulduk destekleyenlere bir kez daha teşekkürler.<br/>edit6: 15 bine merdiven dayadık çok teşekkür ediyorum. bu arada mesaj kutumu da güzel mesajlarla doldurup taşıran herkese sevgiler. dışarıdayım diye pek bakamıyorum mümkün olunca hepsine tek tek döneceğim.<br/>edit7: çocuğa kamera ekipmanları alalım yardımcı olalım tarzında çok sayıda entry ve mesaj geliyor. inanın bu işlerin prosedürünü hiç bilmiyorum ve çocukla da şu an için bir temasım yok. bu konuda bilgili arkadaşlar mesaj vasıtasıyla yardımcı olurlarsa böyle bir kampanya da yapabiliriz.
   entry_channels: teknoloji
@@ -14,7 +14,7 @@ data:
     d. bakır mardin van belediyelerine kayyum atanması
   entry_id:  94126575
   entry_writer: gelmezsen gelme ulan
-  entry_fav_count: 888
+  entry_fav_count: 893
   entry_content: |
     mücadeleymiş. aponun kardeşini al trt’de konuştur sonra gel burda mücadele de. senin ben sıfatını sikeyim. mücadele diyeceksen adam gibi, olanı biteni söyleyip sonra gelip burada konuşacaksın. <br/><br/><a class="b" href="/?q=edit">edit</a> başlık güncellendi ve haber başlığı doğrulanmış oldu. açıklama yapmak gerekirse batıda hdp’nin seçime girmeyerek, akp’nin kaybetmesine sebep olduğu için cezası kesilmiştir. adına ister mücadele diyin isterse terörü yendik bitirdik diyin. ne derseniz diyebilirsiniz lakin bunun demokratik bir hadise olduğunu kimseye kabullendiremezsiniz. bir önceki kayyumlar belediyeleri borç batağına sokup bırakıp gitmişlerdi. jakuziler hamamlar vs vs haberlerde üç saniye gösterilse de bu millet gerçekleri görüyordu. şimdi de görecek. dün aponun mektupları okunurken kanal kanal, kardeşi terörist <a class="b" href="/?q=osman+%c3%b6calan">osman öcalan</a> trt’de röportaj verirken neredeydi bu mücadele? <a class="b" href="/?q=pekeke">pekeke</a> derken hayırdır diye soranlara niye sus pus olunuyordu? aklı olan herkes neyin ne olduğunu biliyor. gerisi traş. çomar varsın mücadele edildiğini sansın. ben aklımla dalga geçilmesine izin vermiyorum.<br/><a class="b" href="/?q=edit2">edit2</a> mesaj atıp ‘o başkanlar terörist’ diyenlere de bir çift söz eklemek isterim. teröristse korsun kanıtını ortaya, bak şu şu nedenlerle bu teröristi görevinden azlediyorum ve tutukluyorum dersin bir daha da siyaset miyaset yapamayacak dersin konu kapanır. bakıyorsun alınan adama <a class="b" href="/?q=ahmet+t%c3%bcrk">ahmet türk</a>. kim bu kişi? mardin’in yine kayyımdan önceki başkanı. terörist deyip aldığında tekrar seçilmesine neden izin verdin diye sormayacak mısın ?? bir sonraki seçimde bu kişilerin yine seçime girip kazanması halinde yeniden mi kayyım atayacaksın? nere kadar sürecek ?<br/>ülkede öyle teröristler var ki trt’ye çıkıyor trt’ye. sen hala terörörö.<br/><a class="b" href="/?q=pe%c5%9fin+edit">peşin edit</a> pkk’nın da fetö’nün de onlara ‘yardım ve yataklık’ edenin de gelmişini geçmişini sikeyim. güvenlik güçlerimizin zerre tenine zarar verecek kim varsa hepsinin amk.<br/><a class="b" href="/?q=edit+3">edit 3</a> ulan ne saksafon kafalı insanlar var şu sözlükte amk ya. biri gelmiş diyor ki teröristleri savunma, öteki gelmiş bu daha başlangıç, bir başkası sıra ekrem tatiloğlunda vs vs ağzı olan konuşuyor amk. benim söylediğim şeyle ilgisiz alakasız yazılar yolluyorlar harbi mallar ya. ben diyorum ki ahmet türk’e terörist dendi teröristlere yardım ediyor dendi kayyım atandı eyvallah peki sonrasında neden aday gösterilmesine müsade edildi diyorum kalkmış bana taktik onlar diyor. a be beynini silktiğim çomar, terörist dediğinle oyun mu oynuyorsun sen ? veya osman öcalanı neden trt’ye çıkardılar diyorum tıkanıp kalıyor, mektup diyorum susuyor. bana hendek mi kazıyorsun diye soruyor, çözüm sürecinde hendekler kazılırken sen napıyordun diyorum cevap veremiyor. insan biraz düşünür, neler döndü bu ülkede diye sorar çabalar hiç değilse ama yok. <br/>beyinleri var ama boş bomboş.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     19 ağustos 2019 ekrem imamoğlu tweet'i
   entry_id:  94134241
   entry_writer: kyo
-  entry_fav_count: 808
+  entry_fav_count: 816
   entry_content: |
     aynen aynen her boka kayyum atanması samimi, bunu eleştirmek samimiyetsizce aynen. öncü olarak diyorum ki (bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)<br/>edit: bana sığır demiş pkk'lı demiş. hayır öyle olmaz fetöcü de ki tam bir akyuvar olduğunu kanıtla. <br/>mesaj geldi terör sevici diye hay allah belanızı versin sizin. sizden olmayan herkesi terörist ilan etmeye devam edin. bu ülke bölünürse siz ak yaratıkların yüzünden olucak.<br/>uyandıriyim (bkz: <a class="b" href="/?q=k%c3%bcrt+a%c3%a7%c4%b1l%c4%b1m%c4%b1">kürt açılımı</a>) kim yaptı bunu? hangi iktidar döneminde oldu? terör sevici kim belli.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     3 bin tl maaş alan erkekle evlenmem
   entry_id:  94142647
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 694
+  entry_fav_count: 707
   entry_content: |
     az once ofisteki kizlardan birinin agzindan cikan soz. bunu soyleyen kiz da 3 bin tl kazaniyor, bu entryi giren sahsimda 3 bin tl kazaniyor kiz bana acik acik seninle evlenmem demis oldu. <br/><br/>peki 10k maas alan adam napsin seni? kuru gotlu...
   entry_channels: ilişkiler,ekonomi
@@ -38,31 +38,15 @@ data:
     yks üçüncüsünün ilahiyatı tercih etmesi
   entry_id:  94142061
   entry_writer: agospas24
-  entry_fav_count: 386
+  entry_fav_count: 393
   entry_content: |
     üzüldüm lan. düşünsene, hayatının hatasını yapıyorsun ve farkında değilsin. umarım hiç farkında olmazsın. çünkü farkına vardığın an hayatın boka dönüşecek.
   entry_channels: eğitim
 - entry_name: |
-    imamoğlu'nun bodrum'a geri dönmesi
-  entry_id:  94133814
-  entry_writer: absorbe
-  entry_fav_count: 356
-  entry_content: |
-    adamın bütün takvimini başlık olarak geçti sözlük ahalisi. 3 sene sonra bu başlıklar nasıl komik görünecek hiç düşündünüz mü?<br/><br/>işini yapmadığını düşünüyorsanız adının başlığı altına eleştirinizi yazarsınız. ben eski belediye başkanlarının "şuraya gitmesi, buradan dönmesi" diye başlıklarının olduğunu hatırlamıyorum.<br/><br/>kötü muhalefet sadece mide bulandırıyor.
-  entry_channels: siyaset,tv,haber,seyahat
-- entry_name: |
-    bedaş'ın ek tüketim rezaleti ve soygunu
-  entry_id:  94144274
-  entry_writer: gobekli reyiz
-  entry_fav_count: 221
-  entry_content: |
-    merhaba,<br/><br/>öncelikle zamanınızı çaldığım için her birinizden özür diliyorum.<br/><br/><a class="b" href="/?q=bo%c4%9fazi%c3%a7i+elektrik+da%c4%9f%c4%b1t%c4%b1m+a.%c5%9f">boğaziçi elektrik dağıtım a.ş</a> ile yaşadığımız ve adeta bir soyguna dönüşen mağduriyetimizi aktarmak istiyorum. yıllardır çözüme ulaştıramadığımız ve danışanımızın çok ciddi maddi külfetler altında kaldığı bir rezalet var. aslında bu öyle bir rezalet ki her gün yüzlerce vatandaş ülkemiz genelinde benzer uygulamalara maruz kalıyor, ödememesi gereken bedeller elektriğin kesilmesi veya icra yoluyla tahsil ediliyor. hem de mevzuat hükümlerine aykırı usulsüz işlemlerle. konunun uzmanı olduğum halde çözüme kavuşturamamak artık canımı yakıyor. romanını bile yazabilirim, o derece…<br/><br/>entry içerisinde tüm yazışmaları, yapılan işlemleri, konu davalık olduğu için de danışan şirketin ismini vermeden (çünkü derdim ticari meselemi sözlük aracılığıyla çözmek değil, onu ben on yıl uğraşıp çözerim, faaliyet gösterdiği alanda tekel olan kuruluşun kanunsuz uygulamalarını gözler önüne sermek) belgeleyeceğim.<br/><br/>danışanı olduğum firma, 2013 yılı içerisinde inşaat aşamasındaki otelin enerji ihtiyacını karşılamak için gerekli tüm başvuruları yaparak bir trafo tesis ediyor ve boğaziçi elektrik dağıtım a.ş’ye devrederek elektrik abonesi oluyor. trafo binası bedaş’ın sorumluluğunda ve firmanın içine girmesi bile mümkün değil. firma otelin şantiye döneminden başlayarak bu elektrik trafosundan enerji temin ediyor ve gelen faturaları düzenli ödüyor. ancak faturalarında her ay reaktif enerji bedeli bulunması nedeniyle önce kompanzasyon sistemini kontrol ettiriyor ancak çözüm bulamıyor. sayacın arızalı olduğunu düşünerek ve otelin de faaliyete geçecek olması (tüketim artacağı için reaktif bedel de artacak) nedeniyle ölçü devresinin kontrol edilmesi amacıyla bedaş’a başvuruyor. işte ne oluyorsa buradan sonra oluyor. <br/>bedaş ekibi ölçü devresini kontrol ediyor ve 30.04.2015 tarihli ekteki <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/mr82724uke2h" title="https://eksiup.com/p/mr82724uke2h">(ek:1)</a> tutanağı tanzim ediyor. kısaca diyor ki bedaş ekibi: “sayaç eksik tüketim kaydediyor. yapılan incelemede s ve t fazlarında akımla gerilimin aynı fazda olmadığı, çapraz bağlı olduğu görüldü. bağlantı düzeltildi. sayaç normal çalışır hale getirildi.” bağlantıyı yapan bedaş, devreye alan bedaş, abonenin müdahalesi yok, mühürler bozulmamış. sadece iki teknisyenin tespiti var, fotoğraf yok, görüntü kaydı yok, ölçümü ne ile yaptılar belli değil. <br/><br/>bu işlemden tam üç ay sonra, 31.07.2015 tarihinde enerji tedarikçisi zorlu enerji tarafından işletmeye 30.06.2014 ile 30.04.2015 tarihleri arasındaki dönem için 1.262.036 kwh enerji miktarı karşılığı 497.001,85 tl ek tüketim fatura ediliyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ou82736s5zmd" title="https://eksiup.com/p/ou82736s5zmd">(ek:2)</a> fatura aralığında aylık on bin lira enerji faturası gelen işletmeye yarım milyon tutarında fatura tebliğ ediliyor ama ne bir açıklama ne de bilgi veriliyor.<br/><br/>firma doğal olarak “bu fatura da ne?” diyor ve zorlu enerji ile iletişime geçiyor. zorlu enerji faturayı bedaş’ın bildirdiğini, onlara başvurulmasını şifahi olarak söylüyor. işletme bu sefer bedaş ile iletişime geçiyor ama şifahi görüşmelerde herhangi bir doyurucu yanıt alamıyor. bu sefer işletme bedaş’a 08.09.2015 tarihinde yazıyla başvuruyor, kısaca diyor ki, siz bu faturayı neye göre yaptınız? bedaş 22.09.2015 tarihinde cevap veriyor: “yapılan işlem doğrudur” <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/yf82728x9mrv" title="https://eksiup.com/p/yf82728x9mrv">(ek:3)</a> yönetmeliğe göre hesaplama cetvelini, işlemin içeriğini bildirmesi gereken bedaş sadece “yapılan işlem doğrudur” diyor. <br/><br/>tutar yarım milyon, cevap da ciddiyetten uzak olunca firma kalkıyor gidiyor bedaş’a, bedaş diyor ki hoş geldiniz, biz size haber vermedik ama 28.04.2014 ile 30.06.2014 tarihleri arasındaki dönem için 294.014 kwh enerji karşılığı 106.168,21 tl tutarında bir faturanız daha var, bunu da boğaziçi elektrik perakende satış şirketi’ne ödeyin. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/yo827409a7g5" title="https://eksiup.com/p/yo827409a7g5">(ek:4)</a> yani başkası olsa cinnet geçirir, gemi azıya alır ve cinayet işler. allahtan işletme sahibi mülayim insan, çıldırmıyor. <br/><br/>yarım milyonluk faturayı düzeltmek için gittikleri bedaş’ta üzerine bir de yüz binlik yeni faturayla karşılaşan işletme bedaş’a ve zorlu enerji’ye “otel olarak kullanılan binanın inşaatının 19.02.2015 tarihinde bittiğini, 19.03.2015 tarihinde işyeri açma ve çalışma ruhsatı alındığını, 20.05.2015 tarihinde resmi olarak çalışmaya başladığını, bu tarihlerden önce binanın inşa aşamasında olduğu ve enerjinin şantiyede kullandığını, bu kadar yüksek tüketimin fiziken mümkün olamayacağı belgeleriyle sunarak bir ihtar çekiyor ve diyor ki, <br/>1. ilave tüketim olarak bildirilen 1.262.036 kwh ve 294.014 kwh ek tahakkuk bedellerinin nasıl hesaplandığının tarafımıza yazılı olarak bildirilmesini,<br/>2. mülkiyeti şirketinize ait olan ve tarafımızca da müdahale edilmeyen trafo binası içerisindeki ölçü devresindeki bağlantı hatasından kaynaklanan ek tüketimin fatura edilmemesi gerektiğini, fatura edilecekse dahi geçmiş dönem tüketimleri temel alınarak daha gerçekçi bir hesaplamanın yapılmasını,<br/>3. kendilerine tebliğ edilmeyen, abonesi olmadıkları bir şirketçe tanzim edilen faturanın iptal edilmesini ve gecikme bedeli yansıtılmamasını,<br/><br/>rica ediyoruz. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/um82742a673d" title="https://eksiup.com/p/um82742a673d">(ek:5 sayfa 1)</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/zo82745j3toa" title="https://eksiup.com/p/zo82745j3toa">sayfa 2</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/4e82749yujh6" title="https://eksiup.com/p/4e82749yujh6">sayfa 3</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/uf82750zgvdm" title="https://eksiup.com/p/uf82750zgvdm">sayfa 4</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8v82754y7vwa" title="https://eksiup.com/p/8v82754y7vwa">sayfa 5</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/3k82756mf85u" title="https://eksiup.com/p/3k82756mf85u">sayfa 6</a><br/><br/>işletme hukuk diyor, kanun diyor ama ülkemizde iş yapmaya çalıştığını unutuyor.<br/><br/>bu ihtara zorlu enerji 22.10.2015 tarihinde “şirketimizle kendileri arasında imzalanan 01.10.2012 tarihli “enerji satış sözleşmesi” kapsamında elektrik enerjisi temin ettiğini, tüketim değerlerinin şirketlerine boğaziçi elektrik dağıtım şirketi tarafından bildirildiğini, hesaplamaya ilişkin herhangi bir tasarruflarının olmadığını, söz konusu bedellerin dağıtım şirketine ödenmek üzere yansıtıldığını” bildiriyorlar. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/f7827592vrjz" title="https://eksiup.com/p/f7827592vrjz">(ek:6 sayfa :1)</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/sg827619zr6m" title="https://eksiup.com/p/sg827619zr6m">sayfa 2</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/nb82766673yk" title="https://eksiup.com/p/nb82766673yk">sayfa 3</a><br/>adamlar haklı, ek tahakkukun yapılması ile ilgili bir tasarrufları yok ve tamamen aracılar. bedaş ne bildirmişse onu fatura etmişler. <br/><br/>bedaş ise aynı ihtara 23.10.2015 tarihinde verdiği cevapla, “ilk endeks ve değiştirme protokolü” yapılan tespite istinaden, 30.04.2015 ile 06.07.2015 tarihleri arasındaki tüketimler referans alınarak” fatura yaptık diyor. <br/><br/>bu işlemi de elektrik piyasası tüketici hizmetleri yönetmeliği’nin “sayacın hiç veya doğru tüketim kaydetmemesi halinde tüketim miktarının tespiti başlıklı 14. maddesi’nin “sayacın, tüketicinin kusuru dışında herhangi bir nedenle” isimli 1. fıkrasının a) bendi “hiç tüketim kaydetmediğinin tespiti halinde varsa tüketicinin aynı döneme ait sağlıklı olarak ölçülmüş geçmiş dönem tüketimleri dikkate alınarak, yoksa tespit tarihinden sonraki tüketicinin ödeme bildirimine esas ilk iki tüketim dönemine ait tüketimlerinin ortalaması alınarak geçmiş dönem tüketimleri hesaplanır ve fatura edilir.” şeklindeki maddesine göre yaptık diyor. yine faturayı nasıl hesapladığı yok, hangi değeri temel aldığı bilgisi yok. parantez içinde önceden açıklayıcı cevap verdik diyor, küfür ediyor resmen. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ez82770nj6ga?del=o6y5f9Q5eVd12iekXnbwK4v07Eu52V5S82771" title="https://eksiup.com/p/ez82770nj6ga?del=o6y5f9Q5eVd12iekXnbwK4v07Eu52V5S82771">(ek:7)</a><br/><br/>cevabın işletmenin içini soğutması gerekiyordu değil mi? öyle oluyordu genelde ama olmuyor! işletme teknik detayları ve gerçekleşen olayla yönetmeliğin hangi maddesinin uygulanması gerektiğini bilemediğinden, ayrıca işin çözümünün uzaması ve faturalar ödenmediği için gecikme bedelinin de artması nedeniyle zorlu’nun faturasını taksitler halinde ödüyor. yarım milyon ciddi bir finansman sorunu oluşturuyor haliyle, diğer fatura içinde siz de taksit yapın, yönetmelik de taksit yapman gerektiğini söylüyor diye başvuruyor bepsaş’a. (doğru yazdım şaşırmayın, faturayı yapan <a class="b" href="/?q=bo%c4%9fazi%c3%a7i+elektrik+perakende+sat%c4%b1%c5%9f+a.%c5%9f">boğaziçi elektrik perakende satış a.ş</a>) bepsaş cevap veriyor, sana taksit yok diyorlar ve firmayı icraya veriyorlar. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/3c82774yncew" title="https://eksiup.com/p/3c82774yncew">(ek:8 sayfa 1)</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8c827758ctjd?del=qjhcjCnyX270NM2oxdzlw9ovfVkNO9B582776" title="https://eksiup.com/p/8c827758ctjd?del=qjhcjCnyX270NM2oxdzlw9ovfVkNO9B582776">sayfa 2</a><br/><br/>yani şuraya kadar işletme sahibi nasıl cinnet geçirmemiş, ne kullanarak sakin kalmış inanın bilmiyorum. benzer onlarca olayla karşılaştım, çok daha küçük meblağlar ve çok daha ufak saçmalıklar yüzünden ne kavgalar edildiğini gördüm. <br/><br/>neyse, işletme sahibi inatla aklıselim davranıyor ve hukuka inanan her insanın yapması gerektiği gibi mahkemeye başvuruyor ve icrayı durduruyor. icranın durdurulduğunu öğrenen bepsaş 06.01.2017 tarihinde “itirazın iptali” davası açıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/gp82780nre62" title="https://eksiup.com/p/gp82780nre62">(ek:9 sayfa 1)</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ge827826phyr" title="https://eksiup.com/p/ge827826phyr">(sayfa 2)</a> aynı gün bedaş başka bir şey yapıyor, mevzuat veya yönetmeliği umursamadan tak diye elektriği kesiyor. hem de öyle bir kesiyor ki, cuma akşamı mesai bitiminde ve haber vermeden. istanbul’a kar yağan bir gün, yollar kapalıyken…<br/><br/>firma ne yapsın, elektriği açtırmak istiyor, parayı ödeyecek, mesai bitmiş, iki gün boyunca jeneratörle idare etmeye çalışıyor. ama jeneratör tüm oteli besleyemiyor, mazot tedarik edemiyor, (kar yağışı nedeniyle yollar kapalı) rezervasyonlar iptal oluyor, müşteriler otelden çıkıyor. <br/><br/>başkası olsa cidden bedaş’ı yakar, çıldırır. ama firma sahibi çıldırmıyor, hala hukuk diyor ve 09.01.2017 pazartesi günü fatura bedelini ödüyor (106 binlik fatura olmuş 147 bin bu arada, 40 bin de gecikme faizi kitlemişler) ve elektrik saat 17:00’de açılıyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/9v82786fikan" title="https://eksiup.com/p/9v82786fikan">(ek:10)</a><br/><br/>firma artık başvuru ile uğraşmak istemiyor, doğrudan dava açıyor ve mahkeme kanalıyla bu bedellerin nasıl faturalandığını soruyor. ve şükürler olsun ki bedaş, eylül 2017 tarihinde söz konusu itirazın iptali davasına hesaplama cetvellerini yolluyor ve firma hesaplamanın nasıl yapıldığını öğreniyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ue82789hyaib" title="https://eksiup.com/p/ue82789hyaib">(ek:11)</a><br/><br/>nasıl mı yapıyor hesaplamayı <a rel="nofollow noopener" class="url" target="_blank" href="https://dosya.co/5w83tub0ojfb/eksi_ek_12.docx.html" title="https://dosya.co/5w83tub0ojfb/eksi_ek_12.docx.html">(ek:12 hesaplama tekniği ve detaylar)</a>, otelin faaliyete geçtiği (tüketimin arttığı) ilk iki dönemin günlük ortalamasını alıyor, bir yıllık geriye dönük hesap yapıyor. hâlbuki geçmiş yılda otel inşaat halinde ve faal değil. <br/><br/>işletme sahibi tahakkuk işlerini bilen birilerini bulmak için uğraşıyor. bağlantı hatasını kabul etse dahi bedaş’ın teknik personellerince yapılan tespitte ölçü devresinden 230 kwat güç geçerken sayacın 143 kwat değer kaydettiği, yani 143/230x100-100= %37,82 oranında eksik değer kaydettiği ölçülmüş, hesaplama göreyse sayaç %92 eksik değer kaydetmiş ki bu teknik olarak mümkün değil. işte bu aşamada, biraz şans eseri, biraz da sözlüğün katkısıyla olaya ben müdahil oluyorum. <br/><br/>iki klasör evraka baktıkça kahroluyorum. çünkü buraya kadar okuduklarınız soygundur, ülkeye katma değer katmaya çalışan, vatandaşlarına iş veren bir firmayı batırma girişimidir, tekel gücünü vurdumduymaz bir şekilde kullanmaktır. rezalet ise bünyesinde yüzlerce elektrik mühendisi, teknikeri, teknisyeni çalıştıran, koskoca hukuk müşavirliği olan bir kurumun somut olayla uygulanması gereken yönetmelik maddesini karıştırmasıdır. yok yok, karıştırması da değildir, bilerek ve isteyerek yönetmelik maddelerini kendi çıkarlarına uygulamasıdır, abonelerine bilgi vermemesidir, kafasına göre mesai bitimi ve hafta tatili başlangıcında elektriği kesmesidir. bu, işletmeye sana iş yaptırmayacağım demektir, vicdansızlıktır.<br/><br/>niye biliyor musunuz, yönetmelik çok açık, sayacın doğru tüketim kaydetmemesi halinde tüketim miktarının tespiti isimli 14. maddesi’nin sayacın, tüketicinin kusuru dışında herhangi bir nedenle başlıklı (1) fıkrasının “doğru tüketim kaydetmediğinin tespit edilmesi halinde” isimli b bendinin 1. maddesi “sayacın eksik veya fazla tüketim kaydettiği miktarın sayaç dışı bir unsurdan kaynaklanması ve bunun dağıtım şirketince yerinde yapılan incelemede, teknik olarak tespit edilmesi durumunda bu tespit dikkate alınarak” hesaplama yapılır ve fark tüketiciye iade veya fatura edilir, diyor.<br/><br/>ne diyor, “teknik olarak tespit edilmesi durumunda bu tespit dikkate alınarak” <br/>işte rezalet budur.<br/>bedaş bunu yapıyor.<br/>bedaş sayaç hiç tüketim kaydetmemiş gibi fatura yapıyor. ama faturadan sayacın kaydettiği tüketimi tenzil ediyor. kendisine sunulan belgeleri umursamıyor, inşaat aşamasındaki bir yerin aylık 150.000 kwh enerji kullanamayacağını bildiği halde yapıyor tüm bunları. her ay personellerince kontrol edilen, kendi mülkiyetindeki trafodan enerji alındığını ve abonenin herhangi bir müdahalesi olmadığı halde yapıyor. <br/><br/>nasıl mı yapıyor? detay ver göbekli reyiz mi diyorsunuz?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://dosya.co/63cqug6hw785/eksi_ek_13.docx.html" title="https://dosya.co/63cqug6hw785/eksi_ek_13.docx.html">buyurun detaylar ve gerçekte yapılması gereken hesaplama!</a><br/><br/>teknik tespit yok sayarak ve yönetmelik hükümlerini uygulamayarak, sanki sayaç üzerinden geçen gücün 1/15’ini yazmış gibi, otel faaliyete geçtikten sonraki tüketimleri temel alarak ekteki hesaplamalarda da görüleceği üzere<br/><br/>boğaziçi epsaş dönemi için 278.148,50 kwh enerji karşılığı 99.268,13 tl<br/><br/>zorlu enerji a.ş dönemi için 1.290.006,52 kwh enerji karşılığı 438.738,19 tl<br/><br/>fazla tahakkuk yapılmış ve bu bedeller haksız ve hukuksuz şekilde elektriğin kesilmesi nedeniyle, işletmece anılan şirketlere ödenmek zorunda bırakılıyor.<br/><br/>çünkü ülkede bu işlerden anlayan çok insan olmadığını biliyorlar, denetleyici kurumların ceza yazmayacağını biliyorlar. çünkü bu zamana kadar binlerce aboneden benzer şekilde fatura tahsil etmişler ve hiç yaptırıma uğramamışlar. <br/><br/>bu kez ben başvuruyorum bedaş’a, tüm olayları teknik detaylarıyla anlatıyorum, burada hata yapmışsınız diyorum, bilerek yapmışsınız demiyorum, bilerek yaptıklarını bildiğim halde. derdim, işletmenin yıllara yayılan büyük mağduriyetini gidermek, işi mahkemeye taşımadan uzlaşmak. çünkü dava ile alırsam on yıl sürer, istinafı yargıtayı bilmem neyi. 70 sayfalık dilekçeye gelen cevap “yapılan işlem doğrudur.”<br/><br/>“yapılan işlem doğrudur” diyor bedaş, inşaat halindeki bir yerin ayda 150.000 kwh enerji harcamayacağını bildiği halde, kendi personellerince sayacın % 37 eksik değer kaydettiğini tespit ettikleri halde, bağlantıyı kendi personelleri hatalı yaptığı halde, usulsüz bir şekilde elektriği kestiği halde, yıllarca yaptığı hatalı işlemi gizlediği halde.<br/><br/>bundan sonrası hukukun işi, on yıl değil yüzyıl uğraşırım, ben bu fatura bedellerini bedaş’tan alırım, otelin elektriğini habersiz kestikleri için tazminatı alırım, elektrik kesikken işletmenin harcadığı mazot bedellerini alırım, elektrik kesintisi nedeniyle otelden ayrılan, rezervasyonunu iptal eden müşterilerin konaklama bedelini alırım. çünkü yaptıkları işlem tamamen hukuka aykırı ve istanbul’da hâkimler, bu işlerden anlayan insanlar var!<br/><br/>buradan bağırıyorum, böyle bir soygun var, rezalet var. bedaş işletmelere ülkemize yatırım yapmayın diyor, abonelerine ben ne dersem onu ödeyeceksiniz diyor, ben kralım keserim diyor.<br/><br/>vaktinizi aldığım için tekrar özür diliyorum.
-  entry_channels: haber,ekonomi
-- entry_name: |
     ana avrat sövenler uçurulsun kampanyası
   entry_id:  94152740
   entry_writer: ileri iade
-  entry_fav_count: 214
+  entry_fav_count: 251
   entry_content: |
     bu dingillerden aşırı derecede fazla var sözlükte. normalde şu uçurulsun bu uçurulsun diye saçmalayanlara bende karşıyım ama bu tipler iyice zıvanadan çıktı.<br/><br/>biri diziyle ilgili yorum yazıyor, altına "bu diziyi beğenmeyen orospu çocuğudur" yazıyor itin biri. maçla ilgili yorum yapılıyor yine ana bacı dümdüz gidiyor şerefsizler. herhangi bir konuda fikir yazıyorsun "böyle düşünen orospu çocuğudur" yazıyor altına.<br/><br/>bu davarların fikri yok, karşı argüman sunamıyorlar ana avrat söverek haklı çıkmaya çalışıyorlar.<br/><br/>2 dakika bir şeyler okuyalım diye girdiğimiz sözlükte sinirimiz zıplayıp çıkıyoruz. böyle şerefsizler uçurulmalı.<br/><br/>tanım: iğrenç tipleri uzaklaştıracak kampanyadır.
   entry_channels: ilişkiler,ekşi-sözlük
@@ -70,15 +54,23 @@ data:
     kuantum fiziğini bir cümle ile özetlemek
   entry_id:  94121523
   entry_writer: deterministikmakarna
-  entry_fav_count: 193
+  entry_fav_count: 198
   entry_content: |
     (bkz: <a class="b" href="/?q=bir+varm%c4%b1%c5%9f+bir+yokmu%c5%9f">bir varmış bir yokmuş</a>)
   entry_channels: bilim,teknoloji
 - entry_name: |
+    chp'li 34 belediyeye kayyum atanacak
+  entry_id:  94153002
+  entry_writer: harika avci
+  entry_fav_count: 171
+  entry_content: |
+    allah aşkına yapsanıza öyle bişey. valla bi denesenize. 40 milyon hapishane yatağınız veya kurşununuz varsa buyrun. ama yoksa bak çok ciddi söylüyorum, cinsiyetçi algılamayın bunu, hepinizi sikeriz.
+  entry_channels: siyaset,haber
+- entry_name: |
     koklanan en berbat koku
   entry_id:  94129661
   entry_writer: redray
-  entry_fav_count: 166
+  entry_fav_count: 168
   entry_content: |
     protein tozunu içtikten sonra, 4-5 gün kalmış shakerı bi koklayın ondan sonra konuşalım
   entry_channels: anket
@@ -86,7 +78,7 @@ data:
     doğu'da cahil halkımız korkudan oy verdi
   entry_id:  94147531
   entry_writer: bencilgen
-  entry_fav_count: 157
+  entry_fav_count: 163
   entry_content: |
     iç anadolu ve karadeniz bölgesinde yaşayan cahil halkımız da korkudan oy vermiş midir merak ettiren açıklama.
   entry_channels: 
@@ -94,23 +86,15 @@ data:
     18 ağustos 2019 arapların metroda olay çıkarması
   entry_id:  94144785
   entry_writer: glen
-  entry_fav_count: 147
+  entry_fav_count: 151
   entry_content: |
     senin gibi turistin ben aq çöl bedevisi. turist olduğun zaman milleti rahatsız etme özgürlüğün mü oluyor? para veriyorsan yemeye içmeye gezmeye para veriyon aq sanki bana bedavadan para veriyor g**t oğlanı.
   entry_channels: haber
 - entry_name: |
-    chp'li 34 belediyeye kayyum atanacak
-  entry_id:  94153002
-  entry_writer: harika avci
-  entry_fav_count: 142
-  entry_content: |
-    allah aşkına yapsanıza öyle bişey. valla bi denesenize. 40 milyon hapishane yatağınız veya kurşununuz varsa buyrun. ama yoksa bak çok ciddi söylüyorum, cinsiyetçi algılamayın bunu, hepinizi sikeriz.
-  entry_channels: siyaset,haber
-- entry_name: |
     diyanet'in bugs bunny ve temel reis'e savaş açması
   entry_id:  94148427
   entry_writer: quartetmuartet
-  entry_fav_count: 140
+  entry_fav_count: 146
   entry_content: |
     road runner'a açamayacağı savaş derim.
   entry_channels: tv,haber
@@ -118,18 +102,26 @@ data:
     eve kadar bırakan erkek
   entry_id:  94144310
   entry_writer: emfuzi
-  entry_fav_count: 119
+  entry_fav_count: 126
   entry_content: |
     birini yıllar yıllar önce metrobüs ile 12 durak giderek evine kadar bırakmıştım. <br/>şimdi üç aylık bir kızımız var. <br/><br/>mutlu musunuz??<br/><br/>ben mutluyum baba olmak çok güzel ulan. akşam olsa da eve gitsem özledim kızımı yine.
   entry_channels: ilişkiler
 - entry_name: |
-    19 ağustos 1987 pkk'nın milan mezrası katliamı
-  entry_id:  94152984
-  entry_writer: oguzbatur
+    en az 10 defa izlenen tek film
+  entry_id:  94137617
+  entry_writer: arwenizm
+  entry_fav_count: 119
+  entry_content: |
+    lotr. <br/><br/>10'dan fazla hemde. bağımlısıyım.
+  entry_channels: anket,sinema
+- entry_name: |
+    1 milyon dolar verseler pasif gay olur musun
+  entry_id:  94154982
+  entry_writer: aparkat hamdi
   entry_fav_count: 109
   entry_content: |
-    aldığı nefesle dahi insanlığa zararı dokunan adi terör örgütü pkk'nın, 19 ağustos 1987 gecesi siirt'in eruh ilçesine bağlı kılıçkaya köyü yakınlarındaki milan mezrasında gerçekleştirdiği; aralarında 3 günlük, 6 günlük bebeklerin dahi bulunduğu, 19'u çocuk 25 kişiyi vahşice öldürdüğü katliamdır. bugün bu tarifsiz acının yıl dönümüdür.<br/><br/>aşağılık terör örgütü, bugünün insan hakkı havarisi terör yandaşlarının ve bir takım geri zekalı türk solcusunun devlet yaptı, mit yaptı dediği bu insanlık dışı olayı o dönem yayın organı olan serxwebun dergisinde övüne övüne, ballandıra ballandıra anlatarak üstlenmiştir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/mw829746bhm5">https://eksiup.com/p/mw829746bhm5</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/fc82975m5yef">https://eksiup.com/p/fc82975m5yef</a><br/><br/>19'u çocuk olan, aralarında 3 ve 6 günlük bebeklerin de bulunduğu masum insanları vahşice katledip, bunu "şu kadar çete yakını öldürüldü" diye duyuran bu insanlık düşmanı köpek sürüsüne destek veren, oy veren, sempati duyan herkesin elinde bu bebeklerin, belki daha yürümeyi-konuşmayı bilmeyen çocukların kanı vardır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/f782979kbijz">https://eksiup.com/p/f782979kbijz</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8482981748j5">https://eksiup.com/p/8482981748j5</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/5n82978jzcov">https://eksiup.com/p/5n82978jzcov</a><br/><br/>şehitlerimizin tam listesi;<br/>halit demir (5 yaşında)<br/>sabriye beştaş (10 yaşında)<br/>naciye beştaş ( 3 yaşında)<br/>zeynep beştaş (6 günlük)————-6 günlük bebek<br/>fuat beştaş (7 yaşında)<br/>hamide beştaş (14 yaşında)<br/>hazine beştaş (7 yaşında)<br/>hacı beştaş (12 yaşında)<br/>şehriban beştaş (35 yaşında)<br/>sabiye narin (20 yaşında)<br/>şükrü narin (27 yaşında)<br/>nurcan baykara (10 yaşında)<br/>ömer baykara (45 yaşında)<br/>muhabbet demir (50 yaşında)<br/>bahar narin (3 günlük) ————–3 günlük bebek<br/>halise narin (4 yaşında)<br/>hadiye narin (5 yaşında)<br/>süleyman dündar (10 yaşında)<br/>kemal demir (4 yaşında)<br/>halil baykara (60 yaşında)<br/>hayrettin seyin (30 yaşında)<br/>şakir sever (33 yaşında)<br/>behiye sever (55 yaşında)<br/>ali sever (65 yaşında)<br/><br/>bu katliamı yapan da bellidir, onun destekçileri de. bu köpeklere oy veren elleriniz kırılsın. başka bedduam yok size.<br/><br/>(bkz: <a class="b" href="/?q=bebek+katili">bebek katili</a>)<br/><br/>dipçe: bilgiler ve belgeler <a rel="nofollow noopener" class="url" target="_blank" href="http://www.pkkeylemleri.com/milan-mezrasi-katliami/" title="http://www.pkkeylemleri.com/milan-mezrasi-katliami/">http://www.pkkeylemleri.com/…ilan-mezrasi-katliami/</a> internet sitesinden alınmıştır.
-  entry_channels: tv,tarih,haber
+    ben gay degilim. nokta. tartisma yok o konuda. <br/><br/>o sebeple 1 milyon dolara bi kere gotumu veririm. ben gay olmadigimi biliyorum en nihayetinde. koy 1 milyon dolari onume bi tur da sen kay. zaten her gun hayat kayiyor amk. yarim saat sen kayacaksin butun problemlerim bitecek. sonra o 1 milyon dolarla sevisecegim kadinlar gotumun acisini mutlaka unutturur.<br/><br/>varim amk. cikar parayi.
+  entry_channels: 
 - entry_name: |
     didem soydan'ın üstsüz fotoğrafı
   entry_id:  94144586
@@ -139,18 +131,18 @@ data:
     drogba saçını niye sarıya boyatmis lan dedirtmistir.
   entry_channels: magazin
 - entry_name: |
-    mansur yavaş
-  entry_id:  94145055
-  entry_writer: yellowlist
-  entry_fav_count: 92
+    bakire olmayan kadinla evlenecek olsan kim olurdu
+  entry_id:  94154257
+  entry_writer: northroma
+  entry_fav_count: 89
   entry_content: |
-    bundan iki ay önce yurttan okula gitmek için durakta minibüs beklerken arabayla durağın önünde birisi durdu ve seslendi<br/>-genç, bin arabaya seni gideceğin yere kadar bırakayım<br/>-teşekkür ederim <br/>- öğrencisin galiba, nerede okuyorsun?<br/>- burada okuyorum. siz ne iş yaparsanız?<br/>- ben emekliyim geçen hafta bu mahallenin muhtar adayıydım ama maalesef seçilemedim nasip olmadı<br/>-hakkınızda hayırlısı olsun<br/>- abim ankara'da büyükşehir belediye başkanı seçildi. ben onun kardeşiyim bilirsiniz.<br/>- aa evet evet biliyorum mansur yavaş<br/>- evet mansur yavaş'ın kardeşiyim. az buçuk tahmin edersin ama bu aralar tanıştığım herkes benim vasıtamla belediyeden iş istiyor. abimdir ama kendi ailesine karşı bile idealinden ödün vermez. eğer abim hak yiyen olsa ilk beni işe alırdı. <br/>dedi. <br/><br/>bu konuşmadan sonra teşekkür edip az ileride indikten sonra mansur yavaş'a verdiğim oyu sonuna kadar helal ettim. o gün bu gündür mansur başkanı daha çok seviyorum. hak yemeyen, liyakat sahibi, dürüst, idealist, şerefli bir insandır kendisi.
-  entry_channels: siyaset
+    evet yazar kardeş haklısın. inşallah evleneceğin kadın, her haltı yemiş ama bakire kalmayı marifet sanmış biri olur.
+  entry_channels: anket
 - entry_name: |
     mehmet kanur
   entry_id:  94143129
   entry_writer: god waltz
-  entry_fav_count: 82
+  entry_fav_count: 86
   entry_content: |
     bir başlık sayesinde gördüğüm çocuk, bulan yazara çok teşekkürler. umarım bir gün buraları okursun ve hayvan sevgin de hep baki kalır. maddi manevi neye ihtiyacın varsa lütfen bize söyle:).
   entry_channels: bilim,teknoloji
@@ -158,7 +150,7 @@ data:
     bir geri kalmışlık belirtisi olarak mangal yakmak
   entry_id:  94119985
   entry_writer: oylesinebirivar
-  entry_fav_count: 80
+  entry_fav_count: 81
   entry_content: |
     mangal bu ülkenin kültürüdür. her ülkenin kendine has bize komik olan olayları var. aşağılamak yerine bazı şeyleri benimseyin.
   entry_channels: 
@@ -171,26 +163,10 @@ data:
     <a class="b" href="/?q=tuzlu+anasonlu+%c5%9fekerleme">tuzlu anasonlu şekerleme</a>dir benim için.<br/><br/>kuzey avrupa'da sevilen, siyah renkli, tuza bulanmış, anason kokulu, rezil bir şekerlemedir. ingilizcesi <a rel="nofollow noopener" class="url" target="_blank" href="https://en.wikipedia.org/wiki/Salty_liquorice" title="https://en.wikipedia.org/wiki/Salty_liquorice">salty liquorice</a> olup türkçesi <a class="b" href="/?q=am%c4%b1na+koyim+bu+ne+be+rezalet">amına koyim bu ne be rezalet</a>'tir çünkü her deneyen bunu der.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    1 milyon dolar verseler pasif gay olur musun
-  entry_id:  94154982
-  entry_writer: aparkat hamdi
-  entry_fav_count: 76
-  entry_content: |
-    ben gay degilim. nokta. tartisma yok o konuda. <br/><br/>o sebeple 1 milyon dolara bi kere gotumu veririm. ben gay olmadigimi biliyorum en nihayetinde. koy 1 milyon dolari onume bi tur da sen kay. zaten her gun hayat kayiyor amk. yarim saat sen kayacaksin butun problemlerim bitecek. sonra o 1 milyon dolarla sevisecegim kadinlar gotumun acisini mutlaka unutturur.<br/><br/>varim amk. cikar parayi.
-  entry_channels: 
-- entry_name: |
-    bakire olmayan kadinla evlenecek olsan kim olurdu
-  entry_id:  94154257
-  entry_writer: northroma
-  entry_fav_count: 75
-  entry_content: |
-    evet yazar kardeş haklısın. inşallah evleneceğin kadın, her haltı yemiş ama bakire kalmayı marifet sanmış biri olur.
-  entry_channels: anket
-- entry_name: |
     alper potuk
   entry_id:  94152012
   entry_writer: demirci ciragi
-  entry_fav_count: 65
+  entry_fav_count: 67
   entry_content: |
     isterse tepkiyi azaltmak için yapsın, isterse içine sinmediği için yapsın, ayakta alkışlanacak hareket.<br/><br/>adam yaklaşık <a class="b" href="/?q=16+milyon">16 milyon</a> tl'den vazgeçmiş. isterse hiçkimseye aldırmayıp bu parayı cebe atabilirdi. futbol kariyeri ve onuru için bu kadar büyük bir tutardan vazgeçmiş. <br/><br/>bırakın 16 milyonu, 3-5 bin için onurundan vazgeçenlerin olduğu bir ülkede, bu paradan tek kalemde vazgeçmek büyük yürek ister. <br/><br/>tek kelimeyle bravo.<br/><br/>edit: bazı süper zeka arkadaşlar <a class="b" href="/?q=garanti">garanti</a> ücretinin %40’ından vazgeçtiği için %60’ını garantilediğini yazmışlar. birader zaten %100’ü garantiydi, bir şeyi de beğenin be.
   entry_channels: spor
@@ -198,7 +174,7 @@ data:
     izlenilen en berbat sporcu
   entry_id:  94146749
   entry_writer: geek in aad
-  entry_fav_count: 56
+  entry_fav_count: 60
   entry_content: |
     2000 sidney olimpiyatlarında yarışmış ekvador ginesi vatandaşı yüzücü 'su yılanı eric' lakaplı <a class="b" href="/?q=eric+moussambani">eric moussambani</a>'dir. kötü derecesinin sırrı hayatında hiç olimpik havuzda bulunmamış olmasıdır. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=8rqI8xwXVac">https://www.youtube.com/watch?v=8rqi8xwxvac</a><br/><br/>günümüzde ekvador ginesi yüzme takımına koçluk yapmaktadır.
   entry_channels: spor,anket
@@ -206,18 +182,18 @@ data:
     erkekler olarak deodorant sıkmak istemiyoruz
   entry_id:  94150333
   entry_writer: carcarcarcar cene
-  entry_fav_count: 50
+  entry_fav_count: 51
   entry_content: |
     yoo istiyoruz
   entry_channels: 
 - entry_name: |
-    ekşi itiraf
-  entry_id:  94119910
-  entry_writer: dik dur ve gulumse
-  entry_fav_count: 46
+    19 ağustos 2019 dolar kuru
+  entry_id:  94134351
+  entry_writer: su anda calan sarki
+  entry_fav_count: 41
   entry_content: |
-    bir gün annemle ablam telefonda konuşuyordu. ablam anneme güle güle dedi ama telefonu kapatmadı. bekledi bir süre..neden bekliyorsun ki dedim, ablam da "annem her seferinde telefonu kapatmadan önce 'aşklarım benim' diyor. onun onu demesini dinliyorum." demişti.<br/><br/>onu dediği günden beri ben de annemle konuştuğumda telefon kapanmadan önce bir süre dinliyorum. onun 'aşkım benim' ya da 'güzellerim' demesini. şimdi yine dinledim ve yazmak istedim bunu. sen kapattım sanıyorsun ama biz seni hep dinliyoruz :)<br/><br/>iyi ki varsın annecim! senden başka kim sever ki böyle...
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    uçuşa geçeceğini düşündüğüm kur.<br/><br/>zira elimdeki bütün dolarları bozdurdum. ebesinin amına kadar yolu var!<br/><br/>edit; an itibarıyle zararım 2.040,00 tl (5.54 - 5.66) teselli mesajları için teşekkür ederim.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> sıkıştığım için bozmak zorunda kaldım gerçi ben bozdrmasaydım hayatta yükselmezdi siktiğiminin kuru.
+  entry_channels: ekonomi
 - entry_name: |
     ankara ve istanbul'a da kayyum atanacağı gerçeği
   entry_id:  94138924
@@ -230,15 +206,23 @@ data:
     selin cebeci
   entry_id:  94148990
   entry_writer: ortadanicki
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     cenazesi yarın kaldırılacak yavru. ailesi organlarını bağışlamış, 5 kişiye yaşam umudu olacak.<br/><br/>sitem notu: ekşi'de ilgi görmemiş isimdir. bilmem kimin instagram paylaşımı desek alıp yürürdü.
   entry_channels: haber
 - entry_name: |
+    yazarların en çok nefret ettiği ses
+  entry_id:  94119726
+  entry_writer: yuvarlak sovalye masalari
+  entry_fav_count: 28
+  entry_content: |
+    aşk acısı da neymiş sen hiç arabanın altını sürttün mü?
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
     türk kızının kendini bulunmaz hint kumaşı sanması
   entry_id:  94149549
   entry_writer: adasahillerindebekliyorum
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     londra'da yasiyorum. bir tane izmir'den gocmus bir genc adamla tanistim vaktinde app uzerinden. tipi fena degil, bir de benim gibi universite sonrasinda gocmus londra'ya, kafalar uyusur diye dusundum. <br/><br/>iki konustuk, baktim baska kafalardayiz, salmak istedim. kotu biri degil de iste rahat bir insan. ben de boyle geyik, gelisiguzel yasayan birini degil de biraz daha benim gibi hayatta idealleri olan (kimine gore hayalperest) ve bu ideallerini gerceklestirmek icin calismayi hayat amaci benimsemis hirsli birini ariyorum sanirim. adama kibarca dedim ki "pek uyusmuyoruz gibime geldi, bence zorlamayalim, sonlandiralim munasebeti." aldigim cevap: "klasik turk kizi iste. kendini bulunmaz hint kumasi saniyor." <br/><br/>ben de demesini bilirim "klasik turk erkegi iste, reddedilmeyi egosuna yediremeyince hemen turk kizina bok atiyor" ama ayni zamanda bilirim ki her turk erkegi ayni degil. <br/><br/>mesela sozluktekiler asla klasik turk erkekleri degiller; hepsi yakisikli, zeki, kulturlu erkekler. boyle mal basliklari turk erkeklerini trollemek isteyen bir yunanli aciyor diye dusunuyorum. turk erkekleriyle aramizi bozmaya calisanlara prim vermeyiniz.
   entry_channels: ilişkiler
@@ -246,10 +230,26 @@ data:
     19 ağustos 2019 fenerbahçe gazişehir maçı
   entry_id:  94122942
   entry_writer: smk
-  entry_fav_count: 16
+  entry_fav_count: 17
   entry_content: |
     facts:<br/>-fenerbahçe, ersun yanal yönetiminde henüz kadıköy'de maç kaybetmedi.<br/><br/>-sumudica en son fenerbahçe'yi şöyle yeneceğiz, böyle yeneceğiz dediğinde kayserispor evinde fenerbahçe'den 5 yemişti.<br/><br/>-hazırlık maçlarında as kadroyla oynanan dakikalar süresince lige en hazır takım fenerbahçe. örneğin, sivas 2. yarı as kadroya dönüş oldu ve fenerbahçe'nin devre arasında kaleci değişikliği yaptığını 65. dk öğrenebildik. madrid maçında reyes yerine ben oynasam 3-1 falan kazanırdı fenerbahçe. kötü oynanan tek maçı bayern'e karşıydı o allahsızlar da top göstermedi zaten.<br/><br/>-gazişehir berbat bir hazırlık dönemi geçirdi, tek galibiyetleri 2. lig takımına karşı, onda bile gol yemeyi başardılar. tabi skor önemli değil ancak oyunları da berbattı.<br/><br/>tahmin: 5-0 fenerbahçe galibiyeti.
   entry_channels: spor
+- entry_name: |
+    ekrem imamoğlu
+  entry_id:  94120613
+  entry_writer: pachelor reloaded
+  entry_fav_count: 16
+  entry_content: |
+    yerel halkla yapılan röportajda insanlar sabah daha esnaf sel basan bölgedeki dükkanına gelmeden <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a> alana gelmişti diyorlar.<br/><br/>geçen seferki sel felaketinde itfaiye şefine ulaşmak için kağıt doldurttular, bu felakette <a class="b" href="/?q=imamo%c4%9flu">imamoğlu</a> kendisi geldi yanındaki iki personelini de bizzat görevlendirdi ve bu personeller sürekli bu bölgedeydiler diyor röportaj yapılan yerel halk. birileri de gelmiş burada 25 yıllık enkazı 2 ayda cennete çevirmesini bekliyorlar.<br/><br/>siz değişime önce kendinizden başlayın; <a class="b" href="/?q=ekrem+imamo%c4%9flu">ekrem imamoğlu</a> gerisini halledecek merak etmeyin.
+  entry_channels: siyaset,haber
+- entry_name: |
+    barbara palvin
+  entry_id:  94153608
+  entry_writer: wax simulacra
+  entry_fav_count: 16
+  entry_content: |
+    eğer güzel değil diyenler erkekse. şu an hayatımda en merak ettiğim şey bu sözlük erkeklerinin hayatındaki kadınlar ajksdjklaslda<br/>bu kadın da seksi ve güzel değilse zaten hepimiz ölelim. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://external-preview.redd.it/RrNy9ZEj3c--QWGrIK-62FIG1Wg28UWuNHFElBrfjjc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cdf637821120fd10742782f32f17971193b2fc9" title="https://external-preview.redd.it/RrNy9ZEj3c--QWGrIK-62FIG1Wg28UWuNHFElBrfjjc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cdf637821120fd10742782f32f17971193b2fc9">palvin 1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://external-preview.redd.it/ETA3KsICQKfDuOWCY1stK6rWVftRL7CKV1yhvrPKx5U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9016beeb28245f59d45cb9b905403ebe1a23340" title="https://external-preview.redd.it/ETA3KsICQKfDuOWCY1stK6rWVftRL7CKV1yhvrPKx5U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9016beeb28245f59d45cb9b905403ebe1a23340">palvin2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://external-preview.redd.it/lBS7aA1ZCrApzh40XY9uO0_uo67PexC4ntka4s9mPsk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4fac227ce7a2a1565a68b6a214dcb4143fc5cab" title="https://external-preview.redd.it/lBS7aA1ZCrApzh40XY9uO0_uo67PexC4ntka4s9mPsk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4fac227ce7a2a1565a68b6a214dcb4143fc5cab">palvin3</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.redd.it/jabrvty84af31.jpg" title="https://i.redd.it/jabrvty84af31.jpg">palvin4</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://preview.redd.it/dz6dg5zubki21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=010cc0cd2bfffce193fb1415d0f312fd0ec3f8bb" title="https://preview.redd.it/dz6dg5zubki21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=010cc0cd2bfffce193fb1415d0f312fd0ec3f8bb">palvin5</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://preview.redd.it/qvc4lmmm08y21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b56c7cdae36d9fa45592029ccb8fa06f43925f75" title="https://preview.redd.it/qvc4lmmm08y21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b56c7cdae36d9fa45592029ccb8fa06f43925f75">palvin6</a>
+  entry_channels: moda,magazin
 - entry_name: |
     yazarların en çok para gömdüğü zevki
   entry_id:  94120199
@@ -259,45 +259,37 @@ data:
     kumar ve yemek disinda baska hic para harcadigim zevkli bir aktivitem olmadigini fark ettim. ot gibi yasayip gidiyoruz.<br/>not: fb-gazisehir 1, wolves- man utd. 0
   entry_channels: anket,ekşi-sözlük,ekonomi
 - entry_name: |
-    seni sıkıyor muyum
-  entry_id:  94124125
-  entry_writer: iskemle ile kupe cicegi
-  entry_fav_count: 14
+    pkk'lıların atatürk heykellerini çiğnemesi
+  entry_id:  94153907
+  entry_writer: celaliyimcelalisincelali1
+  entry_fav_count: 15
   entry_content: |
-    her konuşmanın bir noktasında kafamda beliren soru. özgüvensizliğimi aşikar ettirir. böyle bir sorudur ama engel olamıyorum.
-  entry_channels: ilişkiler
-- entry_name: |
-    barbara palvin
-  entry_id:  94153608
-  entry_writer: wax simulacra
-  entry_fav_count: 14
-  entry_content: |
-    eğer güzel değil diyenler erkekse. şu an hayatımda en merak ettiğim şey bu sözlük erkeklerinin hayatındaki kadınlar ajksdjklaslda<br/>bu kadın da seksi ve güzel değilse zaten hepimiz ölelim. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://external-preview.redd.it/RrNy9ZEj3c--QWGrIK-62FIG1Wg28UWuNHFElBrfjjc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cdf637821120fd10742782f32f17971193b2fc9" title="https://external-preview.redd.it/RrNy9ZEj3c--QWGrIK-62FIG1Wg28UWuNHFElBrfjjc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cdf637821120fd10742782f32f17971193b2fc9">palvin 1</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://external-preview.redd.it/ETA3KsICQKfDuOWCY1stK6rWVftRL7CKV1yhvrPKx5U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9016beeb28245f59d45cb9b905403ebe1a23340" title="https://external-preview.redd.it/ETA3KsICQKfDuOWCY1stK6rWVftRL7CKV1yhvrPKx5U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9016beeb28245f59d45cb9b905403ebe1a23340">palvin2</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://external-preview.redd.it/lBS7aA1ZCrApzh40XY9uO0_uo67PexC4ntka4s9mPsk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4fac227ce7a2a1565a68b6a214dcb4143fc5cab" title="https://external-preview.redd.it/lBS7aA1ZCrApzh40XY9uO0_uo67PexC4ntka4s9mPsk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4fac227ce7a2a1565a68b6a214dcb4143fc5cab">palvin3</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.redd.it/jabrvty84af31.jpg" title="https://i.redd.it/jabrvty84af31.jpg">palvin4</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://preview.redd.it/dz6dg5zubki21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=010cc0cd2bfffce193fb1415d0f312fd0ec3f8bb" title="https://preview.redd.it/dz6dg5zubki21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=010cc0cd2bfffce193fb1415d0f312fd0ec3f8bb">palvin5</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://preview.redd.it/qvc4lmmm08y21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b56c7cdae36d9fa45592029ccb8fa06f43925f75" title="https://preview.redd.it/qvc4lmmm08y21.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b56c7cdae36d9fa45592029ccb8fa06f43925f75">palvin6</a>
-  entry_channels: moda,magazin
+    dün atatürk'e faşist katil diyen, onun kurduğu türkiye cumhuriyeti'ni bölmek isteyen, onun kurduğu ülkenin ormanlarını yakan bölücülerin, bugün zorda kalınca bu büyük insanı nasıl yalanlarına istismar etmek istediklerine şahit olduk. <br/><br/>bunların elinde olsa atatürk'ün emek verip bataklığı ormana çevirdiği atatürk orman çiftliğini bile kundaklarlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/aq82531v2pcu">https://eksiup.com/p/aq82531v2pcu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/gn82532ryxc4">https://eksiup.com/p/gn82532ryxc4</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/9j82533nqvxy">https://eksiup.com/p/9j82533nqvxy</a><br/><br/>van'daki atatürk resminin indirildiği iddiası için:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/atavrattroll/status/1163447056649871360?s=19" title="https://twitter.com/atavrattroll/status/1163447056649871360?s=19">https://twitter.com/…tatus/1163447056649871360?s=19</a><br/><br/>sadece yerleri değiştiriliyor.<br/><br/>not: dincilerin ve bölücülerin ortak noktası temelde aynıdır. çünkü ihanetleri köklerde birleşir.
+  entry_channels: tv,haber
 - entry_name: |
     içilmiş en iyi bira
   entry_id:  94145862
   entry_writer: gitme be fiko
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     500 bininci kere açılan <a class="b" href="/?q=ayn%c4%b1+ba%c5%9fl%c4%b1k">aynı başlık</a>. sikecem artık bira <a class="b" href="/?q=anket">anket</a>lerinizi. tamam <a class="b" href="/?q=amk">amk</a> anladık, dünyanın öbür ucunda içtiğiniz bira en iyisi.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    pkk'lıların atatürk heykellerini çiğnemesi
-  entry_id:  94153907
-  entry_writer: celaliyimcelalisincelali1
-  entry_fav_count: 12
+    amına koyayım yerine kullanılan ifadeler
+  entry_id:  94154248
+  entry_writer: benes
+  entry_fav_count: 8
   entry_content: |
-    dün atatürk'e faşist katil diyen, onun kurduğu türkiye cumhuriyeti'ni bölmek isteyen, onun kurduğu ülkenin ormanlarını yakan bölücülerin, bugün zorda kalınca bu büyük insanı nasıl yalanlarına istismar etmek istediklerine şahit olduk. <br/><br/>bunların elinde olsa atatürk'ün emek verip bataklığı ormana çevirdiği atatürk orman çiftliğini bile kundaklarlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/aq82531v2pcu">https://eksiup.com/p/aq82531v2pcu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/gn82532ryxc4">https://eksiup.com/p/gn82532ryxc4</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/9j82533nqvxy">https://eksiup.com/p/9j82533nqvxy</a><br/><br/>van'daki atatürk resminin indirildiği iddiası için:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/atavrattroll/status/1163447056649871360?s=19" title="https://twitter.com/atavrattroll/status/1163447056649871360?s=19">https://twitter.com/…tatus/1163447056649871360?s=19</a><br/><br/>sadece yerleri değiştiriliyor.<br/><br/>not: dincilerin ve bölücülerin ortak noktası temelde aynıdır. çünkü ihanetleri köklerde birleşir.
-  entry_channels: tv,tarih,haber
+    (bkz: <a class="b" href="/?q=ula+nomissiz">ula nomissiz</a>)
+  entry_channels: anket
 - entry_name: |
-    eskişehir
-  entry_id:  94149733
-  entry_writer: asgait
-  entry_fav_count: 7
+    17 ağustos 2019 kamil koç rezaleti
+  entry_id:  94122279
+  entry_writer: bu konuyu tartismak icin tiklayiniz
+  entry_fav_count: 8
   entry_content: |
-    öğrenciler varken çok daha hayat dolu olan şehir. mümkünse eksik olmasınlar.
-  entry_channels: tarih,eğitim,seyahat
+    aydın görünümlü genç bir çifti görünce gıcık olmuş bir muavini içeren rezalettir. sedat peker çakması bıçkın bir yolcu olsaydı, sarhoş bile olsa sesini çıkarmayacağı gibi arka koltuklarda içki ikram ederdi. böyle yavşaktır bu adamlar. efendi insan görünce efelik taslarlar, azarlanınca köpek olurlar.
+  entry_channels: haber,seyahat
 - entry_name: |
     yıllar geçse de akıldan çıkmayan ders terimleri
   entry_id:  94137526
@@ -315,45 +307,21 @@ data:
     harper lee-bülbülü öldürmek.
   entry_channels: sinema,edebiyat
 - entry_name: |
-    ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
-  entry_id:  94149539
-  entry_writer: swollenmember
-  entry_fav_count: 5
-  entry_content: |
-    ilkokulda haylaz cocugun hoslandigi kizin sacini cekmesine benzeyen durumdur. ilgisini nasil gosterecegini bilemeyen sozluk erkekleri otuz yasindaki sozluk kizlarinin sacini cekmektedir. cunku sosyal etkilesim becerileri gunumuzde yeteri seviyede gelismemistir. kendilerini ancak bu sekilde ifade edebiliyorlar.
-  entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
-    hiç türbanlı bilim kadını olmaması
-  entry_id:  94155523
-  entry_writer: kaidesini bozan istisna
-  entry_fav_count: 4
-  entry_content: |
-    çok rica ediyorum türbanlı ya da türbansız fark etmez kadınlar bilimle milimle uğraşmasın. hele hele akademisyenlik denilen şeyin yanına bile yaklaşmasınlar. bunlar ve iş hayatı kadınları erkekleştiren şeyler. kadınlar erkekleştikçe de erkekler kadınlaşıyor. saçma sapan bir şeye doğru evriliyoruz. <br/><br/>akademi, bilim, felsefe, politika falan sizin köpeğiniz olsun hanımlar. siz sanatla edebiyatla şiirle müzikle ilgilenin. eşinize sevgilinize ud çalın, şarkı söyleyin. çocuklarınıza şiir okuyun, masal anlatın. <br/><br/>hiçbiri olmuyorsa bile en azından güzel yemekler yapmak, çeşitli içecekler hazırlamak, elbise dikmek, saç tasarlamak, makyaj yapmak gibi maharetleriniz olsun.<br/><br/>hayat pahalı, çalışmak gerek evet ama bir kadın aza kanaat ederek de dünyayı sırtında taşımaya devam edebilir.
-  entry_channels: 
-- entry_name: |
-    amına koyayım yerine kullanılan ifadeler
-  entry_id:  94154248
-  entry_writer: benes
+    kadınları genç gösteren şeyler
+  entry_id:  94156550
+  entry_writer: kamyoncu77
   entry_fav_count: 3
   entry_content: |
-    (bkz: <a class="b" href="/?q=ula+nomissiz">ula nomissiz</a>)
-  entry_channels: anket
+    yaşlı sevgili.<br/>o göbekli, kel ve zengin sevgilileriniz ile baya genç görünüyorsunuz.
+  entry_channels: anket,ilişkiler,sağlık,moda
 - entry_name: |
-    üstteki yazara bir şehir ismi ver
-  entry_id:  94153644
-  entry_writer: sonhanimefendi
-  entry_fav_count: 2
+    erkeği seksi yapan unsurlar
+  entry_id:  94122004
+  entry_writer: o is oyle olmaz koc
+  entry_fav_count: 3
   entry_content: |
-    (bkz: <a class="b" href="/?q=engelle">engelle</a>) <br/><br/>başlığı ilk okuduğumda anlamadım, girdim baktım yine anlamadım, ne yapıyonuz ne salak yazarlar var. anket, forum, sözlük hepsi birbirine girmiş.<br/><br/>malın biri, eğleniyoruz ne var ya tarzı bir şeyler yazmış. sizin nasıl bir eğlence anlayışınız var, hiç mi eğlenemediniz hayatınızda. <br/><br/>t: mal yazarları tespit edip engelleyebileceğiniz isim verme oyunu.
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    pasaportuna sahip olmak istenen ülke
-  entry_id:  94130175
-  entry_writer: ejderha dovmesiz kiz
-  entry_fav_count: 2
-  entry_content: |
-    <a class="b" href="/?q=abd">abd</a> diyenleri anlayamıyorum. abd pasaport hamilini ağır vergiler altında ezen karsiliginda sadece orayı burayı işgal eden bir ulke. new york' daki homeless a sorsan türk pasaportunu tercih eder belki. abd nin de eğitimli kesimi ab pasaportunun derdine düşmüş durumda. çünkü hayallerini süsleyen sosyal devlette yaşamak onlara da bize olduğu kadar yasak. alirlarsa da ödediği verginin kalan kismini abd ye geri ödememek için çıkmaya çalışıyorlar zaten. avrupalı atalarını gösterip ispanya ingiltere vs vatandasi olmaya çalışıyorlar mümkün mertebe. herkes de olamıyor. girebildiği ülkelerde 90 gün 120 gün gezebilme hakkı için değecek şey degil. yılın büyük çoğunda çalışıp maasimizin önemli bir kısmını haraç olarak yaşadığımız ülkeye oduyoruz.
-  entry_channels: seyahat
+    kendi işini kendi görmesi. kimseye eyvallahı olmaması.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     bir kadına kırmadan küçük memeli olduğunu söylemek
   entry_id:  94154759
@@ -363,21 +331,21 @@ data:
     olum küçük memenin çaresi var. bi daha düşün istersen.
   entry_channels: ilişkiler
 - entry_name: |
-    hoşlandığı erkeğe açılan türk kızı olmaması
-  entry_id:  94122677
-  entry_writer: mybabyblue
-  entry_fav_count: 1
+    19 ağustos 2019 fenerbahçe'ye verilen penaltı
+  entry_id:  94157696
+  entry_writer: coldvolkan
+  entry_fav_count: 2
   entry_content: |
-    çok nadiren açılırlar.<br/>genel olarak ise hiç açılmazlar. hep karşı taraftan beklerler. çünkü onların gözünde her şeyi erkek yapmalı, erkek adım atmalı, erkek peşinden koşmalı, erkek deli gibi sevmeli, erkek deli gibi acı çekmeli, erkek eve bakmalı, erkek gerekirse evdeki işleri de tamamen yapmalı (bu da yeni nesil)
-  entry_channels: ilişkiler
+    temas olmadan alınan ender varlı penaltılardan
+  entry_channels: spor,anket
 - entry_name: |
-    hdp kapatılsın
-  entry_id:  94156579
-  entry_writer: patoschik
+    metin feyzioğlu
+  entry_id:  94121039
+  entry_writer: spring rest
   entry_fav_count: 1
   entry_content: |
-    hdp kapatılırsa pkk 'mı palazlanır ?<br/><br/>ankaranın orta yerinde otobüs durağının önünde tamamen sivilleri hedef alan bir bomba patlıyor , pkk saldırıyı üstleniyor , hdpli bir bayan vekil kendini patlatan canlı bombanın evine taziyeye gidiyor ve istanbul solcuları da ama hdp kapanırsa pkk palazlanır diye ponçik yorumlarına devam ediyor .<br/><br/>sanki bunca yıldır başka ülke de yaşıyoruz .<br/>hadep , dtp , bdp , hdp bu adamların siyaset yaptığı hangi parti pkk ile arasında çizgi çekebildiki bu siyasi kanat sayesinde pkknın pasifize olduğunu düşünüyorsunuz ?<br/><br/>pkk hangi dönem de pasifize oldu ise o dönemde ordu tarafından pasifize edilmiştir .
-  entry_channels: siyaset,anket,tv,tarih,haber
+    (bkz: <a class="b" href="/?q=yana%c5%9fma">yanaşma</a>)
+  entry_channels: siyaset,haber
 - entry_name: |
     haluk dursun
   entry_id:  94151893
@@ -387,13 +355,37 @@ data:
     iyi niyetli, birikimli, öğretmeyi seven, meraklı bir bilim adamıydı. üzüldüm.
   entry_channels: siyaset
 - entry_name: |
-    şu anda çalan şarkı
-  entry_id:  94128115
-  entry_writer: slymn2k7
+    bakire olmayan kadınla evlenen erkek gavatlığı
+  entry_id:  94157224
+  entry_writer: sadece okurum
+  entry_fav_count: 1
+  entry_content: |
+    hz muhammed'e gavat mı diyorsunuz?
+  entry_channels: ilişkiler
+- entry_name: |
+    arda kardeşler
+  entry_id:  94157856
+  entry_writer: talihsiz damacana
+  entry_fav_count: 1
+  entry_content: |
+    çapsız bir hakem.çok kötü amk.bu adam hakem olduysa hiç umudunuzu yitirmeyin.az önce efsane bir penaltı çaldı.talimat yerine getirildi.
+  entry_channels: spor
+- entry_name: |
+    taylan erime'nin çığlığı oluyoruz kampanyası
+  entry_id:  94158225
+  entry_writer: toprakbaba
   entry_fav_count: 0
   entry_content: |
-    şarkı değil de müzik: <a rel="nofollow noopener" class="url" target="_blank" href="https://open.spotify.com/track/3pkS0QVxNtAkkQQqQFgSWW?context=spotify%3Aplaylist%3A37i9dQZF1DWZrc3lwvImLj&amp;si=iGoSuGPsTTOCKF5V35JIcQ" title="https://open.spotify.com/track/3pkS0QVxNtAkkQQqQFgSWW?context=spotify%3Aplaylist%3A37i9dQZF1DWZrc3lwvImLj&amp;si=iGoSuGPsTTOCKF5V35JIcQ">joe mentina : lamento</a> <br/><br/>edit: link
-  entry_channels: anket,müzik
+    yukarııı
+  entry_channels: 
+- entry_name: |
+    içilen en berbat içecek
+  entry_id:  94128630
+  entry_writer: axwell
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=tuzlu+deniz+suyu">tuzlu deniz suyu</a>)<br/><br/>içecek olmasa da bunun üstüne tanımam.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     eşcinsellik hastalıktır
   entry_id:  94156475
@@ -402,4 +394,12 @@ data:
   entry_content: |
     hastalık olmadığını, ne bilimin ne tıbbın böyle bir tanısının olmadığını, yalnızca kendi küçük câhil kafalarında “haştalık işte haştalık ühühühü!” diye tepinen amiplerin kendi kendilerini kandırdığı safsata.<br/><br/>sözlüğe yeni yazar olmuş heyecanlı ergen arkadaşlarımızın ilgi çekmek için en kolay yönteme başvurmalarını anlıyorum ama bari argümanınızı genişletin biraz. hâlâ üreme ve anal seks üzerinden bu tartışmayı yürütmek yalnızca ne kadar salak olduğunuzu gösteriyor çünkü.<br/><br/>hayır bu bir tercih değil, hayır herkes üremek zorunda değil, kaldı ki çoluk çocuk sahibi milyonlarca eşcinsel de var, hayır dünya nüfusu almış başını giderken hâlâ “sonumuz geliyi lelelelelelele” diye anırmak kadar beyinsizce az şey var, hayır dışlanacak olan bu inanılmaz sığ ve câhil attırıklarından arınmazsan sen olacaksın.<br/><br/>ilkokul dersimiz bugün de bitmiştir, teşekkür ederiz.
   entry_channels: ilişkiler
+- entry_name: |
+    ekşi sözlük iş ağı
+  entry_id:  94138418
+  entry_writer: berbat seyler oluyor
+  entry_fav_count: 0
+  entry_content: |
+    selam arkadaşlar acil iş aradığım için burayı da kullanayim dedim.<br/><br/>radyoterapi bölümü mezunuyum. daha önce sanayide, hastanede (stajer radyoterapi teknikerligi, diş hekimi asistanlığı ve hasta kayıt görevlisi) ve passolig gişede çalıştım. <br/><br/>kocaeli gebze de oturuyorum. marmaray osmangazi durağına çok yakınım istanbula ulaşım sıkıntım yok. <br/><br/>acil olduğu için part time-full time zor olmadığı takdirde her işi yaparım. <br/><br/>mesaj kutum herkese açık. <br/>mailden ulaşmak isteyenler için; gobletoffire@outlook.com
+  entry_channels: ekşi-sözlük
 ---
