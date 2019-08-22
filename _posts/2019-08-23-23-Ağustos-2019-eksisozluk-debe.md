@@ -14,7 +14,7 @@ data:
     fakirlerde görülen çocuk yapma sevdası
   entry_id:  94273844
   entry_writer: cathars
-  entry_fav_count: 768
+  entry_fav_count: 771
   entry_content: |
     yıllardır o kadar ekonomik kriz geçirdik, bir tanesinin halen içinden geçiyoruz ama bu kafalar hiç değişmiyor. daha şimdi bir entry okudum ve zavallı çocuğa acıdım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.vgy.me/JZCp3D.jpg">https://i.vgy.me/jzcp3d.jpg</a><br/><br/>yahu arkadaşım madem paran yok ne diye evlenmeye kalkıyorsun? hadi bir hata ettin evlendin, büyük bir yükümlülüğün altına girdin, bir de ne diye üzerine çocuk yapıyorsun? nerede yaşadığınızın biraz farkına varın artık. bu orta doğu ülkesinde bir sabah uyandığında %50 fakirleşmeyeceğinin garantisi yok. %50 zenginleşmeyeceğinin garantisi var ama. <br/><br/>bu ülkede kenarda kendini garantiye alacak kadar parası, yatırımı, mülkü olmayan birinin evlenmesi, yuva kurması, çocuk yapması artık akıl alır bir iş değil. dediğim gibi bir sabah kalktığında cebindeki para yarı yarıya azalacak, masrafların ikiye katlanacak. üzerine belki de işsiz kalacaksın. bunun etkisini mesela 5 yıl hissetmeyecek kadar birikimin var mı? yok.<br/><br/>seni ve eşini zerre umursamam da o çocuğa yazık değil mi? muhtemelen güzel bir gelecek de inşa edemeyeceksin. şimdi o çocuğu dünyaya getirerek iyilik mi yapmış oldun kötülük mü? "allah rızkını verir" salaklığından yıllarca hepimiz çok çektik. hatta bir kısım insan ömrünün yarısına geldiği halde fakir bir ailede büyüdüğü için halen çekiyor. yazıktır, artık bir orta doğu bataklığında, ekonomisi çokmüş bir ülkede yaşadığımızın farkına varalım, adımlarımızı ona göre atalım.
   entry_channels: anket,ilişkiler
@@ -22,7 +22,7 @@ data:
     van'da polise vahşice demir tabure atan canlı
   entry_id:  94296046
   entry_writer: parliament night blu ray
-  entry_fav_count: 563
+  entry_fav_count: 569
   entry_content: |
     üst edit: "bunlara anlatamazsın boşuna uğraşma" minvalli çok mesaj geldi. hayır, haksızsınız. "polis şiddetini savunuyordum ama senin entry'den sonra fikrim değişti" diye mesajlar çok gelmeye başladı. tam olarak aynı noktaya gelemesek de özünde paralel bir fikre sahip olduğumuzu anladığımız birkaç kişiyle de mesajlaştım. üstelik bunlardan bazıları lafa küfrederek girmişti. o yüzden diyalog ortamı yaratmadan "bunlar anlamaz" dememek lazım. şu ana kadar fikrini değiştirmeyle hiç ilgilenmeyeceğim tek bir kişi çıktı onlarca mesaj arasında. adam gibi yazıştığınızda değerli fikirler ortaya çıkabiliyor kısacası.<br/>.....................................................................<br/><br/>videoyu izledim. polis hala suçlu. polisin neden suçlu olduğunu polisten dayak yemeden anlayamayacaksınız. ben polis dayağı yemediğim halde polisin suçlu olduğunu biliyorum. siz ancak dayak yiye yiye öğreneceksiniz.<br/><br/>edit: peki anlatalım. bir kere daha anlatalım. öncelikle videoda dayak yiyen eleman hiç umrumda değil. hatta belki dayağı hak ediyordur da. sen dövsen belki alkışlarım da. ama polis dövemez arkadaş. polise ya da devletin başka bir kolluk gücüne adam dövme yetkisi de veremezsin, dövdüğünde alkışlayamazsın da. apo dahil, feto dahil, en azılı tecavüz suçlusu dahil, seri katiller dahil kim olursa olsun istisna gözetmeksizin devlete dayak ve işkence hakkı tanıma. devlet bu ne yapacağı belli olmaz çünkü. bak yarın sen de aynı dayağı yersin. hiç ben vatanıma milletime düşkünüm saygılıyım deme. devletin kimi vatan haini göreceği konjonktüre göre değişir. sırf siyasi bir meseleden bile değil sudan bir sebepten polisi kızdırırsın dayak yersin. o zaman anlarsın. daha ileri giderler. çocuğunun önünde yersin o dayağı. namussuzun birine denk gelirsin, kolluğundan aldığı güçle karına kızına yavşar. o zaman anlarsın devlet tapıcılığının yanlış bir şey olduğunu. aklı başında hiç kimse hangisi olursa olsun devlet gibi değişken bir organizmaya insan öldürme ve işkence etme hakkı vermez. hiç kimse.<br/><br/>öte yandan olayın ne olduğu da meçhul. varsayalım dayak yiyen adam pkk sempatizanı. şimdi sen bu polisler yüzünden artık hiçbir şekilde bu adamı ve sülalesindekileri toplumunun içine geri çekemezsin. gitti. o şans geçti. devletin insanları terörden ve terör sempatizanlığından vazgeçirmek için atacağı bütün demokratik çabaları iki tekmeyle bitirdin. belki de bu polise kızıp 3-5 kişi daha dağa çıkacak ve o çıkanlar da bir gün başka bir polisi ya da askeri şehit edecek. gördün mü? terör karşıtlığı gerekçesiyle alkışladığın polisler başka polislerin dolaylı yoldan ölümüne sebep olacak bir şekilde.<br/><br/>hala anlamadıysan sen bilirsin. dediğim gibi eninde sonunda döve döve öğretirler sana.<br/><br/>edit 2: mesela sözlükte cicatrix4 nickli bir puşt var. bu entry'den dolayı bana küfürlü mesaj atmış. bunu ben elime alsam yalvartana kadar döverim. hiç de acımam. ama polisler tutuklasa ve 'istersen dövelim" deseler sakın ha derim. anladık mı aradaki farkı?<br/><br/>edit 3: yazmayı bile gereksiz buluyorum ama illa ki tek taraflı baktığımı düşünecek olanlar vardır: tabure mi neyse onu atan kişi de suçlu ve mutlaka hapisle cezalandırılmalı.
   entry_channels: haber
@@ -30,7 +30,7 @@ data:
     fitness hocalarının sürekli kadınlarla ilgilenmesi
   entry_id:  94297578
   entry_writer: acdc cdsi
-  entry_fav_count: 481
+  entry_fav_count: 513
   entry_content: |
     aramaya inanadım ama bulamadım. eğer yoksa gerçekten böyle bir başlık olmaması şaşırttı.<br/><br/>var böyle bir şey. 5 senede yaklaşık 5-6 salon değiştirdim. en kurumsalından mahalle arası salonuna kadar hepsinde kadınlarla fazla ilgilenmeler, yanlış yapınca anında yanına zıplamalar, sürekli muhabbete girmeye çalışmalar filan. salonda hoca bulamadığımız zaman kadınların olduğu yere gidiyoruz, orada kesin 2-3 tane oluyor. 4 senedir tek, 1 senedir kız arkadaşımla spor yapıyorum. 5 sene boyunca bir hoca yanıma gelip bir şey demedi. kız arkadaşım spora başladığı 2. gün koşu bandında hoca gelmiş yanına bir şeyler soruyor. sinirim bozuldu tersledim bir daha yaklaşmadılar.<br/><br/>edit1: gelen mesajlar üzere anladım ki 15 senelik spor hocamız benata nickli yazar trollmüş. burada ona yazılmış bir cevap vardı ama sildim.<br/><br/>edit2: yastik yorgan nickli hıyar, spor salonu göt gösterme yeri mi lan? oraya gelen herkes açık saçık giyinmek zorunda mı? açık saçık giyinse bile bu hocalara yavşama hakkı mı veriyor? başkalarının sevgilileri hakkında konuşurken iki kere düşün, terbiyeni takın.<br/><br/>edit3: kadın yazarlarımız da tespiti doğruladı. ayrıca sadece güzel kadınlarla ilgilendiklerini söyledi. bak bak bir de seçiyorlar.
   entry_channels: spor,ilişkiler
@@ -38,15 +38,23 @@ data:
     marketin ortasına kakasını yapan rahat dayı
   entry_id:  94291568
   entry_writer: humaniterinsan
-  entry_fav_count: 464
+  entry_fav_count: 465
   entry_content: |
     daha bir ay önce sakarya'daydım. üstümüze de sıçabilirdi. şans eseri yaşıyoruz resmen.
   entry_channels: haber
 - entry_name: |
+    regl izni
+  entry_id:  94266585
+  entry_writer: malmazel
+  entry_fav_count: 431
+  entry_content: |
+    mecburi on edit: o kadar gerzekalica mesajlar aliyorum ki, lutfen mesaj atmadan once bu paragrafi okuyun. her seyden once 'ereksiyon izni de olsun o zaman' diyen gerizekalilar, bu yasiniza kadar iyi hayatta kalmissiniz. daha da onemlisi derdim regl iznini mesrulastirmak degil. bu ornek uzerinden ulkemizdeki insan yanlisi olmayan sistemi elestirmekti. aldigim mesajlarda da ne kadar hakli oldugumu gordum. ben kadin/erkek fark etmez, fiziksel ve ruhsal olarak kendini ise veremeyecek ya da saglikli olmayan bireylerin calismamasini bir hak olarak goruyorum. ki oyledir. bunun sinirlari cizilebilir. fakat aldigim mesajlar gosteriyor ki turkiye'deki herkes sistem kolesi olmaya o kadar alismis ki nefret kusuyor. bana 'calisma' yazan olmus lan, algilama kapasitesi yok ki adamin entrdeki sistem elestirisini anlasi! ayrica sana mi soracagim dalyarak calisirken? senden belki on kat daha egitimli, belki on kat daha zeki, belki on kat daha birikimli ve belki on kat daha caliskanim. yilda asagi yukari 5-6 gun 'iyi degilim, gelemeyecegi ' diyebilmek hakkini bana cok gorup 'calisma' diyor. malsiniz yemin ederim hepiniz. mesela su olsa, tipki lisedeki gibi x gun raporsuz hakkimiz olsa? insan her hasta oldugunda hastaneye gitmek zorubda degil. ya da mental yorgunluklar rapora dahil degil. nesela herkes icin yilda 10 gun hastalik kotasi olsa raporsuz. erkege de kadina da. boyle seyleri tartisalim? herkes mutlu olsun? neden bu kadar igrenc olmak zorundasiniz? benden sonra yazilan entryleri okumuyorum bile sinirlenmemek icin. kadini da erkegi de çöp bu ulkenin, çöp! ayrica, icinde 'kadin' gecen her mevzuda 'feminist!!!' diye carlamayin. feminist degilim. queer teorisini feminizden daha mantikli bulan bir insan haklari savunucusuyum. pozitif ayrimcilik da degil istedigim, entry okursaniz anlarsiniz zaten. okumadan carlamak nasil bir aptallik yahu?<br/>----<br/>"canavar gibisiniz kadinlar, istedikce istiyorsunuz" yazmis biri.<br/><br/>merhaba, pozitif ayrimciligi savunmayan biri olarak bu basliktayim. eminim basligi hortlattigim icin benden sonra bir suru kadin nefreti temali entry de girilecektir ama olaya bakis acimi anlatmak istiyorum.<br/><br/>bundan x gun sonra onemli bir randevum var ve isin icindeki insanin dogum gunu oldugu icin aksam yemegi, alkol ve canli muzik iceren bir plan yapiyoruz. normal sartlar altinda tam bir haftadir gece gunduz hafta ici/sonu kicimi koltuktan kaldirmadan calistigim icin benim dort gozle beklemem gereken bir program olmaliydi bu, lakin reglimin 2./3. gunune denk geliyor. bu da sosyal hayattan elimi etegimi cekip agri kesici shotlayarak domates corbasi icip film izleyecegim bir gecenin benim icin ideal bir gece olacagi anlamina geliyor aslinda ama 'things you do for love'... bu hikaye tamamen konuya giris amacliydi.<br/><br/>yaslandikca regl agrilariniz artiyor ve bunyeden bunyeye farklilik gostermekle beraber bazen dik duramayacaginiz boyutlara ulasiyor. hastaneye kaldirilan tanidigim var o kadar soyleyeyim. hatta bu o kadar karmasik bir mevzu ki o ay yasadiginiz stresten tutun hareketlilik/hareketsizliginize, hasta olup olmamaniza, uyku duzeninize kadar otuna bokuna kadar her seyle alakali, bir ag hic agriniz olmazken bir sonraki ay geberebiliyorsunuz. bunu ispatlayabileceginiz bir durum yok, karsinizdaki insanin buna empati yapabilecegi bir durum da degil. hele ki erkeklerin bu durumhn vehametini anlayamayip 'canavarsiniz' ithamlarini sahiden anlayabiliyorum. bu kadar rutin bir seyin bu kadar ciddi olabilecegini dusunemiyor olmalari gauet dogal. yine ispatlanilabilir olmamasi nedeniyle suistimale de acik. ustelik insanlarin farkli aci esikleri oldugu icin adil de degil.<br/><br/>ben bunlari dusunurken aklima su geldi, bu kadar insancil bir durum icin gercekten bu kadar dusunmeye gerek var mi? sadece regl degil, herhangi baska hastalik da buna dahil. gecrigimiz kis doktor raporum oldugu halde ofise cagirildim(sinuzit), bunu hayatim boyunca unutmayacagim. bu durumda olan eminim milyonlar vardir, bak eminim. ve bu kadar 'hayat mucadelesi'nin dondugu bir ulkede regl izninin simariklik olarak algilandigina da eminim. yazik. birbirinize olan toleranssizligimiz, nefretimiz, tahammulsuzlugumuze yazik. ama bu noktaya is ahlaksizligimizla, gun kurtarma mantigimizla, tembelligimizle yine biz geldik.<br/><br/>bizden bir cacik olmaz yani, anladin?<br/><br/>hangi ulkeydi hatirlamiyorum, mental izin kullanmisti calisanin biri. dunyanin en hakli sebebi lan. gercekten. mebtal izin diye bir sey olsa, sadece bir haftacik o lanet isten tamamen uzak kalsam belki dinlenip enerji toplar ve o iste daha uzun sure calisabilirdim. ve yine eminim benim gibi milyonlar vardir. ama hayiiiir, calisanlari umugune kadar somurelim. <br/><br/>isin acinasi tarafi isciler de birbirlerini desteklemiyor. 'insan' olmaya hakkin yok, insan sifatindan once bir iscisin cunku... regl agrisi cekmeye hakkin yok, sinuzitten gebermeye hakkin yok, cocugunun mezuniyetine gitmeye hakkin yok, isten erken cikip doktora gitmeye hakkin yok. ol geber yani bize ne.<br/><br/>not: bu entrynin amaci ne regl iznini savunmak ne de yermek. toplum olarak regl iznine verdigimiz tepkiler uzerinden ne kadar degersiz vatandaslar olarak goruldugumuzu ve daha kotusu birbirimizi ne kadar degersiz goedugumuzu masaya yatirmak sadece. hadi kaldiginiz yerden kadin nefretinize devam edin simdi.
+  entry_channels: sağlık,haber
+- entry_name: |
     lahmacun ayranla mı içilir kolayla mı
   entry_id:  94299143
   entry_writer: usturakemal81
-  entry_fav_count: 408
+  entry_fav_count: 431
   entry_content: |
     sizin turkceye herhalde bedenci geliyordu.<br/><br/>lahmacun yenilir...<br/><br/>edit: bize arasira geldigi olmustu...
   entry_channels: yeme-içme
@@ -54,15 +62,23 @@ data:
     kırıkkale'de boğazı kesilerek öldürülen kadın
   entry_id:  94278909
   entry_writer: axl dickinson
-  entry_fav_count: 355
+  entry_fav_count: 356
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/kirikkale-haberleri/71212915-kirikkalede-eski-esini-kizinin-gozu-onunde-oldurdu" title="https://www.haberturk.com/kirikkale-haberleri/71212915-kirikkalede-eski-esini-kizinin-gozu-onunde-oldurdu">haber</a><br/><br/>kırıkkale´de fedai baran (43), bir kafede karşılaştığı eski eşi emine b.´yi, 10 yaşındaki çocuklarının gözü önünde boğazından bıçaklayarak öldürdü. fedai b., polis tarafından gözaltına alındı.<br/>olay akşam saatlerinde menderes caddesi üzerindeki bir kafede meydana geldi. fedai b., kafede yemek yiyen eski eşi emine b. ile çocukları f.b.b.´nin yanına geldi. fedai b. ile emine b. arasında henüz bilinmeyen bir nedenle tartışma çıktı. kısa sürede büyüyen tartışmada fedai b., eline aldığı ekmek bıçağıyla emine b.'yi, kızı ve çevredekilerin dehşet dolu bakışları arasında boğazından bıçakladı. emine b. kanlar içinde yere yığılırken, fedai b. olay yerinden kaçtı. küçük kız ise olayın etkisiyle şoka girdi.<br/>çevredekilerin ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi. sağlık ekipleri, emin b.'yi ambulansla yüksek ihtisas hastanesi'ne götürüldü. şoka giren f.b.b. de annesiyle birlikte hastaneye kaldırıldı. talihsiz kadın, burada yapılan müdahalelere karşın kurtarılamadı.<br/>polis ekipleri ise kafede incelemelerde bulunarak, şüpheli fedai b.'nin yakalanması için çalışma başlattı. polis, kısa sürede cinayet zanlısı fedai b.'yi, bahşılı ilçesi girişinde yakalayarak gözaltına aldı. olayla ilgili soruşturma sürüyor. <br/><br/>bir insan bir insana hele çocuğunun gözleri önünde bunu nasıl yapar. aklım almıyor, o çocuğun geride kalan hayatını düşününce nefesim kesiliyor. allah senin belanı versin o.cocuğu.<br/><br/>edit: video ve görüntüyü rahatsız edici öğeler içermesi sebebiyle sildim. kadın cinayetlerine dikkat çekmek amacıyla özellikle +18 ibaresi ile paylaşmama rağmen anneler, çocuklar ve hassas bünyeler için paylaşımı kaldırdım. özelden video linki falan istemeyin lütfen burada konu videonun izlenmesi değil böyle bir vahşetin ülkede normalleşmesi. bu olay olalı 4 gün oldu ancak ben burdan videosu ile paylasmasam bu kadar gündeme gelmeyecekti. hanginiz ana haber bültenlerinde bu habere rastladınız?kadın cinayetlerinin gündeme gelmesi için illa ki böyle kan dondurucu bir görüntü şart değil ancak içimizdeki merak duygusu her şeyden önce geliyor. boğazı kesilen bir kadın ve buna şahit olan küçük kızı. maalesef video olmadan ülkede bunun bir haber değeri yok.
   entry_channels: haber
 - entry_name: |
+    idam yerine uzaya fırlatma cezası
+  entry_id:  94283467
+  entry_writer: aklazarar
+  entry_fav_count: 353
+  entry_content: |
+    5 liralık ip yerine 50 milyon dolar harcamak isteyen kişi beyanı.
+  entry_channels: anket
+- entry_name: |
     yeni mezun mühendisin 2 bin 500 tl'yi beğenmemesi
   entry_id:  94283819
   entry_writer: cbellow
-  entry_fav_count: 306
+  entry_fav_count: 312
   entry_content: |
     adam ilan açmış. <br/><br/>-ingilizceyi çok iyi bilen<br/>-askerliğini tamamlamış<br/>-seyahat engeli olmayan(oradan oraya yollucam seni diyor)<br/>-solidworks autocad'ten birini ve en az bir analiz programı bilen <br/>- tercihen(almanca, rusça ve arapça) dillerini bilen<br/>-esnek çalışma şartlarına uygun( eşek gibi çalıştırıcam mesai ücreti vermicem diyor. <br/><br/>ve bu adama 2500 tl vereceksin. <br/><br/>diğer taraftar hiçbir eğitimi olmayan asgari ücretli 2000 tl alacak ve siz bunu savunuyorsanız katıksız .. çocuğusunuz net.
   entry_channels: anket,ekonomi
@@ -70,55 +86,39 @@ data:
     seviştiği kadını arkadaşlarına anlatan erkek
   entry_id:  94279294
   entry_writer: dedi kuzgun
-  entry_fav_count: 257
+  entry_fav_count: 259
   entry_content: |
     niye ben hep dinleyen tarafım lan?
   entry_channels: ilişkiler
 - entry_name: |
-    ölmek istiyorum
-  entry_id:  94272284
-  entry_writer: s2zei
-  entry_fav_count: 244
-  entry_content: |
-    eskiden bir kişi ölmek ister diğer entrylerde vazgeçirilmeye çalışılırdı şimdi herkes ölmek istiyor.
-  entry_channels: sağlık
-- entry_name: |
     ekrem imamoğlu'nun diyarbakır'a gitmesi
   entry_id:  94300353
   entry_writer: samarraya kacan tuccar
-  entry_fav_count: 242
+  entry_fav_count: 256
   entry_content: |
     adam istanbul dışında her şeyle ilgileniyor helal olsun<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber
 - entry_name: |
+    ölmek istiyorum
+  entry_id:  94272284
+  entry_writer: s2zei
+  entry_fav_count: 254
+  entry_content: |
+    eskiden bir kişi ölmek ister diğer entrylerde vazgeçirilmeye çalışılırdı şimdi herkes ölmek istiyor.
+  entry_channels: sağlık
+- entry_name: |
     bir üstteki yazara diss atmak
   entry_id:  94293060
   entry_writer: germe beni germe
-  entry_fav_count: 239
+  entry_fav_count: 245
   entry_content: |
     yazmış nick'ine üçgenin iç açılarını<br/>sorsan bilmez geometrinin vatanını<br/>sözlüğü forum zannetmiş olmalı ki<br/>bir tane daha arttırmış çöp başlıkları
   entry_channels: müzik
 - entry_name: |
-    zor günlerden geçenlerin bildiği en iyi şey
-  entry_id:  94266447
-  entry_writer: yinemibenya
-  entry_fav_count: 186
-  entry_content: |
-    bayram öncesi kartımda sadece 9.75 lira vardı. a101 de çocuk bezi 20 tl ve benim param yok. utana sıkıla bir arkadaşımdan hesabıma 10.25 lira atmasını istedim. arkadaşım sağolsun 500 tl gönderdi. bayramı geçirdim ailemle elektrik kapanacaktı onu ödeyebildim. bu zor günde gerçek dostun önemini anladım. çok sağol güzel kardeşim.
-  entry_channels: anket
-- entry_name: |
-    thk sertifikalarının hiçbirine güvenmiyorum
-  entry_id:  94279857
-  entry_writer: captain torero
-  entry_fav_count: 143
-  entry_content: |
-    "güvenmediğin sertifikalara sahip uçakları nasıl komşu ülkelere yardım etmesi için teklif ettin o halde?" diye tepki gösterdiğim beyanattır.
-  entry_channels: haber,havacılık
-- entry_name: |
     tc kimlik numarasını 3+2+2+2+2 şeklinde ezberlemek
   entry_id:  94289003
   entry_writer: matiiz
-  entry_fav_count: 132
+  entry_fav_count: 135
   entry_content: |
     2+2+2+2+3.
   entry_channels: anket,programlama,eğitim
@@ -126,7 +126,7 @@ data:
     mühendislik kontenjanlarının azaltılması elzemdir
   entry_id:  94295813
   entry_writer: seovi
-  entry_fav_count: 131
+  entry_fav_count: 133
   entry_content: |
     tmmob’nin ne işe yaradığını neye sözcü olduğunumerak ediyorum bu mesele için sesini duyuramıyorsa. hem halihazırdaki mühendislere, hem bir umutla bölümlere giren çocuklara yazık ediyorsunuz. ya da “mus” gibi bir sınav koyun, %20 kontenjan açın. aldığı eğitimle %20 ye girebiliyorsa girsin yoksa teknisyen olarak devam etsin. <br/><br/>bu işin sonu kötü. bu ülkede mühendislik hiç bir zaman altın bir çağ yaşamadı kabul ama giderek daha kötüye gitmesi bir ülkenin önlem alması gereken bir şey değildir de nedir? <br/><br/>ya okulları denetleyin, eşek bağlasan mezun olur modundan çıksınlar ya da kontenjanları kapatın. <br/><br/>bir başka öneri, mühendislik fakülteleri sadece 2 yıllıklardan alım yapsın. mühendis olmak isteyen önce ilgili mühendisliğin ön lisansını bitirsin. alan sınavını verenler devam etsin. <br/><br/>bu işe önem veren, olmak isteyen, becerebilecek olan meyletsin. <br/><br/>şu an endüstrimize verilen zararın farkında değil kimse. eski hocalar hala hayatta ve devam ediyorlar. 10 15 yıl sonra mühendislik fakültelerine yetkin türk hoca bulamayacağız. <br/><br/>çok yazık oluyor.
   entry_channels: anket,teknoloji,eğitim
@@ -134,7 +134,7 @@ data:
     behzat ç.
   entry_id:  94266955
   entry_writer: epsilon08
-  entry_fav_count: 127
+  entry_fav_count: 131
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>aziz : benim artık tek derdim kızım ve torunum, onlar benim herşeyim <br/>torun: dedeee <br/>aziz:lan siktir git görmüyormusun konuşuyoruz burda<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: tv,sinema,spoiler
@@ -142,7 +142,7 @@ data:
     can yaman'ın italya'da kadın seline uğraması
   entry_id:  94288266
   entry_writer: zararyokziyanvar
-  entry_fav_count: 117
+  entry_fav_count: 119
   entry_content: |
     (bkz: <a class="b" href="/?q=pr">pr</a>)(bkz: <a class="b" href="/?q=cast+ajans">cast ajans</a>)
   entry_channels: tv,magazin
@@ -150,39 +150,47 @@ data:
     sıçtık kelimesinin mesleklerdeki terminolojisi
   entry_id:  94276774
   entry_writer: stugs
-  entry_fav_count: 92
+  entry_fav_count: 96
   entry_content: |
     -1 kişi eksik.<br/><br/>(bkz: <a class="b" href="/?q=gardiyan.">gardiyan.</a>)
   entry_channels: anket
 - entry_name: |
-    evliliklerin kısa sürme sebebi
-  entry_id:  94292237
-  entry_writer: mukemmelligi hizlandiramayan adam
-  entry_fav_count: 83
+    işten atılan emekçilere ak troll diye sövmek
+  entry_id:  94289943
+  entry_writer: eeuummm
+  entry_fav_count: 94
   entry_content: |
-    bir gazeteci 65 yıl evli kalan bir çifte sorar;<br/><br/>- nasıl bu kadar evli kalabildiniz?<br/><br/>kadın cevaplar;<br/><br/>- biz bir şeyler bozulduğu zaman tamir ettiğimiz bir zamanda doğduk, attığımız değil.<br/><br/>bozulan şeylere “nasılsa yenisini alırız” gözü ile bakıyoruz. kadın ve erkek birbirlerinin gözünde artık birer meta. her şeyin bir yenisi var. yeni bir kadın, yeni bir erkek. hiçbir duygunun sürdürülebilir olmadığını biten her ilişkinin ardından anlıyoruz. gönlümüz olmuş yol geçen hanı. hem evlilikler, hem ilişkiler elbette kısa sürer. keşke biraz babalarımızı, abilerimizi, annelerimizi örnek alabilsek.
-  entry_channels: anket,ilişkiler
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/-terorist-vatan-haini-fetocu-hirsiz-ahlaksiz-diyenler...-22081954.html" title="https://odatv.com/-terorist-vatan-haini-fetocu-hirsiz-ahlaksiz-diyenler...-22081954.html">link</a><br/><br/>alın size o işten atılan kişilerin icraatları. aktroll az bile kalmış bu tipler için.<br/><br/>başlığı açan salak keserin sapını köküne kadar almış muhatap olmayın boşverin.
+  entry_channels: siyaset
 - entry_name: |
-    breaking bad'den çıkarılacak ders
-  entry_id:  94288306
-  entry_writer: avegro
-  entry_fav_count: 72
+    norm ender'in başlattığı fidan challenge
+  entry_id:  94303339
+  entry_writer: johannes gotunberk
+  entry_fav_count: 91
   entry_content: |
-    kaybedecek bir şeyin olmadığında, hayat seni korkusuz biri yapar.
-  entry_channels: anket,tv,spoiler
+    <a class="b" href="/?q=kelto%c5%9f+do%c4%9faya+ko%c5%9f">keltoş doğaya koş</a> diyerek ben feroya meydan okuması gereken challenge.
+  entry_channels: müzik
 - entry_name: |
     aek trabzonspor maçına 250 bin tl basan hamsi
   entry_id:  94299711
   entry_writer: gentoure
-  entry_fav_count: 72
+  entry_fav_count: 82
   entry_content: |
     veraset intikal vergisine tabii olmamak için 100 kupon olarak oynanmış. yanlışlıkla tek kalemde oynanmış olsaydı devlet 367 bin tl'nin %20'sine direk el koyacaktı. yani 250 bin tl yatıran adam sadece 43,6 bin tl kazanır iken devlet 73,bin tl vergi alıyor. <br/><br/>halk ağır vergiler altında eziliyordu diye boşuna demiyorlar.
   entry_channels: spor
 - entry_name: |
+    breaking bad'den çıkarılacak ders
+  entry_id:  94288306
+  entry_writer: avegro
+  entry_fav_count: 79
+  entry_content: |
+    kaybedecek bir şeyin olmadığında, hayat seni korkusuz biri yapar.
+  entry_channels: anket,tv,spoiler
+- entry_name: |
     minik recep safa yardım bekliyor
   entry_id:  94300306
   entry_writer: yukselen gunes evi
-  entry_fav_count: 58
+  entry_fav_count: 62
   entry_content: |
     edit2: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/vQBp77r-XbQ" title="https://youtu.be/vQBp77r-XbQ">iha tarafından aile ile yapılan röportaj</a> . <br/><br/>arkadaşlar öncelikle şunu bildireyim; maddi anlamda destek olamasanız bile burada başlığı güncel tutarak, sosyal medyada paylaşarak da büyük destek olursunuz. bir şekilde damlaya damlaya göl olur ve minik recep safa'yı el birliğiyle kurtarmış oluruz.<br/><br/>recep safa örs, 15 yıl boyunca çocukları olmayan, sonunda tüp bebek tedavisi ile çocuk sahibi olabilen bir çiftin 5 yaşındaki çocuğu. recep safa henüz 3 yaşına bile gelmeden böbrek üstü bezi kanserine yakalanıyor. 1.5 yıl boyunca tedavi görüyor ve hastalığı atlattım derken şimdi hastalığı tekrarlıyor.<br/><br/>recep safa'nın tedavisi boyunca kullanması gereken ve 15 kutu ihtiyacı olan bir ilaç var. ilacın bir kutusu maalesef 10 bin euro. ancak yaşamını sürdürebilmesi için tedaviye, tedavisinin sürebilmesi için de bu ilaca ihtiyacı var recep safa'nın.<br/><br/>valilik izniyle recep safa adına açılan bir yardım hesabı da mevcut.<br/><br/>hesap sahibi: recep safa örs<br/>hesap no: ziraat bankası kayseri şubesi 89998552-5001<br/>iban no: tr71 0001 0001 5989 9985 5250 01<br/><br/>yardımın küçüğü büyüğü olmaz. hesaplarınızda kalan 3-5 liralık küsüratlar ya da bugünlük içmeyeceğiniz bir paket sigaranın parası bile bir çocuğun yaşamasını sağlayabilir.<br/><br/>detaylı bilgi isteyenler için konuyla ilgili bir haber de mevcut: <a rel="nofollow noopener" class="url" target="_blank" href="https://kayserihaber.com/recep-bebek-yasama-tutunmak-icin-yardim-eli-bekliyor/" title="https://kayserihaber.com/recep-bebek-yasama-tutunmak-icin-yardim-eli-bekliyor/">haber linki</a><br/><br/>edit1: baba erdem örs'ün telefon numarası 0555 228 0115
   entry_channels: sağlık,haber
@@ -198,10 +206,26 @@ data:
     22 ağustos 2019 aek trabzonspor maçı
   entry_id:  94276073
   entry_writer: ogni
-  entry_fav_count: 53
+  entry_fav_count: 56
   entry_content: |
     temennilerini anlıyoruz, onda sıkıntı yok da, senin gibi edepsizlerden (bak gayet terbiyeliyim) destek aradığımızı nereden çıkartıyorsun, kendini nimetten sayan avel fasulye.<br/><br/>tanım: dengeli bir oyunla trabzonun galip gelme ihtimalini yüksek gördüğüm karşılaşma.
   entry_channels: spor
+- entry_name: |
+    istanbul veya ankara'ya yakın en yaşanılabilir il
+  entry_id:  94302006
+  entry_writer: colorado kid
+  entry_fav_count: 53
+  entry_content: |
+    <a class="b" href="/?q=eski%c5%9fehir">eskişehir</a>'dir.
+  entry_channels: anket,seyahat
+- entry_name: |
+    ben fatma turgut sorularınızı bekliyorum
+  entry_id:  94290827
+  entry_writer: northroma
+  entry_fav_count: 48
+  entry_content: |
+    arizona kertenkelesi ile görüşüyor musunuz?
+  entry_channels: ekşi-sözlük,müzik
 - entry_name: |
     gelmiş geçmiş en iyi reklam sloganı
   entry_id:  94266056
@@ -211,124 +235,108 @@ data:
     bir bilmecem var çocuklar<br/>haydi sor sor <br/>çayda kahvaltıda yenir<br/>acaba nedir nedir<br/>bisküvi denince akla<br/>tamam şimdi buldum<br/>hemen onun adı gelir<br/>eti eti eti
   entry_channels: anket
 - entry_name: |
-    ben fatma turgut sorularınızı bekliyorum
-  entry_id:  94290827
-  entry_writer: northroma
-  entry_fav_count: 47
-  entry_content: |
-    arizona kertenkelesi ile görüşüyor musunuz?
-  entry_channels: ekşi-sözlük,müzik
-- entry_name: |
     radamel falcao garcia
   entry_id:  94274430
   entry_writer: gorkmy
-  entry_fav_count: 44
+  entry_fav_count: 45
   entry_content: |
     4-5 nöbeti kimdeydi, bura niye boş beyler ??
   entry_channels: spor
 - entry_name: |
-    norm ender'in başlattığı fidan challenge
-  entry_id:  94303339
-  entry_writer: johannes gotunberk
-  entry_fav_count: 40
-  entry_content: |
-    <a class="b" href="/?q=kelto%c5%9f+do%c4%9faya+ko%c5%9f">keltoş doğaya koş</a> diyerek ben feroya meydan okuması gereken challenge.
-  entry_channels: 
-- entry_name: |
-    istanbul veya ankara'ya yakın en yaşanılabilir il
-  entry_id:  94302006
-  entry_writer: colorado kid
-  entry_fav_count: 36
-  entry_content: |
-    <a class="b" href="/?q=eski%c5%9fehir">eskişehir</a>'dir.
-  entry_channels: anket,seyahat
-- entry_name: |
     gelmiş geçmiş en karizmatik oyun karakteri
   entry_id:  94298357
   entry_writer: hitman470098
-  entry_fav_count: 30
+  entry_fav_count: 34
   entry_content: |
     max payne varken. diğerleri avcunu yalar :)
   entry_channels: anket,oyun
 - entry_name: |
+    seviştiği erkeği arkadaşlarına anlatan kadın
+  entry_id:  94300214
+  entry_writer: sessiz sakin suskun adam
+  entry_fav_count: 31
+  entry_content: |
+    - hayırdır handan yorgun gibisin.<br/>+ ay sorma pınar, akşam bizim herif kıtlıktan çıkmış gibiydi.<br/>- anlamadım.<br/>+ anla işte kız, tepemden inmedi öküz.<br/>- ihihi şanslısın bence. seni seviyo belli.<br/>+ beni seven adam gırtlağımı sıkıp yastıkla beni boğmaya çalışır mı ya. popama sert sert şaplak atar mı?<br/>- vauvvvvv.<br/>+ hayır yani, bi de çok büyük şeyi var. bacağını aç diyo açamıyom, kasıklarım ağrıyor.<br/>- şeyyyy. <br/>+ sonra çıkarıp şap şap göbeğime vuruyo. şşştt sessiz ol deyip gırtlağımı sıkıp tekrar içime giriyo.<br/>- sigara içcem ben, sen de içer misin?<br/>+ yok ya sağol ama her gece her gece bıktım pınar. bir de göğsümü sıkıp dakkalarca kukumu yalaması falan günah bence.<br/>- evet oral için günah diyenler var.<br/>+ neymiş ben de ona oral yapacakmışım. ağzıma sığsa yapcam diyom ama anlamıyor hayvan herif. <br/>- dolaptan bi tane bira içcem ayıp olmaz di mi?<br/>+ yok iç sen. hayvan herif evde şimdi. senelik izne çıktı. banyodan çıkıp peştemalı bi açtı şeyi dalgalanmaya başladı yine. etek traşı olmuş. cillop gibiyim gel kız diye kur yaptı, hemen sana kaçtım. <br/>- oouuuffff offff... şeyy sıcak bastı camı açim ben.<br/>+ geçen de iş yerindeki güvenlikçi çocuktan kelepçe alıp gelmiş, saçımı kökünden kavrayıp<br/>- .....<br/>+ pınar nereye gidiyosun? <br/>- şey bekle sen. bi işim vardı. dışarı çıkıp döncem.<br/>+ peki madem ben eve gidiyom.<br/>- hayırrrrr.. şey yani sen eve gitme sakın. gelince konuşcaz tamam mı?<br/>+ tamam bekliyorum. gitmeden şu kelepçe izlerine baksana bi.<br/>- dönünce bakarım. bekleeeeee.<br/>+ pınar üşüdün mü? titriyosun.<br/>- ....<br/>+ pınarrrr<br/>- ....<br/>+ of ya, kime derdimi anlatsam çekip gidiyo hep. nereye gidiyo bunlar ya. offf offffff.
+  entry_channels: ilişkiler
+- entry_name: |
     mansur yavaş vs ekrem imamoğlu
   entry_id:  94294110
   entry_writer: mezarcizeybek
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     geçmiş entrylerimi bakıp koyu chp'li olduğumu anlayabilirsiniz. <br/><br/>net mansur yavaş'tır.<br/><br/>şahsen imamoğlu'nun tatil mevzuları bana çok battı.<br/><br/>gitmeyeceksin abi.lamı cimi yok.etraf yam yam sürüsü.chp olarak elimize bir fırsat geçmiş.çok çalışıp yıllarca chp gelirse kuyruk olur çöp olur algısını yıkacaksın ki ülkeyi yönetmenin önü açılsın.<br/><br/>akp'li tayfa çoğunlukla asgari ücretle belki daha da azına çalışan tayfa zaten.hayatlarında tatil nedir bilmezler.seni anlamazlar. biz zaten oy veriyoruz, hedef kitlen bunlar.ayy yazık adam da çok yoruldu demezler senin için.havuz medyası da allar pullar önlerine pek güzel servis eder. aha bak gördün mü chp geldi hemen yatış başladılar alır yürür.e bu algılarla mücadele etmeye gerek var mı allah aşkına? seneye gidiver ne kaçıyor? bu konuda yaptığını çok yanlış buluyorum. <br/><br/>uzun vade de hedef türkiye ise bu tarz hatalar asla ama asla yapılmamalı.karınca gibi arı gibi çalışan bir chp olmalı bu süreçte.
   entry_channels: siyaset,anket
 - entry_name: |
-    ebulfez elçibey
-  entry_id:  94277428
-  entry_writer: kupaasi
-  entry_fav_count: 27
-  entry_content: |
-    "sen türk olduğunu unutsan da, düşmanın asla unutmaz." <br/>- ebulfez elçibey <br/>türk
-  entry_channels: siyaset,tarih
-- entry_name: |
-    30 yaşında işi evi arabası olan bekar kadın
-  entry_id:  94289248
-  entry_writer: putinpleasesitdown
-  entry_fav_count: 27
-  entry_content: |
-    kadinin parasini mal varligini ne yapacaksiniz? size ne bundan? <br/><br/>ek olarak ailemden aldigim ya da emegimle edindigim bir mal varligi, ki bu ekonomik guvence demektir, yarina ne olacagimiz belli olmadigi bir ulkede 3 gun sonra siktirip gitme ihtimali olan bir adama mi hibe edicem? <br/><br/>ulkede ne egitimin garantisi kaldi, ne isin, ne gecinilebilecek paranin. ki kadin istihdam acisindan cok daha problemli durumda. is saatleri, nerede calisildigi kimle calisildigi kadin icin onemli kriterler. bu kadar stabilize olmayan bir ulkede bir kadindan nemalanmaniz icin gercekten aptal bir kadin bulmaniz gerekir. bol sans.<br/><br/>bu soylediklerim erkek icin de gecerli. aptal misiniz sayin yazarlar? kendinizi guvence altina almadiginiz surece kimseye yatirim yapmayin, kadin erkek farketmez. ( siddetle belirteyim bahsettigim sey iliskide ortak yapilan harcamalar degil, kadinin da erkegin de cimrisi igrenctir).<br/><br/>cok mal mulk hevesi olanlar, calisip kendileri yapsinlar. ya da ailenizden gelen bir seyiniz yoksa hayat standartinizi bu kabul edin. evet hayat adil degil. ama hayatin adil olmamasi kimseye kene seklinde yapisacaginiz anlamina gelmiyor.<br/><br/>3-4 sene evvel bir ortamda yeni tanistigim biri babamin arabasini sormustu, ( benimkini soramadi cunku kullanmiyorum) o gun yasadigim tiksinmeyi hayatimda yasamadim.<br/><br/>kendinizi ucuz/tiksinc sirtlanlar haline dondurmeyin, kadin-erkek ortak konusuyorum. 32 yasindayim daha bir gun birine kisisel bir ihtiyacimi aldirmadim. bir kadin olarak deger verildi mi buna? hayir tabi ki, bizim ulkede diger versiyon daha cok is goruyor.<br/><br/>fakat icim cok rahat, canim ne istiyorsa onu yapiyorum, kimseye gram muhtacligim yok. bu kafada bir kadinin da sizinle ikinci bulusmasi olmaz zaten. bir kadin yazar yazmisti bir defasinda ogretmenim deyince atandin mi kolejde misin diye sorup ona gore sekil degistiren erkek ornegini. <br/><br/>gercekten tiksinc, kendi gozunuzde biraz degeriniz olsun, harcamalarinizi kisin, minimumda yasayin ama kimseye tamah etmeyin. kendinize hesap verdiginizde icinizin rahat olmasi kadar degerli bir sey yok bu hayatta.
-  entry_channels: ilişkiler
-- entry_name: |
     bir yazar olmak isteseydiniz kim olurdunuz
   entry_id:  94289845
   entry_writer: aynstayninkayinbiraderi
-  entry_fav_count: 23
+  entry_fav_count: 25
   entry_content: |
     (bkz: <a class="b" href="/?q=%c5%9feyma+suba%c5%9f%c4%b1">şeyma subaşı</a>)
   entry_channels: anket,edebiyat
 - entry_name: |
-    kapıya gelen yakışıklı kargocuyu eve atmak
-  entry_id:  94303049
-  entry_writer: yakamozist
-  entry_fav_count: 21
-  entry_content: |
-    kimsenin kapısına kargocu gelmediği için imkansız durum. genelde evde olunduğu halde bulamadık deyip gidiyorlarmış.
-  entry_channels: ilişkiler
-- entry_name: |
     22 ağustos 2019 hdp eylem çağrısı
   entry_id:  94302637
   entry_writer: basaktarlasindakivasak
-  entry_fav_count: 20
+  entry_fav_count: 24
   entry_content: |
     adaletsizliğe dikkat çekmek ve sorunun gündemde kalması için birşeyler yapılması gerekiyor. barışçıl eylem çağrısı da yapılabilecek en iyi hareket gibi gözüküyor, zira; akp'nin kayyum meselesindeki esas amacı hdp'yi radikalleştirmektir.<br/><br/>edit: ülkenin vatandaşlarının vurulmasını isteyen beyinsizin biri de gelmiş başlık altına. umarım baş edemeyeceğin bir haksızlıkla karşılaşırsın ve elin kolun bağlı kudurursun.
   entry_channels: siyaset,haber
 - entry_name: |
+    kadınların sanıldığı kadar karmaşık olmamaları
+  entry_id:  94278013
+  entry_writer: ben de hayal kurmak istiyorum
+  entry_fav_count: 11
+  entry_content: |
+    tutarsız ve çelişkili davranışları "karmaşık" çatısı altında sempatikleştirmeyince anlaşılan gerçek.
+  entry_channels: 
+- entry_name: |
     bir kadında aranan ilk özellik
   entry_id:  94279878
   entry_writer: burusmus a4 kagidi
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     konuşabilmek.<br/>aynı şeylere gülebilmek, aynı şeyleri sevebilmek, aynı şeylere hüzünlenip aynı şeyleri yapmaktan zevk alabilmek. bundan daha önemli çok az şey var dünyada gençler.<br/><br/>(bkz: <a class="b" href="/?q=otuzluk+abilerden+gen%c3%a7+s%c3%b6zl%c3%bck+erkeklerine+%c3%b6%c4%9f%c3%bctler">otuzluk abilerden genç sözlük erkeklerine öğütler</a>)
   entry_channels: ilişkiler
 - entry_name: |
-    türk kadınının vajinası
-  entry_id:  94303497
-  entry_writer: yerli filozof
-  entry_fav_count: 6
+    almanya'da aç kalmak
+  entry_id:  94304714
+  entry_writer: tyler durdenin yedinci packi
+  entry_fav_count: 9
   entry_content: |
-    annesi fransız olan yazarın beyanı olsa gerek. türk kadınlarına bu ithamda bulunduğuna göre?
-  entry_channels: sağlık
+    almanya turkiye insaninin bokunu yesin. dogru<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.hurriyet.com.tr/gundem/cocuklari-usumesin-diye-sac-kurutma-makinesini-calistirdi-yan-odaya-gecti-ve-20132171" title="http://www.hurriyet.com.tr/gundem/cocuklari-usumesin-diye-sac-kurutma-makinesini-calistirdi-yan-odaya-gecti-ve-20132171">insanlik 1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.haberturk.com/son-dakika-van-da-cenazesi-cuvalda-tasinan-cocuk-sorusturmasinda-karar-1793907" title="https://www.haberturk.com/son-dakika-van-da-cenazesi-cuvalda-tasinan-cocuk-sorusturmasinda-karar-1793907">insanlik 2</a><a rel="nofollow noopener" class="url" target="_blank" href="https://www.mynet.com/40-gunluk-ayaz-bebek-cami-kirik-odada-zaturreden-oldu-110100920701" title="https://www.mynet.com/40-gunluk-ayaz-bebek-cami-kirik-odada-zaturreden-oldu-110100920701">insanlik 3</a><br/><br/>senin gercekleri carpitan dilini eger goremiyorsan da kor gozunu sikeyim.<br/>bu amina kodumun videolarina da inanmayin. isguzar gotverenler. 100 metre ilerideki kilisenin mutlaka bir asevi ve yatakhanesi vardir. o da yoksa devlet var. dunyada sosyal yardimin en fazla yapildigi ulke.<br/>gecen sene 35 milyar dolar sadece cocuk odemesi yapilmis. ve bunun 12 milyari yabancilara.
+  entry_channels: siyaset
 - entry_name: |
-    kalitesiz insanların övündükleri şeyler
-  entry_id:  94301593
-  entry_writer: edwardscissorhand
-  entry_fav_count: 6
+    yüksek lisans yapacak yazarlara tavsiyeler
+  entry_id:  94288049
+  entry_writer: basaktarlasindakivasak
+  entry_fav_count: 8
   entry_content: |
-    yaptığı iyilikler. anlatacaksan hiç iyilik yapma.<br/><br/>"insanlara, onları size nankörlük yapmaya mecbur bırakacak kadar büyük iyiliklerde bulunmayın." <br/><br/>balzac
-  entry_channels: anket,ilişkiler
+    (bkz: <a class="b" href="/?q=y%c3%bcksek+lisans+yapacaklara+tavsiyeler">yüksek lisans yapacaklara tavsiyeler</a>)<br/>(bkz: <a class="b" href="/?q=aramaya+inanm%c4%b1yorsan+bana+inan">aramaya inanmıyorsan bana inan</a>)
+  entry_channels: anket,eğitim
 - entry_name: |
-    fidan challenge
-  entry_id:  94302534
-  entry_writer: ganx
-  entry_fav_count: 6
+    evlenirken alınan saçma eşyalar
+  entry_id:  94305331
+  entry_writer: sigadam
+  entry_fav_count: 5
   entry_content: |
-    orman yangınlarının ciğerimizi yaktığı şu günlerde twitter'da denk geldiğim norm ender fikri. <br/><br/>umarız her kesime yayılır ve doğa için güzel bir yarış olur.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://online.tema.org.tr/web_14966_1/index.aspx" title="https://online.tema.org.tr/web_14966_1/index.aspx">tema</a>
+    kırlent amq. milyonlarca var evde. ama koltukta bana bir götlük yer yok.
+  entry_channels: anket
+- entry_name: |
+    türklüğünden utanan türk
+  entry_id:  94304053
+  entry_writer: never ever lucky
+  entry_fav_count: 4
+  entry_content: |
+    dünyadan haberi olmayan türktür
+  entry_channels: siyaset,ilişkiler
+- entry_name: |
+    eşya ile kurulan çarpık ilişki
+  entry_id:  94303740
+  entry_writer: no country for old men
+  entry_fav_count: 4
+  entry_content: |
+    arabamla konuşuyorum, sanırım bu çarpık bir ilişki. öyle böyle değil, ciddi konuşuyorum. akşam ayrılırken dönüp şöyle bir bakıyorum, görüşürüz adamım diyorum. tatile falan gittiğimde onu özlüyorum ve dönüşte gönlünü alıyorum. bazen çok hüzünlü geliyor bana, öylece beni beklemesi gözlerimi yaşartıyor. yolda giderken tozlarını alıyorum, böyle iyiyiz ama diyorum, dertleşiyorum onunla, sanki beni dinliyormuş gibi geliyor, hatta anlıyor gibi, bilemiyorum, hiçbir şey net değil bu varoluşta. bak şu an bile özledim, ne yapıyor acaba, napsın aslanım benim, beni bekliyor, hayatında tek ben varım, aslında benim hayatımda da tek o var.
   entry_channels: 
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -347,21 +355,13 @@ data:
     yanlışlıkla iş yeri whatsapp grubumuza bu sabahların bi anlamı olmalı diye mesaj atmıştım bi defasında. amirim grubumuz yürüşme yeri diye değil diye uyarmıştı aaskjdhsjkhjk
   entry_channels: anket,ekşi-sözlük,teknoloji
 - entry_name: |
-    eşya ile kurulan çarpık ilişki
-  entry_id:  94303740
-  entry_writer: no country for old men
-  entry_fav_count: 3
+    the matrix mortality
+  entry_id:  94307051
+  entry_writer: counterfeit83
+  entry_fav_count: 2
   entry_content: |
-    arabamla konuşuyorum, sanırım bu çarpık bir ilişki. öyle böyle değil, ciddi konuşuyorum. akşam ayrılırken dönüp şöyle bir bakıyorum, görüşürüz adamım diyorum. tatile falan gittiğimde onu özlüyorum ve dönüşte gönlünü alıyorum. bazen çok hüzünlü geliyor bana, öylece beni beklemesi gözlerimi yaşartıyor. yolda giderken tozlarını alıyorum, böyle iyiyiz ama diyorum, dertleşiyorum onunla, sanki beni dinliyormuş gibi geliyor, hatta anlıyor gibi, bilemiyorum, hiçbir şey net değil bu varoluşta. bak şu an bile özledim, ne yapıyor acaba, napsın aslanım benim, beni bekliyor, hayatında tek ben varım, aslında benim hayatımda da tek o var.
-  entry_channels: 
-- entry_name: |
-    evlenirken alınan saçma eşyalar
-  entry_id:  94304165
-  entry_writer: piti
-  entry_fav_count: 3
-  entry_content: |
-    ekmek yapma makinesi<br/>yatak örtüsü
-  entry_channels: anket
+    bir efsanenin devam filmidir. liseliler bilmez, ilk matrix çıktığında uzun süre gençlik kendine gelememiş, filmlerdeki dövüş sahnelerinin tamamı değişmiş ve ünlü yeşil ekranı neredeyse bütün teknoloji haberlerinin açılış ekranı olmuştu.
+  entry_channels: sinema
 - entry_name: |
     ekşi itiraf
   entry_id:  94268885
@@ -371,21 +371,21 @@ data:
     ineğimiz sultan 2-3 gündür hastaydı. ne yazık ki bugün öldü. <br/>çok üzgünüm...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    türklüğünden utanan türk
-  entry_id:  94304608
-  entry_writer: taze liberal
-  entry_fav_count: 1
+    şu anda çalan şarkı
+  entry_id:  94275728
+  entry_writer: baydag
+  entry_fav_count: 0
   entry_content: |
-    kınadığım türktür. fakat onu eleştirenlerin de aramaya inanmalarını tavsiye ediyorum.<br/><br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+olmaktan+utanan+t%c3%bcrk">türk olmaktan utanan türk</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+olmaktan+utanmak">türk olmaktan utanmak</a>)<br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+olmaktan+utan%c3%a7+duyulmas%c4%b1">türk olmaktan utanç duyulması</a>)<br/><br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)
-  entry_channels: siyaset,ilişkiler
+    (bkz: <a class="b" href="/?q=tattooed+man">tattooed man</a>)
+  entry_channels: anket,müzik
 - entry_name: |
-    an itibarıyla yazarların nerede olup ne yaptığı
-  entry_id:  94293110
-  entry_writer: hayvanbey
-  entry_fav_count: 1
+    türk kadınının vajinası
+  entry_id:  94306759
+  entry_writer: bademmsekeri
+  entry_fav_count: 0
   entry_content: |
-    her zaman yaptığım şeyi; balkondan uzaklara dalıp içiyorum.
-  entry_channels: anket
+    vulva: dişi bireyin cinsel organının dışarıdan görünen kısmı olup<br/>vajina: rahime giden yola denir<br/>burada her birey anatomi görmedi normaldir bu farkı bilmemek, önemli olan öğrenmek
+  entry_channels: sağlık
 - entry_name: |
     tüm yazarlar birer çaylak sahipleniyor kampanyası
   entry_id:  94305613
@@ -395,11 +395,11 @@ data:
     tuvalet terbiyesi olan bir tanesini ben de sahiplenebilirim.<br/><br/>geceleri kıvrılır yanımda uyur.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  94304925
-  entry_writer: xreamonn
+    #itüdeyurtzamlarıgeriçekilsin
+  entry_id:  94306989
+  entry_writer: plaza communisti
   entry_fav_count: 0
   entry_content: |
-    kişiye özel beste yapıyorum. konsept: düğün, sevgililer günü, doğum günü, barışma şarkısı vs...<br/>temayı seçiyosunuz 1 haftada besteleyip gönderiyorum. bir yeşil uzağınızdayım.
-  entry_channels: ekşi-sözlük
+    enflasyon %20 çıkmış %15 zam niye anormal ben anlamadım. <br/><br/>öğrenci düşmanı falan değilim de, ülkenin ekonomisi bu. bu rakamlara göre %15 normal.<br/><br/>çünkü bu yurtlar kyk yurdu değil, vadi yurdu kyk yurt standartlarına en yakın olan ona rağmen yine kyk yurtlarından iyi olan bir yurt. listedeki diğer yurtlar zaten özel öğrenci yurtlarından bariz iyi olan yurtlar. gölet yurdu başlı başına yaşam kompleksi. o yüzden kyk yurtlarıyla üniversitenin kendi özel yurtlarını karşılaştırmamak lazım. <br/><br/>mümkünse tabi geri çekilsin ama enflasyon en az %20 iken %15 zam çok da anormal değil.
+  entry_channels: 
 ---
