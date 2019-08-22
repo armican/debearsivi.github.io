@@ -14,7 +14,7 @@ data:
     fakirlerde görülen çocuk yapma sevdası
   entry_id:  94273844
   entry_writer: cathars
-  entry_fav_count: 764
+  entry_fav_count: 768
   entry_content: |
     yıllardır o kadar ekonomik kriz geçirdik, bir tanesinin halen içinden geçiyoruz ama bu kafalar hiç değişmiyor. daha şimdi bir entry okudum ve zavallı çocuğa acıdım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.vgy.me/JZCp3D.jpg">https://i.vgy.me/jzcp3d.jpg</a><br/><br/>yahu arkadaşım madem paran yok ne diye evlenmeye kalkıyorsun? hadi bir hata ettin evlendin, büyük bir yükümlülüğün altına girdin, bir de ne diye üzerine çocuk yapıyorsun? nerede yaşadığınızın biraz farkına varın artık. bu orta doğu ülkesinde bir sabah uyandığında %50 fakirleşmeyeceğinin garantisi yok. %50 zenginleşmeyeceğinin garantisi var ama. <br/><br/>bu ülkede kenarda kendini garantiye alacak kadar parası, yatırımı, mülkü olmayan birinin evlenmesi, yuva kurması, çocuk yapması artık akıl alır bir iş değil. dediğim gibi bir sabah kalktığında cebindeki para yarı yarıya azalacak, masrafların ikiye katlanacak. üzerine belki de işsiz kalacaksın. bunun etkisini mesela 5 yıl hissetmeyecek kadar birikimin var mı? yok.<br/><br/>seni ve eşini zerre umursamam da o çocuğa yazık değil mi? muhtemelen güzel bir gelecek de inşa edemeyeceksin. şimdi o çocuğu dünyaya getirerek iyilik mi yapmış oldun kötülük mü? "allah rızkını verir" salaklığından yıllarca hepimiz çok çektik. hatta bir kısım insan ömrünün yarısına geldiği halde fakir bir ailede büyüdüğü için halen çekiyor. yazıktır, artık bir orta doğu bataklığında, ekonomisi çokmüş bir ülkede yaşadığımızın farkına varalım, adımlarımızı ona göre atalım.
   entry_channels: anket,ilişkiler
@@ -22,7 +22,7 @@ data:
     van'da polise vahşice demir tabure atan canlı
   entry_id:  94296046
   entry_writer: parliament night blu ray
-  entry_fav_count: 539
+  entry_fav_count: 549
   entry_content: |
     üst edit: "bunlara anlatamazsın boşuna uğraşma" minvalli çok mesaj geldi. hayır, haksızsınız. "polis şiddetini savunuyordum ama senin entry'den sonra fikrim değişti" diye mesajlar çok gelmeye başladı. tam olarak aynı noktaya gelemesek de özünde paralel bir fikre sahip olduğumuzu anladığımız birkaç kişiyle de mesajlaştım. üstelik bunlardan bazıları lafa küfrederek girmişti. o yüzden diyalog ortamı yaratmadan "bunlar anlamaz" dememek lazım. şu ana kadar fikrini değiştirmeyle hiç ilgilenmeyeceğim tek bir kişi çıktı onlarca mesaj arasında. adam gibi yazıştığınızda değerli fikirler ortaya çıkabiliyor kısacası.<br/>.....................................................................<br/><br/>videoyu izledim. polis hala suçlu. polisin neden suçlu olduğunu polisten dayak yemeden anlayamayacaksınız. ben polis dayağı yemediğim halde polisin suçlu olduğunu biliyorum. siz ancak dayak yiye yiye öğreneceksiniz.<br/><br/>edit: peki anlatalım. bir kere daha anlatalım. öncelikle videoda dayak yiyen eleman hiç umrumda değil. hatta belki dayağı hak ediyordur da. sen dövsen belki alkışlarım da. ama polis dövemez arkadaş. polise ya da devletin başka bir kolluk gücüne adam dövme yetkisi de veremezsin, dövdüğünde alkışlayamazsın da. apo dahil, feto dahil, en azılı tecavüz suçlusu dahil, seri katiller dahil kim olursa olsun istisna gözetmeksizin devlete dayak ve işkence hakkı tanıma. devlet bu ne yapacağı belli olmaz çünkü. bak yarın sen de aynı dayağı yersin. hiç ben vatanıma milletime düşkünüm saygılıyım deme. devletin kimi vatan haini göreceği konjonktüre göre değişir. sırf siyasi bir meseleden bile değil sudan bir sebepten polisi kızdırırsın dayak yersin. o zaman anlarsın. daha ileri giderler. çocuğunun önünde yersin o dayağı. namussuzun birine denk gelirsin, kolluğundan aldığı güçle karına kızına yavşar. o zaman anlarsın devlet tapıcılığının yanlış bir şey olduğunu. aklı başında hiç kimse hangisi olursa olsun devlet gibi değişken bir organizmaya insan öldürme ve işkence etme hakkı vermez. hiç kimse.<br/><br/>öte yandan olayın ne olduğu da meçhul. varsayalım dayak yiyen adam pkk sempatizanı. şimdi sen bu polisler yüzünden artık hiçbir şekilde bu adamı ve sülalesindekileri toplumunun içine geri çekemezsin. gitti. o şans geçti. devletin insanları terörden ve terör sempatizanlığından vazgeçirmek için atacağı bütün demokratik çabaları iki tekmeyle bitirdin. belki de bu polise kızıp 3-5 kişi daha dağa çıkacak ve o çıkanlar da bir gün başka bir polisi ya da askeri şehit edecek. gördün mü? terör karşıtlığı gerekçesiyle alkışladığın polisler başka polislerin dolaylı yoldan ölümüne sebep olacak bir şekilde.<br/><br/>hala anlamadıysan sen bilirsin. dediğim gibi eninde sonunda döve döve öğretirler sana.<br/><br/>edit 2: mesela sözlükte cicatrix4 nickli bir puşt var. bu entry'den dolayı bana küfürlü mesaj atmış. bunu ben elime alsam yalvartana kadar döverim. hiç de acımam. ama polisler tutuklasa ve 'istersen dövelim" deseler sakın ha derim. anladık mı aradaki farkı?<br/><br/>edit 3: yazmayı bile gereksiz buluyorum ama illa ki tek taraflı baktığımı düşünecek olanlar vardır: tabure mi neyse onu atan kişi de suçlu ve mutlaka hapisle cezalandırılmalı.
   entry_channels: haber
@@ -30,7 +30,7 @@ data:
     marketin ortasına kakasını yapan rahat dayı
   entry_id:  94291568
   entry_writer: humaniterinsan
-  entry_fav_count: 462
+  entry_fav_count: 464
   entry_content: |
     daha bir ay önce sakarya'daydım. üstümüze de sıçabilirdi. şans eseri yaşıyoruz resmen.
   entry_channels: haber
@@ -38,7 +38,7 @@ data:
     fitness hocalarının sürekli kadınlarla ilgilenmesi
   entry_id:  94297578
   entry_writer: acdc cdsi
-  entry_fav_count: 434
+  entry_fav_count: 454
   entry_content: |
     aramaya inanadım ama bulamadım. eğer yoksa gerçekten böyle bir başlık olmaması şaşırttı.<br/><br/>var böyle bir şey. 5 senede yaklaşık 5-6 salon değiştirdim. en kurumsalından mahalle arası salonuna kadar hepsinde kadınlarla fazla ilgilenmeler, yanlış yapınca anında yanına zıplamalar, sürekli muhabbete girmeye çalışmalar filan. salonda hoca bulamadığımız zaman kadınların olduğu yere gidiyoruz, orada kesin 2-3 tane oluyor. 4 senedir tek, 1 senedir kız arkadaşımla spor yapıyorum. 5 sene boyunca bir hoca yanıma gelip bir şey demedi. kız arkadaşım spora başladığı 2. gün koşu bandında hoca gelmiş yanına bir şeyler soruyor. sinirim bozuldu tersledim bir daha yaklaşmadılar.<br/><br/>edit1: gelen mesajlar üzere anladım ki 15 senelik spor hocamız benata nickli yazar trollmüş. burada ona yazılmış bir cevap vardı ama sildim.<br/><br/>edit2: yastik yorgan nickli hıyar, spor salonu göt gösterme yeri mi lan? oraya gelen herkes açık saçık giyinmek zorunda mı? açık saçık giyinse bile bu hocalara yavşama hakkı mı veriyor? başkalarının sevgilileri hakkında konuşurken iki kere düşün, terbiyeni takın.<br/><br/>edit3: kadın yazarlarımız da tespiti doğruladı. ayrıca sadece güzel kadınlarla ilgilendiklerini söyledi. bak bak bir de seçiyorlar.
   entry_channels: spor,ilişkiler
@@ -46,18 +46,10 @@ data:
     lahmacun ayranla mı içilir kolayla mı
   entry_id:  94299143
   entry_writer: usturakemal81
-  entry_fav_count: 354
+  entry_fav_count: 373
   entry_content: |
     sizin turkceye herhalde bedenci geliyordu.<br/><br/>lahmacun yenir...
   entry_channels: yeme-içme
-- entry_name: |
-    idam yerine uzaya fırlatma cezası
-  entry_id:  94283467
-  entry_writer: aklazarar
-  entry_fav_count: 352
-  entry_content: |
-    5 liralık ip yerine 50 milyon dolar harcamak isteyen kişi beyanı.
-  entry_channels: anket
 - entry_name: |
     kırıkkale'de boğazı kesilerek öldürülen kadın
   entry_id:  94278909
@@ -70,7 +62,7 @@ data:
     yeni mezun mühendisin 2 bin 500 tl'yi beğenmemesi
   entry_id:  94283819
   entry_writer: cbellow
-  entry_fav_count: 301
+  entry_fav_count: 302
   entry_content: |
     adam ilan açmış. <br/><br/>-ingilizceyi çok iyi bilen<br/>-askerliğini tamamlamış<br/>-seyahat engeli olmayan(oradan oraya yollucam seni diyor)<br/>-solidworks autocad'ten birini ve en az bir analiz programı bilen <br/>- tercihen(almanca, rusça ve arapça) dillerini bilen<br/>-esnek çalışma şartlarına uygun( eşek gibi çalıştırıcam mesai ücreti vermicem diyor. <br/><br/>ve bu adama 2500 tl vereceksin. <br/><br/>diğer taraftar hiçbir eğitimi olmayan asgari ücretli 2000 tl alacak ve siz bunu savunuyorsanız katıksız .. çocuğusunuz net.
   entry_channels: anket,ekonomi
@@ -78,7 +70,7 @@ data:
     seviştiği kadını arkadaşlarına anlatan erkek
   entry_id:  94279294
   entry_writer: dedi kuzgun
-  entry_fav_count: 253
+  entry_fav_count: 255
   entry_content: |
     niye ben hep dinleyen tarafım lan?
   entry_channels: ilişkiler
@@ -86,7 +78,7 @@ data:
     ölmek istiyorum
   entry_id:  94272284
   entry_writer: s2zei
-  entry_fav_count: 228
+  entry_fav_count: 235
   entry_content: |
     eskiden bir kişi ölmek ister diğer entrylerde vazgeçirilmeye çalışılırdı şimdi herkes ölmek istiyor.
   entry_channels: sağlık
@@ -94,7 +86,7 @@ data:
     bir üstteki yazara diss atmak
   entry_id:  94293060
   entry_writer: germe beni germe
-  entry_fav_count: 228
+  entry_fav_count: 234
   entry_content: |
     yazmış nick'ine üçgenin iç açılarını<br/>sorsan bilmez geometrinin vatanını<br/>sözlüğü forum zannetmiş olmalı ki<br/>bir tane daha arttırmış çöp başlıkları
   entry_channels: müzik
@@ -102,31 +94,31 @@ data:
     ekrem imamoğlu'nun diyarbakır'a gitmesi
   entry_id:  94300353
   entry_writer: samarraya kacan tuccar
-  entry_fav_count: 200
+  entry_fav_count: 224
   entry_content: |
     adam istanbul dışında her şeyle ilgileniyor helal olsun<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber
 - entry_name: |
-    zor günlerden geçenlerin bildiği en iyi şey
-  entry_id:  94266447
-  entry_writer: yinemibenya
-  entry_fav_count: 182
-  entry_content: |
-    bayram öncesi kartımda sadece 9.75 lira vardı. a101 de çocuk bezi 20 tl ve benim param yok. utana sıkıla bir arkadaşımdan hesabıma 10.25 lira atmasını istedim. arkadaşım sağolsun 500 tl gönderdi. bayramı geçirdim ailemle elektrik kapanacaktı onu ödeyebildim. bu zor günde gerçek dostun önemini anladım. çok sağol güzel kardeşim.
-  entry_channels: anket
-- entry_name: |
     tc kimlik numarasını 3+2+2+2+2 şeklinde ezberlemek
   entry_id:  94288272
   entry_writer: currency
-  entry_fav_count: 180
+  entry_fav_count: 185
   entry_content: |
     3-3-2-3 şeklinde söylüyorum herhalde bu şekilde ezberleyen kimse yok. varsa gelin sarılalım.
   entry_channels: anket,programlama,eğitim
 - entry_name: |
+    zor günlerden geçenlerin bildiği en iyi şey
+  entry_id:  94266447
+  entry_writer: yinemibenya
+  entry_fav_count: 184
+  entry_content: |
+    bayram öncesi kartımda sadece 9.75 lira vardı. a101 de çocuk bezi 20 tl ve benim param yok. utana sıkıla bir arkadaşımdan hesabıma 10.25 lira atmasını istedim. arkadaşım sağolsun 500 tl gönderdi. bayramı geçirdim ailemle elektrik kapanacaktı onu ödeyebildim. bu zor günde gerçek dostun önemini anladım. çok sağol güzel kardeşim.
+  entry_channels: anket
+- entry_name: |
     mühendislik kontenjanlarının azaltılması elzemdir
   entry_id:  94295813
   entry_writer: seovi
-  entry_fav_count: 120
+  entry_fav_count: 128
   entry_content: |
     tmmob’nin ne işe yaradığını neye sözcü olduğunumerak ediyorum bu mesele için sesini duyuramıyorsa. hem halihazırdaki mühendislere, hem bir umutla bölümlere giren çocuklara yazık ediyorsunuz. ya da “mus” gibi bir sınav koyun, %20 kontenjan açın. aldığı eğitimle %20 ye girebiliyorsa girsin yoksa teknisyen olarak devam etsin. <br/><br/>bu işin sonu kötü. bu ülkede mühendislik hiç bir zaman altın bir çağ yaşamadı kabul ama giderek daha kötüye gitmesi bir ülkenin önlem alması gereken bir şey değildir de nedir? <br/><br/>ya okulları denetleyin, eşek bağlasan mezun olur modundan çıksınlar ya da kontenjanları kapatın. <br/><br/>bir başka öneri, mühendislik fakülteleri sadece 2 yıllıklardan alım yapsın. mühendis olmak isteyen önce ilgili mühendisliğin ön lisansını bitirsin. alan sınavını verenler devam etsin. <br/><br/>bu işe önem veren, olmak isteyen, becerebilecek olan meyletsin. <br/><br/>şu an endüstrimize verilen zararın farkında değil kimse. eski hocalar hala hayatta ve devam ediyorlar. 10 15 yıl sonra mühendislik fakültelerine yetkin türk hoca bulamayacağız. <br/><br/>çok yazık oluyor.
   entry_channels: anket,teknoloji,eğitim
@@ -134,7 +126,7 @@ data:
     behzat ç.
   entry_id:  94266955
   entry_writer: epsilon08
-  entry_fav_count: 119
+  entry_fav_count: 122
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>aziz : benim artık tek derdim kızım ve torunum, onlar benim herşeyim <br/>torun: dedeee <br/>aziz:lan siktir git görmüyormusun konuşuyoruz burda<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: tv,sinema,spoiler
@@ -142,7 +134,7 @@ data:
     can yaman'ın italya'da kadın seline uğraması
   entry_id:  94288266
   entry_writer: zararyokziyanvar
-  entry_fav_count: 114
+  entry_fav_count: 115
   entry_content: |
     (bkz: <a class="b" href="/?q=pr">pr</a>)(bkz: <a class="b" href="/?q=cast+ajans">cast ajans</a>)
   entry_channels: tv,magazin
@@ -150,7 +142,7 @@ data:
     sıçtık kelimesinin mesleklerdeki terminolojisi
   entry_id:  94276774
   entry_writer: stugs
-  entry_fav_count: 87
+  entry_fav_count: 89
   entry_content: |
     -1 kişi eksik.<br/><br/>(bkz: <a class="b" href="/?q=gardiyan.">gardiyan.</a>)
   entry_channels: anket
@@ -158,7 +150,7 @@ data:
     evliliklerin kısa sürme sebebi
   entry_id:  94292237
   entry_writer: mukemmelligi hizlandiramayan adam
-  entry_fav_count: 67
+  entry_fav_count: 75
   entry_content: |
     bir gazeteci 65 yıl evli kalan bir çifte sorar;<br/><br/>- nasıl bu kadar evli kalabildiniz?<br/><br/>kadın cevaplar;<br/><br/>- biz bir şeyler bozulduğu zaman tamir ettiğimiz bir zamanda doğduk, attığımız değil.<br/><br/>bozulan şeylere “nasılsa yenisini alırız” gözü ile bakıyoruz. kadın ve erkek birbirlerinin gözünde artık birer meta. her şeyin bir yenisi var. yeni bir kadın, yeni bir erkek. hiçbir duygunun sürdürülebilir olmadığını biten her ilişkinin ardından anlıyoruz. gönlümüz olmuş yol geçen hanı. hem evlilikler, hem ilişkiler elbette kısa sürer. keşke biraz babalarımızı, abilerimizi, annelerimizi örnek alabilsek.
   entry_channels: anket,ilişkiler
@@ -166,7 +158,7 @@ data:
     breaking bad'den çıkarılacak ders
   entry_id:  94288306
   entry_writer: avegro
-  entry_fav_count: 59
+  entry_fav_count: 66
   entry_content: |
     kaybedecek bir şeyin olmadığında, hayat seni korkusuz biri yapar.
   entry_channels: anket,tv,spoiler
@@ -174,15 +166,15 @@ data:
     minik recep safa yardım bekliyor
   entry_id:  94300306
   entry_writer: yukselen gunes evi
-  entry_fav_count: 54
+  entry_fav_count: 58
   entry_content: |
-    arkadaşlar öncelikle şunu bildireyim; maddi anlamda destek olamasanız bile burada başlığı güncel tutarak, sosyal medyada paylaşarak da büyük destek olursunuz. bir şekilde damlaya damlaya göl olur ve minik recep safa'yı el birliğiyle kurtarmış oluruz.<br/><br/>recep safa örs, 15 yıl boyunca çocukları olmayan, sonunda tüp bebek tedavisi ile çocuk sahibi olabilen bir çiftin 5 yaşındaki çocuğu. recep safa henüz 3 yaşına bile gelmeden böbrek üstü bezi kanserine yakalanıyor. 1.5 yıl boyunca tedavi görüyor ve hastalığı atlattım derken şimdi hastalığı tekrarlıyor.<br/><br/>recep safa'nın tedavisi boyunca kullanması gereken ve 15 kutu ihtiyacı olan bir ilaç var. ilacın bir kutusu maalesef 10 bin euro. ancak yaşamını sürdürebilmesi için tedaviye, tedavisinin sürebilmesi için de bu ilaca ihtiyacı var recep safa'nın.<br/><br/>valilik izniyle recep safa adına açılan bir yardım hesabı da mevcut.<br/><br/>hesap sahibi: recep safa örs<br/>hesap no: ziraat bankası kayseri şubesi 89998552-5001<br/>iban no: tr71 0001 0001 5989 9985 5250 01<br/><br/>yardımın küçüğü büyüğü olmaz. hesaplarınızda kalan 3-5 liralık küsüratlar ya da bugünlük içmeyeceğiniz bir paket sigaranın parası bile bir çocuğun yaşamasını sağlayabilir.<br/><br/>detaylı bilgi isteyenler için konuyla ilgili bir haber de mevcut: <a rel="nofollow noopener" class="url" target="_blank" href="https://kayserihaber.com/recep-bebek-yasama-tutunmak-icin-yardim-eli-bekliyor/" title="https://kayserihaber.com/recep-bebek-yasama-tutunmak-icin-yardim-eli-bekliyor/">haber linki</a><br/><br/>edit1: baba erdem örs'ün telefon numarası 0555 228 0115
+    edit2: <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/vQBp77r-XbQ" title="https://youtu.be/vQBp77r-XbQ">iha tarafından aile ile yapılan röportaj</a> . <br/><br/>arkadaşlar öncelikle şunu bildireyim; maddi anlamda destek olamasanız bile burada başlığı güncel tutarak, sosyal medyada paylaşarak da büyük destek olursunuz. bir şekilde damlaya damlaya göl olur ve minik recep safa'yı el birliğiyle kurtarmış oluruz.<br/><br/>recep safa örs, 15 yıl boyunca çocukları olmayan, sonunda tüp bebek tedavisi ile çocuk sahibi olabilen bir çiftin 5 yaşındaki çocuğu. recep safa henüz 3 yaşına bile gelmeden böbrek üstü bezi kanserine yakalanıyor. 1.5 yıl boyunca tedavi görüyor ve hastalığı atlattım derken şimdi hastalığı tekrarlıyor.<br/><br/>recep safa'nın tedavisi boyunca kullanması gereken ve 15 kutu ihtiyacı olan bir ilaç var. ilacın bir kutusu maalesef 10 bin euro. ancak yaşamını sürdürebilmesi için tedaviye, tedavisinin sürebilmesi için de bu ilaca ihtiyacı var recep safa'nın.<br/><br/>valilik izniyle recep safa adına açılan bir yardım hesabı da mevcut.<br/><br/>hesap sahibi: recep safa örs<br/>hesap no: ziraat bankası kayseri şubesi 89998552-5001<br/>iban no: tr71 0001 0001 5989 9985 5250 01<br/><br/>yardımın küçüğü büyüğü olmaz. hesaplarınızda kalan 3-5 liralık küsüratlar ya da bugünlük içmeyeceğiniz bir paket sigaranın parası bile bir çocuğun yaşamasını sağlayabilir.<br/><br/>detaylı bilgi isteyenler için konuyla ilgili bir haber de mevcut: <a rel="nofollow noopener" class="url" target="_blank" href="https://kayserihaber.com/recep-bebek-yasama-tutunmak-icin-yardim-eli-bekliyor/" title="https://kayserihaber.com/recep-bebek-yasama-tutunmak-icin-yardim-eli-bekliyor/">haber linki</a><br/><br/>edit1: baba erdem örs'ün telefon numarası 0555 228 0115
   entry_channels: sağlık,haber
 - entry_name: |
     babaların telaffuz hataları
   entry_id:  94266073
   entry_writer: alyssum
-  entry_fav_count: 52
+  entry_fav_count: 54
   entry_content: |
     babamda telaffuz hatası yok, komple şive hatası var. n.ş.ada normal bir türkçeyle konuşan babam, son senelerde iş arkadaşlarının gazına gelip karadeniz şivesi yapmaya başladı. şu dizilerdeki çakma karadenizliler gibi geziyor ortada “yapacağum, geleceğum” falan diye. çıldırmamak elde değil.
   entry_channels: anket,edebiyat
@@ -190,9 +182,17 @@ data:
     22 ağustos 2019 aek trabzonspor maçı
   entry_id:  94276073
   entry_writer: ogni
-  entry_fav_count: 49
+  entry_fav_count: 50
   entry_content: |
     temennilerini anlıyoruz, onda sıkıntı yok da, senin gibi edepsizlerden (bak gayet terbiyeliyim) destek aradığımızı nereden çıkartıyorsun, kendini nimetten sayan avel fasulye.<br/><br/>tanım: dengeli bir oyunla trabzonun galip gelme ihtimalini yüksek gördüğüm karşılaşma.
+  entry_channels: spor
+- entry_name: |
+    aek trabzonspor maçına 250 bin tl basan hamsi
+  entry_id:  94299711
+  entry_writer: gentoure
+  entry_fav_count: 49
+  entry_content: |
+    veraset intikal vergisine tabii olmamak için 100 kupon olarak oynanmış. yanlışlıkla tek kalemde oynanmış olsaydı devlet 367 bin tl'nin %20'sine direk el koyacaktı. yani 250 bin tl yatıran adam sadece 43,6 bin tl kazanır iken devlet 73,bin tl vergi alıyor. <br/><br/>halk ağır vergiler altında eziliyordu diye boşuna demiyorlar.
   entry_channels: spor
 - entry_name: |
     gelmiş geçmiş en iyi reklam sloganı
@@ -206,7 +206,7 @@ data:
     ben fatma turgut sorularınızı bekliyorum
   entry_id:  94290827
   entry_writer: northroma
-  entry_fav_count: 46
+  entry_fav_count: 47
   entry_content: |
     arizona kertenkelesi ile görüşüyor musunuz?
   entry_channels: ekşi-sözlük,müzik
@@ -219,37 +219,53 @@ data:
     4-5 nöbeti kimdeydi, bura niye boş beyler ??
   entry_channels: spor
 - entry_name: |
-    van'da polislerin vahşice dövdüğü vatandaş
-  entry_id:  94273446
-  entry_writer: theformulaxx
-  entry_fav_count: 37
+    izmir-istanbul otoyolu
+  entry_id:  94285499
+  entry_writer: geoteknikmuhendisi
+  entry_fav_count: 33
   entry_content: |
-    bu videonun kürt sorunuyla alakasının olup olmaması değil ki önemli olan. 3 5 tane polisin bir tane insanı kafası patlayana kadar kaskla vurmadan gözaltına alabilecek kabiliyeti mi yok yoksa bu psikolojik sorunlu polisleri bulmak bizim ülkemizde bir gelenek mi? <br/><br/>2 saniyeliğine van'ı unutun. yarın ekrem başkana kayyum atadıklarında ben eylem yapmaya çıkacak mıyım? evet. kafamda kask parçalayacak polis var mı bu şehirde? evet. hatta bu videodan rahatsız olmayan binlerce insan da var gördüğüm kadarıyla..<br/><br/>nefretinizde, hayvanlık iç güdülerinizde, empati yoksunluğunuzda boğulun ne diyeyim ki? yok çocuk kim bilir ne yapmış.. ulan biz gezi zamanı ne yaptık? ali ismail korkmaz ne yaptı da döve döve öldürdüler? bunun savunması mı olur lan? <br/><br/>hadi sırf kürtlük var olayın içinde diye savunanlar zaten ırkçı da her halükarda bu olayı savunabilecek kapasitede olanların nefreti yüzünden bu ülke çok kötü yerlere gidiyor.. ve gitmeye de devam edecek gibi duruyor..
-  entry_channels: siyaset,haber
+    taahhütü açıldıktan hemen sonra karsiladigi varsayımı ile mutlu olanlara tek bir soru sormak yeterli. devlet neden kendi kaynakları ile yapıp bu isletme parasını hazine geliri olarak almak yerine müteahhitlere vermeyi tercih ediyor? bir de bonus soru.. devlet taahhüdün eksik kalan kısmını tamamlarken üzerindeki miktarından neden pay almıyor? yani kısacası devlet neden zarara ortak ama kara ortak değil?
+  entry_channels: siyaset,haber,seyahat
 - entry_name: |
-    aek trabzonspor maçına 250 bin tl basan hamsi
-  entry_id:  94299711
-  entry_writer: gentoure
-  entry_fav_count: 37
-  entry_content: |
-    veraset intikal vergisine tabii olmamak için 100 kupon olarak oynanmış. yanlışlıkla tek kalemde oynanmış olsaydı devlet 367 bin tl'nin %20'sine direk el koyacaktı. yani 250 bin tl yatıran adam sadece 43,6 bin tl kazanır iken devlet 73,4 tl vergi alıyor. <br/><br/>halk ağır vergiler altında eziliyordu diye boşuna demiyorlar.
-  entry_channels: spor
-- entry_name: |
-    mansur yavaş vs ekrem imamoğlu
-  entry_id:  94294110
-  entry_writer: mezarcizeybek
+    istanbul veya ankara'ya yakın en yaşanılabilir il
+  entry_id:  94302006
+  entry_writer: colorado kid
   entry_fav_count: 26
   entry_content: |
-    geçmiş entrylerimi bakıp koyu chp'li olduğumu anlayabilirsiniz. <br/><br/>net mansur yavaş'tır.<br/><br/>şahsen imamoğlu'nun tatil mevzuları bana çok battı.<br/><br/>gitmeyeceksin abi.lamı cimi yok.etraf yam yam sürüsü.chp olarak elimize bir fırsat geçmiş.çok çalışıp yıllarca chp gelirse kuyruk olur çöp olur algısını yıkacaksın ki ülkeyi yönetmenin önü açılsın.<br/><br/>akp'li tayfa çoğunlukla asgari ücretle belki daha da azına çalışan tayfa zaten.hayatlarında tatil nedir bilmezler.seni anlamazlar. biz zaten oy veriyoruz, hedef kitlen bunlar.ayy yazık adam da çok yoruldu demezler senin için.havuz medyası da allar pullar önlerine pek güzel servis eder. aha bak gördün mü chp geldi hemen yatış başladılar alır yürür.e bu algılarla mücadele etmeye gerek var mı allah aşkına? seneye gidiver ne kaçıyor? bu konuda yaptığını çok yanlış buluyorum. <br/><br/>uzun vade de hedef türkiye ise bu tarz hatalar asla ama asla yapılmamalı.karınca gibi arı gibi çalışan bir chp olmalı bu süreçte.
-  entry_channels: siyaset,anket
+    <a class="b" href="/?q=eski%c5%9fehir">eskişehir</a>'dir.
+  entry_channels: anket,seyahat
 - entry_name: |
     30 yaşında işi evi arabası olan bekar kadın
   entry_id:  94289248
   entry_writer: putinpleasesitdown
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     kadinin parasini mal varligini ne yapacaksiniz? size ne bundan? <br/><br/>ek olarak ailemden aldigim ya da emegimle edindigim bir mal varligi, ki bu ekonomik guvence demektir, yarina ne olacagimiz belli olmadigi bir ulkede 3 gun sonra siktirip gitme ihtimali olan bir adama mi hibe edicem? <br/><br/>ulkede ne egitimin garantisi kaldi, ne isin, ne gecinilebilecek paranin. ki kadin istihdam acisindan cok daha problemli durumda. is saatleri, nerede calisildigi kimle calisildigi kadin icin onemli kriterler. bu kadar stabilize olmayan bir ulkede bir kadindan nemalanmaniz icin gercekten aptal bir kadin bulmaniz gerekir. bol sans.<br/><br/>bu soylediklerim erkek icin de gecerli. aptal misiniz sayin yazarlar? kendinizi guvence altina almadiginiz surece kimseye yatirim yapmayin, kadin erkek farketmez. ( siddetle belirteyim bahsettigim sey iliskide ortak yapilan harcamalar degil, kadinin da erkegin de cimrisi igrenctir).<br/><br/>cok mal mulk hevesi olanlar, calisip kendileri yapsinlar. ya da ailenizden gelen bir seyiniz yoksa hayat standartinizi bu kabul edin. evet hayat adil degil. ama hayatin adil olmamasi kimseye kene seklinde yapisacaginiz anlamina gelmiyor.<br/><br/>3-4 sene evvel bir ortamda yeni tanistigim biri babamin arabasini sormustu, ( benimkini soramadi cunku kullanmiyorum) o gun yasadigim tiksinmeyi hayatimda yasamadim.<br/><br/>kendinizi ucuz/tiksinc sirtlanlar haline dondurmeyin, kadin-erkek ortak konusuyorum. 32 yasindayim daha bir gun birine kisisel bir ihtiyacimi aldirmadim. bir kadin olarak deger verildi mi buna? hayir tabi ki, bizim ulkede diger versiyon daha cok is goruyor.<br/><br/>fakat icim cok rahat, canim ne istiyorsa onu yapiyorum, kimseye gram muhtacligim yok. bu kafada bir kadinin da sizinle ikinci bulusmasi olmaz zaten. bir kadin yazar yazmisti bir defasinda ogretmenim deyince atandin mi kolejde misin diye sorup ona gore sekil degistiren erkek ornegini. <br/><br/>gercekten tiksinc, kendi gozunuzde biraz degeriniz olsun, harcamalarinizi kisin, minimumda yasayin ama kimseye tamah etmeyin. kendinize hesap verdiginizde icinizin rahat olmasi kadar degerli bir sey yok bu hayatta.
   entry_channels: ilişkiler
+- entry_name: |
+    gelmiş geçmiş en karizmatik oyun karakteri
+  entry_id:  94298357
+  entry_writer: hitman470098
+  entry_fav_count: 24
+  entry_content: |
+    max payne varken. diğerleri avcunu yalar :)
+  entry_channels: anket,oyun
+- entry_name: |
+    norm ender'in başlattığı fidan challenge
+  entry_id:  94303339
+  entry_writer: johannes gotunberk
+  entry_fav_count: 23
+  entry_content: |
+    <a class="b" href="/?q=kelto%c5%9f+do%c4%9faya+ko%c5%9f">keltoş doğaya koş</a> diyerek ben feroya meydan okuması gereken challenge.
+  entry_channels: 
+- entry_name: |
+    ebulfez elçibey
+  entry_id:  94277428
+  entry_writer: kupaasi
+  entry_fav_count: 23
+  entry_content: |
+    "sen türk olduğunu unutsan da, düşmanın asla unutmaz." <br/>- ebulfez elçibey <br/>türk
+  entry_channels: siyaset,tarih
 - entry_name: |
     bir yazar olmak isteseydiniz kim olurdunuz
   entry_id:  94289845
@@ -259,82 +275,18 @@ data:
     (bkz: <a class="b" href="/?q=%c5%9feyma+suba%c5%9f%c4%b1">şeyma subaşı</a>)
   entry_channels: anket,edebiyat
 - entry_name: |
-    istanbul veya ankara'ya yakın en yaşanılabilir il
-  entry_id:  94302006
-  entry_writer: colorado kid
-  entry_fav_count: 20
-  entry_content: |
-    <a class="b" href="/?q=eski%c5%9fehir">eskişehir</a>'dir.
-  entry_channels: anket,seyahat
-- entry_name: |
-    gelmiş geçmiş en karizmatik oyun karakteri
-  entry_id:  94298357
-  entry_writer: hitman470098
-  entry_fav_count: 19
-  entry_content: |
-    max payne varken. diğerleri avcunu yalar :)
-  entry_channels: anket,oyun
-- entry_name: |
-    ebulfez elçibey
-  entry_id:  94277428
-  entry_writer: kupaasi
-  entry_fav_count: 19
-  entry_content: |
-    "sen türk olduğunu unutsan da, düşmanın asla unutmaz." <br/>- ebulfez elçibey <br/>türk
-  entry_channels: siyaset,tarih
-- entry_name: |
-    ekrem imamoğlu
-  entry_id:  94266084
-  entry_writer: panic13
-  entry_fav_count: 17
-  entry_content: |
-    çok ilginç bir denge kurdu siyasette.<br/><br/>yıllardır "tayyibe" oy veren muhafazakar kürt seçmen dahil, tüm kürtlerle akp'nin gönül bağı koptu. daha öncelerini bilmem ama 2009 ve 2014 seçimlerini tamamen kürtlerin akp'ye oy vermesi ile kazanmıştı akp.<br/><br/>aslında 2018'de de büyük şok yaşanabilirmiş. benim de ilk başlarda ucundan kandığım ama muhalif kanadın genelde kendini eğlediği ince'nin o kampanyası olmasa belki işler 2018 de bile çok farklı olabilirdi. seçim 2. tura kalsa çarşı pazar karışabilirdi. çünkü adam gibi kampanyanın yürütüldüğü ilk 2 hafta anketlerde seçimin 2. tura kalacağı kesin gibiydi. imamoğlu'nun 2019'da yaptığına benzer bir etkiyi ince sanki ilk başlarda yapmış gibiydi. neyse... bunlar tevatür, yani kahvehane dedikodusu.<br/><br/>biraz iddialı olacak ama benim geleceğe dair görüşüm şu. chp; özellikle yerel seçimlerde, kürtlerin seçim sonucuna etki edebilecek gücü olduğu her yerde artık ibreyi kendi lehine çevirmiştir. kürtlerin tamamı "chp"'ye değil, imamoğlu'na oy vermiştir. bu profilde adaylar çıkardığı müddetçe vermeye de devam edecektir. denklem çok basittir; cehapeliler+rakı için milliyetçiler (iyip'li seçmen)+kürtlerin oy oranı istanbul'da en az %45. akp+dindar milliyetçilerin (mehap) oyu da en az %45'tir. aradaki %10luk kitleyinin sadece %5'ini kim ikna edebilirse bundan sonra seçimi onlar kazanacaktır. akp'nin tek kale maç siyaseti tamamen tarihe karışmıştır. ve koyu akp'li arkadaşlar kabul etse de etmese de bunun merkezinde ekrem imamoğlu vardır. internet trolleri ve teşkilata takılan akp'liler farkında olmasalar da işinde gücünde ekmeğinde olan muhafazakar kesimde akp'den hızlı bir kaçış var. "tatildeydi, şöyle konuştu, böyle yalancı, güvensiz" falan diye kendinizi parçalamanızın en ufak bir anlamı yok. çünkü bu başlık altında da defalarca yazıldığı gibi, akp yönetiminin 25 yılı belediye olmak üzer 17 yıllık mutlak iktidarından sonra söylem bazında bir inandırıcılığı kalmadı. ekrem imamoğlu'nun bırak büyük proje yapması, işleri normal devam ettirmesi bile ona artı puan yazacaktır. ki zaten hali hazırda belediyecilikten gelmesi sebebi ile bu çok zor olmayacaktır.<br/><br/>bunun tali ama etkili başka sonuçları da olacak;<br/><br/>- siyaset kadro işidir. cehape bursa hariç bütün etkili büyükşehirlerde deli gibi kadro yetiştirecek. imamoğlu olmadı mı? mansur yavaş ankara'da yardırıyor. onu görevden mi aldınız? zerdan karalar yardırıyor. hatta hiç beklemediğim halde tunç soyer bile inanılmaz bir profil çiziyor. bu fırtınanın karşısında sadece rte'nin kişisel karizması ile durulamaz. <br/><br/>- ekrem imamoğlu çok kurnaz bir siyasetçi. kesinlikle rte'yi karşısına almıyor. asla bir projeden falan bahsetmiyor veya iddialı konuşmuyor. 25 sene önce rte ne yapıyorsa aynısını yapıyor. devamlı sahada. siz twiter'de istediğiniz kadar sallayın, eminönü eşrafı onu kafasında kaskı, üzerinde kırmızı güvenlik yeleği ile hatırlayacak. bir de oradaki sorunları çözdü mü olay bitti. sonra bu olay herkese "allah razı olsun, başkan geldi, bizzat çözdü" diye anlatılacak.işte reklam ve siyaset böyle yapılır.<br/><br/>- kürtler ile daima iyi ilişki kurmak peşinde. bakın son 15 yıldır falan akp'nin ileri gelenleri dışında ben aşağıdaki gibi bir demeç duymamıştım kürt meselesi hakkında,aşağıdaki videoyu 7:35'ten itibaren izlemenizi rica ederim;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=84yc80PwZnk">https://www.youtube.com/watch?v=84yc80pwznk</a><br/><br/>bu da kayyumlar hakkındaki demeci;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Gwbuf36PyR8">https://www.youtube.com/watch?v=gwbuf36pyr8</a><br/><br/>hangi muhalefet ileri geleni bu kadar net tepki koyabildi? hem de açıkça karşı çıkarak. özellikle 31 mart akşamı olmak üzere seçim sürecinde de benzerlerini yapmıştı; böyle stres anlarında ortaya net cümleler ile karakter ve özgüven koyabiliyor. bu tr'de siyaset yapan birisi için büyük meziyettir. chp çok çok büyük hata yapmadığı müddetçe ekrem imamoğlu'nun belki bilerek belki bilmeden açtığı bu yolun ekmeğini çok yiyecek.<br/><br/>- son olarak, adam siyasi açıdan bir kazanan. akp'ye karşı 3 defa seçime girdi, 3ünü de kazandı. buna şans, şu, bu falan diyemezsiniz. bunu hafife almayın.<br/><br/>siyasi iklim ve ortam ekrem imamoğlu'nun yol alması için muazzam. 2020 itibarı ile icraat adamı olduğunu da gösterirse önü çok açık. <br/><br/>son sözüm de imamoğlu'nun her şeyini köpürten akp'li arkadaşlara. yaşı benim gibi 35'in üzerinde olanlar hatırlar; recep tayyip erdoğan ibb başkanı olduğunda şu sizin yaptığınız ne varsa aynısını ona yapıyorlardı. sabah gazetesinde "yeni yol çalışması yaptığı için trafik sıkıştı, halk mağdur oldu", grev yapan otobüs şöförleri sorunu mu neydi, işte öyle bir şeyle uğraşırken "zam isteyen şöförleri işten attı" türü saçma sapan haberler yapıyorlardı. aynı bugün sizin, dağdaki köylünün bile torpille işe girip havadan maaş aldığını bildiği 50 kişiyi işten attığı için "ama emekçileri içten attı" diye yaygara yapmanız gibi. ben size yapmamanızı tavsiye ederim ama siz bilirsiniz. abuk subuk eleştirilerle adamı küçültmüyor, tersine büyütüyorsonuz. haberiniz ola.
-  entry_channels: siyaset,haber
-- entry_name: |
-    amerika'da polise demir tabure atmak
-  entry_id:  94300437
-  entry_writer: beyler derebeyi
-  entry_fav_count: 16
-  entry_content: |
-    elbette adamın götünden kan alırlar.<br/><br/>lakin amerika ile türkiye'yi kıyaslamak istiyorsan hak, hukuk, adalet, demokrasi, insan hakları ve ekonomi düzlemini de hesaba katman lazım.<br/><br/>öyle kuru kuru, işine geldiği gibi kıyaslama olmaz.
-  entry_channels: 
-- entry_name: |
-    1 ağustos 2019 konut kredisi faizlerinin düşmesi
-  entry_id:  94291924
-  entry_writer: benimadimmesmecon
-  entry_fav_count: 16
-  entry_content: |
-    “piyasanın buna ihtiyacı vardı”.<br/><br/>müteahhitler para kazansın diye piyasa faizinin altında borç ver. kamu bankaları “görev zararı” yazsın. bu zararı da ben ve benim gibiler vergileriyle ödesin. ne güzel iş.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    norm ender'in başlattığı fidan challenge
-  entry_id:  94302769
-  entry_writer: ovekvek
-  entry_fav_count: 10
-  entry_content: |
-    reynmene meydan okuyarak başlatması çok zekice. kampanya tutar gibi. çok yararlı bi iş yaptın norm, tebrik ediyorum.
-  entry_channels: 
-- entry_name: |
     kapıya gelen yakışıklı kargocuyu eve atmak
   entry_id:  94303049
   entry_writer: yakamozist
-  entry_fav_count: 10
+  entry_fav_count: 17
   entry_content: |
     kimsenin kapısına kargocu gelmediği için imkansız durum. genelde evde olunduğu halde bulamadık deyip gidiyorlarmış.
   entry_channels: ilişkiler
 - entry_name: |
-    fast break'i üçlükle bitirmek
-  entry_id:  94290697
-  entry_writer: honore de alp
-  entry_fav_count: 7
-  entry_content: |
-    (bkz: <a class="b" href="/?q=willie+solomon">willie solomon</a>)
-  entry_channels: spor
-- entry_name: |
     22 ağustos 2019 hdp eylem çağrısı
   entry_id:  94302637
   entry_writer: basaktarlasindakivasak
-  entry_fav_count: 7
+  entry_fav_count: 13
   entry_content: |
     adaletsizliğe dikkat çekmek ve sorunun gündemde kalması için birşeyler yapılması gerekiyor. barışçıl eylem çağrısı da yapılabilecek en iyi hareket gibi gözüküyor, zira; akp'nin kayyum meselesindeki esas amacı hdp'yi radikalleştirmektir.<br/><br/>edit: ülkenin vatandaşlarının vurulmasını isteyen beyinsizin biri de gelmiş başlık altına. umarım baş edemeyeceğin bir haksızlıkla karşılaşırsın ve elin kolun bağlı kudurursun.
   entry_channels: siyaset,haber
@@ -342,18 +294,58 @@ data:
     bir kadında aranan ilk özellik
   entry_id:  94279878
   entry_writer: burusmus a4 kagidi
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     konuşabilmek.<br/>aynı şeylere gülebilmek, aynı şeyleri sevebilmek, aynı şeylere hüzünlenip aynı şeyleri yapmaktan zevk alabilmek. bundan daha önemli çok az şey var dünyada gençler.<br/><br/>(bkz: <a class="b" href="/?q=otuzluk+abilerden+gen%c3%a7+s%c3%b6zl%c3%bck+erkeklerine+%c3%b6%c4%9f%c3%bctler">otuzluk abilerden genç sözlük erkeklerine öğütler</a>)
   entry_channels: ilişkiler
 - entry_name: |
-    ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
-  entry_id:  94301739
-  entry_writer: nikkei
+    türklüğünden utanan türk
+  entry_id:  94304753
+  entry_writer: oberyn2
+  entry_fav_count: 6
+  entry_content: |
+    insanın kendi seçmediği bir özelliğe erdem ya da başarısızlık olarak bakması aptallıktır. türk olmakla gurur duymak ne kadar saçmaysa, türk olmaktan utanmak da aynı derecede saçmadır.
+  entry_channels: siyaset,ilişkiler
+- entry_name: |
+    kalitesiz insanların övündükleri şeyler
+  entry_id:  94301593
+  entry_writer: edwardscissorhand
+  entry_fav_count: 5
+  entry_content: |
+    yaptığı iyilikler. anlatacaksan hiç iyilik yapma.<br/><br/>"insanlara, onları size nankörlük yapmaya mecbur bırakacak kadar büyük iyiliklerde bulunmayın." <br/><br/>balzac
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    fidan challenge
+  entry_id:  94303813
+  entry_writer: salyangozumsu gurme
   entry_fav_count: 4
   entry_content: |
-    eee (bkz: <a class="b" href="/?q=bundan+bize+ne">bundan bize ne</a>) <br/><br/>30 luk teyze dediğin hanimefendilere kurban ol sen.
-  entry_channels: ilişkiler,ekşi-sözlük
+    "doğa bize muhtaç değil, biz ona muhtacız!" sloganıyla, rap müzisyeni norm ender tarafından, youtuber reynmen'e meydan okuyarak başlatılan doğa dostu kampanya. <br/><br/>akıllıca ve iyi niyetli bir kampanya olduğunu düşünmem sebebiyle beni ziyadesiyle mutlu etmiştir.
+  entry_channels: 
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  94267175
+  entry_writer: screay
+  entry_fav_count: 4
+  entry_content: |
+    sizin ben olmayan beyninizi dikeyim! he, hoş hanımlar dert anlatmak için abaza arıyor evet, koşun yetişin! azıcık, 3 saniyecik durup düşünün ve ne tür bir pislik olduğunuzu kendinize itiraf edin! <br/><br/>neyse, cinsiyetten bağımsız olarak gerçekten derdi olup anlatmak isteyen varsa anlatabilir arkadaşlar mesaj kutum açık...<br/><br/>farklı niyet ya da amacı olan hemcinslerim lütfen uzak durun kalbinizi daha fazla kırmayayım.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    türk kadınının vajinası
+  entry_id:  94303554
+  entry_writer: redkid1917
+  entry_fav_count: 2
+  entry_content: |
+    türk kadınına kurban ol.haysiyetsiz köpek.
+  entry_channels: sağlık
+- entry_name: |
+    eşya ile kurulan çarpık ilişki
+  entry_id:  94303740
+  entry_writer: no country for old men
+  entry_fav_count: 2
+  entry_content: |
+    arabamla konuşuyorum, sanırım bu çarpık bir ilişki. öyle böyle değil, ciddi konuşuyorum. akşam ayrılırken dönüp şöyle bir bakıyorum, görüşürüz adamım diyorum. tatile falan gittiğimde onu özlüyorum ve dönüşte gönlünü alıyorum. bazen çok hüzünlü geliyor bana, öylece beni beklemesi gözlerimi yaşartıyor. yolda giderken tozlarını alıyorum, böyle iyiyiz ama diyorum, dertleşiyorum onunla, sanki beni dinliyormuş gibi geliyor, hatta anlıyor gibi, bilemiyorum, hiçbir şey net değil bu varoluşta. bak şu an bile özledim, ne yapıyor acaba, napsın aslanım benim, beni bekliyor, hayatında tek ben varım, aslında benim hayatımda da tek o var.
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  94268885
@@ -363,6 +355,14 @@ data:
     ineğimiz sultan 2-3 gündür hastaydı. ne yazık ki bugün öldü. <br/>çok üzgünüm...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    yazarların favori diş macunları
+  entry_id:  94285301
+  entry_writer: my entries are my weapons
+  entry_fav_count: 1
+  entry_content: |
+    gitmiş olduğum dişçinin söylediğine göre diş macununun neredeyse hiçbir önemi yok. git en ucuzundan bir tane al ve her fırçalamada azar azar kullan dedi. asıl olay diş fırçasındaymış. orta sertlikte en kalitelisinden al diye özellikle uyardı. diş macunundan çok diş fırçasına ve diş fırçalama süresine önem vermek gerekiyormuş. buradan ekşici kankidaşlarımı bilgilendirmiş olayım.
+  entry_channels: anket,sağlık
+- entry_name: |
     yazarlara whatsapp'tan gelen son mesaj
   entry_id:  94301404
   entry_writer: fatality44
@@ -371,13 +371,13 @@ data:
     yanlışlıkla iş yeri whatsapp grubumuza bu sabahların bi anlamı olmalı diye mesaj atmıştım bi defasında. amirim grubumuz yürüşme yeri diye değil diye uyarmıştı aaskjdhsjkhjk
   entry_channels: anket,ekşi-sözlük,teknoloji
 - entry_name: |
-    hadi sık diyen gence su sıkan toma
-  entry_id:  94297873
-  entry_writer: nediyorkanka
+    evlenirken alınan saçma eşyalar
+  entry_id:  94304827
+  entry_writer: deklere kutusu
   entry_fav_count: 1
   entry_content: |
-    böcekler alınmasın ama böcek gibi yere yapışan bir pkk sempatizanı piçin rezil olma videosudur, günüme renk katmıştır. beter olun pkk piçleri.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: 
+    şüphesiz ki aptal süslü yatak örtüsü,<br/>kahvaltı takımı.
+  entry_channels: anket
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  94293110
@@ -387,19 +387,19 @@ data:
     her zaman yaptığım şeyi; balkondan uzaklara dalıp içiyorum.
   entry_channels: anket
 - entry_name: |
-    vücut geliştirme
-  entry_id:  94302722
-  entry_writer: sendorm
+    şu anda çalan şarkı
+  entry_id:  94275728
+  entry_writer: baydag
   entry_fav_count: 0
   entry_content: |
-    28 yumurta az bence. sığır da yemelisin sayın sığır kardeş. <br/><br/>sığır değilsiniz. 28 yumurta yenmemesi gereken spor dalı.
-  entry_channels: spor,sağlık
+    (bkz: <a class="b" href="/?q=tattooed+man">tattooed man</a>)
+  entry_channels: anket,müzik
 - entry_name: |
     ekşi sözlük iş ağı
-  entry_id:  94278333
-  entry_writer: zimmer
+  entry_id:  94277246
+  entry_writer: deadgodinme
   entry_fav_count: 0
   entry_content: |
-    firmamıza kurumsal kimlik çalışması yapabilecek birini arıyorum ben de
+    dik işlem operatörü, bilen gören duyan varsa lütfen bana yönlendirsin. <br/><br/>zenginleştirilmiş uranyum bulmak daha kolaydır herhalde. <br/><br/>konum: izmir - bornova
   entry_channels: ekşi-sözlük
 ---
