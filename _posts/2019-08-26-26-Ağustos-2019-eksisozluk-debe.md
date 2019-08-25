@@ -6,7 +6,7 @@ data:
     otobüste koltuğu kaldırır mısın diyen tip
   entry_id:  94413136
   entry_writer: kel ve ofkeli
-  entry_fav_count: 961
+  entry_fav_count: 965
   entry_content: |
     koltuğu indirirken arkasındaki kişiden izin alma nezaketinde bile bulunmayan birine kaldırır mısın ne demek? belli ki nezaketten incelikten anlamıyor. kaldır ulan koltuğu ayı iki büklüm kaldım burada görmüyor musun hıyar demeliydi.
   entry_channels: seyahat
@@ -14,23 +14,15 @@ data:
     ilk buluşmayı 4 kelime ile mahvet
   entry_id:  94423361
   entry_writer: sensin kominicks
-  entry_fav_count: 567
+  entry_fav_count: 600
   entry_content: |
     erdoğan gitse kim gelecek
   entry_channels: ilişkiler
 - entry_name: |
-    25 ağustos 2019 rok'un beyaz tv'den kovulması
-  entry_id:  94406183
-  entry_writer: lawnmower
-  entry_fav_count: 513
-  entry_content: |
-    bence sırf keyif için ara sıra işe alıp kovsunlar. güzel olur.
-  entry_channels: spor,siyaset,tv,haber,magazin
-- entry_name: |
     tek başına havuz yapan kadın
   entry_id:  94412572
   entry_writer: mehmetberkan
-  entry_fav_count: 460
+  entry_fav_count: 468
   entry_content: |
     azmeden ve başaran bir kadın videosunda bile türk kadınına hakaret eden sırtı kıllı ortadoğu ayılarını bize gösteren ilginç başlık.<br/><br/>edit: ayı yogi ve arkadaşları. böyle düşmez meriç falan yazmayın daha evvel yazdığım bir çok entry de görüleceği gibi ben evliyim çocuğum var. kadınlara güzel söylenen her lafı onları yatağa atmak amacıyla söylenmiş sanıyorsunuz sırtınizdaki kıl sayısı kadar iflah olmaz ayılarsınız.
   entry_channels: haber
@@ -38,7 +30,7 @@ data:
     fedai varan'ın chp'li çıkması
   entry_id:  94429583
   entry_writer: ivedigiden
-  entry_fav_count: 383
+  entry_fav_count: 409
   entry_content: |
     bence olumlu bir gelişme. akp'li çıksa ilk mahkemede serbest kalırdı. hiç olmazsa, şimdi cezasını çeker. sizin olmayan ahlakınız sikeyim.
   entry_channels: siyaset,tv,haber,magazin
@@ -46,7 +38,7 @@ data:
     uğur ışılak'ın cennete gideceğini müjdelemesi
   entry_id:  94428515
   entry_writer: luisahra
-  entry_fav_count: 361
+  entry_fav_count: 374
   entry_content: |
     -ya rabbi bu kul sırattan geçmeyecekse ben de geçmeyeceğim<br/>+tamam sen de geçme<br/><br/>edit: imla
   entry_channels: siyaset,haber
@@ -54,7 +46,7 @@ data:
     batı'nın doğu'ya üstünlüğünün sebebi
   entry_id:  94414994
   entry_writer: olmasaydiknolacakti
-  entry_fav_count: 355
+  entry_fav_count: 359
   entry_content: |
     ıslam.<br/>avrupalilar ronesans ve fransiz devriminden sonra bilime sarilirken, biz peygamber sidigi icmenin faydalarini konusmaya devam edince, kadinlari sosyal hayata entegre etmeyince, bati kalkti biz geride kaldik.
   entry_channels: siyaset,anket,tarih
@@ -62,7 +54,7 @@ data:
     erkeklere 4 eş hakkı verilmelidir
   entry_id:  94417769
   entry_writer: rockakademi
-  entry_fav_count: 350
+  entry_fav_count: 354
   entry_content: |
     kadınlara da 7 koca izni varsa düşünülebilir.<br/>(bkz: <a class="b" href="/?q=7+kocal%c4%b1+h%c3%bcrm%c3%bcz">7 kocalı hürmüz</a>)
   entry_channels: siyaset,ilişkiler,haber
@@ -70,7 +62,7 @@ data:
     midyeci ahmet'in ürkütücü kokoreç yeme videosu
   entry_id:  94425864
   entry_writer: chocolate starfish
-  entry_fav_count: 336
+  entry_fav_count: 343
   entry_content: |
     koluna "midyeci ahmet" diye dövme yaptıran bir hanzodan medeniyet beklemeyin zaten. <br/><br/>klasik sonradan görme barzonun, bütün bir kokereci ağzına teptiği videodur.<br/><br/>edit: imla.
   entry_channels: yeme-içme
@@ -78,7 +70,7 @@ data:
     izmir itfaiyesi tarafından yollanan fotoğraflar
   entry_id:  94431319
   entry_writer: give me a kiss
-  entry_fav_count: 263
+  entry_fav_count: 338
   entry_content: |
     itfayeciliği ve itfaiye çalışanlarını merak eden küçük kıza çok da güzel bir şekilde takım halinde fotoğraf çekilip, göndermişler.<br/>bunu çekemeyecek veya eleştirebilecek kadar boş bir insan olman tartışılmalı bence.<br/><br/>edit: imla
   entry_channels: 
@@ -86,23 +78,23 @@ data:
     ceza alanında dünyanın en iyi golcüsü
   entry_id:  94420842
   entry_writer: larrylaurels
-  entry_fav_count: 257
+  entry_fav_count: 261
   entry_content: |
     (bkz: <a class="b" href="/?q=ruud+van+nistelrooy">ruud van nistelrooy</a>)<br/><br/>liseliler bilmez
   entry_channels: spor,anket
 - entry_name: |
-    yengeç burger'in başarılı olmasındaki temel sebep
-  entry_id:  94425120
-  entry_writer: jamesharden
-  entry_fav_count: 231
+    25 ağustos 2019 recep tayyip erdoğan açıklamaları
+  entry_id:  94430984
+  entry_writer: gnothi
+  entry_fav_count: 244
   entry_content: |
-    sünger bob izlerken aklımı kurcalayan ilginç bir durum.<br/><br/>nedir yani bu yengeç burger'in bu kadar sevilmesine neden olan şey? gizli tarifi mi? yoksa gayet açıklanabilir bir işletme profili mi?<br/><br/>gelin birlikte irdeleyelim.<br/><br/>ilk öncelikle bikini bottom kasabası'nın toplumsal yapısını anlamamız gerekiyor. bikini bottom kasabası; tüketim toplumuna dayalı, fast food ağırlıklı, üretkenlikten uzak, sosyal sayılabilecek bir toplum. şehirde başka restoranların olmasına rağmen yengeç restoranın tercih edilmesi bizlere toplumun hangi sınıfa dahil olduğunu gösteriyor. bikini bottom kasabası'nda proletarya hakim. yani, alım gücünün düşük olması, fakat halkın fast food tüketiminden kopamaması, insanları yengeç restorana yönlendiriyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/zGGqGO.jpg" title="https://i.hizliresim.com/zGGqGO.jpg">yengeç 1</a><br/><br/>bay yengeç ve yengeç restoranın, yengeç burger'in satışına doğrudan etkisini inkar etmek yanlış olur. yengeç restoranın; ucuz iş gücüne sahip olması, sektördeki tecrübesi, fast food ve bilhassa hamburger işinde tekelleşmesi ve ulaşılabilir bir konumda olması yengeç burger'i cazip kılan büyük faktörlerden bazıları. ucuz işçi çalıştırdığı için bay yengeç fazla bir masrafa sahip olmuyor bu da daha fazla üretim demek. yine sektördeki tek bilinen marka olması, fast food seven toplumu yengeç restorana mecbur kılıyor, bu da satışlardaki başarıyı dolaylı olarak etkiliyor. halkın çoğunun arabasının bulunmaması, yengeç restoranın şehrin en ulaşılabilir, en merkezinde olması yine halkı buraya yönlendiriyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/9YYlbo.jpg" title="https://i.hizliresim.com/9YYlbo.jpg">yengeç 2</a><br/><br/>yengeç burger'in kendi başarısına olan etkisini de görmemezlikten gelmemek gerekiyor. yengeç burger'in bu denli yok satmasının başlıca nedenleri; uygun fiyatlı olması, tatminkar ve doyurucu bir lezzete sahip olması, sektördeki tek hamburger olması ve marketing. uygun fiyatlı olduğu için fakir halk tarafından ilk tercih edilen yiyecek oluyor, her ne kadar kasabada farklı restoranlar olsa da. lezzetinin doyurucu ve tatminkar olması; halkın fazla acıkmamasını sağladığı için daha hesaplı bulunuyor. bu da doğrudan satışa olumlu etki ediyor. ve son olarak pazarlama ve reklam. yengeç restoran, bikini bottom kasabası'nda isim yapmış, büyük bir firmanın ürünü. bay yengeç ile özdeşleşmiş sade ismi, gizli tarifiyle sürekli ünlenmesi toplumu cezbediyor. bu da doğrudan talep üzerindeki değişkenliği tetikliyor. halbuki, bir bölümde plankton yengeç burger'in tarifini çalmaya çalışıyordu, bunu sünger bob falan yakalamıştı. daha sonra aslında yengeç burger'in gizli bir tarifi olmadığı ortaya çıkmıştı. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/annRg7.jpg" title="https://i.hizliresim.com/annRg7.jpg">yengeç 3</a><br/><br/>toplumun düşük bir gelire sahip olması, yönlendirilebilir ve fast food tüketimini sevmesi yengeç restoranın pazardaki büyümesini sağlıyor. ancak, en önemli husus; yengeç restoranın arz ve talebi kendi isteği doğrultusunda şekillendiriyor olması.<br/><br/>tek firma olması; ürünü istediği gibi pazarlamasına, fiyatını şekillendirmesine olanak sağlıyor. bu da; talep esnekliğini oluşturuyor. yani; bay yengeç istese, yengeç burger'i açık artırmaya çıkarabilir, kafasına göre zam yapabilir. yönlendirilebilir toplum zaten hamburger delisi olduğu için bu esnekliğe asla sesini çıkarmıyor, çıkaramaz. zira, tek hamburger dükkanı dediğim gibi yengeç restoran. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/NLLJNY.jpg" title="https://i.hizliresim.com/NLLJNY.jpg">yengeç 4</a><br/><br/>arz ederim.
-  entry_channels: 
+    devletin kanalına orospu çocuğu bölücünün kardeşini çıkarıp 2-3 kürtten oy kaparız diye demeç verdirten ve muhalefet partisini istanbul'u teröre peşkeş çektirmekle suçlayan aklımızla taşşak geçmeye çalışan ülkenin cumhurbaşkanı beyanı. ben taşşak geçirttirmiyorum kendimle sizi bilmem.
+  entry_channels: siyaset,haber
 - entry_name: |
     ermeni soykırımı
   entry_id:  94405754
   entry_writer: karabiner 98k
-  entry_fav_count: 230
+  entry_fav_count: 234
   entry_content: |
     cebinde beş kuruş parası olmayan osmanlı’nın elindeki azıcık gemiyi de ermeni öldürmek için batırdığını öğrendiğim başlık. ben ikna oldum.<br/>ayrıca arkadaş konuya türk kaybaktan bakmamak isteyip ermeni kaybaktan bakmış. bu beni daha da ikna etti.<br/>bir de niyeyse bölgedeki kürt eşkiyaların saldırılarından falan hiç sözedilmemiş. biraz daha ikna oldum.
   entry_channels: siyaset,tarih
@@ -110,23 +102,15 @@ data:
     lisede sınıfın en güzel kızının bugünkü durumu
   entry_id:  94427372
   entry_writer: 111222333
-  entry_fav_count: 210
+  entry_fav_count: 227
   entry_content: |
     pavyonda çalışıyor, ite köpeğe meze oldu heba oldu gitti demek isterdim ancak geçen gün tesadüfen linkedln hesabına denk geldim. elektronik mühendisi olarak uluslararası bir şirkette üst düzey yöneticilik yapıyor orospu.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    25 ağustos 2019 recep tayyip erdoğan açıklamaları
-  entry_id:  94430984
-  entry_writer: gnothi
-  entry_fav_count: 210
-  entry_content: |
-    devletin kanalına orospu çocuğu bölücünün kardeşini çıkarıp 2-3 kürtten oy kaparız diye demeç verdirten ve muhalefet partisini istanbul'u teröre peşkeş çektirmekle suçlayan aklımızla taşşak geçmeye çalışan ülkenin cumhurbaşkanı beyanı. ben taşşak geçirttirmiyorum kendimle sizi bilmem.
-  entry_channels: siyaset,haber
-- entry_name: |
     merve kotan da öldürüldü
   entry_id:  94421861
   entry_writer: kocamanduslerim
-  entry_fav_count: 207
+  entry_fav_count: 211
   entry_content: |
     merve 19 yaşındaydı. aydın şehrinde 15 ağustos'ta erkek arkadaşı muhammet gürsoy tarafından pompalı tüfekle yakın mesafeden vurularak öldürüldü. <br/><br/>emine bulut cinayetinin görüntülerini izlediniz mi bilmiyorum. ben izlemedim, <br/>izleyemem. film sahnesi değil, gerçek çünkü. ve ben o denli bir gerçeği kaldıramam.<br/><br/>görüntülerin yayılmasının şöyle bir etkisi var. toplumu harekete geçirmek! o görüntüler olmasa toplum bu denli harekete geçer miydi? futbol maçlarından önce dahi protestolar olur muydu? tabi ki olmazdı. çünkü merve için olmadı. ekim için olmadı.<br/><br/>muhammet gürsoy kendi doğum gününde hem merve kotan'ı, hem de esasen kendi arkadaşı olan ekim türkmen'i pompalı tüfekle yakın mesafeden vurdu. silahı bir süre önce edinip işyerinde sakladı, cinayet günü arabasının ön koltuğunun altına koyup merve ve ekim'in hiç beklemedikleri bir anda arabadan bir şey alacağım diyerek arabaya gidip tüfeği aldı, dönüp ikisini de vurdu.<br/><br/>ulusal medya ve basında haber oldu mu bilmiyorum. haber sitelerinde ismi geçti. o kadar. unutuldu gitti. herhangi bir görüntü, ses kaydı vs yoktu. bu terörizme maruz kalan çoğu kadın gibi unutulup gitti hemen. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.internethaber.com/aydinda-genc-kadin-ve-arkadasini-olduren-sahis-tutuklandi-2043668h.htm" title="https://www.internethaber.com/aydinda-genc-kadin-ve-arkadasini-olduren-sahis-tutuklandi-2043668h.htm">*</a><br/><br/>unutulmasın abi ya. katil yalan dolan ifadeler verip tahrik indirimi almasın. takım elbise giydi diye kravat indirimi almasın. bir canı hayattan koparmanın ne denli bir kötülük olduğunun herkes farkına varsın.<br/><br/>ailesi change.org sitesinde bir imza kampanyası başlattı. buradan <a rel="nofollow noopener" class="url" target="_blank" href="https://www.change.org/p/adalet-bakanlığı-merve-kotan-için-adalet" title="https://www.change.org/p/adalet-bakanlığı-merve-kotan-için-adalet">link</a> ulaşabilirsiniz. seslerini duyurmalarına yardımcı olmak ister misiniz?
   entry_channels: 
@@ -139,18 +123,10 @@ data:
     (bkz: <a class="b" href="/?q=%c3%bclkede+kriz+oluyor+beyfendi+saraylarda">ülkede kriz oluyor beyfendi saraylarda</a>)<br/><br/>beyfendi filan sen hayırdır
   entry_channels: siyaset,haber
 - entry_name: |
-    24 ağustos 2019 medipol başakşehir fenerbahçe maçı
-  entry_id:  94401765
-  entry_writer: uber insan
-  entry_fav_count: 159
-  entry_content: |
-    son duyumlara göre mhk başkanının evindeki beyaz eşyalar arçelik markaymis.<br/><br/>arçelik...<br/><br/>bir koç holding markası. peki koç holdingin varisi kim dersiniz? ali koç.<br/><br/>peki ali koç simdi ne yapıyor derseniz kendisi fenerbahçe başkanı..<br/><br/>evet bir ultraslan bildirisinin daha sonuna geldik. uyanık olun sevgili galatasaraylilar oyun çok böyük.
-  entry_channels: spor
-- entry_name: |
     adil rami
   entry_id:  94422458
   entry_writer: ikikereikiherzamandortetmez
-  entry_fav_count: 157
+  entry_fav_count: 159
   entry_content: |
     twitterda transfer açıklamasının altındaki yorum güldürmüştür.<br/><br/>gs li: gercekten bu çöpü mü alacaksınız. cüneyt çakırı alın daha iyi.<br/><br/>fb li: çok bonservis istiyosunuz, alamıyoruz<br/><br/>:)
   entry_channels: spor
@@ -163,29 +139,37 @@ data:
     <a class="b" href="/?q=timur">timur</a> gürcistan üzerine sefere çıkar. gürcüler ülkenin işgale uğraması ve üzüm bağlarının yok edilmesi tehlikesine karşılık önlem almak isterler. her gürcü savaşçı zırhının veya göğsünün içerisine üzüm bağlarından aldığı bir parçayı saklayıp korur. gürcüler timur'a yenilirler ve timur ülkeyi vergiye bağlayıp geri döner. geri dönerlerken de şarap üretimini engellemek için bütün üzüm bağlarını yok ederler. timur ve ordusu bir kaç yıl sonra gürcistana tekrar geri geldiklerinde ise şarap üretilen tüm üzüm bağlarını yeniden yeşermiş görürler ve buna çok şaşırırlar...<br/><br/>gürcistan'da halen, halkın büyük bir kısmının evinde kendi ürettikleri en az bir kaç yüz litrelik şarap stoğu vardır. gürcü demek şarap demektir.
   entry_channels: anket
 - entry_name: |
+    idam söz konusu olursa benim kararım nettir
+  entry_id:  94431199
+  entry_writer: karizmatik bir nick olsun
+  entry_fav_count: 138
+  entry_content: |
+    idam geri gelirse hiç kimse kendini güvende hissetmesin bu ülkede. yapacak en iyi şey ülkeyi terk etmek.
+  entry_channels: siyaset,haber
+- entry_name: |
     türklerin öğrenemediği şeyler
   entry_id:  94401933
   entry_writer: ombudslawyer
-  entry_fav_count: 136
+  entry_fav_count: 137
   entry_content: |
     uyanıklık zannettikleri şeyin aslında çıkarcılık ve karşısındakinin hakkına müdahale olduğu
   entry_channels: anket,tarih,eğitim
 - entry_name: |
+    neden yurtdışında yaşamak istiyoruz
+  entry_id:  94430861
+  entry_writer: seferoglusuphi
+  entry_fav_count: 132
+  entry_content: |
+    tl ile kazanıp ülkedeki her şeyi euro bazlı fiyatlarla aldığımızdan olabilir mi
+  entry_channels: siyaset,anket,ilişkiler,bilim,eğitim,ekonomi
+- entry_name: |
     wesley sneijder'in son hali
   entry_id:  94427863
   entry_writer: furkanakca
-  entry_fav_count: 124
+  entry_fav_count: 126
   entry_content: |
     bmw m5'e binen karadenizli müteahhite dönmüştür.
   entry_channels: spor,magazin
-- entry_name: |
-    idam söz konusu olursa benim kararım nettir
-  entry_id:  94431199
-  entry_writer: karizmatik bir nick olsun
-  entry_fav_count: 121
-  entry_content: |
-    idam geri gelirse hiç kimse kendini güvende hissetmesin bu ülkede. yapacak en iyi şey ülkeyi terk etmek.
-  entry_channels: siyaset,haber
 - entry_name: |
     vedat muriqi
   entry_id:  94402515
@@ -198,18 +182,34 @@ data:
     25 ağustos 2019 imamoğlu'nun tatil açıklaması
   entry_id:  94431123
   entry_writer: paracomandante
-  entry_fav_count: 96
+  entry_fav_count: 106
   entry_content: |
     - "ben hiç tatile çıkmadım diyene, demek ki hiç çalışmamışsın" derler.<br/>patates gibi ezmiş adfasa
   entry_channels: siyaset,haber
 - entry_name: |
-    neden yurtdışında yaşamak istiyoruz
-  entry_id:  94430861
-  entry_writer: seferoglusuphi
-  entry_fav_count: 86
+    25 ağustos 2019 rte'nin idam açıklaması
+  entry_id:  94431870
+  entry_writer: cedriciker
+  entry_fav_count: 66
   entry_content: |
-    tl ile kazanıp ülkedeki her şeyi euro bazlı fiyatlarla aldığımızdan olabilir mi
-  entry_channels: siyaset,anket,ilişkiler,bilim,eğitim,ekonomi
+    idam gelse nolacak? yine asıl suçlular değil, tecavüzcüsünü öldüren kadını asarlar. <br/><br/>(bkz: <a class="b" href="/?q=idam+insanl%c4%b1k+su%c3%a7udur">idam insanlık suçudur</a>)
+  entry_channels: siyaset,haber
+- entry_name: |
+    25 ağustos 1922'de çekilen atatürk ve inönü fotosu
+  entry_id:  94434009
+  entry_writer: altay horda
+  entry_fav_count: 62
+  entry_content: |
+    şu fotoğraftır;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.postimg.cc/8zqLPBB8/b-y-k-taarruz.jpg">https://i.postimg.cc/8zqlpbb8/b-y-k-taarruz.jpg</a><br/><br/>97 yıl önce bugün çekilmiş bir fotoğraf.<br/>bir başkomutan ve yanında batı cephesi komutanı.<br/><br/>afyonkarahisar yakınlarında bir ağaç gölgesi bulmuş oturuyorlar.<br/>batı cephesi komutanı biraz endişeli, ama başkomutan gayet rahat. hatta "<a class="b" href="/?q=s%c3%bclalem+raad">sülalem raad</a>" oturuşu yapmış kurban olduğum.<br/><br/>ismet paşa yanındaki subayla bir plan üzerine konuşuyor, ama başkomutan hiç ilgilenmiyor bile.<br/><br/>oysa yarın taarruz var.<br/>büyük taarruz...<br/><br/>ama başkomutan son derece rahat.<br/>neden rahat olmasın ki?<br/><br/>planlarını yapmış, sabah ilk ışıkla birlikte bir balyoz gibi çökecek yunan palikaryasının tepesine.<br/>endişe sıfır, korku sıfır.<br/>belki de "<a class="b" href="/?q=ismet+gel+bir+5+atal%c4%b1m">ismet gel bir 5 atalım</a>" deyip tavla da oynamışlardır, onu da kazanmıştır mustafa kemal paşa zaten...<br/><br/>bir fotoğraf, 97 yıl önce bugün.<br/><a class="b" href="/?q=yunan%27%c4%b1n+afyon%27daki+son+24+saati">yunan'ın afyon'daki son 24 saati</a>...<br/><br/>hiç şüphesiz ki büyük zaferler büyük komutanlarla kazanılır ve ne mutlu bize ki, bize zafer kazandıran komutanlarımızın hepsi büyük komutanlardı.<br/><br/>ruhları şad olsun...!!!
+  entry_channels: siyaset,tarih,haber
+- entry_name: |
+    ümit erdim'in son hali
+  entry_id:  94420294
+  entry_writer: constructive
+  entry_fav_count: 57
+  entry_content: |
+    spor yapmayıp zayıflarsam nasıl olurum'un cevabı.
+  entry_channels: magazin
 - entry_name: |
     once upon a time in hollywood
   entry_id:  94407311
@@ -222,55 +222,39 @@ data:
     türk kızının en yetenekli olduğu konu
   entry_id:  94424852
   entry_writer: shefucks
-  entry_fav_count: 48
+  entry_fav_count: 50
   entry_content: |
     lan 2 gün önce emine bulut falan, kadın hakları , yaşadığımız coğrafya vs her şeyi elestiriyordunuz, noldu yine türk kızına sövmeye devam mı? mkduğumun keresteci suratlıları sizi. siz eğitilemezsiniz...
   entry_channels: anket,ilişkiler
 - entry_name: |
-    rasim ozan kütahyalı
-  entry_id:  94411694
-  entry_writer: tropic of capricorn
-  entry_fav_count: 48
-  entry_content: |
-    işin acı kısmı şudur;<br/><br/>böyle bir yaratığın 1 sene önce söylediği bir sözden dolayı kendisine haksızlık mı ediliyor yoksa bu yaptırım haklı mıdır onu tartışıyor insanlar.<br/><br/>şunu anladım ki buradaki güruh ülke ile zerre alakası olmayan apolitik tiplerden oluşuyor.<br/><br/>bu giriyi şikayet etmezseniz onun bunun çocuğusunuz.<br/><br/>ulan bu adam cemaatin balyoz-ergenekon kumpası sırasında cemaatin politikalarını desteklemedi mi? kanal kanal çıkıp bu davaları bu kumpası savunmadı mı? o balyoz-ergenekon sürecinde pek çok şerefli subay, emekli olanlar dahil içeri alınmadı mı? aileleri parçalanmadı mı? bazıları hapishanede ölmedi mi? intihar edenler olmadı mı? sonra yerlerine cemaatçiler yerleştirilmedi mi? <br/>ha amına kodumun embesilleri? cevap verin. siz nerede yaşıyorsunuz lan? hangi ülkede yaşıyorsunuz olum? hiç mi haberiniz yok lan ülkeden. siktimin embesilleri<br/><br/>siz şimdi çıkmışsınız bu adama söylediği ayıp sözden dolayı haksızlık edildi mi edilmedi mi onu konuşuyorsunuz. sizin ben aklınızı olmayan bilginizi sikiyim. vicdanınızın amınakoyyım. size çok iyi lan bu siyasiler. insallah 30 sene rte yönetir de ülkeyi ağlarsınız. size bu layık olum. şikayet etmeyin siyasilerden, iktidardan falan.
-  entry_channels: spor,siyaset,tv,magazin
-- entry_name: |
-    ümit erdim'in son hali
-  entry_id:  94420294
-  entry_writer: constructive
-  entry_fav_count: 46
-  entry_content: |
-    spor yapmayıp zayıflarsam nasıl olurum'un cevabı.
-  entry_channels: magazin
-- entry_name: |
-    25 ağustos 2019 rte'nin idam açıklaması
-  entry_id:  94431870
-  entry_writer: cedriciker
+    40 bin lira'ya alınabilecek en iyi arazi aracı
+  entry_id:  94430305
+  entry_writer: jewfro
   entry_fav_count: 39
   entry_content: |
-    idam gelse nolacak? yine asıl suçlular değil, tecavüzcüsünü öldüren kadını asarlar. <br/><br/>(bkz: <a class="b" href="/?q=idam+insanl%c4%b1k+su%c3%a7udur">idam insanlık suçudur</a>)
-  entry_channels: siyaset,haber
-- entry_name: |
-    evlilikte yemeği kim yapar sorunsalı
-  entry_id:  94412564
-  entry_writer: alicanerkus
-  entry_fav_count: 30
-  entry_content: |
-    profesyonel aşçıyım. mutfak benim oyun alanım, ben yaparım. isterse kendi gelir beraber yaparız eğleniriz orası ayrı. <br/><br/>gel vefasız, gel insafsız. acil lan valla bak.
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=e%c5%9fek">eşek</a>)
+  entry_channels: anket,otomotiv
 - entry_name: |
     25 ağustos 2019 gaziantepte suriyelilerin kavgası
   entry_id:  94433234
   entry_writer: oz suser
-  entry_fav_count: 29
+  entry_fav_count: 38
   entry_content: |
     ülkelerinden götlerine baka baka kaçıp götleri rahata erince yamyam gibi birbirlerine saldıran bu amın evlatlarını ülkeye musallat edenlerin yedi sülalesini sikeyim.<br/>cinslerine uygun şekilde arkadan saldırarak orospu evlatlığı yapanların görüldüğü kavga.
   entry_channels: haber
 - entry_name: |
+    evlilikte yemeği kim yapar sorunsalı
+  entry_id:  94412564
+  entry_writer: alicanerkus
+  entry_fav_count: 33
+  entry_content: |
+    profesyonel aşçıyım. mutfak benim oyun alanım, ben yaparım. isterse kendi gelir beraber yaparız eğleniriz orası ayrı. <br/><br/>gel vefasız, gel insafsız. acil lan valla bak.
+  entry_channels: 
+- entry_name: |
     emine bulut'un kızının darüşşafaka'ya alınması
   entry_id:  94432721
   entry_writer: nowitzkinin dili
-  entry_fav_count: 28
+  entry_fav_count: 32
   entry_content: |
     yanlış anlamayın bu kızımıza böyle bir şey yapılmasın demiyorum, fakat yapılacaksa da yalnızca bu olaya münferit değil, hangi okula alınacaksa okula giriş şartlarında ekleme yapılarak bu işin yapılmasından yanayım. darüşşafaka gibi bir okula başvuru şartları aşağıda bıraktığım linkte açıkça belirtilmiş.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.darussafaka.org/egitim-kurumlari/darussafaka-sinavi" title="https://www.darussafaka.org/egitim-kurumlari/darussafaka-sinavi">https://www.darussafaka.org/…ari/darussafaka-sinavi</a><br/><br/>okula yalnızca 120 kişi alınıyor senede ve siz yalnızca bir kişiye başına ne gelirse gelsin yalnızca bir kişiye bu şekilde farklı şekilde davranırsanız, her ne kadar iyi niyetli davransanız da başvuru yapan ve şartlarda belirtildiği gibi annesi veya babası olmayan diğer çocuklara haksızlık etmiş oluyorsunuz. emine bulut cinayetinin bu kadar herkes tarafından öğrenilmesi hepimizin bildiği gibi video sayesindedir. bu olay gibi haberlere bile çıkmayan malesef onlarca insan var. derseniz ki, bu okula başvuru şartlarında bir öncelik tanıyacağız, (bilmiyorum ama şehit ve gazi çocuklarında öncelik olabilir) bundan sonra çıkarılacak bir yeni şartla başından bu şekilde kötü bir deneyim geçen tüm kişilere uygulamanız gerekir.
   entry_channels: haber
@@ -278,31 +262,31 @@ data:
     ekşi sözlük'ün şaka maka 30'luk teyze kaynaması
   entry_id:  94402444
   entry_writer: spiral out
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     açılın 30'luk teyzeyim. ben bugüne bugün tool istanbul 2007 konserini en bi çıtır haliyle, gençliğinin baharında izlemiş kadınım. kaçınız bu şansa sahip oldu? o yüzden yaklaşmayın topunuzu keserim. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
-    25 ağustos 2019 galatasaray konyaspor maçı
-  entry_id:  94401481
-  entry_writer: sampmta
-  entry_fav_count: 23
+    ekşi itiraf
+  entry_id:  94401626
+  entry_writer: martakisnida95
+  entry_fav_count: 18
   entry_content: |
-    selçuk'un oynama ihtimali konuşulan maç.<br/>bu adam ilk 11 çıkacaksa izlemenin alemi yok.<br/>futbolun kendisini çoktan bıraktığı bir adamla işimiz olmamalı.
-  entry_channels: spor
+    bugün doğum günüm :)
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    40 bin lira'ya alınabilecek en iyi arazi aracı
-  entry_id:  94430376
-  entry_writer: naesse
-  entry_fav_count: 19
+    türkiyede 1.0 motor araçların çoğalması
+  entry_id:  94434291
+  entry_writer: another crack on the wall
+  entry_fav_count: 17
   entry_content: |
-    lada niva
-  entry_channels: anket,otomotiv
+    türkiye ile alakası olmayan bir durum. dünya genelinde teknolojinin gelişmesi, motorların daha küçük hacimle daha fazla güç üretebilmesi, karbon salınımının azaltılmaya çalışılması, üreticiler için daha karlı olması, turbo teknolojisinin olgunlaşması gibi sebeplerden ötürü motorları küçültme akımı var bir süredir. buna <a class="b" href="/?q=engine+downsizing">engine downsizing</a> deniliyor. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRW5naW5lX2Rvd25zaXppbmc" title="https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRW5naW5lX2Rvd25zaXppbmc">burada</a> daha fazla bilgi var.<br/><br/>edit: arabasının motor hacmiyle övünen görgüsüzdür demiş miydim? ayrıca büyük hacimli motorla övünmek ve cinsel iktidarsızlık arasında bir korelasyondan bahseden bir bilimsel çalışma görmüştüm sanki<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>. <br/><br/>bu arada 1.6 altı arabam hiç olmadı ama ileride olabilir gayet makuller.
+  entry_channels: otomotiv,ekonomi
 - entry_name: |
     türkiye'nin en güzel kızlarının olduğu il
   entry_id:  94412050
   entry_writer: kesslivol
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     edirneliyim, evet kızlarımız harikalar ama bir de hatay’ı görün derim. meme ve popo olayı hatay’da aşmış durumda. en güzel kızlar edirne’de ama en seksiler hatay’da.
   entry_channels: anket
@@ -310,18 +294,42 @@ data:
     25 ağustos 2019 trabzonspor yeni malatyaspor maçı
   entry_id:  94432902
   entry_writer: humanistcellat
-  entry_fav_count: 10
+  entry_fav_count: 12
   entry_content: |
     emine bulut ve öldürülen tüm kadınlar adına tepki olarak bir dakika geç başlanıyor maçlara. bu bir dakikalık sürede taraftar grupları sessiz çığlık ve ıslıkla tepki gösteriyor. trabzonspor taraftarı 3 lü çektirip coşuyor. arkadaşlar biriniz bile uyandırmadı mı ?
   entry_channels: spor
 - entry_name: |
-    gary medel
-  entry_id:  94433137
-  entry_writer: donatien
+    25 ağustos 2019 galatasaray konyaspor maçı
+  entry_id:  94401530
+  entry_writer: mete han turkyilmaz
+  entry_fav_count: 10
+  entry_content: |
+    gözlerin selçuk'u aramadığı maç.
+  entry_channels: spor
+- entry_name: |
+    sevişirken ula ula diye haykıran hanımefendi
+  entry_id:  94429359
+  entry_writer: abandon mortal kingdom
+  entry_fav_count: 9
+  entry_content: |
+    <a class="b" href="/?q=yirma%c4%9fa">yirmağa</a> gidiyor olabilir.
+  entry_channels: 
+- entry_name: |
+    26 ağustos 2019 dolar kuru
+  entry_id:  94433168
+  entry_writer: fazla dusunceli birey
   entry_fav_count: 6
   entry_content: |
-    maç satmayan, takımını satmayan, teknik direktörüne başkanına posta koymayan, sahada da, yeteneği kısıtlıdır şudur budur, hayattaki son doksan dakikasıymış gibi manyak gibi savaşan ruh hastası derecesinde emektar bir adamdı. ipneler biraz kadir kıymet takdir bilin.<br/>yolun açık olsun kardeş.
-  entry_channels: spor
+    yarın 5.85 ile günü açacağını düşündüğüm kur. sanırım reis dolar aldı cuma günü.
+  entry_channels: 
+- entry_name: |
+    kedilerin bile yemediği ucuz et döner deneyi
+  entry_id:  94434090
+  entry_writer: imvoodoo
+  entry_fav_count: 4
+  entry_content: |
+    bir gida deposunun copunden, oradaki kedilere, evimin sokagindaki kedilere ve kendi evimdeki kediye yiyecek getiriyorum. <br/><br/>orada bulunan kediler %100 dana kofteleri yemiyorlar. sokagimdaki kediler kofteleri havada kapiyorlar. kendi kedim koklamiyor bile. <br/>konteynir yanindaki kediler en cok pizzayi seviyorlar. pizzanin hamuru haric uzerindeki butun malzemeyi tuketiyorlar. <br/><br/>benim kedime kuru mama ve ac birtir salam haric hicbir sey yediremiyorum. buna balik ve kiyma da dahil. <br/><br/>ozetle kedilerin tercihine gore bir yiyecegin saglikli olup olmadigini anlamak zor. o donercilerin imalathanesine girip eti nereden aldiklari nasil hazirladiklari ogrenilmeden saglikli bir kaniya varamayiz.
+  entry_channels: yeme-içme
 - entry_name: |
     sözlük yazarlarının en çok etkilendiği film
   entry_id:  94404805
@@ -331,14 +339,6 @@ data:
     (bkz: <a class="b" href="/?q=the+fountain">the fountain</a>)<br/>senaryosu olsun, oyunculukları olsun, konu seçimi olsun on numara bir film.
   entry_channels: anket,tv,sinema
 - entry_name: |
-    türkiyede 1.0 motor araçların çoğalması
-  entry_id:  94434201
-  entry_writer: tapu zova
-  entry_fav_count: 2
-  entry_content: |
-    bende var, ibiza 1.0 dsg eco. tavsiye ederim.
-  entry_channels: otomotiv,ekonomi
-- entry_name: |
     komik dükkan isimleri
   entry_id:  94401441
   entry_writer: useful bullet
@@ -347,29 +347,21 @@ data:
     (bkz: <a class="b" href="/?q=area+51">area 51</a>)<br/><br/>nigde'de bir cafe.
   entry_channels: anket
 - entry_name: |
-    ilkel barbar
-  entry_id:  94425763
-  entry_writer: giryeban
+    ekrem imamoğlu vs recep tayyip erdoğan
+  entry_id:  94434696
+  entry_writer: nickson
   entry_fav_count: 2
   entry_content: |
-    bir fenerbahçeli olarak aklı melekelerinin yerinde olmadığını düşündüğüm organizma. altı üstü bir futbol rekabeti için ettiği lafların yenilir yutulur tarafı yok yönetim diye bir şey varsa ucursun bu mahlugu. ilk defa bir yazar için bunu yaziyorum.
-  entry_channels: ekşi-sözlük
+    biri sürekli geren, bölen, kutuplaştıran.<br/><br/>diğeri sürekli birleştiren, kucaklayan, sakinleştiren.<br/><br/>beyni ve vicdanı olan hangisini seçer?
+  entry_channels: anket
 - entry_name: |
-    sevişirken ula ula diye haykıran hanımefendi
-  entry_id:  94429659
-  entry_writer: sigadam
-  entry_fav_count: 1
+    bira içmelik arkadaş veritabanı
+  entry_id:  94410546
+  entry_writer: old school fucker
+  entry_fav_count: 2
   entry_content: |
-    puhahahahahah... ha belümü gırdın heyvan diye devam eden hanımefendidir
-  entry_channels: 
-- entry_name: |
-    kedilerin bile yemediği ucuz et döner deneyi
-  entry_id:  94434090
-  entry_writer: imvoodoo
-  entry_fav_count: 1
-  entry_content: |
-    bir gida deposunun copunden, oradaki kedilere, evimin sokagindaki kedilere ve kendi evimdeki kediye yiyecek getiriyorum. <br/><br/>orada bulunan kediler %100 dana kofteleri yemiyorlar. sokagimdaki kediler kofteleri havada kapiyorlar. kendi kedim koklamiyor bile. <br/>konteynir yanindaki kediler en cok pizzayi seviyorlar. pizzanin hamuru haric uzerindeki butun malzemeyi tuketiyorlar. <br/><br/>benim kedime kuru mama ve ac birtir salam haric hicbir sey yediremiyorum. buna balik ve kiyma da dahil. <br/><br/>ozetle kedilerin tercihine gore bir yiyecegin saglikli olup olmadigini anlamak zor. o donercilerin imalathanesine girip eti nereden aldiklari nasil hazirladiklari ogrenilmeden saglikli bir kaniya varamayiz.
-  entry_channels: yeme-içme
+    sağol canım, ben içtim de geldim dediğim başlık.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 - entry_name: |
     insan ruhuna en iyi gelen şey
   entry_id:  94432084
@@ -379,13 +371,13 @@ data:
     keşke dememek
   entry_channels: anket,ilişkiler,müzik,edebiyat,sağlık
 - entry_name: |
-    26 ağustos 2019 dolar kuru
-  entry_id:  94430263
-  entry_writer: enola gay
+    ilkokulun ilk gününden akılda kalanlar
+  entry_id:  94408223
+  entry_writer: nicksizbasim
   entry_fav_count: 1
   entry_content: |
-    bakalım ne olacak. <br/><br/>(bkz: <a class="b" href="/?q=25+a%c4%9fustos+2019+recep+tayyip+erdo%c4%9fan+a%c3%a7%c4%b1klamalar%c4%b1">25 ağustos 2019 recep tayyip erdoğan açıklamaları</a>)
-  entry_channels: 
+    ayakkabıları kapının önünde çıkırıyorsak eğer, o kadar ayakkabının arasında kendiminkini nasıl bulacağımın tedirginliği hala aklımda
+  entry_channels: anket,tarih,eğitim
 - entry_name: |
     şu an okunan kitap
   entry_id:  94414581
@@ -394,6 +386,14 @@ data:
   entry_content: |
     emily bronte - uğultulu tepeler<br/><br/>elimden düşüremiyorum tavsiyedir
   entry_channels: anket,edebiyat
+- entry_name: |
+    sözlük yazarlarının hayat felsefeleri
+  entry_id:  94434034
+  entry_writer: drata
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=koy+g%c3%b6t%c3%bcne+rahvan+gitsin">koy götüne rahvan gitsin</a>)<br/><br/>ilk aklıma gelen.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  94409401
