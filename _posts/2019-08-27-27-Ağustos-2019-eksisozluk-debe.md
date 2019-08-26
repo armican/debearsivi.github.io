@@ -6,7 +6,7 @@ data:
     izmir yangını için 3 bakana suç duyurusu
   entry_id:  94462468
   entry_writer: excelsior was here
-  entry_fav_count: 1427
+  entry_fav_count: 1436
   entry_content: |
     üst edit: yok abi bizden bir bok olmaz cidden. bokumuzda boğulmak müstehak bize. bizim gibi 3. dünya ülkelerinde hukuk, toplumsal infial gerçekleşirse işliyor. bunun örnekleri yığınla. şu olayı gündemde tutmayan da en az bu vatan topraklarına peşkeş çekenler kadar vatan hainidir.<br/><br/>başlık sınırına takıldı. tam hali "izmir yangını için 3 bakana suç duyurusunda bulunulması" olacaktı.<br/><br/>bir grup avukatın oluşturduğu hukukçu dayanışması, izmir’de yaşanan orman yangınının söndürülmesi konusunda ihmalleri bulunduğu gerekçesiyle, tarım ve orman bakanı <a class="b" href="/?q=bekir+pakdemirli">bekir pakdemirli</a>, içişleri bakanı <a class="b" href="/?q=s%c3%bcleyman+soylu">süleyman soylu</a> ve milli savunma bakanı <a class="b" href="/?q=hulusi+akar">hulusi akar</a> hakkında suç duyurusunda bulundu.<br/><br/>ayrıca haberde dikkatleri çeken en önemli detay ise kaz dağları'nın ardından izmir'de de yangının çıktığı yerde maden araması başvurusu yapan kanadalı <a class="b" href="/?q=alamos+gold">alamos gold</a> firması. <br/><br/>adamlar maden araması için başvuruda bulunuyor, her ne hikmetse başvuruya konu ormanlık alanda yangın çıkıyor, yangına müdahale eden ukraynalı pilot otel odasında ölü bulunuyor, thk uçakları yağ damlatıyor diye yangına müdahale edilmesine izin verilmiyor...<br/><br/>yatacak yeriniz yok!<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/kaz-daglari-nin-ardindan-izmir-mi-alamos-gold-orman-yangininin-ciktigi-bolgelerde-maden-sahasi-basvurusunda-bulundu,836264" title="https://t24.com.tr/haber/kaz-daglari-nin-ardindan-izmir-mi-alamos-gold-orman-yangininin-ciktigi-bolgelerde-maden-sahasi-basvurusunda-bulundu,836264">kaynak</a><br/><br/>(bkz: <a class="b" href="/?q=kaz+da%c4%9flar%c4%b1+siyan%c3%bcrl%c3%bc+alt%c4%b1n+madeni+direni%c5%9fi">kaz dağları siyanürlü altın madeni direnişi</a>)<br/>(bkz: <a class="b" href="/?q=u%c3%a7aklar+ya%c4%9f+damlat%c4%b1yor+yang%c4%b1na+m%c3%bcdahale+edemiyor">uçaklar yağ damlatıyor yangına müdahale edemiyor</a>)<br/>(bkz: <a class="b" href="/?q=izmir+yang%c4%b1n%c4%b1na+m%c3%bcdahale+eden+ukraynal%c4%b1+pilot">izmir yangınına müdahale eden ukraynalı pilot</a>)
   entry_channels: siyaset,sağlık,haber,ekonomi
@@ -14,7 +14,7 @@ data:
     bir çaylak parçasıyla mesajlaşacak kadar düşmek
   entry_id:  94448010
   entry_writer: sigadam
-  entry_fav_count: 1300
+  entry_fav_count: 1322
   entry_content: |
     ulan en yakın arkadaşım istanbul'da en iyi kalp damar cerrahları arasında ilk 5'te. kendisi sözlükte çaylak. senin sıfatını merak ettim.
   entry_channels: anket,ekşi-sözlük
@@ -22,7 +22,7 @@ data:
     haluk levent'in emine bulut'un kızıyla görüşmesi
   entry_id:  94471350
   entry_writer: ylz
-  entry_fav_count: 668
+  entry_fav_count: 693
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B1oEKIxBld3/?igshid=a7g2jj4wcu55" title="https://www.instagram.com/p/B1oEKIxBld3/?igshid=a7g2jj4wcu55">kurban olurum</a> o masum yüzüne. <br/><br/>haluk levent ailesinden vekalet almış. şarkılar söyleyeceğiz diyor. kızımızın yüzünü ilk kez görüyorum. öyle buruk bi sevinç var ki içimde. canım yavrum benim. hep gülersin inşallah. <br/><br/>haluk levent iyi ki varsın.
   entry_channels: haber
@@ -30,7 +30,7 @@ data:
     fax isteyen zavallı digiturk
   entry_id:  94473244
   entry_writer: silindir
-  entry_fav_count: 481
+  entry_fav_count: 532
   entry_content: |
     “zavallı” diyorum çünkü müşteriden paket iptali için fax istemek için baya düşmüş olmak lazım. <br/><br/>bir paketi iptal edeceğim. telefon ettim digiturk’e. kimliğimin fotokopisiyle dilekçeyi faxlamam gerektiğini söylediler. email olmuyormuş. hayır, memlekette fax diye bir şey kalmadı. işi yokuşa sürüp zaman kazanacaklar akılları sıra. 3 saattir fax makinesi arıyorum. <br/><br/>her zaman yavşak bir işletmeydiniz. hiç de bir şey değişmedi.<br/><br/>edit: hellofax.com digiturk’un numarasını kara listeye almış. gönderemiyorsunuz. digiturk hellofax’ı satın almışsa şaşırmam.
   entry_channels: tv,teknoloji
@@ -38,7 +38,7 @@ data:
     gelinlik teslim partisi
   entry_id:  94458738
   entry_writer: sonadora
-  entry_fav_count: 467
+  entry_fav_count: 468
   entry_content: |
     hayatlarında ilk kez, birkaç hafta boyunca etraflarındaki embesillerin aşırı ilgileriyle kendilerini değerli hissetme fırsatı yakalayabilen kezbanların, sınırlı zekalarıyla, "bu bir kaç haftaya daha ne sığdırabiliriz" diye düşünmeleri sonucu ortaya çıkan etkinliklerden biri.<br/><br/>eleştiriyoruz falan ama, am teslim almak için düğün yapan damatlara da böylesi müstehak.
   entry_channels: ilişkiler,moda
@@ -46,7 +46,7 @@ data:
     marketteki en ucuz suyu alan insan
   entry_id:  94464085
   entry_writer: seagogol
-  entry_fav_count: 442
+  entry_fav_count: 448
   entry_content: |
     alması gereken brüt aylık maaşın 537.5 lirasını vergi olarak ödeyen, aldığı 2020 lira ile ev geçindirmeye çalışan birisi zaten 20 krş ile zengin olmayacağını biliyordur. ama bu 20 kuruşun bir hafta boyunca birikip en azından bir ekmek parası çıkacağını düşünüyordur. sen en pahalı suyu al iç şifa olsun. 10-20 krş ihtiyacı olan insanın haline de karışma.<br/><br/>düzeltme: imlâ
   entry_channels: yeme-içme,ekonomi
@@ -62,15 +62,23 @@ data:
     falcao'yu comolli engellemeye çalıştı iddiası
   entry_id:  94470695
   entry_writer: woolrock
-  entry_fav_count: 369
+  entry_fav_count: 370
   entry_content: |
     ulan iyi ki uzun bir aradan sonra 2 mac ust uste kazandik. bu galatasaraylilar iyice kafayi yedi.
   entry_channels: spor,haber
 - entry_name: |
+    haluk levent samimiyetsizliği
+  entry_id:  94478070
+  entry_writer: ragnarblabla
+  entry_fav_count: 363
+  entry_content: |
+    ter kokulu odanızda entry sıçmak yerine az biraz da siz show yapsanız keşke.
+  entry_channels: magazin
+- entry_name: |
     porno sektörü kadın sömürüsü üzerine kurulu
   entry_id:  94459810
   entry_writer: i hate you all
-  entry_fav_count: 298
+  entry_fav_count: 301
   entry_content: |
     yanlış. erkek sömürüsü üzerine kuruludur. <br/><br/>erkek çalışanların, işleri daha zor olmasına rağmen kadın çalışanlardan çok daha az para kazanmaktalarmış.<br/><br/>bu konuda eşitliği savunan bir kadın göremezsiniz tabii.
   entry_channels: tv,sinema,haber
@@ -78,63 +86,47 @@ data:
     küçükçekmece'deki pitbull dehşeti
   entry_id:  94463017
   entry_writer: marques de pombal
-  entry_fav_count: 292
+  entry_fav_count: 296
   entry_content: |
     buna bakıp besleyen nerde adam varsa çer çöp. ezik, egosu yüksek mal malak adamlar hepsi. tipe bak üflesen yıkılacak velet pitbull la geziyor. sırf bu köpek yüzünden nefret etmeme rağmen silah alabilirim. bu köpeği durduramıyorsunuz arkadaş. 2 ufak çocuğum var.<br/><br/>bir kere kartalda parktayız ufaklık kaydıraktan kayıyor annesi yanında, diğeri pusette ben puseti tutuyorum. tipin biri elinde pitbull geçti tam parkın ortasından. o kadar çaresiz hissettim ki anlatamam. bir elimde puset, diğeri kaydırakta, köpek delirse ne yaparım? kafayı yedirdi bana bu düşünce. "keşke silahım olsaydı" dedim hayatımda ilk defa.<br/><br/>devlette nasıl bir devlettir anlamıyorum. yapıştırsana şuna bakıp besleyene cezayı kardeşim. bitirsene şunu artık. kaç çocuk öldü, kaç kişi yaralandı, daha ne bekliyorsun, ne işe yarıyorsun sen ya?<br/><br/>ha son bir sözüm var burayı okuyan gerizekalı pitbull sahiplerine: o köpeğe dikkat edin. bak çok dikkat edin bir gün birinin evladının canını yakar, oyarlar gözlerinizi. büyük konuşmayayım ama ben hayatınızı sikerim mesela.
   entry_channels: haber
 - entry_name: |
-    26 ağustos 2019 dolar kuru
-  entry_id:  94455166
-  entry_writer: son samurai
-  entry_fav_count: 282
-  entry_content: |
-    mevsim yaz, aylardan ağustos... <br/>riviera kıyısında küçük bir kasaba, yaz sezonu ancak yagmur yağıyor, yani kasaba bomboş, herkesin borcu var ve kredi ile yaşıyorlar<br/>şans eseri otele zengin bir rus geliyor ve resepsiyona 100 dolar bırakıp, odaya bakmaya çıkıyor<br/>otel sahibi parayı hemen alıp, kasaba olan borcunu ödüyor<br/>kasap, 100 doları hemen kaparak toptancıya olan borcunu vermeye gidiyor<br/>toptancı büyük bir sevinçle parayı alıp, kriz nedeniyle kredili hizmet veren son defa birlikte olduğu kadına götürüyor. <br/>kadın parayı alıp aynı otele giderek oraya olan borcunu ödüyor.<br/>ve o anda rus müşteri odadan geri dönüyor ve odayı beğenmediğini söyleyip 100 dolarını geri alarak kasabayı terk ediyor.<br/>rus müşterinin bu ziyaretinden somut olarak hiç para kazanan olmuyor ancak <br/>tüm kasaba borçlarindan kurtuluyor ve geleceğe ümitle bakiyor..
-  entry_channels: ekonomi
-- entry_name: |
-    haluk levent samimiyetsizliği
-  entry_id:  94478070
-  entry_writer: ragnarblabla
-  entry_fav_count: 254
-  entry_content: |
-    ter kokulu odanızda entry sıçmak yerine az biraz da siz show yapsanız keşke.
-  entry_channels: magazin
-- entry_name: |
-    manuel vites araba iş değil amelelikmiş
-  entry_id:  94453565
-  entry_writer: buralarayazgunukaryagiyor
-  entry_fav_count: 252
-  entry_content: |
-    doğru yolu bulan insan sözüdür. <br/><br/>otonom araçların üretildiği yüzyılda monüel arabanın tadı bir başka diyen dangalakların ağzına terlikle vurmak gerekir. at arabasına binin doblocu çomarlar.
-  entry_channels: anket
-- entry_name: |
-    tarihin en iyi forvet ikilisi
-  entry_id:  94449220
-  entry_writer: antik caylak
-  entry_fav_count: 248
-  entry_content: |
-    (bkz: <a class="b" href="/?q=darko+kovacevic">darko kovacevic</a>) <br/>(bkz: <a class="b" href="/?q=nihat+kahveci">nihat kahveci</a>)
-  entry_channels: spor,anket
-- entry_name: |
     izmir orman yangınlarını pkk'nın üstlenmesi
   entry_id:  94473413
   entry_writer: issox
-  entry_fav_count: 232
+  entry_fav_count: 269
   entry_content: |
     pkk ile iş tutanın, birlikte hareket edenin yine akp'nin çıkmasının şaşırtmadığı gerçektir.<br/><br/>yoksa yangın söndürme uçakları kullanılabilir haldeyken kullanmak istemeyen bir bakan ve buna karşı çıkmayan bir cumhurbaşkanı.<br/><br/>fazla söze gerek yok.
   entry_channels: siyaset,tv,tarih,haber
 - entry_name: |
+    tarihin en iyi forvet ikilisi
+  entry_id:  94449220
+  entry_writer: antik caylak
+  entry_fav_count: 251
+  entry_content: |
+    (bkz: <a class="b" href="/?q=darko+kovacevic">darko kovacevic</a>) <br/>(bkz: <a class="b" href="/?q=nihat+kahveci">nihat kahveci</a>)
+  entry_channels: spor,anket
+- entry_name: |
     düğün yemeğini davetlilere ödeten çiftler
   entry_id:  94468196
   entry_writer: cokmedinamigi
-  entry_fav_count: 171
+  entry_fav_count: 176
   entry_content: |
     mantıklı bulanları anlamakta zorlanıyorum. evlilik ya da başka bir kutlama olması hiç fark etmez. eğer insanları kendi evliliğinizi kutlamak için bir yere davet ediyorsanız hesabı da ödersiniz. hatta kutlama olmasına bile gerek yoktur. bir insanı bir yere siz davet ettiyseniz hesabı ödemek size düşer. ha maddi durumunuz müsait değil mi? kimse kafanıza silah dayamıyor, kimseyi bir yerlere toplamak zorunda değilsiniz. insanların yüzsüzlük katsayıları inanılmaz arttı...
   entry_channels: ilişkiler,yeme-içme,ekonomi
 - entry_name: |
+    29 ağustos 2019 sigara zammı
+  entry_id:  94476483
+  entry_writer: sigaramin dumanini kiskan
+  entry_fav_count: 167
+  entry_content: |
+    zam yapacaksaniz iste boyle yapin. hesaplamak artik cok daha kolay olacak 1 dal 1tl <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
     verince pişman olunan şeyler
   entry_id:  94473014
   entry_writer: serdarsl 06
-  entry_fav_count: 147
+  entry_fav_count: 151
   entry_content: |
     borç. <br/><br/>asla şaşmadı, hiç de şaşmaz. o yüzden artık vermiyorum.
   entry_channels: anket,ilişkiler
@@ -142,55 +134,55 @@ data:
     ahlat'ta cumhurbaşkanlığı külliyesi kuruyoruz
   entry_id:  94473259
   entry_writer: alamutharameyn
-  entry_fav_count: 145
+  entry_fav_count: 146
   entry_content: |
     neden sadece ahlat'a yapılıyor? trabzon, antalya, muğla, mersin, aydın, edirne, kayseri'ye de yapılsın.her yere yapılsın hocam! yarın bir japon bürokrat, bir avustralya'lı politikacı ben akdenize gitmek istiyorum derse? nerde yatıracağız otelde mi? 81 ilin en az 60 tanesine cumhurbaşkanlığı külliyesi yapılması lazım. nasıl bir ayıp bu? ben bir vatandaş olarak kabul etmiyorum. komple ülkeyi cumhurbaşkanlığı külliyesine çevirelim. ne olur yani? koskoca siyasiler, bakanlar, diplomatlar falanlar filanlar. size ne oluyor da karşı çıkıyorsunuz otlar!
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    29 ağustos 2019 sigara zammı
-  entry_id:  94476483
-  entry_writer: sigaramin dumanini kiskan
-  entry_fav_count: 125
-  entry_content: |
-    zam yapacaksaniz iste boyle yapin. hesaplamak artik cok daha kolay olacak 1 dal 1tl <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     1071 m2 köşk ve yanına butik hotel yapıyoruz
   entry_id:  94472351
   entry_writer: ergenlige girememis pikachu
-  entry_fav_count: 108
+  entry_fav_count: 111
   entry_content: |
     ve omru boyunca o butik otellerin hic birine adim atamayacak, kapisindan dahi iceri sokulmayacak ahlat'in yerlisi cilginca reislerini alkislar.
   entry_channels: siyaset,tv,ekonomi,seyahat
 - entry_name: |
-    sözlüğün en zengin insanı
-  entry_id:  94456795
-  entry_writer: demonsrunwhenagoodmangoestowar
+    sadece askerde karşılaşılan olaylar
+  entry_id:  94458983
+  entry_writer: realsanto
   entry_fav_count: 106
   entry_content: |
-    sevdiğim işi yapıyorum, patronum yok ve evli değilim.
-  entry_channels: anket,ekşi-sözlük,ekonomi
+    2004 yılının nisan ayında 1. orduya bağlı birlikler keşan'da bir tatbikat düzenleyecek. tatbikatı izleyecekler arasında <a class="b" href="/?q=ya%c5%9far+b%c3%bcy%c3%bckan%c4%b1t">yaşar büyükanıt</a> var, <a class="b" href="/?q=engin+alan">engin alan</a> var, samanyolu gibi, ne kadar “çok yıldızlı paşa” varsa gelecek. keşan civarındaki sulama baraj göletlerinden birisi temsili <a class="b" href="/?q=meri%c3%a7+nehri">meriç nehri</a> olarak kabul edilecek, komşu'ya taarruz edeceğiz. kimi tank atışı yapacak, kimi <a class="b" href="/?q=zpt">zpt</a> ile sudan geçecek, kimi süngü hücumuna kalkacak. bizim birlik de yüzer köprüler kurup suyun karşısına zırhlı araç, personel, mühimmat taşıyacak. <br/><br/>neyse işte, bütün planlar yapılıyor, görev dağılımları belirleniyor. bir hafta öncesinden kuş uçmaz kervan geçmez, telefon televizyon çekmeyen, dış dünyayla hiçbir iletişimimizi bırakmayacak tatbikat göletinin çevresine çadırlar kurulup yerleşiliyor. daha 15 günlük taze bir asteğmen olduğum için bana kebap bir karargah görevi düşüyor sadece, hem gölge, hem semaverde çay var, göl manzaralı çadırdayım, geceleri astsubaylar balık tutup ateşte pişiriyor, keyfim yerinde.<br/><br/>tatbikata bir gün kala kolordu kurmay başkanı tatbikatın planlarını adeta bir <a class="b" href="/?q=fevzi+pa%c5%9fa">fevzi paşa</a> gibi, <a class="b" href="/?q=yakup+%c5%9fevki+pa%c5%9fa">yakup şevki paşa</a> gibi inceliyor, "asıl taarruzdan önce önden bir tim gitsin, çıkış mevzilerini temizlesin" emrini veriyor. olay şu; bir bot öncü olarak düşman sahiline yanaşacak, sahildeki temsili nöbetçi düşman askeri ile yalandan bir çatışıp sahili asıl çıkarmaya uygun hale getirecek. işte gösterişten biraz mermi biraz patlayıcı harcanacak falan, bildiğin holywood aksiyonları. gel gör ki, rütbelilerin tamamının zaten halihazırda görevi var, ama 2-3 kilo <a class="b" href="/?q=c4">c4</a>'ü de erlere emanet edemiyorlar. o karambolde "sen hiç c4 patlattın mı?" diye bir soru geliyor tabur komutanından;"yapabilir misin?" diyor bana.<br/><br/>tabi öyle bir ortamda "biz de narlıdere'de az fünye çitilemedik, var 1-2 patlatmışlığımız" diyemiyorsun. "emredersiniz komutanım" cümlesinin ardından bombayı kucağıma bırakıyorlar, her iki anlamıyla da. <br/><br/>sonunda tatbikatın yapılacağı cuma sabahı geliyor, daha güneş doğmadan kurbağa vıraklamaları eşliğinde kalkıyoruz. tam teçhizatlı ve kamuflajlı olarak hazırlanıyoruz, önce postallarımızı sonra yüzümüzü siyah boyalarla boyuyoruz. elini sallasan william wallace’a, aragorn’a, leonidas’a çarpar öyle bir ortam. lan bu kadar testosteron yüklü canlıyı tatbikat saatine kadar nasıl oyalayacağız derken, paşaların çadırı ve malzemelerini getiren kamyonun şoföründen, tam bir hafta sonra dış dünyadan ilk haber geliyor: “<a class="b" href="/?q=%c3%a7ak%c4%b1r+%c3%b6lm%c3%bc%c5%9f">çakır ölmüş</a>”. gölün çevresini bu sefer kurbağa vraklamaları değil “çakır ölmüş, çakır ölmüş, çakır ölmüş” sesleri sarıyor. o dönem diziyi takip etmemiş olanlar için çok sürreal gelebilir; ne milli maç ne derbi, ülkedeki askeri birliklerin hemen hepsinde yat saati sadece perşembe geceleri kurtlar vadisi’nin bitimine göre ayarlanırdı. <a class="b" href="/?q=s%c3%bcleyman+%c3%a7ak%c4%b1r">süleyman çakır</a>, gıyabında cenaze namazı kılınan, mevlit okutulan, gazeteye başsağlığı ilanı verilen, halı saha maçından önce hatırası için saygı duruşunda bulunulan bir dizi karakteriydi. <sup class="ab"><a title="(bkz: çakır&#39;ın cenazesine giden efsane nesil)" href="/?q=%c3%a7ak%c4%b1r%27%c4%b1n+cenazesine+giden+efsane+nesil" data-query="çakır&#39;ın cenazesine giden efsane nesil">*</a></sup><sup class="ab"><a title="(bkz: süleyman çakır için saygı duruşu)" href="/?q=s%c3%bcleyman+%c3%a7ak%c4%b1r+i%c3%a7in+sayg%c4%b1+duru%c5%9fu" data-query="süleyman çakır için saygı duruşu">*</a></sup><sup class="ab"><a title="(bkz: süleyman çakır için helva dağıtmak)" href="/?q=s%c3%bcleyman+%c3%a7ak%c4%b1r+i%c3%a7in+helva+da%c4%9f%c4%b1tmak" data-query="süleyman çakır için helva dağıtmak">*</a></sup><br/><br/>bu hayali ölüm haberi başta astsubay ve uzman çavuş tayfa olmak üzere birliğin tamamını yıktı. lan yarım saat önce çıplak elle ayıya saldıracak adamlar gitti, tatbikat ortamı küçük emrah’ın klibinde yağmurda ağlayacak adamlarla doldu; yüzü gözü savaş boyalı, eli tüfekli, tarlası yanmış köylü gibi çöküp sigara içen yüzlerce asker...<br/><br/>neyse işte sonunda telsizlerden “1 numara garnizona girdi” anonsu geçildi, herkes bir silkindi. paşa alana yaklaştıkça kimse göt korkusundan ağzını açamadaığından konuşma sesleri yerini adeta mors alfabesi gibi kullanılan telsiz mandalı kliklemesine bıraktı da, ortamdaki cenaze evi havası iyice dağıldı. yıldızlar karması paşalar tribünlerdeki yerini alınca, tatbikat başladı. öncü tim olarak <a rel="nofollow noopener" class="url" target="_blank" href="https://www.zodiac-nautic.com/wp-content/uploads/2016/04/Zodiac-Mark-IIC.jpg" title="https://www.zodiac-nautic.com/wp-content/uploads/2016/04/Zodiac-Mark-IIC.jpg">marc 2 zodiac bot</a>a binip gölün diğer tarafına geçtik. düşman askerlerini ivedilikle ve başarıyla temizledik. artık zamanı gelmişti, toz duman daha afili olsun diye önceden hazırladığım kum torbalarının arasına c4’leri yerleştirdim, 30 saniyelik fitili fünye ile harekete geçirdim. ardından, mevziye doğru hızlı adımlarla yürüdüm. lan arkadan slow motionda iki tane de beyaz <a class="b" href="/?q=g%c3%bcvercin">güvercin</a> uçsa tam <a class="b" href="/?q=john+woo">john woo</a> filmi <a rel="nofollow noopener" class="url" target="_blank" href="https://i.postimg.cc/TPks9CL2/mi2.png" title="https://i.postimg.cc/TPks9CL2/mi2.png">sahnesi</a> gibi olabilecekken, prodüksiyon kısırlığı yüzünden tatbikat bitene kadar olanı biteni izleyeceğim mevziye girip yanımda getirdiğim gofreti yedim. <br/><br/>akşam üstü, üstümüz başımız toz içinde, yüzümüz boyalı, elimizde belimizde silahlarla rambo gibi keşan orduevi’ne girdik. nöbetçi askerler bizi, yüzbaşı faruk’u selamlayan harbiye nezaretinin üyeleri gibi gururla selamladı. yarım saat sonra duşumuzu alıp, kot tişört jöleli saç ile lobiye inince kimse bizi tanımadı lan.<br/><br/>zaten kahramanların gizli kalması gerekir.
+  entry_channels: anket,eğitim
+- entry_name: |
+    charlize theron'un oğlunu kız gibi giyindirmesi
+  entry_id:  94477089
+  entry_writer: batuhank
+  entry_fav_count: 102
+  entry_content: |
+    3 yaşında çocuk yeri geliyor ben dinozorum, kuşum, böceğim de diyebiliyor<br/><br/>bunu deseydi ne yapacaktı? tasma takıp kafese mi koyacaktı çocuğu?<br/><br/>özgürlüğün de belli bir sınırı olması lazım, gidip kedi köpek almış gibi evlatlık çocuk almış bir de keyfine göre çocuğun şeklini değiştiriyor, sadece ünlü diye de dokunulmuyor, normal şartlar altında o çocuk bir saniye olsun bu kadında tutulmazdı
+  entry_channels: 
 - entry_name: |
     26 ağustos 2019 beste kökdemir instagram pozu
   entry_id:  94471678
   entry_writer: locabus
-  entry_fav_count: 85
+  entry_fav_count: 92
   entry_content: |
     uzun zamandır yazmadığım sözlüğe, sırf şuna bir şey yazmak için girdim teşekkürler:<br/><br/>siz bizim bilmediğimiz bir pezevenk grubu musunuz lan instagramda götünü açan herkese başlık açıyorsunuz lan kavatlar? para mı kazanıyorsunuz lan bu karılardan puştlar? <br/><br/>not: piçe bak bi de tarih atmış başa, sanarsın birleşmiş milletler nükleer barış protokolü.
   entry_channels: magazin
 - entry_name: |
-    25 ağustos 2019 galatasaray konyaspor maçı
-  entry_id:  94446666
-  entry_writer: skiptomyloujr
+    eski sevgilinin en büyük hatası
+  entry_id:  94471263
+  entry_writer: ocean ocean
   entry_fav_count: 75
   entry_content: |
-    falcao bugün sahada yok gibiydi.
-  entry_channels: spor
+    üzüntüyü yok etmek yerine, mutluluğu yok etmesi. çevremizde gördüklerimizden...
+  entry_channels: ilişkiler
 - entry_name: |
     5 dakikadan fazla katlanılamayacak şeyler
   entry_id:  94446558
   entry_writer: elmander666
-  entry_fav_count: 69
+  entry_fav_count: 72
   entry_content: |
     almanya/avusturya'dan yaz tatiline gelen çoooook uzaktan akrabalar.<br/><br/>senle konuşurken bmw'lerine bakmalar<br/>aralarında 3-5 kelime almanca konuşmalar<br/>kıllı bacakları ile şort/kapri ve güneş gözlüğü kombinleri<br/>hiç susmayan,devamlı bağıran ve bişeyler isteyen 5-10 yaş aralığında ki çocukları<br/>x/y bizim oralarda şu kadar yuro demeleri<br/>devamlı rte'yi övmeleri <br/>buraların kıymetini bilin demeleri(en sövdüğüm yer)<br/>vs...vs<br/><br/>edit: birçok yazar arkadaş uyardı,"yoro" değil "oyro"olacak şeklinde düşündüm de evet yoro diyenler daha çok.
   entry_channels: anket
@@ -198,26 +190,34 @@ data:
     ilk buluşmayı 4 kelime ile mahvet
   entry_id:  94447583
   entry_writer: ha nedir
-  entry_fav_count: 67
+  entry_fav_count: 68
   entry_content: |
     kitap okumuyorum, eksikliğini hissetmiyorum
-  entry_channels: ilişkiler
-- entry_name: |
-    eski sevgilinin en büyük hatası
-  entry_id:  94471263
-  entry_writer: ocean ocean
-  entry_fav_count: 65
-  entry_content: |
-    üzüntüyü yok etmek yerine, mutluluğu yok etmesi. çevremizde gördüklerimizden...
   entry_channels: ilişkiler
 - entry_name: |
     yazarların favori ressam ve eseri
   entry_id:  94446817
   entry_writer: hevolas
-  entry_fav_count: 48
+  entry_fav_count: 51
   entry_content: |
     phil lockwood - office at night <br/><br/>kendisini bugün bir instagram hesabında gördüm, görür görmez vuruldum. hopper'ın resimlerine zaten hastayım, phil lockwood'u da listeme aldım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/search?rlz=1C1NHXL_trTR683TR683&amp;tbm=isch&amp;sa=1&amp;ei=7fZiXb2QJ5LUwQL83bOACA&amp;q=phil+lockwood+office+in+the+night&amp;oq=phil+lockwood+office+in+the+night&amp;gs_l=img.3...11741.22995..23125...1.0..0.119.3401.19j15......0....1..gws-wiz-img.......0j35i39j0i67j0i30j0i5i30j0i8i30.TpK6ep-Z2C0&amp;ved=0ahUKEwj9us6i9Z7kAhUSalAKHfzuDIAQ4dUDCAY&amp;uact=5#imgrc=qIb5JgIP9Him1M:" title="https://www.google.com.tr/search?rlz=1C1NHXL_trTR683TR683&amp;tbm=isch&amp;sa=1&amp;ei=7fZiXb2QJ5LUwQL83bOACA&amp;q=phil+lockwood+office+in+the+night&amp;oq=phil+lockwood+office+in+the+night&amp;gs_l=img.3...11741.22995..23125...1.0..0.119.3401.19j15......0....1..gws-wiz-img.......0j35i39j0i67j0i30j0i5i30j0i8i30.TpK6ep-Z2C0&amp;ved=0ahUKEwj9us6i9Z7kAhUSalAKHfzuDIAQ4dUDCAY&amp;uact=5#imgrc=qIb5JgIP9Him1M:">şudur</a>
   entry_channels: anket,sanat
+- entry_name: |
+    fiyatı pahalı gelince mağazada uydurulan yalanlar
+  entry_id:  94476118
+  entry_writer: psyjonturk
+  entry_fav_count: 49
+  entry_content: |
+    emekçi emekçiye yalan söylemez, pahalı der bırakır yerine.<br/>kimden ne diye utanacağız ki, ekonomiyi bu hale getirenler utansın.
+  entry_channels: anket,ilişkiler,ekonomi
+- entry_name: |
+    czn burak'ın dökümhanede yaptığı ızgara
+  entry_id:  94478802
+  entry_writer: circiriye
+  entry_fav_count: 41
+  entry_content: |
+    tüik verilerindeki tüm işsizliği bu adam oluşturmuyorsa ben de hiç bir şey bilmiyorum.<br/>altı üstü yapacağın bir et, maden araştırma enstitüsü gibi çalışıyorsun be pezevenk.
+  entry_channels: yeme-içme
 - entry_name: |
     tek taş yüzük istemeyen kadın
   entry_id:  94470070
@@ -227,21 +227,21 @@ data:
     benim bu. <br/>biz evlenirken eşim tek taş alabilecek maddiyatta degildi. evlenirken mi aliniyor bu meret, evlilik teklifinde mi, ondan bile haberim yok.<br/>bahcedeydik, ağaçtan vişne topluyorduk. bana vişneden yüzük yapti bağlayıp, benimle evlenir misin, dedi. onu takti parmagima. 4 yil oldu evleneli, dunyanin en degerli yuzugunden daha degerli o visne benim icin. gözüm gibi saklıyorum. ve pırlanta gibi bir kizim var. gerisi umrumda degil. yuzunuze vurur ileride kadin bunu, vs denmis. karakter meselesi bu. kendi yaptigi iyiligi ya da karsisindakinin o anda yapamadigi iyiligi yuze vuran her cinsten kacin.
   entry_channels: ilişkiler,moda
 - entry_name: |
-    fiyatı pahalı gelince mağazada uydurulan yalanlar
-  entry_id:  94476118
-  entry_writer: psyjonturk
-  entry_fav_count: 33
-  entry_content: |
-    emekçi emekçiye yalan söylemez, pahalı der bırakır yerine.<br/>kimden ne diye utanacağız ki, ekonomiyi bu hale getirenler utansın.
-  entry_channels: anket,ilişkiler,ekonomi
-- entry_name: |
     sollamak için tampona yapışan yavşak
   entry_id:  94472884
   entry_writer: godspeed
-  entry_fav_count: 31
+  entry_fav_count: 34
   entry_content: |
     brake check yapılası insandır
   entry_channels: otomotiv
+- entry_name: |
+    bir insanı tanımak için yeterli süre
+  entry_id:  94477670
+  entry_writer: genelpano
+  entry_fav_count: 30
+  entry_content: |
+    bazı insanlar profesyonel yalancıdır, yıllar yetmez.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  94446457
@@ -259,50 +259,34 @@ data:
     bir kişi de çıkıp demiyor ki "yahu bu 1.0 diye küçük gördüğünüz motorlar atmosferik değil, aşırı beslemeli"<br/><a class="b" href="/?q=a%c5%9f%c4%b1r%c4%b1+besleme">aşırı besleme</a>li. yani <a class="b" href="/?q=turbo">turbo</a> veya <a class="b" href="/?q=supercharger">supercharger</a> veya her ikisi<sup class="ab"><a title="(bkz: tsi)" href="/?q=tsi" data-query="tsi">*</a></sup>de...<br/><br/>diyelim ki aşırı beslemeli motora sahip bir otomobiliniz var. ve bu otomobil ile bir yarışa katılmak istiyorsunuz.<br/>yarışan otomobiller motorlarının silinir hacmine göre <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/pc92134bvopu" title="https://eksiup.com/p/pc92134bvopu">kategorilere ayrılır</a>. 1600cc, 2000cc gibi.<br/><br/>bu sizin otomobil hangi sınıfa dahil olacak. 1600 cc atmosferik honda civic ile 1500 cc turbo beslemeli civic aynı kategoride mi yarışacak?<br/><br/>tabii ki hayır!<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/hd921366c5yf" title="https://eksiup.com/p/hd921366c5yf">fıa diyor ki</a> otomobilde turbo/supercharger var ise; benzinli ise 1,7 ile dizel ise 1,5 ile çarparım.<br/>yani özetle sizin 1500cc turbo honda civic, oldu mu size 2550 cc.<br/><br/>aynı hesapla 1.0 tsı golf de kural kitabına göre 1700 cc!<br/>1700 cc!!<br/><br/>ona göre ;)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/pc92134bvopu">https://eksiup.com/p/pc92134bvopu</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/hd921366c5yf">https://eksiup.com/p/hd921366c5yf</a>
   entry_channels: otomotiv,ekonomi
 - entry_name: |
-    bir insanı tanımak için yeterli süre
-  entry_id:  94477670
-  entry_writer: genelpano
-  entry_fav_count: 27
+    kredi kartı geçmeyen işletme
+  entry_id:  94447114
+  entry_writer: poika
+  entry_fav_count: 24
   entry_content: |
-    bazı insanlar profesyonel yalancıdır, yıllar yetmez.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    kahvaltıda çaya alternatif içecekler
-  entry_id:  94461201
-  entry_writer: pink strawberry
-  entry_fav_count: 20
-  entry_content: |
-    portakal suyu ya da süt
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    aslan191919
-  entry_id:  94449673
-  entry_writer: cilli horozun intikami
-  entry_fav_count: 19
-  entry_content: |
-    nasıl viral olduğunu merak ettiğim şahıs. sonuçta maç başlamadan kupon yapıyor ve tutturuyor. bahis firmasının bu virali yapabilmesi için maç sonuçlarını bilmesi gerekir. he derseniz hiç oynanmıyor oynanmış gibi gösteriliyor çok riskli derim. sonuçta iddiada 300.000 kaybeden adam başlığı da açılabilirdi. insanları iddiadan uzaklaştırabilirdi.
-  entry_channels: spor
+    pek rastlamadığım işletmelerdir. <br/><br/>çoğunda var.<br/><br/>ben kredi kartını bazen inat olsun diye kullanıyorum. <br/><br/>masaya oturuyorum; sigara yakıyorum. 5 garson muhabbet ediyor. ulan küllük getir işte; peçete bitmiş, koy. hava 120 derece ılık kola getiriyor. zero diyorsun ısrarla sallana sallana normal kola getiriyor. tuzluk vs leş... tuvalet desen bok götürüyor... <br/><br/>siz ne iş yapıyorsunuz oğlum?<br/><br/>şimdi diyeceksiniz ki garsonun işi; işletmenin ne suçu var. işletme nasıl yönlendirirse garson/temizlikçi öyle çalışır. <br/><br/>neyse; geliyor hesap sallıyorum 100 tl. millet atıyor nakit. ben topluyorum; pos istiyorum.<br/><br/>hop; yüzde 8 devlete, yüzde 3 bankaya... 11 lira... yüzde 1 de bonus veriyor. 1 lira da benim cebe... <br/><br/>ayrıca, şurası önemli; <br/><br/>bir kere çok ciddi zehirlendim yemekten. ve nereden yediğime de emindim. ancak nakit ödediğim ve fiş kesmedikleri için kanıtlayamadım. kanıt lazımmış orada yemek yediğinize dair. kartla ödeseydim olurdu.
+  entry_channels: ekonomi
 - entry_name: |
     düz vites vs otomatik vites
   entry_id:  94473417
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 18
+  entry_fav_count: 20
   entry_content: |
     yıl 2019.<br/><br/>artık vitesi manuel değiştirme işini geçtim, tesla 2020 başında şehiriçi sürüşler için otopilotu aktif edecek.<br/><br/>adamlar hala burada vitesi manuel değiştirmeyi savunuyor.<br/>lan olm, hadi siktirin gidin.
   entry_channels: anket,otomotiv
 - entry_name: |
-    czn burak'ın dökümhanede yaptığı ızgara
-  entry_id:  94478742
-  entry_writer: atanamayanlara atarlar
-  entry_fav_count: 18
+    aslan191919
+  entry_id:  94449673
+  entry_writer: cilli horozun intikami
+  entry_fav_count: 20
   entry_content: |
-    bu adam neden sürekli sırıtıyor?
-  entry_channels: yeme-içme
+    nasıl viral olduğunu merak ettiğim şahıs. sonuçta maç başlamadan kupon yapıyor ve tutturuyor. bahis firmasının bu virali yapabilmesi için maç sonuçlarını bilmesi gerekir. he derseniz hiç oynanmıyor oynanmış gibi gösteriliyor çok riskli derim. sonuçta iddiada 300.000 kaybeden adam başlığı da açılabilirdi. insanları iddiadan uzaklaştırabilirdi.
+  entry_channels: spor
 - entry_name: |
     star wars episode ix the rise of skywalker
   entry_id:  94472653
   entry_writer: johann sebastian
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%a7ekme+anan%c4%b1+bac%c4%b1n%c4%b1+sikeyim+%c3%a7ekme">çekme ananı bacını sikeyim çekme</a>)<br/><br/>disney misin nesin bırak star wars'ın yakasını artık.
   entry_channels: sinema
@@ -310,10 +294,26 @@ data:
     tipsiz sözlük yazarları
   entry_id:  94473969
   entry_writer: definition of seeker
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     net ben. dunya ustunde gorebileceginiz en sikik tipe sahibim. yari down sendromlu yari spastik bir tipim var. insanlar benimle konusurken suratima bakamiyor.<br/><br/>edit, sjw bir hastalik. tedavi olun. <br/><br/>bir, kendimi neye benzetecegimi size mi soracagim.<br/><br/>iki, cirkin olmak bir hastalik mi, kendime veya baskalarina cirkin diyemiyor muyum? <br/><br/>uc, dunyanin genel bir estetik/guzel algisi var. buna dahil olmadigimi soyledigimde kime nasil halaret etmis oluyorum. <br/><br/>dort, beni benden koruma hakkini sana kim verdi amk, kimsin lan sen. oyle bir beyinsizlik ki kendime bile laf etmeme karsi. kendime cirkin dedirtmiyor. cok sagol beni benden koruma caban icin. <br/><br/>bes, sjw bir hastalik demistim, tekrarliyim.
   entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    ölmüş birini geri getirmenin yolları
+  entry_id:  94478692
+  entry_writer: gitmehevesi
+  entry_fav_count: 9
+  entry_content: |
+    açıklayalım.<br/>malzemeler<br/>1 adet üçlü kanepe.<br/>1 adet kısık sesle açık televizyon<br/>1 adet elektrik süpürgesi<br/>1 adet anne<br/><br/>meftayi kanepeye yatırıp televizyonu karşısına koyarak kısık sesle açıyoruz. mefta hafiften keyiflenirken anneyi elektrik süpürgesi açık vaziyette meftanin kaldığı odaya salıyoruz. anne buraya sabah kalkmıyor akşam yatmıyor ne olacak bu çocuk yazan kağıdı yakıp rüzgara savurarak ayinine başlıyor. akabinde kalk yerine yat diyerek rahmetliyi durtmeye başlıyor ve merhumun tüm huzurunu kaçırıyor. bu azaptan kurtulmak için mefta dirilip yarı baygın mezarına yatmaya gidiyor. tam bu aşamada dirilen merhumu mezara girmeden yakalayıp bir adet sade kahve ile ayiltiyoruz.<br/><br/>evet, gördüğünüz gibi evdeki malzemelerle siz de kendi merhumunuzu diriltebilir, sevdiklerinize küçük sürprizler yapabilirsiniz.
+  entry_channels: 
+- entry_name: |
+    şu an okunan kitap
+  entry_id:  94456117
+  entry_writer: kahvekafka
+  entry_fav_count: 6
+  entry_content: |
+    (bkz: <a class="b" href="/?q=alt%c4%b1nc%c4%b1+ko%c4%9fu%c5%9f">altıncı koğuş</a>) (bkz: <a class="b" href="/?q=anton+%c3%a7ehov">anton çehov</a>)
+  entry_channels: anket,edebiyat
 - entry_name: |
     seks yaparken sesi soluğu çıkmayan erkek
   entry_id:  94477672
@@ -323,37 +323,37 @@ data:
     seviştiği kız çirkinse konsantre olarak tahrik edici şeyler düşünmeye çalışan erkektir. rahat bırak adamı.
   entry_channels: ilişkiler
 - entry_name: |
-    şu an okunan kitap
-  entry_id:  94456117
-  entry_writer: kahvekafka
-  entry_fav_count: 5
+    ferudun niğdelioğlu
+  entry_id:  94477548
+  entry_writer: n8
+  entry_fav_count: 6
   entry_content: |
-    (bkz: <a class="b" href="/?q=alt%c4%b1nc%c4%b1+ko%c4%9fu%c5%9f">altıncı koğuş</a>) (bkz: <a class="b" href="/?q=anton+%c3%a7ehov">anton çehov</a>)
-  entry_channels: anket,edebiyat
-- entry_name: |
-    dostoyevski ile dost olup çaykovski ile çay içmek
-  entry_id:  94477313
-  entry_writer: nilas
-  entry_fav_count: 5
-  entry_content: |
-    tabii lan manyak mısın? <br/>mozart ile de mozaik sanatı yapalım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>allahım sen affet böyle bir şey yaptım.
-  entry_channels: bilim,tarih,edebiyat,eğitim
-- entry_name: |
-    ölmüş birini geri getirmenin yolları
-  entry_id:  94478692
-  entry_writer: gitmehevesi
-  entry_fav_count: 3
-  entry_content: |
-    açıklayalım.<br/>malzemeler<br/>1 adet üçlü kanepe.<br/>1 adet kısık sesle açık televizyon<br/>1 adet elektrik süpürgesi<br/>1 adet anne<br/><br/>meftayi kanepeye yatırıp televizyonu karşısına koyarak kısık sesle açıyoruz. mefta hafiften keyiflenirken anneyi elektrik süpürgesi açık vaziyette meftanin kaldığı odaya salıyoruz. anne buraya sabah kalkmıyor akşam yatmıyor ne olacak bu çocuk yazan kağıdı yakıp rüzgara savurarak ayinine başlıyor. akabinde kalk yerine yat diyerek rahmetliyi durtmeye başlıyor ve merhumun tüm huzurunu kaçırıyor. bu azaptan kurtulmak için mefta dirilip yarı baygın mezarına yatmaya gidiyor. tam bu aşamada dirilen merhumu mezara girmeden yakalayıp bir adet sade kahve ile ayiltiyoruz.<br/><br/>evet, gördüğünüz gibi evdeki malzemelerle siz de kendi merhumunuzu diriltebilir, sevdiklerinize küçük sürprizler yapabilirsiniz.
-  entry_channels: 
+    kovulmuştur.<br/><br/>şimdi evdekilere anlatir 15 temmuz anmasinda galatasaray baskaninin nerede oldugunu.<br/><br/>insallah hukuki olarak da ceza alacaktir.<br/><br/>rasim gitti, feridun gitti sirada turgay var.
+  entry_channels: spor
 - entry_name: |
     kafa boşaltma garantili bilgisayar oyunları
   entry_id:  94478369
   entry_writer: gitmehevesi
-  entry_fav_count: 3
+  entry_fav_count: 5
   entry_content: |
     tartışmasız hurt truck olan oyundur. acarsiniz müslüm babayı uzun yola tavuk falan tasirsiniz.
   entry_channels: anket,teknoloji
+- entry_name: |
+    en seksi sese sahip şarkıcılar
+  entry_id:  94450057
+  entry_writer: kuzat
+  entry_fav_count: 4
+  entry_content: |
+    (bkz: <a class="b" href="/?q=chris+rea">chris rea</a>) <br/>(bkz: <a class="b" href="/?q=bruce+springsteen">bruce springsteen</a>) <br/>(bkz: <a class="b" href="/?q=toni+braxton">toni braxton</a>)
+  entry_channels: anket,müzik
+- entry_name: |
+    5 eylül 2019 sigara zammı
+  entry_id:  94480031
+  entry_writer: sinekikki
+  entry_fav_count: 4
+  entry_content: |
+    şu ana kadar kaçak sigara alamamaya özen gösteriyordum. şu saatten sonra değil sigara vergi verenin amk.
+  entry_channels: 
 - entry_name: |
     kadıköy ağaçlarındaki tırtıl sorunu
   entry_id:  94477610
@@ -361,39 +361,39 @@ data:
   entry_fav_count: 3
   entry_content: |
     bizim bahçeye de sıçramış durumda... 1 ağacı 3 günde bitirdiler. yemyeşil bir ağaç idi şimdi kurudu... <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/rq92733rpsk2" title="https://eksiup.com/p/rq92733rpsk2">1</a><br/><br/>şimdi de diğer bütün ağaçlara sıçradı... gece çıtır çıtır çıtır yağmur yağıyormuş gibi ses geliyor ağaçlardan. ne sesi anlamadım, ya yaprak yeme sesi yada dışkıları falan dökülüyor çünkü yüz binlerce var bunlardan.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/fe927342rfib" title="https://eksiup.com/p/fe927342rfib">2</a>
-  entry_channels: 
+  entry_channels: sağlık,haber
 - entry_name: |
-    sözlük erkeklerinin yakışıklılık dereceleri
-  entry_id:  94454075
-  entry_writer: amadnre
-  entry_fav_count: 2
+    boklu bağırsak yeyip üstüne para vermek
+  entry_id:  94480680
+  entry_writer: sayhito
+  entry_fav_count: 3
   entry_content: |
-    benim için 0/10'dur. o kadar yakışıklı değilim ki annem bile ben küçükken beni yakışıklı oğlum diye değil tatlı oğlum diye severdi.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    charlize theron'un oğlunu kız gibi giyindirmesi
-  entry_id:  94479076
-  entry_writer: tepisken
-  entry_fav_count: 2
-  entry_content: |
-    savunanlar var... hayret...<br/><br/>ben 3 - 4 yaşındayken oje sürmeye, topuklu giymeye meraklıydim. annemden görüyordum ve onu taklit etmeye çalışıyordum. babam yoktu ve tek gördüğüm yetişkin birey annemdi. annem bir gün anlattı, neden yapmamalıyız ve o zaman anladım iki cinsiyet farklı şeyler. annem o gün carliston abla gibi düşünse... bilemedim yani
-  entry_channels: 
-- entry_name: |
-    5 eylül 2019 sigara zammı
-  entry_id:  94480031
-  entry_writer: sinekikki
-  entry_fav_count: 2
-  entry_content: |
-    şu ana kadar kaçak sigara alamamaya özen gösteriyordum. şu saatten sonra değil sigara vergi verenin amk.
-  entry_channels: 
+    5 liraya tavuk döner yiyeceğime 20 liraya kokoreç yerim. en azından ne bok yediğimi bilirim.
+  entry_channels: yeme-içme
 - entry_name: |
     erkeklerin yoga ve pilates yapmama nedeni
   entry_id:  94479546
   entry_writer: malibudur
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     bugün spor salonumdaki kadın antrenörün, katılımcı eksiği sebebiyle beni pilates dersine çağırması ve benim reddetmemin ardından: "siz erkekler neden pilatese gelmiyorsunuz? bu işin kadını erkeği yok, sizin içinde gerekli bir spor" demesi sonrasında aklıma gelen sorunsaldır.
   entry_channels: 
+- entry_name: |
+    dostoyevski ile dost olup çaykovski ile çay içmek
+  entry_id:  94478740
+  entry_writer: crowbar
+  entry_fav_count: 2
+  entry_content: |
+    puşkin puşkin espri yapıp gülmezler mi bir de.
+  entry_channels: bilim,tarih,edebiyat,eğitim
+- entry_name: |
+    sözlük erkeklerinin yakışıklılık dereceleri
+  entry_id:  94454861
+  entry_writer: ashlander
+  entry_fav_count: 1
+  entry_content: |
+    az once bir kizcagizdan "dayima benziyorsun" iltifatini alarak 10 uzerinden 2 seviyesine yukselmi$ bulunuyorum.<br/><br/>- dayima benziyosun o tam bir serefsizdi<br/>- pezevenk degilse sorun yok.<br/>-arggggghhhh ?!?! ve uzay...
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  94458417
