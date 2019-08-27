@@ -6,7 +6,7 @@ data:
     ibb'nin türgev ve ensar protokollerini feshetmesi
   entry_id:  94507844
   entry_writer: vakermann
-  entry_fav_count: 1716
+  entry_fav_count: 1734
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2019/gundem/son-dakika-ibb-turgev-ve-ensar-protokollerini-feshetti-5302566/" title="https://www.sozcu.com.tr/2019/gundem/son-dakika-ibb-turgev-ve-ensar-protokollerini-feshetti-5302566/">https://www.sozcu.com.tr/…llerini-feshetti-5302566/</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.yenicaggazetesi.com.tr/ibb-ensar-ve-turgev-ile-protokolleri-feshetti-246831h.htm" title="https://www.yenicaggazetesi.com.tr/ibb-ensar-ve-turgev-ile-protokolleri-feshetti-246831h.htm">https://www.yenicaggazetesi.com.tr/…tti-246831h.htm</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.cumhuriyet.com.tr/haber/siyaset/1551535/iBB__Ensar_Vakfi__TURGEV__Aziz_Mahmud_Hudayi_Vakfi__TUGVA_ile_anlasmalarini_iptal_etti.html" title="http://www.cumhuriyet.com.tr/haber/siyaset/1551535/iBB__Ensar_Vakfi__TURGEV__Aziz_Mahmud_Hudayi_Vakfi__TUGVA_ile_anlasmalarini_iptal_etti.html">http://www.cumhuriyet.com.tr/…arini_iptal_etti.html</a><br/><br/>edit: bu daha hiçbir şey, daha büyük şeyler olacak.<br/><br/>edit 2 : adblock yeni link eklendi.<br/><br/>edit 3 : @bakankartal adlı çaylak müsvettesinin ekran görüntüsü . cimer için...<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/biri/bakankartal">https://eksisozluk.com/biri/bakankartal</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/h693413r3wzq">https://eksiup.com/p/h693413r3wzq</a><br/><br/>****hangi vakıfa ne harcandı***<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/kx93322u7fr3">https://eksiup.com/p/kx93322u7fr3</a><br/><br/>ibb’den vakıflarla ilgili bir son dakika açıklaması geldi.<br/><br/>açıklamada “istanbul büyükşehir belediyesi’nin bazı vakıf ve derneklerle olan işbirlikleri, kamuoyunda tartışma konusu olmuştur. ibb başkanı sayın ekrem imamoğlu’nun talimatıyla bir süre önce bu dernek ve vakıfların ibb ile olan çalışmaları üzerine inceleme başlatılmış ve incelemeler derinlemesine devam etmektedir. incelemeler sırasında çok sayıda vakıfla, protokoller kapsamında veya şifahi görüşmeler yoluyla, yurt inşaatları, bina kiralama, bakım-onarım tadilatı, ulaşım-yeme-içme, proje, diğer yardımlar ve tefrişat gibi kalemlerde maddi işbirlikleri tespit edilmiştir. ilk incelemenin ardından istanbul büyükşehir belediyesi, aralarında ensar vakfı, türgev, aziz mahmud hüdayi vakfı, tügva, daru’l fünun ilahiyat vakfı, hoca ahmet yesevi vakfı bulunan vakıflarla arasındaki protokolü fesh etme kararı almış ve protokolleri iptal etmiştir.” denildi.<br/><br/>açıklamada ayrıca şunlar kaydedildi; “bu vakıflar için bu zamana kadar, yukarıda sayılan kalemler ve yeni inşaatlar bedelleri kapsamında istanbul büyükşehir belediyesi bütçesinden toplam 357 milyon 453 bin 972 lira harcandığı belirlenmiştir. vakıflara kiralama, bakım-onarım ve yeme-içme kalemleri altında bugüne kadar 190 milyon liradan fazla ödeme yapılırken, sadece bir vakfın ulaşım ve yeme-içme giderinin ibb bütçesine 56,5 milyon lira yük getirdiğini kamuoyunun dikkatine sunuyoruz.”<br/><br/>yapımı devam eden binalar ibb’ye geçecek<br/><br/>“son tespitlerde; ihalesi ibb tarafından yapılan yurt işlevi de içeren gençlik merkezi, spor tesisi ve otopark inşaatlarının bir bölümünün tamamlandığı, bir bölümünün de devam ettiği ortaya çıkmıştır. yapımı devam eden ve bazılarının önemli bölümü tamamlanan tesislerden, toplam maliyeti 165 milyon lirayı bulan 5 tanesinin aynı vakıf adına yapılması dikkat çekmiştir. bu binaların tasarlanan vakıf ve derneklere teslim edilmeyerek, ibb tarafından değerlendirilmesi kararlaştırılmıştır.”<br/><br/>“cemaatlere, vakıflara hizmet işi bitti” demişti<br/><br/>ibb başkanı ekrem imamoğlu sandıktan zaferle çıktığı ancak daha sonra iptal edilen 31 mart 2019 seçimleri sonrası 4 nisan günü yaptığı açıklamada “adama, kişiye, kişilere, cemaatlere, vakıflara, derneklere hizmet işi bitti. ibb'ye ve istanbullular'a hizmet dönemi başlayacak. gönlünüzü, rahat ve ferah tutun.” demişti.
   entry_channels: siyaset,haber,ekonomi
@@ -14,63 +14,31 @@ data:
     26 ağustos 2019 ibb işçi kıyımı
   entry_id:  94510867
   entry_writer: remixtherobot
-  entry_fav_count: 1431
+  entry_fav_count: 1451
   entry_content: |
     tatil yaramış başkanıma.<br/>(bkz: <a class="b" href="/?q=vur+joker+vur">vur joker vur</a>)
-  entry_channels: siyaset,haber
-- entry_name: |
-    27 ağustos 2019 esenler otogarının boşaltılması
-  entry_id:  94507896
-  entry_writer: tugican
-  entry_fav_count: 1253
-  entry_content: |
-    otogarın alt katında bulunan uruk hailer ve goblinlerin akıbeti ne olacak ?<br/><br/>edit: m0untain adlı yazar uyardı. dünyanın geleceği için daha derinlere inmeyin çünkü kadim dünyadan bir iblis olan balrog karşınıza çıkabilir.
-  entry_channels: haber
+  entry_channels: siyaset,ilişkiler,tv,haber,ekonomi
 - entry_name: |
     a101 ve bim'lerin küçük esnafa verdiği zarar
   entry_id:  94506807
   entry_writer: masstr
-  entry_fav_count: 803
+  entry_fav_count: 814
   entry_content: |
     küçük esnafın 2 tl 'ye sattığı ürünler a101 ve bim'de 80 - 90 kuruş. <br/>küçük esnaf 50 kuruşluk suyu 1 tl - 1.5 tl'ye satıyor. fiş kesmezler, vergi ödemezler. ee ne yapalım amk göz göre göre gidip kazık mı yiyelim bu şark kurnazlarından ?
   entry_channels: anket,haber,ekonomi
 - entry_name: |
-    steve jobs'ın mısır'da saklandığı iddiası
-  entry_id:  94497983
-  entry_writer: necipnba
-  entry_fav_count: 766
-  entry_content: |
-    yanindaki de michael jackson. sahnede tupac var. all eyez on me'yi soyluyor.
-  entry_channels: teknoloji,haber
-- entry_name: |
     türgev ve ensar'a yardım ediyoruz kampanyası
   entry_id:  94518220
   entry_writer: kissofh3ll
-  entry_fav_count: 478
+  entry_fav_count: 498
   entry_content: |
     domalma konusunda emin misiniz merak ettiğim kampanyadır. aklınız fikriniz domalmakta, sikişte sokuşta.<br/><br/>aşağıdaki başlıkları bir incele derim.<br/><br/>(bkz: <a class="b" href="/?q=12+mayis+2016+ensar+vakfi+tecavuz+skandali">12 mayis 2016 ensar vakfi tecavuz skandali</a>)<br/>(bkz: <a class="b" href="/?q=90+yillik+enkaz+ensar+vakfi+ve+45+cocuga+taciz">90 yillik enkaz ensar vakfi ve 45 cocuga taciz</a>)<br/>(bkz: <a class="b" href="/?q=ensar+vakfinda+kalan+iki+kizin+tecavuze+ugramasi">ensar vakfinda kalan iki kizin tecavuze ugramasi</a>)<br/>(bkz: <a class="b" href="/?q=ensar+vakfindaki+cocuklara+bekaret+kontrolu">ensar vakfindaki cocuklara bekaret kontrolu</a>)<br/>(bkz: <a class="b" href="/?q=ensar+vakfinin+tecavuzcuyu+aklamaya+calismasi">ensar vakfinin tecavuzcuyu aklamaya calismasi</a>)<br/>(bkz: <a class="b" href="/?q=ensar+vakfinin+tecavuzcuyu+ayakta+alkislamasi">ensar vakfinin tecavuzcuyu ayakta alkislamasi</a>)<br/><br/>edit: arkadaşlar bazıları bu başlığı açan vatandaşı engellemiş sanırım başlık başına kalmış diye mesaj atıyorlar. bu adam bu başlık için para alıyor. iş yaptığının kanıtı o yüzden siksen silmez entryi müsterih olun.
   entry_channels: siyaset,anket,tv,haber,ekonomi
 - entry_name: |
-    haluk levent samimiyetsizliği
-  entry_id:  94490946
-  entry_writer: jethroo
-  entry_fav_count: 426
-  entry_content: |
-    bir gün istiklalde dört arkadaş elde biralar yürüyoruz. gitar çalıp para toplayan bir şarapçı gördük. biz de sarhoş ve genciz, yanına oturduk. o bizden içki istedi, biz de ondan şarkı. çalıp söylerken adam bize ”ne çalayım” diye sordu. o sıra haluk levent'in kağızman şarkısı her listede bir numaraydı. benim de nereden aklıma geldiyse geldi ve ”kağızman çal be” dedim. tam o sırada arkamdan bir ses ”ne çalsın, ne çalsın!” dedi. kafamı bir çevirdim haluk levent. dört kişi, alkolün bokunu çıkarttık diye düşünürken haluk gülümseyip karşımızda dikiliyordu.<br/><br/>bizim grupta kahkahalar ve gülüşmeler<br/><br/>abi dedik gel sen söyle bari. <br/>yok dedi işim var ama dönüşte uğrarım..<br/>iç sesimiz direkt ”yalaan” diye fısıldadı. uğramayacaktı. <br/>ama dönüşte uğradı! ve bizi de utandırdı. <br/><br/>siz dedi çalın ben amcaya para toplayacağım...<br/>yoldan geçenleri çevirip gitar çalan şarapçı için tomarla para topladı. <br/>şarapçı belki iki üç ayda kazanacağı parayı bir gecede haluk levent sayesinde kazanmıştı.<br/><br/>işi bitince teşekkür edip gitti haluk. sonra biz de dağıldık<br/><br/>o zamanlar sosyal medya yoktu. adamın kariyeri desen zirvedeydi. peki o zaman bu adam bunu neden yaptı? <br/><br/>sevin, sevmeyin ama ben iyi kalpli bir insan olduğuna bizzat şahit oldum. o yüzden bana samimiyetsiz de gelmiyor.
-  entry_channels: magazin
-- entry_name: |
-    öz yeğenine tecavüz ederken yakalanan amca
-  entry_id:  94495824
-  entry_writer: bulutlari bekleyen
-  entry_fav_count: 410
-  entry_content: |
-    yine hiçbir şeyden emin olmayan, birilerinin söylediği bir şeylerle tahrik olmuş bir grup insan, yine ortalarında kan revan içinde kalmış bir adam.<br/><br/>muhtemelen anne haklıdır, bunlar tetkikler neticesinde ortaya çıkar ama şu linç kültürü giderek daha tehlikeli bir hal almaya başladı. bi' de buradan bakın derim.<br/><br/>edit: bu olaydan bağımsız olarak, orta yaşlı iyi bir kadın oyuncu sayesinde linç ettiremeyeceğiniz adam yok bu ülkede... yarısı potansiyel tecavüzcü linçsever serseriler için olayın gerçek olup olmaması değil birinin işaret etmesi önemli. bir gün hepimiz bir yanlış anlaşılma kurbanı olabiliriz, biraz empati.
-  entry_channels: haber
-- entry_name: |
     tek oturuşta 12 bira içtim yalanı
   entry_id:  94516790
   entry_writer: karbur freze
-  entry_fav_count: 402
+  entry_fav_count: 413
   entry_content: |
     2 bira içince " beni siken yok mu" diye bağıran pembe götlü ekşiciler inanmaz mesela.
   entry_channels: anket,yeme-içme
@@ -78,7 +46,7 @@ data:
     hayalhanem'in post42 konseptini bire bir çalması
   entry_id:  94514472
   entry_writer: tourist eomer
-  entry_fav_count: 371
+  entry_fav_count: 383
   entry_content: |
     “gülersen cehennemliksin”
   entry_channels: teknoloji,haber
@@ -86,7 +54,7 @@ data:
     ünlü biriyle ilişki yaşamış sözlük yazarları
   entry_id:  94509474
   entry_writer: rutkayaziz
-  entry_fav_count: 273
+  entry_fav_count: 291
   entry_content: |
     taksim kemancı ‘da kafa kaputken <a class="b" href="/?q=okan+bay%c3%bclgen">okan bayülgen</a>’le skik bir muhabbetimiz olmuştu. saat 2 civarı barın kenarında arkadaşla içiyoruz. bu geldi tak yanıma oturdu. sonradan öğrendiğim kadarıyla, bir tiyatro oyunu için saçlarının ortasını sarıya boyatmış. kafamı sağa çevirdim, dik dik bakıyorum adama. “kim lan bu, tanıyorum sanki” diye mırıldanıyorum. o kadar içtik ki ortamı flu görüyorum, odaklayamıyorum kendimi. en son arkadaş dürttü ”okan bayülgen lan o” dedi. hemen döndüm yavşak bir şekilde “okan abi şekil yapmışsın” dedim. adam 5 sn sonra kafayı çevirip “skerim toynağını” bakışı atıp önüne döndü. kafa güzel ya, bende sklemedim, arsızlık diz boyu. baktım önündeki tabakadan enteresan bir sigara çıkarttı yaktı. dedim “abi bir dal da bize versene, beraber tellendirelim, hehe “ dedim. bu kez kafayı çevirmeden sktir çekti. sonra yanına manken ölçülerinde 2 tane ilik gibi hatun geldi. bir şeyler konuştular, hatunlara eşlik etmek için ayaklanırken, 2 dal sigara attı önüme. sonra bu pigme, hatunları belinden kavrayıp ufukta kayboldu aga. bir süre arkasından mirketler gibi baktık, sonra içmeye devam ettik.
   entry_channels: anket,ilişkiler,ekşi-sözlük,magazin
@@ -94,50 +62,42 @@ data:
     putin'in erdoğan'a dondurma ısmarlaması
   entry_id:  94519110
   entry_writer: caballero
-  entry_fav_count: 230
+  entry_fav_count: 234
   entry_content: |
     an itibariyle türkiye cumhuriyeti hazinesi bir dondurma kara geçmiştir.
   entry_channels: siyaset,haber,yeme-içme
 - entry_name: |
-    aldatıldığını 21 yıl sonra öğrenen adam
-  entry_id:  94502225
-  entry_writer: akrotim
-  entry_fav_count: 187
+    hdp'ye terörist muamelesi yapılması
+  entry_id:  94493335
+  entry_writer: foskito
+  entry_fav_count: 219
   entry_content: |
-    bu haberi daha önceden okumuştum. kaynağı bulup editleyeceğim. adam boşanma davası açıyor ve adaleti bol yüce türk mahkemesi 3 çocuğu da başkasından peydahlayan ve bunu överek anlatan kadına 600 lira nafaka bağlıyor!<br/>sikilen yine türk erkeği! <br/>işte bu sistemi savunan bazı o.ç.ları var ülkede!
-  entry_channels: ilişkiler,haber
+    hdp'ye terörist dendiği zaman neden bu söylem hep akp ile ilişkilendiriliyor anlamış değilim. hdp'ye sadece akp terörist demiyor. akpli olmayanlar, akp ile herhangi bir ilişkisi bulunmayanlar da terörist diyor ve bu gerçeğin farkındalar. yani hdp'nin hala terörist olduğunu insanlara anlatmaya çalışmak gibi aşırı gereksiz bir eylemi bir kenara koyun hdp kadrosundaki bazı isimler bile bunu aptala anlatır gibi ortaya dökmüşken hala hayır onlar terörist değil sevgi pıtırcığıdır diye savunulması inanılmaz garip geliyor bana. neden berkin elvan'ın katili olarak milyonlarca akpliyi suçlu gören zihniyet yasin börü'nün katilini en azından selahattin demirtaş olarak görmezler bu da ayrı bir merak konusu.<br/><br/>edit: imla
+  entry_channels: siyaset
 - entry_name: |
     istanbul'a kayyum atanması
   entry_id:  94518503
   entry_writer: redturtle
-  entry_fav_count: 186
+  entry_fav_count: 191
   entry_content: |
     nah atarlar
   entry_channels: siyaset
 - entry_name: |
-    yalnızken dahi canı sıkılmayan insan
-  entry_id:  94500366
-  entry_writer: nicholai alexandrovic
-  entry_fav_count: 179
-  entry_content: |
-    yalnızken yapılacak o kadar çok şey var ki. kitap oku, film izle, çık dışarı gez. canım kendim, kendimle asla sıkılmam.
-  entry_channels: anket
-- entry_name: |
     evrenin simülasyon olduğunun kanıtı
   entry_id:  94517878
   entry_writer: dur bide sunu deniyim
-  entry_fav_count: 174
+  entry_fav_count: 188
   entry_content: |
     fazla kurcalanmaması, dillendirilmemesi gereken konudur. adamlar kainat yarattıysa muhtemelen deneysel bir çalışma yapıyorlardır. deneysel çalışmalarda deneye katılanların deneyin detaylarını anlamaması şarttır. biz olayı çözersek muhtemelen deney amacından sapacak. akabinde sistemde olayı çözebilen bireylerin kaynak aldığı kodları silip restart yaparlar. o nedenle herkes işine gücüne baksın, dillendirip, kurcalayıp başımıza iş açmasın.
   entry_channels: anket,bilim,teknoloji
 - entry_name: |
-    khk ile ihraç edilenler ne iş yapıyor
-  entry_id:  94502879
-  entry_writer: nerdesin dost
-  entry_fav_count: 145
+    aldatıldığını 21 yıl sonra öğrenen adam
+  entry_id:  94502225
+  entry_writer: akrotim
+  entry_fav_count: 188
   entry_content: |
-    birilerinin odalarına salavatla giren herifler gelecekte odalarına salavatla gireceğimizi iddia ediyor. ulan kula kulluk ettiğiniz için bu hallere düştünüz hala odaya girerken salavattan bahsediyorsunuz. allah akıl fikir versin.
-  entry_channels: siyaset,anket
+    bu haberi daha önceden okumuştum. kaynağı bulup editleyeceğim. adam boşanma davası açıyor ve adaleti bol yüce türk mahkemesi 3 çocuğu da başkasından peydahlayan ve bunu överek anlatan kadına 600 lira nafaka bağlıyor!<br/>sikilen yine türk erkeği! <br/>işte bu sistemi savunan bazı o.ç.ları var ülkede!
+  entry_channels: ilişkiler,haber
 - entry_name: |
     20.000tl kolej vs 5.000tl devlet okulu özel sınıfı
   entry_id:  94510586
@@ -147,26 +107,26 @@ data:
     devlet okulunda özel sınıf nedir lan? <br/>o özel sınıfları 20 kişilik yapıcam diye diğer sınıfları 50 kişi yapar bunlar şimdi, zaten bok gibi olan eğitim iyice bok olur. <br/>acilen bunu yapan okulun ihbar edilmesi lazım.
   entry_channels: anket,eğitim,ekonomi
 - entry_name: |
-    mobeseye yakalanan kamyoncu dayı
-  entry_id:  94491614
-  entry_writer: ma be xerdi
-  entry_fav_count: 103
-  entry_content: |
-    arkadaşlar link patlamış yenisini bulursam eklerim.<br/><br/>edit : <a rel="nofollow noopener" class="url" target="_blank" href="https://streamvi.com/watch.php?video=1566856493" title="https://streamvi.com/watch.php?video=1566856493">link</a><br/><br/>link revize edildi.<br/><br/>edit2:olum link yine patlamış amk milleti 2 dakikalık eğlenceden niye mahrum bırakıyosunuz?<br/><br/>edit3: @flakka adlı yazar arkadaş paylaşmış. <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/gl690" title="https://streamable.com/gl690">link</a>
-  entry_channels: haber
-- entry_name: |
     radamel falcao garcia
   entry_id:  94490941
   entry_writer: donaldtrump
-  entry_fav_count: 94
+  entry_fav_count: 97
   entry_content: |
     bugün kap beklemiyorum gelirsen ananı sikeyim...<br/><br/>t: dünya yıldızı forvet.
   entry_channels: spor
 - entry_name: |
+    putin'in uzaya türk astronot yollama teklifi
+  entry_id:  94523491
+  entry_writer: romantik maco
+  entry_fav_count: 91
+  entry_content: |
+    rte’nin kabul edeceği teklif. <br/><br/>imamhatip mezunu biri olacağı kesin. <br/><br/>“allah’a çok yaklaştım” diyerek huşuya erecektir.
+  entry_channels: 
+- entry_name: |
     bu şimdi uçuyor mu
   entry_id:  94521407
   entry_writer: elmadagduku
-  entry_fav_count: 78
+  entry_fav_count: 83
   entry_content: |
     "taramalısı var mı bunun?"
   entry_channels: haber,havacılık
@@ -174,7 +134,7 @@ data:
     rusya'ya gönderilecek türk astronot kim olmalı
   entry_id:  94520065
   entry_writer: hermenotik nihilist
-  entry_fav_count: 76
+  entry_fav_count: 80
   entry_content: |
     geri dönmeme ihtimali varsa <a class="b" href="/?q=uzun">uzun</a> bir adayım var.
   entry_channels: anket,bilim
@@ -182,58 +142,74 @@ data:
     ekrem imamoğlu'nun burs vaadini tutmaması
   entry_id:  94519796
   entry_writer: paracomandante
-  entry_fav_count: 75
+  entry_fav_count: 78
   entry_content: |
     - istanbullu'nun parasını çaldığınız harami sistemini hele bir durdursun, ona da sıra gelir cemaat böceği.
   entry_channels: haber,eğitim
 - entry_name: |
-    adil rami
-  entry_id:  94515353
-  entry_writer: arturovidal
-  entry_fav_count: 69
-  entry_content: |
-    pornobahçe olmuş...<br/><br/>6. hafta görürsün sen pornoyu, amına kodumun pizzacısı.<br/><br/>not: 1+1 yıllık tertemiz sözleşme imzalanmış stoperdir, hayırlı olsun.
-  entry_channels: spor
-- entry_name: |
     kendinle sevgili olur muydun sorunsalı
   entry_id:  94495009
   entry_writer: raskovzlatev
-  entry_fav_count: 67
+  entry_fav_count: 68
   entry_content: |
     kendime açılamaz, platonik takılırdım.
   entry_channels: ilişkiler
 - entry_name: |
-    putin'in uzaya türk astronot yollama teklifi
-  entry_id:  94523491
-  entry_writer: romantik maco
-  entry_fav_count: 55
-  entry_content: |
-    rte’nin kabul edeceği teklif. <br/><br/>imamhatip mezunu biri olacağı kesin. <br/><br/>“allah’a çok yaklaştım” diyerek huşuya erecektir.
-  entry_channels: 
-- entry_name: |
-    27 ağustos 2019 ömür gedik'in tweeti
-  entry_id:  94523257
-  entry_writer: poseidonyav
-  entry_fav_count: 38
-  entry_content: |
-    şu kadını bile 1 milyon kişi takip ediyor gerçekten bu memlekette iş kurup saf parası yemek lazım
-  entry_channels: 
-- entry_name: |
     starbucks'ta tane muz satılmaya başlanması
   entry_id:  94522797
   entry_writer: garip bir adamm
-  entry_fav_count: 37
+  entry_fav_count: 58
   entry_content: |
     ara öğün olarak güzel bir seçenek olumlu bulduğum uygulama . kurabiye ,kek yemekten iyidir .
   entry_channels: yeme-içme
 - entry_name: |
-    türkiyenin su-57e savaş uçağını alması
-  entry_id:  94510708
-  entry_writer: andom
-  entry_fav_count: 36
+    27 ağustos 2019 ömür gedik'in tweeti
+  entry_id:  94523257
+  entry_writer: poseidonyav
+  entry_fav_count: 54
   entry_content: |
-    böyle bir uçak yok, üretime başlamamış, satılıp satılmayacağı belli değil, nato sistemine uygunluğu sıfır, ama bizim yerli ve trilili troller hemen güzellemeye başlamış ne güzel.
-  entry_channels: siyaset,ekonomi,havacılık
+    şu kadını bile 1 milyon kişi takip ediyor gerçekten bu memlekette iş kurup saf parası yemek lazım
+  entry_channels: 
+- entry_name: |
+    seks yaparken sesi soluğu çıkmayan erkek
+  entry_id:  94509008
+  entry_writer: winrar lisansi satin alan adam
+  entry_fav_count: 44
+  entry_content: |
+    - bir erkek sevişme esnasında çok bağırıyor ve konuşuyorsa o amatördür, hızlı bir şekilde orgazm olmasına izin verin. <br/><br/>- bir erkek sevişme esnasında ara ara motive edici telkinlerde bulunup, iyi sevişiyorsa o düzenli sevişendir; mutlu olmaya ve etmeye bakın. <br/><br/>- bir erkek sevişme esnasında hiç konuşmuyor ve sadece kadına odaklıysa o bordo çüklüdür. sessizce bekleyin, o gelir sizi siker.
+  entry_channels: ilişkiler
+- entry_name: |
+    27 ağustos 2019 taksilere yüzde 24 zam gelmesi
+  entry_id:  94521964
+  entry_writer: kaff sin kaf
+  entry_fav_count: 43
+  entry_content: |
+    dünyanın hiçbir yerinde böyle sikiş dönmüyor.
+  entry_channels: ekonomi
+- entry_name: |
+    camiye girişin ücretli olması
+  entry_id:  94520299
+  entry_writer: karni kasinan bidon kafa
+  entry_fav_count: 39
+  entry_content: |
+    cemaat yüzde 50 azalır. geri kalanında yüzde 50'si avluda kılar.
+  entry_channels: haber
+- entry_name: |
+    iki elle bile sütyen kopçası açamayan erkekler
+  entry_id:  94506347
+  entry_writer: tahinlirevani
+  entry_fav_count: 37
+  entry_content: |
+    sütyen siyah ise bence çıkarmaya gerek yok.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    recep tayyip erdoğan'ın öldüğü gün yapılacaklar
+  entry_id:  94515281
+  entry_writer: metatarsal
+  entry_fav_count: 35
+  entry_content: |
+    sibel can - padişah açıp a haber izlerim.
+  entry_channels: siyaset,anket
 - entry_name: |
     matematikteki saçmalıklar
   entry_id:  94518134
@@ -243,21 +219,13 @@ data:
     2009 da 2 ile 9 un yanındaki sayıları silip 29 kalması ve bununla birlikte kalan rakamları topladığımızda 11 yapması son olarak 29 ve 11 toplamının 40 olması.
   entry_channels: anket,bilim
 - entry_name: |
-    camiye girişin ücretli olması
-  entry_id:  94520299
-  entry_writer: karni kasinan bidon kafa
-  entry_fav_count: 34
+    l-l-l--l---l-----l--------l-------------l
+  entry_id:  94523740
+  entry_writer: csonsuz
+  entry_fav_count: 31
   entry_content: |
-    cemaat yüzde 50 azalır. geri kalanında yüzde 50'si avluda kılar.
-  entry_channels: haber
-- entry_name: |
-    recep tayyip erdoğan'ın öldüğü gün yapılacaklar
-  entry_id:  94515281
-  entry_writer: metatarsal
-  entry_fav_count: 33
-  entry_content: |
-    sibel can - padişah açıp a haber izlerim.
-  entry_channels: siyaset,anket
+    youtube videosu reklam çizgileri.
+  entry_channels: 
 - entry_name: |
     direksiyonu iki elle tutan tip
   entry_id:  94492750
@@ -267,38 +235,6 @@ data:
     her türlü olumsuz koşula hazırlıklı sürücüdür, temkinlidir. daha 1 ay önce tek elle direksiyonu tutarken ve hızım 80-90 km arasındayken, asfaltta ciddi bir kot farkı olan yere denk geldim ve tek elle direksiyonu tuttuğum için aracın hakimiyetini kaybedip bariyerlere bindiriyordum az daha, zor kurtardım. iki elle tutuyor olsaydım, kot farkı olan yerde araç zıpladıktan sonra ufak bir sapmadan sonra aracı hemen toparlayabilirdim ama tek elle o kadar hızlı müdahele edemedim, yoldan çıkmak üzereydi araç.
   entry_channels: otomotiv
 - entry_name: |
-    kıyamam sana'nın ingilizce çevirisi
-  entry_id:  94520710
-  entry_writer: kompakt kedi
-  entry_fav_count: 30
-  entry_content: |
-    (bkz: <a class="b" href="/?q=aww">aww</a>)
-  entry_channels: anket
-- entry_name: |
-    29 ağustos 2019 sigara zammı
-  entry_id:  94494632
-  entry_writer: potasyum carbon
-  entry_fav_count: 30
-  entry_content: |
-    önceden yazmıştık bir daha yazalım.<br/><br/>not: sigara içmiyorum.<br/><br/>haber doğru olsun ya da olmasın(zira doğruluğu tartışılıyor), son fahiş zamlardan sonra sarma sigaraya geçecek olanlara belki faydası dokunur aşağıdaki bilgilerin.<br/><br/>- öncelikle tekel sigarası almayın biraz dirayetli olun, tütün kültürüne alışmaya çalışın çünkü verdiğiniz paralar meclisteki tek hücrelilerin mercedeslerine gidiyor.<br/><br/>-nasıl şu an içtiğiniz sigaranın aromasına tadına vs alıştıysanız emin olun bi vakit sonra tütüne de alışacaksınız. çünkü tütün dediğimiz şey, tek bir tat ve kıvamdan oluşmuyor. kendi içinde her çeşit sert veya hafif kıvamları barındırıyor. piyasaya kısa zamanlı bir girişten sonra bunlara aşina oluyorsunuz ve kendinize en uygun içime sahip tütünü keşfediyorsunuz zaten. o yüzden bir süre kendinizi tütüne alıştırma konusunda mücadele edin.<br/><br/>- tütünü alırken hafif içimli olanları tercih edin.<br/><br/>- fiyatı biraz yüksek olanları alın (kg/150tl).<br/><br/>- tütününüz için ufak bir tabaka alın geri kalan tütünü, kurumasın diye şeffaf bir poşette, hava almayacağı şekilde, buzdolabında muhafaza edin.<br/><br/>- orta kalınlıkta olan kağıtları tercih edin(gerçi zevke göre belirleniyor zamanla) kalitesiz kağıtlar almayın, kağıt kağıttır demeyin, sarma sigaranın tat kalitesini yüzde otuz oranında kağıt belirler.<br/><br/>- ince, kısa izmarit pamuk alın. zamanla onunla birlikte sarmayı öğrenirsiniz. izmarit, size normal sigara duygusu verecek, ayrıca tütünlerin ağzınıza filan girmesine engel olacaktır.<br/><br/>- tütüncülerin önerilerine kulak asmayın çünkü sizin damak zevkinizi bilemezler. o yüzden almadan önce bir iki tane sarın.<br/><br/>-tütününüz kuruduysa tekrar yumuşatmak için poşetin içine elma kabuğu koyun bekletin serin bir yerde. bir kaç saatte eski kıvamına geri dönecektir. (juglans nigra arkadaşımızın değerli önerisidir)<br/><br/>-tütününüz aşırı nemli ise sarsanız dahi duman gelmeyebilir öyle bir durumda yarım saat açık havada bırakırsanız istediğiniz kıvama gelecektir. ideal kıvam, hafif nemli olmasıdır. bir tütün ne kadar kurursa o kadar sertleşecektir.<br/><br/>tanım: el veya makine yardımıyla kağıda sarılan sigaradır. <br/>keyifli içmeler...
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    27 ağustos 2019 taksilere yüzde 24 zam gelmesi
-  entry_id:  94521823
-  entry_writer: i am guilty of being a dwarf
-  entry_fav_count: 30
-  entry_content: |
-    ulan indi bindi 13 lira ne. o paraya ukrayna'da kiev turu yaparsınız über'le.
-  entry_channels: ekonomi
-- entry_name: |
-    fiyatı pahalı gelince mağazada uydurulan yalanlar
-  entry_id:  94493394
-  entry_writer: hopaa
-  entry_fav_count: 27
-  entry_content: |
-    yaşanmış olay<br/><br/>hopaa: şu t-shirt ne kadardı?<br/>tezgahtar kız: 300 lira<br/>hopaa: ohh ne kadar pahalıymış. peki şu yanında ki ne kadar?<br/>tezgahtar kız: o da pahalı.
-  entry_channels: anket,ekonomi
-- entry_name: |
     selahattin özdemir
   entry_id:  94514390
   entry_writer: sivil enjiniyr
@@ -307,18 +243,26 @@ data:
     feryadı yaşarken ölenler içindi. huzur içinde yatsın.
   entry_channels: müzik
 - entry_name: |
-    kafa boşaltma garantili bilgisayar oyunları
-  entry_id:  94491524
-  entry_writer: samsungdannefretedenadam
-  entry_fav_count: 23
+    rusyanın uzaya türk astronot gönderelim teklifi
+  entry_id:  94519741
+  entry_writer: mehmet kemal
+  entry_fav_count: 25
   entry_content: |
-    (bkz: <a class="b" href="/?q=age+of+empires+ii">age of empires ii</a>)<br/><br/>evet, hâlâ..
-  entry_channels: anket,oyun,teknoloji
+    adamlar, karşılarındaki maldan nasıl da anlıyorlar. birinci dünya savaşı henüz başlamadan taraflar daha oluşmadan önce enver paşa almanyayı ziyaret etmektedir. adına verilen resepsiyonda ayak üstü birileriyle sohbet ederken birden alman genelkurmay başkanı enverin karşına gelir, topuklarını birbirine vurarak envere topuk selamı verir. tabi bu bir astın üstüne verdiği selam şekli. enver paşa onure edilmiştir. koltukları kabarır havaya girer falan. sonrası malum, tarihte yazılı.
+  entry_channels: bilim,haber
+- entry_name: |
+    benim parayı da veriyorsun değil mi
+  entry_id:  94522982
+  entry_writer: wantabet
+  entry_fav_count: 24
+  entry_content: |
+    tam bir yürüyen zaytung.
+  entry_channels: siyaset,ilişkiler,haber,ekonomi
 - entry_name: |
     north blue
   entry_id:  94519767
   entry_writer: merkz
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     ensarda badelenmiş kuzey mavisi.
   entry_channels: ekşi-sözlük
@@ -334,26 +278,50 @@ data:
     kızların şortlarının boyu ayıp sınırını aşmış
   entry_id:  94523519
   entry_writer: dunyadaki tum sinekleri getirin bana
-  entry_fav_count: 9
+  entry_fav_count: 12
   entry_content: |
     o degil de bu sortlari uretenlerin sucu tamamen. yahu normal seviyede bir sort yok. kadin sortlarinin hepsi asiri kisa. kim bu salak modayi cikardi acaba? is yerinde sort giydigim zaman oturdugumda rahatsiz oluyorum. butun bacagim ortada, sanki boxer giymisim gibi. biraz uzunlarini yapin bunlarin, bakin turkiye'de nasil cok satilacak. dikkat cekmek icin giyen de moda diye giyiyor, poposunun yarisi hava alsin istediginden degil. kadinlara degil modacilara kizin siz. erkeklere kolsuz tshirt, dizustu sort giydirmeyen bu sistem kadinlari donla gezmeye zorluyor, moda adi altinda.
   entry_channels: moda,magazin
 - entry_name: |
+    ak teyzenin beyin yakan ekrem imamoğlu yorumu
+  entry_id:  94525078
+  entry_writer: gamsizmuhendis
+  entry_fav_count: 11
+  entry_content: |
+    bu teyzenin kocasi muhtemelen sabah aksam a haber izliyor.kocasi bir eliyle gobegini kasirken diger eliyle cayini yudumluyor.teyze de cay getirip gotururken lobi feto dış mihrak vs gibi kelimeleri anahtar sozcuk kabul edip sokaga cikiyor ve durum bu sekilde cereyan ediyor.
+  entry_channels: siyaset,haber
+- entry_name: |
+    27 ağustos 2019 pamukkale turizm kaza rezaleti
+  entry_id:  94521206
+  entry_writer: civciv
+  entry_fav_count: 11
+  entry_content: |
+    sozlugu belediyenin beyaz masasi, egm, adliye vs sananlar ne kadar cok artti. <br/>rezalet basliklarinizla bi gidin artik.
+  entry_channels: 
+- entry_name: |
+    iş değiştirenlere vergi şoku
+  entry_id:  94521845
+  entry_writer: outdoor
+  entry_fav_count: 10
+  entry_content: |
+    <a class="b" href="/?q=her+ku%c5%9fu+siktik+bir+leylek+kald%c4%b1">her kuşu siktik bir leylek kaldı</a> vergisinin neden olduğu şoktur.
+  entry_channels: 
+- entry_name: |
     osmanlı imparatorluğu emperyalist miydi
   entry_id:  94516117
   entry_writer: taze liberal
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     (bkz: <a class="b" href="/?q=osmanl%c4%b1%27n%c4%b1n+emperyalist+olmad%c4%b1%c4%9f%c4%b1+iddias%c4%b1">osmanlı'nın emperyalist olmadığı iddiası</a>)<br/><br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)
   entry_channels: siyaset,anket,tarih,ekonomi
 - entry_name: |
-    dünyanın en güzel gofreti
-  entry_id:  94491619
-  entry_writer: caskazura
+    thiago maia
+  entry_id:  94497106
+  entry_writer: escobars military
   entry_fav_count: 7
   entry_content: |
-    (bkz: <a class="b" href="/?q=%c3%a7okonat">çokonat</a>)<br/>ve<br/>(bkz: <a class="b" href="/?q=albeni">albeni</a>)<br/><br/>farklı gözükmeye çalışmaya gerek yok muhteşem gofret her ikisi de.<br/><br/>edit: arkadaşlar “albeni gofret değil ki” mesajları yetti gali doğrusunu bilen yok mudur? tersi ispatlanana kadar en sevdiğim “gofret” olacak.
-  entry_channels: anket,yeme-içme
+    beşiktaşla anlaşmak üzere olduğu söylenen top tepici.<br/>öncelikle beşiktaşla defansif orta saha mevkisi için adı geçen üç isim var:<br/>1-gonalons<br/>2-mario lemina<br/>3-thiago maia<br/><br/>gonalons bu üç isimden gelmesini en çok istediğim oyuncu.tecrübesi fiziği tekniği mentalitesiyle beşiktaş'ın hem savunma hem ortasahada elini çok ama çok rahatlatacak biri ama en uzak ihtimal de o görünüyor.<br/><br/>lemina içlerinde en yetenekli en yırtıcı en patlama gücü yüksek oyuncu ama pozisyon alması zayıf. yani sahada görünürde çok iyi bir lemina izlerken nasıl geldiğini anlamadığımız goller yiyebiliriz. bir de fazla özgüvenli bir futbolcu olduğu için basit oynayan bir oyuncu izlenimi vermedi bana. yanında boş adam dururken 4 kişinin arasına dalıp top ezme potansiyeli var gibi geldi.bana göre defansif ortasahanın basit oynayanı makbuldür.<br/><br/>gelelim bu arkadaşa. içlerinden en genç ve en potansiyellisi maia diyebiliriz.santos'tan lille takımına 14 milyon euroya transfer olmuş ve orada sürekli ilk 11 oynamasa bile yine de rotasyonda kullanılmış bir yıldız adayı.fizik gücü çok yüksek bir oyuncu değil ama fazla teknik bir oyuncu olması beşiktaş'ın mevcut sistemi için çok uygun olduğunu gösteriyor. defansif yönü markajı iyi pas tekniği gayet iyi hızı mevkisi itibari ile yeterli bir oyuncu.yani atibamsı bir profil.ancak yaşı henüz 22. yani eğer potansiyelinin tamamına ulaşırsa lig seviyesinin çok çok üstüne çıkabilecek bir oyuncu. <br/><br/>adı geçen 3 oyuncu da tatmin edici beşiktaş'ın atiba'dan da maksimum verim almak istediğini de düşünürsek 3 isimden kim gelirse gelsin beşiktaş'ın o mevkide elini fazlasıyla güçlendirecektir.
+  entry_channels: spor
 - entry_name: |
     bir kitap yazsan son sözü ne olurdu
   entry_id:  94509834
@@ -371,13 +339,37 @@ data:
     sıkmak ne kelime! balığı limon suyunda yüzdürür, limon suyuna boğarım. aynısını lahmacuna ve kıymalı pideye de yaparım. limonu salataya da sıkarım, mercimek çorbasına da, sodaya da, bazen tavuğa da, zeytine de. hatta sabahları vaktim olursa limonlu su içerim. limona zam gelmesi beni diğer tüm meyvelere gelmesinden daha çok üzer. hayat bana limon verirse ben de durmam, sıkarım.
   entry_channels: anket,sağlık,yeme-içme
 - entry_name: |
-    dış görünüşü sert ama kalbi yumuşacık olan erkek
-  entry_id:  94521579
-  entry_writer: electristic
-  entry_fav_count: 5
+    drone için türkçe karşılık önerileri
+  entry_id:  94523044
+  entry_writer: agitoxin
+  entry_fav_count: 6
   entry_content: |
-    bu şey değil mi kadın ya da erkek farketmeksizin eşi/sevgilisi odun olan ama çevreye karşı kendini bu şekilde tatmin eden insan söylemi.
-  entry_channels: ilişkiler
+    15 temmuz şehitler uçankaçanı.
+  entry_channels: anket,edebiyat,teknoloji,havacılık
+- entry_name: |
+    27 ağustos 2019 istanbul taksi zammı
+  entry_id:  94524121
+  entry_writer: global village
+  entry_fav_count: 6
+  entry_content: |
+    %25 zam karşılığında taksiciler ne verecek peki? taksiler pert, taksiciler barbar, uber yasak, yeni taksi plakası yok. ne güzel ülke amk, at koştur.<br/><br/>madem zam yapıyorsun, halka kaliteli hizmet sunacaksın kardeşim. kanalizasyon çukuruna düşse, bokun geri göndereceği taksiler dolanıyor şehirde amk. allah'tan uber taksi uygulaması devam ediyor da, oradaki taksi ve taksicilerin insanlık seviyesi iletişim kurulmaya açık.
+  entry_channels: siyaset,tv,haber,otomotiv,ekonomi,seyahat
+- entry_name: |
+    bira içmelik arkadaş veritabanı
+  entry_id:  94491934
+  entry_writer: matthieu
+  entry_fav_count: 4
+  entry_content: |
+    bir işe yaramayan veritabanı. alt tarafı bira içip salak saçma geyikler yapacağız adam hala kız mısın diyor. he kızım amına koyayım. gel. ben de bir bira içip götümü siktireceğim birini arıyordum zaten. ha bunun kadını olanında eksik kalır yanı yok. ortası yok bu işin. yine deli gibi kendi kendimize içip konuşacağız.
+  entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    kadınlar yoğun saatlerde araba kullanmasın
+  entry_id:  94522723
+  entry_writer: scottish
+  entry_fav_count: 3
+  entry_content: |
+    mesai sonunda eve gitmesin iş yerinde otursun kadın. di mi? masasını toplasın, ortalık karışıklığını düzeltsin, temizlikçi ekibe yardım etsin falan kahve içsin falına baksın yoğunluk geçince 8-9 gibi gider evine. yok be ne gerek var, iş yerinde uyusun o saatten sonra eve gidip sabah bi daha yoğun saatlerde kalabalık edecek. yatsın da kahvaltı hazırlasın iş arkadaşlarına. demişbaş yapalım biz kadınları hatta. numaralandıralım iş yerine ait olsunlar.
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  94491004
@@ -387,19 +379,27 @@ data:
     elimizi yüzümüzü yıkadık, tırnak toynak törpüledik, sinek kaydı traş da olduk, elli tane iş başvurusunda bulunduk, efendilerin bir tanesi de zahmet edip aramadı. bir tane mesaj geldi ama ümitsiz gidecez işte.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    dişçi korkusunu yenme yolları
-  entry_id:  94511564
-  entry_writer: taze liberal
-  entry_fav_count: 2
+    tayyip erdoğan'ın halefinin olmaması
+  entry_id:  94522967
+  entry_writer: lassieyianlayanadam
+  entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=di%c5%9f+hekimi+korkusu+olanlara+tavsiyeler">diş hekimi korkusu olanlara tavsiyeler</a>)<br/><br/>edit: (bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1%c4%9f%c4%b1n+yazar%c4%b1n+ba%c5%9f%c4%b1na+kalmas%c4%b1">başlığın yazarın başına kalması</a>)
+    aleni bir durumdur. bir süredir bunu düşünüyordum zaten.bugün sözlük vesile oldu bu başlığa. <br/>malum reisimiz iyice yaşlandı artık. gözünün feri gitti. hastalığı ilerlemiş deniyor. geçenlerde bir kalp krizi dedikodusu çıktı nasıl korktuk hep birlikte.<br/>peki o kaçınılmaz gün geldiğinde partinin liderliğini kim üstlenecek? bu düşünüldü mü?<br/>reisimiz bu konuda en ufak bir ipucu vermiyor. doğal adaylara bir göz atalım. <br/>berat albayrak : biraz şey gibi değil mi, kıçı başı fazla oynuyor denir halk ağzında. güven vermiyor. müthiş bir özgüveni var orası kesin. donanımsiz olduğu halde canlı yayında ekonomi hakkında ahkam kesiyor acemice hazırlamış power point sunumlarla. kayınpederine çekmiş kerata bu özgüven konusunda. ama kamuoyu yoklamalarında en sevilmeyen, güvenilmeyen bakan çıkıyor hep. sokakta sevilmiyor bu net. geçiniz. antipatik herif zaten.<br/>bilal oğlan : babasını andırıyor ama sadece tip olarak. babası cin gibi adam bu biraz nasıl derler durgun zekalı ama. bunun eline ok veriyorlar bazen çok korkuyorum. böyle sorumsuzluk olmaz.<br/>burak erdoğan : herkes onu sevim tanürek'in katili olarak bilir. hakkında başka bilgi de az zaten. siyasetden uzak bir tip. kendisini soyutlamak istiyor sanki her şeyden. isteseler de gelmez gibi.<br/>selçuk bayraktar : bakın bu parlak çocuk. eğitimli. silah sanayiinde etkin. ama bunun da siyasetle hiç işi olmaz gibi.<br/>süleyman soylu : çok bariz bunun gözü var o makamda. ama bu da çok liyakatsiz sadece yalakalıkla gitmez bu iş. reisimiz yeri geldi erbakan'a posta koyabildi. bunda yeterli yürek de donanım da yok siyaset için.<br/>durum karışık yani sözlük ahalisi. nasıl olacak bu işler, görüşleri merak ediyorum.<br/>edit : akp liderliğinden bahsediyorum. ülkenin liderliğini zaten fiili olmasa da kaybetmiş durumda. denemesi bedava. işte sandık işte millet<a class="b" href="/?q=swh">swh</a>
   entry_channels: 
 - entry_name: |
-    27 ağustos 2019 istanbul taksi zammı
-  entry_id:  94524399
-  entry_writer: kubbanito
+    dış görünüşü sert ama kalbi yumuşacık olan erkek
+  entry_id:  94522051
+  entry_writer: nereden baksan tutarsizlik
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=recep+ivedik">recep ivedik</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    dişçi korkusunu yenme yolları
+  entry_id:  94523391
+  entry_writer: bi is bulayim hepsini ayarlicam
   entry_fav_count: 0
   entry_content: |
-    yaklaşık bir buçuk yıldır zam yağmuru devam ediyor. ayrıntılar el emeği göz nuru yazımda:<br/><br/>(bkz: <a class="b" href="/?q=24+haziran+2018+se%c3%a7imlerinden+sonra+ya%c5%9fananlar%2f%40kubbanito">24 haziran 2018 seçimlerinden sonra yaşananlar/@kubbanito</a>)
+    yoktur efendim. çürüsün dökülsün dişler valla umrumda değil. 2020'ye giricez önümüzdeki yıl, ciddi ciddi 2050'ye yürüyoruz. bir zahmet şu allah'ın belası aletlere çeki düzen versinler. orta çağda o aletleri silah diye kullanıyorlardı. tıpta bütün alanlarda ilerleme var ama bu diş meselesinde zerre ilerleme yok. yeter la.<br/><br/>not: 20'lik dişi çekilmesi gereken yazar.
   entry_channels: 
 ---
