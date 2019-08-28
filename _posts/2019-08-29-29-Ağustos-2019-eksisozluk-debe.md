@@ -6,7 +6,7 @@ data:
     bazı doktorların kurduğu çirkin ticari çark
   entry_id:  94550818
   entry_writer: posata
-  entry_fav_count: 2690
+  entry_fav_count: 2705
   entry_content: |
     zorunlu edit: başlığın, işini hakkıyla ve canla başla çabalayarak yapan doktorları zan altında bırakmamak için "bazı doktorların kurduğu çirkin ticari çark" olarak değiştirilmesini istedim. umarım değiştirilir. ama kesinkes bilinmesini isterim ki bu çarkın içindekiler hastanelerimizde görev yapanlarla birebir rakip pozisyonundalar, çünkü onlar çılgın paralar istedikleri hastalıkları bedavaya teşhis ve tedavi etmek derdindeler. ayrıca kanser gibi ciddi takip ve tedavi süreci gerektiren hastalıklarda tüm yük zaten devlet ve araştırma hastanelerinin sırtında yine... burada değinilen konunun işini bi-hakkın yapma gayretinde olan doktorlarımızı rencide etmeye ve karalamaya yol açmaması için hassasiyetinizi rica ediyorum. <br/><br/>piyasada bir şekilde adını duyurmuş hoca diye tabir edilen bazı doktorların kurdukları çirkin bir ticari çark var. bunu bizzat yaşayarak öğrendim ve bir doçent arkadaşımızın samimi itiraflarıyla da teyit ettim. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>hayati risk taşıyan ciddi bir hastalığınız varsa, buna olan hassasiyetinizi bilen koca koca profesörler sizi önce bir güzel tokatlıyor. sonra başka arkadaşlarına paslıyorlar. bir de onlar yoluyor. işin operasyon noktasında ise risk almak istemediklerinden ya astronomik bir rakam istiyorlar ya da sizi devlet hastanesine yönlendiriyorlar. sonuçta yine operasyonu devlet hastanesindeki doktorlar yapıyor ve kemoterapi vs yine devlet hastanesinde izleniyor. şanslıysanız ve riskli dönemi atlatabilirseniz bu para tüccarları sizi yine akbabalar gibi tepenizde dolanmaya başlıyor.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>isim falan vermeyeceğim. ama daha önceden kanser rahatsızlığı olan annemin rutin kontrollerinde 4 yılın sonunda metastaz olarak değerlendirilen kitle tespit edildi. <br/>o zamana kadar kontrolleri daha önce kanser ameliyatı olduğu devlet hastanesinde yapılıyor ve ek olarak buradaki doktorlardan birinin yönlendirdiği bir profesörün özel muayenehanesinde de izleniyordu. <br/>doğal olarak ultrasonda tespit edilen bu kitleyi değerli (!) profesörümüze sormak için telefon açtık. ilk başta zaten yayılmış bir hastalığımız olduğu gibi saçma sapan bir şeyler söyledi. şüphelenip süreci tekrar anlattığımda ise annemin fotoğrafını whatsapptan göndermemi istedi. gönderince hastaları karıştırdığını, bizim durumumuzun ilk söylediği ile ilgisi olmadığını söyledi. bu noktada ufak çaplı bir gerilim yaşadık. zira ameliyat olduğundan bu güne yani 4 senedir 3 ayda bir kendisine kontrole gidiliyor ve hatrı sayılır bir bedel ödeniyor kendisine. hasta yakınına bilip bilmeden hastanız zaten gidici derken bi düşünmez mi insan…<br/>her neyse duruma hakim olunca sevgili profesörümüz devlet hastanesinin ultrason tespitine güvenmediğini ve özel bir muayenehanede ultrasonla bakılmasını salık verdi. tamam dedik, bu arada randevu istediğimiz o özel doktor bir ay sonraya randevu verdi. bizim de bir yandan içimiz içimizi yiyordu. zira metastazik bir kitle tespit edildi ve önceki deneyimlerimizden kanserli kitleye erken müdahalenin önemini ve bir ay gibi bir süre kaybetmenin belki de hayati risk taşıdığını biliyorduk.<br/>sonuçta allem edildi kallem edildi, görüntüleme randevusu erkene, bir hafta sonraya çekildi. sayın profesörümüz de bu arada tatilden döndüğünde bizi bu sonuçlarla görmek istediğini söyledi. ok dedik. <br/><br/>buraya kadar her şey olağan. ama bu süre zarfında biz etrafta ağlaşırken yardımcı olmak isteyen arkadaşlarımızdan birisi, büyük bir eğitim araştırma hastanesinde bir doktora randevu ayarlamış. aynı gün o doktora gidildi. ultrason raporu verildi. o doktor ise bu tür kanser vakalarından sonra görülen bu kitlenin metastaz riski nedeniyle derhal ileri bir görüntüleme olan <a class="b" href="/?q=bilgisayarl%c4%b1+tomografi">bilgisayarlı tomografi</a>(bt) ile bakılması gerektiğini söyledi. o an fark ettim ki zaten ilk ultrason raporunda da "ileri düzey görüntüleme ile izlenmesi önerilir" yazıyormuş. her neyse, aynı gün ilaçlı dinamik bt çekildi. aynı kitle ve net yeri tespit edildi. maalesef kanserin metastaz yaptığı teyit edildi. hatta operasyonla almadan önce vücudun başka bir yerine sıçramış olma olasılığını değerlendirmek üzere <a class="b" href="/?q=pet+ct">pet ct</a> denen daha ileri ve yoğun radyasyonlu görüntüleme istendi. bir kaç gün sonraya da onun randevusu ayarlandı. bu noktaya kadar devlet hastanesinde risk teşkil ettiği için olsa gerek her şey jet hızıyla ilerledi.<br/><br/>bu görüntülemeler çıkınca bizim sevgili profesörümüzü durumdan haberdar ettik. tomografi çekildiğini, burada da kitlenin teyit edildiğini söyledik. tomografi cd'sini getirsek bakmak ister misiniz diye sorduk. bir sinirlendi falan, "kendi kafanıza göre iş yapmayın, benim söylediğim doktora gidin önce ultrason çeksin, raporunu yazsın sonra ben sizden gerekirse yeniden ve başka bir yerde bt çekilmesini isteyeceğim” dedi. peki dedik sesimizi kestik. <br/><br/>ama kafamız karıştı. daha üst bir görüntüleme var elimizde ama sevgili profesörümüz bunu istemiyor. daha alt bir görüntüleme olan ultrason istiyor. anlam veremiyoruz. <br/><br/>bunu da devlet hastanelerinden birinde radyoloji uzmanı doçent bir arkadaşımıza soruyoruz. o da ilk ultrason raporunu görür görmez bir onkolog olmadığı halde, hastalığın geçmişi ve yayılım alanına bakınca bunun bir metastaz olduğunu anladığını söyledi. bu durumda biyopsi veya bt yapılmasını önerdiklerini bunun da bir onkolog tarafından ameliyat öncesinde pet-ct ile birlikte değerlendireceğini, başkaca yayılım yoksa ameliyatla kitlenin alınacağını anlattı. <br/><br/>bu profesörün neden hala ultrason istediğini sorduğumuzda biraz sıkıldı ama sonra açık yüreklilikle itiraf etti. bu özel hocaların görüntüleme için yönlendirdikleri her hastasından komisyon aldığını, dolayısıyla devlette yapılana güvenmeme konusunun tamamen parasal kaygı nedeniyle olduğunu, bu tür bir hastalık takibindeki bir hocanın muayene ücreti haricinde yönlendirdiği özel görüntüleme merkezlerinden özel ultrason görüntülemesi, bt ve pet-ct için bir ödeme aldığını, bunu da tüm sektörün bildiğini söyledi. <br/><br/>işin özü, kimsenin sizin yaşam mücadelesi verdiğinizle falan ilgilendiği yok. konu kanser ve hayat memat meselesi de olsa bu çok saygın doktorlar keselerini kanlı paralarla doldurma peşinde. komik olan operasyonel ve riskli noktaya gelindiğinde yine devlet hastanelerine ve oradaki cefakar doktorlara iteliyorlar sizi...
   entry_channels: sağlık,haber
@@ -14,7 +14,7 @@ data:
     imamoğlu'nun eşi ve kızına taciz imasında bulunmak
   entry_id:  94539248
   entry_writer: sessizligin ilk sesi
-  entry_fav_count: 1328
+  entry_fav_count: 1336
   entry_content: |
     üst ekleme: tahmin edilebileceği bu sapık herif korkup hesabı kapatmış ama soruşturma açıldığına dair bir bilgi bulamadım olursa beni de bilgilendirin buradan paylaşacağım.<br/><br/>başlığın tam hali "facebook'ta ekrem imamoğlu'nun eşine ve kızına taciz imasında bulunan profil" olacak.<br/><br/>adamın teki facebook'ta kendi küçük beyniyle ismet inönü'yle dalga geçmek adına ismet inönü adıyla açtığı profilinde aşağıdaki iğrenç gönderiyle imamoğlu'nun kızına ve eşine taciz imasında bulunuyor.<br/><br/>bu paylaşım:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/9x93975qad92">https://eksiup.com/p/9x93975qad92</a><br/><br/>bu da paylaşıma yapılan yorumlardan bazılarıyla profilin bir bölümünün görünümü:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/s2939779n8ao">https://eksiup.com/p/s2939779n8ao</a><br/><br/>profil linki:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/ismet.1923">https://www.facebook.com/ismet.1923</a><br/><br/>paylaşım linki:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/ismet.1923/posts/398496554378452" title="https://www.facebook.com/ismet.1923/posts/398496554378452">https://www.facebook.com/…923/posts/398496554378452</a><br/><br/>bu arada ekrem imamoğlu'nun kızı bu sene 3. sınıfa geçmiş yani ortalama 9 yaşında bir kız çocuğu. bu adi herifin paylaşımının iğrençliğinin böyle de bir yanı daha var.<br/><br/>bu şerefsizler bunları paylaşma gücünü nereden alıyor? bunlar hangi anadan hangi babadan yetişiyor lan? biz bu insanlarla aynı toprakta yaşamak için ne suç işledik?<br/><br/>ekşi sözlükteki avukatların bu işe bir el atması lazım. bu adamlar bunları kolay kolay yapamamalarını görmeleri lazım. yaptıklarının bir bedeli olduğunu görmeleri lazım. eğer bu paylaşımı yapan adi herifin bir ceza almasını sağlayamazsak ekşi sözlük olarak bize de yazıklar olsun.<br/><br/>ekleme:<br/><br/>girilerden verilen bilgileri buradan paylaşacağım.<br/><br/>iletisim@ekremimamoglu.com adresine bu konuyla ilgili ekrem imamoğlu'nun veya çevresinin bu konudan doğrudan haberdar olmasını hukuki süreci başlatmalarını sağlayabilirsiniz.<br/><br/>kim olduğuna dair: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/20numaralimurid/status/1166345027477528576?s=19" title="https://twitter.com/20numaralimurid/status/1166345027477528576?s=19">https://twitter.com/…tatus/1166345027477528576?s=19</a><br/>sapığın adı <a class="b" href="/?q=hikmet+o%c4%9fuz+be%c5%9fel">hikmet oğuz beşel</a>'miş.<br/><br/>aynı kişinin twitter adresi olduğu söyleniyor: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ismet_lozan1923?s=09">https://twitter.com/ismet_lozan1923?s=09</a><br/><br/>canlı yayında benzer terbiyesizliği, sapıklığı dile getiriyor 4:20 - 4:50 arası:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.facebook.com/story.php?story_fbid=396152737946167&amp;id=100026543316443" title="https://m.facebook.com/story.php?story_fbid=396152737946167&amp;id=100026543316443">https://m.facebook.com/…37946167&amp;id=100026543316443</a>
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     4 eylül 2019 alkol zammı
   entry_id:  94556835
   entry_writer: hastalikli ruh
-  entry_fav_count: 700
+  entry_fav_count: 711
   entry_content: |
     degerli eksici arkadaslarim, 4 eylul 2019 tarihi itibariyle alkole gelen %30 zamcigi aglayarak buraya birakiyorum. bunda katkisi olan kim varsa hepsinin aminakoyim. guncel liste <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/dx94245s4uw6" title="https://eksiup.com/p/dx94245s4uw6">icin</a><br/><br/>ornegin; 77 tl olan yeni raki 35lik 99 tl. 70 lik raki 152tl den, 195tl ye yukselmis. biralarin en ucuzu 13 tl.<br/><br/>not: tekel bayi isletiyoruz ve fiyatlar gercegi yansitmaktadir.<br/><br/>edit-1: yeni rakı ala serisi için görüştüm. basım hatası yapılmış.<br/>35 lik: 130 tl<br/>70 lik: 253 tl<br/><br/>edit-2: liste mey grup anadolu yakası distibütörlüğünden geldi. gelen listeyi sizlerle paylaştım. zaten tekel bayi çalıştırdığımızı da söylemiştim. biralar ile akalı liste geldiğinde ayrıca editleyeceğim.<br/>ayrıca (bkz: <a class="b" href="/?q=3+a%c4%9fustos+2019+sigara+zamm%c4%b1">3 ağustos 2019 sigara zammı</a>) başlığında da yazmıştım zammı teyit ettirdim diye. (bkz: <a class="b" href="/entry/93411116">#93411116</a>)<br/><br/>edit-3: mesaj kutumu yeşillendirip hakaret küfür eden değerli yazarlar, bu zam 4 eylül 2019 da gerçekleşirse, o mesajları rulo yapıp, hepinizin götüne sokacağım bunu bilin istedim...
   entry_channels: siyaset,haber,yeme-içme,ekonomi
@@ -30,7 +30,7 @@ data:
     dua lipa'nın mini eteği
   entry_id:  94556447
   entry_writer: mutsuz adamin danasi
-  entry_fav_count: 396
+  entry_fav_count: 399
   entry_content: |
     aman ömür gedik görmesin dediğim mini etek.
   entry_channels: haber,moda,magazin
@@ -38,39 +38,23 @@ data:
     evlenirdim denilen dizi karakterleri
   entry_id:  94536840
   entry_writer: opsunsenizekimuren
-  entry_fav_count: 380
+  entry_fav_count: 384
   entry_content: |
     <a class="b" href="/?q=a%c5%9fk-%c4%b1+memnu">aşk-ı memnu</a>daki nihat<br/><br/>gözü karısı<sup class="ab"><a title="(bkz: peyker)" href="/?q=peyker" data-query="peyker">*</a></sup>ndan başkasını görmüyor, onu her kosulda ailesine karsi koruyor, mukemmel bir baba, duzenli bir isi var, caliskan... daha ne olsun.<br/><br/>behlülle eğlenip nihatla evlenen peyker, idolümsün.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,tv
 - entry_name: |
-    ambulansa yol vermeyen sürücünün takla atması
-  entry_id:  94554394
-  entry_writer: aynalikemer
-  entry_fav_count: 284
-  entry_content: |
-    umarım kendisi için gelen ambulansa kimse yol vermez. böyle parazitlerin geberip gitmesi ülke için en hayırlısı. <br/><br/>(bkz: <a class="b" href="/?q=do%c4%9fal+seleksiyon">doğal seleksiyon</a>)
-  entry_channels: haber,otomotiv
-- entry_name: |
     plüton gezegendir
   entry_id:  94559966
   entry_writer: habemus kakam
-  entry_fav_count: 196
+  entry_fav_count: 197
   entry_content: |
     plüton'un kesinlikle kabul etmemesi gereken olay. s.ktirin gidin onun bunun çocukları, 13 yıl önce neredeydiniz diye bu kararı yüzlerine çarpması gerekir.
   entry_channels: bilim,haber
 - entry_name: |
-    29 ağustos şule yüksel şenler'in vefatı
-  entry_id:  94562172
-  entry_writer: one thirty eight
-  entry_fav_count: 193
-  entry_content: |
-    kendisine hakkımı helal etmiyorum. ergenlik çağımda huzur sokağı'nı okumuş ve o gazla türbana girmiştim. akşam babam eve dönünce hayatımın dayağını yedim. "köçek mi olacaksın başımıza hayvan herif" diye bağırması hala kulaklarımda.
-  entry_channels: siyaset,tv,tarih,sinema,edebiyat,haber
-- entry_name: |
     istanbul'da 24 saat ulaşım olması
   entry_id:  94572756
   entry_writer: siyah giyen adam
-  entry_fav_count: 182
+  entry_fav_count: 197
   entry_content: |
     25 senedir siyasal islamın sırf “gece hayatı olmasın” diyerek engel koyduğu zorbalık nihayet son buluyor ve istanbul gibi bir metropol şehri olması gerektiği gibi 24 saat toplu ulaşıma ulaşıyor. özellikle metro - m2 seferlerinin gece 12’den sonra bitmesi bu şehir adına kabul edilemez büyük bir utançtı. ve nihayet hak geldi, batıl zail oldu.
   entry_channels: haber,seyahat
@@ -78,7 +62,7 @@ data:
     emine bulut'un kızına kayyım atanması
   entry_id:  94571238
   entry_writer: plentyofemptiness
-  entry_fav_count: 160
+  entry_fav_count: 169
   entry_content: |
     o kayyımla bu kayyım farklı.<br/><br/>çocuk hakkında herhangi bir işlemi yapacak velisi kalmadı. babası içeride, annesi de babası tarafından öldürüldü. <br/><br/>çocuğu, okula kaydedecek bir kişi bile yok. herhangi bir şey satın almaya kalksa yaşı küçük olduğundan alamaz. annesinden miras kaldıysa malvarlığını kullanamaz. birinin kendisini 18 yaşına gelene kadar yasal olarak temsil etmesi lazım. onu da hapisteki, annesini öldüren babası yapamayacağına göre (yasal olarak da mümkün değil zaten), yasal temsilci atamışlar işte. anlaşılmayacak bir şey yok. yani çocuğun ne velisi ne de vasisi var. devlet de, çocuğun yasal işlerini görecek, malvarlığını yönetecek, haklarını koruyacak ve gerektiğinde ilgili merciler ve mahkemeler önünde onu temsil edecek, onun yerine karar verecek birini atıyor.
   entry_channels: haber
@@ -86,7 +70,7 @@ data:
     28 ağustos 2019 memur zammı
   entry_id:  94571398
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 148
+  entry_fav_count: 161
   entry_content: |
     ekonomimiz o kadar iyi ki memurun zamma bile ihtiyacı yok.<br/>o yüzden sessiz sessiz <a class="b" href="/?q=elhamd%c3%bclillah">elhamdülillah</a> diyeceklerdir.<br/><br/>orospuya bahşiş diye versen, yüzüne bakmaz siktir eder kapıdan.<br/>taksiye %24, taksiye binene %4.<br/>nasıl iyi mi böyle? reis giderse türkiye biter diyenler vardı.<br/>reisiniz gitmedi. ama reisiniz <a class="b" href="/?q=geliyor">geliyor</a>. hem de ardı ardına <a class="b" href="/?q=geliyor">geliyor</a>.
   entry_channels: siyaset,ekonomi
@@ -94,7 +78,7 @@ data:
     otobüste çocuğunu oturtan kendi ayakta giden tip
   entry_id:  94564981
   entry_writer: bennythebeast
-  entry_fav_count: 138
+  entry_fav_count: 140
   entry_content: |
     çocuklar yetişkinlere göre daha çabuk yoruldukları için normal olan davranıştır. ayrıca otobüsteki ve metrobüsteki bilumum sapıklara karşı da önlem almaktır
   entry_channels: seyahat
@@ -102,7 +86,7 @@ data:
     pilav yaparken pirince eklenen su oranı
   entry_id:  94566964
   entry_writer: tengrist
-  entry_fav_count: 134
+  entry_fav_count: 139
   entry_content: |
     kullanılan pirincin kalitesine göre değişmesi gereken oran.<br/><br/>iyi kaliteli pirinçlerde oran 1e 2'dir. bimin dandik pirinçlerinde 1'e 2 ve altı oran pirinci diri bırakır. ayrıca kaynar su veya sıcak su kullanmayın ve pişirmeye başlamadan önce biraz suda dinlendirin ayrıca su eklemeden biraz kavurursanız ve suyuna birkaç damla limon damlatırsanız tane tane ve bembeyaz olur.
   entry_channels: anket,yeme-içme
@@ -110,7 +94,7 @@ data:
     görülmüş en virajlı rota
   entry_id:  94548012
   entry_writer: harika avci
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     bolu yedigöller yolu. tövbeler olsun.
   entry_channels: anket,otomotiv,seyahat
@@ -118,7 +102,7 @@ data:
     çirkin insanlarla kim sevişiyor sorunsalı
   entry_id:  94553702
   entry_writer: akillara durgunluk veren olay
-  entry_fav_count: 108
+  entry_fav_count: 113
   entry_content: |
     eşleri, sevgilileri... size ne kardeşim? her insan medyanin sözde güzellik algısını yaşamak ve buna uymak zorunda mi???<br/><br/>güzellik göreceli şey, sevmiştir karşısındakini olay bitmiştir..<br/><br/>size ne kardeşim size ne?!?...
   entry_channels: anket,ilişkiler
@@ -126,23 +110,15 @@ data:
     en seksi oje rengi
   entry_id:  94569954
   entry_writer: cam kenari manzaralari
-  entry_fav_count: 103
+  entry_fav_count: 110
   entry_content: |
     (bkz: <a class="b" href="/?q=ne+kadar+salak+salak+ba%c5%9fl%c4%b1klar+bunlar">ne kadar salak salak başlıklar bunlar</a>)
   entry_channels: anket,moda
 - entry_name: |
-    bir kadının kendine yapabileceği en iyi şey
-  entry_id:  94543468
-  entry_writer: morina
-  entry_fav_count: 96
-  entry_content: |
-    mantığının sesine her daim kulak vermek.<br/>kendisini kıran, üzen kimseye ikinci şansı vermemek.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     türklerin diğer ırklara göre öne çıkan özellikleri
   entry_id:  94561973
   entry_writer: nudeboy
-  entry_fav_count: 93
+  entry_fav_count: 94
   entry_content: |
     asker olmaları. 'her türk asker doğar' sözü komiktir, ama gerçektir. nasıl alman bilim insanı, italyan müzisyen, fransız sanatçı çıkarıyorsa, bizim millette asker çıkartıyor bağrından<br/>edit:arkadaşlar, bazı aklı evveller, ben:'türk milleti asker bir millettir.' dediğim için bana saldırmaya başlamışlar. öncelikle ben türkler bilim, san'at vesaire yapmasın demiyorum, allah aşkına, neye inanıyorsanız onun aşkına önceki entrylerimi de okuyun, sonra gelin atıp tutun. bilim yapalım diyorum, sanat yapalım diyorum, teknoloji üretelim diyorum ben zaten her zaman. ama ne diyeyim? asker bir millet değil miyiz diyeyim? tarihi realiteyi yok mu sayayım? asıl siz bilim düşmanı, okuduğunu idrak edemiyen, araştırmayan, zavallı yığınlarsınız!
   entry_channels: anket,tarih
@@ -155,13 +131,13 @@ data:
     yaşadığım yere yakın bir köyde adam var boynu biraz yamuk olduğu için kafası yan yan yukarı bakıyor gibi duruyor köylüler hemen lakabı yapıştırmış tabi<br/>(bkz: <a class="b" href="/?q=yaradana+yan+bakan">yaradana yan bakan</a>)
   entry_channels: anket,ilişkiler
 - entry_name: |
-    bir çiftin kalitesiz olduğunu gösteren detaylar
-  entry_id:  94550057
-  entry_writer: piksies
-  entry_fav_count: 88
+    odtü'nün f-16 üretmeme nedeni
+  entry_id:  94573382
+  entry_writer: pppedant
+  entry_fav_count: 87
   entry_content: |
-    en ufak sebepten tartışıp ortamı germeleri. yahu tutun içinizde yalnız kaldığınızda ne varsa çözün.
-  entry_channels: anket,ilişkiler
+    odtülüler üretiyor da ülkemizde değil. kaçırtmasaydık iyiydi.
+  entry_channels: 
 - entry_name: |
     akp vekili mustafa canbay'ın whatsapp paylaşımı
   entry_id:  94570094
@@ -171,18 +147,10 @@ data:
     merhaba mustafa abi ben (bkz: <a class="b" href="/?q=al+bi+kapak">al bi kapak</a>) tc vatandaşıyım 2 si lisans 1 önlisans diploma sahibiyim. 10dan fazla kamu kurum sınavına girip mulakatlarda , cekilişlerde elendim. issizim. torpille hakettigim yere başkalarını sokup hakkımı yiyen herkese de ben sokayım. arz ederim.
   entry_channels: 
 - entry_name: |
-    odtü'nün f-16 üretmeme nedeni
-  entry_id:  94573382
-  entry_writer: pppedant
-  entry_fav_count: 73
-  entry_content: |
-    odtülüler üretiyor da ülkemizde değil. kaçırtmasaydık iyiydi.
-  entry_channels: 
-- entry_name: |
     28 ağustos 2019 ispark'tan 246 işçinin çıkarılması
   entry_id:  94574540
   entry_writer: edwardimtirak
-  entry_fav_count: 68
+  entry_fav_count: 74
   entry_content: |
     çok dindarsınız ya, liseyi bile bitirmeden, kayrılarak, torpille girdiğiniz işlerden haram para yemekten kurtuldunuz :)<br/><br/>edit : umarım dindar olmayanlar da "ben ne de olsa iyi insanım" gibi saçma bi havada kötü insanlar gibi haketmeden maaş almaz. malum siyasi mevzular belli olmaz, bol bol liyakat dileğiyle.
   entry_channels: haber
@@ -190,7 +158,7 @@ data:
     insan ölünce ne olur
   entry_id:  94541226
   entry_writer: clitoris
-  entry_fav_count: 61
+  entry_fav_count: 66
   entry_content: |
     ilk başta temel vücut fonksiyonları kaybolur. tüm kaslar gevşer hatta bu yüzden idrarını gaytasını kaçırır. vücut yavaş yavaş ısısını kaybeder. kan damarların içinde pıhtılaşır ve yer çekimi etkisiyle ölü lekeleri oluşur. hücreler kendi kendini sindirmeye başlar. deri parşömen kağıdına benzer bir hal alır. hücrelerdeki enerji tamamen tükenince gevşek olan kaslar yeniden kasılır buna ölü katılığı (<a class="b" href="/?q=rigor+mortis">rigor mortis</a>) denir. gerek vücudun kendi içindeki gerekse topraktaki saprofit bakteriler vücudu çürütmeye başlar ve her bir atomumuz doğaya tekrar karışır. bu şekilde ekolojik bir denge olur. <br/><br/>yediğiniz her organik şeyin içinde atalarınızın atomu var. belki de babanız dedesinin bir atomuyla oluşan elmayı yedi ve o elmadaki karbon atomu babanızın spermini oluşturdu siz de o spermle dünyaya geri geldiniz kim bilir?
   entry_channels: sağlık
@@ -203,13 +171,13 @@ data:
     tekila ısmarlayacak kadar bilgin ve zengin, kendinden de ödün verecek kadar fedakar, sizi sikmek isteyen bir kardeşimiz var. yollu da demeyecekmiş size, hadi yine iyisiniz. en iyisi siz bu kardeşimizi kaçırmayın, başarılar. <br/><br/>tanım : var olduğuna inanılan kadındır.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    27 ağustos 2019 izmir'de işlenen cinayet
-  entry_id:  94568056
-  entry_writer: occaut
-  entry_fav_count: 48
+    instagram'da kadınlara video ile yürüyen tip
+  entry_id:  94573476
+  entry_writer: renksiz hayat
+  entry_fav_count: 49
   entry_content: |
-    canavarca ve vahşice hisle adam öldürmekten ağırlaştırılmış müebbet hapis yiyecek olan kişidir.<br/><br/>hapishanede olduğu sürece <br/><br/>ücretsiz sağlık hakkı<br/>ücretsiz kurs hakkı<br/>yılda 2 kere implant hakkı olacaktır.<br/><br/>ayrıca içeride günde 3 öğün yemek yiyip , istediği gibi sigarasını kantinden alıp keyifle içecektir.<br/><br/>büyük bir ihtimalle 50’li yaşlarında <br/><br/>10 sene sonra hastalıklardan ötürü ya tahliye edilecek ya da devletin hastanesinde devamlı hastane yatağında tedavi görecektir. <br/><br/>ücretsiz demiş miydim ? <br/><br/>yani , yaptığı yanına kâr kalacak olan bir katildir.<br/><br/>ailesine kısas hakkı düşmüştür. rabbim , ölen kişinin akrabalarına intikam alma gücü versin
-  entry_channels: haber
+    tam bir aknargileci. bunların meriçleri hiç çekilmiyor.
+  entry_channels: 
 - entry_name: |
     zihinde yer etmiş anonslar
   entry_id:  94536976
@@ -219,21 +187,21 @@ data:
     kendi kendinin lafını kesen akbil.<br/><br/>sadece kağıt para g...<br/>işleminiz yapılıy...<br/>kart yüklemeniz gerçekleşti.
   entry_channels: anket
 - entry_name: |
-    instagram'da kadınlara video ile yürüyen tip
-  entry_id:  94573476
-  entry_writer: renksiz hayat
-  entry_fav_count: 41
-  entry_content: |
-    tam bir aknargileci. bunların meriçleri hiç çekilmiyor.
-  entry_channels: 
-- entry_name: |
     kraliçenin ingiltere parlamentosunu askıya alması
   entry_id:  94570713
   entry_writer: panzerkampfwagen iv
-  entry_fav_count: 37
+  entry_fav_count: 40
   entry_content: |
     her yerde darbe rerörerö goygoyu yapılıyor ama kraliçe'nin başbakan'dan gelen tavsiyeleri reddetmek gibi bir lüksü yok. bunların teamülü böyle. teknik olarak kraliçe'nin bir bok yaptığı yok yani, bu hamlenin getirisi de götürüsü de başbakan boris johnson'a yazılacak. "sen de yalanmışsın ingiltere" geyiği yapılmadan not düşeyim dedim.
   entry_channels: siyaset,haber
+- entry_name: |
+    kürtlerin diğer ırklara göre öne çıkan özellikleri
+  entry_id:  94574963
+  entry_writer: dede korkut paradoksu
+  entry_fav_count: 37
+  entry_content: |
+    okuryazar olmaları, zengin bir sözlü, yazılı tarihe sahip olmaları,<br/><br/>erkeklerinin/kadınlarının uzun boylu, güzel kokulu ve yakışıklı/güzel olmaları. zaten kürt halklı dünyada güzel kokuları ile nam salmışlardır. <br/><br/>yaşadıkları şehirlerin türkiye’nin en güvenli, özgür düşünceye açık, modern kentleri olması. örneğin, türkiye’nin ilk gay village’i batman kozluk’ta 1952’de açılmıştı. buna ek olarak batı metropollerinde yoğun yaşadıkları ilçeler ve mahalleler emlak fiyatlarının en yüksek olduğu, popülaritesi yüksek muhitlerdir (örn. bağcılar, sultanbeyli, kadifekale, asarlık, harmandalı). bu muhitlerde oturmak herkesin hayalidir bildiğiniz üzere.
+  entry_channels: siyaset,tarih
 - entry_name: |
     ekşi itiraf
   entry_id:  94536014
@@ -243,29 +211,29 @@ data:
     üniversitedeyken canım tatlı çektiğinde ve param olmadığında çayı şekerli içerdim. normalde şekersiz içtiğimi bilen arkadaşlar şaşırınca çayın tadı kötü ondan attım derdim.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ricardo quaresma
-  entry_id:  94566278
-  entry_writer: radioslave
-  entry_fav_count: 29
-  entry_content: |
-    bayanlar ve baylar yine eğitici bir entry ile karşınızdayız... beşiktaş'ta adeta bir <a class="b" href="/?q=paradoks">paradoks</a> haline gelen quaresma futbol kariyeri ve hayatını inceleyeceğiz. kimi ona <a class="b" href="/?q=mustang">mustang</a> derken bazıları da onu küçük düşürmek için <a class="b" href="/?q=%c3%a7ingene">çingene</a> dediler. kimi tarafından sevildi kimi tarafından nefret edildi ama değişmeyen tek şey her zaman gündemde olmasıydı. ve işte karşınızda... <a class="b" href="/?q=ricardo+andrade+quaresma+bernardo">ricardo andrade quaresma bernardo</a> <br/><br/>quaresma yoksul bir ailenin çocuğu olarak dünyaya geldi. bir gecekonduda büyüyen quaresma'nın anne ve babası 4 yaşında ayrıldı. tüm sorumluluk annesine kalmıştı. quaresma futboldan nefret ediyordu ve hokey oynamak istiyordu fakat annesi buna karşı cıkıyordu. abisinin zoruyla ilçe takımına kaydoldu. daha sonra yine abisi için gelen lizbon quaresma'yı fark ettiler ve quaresma istemese de <a class="b" href="/?q=lizbon">lizbon</a> ile anlaştı. daha sonra <a class="b" href="/?q=u17+portekiz">u17 portekiz</a> milli takımıyla avrupa şampiyonu olan q7'nin futbol hayatının bir parçası haline geldi. <br/><br/>ronaldo ile lizbon alt yapısında beraberlerdi. fakat quaresma daha cok tanınıyorudu hatta ronaldo quaresma'nın yedeğiydi. buna karşın, manchester united ile hazırlık maçında daha iyi bir performans gösteren ronaldo, manchester united'a transfer oldu. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/d291721rmdi9">https://eksiup.com/p/d291721rmdi9</a><br/><br/>ronaldo gittikten sonra quaresma da lizbonda kalmayıp barcelona'ya transfer oldu. burda <a class="b" href="/?q=rijkaard">rijkaard</a> ile sorun yaşayan quaresma <a class="b" href="/?q=28+ma%c3%a7ta">28 maçta</a> <a class="b" href="/?q=1+gol+2+asist">1 gol 2 asist</a>lik vasat performansın sonunda deco + 15 milyon avroya <a class="b" href="/?q=porto">porto</a>ya transfer oldu. quaresma'yı quaresma yapan portodur. burada sadece youtube fenomeni degil bir takımın en önemli oyuncusu oldu. porto kariyeri boyunca <a class="b" href="/?q=126+ma%c3%a7ta">126 maçta</a> <a class="b" href="/?q=49+gol+56+asist">49 gol 56 asist</a>le oynadı. portodaki başarısı sebebiyle inter'e transfer olan quaresma orda da morinho engeline takıldı. <a class="b" href="/?q=morinho">morinho</a> interdeyken quaresma için; "harika bir yetenek fakat <a class="b" href="/?q=ibra">ibra</a> gibi takımla uyum içinde oldugunu göremiyorum. bunu öğrenir ya da oynayamaz. topa ayagının dışıyla vurabiliyor. bana sorarsanız bir kaç ay içinde farklı bir quaresma konusuyor olacagız" demesine rağmen quaresma <a class="b" href="/?q=serie+a">serie a</a> da başarılı olamadı hatta italyada sezonun hayal kırıklığına verilen <a class="b" href="/?q=bidone+d%27oro">bidone d'oro</a> ödülüne layık görüldü! inter kariyerinde <a class="b" href="/?q=32+ma%c3%a7ta+sadece+1+gol+2+asist">32 maçta sadece 1 gol 2 asist</a> ile oynadı. söylediğine göre göz yaşı dövmesi de o zamanlarla ilgiliymiş; "oyun stilimi değiştirirsem kendime güvenimi kaybederim. milano'da böyle oldu. oyundan zevk almayı unuttum. bir sabah kalktım ve ağlamaya başladım. yıllar sonra yaptırdığım <a class="b" href="/?q=g%c3%b6zya%c5%9f%c4%b1+d%c3%b6vmesi">gözyaşı dövmesi</a>ni oyundan çok zevk aldığımı hissettiğim an ağladığım o günleri unutmamak için yaptırdım" ondan sonra chelsea'ye kiralanan quaresma sadece <a class="b" href="/?q=5+ma%c3%a7+oynad%c4%b1+ve+1+asist">5 maç oynadı ve 1 asist</a> yapabildi. chelsea de de tutunamayan quaresma olay yaratan transferiyle <a class="b" href="/?q=be%c5%9fikta%c5%9f%27">beşiktaş'</a>a transfer oldu. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=OuoqVyi3PqI" title="https://www.youtube.com/watch?v=OuoqVyi3PqI">quaresma imza töreni</a><br/><br/><a class="b" href="/?q=3+ekim+2007+be%c5%9fikta%c5%9f+porto+ma%c3%a7%c4%b1">3 ekim 2007 beşiktaş porto maçı</a>nda formasına attığı takıma gelmişti. ilk iki sezonda <a class="b" href="/?q=73+ma%c3%a7ta+18+gol+27+asist">73 maçta 18 gol 27 asist</a> ile oynadı. taraftarın sevgilisi olmuştu. tabii quaresmanın oyunu sadece istatistiklerle açıklamak yetmezdi. quaresma oyundayken rakip onu asla bir kişi ile tutmazdı. en az iki kişiyle tutmaları gerekiyordu. bu da rakipleri tedirgin ediyor ve temkinli oynamak zorunda bırakıyordu. her şey cok iyi giderken taraftarla ağız dalaşlarına başladı. en son da carvalhal'in quaresma'yı oyundan alırken isyan edip <a class="b" href="/?q=carvalhal">carvalhal</a>'e kramponunu fırlatarak "seni ben getirdim, sen beni oyundan alamazsın, sen hiç kimsesin" demesi üzerine kadro dışı kaldı ve daha sonrasında karşılıklı olarak mükavelesi fesh edildi. <br/><br/>beşiktaş'tan ayrıldıktan sonra kısa süreliğine birleşik arap emirlikleri'nin <a class="b" href="/?q=al+ahli">al ahli</a> takıma gitti ordan tekrar portoya döndü. porto da yine eski formunu yakaladı. fakat beşiktaş onu tekrar istiyordu. quaresma'nın da beşiktaş taraftarına şampiyonluk sözü vardı. 15/16 sezonunda tekrar beşiktaş'a döndü. beşiktaş'ın başına da şenol güneş gelmişti. quaresma'nın en büyük şansı şenol güneştir. quaresma'nın kaprislerini babacan bir şekilde sürekli affedip ve onu motive eden <a class="b" href="/?q=%c5%9fenol+g%c3%bcne%c5%9f">şenol güneş</a> sayesinde quaresma 4 sezonda toplam 153 maçta 20 gol 51 asist performansıyla 2 şampiyonluk yaşadı. beşiktaş'ın ilk kez şampiyonlar liginde gruplardan cıkmasında büyük pay sahibi oldu. <br/><br/>bu sırada 2016 yılında portekiz milli takımıyla avrupa şampiyonluğu da yaşadı. <br/><br/><a class="b" href="/?q=quaresma">quaresma</a>'yı seven sevmeyen herkes onun sıradışı yeteneğini kabul eder. yetenekli insanların genelde sıradışı karakterleri olsa da daha iyi anlamak için cocukluguna bakmak gerek. quaresma'nın en büyük sorunu olan takım içi uyum ailesiyle ilgili. quaresma 4 yaşındayken anne babası ayrılıyor ve babası hayatından çıkıyor. baba figürü ile neredeyse hiç tanışmamaış olan quaresma hayatı boyunca otoriteyle problem yaşıyor. şenol güneş ile babasıyla hiçbir zaman yaşamadıgı ve eksikliğini çektiği diyaloğu yakalayabildiği biliyoruz. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.mayoclinic.org/diseases-conditions/oppositional-defiant-disorder/symptoms-causes/syc-20375831" title="https://www.mayoclinic.org/diseases-conditions/oppositional-defiant-disorder/symptoms-causes/syc-20375831">oppositional defiant disorder</a> <br/><br/>takıma uyum sağlamak yerine kendi bireysel oyunun geliştiren quaresma topla olan tekniğini ve çalım yeteneğini geliştirdi. ve bu açıdan dünyada sayılı oyunculardan biri oldu. yaptıgı hareketler maçtan fazla konusuluyordu. kariyerinin ilk yıllarında kendinin de dedigi gibi futboldan nefret eden quaresma'nın oyunu daha cok kendine özgü bir <a class="b" href="/?q=freestyle">freestyle</a> oyunuydu. quaresma takım oyunundan cok çalım atmayı <a class="b" href="/?q=rabona">rabona</a> yapmayı ve kendi karakterine uygun vuruş olan trivelayı icat etmişti. <a class="b" href="/?q=trivela">trivela</a> quaresma'nın futbola bakışını özetliyordu. futbolu alışıldığı gibi degil, kendi istediği gibi oynuyordu. <br/><br/>quaresma için söylenenler;<br/><br/><a class="b" href="/?q=ronaldo">ronaldo</a>; "eğer kızdırırsanız takım arkadaşlarını bile çalımlar"<br/><br/><a class="b" href="/?q=nemaja+vidic">nemaja vidic</a> onunla sahada karşılaşmak istemiyorum, çünkü durduracağımı sanmıyorum. <br/><br/><a class="b" href="/?q=pepe+reina">pepe reina</a> "quaresma'yla karşı karşıya kalmak, bir kalecinin başına gelebilecek en büyük şanssızlıktır"<br/><br/><a class="b" href="/?q=alex+de+souza">alex de souza</a> "süper lig'in en iyi oyuncusu kesinlikle ricardo. eğer siz bir oyuncuyu ancak faul yaparak durduruyorsanız bu sizin acizliğinizi, onun da büyüklüğünü gösterir"<br/><br/><a class="b" href="/?q=arda+turan">arda turan</a> "quaresma tek kişilik bir takım gibi"<br/><br/><a class="b" href="/?q=h%c4%b1ncal+ulu%c3%a7">hıncal uluç</a> "quaresma, hagi ve zidane'dan sonra gördüğüm en teknik futbolcu"<br/><br/><a class="b" href="/?q=mehmet+demirkol">mehmet demirkol</a> "quaresma bu ülkedeki tartışmasız en iyi oyuncu"<br/><br/><a class="b" href="/?q=sergen+yal%c3%a7%c4%b1n">sergen yalçın</a> "çok bencil, sorumsuz ve agresif ama müthiş bir oyuncu"<br/><br/>quaresma beşiktaş'ın ve türkiyenin gelmiş geçmiş <a class="b" href="/?q=en+yetenekli">en yetenekli</a> oyuncusudur. fakat takım içi disiplinsiziğini, gördüğü kırmızı kartlar özellikle tansiyonu yüksek maçlarda kendini kontrol edememesi sebebiyle tepkiler aldı. şenol güneş'in oyunu onun üzerine kurması ilk 2 sene başarı getirse de özellikle son sezon bir başarı getirmedi hatta takıma daha cok zararı oldu. quaresma cok riskli ama etkili bir <a class="b" href="/?q=silah">silah</a> gibi. eğer calısırsa cok etkili oluyor fakat calısmazsa bu bütün takıma zarara uğratabiliyor son senede oldugu gibi. özellikle <a class="b" href="/?q=malm%c3%b6">malmö</a> maçında gördüğü kırmızı kart bardağı taşıran son damla oldu.<br/><br/>ayrıca quaresma'nın oyunu sonuç odaklı değil daha çok estetik odaklıdır. o yetenekteki ve hızdaki bir oyuncunun daha fazla gol atması beklenir ama o golden cok attığı calımlara ve kendini eğlendirme odaklıydı. quaresma'nın topla yaptığı hareketleri bir ressamın tuvale vurdugu darbelere benzetirim. özellikle ilk senelerinde portoda oynarken topla hakimiyeti hızı ve yaptığı şovlar tekrar tekrar izlemeye değer. fakat futbol sonuç odaklı bir oyun, yaptığınız çalıma veya hareketlere puan verilmiyor o hareketler sadece taraftarı eğlendirmeye yarıyor. zamanında <a class="b" href="/?q=ronaldo">ronaldo</a>'yu yedek bırakan bu yeteneğin kariyeri; disiplinin yeteneğe nasıl üstün geldiğini kanıtlar nitelikte oldu.<br/><br/>quaresma'yı daha cok sevenler özellikle 30 yaş üstü kişiler çünkü quaresma'nın ilk gelişi ergenlik dönemlerine dolayısıyla daha duygusal dönemlerine denk geliyor. quaresma'nın ilk geldiğinde daha öncesinde hiç kimsenin görmediği tipte bir oyuncuydu o zaman inönüdeki taraftar hayal edebileceği en büyük yıldızı izleme fırsatı bulmustu. adeta bir rüyada yaşıyorlardı...<br/><br/><a class="b" href="/?q=quaresma">quaresma</a> ile yollar ayrıldı yönetimler bu tip kararlar alabilir takımların çıkarları doğrultusunda fakat beşiktaş tarihinin en önemli futbolcularından birini bu şekilde yollamak beşiktaş'a yakışmadı. <a class="b" href="/?q=quaresma+paradoksu">quaresma paradoksu</a> quaresma gittikten sonra da devam edeceğe benziyor...
-  entry_channels: spor
-- entry_name: |
-    kürtlerin diğer ırklara göre öne çıkan özellikleri
-  entry_id:  94574963
-  entry_writer: dede korkut paradoksu
-  entry_fav_count: 27
-  entry_content: |
-    okuryazar olmaları, zengin bir sözlü, yazılı tarihe sahip olmaları,<br/><br/>erkeklerinin/kadınlarının uzun boylu, güzel kokulu ve yakışıklı/güzel olmaları. zaten kürt halklı dünyada güzel kokuları ile nam salmışlardır. <br/><br/>yaşadıkları şehirlerin türkiye’nin en güvenli, özgür düşünceye açık, modern kentleri olması. örneğin, türkiye’nin ilk gay village’i batman kozluk’ta 1952’de açılmıştı. buna ek olarak batı metropollerinde yoğun yaşadıkları ilçeler ve mahalleler emlak fiyatlarının en yüksek olduğu, popülaritesi yüksek muhitlerdir (örn. bağcılar, sultanbeyli, kadifekale, asarlık, harmandalı). bu muhitlerde oturmak herkesin hayalidir bildiğiniz üzere.
-  entry_channels: siyaset,tarih
-- entry_name: |
     40 yaşında bekar kadın
   entry_id:  94573643
   entry_writer: langdonxy2
-  entry_fav_count: 27
+  entry_fav_count: 32
   entry_content: |
     keşke zeka seviyesi düşük cinsiyetçi yorum yapanların profil resmini ve kariyerini görebilsek de dalga geçsek biraz. neyin ezikliğini veya eksikliğini yaşıyorsunuz da bu tip yorum yapmaya ihtiyaç duyuyorsunuz acaba? yok 30'da şöyleymiş, 40'ta böyleymiş.. merak ediyorum, çünkü cinsiyetçi başlıkları ve yorumları gördüğümde bendeki izlenim, göbeğini kaşıyan, evrimini tamamlayamamış, hayatta hiçbir baltaya sap olamamış pornocu bir tip. he o dalga geçtiğin 40 yaşındaki kadınlar sana sümüğünü atmaz bu arada:)
   entry_channels: anket,ilişkiler
+- entry_name: |
+    imamoğlu'nun odatv'yi fonlamasının deşifre olması
+  entry_id:  94576393
+  entry_writer: nickson
+  entry_fav_count: 31
+  entry_content: |
+    nihat genç deyince nedense aklıma sol cenahın kadir mısıroğlu'su geliyor. ne bileyim meczup gibin bir şey.
+  entry_channels: siyaset,haber
+- entry_name: |
+    nesine.com
+  entry_id:  94575523
+  entry_writer: galektersiz
+  entry_fav_count: 26
+  entry_content: |
+    canli bahisin nasil isledigini bilmeyen mallar tarafindan elestirilen site.<br/><br/>ulan hiyar frikikten once kapatacak tabi ne olacak. oldu olacak penalti aninda da acsinlar sende gol olura oyna.<br/><br/>hey allahim sabir ver.
+  entry_channels: spor,teknoloji
 - entry_name: |
     iddaa
   entry_id:  94538658
@@ -275,29 +243,29 @@ data:
     tekel bir aracı kurumdan başka bir sikim değildir. avrupa bahis borsasında 2.80 orandan aldığı maçı 1.80 oranla türkiye'deki bahisseverlere satıp aradaki 1.0 farkı cebe indiriyorlar. ki bu muazzam bir farktır. neredeyse %100'e denk gelen ve hiç etik olmayan bir kardır. daha doğrusu ranttır.<br/><br/>yapılan şey düpedüz hırsızlık açıkçası. ancak bu devleti yönetenler cahil olup özelleştirme yapmayı bile bilmedikleri için devasa bir piyasayı bu kartel şirkete peşkeş çektiler. bunlar da bahisçiler ile kedi fare oyunu oynuyorlar. minimum 3 maç oynama zorunluluğu, kafaya göre tek maç bahis oynatma, kafaya göre maç iptal etme. <br/><br/>türk sporu da çok mühim bir finans kaynağından mahrum kalıyor bu tekel kurum yüzünden. şimdi aynı hasta mantalite milli piyango özelleştirmesinde devreye girecek. böyle yapacaksanız ve kartel yaratacaksanız özelleştirme yapmayın. serbest piyasanın ve rekabetin olmadığı özelleştirme mi olur?
   entry_channels: spor,oyun,ekonomi
 - entry_name: |
-    nesine.com
-  entry_id:  94575523
-  entry_writer: galektersiz
-  entry_fav_count: 22
-  entry_content: |
-    canli bahisin nasil isledigini bilmeyen mallar tarafindan elestirilen site.<br/><br/>ulan hiyar frikikten once kapatacak tabi ne olacak. oldu olacak penalti aninda da acsinlar sende gol olura oyna.<br/><br/>hey allahim sabir ver.
-  entry_channels: spor,teknoloji
-- entry_name: |
     radamel falcao garcia
   entry_id:  94550522
   entry_writer: qatal
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     transferin özeti şöyle sanırım:<br/><br/>1. monaco falcao'nun yaşı ve maliyeti nedeniyle oyuncudan kurtulmaya çalışıyordu.<br/>2. falcao ile görüşüp ayrılması konusunda prensip anlaşmasına vardılar. <br/>3. bu arada çin ve katar'dan teklifler gelmeye başladı.<br/>4. monaco bu teklifleri falcao'ya iletti. falcao bu ülkelere gitmeyeceğini açıkladı. monaco falcao'ya gıcık oldu.<br/>5. daha sonra galatasaray oyuncuyla ilgilenmeye başladı.<br/>6. galatasaray'ın falcao ile ilgilenmesi haberi gerek medya gerekse taraftar nezdinde bayağı heyecan yarattı.<br/>7. galatasaray falcao ile prensipte anlaştı.<br/>8. abdürrahim albayrak falcao ile fotoğraf çekildi.<br/>9. galatasaray falcao'nun kulübüyle iletişime geçti.<br/>10. normalde bonservissiz bile falcao ile yollarını ayırabilecek olan monaco galatasaray'ın yoğun ilgisi ve falcao'ya gıcıklıkları nedeniyle nedeniyle galatasaray'dan bonservis talep etti.<br/>11. bonservis talebi galatasaray cephesini şaşırttı. bu transferin bonservissiz gerçekleşebileceğine inandırılmışlardı çünkü. ayrıca ffp nedeniyle bonservis ödeyecek durumda değillerdi.<br/>12. bonservis talebi gelince galatasaray beklemeye geçti. transferden vazgeçmeyi bile düşündüler fakat taraftar tepkisi endişesi nedeniyle bundan vazgeçtiler. diagne'yi satmak için büyük bir uğraş içerisine girdiler ama oyuncuya gelen teklifler galatasaray'ın onun için ödediği rakamların çok aşağısındaydı.<br/>13. bu arada ahmet bulut ve jorge mendes çakalları kulübün kapısında bitti. bize transferden komisyon verin, biz oyuncuyu bonservissiz getiririz dediler. menajer komisyonu ffp'ye girmediğinden galatasaray hemen atladı teklife ve 3-3.5 milyon euro + oyuncunun imaj hakları karşılığı menajerlerle anlaşıldı.<br/>14. menajerler monaco ile görüşmeye başladılar. monaco sözleşme fesih bedeli + oyuncunun imaj hakları için 5 milyon euro istedi.<br/>15. menajerler sadece imaj hakları için kendi ücretlerinden bir miktar para teklif ettiler (maksimum 1 milyon euro) <br/>16. monaco teklifi kabul etmedi. menajerler kendi ücretlerinden daha fazla feragat etmek istemiyorlar. galatasaray bonservis ödeyemiyor. transferin son günlerinde monaco'nun inadını kırabileceklerini zannediyorlar. <br/>17. transfer gerçekleşirse menajerlerin bu işten kazancının galatasaray'dan alacakları + oyuncunun imaj hakları olmak üzere 7 milyon euro civarlarında olacağını tahmin ediyorum. <br/>18. galatasaray falcao ile senelik 5 milyon euro'dan 3 yıllık sözleşme imzalasa, transferin toplam maliyeti komisyonlarla 18-18.5 milyon euro'yu bulabiliyor. arada yine birilerine yedirilen paralar olmuştur. buna düz hesap 20 m diyebiliriz sanırım. dahası bu maliyeti imaj haklarıyla bir nebze de olsa indirme şansları da bulunmuyor.<br/>19. falcao'nun avrupa'da neden başka talibi yok? bildiğim kadarıyla monaco'da vergi yok. falcao kemiksiz 7 milyon euro üzerinde kazanıyor. avrupa'dan herhangi bir kulübün falcao'ya net olarak bu ücretleri verebilmesi için, cebinden 14-15 milyon euro para çıkması gerekiyor. bu paraları verebilecek kulüp sayısı çok az ve bu kulüpler 33 yaşındaki falcao'ya bu parayı bağlamak istemiyorlar.
   entry_channels: spor
 - entry_name: |
-    düğünde taktığı takıya ismini yazan insanın amacı
-  entry_id:  94566208
-  entry_writer: berkanyildiz
+    28 ağustos 2019 etil alkol sınırlaması ve zammı
+  entry_id:  94569394
+  entry_writer: redturtle
+  entry_fav_count: 19
+  entry_content: |
+    kardeşim bizi sikin.<br/>bağırta bağırta hemde yoksa bizden bi sik olmaz her bokunuza he diyoruz. beni yönetenler beni siksin abi yoksa hakkımı aramıcam ben/biz.
+  entry_channels: haber,ekonomi
+- entry_name: |
+    kapımızın önüne bir kap su bırakınca ne oluyor
+  entry_id:  94575173
+  entry_writer: 604
   entry_fav_count: 18
   entry_content: |
-    "geri bana tak" demek istiyor.<br/>nasıl takacagın sana kalmış.
-  entry_channels: anket,ilişkiler,magazin
+    ınstagram'daki <a class="b" href="/?q=sincapcop">sincapcop</a> adlı hesabın sahibi ahmet selki adlı kişinin cevabını arayıp kaydettiği videoda cevabını verdiği sorudur. video 1 gün gibi bir sürede 775.000 kere izlenmiş.<br/><br/>buyrun cevabı <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/k5935" title="https://streamable.com/k5935">burada.</a><br/><br/>her kadının pozu için başlık açılan sözlükte henüz başlığının açılmaması ile şaşırtmıştır.<br/><br/>instagram'da izlemek isteyenleri ise <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B1qEdfzgndu/" title="https://www.instagram.com/p/B1qEdfzgndu/">buraya alalım.</a><br/><br/>not: kişi ile herhangi bir tanışıklığım bulunmamaktadır.
+  entry_channels: 
 - entry_name: |
     bilyoner.com
   entry_id:  94566721
@@ -323,69 +291,109 @@ data:
     yasalar örümcek ağına benzer, ancak küçük sinekleri yakalar. büyük sineklerse ağı delip geçerler.<br/><br/>b. franklin
   entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
-    çaylak onay listesi
-  entry_id:  94542556
-  entry_writer: potasyum carbon
-  entry_fav_count: 11
+    düğünde taktığı takıya ismini yazan insanın amacı
+  entry_id:  94566516
+  entry_writer: iyiler her zaman iyidir
+  entry_fav_count: 14
   entry_content: |
-    girilen entry'lerin sığlığına bakılırsa sizi almamaları çok daha doğru olurmuş dedirten listedir.
-  entry_channels: ekşi-sözlük
+    güneydoğu marmara düğünlerinde karşılaşılan durum. (yaşadığım memleketin adını vermeyeyim de gıybet olmasın <a class="b" href="/?q=swh">swh</a>)bir de herkesin evinde bir ajandası vardır, düğüne gelen kimselerin adlarının karşısına ne taktığı yazılan. buna göre düğüne gidileceği vakit hemen ajanda açılır ve kişiye takılacak meblağ bu şekilde belirlenmiş olur. bir de kameramanlardan özellikle takı merasimini düzgün şekilde çekmeleri istenir ki; düğün sahipleri düğünden sonra maaile oturup, eğer isim yazmayan varsa takısına ya da para takanların kaç para taktığı gibi konularda meraklarını giderirler. hatta kimi zaman futbol maçındaki gibi tartışmalı durumlarda gram mı taktı, çeyrek mi ya da 50 tl mi o yoksa 20 tl mi gibi vakalarda, pozisyon ileri geri alınarak kafalar netleştirilir.
+  entry_channels: anket,ilişkiler,magazin
 - entry_name: |
-    imamoğlu'nun odatv'yi fonlamasının deşifre olması
-  entry_id:  94576393
-  entry_writer: nickson
-  entry_fav_count: 11
+    30 ağustos 2019 toplu ulaşımın 24 saat olması
+  entry_id:  94573510
+  entry_writer: naulen
+  entry_fav_count: 8
   entry_content: |
-    nihat genç deyince nedense aklıma sol cenahın kadir mısıroğlu'su geliyor. ne bileyim meczup gibin bir şey.
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=orospu+%c3%a7ocu%c4%9fu+taksici">orospu çocuğu taksici</a>) buna üzüldü.
+  entry_channels: haber
 - entry_name: |
-    kapımızın önüne bir kap su bırakınca ne oluyor
-  entry_id:  94575173
-  entry_writer: 604
-  entry_fav_count: 10
+    28 ağustos 2019 etil alkol zammı
+  entry_id:  94576201
+  entry_writer: hatali sifre
+  entry_fav_count: 7
   entry_content: |
-    ınstagram'daki <a class="b" href="/?q=sincapcop">sincapcop</a> adlı hesabın sahibi ahmet selki adlı kişinin cevabını arayıp kaydettiği videoda cevabını verdiği sorudur. video 1 gün gibi bir sürede 775.000 kere izlenmiş.<br/><br/>buyrun cevabı <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/k5935" title="https://streamable.com/k5935">burada.</a><br/><br/>her kadının pozu için başlık açılan sözlükte henüz başlığının açılmaması ile şaşırtmıştır.<br/><br/>instagram'da izlemek isteyenleri ise <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B1qEdfzgndu/" title="https://www.instagram.com/p/B1qEdfzgndu/">buraya alalım.</a><br/><br/>not: kişi ile herhangi bir tanışıklığım bulunmamaktadır.
-  entry_channels: 
+    talep varsa arz vardır. <br/>istediğin kadar zam yap <br/>istediğin kadar vergi koy<br/>istediğin kadar sınırlama getir. <br/><br/>birileri bir yerden getirir , bir arz olur. <br/><br/>bu zamlarla ancak kaçakçılık ve kaçakçılar teşvik edilir. bu da sınır kaçakçılığından nemalanan terör örgütlerinin ekmeğine yağ sürerken , sen de verginden olursun. <br/><br/>tarih aksini yazmaz.
+  entry_channels: haber,ekonomi
+- entry_name: |
+    kadınların seksi silah olarak kullanması
+  entry_id:  94572240
+  entry_writer: hidiv kayzeri
+  entry_fav_count: 6
+  entry_content: |
+    o silaha kurşun olup kendinizi vurduracak kadar mal olmayın. <br/><br/>vajina uğruna maymun olmayın.<br/><br/>biraz kitap okuyun.
+  entry_channels: ilişkiler
 - entry_name: |
     joker
   entry_id:  94573417
   entry_writer: bugs bunnydeki kel adam
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     dc comics karakteri olan <a class="b" href="/?q=the+joker">the joker</a> 'dan ziyade dc comics karakteri olan the joker'ı temel alıp o karakterin üzerine sıfırdan yazılmış bir karakterin işlendiği bir yapım olarak değerlendirilmesi gerektiğini düşündüğüm yapım.<br/><br/>yönetmen <a class="b" href="/?q=todd+phillips">todd phillips</a> en başından itibaren yapımın dc comics öykülerinden bağımsız olduğunu söylüyor. yani göreceğimiz bu joker o aklımıza kazınmış olan batman villainı olan the joker değil. keza yapımda <a class="b" href="/?q=bruce+wayne">bruce wayne</a> henüz 10 yaşlarında bir çocuk olarak resmediliyor zaten.<br/><br/>yapımı bir çizgi roman uyarlamasından ziyade one stand bir graphic novel olarak değerlendirmemiz daha doğru olur bu yüzden. <br/><br/>fragmana gelirsek sinematografik olarak net bir şekilde aşmış bir yapım izleyeceğiz belli ki. joaquin phoenix gördüğüm kadarıyla <a class="b" href="/?q=the+master">the master</a> ve <a class="b" href="/?q=you+were+never+really+here">you were never really here</a> performanslarını aşabilecek seviyede bir performans vadediyor. o kadar başarılı ve underrated kalmış bir isim ki kendisi.<br/><br/>todd phillips totalde bayağı farklı ve başarılı bir iş çıkarmış gibi görünüyor. erken konuşmayalım ancak son dönemin net en başarılı işlerinden biri olabilir yapım. olamazsa da hayal kırıklığım büyük olur tabii.
   entry_channels: tv,müzik,sinema,oyun
 - entry_name: |
-    türkiye'deki rant sistemini en iyi anlatan şarkı
-  entry_id:  94563372
-  entry_writer: lawnmower
-  entry_fav_count: 2
+    çocuğa eski sevgilinin ismini vermek
+  entry_id:  94574342
+  entry_writer: epeolatry
+  entry_fav_count: 5
   entry_content: |
-    yuh yuh'u cemali şarkısı zannedenlerin yaşadığını farketmeme sebep oldu bu başlık. :(
-  entry_channels: müzik,ekonomi
+    bugün ilk defa şahit oldum. 60 yaşına merdiven dayamış yengemin amcası eski sevgilisinin adını(kadriye) ilk çocuğuna vermiş. kadın şimdi 70 yaşında, annesi 90 yaşında, babası (amca) vefat etmiş. anneye şimdi kadriye teyze bakıyor, anne zulmediyor kadına. tuvalet ihtiyacını kendi giderebilecekken odaya yapıyor ki kızı temizlesin. 70 yaşında kadriye teyze bugün dedi ki beni hiç sevmedi zaten, hep böyleydi. sebebini sorduğumuzda öğrendik hikayesini.<br/><br/>bu isim olayının kadını/erkeği yok. unutamadıysanız sizin sorununuz olarak kalsın, yoksa üzerinden 70 yılda geçse bedelini çocuğunuz ödüyor, hem de en acı şekilde. ebeveyni tarafından sevilmeye değer bulunamayarak...
+  entry_channels: ilişkiler
 - entry_name: |
     kız arkadaşına yemek yapan erkek
   entry_id:  94566782
   entry_writer: hattori hanzonun kilici
-  entry_fav_count: 2
+  entry_fav_count: 4
   entry_content: |
     bi işin düzgün yapılmasını istiyorsan kendin yapacaksın.)
   entry_channels: ilişkiler,yeme-içme
 - entry_name: |
-    28 ağustos 2019 etil alkol zammı
-  entry_id:  94575957
-  entry_writer: juglans nigra
-  entry_fav_count: 1
+    luiz gustavo dias
+  entry_id:  94561023
+  entry_writer: kesaglamayisokarimbaglamayi
+  entry_fav_count: 3
   entry_content: |
-    sıkıysa arpaya da yapın hodrimeydan dediğim zamcık:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/mg946766gbjs">https://eksiup.com/p/mg946766gbjs</a>
-  entry_channels: haber,ekonomi
+    buna da monaco talip olmuş. adamlar türk futboluna karşı haçlı seferine çıktı resmen.
+  entry_channels: spor
+- entry_name: |
+    modern insanın en büyük problemi
+  entry_id:  94545602
+  entry_writer: yavaserse
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ba%c5%9fkalar%c4%b1+i%c3%a7in+ya%c5%9famak">başkaları için yaşamak</a>)
+  entry_channels: anket,ilişkiler,edebiyat
+- entry_name: |
+    18. yüzyıl ekşi sözlük başlıkları
+  entry_id:  94569832
+  entry_writer: kizilcik zopasi
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=150+florine+al%c4%b1nabilecek+en+iyi+arkeb%c3%bcz">150 florine alınabilecek en iyi arkebüz</a>)<br/>(bkz: <a class="b" href="/?q=mozart+diye+bi+besteci+buldum+%c3%a7ok+iyi">mozart diye bi besteci buldum çok iyi</a>)<br/>(bkz: <a class="b" href="/?q=veba+salg%c4%b1n%c4%b1+s%c4%b1ras%c4%b1nda+dikkat+edilecek+hususlar">veba salgını sırasında dikkat edilecek hususlar</a>)<br/>(bkz: <a class="b" href="/?q=1+temmuz+1704+karn%c4%b1m%c4%b1n+ac%c4%b1kmas%c4%b1">1 temmuz 1704 karnımın acıkması</a>)
+  entry_channels: anket,ekşi-sözlük,tarih
 - entry_name: |
     tüm siyasi partilerin aynı halt olması
   entry_id:  94577143
   entry_writer: seyece
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     rahmetli muhsin başkanın şu sözlerini hatırlatmıştır.<br/>-meclis kürsüsüne çıkıp birbirine atıp tutan hakaret eden vekillerin, daha sonra meclis lokantasında karşılıklı güle oynaya yemek yediğini görseydiniz tanıdıklarınızla siyasi tartışmalara asla girmezdiniz.
   entry_channels: siyaset
+- entry_name: |
+    #karabağlaradokunma
+  entry_id:  94575937
+  entry_writer: umay565
+  entry_fav_count: 1
+  entry_content: |
+    ülkemizin doğal güzellikleri her taraftan kuşatılmaya devam ediliyor. canım memleketim <a class="b" href="/?q=mu%c4%9fla">muğla</a>'nın merkezindeki <a class="b" href="/?q=karaba%c4%9flar+yaylas%c4%b1">karabağlar yaylası</a> da doğa katillerinin yeni hedefi haline geldi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/kacsaatolduson/status/1166765967734726657?s=20" title="https://twitter.com/kacsaatolduson/status/1166765967734726657?s=20">link</a><br/><br/>dünyaca ünlü karabağlar yaylası, coğrafi özellikleri ile üçüncü derece doğal sit alanı olarak korunmakta. ancak kömür madeni arama bahanesiyle başlatılan sondaj çalışmaları sonucu talana açılmaya çalışılıyor.<br/><br/><a class="b" href="/?q=yata%c4%9fan">yatağan</a>'daki maden tesisleri, yıllarca oradaki halkın kabusu oldu. şimdi muğla'nın merkezine bu belayı getirmek istiyorlar.<br/><br/>muğlalılar olarak karabağlar yaylası'nı korumak için var gücümüzle savaşacağız. <br/><br/><a class="b" href="/?q=%23karaba%c4%9flaradokunma">#karabağlaradokunma</a>
+  entry_channels: 
+- entry_name: |
+    tek karakter dışında başarısız olan oyuncular
+  entry_id:  94575048
+  entry_writer: haletin
+  entry_fav_count: 0
+  entry_content: |
+    necati şaşmaz'ın polat alemdar dışında rolünü bilen var mı yahu. ben başka bir yapımda öyle veya böyle bir rol aldığını hatırlamıyorum. kurtlar vadisi dizileri ve filmleri dışında başka bir role girebileceğini de hiç sanmıyorum.
+  entry_channels: 
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  94538415
@@ -394,12 +402,4 @@ data:
   entry_content: |
     böyle güzel bir gecede güzel bir sohbet için beklerim
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    #karabağlaradokunma
-  entry_id:  94576219
-  entry_writer: orhanmed
-  entry_fav_count: 0
-  entry_content: |
-    bu kadar doğa düşmanı bir zihniyet olamaz. karabağlar yaylası menteşe'nin merkezinde bulunuyor. koskoca muğla'nın ortasina doğal miras katledilerek kömür madeni dikilir mi?<br/><br/>allah sizi kahretsin.
-  entry_channels: 
 ---
