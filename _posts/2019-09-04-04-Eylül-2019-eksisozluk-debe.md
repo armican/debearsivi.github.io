@@ -6,7 +6,7 @@ data:
     soylu'nun imamoğlu'na seni pejmürde ederiz demesi
   entry_id:  94836899
   entry_writer: sekizonbestreni
-  entry_fav_count: 1539
+  entry_fav_count: 1556
   entry_content: |
     şu adamın yargılandığı günü görmeden ölmek istemiyorum
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     başlarım sizin kürdistan davanıza
   entry_id:  94841761
   entry_writer: uzak yolculuk
-  entry_fav_count: 491
+  entry_fav_count: 507
   entry_content: |
     son derece anlamlı ve son derece cesur bir çıkış. sözde siyasilerin, sözde aydınların ve sözde sanatçıların kuramadığı cümleyi sonunda anadolu'nun bağrından çıkan canı yanmış bir anne kurdu. ellerinden öpüyorum.
   entry_channels: siyaset,haber
@@ -22,23 +22,15 @@ data:
     netflix'in türkiye'den çekildiği iddiası
   entry_id:  94831723
   entry_writer: fuckgloballythinklocally
-  entry_fav_count: 397
+  entry_fav_count: 398
   entry_content: |
     (bkz: <a class="b" href="/?q=olmam%c4%b1%c5%9f+olaylar+hakk%c4%b1nda+olmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">olmamış olaylar hakkında olmuş gibi başlık açmak</a>)<br/>(bkz: <a class="b" href="/?q=dalyarak">dalyarak</a>)<br/><br/>edit: dangalağın teki çıkıp yalan yanlış açıklama yapıyor, diğer dangalaklarda hemen ona inanıp bu bilgiyi paylaşıyor. hadi diyelim böyle bir şey oldu. yıl olmuş 2020. internette public olan her hangi bir şeyin engellenebileceğine gerçekten inanıyor musunuz?
   entry_channels: siyaset,tv,sinema,teknoloji,haber
 - entry_name: |
-    karısına lise üniforması giydirip sevişen erkek
-  entry_id:  94821255
-  entry_writer: cok guzel peynirim var abla
-  entry_fav_count: 386
-  entry_content: |
-    sapıklık değildir. fantazidir. liseli kıyafeti de giydirir, polis, hemşire, asker bilimum üniforma da giydirir. yetişkin insanların sex hayatından sanane. hatta bize ne. kimileri bundan hoşlanır, kimileri aşırı uç fantazilerden. ha liseli kıyafeti giydirip, sokakta gördüğü 18 yaş altı liseli çocukları hayal ederse sapıklıktır orası ayrı.
-  entry_channels: ilişkiler
-- entry_name: |
     3 eylül 2019 takvim'in falcao ve gustavo haberi
   entry_id:  94842131
   entry_writer: kamburkelimat
-  entry_fav_count: 375
+  entry_fav_count: 376
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/hikmetbinziyad1/status/1168849616411987970?s=19" title="https://twitter.com/hikmetbinziyad1/status/1168849616411987970?s=19">https://twitter.com/…tatus/1168849616411987970?s=19</a><br/><br/>şurada görülebilen bir değişik haber. falcao'nun transfer haberi euro bazında 9 milyona los galacticos, gustavo haberi tl bazında 125 milyon çılgınlık! hayır los galacticos görmesek inanacağız bir de amk. <br/><br/>bir gazetenin aynı ülkedeki 2 spor kulübünden birine bu kadar adice davranması ne acı lan. bunu gören çomar ooo fener'e büyük kazık deyip götünü avuçlayacak. sırf şunun için yapılan algıya bak. yazıklar olsun size. fiyatı şişirmelerinr diyecek söz bulamıyorum zaten. <br/><br/>burada 2 futbolcunun kariyerini karşılaştırmaya gerek duymuyorum bile. biri santrafor diğeri dmc. geçen sene de aynı şerefsizliği yaptı bu basın medya organları. <br/><br/>hepinizi üst üste koyup kanırtarak şampiyon olmak şart oldu bu sene. biz de kirli savaşmalıyız. sikecem fair playi de sağduyuyu da. etrafımız orospu çocuklarıyla çevrilmiş her geçen gün. ses çıkarmadıkça tepemize çıkıyorlar.<br/><br/>not: burada asıl suçlu gs kulübü değil, bu alçak satılmış basındır.
   entry_channels: spor
@@ -62,7 +54,7 @@ data:
     hidayet türkoğlu
   entry_id:  94849097
   entry_writer: yarrocan
-  entry_fav_count: 210
+  entry_fav_count: 216
   entry_content: |
     şu an <a class="b" href="/?q=ntv">ntv</a> ekranlarında şöyle dedi ;<br/><br/>- bu yoğun programında basketbol milli takımımızın maçını takip eden sayın cumhurbaşkanımıza tekrardan teşekkür ediyorum.<br/><br/>ciddiyim böyle dedi. ülkenin cumhurbaşkanına milli maçı izledi diye teşekkür ediyoruz. bu bir tek bana mı absürd geliyor bilmiyorum ama yazık, hem de çok yazık.
   entry_channels: spor,siyaset
@@ -70,63 +62,71 @@ data:
     hsk'nın yapısı değişirse dolar 2 lira düşer
   entry_id:  94827066
   entry_writer: veni vidi yaziyorum
-  entry_fav_count: 208
+  entry_fav_count: 209
   entry_content: |
     hsk tamamen kaldırılır ve cumhurbaşkanı bu görevi üstlenirse 1 dolar 1 tl olur.<br/><br/>tanım : yatırım tavsiyesi değildir, bunlara güven olmaz.
   entry_channels: siyaset,haber,eğitim,ekonomi
 - entry_name: |
-    fakirlerin isyan edip ayaklanmama nedeni
-  entry_id:  94829746
-  entry_writer: fugiart
-  entry_fav_count: 166
-  entry_content: |
-    biad ve şükür kültürü.
-  entry_channels: siyaset,anket,ekonomi
-- entry_name: |
-    yaz biterken gelen ulan az karpuz yedim hissi
-  entry_id:  94850212
-  entry_writer: fikir muhendisi fikri ii
-  entry_fav_count: 160
-  entry_content: |
-    sanırım sadece bende var <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fikirmuhendisii/status/1168912250146611201" title="https://twitter.com/fikirmuhendisii/status/1168912250146611201">bu</a>. her yaz biterken vay avradını sikeyim yine doğru düzgün karpuz yemeden bi yazı bitirdik diye emekli öğretmen teyzeler gibi evin balkonunda hayıflanıyorum. sonra gün batıyor zaten. evet.
-  entry_channels: 
-- entry_name: |
     dünyanın en güzel logosuna sahip futbol takımı
   entry_id:  94853247
   entry_writer: halay ettiler benle hep
-  entry_fav_count: 152
+  entry_fav_count: 199
   entry_content: |
     bir galatasarayli olarak diyorum ki, turkiye ligleri soz konusuysa tabii ki fenerbahcedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl7lmBCIgyF7YQb5qdIEUbkyDwdrRe6NkNdvbBuCxTbW008kX7" title="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl7lmBCIgyF7YQb5qdIEUbkyDwdrRe6NkNdvbBuCxTbW008kX7">su guzellige bir bakin dogruya dogru.</a>
   entry_channels: spor,anket
 - entry_name: |
+    yaz biterken gelen ulan az karpuz yedim hissi
+  entry_id:  94850212
+  entry_writer: fikir muhendisi fikri ii
+  entry_fav_count: 185
+  entry_content: |
+    sanırım sadece bende var <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fikirmuhendisii/status/1168912250146611201" title="https://twitter.com/fikirmuhendisii/status/1168912250146611201">bu</a>. her yaz biterken vay avradını sikeyim yine doğru düzgün karpuz yemeden bi yazı bitirdik diye emekli öğretmen teyzeler gibi evin balkonunda hayıflanıyorum. sonra gün batıyor zaten. evet.
+  entry_channels: 
+- entry_name: |
+    fakirlerin isyan edip ayaklanmama nedeni
+  entry_id:  94829746
+  entry_writer: fugiart
+  entry_fav_count: 172
+  entry_content: |
+    biad ve şükür kültürü.
+  entry_channels: siyaset,anket,ekonomi
+- entry_name: |
     25 yaşında 100 bin lirası olan insan
   entry_id:  94819154
   entry_writer: sessizkal
-  entry_fav_count: 151
+  entry_fav_count: 152
   entry_content: |
     28 yaşında 237 bin tl borcum var az ötede oynayın.<br/><br/>çok fazla şaşıran oldu biraz daha şaşırtayım 2019 yılı içinde sırf 23bin tl kâr etmek için 132bin tl para kaybettim
   entry_channels: ekonomi
 - entry_name: |
-    dünya ile ay'ı kablo ile bağlamak
-  entry_id:  94843847
-  entry_writer: tifarhad
-  entry_fav_count: 141
-  entry_content: |
-    saçmalamayın amk o kablo kulaklık gibi gece boynumuza dolanır.
-  entry_channels: bilim,teknoloji
-- entry_name: |
     gss prim borcu
   entry_id:  94825856
   entry_writer: 111222333
-  entry_fav_count: 140
+  entry_fav_count: 148
   entry_content: |
     almadığınız hizmetin parasını ödeyerek, yarın canlı bomba olacak suriyeli piçlerin doğumunu finanse ettiğiniz arapçı düzeni. türk olma vergisi.
   entry_channels: siyaset,sağlık,ekonomi
 - entry_name: |
+    dünya ile ay'ı kablo ile bağlamak
+  entry_id:  94843847
+  entry_writer: tifarhad
+  entry_fav_count: 145
+  entry_content: |
+    saçmalamayın amk o kablo kulaklık gibi gece boynumuza dolanır.
+  entry_channels: bilim,teknoloji
+- entry_name: |
+    evrende yalnız mıyız
+  entry_id:  94816640
+  entry_writer: epsilon08
+  entry_fav_count: 137
+  entry_content: |
+    "evrende yalnız olduğumuzu düşünmek, okyanustan bir bardak su alıp balinalar yok demekle aynı şey."<br/><br/><a class="b" href="/?q=carl+sagan">carl sagan</a>
+  entry_channels: bilim
+- entry_name: |
     sahibinden.com'daki dil şartı aranan kiralık daire
   entry_id:  94846968
   entry_writer: dood
-  entry_fav_count: 118
+  entry_fav_count: 121
   entry_content: |
     cocuguna aylik 1500 liraya ozel ogretmen arayan birinin ilani sanirim.
   entry_channels: teknoloji
@@ -134,63 +134,47 @@ data:
     3 eylül 2019 abd türkiye basketbol maçı
   entry_id:  94843308
   entry_writer: xix
-  entry_fav_count: 92
+  entry_fav_count: 95
   entry_content: |
     türkler serbest atış atamazlar. çünkü serbest atış düzenli çalışma gerektirir. günde 20 dakika çalıştıklarını sanmıyorum serbest atışlara. aq tembelleri.<br/><br/>edit: al işte serbest atıştan maçı verdik amk.
   entry_channels: spor
 - entry_name: |
-    john wick'in saatini bilek içine doğru takması
-  entry_id:  94844897
-  entry_writer: cadillacman
-  entry_fav_count: 86
-  entry_content: |
-    adam paso dövüştüğü için saatin başına bir şey gelmemesi içindir ellaam. zira saat epey pahalı olmalı.
-  entry_channels: sinema
-- entry_name: |
     midyeci ahmet'in belediyecilerce sömürülmesi
   entry_id:  94850722
   entry_writer: purple purpose
-  entry_fav_count: 80
+  entry_fav_count: 94
   entry_content: |
     midyeci ahmete gelen, vale gelip alsın diye arabasını sokağın ortasıda bırakıyor. bu dükkanın müşterileri beşiktaş trafiğinin anasını sikiyorlar. ayrıca dükkanın olduğu kaldırım da komple işgal altında. eğer belediye bu nedenle ceza kesiyorsa sonuna kadar haklıdır. keşke yediği cezaların içeriğini açıklasa da, rüşvet için mi baskı yiyor, yoksa gerçekten kusurları içinmi ceza yiyor bilsek.
   entry_channels: haber
 - entry_name: |
+    john wick'in saatini bilek içine doğru takması
+  entry_id:  94844897
+  entry_writer: cadillacman
+  entry_fav_count: 93
+  entry_content: |
+    adam paso dövüştüğü için saatin başına bir şey gelmemesi içindir ellaam. zira saat epey pahalı olmalı.
+  entry_channels: sinema
+- entry_name: |
     ateistler neden inek eti yiyip köpek eti yemez
   entry_id:  94848131
   entry_writer: bomonti turrret kokusu
-  entry_fav_count: 76
+  entry_fav_count: 77
   entry_content: |
     mesela allah yasaklamasa, bu arkadaş kendi anasını bile s**erdi. siz de bu tipe açıklama yapmaya çalışıyorsunuz.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    bir kadına konulmaması gereken isimler
-  entry_id:  94834460
-  entry_writer: erkencokenkisaksami
-  entry_fav_count: 72
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yeter">yeter</a>)
-  entry_channels: anket
-- entry_name: |
     kyk'sı ödenen eşin ex'lerine sponsor olmuş olmak
   entry_id:  94847984
   entry_writer: kifayetiz adam
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     hiç bu açıdan düşünmemiştim dedirtecek bir başlık daha.<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcnce+g%c3%bcc%c3%bc+ile+yuva+y%c4%b1kmak">düşünce gücü ile yuva yıkmak</a>)
   entry_channels: ilişkiler,eğitim
 - entry_name: |
-    ibb'de işten çıkarılanların thy'de işe başlaması
-  entry_id:  94832272
-  entry_writer: partizan solcu
-  entry_fav_count: 60
-  entry_content: |
-    imamoğlu cumhurbaşkanı olunca oradan da atılacak olan elemanlardır.
-  entry_channels: siyaset,haber
-- entry_name: |
     eşini 15 yerinden bıçaklayan adamın tahliye olması
   entry_id:  94852093
   entry_writer: corsairsgold35
-  entry_fav_count: 55
+  entry_fav_count: 67
   entry_content: |
     adalet sarayı dedik ama simit sarayı çıktı. bu ülkedeki adalet mekanizması suçluyu aklama üzerine kurulu olduğu müddettçe burnumuz boktan çıkmayacak.<br/><br/>(bkz: <a class="b" href="/?q=adalet+saray%c4%b1+vs+simit+saray%c4%b1">adalet sarayı vs simit sarayı</a>)
   entry_channels: haber
@@ -198,7 +182,7 @@ data:
     ben fuat ergin sorularınızı bekliyorum
   entry_id:  94840246
   entry_writer: tembel fare
-  entry_fav_count: 48
+  entry_fav_count: 49
   entry_content: |
     boys anılar halen soytarılar mı?
   entry_channels: anket,ekşi-sözlük,müzik
@@ -211,18 +195,34 @@ data:
     gerek son saniye de yapmış olduğu 3 atışlık faulle gerek son kaçırmış olduğu iki serbest atışla bugün maçı veren kişi olmuştur.
   entry_channels: spor
 - entry_name: |
-    murat kosova
-  entry_id:  94847923
-  entry_writer: ariaven
+    beyin yakan osmanlı düğünü videosu
+  entry_id:  94844042
+  entry_writer: snngkc
+  entry_fav_count: 46
+  entry_content: |
+    yalnız osmanlı deyince herkes kendini padişah soyundan zannediyor.<br/><br/>katırcı bedri ne zaman ağa oldu?
+  entry_channels: ilişkiler
+- entry_name: |
+    bir ailenin çocuğuna yapabileceği en büyük kötülük
+  entry_id:  94817009
+  entry_writer: keskeozgurolsaydim
+  entry_fav_count: 40
+  entry_content: |
+    'senin iyiliğini düşündüğümüz için' adı altında çocuğu zilyon tane saçmalıkla karşı karşıya getirmek
+  entry_channels: anket,eğitim
+- entry_name: |
+    erkek cinsel organı belli olması suçmu
+  entry_id:  94853864
+  entry_writer: the lodger
   entry_fav_count: 38
   entry_content: |
-    bu adam yerine baska biri anlatiyor olsaydi , ne bu maci bu kadar insan izlerdi , ne de bu mac bu kadar konusulurdu. <br/>adam maci anlatmiyor yasiyor, ekran da bizler de bunun gaziyla maci izliyoruz. <br/><br/>size avni küpeli müstehak...
-  entry_channels: spor,tv
+    (bkz: <a class="b" href="/?q=soru+ekini+birle%c5%9fik+yazmak+su%c3%a7+olsun">soru ekini birleşik yazmak suç olsun</a>)
+  entry_channels: 
 - entry_name: |
     yazarların futboldan soğuma nedenleri
   entry_id:  94829704
   entry_writer: ssg
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     ilkokuldaydım. galatasaray'da tanju ve fener'de rıdvan çekişmelerinden delicesine keyif alıyordum. kendimce tanju tarafını tutuyordum. galatasaray mücadelesinde daha haklıydı, rıdvan ve fener ise haksızdı bence. rıdvan'ın da oyunculuğunu takdir ediyordum ama yanlış taraftaydı.<br/><br/>bir gün bir baktım tanju fener'e geçmiş. "e ne oldu dava?" diye kalakaldım. haklı mücadele ne oldu? savunduğumuz değerler, kırmızı ve sarının sıcak uyumu ve bir sürü sığ şeyler. yarın tuttuğum takımdaki herkes başka takımda oynayabilirdi. o zaman benim bu takımı tutmamın gerekçesi neydi? sadece oyunculardı. e onlar da değişebildiğine göre bir takımı tutmanın hiçbir esprisi yoktu.<br/><br/>yine de o zaman futboldan komple soğumadım. sokakta doyasıya japon kale oynamaya devam ettim. tanju ismini kullanmayı bıraktım, platini ismini kullanmaya başladım. benim için takım taraftarlığı doğru dürüst başlamadan bitmişti. artık oyunculara bakıyordum, karaktere bakıyordum.<br/><br/>ortaokula geldğimde herkes bir takım tutuyordu ve bana hangi takımı tuttuğumu sorup duruyorlardı. ben de bir takım tutmak zorunda hissettim. seçenekleri değerlendirdim. aşırı efendi kadrosu (ertuğrul, metin, feyyaz vs) ve arka arkaya üç kere şampiyonluğudan dolayı beşiktaş'ı tutmaya başladım. "bu adamlar şampiyon olmanın formülünü çözmüşler, o zaman sonsuza kadar şampiyon olurlar, hep kazanan tarafında olursam da herkes bana saygı duyar, 'adam ne süper takım tutmuş be helal olsun' derler" diye düşündüm. ben tuttuktan sonra bir daha şampiyon olduklarını görmedim. o efendi kadro da çok uzun kalmadı. resmen tuttuğum her takım kurudu.<br/><br/>aynı dönem trt'de yayınlanan nba maçlarını izlemeye başladım. bir lakers ve celtics maçına denk geldim. takımların oyun tarzlarının ne kadar farklı olduklarını gördüm. celtics çok disiplinli, beyaz ağırlıklı, almanya olimpiyat ekibi gibi bir takımdı. aşırı tekniklerdi, aşırı nizami oynuyorlardı. lakers tam tersi aşırı rahattı. hatta kareem abdul jabbar düz şut bile atmıyordu, paso yandan karpuz gibi sallıyordu. giriyordu. ona rağmen lakers disiplinli celtics karşısında yeniliyordu. ama adamların kendilerine tarz yapmış olmaları çok hoşuma gitti. o maç daha bitmeden, adamlar yenilirken lakers'lı oldum. "bunlar yenilse de tarzları süper bunları tutacağım" dedim. sonra lakers o maçı geriden gelip kazandı. "oha demek ki doğru takımı tutmuşum" diye düşündüm. ortaokulda futbolu bırakıp basketbol oynamaya başladım.<br/><br/>futbolu milli maç seviyesinde takip etmeye devam ettim. istanbul'a taşınınca tv'lerden uzak kaldığım dönem ona da ilgim azaldı. aynı sebepten basketbolu da takip edemedim. arada bir mecidiyeköy'deki ilkokul bahçelerinin potalarında oynamışızdır, hatta o gülbağ yokuşlarında mecidiyeköy deresine top kaçırmıştık.<br/><br/>bugün futbol benim için curling gibi bir şey. takip edemiyorum. sözlükteki, twitter'daki geyikleri anlamıyorum. falçao kim? bilmiyorum. iyice yabancılaştım. futbolla kalan tek alakam yıllar evvel bir futbol b2b girişimine ufak yatırımcı olmak oldu.<br/><br/>normalde nba'le de alakam kalmadı ama abd'ye gelince çocukluk hayalim diye basket maçlarına gittim. lakers bildiğin rezil oldu, çok fena yenildi. ama gevşek oynama stili aynı, değişmemiş. o yüzden baya feci farklı yenildiler. fark açılınca iyice saldılar. hayatımın en gevşek lakers'ını izledim. bu sefer o kadar keyif vermedi.<br/><br/>yine de lakers'ı tutmaya devam ediyorum. renkleri güzel.
   entry_channels: spor,anket
@@ -238,7 +238,7 @@ data:
     3 eylül 2019 anadolu efes'in özür dilemesi
   entry_id:  94835475
   entry_writer: trankondur
-  entry_fav_count: 29
+  entry_fav_count: 30
   entry_content: |
     kendilerine "delikanlı", kadınlara "zilli" birayı uygun gören pezevenklerin üzüldüğü olay. efes'in yapması gereken, erkekler için çıkardığı biranın adını "pezevenk" yapmasıydı. görelim bakalım hangi pezevenk zevkle içecekti.
   entry_channels: haber,yeme-içme
@@ -246,18 +246,26 @@ data:
     günlük 1.000 tl ciro yapan lokanta alınır mı
   entry_id:  94854003
   entry_writer: papillion
-  entry_fav_count: 21
+  entry_fav_count: 28
   entry_content: |
     hiç hesaba kitaba girmiycem, bu vaka için konuşuyorum, alınmaz. çünkü bu soruyu soran adam bu işten zerre anlamıyordur belli ki, bilmediğin işe de yatırım yapmayacaksın. o kadar. 50 bini gitsin kariya kıza yedirsin daha iyi, en azından kendi parasıyla acı çekmemiş olur.
   entry_channels: 
 - entry_name: |
-    yetişkin seviyesindeki en iyi çizgi film
-  entry_id:  94817106
-  entry_writer: brikindivol
-  entry_fav_count: 19
+    celal şengörün 124 kg olması
+  entry_id:  94855083
+  entry_writer: germe beni germe
+  entry_fav_count: 27
   entry_content: |
-    miyazaki ustanin cizgi filmlerini oneren entry bulamadigim anket. <br/>(bkz: <a class="b" href="/?q=spirited+away">spirited away</a>)
-  entry_channels: anket,tv
+    üstteki entry'de celal hocayı eleştiren suser'ın dört işlemi bile beceremediğini görünce celal hocaya biraz daha saygı duydum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8v1000623p8o" title="https://eksiup.com/p/8v1000623p8o">eksiup ss</a> <br/><br/>10+10+4+4+76=104
+  entry_channels: 
+- entry_name: |
+    ahzab suresi'ni okuyup da dinden çıkmayan insan
+  entry_id:  94854626
+  entry_writer: suicidal ronin
+  entry_fav_count: 24
+  entry_content: |
+    ahzab suresindeki özel hayat ayetleri inmeliydi. evet çünkü o zamanlar araplar peygamberin üstüne geliyorlardı. konu ne miydi ? peygamber evlatlığı olan zeyd’in eşi olan zeynep’le yani geliniyle evlenmek istemişti. bu o zamanın cahil arapları tarafından bile ayıp ve uygunsuzdu. ama allah saolsun peygamberi içinde bulunduğu bu zor durumdan çıkarmış, geliniyle evlenmesine ruhsat vermiş, peygambere de “ben içinde olanı biliyorum, sen zeyneple evlenmek istiyordun, hadi evlen” ayetleriyle ona destek çıkmıştır.<br/><br/>böyle bir yaratıcı herkese lazım. keşke benim de olsa.
+  entry_channels: edebiyat,spoiler
 - entry_name: |
     ekşi itiraf
   entry_id:  94820304
@@ -283,13 +291,21 @@ data:
     doktor olmayan erkek mi yoksa 1.90+ doktor olmayan erkek mi?<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>bir üstte ki yazarı doktor yapan eğitim sistemini sikmek ister misiniz?
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ahzab suresi'ni okuyup da dinden çıkmayan insan
-  entry_id:  94854749
-  entry_writer: fesbasimaa
-  entry_fav_count: 16
+    1985 yılında doğanlar ne yapıyor sorunsalı
+  entry_id:  94852448
+  entry_writer: qaswed72
+  entry_fav_count: 15
   entry_content: |
-    demin ateist oldum allah belanızı versin
-  entry_channels: edebiyat,spoiler
+    senin bu başlığını bekliyorlardı. şimdi sahne onların inlerinden çıkacaklar teker teker ve 5. günün şafağında doğudan gelecek ordu onlardan oluşacak.
+  entry_channels: 
+- entry_name: |
+    satın alma öncesi araştırma işini abartmak
+  entry_id:  94844823
+  entry_writer: musclemania
+  entry_fav_count: 14
+  entry_content: |
+    daha dün arkadaşımla konuştuğum hede. fakir olmanın getirdiği bir alışkanlıktır.
+  entry_channels: 
 - entry_name: |
     erkeklerin ömür boyu sakladıkları kablo dolu kutu
   entry_id:  94818916
@@ -299,37 +315,29 @@ data:
     benim de ev taşıyana kadar yaptığım şeydi bu. kabloları birleştirsem şehir merkezine teleferikle ulaşım sağlayabilirdim. lakin annemin de gazına gelip attım kutuyu. <br/><br/>sadede geleyim... geçen gün telefon kablosu lazım oldu, internet hattını uzatmak için. salına salına odaya gittim, bazanın altını açtım... yoktu. gerisi pişmanlık, gerisi hüzün... biliyorum, o kutu bir yerlerden beni izliyor. köpek gibi pişmanım, n'olur geri dön. <br/><br/>bu kutuyu atan berberini de değiştirir. öyle de vefasızdır. berberimi de değiştircem aq haketmiyorum bazı şeyleri ben.
   entry_channels: teknoloji
 - entry_name: |
-    tarsus'taki esrarengiz kazı
-  entry_id:  94853750
-  entry_writer: karizmatik bir nick olsun
-  entry_fav_count: 11
+    dünyanın kaderini değiştiren 3 nesne
+  entry_id:  94851812
+  entry_writer: capivals
+  entry_fav_count: 13
   entry_content: |
-    entry girmek için entry giren yarak kafalılar tarafından habire sabote edilen başlık. gelişme yoksa yakmayın şu yeşili mk. yaptığınız tüm şakalar, komiklikler onlarca kere yapıldı. o aklınıza gelen komplo teorileri ilk sizin aklınıza gelmedi.
-  entry_channels: siyaset,tarih,haber
-- entry_name: |
-    satın alma öncesi araştırma işini abartmak
-  entry_id:  94844823
-  entry_writer: musclemania
-  entry_fav_count: 11
-  entry_content: |
-    daha dün arkadaşımla konuştuğum hede. fakir olmanın getirdiği bir alışkanlıktır.
-  entry_channels: 
-- entry_name: |
-    yazarların bugünkü mutsuzluk sebebi
-  entry_id:  94823556
-  entry_writer: ikindi hirsizi
-  entry_fav_count: 9
-  entry_content: |
-    konuşacak kimse bulamamak. özellikle de kendi ilgi alanlarımda.
-  entry_channels: anket,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=mustafa">mustafa</a>)<br/>(bkz: <a class="b" href="/?q=kemal">kemal</a>)<br/>(bkz: <a class="b" href="/?q=atat%c3%bcrk">atatürk</a>)<br/><br/>(:
+  entry_channels: siyaset,anket,tarih,teknoloji
 - entry_name: |
     portekiz denince akla gelenler
   entry_id:  94852056
   entry_writer: varolan
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     200 milyonluk brezilyada portekizce konuşuluyor olması.<br/>bu arada portekizin nüfusu 10 milyon.
   entry_channels: siyaset,anket,müzik,yeme-içme,seyahat
+- entry_name: |
+    lgbt'ye verilen 22 milyon dolar
+  entry_id:  94854530
+  entry_writer: dedi
+  entry_fav_count: 8
+  entry_content: |
+    bu adam lgbtyle çok uğraşıyor.. noldu bilmiyorum ama sanırım tinderda fazla unmatch yedi eşleştiği adamlardan
+  entry_channels: haber
 - entry_name: |
     falcao'nun 2019-2020 sezonu gol sayısı tahminleri
   entry_id:  94820817
@@ -339,29 +347,21 @@ data:
     bazı galatasaraylı arkadaşların verdiği gol sayılarına bakacak olursak, seneye kendisi ballon d’or u alacaktır.
   entry_channels: spor,anket
 - entry_name: |
-    celal şengörün 124 kg olması
-  entry_id:  94855083
-  entry_writer: germe beni germe
-  entry_fav_count: 6
-  entry_content: |
-    üstteki entry'de celal hocayı eleştiren suser'ın dört işlemi bile beceremediğini görünce celal hocaya biraz daha saygı duydum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8v1000623p8o" title="https://eksiup.com/p/8v1000623p8o">eksiup ss</a> <br/><br/>10+10+4+4+76=104
-  entry_channels: 
-- entry_name: |
-    1985 yılında doğanlar ne yapıyor sorunsalı
-  entry_id:  94852484
-  entry_writer: swollenmember
-  entry_fav_count: 6
-  entry_content: |
-    sanırım şu an seksen beş doğumlu birisi evinde tam donunu giyerken bir anda donakaldı ve kadraja baktı. kajsdnkjnkjn.
-  entry_channels: 
-- entry_name: |
     sevişmeyeceksek görüşmeyelim erkeği
   entry_id:  94852111
   entry_writer: sonsaniyeuclugu
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     görüşmeyeceksek sevişmeyelim kadınları tarafından pek sevilmezler
   entry_channels: ilişkiler
+- entry_name: |
+    tarsus'taki esrarengiz kazı
+  entry_id:  94846222
+  entry_writer: birustmenuicinkareyituslayin
+  entry_fav_count: 5
+  entry_content: |
+    en az haftada bir kez aklima gelen.<br/>eski sevgilim bu kadar düsmüyor aklima be!
+  entry_channels: siyaset,tarih,haber
 - entry_name: |
     masterchef türkiye
   entry_id:  94836207
@@ -371,13 +371,21 @@ data:
     koca koca insanlar 5 yaşında gibi davranıyor.<br/>suna, küvette tiramusu sorulduğunda "belki çok kişi yiyecek diye düşünnmüşümdür" gibi cevap veriyor.<br/>diğer takımın kaptanı hiçbir yemeği tatmadığı anlaşılınca "midem rahatsız" diyor.<br/><br/>ulan çıkıp "ya ben tiramisu sunumunu yanlış anlamışım arkadaşlarımdan özür dilerim" demek bu kadar mı zor?<br/>veya diğeri çıkıp "o telaşla yemeklerin tadına bakmayı atlamışım" demesi bu kadar mı zor?<br/><br/>bunlar nasıl yetişkin olmuş amk? 5-10 yaşında çocuklar böyle savunmaya geçer. tuhaf.
   entry_channels: tv,yeme-içme
 - entry_name: |
-    lgbt'ye verilen 22 milyon dolar
-  entry_id:  94854530
-  entry_writer: dedi
+    kova burcu erkeği
+  entry_id:  94846796
+  entry_writer: 657 devam et
+  entry_fav_count: 4
+  entry_content: |
+    bu grubun erkekleri sizden hic ayrilmayacakmis gibi planlar yapar yaninizda mutlu ve huzurlu uykulara dalar sonra kafasi eser seni hic sevemedim cok denedim klişeleri ile vedalasir. bir kova burcu erkeğinin deyimiyle (bkz: <a class="b" href="/?q=erke%c4%9fin+orospusu">erkeğin orospusu</a>).kendi yakistirmasi benim degil:)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    yazarların bugünkü mutsuzluk sebebi
+  entry_id:  94823583
+  entry_writer: sherlucky
   entry_fav_count: 3
   entry_content: |
-    bu adam lgbtyle çok uğraşıyor.. noldu bilmiyorum ama sanırım tinderda fazla unmatch yedi eşleştiği adamlardan
-  entry_channels: haber
+    bu gün ve geçen her gün olduğu gibi ; işsizlik.
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     google görsellerde nick aratılınca çıkan ilk resim
   entry_id:  94850375
@@ -394,12 +402,4 @@ data:
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://t.me/Connary" title="https://t.me/Connary">burdan</a>
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    dünyanın kaderini değiştiren 3 nesne
-  entry_id:  94852777
-  entry_writer: beckerolivatzen
-  entry_fav_count: 0
-  entry_content: |
-    elektrik, petrol, celik.
-  entry_channels: siyaset,anket,tarih,teknoloji
 ---
