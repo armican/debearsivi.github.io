@@ -6,31 +6,63 @@ data:
     soylu'nun imamoğlu'na seni pejmürde ederiz demesi
   entry_id:  94836899
   entry_writer: sekizonbestreni
-  entry_fav_count: 1590
+  entry_fav_count: 1594
   entry_content: |
     şu adamın yargılandığı günü görmeden ölmek istemiyorum
   entry_channels: siyaset,haber
 - entry_name: |
+    başlarım sizin kürdistan davanıza
+  entry_id:  94841761
+  entry_writer: uzak yolculuk
+  entry_fav_count: 537
+  entry_content: |
+    son derece anlamlı ve son derece cesur bir çıkış. sözde siyasilerin, sözde aydınların ve sözde sanatçıların kuramadığı cümleyi sonunda anadolu'nun bağrından çıkan canı yanmış bir anne kurdu. ellerinden öpüyorum.
+  entry_channels: siyaset,haber
+- entry_name: |
+    karısına lise üniforması giydirip sevişen erkek
+  entry_id:  94821255
+  entry_writer: cok guzel peynirim var abla
+  entry_fav_count: 402
+  entry_content: |
+    sapıklık değildir. fantazidir. liseli kıyafeti de giydirir, polis, hemşire, asker bilimum üniforma da giydirir. yetişkin insanların sex hayatından sanane. hatta bize ne. kimileri bundan hoşlanır, kimileri aşırı uç fantazilerden. ha liseli kıyafeti giydirip, sokakta gördüğü 18 yaş altı liseli çocukları hayal ederse sapıklıktır orası ayrı.
+  entry_channels: ilişkiler
+- entry_name: |
     3 eylül 2019 takvim'in falcao ve gustavo haberi
   entry_id:  94842131
   entry_writer: kamburkelimat
-  entry_fav_count: 392
+  entry_fav_count: 400
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/hikmetbinziyad1/status/1168849616411987970?s=19" title="https://twitter.com/hikmetbinziyad1/status/1168849616411987970?s=19">https://twitter.com/…tatus/1168849616411987970?s=19</a><br/><br/>şurada görülebilen bir değişik haber. falcao'nun transfer haberi euro bazında 9 milyona los galacticos, gustavo haberi tl bazında 125 milyon çılgınlık! hayır los galacticos görmesek inanacağız bir de amk. <br/><br/>bir gazetenin aynı ülkedeki 2 spor kulübünden birine bu kadar adice davranması ne acı lan. bunu gören çomar ooo fener'e büyük kazık deyip götünü avuçlayacak. sırf şunun için yapılan algıya bak. yazıklar olsun size. fiyatı şişirmelerinr diyecek söz bulamıyorum zaten. <br/><br/>burada 2 futbolcunun kariyerini karşılaştırmaya gerek duymuyorum bile. biri santrafor diğeri dmc. geçen sene de aynı şerefsizliği yaptı bu basın medya organları. <br/><br/>hepinizi üst üste koyup kanırtarak şampiyon olmak şart oldu bu sene. biz de kirli savaşmalıyız. sikecem fair playi de sağduyuyu da. etrafımız orospu çocuklarıyla çevrilmiş her geçen gün. ses çıkarmadıkça tepemize çıkıyorlar.<br/><br/>not: burada asıl suçlu gs kulübü değil, bu alçak satılmış basındır.
   entry_channels: spor
 - entry_name: |
+    netflix'in türkiye'den çekildiği iddiası
+  entry_id:  94831723
+  entry_writer: fuckgloballythinklocally
+  entry_fav_count: 399
+  entry_content: |
+    (bkz: <a class="b" href="/?q=olmam%c4%b1%c5%9f+olaylar+hakk%c4%b1nda+olmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">olmamış olaylar hakkında olmuş gibi başlık açmak</a>)<br/>(bkz: <a class="b" href="/?q=dalyarak">dalyarak</a>)<br/><br/>edit: dangalağın teki çıkıp yalan yanlış açıklama yapıyor, diğer dangalaklarda hemen ona inanıp bu bilgiyi paylaşıyor. hadi diyelim böyle bir şey oldu. yıl olmuş 2020. internette public olan her hangi bir şeyin engellenebileceğine gerçekten inanıyor musunuz?
+  entry_channels: siyaset,tv,sinema,teknoloji,haber
+- entry_name: |
     dünyanın en güzel logosuna sahip futbol takımı
   entry_id:  94853247
   entry_writer: halay ettiler benle hep
-  entry_fav_count: 331
+  entry_fav_count: 360
   entry_content: |
     bir galatasarayli olarak diyorum ki, turkiye ligleri soz konusuysa tabii ki fenerbahcedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl7lmBCIgyF7YQb5qdIEUbkyDwdrRe6NkNdvbBuCxTbW008kX7" title="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQl7lmBCIgyF7YQb5qdIEUbkyDwdrRe6NkNdvbBuCxTbW008kX7">su guzellige bir bakin dogruya dogru.</a>
   entry_channels: spor,anket
 - entry_name: |
+    belçika'da maymunların yaptığı silahlı düğün
+  entry_id:  94824820
+  entry_writer: kumarlarin adami
+  entry_fav_count: 320
+  entry_content: |
+    haberi okudum.<br/><br/>hala dügün konvoylarını savunuyorlar.<br/><br/>şu bizim kafamızı ütüleyen, <br/>"avrupaya gidersek dinlemek zorunda kalmayız" diye kendi kendimize yoklugu üzerine hayaller kurdugumuz,<br/>iki insanın evlenmesi, benim kafamı sikme hakkı vermez diye sesini duymamak için kapı pencereleri kapatıp içeri kaçtıgımız,<br/><br/>dügün konvoylarını hala savunuyorlar.<br/><br/>arkadaş, sizin kültürünüzü en güzel şekilde yaşayacagınız ülke türkiye, ve orada bu "kültürünüzü" yaşamanızdan dolayı, biz sonradan "gidecek" insanlara zorluk çıkmasına sebep olacaksınız.<br/><br/>keşke sizi buraya yollasalar da, kültürünüze, özünüze kavuşsanız....
+  entry_channels: haber,eğitim
+- entry_name: |
     yaz biterken gelen ulan az karpuz yedim hissi
   entry_id:  94850212
   entry_writer: fikir muhendisi fikri ii
-  entry_fav_count: 286
+  entry_fav_count: 319
   entry_content: |
     sanırım sadece bende var <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fikirmuhendisii/status/1168912250146611201" title="https://twitter.com/fikirmuhendisii/status/1168912250146611201">bu</a>. her yaz biterken vay avradını sikeyim yine doğru düzgün karpuz yemeden bi yazı bitirdik diye emekli öğretmen teyzeler gibi evin balkonunda hayıflanıyorum. sonra gün batıyor zaten. evet.
   entry_channels: yeme-içme
@@ -38,7 +70,7 @@ data:
     falcao'nun imza töreninin paralı olması
   entry_id:  94835894
   entry_writer: schweizko
-  entry_fav_count: 242
+  entry_fav_count: 247
   entry_content: |
     güzel olmuş olaydır. lan kulübe ne ek gelir girse kâr işte alt tarafı 20 lira. <br/>televizyonda dilenmekten iyidir.
   entry_channels: spor
@@ -46,15 +78,23 @@ data:
     2 eylül 2019 galatasaray ffp şikesi
   entry_id:  94824275
   entry_writer: asyousee
-  entry_fav_count: 230
+  entry_fav_count: 231
   entry_content: |
     elde ettiği satış gelirinden pay verecek olan takım erzurumspor, öncelikle şike imasında bulunacaksan erzurumspor’a bulunacaksın. fesih yoluyla satıştan pay vermekten kurtulan ve kendine fayda sağlayan takım erzurumspor. bir iş yapıyorsan doğru yap.<br/><br/>hadi şimdi git erzurumspor’u uefa’ya şikayet et.<br/><br/>galatasaray’ın sikindemi kim kime ne kadar pay verecek. işsiz herif uzun uzun yazmış bir de.
   entry_channels: spor
 - entry_name: |
+    ahzab suresi'ni okuyup da dinden çıkmayan insan
+  entry_id:  94854626
+  entry_writer: suicidal ronin
+  entry_fav_count: 223
+  entry_content: |
+    ahzab suresindeki özel hayat ayetleri inmeliydi. evet çünkü o zamanlar araplar peygamberin üstüne geliyorlardı. konu ne miydi ? peygamber evlatlığı olan zeyd’in eşi olan zeynep’le yani geliniyle evlenmek istemişti. bu o zamanın cahil arapları tarafından bile ayıp ve uygunsuzdu. ama allah saolsun peygamberi içinde bulunduğu bu zor durumdan çıkarmış, geliniyle evlenmesine ruhsat vermiş, peygambere de “ben içinde olanı biliyorum, sen zeyneple evlenmek istiyordun, hadi evlen” ayetleriyle ona destek çıkmıştır.<br/><br/>böyle bir yaratıcı herkese lazım. keşke benim de olsa.
+  entry_channels: edebiyat,spoiler
+- entry_name: |
     gss prim borcu
   entry_id:  94825856
   entry_writer: 111222333
-  entry_fav_count: 161
+  entry_fav_count: 164
   entry_content: |
     almadığınız hizmetin parasını ödeyerek, yarın canlı bomba olacak suriyeli piçlerin doğumunu finanse ettiğiniz arapçı düzeni. türk olma vergisi.
   entry_channels: siyaset,sağlık,ekonomi
@@ -75,26 +115,26 @@ data:
     saçmalamayın amk o kablo kulaklık gibi gece boynumuza dolanır.
   entry_channels: bilim,teknoloji
 - entry_name: |
-    ahzab suresi'ni okuyup da dinden çıkmayan insan
-  entry_id:  94854626
-  entry_writer: suicidal ronin
-  entry_fav_count: 138
-  entry_content: |
-    ahzab suresindeki özel hayat ayetleri inmeliydi. evet çünkü o zamanlar araplar peygamberin üstüne geliyorlardı. konu ne miydi ? peygamber evlatlığı olan zeyd’in eşi olan zeynep’le yani geliniyle evlenmek istemişti. bu o zamanın cahil arapları tarafından bile ayıp ve uygunsuzdu. ama allah saolsun peygamberi içinde bulunduğu bu zor durumdan çıkarmış, geliniyle evlenmesine ruhsat vermiş, peygambere de “ben içinde olanı biliyorum, sen zeyneple evlenmek istiyordun, hadi evlen” ayetleriyle ona destek çıkmıştır.<br/><br/>böyle bir yaratıcı herkese lazım. keşke benim de olsa.
-  entry_channels: edebiyat,spoiler
-- entry_name: |
     sahibinden.com'daki dil şartı aranan kiralık daire
   entry_id:  94846968
   entry_writer: dood
-  entry_fav_count: 135
+  entry_fav_count: 143
   entry_content: |
     cocuguna aylik 1500 liraya ozel ogretmen arayan birinin ilani sanirim.
   entry_channels: teknoloji
 - entry_name: |
+    evrende yalnız mıyız
+  entry_id:  94816640
+  entry_writer: epsilon08
+  entry_fav_count: 141
+  entry_content: |
+    "evrende yalnız olduğumuzu düşünmek, okyanustan bir bardak su alıp balinalar yok demekle aynı şey."<br/><br/><a class="b" href="/?q=carl+sagan">carl sagan</a>
+  entry_channels: bilim
+- entry_name: |
     midyeci ahmet'in belediyecilerce sömürülmesi
   entry_id:  94850722
   entry_writer: purple purpose
-  entry_fav_count: 121
+  entry_fav_count: 127
   entry_content: |
     midyeci ahmete gelen, vale gelip alsın diye arabasını sokağın ortasıda bırakıyor. bu dükkanın müşterileri beşiktaş trafiğinin anasını sikiyorlar. ayrıca dükkanın olduğu kaldırım da komple işgal altında. eğer belediye bu nedenle ceza kesiyorsa sonuna kadar haklıdır. keşke yediği cezaların içeriğini açıklasa da, rüşvet için mi baskı yiyor, yoksa gerçekten kusurları içinmi ceza yiyor bilsek.
   entry_channels: haber
@@ -102,18 +142,34 @@ data:
     eşini 15 yerinden bıçaklayan adamın tahliye olması
   entry_id:  94852093
   entry_writer: corsairsgold35
-  entry_fav_count: 106
+  entry_fav_count: 118
   entry_content: |
     adalet sarayı dedik ama simit sarayı çıktı. bu ülkedeki adalet mekanizması suçluyu aklama üzerine kurulu olduğu müddettçe burnumuz boktan çıkmayacak.<br/><br/>(bkz: <a class="b" href="/?q=adalet+saray%c4%b1+vs+simit+saray%c4%b1">adalet sarayı vs simit sarayı</a>)
   entry_channels: haber
 - entry_name: |
+    john wick'in saatini bilek içine doğru takması
+  entry_id:  94844897
+  entry_writer: cadillacman
+  entry_fav_count: 104
+  entry_content: |
+    adam paso dövüştüğü için saatin başına bir şey gelmemesi içindir ellaam. zira saat epey pahalı olmalı.
+  entry_channels: sinema
+- entry_name: |
     3 eylül 2019 abd türkiye basketbol maçı
   entry_id:  94843308
   entry_writer: xix
-  entry_fav_count: 101
+  entry_fav_count: 102
   entry_content: |
     türkler serbest atış atamazlar. çünkü serbest atış düzenli çalışma gerektirir. günde 20 dakika çalıştıklarını sanmıyorum serbest atışlara. aq tembelleri.<br/><br/>edit: al işte serbest atıştan maçı verdik amk.
   entry_channels: spor
+- entry_name: |
+    günlük 1.000 tl ciro yapan lokanta alınır mı
+  entry_id:  94853318
+  entry_writer: karabasan811
+  entry_fav_count: 91
+  entry_content: |
+    sadece sen çalışıp ve sadece mercimek çorbası yapıyorsan alınır.
+  entry_channels: yeme-içme,ekonomi
 - entry_name: |
     fakirlerin isyan edip ayaklanmama nedeni
   entry_id:  94831903
@@ -131,26 +187,10 @@ data:
     mesela allah yasaklamasa, bu arkadaş kendi anasını bile s**erdi. siz de bu tipe açıklama yapmaya çalışıyorsunuz.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    tekirdağ'da ufo görülmesi
-  entry_id:  94822921
-  entry_writer: unbelievable god
-  entry_fav_count: 81
-  entry_content: |
-    (bkz: <a class="b" href="/?q=the+truth+is+out+there+bea">the truth is out there bea</a>)
-  entry_channels: bilim
-- entry_name: |
-    kyk'sı ödenen eşin ex'lerine sponsor olmuş olmak
-  entry_id:  94847984
-  entry_writer: kifayetiz adam
-  entry_fav_count: 81
-  entry_content: |
-    hiç bu açıdan düşünmemiştim dedirtecek bir başlık daha.<br/>(bkz: <a class="b" href="/?q=d%c3%bc%c5%9f%c3%bcnce+g%c3%bcc%c3%bc+ile+yuva+y%c4%b1kmak">düşünce gücü ile yuva yıkmak</a>)
-  entry_channels: ilişkiler,eğitim
-- entry_name: |
     bir kadına konulmaması gereken isimler
   entry_id:  94834460
   entry_writer: erkencokenkisaksami
-  entry_fav_count: 75
+  entry_fav_count: 76
   entry_content: |
     (bkz: <a class="b" href="/?q=yeter">yeter</a>)
   entry_channels: anket
@@ -158,7 +198,7 @@ data:
     beyin yakan osmanlı düğünü videosu
   entry_id:  94844042
   entry_writer: snngkc
-  entry_fav_count: 57
+  entry_fav_count: 63
   entry_content: |
     yalnız osmanlı deyince herkes kendini padişah soyundan zannediyor.<br/><br/>katırcı bedri ne zaman ağa oldu?
   entry_channels: ilişkiler
@@ -166,10 +206,18 @@ data:
     celal şengörün 124 kg olması
   entry_id:  94855083
   entry_writer: germe beni germe
-  entry_fav_count: 53
+  entry_fav_count: 60
   entry_content: |
     üstteki entry'de celal hocayı eleştiren suser'ın dört işlemi bile beceremediğini görünce celal hocaya biraz daha saygı duydum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/8v1000623p8o" title="https://eksiup.com/p/8v1000623p8o">eksiup ss</a> <br/><br/>10+10+4+4+76=104
   entry_channels: 
+- entry_name: |
+    ben fuat ergin sorularınızı bekliyorum
+  entry_id:  94840246
+  entry_writer: tembel fare
+  entry_fav_count: 50
+  entry_content: |
+    boys anılar halen soytarılar mı?
+  entry_channels: anket,ekşi-sözlük,müzik
 - entry_name: |
     cedi osman
   entry_id:  94847552
@@ -179,13 +227,21 @@ data:
     gerek son saniye de yapmış olduğu 3 atışlık faulle gerek son kaçırmış olduğu iki serbest atışla bugün maçı veren kişi olmuştur.
   entry_channels: spor
 - entry_name: |
-    günlük 1.000 tl ciro yapan lokanta alınır mı
-  entry_id:  94854003
-  entry_writer: papillion
-  entry_fav_count: 40
+    murat kosova
+  entry_id:  94847923
+  entry_writer: ariaven
+  entry_fav_count: 39
   entry_content: |
-    hiç hesaba kitaba girmiycem, bu vaka için konuşuyorum, alınmaz. çünkü bu soruyu soran adam bu işten zerre anlamıyordur belli ki, bilmediğin işe de yatırım yapmayacaksın. o kadar. 50 bini gitsin kariya kıza yedirsin daha iyi, en azından kendi parasıyla acı çekmemiş olur.
-  entry_channels: yeme-içme,ekonomi
+    bu adam yerine baska biri anlatiyor olsaydi , ne bu maci bu kadar insan izlerdi , ne de bu mac bu kadar konusulurdu. <br/>adam maci anlatmiyor yasiyor, ekran da bizler de bunun gaziyla maci izliyoruz. <br/><br/>size avni küpeli müstehak...
+  entry_channels: spor,tv
+- entry_name: |
+    1985 yılında doğanlar ne yapıyor sorunsalı
+  entry_id:  94852448
+  entry_writer: qaswed72
+  entry_fav_count: 38
+  entry_content: |
+    senin bu başlığını bekliyorlardı. şimdi sahne onların inlerinden çıkacaklar teker teker ve 5. günün şafağında doğudan gelecek ordu onlardan oluşacak.
+  entry_channels: 
 - entry_name: |
     türkiye'ye gelmiş en efendi yabancı futbolcu
   entry_id:  94816730
@@ -198,7 +254,7 @@ data:
     3 eylül 2019 anadolu efes'in özür dilemesi
   entry_id:  94835475
   entry_writer: trankondur
-  entry_fav_count: 34
+  entry_fav_count: 36
   entry_content: |
     kendilerine "delikanlı", kadınlara "zilli" birayı uygun gören pezevenklerin üzüldüğü olay. efes'in yapması gereken, erkekler için çıkardığı biranın adını "pezevenk" yapmasıydı. görelim bakalım hangi pezevenk zevkle içecekti.
   entry_channels: haber,yeme-içme
@@ -211,77 +267,93 @@ data:
     yani ne desek gg olacak yıllardır oynuyorsun şu oyunu şut atmayı bir öğrenemedin aq. o nasıl bir serbest atış atmaktır potaya küfreder gibi.
   entry_channels: spor
 - entry_name: |
-    1985 yılında doğanlar ne yapıyor sorunsalı
-  entry_id:  94852448
-  entry_writer: qaswed72
-  entry_fav_count: 30
-  entry_content: |
-    senin bu başlığını bekliyorlardı. şimdi sahne onların inlerinden çıkacaklar teker teker ve 5. günün şafağında doğudan gelecek ordu onlardan oluşacak.
-  entry_channels: 
-- entry_name: |
-    portekiz denince akla gelenler
-  entry_id:  94852056
-  entry_writer: varolan
-  entry_fav_count: 25
-  entry_content: |
-    200 milyonluk brezilyada portekizce konuşuluyor olması.<br/>bu arada portekizin nüfusu 10 milyon.
-  entry_channels: siyaset,anket,müzik,yeme-içme,seyahat
-- entry_name: |
-    dünyanın kaderini değiştiren 3 nesne
-  entry_id:  94851812
-  entry_writer: capivals
-  entry_fav_count: 23
-  entry_content: |
-    (bkz: <a class="b" href="/?q=mustafa">mustafa</a>)<br/>(bkz: <a class="b" href="/?q=kemal">kemal</a>)<br/>(bkz: <a class="b" href="/?q=atat%c3%bcrk">atatürk</a>)<br/><br/>(:
-  entry_channels: siyaset,anket,tarih,teknoloji
-- entry_name: |
-    satın alma öncesi araştırma işini abartmak
-  entry_id:  94844823
-  entry_writer: musclemania
-  entry_fav_count: 21
-  entry_content: |
-    daha dün arkadaşımla konuştuğum hede. fakir olmanın getirdiği bir alışkanlıktır.
-  entry_channels: ekonomi
-- entry_name: |
     alfa kadın sayısındaki gözle görülür artış
   entry_id:  94857584
   entry_writer: mali tarhan
-  entry_fav_count: 20
+  entry_fav_count: 32
   entry_content: |
     alfa kadın, beta erkek, gama kedi, teta murat, delta force gibi garip garip tabirler kullanarak insanları kalıplaştırmayı bırakın olum. neymiş adam iki kız düşürmüş alfa olmuş, neymiş hanım kızımız instagram'da 1000kitap'dan aldığı edebi alıntıyı paylaşmış, google'ye kübizm yazıp resim paylaşmış alfa olmuş. kusura bakmayın da mal mısınız? bırakın insanlar bi kalıbın içinde kendini rahatsız hissetmeden yaşasın artık. kimi görsem yok alfa olucam, yok pragmatist olacam diye kasım kasım kasılıyor.
   entry_channels: ilişkiler
 - entry_name: |
+    portekiz denince akla gelenler
+  entry_id:  94852056
+  entry_writer: varolan
+  entry_fav_count: 30
+  entry_content: |
+    200 milyonluk brezilyada portekizce konuşuluyor olması.<br/>bu arada portekizin nüfusu 10 milyon.
+  entry_channels: siyaset,anket,müzik,yeme-içme,seyahat
+- entry_name: |
+    satın alma öncesi araştırma işini abartmak
+  entry_id:  94844823
+  entry_writer: musclemania
+  entry_fav_count: 25
+  entry_content: |
+    daha dün arkadaşımla konuştuğum hede. fakir olmanın getirdiği bir alışkanlıktır.
+  entry_channels: ekonomi
+- entry_name: |
+    dünyanın kaderini değiştiren 3 nesne
+  entry_id:  94851812
+  entry_writer: capivals
+  entry_fav_count: 25
+  entry_content: |
+    (bkz: <a class="b" href="/?q=mustafa">mustafa</a>)<br/>(bkz: <a class="b" href="/?q=kemal">kemal</a>)<br/>(bkz: <a class="b" href="/?q=atat%c3%bcrk">atatürk</a>)<br/><br/>(:
+  entry_channels: siyaset,anket,tarih,teknoloji
+- entry_name: |
+    istiklal marşında ayağa kalkma zorunluluğu
+  entry_id:  94857000
+  entry_writer: yellowlist
+  entry_fav_count: 24
+  entry_content: |
+    istiklal marşı bir türk vatandaşı için şereftir, namustur. ayağa kalkmakta bir saygı göstergesidir. beğenmiyorsanız şu yolu deneyebilirsiniz (bkz: <a class="b" href="/?q=t%c3%bcrkiye%27den+siktir+olup+gitmek">türkiye'den siktir olup gitmek</a>)
+  entry_channels: tarih
+- entry_name: |
+    tarsus'taki esrarengiz kazı
+  entry_id:  94846222
+  entry_writer: birustmenuicinkareyituslayin
+  entry_fav_count: 21
+  entry_content: |
+    en az haftada bir kez aklima gelen.<br/>eski sevgilim bu kadar düsmüyor aklima be!
+  entry_channels: siyaset,tarih,haber
+- entry_name: |
     ekşi itiraf
   entry_id:  94820304
   entry_writer: guilty
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     kibirli olduğumu sanıyorlar.<br/><br/>kendi aklından benim kadar nefret eden kişi azdır. bir şey hatırladığımı düşünüyorsam hemen açar bakarım doğru mu diye. mühim bir mesele varsa ortada asla kendi aklımla yola çıkmam, saatlerce araştırırım. doktora, dişçiye, psikoloğa, ona buna da güvenmem, kendi araştırmamı yaparım. bir tane doktorla konuşacağıma elli tane doktorun eserini okurum. bu düsturla, akıllar pazara çıktığında bile kendi aklımı almadım. lakin yeni aldığım akıl daha da osuruklu çıktı.<br/><br/>kibri bıraktığınızda, kendi aklınızın ne kadar üfürükten olduğunu fark ettiğinizde, mecburen sorgulamaya başlıyorsunuz. sorguladığınız anda da kendi aklınızla birlikte bir sürü aklın osuruklu olduğunu fark ediyorsunuz.<br/><br/>mesela kendi uzmanlığınızı sorguladığınız anda, sizinle benzer işler yapan herkesin uzmanlığını sorguluyorsunuz aslında. ama bununla da bitmiyor. her türden uzmanlığı sorguladığınız bir yer geliyor. doktor, diyetisyen, yogacı, barista, psikolog, nörolog... havadan diplomaları fark ediyorsunuz. o gözle bakınca da binlerce sığır görüyorsunuz o diplomaların arkasına sığınan. bir sürü sözde uzman. bir sürü sözde bilge. ve o sözde bilgelerin peşine dizilmiş binlerce gariban ahmak. kapılar ardına kadar açıkken hem de.<br/><br/>tarih boyunca dört farklı yöntem kullanıldı bilgiye ulaşmak için. ilki, en yavanı, dediğim dediklik. bir şey tutturmak ve sonsuza kadar ona inanmak, onu sorguya düşüerecek her türlü düşünceden tartışmadan bilgi kırıntısından vs kaçmak. dindarlarla özdeşleştirilir bu yöntem. dört yaşında kuran kursunda duyduğu cümleyi, seksen beş yaşında ölüm döşeğinde hiç değiştirmeden tekrar etmek derdindedir bazıları mesela. bu akıl yürütme değil, akıl tutulmasıdır. neyse.<br/><br/>ikinci yöntem otorite. birileri size ne düşünmeniz gerektiğini söylüyor. milli eğitim sistemi veya modern devletler çoğu anlamda böyle. ama bu onların icadı değil. binlerce yıldır bu yöntemle büyük insan toplulukları yönetiliyor. kilise, roma, imparatorluklar, ruhbanlar onlar bunlar.<br/><br/>üçüncü yöntem akıl. kişinin kendi aklı. ilk ikisine bir alternatif ancak ne yazık ki ortalama insan aklı osuruklu. kendi aklına güvenen kendi kadar olur. ve bir şeyden ne kadar emin olursak olalım, tam tersine de o kadar emin olan birileri mecburen var. fener galata rekabeti gibi. bir sürü filozofun üfürüğü gibi.<br/><br/>son yöntem ise bilimsel akıl yürütme. bilimsel sorgu. bazı fikirleri veya kişileri veya kurumları veya bireyin kendi osuruklu aklını merkeze koymadan sorgulamak. başlangıç noktası ne olursa olsun, bu akıl yürütmeyi kullandıkça benzer noktalara gelir insanlar. diğer yöntemlerden temel farkı budur bu yöntemin. her saniyesinde sorgu vardır bu yöntemin. bilimsel akıl yürütme dedim ama ortalama bilimcinin bununla alakası yoktur. karıştırmamak lazım. bu bir tür bilgiden öte bir tür tutumdur, tavırdır. neye inanacağınızı seçme ve onu geliştirme çabasıdır.<br/><br/>böyle bir ortamda kibir ne yazık ki mümkün değildir. elbette şu oluyor, milyon kere söylenmiş ezber lafı sorup da cevap bekleyen alagavat, siktir çekilince kibirden olduğunu sanıyor. halbuki sadece ezber laftan bıktım. adam ezber lafın ezber laf olduğunun bile farkında değil. dün gelmiş gibi dünyaya. sanki otuz yaşında değil de otuz dakikalık falan. mars'tan az önce gelmiş gibi. ve diyor ki o zaman maymunlar neden insan olmuyor. veya o holdingler sayesinde bir sürü kişi ekmek yiyor. bunlar akıl yürütme değil ne yazık ki. bunlar akıl tutulması. akıl yürütmeme.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    istiklal marşında ayağa kalkma zorunluluğu
-  entry_id:  94856848
-  entry_writer: boylamdevlet
-  entry_fav_count: 11
+    3 eylül 2019 terim'in pdfk'ya sevk edilmesi
+  entry_id:  94858115
+  entry_writer: coincidences
+  entry_fav_count: 20
   entry_content: |
-    yazılı olmayan kural gibi gözükse de istenilirse yerine getirmeyen hakkında t. c.k 300/2 den soruşturma dahi yapılabilecek zorunluluktur.
-  entry_channels: 
+    fenerin baskan yardimcisinin baskan oldugu federasyonda utanmasalar terim'i asarlar.<br/><br/>bunlar yuzsuz serefsiz adamlar.<br/><br/>ama yine de varliklari onemli. hoca bu serefsizlere dersini vermek istemese donmezdi hocaliga.<br/><br/>bu yuzsuzleri tokatlayacam diye 2 sampiyonluk yazdi hanemize.<br/><br/>gecen sene sezonun yarisi ceza verdiniz gene zikti .nanizi.
+  entry_channels: spor
+- entry_name: |
+    erkeklerin ömür boyu sakladıkları kablo dolu kutu
+  entry_id:  94818916
+  entry_writer: henrique
+  entry_fav_count: 15
+  entry_content: |
+    benim de ev taşıyana kadar yaptığım şeydi bu. kabloları birleştirsem şehir merkezine teleferikle ulaşım sağlayabilirdim. lakin annemin de gazına gelip attım kutuyu. <br/><br/>sadede geleyim... geçen gün telefon kablosu lazım oldu, internet hattını uzatmak için. salına salına odaya gittim, bazanın altını açtım... yoktu. gerisi pişmanlık, gerisi hüzün... biliyorum, o kutu bir yerlerden beni izliyor. köpek gibi pişmanım, n'olur geri dön. <br/><br/>bu kutuyu atan berberini de değiştirir. öyle de vefasızdır. berberimi de değiştircem aq haketmiyorum bazı şeyleri ben.
+  entry_channels: teknoloji
 - entry_name: |
     özgüven eksikliğinin nedenleri
   entry_id:  94850959
   entry_writer: unbd
-  entry_fav_count: 10
+  entry_fav_count: 14
   entry_content: |
     yetiştirilme modellerinin sanırım %90'ına etki ettiği nedenlerdir.<br/>arkanızda duran ve yaptıklarınızı teşvik eden ailelerin çocuklarında bu pek yaşanmaz
   entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
-    tarsus'taki esrarengiz kazı
-  entry_id:  94855755
-  entry_writer: incir agaci golgesinde
-  entry_fav_count: 8
+    yaşlanmanın insanı delirtmiyor oluşu
+  entry_id:  94857231
+  entry_writer: emine winehouse
+  entry_fav_count: 14
   entry_content: |
-    oradan ne çıktığını değil ne kaçırıldığını çok az kişi biliyor. <br/>oraya dair konuşulan her şey rivayetten ibarettir. yani konuştuklarımız bir varsayımdır. <br/><br/>orada ne olup bittiğini; tarsus'da yaşayan yerel bir gazeteciye sordum, onun da hiç haberi yok. <br/>yine tarsus emniyetinde çalışanların ve dahi emniyet müdürünün dahi haberi yok. <br/><br/>ek not: kazı sürecinde italyan mafyasının şehre geldiği istihbaratı üzerine emniyet güçleri geniş güvenlik önlemleri almıştı. <br/><br/>ek not: türkiye'de yaşayan beyefendinin haberi olmadan oradan toprak kımıldatılmazdı.
-  entry_channels: siyaset,tarih,haber
+    bir yanılgı. 30 yaşındayım ve eskisine göre çok daha mutsuzum. kendimi yere atarak güldüğüm dönemler çok geride kaldı. <a class="b" href="/?q=huysuz+ihtiyar">huysuz ihtiyar</a>lar neden <a class="b" href="/?q=huysuz">huysuz</a> zannediyorsunuz? yaşlanmak tabii ki delirtiyor insanı.
+  entry_channels: sağlık
 - entry_name: |
     falcao'nun 2019-2020 sezonu gol sayısı tahminleri
   entry_id:  94820817
@@ -291,14 +363,6 @@ data:
     bazı galatasaraylı arkadaşların verdiği gol sayılarına bakacak olursak, seneye kendisi ballon d’or u alacaktır.
   entry_channels: spor,anket
 - entry_name: |
-    3 eylül 2019 terim'in pdfk'ya sevk edilmesi
-  entry_id:  94858115
-  entry_writer: coincidences
-  entry_fav_count: 6
-  entry_content: |
-    fenerin baskan yardimcisinin baskan oldugu federasyonda utanmasalar terim'i asarlar.<br/><br/>bunlar yuzsuz serefsiz adamlar.<br/><br/>ama yine de varliklari onemli. hoca bu serefsizlere dersini vermek istemese donmezdi hocaliga.<br/><br/>bu yuzsuzleri tokatlayacam diye 2 sampiyonluk yazdi hanemize.<br/><br/>gecen sene sezonun yarisi ceza verdiniz gene zikti .nanizi.
-  entry_channels: spor
-- entry_name: |
     masterchef türkiye
   entry_id:  94836207
   entry_writer: whatdreamsnevercome
@@ -307,53 +371,13 @@ data:
     koca koca insanlar 5 yaşında gibi davranıyor.<br/>suna, küvette tiramusu sorulduğunda "belki çok kişi yiyecek diye düşünnmüşümdür" gibi cevap veriyor.<br/>diğer takımın kaptanı hiçbir yemeği tatmadığı anlaşılınca "midem rahatsız" diyor.<br/><br/>ulan çıkıp "ya ben tiramisu sunumunu yanlış anlamışım arkadaşlarımdan özür dilerim" demek bu kadar mı zor?<br/>veya diğeri çıkıp "o telaşla yemeklerin tadına bakmayı atlamışım" demesi bu kadar mı zor?<br/><br/>bunlar nasıl yetişkin olmuş amk? 5-10 yaşında çocuklar böyle savunmaya geçer. tuhaf.
   entry_channels: tv,yeme-içme
 - entry_name: |
-    30-40 yaş erkek ve kadın yazarları evlendiriyoruz
-  entry_id:  94832247
-  entry_writer: aerials
-  entry_fav_count: 5
+    yeterli para olduğunda alınacak ilk şey
+  entry_id:  94857923
+  entry_writer: thedirectorvetra
+  entry_fav_count: 3
   entry_content: |
-    bu başlığa gerçekten evlenmek için yazanların bir çoğunun beyaz yakalı olduğuna adım gibi eminim zira günümüzde iş temposundan mütevellit evlenecek birisini bulmak beyaz yakalıların ortak sorunu olmuş durumda. o yüzden gelip burada info bırakanları eziklemek yerine empati yapıp destek olmak daha doğru olur bence çünkü herkesi kendiniz gibi sanmayın, insanların ne şartlarda hayatını devam ettirdiğini asla bilemezsiniz.
-  entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
-    zevk alınan ufak sapıklıklar
-  entry_id:  94857553
-  entry_writer: carriebradshaw
-  entry_fav_count: 2
-  entry_content: |
-    fotoğraflardan, başkalarının kitaplığındaki kitapları incelemek.<br/><br/>ben bazen kitaplığımdan bir şeyler paylaşıyorum; arkadaşlar da kitaplık fotosu atabiliyorlar. ama genelde kalite çok düşük oluyor ve kitapların sırtları pek okunmuyor.<br/><br/>işte benim sapıklığım burada başlıyor; <a class="b" href="/?q=ciltten+kitap+tan%c4%b1mac%c4%b1l%c4%b1k.">ciltten kitap tanımacılık.</a><br/>fotoğrafı yaklaştırıp kitap kitap inceliyorum; ne var ne yok; bildiğim bir şey var mı; ortak kitap var mı...<br/><br/>isimler okunmuyor ama kitaplar tanıdık. özellikle bazıları hemen seçiliyor.<br/>ciltli edgar allan poe, yüzüklerin efendisi serisi, murakami kitapları, hasan ali yücel serisi klasikler, yky ciltleri bakar bakmaz göze çarpanlar.<br/>işte ben o kitapları piksel piksel görüntü içinde tanıdıkça acayip bir haz duyuyorum.
+    ailemin yanında yaşamaktan öyle bunaldım ki okul bittikten sonra yeterli param olur ve düzgün bir evim olursa direkt kendi evime çıkmayı düşünüyorum.
   entry_channels: anket
-- entry_name: |
-    hıncal uluç
-  entry_id:  94858279
-  entry_writer: qatal
-  entry_fav_count: 2
-  entry_content: |
-    yaşayan en büyük troll'dür. troll'lüğü türkiye'ye o getirmiştir.
-  entry_channels: spor,siyaset,tv
-- entry_name: |
-    24-25 yaşındaki sporculara gelecek vaat eden demek
-  entry_id:  94855266
-  entry_writer: istblacken
-  entry_fav_count: 2
-  entry_content: |
-    ülkemize özgü hastalık. 'şimdi kötüyüz ama sen bizi on sene sonra gör' 'bu takım gelecek 10 seneyi domine edecek daha herkes çok genç' diye diye futbolcular, basketbolcular genç yetenek olarak torun torba sahibi olup tvde yorumcu oluyorlar. bugünü hiç görmeyip gelecekte daha iyi olmayı beklemek saçmalıktır. <a class="b" href="/?q=gen%c3%a7+semih">genç semih</a> sendromu olarak literatürde yerine bulan bu hastalığın tedavisi yoktur.
-  entry_channels: spor
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  94828147
-  entry_writer: bi ben ne bicim ya
-  entry_fav_count: 1
-  entry_content: |
-    led zepplin - immigrant song
-  entry_channels: anket,müzik
-- entry_name: |
-    yaşlanmanın insanı delirtmiyor oluşu
-  entry_id:  94858312
-  entry_writer: brkmu13
-  entry_fav_count: 1
-  entry_content: |
-    burada insanı delirtebilecek olan şeyin yaşlanana kadar geçirmiş olduğu yaşantılar olduğu kanaatindeyim.<br/><br/>aynaya baktığınız vakit gördüğünüz buruşuklukların ardında çok güzel yaşanmış bir hayat görebiliyorsanız o buruşukluklar sizi delirtmeyebilir. hatta bir tanesi daha eklenene kadar yapacağınız şeyler sizi motive edebilir.<br/><br/>lakin yapılamamış şeyler, yarım kalan hikayeler bulunuyorsa o yaşlanmış vücudun arkasında işte o zaman hem geçmiş hem de aynada gördükleriniz sizi delirtebilir.<br/><br/>benim düşüncem bu şekildedir.
-  entry_channels: sağlık
 - entry_name: |
     erkeği klas yapan unsurlar
   entry_id:  94858233
@@ -364,28 +388,12 @@ data:
   entry_channels: anket,ilişkiler
 - entry_name: |
     öldükten sonra kurtulduğuna en çok sevinilicek şey
-  entry_id:  94859118
-  entry_writer: gulbesekericoksevdimde
+  entry_id:  94859079
+  entry_writer: merakli159
   entry_fav_count: 0
   entry_content: |
-    dertler, sıkıntılar ve hastalıklar ve acılar.
-  entry_channels: 
-- entry_name: |
-    yeterli para olduğunda alınacak ilk şey
-  entry_id:  94857659
-  entry_writer: katsumoto85
-  entry_fav_count: 0
-  entry_content: |
-    ev. alamamam ama kiralayacağım.
+    bedenim.
   entry_channels: anket
-- entry_name: |
-    sahibinden.com klişeleri
-  entry_id:  94842186
-  entry_writer: the mountain
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ara%c3%a7+x+bey%27e+hay%c4%b1rl%c4%b1+olsun">araç x bey'e hayırlı olsun</a>)<br/><br/>yeni klişelerdendir. böylelerine "x bey'e hayırlı olsun" diye mesaj atmaktan çekinmiyorum nedense.
-  entry_channels: anket,edebiyat,otomotiv,ekonomi
 - entry_name: |
     google görsellerde nick aratılınca çıkan ilk resim
   entry_id:  94850375
@@ -394,12 +402,4 @@ data:
   entry_content: |
     ulan belki beklediğim gibi olmaz diyerek şansımı denedim ama beklentimi de aşan görsellerle karşılaştım. denemeyin.
   entry_channels: anket,ekşi-sözlük,magazin
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  94857355
-  entry_writer: bu nick kullanimda olmayaydi iyiydi
-  entry_fav_count: 0
-  entry_content: |
-    istanbul’dan kadın yazarlar mesaj yazabilirler.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
