@@ -6,31 +6,31 @@ data:
     susamam
   entry_id:  94956837
   entry_writer: vikis vurmaktan cigerim soldu
-  entry_fav_count: 1297
+  entry_fav_count: 1314
   entry_content: |
     deniz tekin'in soyledigi kisimda istemsiz bir sekilde ici titriyor insanin.<br/><br/>10/10 sarki.<br/><br/>edit: rap harekettir ve de politiktir.
   entry_channels: sanat,müzik
 - entry_name: |
-    canan kaftancıoğlu'nun 9 yıl 8 ay ceza alması
-  entry_id:  94981035
-  entry_writer: homers
-  entry_fav_count: 732
-  entry_content: |
-    istanbul’u kaybetmenin acisini kaftancioglu’ndan cikardiklarini gordugumuz karardir. istanbul kaybedilmeseydi boyle bir dava bile olmazdi.
-  entry_channels: siyaset,haber
-- entry_name: |
     danla bilic'in kilolu kızla dalga geçmesi
   entry_id:  94985949
   entry_writer: mevsimler
-  entry_fav_count: 705
+  entry_fav_count: 773
   entry_content: |
     shrek’in karısına benzediği günleri unuttuğunu göstermiş.
   entry_channels: magazin
 - entry_name: |
+    canan kaftancıoğlu'nun 9 yıl 8 ay ceza alması
+  entry_id:  94981035
+  entry_writer: homers
+  entry_fav_count: 749
+  entry_content: |
+    istanbul’u kaybetmenin acisini kaftancioglu’ndan cikardiklarini gordugumuz karardir. istanbul kaybedilmeseydi boyle bir dava bile olmazdi.
+  entry_channels: siyaset,haber
+- entry_name: |
     serkan inci'nin susamam şarkısı yorumu
   entry_id:  94969918
   entry_writer: kidemli ogrenci
-  entry_fav_count: 687
+  entry_fav_count: 693
   entry_content: |
     şu gereksizin başlıklarını açıp durmayın lütfen
   entry_channels: müzik,haber,spoiler
@@ -38,7 +38,7 @@ data:
     6 eylül 2019 süleyman soylu açıklamaları
   entry_id:  94971622
   entry_writer: didierdrogba07
-  entry_fav_count: 685
+  entry_fav_count: 687
   entry_content: |
     (bkz: <a class="b" href="/?q=hodri+meydan">hodri meydan</a>)<br/><br/>atayın lan, ne olur atayın da görün hanyayı konya'yı...
   entry_channels: siyaset,haber
@@ -46,7 +46,7 @@ data:
     bisikletle okula giden hollanda prensesi
   entry_id:  94973542
   entry_writer: zencibarra
-  entry_fav_count: 598
+  entry_fav_count: 603
   entry_content: |
     sanmıyorum ki bilal bisiklet sürebilsin.
   entry_channels: haber
@@ -54,7 +54,7 @@ data:
     ingiltere başbakanı ile sokakta tartışan vatandaş
   entry_id:  94978008
   entry_writer: cok guzel peynirim var abla
-  entry_fav_count: 514
+  entry_fav_count: 522
   entry_content: |
     yukarıdaki arkadaş türkiye'de bir vatandaş bunu yapsa kendini silivri'de bulur demiş ama, türkiye'de bir vatandaş zaten o kadar yaklaşıp tartışma şansı bile bulamaz
   entry_channels: siyaset,haber
@@ -62,7 +62,7 @@ data:
     rus askerlerin akılalmaz işkence videosu
   entry_id:  94979892
   entry_writer: feni
-  entry_fav_count: 353
+  entry_fav_count: 359
   entry_content: |
     insan fıtrat olarak iyiliğe meyillidir. işkence gören kişi kim olursa olsun, insanda ürperti uyandırır. sadece insana değil, herhangi bir canlıya işkence edilmesi kişiyi rahatsız eder. etmelidir.<br/>bir insan başka bir insana eziyet edilmesinden zevk alıyorsa ruh hastasıdır. bu çok nettir.<br/>--<br/><br/>zorunlu edit: çok mesaj geliyor, "insan kötülüğe meyillidir" şeklinde. <br/>tüm canlılar, stres ve baskı altında kötülük yaparlar. kafesteki kuşlar, sirklerdeki aslanlar, kovalanan kediler..<br/>insanoğlu toplu yaşama geçtiğinden beri stres altındadır. genlerinde özgürlük olan insan, toplu yaşamın avantajlarından faydalanmak için bir arada yaşamaktadır. bir yandan da toplu yaşamın stresinden uzaklaşmak istemektedir. bu durum "üşüyen kirpilerin" durumu gibidir der (bkz: <a class="b" href="/?q=engin+ge%c3%a7tan">engin geçtan</a>). üşüyen kirpiler birbirine sokulur ama dikenler batınca uzaklaşır. sonunda ideal uzaklığı yakalarlar.<br/><br/>kafayı sıyıran vatandaşlar hariç, gelişmiş ülkelerde şiddet tabloları çok az görülür çünkü stres ve baskı yoktur. kuzey avrupa 'da birbirine dağ hediye eden ülkeler var. adamların kuşları insan elinden ekmek yiyor. bizde öyle mi ?<br/>biz ve bizden sonraki coğrafya ise tam bir kaos ortamında olduğu için kötülük ortaya çıkıyor.
   entry_channels: siyaset
@@ -70,7 +70,7 @@ data:
     tokat yiyen gelini alkışlayan insanlar
   entry_id:  94983983
   entry_writer: attiribittoryus
-  entry_fav_count: 313
+  entry_fav_count: 323
   entry_content: |
     amk primitive primatları
   entry_channels: ilişkiler
@@ -78,7 +78,7 @@ data:
     istanbul'a kayyum atanırsa nasıl tepki verirsiniz
   entry_id:  94972803
   entry_writer: eksisozlugebirdahageldimbunickisectim
-  entry_fav_count: 283
+  entry_fav_count: 284
   entry_content: |
     ortamlarda, sokağa çıkar, demokratik tepkimi bu kararı sokaklarda protesto ederek gösteririm dersin. kim bilecek...
   entry_channels: siyaset,anket,haber
@@ -86,7 +86,7 @@ data:
     olay (ezhel şarkısı)
   entry_id:  94956294
   entry_writer: keynesin torunu
-  entry_fav_count: 251
+  entry_fav_count: 253
   entry_content: |
     ezhel'in yeni teklisi. <br/><br/>tek diyeceğim o klibe helal olsun. bu kadar ünden ve içeri alınma olaylarından sonra kimse kolay kolay böyle bir işe girmez. ışid'in yaktığı türk askerlerini dahi koymuş videoya.
   entry_channels: müzik
@@ -94,7 +94,7 @@ data:
     masada erkek varken garsonla muhatap olan kadın
   entry_id:  94973254
   entry_writer: taksimlicenk
-  entry_fav_count: 241
+  entry_fav_count: 246
   entry_content: |
     (bkz: <a class="b" href="/?q=tek+h%c3%bccreli+ba%c5%9fl%c4%b1klar%c4%b1">tek hücreli başlıkları</a>)
   entry_channels: ilişkiler
@@ -102,10 +102,18 @@ data:
     79 km hız ile radara girip ceza ödemek
   entry_id:  94978754
   entry_writer: moon shaped pool
-  entry_fav_count: 190
+  entry_fav_count: 194
   entry_content: |
     hız sınırı 70 km/h’tir. bunun 10% toleranslı hali 77 km/h'dir. aslında 71 km/h hızda iken dahi, hız sınırını aşmış oluyorsunuz, yasalar da 10% tolerans koyarak, 77 km/h hıza kadar ceza kesilmemesini sağlıyor.<br/><br/>siz 77 km/h hızla gidilecek yerde 79 km/h ile değil, 70 km/h hızla gidilecek yerde 79 km/h hızla ceza yediniz. önce bunun bir farkına varın.<br/><br/>adam 10% toleransı aşmış, toleransın da toleransını göstermedikleri için gelip şikayet ediyor. ki aynı adama 79 km/h hızla ceza yazma, bir sonraki sefere 80 km/h hızla ceza yaz, bu sefer de "geçen seferden 1 km/h daha hızlıyım diye ceza yazdılar" diye ağlanmaya başlar. <br/><br/>kurallara riayet etmeyi öğreneceksiniz, medeni topluma bir şekilde ayak uyduracaksınız. bir sonraki seferde, ona göre basarsın gaza.<br/><br/>pes arkadaş.
   entry_channels: otomotiv
+- entry_name: |
+    29 eylül 2019 galatasaray fenerbahçe maçı
+  entry_id:  94969403
+  entry_writer: saintly
+  entry_fav_count: 193
+  entry_content: |
+    he amına koyayım, fenerbahçe rizespor'dan muriqi'yi falan aldı diye terim korktu ve istifa için fırsat kolluyor. <br/><br/>nasıl bir hayal dünyanız var sizin amk davarları ya.
+  entry_channels: spor
 - entry_name: |
     ezhel
   entry_id:  94956618
@@ -126,23 +134,15 @@ data:
     nakitsiz dolaşan erkek
   entry_id:  94975020
   entry_writer: marksoglu
-  entry_fav_count: 152
+  entry_fav_count: 155
   entry_content: |
     sayılarla arası iyi değildir. 70'i bir rakam zanneder.
   entry_channels: ekonomi
 - entry_name: |
-    fatih terim'in gs teknik direktörlüğünden istifası
-  entry_id:  94980344
-  entry_writer: oanda
-  entry_fav_count: 142
-  entry_content: |
-    terimin bırakıp yerine geçmesi için dua ettikleri adamın ersundan 3 kat fazla kupası var,fenerlilerin halini burdan anlayın
-  entry_channels: spor
-- entry_name: |
     türkiye'nin sorunu coğrafyası mı dini mi
   entry_id:  94977598
   entry_writer: kornslame
-  entry_fav_count: 140
+  entry_fav_count: 142
   entry_content: |
     insanıdır insanı.
   entry_channels: siyaset,anket,tarih
@@ -150,7 +150,7 @@ data:
     koç holding markalarını boykot kampanyası
   entry_id:  94958007
   entry_writer: usuyoruz maykil regis
-  entry_fav_count: 110
+  entry_fav_count: 113
   entry_content: |
     senelik 7-8 milyon euro maaş alan ve gününü gün eden zırtapozlar için ülkesine katma değer sağlayan bir şirketi boykot etmeye çalışan embesilleri göstermiştir.<br/><br/>siz eğitilmez insanlarsınız. gerçekten ahmaklığınızın seviyesini hiçbir cihaz ölçemez. bir senelik birikiminiz alaçatı'da adam gibi 1 hafta tatil yapmaya bile zar zor yetiyorken, yılın neredeyse her günü o şatafata sahip hayat yaşayan topçular için listeler çıkarıyorsunuz. <br/><br/>salaksınız, duruşunuz da kuruşunuz da leş gibi.<br/><br/>edit: bir de kapitalizm eleştirisi yapıyorlar, bak sen şunlara. okuduğunu anlamayan böcek kadar beyninizle siz sosyalist mi oldunuz lan bir de. sizin zekanız sadece çim sahadaki topu ve etrafında koşan 22 kişiyi anlayabilir. bırakın sistem eleştirisini, kimden duyduysanız bildiğiniz gibi değil. siz kupalarınızı yazın da duruşunuzu kuruşunuzu falan konuşalım, bunlar sizi aşar.<br/><br/>kum tanesi kadar da olsa aklı olan gs'liler lütfen dinleyin: milyon euro kazanan topçular için bu ülkede istihdam sağlayan bir şirkete boykot planlamak çok büyük işsizlik. bu haliniz sizi acınası bir duruma düşürüyor. emin olun millet "yazık ya bu kimin çocuğuysa" modunda bakıyor size. biz onu söylüyoruz yoksa şirket savunuculuğu yapmıyoruz. siz "fakirlere zulmettiği için koç'a boykot" isteseniz destekleriz ama siz çok salakça bir şey için istiyorsunuz ve desteklemiyoruz.
   entry_channels: spor,haber,ekonomi
@@ -158,10 +158,18 @@ data:
     ibb'ye kayyum atanması
   entry_id:  94986706
   entry_writer: hep gel
-  entry_fav_count: 106
+  entry_fav_count: 113
   entry_content: |
     (bkz: <a class="b" href="/?q=ay+hadi+in%c5%9fallah">ay hadi inşallah</a>)<br/><br/>keşke yapılsa böyle bir hata. amin.
   entry_channels: siyaset
+- entry_name: |
+    a haber'in yenikapı'da vatandaştan fırça yemesi
+  entry_id:  94990867
+  entry_writer: yuce divanda yatan adam
+  entry_fav_count: 90
+  entry_content: |
+    +spiker; yayın engellendi.<br/>- vatandaş; gel yakından çek.
+  entry_channels: siyaset,tv,haber
 - entry_name: |
     canan kaftancıoğlu
   entry_id:  94972518
@@ -174,7 +182,7 @@ data:
     zeki kız vs seksi kız
   entry_id:  94984577
   entry_writer: ocean ocean
-  entry_fav_count: 72
+  entry_fav_count: 73
   entry_content: |
     zeki kadın seksidir.
   entry_channels: anket,ilişkiler
@@ -182,7 +190,7 @@ data:
     şanışer
   entry_id:  94960016
   entry_writer: earendilx
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     yorumlara bak yarım ağızla gönderme yapmış napsın adam aq düpedüz sövsün mü? 15 dk boyunca eleştiri yapacak klip yapmış hala ekşi sözlük liselisi beğenmiyor şaka gibi
   entry_channels: sanat,müzik
@@ -190,7 +198,7 @@ data:
     10 km uzaktan selektör yapan bmw'li
   entry_id:  94971453
   entry_writer: ortadanicki
-  entry_fav_count: 64
+  entry_fav_count: 68
   entry_content: |
     sol şeritte hız sınırı olduğunu bilmeyen insansıdır. sol şeridin sollama şeridi olduğunu bilmeyen başka bir insansının can düşmanıdır.
   entry_channels: teknoloji,otomotiv
@@ -198,7 +206,7 @@ data:
     neden pahalı olduğu anlaşılamayan şeyler
   entry_id:  94975355
   entry_writer: sonsoru
-  entry_fav_count: 59
+  entry_fav_count: 61
   entry_content: |
     crocs marka terlik.
   entry_channels: anket,teknoloji,yeme-içme,moda,ekonomi
@@ -206,7 +214,7 @@ data:
     fatih terim
   entry_id:  94955865
   entry_writer: paul sahillleri
-  entry_fav_count: 53
+  entry_fav_count: 55
   entry_content: |
     'daha güçlü bir türkiye için evet diyorum' demediği günden beri başına gelmedik kalmayan imparator.<br/><br/>ilk piyon arda'ydı beceremediler, sonra selo'ya adamın en hassas noktası olan karısına kızına sövdürttüler. dayağı yiyen selo, kovulan terim oldu. ilk görev tamamlanmıştı.<br/><br/>terim artık tarihin tozlu sayfalarındaki yerini almıştı almasına da bir eksik vardı sanki galatasaray taraftarı hala onu seviyordu. en azından bir kısmı. bu sevginin de tükenmesi gerekiyordu. bu bitik psikolojiyle tüpçü'nün başkanlığındaki tff üstüne şampiyonlar liginde efsane bir performans sergileyen şenol'un takımı varken başarılı olması imkansızdı. o nedenle gelsindi. gelsin ki sevildiği son yer olan galatasaray'dan da küfürler eşliğinde kovulsun. açın ve o günlerde 'terim galatasaray'a gelsin' diye götünü yırtanlara iyi bakın. hepsi azılı galatasaray ve terim düşmanı.<br/><br/>ne oldu peki o sezonun sonu? terim tüpçü'yü, şenol'u, aziz'i, aykut'u, fiko'yu, apo'yu, göksel'i üst üste koyup şampiyon oldu. kısaca işler bazılarının hiç de planlamadığı gibi gitti. yine.<br/><br/>geldik geçen sezona. vizyoner başkan. türkiye'nin en önemli ailelerinden birinin çocuğu 'kaybetmek nedir billmeyen' vizyoner zannedilen malum şahıs göreve geldi. sözde terim'in kariyerininin sonunu zehir etmeye. <br/><br/>lig başladıktan bir kaç hafta sonra takımından bir cacık olmayacağını ve en önemlisi bu adamın 'saha içinde' ekarte edilemeyeceğini anladı bizim yalı çocuğu. kapsamlı bir bir plan yaptı yancıları fiko ve göksel'i de yanına alarak. anadolu kulüplerini de kapsayan bir plan yaptılar. belediyespor desteklenecek ve galatasaray'ın şampiyonluğu engellenecekti.<br/><br/>ama elbette yine başarılı olamadılar. belediyespor'un şampiyonluğu o kadar garantiydi ki gözlerinde rizespor maçından sonra kopan kıyametten anlaşılabilir bu durum. gözleri dönmüştü ama iş işten çoktan geçmiş kirli oyunları bir kez daha bozulmuştu.<br/><br/>anadolu kulüplerini kafalamakla bile bu işin çözülemeyeceğini anlayan yalı düşkünü genç adam bu sefer meseleyi en tepeden halletmeye karar verdi. önce malum şahsı ikna etmeliydi ki o en kolayıydı. 'fetö yapılanmasını temizleyeceğiz' yalanıyla onun 'olur' verdiği fenerbahçeli bir tff başkanıyla birlikte kafa kafaya verildi kurullar ve hakemler dizany edildi.<br/><br/>ve bu henüz bir başlangıc. 3 haftada 3 kırmızı kart ve para cezasına bile gerek duyulmaması gereken bir beyan için 4 maç ceza.<br/><br/>ama meselenin özü terim ile alakalı değil. terim sadece çok güçlü ve ortadan kaldırılması gereken bir kaya. asıl dert galatasaray'ın kendisiyle.<br/><br/>daha ne kadar çirkinleşecekler, olayı nereye kadar götürecekler göreceğiz. yapılacak hiçbir hamle şaşırtıcı olmayacaktır..<br/><br/>galatasaraylılar sadece şunu iyi bilsinler ki başaramayacaklar. ne yaparlarsa yapsınlar galatasaray'a zarar veremeyecekler.
   entry_channels: spor
@@ -214,26 +222,26 @@ data:
     kısa boylu erkek agresifliği
   entry_id:  94983008
   entry_writer: negatifkorelasyon
-  entry_fav_count: 44
+  entry_fav_count: 50
   entry_content: |
     ne alakası var amkdumun sığırı. (1.70)<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,ilişkiler
 - entry_name: |
-    a haber'in yenikapı'da vatandaştan fırça yemesi
-  entry_id:  94990867
-  entry_writer: yuce divanda yatan adam
-  entry_fav_count: 34
-  entry_content: |
-    +spiker; yayın engellendi.<br/>- vatandaş; gel yakından çek.
-  entry_channels: siyaset,tv,haber
-- entry_name: |
     imamoglu'nun kaftancıoğlu'nu satması
   entry_id:  94985799
   entry_writer: komik olma kuzen
-  entry_fav_count: 33
+  entry_fav_count: 44
   entry_content: |
     (bkz: <a class="b" href="/?q=herkesi+kendi+gibi+sanmak">herkesi kendi gibi sanmak</a>)<br/><br/>bu aktroller sanıyor ki herkes kendileri gibi orospu çocuğu.
   entry_channels: haber
+- entry_name: |
+    meb'in yeni teneffüs müziği
+  entry_id:  94990117
+  entry_writer: olgunisik
+  entry_fav_count: 30
+  entry_content: |
+    bu nasıl zil müziği? zil de dahil uyarı amaçlı tüm müzikler insan sesi olmayan, enstrümantal müziklerden seçilirken meb sabah kuşağı çocuk programı açılış müziği gibi birşey yapmış.<br/>neşat ertaş reisden saz müziği koyun demiyorum ama el insaf bu da hiç olmamış.
+  entry_channels: müzik,eğitim
 - entry_name: |
     olsa yine izlerim denilen çizgi film
   entry_id:  94954975
@@ -243,13 +251,13 @@ data:
     üniversiteliler bile hatırlamaz<br/><br/>(bkz: <a class="b" href="/?q=u%c3%a7an+kaz">uçan kaz</a>)
   entry_channels: anket,tv,tarih
 - entry_name: |
-    5 eylül 2019 fatih terim'in 4 maç ceza alması
-  entry_id:  94955208
-  entry_writer: oluroylearada
-  entry_fav_count: 27
+    4 eylül 2019 thy tırtıllı yemek rezaleti
+  entry_id:  94988512
+  entry_writer: biyolojik saat tamircisi
+  entry_fav_count: 26
   entry_content: |
-    bu memlekette kurumların çalışmaması artık sıradan hale geldi. birileri cezaları açıklayan kurumda örgütlenmiş, ceza doğru ya da yanlış bakmaksızın (bu durumda ceza ne kadar doğru o da şaibeli hale geliyor) cezanın açıklanma saatini ayarlayacak kadar oraya çöreklenmiş ve hakim olmuşlar. adeta adaletsizlik partisi veriyorlar. tıpkı ergenekon hakimlerininin ceza vermek için 29 ekimi, 19 mayısı ya da 30 ağustosu seçmesi gibi bir şey aslında. bu kurumsal kokuşmuşlukla başa çıkmazsak memlekette hiç bir şey düzelmez.<br/>not: beşiktaş
-  entry_channels: spor,haber
+    salatadan çıksa ben de sorun etmezdim ama ana yemekten çıkınca büyük rezalettir.<br/>hemen de boku tedarikçiye atmışlar. adam sanki tedarikçinin uçağıyla uçuyor.
+  entry_channels: 
 - entry_name: |
     kedi almak isteyenlere tavsiyeler
   entry_id:  94964047
@@ -259,50 +267,26 @@ data:
     yazlık bir bölgede görev yapıyorum. tatil bitti çoğu yazlikcının. okul etrafında asil kedi köpekler, evden atılmış, site bahçesinde gezmeye çalışıyor, çöpten vs yemek yemeyi de bilmiyor çoğunluğu. saygılar (!) sunuyoruz eski sahiplerine. o kadar çok ki, anlatamam<br/>not. yer arpaçbahşiş, erdemli, mersin. altmış civarında site var, geniş bir alan
   entry_channels: anket
 - entry_name: |
-    akp'ye oy vermek siyasi fikir midir iq testi midir
-  entry_id:  94986770
-  entry_writer: evcevc123
-  entry_fav_count: 23
-  entry_content: |
-    şahsi fikrinizi merak ettiğim sorudur. bence 5 sene önce<sup class="ab"><a title="(bkz: yine de çok saçma olsa da)" href="/?q=yine+de+%c3%a7ok+sa%c3%a7ma+olsa+da" data-query="yine de çok saçma olsa da">*</a></sup> bir siyasi fikir diyebilirdim. ama artık hiçbir mantığı manası olmamasına rağmen hâlâ bu insanları ciddi manada savunanlar var, hatta buraya da üşüşebilirler. ama artık kesinlikle beynim, sorgulama yetim, anlamlandırma özelliğim ve kendi düşüncelerim yok demeyi belli etme aracıdır.<br/><br/>edit: yanlış anlaşılmasın. beyinsiz olan herkes akp'ye oy verir değil, akp'ye oy veren herkes beyinsizdir.
-  entry_channels: 
-- entry_name: |
-    4 eylül 2019 thy tırtıllı yemek rezaleti
-  entry_id:  94988512
-  entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 23
-  entry_content: |
-    salatadan çıksa ben de sorun etmezdim ama ana yemekten çıkınca büyük rezalettir.<br/>hemen de boku tedarikçiye atmışlar. adam sanki tedarikçinin uçağıyla uçuyor.
-  entry_channels: 
-- entry_name: |
     ilk buluşmada maaş soran kız
   entry_id:  94977653
   entry_writer: ibeddebi
-  entry_fav_count: 21
+  entry_fav_count: 24
   entry_content: |
     "bir kadın paraya önem veriyorsa, ondan pek saygı beklemeyin, emin olun sizi de satar."<br/><br/>franky hamston.
   entry_channels: ilişkiler
 - entry_name: |
-    beraber içmek istenen hayvan
-  entry_id:  94956758
-  entry_writer: nusretnesin
-  entry_fav_count: 21
+    #uefatoprotectffp
+  entry_id:  94991093
+  entry_writer: varanus komodoensis
+  entry_fav_count: 22
   entry_content: |
-    ben hep balıkla içiyorum.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    meb'in yeni teneffüs müziği
-  entry_id:  94989968
-  entry_writer: bukatto
-  entry_fav_count: 19
-  entry_content: |
-    2. 26 lik suresiyle teneffuse cikis ve derse giris arasindaki toplam 4 dakika 52 saniyelik surenin zil ile gecmesi beklenen yeni zil sesimiz. gozlerimiz yollarda kalmisti zaten.
-  entry_channels: müzik,eğitim
+    amına koyduğumun salakları uefa'yı email yağmuruna tutmuş, yazdıkları emailde "bayram tutumlu falcao transferinde usülsüzlük yapıldığını açıkladı" gibi bir şeyler zırvalamışlar. usul nedir dilekçe nasıl yazılır haberleri yok. <br/><br/>uefa: bayram tutumlu kim amk?<br/><br/>aciz orospu çocukları nelerden medet umuyor. sezon sonu uefa tarafından anlaşmalara uyulduğu açıklandığında uefa'yı fetöcülükle suçlar bunlar.<br/><br/>(bkz: <a class="b" href="/?q=profesyonel+k%c3%b6t%c3%bcl%c3%bck">profesyonel kötülük</a>)
+  entry_channels: 
 - entry_name: |
     susamam'ın abartılmış bir şarkı olması
   entry_id:  94990595
   entry_writer: anonimyus
-  entry_fav_count: 14
+  entry_fav_count: 20
   entry_content: |
     15 dakika boyunca ekrana kitlediği ve bir kaç kere daha kendini dinlettiği için abartılıyor olabilir mi? bence abartıldığı kadar güzel bir iş. daha iyilerinin önünü açsın.<br/><br/>ekleme :<br/><br/><a class="b" href="/entry/94990749">#94990749</a> 'a cevaben &gt;<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/iVnP07C9jYk" title="https://youtu.be/iVnP07C9jYk">sanatçıymış konuşamazmış, konuşacak!</a>
   entry_channels: 
@@ -310,18 +294,18 @@ data:
     torbacı gibi tipi olan futbolcular
   entry_id:  94987647
   entry_writer: erdal bakkal biyigi
-  entry_fav_count: 12
+  entry_fav_count: 16
   entry_content: |
     medel bunun bir tık üstü, tam meksikalı uyuşturucu çetesinin önemli elemanı tipi var. koy narcos'a sırıtmaz.
   entry_channels: 
 - entry_name: |
-    para verilip üstüne bir de dert sahibi eden şeyler
-  entry_id:  94987945
-  entry_writer: thsnbkrykt
-  entry_fav_count: 12
+    74 yaşında ikiz doğuran nine
+  entry_id:  94990559
+  entry_writer: avuclamisgezer
+  entry_fav_count: 14
   entry_content: |
-    (bkz: <a class="b" href="/?q=t%c3%bcp+bebek">tüp bebek</a>)
-  entry_channels: anket,ekonomi
+    dusuncesizlik,ego tatmini ve simarikliktan baska birsey degildir.kac yasinda olecegini dusunuyor acaba?
+  entry_channels: 
 - entry_name: |
     nihat özdemir
   entry_id:  94959384
@@ -330,6 +314,14 @@ data:
   entry_content: |
     yahu ' orasi tff ringonun ahirimi ? ' yazan yuregi temiz kardeslerimi gorunce bir gulme aliyor beni.<br/>bakin size orasinin nasil bir ahir oldugunu anlatayim ;<br/><br/>- butcesi ozerk , hesap kitap soramiyorsun!<br/>- ortulu odenegi var , esine dostuna bir suru seyahat , konaklama ,yeme icme yaptirirsin . insafina kalmis.<br/>- pirim sistemi seffaf degil , el altindan bir suru para dagitirlar bilemezsin.<br/>- sponsorluk anlasmalarina bak , ozelde bin tane dumen doner bilsen sasarsin.<br/>- hic bir yonetim digerini boklamaz en sert muhalif bile gozukse , cunki hepsi ayni kaptan nemalanir.<br/>- 80 milyonluk bir nufustan genc bir milli takim cikartacak vizyonlari yoktur.<br/>- ileriye donuk kisa ve uzun vadede hic bir plan programlari yoktur.<br/>- ligin kalitesini artiracak hic bir fikirleri yoktur.<br/><br/>olan ne vardir dersen ulkede bolca keriz vardir. bunlar da onlardan nemalanirlar o ahirda.
   entry_channels: spor,ekonomi
+- entry_name: |
+    arçelik kalitesizliği
+  entry_id:  94968104
+  entry_writer: tearhunter
+  entry_fav_count: 9
+  entry_content: |
+    bütün beyaz eşya-küçük ev aletleri sektöründe olduğu gibi servisler garanti kapsamındaki onarımlarda parayı şirketten tahsil ederler. şirket de yapılan işin kalitesini <a class="b" href="/?q=ebenezer+scrooge">ebenezer scrooge</a> gibi takip eder. işini doğru yapan servisler asıl parayı garanti içi hizmetten kazanırlar; garanti harici işlemler mıymıntı müşteri yüzünden sevilmeyen iş sayılır.<br/>bir de; telefonla çağrı merkezinden kayıt açılan her türlü arıza veritabanına girer; o yüzden önceliklidir. servis mağazasından "alo memduh abi" şeklinde istenecek servisler takipsiz olduğu için arkaya itilir.<br/><br/>her işte olduğu gibi satış sonrası hizmetler işinde de uyanık, dolandırıcı tipler vardır. böyle biriyle muhatap olunduğu hissi varsa çağrı merkezini arayıp servis bölge mühendislerinden inceleme istemek mantıklıdır. çünkü servis noktaları bağımsız şirketlerdir; ama çağrı merkezi ve mühendisler arçelik'e (veya markasına göre bosch'a, vestel'e vb) bağlı kadrolu birimlerdir.
+  entry_channels: 
 - entry_name: |
     fazla ideolojik yüklemeden beyni yanan aktrol
   entry_id:  94985197
@@ -340,36 +332,44 @@ data:
   entry_channels: 
 - entry_name: |
     sex ve şiddet
-  entry_id:  94988203
-  entry_writer: defoe
-  entry_fav_count: 4
+  entry_id:  94986536
+  entry_writer: oyuncak bulut
+  entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=ali+k%c4%b1rca">ali kırca</a>)
+    insanın aklına beyaz saçlı bir zamanların enkırmenini getiren ikili.<br/>hayvan gibi şaapıyodu a.q
   entry_channels: ilişkiler
 - entry_name: |
-    74 yasinda ikiz doguran nine
-  entry_id:  94990918
-  entry_writer: wohan
-  entry_fav_count: 4
+    para verilip üstüne bir de dert sahibi eden şeyler
+  entry_id:  94989964
+  entry_writer: mybabyblue
+  entry_fav_count: 5
   entry_content: |
-    annesiz, babasız, umutsuz büyüyecek çocuklardır.
-  entry_channels: 
+    kesinlikle düğün ve evlilik. <br/>hem onca borca harca giriyorsun hem de cicim ayları sonrası çile çekiyorsun erkek olarak
+  entry_channels: anket,ekonomi
 - entry_name: |
-    ali koç
-  entry_id:  94975278
-  entry_writer: enfes bi insanim
+    ekşi itiraf
+  entry_id:  94962119
+  entry_writer: dunyanin en buzin seven insani
   entry_fav_count: 3
   entry_content: |
-    ulan gözyaşınızdan telefonum su aldı be, düzenlerine çomak sokacak güçte biri karşılarına çıkınca paçaları tutuşan kedicikleri görmemizi sağlayan başkandır.
-  entry_channels: spor,siyaset,ekonomi
+    hayatım yavaş yavaş yoluna giriyor. whatsapp'ta çevrimiçi insan kovalayıp "napıyorsun beni mi düşünüyorsun :p" yazmak yerine kalktım çamaşırları toplayıp katladım. sıfır itlik. sıfır şerefsizlik. sonra gittim yemeği dolaba koydum. kapıyı kitledim. şimdi yatıyorum. allah rahatlık versin.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    yurtdışında balayı olmazsa nişanı atarım diyen kız
-  entry_id:  94957286
-  entry_writer: wattaheal
-  entry_fav_count: 2
+    turist sayısını en çok artıran ülke
+  entry_id:  94991243
+  entry_writer: benden sana
+  entry_fav_count: 1
   entry_content: |
-    reis faizleri düşürdü bu neyin korkaklığı ne demek ya sbsnsdndndnd abi nereden buluyorsunuz böyle hikayeleri. trol diyeceğim de (bkz: <a class="b" href="/?q=this+is+t%c3%bcrkiye">this is türkiye</a>) yani burada herşey olur.<br/><br/>edit: şimdi arkadaşın diğer entry’lerinden geliyorum. akıl sağlığı pek yerinde değil belli ki. sallama bir hikaye. ülkede normal insan bulmak gerçekten zor. bastım eksiyi
-  entry_channels: ilişkiler
+    turizm çalışanlarının maaş ortalamasının 2500 olduğu ülke de, turizmde memnuniyet ve fiyat artışı beklemek mallıktır.<br/><br/>türkiye turizm ülkesiydi eskiden, şimdi değil. şimdi fuhuş turizmi var. bu memnuniyet yükseltilmediği takdirde, ne devlet para kazanır, ne otel sahipleri para kazanır, ne de çalışanlar para kazanır. tüm parayı yunanistan kazanır.<br/><br/>bu kadar zekaya sahip işte türkiye...
+  entry_channels: 
+- entry_name: |
+    ilk uçuştan akılda kalanlar
+  entry_id:  94991108
+  entry_writer: ersensener
+  entry_fav_count: 1
+  entry_content: |
+    su arkadasin hikayesi (bkz: <a class="b" href="/entry/93679966">#93679966</a>) dikkatimi cekti.<br/><br/>o yillarda, turk "sivil" havaciligi gercekten de oyleydi.<br/><br/>o zamanlar sivil havacilik okullari olmadigi gibi, asker kokenli pilotlara, dur, cus diyebilecek adam da yoktu.<br/><br/>askeri hakimler icin soylenen bir laf vardir;<br/><br/>"bando bascavusu ne kadar muzisyense, askeri hakim de o kadar adildir." diye. doktor olan babam bu ifadeyi askeri doktorlari*, tanidigim bir pilot da asker kokenli pilotlari da kapsayacak sekilde genisletirdi.<br/><br/>*gercekten de askeri tipla sivil tibbin oncelikleri farklidir. sivil tip, agir hastaya oncelik verir, bekleyebilecek durumda olani bekletir (bizi acilde beklettiler diyorlar ya hani. aslinda o sebeptendir), askeri tip ise en hafif yaraya en once bakar, hayati tehlikesi olanlara, varsa morfin verir, tampon yapar, zaman kalirsa da tedavi eder. zira oncelik, mumkun oldugunca cok sayida adami cepheye geri gondermektir (taburcu olmak).<br/><br/>hatta hatirladigim kadariyla, ilerleyen yillarda, avrupali sivil havacilik kuruluslari bir isim listesiyle beraber, turk hava yollarina "ultimatum" vermisti. "su adamlarin kaptanliginda, ya da idaresindeki teyyarelere, su tarihten sonra, avrupa birligi dahilinde hic bir meydana inis izni verilmeyecektir!" diye.
+  entry_channels: 
 - entry_name: |
     ermeni soykırımı
   entry_id:  94988671
@@ -393,13 +393,13 @@ data:
   entry_fav_count: 0
   entry_content: |
     (bkz: <a class="b" href="/?q=travma+nedir">travma nedir</a>)
-  entry_channels: 
+  entry_channels: ilişkiler
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  94955843
-  entry_writer: zazzle
+  entry_id:  94983147
+  entry_writer: foreevermoreover
   entry_fav_count: 0
   entry_content: |
-    yol uzun izmir-istanbul seyahati yapılmakta ilgilenenler yeşillendirebilir
+    age 32 / man ankara - istanbul... yaşınız önemli değil.<br/>ilgim yalnızca kadınlara, buyrunuz...<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://connected2.me/foreevermorever32" title="http://connected2.me/foreevermorever32">c2</a> 'dan anonim olarak katılabilirsiniz.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
