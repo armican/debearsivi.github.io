@@ -6,7 +6,7 @@ data:
     reynmen'in gazetecilere saldırması
   entry_id:  95284773
   entry_writer: birvarimbiryokum
-  entry_fav_count: 911
+  entry_fav_count: 921
   entry_content: |
     (bkz: <a class="b" href="/?q=reynmen+kim+amk">reynmen kim amk</a>)<br/><br/>bağcılar arizona kertenkelelerinin götlerini kaldırınca böyle oluyor işte
   entry_channels: haber,magazin
@@ -14,7 +14,7 @@ data:
     evinin balkonunda uçak yapan 15 temmuz gazisi
   entry_id:  95300433
   entry_writer: sigara kibrit
-  entry_fav_count: 653
+  entry_fav_count: 680
   entry_content: |
     ben, sana uçağı evde yaparım, hem daha ucuz olur hem de içine hangi teknolojiyi koyduğumuzu biliriz. yabancı ülkeler kim bilir içine neler koyuyor.
   entry_channels: teknoloji,haber,havacılık
@@ -22,7 +22,7 @@ data:
     gerillaya katılım da olacak savaş da olacak
   entry_id:  95286733
   entry_writer: samm99
-  entry_fav_count: 601
+  entry_fav_count: 605
   entry_content: |
     dünyanın hiçbir ülkesinde devleti tehdit eden biri barınamaz. <br/>yalnız bir istisna var tabii , türkiye ! <br/><br/>türkiye'de devleti tehdit etmek serbest mi bunun cevabını türkiye cumhuriyet savcılarından bekliyoruz.
   entry_channels: siyaset,haber
@@ -30,23 +30,15 @@ data:
     13 eylül 2019 beinsport spiker rezaleti
   entry_id:  95311356
   entry_writer: gayri safii milli ariza
-  entry_fav_count: 495
+  entry_fav_count: 568
   entry_content: |
     bence "fanatiklerin duyma rezaleti" diyebiliriz. zira net bir şekilde "buluştu topla" diyor.
   entry_channels: spor
 - entry_name: |
-    otomobillerde sunulan gereksiz donanımlar
-  entry_id:  95279976
-  entry_writer: dawgiestyler
-  entry_fav_count: 374
-  entry_content: |
-    bu ekşi sozlukte iyice yavşak yuvası oldu amk!!! adam ne guzel baslık acmıs okuyoruz. sonra bir takım vajina ifrazatları gelip baslıgın anasını s2yor. siktirin gidin espiri sandıgınız gerizekalılıklarınızı inci de yapın!!!
-  entry_channels: anket,teknoloji,otomotiv
-- entry_name: |
     lazerle göz ameliyatı olanların güncel durumu
   entry_id:  95286550
   entry_writer: eaaii
-  entry_fav_count: 344
+  entry_fav_count: 347
   entry_content: |
     sözlükte karşılaştığım en anlamlı veritabanlarından birisi. <br/>tamam diğerleri çok saçma sapan ama bu da çok aydınlatıcı olmuş. <br/>(örnek olmasını umuyorum.)<br/><br/>daha önce görev aldığım bir hastanede bir hekim arkadaşıma konu hakkında fikrini sormuştum ve bana 25-30 yıl sonra bu operasyonların ne kadar doğru ya da yanlış bir karar olduğunu anlayabileceğiz demişti.
   entry_channels: bilim,sağlık
@@ -54,7 +46,7 @@ data:
     günde 1 kilo şeker yiyen 113 yaşındaki nine
   entry_id:  95288264
   entry_writer: huaaa allah ne kadar super lan
-  entry_fav_count: 302
+  entry_fav_count: 304
   entry_content: |
     her şeyin başlangıcı stres. kafa rahat olsun, siyanür tüket yarar.
   entry_channels: sağlık,haber
@@ -62,23 +54,15 @@ data:
     ben okan bayülgen sorularınızı yanıtlıyorum
   entry_id:  95296980
   entry_writer: 604
-  entry_fav_count: 246
+  entry_fav_count: 248
   entry_content: |
     seneler önce bir programınızda saatlerce "tuvalet kağıdı reklamlarında neden suya dayanıklılığa değinildiğini" tartıştınız ancak bir türlü doğru cevabı bulamadınız. telefonla arayıp söylemeye çalıştım ancak ulaşamamıştım.<br/><br/>cevabı veriyorum: kıçımıza yapışmasın diye suya dayanıklılık ön plana çıkartılıyor.<br/><br/>sorum: ufkunuzu genişlettim mi?<br/><br/>edit: şu reklamları buraya bırakayım "dayanıklılık" vurgusu bu yüzdendir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=huCOI105UVs" title="https://www.youtube.com/watch?v=huCOI105UVs">solo</a> - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=2sHGvCLD66M" title="https://www.youtube.com/watch?v=2sHGvCLD66M">selpak</a>
   entry_channels: ekşi-sözlük,magazin
 - entry_name: |
-    13 eylül 2019 herkesin kabus görmesi
-  entry_id:  95282621
-  entry_writer: strapon
-  entry_fav_count: 217
-  entry_content: |
-    (bkz: <a class="b" href="/?q=zaman%c4%b1n+%c3%b6tesinden+gelen+entry">zamanın ötesinden gelen entry</a>)
-  entry_channels: anket
-- entry_name: |
     türkiye'nin en kaliteli ünlüsü
   entry_id:  95277092
   entry_writer: dubrovnick
-  entry_fav_count: 212
+  entry_fav_count: 222
   entry_content: |
     <a class="b" href="/?q=bar%c4%b1%c5%9f+man%c3%a7o">barış manço</a> idi.
   entry_channels: anket,magazin
@@ -86,7 +70,7 @@ data:
     ekrem imamoğlu'nun istanbul'u yönetememesi
   entry_id:  95307004
   entry_writer: eksinin kamberi
-  entry_fav_count: 195
+  entry_fav_count: 214
   entry_content: |
     her bi sikin fiyatı 3 katına çıkmışken beltur zammı battı gözüne dimi.<br/><br/>(bkz: <a class="b" href="/?q=engelle">engelle</a>) <br/>(bkz: <a class="b" href="/?q=ba%c5%9fl%c4%b1klar%c4%b1n%c4%b1+engelle">başlıklarını engelle</a>) (bkz: <a class="b" href="/?q=don%27t+feed+the+troll">don't feed the troll</a>)
   entry_channels: siyaset
@@ -94,10 +78,18 @@ data:
     h&amp;m'nin grev kararı alması
   entry_id:  95303973
   entry_writer: hildor
-  entry_fav_count: 191
+  entry_fav_count: 207
   entry_content: |
     h&amp;m işçileri grev kararı alıyor<br/>işçiler, taleplerin karşılanmaması ve müzakere sürecinin ortadan kalkmasının ardından 21 eylül 2019 cumartesi günü tüm h&amp;m mağazalarında grev kararının asılacağını söylediler.<br/><br/>patronların ensesindeyiz ağı’na ihbarda bulunan h&amp;m işçileri, sendikalaşma ve toplu iş sözleşmesi sürecinin detaylarını aktardı.<br/><br/>h&amp;m mağaza ve genel müdürlük bünyesinde çalışan işçilerin sendikal örgütlenme ve çalışma koşullarının düzenlenmesi amacıyla 2018 yılında başlattıkları koop-iş sendikası’ndaki örgütlenme süreci, 2019 mart ayında toplu iş sözleşmesi görüşmeleri yapma yetkisinin alınmasıyla devam etti.<br/><br/>işçiler, sendika ve h&amp;m arasında yapılan toplu iş sözleşme görüşmelerinde taleplerin, işveren tarafından finansal tablo ve mağaza kapatma gibi bahaneler öne sürülerek reddedildiğini bildirdi.<br/><br/>grev kararı 21 eylül'de asılacak<br/><br/>işçiler, taleplerin karşılanmaması ve müzakere sürecinin ortadan kalkmasının ardından 21 eylül 2019 cumartesi günü tüm h&amp;m mağazalarında grev kararının asılacağını söylediler.<br/><br/>işçiler bu süreçte taleplerini şöyle sıralıyor:<br/>• mağaza çalışanları ile genel müdürlük çalışanları arasındaki izin uygulaması farklılığının ortadan kaldırılması<br/>• mağaza çalışanları ile genel müdürlük çalışanları arasındaki yemek ücreti farklılığının ortadan kaldırılması<br/>• maaşların düzenli ve belirlenmiş tarihte gecikmeden ödenmesi<br/>• part-time çalışanların çalışma koşullarının düzenlenmesi<br/>• yılda 2 maaş ikramiye verilmesi<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://haber.sol.org.tr/emek-sermaye/hm-iscileri-grev-karari-aliyor-270275" title="http://haber.sol.org.tr/emek-sermaye/hm-iscileri-grev-karari-aliyor-270275">sol haber</a>
   entry_channels: siyaset,moda,ekonomi
+- entry_name: |
+    düğünde pompalıyla kafa dağıtan maganda
+  entry_id:  95306496
+  entry_writer: eksimtrack
+  entry_fav_count: 194
+  entry_content: |
+    aptallıklarla dolu video.<br/><br/>haklı yorumlardan biri şöyle, <br/>"işte böyle eğlenin, sağa sola zarar vermeden kendi aranızda."
+  entry_channels: haber
 - entry_name: |
     netflix'in en büyük eksiği
   entry_id:  95287203
@@ -107,26 +99,26 @@ data:
     filtreleme sisteminin yetersiz olması ve puanlama sisteminin art/eksi ile sınırlı kalması.
   entry_channels: anket,tv,sinema
 - entry_name: |
-    düğünde pompalıyla kafa dağıtan maganda
-  entry_id:  95306496
-  entry_writer: eksimtrack
-  entry_fav_count: 183
-  entry_content: |
-    aptallıklarla dolu video.<br/><br/>haklı yorumlardan biri şöyle, <br/>"işte böyle eğlenin, sağa sola zarar vermeden kendi aranızda."
-  entry_channels: haber
-- entry_name: |
     falcao vur şu topa
   entry_id:  95311289
   entry_writer: vitamineral
-  entry_fav_count: 154
+  entry_fav_count: 158
   entry_content: |
     falcao buluştu topla diyor bir besiktaslı olarak söyleyeyim fanatizme gerek yok.
   entry_channels: spor
 - entry_name: |
+    s. soylu'nun hdp il binası önünde eylem yapması
+  entry_id:  95305514
+  entry_writer: aydinlikta
+  entry_fav_count: 134
+  entry_content: |
+    olum çok komik değil mi? <br/><br/>koskoca içişleri bakanısın.<br/>her gün sana methiye düzülüyor “bin tane soysuza 1 soylu yeter” filan. yetkin var. emniyet vali hepsi sana bağlı. oturmak nedir?<br/><br/>suçlu varsa tutukla bakanım.<br/>hdp senden güçlü mü ki kapısına gideceksin? yapma etme.
+  entry_channels: siyaset,haber
+- entry_name: |
     satın alınmış en pahalı giyim ürünü
   entry_id:  95295021
   entry_writer: fcahat
-  entry_fav_count: 129
+  entry_fav_count: 133
   entry_content: |
     140 euroya diesel kot pantolon almıştım, verdiğim parayı amorti etmek için dört sene giydim, altı ay da inşaatta amelelik yaparken giymiştim.
   entry_channels: anket,moda,ekonomi
@@ -134,7 +126,7 @@ data:
     çirkin bir kadın olmak
   entry_id:  95303110
   entry_writer: keremefe
-  entry_fav_count: 122
+  entry_fav_count: 124
   entry_content: |
     çirkin biri olarak bildiriyorum, çirkinlik ve baht güzelliği arasında bir korelasyon yok.<br/>kesin bilgi.
   entry_channels: ilişkiler,sağlık
@@ -142,50 +134,66 @@ data:
     yemeksepeti komisyonunun müşteriye yüklenmesi
   entry_id:  95292413
   entry_writer: cheekyguy
-  entry_fav_count: 105
+  entry_fav_count: 108
   entry_content: |
     yemeksepeti olmasa dükkanından haberdar olmayacak insanlara uygulandığını unutmamak lazım. yani yeni müşterileri kazandıran aracıyı devreden çıkarma çabası hoşgörülemez. esnafın en rezili çifte standart uygulayanıdır. müdavimlik başka o komisyona eksik köfte gönderirim, 3 lira fazla yazarım başka. dolandırıcılık olduğuna ben de katılmıyorum ama rezil bir tutum olduğu kesin.<br/><br/>edit: dolandırıcı lafı silinmiş. yani o konuda hemfikiriz.
   entry_channels: haber,yeme-içme
 - entry_name: |
-    kışı güzel kılan detaylar
-  entry_id:  95276735
-  entry_writer: eringecadam
-  entry_fav_count: 82
+    kadıköy'ün en iyi barı
+  entry_id:  95292427
+  entry_writer: definition of seeker
+  entry_fav_count: 107
   entry_content: |
-    doğalgaz faturasını düşündükçe kışı artık kimse güzel hatırlamaz.
-  entry_channels: anket,ilişkiler,edebiyat,sağlık,yeme-içme,magazin,seyahat
-- entry_name: |
-    falcao'nun fos çıkması
-  entry_id:  95314132
-  entry_writer: saintly
-  entry_fav_count: 72
-  entry_content: |
-    (bkz: <a class="b" href="/?q=gerizekal%c4%b1y%c4%b1m+demenin+alternatif+yollar%c4%b1">gerizekalıyım demenin alternatif yolları</a>)<br/><br/>ayrıca; (bkz: <a class="b" href="/?q=be%c5%9fikta%c5%9fl%c4%b1lar%c4%b1n+neden+b%c3%b6yle+olmas%c4%b1">beşiktaşlıların neden böyle olması</a>)
-  entry_channels: spor
+    caddebostan'in kadikoy olmadigini da ogrendik. cok sukur eksi bize bilgi katmaya devam ediyor.<br/><br/>kadikoy merkez asil kadikoy degildir. garip ama durum bu. ilcenin en kadikoy olmayan yeri zaten merkezi. gordugun kalabaligin yuzde doksani kadikoylu degil orda. <br/><br/>20 sene once sorsan masal evi der gecerdim. simdi merkez tamamen comar istilasinda bir yer. bazen modaya giderken geciyorsun sadece. gozumde eminonunden cok farkli degil.<br/><br/>edit,<br/><br/>özelden gelip ağbi sen yaşlı bi ağbiye benziyosun, neydi eski kadıköy diyenler var. çok uzatmadan, fazla cıvımadan anlatayım.<br/><br/>sene milenyum, kadıköy'de kadife sokak dışında mekan neredeyse yok. olanlar da on tane zaten. sadece anadolu yakasından, özellikle de kadıköy'den geliyordu insanlar barlar sokağına. <br/><br/>masal evi demiştim, ordan gideyim. kış günü öğlen, sokaktan dakkada 3 kişi geçiyor, mekanda toplasan 5 kişi var, o beş kişi de biziz. hemen girişte cam önü bir masa vardır, iki tekli koltuk karşı karşıya, birde ufak yuvarlak masa aralarında. biz oraya sandalye çekip falan beş kişi sığışmışız, neden, çünkü öyle amk. hemen yanımızda büyük dökme bir soba var, barı ısıtan o zaten, üstüne kestane atmışız, kucak kucağa sohbet ediyoruz. birimiz bira birimiz sıcak çikolata içiyor, diğerimiz sıcak şarap almış. sinemadan konuşuyoruz, sevgilimizle şakalaşıyoruz, mutluyuz. sigaram azalınca çıktım ben tekele sigara almaya, o zamanlar içerde sigara içiliyor bu arada. üşenip montumu giymedim, ıslandım mal gibi, sigarayı alıp döndüm. <br/><br/>kimse bir yere yetişmiyor, kimse başka bir yerde olmak istemiyordu. kimse telefonunu çıkarıp bahamalar'da güneşlenen birinin fotoğrafına bakmıyordu. biz de biliyorduk orda biri var güneşlenen ama o an, hemen görmeye ihtiyacımız yoktu. <br/><br/>bu, bu kadar. dediğim gibi cıvımıyorum, kadıköy'ün ne olduğunu merak etmiştiniz, buydu kadıköy. gerisi detay, çok önemli değil.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     zengin ile fakirin karşılaştığı mekanlar
   entry_id:  95312735
   entry_writer: askeriucret750tlolsun
-  entry_fav_count: 69
+  entry_fav_count: 94
   entry_content: |
     oy verilen okul.
   entry_channels: anket,ilişkiler,ekonomi
 - entry_name: |
-    hiç yemeden nefret edilen yemek
-  entry_id:  95298404
-  entry_writer: kacarkenkovaladim
-  entry_fav_count: 62
+    falcao'nun fos çıkması
+  entry_id:  95314132
+  entry_writer: saintly
+  entry_fav_count: 87
   entry_content: |
-    şırdan
-  entry_channels: anket,yeme-içme
+    (bkz: <a class="b" href="/?q=gerizekal%c4%b1y%c4%b1m+demenin+alternatif+yollar%c4%b1">gerizekalıyım demenin alternatif yolları</a>)<br/><br/>ayrıca; (bkz: <a class="b" href="/?q=be%c5%9fikta%c5%9fl%c4%b1lar%c4%b1n+neden+b%c3%b6yle+olmas%c4%b1">beşiktaşlıların neden böyle olması</a>)
+  entry_channels: spor
+- entry_name: |
+    kışı güzel kılan detaylar
+  entry_id:  95276735
+  entry_writer: eringecadam
+  entry_fav_count: 83
+  entry_content: |
+    doğalgaz faturasını düşündükçe kışı artık kimse güzel hatırlamaz.
+  entry_channels: anket,ilişkiler,edebiyat,sağlık,yeme-içme,magazin,seyahat
 - entry_name: |
     nude atan yazarlar veritabanı
   entry_id:  95275820
   entry_writer: tembel fare
-  entry_fav_count: 61
+  entry_fav_count: 65
   entry_content: |
     nude atanların değil nude isteyen ya da alanların yazdığı başlık. zeka geriliği böyle bir şey...<br/><br/>(bkz: <a class="b" href="/?q=nude+alan+yazarlar+veritaban%c4%b1">nude alan yazarlar veritabanı</a>)<br/>(bkz: <a class="b" href="/?q=nude+bekleyen+yazarlar+veritaban%c4%b1">nude bekleyen yazarlar veritabanı</a>)
   entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    hiç yemeden nefret edilen yemek
+  entry_id:  95298404
+  entry_writer: kacarkenkovaladim
+  entry_fav_count: 64
+  entry_content: |
+    şırdan
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    yıllar sonra akp dönemine verilecek ad
+  entry_id:  95306460
+  entry_writer: nuka cola
+  entry_fav_count: 59
+  entry_content: |
+    (bkz: <a class="b" href="/?q=erdo%c4%9fan+rejimi">erdoğan rejimi</a>)
+  entry_channels: siyaset,anket
 - entry_name: |
     john wick'i öldürme yöntemleri
   entry_id:  95309596
@@ -198,31 +206,23 @@ data:
     rabia naz vatan
   entry_id:  95290325
   entry_writer: the ultimate driving machine
-  entry_fav_count: 54
+  entry_fav_count: 56
   entry_content: |
     ülkede muhalefetin bile aslında ne kadar kuvvetli olduğunun göstergesi olan bir olay haline geldi. <br/><br/>muhalefet bile destekleyip gündem yapmıyor bu konuyu, düşünün artık kimler kimlerle beraber...
   entry_channels: siyaset,haber
 - entry_name: |
-    yıllar sonra akp dönemine verilecek ad
-  entry_id:  95306460
-  entry_writer: nuka cola
-  entry_fav_count: 43
-  entry_content: |
-    (bkz: <a class="b" href="/?q=erdo%c4%9fan+rejimi">erdoğan rejimi</a>)
-  entry_channels: siyaset,anket
-- entry_name: |
     radamel falcao garcia
-  entry_id:  95288236
-  entry_writer: kemaline masruf nispet
-  entry_fav_count: 41
+  entry_id:  95277160
+  entry_writer: bu nick fazla tatli
+  entry_fav_count: 54
   entry_content: |
-    fenerli halimle oturup akşam heyecan ile izleyeceğim golcü. falcao beyler bu, tadını çıkarın.
+    şu adamın başlığında vedatı boklayanları anlamıyorum. adam ne güzel topunu oynuyor işte. ne işiniz var rakibin golcüsüyle? inşallah vedat da çok başarılı olur. çok efendi birisine benziyor geleceği de parlak.<br/><br/>falcaodan 2 gol bekliyorum yarın.<br/><br/>not: gs
   entry_channels: spor
 - entry_name: |
     behzat ç.
   entry_id:  95274761
   entry_writer: humanistcellat
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     tüm zamanların en iyi dizisidir. <br/>--- <a class="b" href="/?q=8.+b%c3%b6l%c3%bcm+spoiler">8. bölüm spoiler</a> ---<br/><br/>muslukları kendilerine çevirip buna "beka" diyorlar.<br/>--- <a class="b" href="/?q=8.+b%c3%b6l%c3%bcm+spoiler">8. bölüm spoiler</a> ---<br/><br/>hayatımda ilk defa sessiz replik gördüğüm dizidir ayrıca son bölümüyle. <br/><br/>--- <a class="b" href="/?q=8.+b%c3%b6l%c3%bcm+spoiler">8. bölüm spoiler</a> ---<br/><br/>"o domatesleri tavaya atınca kabukları ayrılacak ağzımıza gayış gibi gelecek ya... <br/>los angeles'ta büyüdün amına kodumun gurmesi. ağzına gayış gibi, la bırak."<br/>--- <a class="b" href="/?q=8.+b%c3%b6l%c3%bcm+spoiler">8. bölüm spoiler</a> ---
   entry_channels: tv,sinema,spoiler
@@ -230,7 +230,7 @@ data:
     13 eylül 2019 galatasaray kasımpaşa maçı
   entry_id:  95286655
   entry_writer: dusunenbiyik
-  entry_fav_count: 33
+  entry_fav_count: 36
   entry_content: |
     galatasaray'ın yeni transferleri haricinde en büyük avantajı mbaye diagne'nin kadroda olmayışı olacaktır.<br/><br/>allah'ım iyi ki diagne'miz yok keşke biraz daha diagne'miz olmasaydı.
   entry_channels: spor
@@ -251,13 +251,21 @@ data:
     doğum yapan kadından da kan almıyorlar kardeşim.<br/>öyle "hadi gideyim kan vereyim" diyemiyorsun yani. <br/><br/>55 kilonun altındaki kadından da kan almıyorlar. hem 55 kilo üstü hem de doğum yapmamış olcak. artık gerisini sen düşün!
   entry_channels: sağlık,haber
 - entry_name: |
-    modern çağın aşkı ucuzlaştırması
-  entry_id:  95312804
-  entry_writer: harun tekin
-  entry_fav_count: 20
+    hala batmamakta ısrar eden türkiye
+  entry_id:  95303816
+  entry_writer: sodyumklorur
+  entry_fav_count: 21
   entry_content: |
-    eskiden yalnızca bir erkek ve bir kadın birbirlerini sever ve evlenirlerdi.<br/>şimdi kadınlar instagramda tüm namahremini paylaşıp binlerce erkeğin sevgilisi olmaya karar verdi. ne kadar erkek beğenirse o kadar iyiyim dedi. ne kadar çok kişiye ulaşırsa o kadar ucuzlaştığını fark edemedi. her biri dünyadaki tüm erkek popülasyonunun beğenisini kazanmaya çalışan et parçaları haline geldi. bu olaya karşı çıkmanın adı da gericilik, yobazlık oldu. ortalık ikibin erkeğe her gün resim atan kızlarla doldu.
-  entry_channels: ilişkiler
+    hadi bir şans vereyim deyip de dolup taşmakta olan avm'lerden bahsedince dayanamadığım konu.<br/><br/>millet serinlemeye gidiyor avm'ye, eve klima takacak, taksa elektrik parasını ödeyecek gücü yok insanların, adım başı açılan avm'lerde klima bedava amk. <br/><br/>2020 ekonomik krizini bırak, 2019 ekonomik krizini yaşıyoruz, enflasyon %50'nin üstünde, artan verginin, gelen zammın bini bir para, gelmiş hala akitlik yapıyorsun. yuh!
+  entry_channels: siyaset,ekonomi
+- entry_name: |
+    martin linnes
+  entry_id:  95311157
+  entry_writer: sewmelimiyim
+  entry_fav_count: 19
+  entry_content: |
+    bu adamı üzdünüz ya , alacağınız olsun :(
+  entry_channels: spor
 - entry_name: |
     yalnız bir insan olarak ölmek
   entry_id:  95307964
@@ -267,21 +275,13 @@ data:
     dört kez bu insanların <a class="b" href="/?q=cenaze+namaz%c4%b1">cenaze namazı</a>nda bulundum.<br/>dördünü de düzenli olarak ziyaret ettiğim <a class="b" href="/?q=huzurevi">huzurevi</a>nden tanıyordum. <br/>dört farklı hayat... <br/>birisi en acıklısı.<br/><br/>zeynep e...., adında bir kadın. emekli <a class="b" href="/?q=edebiyat+%c3%b6%c4%9fretmeni">edebiyat öğretmeni</a> . iki kez evlenmiş. hiç çocuğu yoktu. ben de edebiyat öğretmeni olduğum için beni çok severdi. bana anlattığı hikâyeleri buraya yazmakla bitiremem. bana edebiyat konusunda verdiği dersleri başka kimse vermedi bu zamana kadar.<br/>annesi <a class="b" href="/?q=intihar">intihar</a> etmişti. babası büyütmüş zeynep öğretmen'i.<br/>öğrencilerinden bazılarını anlatırken ağlıyordu. kardeşleri vefat etmiş. yeğenleri tanımıyordu bile belki de kendisini. bir gün telefon geldi. " zeynep hanım gece yarısı vefat etmiş... "<br/><br/>apar topar gittim huzurevine. oradan sultanbeyli'ye, morga vs. sonra on on beş kişiyle kılınan bir <a class="b" href="/?q=cenaze+namaz%c4%b1">cenaze namazı</a>.<br/>oradan <a class="b" href="/?q=kimsesizler+mezarl%c4%b1%c4%9f%c4%b1">kimsesizler mezarlığı</a>na. ben dizdim tahtaları mezarının üzerine.<br/>herkes gittikten sonra başında " <a class="b" href="/?q=yasin">yasin</a> " okudum. âdettendir.<br/><br/>o sıra orada yatanlara baktım bir süre. hepsi bir " <a class="b" href="/?q=hayat">hayat</a> " sürmüştü vaktiyle bu dünyada. şimdi adlarını ananlar dahi yoktu.<br/><br/><a class="b" href="/?q=yaln%c4%b1z+ya%c5%9famak">yalnız yaşamak</a> mı <a class="b" href="/?q=yaln%c4%b1z+%c3%b6lmek">yalnız ölmek</a> mi daha zor bilemedim.<br/><br/>mekanları cennet olsun.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    yiyecek mi cinsellik mi önemli deneyi
-  entry_id:  95311620
-  entry_writer: tunguska11
-  entry_fav_count: 13
+    selman öğüt
+  entry_id:  95279748
+  entry_writer: evet mantikli
+  entry_fav_count: 12
   entry_content: |
-    bir profesör, “yiyecek mi,yoksa cinsellik mi, önemli?” konusunu araştırmak<br/>üzere bir deney yapıyor.<br/>üçgen şeklinde olan bir zeminde bir köşeye erkek fare, diğer köşeye dişi fare, üçüncü köşeye ise yiyecek (peynir) koyuyor.<br/>erkek fareyi serbest bırakınca bakalım nereye gidecek…<br/>erkek fare, peynire gidiyor…<br/>peyniri belki çok seviyor diye, peynir yerine ceviz konuyor…<br/>erkek fare, cevize gidiyor…<br/>ceviz yerine kek konuyor…<br/>keke gidiyor…<br/>bu deney, yiyecek değiştirilerek devam ediyor…<br/>her seferinde erkek fare yiyeceğe gidiyor…<br/>bunun üzerine profesör:<br/>– demek ki… yemek seksden daha önemli, diye yorum yapıyor…<br/>bir asistanı profesöre itiraz ediyor:<br/>– hocam… dişi fareyi değiştirelim karısı olabilir!<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket
-- entry_name: |
-    martin linnes
-  entry_id:  95311229
-  entry_writer: beatlemaniac
-  entry_fav_count: 9
-  entry_content: |
-    biraz önce tribünde mahsun halini görünce hüzünlendiğim aslan.<sup class="ab"><a title="(bkz: galatasaray - kasımpaşa karşılaşması)" href="/?q=galatasaray+-+kas%c4%b1mpa%c5%9fa+kar%c5%9f%c4%b1la%c5%9fmas%c4%b1" data-query="galatasaray - kasımpaşa karşılaşması">*</a></sup>
-  entry_channels: spor
+    bu adamı akademisyen olarak çalıştıran üniversitenin herhangi bir bölümü ciddiye alınamaz. insan haklarının ne olduğundan bihaber hukuk doçenti mi olurmuş? ciddiye alınır bir bilimsel dergide yayınlanmış tek bir makalesi yok, doğru düzgün atıf almıştığı yok "bilim adamıyım" ben diye dolaşıyor. <br/><br/>tanım: bir üniversitede konuşmak için para alan ve güya bu vasfıyla televizyonlarda konuşturulan bir kişi
+  entry_channels: siyaset,eğitim
 - entry_name: |
     cep telefonu rehberinde kayıtlı fantastik isimler
   entry_id:  95276577
@@ -290,14 +290,6 @@ data:
   entry_content: |
     ‘muhittin abiyi arayan dayı’<br/>bundan 6-7 sene önce başladı ilişkimiz. ahh ah daha dün gibi aklımda ilk arayışın, telefonu açar açmaz "aloov!!! muyttin abiiğ!!!!!" deyişin... dünyanın en tatlı telefon sapığıydın sen. <br/><br/>her ay en az bir kere yanlışlıkla beni arardı bu dayı. artık birbirimize hal hatır sorar olmuştuk. benim için terapiye dönüşmüştü artık. urfalı olduğunu hatırlıyorum. muhittin abiyle kavga mı ettiler adam öldü mü bilmiyorum ama 4-5 senedir hiç görüşemiyoruz. telefonumu değiştiğim için numaranı da kaybettim, affet beni dayı. <br/><br/>bir keresinde seni bulmak için telefon numaramın rakamlarını komşu rakamlarla değişip aramalar yapmıştım. karşıdaki açtığı an “aloo muyttin abii” yi basıyordum. yine eğlendirmiştin beni. ama bulamadım muhittin abiyi de seni de. <br/><br/>çok özledim seni anlasana, beni ara. ya da sen muhittin abiyi aramaya çalış yine beni ararsın zaten amk.
   entry_channels: anket,teknoloji
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  95281440
-  entry_writer: ilhampezevengi
-  entry_fav_count: 7
-  entry_content: |
-    solda görünce midemi kaldıran, bütün eli sikinde sığır yazarların tahtakurusu gibi yuva yaptığı veritabanıdır.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     ekşi itiraf
   entry_id:  95277443
@@ -315,61 +307,61 @@ data:
     defedilip gönderilmiş futbolcudur.<br/><br/>adam son 1 senedir kulübe iyice zarar vermeye başlamıştı, herkes farkındaydı. kırmızı kart gördü, rakibe daldı, kendi arkadaşıyla kavga etti, hocaya trip attı, kafasına göre kimsenin olmadığı yere orta yapıp atakları piç etti, geriye yardıma gelmeyip gönül'ün canına okudu.<br/><br/>yancıları da götleri yiyip "gönderilmemeliydi" diyemedikleri için, "bu şekilde gönderilmemeliydi" safsatasıyla kafa sikiyorlar. <br/><br/>hani ilk seferki gönderilme şekli çirkindi, bu seferkinde ne vardı? kulüp bul dendi, 3 gün sonra kulüp buldu ve defoldu gitti işte. maaşı azalmadı, yaşadığı şehri ve evini bile değiştirmedi, imza atarken ağzı kulaklarındaydı. daha nasıl gönderilecekti?<br/><br/>gittiği için sevinçliyiz tabii ki de, hani gitmişken porto'ya gitseydi de daha fazla görmeseydik suratını.
   entry_channels: spor
 - entry_name: |
-    bekarken aslan evliyken kedi isteyen türk kadını
-  entry_id:  95312972
-  entry_writer: tunguska11
-  entry_fav_count: 6
-  entry_content: |
-    temel çelişki türk kadınlarının en büyük hatası...<br/><br/>bekarken: benden önce kız arkadaşları olmuş olsun, cinsel tecrübesi olsun,kocam güçlü, popüler, herkes çekinsin, hafif piç olsun,lider olsun albenisi olsun herkes beğensin yaşamış görmüş geçirmiş olsun, fırlama olsun, ormanın kralı karizmatik ve etkileyici olsun diyen kadın milleti “aslan” gibi isteyerek, evlenince :<br/><br/>evliyken :kocam beni dinlesin, sadık olsun , beni aldatmasın,bana haber vermeden hiçbir şey yapmasın, piç olmasın,efendi takılsın,yemini ben vereyim, bana sormadan bir şey yapmasın,çapkın olmasın, kimse beğenmesin benden başka, beğense bile yalnız benim olsun tasmasını takayım yününü vereyim...<br/><br/>kedi gibi olsun benim sözümden dışarı çıkmasın ....<br/><br/>işte temel sorun bu...<br/><br/>kadınlarımızın evlilikten önce istediği ile sonraki profil farklı sevgili kadınlar size sesleniyorum:hiçbir aslanı kafese sokamazsınız, misal soktunuz diyelim bir aslandan kedi olmaz.
-  entry_channels: ilişkiler
-- entry_name: |
     buzdolabı poşetine boşalmak
   entry_id:  95315087
   entry_writer: heeeeytallahhhbee
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     özelini kendine saklaması ve insanları iğrendirmemesi gereken yazar.anladık erkeksin menin var , sikin var, taşakların var, libidon hayvan gibi. bir dişi veya gaysen erkek bul da onunla yaşa deneyimini. yuh ya . öööğkk. çok merak ediyorum bir kadın buraya buna benzer başlık açsa ne olur? duyar da kasarım , istediğimi de yazarım. bak yazdım . ooohhhh . konu boşalmak değil mi? ohhh
   entry_channels: 
 - entry_name: |
-    ali palabıyık
-  entry_id:  95275155
-  entry_writer: n8
+    yiyecek mi cinsellik mi önemli deneyi
+  entry_id:  95312519
+  entry_writer: gangmans
+  entry_fav_count: 4
+  entry_content: |
+    yine bir gün akademisyen fıkrası dinlemişimdir ...
+  entry_channels: anket
+- entry_name: |
+    cennette mevsimin ne olması
+  entry_id:  95314551
+  entry_writer: khal drogo diyemedim
   entry_fav_count: 3
   entry_content: |
-    adam o kadar büyük bir galatasaray düsmani ki <a class="b" href="/?q=13+eyl%c3%bcl+2019+galatasaray+kas%c4%b1mpa%c5%9fa+ma%c3%a7%c4%b1">13 eylül 2019 galatasaray kasımpaşa maçı</a>ndan acaba nasil <a class="b" href="/?q=az+hasarla">az hasarla</a> cikariz diye hesap yapiyoruz.<br/><br/>1) galatasaray skoru erken bulursa etliye sütlüye karismaz, bakin tarafsizim hesabi.<br/><br/>2) mac puan kaybi olacak sekilde devam ederse ilk firsatta devreye girer, galatasaray'i dograr.<br/><br/>kendisine gel izle denilip faul pozisyonda göstere göstere golü veren eyyamci düdük.
-  entry_channels: spor
+    cehennem sıcak olduğuna göre, cennetin soğuk olmasını bekliyorum ben. ılık ve yağışlı da olabilir. <br/><br/>nem olmasın da...
+  entry_channels: spoiler
 - entry_name: |
-    younes belhanda
-  entry_id:  95315176
-  entry_writer: j4funn
-  entry_fav_count: 2
-  entry_content: |
-    aynen kesin kötü oyuncu. adama söve söve bitiremediniz sakatlandığı anda yenilgi ve beraberlik serisi başlıyor. saçma sapan yorumlar yapıp eleştirmek için eleştirmeyin. iki tane stoperimiz 10 a yakın topu çıkarken pas hatasıyla kaptırdı bu adam mı suçlu oldu.
-  entry_channels: spor
-- entry_name: |
-    uche ve högh denince akla gelenler
-  entry_id:  95314500
-  entry_writer: zirkarmen
-  entry_fav_count: 2
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ebru+g%c3%bcnde%c5%9f">ebru gündeş</a>)
-  entry_channels: spor,anket
-- entry_name: |
-    kokular ve koku hafızasının götürdüğü yerler
-  entry_id:  95313092
-  entry_writer: dugunlerde kosusturan cocuk
-  entry_fav_count: 2
-  entry_content: |
-    araplar - lc waikiki<br/>mağazanın kokusuna benzer bir koku alınca hemen ülkemizde hunharca alışveriş yaptıkları yerleri hatırlayacaklar.
-  entry_channels: anket,bilim
-- entry_name: |
-    ömer bayram
-  entry_id:  95311410
-  entry_writer: hic farketmez alman italyan ispanyol
+    yengeç burcu erkeği
+  entry_id:  95298816
+  entry_writer: faizlbisi
   entry_fav_count: 1
   entry_content: |
-    bu adamı bek oynatmak kendisine hakaretmis.<br/><br/>adam taş gibi ortasaha oynuyor geçiş oyununu mükemmel sergiliyor nazar değmesin.
+    burç yorumlarından dolunayın yaklaştığını öğrenen ablalar eski yengeç sevgililerine bok atamaya geldiler bugün yine.. hadi şenlenir bu baslik yine..
+  entry_channels: ilişkiler
+- entry_name: |
+    uche ve högh denince akla gelenler
+  entry_id:  95314206
+  entry_writer: corsairsgold35
+  entry_fav_count: 1
+  entry_content: |
+    90'lı yıllar ve çocukluğum.
+  entry_channels: spor,anket
+- entry_name: |
+    steven nzonzi
+  entry_id:  95316322
+  entry_writer: arsizca yaladim leopari
+  entry_fav_count: 1
+  entry_content: |
+    isviçre saati gibi adam. tıkır tıkır çalışıyor nazar değmesin.
   entry_channels: spor
+- entry_name: |
+    modern çağın aşkı ucuzlaştırması
+  entry_id:  95313713
+  entry_writer: dis perisi
+  entry_fav_count: 1
+  entry_content: |
+    aşkı ucuzlaştıran modern çağ değil. zaman geçtikçe insanoğlunun kendini bir halt zannetmesidir. yoksa aşk her zaman güzel.
+  entry_channels: ilişkiler
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  95313346
@@ -378,6 +370,14 @@ data:
   entry_content: |
     istanbul, ankara arası beklenmedik bir seyahat söz konusu. şoför arkadaşa destek olmak için uyumuyorum.<br/>hukuki konularda fikir danışmak isteyen yazar ve caylaklara yardımcı olabilirim.<br/>aile, icra iflas ve ceza hukuku önceliklidir.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    aşk
+  entry_id:  95303194
+  entry_writer: yine tek mactan yatan adam
+  entry_fav_count: 1
+  entry_content: |
+    şu iflas etmiş dünyada en geçerli para birimidir aşk; kendin gibi bir insanla paylaştığın duygular olan...
+  entry_channels: ilişkiler,sanat,müzik,edebiyat,sağlık
 - entry_name: |
     şu an dinlenen şarkıdan bir cümle
   entry_id:  95311999
@@ -396,10 +396,10 @@ data:
   entry_channels: anket,sanat,edebiyat
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
-  entry_id:  95284951
-  entry_writer: beton baget
+  entry_id:  95275062
+  entry_writer: alieren
   entry_fav_count: 0
   entry_content: |
-    neden bu kadar geç kaldınız?
+    en son ne zaman düştünüz?
   entry_channels: anket,ilişkiler
 ---
