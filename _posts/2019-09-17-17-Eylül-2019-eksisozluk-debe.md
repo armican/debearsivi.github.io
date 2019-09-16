@@ -6,31 +6,15 @@ data:
     the guardian'a göre 21. yüzyılın en iyi dizileri
   entry_id:  95422860
   entry_writer: henryjosephchurch
-  entry_fav_count: 1400
+  entry_fav_count: 1449
   entry_content: |
     (bkz: <a class="b" href="/?q=the+guardian">the guardian</a>) tarafından yayımlanan liste. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century" title="https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century">şurda görülecek listedir</a><br/><br/>1.(bkz: <a class="b" href="/?q=the+sopranos">the sopranos</a>) (1999-2007)<br/>2.(bkz: <a class="b" href="/?q=the+wire">the wire</a>) (2002-08)<br/>3.(bkz: <a class="b" href="/?q=mad+men">mad men</a>) (2007-15)<br/>4.(bkz: <a class="b" href="/?q=the+thick+of+it">the thick of it</a>) (2005-12)<br/>5.(bkz: <a class="b" href="/?q=breaking+bad">breaking bad</a>) (2008-13)<br/>6.(bkz: <a class="b" href="/?q=the+office">the office</a>) (uk) (2001-03)<br/>7.(bkz: <a class="b" href="/?q=game+of+thrones">game of thrones</a>) (2011-19)<br/>8.(bkz: <a class="b" href="/?q=fleabag">fleabag</a>) (2016-19)<br/>9.(bkz: <a class="b" href="/?q=peep+show">peep show</a>) (2003-15)<br/>10.(bkz: <a class="b" href="/?q=atlanta">atlanta</a>) (2016-)<br/>11.(bkz: <a class="b" href="/?q=happy+valley">happy valley</a>) (2014-)<br/>12.(bkz: <a class="b" href="/?q=30+rock">30 rock</a>) (2006-13)<br/>13.(bkz: <a class="b" href="/?q=line+of+duty">line of duty</a>) (2012-)<br/>14.(bkz: <a class="b" href="/?q=curb+your+enthusiasm">curb your enthusiasm</a>) (2000-)<br/>15.(bkz: <a class="b" href="/?q=the+west+wing">the west wing</a>) (1999-2006)<br/>16.(bkz: <a class="b" href="/?q=nighty+night">nighty night</a>) (2004-05)<br/>17.(bkz: <a class="b" href="/?q=deadwood">deadwood</a>) (2004-06)<br/>18.(bkz: <a class="b" href="/?q=girls">girls</a>) (2012-17)<br/>19.(bkz: <a class="b" href="/?q=ken+burns%e2%80%99s+the+vietnam+war">ken burns’s the vietnam war</a>) (2017)<br/>20.(bkz: <a class="b" href="/?q=oj+made+in+america">oj made in america</a>) (2016)<br/>21.(bkz: <a class="b" href="/?q=arrested+development">arrested development</a>) (2003-19)<br/>22.(bkz: <a class="b" href="/?q=twin+peaks+the+return">twin peaks the return</a>) (2017)<br/>23.(bkz: <a class="b" href="/?q=black+mirror">black mirror</a>) (2011-)<br/>24.(bkz: <a class="b" href="/?q=the+daily+show+with+jon+stewart">the daily show with jon stewart</a>) (1999-2015)<br/>25.(bkz: <a class="b" href="/?q=the+handmaid%e2%80%99s+tale">the handmaid’s tale</a>) (2017-)<br/>26.(bkz: <a class="b" href="/?q=red+riding+%c3%bc%c3%a7lemesi">red riding üçlemesi</a>) (2009)<br/>27.(bkz: <a class="b" href="/?q=transparent">transparent</a>) (2014-19)<br/>28.(bkz: <a class="b" href="/?q=the+killing">the killing</a>) (2007-12)<br/>29.(bkz: <a class="b" href="/?q=spaced">spaced</a>) (1999-2001<br/>30.(bkz: <a class="b" href="/?q=killing+eve">killing eve</a>) (2018-)<br/>31.(bkz: <a class="b" href="/?q=blue+planet">blue planet</a>) (2001/2017)<br/>32.(bkz: <a class="b" href="/?q=the+office">the office</a>) (us) (2005-13)<br/>33. (bkz: <a class="b" href="/?q=big+brother">big brother</a>) (2000-2018)<br/>34.(bkz: <a class="b" href="/?q=catastrophe">catastrophe</a>) (2015-19)<br/>35.(bkz: <a class="b" href="/?q=this+is+england">this is england</a>) (2010-15)<br/>36.(bkz: <a class="b" href="/?q=the+great+british+bake+off">the great british bake off</a>) (2010-)<br/>37.(bkz: <a class="b" href="/?q=brass+eye+paedogeddon">brass eye paedogeddon</a>) (2001)<br/>38.(bkz: <a class="b" href="/?q=detectorists">detectorists</a>) (2014-17)<br/>39.(bkz: <a class="b" href="/?q=the+good+wife">the good wife</a>) (2009-16)<br/>40.(bkz: <a class="b" href="/?q=the+power+of+nightmares">the power of nightmares</a>) (2004)<br/>41.(bkz: <a class="b" href="/?q=friday+night+lights">friday night lights</a>) (2006-11)<br/>42.(bkz: <a class="b" href="/?q=south+park">south park</a>) (1997-)<br/>43.(bkz: <a class="b" href="/?q=the+americans">the americans</a>) (2013-18)<br/>44.(bkz: <a class="b" href="/?q=the+crown">the crown</a>) (2016-)<br/>45.(bkz: <a class="b" href="/?q=the+bridge">the bridge</a>) (2011-18)<br/>46.(bkz: <a class="b" href="/?q=doctor+who">doctor who</a>) (2005-)<br/>47.(bkz: <a class="b" href="/?q=nathan+barley">nathan barley</a>) (2005)<br/>48.(bkz: <a class="b" href="/?q=better+call+saul">better call saul</a>) (2015-)<br/>49.(bkz: <a class="b" href="/?q=insecure">insecure</a>) (2016-)<br/>50.(bkz: <a class="b" href="/?q=downton+abbey">downton abbey</a>) (2010-15)<br/>51.(bkz: <a class="b" href="/?q=patrick+melrose">patrick melrose</a>) (2018)<br/>52.(bkz: <a class="b" href="/?q=the+good+fight">the good fight</a>) (2017-)<br/>53.(bkz: <a class="b" href="/?q=black+books">black books</a>) (2000-04)<br/>54.(bkz: <a class="b" href="/?q=parks+and+recreation">parks and recreation</a>) (2009-15)<br/>55.(bkz: <a class="b" href="/?q=utopia">utopia</a>) (2014)<br/>56.(bkz: <a class="b" href="/?q=the+jinx">the jinx</a>) (2015)<br/>57.(bkz: <a class="b" href="/?q=sex+and+the+city">sex and the city</a>) (1998-2004)<br/>58.(bkz: <a class="b" href="/?q=orange+is+the+new+black">orange is the new black</a>) (2013-19)<br/>59.(bkz: <a class="b" href="/?q=wolf+hall">wolf hall</a>) (2015)<br/>60.(bkz: <a class="b" href="/?q=sherlock">sherlock</a>) (2010-)<br/>61.(bkz: <a class="b" href="/?q=state+of+play">state of play</a>) (2003)<br/>62.(bkz: <a class="b" href="/?q=succession">succession</a>) (2018-)<br/>63.(bkz: <a class="b" href="/?q=show+me+a+hero">show me a hero</a>) (2015)<br/>64.(bkz: <a class="b" href="/?q=six+feet+under">six feet under</a>) (2001-05)<br/>65.(bkz: <a class="b" href="/?q=flight+of+the+conchords">flight of the conchords</a>) (2007-09)<br/>66.(bkz: <a class="b" href="/?q=inside+no.+9">inside no. 9</a>) (2014-)<br/>67.(bkz: <a class="b" href="/?q=borgen">borgen</a>) (2010-13)<br/>68.(bkz: <a class="b" href="/?q=band+of+brothers">band of brothers</a>) (2001)<br/>69.(bkz: <a class="b" href="/?q=the+good+place">the good place</a>) (2016-)<br/>70.(bkz: <a class="b" href="/?q=shameless">shameless</a>) (2004-13)<br/>71.(bkz: <a class="b" href="/?q=lost">lost</a>) (2004-10)<br/>72.(bkz: <a class="b" href="/?q=planet+earth">planet earth</a>) (2006 and 2016)<br/>73.(bkz: <a class="b" href="/?q=spiral">spiral</a>) (2005-)<br/>74.(bkz: <a class="b" href="/?q=the+inbetweeners">the inbetweeners</a>) (2008-10)<br/>75.(bkz: <a class="b" href="/?q=it%e2%80%99s+always+sunny+in+philadelphia">it’s always sunny in philadelphia</a>) (2005-)<br/>76.(bkz: <a class="b" href="/?q=a+very+english+scandal">a very english scandal</a>) (2018)<br/>77.(bkz: <a class="b" href="/?q=the+shield">the shield</a>) (2002-08)<br/>78.(bkz: <a class="b" href="/?q=freaks+and+geeks">freaks and geeks</a>) (1999-2000)<br/>79.(bkz: <a class="b" href="/?q=halt+and+catch+fire">halt and catch fire</a>) (2014-17)<br/>80.(bkz: <a class="b" href="/?q=veep">veep</a>) (2012-19)<br/>81.(bkz: <a class="b" href="/?q=gavin+and+stacey">gavin and stacey</a>) (2007-10)<br/>82.(bkz: <a class="b" href="/?q=strictly+come+dancing">strictly come dancing</a>) (2004-)<br/>83.(bkz: <a class="b" href="/?q=buffy+the+vampire+slayer">buffy the vampire slayer</a>) (1997-2003)<br/>84.(bkz: <a class="b" href="/?q=looking">looking</a>) (2014-16)<br/>85.(bkz: <a class="b" href="/?q=gogglebox">gogglebox</a>) (2013-)<br/>86.(bkz: <a class="b" href="/?q=fresh+meat">fresh meat</a>) (2011-16)<br/>87.(bkz: <a class="b" href="/?q=the+leftovers">the leftovers</a>) (2014-17)<br/>88.(bkz: <a class="b" href="/?q=justified">justified</a>) (2010-15)<br/>89.(bkz: <a class="b" href="/?q=the+l+word">the l word</a>) (2004-09)<br/>90.(bkz: <a class="b" href="/?q=24">24</a>) (2001-10)<br/>91.(bkz: <a class="b" href="/?q=silicon+valley">silicon valley</a>) (2014-)<br/>92.(bkz: <a class="b" href="/?q=garth+marenghi%e2%80%99s+darkplace">garth marenghi’s darkplace</a>) (2004)<br/>93.(bkz: <a class="b" href="/?q=rupaul%e2%80%99s+drag+race">rupaul’s drag race</a>) (2009-)<br/>94.(bkz: <a class="b" href="/?q=skins">skins</a>) (2007-13)<br/>95.(bkz: <a class="b" href="/?q=the+trip">the trip</a>) (2010-)<br/>96.(bkz: <a class="b" href="/?q=broad+city">broad city</a>) (2014-19)<br/>97.(bkz: <a class="b" href="/?q=the+shadow+line">the shadow line</a>) (2011)<br/>98.(bkz: <a class="b" href="/?q=the+mighty+boosh">the mighty boosh</a>) (2004-07)<br/>99.(bkz: <a class="b" href="/?q=life+on+mars">life on mars</a>) (2006-07)<br/>100.(bkz: <a class="b" href="/?q=i%e2%80%99m+a+celebrity+get+me+out+of+here">i’m a celebrity get me out of here</a>) (2002-)<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.filmloverss.com/the-guardiana-gore-21-yuzyilin-en-iyi-100-dizisi/" title="https://www.filmloverss.com/the-guardiana-gore-21-yuzyilin-en-iyi-100-dizisi/">türkçe kaynak</a><br/><br/>bu arada bayağı bir işsizlik var bende <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> <br/><br/>edit: bazı bkzlar düzeltildi.<br/>edit 2: bir yazar arkadaş uyardı bayağı yerine baya olacakmış<br/>edit 3: doğru yazmışım aslında türkçe de baya diye kelime yokmuş 2 yazar arkadaş uyardı öğrenmiş olduk <br/>( bayağıyı çok fazla anlamında kullanmıştım)
   entry_channels: sinema,haber
 - entry_name: |
-    belediye senin verginle sana zorla caz dinletiyor
-  entry_id:  95410231
-  entry_writer: fesbasimaa
-  entry_fav_count: 686
-  entry_content: |
-    biz de kendi vergimizle günde beş kere ezan dinlemek zorunda kalıyoruz.
-  entry_channels: siyaset,sanat,müzik
-- entry_name: |
-    şeriatçıların borçka'dan kovulması
-  entry_id:  95408940
-  entry_writer: kutsalnigyos
-  entry_fav_count: 555
-  entry_content: |
-    borçka' da yaşıyorum ve bu olayı destekliyorum, ailem de destekliyor. şeriat söylemleri sevmiyoruz biz, türkiye olarak sevmiyoruz, borçka tepkisini dile getirenlerden biri sadece darısı tüm türkiye ilçelerinin başına:)
-  entry_channels: siyaset,haber,magazin,seyahat
-- entry_name: |
     24 yaşında doktorun 9 bin tl kazanması
   entry_id:  95412917
   entry_writer: yarim kalan gufte
-  entry_fav_count: 391
+  entry_fav_count: 393
   entry_content: |
     9 bin tl yi çok para sananların hezeyanlarıdır. hayır doktor değilim. sadece diyorum ki; onların maaşı fazla değil, bizimkiler az. büyükşehirlerde, özellikle istanbul’da yaşayan bir kişi o parayla ancak insan gibi yaşayabilir. sağlıklı beslenebilir, arabasının kredisini temel ihtiyaçlarından kısmadan<sup class="ab"><a title="(bkz: insan gibi)" href="/?q=insan+gibi" data-query="insan gibi">*</a></sup> ödeyebilir, ayda 1-2 kez tiyatro-konsere, 1-2 kez sinemaya gidebilir. birikim yapabilir. <br/><br/>bunlar lüks değil emin olun. siz fakirsiniz. ben de öyle.
   entry_channels: sağlık,haber,ekonomi
@@ -38,7 +22,7 @@ data:
     2000 öncesi doğan çöp nesil
   entry_id:  95430807
   entry_writer: techmelan
-  entry_fav_count: 322
+  entry_fav_count: 358
   entry_content: |
     öncesi değil sonrasıdır o. dil sürçmesi herhal...
   entry_channels: ilişkiler,tarih
@@ -46,34 +30,10 @@ data:
     22 yaşında mühendise 3 bin tl teklif edilmesi
   entry_id:  95431004
   entry_writer: a dream of poetry
-  entry_fav_count: 310
+  entry_fav_count: 338
   entry_content: |
     türkiye şartlarında iş bulabilmiş şanslı mühendistir.
   entry_channels: 
-- entry_name: |
-    muriqi'nin bonservisinin 100 milyon euro olması
-  entry_id:  95414088
-  entry_writer: peekay
-  entry_fav_count: 299
-  entry_content: |
-    adam daha fenerbahçe’ye geldiği ilk hafta 9 şampiyonluk kazandı tabii ki 100 milyon euro olacak aq.
-  entry_channels: 
-- entry_name: |
-    türk beyaz yakalısı
-  entry_id:  95410871
-  entry_writer: tengrist
-  entry_fav_count: 225
-  entry_content: |
-    şu sıralar çok sıkı çalıştığını göstermek için bilgisayar ekranına ciddi bakışlar atarak sözlükte kendi ile ilgili olan bu başlığı okumakta.
-  entry_channels: ekonomi
-- entry_name: |
-    harry potter'da ölmesine en çok üzülünen karakter
-  entry_id:  95416252
-  entry_writer: siryuz black
-  entry_fav_count: 203
-  entry_content: |
-    <a class="b" href="/?q=sirius+black">sirius black</a>
-  entry_channels: anket,sinema,edebiyat,spoiler
 - entry_name: |
     16 eylül 2019 fenerbahçe'nin tff ziyareti
   entry_id:  95424095
@@ -86,7 +46,7 @@ data:
     neslican tay
   entry_id:  95419627
   entry_writer: vesica urinaria
-  entry_fav_count: 198
+  entry_fav_count: 199
   entry_content: |
     yoğun bakımda olduğu söylenen güzel kızım.<br/>biliyorum hastalığını.<br/>kanserin ne kadar lanet bir tipinin sana denk geldiğini.<br/>akciğer metastazlarıyla boğuştuğunu.<br/>oksijen desteğiyle yaşatıldığını.<br/>ağrıların için morfin verildiğini.<br/>o morfinle kuşlar gibi uçtuğunu.<br/>rüyalar gördüğünü, şarkılar söylediğini.<br/>nereden mi biliyorum bunları?<br/>biliyorum çünkü doktorum.<br/>biliyorum çünkü milyonda 2 görülen bu lanet hastalıktan(osteosarkom) kurtulma olasılığı %1'dir.<br/>biliyorum çünkü tam 2 yıl önce aynısını yaşadık.<br/>17 yaşındaki oğlumun ölümünde.<br/>kemoterapiler, ameliyatlar hepsini yaşadık.<br/>fitoterapiler, envai çeşit ilaçlar.<br/>iyi niyetli olmak, dualar okumak yetmiyor.<br/>hatimler indirmek, kutsal topraklara gitmek falan.<br/>hepsi yalan.<br/>sen de insanları ve hayvanları seven ruhu güzel bir gençsin.<br/>tıpkı oğlum gibi.<br/>iyi insanlar çok fazla yaşamıyor kızım.<br/>oğlum hep ''bu dünya adil değil baba'' derdi.<br/>siz bu dünyaya fazlasınız.<br/>bu dünya kötülerin cenneti ,iyilerin cehennemi kızım.<br/>yine de inşallah ben yanılırım, iyileşirsin.<br/>çünkü çok gençsin, hayat dolusun, yaşamayı seviyorsun.<br/>allah senin için en hayırlısı neyse onu versin güzel kızım.
   entry_channels: sağlık,haber
@@ -94,7 +54,7 @@ data:
     evrim teorisi
   entry_id:  95407038
   entry_writer: sumbulzade vehbi
-  entry_fav_count: 164
+  entry_fav_count: 176
   entry_content: |
     allahım cahillik ne fena. dışardan ne kadar acınası durduğunun farkında değilsin ve kendini bi şey sanıyorsun. daha ne olduğunu neyi savunduğunu bile bilmediğin bilimsel gerçeklikleri saçma bulup, kabul edene de "zeka küpü" diye tarizde bulunuyorsun. neyse, biz yine okuyanların bilgi edineceği bir şeyler karalayalım.<br/><br/>öncelikle bu başlıkta ve basılı/basılı olmayan kaynaklarda zeus bilir zibilyon kere anlatıldığı üzere evrim bir gerçekliktir, doğa yasasıdır, dış dünyadaki bir realitedir. evrim teorisi bu evrim sürecinin nasıl olduğunu açıklayan bir teoridir.<br/><br/>genellikle kafasını dinle ve yaratılışla bozmuş, bu alanın dışında bir düşünce tarzının varlığını bile aklına getirmemiş, öğrenmemiş ve/veya temel bilim, temel biyoloji ve evrim eğitimi almamış kişilerce hala bir türlü anlaşılamamaktadır bu teori. ve bu cahil kişiler, yukarıda göreceğiniz üzere ısrarla bunu öğrenmemekte diretmekte, kendilerine anlatılmasına bile katlanamamakta, gerçekliğe karşı gözlerini sıkıca yummuş bir şekilde kafalarını kuma gömüp debelenmektedirler. dert değil, siz debelenin, ama aklı başında insan okuyup anlayacak ve öğrenecektir. siz hala ısrarla "bu hücreler şunu yapmayı akıl etmiş, nerden akıl edecek" "organa ihtiyacı olduğunu görüp organ geliştirmişmiş nerde var bu zeka" falan diyorsunuz ve anlamak istemiyorsunuz. kimsenin böyle bir şey iddia ettiği yok. ortada bir zeka, bu evrim sürecini yönlendiren bir akıl yok. böyle bir dış akıl olmadığı gibi evrim sürecindeki bireysel organizmaların da en ufak bir bilinci veya evrimin yönü üzerinde bir isteği/müdahelesi yok.<br/><br/>öncelikle yaşamın oluşmasına kadar olan kısım evrim teorisinin konusu değildir. big bang teorisi ve gezegenlerin oluşması fizik, kuantum fiziği, astro fizik, jeoloji vb. bilimlerin alanıdır. ilk canlılığın oluşması ise kimya, biyo-kimya ve biyolojinin alanıdır ancak evrim teorisi bununla ilgilenmez. ve ilk canlılığın ortaya çıkışı, yani kendini kopyalayabilen ilk organik molekülün oluşmasından sonrası evrimdir. ama illa bu konularda da gafama gafama vur diyorsan: (bkz: <a class="b" href="/?q=abiyogenez">abiyogenez</a>) (bkz: <a class="b" href="/?q=god+of+gaps">god of gaps</a>) (bkz: <a class="b" href="/?q=bilim">bilim</a>)<br/><br/>şimdi gelelim sizin algılayamadığınız meseleye. ilk olarak hep "mucizevi" veya "milyonda bir olasılık" diyorsunuz evet haklısınız. ancak siz bunu imkansız gibi baştan kabul ediyorsunuz. bakın, sadece tek bir deneme yapılırsa evet "milyonda bir" ihtimal sıfırdır diyebiliriz. ancak milyarlarca deneme yapılırsa "milyonda bir" ihtimalin "olmaması" bakın olmaması sıfırdır neredeyse. bunun anlaşılmayacak bir şeyi yok. çok basit. bak mesela şu an dünya üzerinde bir sürü ender hastalık var. x hastalığı mesela, milyonda bir görülüyor ve senin bir çocuğun olacak. senin çocuğunda bunun olma olasılığı evet sıfıra yakındır, çünkü senin çocuğun açısından sadece tek bir deneme var. ancak sen "bu hastalık milyonda birmiş, dünya üzerinde bu hastalığın görülmesi sıfırdır" dersen salak derler sana, cahil derler. çünkü dünyada milyarlarca çocuk meydana geliyor, ve matematik ve istatistik biliminin söylediği gibi "milyarlarca deneme" içinde "milyonda bir olasılık" mecburen denk geliyor. oluyor yahu bu, gözümüzün önünde bugün oluyor. 7 milyar insan var, bakıyorsun milyonda bir olasılığı olan hastalık hakkaten de aşağı yukarı 7000 insanda o hastalık var. <br/><br/>hah şimdi gelelim evrime, abicim bak bilale anlatır gibi anlatıyorum, cahil cahil sapırdamayı kes ve iyi oku. çünkü bu dış dünyadaki bir gerçeklik, senin eğitimisiz aklınla "ben inanmiyom yea" diyebileceğin bir şey değil. otur öğren: kendini kopyalayabilen o ilk organik molekül, ya da ilk organik hücre kendini kopyalıyor, yüzmilyarlarca var yeryüzünde (daha doğrusu suda). elimizde yüzmilyarlarca hücre var, ve yüzmilyarlarca nesil değişiyor. ve her nesilde mutasyon geçiriyorlar. buraya kadar benimle misin? yüzmilyarlarca çeşitli mutasyon. ve senin de dediğin gibi "milyonda bir" ihtimalle bu mutasyonlar faydalı mutasyon olup bu canlıda olumlu bir geliştirmeye sebep oluyor. mesela en basitinden daha hızlı sentez yapabilmesini sağlıyor gibi. şimdi bak bilal, yüzmilyarca hücre diyorum, milyonda bir ihtimal diyorum, mutasyonla bunlardan milyonda biri yani yüzbinlercesinde faydalı mutasyon oluyor ve gelişiyor (daha doğrusu bulundukları ortama adaptasyon sağlayacak bir mutasyon geçiriyor). diğer gelişemeyen yüzmilyarlarcası rekabet edemiyor veya ortama uyum sağlayamayıp ölüyor, eleniyor. sonra o hayatta kalan yüzbinlercesi de ürüyor, yüzmilyarlarca oluyor, sonra yine milyonda bir ihtimal faydalı mutasyon vs. bunlar tabi benim burda adım adım anlattığım gibi değil, sürekli bir şekilde her an oluyor. <br/><br/>yani senin dediğin gibi yüzmilyarlarcası bir araya gelip "lan bu böyle olmuyo şöyle kendimize güzel bi özellik geliştirelim" demiyorlar. tesadüf eseri, milyonda bir ihtimal o özellik oluşuyor ve oluşmayanlar ölüyor.<br/><br/>sonra mesela bunlar bir araya gelip "hadi lan koloni oluşturalım" demiyorlar. yüzmilyarcası içinden birkaç yüzbini belki en basit haliyle "işbirliği" yapabiliyor, tesadüfen, bilinçleri dışında. çünkü böyle bir şeyin tesadüfen olması, o hücrelerin kimyasal olarak o şekilde bir araya gelmeleri mesela milyonda bir ihtimal evet haklısın. ama yüzmilyarlarca deneme var bilalim, o yüzden oluyor bu. hakkaten bir araya geliyorlar çok küçük bi azınlık, ve avantaj sağlayıp devam ediyorlar. sonra yine milyonda bir ihtimalli ama olması istatistiki olarak zorunlu tesadüfler sonucu her adımda beraber yaşamaya bir adım daha yaklaşıyorlar, her adımda daha "sıkı fıkı" oluyorlar. çok hücreli organizma yani "jelibon" oluyorlar. bak bunlar yüzmilyonlarca yıl sürüyor bilalcim, kafan almıyor biliyorum ama bunu matematiksel olarak ortaya koyunca olmaması imkansız. <br/><br/>evet, bu jelibonlar (kendi akıllarıyla "gelin jelibon olak" demeyen) jelibonlardan eğer senin tabirinle "sıkılan" veya bilimsel olarak "herhangi bi sebeple beraber yaşamayı bırakmayanlar" yok değil, var. ama onlar eleniyor anacım doğal seçilimle. onlar genlerini sonraki nesile aktaramıyor ki bugün sana gösterip "bak sıkılıyorlar" diyelim (gerçi bir sürü fosille, gen analiziyle, kimya bilimiyle, bilgisayar programlarıyla gösteriyoruz ama sende nerde o kafa). sadece "sıkılmayanlar" yani milyonda bir ihtimalle o şekilde bir arada yaşayabilenler hayatına devam ediyor.<br/><br/>bu jelibonlar kemiği falan da aynaya bakıp fiyakalı görünmek için yapmıyor, öyle bir akılları yok. yine bilale anlatır gibi anlatıyorum, yüzmilyarcası içinden tesadüfen milyonda bir ihtimalle aralarından birkaç yüztanesi belki daha azı en ilkel anlamıyla kemik hücrelerinin atası diyebileceğimiz normal hücreden daha sert bir hücre şeklinde olacak faydalı mutasyon geçiriyor. ve bunlar çevreye göre daha avantajlı olup çokça ürüyor. sonra yüzmilyonlarca yıl süren bu üreme sırasında her defasında milyonda bir ihtimal olup bu hücre tipi daha da sağlamlaşıyor aynı mekanizmayla ve kemik yapısı oluşuyor.<br/><br/>yani aklı olan, ve bu aklını tamamen kilit altına vurup "ben anlamıycam ve ne anlatırsanız anlatın dinlemiycem ki nananananan" demeyen aklı başında birisi heralde artık bu noktada evrim teorisinin işleyiş mekanizmasını çok basit şekliyle anlamıştır. senin yukarıda saçmaladığın şekliyle kimsenin hiçbir organizmaya akıl ve bilinç atfetmediğinin farkına varmıştır. bundan sonrası da aynı bu şekilde çok çok küçük değişikliklerle, yavaş yavaş, milyonda bir milyonda bir (ama yüzmilyarlarca deneme olarak, ve tüm o denemelerin çoğunun yok olması ve çok küçük bir azınlığın başarmasıyla) meydana geliyor senin anlayacağın.<br/><br/>ama ben en son yine de sana direkt gözlemlediğimiz bir örneğini tekrar vermek istiyorum:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=LyWjpTFeLOI&amp;t=2s" title="https://www.youtube.com/watch?v=LyWjpTFeLOI&amp;t=2s">youtube</a><br/><br/>bak arkadaşım yahu gözümüzün önünde bakteri bir haftada evrimleşti. şimdi sen ne diyeceksin bakteri baktı, "ohaaa ulan gençler burada antibiyotik var hemen antibiyotik direnci geliştirelim yürüyün ula" mı dedi diyeceksin? gördüğün üzere oradaki milyonlarca bakteriden aralarda birkaç tanesi tesadüfen bu direnci gösterince yan taraftaki besini bol yere geçebilerek avantajlı hale geliyor ve milyonlarca olacak şekilde ürüyor. bak birkaç haftada ha. e be bilalim milyarlarca yıl ve koskoca okyanuslar, yerüzünde evrimin olması saçma öyle mi? olmaması kaçınılmaz be bilalim be.işte bu aynı süreç tüm dünya tarihi boyunca bu şekilde işliyor ve sürekli yeni türler oluşturuyor. bakteriyi bu değişikliğe iten bir ortam değişikliği yoksa, yani ortam ile zaten uyumlu ise bir popülasyon, o zaman da hemen hemen aynı kalıyor. <br/><br/>bak bir de şu entry'yi oku bakiyim: (bkz: <a class="b" href="/entry/94233894">#94233894</a>)<br/><br/>şimdi anladın mı bu teoriye inanmadığını söyleyen birisi niye türlü hakarete uğruyor, aşağılanıyor? tüm dünyada en mantıklı şeymiş gibi bu teori canla başla savunuluyor? çünkü bu bu teorinin açıkladığı doğa yasası olan evrim, bizim genetik, karşılaştırmalı anatomi, jeoloji, antropoloji gibi onlarca bilim dalıyla yüzbinlerce fosille apaçık ve şüpheye yer bırakmayacak şekilde gördüğümüz bir doğa gerçekliği de ondan. yüzbinlerce bilimadamının yüzbinlerce makalesiyle, teziyle araştırmasıyla incik cıncık her ayrıntısını ortaya koyduğu bir doğa fenomeni de ondan. ve bugüne kadar aleyhine en ufak ne bir delil getirilebilmiş, ne de hakemli dergilerde tek bir makale yayımlanabilmiş de ondan. sen gelip buna inanmıyorum deyince dünyanın yuvarlaklığına inanmıyorum demekten daha az gülünç bir şey söylemiyorsun. sen nasıl "yav ben bu görelilik teorisine inanmıyom" deyince ciddiye alınmayıp dalga geçiliyorsan evrime de inanmayınca aynı böyle cahilliğini ortalığa seriyorsun. okumamakta, öğrenmemekte direnebilirsin, cahillik elbetteki seçebileceğin bir şey. ancak sonra gelip de burada böyle saçmalayınca, ve biz de seni şamar oğlanı yapınca ağlama. ya cahillikten kurtul, oku öğren; ya da o cahilliğini saklandığın delikten çıkartma. takıl kendi kendine.
   entry_channels: bilim
@@ -102,103 +62,87 @@ data:
     erdoğan'ın putin'e nice to meet you demesi
   entry_id:  95425570
   entry_writer: diffarentiationation
-  entry_fav_count: 163
+  entry_fav_count: 164
   entry_content: |
     yeni öğrenilen bilgileri uygulama isteğinin sonucudur.<br/><br/>- hello, my name is tayyip. what is your name?<br/>- vladimir?<br/>- where are you from?<br/>- ?<br/>- how are you? gud? hehe<br/>- :(((
   entry_channels: siyaset,haber
 - entry_name: |
-    kocaeli'de köpeğe ve çocuklara taş atan ihtiyar
-  entry_id:  95413732
-  entry_writer: adanalientel
-  entry_fav_count: 127
-  entry_content: |
-    evveliyatı sikilmesi gereken ihtiyardır.sadece yaşa hürmet gösterilmemesi gerektiğinin kanlı canlı örneğidir.
-  entry_channels: haber
-- entry_name: |
-    akp'nin fındık üreticisini bitirmesi
-  entry_id:  95423037
-  entry_writer: birhayat
-  entry_fav_count: 120
-  entry_content: |
-    akp, türkiye’yi kendi kendine yeten bir tarım-hayvancılık ülkesi olmaktan çıkarıp, 80 senelik fabrikalarını, limanlarını, atölyelerini ve meralarını da özelleştirme adı altında yok eden bir şebekedir.<br/><br/>eğer gerçek bir vatan hainliği tanımı gerekli ise, akp’nin sadece bu eylemleri yeter.<br/><br/>akp ağır bir ihanet örgütüdür.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    asla mutlu olamayacak insanlar
-  entry_id:  95408817
-  entry_writer: kepslok ismet
-  entry_fav_count: 118
-  entry_content: |
-    aileden hasarlı,kötü çocukluk geçirmiş insanların asla mutlu olamayacağını anladım.bunun dışında , duyarlı ve hassas kişilerin, türkiye'nin öldürücü ikliminde bırak mutlu olmayı; yasayamiyacaklarini gördüm.(kendimden biliyorum)
-  entry_channels: ilişkiler
-- entry_name: |
     bir avrupalı gibi dert yan
   entry_id:  95430591
   entry_writer: cayyokki
-  entry_fav_count: 116
+  entry_fav_count: 132
   entry_content: |
     iphone çok pahalı. ben aylık maaşımın beşte birini bir telefona veremem.<br/><br/>not: ülkemizde ise yıllık maaşın yarısını görmüyorlar bu telefona
   entry_channels: anket
 - entry_name: |
-    akp'li belediyenin 8 camiyi satışa çıkarması
-  entry_id:  95427337
-  entry_writer: belkisehrebirfilmgelir
-  entry_fav_count: 102
+    akp'nin fındık üreticisini bitirmesi
+  entry_id:  95423037
+  entry_writer: birhayat
+  entry_fav_count: 128
   entry_content: |
-    "bazı belediyeler camileri sattı gösterip, satış yapıp borcunu ödüyor. hazineye satıyor camiyi, borcunu ödüyor. 'bu belediyeler hangileridir' diye soru önergesi verdim. bana bugün cevabı gelmiş, vergi mahremiyeti nedeniyle açıklayamıyorlarmış bu belediyeleri. bunlar kesin akp'li belediyeler. 'camileri satan belediyeler hangi belediyeler?' bu soru önergesine cevap vermiyorlar. diyanet işleri başkanı bunu açıklasın. izmirlilerin dini ile imanı ile uğraşmayı bıraksın. mesela diyorum ki, 'başbakana dokunmak ibadettir' diyen milletvekilinin irfanını ölçsün. siirt'i, rize'yi, istanbul'u mübarek şehir ilan eden bakanın irfanını ölçsün. alışveriş merkezleri için cami satan akp'lilerin irfanını ölçsün. 'kindar nesil yetiştireceğiz' diyen başbakan'ın irfanını ölçsün. allah ile aldatanların irfanını ölçsün. camide ön safta kendine yer tutanların, ayakkabılarına korumalarını bekçilik yaptıranların irfanını ölçsün. öncelikle benim diyanet işleri başkanı'na açıklamam bunlar."<br/><br/><a class="b" href="/?q=muharrem+ince">muharrem ince</a>, <a class="b" href="/?q=tbmm">tbmm</a>, 29.03.2013
+    akp, türkiye’yi kendi kendine yeten bir tarım-hayvancılık ülkesi olmaktan çıkarıp, 80 senelik fabrikalarını, limanlarını, atölyelerini ve meralarını da özelleştirme adı altında yok eden bir şebekedir.<br/><br/>eğer gerçek bir vatan hainliği tanımı gerekli ise, akp’nin sadece bu eylemleri yeter.<br/><br/>akp ağır bir ihanet örgütüdür.
   entry_channels: siyaset,ekonomi
-- entry_name: |
-    filmi çekilse başyapıt olacak romanlar
-  entry_id:  95417257
-  entry_writer: determinant
-  entry_fav_count: 93
-  entry_content: |
-    (bkz: <a class="b" href="/?q=puslu+k%c4%b1talar+atlas%c4%b1">puslu kıtalar atlası</a>)
-  entry_channels: anket,edebiyat
 - entry_name: |
     imamoğlu istanbul'da kazanmadı biz hediye ettik
   entry_id:  95427935
   entry_writer: second
-  entry_fav_count: 90
+  entry_fav_count: 96
   entry_content: |
     aynen koçum aynen o yüzden mi seçimi yenilediniz ? o yüzden mi " çaldılar " deyu kendinizi yirttiniz ?<br/><br/>ulan sokaktaki köpeğe 1 lokma ekmek vermeyen adamlarsiniz siz, şeytan herkes'e gelir ama size gelmez siz şeytandan da betersiniz sus ve yolovaya devam et.
   entry_channels: siyaset,haber
 - entry_name: |
-    kalitesiz olduğu halde kaliteli sanılan markalar
-  entry_id:  95401142
-  entry_writer: nickmigiriyim
-  entry_fav_count: 82
+    filmi çekilse başyapıt olacak romanlar
+  entry_id:  95417257
+  entry_writer: determinant
+  entry_fav_count: 94
   entry_content: |
-    çok net erikli, sağlık bakanlığının yayımladığı listelere bakınca anlarsınız
-  entry_channels: anket,yeme-içme,moda,ekonomi
+    (bkz: <a class="b" href="/?q=puslu+k%c4%b1talar+atlas%c4%b1">puslu kıtalar atlası</a>)
+  entry_channels: anket,edebiyat
 - entry_name: |
     vedat muriqi
   entry_id:  95401907
   entry_writer: sticky
-  entry_fav_count: 78
+  entry_fav_count: 79
   entry_content: |
     3.5m euro bonservis, 1.5m euro yıllık maaşla hem zeki çevik hemde ahlaklı olan böylesine bir oyuncuyu kulübe kazandıran yöneticiye plaket verilmelidir, çünkü bir zamanlar başka yöneticiler sakat van pörsie'ye 6.5m euro bonservis, 6m euro maaş veriyorlardı resmen ali koç yeni idarecilerle çağ atlatmış vizyon kazandırmış kulübe<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: spor
 - entry_name: |
-    bir mühendisin en mutlu olduğu an
-  entry_id:  95415082
-  entry_writer: yuzbinbaloncuklu
-  entry_fav_count: 76
-  entry_content: |
-    (bkz: <a class="b" href="/?q=bir+tatil+kasabas%c4%b1nda+cafe+a%c3%a7mak">bir tatil kasabasında cafe açmak</a>)
-  entry_channels: anket,ilişkiler,teknoloji
-- entry_name: |
     keyfi boşalmanın cinayet olduğu gerçeği
   entry_id:  95435709
   entry_writer: biliyozdayazyoz
-  entry_fav_count: 68
+  entry_fav_count: 77
   entry_content: |
     babanın işlemediği cinayetin cezasını biz çekiyoruz
   entry_channels: 
 - entry_name: |
+    düşün ki baban bunu okuyor
+  entry_id:  95402296
+  entry_writer: stop chasing shadows
+  entry_fav_count: 75
+  entry_content: |
+    param bitti
+  entry_channels: anket,edebiyat
+- entry_name: |
+    antidepresan etkisi gösteren şeyler
+  entry_id:  95427313
+  entry_writer: radyoaktif pokemon
+  entry_fav_count: 62
+  entry_content: |
+    sizin nefret ettiğiniz şeylerden nefret eden birinin konuşmasını dinlemek
+  entry_channels: anket,sağlık
+- entry_name: |
+    16 eylül 2019 alanyaspor fenerbahçe maçı
+  entry_id:  95438186
+  entry_writer: cokyakisiklibiri
+  entry_fav_count: 59
+  entry_content: |
+    sitede fenerli kalmadı vpn ile wikipediaya girip geçmişten bir şampiyonluk daha çıkarmaya çalışıyorlar galiba.
+  entry_channels: spor
+- entry_name: |
     bol memeli elit ortam
   entry_id:  95429979
   entry_writer: queen bee
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     (bkz: <a class="b" href="/?q=v%c3%bccut+dismorfik+bozuklu%c4%9fu">vücut dismorfik bozukluğu</a>)<br/><br/>meme değil 2 tane yaratık gördüm ben<br/>oradakiler pornocu bile olsalar şu görüntü iğrenç. insanın kendine şu kötülüğü yapabilmek için aklını yitirmiş olması lazım.<br/><br/>eğer buna oyş diyen erkek varsa da o da ayrı ucubik bir freak tir. toplumdan dışlanmalıdır.
   entry_channels: anket
@@ -206,18 +150,18 @@ data:
     çamaşır makinesinden uçan araba yapan siirtli
   entry_id:  95421931
   entry_writer: sahneyecikmak
-  entry_fav_count: 54
+  entry_fav_count: 55
   entry_content: |
     yalnız küçük bir sorun var : uçan araba, uçamıyor.
-  entry_channels: bilim,haber,havacılık
+  entry_channels: haber,havacılık
 - entry_name: |
-    ali koç
-  entry_id:  95404528
-  entry_writer: mros
-  entry_fav_count: 47
+    16 eylül 2019 alanyaspor'a verilmeyen penaltı
+  entry_id:  95437348
+  entry_writer: donaldtrump
+  entry_fav_count: 51
   entry_content: |
-    düşünsene türkiye'nin en zengin 2 insanından birisin, para, güç, herşey elinde ama sen paranı galatasaray ve adanalı fatih in önünü kesebilmek için algı yapsınlar diye sosyal medyadaki trollere, istedikleri oyuncuyu alamasınlar diye rakip takım başkanlarına falan dağıtıyosun. allah bir insana daha ne kadar büyük bir bela verebilir amk vizyona bak.<br/><br/>baban hergün 'fatih terim'in tazminatı hüüüğğğ' açıklamalarını duydukça kahrolup ulan o kadar paranın gücün içinde uğraştığı şeylere bak amk malı demiyorsa suratıma tükürsünler :))
-  entry_channels: spor,siyaset,ekonomi
+    zanka adlı defans oyuncusu açık bir şekilde cisse’yi indiriyor. <br/><br/>fakat hakem var’a bile bakmıyor... yazık..<br/><br/>edit: pozisyon bu <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/atavratfelipe/status/1173661347256721408?s=20" title="https://twitter.com/atavratfelipe/status/1173661347256721408?s=20">video</a><br/><br/>edit: biz bu halis muhlis orospu çocuğunu galatasaray - konyaspor maçında konyaspor’a uydurduğu penaltıdan tanırız...
+  entry_channels: spor
 - entry_name: |
     hindistan denince akla gelenler
   entry_id:  95421282
@@ -227,37 +171,13 @@ data:
     bok dolu plajlar.
   entry_channels: anket,tarih,seyahat
 - entry_name: |
-    16 eylül 2019 alanyaspor fenerbahçe maçı
-  entry_id:  95438186
-  entry_writer: cokyakisiklibiri
-  entry_fav_count: 41
+    luiz gustavo dias
+  entry_id:  95435407
+  entry_writer: bu nick fazla tatli
+  entry_fav_count: 32
   entry_content: |
-    sitede fenerli kalmadı vpn ile wikipediaya girip geçmişten bir şampiyonluk daha çıkarmaya çalışıyorlar galiba.
+    önüme gelene bin tekme tarzı oynuyor. değişik bir tip.
   entry_channels: spor
-- entry_name: |
-    letgo'da hiçbir şeyin satılamaması
-  entry_id:  95410174
-  entry_writer: kuru domates
-  entry_fav_count: 40
-  entry_content: |
-    letgo'nun mantığının yanlış anlaşılmasından kaynaklanan durum. benim anladığım; hiç bir işime yaramayacak, bir nevi çöp olarak gördüğüm şeylerin satılması için kurulmuş bi platform. reklamlarının çizdiği imaj da bu. sizin çöp gördüğünüz bir şey, bir başkasının işine yarayabiliyor. yeterli ucuzlukta bir fiyat belirlemek şart. temsil misal; evde hiç bir şekilde kullanılma ihtimali olmayan 82 ekran, eşek ölüsü gibi tüplü televizyonu 200 liraya satmıştım letgo'da. alan kişi "yaşlı annem için alıyorum, uzaktan kumandası olsun, çalışsın, yeter" demişti.
-  entry_channels: anket,teknoloji,ekonomi
-- entry_name: |
-    16 eylül 2019 alanyaspor'a verilmeyen penaltı
-  entry_id:  95437348
-  entry_writer: donaldtrump
-  entry_fav_count: 40
-  entry_content: |
-    zanka adlı defans oyuncusu açık bir şekilde cisse’yi indiriyor. <br/><br/>fakat hakem var’a bile bakmıyor... yazık..<br/><br/>edit: pozisyon bu <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/atavratfelipe/status/1173661347256721408?s=20" title="https://twitter.com/atavratfelipe/status/1173661347256721408?s=20">video</a><br/><br/>edit: biz bu halis muhlis orospu çocuğunu galatasaray - konyaspor maçında konyaspor’a uydurduğu penaltıdan tanırız...
-  entry_channels: spor
-- entry_name: |
-    kadının en seksi hareketi
-  entry_id:  95431700
-  entry_writer: ssosyolog
-  entry_fav_count: 35
-  entry_content: |
-    gençler tek elle yazmaya baslamislar
-  entry_channels: anket,ilişkiler
 - entry_name: |
     ben erkan can sorularınızı bekliyorum
   entry_id:  95421806
@@ -267,21 +187,37 @@ data:
     merhaba, ben <a class="b" href="/?q=erkan+can">erkan can</a>.<br/><br/>sorularınızı bekliyorum.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B2eI9W5AmIz/?igshid=62y152ic4i9f" title="https://www.instagram.com/p/B2eI9W5AmIz/?igshid=62y152ic4i9f">kanıt</a><br/><br/>edit: soru cevap bitti. herkese çok teşekkürler.<br/><br/>sorularınıza verilmiş yanıtları görmek için şu bağlantıyı kullanabilirsiniz: (bkz: <a class="b" href="/?q=ben+erkan+can+sorular%c4%b1n%c4%b1z%c4%b1+bekliyorum%2f%40erkan+can">ben erkan can sorularınızı bekliyorum/@erkan can</a>)<br/><br/>not: soru cevap etkinliğini mobil ve web tarayıcınızdan takip edebilirsiniz.
   entry_channels: tv,ekşi-sözlük,sinema,spoiler
 - entry_name: |
-    luiz gustavo dias
-  entry_id:  95435407
-  entry_writer: bu nick fazla tatli
-  entry_fav_count: 25
+    cem yılmaz'ın çıplak kadın tutkusu
+  entry_id:  95439650
+  entry_writer: konusuz
+  entry_fav_count: 28
   entry_content: |
-    önüme gelene bin tekme tarzı oynuyor. değişik bir tip.
-  entry_channels: spor
+    o tabloya bakınca sadece çıplak bir kadın görüyorsan, çıplak kadın tutkusu olan kişi cem yılmaz olmuyor.
+  entry_channels: sanat,magazin
 - entry_name: |
     yazarların araba kullanmayı öğrendiği ilk araba
   entry_id:  95417569
   entry_writer: gaal
-  entry_fav_count: 24
+  entry_fav_count: 27
   entry_content: |
     hyundai getz 2005 modelle silecek çalıştırmayı bile bilmeden yola çıkıp bununla övünen kadınların olduğunu gözler önüne sermiş başlıktır.<br/><br/>fren yerine gaza basıp çocuk ezenlere sövüyoruz ama araba kullanmayı bilmeyip bir şekilde öğrenirim diye trafiği atlayanlar aynı sövgüyü hakediyor bence.
   entry_channels: anket,otomotiv
+- entry_name: |
+    masterchef türkiye
+  entry_id:  95401169
+  entry_writer: nolmus ki
+  entry_fav_count: 27
+  entry_content: |
+    ülkemizde bırak 3 milyonu yarım milyon vegan beslenen insan yoktur. cafelerde restoranlarda falan veganlık taslayanlar kurbanda kavurmayı tabak tabak götürüyor.
+  entry_channels: tv,yeme-içme
+- entry_name: |
+    huawei mate p20 pro vs iphone x
+  entry_id:  95434414
+  entry_writer: sarbininsolayaa
+  entry_fav_count: 27
+  entry_content: |
+    (bkz: <a class="b" href="/?q=%c3%b6%c4%9frenciyim">öğrenciyim</a>) <br/>iphone x: 7.899,00 tl<br/>mate 20 pro: 5.639,00 tl
+  entry_channels: teknoloji
 - entry_name: |
     sıfır borç ile yaşamak
   entry_id:  95426622
@@ -291,45 +227,53 @@ data:
     valla ne diyim bu videoda bahsedilen ilkokul 2.sinif düzeyindeki finansal bilgi sizin ufkunuzu açıyorsa bu yaşa kadar iyi gelmişsiniz yine.
   entry_channels: ekonomi
 - entry_name: |
-    whatsapp'ın dosya transfer ücreti almaması
-  entry_id:  95436553
-  entry_writer: outdoor
-  entry_fav_count: 18
-  entry_content: |
-    <a class="b" href="/?q=nasa%27n%c4%b1n+ay%27da+ke%c5%9ffetti%c4%9fi+a%c3%a7%c4%b1klanamayan+yar%c4%b1k">nasa'nın ay'da keşfettiği açıklanamayan yarık</a> başlığına geri dönüyorum amk.
-  entry_channels: teknoloji
-- entry_name: |
-    fenerbahçe
-  entry_id:  95401659
-  entry_writer: sticky
-  entry_fav_count: 17
-  entry_content: |
-    bu sene şampiyon olacağını düşündüğüm takım, çünkü yıllar sonra ilk kez eli ayağı düzgün forvetle (bkz: <a class="b" href="/?q=vedat+muriqi">vedat muriqi</a>)<sup class="ab"><a title="(bkz: maşallah nazar değdirmeyelim)" href="/?q=ma%c5%9fallah+nazar+de%c4%9fdirmeyelim" data-query="maşallah nazar değdirmeyelim">*</a></sup> sezona başladılar<br/><br/>edit: tinerci
-  entry_channels: spor
-- entry_name: |
     keyfi kürtajın cinayet olduğu gerçeği
   entry_id:  95433885
   entry_writer: qatal
-  entry_fav_count: 16
+  entry_fav_count: 18
   entry_content: |
     kürtaj hakkında fikir bildirmeden önce bir annenizle konuşun isterseniz. küfür ya da hakaret anlamında söylemiyorum bunu. işin gerçeği evliler bekarlardan çok daha fazla kürtaj oluyor. bir çoğumuzun kardeşinin hayatı daha başlamadan son buldu. annenizi sıkıştırın anlattırın isterseniz. ne sebeple böyle bir işe girişmiş, neden olmuş. ondan sonra gelin yorum yapın.
   entry_channels: 
 - entry_name: |
+    fenerbahçe
+  entry_id:  95401659
+  entry_writer: sticky
+  entry_fav_count: 18
+  entry_content: |
+    bu sene şampiyon olacağını düşündüğüm takım, çünkü yıllar sonra ilk kez eli ayağı düzgün forvetle (bkz: <a class="b" href="/?q=vedat+muriqi">vedat muriqi</a>)<sup class="ab"><a title="(bkz: maşallah nazar değdirmeyelim)" href="/?q=ma%c5%9fallah+nazar+de%c4%9fdirmeyelim" data-query="maşallah nazar değdirmeyelim">*</a></sup> sezona başladılar<br/><br/>edit: tinerci
+  entry_channels: spor
+- entry_name: |
+    altay bayındır
+  entry_id:  95438031
+  entry_writer: merkz
+  entry_fav_count: 17
+  entry_content: |
+    çok iyi kaleci ama çok gol yiyor.
+  entry_channels: spor
+- entry_name: |
     çukur (dizi)
   entry_id:  95418900
   entry_writer: khaliejero
-  entry_fav_count: 12
+  entry_fav_count: 15
   entry_content: |
     bugün itibariyle misafirliğe gitme sezonu açılmıştır.
   entry_channels: tv,müzik,spoiler
 - entry_name: |
-    üstü açık diye yemek alanında sigara içen hayvan
-  entry_id:  95438005
-  entry_writer: fitillidaniyal
-  entry_fav_count: 7
+    galatasaraylı sözlük yazarları
+  entry_id:  95425134
+  entry_writer: tokmaki
+  entry_fav_count: 15
   entry_content: |
-    hakaret ve neredeyse küfür içeren bu nefreti anlayamadım. kimsenin - açık havada olduğu sürece ve herhangi bir yasak yoksa - sigara içmesini engelleyemezsiniz. sırf şu nefret dolu tavır yüzünden fosur fosur sigara içesim geldi şerefsizim. <br/><br/>bu kadar kin sağlığına sigaradan daha fazla zarar verir emin ol.
-  entry_channels: 
+    türkiyenin yüz akıdır hepsi. malum kuş taraftarları gibi ufak başarıları görgüsüzce sağa sola anlatmazlar. başarı kıstasları yüksektir, iyi futbol oynanmadığında çemkirirler.
+  entry_channels: spor,anket,ekşi-sözlük
+- entry_name: |
+    sevgilinin daha çok sevildiği an
+  entry_id:  95403987
+  entry_writer: sivas
+  entry_fav_count: 13
+  entry_content: |
+    gittiği gün daha çok sevmeye başlıyor insan.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     fenerbahçeli sözlük yazarları
   entry_id:  95423326
@@ -339,21 +283,21 @@ data:
     trabzonlu olarak katildigim liste. fenerbahce formalarimin numarasi hep 61’dir
   entry_channels: spor,ekşi-sözlük
 - entry_name: |
-    altay bayındır
-  entry_id:  95436295
-  entry_writer: en buyuk cuce gezegen
-  entry_fav_count: 7
-  entry_content: |
-    az kalende dur altay amk bişey yok bi sakin ol ya
-  entry_channels: spor
-- entry_name: |
     ersun yanal
   entry_id:  95437980
   entry_writer: delinquent
-  entry_fav_count: 4
+  entry_fav_count: 7
   entry_content: |
     genç yaşında iyi ön libero diye 3,5 milyon bonservis verdiğimiz jailson'u inatla stoper oynatıp; 4 maçta 3 gole sebebiyet veren hoca. üstüne 6 milyona 32 yaşındaki gustavo'yu aldırdı.<br/><br/>o paraya sol bek aldırsa; şimdi ozan ortada, dirar kendi yerinde oynardı. bak emre'yi, yine kendi aldırdığı tolgay'ı saymıyorum bile. geçen sene devre arası sadık serdar aldırdı. yetmedi rami aldırdı, hala stoper jailson. sağda ozan, solda dirar, ortada jailson falan. zanka'yı da kendisi aldırdı. <br/><br/>şu hucüm hattına yazık. trabzon maçından önce de yazdık (bkz: <a class="b" href="/entry/94758185">#94758185</a>)<br/>başlarım artık böyle işe.
   entry_channels: spor
+- entry_name: |
+    26 yaşında 100 bin tl borcu olan erkek
+  entry_id:  95432878
+  entry_writer: bir uzay maymunu
+  entry_fav_count: 5
+  entry_content: |
+    halihazırda bu kadar borcu olupta hiçbir şey sahibi değilse eğer çok acı bir tablo.
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  95414001
@@ -363,20 +307,44 @@ data:
     dün <a class="b" href="/?q=makine+m%c3%bchendisli%c4%9fi">makine mühendisliği</a> mezunu bir arkadaşımın düğünü vardı. adam üniversiteden arkadaşları için iki masa ayırmış, biri evli çiftler diğeri bekarlar için. düğünde <a class="b" href="/?q=sa%c4%9fd%c4%b1%c3%a7">sağdıç</a> olmanın bana verdiği yetkiye dayanarak düğün başlamadan önce 19 olan bekarların masa numarasını <a class="b" href="/?q=31">31</a> ile değiştirdim. pişman değilim, masa numaralarını öğrendikleri anki yüz ifadelerini düşününce hala anıra anıra gülüyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    kalp atışını hızlandıran şeyler
-  entry_id:  95438571
-  entry_writer: amanyaa
-  entry_fav_count: 3
+    ali koç
+  entry_id:  95430822
+  entry_writer: ayiktinmi
+  entry_fav_count: 4
   entry_content: |
-    o’na atadığım bildirim sesi.
-  entry_channels: anket,sağlık
+    ben kendisinden bir galatasaraylı olarak çok umutluydum. ama rezalet bir sezon geçirdikten sonra ailesinin gücünü kullanarak hükümeti, medyayı ve bazı kulüp başkanlarını arkasına alarak şampiyonluk kovalıyor. koç ailesinin yüz karasıdır.
+  entry_channels: spor,siyaset,ekonomi
 - entry_name: |
     kendinle sevgili olur muydun sorunsalı
   entry_id:  95431823
   entry_writer: nickyy
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     zaman zaman kendime sorarim bu soruyu. ben kendime deli gibi asik olurdum hic mutevazi olmayacak ama kendim kadar saglam kararkterli 2 3 kisi taniyorum toplamda. onlar da dostlarim zaten. ayrilirsak da senelerce unutamazdim kendimi, derin bir iz birakirdim muhtemelen.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    üstü açık diye yemek alanında sigara içen hayvan
+  entry_id:  95439027
+  entry_writer: toz pembe ask istiyorum
+  entry_fav_count: 2
+  entry_content: |
+    bebeğe, yaşlıya, hasta ya da sağlıklı insanın suratına üfleyerek içmek zaten aşırı kötü bir şey. onu savunan yok. <br/>adam kadıköy’deki cafeleri, taksim’deki barları şikayet edin demiş. <br/>gece barda sazda yaşlı ve çocuk gezdirende akıl yoktur zaten, eğer varsa onların eğitilmesi gerekiyor.
+  entry_channels: 
+- entry_name: |
+    ulaşılan en yüksek kilo ile şu anki kilo farkı
+  entry_id:  95437616
+  entry_writer: basond
+  entry_fav_count: 2
+  entry_content: |
+    88-63=25 kg fark 13 senedir aynı kilodayım.<br/>rejim ve spor devamında beslenme şeklinin değişmesi ile kilomu koruyabiliyorum.
+  entry_channels: anket,sağlık
+- entry_name: |
+    geceye bir kadın yalanı bırak
+  entry_id:  95437680
+  entry_writer: defender110
+  entry_fav_count: 2
+  entry_content: |
+    spora başlayacağım.
   entry_channels: anket,ilişkiler
 - entry_name: |
     beşiktaşlı sözlük yazarları
@@ -387,14 +355,6 @@ data:
     aralarında (bkz: <a class="b" href="/?q=1+2+3+gol+yetmez+4+5+6+olsun">1 2 3 gol yetmez 4 5 6 olsun</a>) tezahüratını hatırlayanlar vardır.
   entry_channels: spor,ekşi-sözlük
 - entry_name: |
-    ulaşılan en yüksek kilo ile şu anki kilo farkı
-  entry_id:  95437503
-  entry_writer: minnosruhum
-  entry_fav_count: 1
-  entry_content: |
-    78-60=18 dir efenim. 18 ne güzel bi sayıdır. hafiflik ne güzel şeydir.
-  entry_channels: anket,sağlık
-- entry_name: |
     ilk köpeğinizin ismi
   entry_id:  95439205
   entry_writer: roneil
@@ -402,4 +362,44 @@ data:
   entry_content: |
     lüfer. esasen hiç köpeğim olmadı, sokakta sevdiğim bir köpekti. ama çocuktum, bir kaç gün önce balık yemiştik ve bütün aile balığa lüfer diyordu, balığa lüfer ismini verdiklerini sandım. sonradan sokakta sevdiğim bir köpeğe de bu çok beğendiğim ismi koymuştum, ve hatta "seni yemeyeceğim lüfer, söz veriyorum" dediğimi bile hatırlar gibiyim. çocukluk işte, çocukken biraz mal oluyoruz ama masumiyeti yeter be.
   entry_channels: anket
+- entry_name: |
+    halis özkahya
+  entry_id:  95439220
+  entry_writer: asabi
+  entry_fav_count: 1
+  entry_content: |
+    fenerbahçe’yi oyunda tutan sarı lacivertli..
+  entry_channels: spor
+- entry_name: |
+    şu anda çalan şarkı
+  entry_id:  95407272
+  entry_writer: caskazura
+  entry_fav_count: 0
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/5dK3lgFG4Rw">https://youtu.be/5dk3lgfg4rw</a><br/><br/>dursa da kurtulsam amk bir organ bu kadar inat edebilir. o damar yolu açan doktora da şarkılarım var ama daha zamanı değil onu kınıyorum ve ona laflar hazırladım.
+  entry_channels: anket,müzik
+- entry_name: |
+    ozan tufan
+  entry_id:  95438953
+  entry_writer: super frog
+  entry_fav_count: 0
+  entry_content: |
+    yerli xabi alonso'dur.
+  entry_channels: spor
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  95404033
+  entry_writer: huunhuurtu
+  entry_fav_count: 0
+  entry_content: |
+    buraya yazanların yarısı (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+siki%c5%9fecek+insan+veritaban%c4%b1">ekşi sözlük sikişecek insan veritabanı</a>) başlığına yazmak varken yanlışlıkla buraya yazıyor galiba. çaktırmadan ava yaklaşmaya çalışan aslanlar gibisiniz, biraz açık olun ya. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>tanım: aşk hikayelerinizin kimsenin umurunda olmadığı veritabanı.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    akaryakıtın litre ile satılması
+  entry_id:  95434191
+  entry_writer: turuncu adam
+  entry_fav_count: 0
+  entry_content: |
+    aracların yakıt haznelerinin kütle ile değil hacim ile belirlenmesinden kaynaklı olabilir belki.<br/>kaynak: kaynak falan yok tamamen tahmin
+  entry_channels: ekonomi
 ---
