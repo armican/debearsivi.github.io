@@ -6,15 +6,15 @@ data:
     ekrem imamoğlu'nun inanç düşmanlığına başlaması
   entry_id:  95586770
   entry_writer: 3kedibeni7
-  entry_fav_count: 897
+  entry_fav_count: 908
   entry_content: |
-    (bkz: <a class="b" href="/?q=don%27t+feed+the+amaaaaaaan+siktir+et+yahu">don't feed the amaaaaaaan siktir et yahu</a>)<br/><br/>başlığı açan yazarı engelleyen epey bir yazar var sanırım. @2'yim ben şimdilik başlık başa kalmamış. sevgilerle..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/vDQWyBY" title="https://ibb.co/vDQWyBY">kaçarsa diye şeyedelim</a>
+    (bkz: <a class="b" href="/?q=don%27t+feed+the+amaaaaaaan+siktir+et+yahu">don't feed the amaaaaaaan siktir et yahu</a>)<br/><br/>başlığı açan yazarı engelleyen epey bir yazar var sanırım. @2'yim ben şimdilik başlık başa kalmamış. sevgilerle..<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/vDQWyBY" title="https://ibb.co/vDQWyBY">kaçarsa diye şeyedelim</a><br/><br/>saat 20.32 itibariyle özel mesajla sövülmedik akraba bırakmayan 10larca sevgili çaylak arkadaşa selam olsun. ne olur bu dini siz savunmayın...
   entry_channels: siyaset,tv,haber
 - entry_name: |
     başörtülü öğretmeni protesto eden gaziler
   entry_id:  95596645
   entry_writer: saskin leylek
-  entry_fav_count: 672
+  entry_fav_count: 736
   entry_content: |
     çomarlıktır. davete gelen bir konuşmacıyı sırf başörtüsünden dolayı protesto etmek büyük terbiyesizliktir. gazi olma şartında terbiye ve görgü olmadığı için olabilir böyle şeyler.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     tarlayı satıp pavyonda tren yapan dayılar
   entry_id:  95580915
   entry_writer: farketmezaq
-  entry_fav_count: 637
+  entry_fav_count: 643
   entry_content: |
     particilikle marticilikle alakası olmayan durumdur.<br/><br/>ister tarlasını satar, ister eşeğini satar bizi ilgilendirmez. dans şekilleri de gram önemli değil. kaslı, dövmeli, küpeli birileri gece kulübünde yapsa normal karşılanacak. adamın parası var eğleniyor, sana ne ve bana ne. çekim yapana 1, gelip bunu başlık diye buraya açana 2.<br/><br/>edit: arkadaşlar bana neden küfür ediyorsunuz? çok enteresan. anlayışınız mı kıt? okuduğunuzu mu anlamıyorsunuz? başlık eğlenen kişilerin siyasî görüşünden <sup class="ab"><a title="(bkz: tahmin etmiş arkadaş)" href="/?q=tahmin+etmi%c5%9f+arkada%c5%9f" data-query="tahmin etmiş arkadaş">*</a></sup> , tshirtlerin şeklinden dem vurmuş ve tarla satılıp eğlenceye gittiği belirtilmiş. buna karşılık sana ne diyorum ve tekrar belirtiyorum; bu videodaki kişiler kaslı, dövmeli hatta ve hatta yabancı olsa, hatta kadınlarda sarışın, ince belli olsa yine bu saçma küfürleri bana eder miydiniz? yoksa "ne var abi eğleniyorlar size ne?" mi derdiniz? parasını nerden bulduğu beni ilgilendirmez. eğleniyor mu adamlar? eğleniyor. kadınlar memnun mu? memnun. yani alan memnun veren memnun. olayın özeti bir alt entry'de.
   entry_channels: haber
@@ -38,7 +38,7 @@ data:
     ibb'nin chp ilçe başkanlıklarına torpil duyurusu
   entry_id:  95591632
   entry_writer: justin mcleod
-  entry_fav_count: 353
+  entry_fav_count: 356
   entry_content: |
     ohhh 17 senedir cemaat ve ak parti gençlik kadrolaşmalarına ses çıkartmayan ak çomar islamcılar kudurmuş. <br/><br/>daha dur 5000 daha kovulacak sizden 5000 daha 5000 daha. son islamcıya kadar. hiç hdp duyarı kasmayın sizi apo mektubu okuyucu şerefsizler.. tüm o kadrolar iyi parti ve chp nin tahsilli gençleriyle dolacak.<br/><br/>edit; islamcıların türkçe okuyup anlayamaması normal ama tatlı su solcularının anlamaması tuhaf. aslında değil... metinde torpil ile bağlaştırılabilecek tek bir cümle yok.<br/>trollün bunu torpil sanması ise <a class="b" href="/?q=ki%c5%9fi+kendinden+bilir+i%c5%9fi">kişi kendinden bilir işi</a> sözüne uygun o kadar.
   entry_channels: siyaset,haber
@@ -46,10 +46,18 @@ data:
     efsanevi kadıköy uyuşturucu baskını
   entry_id:  95586058
   entry_writer: cinyuscocuk
-  entry_fav_count: 336
+  entry_fav_count: 338
   entry_content: |
     dükkanda ne satılıyorsa tamamı legal :) baskın esnasında lokmasını çiğnemeye devam eden boş bakışlı arkadaşın rahatlığından hepimize birer doz lütfen
   entry_channels: haber
+- entry_name: |
+    rektörün üç kızı iki damadı ve bir yeğeni
+  entry_id:  95592839
+  entry_writer: rommie
+  entry_fav_count: 249
+  entry_content: |
+    başlığın tamamı "karadeniz teknik üniversitesi rektörünün üç kızının, iki damadının ve bir yeğeninin üniversitede öğretim görevlisi olarak atanması" olacaktı ama malum karakter sınırı.<br/><br/>güzel ülkemin bilim dünyasından duyanları şaşırtan (!) bir haber daha.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/universite-mi-aile-sirketi-mi-19091941.html" title="https://odatv.com/universite-mi-aile-sirketi-mi-19091941.html">ktü</a>
+  entry_channels: haber,eğitim
 - entry_name: |
     20 eylül 2019 adana olayları
   entry_id:  95577433
@@ -58,14 +66,6 @@ data:
   entry_content: |
     evet bir duyar kasmadığınız suriyeliler kalmıştı, ona da kasın. ülkede zaten yeterince psikopat var bir de bu suriyelilerle uğraşıyoruz. siktir olup gitsinler artık! istemiyoruz bu piçleri, o kadar!<br/><br/>çok seven varsa alsın evinde beslesin. ırkçı olmayan milletleri ayakta sikiyorlar. hala burada pembe götlü aptal solcular ve islamcılar duyar kasıyor.
   entry_channels: haber
-- entry_name: |
-    rektörün üç kızı iki damadı ve bir yeğeni
-  entry_id:  95592839
-  entry_writer: rommie
-  entry_fav_count: 229
-  entry_content: |
-    başlığın tamamı "karadeniz teknik üniversitesi rektörünün üç kızının, iki damadının ve bir yeğeninin üniversitede öğretim görevlisi olarak atanması" olacaktı ama malum karakter sınırı.<br/><br/>güzel ülkemin bilim dünyasından duyanları şaşırtan (!) bir haber daha.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://odatv.com/universite-mi-aile-sirketi-mi-19091941.html" title="https://odatv.com/universite-mi-aile-sirketi-mi-19091941.html">ktü</a>
-  entry_channels: haber,eğitim
 - entry_name: |
     sülaledeki en başarılı kişi ve mesleği
   entry_id:  95572257
@@ -78,7 +78,7 @@ data:
     ismek'lerde kürtçe dil kursu kesinlikle açılacak
   entry_id:  95594842
   entry_writer: arma aski
-  entry_fav_count: 205
+  entry_fav_count: 210
   entry_content: |
     sanırım bir sorunu çözmek için onun en büyük sorun olması gibi bir zorunluluk var. yoksa "istinbil'in in biyik sırını çizildi" diye akıllarınca laf sokmazdı muhtemelen ak-troller. <br/><br/>zamanında milliyetçiliği ayaklar altına alan çakma milliyetçileri böyle kudurtmaya devam başkanım.
   entry_channels: siyaset,haber,eğitim
@@ -86,15 +86,23 @@ data:
     evliyim ve karıma aşığım diyen tip
   entry_id:  95591732
   entry_writer: didierdrogba07
-  entry_fav_count: 201
+  entry_fav_count: 203
   entry_content: |
     vardır öyle aşık adamlar; tabi aile kurumundan bihaber, hayatlarında hiç sevmemiş sevilmemiş kerkenezler anlamaz.<br/><br/>anne kuzguna sor bakalım baban şahin olmasın? seni başkasına benzetiyor diyorlar...
   entry_channels: anket,ilişkiler
 - entry_name: |
+    pendik'te ormanı yakarken kameraya yakalanan kişi
+  entry_id:  95584341
+  entry_writer: jarentrux
+  entry_fav_count: 200
+  entry_content: |
+    canli canli yakilmasi gereken mahlukat.
+  entry_channels: haber
+- entry_name: |
     osmanlı devleti'ne bir tavsiye bırak
   entry_id:  95574665
   entry_writer: aas
-  entry_fav_count: 189
+  entry_fav_count: 192
   entry_content: |
     türk olduğunu unutma, bedevi araplara özenmekten vazgeç.
   entry_channels: siyaset,anket,tarih
@@ -102,7 +110,7 @@ data:
     sütyen kopçası açamayan erkekler
   entry_id:  95579741
   entry_writer: deadgodinme
-  entry_fav_count: 174
+  entry_fav_count: 184
   entry_content: |
     bunu açamayanlar, o kopça sisteminin nasıl çalıştığını bilmeyenler. sallayıp dururlar kadını ve sütyeni. rezillik. <br/><br/>bir mühendis onu yarım saniyede açar.<br/><br/>edit: caart diye yırtanları görüyorum. enflasyondan haberi yok herhalde bunların. dayak yersiniz kadından.
   entry_channels: anket,ilişkiler
@@ -110,18 +118,18 @@ data:
     konut kredisi ile ev almak
   entry_id:  95587244
   entry_writer: uykusever
-  entry_fav_count: 172
+  entry_fav_count: 178
   entry_content: |
     15 yıl uzun olabilir ancak kredi ile ev almak mantık dışı değildir. bakmayın burdaki ergenlerin "ömör böyö börçmö ödöycöz" laflarına. zaten kirada oturuyorsunuz, yaşadığınız müddetçe kira ödeyeceksiniz. işsiz kalınca ev sahibiniz tabi tabi buyrun dilediğiniz kadar oturun demeyecek heralde. her harükarda işsiz kaldığınızda problem yaşayacaksınız ama ev alırsanız ömür boyu kira ödemeyeceksiniz en azından. <br/>geçenlerde okan bayülgen bir programda mal mülk almayı sevmediğini, materyalist olmadığından dem vuruyordu. hiç sevmem ev almayı, gerek yok diye konuştu iki saat. sonra sunucu sordu, ya çocuğun için hiç mi birikim yapmadın diye. cevap şu ben ona dünyadaki bir çok başkentte ev aldım, ilerde dünya vatandaşı olmasını isterim bla bla bla. hani materyalist değildin?<br/>insanlar ortamlarda havalı görünmek için iddialı cümleler kurarken, arka planda peşinat hesapları yapabiliyor. etkilenmeyin kimseden.
   entry_channels: ekonomi
 - entry_name: |
-    the beatles'ın karısını dövmesi
-  entry_id:  95596804
-  entry_writer: dadanda
-  entry_fav_count: 143
+    ibbde işe girmenin yolu chp teşkilatından geçer
+  entry_id:  95592156
+  entry_writer: bigiripcikicamabi
+  entry_fav_count: 142
   entry_content: |
-    (bkz: <a class="b" href="/?q=mazhar+fuat+%c3%b6zkan%27%c4%b1n+kar%c4%b1s%c4%b1">mazhar fuat özkan'ın karısı</a>)
-  entry_channels: anket
+    ulan ben 14 senedir istirak sirketinde calisiyorum...be kopek oglu kopekkk... siz buralarda ak partiye uye olmayan herkesi vatan haini ilan ettiniz... be ahlaksizlar..sevgili pelikanci kopekler.. sira size de gelecek...
+  entry_channels: siyaset
 - entry_name: |
     beşiktaş'ın bu hale gelmesinin sebebi
   entry_id:  95581480
@@ -131,21 +139,13 @@ data:
     bir tinerci olarak, rakip taraftarlarin bizimle tassak gecmesini cidden komik buluyorum, harbiden yaratici tassak gecio adamlar, isin ilginci buna bizim asiri tinerci mal arkadaslarimiz neden oluyor.<br/><br/>he bir de sey var, boyle rakip takimin mac basliklari altina kufur falan yazan salaklardan bahsetmiyorum, seviyeli tassak gecince guzel oluyo bundan bahsediyorum
   entry_channels: spor,anket
 - entry_name: |
-    ibbde işe girmenin yolu chp teşkilatından geçer
-  entry_id:  95592156
-  entry_writer: bigiripcikicamabi
-  entry_fav_count: 136
+    yağmur ve kapalı hava seven insan
+  entry_id:  95582419
+  entry_writer: cinderhella
+  entry_fav_count: 106
   entry_content: |
-    ulan ben 14 senedir istirak sirketinde calisiyorum...be kopek oglu kopekkk... siz buralarda ak partiye uye olmayan herkesi vatan haini ilan ettiniz... be ahlaksizlar..sevgili pelikanci kopekler.. sira size de gelecek...
-  entry_channels: siyaset
-- entry_name: |
-    pendik'te ormanı yakarken kameraya yakalanan kişi
-  entry_id:  95584438
-  entry_writer: hypertension
-  entry_fav_count: 111
-  entry_content: |
-    sizce bu adam kendi aklıyla, kendi düşünüp mü yapmıştır bunu yoksa birileri buna akıl verip, cebine para mı sıkıştırmıştır? <br/><br/>yakalanıp arkasındaki asıl orospu çocuklarının öğrenilmesi gerekiyor bence.
-  entry_channels: haber
+    yağmurun sesini, kasvetli havayı, serinliği, kadife gri gökyüzünü belki biraz da melankoliyi seven insandır. al çayını, kahveni, sahlepini aç müziğini otur balkondan dışarıyı seyret, kitabını oku, dizini filmini seyret. <br/>klişe mi? klişe evet ama bundan alınan keyif inkar edilemez.<br/><br/>edit: parası olmayan, tatil yapamayan, gezemeyen, asosyal, dışlanmış insandır falan denmiş. alakası yok. şahsen türkiye'nin farklı şehirlerinden ve eskisi kadar görüşmesek de birkaç ülkeden arkadaşlarım var. her sene tatile giderim ve tatil anlayışım kum, güneş, denizden ibaret değildir.<br/>ha velev ki öyle!<sup class="ab"><a title="(bkz: so what)" href="/?q=so+what" data-query="so what">*</a></sup> <br/>mutlu olmak için güneşe, paraya, tatile ve ikinci, üçüncü bir kişiye, kişilere ihtiyacı olmayandır. elindekiyle mutlu olmasını bilen kişilerdir bunlar. <br/>sevdiği bir şeyden yola çıkarak bile insanları kendinizden aşağı görecek ve eleştirecek kadar sorunlusunuz, haberiniz olmasa da özgüveninizde problemler var, benden söylemesi...
+  entry_channels: anket
 - entry_name: |
     19 eylül 2019 slovan bratislava beşiktaş maçı
   entry_id:  95572609
@@ -155,14 +155,6 @@ data:
     bratislava'nın avrupa ligi'nde bir maçta 3'ten fazla gol attığı takımlar:<br/><br/>milsami (moldova)<br/>pyunik (ermenistan)<br/>ucd (irlanda)<br/>europa (cebelitarık)<br/>cwmbran town (galler)<br/><br/>beşiktaş
   entry_channels: spor
 - entry_name: |
-    yağmur ve kapalı hava seven insan
-  entry_id:  95582419
-  entry_writer: cinderhella
-  entry_fav_count: 104
-  entry_content: |
-    yağmurun sesini, kasvetli havayı, serinliği, kadife gri gökyüzünü belki biraz da melankoliyi seven insandır. al çayını, kahveni, sahlepini aç müziğini otur balkondan dışarıyı seyret, kitabını oku, dizini filmini seyret. <br/>klişe mi? klişe evet ama bundan alınan keyif inkar edilemez.<br/><br/>edit: parası olmayan, tatil yapamayan, gezemeyen, asosyal, dışlanmış insandır falan denmiş. alakası yok. şahsen türkiye'nin farklı şehirlerinden ve eskisi kadar görüşmesek de birkaç ülkeden arkadaşlarım var. her sene tatile giderim ve tatil anlayışım kum, güneş, denizden ibaret değildir.<br/>ha velev ki öyle!<sup class="ab"><a title="(bkz: so what)" href="/?q=so+what" data-query="so what">*</a></sup> <br/>mutlu olmak için güneşe, paraya, tatile ve ikinci, üçüncü bir kişiye, kişilere ihtiyacı olmayandır. elindekiyle mutlu olmasını bilen kişilerdir bunlar. <br/>sevdiği bir şeyden yola çıkarak bile insanları kendinizden aşağı görecek ve eleştirecek kadar sorunlusunuz, haberiniz olmasa da özgüveninizde problemler var, benden söylemesi...
-  entry_channels: anket
-- entry_name: |
     ios 13
   entry_id:  95574614
   entry_writer: cathars
@@ -170,6 +162,14 @@ data:
   entry_content: |
     gelen aramayı yine arkaya atamıyoruz. telefonu esir alıyor. ya no'ya basacaksın ya da cevap vereceksin.<br/><br/>benim anlamadığım dünyada bundan şikayeti olan 3-4 kişi falan mıyız? o yüzden mi yıllardır gelmiyor bu özellik?
   entry_channels: bilim,programlama,teknoloji
+- entry_name: |
+    kyk borçlarının silinmesi
+  entry_id:  95591275
+  entry_writer: baret the white
+  entry_fav_count: 92
+  entry_content: |
+    yıllarca bedelli askerlik üzeriden <a class="b" href="/?q=click+bait">click bait</a> haber yapan gazetelerin yeni gözdesi. kyk borçları silinmesin. faizleri silsinler yeter başka bir şey istemiyorum.
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     leyla'nın ailesinin katilden şikayetçi olmaması
   entry_id:  95588331
@@ -179,26 +179,10 @@ data:
     kimsenin merak etmemesi gereken olay. bir insanı öldürmek, hele ki küçük bir yavrunun canına kıymak şikayete bağlı değildir. durup düşününce aile şikayetçi olmayınca birini öldürebilmeniz mantıklı geliyor mu? gelmiyor, böyle bir şey yok çünkü.<br/><br/>insanların canları kendi istese dahi alınamaz, aile isterse bizim için sorun değil biz de sevmezdik desin, yargılama yapılır. ölen kişi vatandaştır, ülke ona o ülkeye aittir. öldüren de ülkenin vatandaşını öldürmüş, kamu düzenini bozmuştur. <br/><br/>yargılama yapılacak, o katil de müebbet hapis cezası alacaktır hiç merak etmeyin.
   entry_channels: haber
 - entry_name: |
-    kyk borçlarının silinmesi
-  entry_id:  95591275
-  entry_writer: baret the white
-  entry_fav_count: 90
-  entry_content: |
-    yıllarca bedelli askerlik üzeriden <a class="b" href="/?q=click+bait">click bait</a> haber yapan gazetelerin yeni gözdesi. kyk borçları silinmesin. faizleri silsinler yeter başka bir şey istemiyorum.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    ben mert fırat sorularınızı yanıtlıyorum
-  entry_id:  95585752
-  entry_writer: integrali ceren olan adam
-  entry_fav_count: 86
-  entry_content: |
-    ekşi sözlük yönetimine sorar mısınız neden zorla "olan biten" başlığını bize takip ettiriyorlar?
-  entry_channels: tv,ekşi-sözlük,sinema,magazin
-- entry_name: |
     metallica'nın en iyi şarkısı
   entry_id:  95587978
   entry_writer: allahdiyenbaget
-  entry_fav_count: 72
+  entry_fav_count: 77
   entry_content: |
     (bkz: <a class="b" href="/?q=one">one</a>) gibi bir şarkı dünyaya gelmemiştir, gelmeyecektir.
   entry_channels: anket,müzik
@@ -219,37 +203,37 @@ data:
     kur'an'a güncelleme geldi heralde.<br/><br/>kadınların 90 km'den sonra araç kullanması haramdır açıklamasının ardından yeni bir haram olan olay. he dikkate alırlar da story atmayı keserlerse iyi olmaz mı olur tabi.<br/><br/>edit: peki ekşi'de entry girmek caiz midir?
   entry_channels: haber
 - entry_name: |
-    20 eylül 2019 51.bölge baskını
+    iett şöförlerine sakal yasağı getirilmesi
+  entry_id:  95571981
+  entry_writer: musbar
+  entry_fav_count: 45
+  entry_content: |
+    işid militanı tipli,ne idüğü belirsiz tarikatların o saçma sapan sakal şekillerine maruz kalmayacağız demek ki.
+  entry_channels: siyaset,haber,seyahat
+- entry_name: |
+    20 eylül 2019 51. bölge baskını
   entry_id:  95593343
   entry_writer: tengrist
-  entry_fav_count: 38
+  entry_fav_count: 41
   entry_content: |
     <a class="b" href="/?q=fox+mulder">fox mulder</a> sizinle gurur duyuyor aslanlar. yürüye durun.<br/><br/>(bkz: <a class="b" href="/?q=the+truth+is+out+there">the truth is out there</a>)
-  entry_channels: siyaset,haber
-- entry_name: |
-    bursa'da patileri kesilen kedi
-  entry_id:  95597243
-  entry_writer: aboulique
-  entry_fav_count: 30
-  entry_content: |
-    linki açmaya korktuğum başlık..<br/><br/>ulan bu kadar kötü olabilmek için ne yaşadınız? nasıl bu kadar gözünüzü kapatıp kötüleşiyosunuz anlamıyorum! topluca geberseniz de hiç bi masumun canı yanmasa!
-  entry_channels: haber
-- entry_name: |
-    20 eylül 2019 selahattin demirtaş tweet'leri
-  entry_id:  95599668
-  entry_writer: qunefee
-  entry_fav_count: 30
-  entry_content: |
-    allah kimseyi adaletsizliği savunacak kadar orospu cocuğu yapmasın.
-  entry_channels: siyaset
+  entry_channels: teknoloji,haber,havacılık
 - entry_name: |
     imamoğlu'na oy verenler şimdi neler düşünüyorlar
   entry_id:  95599990
   entry_writer: nerden dustum buraya bende bilmiyorum
-  entry_fav_count: 29
+  entry_fav_count: 32
   entry_content: |
     %40 indirimli su kullanıyorum<br/>öğrencisi olan tanıdıklarım 45 tl'ye çocuklarına akbil alıyorlar.<br/>ne idüğü belli olmayan vakıflara param gitmiyor.<br/>ak troller çıldırıyor<br/><br/>daha ne olsun lan 4 4 lük işte :)
   entry_channels: siyaset,anket
+- entry_name: |
+    20 eylül 2019 selahattin demirtaş tweet'leri
+  entry_id:  95599668
+  entry_writer: qunefee
+  entry_fav_count: 31
+  entry_content: |
+    allah kimseyi adaletsizliği savunacak kadar orospu cocuğu yapmasın.
+  entry_channels: siyaset
 - entry_name: |
     mucize doktor
   entry_id:  95576048
@@ -259,21 +243,21 @@ data:
     bazı insanlar var rol nedir nasıl yapılır bilmiyorlar.<br/><br/>bu <a class="b" href="/?q=the+good+doctor">the good doctor</a>'un fragmanı:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/fYlZDTru55g">https://youtu.be/fylzdtru55g</a><br/>52. saniyeden itibaren izleyin.<br/><a class="b" href="/?q=the+good+doctor">the good doctor</a>daki otizm neden daha kötü oynanmıştır bu sahne her şeyi özetliyor. bir otizmlinin en zor yapacağı şey göz kontağında bulunmaktır, ayrıca temastan da hoşlanmazlar. fragmanda ikisi de yok, yani otizmli bir genci değil de daha çok konuşma bozukluğu çeken bir genci canlandırıyor gibi duruyor.<br/><br/>mucize doktordaki otizm rolünde buna çok dikkat ediyorlar. en yakınıyla konuşurken bile göz kontağı kurmuyor, dokunulunca anında tepki veriyor, hoşlanmadığını belli ediyor.<br/><br/>iyi rol yapmak sizin inanmanız deildir, gerçeğe yakın olmasıdır. <a class="b" href="/?q=taner+%c3%b6lmez">taner ölmez</a> rolünün hakkını veriyor, şu role daha iyi girebilecek birini bulamazlardı.
   entry_channels: tv
 - entry_name: |
-    şahsi araçlarda sigara içme yasağı
-  entry_id:  95589681
-  entry_writer: homers
-  entry_fav_count: 26
-  entry_content: |
-    tayyip bey geçerken bütün trafiği kesiyorlar, çevresinde uçan kuş kalmıyor. <br/>nerede araba görmüş de içinde çocuklar varken babanın arabada sigara içtiğine şahit olmuş acaba?
-  entry_channels: siyaset,haber
-- entry_name: |
     sevgi ile aşk arasındaki fark
   entry_id:  95575243
   entry_writer: olabilir de olmaya da bilir
-  entry_fav_count: 19
+  entry_fav_count: 24
   entry_content: |
     ateşle toprak arasındaki fark gibi.<br/><br/>aşk ateştir. <br/><br/>parlaklığı, sıcaklığı cezbeder ama sonunda yanarsın. <br/><br/>sevgi topraktır. <br/><br/>emek verdikçe bereketi artar, cazibesi pek yoktur fakat nimeti de şevkati de boldur. her insanın en son durağı, sonunda kavuştuğudur.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    türkçe konuşmadığı için türk'ü uyaran italyan
+  entry_id:  95601189
+  entry_writer: muslimturk
+  entry_fav_count: 19
+  entry_content: |
+    yer:tv 8'de bir yemek yarışması..<br/><br/>şef italyan..<br/>yarışmacı türk..<br/>olay şu şekilde meydana geliyor<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/OmurdenSezgin/status/1174913677767561218" title="https://twitter.com/OmurdenSezgin/status/1174913677767561218">link</a>
+  entry_channels: 
 - entry_name: |
     behzat ç.
   entry_id:  95573063
@@ -283,12 +267,20 @@ data:
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>şevket : benimle evlenir misin nesime ?<br/>nesime : taşşağın görünüyor şevket
   entry_channels: tv,sinema,spoiler
 - entry_name: |
-    türkçe konuşmadığı için türk'ü uyaran italyan
-  entry_id:  95601189
-  entry_writer: muslimturk
+    akşam eve elinde poşetlerle gelen baba
+  entry_id:  95599519
+  entry_writer: teleferik
+  entry_fav_count: 19
+  entry_content: |
+    daha dün babasının yolunu gözleyen bir veletken, 2,3 yıldır kendisine dönüştüğüm insandır.<br/><br/>prensip olarak eve boş ellerle adım atmam. küçük ya da kaydedeğer, elimde mutlaka bir ihtiyaç, bir hediye kimi zaman bir sürpriz ile ev ahalisine merhaba derim.<br/><br/>bizim minnak elimdekilerle bir süre ilgilenip sıkılır ve kendi rutinine döner. eşim de öyle. ama o “bir sürede” özellikle kızımın meraklı, heyecanlı, bazen mest olmuş tepkilerinden benim aldığım haz çok fazla oluyor. şu an bu anların tek farkında ve zevkinde olan sanırım baba olarak benim. <br/><br/>ben öldükten sonra da eminim evladım ve eşim en çok farkına varacaktır.
+  entry_channels: ilişkiler
+- entry_name: |
+    arıların inanç düşmanlığına başlaması
+  entry_id:  95601147
+  entry_writer: zetsumei ouigi
   entry_fav_count: 16
   entry_content: |
-    yer:tv 8'de bir yemek yarışması..<br/><br/>şef italyan..<br/>yarışmacı türk..<br/>olay şu şekilde meydana geliyor<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/OmurdenSezgin/status/1174913677767561218" title="https://twitter.com/OmurdenSezgin/status/1174913677767561218">link</a>
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntv.com.tr/video/turkiye/dua-eden-protokole-ari-saldirisi,tHWE3RpR5UeTFE-Kd64B9Q" title="https://www.ntv.com.tr/video/turkiye/dua-eden-protokole-ari-saldirisi,tHWE3RpR5UeTFE-Kd64B9Q">https://www.ntv.com.tr/…risi,thwe3rpr5uetfe-kd64b9q</a><br/><br/>emin olana kadar arılar hakkında yazmayı düşünmüyordum ama bu olaylar artık sabrımı taşırdı. arıların nasıl inanç düşmanlığı yaptığını görün.
   entry_channels: 
 - entry_name: |
     müzik cuk oturmuş denilen film sahnesi
@@ -299,18 +291,18 @@ data:
     (bkz: <a class="b" href="/?q=thor+ragnarok">thor ragnarok</a>) <br/><br/>(bkz: <a class="b" href="/?q=immigrant+song">immigrant song</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Ihjx3mX75y8">https://www.youtube.com/watch?v=ihjx3mx75y8</a>
   entry_channels: anket,sanat,müzik,sinema
 - entry_name: |
-    yaşanılan ilçeyi adını söylemeden anlatmak
-  entry_id:  95571955
-  entry_writer: yarim kalan gufte
-  entry_fav_count: 12
+    öldükten sonra öğrenilmek istenen istatistikler
+  entry_id:  95601940
+  entry_writer: buharliutu
+  entry_fav_count: 11
   entry_content: |
-    çarkıfelek l harfi
-  entry_channels: anket
+    kaç litre bira tükettim?<br/>araçla kaç km yaptım ve kaç km yürüdüm ?<br/>kaç cümle kurdum?<br/>kaç kg yemek yedim?<br/>kaç saat müzik dinledim?<br/>kaç saat kendimi mutlu hissettim?<br/>kaç saat uyudum?<br/>kaç saat kahkaha attım?<br/>kaç saat ağladım?<br/>kaç para harcadım ve kazandım?
+  entry_channels: 
 - entry_name: |
     birisi yaparken izlemesi zevkli olan şeyler
   entry_id:  95588849
   entry_writer: vegan yamyam
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     seks olsa gerek aksi takdirde internetin üçte biri porno olmazdı.
   entry_channels: anket
@@ -318,18 +310,26 @@ data:
     metal grubu ismi olabilecek takım isimleri
   entry_id:  95598863
   entry_writer: veronica donmek istiyor
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     adana demirspor
   entry_channels: spor,müzik
 - entry_name: |
-    ahmet ercanlar
-  entry_id:  95598937
-  entry_writer: offluhoca
-  entry_fav_count: 3
+    e devlet sisteminin avrupada olmayışı
+  entry_id:  95602542
+  entry_writer: tribinisiktigiminkoalasi
+  entry_fav_count: 4
   entry_content: |
-    <a class="b" href="/?q=kolarov">kolarov</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/espntrol/status/1175006448146944001" title="https://twitter.com/espntrol/status/1175006448146944001">transferi</a> hakkında öyle yükseklerden uçmuş ki off off... şu video bana ait olsa bir daha gazeteciyim diye ortalıkta gezmezdim.<br/><br/>tanım: <a class="b" href="/?q=paral%c4%b1">paralı</a> gasteci
-  entry_channels: spor
+    hic bir devlet ofisine gitmeden sirket kurup, vergisini verip, banka hesabini acip, otunu bokunu yapabildigin bir ulkedeyim. imzali, damgali belge diye bir kavram yok gibi (yani imza var ama kimse islak imza atacan diye zorlamiyor, banka kimligiyle girip kabul etmen de imza sayiliyor). kisaca teknoloji kullaniminda dunyanin en ileri ulkelerinden biri.<br/><br/>buna ragmen bu tarz bir portallari yok. ihtiyac var mi o ayri konu ama tum kurumlarin kendi siteleri ve ayri altyapilari var. entegre bir durum yok. o yuzden evet turkiye.gov.tr bu acidan cok basarili bir uygulama.
+  entry_channels: teknoloji
+- entry_name: |
+    cumhurbaşkanı erdoğan'ın cuma namazı konvoyu
+  entry_id:  95603214
+  entry_writer: gayri safii milli ariza
+  entry_fav_count: 4
+  entry_content: |
+    peygamber efendimiz rasulullah aleyhissalatu vesselam, camii inşaatında bizzat bulundu, taşları bizzat taşıyıp yerleştirdi. ama "ümmetiyiz" dediği insanların "bu yola kefenimizle çıktık" diyen insanların camii yoluna bile nasıl çıktığı aşikâr. o konvoydaki arabaların depolarında yanan benzinlerde garibanların hakkı var. o hak, elbet kimsenin yanına kalmaz.
+  entry_channels: siyaset,otomotiv
 - entry_name: |
     koçum diye mesaj yazan çaylak
   entry_id:  95599026
@@ -379,20 +379,20 @@ data:
     sözlükte çok aptalca mesaj atanlara küfür ediyorum, kendimi tutamıyorum. <br/><br/>sonra diyorum ki bu sen değilsin sakin ol. mesaja tekrar bakıyorum acaba özür mü dilesem diye, sinirleniyorum ve az bile etmişim diyerek kapatıyorum. <br/><br/>ekşi sözlük beni kötü biri yapıyor.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    e devlet sisteminin avrupada olmayışı
-  entry_id:  95602542
-  entry_writer: tribinisiktigiminkoalasi
-  entry_fav_count: 1
-  entry_content: |
-    hic bir devlet ofisine gitmeden sirket kurup, vergisini verip, banka hesabini acip, otunu bokunu yapabildigin bir ulkedeyim. imzali, damgali belge diye bir kavram yok gibi (yani imza var ama kimse islak imza atacan diye zorlamiyor, banka kimligiyle girip kabul etmen de imza sayiliyor). kisaca teknoloji kullaniminda dunyanin en ileri ulkelerinden biri.<br/><br/>buna ragmen bu tarz bir portallari yok. ihtiyac var mi o ayri konu ama tum kurumlarin kendi siteleri ve ayri altyapilari var. entegre bir durum yok. o yuzden evet turkiye.gov.tr bu acidan cok basarili bir uygulama.
-  entry_channels: teknoloji
-- entry_name: |
-    kanser hastasına yardım kampanyası
-  entry_id:  95576553
-  entry_writer: ideas worth spreading
+    şu anda çalan şarkı
+  entry_id:  95579989
+  entry_writer: ltbadispatcher
   entry_fav_count: 0
   entry_content: |
-    şifa bulur umarım. up.
+    fairuz <br/><br/>la inta habibi
+  entry_channels: anket,müzik
+- entry_name: |
+    kanser hastasına yardım kampanyası
+  entry_id:  95576657
+  entry_writer: osicran
+  entry_fav_count: 0
+  entry_content: |
+    umarım çok çabuk iyileşir. yukarı.
   entry_channels: sağlık,haber
 - entry_name: |
     bira içmelik arkadaş veritabanı
