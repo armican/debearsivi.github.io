@@ -6,7 +6,7 @@ data:
     tavukçu dükkanı için isim önerileri
   entry_id:  95895569
   entry_writer: nenickyazsambilemedim
-  entry_fav_count: 475
+  entry_fav_count: 483
   entry_content: |
     (bkz: <a class="b" href="/?q=chicken+chicken+gelin">chicken chicken gelin</a>)
   entry_channels: anket,yeme-içme
@@ -14,7 +14,7 @@ data:
     o deli prenses penis arıyor
   entry_id:  95904541
   entry_writer: thereale
-  entry_fav_count: 461
+  entry_fav_count: 467
   entry_content: |
     paralel evrende bir <a class="b" href="/?q=nil+karaibrahimgil">nil karaibrahimgil</a> şarkısı
   entry_channels: müzik
@@ -22,26 +22,26 @@ data:
     galatasaray fenerbahçe derbisine bir kehanet bırak
   entry_id:  95893187
   entry_writer: aziz matta
-  entry_fav_count: 460
+  entry_fav_count: 461
   entry_content: |
     maç sonunda “altay çok genç bir kaleci. bu tip hatalar yapması doğal. zaten önündeki stoper hattı da henüz oturmadı.” diye konuşulacak.
-  entry_channels: spor
-- entry_name: |
-    falcao attı 7-0 oldu
-  entry_id:  95897501
-  entry_writer: gayri safii milli ariza
-  entry_fav_count: 441
-  entry_content: |
-    (bkz: <a class="b" href="/?q=hayallerde+ya%c5%9f%c4%b1yor+baz%c4%b1+ibneler">hayallerde yaşıyor bazı ibneler</a>)
   entry_channels: spor
 - entry_name: |
     28 eylül 2019 d.bahçeli'nin hastaneye kaldırılması
   entry_id:  95894241
   entry_writer: didierdrogba07
-  entry_fav_count: 404
+  entry_fav_count: 407
   entry_content: |
     memleketin anasını bellemiş, ülkenin istikametinin değişmesinde rol oynamış, milyonlarca gencin geleceğini karartılmasında bilinçli ve aktif payı var...<br/><br/>sözlük yazarları hala da bık bık da bık bık... umarım hak ettiği cehenneme tez zamanda kavuşur.
   entry_channels: siyaset,haber
+- entry_name: |
+    evlilikte kadın faşizmi
+  entry_id:  95903249
+  entry_writer: donjohnston
+  entry_fav_count: 313
+  entry_content: |
+    kadın faşizminden ziyade erkek sünepeliğidir. 10 yaşında çocuk gibi kendisine her söylenene, her dayatılana kafa sallayan erkek müsvetteliğidir. adamın kendi evinde kendi yaşam tarzına uygun bi tane mobilya yok, şaka gibi.<br/><br/>alt tarafı bir am sikecek, değer mi bu kadar palyaçoluğa? <br/><br/>sikinizi kesin yerine anamur muzu koyun ama onurlu yaşayın. etraf tasmalı köle erkek dolu.
+  entry_channels: ilişkiler
 - entry_name: |
     on ülkücünün bir kişiye sırtlan gibi saldırması
   entry_id:  95885162
@@ -51,26 +51,10 @@ data:
     ulkucu gencligin genetiginde olan orospu cocuklugudur. neden bu kadar sasirdiniz ki?<br/><br/>bunlarla universite yurdunda da muhattap olmustum. 3-5 cakal toplaninca artislik yaparlardi, tek kalinca eblek gibi siritirlardi.
   entry_channels: siyaset,haber
 - entry_name: |
-    evlilikte kadın faşizmi
-  entry_id:  95903249
-  entry_writer: donjohnston
-  entry_fav_count: 301
-  entry_content: |
-    kadın faşizminden ziyade erkek sünepeliğidir. 10 yaşında çocuk gibi kendisine her söylenene, her dayatılana kafa sallayan erkek müsvetteliğidir. adamın kendi evinde kendi yaşam tarzına uygun bi tane mobilya yok, şaka gibi.<br/><br/>alt tarafı bir am sikecek, değer mi bu kadar palyaçoluğa? <br/><br/>sikinizi kesin yerine anamur muzu koyun ama onurlu yaşayın. etraf tasmalı köle erkek dolu.
-  entry_channels: ilişkiler
-- entry_name: |
-    lut kavminin başına gelenleri biliyoruz
-  entry_id:  95895902
-  entry_writer: karanlikta kaybolamayan kahraman
-  entry_fav_count: 256
-  entry_content: |
-    ensar vakfında olanları da biliyorsunuzdur o zaman.<br/>boş beleş bir açıklama.
-  entry_channels: tarih,haber
-- entry_name: |
     dedesi hiç dam loğlamamış gibi rezidansta yaşamak
   entry_id:  95905643
   entry_writer: efiltem
-  entry_fav_count: 251
+  entry_fav_count: 268
   entry_content: |
     38 yıldır yazarım bundan daha güzel başlık okumadım amk.
   entry_channels: ekonomi
@@ -78,7 +62,7 @@ data:
     10 bin tl maaşın yetmemesi
   entry_id:  95886350
   entry_writer: nickim de getti
-  entry_fav_count: 240
+  entry_fav_count: 243
   entry_content: |
     klişeler bazen işe yarıyor, hep denildiği gibi "ne kadar gelirin olursa o kadar giderin olur." sözü bu durum için geçerli. insanların en önemli özelliklerinden biri de her koşula, her duruma adapte olabilme yeteneğidir. yeri gelir maaşlı bir işte 15 bin tl de kazanıp öyle yaşarsın, başka bir zaman olur 500 dolar güzel para dersin, öyle yaşarsın. para gelir ve gider, o hiç önemli değil. insanlığımız gelip gitmesin, o yeter.
   entry_channels: ekonomi
@@ -118,7 +102,7 @@ data:
     para dolu cüzdanı polise teslim eden suriyeli
   entry_id:  95907924
   entry_writer: genelevdeki polis
-  entry_fav_count: 105
+  entry_fav_count: 107
   entry_content: |
     "tamam onu en son göndeririz" dediğim suriyelidir.
   entry_channels: haber
@@ -126,39 +110,31 @@ data:
     film yönetmenin midir senaristin midir sorunsalı
   entry_id:  95904960
   entry_writer: penguent
-  entry_fav_count: 89
+  entry_fav_count: 93
   entry_content: |
     cevabı <a class="b" href="/?q=yap%c4%b1mc%c4%b1n%c4%b1nd%c4%b1r">yapımcınındır</a> olan soru.<br/><br/>yönetmenin de, senaristin de havası yapımcıyı görene kadardır.
   entry_channels: anket,sanat,sinema
 - entry_name: |
-    ekrem imamoğlu
-  entry_id:  95893148
-  entry_writer: aimu
-  entry_fav_count: 78
-  entry_content: |
-    helal olsun bu adama. adamın sıfır falsosu var. orospu evladı paralı it sürüsü nereden nasıl sallayacagini şaşırmış durumda gittikçe daha da sacmaliyorlar
-  entry_channels: siyaset
-- entry_name: |
     illegal maç yayını yapan şerefsizler
   entry_id:  95908661
   entry_writer: uhud
-  entry_fav_count: 68
+  entry_fav_count: 88
   entry_content: |
     yıl olmuş 2019, hâlâ bunlardan yok mu yahu?<br/><br/>alırız.
   entry_channels: spor,tv
 - entry_name: |
-    beklenen büyük istanbul depremi
-  entry_id:  95885640
-  entry_writer: kelly bundey
-  entry_fav_count: 66
+    ekrem imamoğlu
+  entry_id:  95893148
+  entry_writer: aimu
+  entry_fav_count: 80
   entry_content: |
-    depremlerle alakalı en yaygın şehir efsanelerinden biri şudur: "normalde 7+ büyüklüğünde deprem beklenen bir yerde 4-5 büyüklüğünde bir çok deprem olursa enerji boşalır ve büyük deprem riski ortadan kalkar." bu başlıkta bile her 5-6 entry'de bir "keşke 4-5'lik ufak depremler olsa da enerji bu şekilde boşalsa" denmiş ama bu bir şehir efsanesidir. <br/><br/>dünyada 7+ üzeri büyüklükte deprem üretebilme kapasitesi olan yüzlerce fay hattı var ve bugüne kadar küçük depremlerle enerjisi boşalıp büyük deprem riski ortadan kalkmış bir tane bile fay tespit edilebilmiş değil. aksine küçük depremlerin daha büyük depremler tetiklediği bir çok örnek var. bu örneklerden biri 2011'deki 9.1 büyüklüğündeki japonya depremi. normalde o fay hattında en az 2020'ye kadar deprem beklenmiyordu ama depremden 1 gün önce gerçekleşen biri 7.3 diğeri de 6.7 büyüklüğündeki 2 deprem sonraki günkü büyük depremi tetiklemiş gibi gözüküyor. birkaç ay önce california'da önce 6.4'lük deprem geldi, ardından 7.1'lik ana deprem geldi. küçük depremler büyük depremlerin enerjisini boşaltmaz, aksine büyük deprem üretmek için kilitlenmiş olan fay hatlarının üzerindeki yükü arttırarak depremi erkene bile çekebilir.
-  entry_channels: bilim,tarih
+    helal olsun bu adama. adamın sıfır falsosu var. orospu evladı paralı it sürüsü nereden nasıl sallayacagini şaşırmış durumda gittikçe daha da sacmaliyorlar
+  entry_channels: siyaset
 - entry_name: |
     cinnah otel maaş vermeme rezaleti
   entry_id:  95906681
   entry_writer: blomblam
-  entry_fav_count: 63
+  entry_fav_count: 68
   entry_content: |
     sevgili suserler (bkz: <a class="b" href="/?q=maa%c5%9f%c4%b1+geciktiren+patron">maaşı geciktiren patron</a>) rezaletine bir yenisini daha eklemek üzere, derdime çare aramak için bu başlığı açmış bulunuyorum. malesef patron otellerinin bir yenisinde çalışmış ve işten ayrılmış biri olarak 2 aydır maaşımı almamış bulunuyorum.<br/><br/>19 temmuz 2019’da <a class="b" href="/?q=cinnah+otel">cinnah otel</a> "resepsiyon" bölümünde iş başı yapmaya başlamıştım. bana <a class="b" href="/?q=gece">gece</a> çalışıcağımı söylediler. bende; zamanla düzelir, shiftler ile dengeleriz dedikleri için kabul ettim.<br/><br/>ilk 1 hafta bana işi gösterdiler. öyle yap, böyle yap, program böyle çalışıyor vs... aşamalarına bende elimden geldiğince hızlı alıştım ve dediğim gibi bir haftada öğrendim staj yapmıştım daha önce ön büroda farklı otelde kolay oldu. sonrasında ise 3 kişi çalıştığımız resepsiyon bölümünden, iki arkadaş ayrı ayrı izine ayrıldı ve geriye 2 çalışan kaldık o ara; bana işi gösteren çalışan arkadaş: gelmeyen odaları basmamı söylemişti. bende programda gelmeyen odaları yazdım ama bana " fazla oda basmışsın, maaşından 700 lira kesilebilir " denildi.<br/><br/>zaten 2.300 tl ile başladığım işte 700 tl az bi miktar degil doğal olarak bu duruma canım baya sıkıldı yine de işime devam ettim.<br/><br/>6 gün sonra izinden gelen arkadaşın ardından öteki çalışanda izine ayrıldı doğal olarak eleman eksikliğinden kaynaklı bana haftalık izin dahi kullanma fırsatı verilmedi. günde 12 saat çalışıyodum, ve fazla saat ve günlerin ücretlerini mesai olarak alabileceğimi söylenmişlerdi ?*!<br/>sabah 8 öğlen 3 <br/>öğlen 3 gece 11 <br/>gece 11 sabah 8 olması gerekendi<br/>fakat ben 19:00 sabah 8:30 çalıştım sürekli<br/><br/>ardından izine ayrılan diğer kişi de tam 10 gün sonra iş başı yaptı. bense o geldikten sonra <a class="b" href="/?q=sadece+bir+g%c3%bcn">sadece bir gün</a> izin kullanabildim. gece çalıştığımız için artık bünyem 12 saat çalışmaya el vermiyordu ki psikolojik olarakta bu duruma gercekten dayanamadım. hani arada bir sabahları resepsiyonda dursam belki düzen sağlayabilirdim ama hep gece çalışmak güneşe çıktığım anda direncimi kırmaya başımı döndürmeye ve inanılmaz baş ağrılarıyla uğraşmama neden olmaya başlamıştı. bu durumu müdürüm ile görüştüm ki; o da <a class="b" href="/?q=senede">senede</a> sadece ve sadece 1 hafta gündüze yazabiliriz dedi. o an başımdan kaynar sular döküldü resmen... bunun üzerine daha fazla dayanmayacağımı düşünerek işi bıkmaya karar verdim.<br/><br/>4 gün bayramda da çalışıp 19 ağustos 2019 da işten ayrıldım. bu arada; bayramda 4 gün izin almak yerine çalış para alırsın dediler ve bende daha önce hata yaptığımı söyledikleri 700 tl'lik ücreti telafi edebilmek adına çalışıp öyle işten ayrıldım. <br/><br/>bugün 28 eylül 2019 ve ben üzerinden 2 ay geçmesine rağmen hala maaşımı alamadım.<br/><br/>sürekli; pazartesi verilcek! çarşamba verilcek... diyerek geçiştirildim. ve gerçekten yıprandım. bugün ise bana, "<a class="b" href="/?q=otelde+para+olursa">otelde para olursa</a> ????? 1800 lira vereceğiz. " dediler. yani mesailerim ve bayramda çalıştığım 4 gün izinde dahil olmak üzere 16 gün boyunca çalıştığım 192 saat çalışma ücretimi hesaplanmadan, 700 liralık yanlışıma vergileri ekleyerek benim maaşımdan keseceklerini öğrendim. <br/><br/>mesai 1,5 değil 1 dedi muhasebeci bu da aydı parantez..<br/><br/>kendi hesaplarımda şunlar 1,5 dan hesaplarsak<br/><br/>maaş/8 x 1,5 = 1034 tl <br/>4 gün izin 306 tl<br/>2300 maaş +1340 = 3.640 alıncak tutar<br/>700 lira kestiklerini var sayalım <br/>2.940 tl ediyor. otelde para olursa ödemeyi düşündükleri para 1800 e yakın?!<br/><br/>işin kötüsü hala da kesin birşey yok. <br/><br/>otel patronun dediğine göre; patron kabul etmemiş boş odaların basılmasını. müdürün söylediğini ve kesinti yapılmasını söylemiş sadece bana iletilen tek bilgi bu. <br/><br/>bu konuda lütfen bana yardımcı olun bazılarına göre günlük harcama olan bu para bazılarının bir aylık emeği, alın teri... daha fazla insanın hakkı yenmesin. önerilere açığım şimdiden yardımlarınız için teşekkür ediyorum
   entry_channels: ekonomi
@@ -174,10 +150,18 @@ data:
     kadınlar komple haramdır
   entry_id:  95901542
   entry_writer: hermenotik nihilist
-  entry_fav_count: 45
+  entry_fav_count: 49
   entry_content: |
     müslümanlara yaptığım kıyak bir fetvadır. yok fermuarlı kot haram, yok yolda yürümesi, gülmesi vs...<br/><br/>uğraşmayın, komple haramladım gitti.
   entry_channels: ilişkiler
+- entry_name: |
+    doktorların hayat kadınlarından güvenilmez olması
+  entry_id:  95909719
+  entry_writer: dergul
+  entry_fav_count: 44
+  entry_content: |
+    aynı kişilere "çocuğunuzu tıp fakültesine gitmesine engel olur muydunuz?" diye sorsak, aynı sonuçları alır mıydık?<br/><br/>edit: açan hemen kaçıp, benim üstüme bırakmış. şuan, türk filmlerinde eline silah tutuşturulup, suçu üstlenen garibanlar gibi hissediyorum.
+  entry_channels: 
 - entry_name: |
     türkiye'deki en güvenilmez meslek grubu
   entry_id:  95885357
@@ -190,23 +174,15 @@ data:
     çocuk sahibi olunca hayatın kaydığı gerçeği
   entry_id:  95892354
   entry_writer: bnl dgr
-  entry_fav_count: 36
+  entry_fav_count: 37
   entry_content: |
     maalesef doğru olabilen tespit..<br/><br/>şimdi bakalım düşünelim..<br/><br/>- körükörüne çocuk isteyen çocuk yapan çiftler..<br/><br/>- ayyy çocook istiyoom diyen bekar tipler..<br/><br/>- çocuk sahibi olmak için yıllarca tedavi gören maddi manevi yıpranan insanlar..<br/><br/>soruyorsun neden diye.. 'ayy nebiliyiimm istiyorum <a class="b" href="/?q=yumu%c5%9f+yumu%c5%9f">yumuş yumuş</a>şş..', 'aaa çocuk dünyanın en güzel şeyiiii.. ', 'aman nebiliyim kazayla oldu yoksa düşünmüyoduk..' vb. geniş skalada cevap alınıyor..<br/><br/>daha hiç 'dünyanın ihtiyacı olan beyin gücünü <a class="b" href="/?q=kocam%c4%b1n+ta%c5%9f%c5%9faklar%c4%b1ndan">kocamın taşşaklarından</a> alıp, kültürel zenginliğimizi katarak büyütecem.. tüm bilim kariyerini planladım.. dünyaya şu alanda ışık olacak benim yavrum.. tüm eğitimini ayarladım şansa bırakmadım..' diyen birini görmedim..<br/><br/>genelde insanlar ,<br/><br/>-markette bağırarak koşsun kafa siksin diye<br/><br/>-bu yaştan sonra geç kalmayalım diye<br/><br/>-hayatta tutunacak dal olsun diye<br/><br/>-torun sevgisine malzeme olsun diye<br/><br/>-adettendir diye..<br/><br/>çocuk doğuruyor..<br/><br/>neden kısmına mantıklı bir cümle kuramayanların hayatı kayıyor özetle..
   entry_channels: anket,ilişkiler
 - entry_name: |
-    doktorların hayat kadınlarından güvenilmez olması
-  entry_id:  95909719
-  entry_writer: dergul
-  entry_fav_count: 36
-  entry_content: |
-    aynı kişilere "çocuğunuzu tıp fakültesine gitmesine engel olur muydunuz?" diye sorsak, aynı sonuçları alır mıydık?<br/><br/>edit: açan hemen kaçıp, benim üstüme bırakmış. şuan kendimi, türk filmlerinde eline silah tutuşturulup, suçu üstlenen garibanlar gibi hissediyorum.
-  entry_channels: 
-- entry_name: |
     kol saati mağazası için isim önerileri
   entry_id:  95900407
   entry_writer: milamber
-  entry_fav_count: 33
+  entry_fav_count: 35
   entry_content: |
     <a class="b" href="/?q=me%c5%9fhur+nijeryal%c4%b1+saat%c3%a7isi">meşhur nijeryalı saatçisi</a>
   entry_channels: anket,moda
@@ -214,7 +190,7 @@ data:
     büyük istanbul göçü
   entry_id:  95885433
   entry_writer: smokinle kopruden atlayan adam
-  entry_fav_count: 32
+  entry_fav_count: 33
   entry_content: |
     yazması kolay (dün ben de benzerini yazdım) ancak uygulaması imkansıza yakın. <br/><br/>çünkü:<br/><br/>1-) hali hazırda devletin marmara dışına yatırım için verdiği müthiş teşvikler var. <br/><br/>ancak beklenen akışı sağlamıyor çünkü özel sektör riski sevmez, gidip altyapı kurulmasını beklemez. bu nedenle devlet kendi gitmeli ve sonra özelleştirmeli veya anonim ortaklık ile çözmeli. <br/>(fakat bizimkiler devletçiliği ve hele ki uzun vadeli yatırımları hiç sevmezler bu nedenle imkansız.)<br/><br/>2) ulaşım: iç anadolu tabiatıyla denize kıyısı olmadığı ve nehir yolu olmadığı için kaybediyor.<br/><br/>bu durumda demiryolu, karayolu ve havayolu ile telafi edilmesi gerekiyor.<br/><br/>iç anadolu’nun istanbul’un sanayi kapasitesi yükünü kaldırması için çok ekmek yemesi, her limana hızlı ulaşan hatlara sahip olması lazım yoksa kimse gitmez. (ya da deprem marmara’yı yıkar, zorunlu gideriz ancak şu an özel sektör oraya gitmez.) <br/><br/>oralara en azından yoğun yük taşıyabilecek demiryolları lazım. onun için de para lazım. <br/><br/>fakat gel gör ki biz paraların çoğunu deprem bölgesi marmara’ya, çeşit çeşit inşaatlara gömdük, ve şu an para yok :) <br/><br/>***<br/><br/>özet:<br/><br/>biz türkler başımıza bir müsibet gelmeden böyle işlere girişmeyiz, uzun vadeli plan sevmeyiz. huy meselesi. <br/><br/>biz ne kadar ötsek de hiçbir yönetim bu saydıklarımızı yapmaz çünkü müthiş girift, düğümlenmiş bir rant kapısı var. allah’tan veya doğadan zorlama gelmediği müddetçe bunu kimse bozamaz. <br/><br/>bu nedenle en azından müsibet sonrası yapalım demiştim : (bkz: <a class="b" href="/entry/95853632">#95853632</a>)<br/><br/>kaçınılmaz son sonrası burası işlemez olacağı için tedbirle karışık kaydırmak zorunda kalabiliriz (artık buraya kurulmayalım değil mi!). <br/><br/>zorunlu şekilde iç anadolu’ya kaymamız gerektiğine kanaat getireceğimiz için gelecek krediler/fonlar üstte saydığım şekilde değerlendirilebilir ve gelecek nesiller kurtarılabilir. <br/><br/>eğer mevzubahis gelecek fon stoğunu iyi yönetecek olursak daha sağlıklı bir altyapıya ve <a class="b" href="/?q=homojen+n%c3%bcfus+da%c4%9f%c4%b1l%c4%b1m%c4%b1na+sahip">homojen nüfus dağılımına sahip</a> bir türkiye yaratabiliriz.<br/><br/><a class="b" href="/?q=bonus">bonus</a>: doğu’ya yavaş yavaş (ani değil) kaymaya başlayan sanayi ve istihdam, terör sorununu da zaman içinde sıfırlar (bir-iki on yıl).<br/><br/><a class="b" href="/?q=bonus+2">bonus 2</a>: akdeniz bölgesi batı kısmı ve ege de deprem tehlikesi altında ve karadeniz de çok yeşillik olduğu için doğasını bozmak istemedim; bu nedenle sanayi hep bakir olan iç kısımlara dönsün dedim. <br/><br/>bunun bonus’u da şu: <br/><br/>harika bir sahil hattına sahip olduğumuz için ta <a class="b" href="/?q=artvin">artvin</a>’den istanbul’a, istanbul’dan mersin-hatay’a kadar tüm sahil şeridini mümkün olduğunca sanayiden ve yüksek nüfustan arındırırsak ve tüm şeridi estetik ve mimari olarak buna hazırlarsak korkunç sayıda nitelikli turist çekeriz. (çok kazanırız ve biz de çok güzel yaşarız; kesinlikle refah seviyemiz çok artar.) <br/><br/>***<br/><br/>şehir demek insan için yaşanılası yaşam alanları demek. <br/><br/>bizde şu an bu tanıma uyan şehir yok, hep yaşamak için mücadele ediyoruz. uzun vadeli olarak bütün türkiye baştan aşağı yenilenmeli, <a class="b" href="/?q=kilim+desenli+bina+k%c3%bclt%c3%bcr%c3%bc">kilim desenli bina kültürü</a>nü yok edip gerçek şehir kültürüne geçmeli, şehirlerin merkezlerini de arabanın giremediği, insanların birbirinin üstüne çıkmak zorunda kalmadığı, “insan”a uygun bölgeler haline getirmeliyiz. <br/><br/>sahil şeridinde de hava, doğa kirliliği ve yoğun nüfus olmaksızın insanlar tatil yapabilmeli. iç anadolu’da ve güney/doğu anadolu’da da üreteceğiz. <br/><br/>ülkenin potansiyeli çok büyük. hep sorduğumuz: “burası x’in elinde olsa nasıl olurdu?” sorusunun cevabını buralar bizim elimizdeyken hayata geçirmemiz lazım. bunu normal şartlar altında yapmazdık biliyorum ancak maalesef olması beklenen elem olay yapmamız için fırsat olacak. bu sefer yapmazsak gelecek nesillee aynı sefillikleri yaşayacaklar. umarım bu kadar aptal ve bencil olmayız...
   entry_channels: anket,seyahat
@@ -230,7 +206,7 @@ data:
     brad pitt'i andıran yazarlar veritabanı
   entry_id:  95902328
   entry_writer: jason bourne seksapeli
-  entry_fav_count: 29
+  entry_fav_count: 30
   entry_content: |
     google earth'ten bakınca ben baya benziyorum.
   entry_channels: ekşi-sözlük,magazin
@@ -238,7 +214,7 @@ data:
     efendi erkeğin önünde sonunda kazanacak olması
   entry_id:  95898030
   entry_writer: lovern32
-  entry_fav_count: 20
+  entry_fav_count: 24
   entry_content: |
     her haltı serserilerle yaşayıp günün sonunda boşta kalmış kelepir topçu gibi efendi erkeklere dönülünce erkekler mi kazanmış oluyor? bence böyle bir durumda efendi erkek siktiri çekerse kazanmış olur.
   entry_channels: ilişkiler
@@ -254,7 +230,7 @@ data:
     hatunların en güzel oldukları yaş
   entry_id:  95907012
   entry_writer: crocgreen
-  entry_fav_count: 17
+  entry_fav_count: 19
   entry_content: |
     27-32
   entry_channels: anket,ilişkiler
@@ -262,7 +238,7 @@ data:
     sahibinden.com'daki yaran motosiklet ilanı
   entry_id:  95905427
   entry_writer: hakantheturk
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     (bkz: <a class="b" href="/?q=yarmad%c4%b1">yarmadı</a>)<br/><br/>sahibindende satamayınca sözlükte reklam yapan muhtemel yazar ilanı.
   entry_channels: haber,motosiklet
@@ -275,6 +251,14 @@ data:
     herkes benzer bir deprem istanbul’da olsa büyük can kaybı olacağını söylüyor ama bu deprem istanbul’da olsa ardahan bile yıkılır o kadar diyeyim size.<br/><br/>gölcükte yaşanan deprem eskişehir’de bina yıktı yahu 33 kişi can verdi.
   entry_channels: tarih,haber
 - entry_name: |
+    ankara musluk suyu kalitesi
+  entry_id:  95907626
+  entry_writer: deli ali 667
+  entry_fav_count: 11
+  entry_content: |
+    musluk suyu kaliteli olabilir de binaların tesisatları olsun, binaların tesisatına suyun gittiği borular olsun... bunlarda sıkıntı olabilir.<br/><br/>sırf apartman dairelerinin, evlerin tesisatı değil sokakların da tesisatını kontrol etmek gerek.
+  entry_channels: 
+- entry_name: |
     28 eylül 2019 galatasaray'ın fener'i yenmesi
   entry_id:  95910143
   entry_writer: fntkkrl
@@ -283,18 +267,34 @@ data:
     adam alışılmış olay dedi gerçekten. kendi sahanızda bile 5 yıldır yenemiyonuz.
   entry_channels: spor
 - entry_name: |
-    ankara musluk suyu kalitesi
-  entry_id:  95907626
-  entry_writer: deli ali 667
-  entry_fav_count: 9
+    derbi izlemeyecek olgunluğa erişmek
+  entry_id:  95912052
+  entry_writer: sonuncu nokta
+  entry_fav_count: 10
   entry_content: |
-    musluk suyu kaliteli olabilir de binaların tesisatları olsun, binaların tesisatına suyun gittiği borular olsun... bunlarda sıkıntı olabilir.<br/><br/>sırf apartman dairelerinin, evlerin tesisatı değil sokakların da tesisatını kontrol etmek gerek.
+    ortaokulda filan bu olgunluğa erişmiştim. haa bazıları var gelmiş 40 küsür yaşına forma giyip yüzüne boya da sürüp metrolarda, meydanlarda bağra bağra karşı takıma küfür ediyor. yanlış bir hareket bence
   entry_channels: 
+- entry_name: |
+    max kruse
+  entry_id:  95911503
+  entry_writer: parliament night blu ray
+  entry_fav_count: 8
+  entry_content: |
+    istiklal marşımıza eşlik eden alman futbolcu. helal valla.<br/><br/>milliyetçilikte bizim kadar ateşli başka bir ülkeden gelip marşa katılması ayrı anlamlı oldu.
+  entry_channels: spor
+- entry_name: |
+    max kruse'nin istiklal marşını okuması
+  entry_id:  95912235
+  entry_writer: antikadimag
+  entry_fav_count: 8
+  entry_content: |
+    kendisinin aldığı parayı alsam alman ulusal marşını tersten okurum.
+  entry_channels: spor
 - entry_name: |
     türk telekom
   entry_id:  95885286
   entry_writer: o komsu cocugu benim
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     kendisiyle taahhüt süresi bitince ayrılacağız inşallah, ailemin aklı çıktı ulaşamadım diye onlara. istersen sınırsız internet ver, acil durumlarda çalışmıyorsan hiç bir esprin yok.<br/><br/>not: aycell'den beri kullanıcı
   entry_channels: teknoloji,ekonomi
@@ -302,18 +302,10 @@ data:
     hülya hökenek
   entry_id:  95886325
   entry_writer: poeamare
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     gördüğüm en beceriksiz moderatör.
   entry_channels: siyaset,tv,haber
-- entry_name: |
-    toprak razgatlıoğlu
-  entry_id:  95904201
-  entry_writer: bir zinciri bir devreye vurdum
-  entry_fav_count: 3
-  entry_content: |
-    keşke altın elbiseli adam da bu birinciliği görebilseydi.<br/><br/>edit:düzeltme
-  entry_channels: spor,motosiklet
 - entry_name: |
     sigarayı bırakmanın en etkili yolu
   entry_id:  95906979
@@ -323,21 +315,13 @@ data:
     <a class="b" href="/?q=allen+carr">allen carr</a> yöntemi.<br/><br/>(bkz: <a class="b" href="/entry/84184571">#84184571</a>)
   entry_channels: anket,sağlık
 - entry_name: |
-    max kruse
-  entry_id:  95905743
-  entry_writer: uyeoldumsonundaben
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  95891213
+  entry_writer: pineapple
   entry_fav_count: 3
   entry_content: |
-    bu adam madem en iyi penaltıcı neden bizim penaltıları moses ya da emre attı? bana saçma geldi.
-  entry_channels: spor
-- entry_name: |
-    türk milletinin akıllanması
-  entry_id:  95903226
-  entry_writer: testester10
-  entry_fav_count: 2
-  entry_content: |
-    din ile alakası vardır ya da yoktur diyemem ama "ben bilirim!" yerine "o da biliyor olabilir." demek ve çok okumak, çok düşünmek, az konuşmak ile pek tabii mümkün olabilecek durum.
-  entry_channels: siyaset,tarih
+    uff bu ne be.. butun abazalar buraya dolmus.. geldim ilginc bi soru olabilir mi diye millet toplasmis sadaka bekler gibi cinsel fantezi bekliyor.. acikli durumdasiniz gencler..
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     radamel falcao garcia
   entry_id:  95885338
@@ -347,13 +331,13 @@ data:
     gün kendisinin günüdür.<br/><br/>goller bekliyoruz.
   entry_channels: spor
 - entry_name: |
-    max kruse'nin istiklal marşını okuması
-  entry_id:  95912235
-  entry_writer: antikadimag
+    nemazı bozmamak için ölüme terk etmek
+  entry_id:  95909425
+  entry_writer: onumuzdeki maclara bakalim
   entry_fav_count: 2
   entry_content: |
-    kendisinin aldığı parayı alsam alman ulusal marşını tersten okurum.
-  entry_channels: 
+    orada durup adamı geriden izleyen imam var ya, heh iste allah onu kahretsin..
+  entry_channels: haber
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  95886493
@@ -363,29 +347,30 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/yXtv8rDcnB4" title="https://youtu.be/yXtv8rDcnB4">selfish love - jessie ware</a>
   entry_channels: anket,müzik
 - entry_name: |
-    nemazı bozmamak için ölüme terk etmek
-  entry_id:  95909425
-  entry_writer: onumuzdeki maclara bakalim
-  entry_fav_count: 1
-  entry_content: |
-    orada durup adamı geriden izleyen imam var ya, heh iste allah onu kahretsin..
-  entry_channels: haber
-- entry_name: |
-    peçe takıp mezdeke dansı yapan damat
-  entry_id:  95892711
-  entry_writer: reisul ekber
-  entry_fav_count: 0
-  entry_content: |
-    adamlar ne güzel eğlenmişler , düğüne katılanların hiçbiri de “damat da ne güzel kıvırdı , ne sikilir” demiyordur ama bastırılmış cinselliklerini siktiklerim videoyu izleyip “aa garı gibi “ diyor. şu videoya bakıp da adamların niye cinsel hayatını merak ediyorsun, gizli gaylığını siktiğim ? yorumlara bakana kadar ben de eğleniyordum sabah sabah tadım kaçtı
-  entry_channels: sanat,oyun
-- entry_name: |
     ekşi sözlük iş ağı
   entry_id:  95906825
   entry_writer: man on the silver mountain
-  entry_fav_count: 0
+  entry_fav_count: 1
   entry_content: |
     kanser hastası, radyoterapi ve kemoterapi gören annemle 5 hafta boyunca ilgilenebilecek birisini arıyorum.<br/><br/>* hafta içi 8:00 - 17:00 saatlerinde eşlik edecek<br/>* her gün kartal devlet hastanesine birlikte gidip, kemoterapi/radyoterapi esnasında yanında bulunacak (gidiş-geliş taksi ücretini de karşılayacağım)<br/>* annem genelde işlerini kendi halletse de, bu ilaçlar nedeniyle vücudu güçsüzleşti fazlaca, belki yemek yemesine falan yardım edecek<br/><br/>daha fazla bir şey beklemiyorum. bu konuda yardımcı olabilecek birilerini tanıyorsanız haberlerinizi bekliyorum.
   entry_channels: ekşi-sözlük,ekonomi
+- entry_name: |
+    hera iptv
+  entry_id:  95896968
+  entry_writer: siyaheylem
+  entry_fav_count: 0
+  entry_content: |
+    yayin donuyor diye guzel bir dille yardim istediginizde sizi yalancilikla suclayabilen. baglanti hizinizin testini gonderdiginizde hakaretler siralayip cok zekisin amk gel sen yap bu isi gibi liseli ergen tavirlari takinan sorunun kendinde oldugunu asla kabul edemeyecek kadar mal bit arkadas. eger yayin iyi derseniz sizi sever ama sictiginda kardesim bu ne 5sn de bir donuyor ne yapmaliyim dediginizde sizi yalanci ve ona zarar vermek icin ugrastiginizi soyler. sosyal yasam konusunda hasarli bu arkadasin zaten iyi iletisim kurabilnesini beklemiyorum ama liseli sünepeler gibi sacmalayan patolojik bir ergen bu adam acik ara. suraya yazan herkesi onu karalamak icin yazdigini sanabilecek kadar mal. bu tarzda sorunlu tiplerle muhattap olmayin. gercek yasamdan bu kadar kopuk kendi kurdugu sanrilara gore yasiyor gercekte kaale alinmayacaginin farkinda oldugu icin de ancak boyle sanal mecralardaki ovgulere ihtiyac duyuyor. kotu yorumlara ise bu yuzden hic dayanamayip hemen karalamaya yalancilikla suclamaya basliyor. ozet olarak gecen yil cok iyi hemen hemen kusursuz olarak izledim. bu yil daha dogru duzgun 1 mac veremedi. digiplay aldim daha 3 ay kullanmanhakkim olmasina ragmen 1 kez bile girmedim bir daha. uzak durun bu patolojikten.
+    hepinize mustehak, beter olun amk, ulan bin tane entri girdim, iptv satan türk web sitelerinden uzak durun, hepsi yalancı hepsi dolandırıcı diye, zaten hiçbirinin kendi sistemi yok onlarda sağdan soldan çoklu panel alip sana bana saplıyor. <br/><br/>yapacağınız iş çok basittir, sırasıyla<br/>aliexpress'e gir<br/>arama motoruna ''iptv ingilizce ulke ismi channels'' yaz<br/>çıkan sonuclari tek tek incele<br/>yorumlara bak, alanlar ne demiş<br/>pakette hangi ulkeler var<br/>satıcının yildiz ratingine bak, kaç yıldız almış<br/>aklına yatan olursa deneme linki iste<br/>deneme linki 24 saatliktir onun icin özellikle maç gününü seç ki gerçek performansını görürsün<br/><br/>fiyatlar yıllık 22eur ile 60eur arasında paketin kapsamına ve serverin kalitesine göre, uyari daha ucuzuna kaçma patlarsin, yillik 8-9-12 eur olanlar işte hera iptv ve ya benzer türk web iptvcilerin size soktuğu serverler<br/><br/>bendeki paket yıllık 22eurluk 6000 kanal üzerine binlerce film ve diziler, 9 aydır sorunsuz izliyorum ( gecen hafta serverlera yapilan baskında kapandı 3 gun sonra açıldı )<br/>kanallar full hd, ultra hd ve 4k.<br/><br/>boşuna ömden mesaj atmayın, bağlı olduğum server dolu olduğu için satıcı ilani yayından kaldırdı, arayıp başka bulun.<br/><br/>not: tabiki de bu bilgiyi size satın alın diye vermiyorum bulun bu şerefsizleri ve şikayet edin diye yoksa illegal yayın yasak beyler :)
+  entry_channels: tv
+- entry_name: |
+    fatih terim
+  entry_id:  95913099
+  entry_writer: allasiz kozmonot
+  entry_fav_count: 0
+  entry_content: |
+    son 2 şampiyonluk için yatıp kalkıp muslera ya dua etmesi gereken miyadı dolmuş teknik direktör.. son 2 şampiyonlukta onun payı %20 ise muslera nın %50.. net.
+  entry_channels: spor
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  95885739
@@ -394,6 +379,22 @@ data:
   entry_content: |
     birilerinin dertlerini dinleyesim var. direkt derdi anlatın, selam faslına gerek yok.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    dini kitaplarda geçen biz ibaresi
+  entry_id:  95912976
+  entry_writer: siux
+  entry_fav_count: 0
+  entry_content: |
+    şöyle diyelim vahdeti vücud yani tüm evren ve yaratılanları kapsayan ultimate version bir yaratıcının yaratılanlara hitabı haliyle biz olacaktır.ben daha tekil bir şahıs olsada biz geniş kitlelere hitab eden evrensel bir hüküm, emir, direktif vs. sayabiliriz.
+  entry_channels: edebiyat
+- entry_name: |
+    cüneyt çakır
+  entry_id:  95913033
+  entry_writer: yedek adam
+  entry_fav_count: 0
+  entry_content: |
+    an itibariyle derbinin temposunu düşürüp saçmalamaya başlamıştır. bomboş pozisyonlara faul veriyor, %100 faul olanlara vermiyor. maçı berabere bitirip sıyrılma peşinde galiba.
+  entry_channels: spor
 - entry_name: |
     alfa iptv server
   entry_id:  95912311
