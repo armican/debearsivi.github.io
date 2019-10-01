@@ -14,7 +14,7 @@ data:
     erdoğan'ın %50+1 yorumu
   entry_id:  96026191
   entry_writer: this person causes mental retardation
-  entry_fav_count: 745
+  entry_fav_count: 750
   entry_content: |
     yok, ilk oyu alan kazanır.<br/><br/>boku çıktı, 2000 senelik türk tarihi böyle saçmalık görmemiştir.<br/><br/>edit:sansür
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     sabiha gökçen'de 2 kişi aç kalmanın 134 tl olması
   entry_id:  96008212
   entry_writer: patryn
-  entry_fav_count: 625
+  entry_fav_count: 626
   entry_content: |
     aç kalsalar yemek üzerine kahve içmezlerdi diye tahmin ediyorum. <br/><br/>hava limanında normal şartlarda da pahalı olan yere oturursan az bile. madem doyacaksın çantana at bir iki ekmek arası bisey önceden hazırlanmış streçli falan aç ye yani.
   entry_channels: haber,yeme-içme,ekonomi,seyahat
@@ -30,7 +30,7 @@ data:
     cumhurbaşkanı ile markette karşılaşmak
   entry_id:  96022818
   entry_writer: dialago
-  entry_fav_count: 425
+  entry_fav_count: 428
   entry_content: |
     + nasıl, fiyatlar iyi mi :)<br/>- valla ateş pah..<br/>+ alın bunu !<br/><br/>nextttttt !!!!!<br/><br/>+ nasıl, fiyatlar iyi mi :)<br/>- avrupa'da böyle fiyat yok. :|<br/>+ aferin. al bakim bi ciklet :)
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     osmanlı'da youtube varmış gibi entry girmek
   entry_id:  96031034
   entry_writer: anahaberdeki soytari
-  entry_fav_count: 336
+  entry_fav_count: 337
   entry_content: |
     bu siteye erişim padişah fermanıyla engellenmiştir.
   entry_channels: anket,tarih
@@ -46,7 +46,7 @@ data:
     türkiye'de hayvan muamelesi görüyordum
   entry_id:  96024633
   entry_writer: sonadora
-  entry_fav_count: 333
+  entry_fav_count: 334
   entry_content: |
     "bir kadın sayesinde. 2 yıl önce tesadüfen tanıştık… evlendik, şu an hamile. yeniden koca oldum, yine baba olacağım"<br/><br/>ulan, hesapta savaştan kaçmışsın, çocuğuna sahip çıkamamışsın, yarın ne olacağın belli değil ama bi karı bulup hamile bırakmışsın bile. sen önce hayvan güdülerini bir dizginle sonra şikayet edersin.<br/><br/>(bkz: <a class="b" href="/entry/93147875">suriyelilerden memnun olanların ortak özellikleri/#93147875</a>)<br/><br/>edit: bu arada devamlı, "avrupa kapılarını kapattı, türkiye kötü davrandı, amerika şöyle yaptı..." diye ağlıyorsunuz ama, altın klozete sıçan petrol zengini arap din kardeşlerinizden pek bahsetmiyorsunuz nedense.
   entry_channels: siyaset,haber
@@ -54,7 +54,7 @@ data:
     mevlüt erdinç'in psg'ye başarılar dilemesi
   entry_id:  96027974
   entry_writer: qaswed72
-  entry_fav_count: 305
+  entry_fav_count: 308
   entry_content: |
     yaptığı hareket doğru değil ama; beşiktaşın, avrupa liginde elendiği maçın sabahına resmi hesapta uefa kupası fotoğrafı paylaşan takımın taraftarlarının bunu eleştirmesi saçmalık.
   entry_channels: spor
@@ -70,7 +70,7 @@ data:
     eski sevgilinin arkadaşla evlenmesi
   entry_id:  96006969
   entry_writer: tirmanmak zordur emek ister yurek ister
-  entry_fav_count: 251
+  entry_fav_count: 252
   entry_content: |
     4,5 yıllık ilişkinin nikahından dönüp 1 ay içinde başka biriyle konuşmaya başlayan bir karaktersizin hikayesi. kadın kurtarmış kendini, ona sevindim.<br/><br/>edit: ya cidden bir ara "troll mü acaba" diye düşünmüştüm ama gerçekmiş. adam<sup class="ab"><a title="(bkz: pardon)" href="/?q=pardon" data-query="pardon">*</a></sup>, isteme töreni ve çiçek-çikolatayı bahane göstermiş, 4,5 yıllık ilişkide artık evlilik konuştuğun birini yani müstakbel eşini terk edip ortada bırakıyorsun, sonra hemen başka biriyle ilişkiye başlıyorsun, inanılmaz gerçekten. senin hiçbir şeyi sorgulama hakkın yok. yetmiyor, her gün terk ettiği kişiyi düşünürken, başka biriyle ilişki yaşıyor, onun da duygularıyla oynuyor yani. bir de çocukla kadının arkasından konuşuyorsun burada, %99 ihtimalle iftira atıyorsun. lan siz ne biçim insanlarsınız, çok daha fazlasını hak etmişsin de neyse. umarım liyakatle gitmişsindir yurt dışına da insanlığa bir faydan olur ama hiç sanmıyorum.
   entry_channels: ilişkiler
@@ -102,7 +102,7 @@ data:
     marmara'yı depremden kurtaracak çılgın proje
   entry_id:  96031492
   entry_writer: eksi peace
-  entry_fav_count: 116
+  entry_fav_count: 121
   entry_content: |
     strafor kısmına kadar ciddi ciddi okuduğum proje.
   entry_channels: bilim,teknoloji
@@ -110,7 +110,7 @@ data:
     japon arabaları vs alman arabaları
   entry_id:  96010000
   entry_writer: wanzeru
-  entry_fav_count: 113
+  entry_fav_count: 114
   entry_content: |
     tasarım italyanların, <br/>lüks ingilizlerin,<br/>güç(!) amerikalıların,<br/>konfor almanların,<br/>sorunsuz ve işlevsel olmak ise japonların işidir.<br/><br/>1 milyon milde bir japon arabası rahatlıkla çalışırken bir alman arabası 250 bin km’den sonra değiştirsek de kurtulsak şu araçtan dedirtir. çok yüksek sıcaklıklarda ve çok düşük sıcaklıklarda bir çölün ortasında veya yakutistan’da japon arabasından başka kullanmak aptallıktır, kullanılmaz da zaten. örneğin -72 dereceleri bulan yakutistan’da bulamazsınız japon arabası harici pek fazla araç.<br/>batakta, çatakta havada ve karada her zaman ve her yerde japon arabası bir araçtan beklenen işlevi sorunsuzca yerine getirir. <br/>teröristlerin gözbebeğidir, yakıtı doldur silahları monte et ve bir sürü kurşun yesen de kullanmaya devam et. <br/>ayıca dünyanın da en büyük otomobil üreticilerinin. (bkz: <a class="b" href="/?q=toyota">toyota</a>) işletme sever yazarların sevgilisi (bkz: <a class="b" href="/?q=just+in+time">just in time</a>)’ın doğduğu yerdir. <br/><br/>ama biz türkler olarak alman arabası almaya devam edecek, ederinden fazla markalara, tok kapılara bir sürü para harcayacağız, en güzel araba kendi kullandığımız araba deyip mantıksızca fikrimizi savunacağız ve sağa sola b.k atmaya devam edip, kendi üretemediğimiz araçları sertçe eleştireceğiz. galiba tabiatımızda bu var. <br/><br/>not:kuzeyavrupaspor
   entry_channels: anket,teknoloji,otomotiv
@@ -118,7 +118,7 @@ data:
     akp seçmeni zamlar hakkında ne düşünüyor sorunsalı
   entry_id:  96031275
   entry_writer: lahmacunmania
-  entry_fav_count: 112
+  entry_fav_count: 113
   entry_content: |
     köy kahvesinde kokmuş götünü eskiten hayvan sürüsü mü düşünecek ? düşünseler zaten hayvan sürüsü gibi davranmazlardı.
   entry_channels: siyaset,anket,ilişkiler,ekonomi
@@ -139,13 +139,13 @@ data:
     yalancı ve algici orrrrrrospu çocuklarının göz göre göre yalan söylediği abonelik.<br/><br/>günde 70 gazeteden 65 gün boyunca (70 x 65) <a class="b" href="/?q=toplam">toplam</a> 4550 gazete alinacak, <a class="b" href="/?q=toplam+fiyat">toplam fiyat</a> da 4550 x 2.5tl'den 11375 yazıyor. ama yok, illa orospu çocuğu olduğunuzu göstereceksiniz.<br/><br/>şimdi siktirin gidin vitaminsizler.<br/><br/>bu davarlarin kacacagini bildiğim için şimdiden ekran görüntüsünü koyayim:<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/f3218273gs8v" title="https://eksiup.com/p/f3218273gs8v">orrrospu çocukları.</a>
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    thy'nin hamidiye suyunu bırakıp sırma suya geçmesi
-  entry_id:  96022644
-  entry_writer: radyosunuyeniacandinleyici
-  entry_fav_count: 87
+    bir kadını kaybetme yöntemleri
+  entry_id:  96028980
+  entry_writer: zamzama
+  entry_fav_count: 81
   entry_content: |
-    hırsız içeride olunca kapı kilit tutmazmış
-  entry_channels: siyaset,haber,havacılık
+    yaninda erkek gibi degil cocuk gibi davranin. zor zamanlarinda kendiyle basbasa birakin. destek olmayin hatta kaybolun. <br/><br/>saygisini kaybettiginiz anda kaybedersiniz zaten.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     birinin malatyalı olduğunu anlama yolları
   entry_id:  96010387
@@ -155,37 +155,21 @@ data:
     ona kofik deyin kızıyorsa malatyalıdır.
   entry_channels: anket
 - entry_name: |
-    bir kadını kaybetme yöntemleri
-  entry_id:  96028980
-  entry_writer: zamzama
-  entry_fav_count: 79
+    mastürbasyona türkçe isim önerileri
+  entry_id:  96034323
+  entry_writer: backtash
+  entry_fav_count: 75
   entry_content: |
-    yaninda erkek gibi degil cocuk gibi davranin. zor zamanlarinda kendiyle basbasa birakin. destek olmayin hatta kaybolun. <br/><br/>saygisini kaybettiginiz anda kaybedersiniz zaten.
-  entry_channels: anket,ilişkiler
+    özgelim
+  entry_channels: anket
 - entry_name: |
     danayı bütün halde pişiren restoran sahibi
   entry_id:  96030900
   entry_writer: fugiart
-  entry_fav_count: 74
+  entry_fav_count: 75
   entry_content: |
     kuzu çevirmede de hayvan bütün halde pişirilir. bu da büyükbaş hayvanı tandır usulü pişirmiş. tuhaf bir şey yok. iş çığırından çıkalı çok oldu. <br/>reklâm yapacak tabi bu da.
   entry_channels: yeme-içme
-- entry_name: |
-    putin ve ruhani'nin minibüs fotosu
-  entry_id:  96031466
-  entry_writer: mevsimler
-  entry_fav_count: 73
-  entry_content: |
-    renklerden anladığım kadarıyla keçiören ulus dolmuşunda çekilmiş.
-  entry_channels: 
-- entry_name: |
-    mastürbasyona türkçe isim önerileri
-  entry_id:  96034323
-  entry_writer: backtash
-  entry_fav_count: 72
-  entry_content: |
-    özgelim
-  entry_channels: anket
 - entry_name: |
     suat arslanboğa
   entry_id:  96026539
@@ -211,21 +195,21 @@ data:
     <a class="b" href="/?q=izel">izel</a> konseriyle devam edecek <a rel="nofollow noopener" class="url" target="_blank" href="https://i.pinimg.com/originals/6c/c7/46/6cc746d8eda8fa6c90a3ba6c2edcd58d.jpg" title="https://i.pinimg.com/originals/6c/c7/46/6cc746d8eda8fa6c90a3ba6c2edcd58d.jpg">kutlamalardır</a>
   entry_channels: siyaset,haber
 - entry_name: |
-    zeki insanların ağırlıklı olarak sayısalcı çıkması
-  entry_id:  96012240
-  entry_writer: tam bir canav
-  entry_fav_count: 56
+    elektronik sigaranın tamamen yasaklanması
+  entry_id:  96033868
+  entry_writer: absolutzer0
+  entry_fav_count: 45
   entry_content: |
-    ilk olarak solvey değil solvay konferansları olacak. ikinci olarak zaten solvay konferans serileri fizik ve kimya alanında çözümlenemeyen konuların konuşulduğu bir konferans serisidir. yani orada eşit ağırlıkçı/sözelci olmaması gayet mantıklı. zeki insanın neye göre ve kime göre sınıflandırmaya tabi tutulacağı büyük bir problem.
-  entry_channels: bilim,eğitim
+    vay be. e-sigaradan nefret eden ne kadar adam varmış. bunlar ''yolda sigara içiyorlar, sahilde sigara içiyorlar ühüüühü'' diye ağlayan beyinsizler aynı zamanda. sigaradan %95 daha az zararlı olduğu ve sigarayı bıraktırmada müthiş bir yardımcı olduğu kanıtlanmış bir alet ancak bizim gibi bi 3. dünya ülkesinde yasaklanırdı zaten. bu salaklar da sanıyor ki zararlı bilmem ne diye yasaklandı, o kadar vergiyi nerden söğüşleyecek devlet başka?<br/><br/>şimdi dumandan-kokudan nefret eden gerizekalılara sesleniyorum, e-sigaranın kötülenmesi sadece ve sadece sigarayı bırakıp e-sigaraya geçmeyi düşünen insanların ''sikerim amk daha zararlıymış'' deyip sigaraya devam etmesine yarıyor. sonra ağlarsın durakta ağzına leş sigara dumanı girince.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.esigaratamam.com/content/imgs/blogs/elektronik-sigaranin-avrupada-yasal-durumu/eu-turkey-map.png" title="http://www.esigaratamam.com/content/imgs/blogs/elektronik-sigaranin-avrupada-yasal-durumu/eu-turkey-map.png">aha e-sigaranın yasaklandığı medeni ülkeler</a><br/><br/>ekleme: e-sigaranın çoğunun rahatsız edici bir kokusu kesinlikle yoktur. hoşlanmadığınız bir koku olsa bile ağır bi koku değildir bu. hatta benimki gibi kokusuz kullananlar da vardır. sigara gibi sizi pasif içici konumuna da sokmaz çünkü buharında milyon tane zararlı kimyasal yoktur.<br/><br/>entryler ekşinin geldiği hali gözler önüne seriyor. hürriyet'in, yeni akit'in yaptığı ''e-sigara zararlı'' haberlerine inanan gerizekalı kitle doluşmuş. tekrar söylüyorum, cahil cühela sik kafalılar yüzünden sigarayı e-sigara ile bırakmayı düşünenler ''sikerim ya o da zararlı'' deyip vazgeçiyor ve fosur fosur sigara içmeye devam ediyor. kendimden biliyorum. bu oturduğu yerde götünden bilimsel bilgi sıçan kafasızlara inansaydım e-sigara almazdım. şu an ciğerlerim eskisinden daha rahat, tad ve koku duyularım yerine geldi, sabahları daha zinde uyanıyorum. sigara kokusuna zerre tahammülü olmayan arkadaşım arabasında bile içiriyor amk. çünkü aroma kokusu bile bendekinde. faydasını kendi gözlerimle görüyorum ve deneyimliyorum. aynı şeyi yüzlerce farklı insan söylüyor. ama bizim gazeteler abd'de marihuanaya abanıp hastanelik olanları ''e-sigara hastalık yapıyor'' diye haber yaptıkça bu cahiller bitmeyecek.
+  entry_channels: 
 - entry_name: |
-    1 ekim 2019 lpg zammı
-  entry_id:  96026211
-  entry_writer: estamuylokkaa
-  entry_fav_count: 43
+    başka insanların kıskanılan özellikleri
+  entry_id:  96009266
+  entry_writer: tatlisu
+  entry_fav_count: 44
   entry_content: |
-    (bkz: <a class="b" href="/?q=vazelin+al%c4%b1n+buras%c4%b1+kar%c4%b1%c5%9facak">vazelin alın burası karışacak</a>)
-  entry_channels: siyaset,haber,ekonomi
+    kafasini yastiga koydugu gibi uyuyanlar
+  entry_channels: anket
 - entry_name: |
     1 ekim 2019 galatasaray paris saint germain maçı
   entry_id:  96003563
@@ -235,14 +219,6 @@ data:
     lise zamanları haftasonları sürekli mahalleden birileriyle halı saha maçı yapardık. bazen kendi yaş grubumuzla, bazen kendimizden birkaç yaş küçük çocuklarla, bazen de 20 li yaşlardaki mahallenin abileriyle. o dönem fena da oynamazdım, hatta o mahallede yıldız oyuncu kategorisine girebilecek statüye sahiptim. <br/><br/>kendimizden küçük çocuklarla oynarken bütün maç elim belimde artistik haraketler, çalımlar vs denerdim, kendimi yormazdım, pek de sikimde olmazdı. kendi yaş grubumuzla oynarken biraz daha ciddiyetliydim, en azından bişeyler yapabilmek için çaba harcardım. abilerle oynarken ise olay bambaşkaydı. full konsantre, terimin son damlasına kadar mücadele, abilerden övgü alabilmek için ekstra çaba, kazanma hırsı vs , vs... <br/><br/>şimdi bunları neden anlattım ? galatasarayın topçuları da özellikle kiralık oyuncuların fazlalığı ve full yabancı oyuncu oldukları için bu yıl tam olarak bu ruh halindeler. yerlisi yabancısı da yok aslında bu işin , malum ben de doğma büyüme buranın vatandaşıyım :) seri’nin , lemina’nın , falcao’nun sikinde olur mu denizli deplasmanı, yeni malatya maçı... derbilerde biraz kıpırdanırlar, ekstra efor sarfedebilirler. haaa şampiyonlar ligi ? işte o tıpkı benim abilerle yaptığım maç gibi ; vitrin maçı... ful efor , konsantrasyon, hırs , azim... psg maçının normal lig maçlarından farklı olacağı kesin. fakat sonuç ne olur derseniz ;<br/><br/>ben zamanında götümü de yırtsam abiler bizi genelde gol manyağı yapıyolardı :))))
   entry_channels: spor
 - entry_name: |
-    elektronik sigaranın tamamen yasaklanması
-  entry_id:  96033868
-  entry_writer: absolutzer0
-  entry_fav_count: 41
-  entry_content: |
-    vay be. e-sigaradan nefret eden ne kadar adam varmış. bunlar ''yolda sigara içiyorlar, sahilde sigara içiyorlar ühüüühü'' diye ağlayan beyinsizler aynı zamanda. sigaradan %95 daha az zararlı olduğu ve sigarayı bıraktırmada müthiş bir yardımcı olduğu kanıtlanmış bir alet ancak bizim gibi bi 3. dünya ülkesinde yasaklanırdı zaten. bu salaklar da sanıyor ki zararlı bilmem ne diye yasaklandı, o kadar vergiyi nerden söğüşleyecek devlet başka?<br/><br/>şimdi dumandan-kokudan nefret eden gerizekalılara sesleniyorum, e-sigaranın kötülenmesi sadece ve sadece sigarayı bırakıp e-sigaraya geçmeyi düşünen insanların ''sikerim amk daha zararlıymış'' deyip sigaraya devam etmesine yarıyor. sonra ağlarsın durakta ağzına leş sigara dumanı girince.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.esigaratamam.com/content/imgs/blogs/elektronik-sigaranin-avrupada-yasal-durumu/eu-turkey-map.png" title="http://www.esigaratamam.com/content/imgs/blogs/elektronik-sigaranin-avrupada-yasal-durumu/eu-turkey-map.png">aha e-sigaranın yasaklandığı medeni ülkeler</a><br/><br/>ekleme: e-sigaranın çoğunun rahatsız edici bir kokusu kesinlikle yoktur. hoşlanmadığınız bir koku olsa bile ağır bi koku değildir bu. hatta benimki gibi kokusuz kullananlar da vardır. sigara gibi sizi pasif içici konumuna da sokmaz çünkü buharında milyon tane zararlı kimyasal yoktur.<br/><br/>entryler ekşinin geldiği hali gözler önüne seriyor. hürriyet'in, yeni akit'in yaptığı ''e-sigara zararlı'' haberlerine inanan gerizekalı kitle doluşmuş. tekrar söylüyorum, cahil cühela sik kafalılar yüzünden sigarayı e-sigara ile bırakmayı düşünenler ''sikerim ya o da zararlı'' deyip vazgeçiyor ve fosur fosur sigara içmeye devam ediyor. kendimden biliyorum. bu oturduğu yerde götünden bilimsel bilgi sıçan kafasızlara inansaydım e-sigara almazdım. şu an ciğerlerim eskisinden daha rahat, tad ve koku duyularım yerine geldi, sabahları daha zinde uyanıyorum. sigara kokusuna zerre tahammülü olmayan arkadaşım arabasında bile içiriyor amk. çünkü aroma kokusu bile bendekinde. faydasını kendi gözlerimle görüyorum ve deneyimliyorum. aynı şeyi yüzlerce farklı insan söylüyor. ama bizim gazeteler abd'de marihuanaya abanıp hastanelik olanları ''e-sigara hastalık yapıyor'' diye haber yaptıkça bu cahiller bitmeyecek.
-  entry_channels: 
-- entry_name: |
     1 ekim 2019 real madrid club brugge maçı
   entry_id:  96033564
   entry_writer: asosyalyaratik
@@ -251,29 +227,29 @@ data:
     bu amına koyduğumun real madrid'i ilk ili maçta yenilir üçüncü maçta bize patlar. ananızı sikim sizin.
   entry_channels: spor
 - entry_name: |
-    altyazılı film izlemek ameleliktir
-  entry_id:  96033091
-  entry_writer: asimetrik kelebek
-  entry_fav_count: 35
-  entry_content: |
-    alt yazili film izlemek filmin orijinalini korumak demektir. <br/>oyuncunun gercek duygularini daha yakindan hissetmeni saglar. yabanci diline katki saglamasi da bonus katkisidir.<br/>dublajda secilen seslendiricinin sesi kisiye uymuyorsa filmin tadi kacar. hele de filmde sarkilar varsa bir de o sarkilara turkce dublaj yapiliyorsa arkaniza bakmadan kacin.
-  entry_channels: tv,sinema
-- entry_name: |
     1 ekim 2019 mansur yavaş teke tek özel yayını
   entry_id:  96037219
   entry_writer: its never lupus
-  entry_fav_count: 34
+  entry_fav_count: 38
   entry_content: |
     "önceki belediye başkanlığım döneminde çocuklarım okula geç kaldığında taksi çağırır okula yollardım. makam aracımla bıraksam, beni o şekilde gören vatandaşımın yüzüne nasıl bakardım?"<br/><br/>" acemi desinler, yapamadı desinler. önemli değil ben bunları sindiririm. ama kendime çalıyor ama çalışıyor dedirtemem. bir müslüman nasıl böyle bir şey diyebilir, bunu nasıl kabul edebilir?"<br/><br/>"türkiye'de yanlış bir anlayış var. birini seçip başa getiriyorsunuz, sonra ondan korkuyorsunuz. oysa o size hizmet ediyor, patron sizsiniz. sizin biz bunları istiyoruz diye talep etmeniz gerek."<br/><br/>"ben bu belediyede gücüm yettiğince, gözüm gördüğünce yolsuzluk yaptırmayacağım."<br/><br/>"atatürk orman çiftliği, atatürk'ün emanetidir. paha biçilemez. biz orayı ankara'nın en güzel parkı yapacağız. atatürk'ün vasiyetine uygun kullanılmasını sağlayacağız."<br/><br/>yemin ediyorum izlerken gözlerim doluyor.<br/><br/>edit: gece 12 de suyumuz akmıyor diye şikayette bulunan vatandaşı arayıp, derdini öğrenen; gece 12 demeden görevlileri gönderip, sorunun çözülmesini sağlayan başkanımız varmış.
   entry_channels: siyaset,tv,haber
 - entry_name: |
-    1 ekim 2019 elektrik zammı
-  entry_id:  96006357
-  entry_writer: 80 li yillari cok ozluyorum lan
+    altyazılı film izlemek ameleliktir
+  entry_id:  96033091
+  entry_writer: asimetrik kelebek
+  entry_fav_count: 36
+  entry_content: |
+    alt yazili film izlemek filmin orijinalini korumak demektir. <br/>oyuncunun gercek duygularini daha yakindan hissetmeni saglar. yabanci diline katki saglamasi da bonus katkisidir.<br/>dublajda secilen seslendiricinin sesi kisiye uymuyorsa filmin tadi kacar. hele de filmde sarkilar varsa bir de o sarkilara turkce dublaj yapiliyorsa arkaniza bakmadan kacin.
+  entry_channels: tv,sinema
+- entry_name: |
+    ankapark'ın maliyetinin 750 milyon dolar olması
+  entry_id:  96035545
+  entry_writer: kavimleringoctuguadam
   entry_fav_count: 33
   entry_content: |
-    bu halkı niye kimse örgütlemiyor arkadaş..<br/><br/>niye yollara sokaklara dökülmüyoruz. <br/><br/>lan burda yazıp çizip, isyan ediyoruz ama adamların yaptığı her türlü zulme katlanmaya devam ediyoruz. ne anladım ben bu işten..<br/><br/>öyle bir teşkilat, öyle bir organizasyon kurulmuş ki..<br/><br/>yiyorlar, soyuyorlar, zam yapıyorlar, sokakta azıcık ses çıkaranı polisle, sosyal medyada ses çıkarmaya çalışanı yargıyla sindirip, tüik in başına getirdikleri arkadaşları vasıtasıyla enflasyonu düşük çıkarıp milleti açlığa mahkum ediyorlar..<br/><br/>lan biz bu heriflerin kölesi miyiz..biz ne onursuz insanlarmışız be..
-  entry_channels: siyaset,haber,ekonomi
+    mansur başkan diyor ki: "ankarapark’a harcanan para ile ankara’ya 30 yıl yardım yapılırdı." ben diyecek söz bulamıyorum şu an!
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     defalarca izlenmiş 5 film
   entry_id:  96005319
@@ -282,6 +258,14 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=the+godfather">the godfather</a>)<br/>(bkz: <a class="b" href="/?q=the+matrix">the matrix</a>)<br/>(bkz: <a class="b" href="/?q=back+to+the+future">back to the future</a>)<br/>(bkz: <a class="b" href="/?q=the+terminator">the terminator</a>)<br/>(bkz: <a class="b" href="/?q=rocky">rocky</a>)
   entry_channels: anket,sinema
+- entry_name: |
+    kötü günlerde kişiye güç veren sözler
+  entry_id:  96001739
+  entry_writer: hasanocak
+  entry_fav_count: 31
+  entry_content: |
+    "denedin yenildin, olsun. yine dene de iyice bi siksinler götünü."<br/>samuel beckett
+  entry_channels: anket,ilişkiler,edebiyat
 - entry_name: |
     1 ekim 2019 tff kararı
   entry_id:  96025951
@@ -302,18 +286,10 @@ data:
     suriyelilerden memnun olanların ortak özellikleri
   entry_id:  96026160
   entry_writer: eaaii
-  entry_fav_count: 29
+  entry_fav_count: 30
   entry_content: |
     kayıt dışı ucuz işçi çalıştıranlar,<br/>üç kuruşluk gecekondulardan yüksek kira geliri elde edenler,<br/>mülteci kaçakçıları.
   entry_channels: siyaset,anket
-- entry_name: |
-    ankapark'ın maliyetinin 750 milyon dolar olması
-  entry_id:  96035545
-  entry_writer: kavimleringoctuguadam
-  entry_fav_count: 28
-  entry_content: |
-    mansur başkan diyor ki: "ankarapark’a harcanan para ile ankara’ya 30 yıl yardım yapılırdı." ben diyecek söz bulamıyorum şu an!
-  entry_channels: siyaset,ekonomi
 - entry_name: |
     masterchef türkiye
   entry_id:  96003599
@@ -321,6 +297,14 @@ data:
   entry_fav_count: 26
   entry_content: |
     eda'nın bu bölüm aşırı haklı olması benim için tam bir black mirror tadındaydı.
+  entry_channels: tv,yeme-içme
+- entry_name: |
+    gürbüz'ün kekstra'yı kek sanması
+  entry_id:  96036179
+  entry_writer: distasteful
+  entry_fav_count: 25
+  entry_content: |
+    eski versiyonunda okul birincisi olan nazlı'nın bu sefer instagram fenomeni ! olarak karşımıza çıktığı reklamda geçen hadise.
   entry_channels: tv,yeme-içme
 - entry_name: |
     yazarların çocukken aşık olduğu ünlüler
@@ -331,22 +315,6 @@ data:
     (bkz: <a class="b" href="/?q=mahmut+tuncer">mahmut tuncer</a>)<br/><br/>hanginiz nickinize kazıtacak kadar çok sevdiniz be.
   entry_channels: anket,ilişkiler,magazin
 - entry_name: |
-    gürbüz'ün kekstra'yı kek sanması
-  entry_id:  96036179
-  entry_writer: distasteful
-  entry_fav_count: 21
-  entry_content: |
-    eski versiyonunda okul birincisi olan nazlı'nın bu sefer instagram fenomeni ! olarak karşımıza çıktığı reklamda geçen hadise.
-  entry_channels: tv,yeme-içme
-- entry_name: |
-    mansur yavaş
-  entry_id:  96019346
-  entry_writer: mozambik asilliyim
-  entry_fav_count: 20
-  entry_content: |
-    çok ağır, çok efendi ve çok çalışkan bir adam. adam ilk günden beri hiç laf yapmadan iş yapıyor...<br/><br/>ekrem'e gösterilen ilgiden çok daha fazlasını hakediyor. cidden asıl arkasında durulması gereken bu adam. ülkenin başına geçse bize sınıf atlatabileceğini hissettiriyor bize...
-  entry_channels: siyaset
-- entry_name: |
     başta önyargılı olup sonra tiryakisi olunan şey
   entry_id:  96002786
   entry_writer: apollo 69
@@ -355,10 +323,18 @@ data:
     (bkz: <a class="b" href="/?q=ilk+ba%c5%9fta+be%c4%9fenilmeyip+zamanla+sevilen+%c5%9feyler">ilk başta beğenilmeyip zamanla sevilen şeyler</a>)<br/>(bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)<br/><br/>yorulmuyor musunuz evirip çevirip başlık açmaktan?
   entry_channels: anket
 - entry_name: |
+    adele'in pornocuyla ilişkiye başlaması
+  entry_id:  96038035
+  entry_writer: sozluklerefisildayanadam
+  entry_fav_count: 19
+  entry_content: |
+    kanka adele'i siktiret böyle başka klipler varsa yeşillendir. <br/><br/>tanım: kim kime veriyor bundan bize ne olması.
+  entry_channels: 
+- entry_name: |
     illegal maç yayını yapan şerefsizler
   entry_id:  96036847
   entry_writer: balron
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     bu şerefsizler steam üzerinden reklamsız donmasız yüksek kalitede yayın yapıyor. üstelik topluluk kısmından yayınlar sekmesine tıkladığınızda en üstten izlenebilecek kadar kolay erişiliyor. el birliği ile şikayet edelim lütfen.
   entry_channels: spor,tv
@@ -371,6 +347,14 @@ data:
     iş dolayısıyla farklı firmalara, devlet dairelerine, kurumlara falan gidiyorum ve çoğuyla samimiyeti ilerlettim. yaşıtım olan genç kadınların hepsi aynı kafada!<br/><br/>evleneyim; onu paylaşayım, bununla hava atayım, söz şöyle olacak, şu kuaföre gideceğim, kınam böyle olacak, mihir hakkım vs gibi dangalakça şeyler, sohbetlerle karşılaşıyorum. <br/><br/>kaliteli kadın sayısı çok azaldı. yeminlen kendim gibi birisini bulursam anında evleneceğim.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    ekşi itiraf
+  entry_id:  96021738
+  entry_writer: atramento
+  entry_fav_count: 4
+  entry_content: |
+    yarın otizm için test yaptıracağız. nasıl oluyor bilmiyorum. korkuyorum ama sonuç ne olursa olsun evladıma en iyi şekilde bakmak görevim. <br/><br/>erken tedavi çok işe yarar yazmışlar. aklımda sorular var. normal okullara gidemez mi mesela, aşık olamaz mı? üniversite? iş olmasa da olur. arkadaşlar?<br/><br/>şimdi çok masum ve mutlu duruyor. acı mı çekecek? mutsuzluk mu hissedecek hep? <br/>dün sarılıp uyuduk. iyileştitecekmişim gibi geldi. mümkün değil değil mi?
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     younes belhanda
   entry_id:  96037882
   entry_writer: affedersiniz arnavut diyorlar
@@ -378,6 +362,14 @@ data:
   entry_content: |
     maç başından beri bir tane olumlu hareketi olmayan, berbat oyunun üzerine koyarak devam eden galatasaray 10 numarası.
   entry_channels: spor
+- entry_name: |
+    buz gibi erkek götü
+  entry_id:  96029375
+  entry_writer: ojeist
+  entry_fav_count: 3
+  entry_content: |
+    bu buz gibi erkek götü hastaları kadınlar takma penisle falan geçiriyor valla. yavrum yazık o da fantazi olsun diye veriyor. öyle erkeğin geçmişini ben geleceğini siz sikesiniz.
+  entry_channels: 
 - entry_name: |
     içlik giyen erkeğin vermek istediği mesaj
   entry_id:  96035648
@@ -387,11 +379,27 @@ data:
     içlik giyen erkek anım var, buradan başka anlatacağım yer de yok. o yüzden müsaade etseniz de etmeseniz de anlatacağım.<sup class="ab"><a title="(bkz: hihi)" href="/?q=hihi" data-query="hihi">*</a></sup><br/><br/>yedi sekiz yıl önce o zaman asistan olan eski eşim ve hastaneden hocaları mocaları fenerbahçe maçına gidiyoruz.<br/><a class="b" href="/?q=todori">todori</a>’den çıktık, yürüyoruz. o zamanki mesleğim nedeniyle adamlara ben de saygı duyuyorum; gün içinde ciddi ciddi ortamlarda biraraya geliyoruz falan.<br/>doktor ortamlarının en sıkıcı tarafı şudur; en alakasız yerlerde bile hasta konuşurlar. yemekte bile böyle ciddi ciddi tavırlar.<br/>maça gidiyoruz ulan, bir gevşeyin di mi? neyse.<br/><br/>herkes nabzını hocaya göre ayarlıyor, adam camiada isimli, ağır bir tip.<br/>stada yaklaşırken tutturdu “<a class="b" href="/?q=ben+%c3%bc%c5%9f%c3%bcd%c3%bcm%2c+i%c3%a7lik+alaca%c4%9f%c4%b1m">ben üşüdüm, içlik alacağım</a>” diye.<br/>çocuk gibi tutturdu. “siz devam edin, ben bulurum” diyor; bizimkiler de bırakmıyorlar adamı.<br/>on kişi adama içlik arıyoruz, ikinci sorduğu yerde buldu.<br/>ölsem aklıma gelmezdi oralarda on kişi içlik arayacağımız ve ikinci dükkanda da bulacağımız.<br/><br/>“ben üşüyorum çocuklar, almam lazımdı. bak ısındım” diye diye gittik.<br/><br/>her içlik dendiğinde aklıma geliyor istemsiz. noldu <a class="b" href="/?q=ejeksiyon+fraksiyon">ejeksiyon fraksiyon</a> falan, yok tabii. hayat işte.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    fernando muslera
-  entry_id:  96037317
-  entry_writer: ben yalniz yuruyen bir kediyim
-  entry_fav_count: 1
+    şu anda çalan şarkı
+  entry_id:  96003211
+  entry_writer: pisuvar4ever
+  entry_fav_count: 0
   entry_content: |
-    inanılmaz iyi bir kaleci. olmasaydı son 7-8 yılda neler değişirdi siz düşünün. başka bir kaleci olsa su an maçın hemen başında galatasaray evinde geriye düşmüştü. olmasaydı galatasaray ne kepazelikler yaşamıştı. değerini bilin olm.
-  entry_channels: spor
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://open.spotify.com/track/28FGV3ORH14MYORd7s5dlU?si=_ZXBMduATnG-vM_6-aT9jA" title="https://open.spotify.com/track/28FGV3ORH14MYORd7s5dlU?si=_ZXBMduATnG-vM_6-aT9jA">brain dead, eye drops</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    kanser hastasına yardım kampanyası
+  entry_id:  96003078
+  entry_writer: acilin yoldan geliyor vatman
+  entry_fav_count: 0
+  entry_content: |
+    umarım faydası olur.<br/><br/>up !
+  entry_channels: sağlık,haber
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  96033041
+  entry_writer: angle of attack
+  entry_fav_count: 0
+  entry_content: |
+    içinden çıkamadığınız yada çevrenize anlatamadığınız durumlar nedir ?<br/><br/>not: erkeğim.. kadın sanıp yürümeyin. insan gibi dertleşip sohbet etmeye geldim
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
