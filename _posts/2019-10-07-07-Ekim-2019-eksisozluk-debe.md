@@ -6,7 +6,7 @@ data:
     aleyna tilki'nin türkiye'yi terk etmesi
   entry_id:  96223147
   entry_writer: agrafes
-  entry_fav_count: 678
+  entry_fav_count: 695
   entry_content: |
     her şeye rağmen ülkede güzel şeylerin de olduğunu hatırlatan haber.
   entry_channels: müzik,haber,magazin,eğitim
@@ -14,7 +14,7 @@ data:
     unutkanlıkta son nokta
   entry_id:  96199017
   entry_writer: bolpantolongiyinenmualifmemur
-  entry_fav_count: 626
+  entry_fav_count: 631
   entry_content: |
     telefonu evde unuttuğumu işe gidince farkettim geri eve telefonu almak için gittim kahvaltı yapıp döndüm. işe döndüğümde ise telefon hala evdeydi
   entry_channels: anket,sağlık
@@ -22,7 +22,7 @@ data:
     ürdünlü çocuğa öldüresiye vuran adam
   entry_id:  96209461
   entry_writer: xoce balt 1
-  entry_fav_count: 587
+  entry_fav_count: 593
   entry_content: |
     bu herifi de, bu arapları da, bunları buraya dolduranı da, bunları savunan hümanistleri de; hepsini sınırdışı siktir edeceksin.<br/><br/>edit: bana küfürler eden o arap sevicilere söylüyorum; kimsenin videodaki tokatı desteklediği yok. bu göçmen politikasıyla zaten eğitimsizi bol olan bir topluma yine aynı şekilde eğitimsiz, ne idüğü belirsiz, farklı ülkelerden milyonlarca kişiyi alırsan bu tür manzaralara sürekli denk geleceksin. sen neye entegre olmuşsun ki onları edeceksin.
   entry_channels: siyaset,haber
@@ -30,7 +30,7 @@ data:
     hepimiz suriyeliyiz
   entry_id:  96215094
   entry_writer: excelsior was here
-  entry_fav_count: 577
+  entry_fav_count: 581
   entry_content: |
     bunu diyenlerin hepsinin çetelesi tutulmalı ve başımızın belası öldükten sonra suriyeye postalanmalılar. hayalini kurduğunuz şeriatı ve yontma taş devrini orada gönül rahatlığı ile yaşayabilirsiniz. tutanın elini kolunu sikeyim.
   entry_channels: siyaset
@@ -38,15 +38,31 @@ data:
     ermeni ufc dövüşcüsünün türkü öldürme girişimi
   entry_id:  96228214
   entry_writer: forrestgump
-  entry_fav_count: 507
+  entry_fav_count: 534
   entry_content: |
     az buçuk ufc izlemişliğim var. adam/kadın nasıl bayıltılır, boyundan kapma (choke) nereye kadar devam ettirilir ve ne zaman bırakılır gördüm-öğrendim...<br/><br/>videodaki ermeni'nin yaptığı direkt olarak orospu çocukluğudur. hakemin müdahale ettiği saniyede rakibini bırakması gerekiyordu. bu şekilde fazladan 2-3 saniye sıkması adamı öldürebilir ya da sakat bırakabilirdi. umarım gereğini yapıp, ermeni'nin lisansını iptal ederler...
   entry_channels: spor
 - entry_name: |
+    mansur yavaş'ın atatürk heykeli kararı
+  entry_id:  96209424
+  entry_writer: coincidences
+  entry_fav_count: 453
+  entry_content: |
+    aktrollerin kudurması ekstradan hoşuma gitti.<br/><br/>aralarında heykelleri sihalarla falan kıyaslayan gerizekalılar olması da ayrıca güldürdü.<br/><br/>sanata düşman bu insanımsı maymunları daha da kudurtacak, sanat yönü ağır basan heykeller de görmek istiyoruz.<br/><br/>bugün milyonlarca yabancının bir davut heykeli görmek için floransa'ya turist olarak gidip bir yığın ekonomi yarattığını bilmeyen,<br/><br/>ihtiyaç hiyerarşisinde çok temel ihtiyaçlarını giderememiş, karnını doyurunca kendini şanslı sayan bu gelişmemişlerin sanattan anlayacakları zamanı bekleyecek lüksümüz yok.<br/><br/>edit : bu insanımsı maymunlardan bir tanesi mesaj yoluyla saldırdı. ne kadar düşük zekalı olduklarının görülmesi açısından paylaşayım.<br/><br/>bunlara göre davud heykelinin tarihi değeri varmış biz heykel yapsak tarihi değeri mi olacakmış. adamlar bugün sanatsal birşeyler yapalım hem bugün hem ileride bir tarihi değeri olur diye bile düşünmekten aciz.<br/><br/>türkiye'nin bugün kültür turizmi olarak pazarladığı temel unsurlar. ayasofya, yere batan sarnıcı ve efes harabeleridir bir de doğa harikası kapadokya. bunların hangisini bir sanat kaygısı güzel atalar yapmış. <br/><br/>bugün almanya'nın en çok ziyaret edilen müzesi pergamon (bergama) müzesidir. oradaki inanılmaz güzellikteki eserleri anadolu'dan padişah'ın izniyle bir kısım silah karşılığında almışlardır.<br/><br/>peki neden çünkü bu insanımsı maymunların zihniyetine göre heykel günah.
+  entry_channels: siyaset,haber
+- entry_name: |
+    iphone 11 pro max
+  entry_id:  96222163
+  entry_writer: gocuksu hayvan
+  entry_fav_count: 292
+  entry_content: |
+    bilgi amacıyla başlığına girdiğin ama bir sürü komik olmayan sevimsiz entry ile karşılaştığın telefon. yeşil yanmış, bakıyorsun 8 10 tane yeni entry var. yeni bir gelişme mi var, ne olmuş diye merak ediyorsun; salak salak şeyler.<br/><br/>ortamda sürekli espri yapmaya çalışan ama kimsenin gülmediği sefil insanlar sizsiniz sanırım. birbirinizi bulmanız iyi olmuş.<br/><br/>aldığı gibi bilmem ne olmuş hahaha inanılmaz komik hahah.<br/><br/>yazık amk.
+  entry_channels: teknoloji
+- entry_name: |
     iyi insan olmanın hiçbir işe yaramaması
   entry_id:  96211097
   entry_writer: memurkiz
-  entry_fav_count: 237
+  entry_fav_count: 241
   entry_content: |
     ne diyor mehmet akif:<br/>"kime ok at atmayı öğrettiysem, birgün bana nişan aldı."<br/>saygılar.
   entry_channels: anket,ilişkiler
@@ -54,95 +70,135 @@ data:
     tarkan'ın londra'da tanınmaması
   entry_id:  96225914
   entry_writer: kabetaslayansatanist
-  entry_fav_count: 176
+  entry_fav_count: 186
   entry_content: |
     mal bir kız arkadaşımı hatırlatan olay. yeşilköy'de semt pazarında geziyoruz bunla. galatasaray kalecisi simoviç'i gördük bi tezgahın yanında. ben imza falan mı alsam diye düşünürken, bu mal simoviç'e patlıcanların fiyatını sordu aq:)<br/>hala hatırlar, küfürle yad ederim kendisini.
   entry_channels: sanat,müzik,magazin
 - entry_name: |
-    türklerin avrupalılardan daha iyi olduğu konular
-  entry_id:  96226526
-  entry_writer: ebmoldcity
-  entry_fav_count: 155
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yaz%c4%b1m+yanl%c4%b1%c5%9f%c4%b1">yazım yanlışı</a>)<br/><br/>yazım yanlışı konusunda çok ileri düzeyde türkler.
-  entry_channels: 
-- entry_name: |
     88'li hatunlar
   entry_id:  96228379
   entry_writer: am doktoru
-  entry_fav_count: 145
+  entry_fav_count: 167
   entry_content: |
     bir ayakları çukurdaymış. ebesinin amı.
   entry_channels: ilişkiler
 - entry_name: |
-    hiç sigara içki içmemiş bara gitmemiş kadın
-  entry_id:  96208611
-  entry_writer: hackir girl
-  entry_fav_count: 96
+    türklerin avrupalılardan daha iyi olduğu konular
+  entry_id:  96226526
+  entry_writer: ebmoldcity
+  entry_fav_count: 159
   entry_content: |
-    hiç sigara içki içmemiş bara gitmemiş adamla çok güzel uyuşur. bara giden sigara içen erkekle de hiç uyuşmaz. sosyal alışkanlıkların benzemesi ilişki için önemli şeyler.
-  entry_channels: ilişkiler
+    (bkz: <a class="b" href="/?q=yaz%c4%b1m+yanl%c4%b1%c5%9f%c4%b1">yazım yanlışı</a>)<br/><br/>yazım yanlışı konusunda çok ileri düzeyde türkler.
+  entry_channels: 
 - entry_name: |
     7 ekim 2019 köprü ve otoyol zammı
   entry_id:  96231059
   entry_writer: dunyayokolsayataktankalkmayanadam
-  entry_fav_count: 91
+  entry_fav_count: 106
   entry_content: |
     sayın başkanım kuyruk oluyor böyle bir zenci daha koysanız lütfen.<br/><br/>2015'te 3.25 tl olan köprü, şimdi 12 tl oldu zam %300, fiyat 4 katına çıkmış. <br/><br/>enflasyon 9 <br/><br/>söyleyeceklerim bu kadar.
   entry_channels: haber,ekonomi
 - entry_name: |
-    6 ekim 2019 alanyaspor'un verilmeyen penaltısı
-  entry_id:  96225441
-  entry_writer: telecaster19
-  entry_fav_count: 66
+    18-35 yaş arası gençliğin kapitalizmi bitirmesi
+  entry_id:  96198315
+  entry_writer: aler
+  entry_fav_count: 101
   entry_content: |
-    sabahtan akşama kadar ilgilendiğiniz spor dalı hakkında ahkam kesmeden önce acın bir kural kitabını okuyun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/v2243002od6q">https://eksiup.com/p/v2243002od6q</a><br/><br/>kırmızı bölge penaltı ,mavi bölge penaltı değil,sarı bölge ise hakemin pozisyon gereği değerlendirmesine bırakılmıştır.bu pozisyon mavi bölge pozisyonudur.<br/><br/>oyna devam.<br/><br/>not:alanyalı yahut beşiktaşlı değilim.<br/><br/>edit: bazı dostlarım ozel mesaj vasitasiyla görselin bild gazetesinin yaptığı bir haber olduğunu herhangi bir geçerliliğinin olmadığını söylediler.<br/>en altta “quelle:fifa “ yazıyor. quelle alamanca’da kaynak manasına geliyor.zaten onlarda fıfa’yı kaynak göstererek haber yaptılar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntvspor.net/futbol/ifab-tan-yeni-elle-oynama-kurali-5c7ab175e3bdca176816582f" title="https://www.ntvspor.net/futbol/ifab-tan-yeni-elle-oynama-kurali-5c7ab175e3bdca176816582f">https://www.ntvspor.net/…i-5c7ab175e3bdca176816582f</a><br/><br/>haberde de “karar alındı” diyor. ve 1 haziran 2019’dan itibaren uygulanacak diyor.<br/><br/>bu pozisyonun çok benzeri brugge-gs macinda da olmustu ve hakem yine penaltı vermemişti.<br/><br/>hatta söyle bisey de söyleyeyim.fenerbahcenin son macinda benzer bir pozisyon olmustu ve hakem “eli asagida duruyor “ gibi hareketler yapmıştı penaltı vermediği pozisyonu açıklamak için.bu da kuralın geçerli olduğunu işaret edebilir sanırım.
-  entry_channels: spor
+    (bkz: <a class="b" href="/?q=yaran+ba%c5%9fl%c4%b1klar">yaran başlıklar</a>)<br/><br/>netflix, spotify gibi 50 tane platforma üye ol, dünyayı gezip kültürleneceğim ayağına götünü gezdirerek hızlı para harca ama giyim kuşama eskisi kadar para harcamıyorsun diye kapitalizmi bitirdiğini düşün. bu arada 6 aylık maaşını verip apple'a domalabilir ve kendini 3 günlüğüne zengin hissedebilirsin.<br/><br/>biz kapitalizmin köpekleriyiz. bizim gibi evliliği düşünmeyen, çocuk yapmayan insanlar, tüketmeye, para saçmaya daha yatkındır.çünkü günlük kaygılarımız daha az. kapitalist sistem de zaten yıllardır bireyselleşme propagandası yapmıyor mu? "anı yaşa," "sen her şeyi başarabilirsin," şeklinde sloganlarla beynimiz işgal edilmiyor mu? <br/><br/>özgürleş! özgürleş! özgürleş!<br/><br/>özgür olmamızı istiyorlar. biz de özgürüz, önceki nesillerden çok daha fazla özgürüz. "ama neden bu özgür insanlar bu kadar mutsuz?" diye kimse sormuyor. sözlük son dönemde ağlama duvarına döndü. herkes psikolog kapısında yatıyor. ama özgürüz. ev, araba istemiyoruz, daha doğrusu yatırım yapmayı ya da tutumlu olmayı bilmiyoruz. böyle olunca da tamamen belirsiz geleceğimize doğru özgürce(!) ilerliyoruz.<br/><br/>kapitalizmi bitirmekmiş! sikimin che guevaraları.
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     türkiye'de joker'ı en iyi canlandırabilecek oyuncu
   entry_id:  96233660
   entry_writer: suclu kalem
-  entry_fav_count: 65
+  entry_fav_count: 87
   entry_content: |
     (bkz: <a class="b" href="/?q=joker+karakterini+oynayabilecek+t%c3%bcrk+oyuncu">joker karakterini oynayabilecek türk oyuncu</a>)<br/><br/>bin kere konuşulan mevzu. bi aramaya inanın artık ya. <br/><br/>cevabı (bkz: <a class="b" href="/?q=haluk+bilginer">haluk bilginer</a>) olan sorudur.<br/><br/><a class="b" href="/?q=edit">edit</a> : başlık (bkz: <a class="b" href="/?q=komunist+vaiz">komunist vaiz</a>) nickli yazar tarafından açılmış, ancak kendisi ayarı yedikten sonra kaçmış ve aşağılara tekrar entry girmiştir. bu vesileyle artık şu "başlıkların ilk mesajı editlenemesin" kuralını getirmesini tekrar yetkililerden reca ediyorum.
   entry_channels: anket,sinema,magazin
 - entry_name: |
+    türkiye'deki pahalılığın artık cana tak etmesi
+  entry_id:  96233073
+  entry_writer: mete han turkyilmaz
+  entry_fav_count: 68
+  entry_content: |
+    canımızı mı alacaksınız artık lan, nedir derdiniz? bir kutu bebek maması 135 lira olur mu?<br/><br/>yahu ben anlamıyorum şu emperyalist dış güçler tarafından işgal edildik, the east turkey company falan kuruldu da bizim mi haberimiz yok? <br/><br/>bakkaldan, marketten 100 lira söğüşlenmeden çıkma ihtimali bile yok. akşam atıştırırız diye çerez almak yürek ister. çerez bile lüks mü artık arkadaş?<br/><br/>en son leopold gelsin, elimizi kolumuzu da kessin artık, iş o noktaya vardı.
+  entry_channels: 
+- entry_name: |
+    6 ekim 2019 alanyaspor'un verilmeyen penaltısı
+  entry_id:  96225441
+  entry_writer: telecaster19
+  entry_fav_count: 67
+  entry_content: |
+    sabahtan akşama kadar ilgilendiğiniz spor dalı hakkında ahkam kesmeden önce acın bir kural kitabını okuyun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/v2243002od6q">https://eksiup.com/p/v2243002od6q</a><br/><br/>kırmızı bölge penaltı ,mavi bölge penaltı değil,sarı bölge ise hakemin pozisyon gereği değerlendirmesine bırakılmıştır.bu pozisyon mavi bölge pozisyonudur.<br/><br/>oyna devam.<br/><br/>not:alanyalı yahut beşiktaşlı değilim.<br/><br/>edit: bazı dostlarım ozel mesaj vasitasiyla görselin bild gazetesinin yaptığı bir haber olduğunu herhangi bir geçerliliğinin olmadığını söylediler.<br/>en altta “quelle:fifa “ yazıyor. quelle alamanca’da kaynak manasına geliyor.zaten onlarda fıfa’yı kaynak göstererek haber yaptılar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ntvspor.net/futbol/ifab-tan-yeni-elle-oynama-kurali-5c7ab175e3bdca176816582f" title="https://www.ntvspor.net/futbol/ifab-tan-yeni-elle-oynama-kurali-5c7ab175e3bdca176816582f">https://www.ntvspor.net/…i-5c7ab175e3bdca176816582f</a><br/><br/>haberde de “karar alındı” diyor. ve 1 haziran 2019’dan itibaren uygulanacak diyor.<br/><br/>bu pozisyonun çok benzeri brugge-gs macinda da olmustu ve hakem yine penaltı vermemişti.<br/><br/>hatta söyle bisey de söyleyeyim.fenerbahcenin son macinda benzer bir pozisyon olmustu ve hakem “eli asagida duruyor “ gibi hareketler yapmıştı penaltı vermediği pozisyonu açıklamak için.bu da kuralın geçerli olduğunu işaret edebilir sanırım.
+  entry_channels: spor
+- entry_name: |
     iki kadın birden idare edenlere tavsiyeler
   entry_id:  96222116
   entry_writer: khisalriyan
-  entry_fav_count: 54
+  entry_fav_count: 65
   entry_content: |
     birinin en azından anneniz; diğerinin de iyi ihtimalle kızınız veya eşiniz olmasına özen gösterin.
+  entry_channels: ilişkiler
+- entry_name: |
+    bir dine inanmadıği halde iyilik yapan insan
+  entry_id:  96232039
+  entry_writer: jeffrey dahmer
+  entry_fav_count: 60
+  entry_content: |
+    iyiliği, bir kitap veya ilahi bir güç istediği için değil, kendi içinden geldiği için yapar. çalmaz. günah olduğu için değil, karaktersizlik olduğu için. muhtaçlara yardım eder. sevap olduğu için değil, insan olduğu için yapar bunu. rüşvet almaz. haram olduğu için değil, etik olmadığı için. yani, "insan olmak" için, iyi bir insan olması için bir dine inanması gerekmez. bunu, tek dini olan vicdanı için yapar. ve hesap günü için ölmeyi beklemez, o hesabı her gece kafasını yastığa koyduğunda kendine verir.
   entry_channels: 
 - entry_name: |
     türkiye'nin en iyi beş üniversitesi
   entry_id:  96224349
   entry_writer: alejandrogonzalesinarritu
-  entry_fav_count: 52
+  entry_fav_count: 55
   entry_content: |
     ''türkiye'de bir tane bile üniversite yok. üniversite dediğiniz yer bilgi üretiminin üniversiteye yaygın olarak yayılıp, bilginin öğrenciye verildiği yerdir, meslek okulu değildir. dolayısıyla türkiye'de adına üniversite denilen kurumlar bunları yapmıyorlar, bunların içinde bunu yapmaya çalışan bazı kişiler var. galatasaray lisesi'ni üniversitelere tercih ederim. beş para etmez kurumlar. biz istanbul teknik üniversitesi'ne kütüphane yaptırmak istedik. toplana toplana 60 bin lira para toplandı. halkın da umurunda değil. buradan şunu anlıyorsunuz; kalite halkın umurunda değil. halk diploma istiyor. iş bulmak için diploma istiyor. ama bulduğu iş de umurunda değil; masasında oturup maaşını almak istiyor. bu şartlar da kimsenin eğitim umurunda değil." <br/><br/><a class="b" href="/?q=celal+%c5%9feng%c3%b6r">celal şengör</a> (bkz: <a class="b" href="/?q=bir+toplum+nas%c4%b1l+intihar+eder">bir toplum nasıl intihar eder</a>)
   entry_channels: anket,haber,eğitim
 - entry_name: |
-    türkiye'deki pahalılığın artık cana tak etmesi
-  entry_id:  96233073
-  entry_writer: mete han turkyilmaz
-  entry_fav_count: 46
+    pazar sabahı erken kalkmak için bir neden
+  entry_id:  96206873
+  entry_writer: siyahkotlu
+  entry_fav_count: 54
   entry_content: |
-    canımızı mı alacaksınız artık lan, nedir derdiniz? bir kutu bebek maması 135 lira olur mu?<br/><br/>yahu ben anlamıyorum şu emperyalist dış güçler tarafından işgal edildik, the east turkey company falan kuruldu da bizim mi haberimiz yok? <br/><br/>bakkaldan, marketten 100 lira söğüşlenmeden çıkma ihtimali bile yok. akşam atıştırırız diye çerez almak yürek ister. çerez bile lüks mü artık arkadaş?<br/><br/>en son leopold gelsin, elimizi kolumuzu da kessin artık, iş o noktaya vardı.
-  entry_channels: 
+    cumartesi gününden daha güzel bir gün olacağına inanmak..<br/><br/>günaydın sözlük ailesi.<br/><br/>sizin de pazarınız harika geçsin.
+  entry_channels: anket
 - entry_name: |
-    bir dine inanmadıği halde iyilik yapan insan
-  entry_id:  96232039
-  entry_writer: jeffrey dahmer
-  entry_fav_count: 40
+    çocukluğun en çok özlenen yanı
+  entry_id:  96197865
+  entry_writer: blackburn09
+  entry_fav_count: 51
   entry_content: |
-    iyiliği, bir kitap veya ilahi bir güç istediği için değil, kendi içinden geldiği için yapar. çalmaz. günah olduğu için değil, karaktersizlik olduğu için. muhtaçlara yardım eder. sevap olduğu için değil, insan olduğu için yapar bunu. rüşvet almaz. haram olduğu için değil, etik olmadığı için. yani, "insan olmak" için, iyi bir insan olması için bir dine inanması gerekmez. bunu, tek dini olan vicdanı için yapar. ve hesap günü için ölmeyi beklemez, o hesabı her gece kafasını yastığa koyduğunda kendine verir.
-  entry_channels: 
+    çizgi film izlerken o aslanı görüp filmin bitmediğini anlamamla yaşadığım sevinç.
+  entry_channels: anket
+- entry_name: |
+    6 ekim 2019 iyi parti'nin ibb'ye ayar vermesi
+  entry_id:  96221716
+  entry_writer: ulookawesome
+  entry_fav_count: 49
+  entry_content: |
+    ittifak dediğin böyle olur. şakşakçılıkla olmaz. imamoğlu’nun sonuna kadar arkasındayım. ama iyi parti gerektiğinde muhalefet olabilmeli. <br/><br/>millet ittifakı’nı, cumhur ittifakı’ndan ayıran özellik bu olmalı. herkes bu millet için hizmet etmeli.
+  entry_channels: siyaset,haber
+- entry_name: |
+    mikasa futbol topu
+  entry_id:  96233356
+  entry_writer: gerilip gerilip vuran adam
+  entry_fav_count: 48
+  entry_content: |
+    90 lı yılların erkek çocuklarından büyük bilim adamları çıkmamasının en büyük nedeni işte bu toptur. o topa her kafa vurduğunuzda beyninizdeki gri hücrelerden bir bölümü yok olmuştur.<br/><br/>mikasa topun pipiye sertçe çarpmasından hiç bahsetmiyorum bile.
+  entry_channels: spor
+- entry_name: |
+    asgari ücretle istanbul'da kral gibi yaşamak
+  entry_id:  96233513
+  entry_writer: ve sen oyle masum bakiyordun ki
+  entry_fav_count: 41
+  entry_content: |
+    hıyara bak. bir de 3 kişilik aile zırvalaması yapmış. <br/><br/>ulan sayın hırbo. bu ailedeki çocuk okula gitmiyor mu? bu ailede kimse üstüne başına bir şey almıyor mu? makine mi lan bunlar günde 2 ekmekle 3 kişi doysun? <br/><br/>bir de utanmadan 4 adet 5 litre su yazmış 3 kişilik aileye.. biz iki kişiyiz ama her gün eve 5 litre su giriyor. her gün bitiyor o su. 3 kişiye bir aylık su 4 paket mi?<br/><br/>aktroll embesiline cevap vermeye değmezdi ama delirttiniz lan beni sonunda. <br/><br/>gerçi yazın yazın, engellemek güzel oluyor.<br/><br/>editos: (bkz: <a class="b" href="/entry/96233199">#96233199</a>) bu aktroll'e ithaftır.<br/>editos 2: faturaları neyle ödeyecek bu insanlar? <br/><br/>tanım da ekleyeyim gelmişken: beyni gözbebeğinden küçük olan yazarları ortaya çıkarmış ifade.
+  entry_channels: eğitim,ekonomi
 - entry_name: |
     joker
   entry_id:  96203770
   entry_writer: imperialis
-  entry_fav_count: 34
+  entry_fav_count: 36
   entry_content: |
     sinemaya gitmeyi hiç sevmeyen beni bile fragmanıyla sinemaya davet eden ve pişman etmeyen film.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>o kadar güzel alt metin hazırlanmış ki her sahnesi size bir şeyler anlatıyor. hayatta en çok istediği şey olan tvye çıktığı anı hayal ederken bile annesinin kendisi ile gurur duymasıyla övünüyor. sonra annesinin kendisini kandırdığını ve çektiği acılara annesinin sebep olduğunu anlıyor. hayatta annesinden başka kimsesi olmayan biri için inanılmaz bir yıkım.<br/><br/>babasını bulduğunu düşünürken yine kabul görmüyor ve hatta aşağılanıp yumruklanıyor. <br/><br/>kendisini ''normal'' olmaya zorlayan devlet bile tedavi sürecini sonlandırıp ilaç desteğini kesiyor. doktorun deyimiyle ''onun gibi insanları umursamıyor''<br/><br/>hayranı olduğu şovmen onu tv'ye çıkarıp rezil ederek prim yapıyor. ''hadi bize bir şaka yap'' derken bile 2 kelimede bir araya girip onu küçük düşürüyor. kendisine ait koskoca bir şovu olan bir adam hayatı boyunca bu 5 dakikayı hayal eden bir adama o şansı bile çok görüyor.<br/><br/>çalıştığı yerdeki arkadaşları kendisiyle alay ediyor, patronu hakaret edip kovuyor, hastanenin kapısı bile jokeri görünce açılmıyor.<sup class="ab"><a title="(bkz: exit only)" href="/?q=exit+only" data-query="exit only">*</a></sup><br/><br/>aslında asansörde kendisine gülümseyen bir kadının hayaliyle bile hayata tutunabilecek naiflikte olan bir karakterin toplum tarafından bir katile dönüştürülmesini izliyoruz.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>film hem oyunculuk hem de anlattığı şeyler bakımından bence kült bir film olmaya aday. izlemeyen herkesin mutlaka izlemesini tavsiye ederim.
   entry_channels: sinema
@@ -150,58 +206,42 @@ data:
     dorukhan toköz
   entry_id:  96228883
   entry_writer: antikadimag
-  entry_fav_count: 34
+  entry_fav_count: 35
   entry_content: |
     süper lig denen çöplüğün öğüttüğü bir diğer sporcudur. abdülkadir ömür de ciddi bir sakatlık yaşadı. bakın bunlar milli takım seviyesinde oyuncular. ülkenin en iyi futbolcuları yani.<br/><br/>bozuk zeminli statlarıyla, futbol anlayışıyla, seyircisiyle, işten anlamaz doktorlarıyla futbol denen muazzam sporun rezil bir şekilde icra edildiği en büyük ülkedir türkiye.
   entry_channels: spor
 - entry_name: |
-    mikasa futbol topu
-  entry_id:  96233356
-  entry_writer: gerilip gerilip vuran adam
-  entry_fav_count: 32
-  entry_content: |
-    90 lı yılların erkek çocuklarından büyük bilim adamları çıkmamasının en büyük nedeni işte bu toptur. o topa her kafa vurduğunuzda beyninizdeki gri hücrelerden bir bölümü yok olmuştur.<br/><br/>mikasa topun pipiye sertçe çarpmasından hiç bahsetmiyorum bile.
-  entry_channels: spor
-- entry_name: |
-    kol saati alacaklara tavsiyeler
-  entry_id:  96218508
-  entry_writer: swordlord
-  entry_fav_count: 31
-  entry_content: |
-    (bkz: <a class="b" href="/?q=seiko">seiko</a>) - günlük kullanım saati. <br/><br/>(bkz: <a class="b" href="/?q=casio">casio</a>) - saatimi çıkarmam asla, pili uzun süre gitsin, çizilmesin, tek fonksiyonu saat ve tarihi göstermek olmasın saati. özellikle <a class="b" href="/?q=g-shock">g-shock</a> serisi.<br/><br/>(bkz: <a class="b" href="/?q=certina">certina</a>) - kaliteli isviçre saati alayım, fiyatı bir nebze uygun olsun fakat günlük kullanmaya da kıyamayayım saati.<br/><br/>(bkz: <a class="b" href="/?q=tissot">tissot</a>) - en baba günlerde kolumda bana güven veren mekanik bir dost arıyorum, ilerde çocuklarıma da yoldaşlık etsin saati.<br/><br/>(bkz: <a class="b" href="/?q=rolex">rolex</a>) - bunu alacak paraya nasıl sahip oldum bilmiyorum fakat şeklimiz yeter, asla sapmasın saati.<br/><br/>japon ve isviçre saatlerinden şaşmayın genel olarak. boyner gibi mağazalarda pilli <a class="b" href="/?q=lacoste">lacoste</a> ya da <a class="b" href="/?q=diesel">diesel</a> markası adı altında satılan saatler genelde sadece görünüm için alınan çok uzun yıllar kullanamayacağınız kol saatleridir.
-  entry_channels: anket,teknoloji,moda
-- entry_name: |
-    geceye acı ama gerçek bir cümle bırak
-  entry_id:  96200760
-  entry_writer: fbu
-  entry_fav_count: 30
-  entry_content: |
-    "hepimiz kendi dışımızdaki koşulların tutsağıyız."<sup class="ab"><a title="(bkz: fernando pessoa)" href="/?q=fernando+pessoa" data-query="fernando pessoa">*</a></sup>
-  entry_channels: anket,edebiyat
-- entry_name: |
-    asgari ücretle istanbul'da kral gibi yaşamak
-  entry_id:  96233513
-  entry_writer: ve sen oyle masum bakiyordun ki
-  entry_fav_count: 29
-  entry_content: |
-    hıyara bak. bir de 3 kişilik aile zırvalaması yapmış. <br/><br/>ulan sayın hırbo. bu ailedeki çocuk okula gitmiyor mu? bu ailede kimse üstüne başına bir şey almıyor mu? makine mi lan bunlar günde 2 ekmekle 3 kişi doysun? <br/><br/>bir de utanmadan 4 adet 5 litre su yazmış 3 kişilik aileye.. biz iki kişiyiz ama her gün eve 5 litre su giriyor. her gün bitiyor o su. 3 kişiye bir aylık su 4 paket mi?<br/><br/>aktroll embesiline cevap vermeye değmezdi ama delirttiniz lan beni sonunda. <br/><br/>gerçi yazın yazın, engellemek güzel oluyor.<br/><br/>editos: (bkz: <a class="b" href="/entry/96233199">#96233199</a>) bu aktroll'e ithaftır.<br/>editos 2: faturaları neyle ödeyecek bu insanlar? <br/><br/>tanım da ekleyeyim gelmişken: beyni gözbebeğinden küçük olan yazarları ortaya çıkarmış ifade.
-  entry_channels: eğitim,ekonomi
-- entry_name: |
     patronsuz müdürsüz amirsiz insan
   entry_id:  96232757
   entry_writer: hylmz
-  entry_fav_count: 25
+  entry_fav_count: 33
   entry_content: |
     işsizdir...
   entry_channels: anket,ekonomi
 - entry_name: |
+    kol saati alacaklara tavsiyeler
+  entry_id:  96218508
+  entry_writer: swordlord
+  entry_fav_count: 32
+  entry_content: |
+    (bkz: <a class="b" href="/?q=seiko">seiko</a>) - günlük kullanım saati. <br/><br/>(bkz: <a class="b" href="/?q=casio">casio</a>) - saatimi çıkarmam asla, pili uzun süre gitsin, çizilmesin, tek fonksiyonu saat ve tarihi göstermek olmasın saati. özellikle <a class="b" href="/?q=g-shock">g-shock</a> serisi.<br/><br/>(bkz: <a class="b" href="/?q=certina">certina</a>) - kaliteli isviçre saati alayım, fiyatı bir nebze uygun olsun fakat günlük kullanmaya da kıyamayayım saati.<br/><br/>(bkz: <a class="b" href="/?q=tissot">tissot</a>) - en baba günlerde kolumda bana güven veren mekanik bir dost arıyorum, ilerde çocuklarıma da yoldaşlık etsin saati.<br/><br/>(bkz: <a class="b" href="/?q=rolex">rolex</a>) - bunu alacak paraya nasıl sahip oldum bilmiyorum fakat şeklimiz yeter, asla sapmasın saati.<br/><br/>japon ve isviçre saatlerinden şaşmayın genel olarak. boyner gibi mağazalarda pilli <a class="b" href="/?q=lacoste">lacoste</a> ya da <a class="b" href="/?q=diesel">diesel</a> markası adı altında satılan saatler genelde sadece görünüm için alınan çok uzun yıllar kullanamayacağınız kol saatleridir.
+  entry_channels: anket,teknoloji,moda
+- entry_name: |
     bir yıl içinde tanışıp nişanlanıp evlenen insanlar
   entry_id:  96203563
   entry_writer: ogretmen hanim
-  entry_fav_count: 25
+  entry_fav_count: 30
   entry_content: |
     benim bu. evet yaşımız geçiyordu e birbirimizden de hoşlandık hatta sevdik mantıklı da geldi muhabbet sardı elektrikler alındı daha neyi bekleyelim? yani 3 yıl beklesen ne? sadece en ufak kavga da belki ayrılacaksın? ama biz şimdi evli olarak kavga edip defalarca barışıyoruz. ha belki yanlış da bir seçim olabilirdi bizim için ama kim iddia edebilir ki 3 yıl tanışanın görüşenin yanlış evlilik yapma ihtimalinin olmayacağını?
   entry_channels: anket,ilişkiler
+- entry_name: |
+    mutsuz bir insana iyi gelecek şey
+  entry_id:  96198946
+  entry_writer: gorken
+  entry_fav_count: 25
+  entry_content: |
+    gelişmiş bir ülke. içimdeki mutsuzluk, karamsarlık içinde yaşadığım toplumdan kaynaklanıyor. bilgisizliğin, yobazlığın hüküm sürdüğü bu coğrafyada mutlu olmak için sahip olunması gereken tek şey para. bu toplumda mutlu olmak için etrafı demir halatlarla çevrili elit semtlerde yaşamalıyız. doğal afetlerde ölmemek için çok para kazanıp kendimize çelikten inşa edilmiş yapılar satın almalıyız. çünkü devlet fakir halkını önemsemiyor.
+  entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
     6 ekim 2019 çaykur rizespor trabzonspor maçı
   entry_id:  96232084
@@ -211,21 +251,37 @@ data:
     yağmur öyle yağıyor ki ajan simith ile neo kapışmaya gelir birazdan.
   entry_channels: spor
 - entry_name: |
-    mutsuz bir insana iyi gelecek şey
-  entry_id:  96198946
-  entry_writer: gorken
+    hiç çukur izlemeyen adam
+  entry_id:  96198248
+  entry_writer: all the humans die
   entry_fav_count: 24
   entry_content: |
-    gelişmiş bir ülke. içimdeki mutsuzluk, karamsarlık içinde yaşadığım toplumdan kaynaklanıyor. bilgisizliğin, yobazlığın hüküm sürdüğü bu coğrafyada mutlu olmak için sahip olunması gereken tek şey para. bu toplumda mutlu olmak için etrafı demir halatlarla çevrili elit semtlerde yaşamalıyız. doğal afetlerde ölmemek için çok para kazanıp kendimize çelikten inşa edilmiş yapılar satın almalıyız. çünkü devlet fakir halkını önemsemiyor.
-  entry_channels: anket,ilişkiler,sağlık
+    kurtlar vadisi'ni "kurtlar vadisi" olduğu dönemde izlemiş adam olabilir.neden çizgi film seyretsin?
+  entry_channels: tv
+- entry_name: |
+    asgari ücretli gelir vergisinin %20'ye yükselmesi
+  entry_id:  96235420
+  entry_writer: zamansiz30
+  entry_fav_count: 24
+  entry_content: |
+    kendi oy depolarına da hallenmeye başladılar. durum cidden fena galiba
+  entry_channels: 
 - entry_name: |
     en karizmatik oyun karakteri
   entry_id:  96229256
   entry_writer: ilkeeee
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     captain price (call of duty)
   entry_channels: anket,oyun
+- entry_name: |
+    dili bilinmediği halde hüzünlendiren şarkılar
+  entry_id:  96204012
+  entry_writer: gunniyal
+  entry_fav_count: 20
+  entry_content: |
+    (bkz: <a class="b" href="/?q=no+habr%c3%a1+nadie+en+el+mundo">no habrá nadie en el mundo</a>)
+  entry_channels: anket,müzik
 - entry_name: |
     yüzüklerin efendisi'ni izlememiş kızla çıkmak
   entry_id:  96232682
@@ -243,77 +299,53 @@ data:
     o kadar kötü tabloya rağmen eğer kazanırsak fenerbahçe ile 3 galatasaray ile 2 puan fark kalacak... <br/>alanya'yı yenerek ilk mağlubiyetini tattırmış olarak sonraki lig maçları için büyük bir moral kaynağı olacak...<br/>ruiz stopere döndü necip'ten kurtulduk...<br/>burak sahada...<br/>atiba-oğuzhan ön liberosu tamam...<br/>yarışa tekrar dönen beşiktaş milli maç arasında sistemi de oturtacak...<br/><br/>gördüğünüz gibi kaybetmemek için hiç bir nedenimiz yok. skor tahmini: 1-2
   entry_channels: spor
 - entry_name: |
-    dili bilinmediği halde hüzünlendiren şarkılar
-  entry_id:  96204012
-  entry_writer: gunniyal
-  entry_fav_count: 14
+    ağzı kokuyormuş gibi gözüken ünlüler
+  entry_id:  96226681
+  entry_writer: wohan
+  entry_fav_count: 12
   entry_content: |
-    (bkz: <a class="b" href="/?q=no+habr%c3%a1+nadie+en+el+mundo">no habrá nadie en el mundo</a>)
-  entry_channels: anket,müzik
-- entry_name: |
-    asgari ücretli gelir vergisinin %20'ye yükselmesi
-  entry_id:  96235420
-  entry_writer: zamansiz30
-  entry_fav_count: 11
-  entry_content: |
-    kendi oy depolarına da hallenmeye başladılar. durum cidden fena galiba
-  entry_channels: 
-- entry_name: |
-    zenginlerin kışın ince giyinmesi
-  entry_id:  96198154
-  entry_writer: kalpazan azman
-  entry_fav_count: 9
-  entry_content: |
-    araba etkisi.
-  entry_channels: 
-- entry_name: |
-    trt'ye öcalanı kılıçdaroğlu çıkardı
-  entry_id:  96235694
-  entry_writer: kissofh3ll
-  entry_fav_count: 9
-  entry_content: |
-    olaya iyi tarafından bakalım en azından durumun boktan olduğunu kabullenmiş. <br/><br/>tanım: gerçek olmayan iddiadır. adam trt'ye birini çıkarabilse önce kendini çıkarır.
-  entry_channels: 
-- entry_name: |
-    manchester united
-  entry_id:  96232100
-  entry_writer: te moses
-  entry_fav_count: 7
-  entry_content: |
-    ferguson sonrası yeni bir yapılanmaya gitmesi gerekirken ferguson dönemini devam ettirmeye çlalışmış, bu uğurda ander hereira, rojo, shaw, mkhitaryan gibi çöplere 150-200 milyon sterlin harcamış kulüptür. üstelik bu hatasından döneceğine pogba'ya da 100 milyon bayılmış bir dirhem fayda görememiştir.<br/><br/>olay solskjaer,mourinho, van gaal falan değil aptal yönetimdir.hani arsenal, tottenham gibi stad yaparsın belirli bir borcun altına girersin transfer yapamazsın amenna...sendeki para ingiltere'de liverpool ve city'de var anca. onların durumuna bak bide bu spastiklere.<br/><br/>ingiltere'de desteklediğim tek kulüp...benim gibi 88 kuşağının ergenlik ve erişkinlik dönemlerine damga vurduğu için bir gönül bağımız var kendisiyle. artık o günler geride kaldı maalesef. greenwood, james, rashford gibi sözlükte klitorisin yerini tartışan 2001'li piçlemeler doluştuğu için newcastle, so'ton gibi takımlar karşısında dökülmeye devam edecek.
-  entry_channels: spor
-- entry_name: |
-    o ses türkiye
-  entry_id:  96228320
-  entry_writer: dilber87
-  entry_fav_count: 6
-  entry_content: |
-    şu aptal program yüzünden masterchef'in gününü değiştirmişsin acun. pazar günü yeni bölümü yoksa masterchef'in izlemeyi bırakıyorum bende.
-  entry_channels: tv,müzik
-- entry_name: |
-    35 yaşında bekar mutlu huzurlu ve güzel kadın
-  entry_id:  96234787
-  entry_writer: dersi derste ogren
-  entry_fav_count: 6
-  entry_content: |
-    bekar olduğu için mutlu, huzurlu ve güzel kalabilmiş kadındır.<br/><br/>aman şaşmasın yolundan.
-  entry_channels: anket,ilişkiler
+    (bkz: <a class="b" href="/?q=aramaya+inanmayan+%c3%b6k%c3%bcz+o%c4%9flu+%c3%b6k%c3%bcz">aramaya inanmayan öküz oğlu öküz</a>)<br/><br/>(bkz: <a class="b" href="/?q=a%c4%9fz%c4%b1+kokuyormu%c5%9f+gibi+g%c3%b6z%c3%bcken+%c3%bcnl%c3%bcler">ağzı kokuyormuş gibi gözüken ünlüler</a>)
+  entry_channels: anket,sağlık,magazin
 - entry_name: |
     sevgilisine doğum gününde nakit para veren erkek
   entry_id:  96235565
   entry_writer: dadanda
-  entry_fav_count: 5
+  entry_fav_count: 11
   entry_content: |
     evlilik yıldönümlerinde, kadın dışarıda romantik bir yemek yenecek zannederken <a class="b" href="/?q=pantulu+getir+a%c5%9fg%c4%b1m">pantulu getir aşgım</a> deme potansiyeli olan erkektir.
   entry_channels: 
 - entry_name: |
-    6 ekim 2019 inter juventus maçı
-  entry_id:  96230841
-  entry_writer: izzetisormazatenperisan
+    35 yaşında bekar mutlu huzurlu ve güzel kadın
+  entry_id:  96234787
+  entry_writer: dersi derste ogren
+  entry_fav_count: 9
+  entry_content: |
+    bekar olduğu için mutlu, huzurlu ve güzel kalabilmiş kadındır.<br/><br/>aman şaşmasın yolundan.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    unutulmayan üşüme anları
+  entry_id:  96228121
+  entry_writer: isolde
+  entry_fav_count: 7
+  entry_content: |
+    geçen sene ekim ortaları, edremit 19. motorlu piyade tugayı'nda 21 günlük askerliğinin 10 gününü revirde hastalıktan kırılarak geçiren küçük kardeşimin yemin törenine gittik. edremit öğretmen evi'nde yer ayırtmıştık. kardeşimin eski kız arkadaşıyla aynı odada kalıyoruz, tüm bedelli asker aileleri aynı gün yola düştüğü için yolculuğumuz saatler sürmüş, yorgunluktan lensimi çıkaramıyorum artık. odada iki petek var ama ikisi de yanmıyor, hava buz. aşağı inip neden bu zemheride kaloriferi yakmıyorsunuz birader diye soramayacak kadar bitiğiz. dolaplarda ne kadar yedek battaniye varsa paylaşıp yattık. ben o gece üşüdüğüm kadar hiç üşümedim. ki ben hep üşürüm. zannedersin dağ başında, kurt ulumaları arasında, 150 tl'ye alınmış quechua çadırda kuru zemin üstünde saten gecelikle uyumaya çalışıyorum. sabaha karşı hipotermiden bilincimi kaybetmek üzereyken kalktım hareket edip hayata tutunmak amacıyla. kardeşimin kız arkadaşı karşı yataktan "sana kötü bir haberim var" diyerek tepedeki klimayı gösterdi. odada klima varmış meğer. ama akdenizli olmadığımız için klima zihnimde sadece serinlemeye yarayan bir şey olarak kodlu ve yemin ederim ki önceki gece o klima orada yoktu. algıda seçemeyicilik sonucu tam bir keriz donması yaşadım.
+  entry_channels: anket,sağlık
+- entry_name: |
+    trt'ye öcalanı kılıçdaroğlu çıkardı
+  entry_id:  96235788
+  entry_writer: boshi
   entry_fav_count: 5
   entry_content: |
-    şampiyon olmayın juve'yi yenin.<br/><br/>ya da olun artık. amk juventusu bokunu çıkarttı.
-  entry_channels: spor
+    muhabirin sondaki "tebrik ediyorum"u güldürmüştür.
+  entry_channels: 
+- entry_name: |
+    bitti diyen kıza sen bilirsin diyen erkek
+  entry_id:  96235032
+  entry_writer: codmother
+  entry_fav_count: 5
+  entry_content: |
+    dün aksam itibariyle yapmis oldugum harekettir. kapris ve şımarıklık cekecek yaslari geceli cok oldu. gelene gelme demedigim gibi gidene de gitme demem.
+  entry_channels: ilişkiler
 - entry_name: |
     yazarların doğum tarihinde yaşanmış önemli olaylar
   entry_id:  96203317
@@ -323,53 +355,29 @@ data:
     ceza doğmuş hemi de benimle aynı yerde.
   entry_channels: anket,ekşi-sözlük,tarih,magazin
 - entry_name: |
-    bitti diyen kıza sen bilirsin diyen erkek
-  entry_id:  96235032
-  entry_writer: codmother
+    6 ekim 2019 inter juventus maçı
+  entry_id:  96235769
+  entry_writer: umitasyon
   entry_fav_count: 3
   entry_content: |
-    dün aksam itibariyle yapmis oldugum harekettir. kapris ve şımarıklık cekecek yaslari geceli cok oldu. gelene gelme demedigim gibi gidene de gitme demem.
+    italya ligi sıkıcı, takımlar çok defansif oynuyor diyen olursa açın izletin. bir çok premier lig maçı bile bu tempoya ulaşamıyor. ilk yarım itibariyle müthiş bir maç oluyor. <br/><br/>bana kalırsa inter kazanacak..
+  entry_channels: spor
+- entry_name: |
+    20 yaşındaki kızın 40 yaşındaki adamla çıkması
+  entry_id:  96222050
+  entry_writer: fanzin
+  entry_fav_count: 3
+  entry_content: |
+    en çok 40 yaşındaki kadınların yaşıtı erkeklere eleştiri getireceği durumdur.
   entry_channels: ilişkiler
 - entry_name: |
     kendinle aran nasıl
-  entry_id:  96230093
-  entry_writer: tyrande whisperwind
-  entry_fav_count: 2
-  entry_content: |
-    kendimi dinlememek icin <a class="b" href="/?q=power+off">power off</a> tusumu ariyorum. henuz bulamadim.
-  entry_channels: ilişkiler,sağlık
-- entry_name: |
-    ankara'nın en çok sevilen yanı
-  entry_id:  96236232
-  entry_writer: the world of dreams
-  entry_fav_count: 2
-  entry_content: |
-    anıtkabir, bahçeli, milli kütüphane, karanfilin akşamki hali, seğmenler
-  entry_channels: siyaset,anket,seyahat
-- entry_name: |
-    bütün insanların götünün olması
-  entry_id:  96199283
-  entry_writer: harry tuttle
-  entry_fav_count: 1
-  entry_content: |
-    <a class="b" href="/?q=kaynak">kaynak</a>: götüm, olarak açıklanabilir.
-  entry_channels: ilişkiler,bilim,sağlık
-- entry_name: |
-    20 yaşındaki kızın 40 yaşındaki adamla çıkması
-  entry_id:  96224965
-  entry_writer: montevideokontu
-  entry_fav_count: 1
-  entry_content: |
-    arkadaş; ister para için birlikte olur ister aşk birlikteliği yaşar isterse de (bkz: <a class="b" href="/?q=elektra+kompleksi">elektra kompleksi</a>) ni tatmin eder, sana ne bana ne ona ne arkadaş. ne zaman ahlak bekçisi kesilip, üzerimize vazife olmayan konularda yorum yapmayı bırakacağız. ne diyim allah ıslah etsin.
-  entry_channels: ilişkiler
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  96203017
-  entry_writer: stabil vatandas
+  entry_id:  96236768
+  entry_writer: 2olsun
   entry_fav_count: 0
   entry_content: |
-    sadece cup ölçüsü c ve üzeri olan hanımlar lütfen. bişey denicem.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    hangisiyle?
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     ekşi itiraf
   entry_id:  96213087
@@ -394,12 +402,4 @@ data:
   entry_content: |
     işte gidiyorum bir şey demeden arkamı dönmeden...<br/>(bkz: <a class="b" href="/?q=kaz%c4%b1m+koyuncu">kazım koyuncu</a>) <br/><a class="b" href="/?q=i%c5%9fte+gidiyorum">işte gidiyorum</a>
   entry_channels: anket,ilişkiler,müzik
-- entry_name: |
-    88'li erkekler
-  entry_id:  96233768
-  entry_writer: arycanda
-  entry_fav_count: 0
-  entry_content: |
-    ünivetsiteye başladığımda doğmuş olanlardır.
-  entry_channels: 
 ---
