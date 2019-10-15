@@ -6,7 +6,7 @@ data:
     hayır hayır olmaz asker selamı vermek istemiyorum
   entry_id:  96562605
   entry_writer: nihayet be
-  entry_fav_count: 1719
+  entry_fav_count: 1737
   entry_content: |
     asker selamı yapmak zorunda olmayan bir kişi tarafından söylendiği iddia edilen söz. insanların zorunluluğunu belirlemek düpedüz faşizmdir, hattâ faşizmin varabileceği en son noktadır. herhangi bir kişiyi, “gol attıktan” sonra ahlâkî ve politik olarak yargılamak nasıl bir zihniyetin ürünü olabilir ki?<br/><br/>meseleye pragmatik açıdan baksak bile bir karşılığı yok. sanılanın aksine, canı burnunda savaşan askerlerin kafalarını takacakları en son şey, milyonlarca lira maaş alan kişilerin anlamsız bir sportif faaliyetteki başarı durumlarıdır. açık yüreklilikle söylüyorum, ben askerden kaçmak için kilo almaya çalışan birisiyim ve elimden geldiğince vatan-millet-sakarya edebiyatı yapmamaya çalışıyorum. canı burnunda savaşan askerlere sessiz bir şekilde, dualarımla yardımcı olmaya çalışıyorum. ancak hemen hepsi bedelli askerlik yapmış kişilerin prim kasmak ve şov yapmak için “asker selamı” vermeleri gerçekten bana çok ilginç geliyor. hele bu tip insanların verecekleri veya vermedikleri asker selamını bu kadar önemsemek, ne bileyim, boş bakkallıktan başka bir şey değilmiş gibi duruyor bence.
   entry_channels: siyaset
@@ -14,7 +14,7 @@ data:
     3 bin tl gelir ile 2 bin tl nafaka ödemek
   entry_id:  96573455
   entry_writer: fcsm
-  entry_fav_count: 981
+  entry_fav_count: 990
   entry_content: |
     üst edit: açıkçası bu kadar ilgi beklemiyordum başlığa. öncelikle derdimi kendi derdiymiş gibi benimseyip dua eden insanlara çok teşekkür ederim. gerçekten çok duygulandım. burada yazdıklarım yaşadıklarımın ve sürecin özeti aslında. daha o kadar çok şey varki konuyla ilgili yazmam gereken. yazmam gereken çünkü inandırıcı bulmayan insanlar. haklılar da. çünkü biz bile inanamıyoruz verilen keyfi kararlara. birçok yazarı özelden sorduklarına karşılık aydınlatmaya çalıştım. icrada çalışan birtanesi kararı görmek istedi inanmak için heralde ona kararı göndercem en yakın zamanda. inanmayıp beni yargılayana bile durumu izah ettim. arada bir iki kişiye de sövdüm yalan yok. üsluplarından dolayı. bi kere şunu açıklamam lazım gelir 3000 nafaka 2000. bu rakamlar yaklaşık 1 senedir böyle. imkansız diyen arkadaşlara daha ilgincini söyleyeyim. gelirim 0 (sıfır) iken 1500 tl idi nafaka. yine gelirim 0 iken 2000 tl ye çıktı. tabi ben geliri doğduğumdan beri 0 olan bi insan değilim. ilk iştirak nafaka davasında ikitelli'de 4 katlı lokantam ve şirket üzerine kayıtlı arabam vardı. davadan da önce. boşandıktam sonra (mahkemede karşı taraf da ben de bir şey talep etmedik birbirimizden) çocuğuma ve annesine yine ben bakıyordum. kredi kartlarını ödüyordum. hatta son birkaç ay annesinin bile ev kirasını ödedim. arada şunu da belirteyim konudan konuya atlıyorum fakat akla geldikçe yazıyorum. kredi ile ev alma durumumuz vardı evliyken ama aramız hep bozuktu. 2 kere boşanma davası açmak için adliyeye gitti dilekçe verdi ama hep kendi kendine vazgeçti. çok ciddi geçimsizlik vardı. hatta o zaman babamın ona harçlık olarak verdiği 1000 tl ile etilerde bi evlilik uzmanına gittik. tv de sürekli çıkan bi kadın vardı baya estetikli şimdi. kadın ikimizi de ayrı ayrı aldı sonra ikimizi aldı ve dedi ki bana eşine il tedavisi başlıcaz. bi iki gitti kadına onu da bıraktı ilacı da. bazıları özelden sormuş şiddet var mıydı. evet vardı. kendisinin bana bi iki kere şiddete yeltendiği oldu 3 aylık oğlum kucağımda. ondan sonra kesin kararı verdim. bahsettiğim evi de o zaman aldım babamdan borç alarak ve babamın haberi yokken üstüne yaptım evi. sırf kendini güvende hissetsin boşanalım diye. nitekim evi aldıktan sonra boşandık. 2 ay sonra da araba istedi. oğlumu kullanarak. yarı parasını istedi ama allahı var gerisini kendi kredi çekecekmiş. 20000tl de nakit verdim arabasını da aldı. daha sonra çocuğu cerrahpaşaya doktora götürmek için araba lazım oldu arabayı da vermedi bi gün:) <br/>şimdiki eşimle ilişkimi öğrenince dükkanımda rezalet çıkardı. para verince sustu gitti. ev çok yakında dükkana. her saat gidip görüodum oğlumu. bütün gün beraberdik sadece aynı evde kalmıodum. dükkana gelen yoğurtçudan günlük sütünü her sabah bırakıodum eve yoğurt yapsınlar diye. o zamanlar cumaya gidiodum her dönüşte abdestli oğlumu okuyodum. ilişkimi öğrendikten sonra çocuğu göstermemeye başladı. sadece işi düştüğü zaman gördüm. evlendikten sonra da her seferinde icrayla aldım. ilk nafaka davası açtığında 500tl bağladı. aksatmadan ödedim her ay. 500 den fazla da kılık kıyafet mutfak masrafı yapıyordum zaten. sonra artırım için açtı 800 yaptılar. ona da ses etmedim eylül 2015 e kadar ödedim. <br/>ailecek görüştüğümüz bi iranlı aile vardı. dışardan on numara, varlıklı dinsar insanlar. hatta şii oldum o adam sayesinde:) o sıralar babayla bozuğuz, ortağın biri hırsız çıktı kovduk, işler bombok sarıldım bu adama. abi oldu bana. sözde çimento işi yapıomuş tacikistandan tr den alıp dubai ye satıomuş. konteyner hesabı. anlaşması varmış 2020 ye kadar. tabi iranlıyla dostluğumuz 2 seneden fazla o zaman. abartısız hergün beraberiz. adamın kalkıyoruz gece 3 te. arkamızdan arabayla geliolar çaya sabah 4 te bizde çay içiyoruz. bizim de hanımla bi ingiltere sevdamız vardı ankara antlaşmasıyla giderek. bahsettik bunlara da. vazgeçirdiler. amerika da kurulu şirketi varmış oğlunun üstüne. (evraklarını da gösterdi). büyük ihtimal internetten açmış ama o zaman sorgulamıyo insan. son model arabalar. sonra öğrendik hepsi kira. bizimle beraber 7-8 aileyi çarpıomuş ki ben en fakiriyim bu arada. bigün dedi benim işe kısmi ortak ol. 100bin varsa koy her ay 10bin gelsin. iş resmi ofis fatura her bok varmış. tabi ben sormuyorum bile. zaten tutunacak dal arıyorum. ben 100bin vermedim. evi sattım kalan krediyi kapattım tam 300bin verdim eline nakit. sonra internetten amerika nın en güzel yerinde ev tutturdu bize. her ay 20000 tl kar payımı göndermek şartıyla. hatta gitmeden borç da verecekti ama iranda babası hastalandı oraya göndermiş:) velhasıl biz gittik. 1 seneye yakın kaldık. biz oradayken kayınpederi de çarptı:) bütün herkes anladı ne olduğunu. bi benle kayınpeder konduramadık. döndük bi şekil yurda. amerikadayken nafakayı hiç ödemedim. çünkü kendimize zor yettik üstüne 5000 dolar ablamın eşine borçlandım. oradayken duruşma vardı nafaka için. karşı tarafın artırım talebi. hakim, amerikan vatandaşlığına geçmek için eşimle kişi başı 250bin dolar ödediğimize ve maddi durumumuzun çok iyi olduğuna kanaat getirip 1500 yaptı nafakayı. döndükten sonra 700tl verip dosyayı yargıtaya gönderdik karar bozulmadı. yurda döndükte iş yok güç yok. ev yok batk yok. sığındık kayınpedere. napcam diye düşünürken babam sağolsun reddi miras yaptı. çünkü hep eşimi sorumlu tuttu amerika işinden. kaldı ki eşim hep gitmeyelim, ankara antlaşmasına başvurup ingiltere gidelim diye uğraştı. reddi mirastan sonra çöktüm iyice. bi süre yattım içgüveysi. çok iş aradım ama tahsil yok yaş geçmiş bulamadım. sonra kaçak amerika da çalışmaya karar verdim. vize de var. orda arkadaş sağolsun araba bile ayarladı paket servis için. yine borç harç bilet aldık kasım 2016 da trump ın seçildiği gün uçtuk. almadılar içeri. daha önceki kayıtlar çıktı tabi. 10 gün diye gidip 6 ay kalmışız. adam diyo ne ayaksın. tam 24 saat tuttular bizi 5 yaşında kızımızla. aynı uçakla geri ülkeye. pasaporta da deportu yedik. gelince büyük yıkım. bi süre daha yattım ben. sonra boynumu büküp reddi miras yapan babamdan ufak bi sermaye alıp taşıma işine girdim. hani şu bütün taksimde orda burda gördüğünüz arapları taşıma işine. bi akrabamın turizm şirketi ve arabaları var. ben de yancı gibi girdim kendi arabamla. tabi bi senedir kira yok ev masrafı yok unutmuşuz geçinmeyi. kazandığıma bakıyorum ev tutsam olmuyo. yetmiyor da yetmiyor. yaz geldi ailemin yaşadığı bodruma sezonda iş olur diye geldim. 3 ay sabah akşam köpekler gibi çalıştım. o dönem biraz borç ödedim. sonra dedik kira ucuz bodrum havaalanına yakın ev tuttuk. kredi de çektim eşimim adına. yerleştik buraya. tabi bizim iş kışın burada tutmadı gönderdim arabayı istanbula çalışsın diye. en azından dedim kredisi ödensin. ben de bulurum asgari ücretli iş. yarımadayı talan ettim iş yok. o sıra şimdiki çalıştığım yerle babam ortak oldu. yani babam sağolsun iş verdi patronum oldu. asgari ücretten sigortalıyım yılbaşından beri. burda başkasının aracıyla arada havaalanı servis yapıyorum dükkana getirdiğim işten komisyon alıyorum. (turizm için aldığım arabayı da aldı istanbuldan. 1 sene kredisini ödediğim) geçimimiz bu şekilde. istanbuldan kayınpeder ve kızımın dayıları sağolsunlar her ay düzenli kiramıza büyük katkı yapıyorlar. <br/>çok çok uzun oldu çok özür dilerim fakat yazdıkça rahatladım. en azından birkaç kişinin aklında bazı sorular yanıtlandı şahsımca. <br/><br/>uzun süredir mücadele ettiğim fakat bir arpa boyu yol katedemediğim durum.<br/>nerden başlanır veya nasıl anlatılır bilmiyorum. başlık tamamen doğru en ufak abartı yok rakamlarda.<br/>asgari ücretten sigortalıyım. ekstra yaptığım işlerle elime geçen ayda 3000tl. adaletin bana iştirak nafakası hükmü 2000tl. üzerime tek bir eşya yok hatta banka hesabım bile yok. buna karşılık karşı taraf evlilik sürecinde ona aldığım evi satıp o evin parasıyla aldığı yeni evi kiraya verip lüks bir sitede 3. eşiyle keyif yaparken ben kiramı eşimin ailesinin yardımı olmadan ödeyemiyorum.<br/>haliyle bu şartlarda ödeme yapmam zaten imkansızken karşı tarafın sürekli açtığı ceza davalarından hüküm giyiyorum ve hakkımda yakalama kararı çıkıyor. şu zamana kadar iki kere jandarma aldı. ilkinde kızımın gözünün önünde aldılar. ikincisinde akşam saati olduğu için bir gece misafir ettiler. son üç ay nafakayı ödeyince bıraktılar. ödemeleri de borç alarak yaptım zaten. daha o borçları ödeyemezken nafaka bir taraftan biriktikçe birikti.<br/>evet bu ülkede haksız yere bağlanmış bu parayı ödeyemezseniz 3 ay hapis yatıyorsunuz. ben bu şartlarda hapis korkusuyla yaşıyorken. 2014 senesinde beni dolandıran ve suçu sabit olan bir iran vatandaşı elini kolunu sallaya sallaya ortalıkta cirit atıyor.<br/>bağlanan nafaka kadına değil oğluma bağlanmıştır fakat 12 yaşında bir çocuğun nasıl ayda 2000 tl gideri olabilir. ilk zamanlar (2010 senesi) çocuğumu almak için icra memuru ve pedagoglara servet döktüm. kafam kadar icra dosyası var. çocuğun bütün temmuz ayı bende kaldığı ayların bile parasını ödemek zorunda kaldım. düşünsenize çocuk 1 ay yanınızda karşı taraf 1 kuruş masrafı yok o ay çocukla ilgili. ben hem o parayı da ödemek zorundayım hem de 1 aylık da kendim ekstra masraf yapıyorum. bu ekstra masrafın çoğu da giyim kuşam. çünkü sağolsun annesi ben komple yeni alayım diye çocuğu bir tişört bir şort ve terlikle yolluyor hep.<br/>benim gibi çok insan var. 2 senedir yazarım heralde ama bu başlığı açmayı hep erteledim. çok bi faydası olacağını düşünmedim hiç ama yazmak istedim. ne bilim ya o kadar dert var herkeste bu da benimki olsun
   entry_channels: 
@@ -22,23 +22,15 @@ data:
     15 ekim 2019 çin'in operasyonu durdurun çağrısı
   entry_id:  96569360
   entry_writer: 4grammaton
-  entry_fav_count: 888
+  entry_fav_count: 891
   entry_content: |
     akıllı olsun dediğim ülke beyanı. <br/><br/>1 türk 10 çinliye bedeldir! <br/><br/>[80 milyon x 10 = 800 milyon. yetmedi :'( ]
   entry_channels: siyaset,haber
 - entry_name: |
-    barış pınarı harekatındaki diplomasi fiyaskosu
-  entry_id:  96570661
-  entry_writer: princeoftroi
-  entry_fav_count: 834
-  entry_content: |
-    onun bacanağını, bunun görümcesini temsil yeteneği olmadan büyükelçi diye atarsanız haklılığımızı filistine bile anlatamayız. asker sahada can veriyor ama diplomatik misyon bu haklılığı yeterince anlatamıyor. tüm dünyadan dışlandık tam bir fiyasko. bu yeteneksizlere zırhlı mercedes çekip tonla maaş ödüyor türk vergi mükellefi yazık.
-  entry_channels: siyaset
-- entry_name: |
     pkklıların stuttgart'ı savaş alanına çevirmesi
   entry_id:  96557132
   entry_writer: designer drugs
-  entry_fav_count: 602
+  entry_fav_count: 609
   entry_content: |
     pkkyı destekliyorlardı biraz da onlar uğraşsınlar
   entry_channels: siyaset,haber
@@ -46,7 +38,7 @@ data:
     parfümün sıkılacağı yer
   entry_id:  96577775
   entry_writer: cilli horozun intikami
-  entry_fav_count: 387
+  entry_fav_count: 404
   entry_content: |
     iki çeşit koku vardır bu klasmanda ve ikisine de parfüm deyip geçiyoruz. <br/><br/>eau de toilette ve eau de parfum. <br/><br/>adında anlaşılacağı gibi eau de toilette kıyafet üzerine sıkılırken eau de parfum tene sıkılır.
   entry_channels: 
@@ -54,7 +46,7 @@ data:
     kaan ayhan
   entry_id:  96555297
   entry_writer: uber insan
-  entry_fav_count: 383
+  entry_fav_count: 384
   entry_content: |
     adam gol atmış hala asker selamı diyen adam var amk. vallahi siz egitilmezsiniz. adam gölü atmasa soyunma odasında kendi kendimize verecektik asker selamını.<br/><br/>atamın da dediği gibi "vatanını en çok seven görevini en iyi yapandır"
   entry_channels: spor
@@ -62,7 +54,7 @@ data:
     sabah yolda sigara içen primitif kitle
   entry_id:  96566198
   entry_writer: fatality44
-  entry_fav_count: 342
+  entry_fav_count: 353
   entry_content: |
     evet var böyleleri. özellikle kalabalık şehirde yaşayanlar için söylüyorum. topluma saygısını geçtim kendine bile saygısı yoktur. şimdi bakıyorsun kalabalık bir yolda yürüyon püfff etrafın duman olmuş. hayır ben senin o dumanını solumak zorundamıyım yav? bunların bir de toplu taşımaya binerken son nefesi aracın içine üfleyenleri var ki onlar daha vahim. leş gibi kokuyorlar medeniyetten uzak primitif insanlar. <br/><br/>benim içtiğim sigara kimseyi ilgilendirmez diyip duyar kasacaklar hiç kasmasın. <br/><br/>feodal kitle.
   entry_channels: anket
@@ -70,7 +62,7 @@ data:
     abd malı kullanmıyoruz kampanyası
   entry_id:  96573893
   entry_writer: her biji recop wundebahg
-  entry_fav_count: 288
+  entry_fav_count: 293
   entry_content: |
     torku markalı boxerım ile destekledigim kampanya.
   entry_channels: siyaset,anket,ekonomi
@@ -78,7 +70,7 @@ data:
     15 ekim 2019 münbiç'in esad'a bırakılması
   entry_id:  96574462
   entry_writer: 52hz
-  entry_fav_count: 265
+  entry_fav_count: 273
   entry_content: |
     bırakılması?<br/><br/>lan zaten adamın tapulu malı<br/><br/>edit: arkadaşlar mesaja boğmayın. madem işsizsiniz şunu da bi okuyuverin. ondan sonra bari mesaj atın;<br/><br/>(bkz: <a class="b" href="/entry/81175308">#81175308</a>)
   entry_channels: siyaset,haber
@@ -86,42 +78,50 @@ data:
     rehberdeki en ünlü kişi
   entry_id:  96564199
   entry_writer: sonnenuntergang
-  entry_fav_count: 208
+  entry_fav_count: 220
   entry_content: |
-    hangisi en ünlü bilmiyorum ama istediğinizi ekleyebilirsiniz.. sonuçta rehberdeki en ünlü kişi de sizi kendi rehberine ekleyecek diye bir kaide yok.. tek taraflı olsun.. belki bir gün arar, telefonu "aaa artocum merhaba" diye açarsın, şaşırır.. yaa..<br/><br/>ajda pekkan (532) 380-0090 (212) 287-3892<br/>ali poyrazoğlu (532) 312-7389<br/>alişan (532) 606-6362<br/>arto (532) 277-1010<br/>beyaz (555) 408-1852<br/>ebru cündübeyoğlu (532) 281-9414<br/>ebru destan (533) 273-7673<br/>ece erken (532) 518-1898<br/>eser yenenler (535) 222-3939<br/>esra ceyhan (532) 460-1771<br/>gökhan özen (544) 513-8762<br/>gülben ergen (532) 295-9333<br/>hande ataizi (533) 366-9281<br/>hayko cepkin (532) 321-8007<br/>izel (532) 510-8787<br/>levent kırca (212) 269-0515 (212) 263-3513<br/>nil karaibrahimgil (532) 242-0990<br/>müjdat gezen (532) 221-2442 (542) 434-9621<br/>okan bayülgen (533) 315-0621 (212) 257-4980 (555) 408-1852<br/>özcan deniz (532) 760-1404<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://emlaktahaber.com/Unlulerin-Telefonu-Numaralari-Iste-Unlu-Isimlerin-Cep-Telefonu-Numaralari/1507" title="https://emlaktahaber.com/Unlulerin-Telefonu-Numaralari-Iste-Unlu-Isimlerin-Cep-Telefonu-Numaralari/1507">https://emlaktahaber.com/…-telefonu-numaralari/1507</a><br/><br/>not: levent abi de vardı listede kaldırmadım.. keşke açsa..<br/><br/>edit: kıvanç tatlıtuğ'un ricası(!) üzerine kendisini listeden çıkardım.. kızlar mesajlarım kapalı, zorlamayın.. şansınız yokmuş..<br/><br/>edit2: nil karaibrahimgil yerine kendi numaramı yazmıştım, sabahtan beri yeter kardeşim asıldığınız.. entrylere baksam hep kötü şeyler yazmışsınız ama maşallah hepiniz yürüyorsunuz.. ayıptır..
+    hangisi en ünlü bilmiyorum ama istediğinizi ekleyebilirsiniz.. sonuçta rehberdeki en ünlü kişi de sizi kendi rehberine ekleyecek diye bir kaide yok.. tek taraflı olsun.. belki bir gün arar, telefonu "aaa artocum merhaba" diye açarsın, şaşırır.. yaa..<br/><br/>ajda pekkan _ (532) 380 0090<br/>ali poyrazoğlu _ (532) 312 7389<br/>alişan _ (532) 606 6362<br/>arto _ (532) 277 1010<br/>beyaz _ (555) 408 1852<br/>ebru cündübeyoğlu _ (532) 281 9414<br/>ebru destan _ (533) 273 7673<br/>ece erken _ (532) 518 1898<br/>eser yenenler _ (535) 222 3939<br/>esra ceyhan _ (532) 460 1771<br/>gökhan özen _ (544) 513 8762<br/>gülben ergen _ (532) 295 9333<br/>hande ataizi _ (533) 366 9281<br/>hayko cepkin _ (532) 321 8007<br/>izel _ (532) 510 8787<br/>levent kırca _ (212) 269 0515<br/>nil karaibrahimgil _ (532) 242 0990<br/>müjdat gezen _ (532) 221 2442<br/>okan bayülgen _ (533) 315 0621<br/>özcan deniz _ (532) 760 1404<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://emlaktahaber.com/Unlulerin-Telefonu-Numaralari-Iste-Unlu-Isimlerin-Cep-Telefonu-Numaralari/1507" title="https://emlaktahaber.com/Unlulerin-Telefonu-Numaralari-Iste-Unlu-Isimlerin-Cep-Telefonu-Numaralari/1507">kaynak</a> <br/><br/>edit: levent abi de vardı listede kaldırmadım.. keşke açsa..<br/><br/>edit2: kıvanç tatlıtuğ'un ricası(!) üzerine kendisini listeden çıkardım.. kızlar mesajlarım kapalı, zorlamayın.. şansınız yokmuş..<br/><br/>edit3: nil karaibrahimgil yerine kendi numaramı yazmıştım, sabahtan beri yeter kardeşim asıldığınız.. entrylere baksam hep kötü şeyler yazmışsınız ama maşallah hepiniz yürüyorsunuz.. ayıptır..<br/><br/>edit4: hazır entry böyle favorilenmişken, her erkeğin hayalini süsleyen birini listeye yazıp, numarası yerine de kıl olduğum birinin numarasını yazasım var.. rahatsız etsin her arayan.. var biri aslında da, neyse..
   entry_channels: anket
-- entry_name: |
-    14 ekim 2019 fransa türkiye maçı
-  entry_id:  96555251
-  entry_writer: marques de pombal
-  entry_fav_count: 191
-  entry_content: |
-    puan tablosunu 7 kere açtım baktım. dur gene bakayım, valla lideriz... bi daha bakim, lideriz ya lan.<br/><br/>alışık diilim pek. normalde şu an izlandaya 6 atsak, andora ona 5 atsa, fransa türev alsa, moldova teğet geçse hesabı yapıyor olmalıydık.<br/><br/>vay anasını ne güzelmiş böyle be. dur bi daha bakim... valla halen lideriz. ne güzel lan.
-  entry_channels: spor
 - entry_name: |
     olası amerika türkiye savaşı
   entry_id:  96572986
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 182
+  entry_fav_count: 219
   entry_content: |
     askeri olarak savaşmazlar.<br/>akp yüzünden birçok vatandaş kendi ülkesine öfkeliydi. 2 günde gördük, müthiş bir milliyetçilik akımı oldu.<br/>bunu onlar da görüyor. orduyla baş etseler bile bu milletle baş edemezler. yani kalıcı bir işgal söz konusu olamaz.<br/>o yüzden de çok büyük zayiatlar verirler. zayiat verirlerse, iktidarlarını kaybederler.<br/>işte bu sebeple askeri savaş söz konusu olamaz.<br/><br/>peki diğer seçenek ne?<br/>en kritik kurumlarımız yabancıların elinde.<br/>hepsini bir bir sattılar. bu yüzden türkiye ile savaşmaz abd.<br/>türkiye ile ihracat-ithalat yapan ülkeleri ambargo ile korkutur.<br/>ekonomiyi siker. ülkedeki tüm yabancı yatırımcılar bir bir çekilir.<br/>araba bile ithal edemeyiz. turist gelmez. avrupa'ya çıkamayız.<br/>swift kodumuz bile iptal edilir. yurt dışına para gönderemez, alamayız.<br/>açlıktan birbirimizi sikecek hale geliriz.<br/>bir tek abd askerinin burnu kanamaz. ama bizim ülkemizde iç savaşa kadar gider bu olay.<br/>sonra uzlaşma adı altında toplantılar yapılır. istenen tavizler sike sike kabul ettirilir.<br/>tek kurşun atmadan savaş sonlanır, abd istediğini alır.<br/>üretim, üretim, üretim. <br/>bizim belimizi büken tek şey, dışa bu kadar bağımlı olmamız.<br/>bi nebze kendi kendine yetebilen bir ülke olsak, emin olun çatır çatır sözümüzü dinletiriz.
   entry_channels: siyaset
 - entry_name: |
-    15 ekim 2019 esad ile görüşüleceğinin açıklanması
-  entry_id:  96574616
-  entry_writer: scannegro
-  entry_fav_count: 167
+    14 ekim 2019 fransa türkiye maçı
+  entry_id:  96555251
+  entry_writer: marques de pombal
+  entry_fav_count: 192
   entry_content: |
-    basindan beri olmasi gereken.<br/><br/>sen bu adamin egemenligine saygi duyup, en bastan beraber hem isid hem pyd karsiti hareket etseydin bugun bunlar olmayackti.<br/><br/>sike sike esad ile goruseceksiniz, bunun erken olmasi cok onemli.
-  entry_channels: siyaset,haber
+    puan tablosunu 7 kere açtım baktım. dur gene bakayım, valla lideriz... bi daha bakim, lideriz ya lan.<br/><br/>alışık diilim pek. normalde şu an izlandaya 6 atsak, andora ona 5 atsa, fransa türev alsa, moldova teğet geçse hesabı yapıyor olmalıydık.<br/><br/>vay anasını ne güzelmiş böyle be. dur bi daha bakim... valla halen lideriz. ne güzel lan.
+  entry_channels: spor
 - entry_name: |
     köfteci yusuf
   entry_id:  96580168
   entry_writer: egoist pezevenk
-  entry_fav_count: 138
+  entry_fav_count: 172
   entry_content: |
     köfteci yusuf'un kendisi (yani yusuf akkaş), standart bir türk patrondan farklı olduğunu şu sözleriyle belli etmiş. takdir ettiğim tükkanın, tükkan sahibidir:<br/><br/>"ben iyi bir kasabım. iyi bir pişiriciyim. otomobil kullanabilirim. ama bu iş artık uçak oldu. ben pilot değilim. bu uçağı kullanamam. o nedenle artık profesyonellerden danışmanlık hizmeti alıyoruz"
   entry_channels: yeme-içme
+- entry_name: |
+    15 ekim 2019 esad ile görüşüleceğinin açıklanması
+  entry_id:  96574616
+  entry_writer: scannegro
+  entry_fav_count: 172
+  entry_content: |
+    basindan beri olmasi gereken.<br/><br/>sen bu adamin egemenligine saygi duyup, en bastan beraber hem isid hem pyd karsiti hareket etseydin bugun bunlar olmayackti.<br/><br/>sike sike esad ile goruseceksiniz, bunun erken olmasi cok onemli.
+  entry_channels: siyaset,haber
+- entry_name: |
+    merih demiral
+  entry_id:  96557648
+  entry_writer: ilyadis
+  entry_fav_count: 127
+  entry_content: |
+    kendisi kocaeli karamürsel çamçukur köyünden olup annemin köylüsüdür. hasta kız kardeşine bakmaktadır babası yakın zamanda kalp krizi geçirmiştir annesini ise trafik kazasında kaybetmiştir. yaşadığı zorlukları buraya yazsam yetmez. ayrıca kibirli ve havalı değildir. aldığı sporcu ahlakı sadece saçlarının kısa ve hep aynı olmasından anlayabilirsiniz. burda herkes tarafından çok sevilir. çocukluktan onu yetiştiren tayfun kıy dır ve hala onunla çalışmaktadır. futbolculuğu bir kenara insanlığı ile örnektir. aklı fikri futboldadır. başarılar dünün çocuğu bugünün kahramanı.
+  entry_channels: spor
 - entry_name: |
     adapazarı sakarya kocaeli yobaz üçgeni
   entry_id:  96572504
@@ -131,18 +131,18 @@ data:
     üçgen değil dörtgendir.<br/><a class="b" href="/?q=d%c3%bczce">düzce</a>'yi neden unuttunuz lan?
   entry_channels: siyaset,seyahat
 - entry_name: |
-    merih demiral
-  entry_id:  96557648
-  entry_writer: ilyadis
-  entry_fav_count: 123
+    seksten sonra yapılanlar
+  entry_id:  96563746
+  entry_writer: integrali ceren olan adam
+  entry_fav_count: 120
   entry_content: |
-    kendisi kocaeli karamürsel çamçukur köyünden olup annemin köylüsüdür. hasta kız kardeşine bakmaktadır babası yakın zamanda kalp krizi geçirmiştir annesini ise trafik kazasında kaybetmiştir. yaşadığı zorlukları buraya yazsam yetmez. ayrıca kibirli ve havalı değildir. aldığı sporcu ahlakı sadece saçlarının kısa ve hep aynı olmasından anlayabilirsiniz. burda herkes tarafından çok sevilir. çocukluktan onu yetiştiren tayfun kıy dır ve hala onunla çalışmaktadır. futbolculuğu bir kenara insanlığı ile örnektir. aklı fikri futboldadır. başarılar dünün çocuğu bugünün kahramanı.
-  entry_channels: spor
+    ekşi sözlük geleneksel ben sex yapıyorum şenlikleri başlamış.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     30+ yaşında olup kendini hala genç gören erkek
   entry_id:  96563962
   entry_writer: not erkegim
-  entry_fav_count: 113
+  entry_fav_count: 117
   entry_content: |
     35'im, sorana 35'im dediğimde kimlik soruyor. bi de daha 25 yaşında altı bezli bebe olup benden amca duran veletler türedi son birkaç yılda. dayılık hormonu mu alıyorsunuz olum siz?
   entry_channels: sağlık
@@ -150,18 +150,18 @@ data:
     zeynep bastık
   entry_id:  96578776
   entry_writer: azazel13
-  entry_fav_count: 96
+  entry_fav_count: 106
   entry_content: |
     bu ne iğrenç bir akımdır yemin ederim midem bulanıyor. evde keyif yapar gibi koltuğa yayıl, çıplak ayaklarınla kedi gibi mırıldan, saç baş, hal hareket "yeni uyandım canım yha" tarzında takıl, ünlü ol sana şarkıcı, sanatçı desinler. bu kadar kolay mı bu işler ya? bu kızcağız aslında beni ilgilendirmez de asıl lafım dinleyicisine; hiç mi kendinize saygınız yok arkadaş?<br/><br/>edit: lan amma mesaj aldım. ne çok seveni varmış. şunu düzgün belirtememişim herhalde: sanatçı olmak şarkıcı olmak bu kadar kolay olmamalı. hitap ettiği kitleye göre çok başarılı bir youtuber, sosyal medya fenomeni olabilir. hatta yine hitap ettiği kitle için başarılı bir covercı da olabilir ona lafım yok. fakat ortada bir kalite yoksa, yetenek yoksa size sunulan ilizyonun, imajın aslında ne kadar içi boş olduğunu görün. akımlara, trendlere bu kadar kendinizi kaptırmayın. ne dinlediğinizi, ne izlediğinizi bilin.<br/><br/>edit: lan bu kadar favlamaya devam ederseniz cidden silip kaçıcam entryi. en çok favlanan entryim vasat bir youtuber olamaz <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> favlamayın.
   entry_channels: müzik
 - entry_name: |
-    hem seks sırasında hem trafikte söylenecek cümle
-  entry_id:  96557316
-  entry_writer: heredot ve ogullari
-  entry_fav_count: 91
+    izmir edirne eskişehir yobaz üçgeni
+  entry_id:  96582271
+  entry_writer: pir aptal
+  entry_fav_count: 70
   entry_content: |
-    gel gel götüme gir amk çocuğu.
-  entry_channels: anket
+    yaşamak için can attığınız şehirlere üç beş kuruşa ne de güzel bok atabiliyorsunuz...<br/><br/>şu trollere acıyorum doğrusu. hayatlarında hiç bir başarıları yok, eğitimleri yok, açlıktan nefesleri kokuyor, en büyük başarıları da sözlükte yazar olabilmek olduğu için önlerine atılan üç beş kuruşluk sadakaya nasıl da düşüncelerini satıyorlar.<br/><br/>peçete satın, simit satın onurlu yaşayın dostlar. yarın biriktirdiğiniz paralarla değil; yüksek onur ve şerefinizle alınırsınız. para değil, şeref biriktirin.
+  entry_channels: 
 - entry_name: |
     ypg'li teröristin 12 yaşında çocuğu taraması
   entry_id:  96574419
@@ -171,13 +171,61 @@ data:
     edit:özür dilerim arkadaşlar videonun sonunda her biji diyor orospu çocuğu olay ypg'nin yaptığı aşikar, ilk yazdıklarım da dursun<br/><br/>ne olduğu belli olmayan video, (büyük ihtimalle eski ışid görüntüleri) kaldı ki arapça konuşuluyor, arkadaşlar böyle videolar paylaşılıyor sonra bunların fake olduğu ortaya çıkınca insanların gözünde dezenformasyoncu oluyorsunuz, davanıza en büyük zararı siz veriyorsunuz.
   entry_channels: haber
 - entry_name: |
-    izmir edirne eskişehir yobaz üçgeni
-  entry_id:  96582271
-  entry_writer: pir aptal
+    wd-40
+  entry_id:  96562348
+  entry_writer: bilek hawk
   entry_fav_count: 62
   entry_content: |
-    yaşamak için can attığınız şehirlere üç beş kuruşa ne de güzel bok atabiliyorsunuz...<br/><br/>şu trollere acıyorum doğrusu. hayatlarında hiç bir başarıları yok, eğitimleri yok, açlıktan nefesleri kokuyor, en büyük başarıları da sözlükte yazar olabilmek olduğu için önlerine atılan üç beş kuruşluk sadakaya nasıl da düşüncelerini satıyorlar.<br/><br/>peçete satın, simit satın onurlu yaşayın dostlar. yarın biriktirdiğiniz paralarla değil; yüksek onur ve şerefinizle alınırsınız. para değil, şeref biriktirin.
+    nezle iken burnuna sık, karnın ağrıyorsa bir kapak iç, çocuğun olmuyorsa malafata sık bir de öyle dene. kutsal su gibi sprey.<br/><br/>gelen uyarılar üzerine edit: olm gerçekten ciddiye almazsınız dimi? hanımı tahriş edip bana salça olmayın sonra. şaka yaptım. ama sprey harbiden çok iyi.
+  entry_channels: otomotiv,motosiklet
+- entry_name: |
+    40+ kadınla çıkmak
+  entry_id:  96581583
+  entry_writer: kertlemeyenkele
+  entry_fav_count: 50
+  entry_content: |
+    yaş olarak 40+ mı yoksa çıkılan kadın sayısı olarak 40+ mı ? ona göre entry girelim.
+  entry_channels: ilişkiler
+- entry_name: |
+    burak yılmaz
+  entry_id:  96555616
+  entry_writer: captain cenk sparrow
+  entry_fav_count: 48
+  entry_content: |
+    hakeme küfür ettiği pozisyonu uefa'ya şikayet edelim de belki ceza alır kalan maçlarda oynamaz.
+  entry_channels: spor
+- entry_name: |
+    hollanda'da bodrumda dünyanın sonunu bekleyen aile
+  entry_id:  96581798
+  entry_writer: rencideedipadivar
+  entry_fav_count: 46
+  entry_content: |
+    hollandanin <a class="b" href="/?q=palu+ailesi">palu ailesi</a>.
+  entry_channels: haber
+- entry_name: |
+    sevgiliyle karakolluk olmak
+  entry_id:  96568357
+  entry_writer: teraskatliev
+  entry_fav_count: 40
+  entry_content: |
+    kız arkadaşı ile buluşmaya gene başka bir kızla giden adam : adam gibi adam dedirten başlık
+  entry_channels: ilişkiler
+- entry_name: |
+    türkiye'nin kendini ümmetin lideri sanması
+  entry_id:  96580933
+  entry_writer: le realisateur
+  entry_fav_count: 38
+  entry_content: |
+    ilginç bir özgüvenin sonucudur.<br/><br/>günlerdir arap ligi'nin açıklamasına gelen tepkileri okuyorum. ey araplar bize şöyle ihanet ettiniz, ey filistin bizi böyle sattın falan. birinin size "ihanet etmiş" olması için ya size tabi olması ya da sizinle beraber bir siyasi yapı içerisinde hareket ediyor olması gerekir. araplar için ikisi de söz konusu değil, adamlar yıllardır kendi bildiklerini okuyorlar. siz sürekli bize ihanet ettiler diye çıldıracağınıza aslında başından beri arapların umrunda olmadığınız ihtimalini hiç düşündünüz mü acaba?<br/><br/>peygamber arap, kitap arapça, kutsal şehirler arabistan'da. bu insanlar sizi neden ümmetin lideri görsün, tam olarak hangi gerekçeyle? "halifelik" sizdeyken bile dünya üzerinde en az üç farklı halifelik vardı. şimdi mekke'nin sahibi kendini halife görüyor, artık buralara sahip değilken neden seni halife kabul etsin?<br/><br/>islam'ın kılıcıyım diyorsun, arapların müslüman yaptığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ducksters.com/history/islam/caliphate_map.jpg" title="https://www.ducksters.com/history/islam/caliphate_map.jpg">şu topraklar</a> üzerine sen yalnızca anadolu yarımadasını ve balkanlar'da birkaç ufak toprağı eklemişsin. islam'ın son ordusuyum diyorsun, islam işbirliği teşkilatı'ndaki 56 diğer ülkenin de bundan haberi var mı peki? lideri olmaya çabaladığın araplar senin mekke'de yaptığın eserleri bir bir yıkmış, üstüne otel dikmiş. sen utanmadan gitmiş o otelden yüzlerce daire satın almışsın. bir sürü körfez ülkesinin resmi ağızları açık açık senin eski devletine "işgalci" diyor, sana karşı ayaklanmış kişileri kahraman ilan ediyor, sense bir "gönül coğrafyamız" rüyasına takılıp gitmişsin. sırf mekke saatinde olmak istediğin için meridyen atlatmışsın ülkeye, çoluk çocuk karanlıkta derse başlıyor.<br/><br/>şunu kabullenelim artık: kimsenin bize ihanet ettiği, kimsenin bizi sattığı falan yok. herkes bildiğini okuyor, dünya üzerindeki konumuna göre tarafını alıyor. kendinizi böyle lider sanmaya devam ederseniz daha çok ağlarsınız ihanete uğradık diye. yol yakınken dönün bence.
   entry_channels: 
+- entry_name: |
+    recep tayyip erdoğan'ın turancı olması
+  entry_id:  96577984
+  entry_writer: yeni bela husnu
+  entry_fav_count: 37
+  entry_content: |
+    her türlü milliyetçiliği ayaklar altına almış turancı. eved!
+  entry_channels: siyaset
 - entry_name: |
     çirkin kısa şişman kıllı kel asosyal korkak erkek
   entry_id:  96555472
@@ -187,93 +235,61 @@ data:
     başlık saçma olmuş ama (bkz: <a class="b" href="/?q=alfred+hitchcock">alfred hitchcock</a>) gençken bu olumsuz özelliklerden bazılarına sahipti. çok çalıştı, güzel işler yaptı ve yakışıklı-güzel, boylu poslu, fit, saçlı, acayip sosyal ve cesur bir çok insanı etkiledi. teknikleri okullarda öğretiliyor. <br/><br/>sapa kulba kapağa itibar etme dostum<br/>içi boş tencerenin bu sofrada yeri yok<br/>- - - - - -<br/>para pula, ihtişama aldanıp kanma dostum<br/>içi boş insanlarin bu dünyada yeri yok
   entry_channels: anket
 - entry_name: |
-    40+ kadınla çıkmak
-  entry_id:  96581583
-  entry_writer: kertlemeyenkele
-  entry_fav_count: 36
+    tesettürsüz kadın soyulmuş elma gibidir
+  entry_id:  96566102
+  entry_writer: excelsior was here
+  entry_fav_count: 32
   entry_content: |
-    yaş olarak 40+ mı yoksa çıkılan kadın sayısı olarak 40+ mı ? ona göre entry girelim.
-  entry_channels: ilişkiler
-- entry_name: |
-    hollanda'da bodrumda dünyanın sonunu bekleyen aile
-  entry_id:  96581798
-  entry_writer: rencideedipadivar
-  entry_fav_count: 33
-  entry_content: |
-    hollandanin <a class="b" href="/?q=palu+ailesi">palu ailesi</a>.
-  entry_channels: haber
-- entry_name: |
-    recep tayyip erdoğan'ın turancı olması
-  entry_id:  96577984
-  entry_writer: yeni bela husnu
-  entry_fav_count: 30
-  entry_content: |
-    her türlü milliyetçiliği ayaklar altına almış turancı. eved!
-  entry_channels: siyaset
+    soyulmadan ısırılmış elma olmasından evladır.
+  entry_channels: siyaset,ilişkiler
 - entry_name: |
     maaşın 4500 olup kiranın 2500 olması
   entry_id:  96571521
   entry_writer: angry engineer
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     çok ilginç kafalar var.<br/><br/><a class="b" href="/entry/96168549">#96168549</a><br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>cebinde 5000 tl olmayan erkek adamım demesin<br/><br/>allahın fakiri, sokağa çıkmadan önce bir kendine bir de cüzdanına bak.<br/><br/>bir de utanmadan fakir fakir mağazaları dolaşıyor fiyat soruyorsun sie.<br/><br/>edit: üzülüyorum halinize ve gülüyorum çünkü size böyle başlıklar müstehak en son gönderdiğim entry sıfır cevap bu boş beleş başlık şelale, tebrikler kendinizi de tebrik edin ayrıca.<br/><br/>edit2: çok eğleniyorum şuan sözlüğün mal sürüsü ile dolu olduğunu bir kez daha ispatladım, bu da benim başarım olsun.<br/><br/>05.10.2019 11:29 ~ 13:43 vitamineral<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>diyen adam şimdi <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bu ev sahipleri hayatımızı geleceğimizi çalıyor, yediğimiz içtiğimiz her şeye ortak oluyor.<br/><br/>1000 tl etmeyecek evlerine 2500 isteyen vicdansız ev sahipleri, sizleri allaha havale ediyorum.<br/><br/>şimdi birileri çıkar adam yememiş içmemiş parasıyla gitmiş ev almışcılar.<br/><br/>ben kiranın miktarındayım ülke şartları o fiyat ile gitmez bir gün kiraya verecek adam bulamayinca göreceğim o zaman ben sizi.<br/><br/>15.10.2019 12:06 vitamineral<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>diyor. demek ki adam değilsin.
   entry_channels: anket,ekonomi
 - entry_name: |
     okuyamamamış tiplerdeki eziklik
-  entry_id:  96577700
-  entry_writer: kizilcik zopasi
-  entry_fav_count: 27
-  entry_content: |
-    olur mu lan hiç. onlar <a class="b" href="/?q=hayat+%c3%bcniversitesi">hayat üniversitesi</a> okumuşlardır.<br/><br/>liseyi it köpek taşlamak için bırakıp, çukur mukur izleyip gaza gelen ergenler yanlış yoldasınız.
-  entry_channels: ilişkiler,eğitim
-- entry_name: |
-    whatsapp'a girdiği halde mesajınızı açmayan insan
-  entry_id:  96582205
-  entry_writer: satrancci
-  entry_fav_count: 26
-  entry_content: |
-    bir insanın whatsapp'a birkaç defa girip ona rağmen yazmaması o kişiden tamamen soğumam için yeterli bir sebep. whatsapp'a sık sık girebildiğine göre dediği kadar işi gücü yoktur, sadece yazmak istemiyordur. yazmıyorsa da kendisi bilir. her şey karşılıklıdır.
-  entry_channels: ilişkiler
-- entry_name: |
-    türkiye'nin kendini ümmetin lideri sanması
-  entry_id:  96580933
-  entry_writer: le realisateur
+  entry_id:  96578464
+  entry_writer: arcadio nasar
   entry_fav_count: 25
   entry_content: |
-    ilginç bir özgüvenin sonucudur.<br/><br/>günlerdir arap ligi'nin açıklamasına gelen tepkileri okuyorum. ey araplar bize şöyle ihanet ettiniz, ey filistin bizi böyle sattın falan. birinin size "ihanet etmiş" olması için ya size tabi olması ya da sizinle beraber bir siyasi yapı içerisinde hareket ediyor olması gerekir. araplar için ikisi de söz konusu değil, adamlar yıllardır kendi bildiklerini okuyorlar. siz sürekli bize ihanet ettiler diye çıldıracağınıza aslında başından beri arapların umrunda olmadığınız ihtimalini hiç düşündünüz mü acaba?<br/><br/>peygamber arap, kitap arapça, kutsal şehirler arabistan'da. bu insanlar sizi neden ümmetin lideri görsün, tam olarak hangi gerekçeyle? "halifelik" sizdeyken bile dünya üzerinde en az üç farklı halifelik vardı. şimdi mekke'nin sahibi kendini halife görüyor, artık buralara sahip değilken neden seni halife kabul etsin?<br/><br/>islam'ın kılıcıyım diyorsun, arapların müslüman yaptığı <a rel="nofollow noopener" class="url" target="_blank" href="https://www.ducksters.com/history/islam/caliphate_map.jpg" title="https://www.ducksters.com/history/islam/caliphate_map.jpg">şu topraklar</a> üzerine sen yalnızca anadolu yarımadasını ve balkanlar'da birkaç ufak toprağı eklemişsin. islam'ın son ordusuyum diyorsun, islam işbirliği teşkilatı'ndaki 56 diğer ülkenin de bundan haberi var mı peki? lideri olmaya çabaladığın araplar senin mekke'de yaptığın eserleri bir bir yıkmış, üstüne otel dikmiş. sen utanmadan gitmiş o otelden yüzlerce daire satın almışsın. bir sürü körfez ülkesinin resmi ağızları açık açık senin eski devletine "işgalci" diyor, sana karşı ayaklanmış kişileri kahraman ilan ediyor, sense bir "gönül coğrafyamız" rüyasına takılıp gitmişsin. sırf mekke saatinde olmak istediğin için meridyen atlatmışsın ülkeye, çoluk çocuk karanlıkta derse başlıyor.<br/><br/>şunu kabullenelim artık: kimsenin bize ihanet ettiği, kimsenin bizi sattığı falan yok. herkes bildiğini okuyor, dünya üzerindeki konumuna göre tarafını alıyor. kendinizi böyle lider sanmaya devam ederseniz daha çok ağlarsınız ihanete uğradık diye. yol yakınken dönün bence.
-  entry_channels: 
+    bunların en tehlikelileri de okumamış ama bir şekilde parayı bulmuş olanlar. lafı daima “sen okudun da ne oldun?!”a getirirler ve paralarıyla övünürler. <br/>ve böyle tipler, aklıma daima pire ninemin şu sözünü getirir: para ezikliği alır götleklik baki kalır.
+  entry_channels: ilişkiler,eğitim
 - entry_name: |
     aşık olmadığıyla evli ve sevmediği işi yapan insan
   entry_id:  96578823
   entry_writer: cevirimanyagi
-  entry_fav_count: 24
+  entry_fav_count: 25
   entry_content: |
     çok büyük ihtimalle hayatının kontrolü elinde olmayan, bu kontrolü ele alacak cesareti de olmayan ve başkalarının baskısıyla/onayıyla yaşayan bir insandır.
   entry_channels: anket,ilişkiler,ekonomi
 - entry_name: |
-    dilek imamoğlu'nun moda dergisine kapak olması
-  entry_id:  96577966
-  entry_writer: hindi garsiya
-  entry_fav_count: 20
+    nike vs adidas
+  entry_id:  96579788
+  entry_writer: heartsmagic
+  entry_fav_count: 23
   entry_content: |
-    kapağa dikkatli bakıldığında <a class="b" href="/?q=%c5%9fevval+sam">şevval sam</a> ismi yine dikkatlerden kaçmamaktadır.<br/>(bkz: <a class="b" href="/?q=%c5%9fevval+sam%27%c4%b1n+her+g%c3%bczel+%c5%9feye+sal%c3%a7a+olmas%c4%b1">şevval sam'ın her güzel şeye salça olması</a>)
-  entry_channels: anket,haber,moda
+    fakirler için yeni bir başlık açalım ona da "mike vs adibas" diyelim.
+  entry_channels: spor,anket,moda
 - entry_name: |
     çorum yozgat sivas yobaz üçgeni
   entry_id:  96581619
   entry_writer: sansasyoner
-  entry_fav_count: 16
+  entry_fav_count: 19
   entry_content: |
     +konya ile yobaz square ya da karesi yazılabilir.<br/>edit: +erzurum +trabzon ve +rize ile de pentagon, hexagon, heptagon da yapılabilir.<br/><br/>edit2: evet yozgat hariç hepsinde yaşadım.
   entry_channels: siyaset
 - entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  96555126
-  entry_writer: arisrates
-  entry_fav_count: 16
+    yalnızlık
+  entry_id:  96555716
+  entry_writer: theladybirg
+  entry_fav_count: 18
   entry_content: |
-    bune lan evlendirme programı olmuş burası , 54 kg altı mesaj atsın yazmış birde utanmadan, tamam paşam üstüne de fıstık olsun mu ?<br/>olum gidin tinder ,c2 vb. uygulamalar kullanın bu işler için burayı meşgul etmeyin. sanki pazardan elma seçiyor adama bak ya yine sinirlendim.<br/><br/>(bkz: <a class="b" href="/?q=kutsal+bilgi+kayna%c4%9f%c4%b1">kutsal bilgi kaynağı</a>) <br/><br/>(bkz: <a class="b" href="/?q=siktin+format%c4%b1+eyledin+viran">siktin formatı eyledin viran</a>) <br/><br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bc%c4%9f%c3%bcn+ebesi">sözlüğün ebesi</a>) <br/><br/>(bkz: <a class="b" href="/?q=mutlu+musun+kanzuk">mutlu musun kanzuk</a>)
-  entry_channels: ekşi-sözlük
+    yalnızlık, insanın çevresinde insan olmaması demek değildir. insan kendisinin önemsediği şeyleri başkalarına ulaştıramadığı ya da başkalarının olanaksız bulduğu bazı görüşlere sahip olduğu zaman kendisini yalnız hisseder."<br/><br/><a class="b" href="/?q=carl+gustav+jung">carl gustav jung</a>
+  entry_channels: ilişkiler,sanat,müzik,edebiyat
 - entry_name: |
     15 ekim 2019 ülke geneli uyku alamama problemi
   entry_id:  96564740
@@ -286,7 +302,7 @@ data:
     motosikletler kaldırılsın
   entry_id:  96581817
   entry_writer: musellesin dahili zaviyelerinin yekunu
-  entry_fav_count: 12
+  entry_fav_count: 15
   entry_content: |
     çok doğru bir talep.<br/><br/>muhtemelen motorcular gelip saçma sapan argümanlarla arkadaşı linç edeceklerdir. bu neden doğru bir talep sıralayalım:<br/><br/>1- kendilerini tüm kanunlardan muaf sanıyorlar. fizik kanunları dahil.<br/>2- kendileri dışındaki herkesin kendilerini kollamak zorunda olduğunu sanıyorlar.<br/>3- ne yayalara ne trafikteki diğer araçlar hiç bir şekilde saygı göstermiyorlar.<br/>4- araçlarının girebildiği her yere girmelerinin hak olduğunu sanıyorlar.<br/>5- kendilerini ölümsüz sanıyorlar.<br/>6- motor kullanarak kutsal bir şey yaptıklarını sanıyorlar.<br/>7- motorlar sanılanın aksine çevre düşmanı araçlardır. emisyon değerleri korkunç. motoru biraz daha küçük diye az yakıyorlar ama tüm zehiri kontrolsüz şekilde dışarı verdikleri için ortalama bir motor ortalama bir araca göre çok çok daha fazla çevre kirliliği yaratır.<br/>8- çok gürültü yapıyorlar. kimisi bunu kasti yapıyor ve bunu güzel bir şey sanıyor.<br/>9- trafikte kapladığınız alan sandığınızdan çok daha fazla. yolcu başına alanınız çok yüksek.<br/><br/>not: mesaj alımını kapattım, kudurun.
   entry_channels: 
@@ -299,13 +315,13 @@ data:
     (bkz: <a class="b" href="/?q=haramidere%27den+%c3%a7atapat+ahmet">haramidere'den çatapat ahmet</a>)
   entry_channels: anket
 - entry_name: |
-    düşün ki o bunu okuyor
-  entry_id:  96556917
-  entry_writer: tasarimharikasi
+    whatsapp'a girdiği halde mesajınızı açmayan insan
+  entry_id:  96582835
+  entry_writer: wazzuuuppp
   entry_fav_count: 8
   entry_content: |
-    ben seni çok sevmiştim, gerçekten bak. insanlar olmaz onunla derken ben sende gördüğüm kötülükleri bile absorbe ediyordum içimde. sana kıyamıyordum, ta ki sen bana kıyana kadar. "seviyorum ama olmuyor" sözüne hiçbir zaman inanamadım, bunu bile bile bana bu lafı söyledin son kez. unutmak istemedim başlarda, direndim. çünkü gerçekten sevmiştim ve böyle bitmesini kabullenemezdim. sonra vazgeçtim senden. gelmediğin için değil, beni bile kendine getirmeyecek kadar inancımı yitirdiğin için vazgeçtim. senden ilelebet vazgeçiyorum, seni bir başkasıyla düşünmek bile canımı acıtmıyor artık. vazgeçtim, çünkü sen benim sana olan inançlarımı/hayallerimi tek celsede bitirdin. "kalbin kararmış" dediğinde üzülemedim, çünkü bu kalp senin eserindi. kendi parçanı kendin imha ettin, sen bize yazık ettin. artık sana dair hiçbir şey beni heyecanlandırmayacak, gittiğin ellerde mutlu olursun veya olmazsın bilmiyorum ama hepsinde bir parça beni arayacağından adım kadar eminim. yaşanabilir şeyleri yaşanmaz kılmak içini bir ömür yiyip bitirecek. hep içinde bir "keşke" kalacak. hoşça kal, nasıl olsa bunları görmeyeceksin, belki de görürsün. ama gördüğünde zaten ne senden, ne de benden bir eser kalmış olacak. elveda.
-  entry_channels: ilişkiler,edebiyat
+    özgüvensiz insan turnusolü bir başlık daha.<br/><br/>mavi tiki kapatan insan, mesajı okuduğu halde cevap vermeyen insan, son görülmeyi kapatan insan, son görülmesi açık olduğu halde mesajı cevaplamayan insan, online olduğu halde mesajı okumayan insan ... <br/><br/>bu kombinasyondaki tüm başlıklar altında isyan eden, silerim, konuşmam bilmemne diyen insanlar özgüvensiz insanlardır. özgüvenleri minicik incecik bir pamuk ipliğine bağlıdır. hepsine yazıktır. tespitim bu kadar.
+  entry_channels: ilişkiler
 - entry_name: |
     burger king vs mcdonald's
   entry_id:  96576012
@@ -318,74 +334,66 @@ data:
     mesajınız var yeşili
   entry_id:  96567035
   entry_writer: cyrius
-  entry_fav_count: 4
+  entry_fav_count: 6
   entry_content: |
     sevemediğim yeşillik. cümle kurmaktan aciz küfürbazların olduğu ortamda, o yeşil şey insanı biraz geriyor.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    yalnız tipler 22.00'dan sonra ne yapıyor sorunsalı
-  entry_id:  96557186
-  entry_writer: seferoglusuphi
-  entry_fav_count: 3
+    jennifer aniston
+  entry_id:  96579341
+  entry_writer: nowhereplans
+  entry_fav_count: 6
   entry_content: |
-    lotr serisini izliyorum
-  entry_channels: anket,ilişkiler
+    iki gözümün çiçeği <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/jenniferaniston/" title="https://www.instagram.com/jenniferaniston/">instagrama</a> gelmiştir.<br/><br/>edit: bebişim geldiği gibi instagramı felç etti. çoğu kişi <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/simona_ka/status/1184100723744743426" title="https://twitter.com/simona_ka/status/1184100723744743426">takibe</a> alamıyor. valla ben de alamadım.
+  entry_channels: tv,sinema
 - entry_name: |
-    whatsapp tan kelime kelime mesaj yazan insan
-  entry_id:  96576056
-  entry_writer: lightness
-  entry_fav_count: 3
+    abd'nin her ay 60 milyar dolar basması
+  entry_id:  96582643
+  entry_writer: yeni hayat
+  entry_fav_count: 5
   entry_content: |
-    gönderilen mesajı okurken kendimi ben fero gibi hissetmeme sebep olan yavşaktır.
-  entry_channels: ilişkiler
+    dolarcıların çırasını yakacak bir haberdir. bu kadar para basılırsa doların da alım gücü düşer, neyse ki ben eurocuyum. :d<br/><br/>edit: avrupa da euro basacakmış vay anam vay, o zaman ben zimbabwe dolarına geçiyorum. o daha güvenli geldi bana.<br/><br/>bu arada yatırım tavsiyesi değildir ha.
+  entry_channels: ekonomi
+- entry_name: |
+    yalnız tipler 22.00'dan sonra ne yapıyor sorunsalı
+  entry_id:  96583184
+  entry_writer: kobayashisoze
+  entry_fav_count: 4
+  entry_content: |
+    bira-cips, mastürb., sonrasında 1 saat astronomi vea tarih okuması, sonra da uyku.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     can sungur
   entry_id:  96580222
   entry_writer: luckythirteen
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+hi%c3%a7bir+siki+be%c4%9fenmeme+timi">ekşi sözlük hiçbir siki beğenmeme timi</a> onursal başkanı. şu anda yine biryerle, birşeyleri beğenmemekle meşgul olduğuna emin olduğum, severek izlediğim yayıncı. <br/><br/>son kurbanı joker filmi.
   entry_channels: oyun,teknoloji
 - entry_name: |
-    ışık hızının %99'una yaklaşan helezoni motor
-  entry_id:  96581953
-  entry_writer: dusuncenize saygiliyim ama sikimde degil
+    iha muhabirinin hedef gösterdiği 4 kişi
+  entry_id:  96584377
+  entry_writer: lord angelus
   entry_fav_count: 2
   entry_content: |
-    1 kilogramlık malzemenin hareketi için 165 mw isteyen motormuş.<br/><br/><a class="b" href="/?q=dr.+emmett+l.+brown">dr. emmett l. brown</a> haklı mıydı lan? <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>(bkz: <a class="b" href="/?q=1.21+gigawatt">1.21 gigawatt</a>)
-  entry_channels: 
+    muhabirin telefonunu gasp eden kişi ve bağlantısı olan arkadaşlarıdır.
+  entry_channels: siyaset,haber
 - entry_name: |
-    nike vs adidas
-  entry_id:  96582192
-  entry_writer: rootsuz yazar
-  entry_fav_count: 2
+    hem seks sırasında hem savaş anında söylenecek söz
+  entry_id:  96583875
+  entry_writer: mysteriouscircles
+  entry_fav_count: 0
   entry_content: |
-    kullanım alanına göre bir genelleme yapmak gerekirse: <br/>günlük giyim: adidas<br/>koşu: nike<br/>futbol: adidas<br/>basketbol: nike<br/>fitness: nike
-  entry_channels: spor,anket,moda
+    biz elimizi çabuk tutalım.
+  entry_channels: ilişkiler
 - entry_name: |
-    kadın iç çamaşırı mağazası gezen erkek mahcubiyeti
-  entry_id:  96580317
-  entry_writer: uuykaf
-  entry_fav_count: 2
+    ekim 2019 dünyanın türkiye'ye karşı birlik olması
+  entry_id:  96583200
+  entry_writer: ogenki
+  entry_fav_count: 0
   entry_content: |
-    bunun bir üst level'ini anlatayım, gençlik zamanında, hamburg' da <a class="b" href="/?q=reeperbahn">reeperbahn</a> tarafında dolanırken seks shop'a girdik arkadaşla. şu şöyle, bu böyle derken iki tane ablanın kol gibi y*rrak seçtiğini ve üzerinde kritik yaptığını görünce dumur olup başka tarafa bakmıştık. ahahas. ulan yaa. o zamanlar mallik varmis az uzerimizde :)
-  entry_channels: anket,moda
-- entry_name: |
-    15 ekim 2019 internet sansürünün kalkması
-  entry_id:  96583516
-  entry_writer: ooff
-  entry_fav_count: 2
-  entry_content: |
-    kalkanın sansür olmadığını başlıktan anlamak.
-  entry_channels: teknoloji
-- entry_name: |
-    ekşi itiraf
-  entry_id:  96558414
-  entry_writer: photonics
-  entry_fav_count: 1
-  entry_content: |
-    tum hayallerim ve hayata olan inancim yikildi. hic bir degerim yokmuş.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    anlam veremediğim olaydır.<br/><br/>ufak tefek istisnalar dışında türkiye'nin yaptığı (bkz: <a class="b" href="/?q=bar%c4%b1%c5%9f+p%c4%b1nar%c4%b1">barış pınarı</a>) harekatı ile böyle bir durum çıktı ortaya.<br/><br/>abd'de karşı çin de karşı; israil karşı filistin de karşı... hepsini geçtim güney kıbrıs karşı kuzey kıbrıs da karşı...<br/><br/>ama operasyon yine de başarılı bir şekilde devam ediyor.<br/><br/>(bkz: <a class="b" href="/?q=d%c4%b1%c5%9f+g%c3%bc%c3%a7ler">dış güçler</a>) teziyle ile dalga geçenler uzun bir süre konuşmaz sanırım.
+  entry_channels: siyaset
 - entry_name: |
     almanların levi's ı levis diye telaffuz etmesi
   entry_id:  96582054
@@ -394,10 +402,4 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=levi+strauss">levi strauss</a>)
   entry_channels: 
-- entry_name: |
-    şule çet cinayeti
-    <li data-id="90707583" data-author="ekşisözlük" data-author-id="8275" data-flags="share report vote" data-isfavorite="false" data-ispinned="true" data-favorite-count="70" data-seyler-slug="" data-comment-count="0">
-    entry_content: |
-        ankara batı 2. sulh ceza hakimliği'nin çağatay aksu’nun talebi üzerine verdiği 29.05.2019 tarih ve 2019/2586 d.iş sayılı kararı uyarınca şule çet ile ilgili başlıklarda bulunan içeriklere erişimin engellenmesi kararıyla ilgili bir açıklama yapmak isteriz.<br/><br/>ekşi sözlük, türk hukukuna tabi bir internet sitesi olarak mahkeme kararlarını uygulamak yükümlülüğündedir. dolayısıyla bu ve benzeri durumlarda elimize ulaşan mahkeme kararları doğrultusunda hareket ederek, ilgili başlıklardaki içerikleri kaldırmak durumundayız. <br/><br/>bu karara itiraz edecek olmakla beraber, itiraz sürecinin kararı uygulamayı ertelemediğini belirtmek isteriz.<br/><br/>tarafımıza iletilen kararların uygulanması yasa gereği olup, kararı benimsediğimiz veya olumladığımız anlamına gelmemektedir. <br/><br/>hukuk sistemimizdeki hataların, yanlışların, adalet duygusunu zedeleyen uygulama ve kararların giderilmesinin yolu, eleştirilerin doğru makam ve mercilere yöneltilmesinden geçer. genel olarak mahkemelerin içerik kaldırılmasına ilişkin kararlarındaki hoyratlık ve bu kararlara ilişkin itirazların incelenmesi süreçlerindeki özensizlik nedeniyle oluşan kamuoyu tepkisinin ilgili ve yetkili mercilere yönelmesi halinde bu hatalı işleyişin düzelmesi yönünde olumlu adımlar atılır diye umuyoruz.
-  entry_channels: siyaset
 ---
