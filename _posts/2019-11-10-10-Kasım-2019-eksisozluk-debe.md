@@ -6,7 +6,7 @@ data:
     antalya'da 4 kişinin evde ölü bulunması
   entry_id:  97562996
   entry_writer: yokonunjohnu
-  entry_fav_count: 1797
+  entry_fav_count: 1805
   entry_content: |
     vatandaşının sorunlarına sağır bir iktidarın döneminde gerçekleşmiştir.
   entry_channels: siyaset,ilişkiler,haber,ekonomi
@@ -14,7 +14,7 @@ data:
     haluk levent'in katil baba açıklaması
   entry_id:  97569785
   entry_writer: alidesidero84
-  entry_fav_count: 710
+  entry_fav_count: 723
   entry_content: |
     haklı olduğu açıklamadır. karısının ve çocuklarının yaşama haklarını elinden almıştır.
   entry_channels: haber
@@ -22,23 +22,15 @@ data:
     türk zırhlısı altında ezilen ypg'li terörist
   entry_id:  97565781
   entry_writer: triyokolf
-  entry_fav_count: 501
+  entry_fav_count: 512
   entry_content: |
     sivil falan değildir. o ortamda araca saldırıyorsa artık sivil statüsünden terörist statüsüne geçmiştir. siktirsin gitsindir.
   entry_channels: siyaset,haber
 - entry_name: |
-    ilber ortaylı'nın mısıroğlu yorumu
-  entry_id:  97564978
-  entry_writer: turiq
-  entry_fav_count: 432
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://streamable.com/8p7fa">https://streamable.com/8p7fa</a><br/><br/>sabah sabah günüme neşe saçmıştır. ağzına sağlık hocam. bu ülkenin senin gibi tarihçilere ihtiyacı var.
-  entry_channels: siyaset,tarih,eğitim
-- entry_name: |
     türkiye şeriatı tartışmalıdır
   entry_id:  97574407
   entry_writer: calismadigim yerden geldi
-  entry_fav_count: 426
+  entry_fav_count: 464
   entry_content: |
     tartışalım hayatım. cesaret edip gelir isen yüz yüze tartışalım.
   entry_channels: siyaset
@@ -46,7 +38,7 @@ data:
     cem uzan dönüyor
   entry_id:  97574617
   entry_writer: appeal
-  entry_fav_count: 221
+  entry_fav_count: 240
   entry_content: |
     tayyip buna fake atıp gelir gelmez içeri alırsa ne gülerim<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: siyaset,haber
@@ -54,47 +46,47 @@ data:
     ak parti gençlik kollarının 10 kasım videosu
   entry_id:  97578222
   entry_writer: sagliginiz icin
-  entry_fav_count: 199
+  entry_fav_count: 227
   entry_content: |
     o degil de, akitleri cildirtmis video. <br/><br/>ahahahahagafahskgafafshajaka
   entry_channels: siyaset,haber
 - entry_name: |
-    10 kasım 2019 koç holding atatürk'ü anma videosu
-  entry_id:  97569068
-  entry_writer: mekhanik karpov
-  entry_fav_count: 192
-  entry_content: |
-    koç holding yönetim kurulu başkanı sayın ömer koç'un video' nun sunumuyla alakalı koç çalışanlarına attığı mail'deki şu kısımın özellikle dikkate değer olduğu videodur:<br/><br/>"bizler, o’nun açtığı yoldan hiç ayrılmadık. ilkelerini rotamız, fikirlerini pusulamız kabul ettik ve yolumuz her dâim atamız oldu. bu atatürk’ü putlaştırdığımız için değil, o’nun çizdiği yolun türkiye için bugün hâlâ tek geçerli yol olduğunu bildiğimizdendir! bugün büyük önderi bir kez daha saygı ve her gün artan bir özlemle anarken, #yolumsensin diyerek; cumhuriyetin, hürriyetin ve medeniyetin izinden yürüyen tüm çalışma arkadaşlarıma teşekkürlerimi sunuyorum."<br/><br/>adam ne kadar güzel özetlemiş. atatürkçüler putçu değildir. aksine bugün siyasal islam ve ümmetçilik denen zehirin ülkeyi getirdiği noktayı gördükçe, ne kadar aklı selim insanlar oldukları daha net anlaşılmaktadır.
-  entry_channels: siyaset,tarih,haber
-- entry_name: |
     öğrenciyken yaşanmış unutulmaz garibanlık anısı
   entry_id:  97555714
   entry_writer: sleveneleven
-  entry_fav_count: 176
+  entry_fav_count: 182
   entry_content: |
     garibanlıkla karışık karaktersizlik olayıdır baştan söyleyeyim. cepte para yok, dünden kalma bayat ekmek var. ne yapacağız diye düşünürken aklıma komşudan yumurta isteme fikri geldi. isteyenin bir yüzü vermeyenin kapkara diyerek gidip komşudan 3 tane yumurta istedim. sağ olsun verdi komşu, eve geldim kırdık yumurtayı, besleyici olsun diye karabiber, pul biber ne biber varsa ekeledik. tam sofraya koyduk yiyeceğiz; oç ev arkadaşım sahanda yumurtaya bastı mayonezi!!! ne yaptın aq dedim, ağzı full dolu "bööle doho gozol oloyo konko" diye gömmeye devam etti. senin sülaleni s.kiyim deyip kalktım sofradan. elimdeki bir parça bayat ekmeği kemirdim. piç kurusu yumurtanın hepsini yedi. bi de utanmadan "sön böle sevmiyon mu?" diye soruyor. o.ospu çocuğu mayonezli sahanda yumurtayı hangi yavşak sever ki?
   entry_channels: anket,ilişkiler,eğitim,ekonomi
 - entry_name: |
-    muayene ücreti 600 tl olan doktor
-  entry_id:  97575155
-  entry_writer: takipteyim ben
-  entry_fav_count: 109
-  entry_content: |
-    2016'da ünlü bir özel hastanede onkoloji dr muayenesi için 500 tl ödedik.<br/><br/>fatura istedim ısrarla, vermediler. fiş verebiliriz dediler.<br/>bu yaptığınız yasal değil, fatura vermek zorundasınız dedim.<br/>istediğin yere şikayet et dedi asgari ücretin az üstü maaşla çalışan şövalye.<br/><br/>tanım: serbest piyasa ve kapitalist sistemde sıradan bir doktordur, keriz silkeleme operasyonudur.
-  entry_channels: sağlık,ekonomi
-- entry_name: |
     harry potter bile inandığınız dinden daha mantıklı
   entry_id:  97572863
   entry_writer: alezengi
-  entry_fav_count: 104
+  entry_fav_count: 134
   entry_content: |
     (bkz: <a class="b" href="/?q=1+haftad%c4%b1r+%c3%a7ek+cumhuriyeti%27ndeyim">1 haftadır çek cumhuriyeti'ndeyim</a>)<br/>(bkz: <a class="b" href="/?q=yurt+d%c4%b1%c5%9f%c4%b1nday%c4%b1m">yurt dışındayım</a>)<br/>(bkz: <a class="b" href="/?q=ama+nas%c4%b1l+yurt+d%c4%b1%c5%9f%c4%b1nday%c4%b1m+var+ya">ama nasıl yurt dışındayım var ya</a>)<br/><br/>ayrıca:<br/>(bkz: <a class="b" href="/?q=%c3%a7ekya">çekya</a>)
   entry_channels: eğitim
 - entry_name: |
+    muayene ücreti 600 tl olan doktor
+  entry_id:  97575155
+  entry_writer: takipteyim ben
+  entry_fav_count: 114
+  entry_content: |
+    2016'da ünlü bir özel hastanede onkoloji dr muayenesi için 500 tl ödedik.<br/><br/>fatura istedim ısrarla, vermediler. fiş verebiliriz dediler.<br/>bu yaptığınız yasal değil, fatura vermek zorundasınız dedim.<br/>istediğin yere şikayet et dedi asgari ücretin az üstü maaşla çalışan şövalye.<br/><br/>tanım: serbest piyasa ve kapitalist sistemde sıradan bir doktordur, keriz silkeleme operasyonudur.<br/><br/>edition: özel hastanelerin talep edebileceği ücretler kanun ile sınırlı.<br/>alınan ücret 100 tl yi geçiyorsa, ayrıntılı fatura talep etme hakkınız var.<br/>bu faturada haksız ve fahiş fiyatlandırma varsa kanuna aykırı olduğu için şikayet etme hakkınız da var. <br/><br/>sgk sitesinden alıntıdır:<br/>kurumla sözleşmeli/protokollü vakıf üniversiteleri ile özel sağlık kurum ve kuruluşları, aynı başvuru numarası altında yapılan kurumca karşılanan sağlık hizmeti bedellerinin toplamının 100 (yüz) tl’yi aşması halinde, bu hizmetleri ve varsa ilave ücret tutarını gösterir, sut eki “hastaya sunulmuş olan hizmetleri ve ilave ücreti gösterir belge” yi (ek-1/b) yatan hasta tedavilerinde en geç hastanın taburcu olduğu tarihte, diğer tedavilerde ise işlemin yapıldığı tarihte hastaya vermek zorundadır. ancak hastanın istemesi halinde tutar sınırı olmaksızın sunulan tüm işlemleri ayrıntılı olarak gösteren bilgi ve belgeler hastaya verilmek zorundadır. söz konusu bilgiler aynı süreler içerisinde elektronik ortamda da sağlanabilir.
+  entry_channels: sağlık,ekonomi
+- entry_name: |
+    kod yazmanın %90'ının kopyala yapıştır olması
+  entry_id:  97561149
+  entry_writer: esek sudan geldi
+  entry_fav_count: 90
+  entry_content: |
+    fiziki bir eylem olarak düşünülmemesi gereken konu. kopyala yapıştır çok güzel bir şeydir. kopyala yapıştır fakat re-usable kod ve re-usable know-how ise bir yazılım şirketinin yürümesi gereken bir yoldur.<br/><br/>10'a yakın ülkede, hepsi ilgili ülkelerin top 200'ünde yer alan şirketler ile çok ağır sözleşmeler ve tarih kitaplarında bile yazılamayacak ağır şartlarda yazılım projelerinde bulundum. aşağıdaki kısım tamamen genç yazılımcı adayı içindir.<br/><br/>kod yazmanın %99u beyinde bitmektedir, klavye, tıklama, kopyalama, vb.. işlemlerin tamamı bu geri kalan %1 in içerisindedir. <br/><br/>%99 luk kısmı tamamen düşüncedir. düşünce de şunlardan mütevellittir. mimari, kodun yapısı, business ise business'ın talepleri, ileride ne tür bir esneklik gelebilir ufak bir muhasebe, kodun karşılaşabileceği olağandışı riskleri içermektedir. <br/><br/>düşünce kısmındaki her şey bir sorumluluktur. kimi kurumlar bu sorumluluğu tek bir personele emanet ederken, işini düzgün yapan kurumlar bu sorumluluğu alanında uzmanlaşmış ekiplere teslim etmektedir. bu ekiplerin işi ortak bir amaca doğru farklı kulvarlardan koşmak.<br/><br/>kopyala yapıştır çok doğru bir şey. bir program yazarsınız, mevcut bir framework'ü kullanırsınız özelleştirirsiniz, yaptığınız çalışmalar uzun yıllar mayalanır bu mayalanma sonucu muazzam componentleriniz olur. yeni bir proje geldiğinde, "hıms bunu yapmıştım halen de x projesinde kullanılıyor", hemen bunu kopyalarsınız, uyarlarsınız ve işinize devam edersiniz. <br/><br/>bu neredeyse tüm sektörler için geçerlidir. unutmadan eğer daha önce yaptığınız kodları kullanamıyorsanız ortada bir sorun vardır, ya o kodlar çok kötüdür, sıvanmış gün kurtarılmıştır. <br/><br/>daha önce çok kez, çok büyük kurumların projelerinde günü kurtardığımız ve bedelini gece mesaileri dahil daha fazla çalışarak ödediğimiz için söylüyorum. <br/><br/>minimum eforla re-usable temiz kod yazmadıysanız aşağıdaki bağlamda muhakkak kendinizi bir muhasebe edin. <br/><br/>eğer işveren iseniz şirketiniz para kazanmayacaktır, yazılımcı maaşları bitcoin kadar hızlı yükseliyorken, kar ettim sandığınız projelerde ileriye dönük ödeyeceğiniz cezaları, hataları düzeltmek için harcayacağınız iş günleri ve ek mesai saatlerini de hesaba kattığınızda bence şimdiden kapanışı verin.<br/><br/>eğer çalışan iseniz, işvereninizin işlerini kötüye sokarak kendi yürüdüğünüz yolu kirletiyorsunuz. işvereninizin batması demek kariyerinizde kötü bir leke olmalıdır. herkesin bir birini tanıdığı bir camiada, referans checklerde çok şey kaybedersiniz.<br/><br/>eğer çalışan iseniz bir notum daha var, ne kadar çok kod yazdığınız, ne kadar çok projeyi baştan sona hiç geçmişe dönük kod kullanmadan temiz sıfırdan yazdığınızın bir önemi yok. işvereniniz için günün sonunda banka hesabına yatacak x tl olarak değeriniz olduğunu unutmayın. <br/><br/>eğer bir projenin kabul ekibindeyseniz çalıştığınız şirkete satın aldığınız günü kurtaran bir ürünle gününüzü kurtarıp daha kötü günlere kendinizi hazırlayın. örneğin resmi dairede, herhangi bir bankada, "sistem yok" cümlesini duymuşsunuzdur. o budur işte.<br/><br/>tl:dr, bs*g diyenlere. tekrar özetliyorum. re-usable temiz dökümante edilmiş, birden fazla yere eklediğinizde minimum efor ile yayına alabileceğiniz kod dünyanın en kıymetli kodudur.
+  entry_channels: programlama,teknoloji,eğitim
+- entry_name: |
     umut ve aydınlık partisi
   entry_id:  97565807
   entry_writer: mekhanik karpov
-  entry_fav_count: 74
+  entry_fav_count: 75
   entry_content: |
     akp'den oy kemireceği için kuruluşunu desteklediğim partidir. yoksa davutoğlu denince sinirden eli ayağı titireyen biriyim.
   entry_channels: siyaset,haber
@@ -102,7 +94,7 @@ data:
     9 kasım 2019 siyanüre ek vergi getirilmesi
   entry_id:  97572888
   entry_writer: post translational regulation
-  entry_fav_count: 66
+  entry_fav_count: 69
   entry_content: |
     (bkz: <a class="b" href="/?q=olmam%c4%b1%c5%9f+olaylar+hakk%c4%b1nda+olmu%c5%9f+gibi+ba%c5%9fl%c4%b1k+a%c3%a7mak">olmamış olaylar hakkında olmuş gibi başlık açmak</a>)<br/><br/>bu beyinsizler bir de tarih atıyorlar daha çok dikkat çekmek için. ekşi sözlük tam bir dezenformasyon yuvası oldu. modlar uyumaya devam etsin.
   entry_channels: haber,ekonomi
@@ -110,39 +102,47 @@ data:
     ekrem imamoğlu c. kaftancıoğlu savaşı başlaması
   entry_id:  97574462
   entry_writer: grt
-  entry_fav_count: 65
+  entry_fav_count: 68
   entry_content: |
     he gülüm he. insanlar açlıktan bunalıma girmiş, kendi çocuklarını, kardeşlerini bile ölüme götürüyo. senin gündemin de bu yama medyanın haberi(?).
   entry_channels: siyaset
 - entry_name: |
-    kızların en çok söylediği yalanlar
-  entry_id:  97576878
-  entry_writer: sensevyeteriii
-  entry_fav_count: 55
-  entry_content: |
-    bir kere açtım sonra midem bulandı hemen kapattım.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     iphone'dan bilgisayara fotoğraf aktaramamak
   entry_id:  97580616
   entry_writer: ongosterim
-  entry_fav_count: 51
+  entry_fav_count: 66
   entry_content: |
     yıl olmuş 2019 hala buna inanan varsa telefon kullanmayı bıraksın.<br/>aktarım yapılabilmektedir.
   entry_channels: teknoloji
 - entry_name: |
     9 kasım 2019 gaziantep fk galatasaray maçı
-  entry_id:  97582724
-  entry_writer: golden once kalkan bayrak
-  entry_fav_count: 50
+  entry_id:  97583161
+  entry_writer: zagorun baltasi
+  entry_fav_count: 64
   entry_content: |
-    ağlamıyorum dostlar, gözüme çizgiye inip orta kesen sol bek kaçtı.
+    “ömer önemsizdi. ömer cahildi. ömer saftı, ömer’i kullandılar, hor gördüler, itip kalktılar ömer’i. sonra da fırlatıp bir kenara attılar. ama hesap etmedikleri bir şey var; intikam, ölümden güçlüdür.”
   entry_channels: spor
+- entry_name: |
+    1.62 boyunda kızıl iç mimar fit bayburtlu kız
+  entry_id:  97582471
+  entry_writer: gelmiyim oraya
+  entry_fav_count: 58
+  entry_content: |
+    (bkz: <a class="b" href="/?q=fit+bayburt">fit bayburt</a>)
+  entry_channels: anket
+- entry_name: |
+    2019 ekonomik krizi
+  entry_id:  97573473
+  entry_writer: maximilianus
+  entry_fav_count: 55
+  entry_content: |
+    bugün d&amp;r da takılırken kızcağızın biri tezgahtar çocuğa kpss hazırlık kitabı sordu. tezgahtar ‘yok ama size yardımcı olabilirim’ dedi, masanın altından iş başvuru formu çıkartıp kıza verdi. sonra sessizce ‘ben genetik mühendisiyim, üç defa kpss rekoru kırdım ama bak burdayım, senin de belli ki akpartide dayın yok da kpss diyorsun, vakit kaybetme gel tezgahtar ol’ dedi...<br/>parti devletinin resmini bugün o tezgahtar ve kızcağız canlı canlı çizdiler bana...
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     9 kasım 2019 shellde yaşadığım rezillik
   entry_id:  97570297
   entry_writer: forumdayim
-  entry_fav_count: 49
+  entry_fav_count: 54
   entry_content: |
     polis öldürüp serbest kalan porsche sürücüleri olan ülkede normal karşılanacak rezalettir.
   entry_channels: haber,otomotiv
@@ -150,79 +150,55 @@ data:
     beymen'deki 3337 tllik dumbell
   entry_id:  97574700
   entry_writer: forumdayim
-  entry_fav_count: 43
+  entry_fav_count: 47
   entry_content: |
     3337 tane bir lirayı çuvala koyup kaldırmak daha mantıklıdır.
   entry_channels: spor
 - entry_name: |
-    serdar ali çelikler
-  entry_id:  97571462
-  entry_writer: det manyetigin gitar hiro versyonu
-  entry_fav_count: 41
+    hayvanların ağzının kokmaması
+  entry_id:  97577153
+  entry_writer: tatli limoncu
+  entry_fav_count: 45
   entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/OnurAkyuz61/status/1191825581685530624" title="https://twitter.com/OnurAkyuz61/status/1191825581685530624">https://twitter.com/…z61/status/1191825581685530624</a><br/><br/>3 temmuz'u düzenleyen savıclara "türk futbolunun efsaneleri" diyordu zamanında. geçiniz...
-  entry_channels: spor,tv
-- entry_name: |
-    doktor egosu vs avukat egosu
-  entry_id:  97557469
-  entry_writer: bu kacinci uyelik
-  entry_fav_count: 41
-  entry_content: |
-    hiçbiri bilgisayar tamircisi egosu kadar anlamsız ve dangalakça değildir.<br/><br/>aktif olarak bilgisayar kullanmaya başladığım 1996'dan 2019'a kadar bin tane tamirci gördüm, alayı cahil cühela ama egoları tavanda !
-  entry_channels: anket
-- entry_name: |
-    thy 10 kasım paylaşımı
-  entry_id:  97571767
-  entry_writer: sovereign itfaiyenin hortumunu
-  entry_fav_count: 39
-  entry_content: |
-    iktidarın ciddi oy kaybında olduğunu gösterir. kemalist kesime şirin görünme çabası bunlar yemiyoruz azizim.
-  entry_channels: siyaset,havacılık
+    hiç kedi köpek beslememiş insan yanılgısı.<br/><br/>mamasını kendim vermesem, leş mi yedin mübarek diyeceğim.
+  entry_channels: sağlık
 - entry_name: |
     hekimoğlu (dizi)
   entry_id:  97556495
   entry_writer: paintman
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     öncelikle; bulduğunuz ismi silkeyim.. hekimoğlu ne olm? eşkıya dizisi mi çekiyorsunuz?<br/><br/>filmin ana karakterini ateist ve dini sorgulayan, sarkastik biri olarak yansıtamayacaklarını düşünüyorum. bakın 90'larda falan olsak evet belki yansıtabilirlerdi ama 2019 yılındayız, epey bir geri gittik yani.. <br/><br/>muhtemelen iki üç bölüm sonra uyarlama ile hiçbir alakası kalmayacak bir aşk dizisine dönüşecek olan dizi.
   entry_channels: tv,spoiler
 - entry_name: |
-    2019 ekonomik krizi
-  entry_id:  97558790
-  entry_writer: bunickkirkkarakter
-  entry_fav_count: 39
+    thy 10 kasım paylaşımı
+  entry_id:  97571767
+  entry_writer: sovereign itfaiyenin hortumunu
+  entry_fav_count: 40
   entry_content: |
-    esnafın “adam sikmeye çalışmakta” çığır açtığı kriz.<br/><br/>şöyle anlatayım; almak istediğim metanın bir önemi yok da hadi açayım, iphone x bataryası. 2 sene sonunda baya bi yıprandı, yeni telefon almalar mazide kaldı bu yüzden bataryayı değiştirmek istedim. neyse.<br/><br/>vakit buldukça telefonculara sorup fiyat alıyordum. dikkatimi çeken, yani daha önce hiç karşılaşmadığım şey ise 2 dakika arayla iki farklı fiyat söylenmesi oldu. sayılar farklı olmakla birlikte, istisnasız her gittiğim telefoncuda şu muhabbet oldu;<br/><br/>- iyi günler, iphone x bataryası değiştiriyor musunuz? evetse kaça ve ne kadar sürede?<br/>- evet, 20 dakikada değiştiririz. 350 liraya malolur.<br/>- tamam peki bana uygun gibi geldi. size telefonumu bırakayım o zaman, 20 dakika gezip geleyim.<br/>- şimdi birader 350 dedikte, dur bi’ saniye bilmemkimi arayayım o daha iyi bilir (yalandan bir telefon konuşması oluyor burada bir dakikadan kısa sürüyor).<br/>- evet? <br/>- bize gelişi 450, 550’ye takıyoruz.<br/>- az önce 350 dediniz?<br/>- (buraya klasik esnaf yalanları geliyor)<br/>- ilgilenmiyorum teşekkürler.<br/><br/>5 yere fiyat sordum, istisnasız hepsinde aynı adam sikme girişimleri. olm siz müşterinin ciddiyetine göre mi fiyat veriyorsunuz? adam mı sikiyonuz lan?<br/><br/>boşluktan nal toplayıp, sonunda dükkan kapatan esnaf kafası işte. sonra neden ekonomik krize üzülmüyoruz diye biz vadan hayini oluyoruz.<br/><br/>edit: evet resmî servis ayak çekmedi ama daha beterini yaptı. telefonunuzu alıp öyle sipariş veriyoruz, gelmesi bir hafta ve 550 lira dedi. bir hafta boyunca telefonsuz götümü parmaklayacağım heralde onu bekliyorlar.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    2019'u tek kelimeyle anlat
-  entry_id:  97571305
-  entry_writer: bosananyazar
-  entry_fav_count: 37
-  entry_content: |
-    (bkz: <a class="b" href="/?q=i%c5%9fsizlik">işsizlik</a>)
-  entry_channels: anket
+    iktidarın ciddi oy kaybında olduğunu gösterir. kemalist kesime şirin görünme çabası bunlar yemiyoruz azizim.
+  entry_channels: siyaset,havacılık
 - entry_name: |
     bas gitarın çok gereksiz bir enstrüman olması
   entry_id:  97566014
   entry_writer: gelmiyim oraya
-  entry_fav_count: 36
+  entry_fav_count: 39
   entry_content: |
     bunu diyen kişilerin karşısına getireceksin equalizer'ı, sileceksin alt frekansları. o vakit aynı şeyi savunamayacak.<br/><br/><a class="b" href="/?q=edit">edit</a>: bu başlık gerçekten çok tehlikeli arkadaşlar. gereksiz olduğunu iddia eden yok ortada ama insanlar bu başlığı görünce hemen gaza geliyor :d bu entry'i girerek ortalığı alevlendireceğim aklıma gelmemişti.
   entry_channels: müzik
 - entry_name: |
-    1.62 boyunda kızıl iç mimar fit bayburtlu kız
-  entry_id:  97582471
-  entry_writer: gelmiyim oraya
-  entry_fav_count: 36
+    2019'u tek kelimeyle anlat
+  entry_id:  97571305
+  entry_writer: bosananyazar
+  entry_fav_count: 38
   entry_content: |
-    (bkz: <a class="b" href="/?q=fit+bayburt">fit bayburt</a>)
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=i%c5%9fsizlik">işsizlik</a>)
+  entry_channels: anket
 - entry_name: |
     pilot doktor mühendis avukat ve asker erkek
   entry_id:  97580869
   entry_writer: zanzinhoo
-  entry_fav_count: 34
+  entry_fav_count: 35
   entry_content: |
     (bkz: <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikeyim">açacağın başlığı sikeyim</a>)
   entry_channels: ilişkiler,eğitim
@@ -235,29 +211,37 @@ data:
     ince bel
   entry_channels: anket,ilişkiler
 - entry_name: |
-    aldatılmak istemeyen erkeklere tavsiyeler
-  entry_id:  97573387
-  entry_writer: bozdoganli
-  entry_fav_count: 30
-  entry_content: |
-    karaktersiz insanlarla beraber olmazsanız aldatılmazsınız. yok bu listeyi okuyup "nasıl aldatılmam acaba" diye düşünüyorsanız salaksınız, her türlü aldatılırsınız zira sizi olduğu gibi sevemeyen bir insanı koynunuza sokarak, bağımlı olduğunuzu kabulleniyorsunuz demektir.<br/><br/>bir gün daha ekşi sözlüğün karanlık tarafına entry yazdık, allah sonumuzu hayır etsin.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ömer bayram
   entry_id:  97581911
   entry_writer: sicakbuz
-  entry_fav_count: 29
+  entry_fav_count: 32
   entry_content: |
     solda ömer orta sahada ezel gibi oynayan değişik oyuncu.
   entry_channels: spor
 - entry_name: |
-    aykut kocaman
-  entry_id:  97579593
-  entry_writer: boynubukuk
-  entry_fav_count: 19
+    aldatılmak istemeyen erkeklere tavsiyeler
+  entry_id:  97573387
+  entry_writer: bozdoganli
+  entry_fav_count: 32
   entry_content: |
-    fenerbahçe'yi tam 4 sezon çalıştırmış olan hoca. her maçımız dünkü kasımpaşa maçı gibiydi, hatta dünkü maçın yarısı kadar pozisyon bulamıyorduk. hepimizin saçları ağardı, sinir stres sahibi insanlar olduk, temaşayı unuttuk, güzel futbola susadık, görselliği öteledik. doğru futbol oynaıp madrid'i eleyeceğiz dendi, gittik vardar'a, paok'a, young boys'a elendik, kötü futbol da cabası oldu. yıllar yılı konya'da kalsın diyorduk, o da zor gözüküyor artık. ömür boyu istanbulspor'da kalsın diyelim.
-  entry_channels: spor
+    karaktersiz insanlarla beraber olmazsanız aldatılmazsınız. yok bu listeyi okuyup "nasıl aldatılmam acaba" diye düşünüyorsanız salaksınız, her türlü aldatılırsınız zira sizi olduğu gibi sevemeyen bir insanı koynunuza sokarak, bağımlı olduğunuzu kabulleniyorsunuz demektir.<br/><br/>bir gün daha ekşi sözlüğün karanlık tarafına entry yazdık, allah sonumuzu hayır etsin.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    recep ivedik 6
+  entry_id:  97571637
+  entry_writer: moresk
+  entry_fav_count: 27
+  entry_content: |
+    sene 2009<br/><br/>recep ivedik 2 yeni çıkmış. <br/><br/>ofisten "abiler" ile işten sonra hamburger bira vs için bi araya geldik sonra ya dediler sinemaya gidelim recep ivedik falan. <br/><br/>ben tabi o zamanlar salak salak "ya olur mu abi rezillik vs" modundayım. <br/><br/>bak bu recep ivediğe gidelim diyenlerin cv'sini linkedin profilini paylaşsam sözlüğün %99.9999u "vay amk" der. <br/>aralarında data scientist mi ararsın, güvenlik uzmanı mı ararsın, 20 yıldır sürüyle firmada bankada büyük bilgi işlem projelerinde mimar olarak çalışmış mı ararsın, tüm gün dump inceleyip "aha bu sıçmış" deyip kaynak koda referans verip "şöyle yapın" diyen, uluslararsı firmalarda kıdemli yüksek mühendis mi ararsın, yani toplasan totalde 150 senelik bir sektör birikimi var. <br/>hepsi evli barklı kelli felli saygın adamlar. hepsi çok zeki, tartışmaya açık değil. <br/>hani ben salak sayılmam, agzım da laf yapar ama onların yanında takım giysem önümü iliklerim öyle bir hürmet var. <br/><br/>8-9 kişide toplam iq da 1000 küsür öyle diyeyim. <br/><br/>dedik e iyi gidelim madem. <br/><br/>velhasıl gittik. aşırı eğlendik. kimse "ya buna da gülünür mü" tribine girmedi. <br/>o gün ben de saldım. <br/><br/>bu tribe girmek salaklıkmış hakkaten. bu sikik dünyada trilyarda bir ihtimalle dünyaya gelmişim, elalem neye güldüğüme laf edecek diye 1-2 saat eglenceden kendimi mahrum bırakıcam öyle mi? <br/><br/>sikerler öyle işi. başka konuda fikrine zerre önem vermediğim adam neye güldüğümü eleştirecekmiş? <br/>eleştirsin çok da sikmdeydi açıkçası. ben attığım kahkaya bakarım. komikse gülerim değilse de "kötüydü" derim. onun kararını da başkasına sormamı çok beklersiniz. <br/><br/>insanlar komik bulmadığı şeyi komik bulmazlar. bunu zorlayamazsın. ama komik bulduğu şeyi ayıplayarak gizlemesine sebep olabilirsin. <br/><br/>bu ufak çaplı faşizmdir. <a class="b" href="/?q=gatekeeping">gatekeeping</a>'dir. <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/86909535" title="https://eksisozluk.com/entry/86909535">virtue signalling</a>'dir. <br/><br/>bak şurdan siktir gittir.
+  entry_channels: sinema,spoiler
+- entry_name: |
+    öğrenildiğinde ufku iki katına çıkaran şeyler
+  entry_id:  97558484
+  entry_writer: sokur
+  entry_fav_count: 20
+  entry_content: |
+    birçoğumuzun bildiği üzere, vücudumuza yabancı bir doku parçası yerleştirildiğinde, vücut dost mu düşman mı olduğunu bilmediği bu konuğu kovalamak için bağışıklık sistemini coşturur. hatta bu olmasın diye organ nakli yapılan hastalara bağışıklık sistemini baskılayıcı<sup class="ab"><a title="(bkz: immunosupresif)" href="/?q=immunosupresif" data-query="immunosupresif">*</a></sup> ilaçlar verilir.<br/><br/>göz, beyin, rahim (gebeyken) ve testisler gibi yenilenme yetisi sınırlı hücrelerden müteşekkil bazı organlar, kendilerini bağışıklık sisteminin saldırgan olabilecek tepkilerinden sakınacak şekilde evrimleşmiştir.<sup class="ab"><a title="(bkz: immune privileged)" href="/?q=immune+privileged" data-query="immune privileged">*</a></sup> diğer bir deyişle, bu organlar, çeşitli fizyolojik bariyerler sayesinde, bağışıklık sisteminin kontrolsüz enflamatuar reaksiyonlarından korunurlar. yani bir nevi, vücudumuz onları birer organ gibi görmez ve yakıp yıksınlar diye diğer bölgelere gönderdiği gözü dönmüş savaşçılarını oralara göndermez.
+  entry_channels: spor,siyaset,anket,ilişkiler,bilim,sanat,tarih,sinema,edebiyat,teknoloji,sağlık,haber,yeme-içme,otomotiv,motosiklet,moda,magazin,eğitim,ekonomi,spoiler,seyahat
 - entry_name: |
     trendyol
   entry_id:  97557976
@@ -267,18 +251,10 @@ data:
     daha dün 80 lira olan jack and jones sweatshirtü 125 liraya indirime sokarak satan şirket. ticari etik sıfır.
   entry_channels: moda
 - entry_name: |
-    çekik gözlü olmak
-  entry_id:  97571158
-  entry_writer: esasen ne desem bilemedim
-  entry_fav_count: 17
-  entry_content: |
-    yörük genlerinin en güzel tarafıdır
-  entry_channels: ilişkiler,bilim
-- entry_name: |
     güneşin yakınında uzay gemisi bulundu iddiası
   entry_id:  97577016
   entry_writer: mikeh reniretev
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     bir iddia. nasa'ya yakınlığı ile bilinen haber ajansı sabah tarafından haber yapılmış.<br/>denilene göre güneşe yakın bir yörüngede dünyadan büyük bir uzay gemisi tespit edilmiş.<br/>ben ikna oldum yani sonuçta sabah gibi bir haber organı yalan haber yapacak değil ya. <br/><br/>küsüratlı sayı vereyim de inansın der gibi bir de isim paylaşmışlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.sabah.com.tr/galeri/teknoloji/nasa-uydusu-gunesin-yakininda-dunyadan-daha-buyuk-uzay-gemisi-tespit-etti-nasa-herhangi-bir-aciklama-yapmadi" title="https://m.sabah.com.tr/galeri/teknoloji/nasa-uydusu-gunesin-yakininda-dunyadan-daha-buyuk-uzay-gemisi-tespit-etti-nasa-herhangi-bir-aciklama-yapmadi">link</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/qe290010ks5q" title="https://eksiup.com/p/qe290010ks5q">caps</a>
   entry_channels: bilim,haber
@@ -291,37 +267,13 @@ data:
     (bkz: <a class="b" href="/?q=format+pornosu">format pornosu</a>)
   entry_channels: ekşi-sözlük
 - entry_name: |
-    atatürk'ü sevmeme hakkı
-  entry_id:  97581829
-  entry_writer: excelsior was here
-  entry_fav_count: 15
+    petrol çıkaracağız sana da vereceğiz
+  entry_id:  97578006
+  entry_writer: veni vidi yaziyorum
+  entry_fav_count: 13
   entry_content: |
-    atatürk'ü sevmemek bir hak değil, tercihtir. tercih etmeyebilirsin.<br/>ama bunun her 10 kasım zamanı gündeme getirilmesi bir orospu çocukluğudur.<br/>orospu çocuğu olmak zordur; babanı bilmezsin. kimbilir hangi biri...<br/>binaenaleyh, kendi babasını bilmeyen, baba sevgisi nedir öğrenmemiş kişilerin vatanın babası olan atatürk'ü sevmemesi gayet normal. yalnız dikkat edin, seven milyonları tahrik edecek hareketlerde bulunmayın, sikiverirler!<br/><br/>bakın <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/mk2893388ahf" title="https://eksiup.com/p/mk2893388ahf">polonyalı erasmus’tan arkadaşımın facebook profil fotoğrafı</a>. fotoğraf, buca’ya giderken kayaya oyulmuş dünyanın en büyük atatürk silüetinin önünde çekilmiş. adam ülkesi polonya’ya döneli 5 sene oluyor ve hala profil fotoğrafı. demem o ki; her milletin aşık olduğu bu insanı sevmemek hakikatten vatan hainliğine bedel benim için. hadi şimdi siktirin gidin.
-  entry_channels: siyaset
-- entry_name: |
-    sevgilinin başından aşağı kepçe ile gül dökülmesi
-  entry_id:  97556968
-  entry_writer: sorg
-  entry_fav_count: 11
-  entry_content: |
-    kepçeyle kızın kafasına ıspanak döken çomar değil de kepçeyle kafasından aşağı gül dökülen kezban başlığı açılması buram buram ortadoğu kokuttu ortalığı. ıspanak dedim çünkü gül yaprağından ziyade ıspanağa benziyor. kepçeyle hafriyat yapmak şeklinde ilan-ı aşk eden barzoya değil de hafriyatın hedefi olan kıza saldırılması da, betonistan olmuş memlekette milletin iş makineleriyle kur yapma adeti türetmesi de dejenerasyonun korkunç boyutlarını gözler önüne sermekte. acınası bir vaziyet.
-  entry_channels: ilişkiler
-- entry_name: |
-    ekşi itiraf
-  entry_id:  97555788
-  entry_writer: sexpert
-  entry_fav_count: 11
-  entry_content: |
-    şu hayatta seni en çok ne yordu? diye sorsalar, hiç düşünmeden hayatımın sikileceğini önceden bildiğim halde hiçbir şey yapamamak derdim.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    recep ivedik 6
-  entry_id:  97560905
-  entry_writer: beyimyerindeyse
-  entry_fav_count: 8
-  entry_content: |
-    eğer şahan 1 karakterle türk halkının yozlaşmasına sebep oluyorsa, öyle halkın ben mına koyim zaten
-  entry_channels: sinema,spoiler
+    (bkz: <a class="b" href="/?q=yaz%c4%b1k+lan+hangi+%c3%bclkenin+bakan%c4%b1ysa">yazık lan hangi ülkenin bakanıysa</a>)
+  entry_channels: siyaset,haber,eğitim,ekonomi
 - entry_name: |
     güvenilir erkek bulmanın çok zor olması
   entry_id:  97579864
@@ -339,6 +291,22 @@ data:
     dürüstlük, ahlak ve adalet.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    ekşi podcast
+  entry_id:  97583875
+  entry_writer: tel tokasini duzelten samuray
+  entry_fav_count: 3
+  entry_content: |
+    <a class="b" href="/?q=olaylar+olaylar">olaylar olaylar</a>'ın uyarısı ile haberdar olduğum hede.<br/><br/>ekşisözlük yazarlarının kıyıda köşede kalmış entry'lerini, ekşi şeyler'de paylaşılmış entry'lerini bizzat duyabileceğimiz bir podcast serisi, hiç de fena olmaz aslında.
+  entry_channels: ekşi-sözlük,teknoloji
+- entry_name: |
+    çekik gözlü olmak
+  entry_id:  97578578
+  entry_writer: kincianimeci
+  entry_fav_count: 2
+  entry_content: |
+    erkeği yakışıklı gösteren bir özellik.<br/><br/>(bkz: <a class="b" href="/?q=keanu+reeves">keanu reeves</a>)<br/>(bkz: <a class="b" href="/?q=so+ji+sub">so ji sub</a>)<br/>(bkz: <a class="b" href="/?q=ilhan+mans%c4%b1z">ilhan mansız</a>)<br/>(bkz: <a class="b" href="/?q=dimash+kudaibergen">dimash kudaibergen</a>)
+  entry_channels: ilişkiler,bilim
+- entry_name: |
     neden evlenmiyorsun sorusuna alternatif cevaplar
   entry_id:  97558195
   entry_writer: eve arnold
@@ -346,6 +314,22 @@ data:
   entry_content: |
     böyle saçma ötesi bir soruya aynı ölçüde saçma bir yanıt verilmesi gerekir. “evlenmiyorum çünkü vücudumun kıyafetlerden görünmeyen kısımları pullarla kaplı” gibi.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    kim milyoner olmak ister
+  entry_id:  97584366
+  entry_writer: dont eat me
+  entry_fav_count: 2
+  entry_content: |
+    <a class="b" href="/?q=aka">aka</a> yani <a class="b" href="/?q=also+known+as">also known as</a> için 2 joker harcayan bir ingiliz dili ve edebiyatı öğrencisi barındıran yarışma.<br/><br/>bilemedim...
+  entry_channels: tv
+- entry_name: |
+    acemi sürücünün alması gereken ilk araç
+  entry_id:  97583868
+  entry_writer: bidegisikolan
+  entry_fav_count: 2
+  entry_content: |
+    <a class="b" href="/?q=ybr+125">ybr 125</a>
+  entry_channels: anket,otomotiv
 - entry_name: |
     şu anda çalan şarkı
   entry_id:  97557773
@@ -355,21 +339,21 @@ data:
     <a rel="nofollow noopener" class="url" target="_blank" href="http://open.spotify.com/track/06TQMpbYBcHB8Aqb8O2eY1?si=IdUT0fwVR5qLFPUY06c0eg" title="http://open.spotify.com/track/06TQMpbYBcHB8Aqb8O2eY1?si=IdUT0fwVR5qLFPUY06c0eg">çelik - meyhaneci</a> <br/>90'lar batağına düştüm, çıkamıyorum yine.
   entry_channels: anket,müzik
 - entry_name: |
-    sofiane feghouli
-  entry_id:  97582504
-  entry_writer: allasiz kozmonot
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  97558178
+  entry_writer: yumurta aki
   entry_fav_count: 1
   entry_content: |
-    bu adama ne oldu la bu sezon..yoksa kaçırdılar filan da sahada oynayan yossi kohen mi aq?
-  entry_channels: spor
+    küfür yemeye meraklı olan yazarların yazdığı başlık , daha güzel bir mesaj atan çaylağa denk gelmedim
+  entry_channels: ekşi-sözlük
 - entry_name: |
-    petrol çıkaracağız sana da vereceğiz
-  entry_id:  97579942
-  entry_writer: habudihabudihabudiyar
+    robert lewandowski
+  entry_id:  97583734
+  entry_writer: miyora
   entry_fav_count: 1
   entry_content: |
-    hareketlere bak kasıla kasıla kasılmaktan ölecek oracıkta sunta gibi.
-  entry_channels: siyaset,haber,eğitim,ekonomi
+    kendisi polonya milli takımında oynamaktadır.
+  entry_channels: spor
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  97582774
@@ -379,13 +363,29 @@ data:
     şu an sahilde içiyoruz kız arkadaşlarımla. battaniyelere sarıldık, kamp sandalyelerimize de yerleştik müziğimiz ve dalga sesimiz de var. keyif biz de, sohbet süper. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/9u2900715qzs">https://eksiup.com/p/9u2900715qzs</a>
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 - entry_name: |
-    acemi sürücünün alması gereken ilk araç
-  entry_id:  97581514
-  entry_writer: resat nuri aytekin
+    atatürk'ü sevmeme hakkı
+  entry_id:  97584552
+  entry_writer: googol
   entry_fav_count: 1
   entry_content: |
-    ehliyetini yeni almış, araba almaya karar veren bir kişinin alması gereken araçtır.<br/><br/>halk arasında genelde ilk olarak kötü bir araçla şoförlüğü iyice öğrendikten sonra iyi bir araç alınması fikri yaygındır. ne kadar doğrudur, doğruysa hangi araçla başlanmalıdır? ya da hiç uğraşmadan maddiyata göre uygun bir araç mı alınmalıdır?
-  entry_channels: anket,otomotiv
+    veganlar, eşcinseller, crossfitçiler ve atatürk ü sevmeyenler... ne diye bu kadar kasıyorsunuz ne olduğunuzla zerre ilgilenilmiyor, muhabbet edelim işte, sürekli girdiğiniz kalıptan bahsetmeseniz artık?
+  entry_channels: siyaset
+- entry_name: |
+    n11.com
+  entry_id:  97579512
+  entry_writer: kitap ayracim
+  entry_fav_count: 0
+  entry_content: |
+    indirim günlerinde almak için sepete almak istediğim telefonu attım.<br/>ne olur ne olmaz diye, başka bir satıcıdan da ekledim sepete.<br/>biri kurnazlık yaparsa diğerinden alırım dedim.<br/>bugün bakayım dedim.<br/>sonuç:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.imgyukle.com/2019/11/09/E90Bus.jpg">https://i.imgyukle.com/2019/11/09/e90bus.jpg</a>
+  entry_channels: teknoloji,moda
+- entry_name: |
+    metal şarkılarda geçen mükemmel sözler
+  entry_id:  97566820
+  entry_writer: funnestfan
+  entry_fav_count: 0
+  entry_content: |
+    bir mahkumun idama götürülmeden önce son sözlerini de içerendir.<br/><br/>when the priest comes to read me the last rites<br/>ı take a look through the bars at the last sights<br/>of a world that has gone very wrong for me<br/><br/>can it be that there's some sort of error<br/>hard to stop the surmounting terror<br/>ıs it really the end, not some crazy dream?
+  entry_channels: anket,müzik
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  97558278
