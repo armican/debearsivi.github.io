@@ -6,7 +6,7 @@ data:
     paten kayan çocuğu döven otobüs şoförü
   entry_id:  98037727
   entry_writer: suprisemotherfucker
-  entry_fav_count: 568
+  entry_fav_count: 575
   entry_content: |
     + bir daha arabalara tutunarak patenle kayma emi oğlum.<br/>- tamam abi bir daha yapmam.<br/><br/>ekşi sözlük yazarlarının hayallerindeki ütopya.
   entry_channels: haber
@@ -14,7 +14,7 @@ data:
     merve gelinin led ışıklı davullu lüks kınası
   entry_id:  98033994
   entry_writer: marlboromen
-  entry_fav_count: 561
+  entry_fav_count: 566
   entry_content: |
     video çok ilginç. şimdi arkada ekmeği için koreografi yapan kızlar cehenneme, evlenen kız dini vecibelere göre kapandığı için cennete mi gidecek? <br/>allah adama sormaz mı? benle dalga mı geçiyorsun sen diye??
   entry_channels: magazin,ekonomi
@@ -22,7 +22,7 @@ data:
     yalnızlık+parasızlık+umutsuzluk+geç kalmışlık
   entry_id:  98030045
   entry_writer: amkya
-  entry_fav_count: 342
+  entry_fav_count: 350
   entry_content: |
     beni tanımlayan durumun özeti..ulan harbiden bok gibi hayatım varmış.<br/><br/>yalnızım:çünkü kızların istediği gibi hayatı yaşatamıyorum o yüzden flörtüm olsa bile terk ediliyorum.<br/><br/>parasızim:asgari ücretin az yukarısına çalışıyorum aylık çalıştığım para bekar halimde bile yetmiyor.<br/><br/>umutsuzum:çünkü duzeltebilecek gücüm kalmadı çevremle konusuyorum herkes durum kötü haline şükret herkes işsiz diyor.<br/><br/>geç kalmışlık:maddi durumu iyi olan arkadaşlarım çoktan evlenip yuvasını kurmusken su durumda yapabileceğim hicbirsey yok sadece bomboş geçen hayatımı izlemekle meşgulüm.
   entry_channels: anket,ilişkiler,ekonomi
@@ -30,87 +30,63 @@ data:
     çok az kişinin farkında olduğu korkunç gerçekler
   entry_id:  98028648
   entry_writer: plazamuhendisi
-  entry_fav_count: 247
+  entry_fav_count: 275
   entry_content: |
     bir kız çocuğu ebeveyni olmanın bu rezil ülkede gün geçtikçe daha da zor olmaya başlaması
   entry_channels: siyaset,anket,ilişkiler,bilim,oyun,sağlık,haber,yeme-içme,ekonomi
 - entry_name: |
-    karısının kyk borcunu ödeyen erkek
-  entry_id:  98032416
-  entry_writer: either or
-  entry_fav_count: 217
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kyk+borcunu+erkek+%c3%b6der+bu+bir+g%c3%b6rg%c3%bc+kural%c4%b1d%c4%b1r">kyk borcunu erkek öder bu bir görgü kuralıdır</a>)
-  entry_channels: ilişkiler,eğitim,ekonomi
-- entry_name: |
-    trt'nin karı yüzde 98 azaldı
-  entry_id:  98033099
-  entry_writer: excelsior was here
-  entry_fav_count: 215
-  entry_content: |
-    <a class="b" href="/?q=sikili%c5%9f+t%c3%bcrkiye">sikiliş türkiye</a> dizisi ile bu olaya tüy dikmelerini bekliyorum.
-  entry_channels: siyaset,tv,haber,ekonomi
-- entry_name: |
     20 kasım 2019 siyanür satışının yasaklanması
   entry_id:  98052079
   entry_writer: kemikgozluk
-  entry_fav_count: 190
+  entry_fav_count: 228
   entry_content: |
     intihar etmeyi kafasına koyan adam siyanür olmazsa yine başka bir şey bulur intihar eder. sen bunu düşüneceğine yoksulluğu nasıl engellerim onu düşün. tabi sizden çok fazla şey istiyoruz, doyumsuzları doyurmakla meşgulsünüz.
   entry_channels: siyaset,bilim,sağlık,haber
 - entry_name: |
+    karısının kyk borcunu ödeyen erkek
+  entry_id:  98032416
+  entry_writer: either or
+  entry_fav_count: 227
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kyk+borcunu+erkek+%c3%b6der+bu+bir+g%c3%b6rg%c3%bc+kural%c4%b1d%c4%b1r">kyk borcunu erkek öder bu bir görgü kuralıdır</a>)
+  entry_channels: ilişkiler,eğitim,ekonomi
+- entry_name: |
     tekirdağ'da 286 milyar m3 doğal gaz bulunması
   entry_id:  98036342
   entry_writer: aradayazanbirisi
-  entry_fav_count: 189
+  entry_fav_count: 192
   entry_content: |
     seçim varsa demek..
   entry_channels: haber,ekonomi
 - entry_name: |
-    gezi'yi mumla arayacaksınız
-  entry_id:  98038362
-  entry_writer: fatifati
-  entry_fav_count: 188
-  entry_content: |
-    edit: ecevit'in kıbrısı almasıyla ilgili olarak çok sayıda mesaj almaktayım. konuya açıklık getirmek gerekirse, memlekete atatürk'ün ölümünden sonra toprak kazandırmış tek lider olmasına rağmen ekonomik kriz halinde nasıl da bir anda silinebildiğini anlatmak istemiştim.<br/><br/>verdiği örneklere bakarsanız halkın ayaklanma sebeplerinin ekonomi ve baskıcı yönetim olduğunu görürsünüz. otokrat bir yönetim anlayışından bıkan, ekonomik olarak bunalıma giren halklar genelde ayaklanırlar. ecevit kıbrısı alır, amerika ambargo uygular, ekonomik kriz baş gösterir, halk yazar kasa atar ve isyan eder. yerine umut olarak biri gelir. amerika ambargoyu kaldırır. şurayı sat burayı sat der, evde ne var ne yoksa satın alır, gelen para ile rahata erdim dersin, eldeki parayı değerlendiremezsin. satacak bir şey kalmayınca da halk yine bunalıma girer ve seni de indirir. bunda anlaşılmayacak bir şey yok. tehditte yok.
-  entry_channels: siyaset,haber
-- entry_name: |
     kadın fakir erkeğe aşık olur mu
   entry_id:  98037797
   entry_writer: sonnenuntergang
-  entry_fav_count: 175
+  entry_fav_count: 183
   entry_content: |
     yeter ki ".... ..... ..... ..... ..... ..... .... .... ...." olsun, fakir de olsa olur şeklinde verilen her cevaba gülüyorum.. yahu o sayılan şeyler bir araya gelse, fakir değil at olsa seversin tabii.. fakirliğine karşılık talep edilen şeyler böyle çok iken, zenginliğin yanında görülmeyenler de bir o kadar fazla.. işte size ikiyüzlülük..<br/><br/>zengin ama hayvan, kaba, küfürbaz, kıro, düşüncesiz, pis, göbekli kel erkek vs. fakir ama naif, centilmen, iyi eğitimli, kültürlü, bakımlı, sadık, sırma saçlı, kaslı erkek<br/><br/>edit: aşık olur mu kısmında takılanlar olmuş, aşk kontrolsüzdür diye.. hayır, o kadar kontrolsüz değildir.. fakirlikten kasıt zaten fakir olmaktan ötürü mahrum kalınan şeylerin kişideki yansıması.. örneğin christian bale'i pejmürde kıyafetlerle, bakımsız bir ciltle, yağlı saçlarla, fakir olduğu için sahip olamayacağı estetik bir saç sakal tıraşıyla görse belki de aşık olmayacak.. mesele fakir diyince hemen cüzdanı değil.. fakir olmadığı halde dış dünyasına zenginliğini aktaramamış esnaflarımız da böyledir.. göbekli bakımsız amcaların banka hesaplarıyla 10 tane popçu satın alınır mesela, onlar da fakir gibi görünüyor..
   entry_channels: anket,ilişkiler
 - entry_name: |
+    counter-strike nick'leri
+  entry_id:  98042411
+  entry_writer: youwereright
+  entry_fav_count: 176
+  entry_content: |
+    "babam"<br/>kalabalık bir grupla oynadığınızda, vurdugunuz kişinin yüksek bir sesle "babam kim lan" diye bagirmasi ve dikkatleri üzerine çekmesi..
+  entry_channels: anket,oyun
+- entry_name: |
     ikinci el otomobil piyasası
   entry_id:  98019623
   entry_writer: woddam priz
-  entry_fav_count: 174
+  entry_fav_count: 175
   entry_content: |
     ağustos ayında bir araba beğendim malum siteden ve 94 bin tl'ye anlaştıktan sonra ekspertiz yaptırdım. sözde adamın bilmediği bir ön kaput hasarı çıktı. adam aracı satmaktan vazgeçip, kendisi aracı alırken ekspertiz yapan firmayı dava edeceğini söyledi. neyse dedik. bugün baktım aracı ilana yeniden koymuş. kaput değiştirilmiş ki onu da ilanda belirtmiş ve belirlediği fiyat 112 bin tl. 3 ayda aracın ön kaputu değiştirilmiş de olmasına rağmen 18 bin tl daha değer koymuş aracına.<br/>şu örnekleri birkaç aydır gördüğüm ve böyle satıcılardan tiksindiğim için gittim sıfır aldım.
   entry_channels: otomotiv,ekonomi
 - entry_name: |
-    counter-strike nick'leri
-  entry_id:  98042411
-  entry_writer: youwereright
-  entry_fav_count: 169
-  entry_content: |
-    "babam"<br/>kalabalık bir grupla oynadığınızda, vurdugunuz kişinin yüksek bir sesle "babam kim lan" diye bagirmasi ve dikkatleri üzerine çekmesi..
-  entry_channels: anket,oyun,teknoloji
-- entry_name: |
-    izmir'de insanların hayatı slow motion yaşaması
-  entry_id:  98043531
-  entry_writer: ineffective
-  entry_fav_count: 159
-  entry_content: |
-    izmir'de slow motion'a slow motion denmiyor yalnız.<br/><br/>yavşam deniyor. yavaş yaşam'ın birleşmesi.
-  entry_channels: ilişkiler,seyahat
-- entry_name: |
     90'lı yıllarda öğrencinin avcuna sopayla vurulması
   entry_id:  98033753
   entry_writer: rightfulhelm
-  entry_fav_count: 156
+  entry_fav_count: 157
   entry_content: |
     bunun sıra dayağı versiyonunda muhtemelen hayatında hiç şiddet görmemiş, hiç yaramazlık yapmayan, sınıfın en naif, kibar çocukları da bu tecrübeyi yaşayarak hayatın acımasızlıklarıyla küçük yaşta tanışma fırsatı elde ediyorlardı.
   entry_channels: anket,tarih,eğitim
@@ -126,7 +102,7 @@ data:
     askerlikte ilk kaka
   entry_id:  98050497
   entry_writer: brtaks
-  entry_fav_count: 111
+  entry_fav_count: 145
   entry_content: |
     uzun süre yapamayanların aksine gittiğim günün sabahı sıçmıştım. tabi göt alaturkaya alışık olmadığı için deliği de pek tutturamadık temizlerken ortam bom bok oldu bende çaktırmadan koğuşa yöneldim ve 5 dk sonra koğuştan bir arkadaş ' abi sıçmayı bilmeyen adamları almasınlar şu askere ya her tarafı bok etmiş orospu çocuğu demişti' ben de çaktırmamak için bütün koğuşla beraber kendime sövmüştüm. bu da böyle bom bok bir anımdır işte..
   entry_channels: anket
@@ -134,7 +110,7 @@ data:
     çaylak onay listesi
   entry_id:  98034897
   entry_writer: bakin burasi cokomelli
-  entry_fav_count: 98
+  entry_fav_count: 102
   entry_content: |
     (bkz: <a class="b" href="/?q=bak%c4%b1n+buras%c4%b1+%c3%a7okomelli">bakın burası çokomelli</a>)<br/><br/>entry ve nick uyumları ile karşınızda olacağıma söz veriyorum. korkulu rüyan geldi berat!
   entry_channels: ekşi-sözlük
@@ -142,10 +118,18 @@ data:
     erdoğan'ın chp başına geçirmek istediği kişi
   entry_id:  98030214
   entry_writer: physical graffiti
-  entry_fav_count: 85
+  entry_fav_count: 91
   entry_content: |
     (bkz: <a class="b" href="/?q=metin+feyzio%c4%9flu">metin feyzioğlu</a>)
   entry_channels: siyaset
+- entry_name: |
+    depresyondakilerin okuması için kitap tavsiyesi
+  entry_id:  98041121
+  entry_writer: pomcik
+  entry_fav_count: 86
+  entry_content: |
+    depresyondakiler odaklanabiliyor ise helal olsun dediğim başlıktır.
+  entry_channels: anket,edebiyat,sağlık
 - entry_name: |
     kızların ilişkide mutsuz olmalarının tek nedeni
   entry_id:  98018234
@@ -155,21 +139,13 @@ data:
     sürekli kıyaslama içinde olmaları, kendi fikirleri olmayıp başkalarının yönlendirmeleri ile hareket etmeleri
   entry_channels: anket,ilişkiler
 - entry_name: |
-    fb'nin kazandığı haftaki hakemin cezalandırılması
-  entry_id:  98039953
-  entry_writer: maximum chatlak
-  entry_fav_count: 67
+    lensmarket.com
+  entry_id:  98051339
+  entry_writer: kamikazze
+  entry_fav_count: 55
   entry_content: |
-    fenerbahçe cas davasını geri çekti diye mi oluyomuş?<br/>vay anasını yav...<br/><br/>renktaşlarım siz de amma büyütüyorsunuz. nolmuş yani fenerbahçe'nin kazandığı maçın hakemlerine bir sonraki hafta maç verilmiyorsa? cas davasını geri çekersek böyle olur işte...<br/><br/>edit: <br/>şimdi bir tarafta; "bizim yendiğimiz maçta görev almış olan hakemler cezalandırılırken; rakibimiz lehine fahiş hatalar yapan hakemler ödüllendiriliyor. siz hayırdır?" diyen fenerbahçe.<br/>diğer tarafta; kendileri bile "verecek cevabımız yok. konuyla alakasız bakınızlar verebiliriz ancak" diye kabul eden rakip(?)ler.<br/>beyni sikilen biziz, evet. bu kadar açık bir olayda bile bu kadar yüzsüz olabilmenizi; bu kadar göstere göstere kollanmanıza rağmen, bu kadar ağlayabilmenizi bizim aklımız almıyor, beynimiz yanıyor.<br/><br/>anlayacağınız dilde ifade edelim madem:<br/>elinizden geleni ardınıza koyarsanız asıl biz sizin beyninizi sikelim! 17nizi üstüsüte koymuşluğumuz var; yanınıza alabildiğinizi de alın, kendi rekorumuzu da tazeleriz.<br/>(bkz: <a class="b" href="/?q=bir+gece+ans%c4%b1z%c4%b1n+18+mhk+19+erman+20+zeki">bir gece ansızın 18 mhk 19 erman 20 zeki</a>)
-  entry_channels: spor
-- entry_name: |
-    depresyondakilerin okuması için kitap tavsiyesi
-  entry_id:  98041121
-  entry_writer: pomcik
-  entry_fav_count: 67
-  entry_content: |
-    depresyondakiler odaklanabiliyor ise helal olsun dediğim başlıktır.
-  entry_channels: anket,edebiyat,sağlık
+    eğer sikilmek istiyorsanız en az 2 kati fiyata lens satan optik magazalarini tercih edebilirsiniz. birde özellikle antalya gibi turistik bölgelerdeyseniz 3-4 kat sikilmeyi göze alin.<br/><br/>anlaşılan optikci arkadaslar satislarinin düşmesinden rahatsiz olmuş olacak ki burada gelip yasalardan falan bahsedip ağlıyorlar.<br/><br/>ayrica lensmarket reçetesiz lens satmamaktadır. reçetenizi sisteme yükledikten sonra lens alabiliyorsunuz.<br/><br/>diger siteleri bilmem ama lensmarket orijinal lensler satmaktadır.
+  entry_channels: teknoloji,sağlık,moda,ekonomi
 - entry_name: |
     jose mourinho
   entry_id:  98028522
@@ -179,58 +155,50 @@ data:
     tottenham'ı bulunduğu durumdan daha iyi konuma getiremeyecektir. artık çağı bitmiş, devri geçmiş bir futbol anlayışı ile tottenham'ı ilk 4 içerisine sokabileceğini düşünmüyorum.<br/><br/>pochettino'yu bari manu kapsa. tarihin en güzel intikam hikayelerinden birine tanık olsak.
   entry_channels: spor
 - entry_name: |
-    20 kasım 2019 sabah ezanı güncellemesi
-  entry_id:  98017871
-  entry_writer: anatomik
-  entry_fav_count: 49
-  entry_content: |
-    keşke vatandaşlardan gelen yoğun talebe binaen ezan sesini de biraz kıssalar. <br/>yani yine doğrusunu siz bilirsiniz ama benle hiç alakası olmayan bir mevzu yüzünden sabahın köründe uyandırılmam biraz garip değil mi sizce de?<br/><br/>yani madem şirk koşuyoruz tek seferde hepsini çıkaralım aradan.
-  entry_channels: siyaset,haber
-- entry_name: |
-    lensmarket.com
-  entry_id:  98051339
-  entry_writer: kamikazze
-  entry_fav_count: 47
-  entry_content: |
-    eğer sikilmek istiyorsanız en az 2 kati fiyata lens satan optik magazalarini tercih edebilirsiniz. birde özellikle antalya gibi turistik bölgelerdeyseniz 3-4 kat sikilmeyi göze alin.<br/><br/>anlaşılan optikci arkadaslar satislarinin düşmesinden rahatsiz olmuş olacak ki burada gelip yasalardan falan bahsedip ağlıyorlar.<br/><br/>ayrica lensmarket reçetesiz lens satmamaktadır. reçetenizi sisteme yükledikten sonra lens alabiliyorsunuz.<br/><br/>diger siteleri bilmem ama lensmarket orijinal lensler satmaktadır.
-  entry_channels: teknoloji,sağlık,moda,ekonomi
-- entry_name: |
     20 kasım 2019 güney koreli turistin öldürülmesi
   entry_id:  98045815
   entry_writer: gitme be fiko
-  entry_fav_count: 46
+  entry_fav_count: 49
   entry_content: |
     turistlerin türkiye'nin belli bölgelerine gitmemeleri, yalnız gezmemeleri konusunda uyarılmaları gerektiğini gösteren üzücü olay. <br/><br/>zavallı adam orada tarihi kalıntıları görme peşindeydi muhtemelen. iki tane parazit geldi ve parasını, fotoğraf makinasını vs. istedi. sonra da bıçakladı.
   entry_channels: siyaset,haber,seyahat
 - entry_name: |
+    falcao'nun sakatlık raporu
+  entry_id:  98043794
+  entry_writer: ofis canlisiyim multinetle beslenirim
+  entry_fav_count: 42
+  entry_content: |
+    keyfe keder ameliyatlidir, gol takintisi olan aramasin.
+  entry_channels: spor
+- entry_name: |
+    bir menzilci göstersinler bakanlığı bırakırım
+  entry_id:  98054898
+  entry_writer: tailofcat
+  entry_fav_count: 42
+  entry_content: |
+    "cemaat devlete sızmış, buna kargalar güler." hüseyin çelik.
+  entry_channels: siyaset
+- entry_name: |
     erkeklerin hoşlanma belirtileri
   entry_id:  98050054
   entry_writer: mukemmelligi hizlandiramayan adam
-  entry_fav_count: 39
+  entry_fav_count: 41
   entry_content: |
     ben saçını çekiyorum. <br/>ilkokul daha bitmedi de benim.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    türk dizilerinin yurt dışında tutulması
-  entry_id:  98019292
-  entry_writer: papaz erigi yiyen papa
-  entry_fav_count: 30
+    yapı kredi bankası'nın 700 kişiyi işten çıkarması
+  entry_id:  98020775
+  entry_writer: divit
+  entry_fav_count: 25
   entry_content: |
-    şili'li bir arkadaşım vardı, o da çok bahsederdi türk dizilerinden. benim bile izlemediğim, bilmediğim dizileri anlatırdı. sadece şili'de değil tabii, çoğu güney amerika ülkesinde türk dizileri çok populer ama özellikle şili'de daha bir populer. çok da hoşuma gitmişti, dünya'nın bir ucundaki ülkenin bir ilinin bir ilçesinde, onun bir mahallesinde, onun da cadde ve sokağındaki bir apartmanında oturan birinin türkiye hakkında ve türkler hakkında bilgi sahibi olması ve anlatması.<br/><br/>bu yüzden, şili'de türklere karşı inanılmaz bir sempati var. hatta bu arkadaşımın annesi türk dizilerinin hayranıydı ve facetime yaptırmıştı aha bak işte bu da türk diye. kendimi bir an bir kıvanç, bir burak özçivit sanmıştım aq. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: tv
-- entry_name: |
-    ekşi itiraf
-  entry_id:  98018032
-  entry_writer: kumsalkumu
-  entry_fav_count: 28
-  entry_content: |
-    "never tell your problems to anyone. %20 don't care and the other %80 are glad you have them." <br/><br/>bu sözü o kadar seviyorum ki. sanki bu sözü beynine kazıyan bir insanın asla sırtı yere gelmezmiş gibi geliyor.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    hay endustri 4.0'inizi siksinler.<br/><br/>son 2 senedir en az 10 tane yazilimci arkadasim kovuldu, ben de kovuldum 2 sene once.<br/>yazilimciyim, sirketi de hayvan gibi tasarruf ettiren adamdim.<br/>bana su kodu yaz 3 eleman rahat edecek diyorlardi, 3 elemanin butun operasyonel islemini otomatige bagliyordum.<br/><br/>amina kodumun salaklari hayatinizda dijitallesme mi gordunuz de yorum yapiyorsunuz. 1 satir kod yazmamis adam gelmis iot falan konusuyor.<br/><br/>neymis sube yokmus artik, yaragimi yok mahalledeki subeler ne?<br/>kovulanlarin yerine adam alinmayacak mi saniyorsunuz?<br/>banka sana krediyi, kredi kartini nasil satacak?<br/>2001'de 2008'de binlerce bankaci kovuldu.<br/>dijitallesme mi vardi o zamanlar?<br/><br/>madem her bok dijital oldu 30,40,50 gibi maas alanlar neden cikarilmiyor? her sey dijitalse neden yuksek maasli yoneticiler var.<br/>ver bana algoritmasini kodunu yazayim kovsunlar.<br/><br/>malsiniz duzelme ihtimaliniz de yok, hayatiniza mal olarak devam edeceksiniz.<br/>cunku cehaletinizin farkinda bile degilsiniz.<br/><br/>kovulan adamin issizlik maasi alacagini hatta kârâ gectigini falan dusunuyorsunuz.<br/>oyle olsa niye imza attirsinlar amk.<br/><br/>bu tarz paket alip cikan insanlar issizlik maasi alamaz, cunku kendim ayrildim diye imza atar. atmazsa da o paketi alamaz 3 sene dava surer, sonra bir de temyizi bilmem nesi surun dur.<br/><br/>sonra o aldigin para şak diye erir, cunku 3 ay icinde is falan bulamazsin.<br/>sonucta kovulan insansin sirketlerin eline dusmussun.<br/>sonra devlet gss parasi kesmeye baslar, bildiklerini de unutmaya baslarsin.<br/>ondan sonra mecburen eskisinden daha dusuk maasa daha dandik sirkete girersin.<br/><br/>hayatimda bankada calismadim, bankadan da tiksinirim.<br/><br/>banka ozel sektorun dibidir. ozel sektor de leştir, igrenctir. bugun ben gitmedim dersin 2 sene sonra sen gidersin.<br/>bankacilara oh olsun diyen adamin da gunleri sayilidir.<br/>bak bakayim sirketinde 40 yas ustu kac kisi var.
+  entry_channels: teknoloji,haber,ekonomi
 - entry_name: |
     radamel falcao garcia
   entry_id:  98036810
   entry_writer: redthepublic
-  entry_fav_count: 22
+  entry_fav_count: 23
   entry_content: |
     (bkz: <a class="b" href="/?q=kevin+grosskreutz">kevin grosskreutz</a>) ‘un faksı çekilebilmiş hali.
   entry_channels: spor
@@ -262,18 +230,26 @@ data:
     yazarların en çok para gömdüğü zevki
   entry_id:  98036460
   entry_writer: gaflabeyningerisiuremez
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     zam üstü zam sonrası alkol amünyum!
   entry_channels: anket,ekşi-sözlük,ekonomi
 - entry_name: |
-    menzil tarikatının içişlerinde kadrolaşması
-  entry_id:  98049904
-  entry_writer: sozluk ayraci
-  entry_fav_count: 10
+    moral bozukluğuna iyi gelen şeyler
+  entry_id:  98052434
+  entry_writer: cityvoice
+  entry_fav_count: 9
   entry_content: |
-    (bkz: <a class="b" href="/?q=cemaat+devlete+s%c4%b1zm%c4%b1%c5%9f+bunlar+kargalar%c4%b1+g%c3%bcld%c3%bcr%c3%bcr">cemaat devlete sızmış bunlar kargaları güldürür</a>)<br/><br/>zamanında inandık şimdi de inanırız sayın bakanım. sorun yok.
-  entry_channels: siyaset
+    valla bende etkisi muazzam ;<br/><br/>sizde kötü bir gün geçirmişseniz , moraliniz bozuksa , kendinizi iyi hissetmiyorsanız kesinlikle izleyin ben ne zaman sıkılsam , darlansam hemen geçiyor.:)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/VjmqQK8elnM">https://youtu.be/vjmqqk8elnm</a>
+  entry_channels: anket,sağlık
+- entry_name: |
+    doktorların bilinçli hastaya tahammül edememesi
+  entry_id:  98044195
+  entry_writer: lsyn
+  entry_fav_count: 9
+  entry_content: |
+    hastalarını sabırla dinleyip anlamaya çaba göstermeyen doktorların başarılı olma şansları zaten yoktur, bırakalım doğal seleksiyon içerisinde elenerek yok olmaya mahkum kalsınlar...<br/><br/>fakat doktor olmak için çamurlu yollardan geçen, badireler atlatan, dünyaları altüst olan bu kardeşlerimize haksızlık etmiyor muyuz?<br/><br/>hayat onlara sırf diğerlerinden daha akıllı oldukları için bu mesleği seçtirdi, farkındamıyız!! (odtü makinecileri tenzih ederim :) en akıllı sizsiniz, meraklanmayınız)<br/><br/>fakat nedir o nöbet saatleri, nedir o şark hizmetleri, nedir o çalışma şartları, nedir abi o kaos, stres, yoğunluk, dağınıklık.. size tahammülsüz diyenlerin ne kadar tahammülsüz olduklarının farkındayız koca yiğitler, aldırmayın siz.. <br/><br/>onurlu bir iş yapıyorsunuz ve daha onurlu olmak için derman olmaya devam ediniz canımız hekimlerimiz..
+  entry_channels: anket
 - entry_name: |
     milliyetçilik dil midir kan mıdır sorunsalı
   entry_id:  98043218
@@ -283,13 +259,21 @@ data:
     merhum <a class="b" href="/?q=nevzat+k%c3%b6so%c4%9flu">nevzat kösoğlu</a>'ndan iktibasla: "beraber türkü söyleyebildiklerim benim milletimdendir."
   entry_channels: siyaset,anket
 - entry_name: |
-    doktorların bilinçli hastaya tahammül edememesi
-  entry_id:  98044195
-  entry_writer: lsyn
+    menzil tarikatının içişlerinde kadrolaşması
+  entry_id:  98049573
+  entry_writer: sonra ben de dedim ki
   entry_fav_count: 8
   entry_content: |
-    hastalarını sabırla dinleyip anlamaya çaba göstermeyen doktorların başarılı olma şansları zaten yoktur, bırakalım doğal seleksiyon içerisinde elenerek yok olmaya mahkum kalsınlar...<br/><br/>fakat doktor olmak için çamurlu yollardan geçen, badireler atlatan, dünyaları altüst olan bu kardeşlerimize haksızlık etmiyor muyuz?<br/><br/>hayat onlara sırf diğerlerinden daha akıllı oldukları için bu mesleği seçtirdi, farkındamıyız!! (odtü makinecileri tenzih ederim :) en akıllı sizsiniz, meraklanmayınız)<br/><br/>fakat nedir o nöbet saatleri, nedir o şark hizmetleri, nedir o çalışma şartları, nedir abi o kaos, stres, yoğunluk, dağınıklık.. size tahammülsüz diyenlerin ne kadar tahammülsüz olduklarının farkındayız koca yiğitler, aldırmayın siz.. <br/><br/>onurlu bir iş yapıyorsunuz ve daha onurlu olmak için derman olmaya devam ediniz canımız hekimlerimiz..
-  entry_channels: anket
+    bakan soylu’nun reddettiği oluşumdur.<br/><br/>bir tane gösterin istifa edeceğim demiş.<br/><br/>(bkz: <a class="b" href="/?q=g%c3%b6ster+o%c4%9flum+amcana">göster oğlum amcana</a>)
+  entry_channels: siyaset
+- entry_name: |
+    joker 2
+  entry_id:  98052555
+  entry_writer: wohan
+  entry_fav_count: 8
+  entry_content: |
+    isminin <a class="b" href="/?q=joker+2">joker 2</a> olmayacağına emin olduğum filmdir. <a class="b" href="/?q=recep+ivedik">recep ivedik</a> mi bu aq?
+  entry_channels: tv,sinema
 - entry_name: |
     her duyulduğunda insanı etkileyen film müzikleri
   entry_id:  98039471
@@ -299,21 +283,13 @@ data:
     <a class="b" href="/?q=van+den+budenmayer">van den budenmayer</a>'in (<a class="b" href="/?q=zbigniew+preisner">zbigniew preisner</a>) katkıda bulunduğu istisnasız tüm filmler. <a class="b" href="/?q=v%c3%a9ronique%27in+%c3%a7ifte+ya%c5%9fam%c4%b1">véronique'in çifte yaşamı</a> ne vakit izlesem/dinlesem kalbimi yerinden çıkarırdı. <a class="b" href="/?q=%c3%bc%c3%a7+renk">üç renk</a>'te kadınların aynasında kendimi seyrederken budenmayer lirikleri bütün gözyaşı sislerini dağıtırdı.
   entry_channels: anket,müzik,sinema
 - entry_name: |
-    mor ve ötesi'nin en iyi şarkısı
-  entry_id:  98018067
-  entry_writer: sesbirikibiriki
+    sigarayı bırakmak
+  entry_id:  98026792
+  entry_writer: seaburg
   entry_fav_count: 6
   entry_content: |
-    benim için kesinlikle (bkz: <a class="b" href="/?q=deli">deli</a>) ve (bkz: <a class="b" href="/?q=bir+derdim+var">bir derdim var</a>) şarkılarıdır.
-  entry_channels: anket,müzik
-- entry_name: |
-    39 yaşında bekar yüksek egolu kadın yönetici
-  entry_id:  98017872
-  entry_writer: portakalsoslukek
-  entry_fav_count: 6
-  entry_content: |
-    bugun de bir kadini, 39 yasinda ama bekar diye “yuksek egolu” basligi altinda (belki de oyledir ama bunun yasinin ve bekarliginin bir ezikligi olarak algilamak sadece vizyonsuz insanlarin isidir) asagiladilar. basligin acilimi bu zannedersem.
-  entry_channels: anket
+    bugün sigarayı bırakıyorum.ilacsız bandsız bir şekilde.oyle çok ihtiyacım olduğundan değil veya bir zorunlulugum olduğundan değil sigara içmenin tamamen mantıksız olmasından geliyor bu istek.<br/>umarım başlıkta dolanan herkes bırakır bir gün.
+  entry_channels: sağlık
 - entry_name: |
     2. ekşi yılbaşı hediyeleşmesi
   entry_id:  98017613
@@ -323,14 +299,6 @@ data:
     tema vakfına bağış yapabilirim, karşılığında da sokak köpeklerine yardım edilirse sevinirim. çevrede olan hayvanlara nispeten yardım ediliyor ancak uzak yerlerde yardım bekleyen köpekler de var. o yüzden bunu düşünerek karar vermenizi rica ediyorum.<br/><br/>bir taşla bilmem kaç kuş...
   entry_channels: ekşi-sözlük
 - entry_name: |
-    ömür gedik'in ilginç muz paylaşımı
-  entry_id:  98050558
-  entry_writer: songotbuzucu
-  entry_fav_count: 5
-  entry_content: |
-    kıyafetin boyunun cinsel çağrışım yaptığı gerekçesi ile kınayan, ancak sik görünümlü muz paylaşmakta sorun görmeyen bir kadının paylaşımı. insanın bu ne perhiz, bu ne lahana turşusu diyesi geliyor.
-  entry_channels: 
-- entry_name: |
     çocuğuna kendi mesleğinden isim vermek
   entry_id:  98050288
   entry_writer: hortumlu dunyadaki yalniz fil
@@ -338,14 +306,6 @@ data:
   entry_content: |
     kız olursa supradyn, erkek olursa pharmaton
   entry_channels: anket
-- entry_name: |
-    sigarayı bırakmak
-  entry_id:  98026792
-  entry_writer: seaburg
-  entry_fav_count: 5
-  entry_content: |
-    bugün sigarayı bırakıyorum.ilacsız bandsız bir şekilde.oyle çok ihtiyacım olduğundan değil veya bir zorunlulugum olduğundan değil sigara içmenin tamamen mantıksız olmasından geliyor bu istek.<br/>umarım başlıkta dolanan herkes bırakır bir gün.
-  entry_channels: sağlık
 - entry_name: |
     joker
   entry_id:  98039725
@@ -355,45 +315,77 @@ data:
     "joker, dark knight'taki heath ledger'in oynadığı saykodur, burda avrupa yakasındaki gaffurdan joker yapmışlar aq."<br/><br/>hayatımda gördüğüm en dalyarak eleştiri.<br/>yürü git sinemada karakter değişimi ne demek, nasıl olur, nasıl yansıtılır biraz araştır. <br/>karşılaştırdığın dönemle, bu filmdeki dönem arasında dağlar kadar fark var.<br/>gaffur siksin seni.
   entry_channels: sinema,spoiler
 - entry_name: |
-    moral bozukluğuna iyi gelen şeyler
-  entry_id:  98052434
-  entry_writer: cityvoice
-  entry_fav_count: 2
+    bulgaristan göçmenleri
+  entry_id:  98053385
+  entry_writer: corsairsgold35
+  entry_fav_count: 3
   entry_content: |
-    valla bende etkisi muazzam ;<br/><br/>sizde kötü bir gün geçirmişseniz , moraliniz bozuksa , kendinizi iyi hissetmiyorsanız kesinlikle izleyin ben ne zaman sıkılsam , darlansam hemen geçiyor.:)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/VjmqQK8elnM">https://youtu.be/vjmqqk8elnm</a>
-  entry_channels: anket,sağlık
+    iyi ve güzel insanlardır. iyi ki varsınız.
+  entry_channels: anket,ilişkiler,tarih,seyahat
 - entry_name: |
-    joker 2
-  entry_id:  98052147
-  entry_writer: karinca beli
+    çoğul gibi görünüp tekil olan kelimeler
+  entry_id:  98054644
+  entry_writer: hapsuruktan tayyare
   entry_fav_count: 2
   entry_content: |
-    <a class="b" href="/?q=todd+phillips">todd phillips</a>'in devam filmi üzerinde çalıştığı bugün bazı kaynaklarca duyuruldu<a rel="nofollow noopener" class="url" target="_blank" href="https://screenrant.com/joker-2-movie-sequel-confirmed/" title="https://screenrant.com/joker-2-movie-sequel-confirmed/">.</a> <a class="b" href="/?q=sequel">sequel</a>'in tam ismi henüz belli değil<a rel="nofollow noopener" class="url" target="_blank" href="https://www.digitalspy.com/movies/a29856916/joker-sequel-confirmed-todd-phillips/" title="https://www.digitalspy.com/movies/a29856916/joker-sequel-confirmed-todd-phillips/">.</a>
-  entry_channels: tv,sinema
+    çoğul eki olan -lar ve -ler’den almamış kelimelerdir.. bu yüzden de zaten çoğul görünmezler..<br/><br/>(bkz: <a class="b" href="/?q=mallar">mallar</a>)
+  entry_channels: anket
+- entry_name: |
+    yürümekten keyif alınan yollar
+  entry_id:  98031892
+  entry_writer: garip dirki
+  entry_fav_count: 2
+  entry_content: |
+    illaki daha önce de yazan olmuştur<br/><br/>o'na giden her yol
+  entry_channels: anket,seyahat
+- entry_name: |
+    netflix türkiye
+  entry_id:  98037293
+  entry_writer: kissofh3ll
+  entry_fav_count: 1
+  entry_content: |
+    rick and morty'inizi sikiyim dediğim platform. amk rick and morty aşağı rick and morty yukarı ne boş yaptınız ya.
+  entry_channels: tv,sinema,teknoloji
 - entry_name: |
     mesaj alımını kapatan sözlük yazarı
-  entry_id:  98053972
-  entry_writer: ahkosmos
+  entry_id:  98054819
+  entry_writer: ulukayin
   entry_fav_count: 1
   entry_content: |
-    ne yazık ki bunlardan biri de artık benim. keşke bana ukala, densiz, her şeyi bilirim diyen az da olsa fikir sahibi insanlar denk gelse...<br/><br/>"selam yavru kuş", "denem 123" gibi saçma sapan mesajlar alıyor idim günde... vallahi kutsal bilgi kaynağı ne yazık ki artık inci sözlük'e dönmüş durumda
+    çaylakların özellikle aktroll çaylakların sürekli küfür etmeleri sebebiyle çaylaklara mesaj alımını kapattım. ben de çaylaktım, çaylaklığımın son zamanlarında mesajlaşma özelliği geldi ama ne kimseye hakaret ettim ne de küfür. halen birisine mesaj atarken merhaba, kusura bakmayın rahatsız ediyorum diye cümleye başlıyorum. biraz insani ilişkileri, insani saygı nedir bilenin yapması gereken de zaten budur ama ne arar bizim ülkemizde. sonra yazar olan aktroller küfür ve gerizekalıca hareket edince sadece takip ettiklerim mesaj göndersin yaptım. kafam o kadar rahat ki anlatamam. tavsiye ederim.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    ersun yanal vs şenol güneş vs fatih terim
-  entry_id:  98052028
-  entry_writer: rbtaskiran
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  98017972
+  entry_writer: nihilisttt
   entry_fav_count: 1
   entry_content: |
-    fatih terim &gt; şenol güneş &gt; ersun yanal<br/>(bkz: <a class="b" href="/?q=haticeye+de%c4%9fil+neticeye+bak">haticeye değil neticeye bak</a>)
-  entry_channels: spor
+    resmen burayı günlük olarak kullanmaya başladım. sevgili günlük, hiç halim yok, kolumu kımıldatamıyorum. günlük 4 saatim iş yolunda geçiyor. daha önce 2 kişinin yapmadığı uydurduğu işleri tek başına yapmaya çalışıyorum. öyle yoruldum ki yetişemiyorum. alanda yeniyim. hem kendi kendime öğreniyorum hem de yapıyorum. hep benden bağımsız bir aksilik söz konusu. önce yapmam gereken şeyi değil de sonra yapmam gerekeni yapmamı istedikleri için allak bullak oldum. özel hayata gelince çok ama çok ilgisiz, iş delisi beni seven ama bana aşık olup olmadığını bilmeyen bir sevgilim var. o kadar az konuşuyoruz ki gün içinde hep benim çabamla oluyor (aman tanrım tam giydireyim dedim, o arada aradı, bu da böyle bir anımdır). yatağımdayım ve olayın enteresan yani kedim ayaklarıma saldırıyor. kendince oynuyor sanırım. ama yani ben de bir canlıyım bunun farkında değil. sesim de kısıldı, boğazım ağrıyor. neden burda gülücük var da ağlama yok. kendimce ağlama sembolleri bulmalıyım ekşi sözlük için. <sup class="ab"><a title="(bkz: hüngür hüngür ağlamak)" href="/?q=h%c3%bcng%c3%bcr+h%c3%bcng%c3%bcr+a%c4%9flamak" data-query="hüngür hüngür ağlamak">*</a></sup>bir de sanırım bizim internete saçma sapan bilinmeyen 2 kişi bağlanıyormuş. bunu da benim çözmemi istiyorlar ama gücüm yok.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    şu an okunan kitap
-  entry_id:  98053793
-  entry_writer: tehlikex
+    donald trump
+  entry_id:  98055439
+  entry_writer: cagliari
+  entry_fav_count: 1
+  entry_content: |
+    adam gibi adam. demokratlar gibi saman altından su yürütmek yerine açık açık kendi çıkarı için müttefiklerini tehdit ediyor. içi dışı bir. ekonomi de çoh eyi. derin devlet yine iş başında. büyük resme bakan herkes tüm dönen olayları görüyor yan yatan kardeş.
+  entry_channels: siyaset,ekonomi
+- entry_name: |
+    sözlükçülerin iyi ki almışım dediği şeyler
+  entry_id:  98024698
+  entry_writer: eski benzeri olmayan kisi
   entry_fav_count: 0
   entry_content: |
-    jack london-demir ökçe
-  entry_channels: anket,edebiyat,eğitim
+    odamdaki 149 ekranlık televizyonum. onun sayesinde laptopu hdmi'den tvye bağlayıp yatağımdan kablosuz mouse ve klavye ile yapıyorum herşeyimi. ciddi anlamda insanı üşengeçleştiriyor ancak her anlamda aşırı keyfli
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    mor ve ötesi'nin en iyi şarkısı
+  entry_id:  98055220
+  entry_writer: ed edd ve eddy ve ben
+  entry_fav_count: 0
+  entry_content: |
+    uçan kuştaki güzelliği kaybettik, hastayız. <br/>...<br/>sadece renkler vardı, sonra kayboldu onlar da biz nefes alamadan. <br/><br/>(bkz: <a class="b" href="/?q=uyan">uyan</a>)<br/><br/>sistematik eleştirinin en edebi en naif halini yansıtan sözlerden oluşmaktadır çünkü.
+  entry_channels: anket,müzik
 - entry_name: |
     internete ilk defa bağlanıldığında girilen site
   entry_id:  98054741
@@ -402,4 +394,12 @@ data:
   entry_content: |
     hayatimda gordugum ilk site ilk okulda ogle arasi okulun kutuphanesindeki pc de rotten com du. yil 99 falan. ozel okuldu vardi 5 tane mi ne pc kutuphanede tabi hep dolu olurdu. rotten com a da ust siniflardan birileri girerken izlemistim. sonra bir arka merak edip sex.com a girmistik ilk defa vajina resmini o zaman gormustum cok garip gelmisti bu ne boyle diye. <br/>ondan sonra da ayni arkla geocitiesden site kurmaya calismistik amac porno site kurmakti orta okul 6 da falaniz daha. sadece, buyuk puntolarla am got meme yazan bir site yapip unutmustuk sonra o isi. onun disinda grafi2000 mynet yahoo altavista ilk girdigim sitelerden.<br/><br/>neyse liseye gecince sonunda pc geldi eve. hacker olucam diye forumtr nin ilgili baslikl<br/>rinda takilirdim format atmayi bile bilmiyordum daha, hack grubu kurmaya calismistim cyberwarriorsun sitesindeki hack oyununu anlamaya caliiyordum falan. neyse tabi 2 haftada bi pc ye virus girip herseyi darma duman ediyordu hack ogrencem diye doluruyordum pc yi sacma sapan programlarla. her ay iki kere format atmaya goturuyorduk servise.<br/><br/>neyse sonra gittim turuncu meshur bilisayar kitaplarindan aldim, ogrencem diye bi bok anlamadim biraktim. <br/><br/>sonra matlab indirdim bir yerden matlabla evi pc le bile kontol edersin die bi lf duyfum. infirdim baya kaptim programlamanin mantigini, sonra gittim python ogrendim c de cok gitis kod uazmayi ogrendim falan.<br/><br/>tabi hala hack mack yapamiom o zamanlar. <br/><br/>neyse onun yerine matlabla evet matlabla oyun yapmaysasladim basit oyunlarfi ama baya sey ogrendim vs pong gibi bi oyun icin bile doom 3 gibi sistemi kastiriofu matlabla yazdigim icin. <br/><br/>neyse oyle universte oss derken biraktim bu islri. daha 1 2 sene evel unityi gordum matlabda oyun yaparken her boku kodlamak yerine bir suru toolu gormek cok hosuma gitti. zaman olsa dalicam unitiye 0 dan yazicam hayalmdeki oyunu.
   entry_channels: anket,teknoloji
+- entry_name: |
+    başörtüsü takıp makyaj yapan kadın
+  entry_id:  98022199
+  entry_writer: samiel
+  entry_fav_count: 0
+  entry_content: |
+    bu kadınların birçoğunda başörtüsü takma amacının, dindar ve karşı cinse mesafeli olduklarını göstermek olduğunu düşünmekteyim. bu kendilerini ifade etme yöntemidir ve bu şekilde rahat hissetmektedirler. ama bu güzel görünmek istemelerinin de önünde engel olmamalıdır, bu sebeple de makyajlarıını da yaparlar, şık giyinmeye de çalışırlar. aşırıya kaçmadığı sürece de bu yaptıkları davetkar bir görüntü çizmez onu görünmek istemediği şekilde göstermez. <br/>aşırılıkları gözardı edersek bu davranışta tezat yoktur, aşırılıklar da zaten dönemlere göre değişir. amaç açısından tezat yok.<br/>kadınların yaptığı çok tutarsız değil yani. tutarısız gösteren şey bu saçma dini öğretinin/emrin varlığıdır.
+  entry_channels: ilişkiler,moda
 ---
