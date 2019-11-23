@@ -6,23 +6,39 @@ data:
     90 yaşında mendil satan adamın rte sevgisi
   entry_id:  98179167
   entry_writer: johnsteinbeck
-  entry_fav_count: 614
+  entry_fav_count: 621
   entry_content: |
     aptallık, olağandışı bir hastalıktır. acısını hasta olan değil, başkaları çeker.<br/><br/><a class="b" href="/?q=fran%c3%a7ois-marie+arouet+de+voltaire">françois-marie arouet de voltaire</a>
   entry_channels: siyaset,ilişkiler
 - entry_name: |
+    chp'nin kürtçü işgali altında olması
+  entry_id:  98169273
+  entry_writer: bu kacinci uyelik
+  entry_fav_count: 438
+  entry_content: |
+    chp'ye oy veren birisi olarak utandığım durumdur.<br/>kürtler üye olabilir, başkan olabilir sorun yok ama ayrılıkçı, bölücü, hain tiplerin işi yoktur partide.<br/><br/>bu rezillik bitmelidir.
+  entry_channels: siyaset
+- entry_name: |
+    büşra'nın bekarlığa veda partisi
+  entry_id:  98159271
+  entry_writer: sagolanbas
+  entry_fav_count: 414
+  entry_content: |
+    tanımsız. hepsi aynı fabrikadan çıkmış gibi. seri üretimin önünü alamıyoruz.
+  entry_channels: haber
+- entry_name: |
     yemek yerken youtube'dan video izlemek
   entry_id:  98172856
   entry_writer: kayisicekirdegi
-  entry_fav_count: 374
+  entry_fav_count: 382
   entry_content: |
     tek yaşamanın getirdiği teknolojik bağımlılıklardan biri.
-  entry_channels: anket,yeme-içme
+  entry_channels: anket,teknoloji,yeme-içme
 - entry_name: |
     hiç çukur izlememiş yazarların gözünden çukur
   entry_id:  98172184
   entry_writer: kivirciginhesabi
-  entry_fav_count: 370
+  entry_fav_count: 374
   entry_content: |
     (bkz: <a class="b" href="/?q=bok+%c3%a7ukuru">bok çukuru</a>)<br/><br/>edit: entry ihya olmuş lan
   entry_channels: anket,tv
@@ -30,23 +46,39 @@ data:
     tottenham'ın okunuşu
   entry_id:  98189304
   entry_writer: crys3
-  entry_fav_count: 251
+  entry_fav_count: 286
   entry_content: |
     totnım.
   entry_channels: spor,anket,eğitim
 - entry_name: |
+    sınıfta öğretmene yapılan saygısızlık
+  entry_id:  98171030
+  entry_writer: killi fare
+  entry_fav_count: 285
+  entry_content: |
+    sadece sesi dinletseler maymun belgeseli sanardım.
+  entry_channels: eğitim
+- entry_name: |
     tommy hilfiger bot rezaleti
   entry_id:  98179395
   entry_writer: patrona1730
-  entry_fav_count: 202
+  entry_fav_count: 205
   entry_content: |
     2 gün önce bu botu boynerde görüp "ulan bunları kim alıyor" demiştim.siz alıyormuşsunuz anladım.
   entry_channels: sağlık,moda,ekonomi
 - entry_name: |
+    23 kasım 2019 yılmaz özdil köşe yazısı
+  entry_id:  98167862
+  entry_writer: bardock
+  entry_fav_count: 203
+  entry_content: |
+    kendisini sevmem ama kendi gazetesinde kendi gazetesini eleştirmiş helal olsun. yiğidi öldür hakkını ver. sözcünün bu yazıyı yayınlamasıda ayrıca helal olsun dedirtir. belkide bunlar oyunun parçalarıdır. karışık bir durum. sabah sabah övsem mi yersem mi bilemedim.
+  entry_channels: siyaset,haber
+- entry_name: |
     trafik çekicinin devirdiği range rover
   entry_id:  98185657
   entry_writer: blue truth
-  entry_fav_count: 179
+  entry_fav_count: 193
   entry_content: |
     range rover 2,5 ton o kamyonet de 3,5 ton. moment kolu 2 metre olsa ağırlık merkezinin lastiğin dışına çıktığı basit bir fizik hesabıyla görülebilir. kamyonet şoförünün fizik bilmesini beklemiyoruz ama sonuç olarak yan yatmanın sebebi fizik yetmezliği.
   entry_channels: otomotiv
@@ -54,10 +86,26 @@ data:
     mercedes'i mersedes diye okuyan zır cahil
   entry_id:  98177417
   entry_writer: ravenglacier
-  entry_fav_count: 166
+  entry_fav_count: 170
   entry_content: |
     (bkz: <a class="b" href="/?q=derdini+sikeyim+butonu">derdini sikeyim butonu</a>)<br/><br/>edit: başlığı açan kaçmış.<br/><a class="b" href="/entry/98177599">#98177599</a> nolu entry'de orjinal entry'i görebilirsiniz.
   entry_channels: anket,otomotiv
+- entry_name: |
+    lütfen siyah poşet alın
+  entry_id:  98175095
+  entry_writer: cyclematenergy
+  entry_fav_count: 143
+  entry_content: |
+    o markette satılan ped firmalarının yerinde olsam oraya bir daha ped göndermem. bu nasıl gericiliktir ya?
+  entry_channels: haber
+- entry_name: |
+    çocuklarımıza arap ismi koymuyoruz kampanyası
+  entry_id:  98184060
+  entry_writer: schanzer
+  entry_fav_count: 129
+  entry_content: |
+    %100 katildigim kampanyadir. benim ismim de türk ismi annemin de babamin da. cocuklarimin ismi de türk ismine sahip olacak.<br/><br/>hele hele üstat <a class="b" href="/?q=isolde">isolde</a>'nin de dedigi gibi mekke halk pazarinda dolasiyormusum gibi hissettiren isimlerden fellik fellik kacarim. <br/><br/>bir türkiye cumhuriyeti vatandasina,<br/><a class="b" href="/?q=ali">ali</a> yakisir, <a class="b" href="/?q=mehmet">mehmet</a> yakisir ama übeydullah, abdulkerim, ebubekir yakismaz. <br/><a class="b" href="/?q=ayse">ayse</a> yakisir, <a class="b" href="/?q=emine">emine</a> yakisir ama dilruba, ümmügülsüm, hafsa rana yakismaz.<br/><br/>hardcore arap hayranliginin lüzumu yok.<br/><br/>---<br/><br/><a class="b" href="/?q=ekleme">ekleme</a>: diyorlar ki ali, mehmet, ayse, emine arapca isimler.<br/><br/>yazar bunlari zaten biliyor, eklemeyi unuttugu sey su. bu tur dilimize gecmis, ozdeslesmis isimler kabul edilebilir, ancak hafsa rana gibi turkcede yapay duran, sonradan ithal edilmis %100 arapligi cagristiran isimler yakismiyor.<br/><br/>ılgilenenler icin, benim ismim gokturklerden beri kullanilan bir isim. etimoloji dersi verenler sagolsunlar.<br/><br/>---<br/><br/><a class="b" href="/?q=ekleme+2">ekleme 2</a>: bazi arkadaslar yazdiklarima gücenmis, tahminim ismi arapca olan insanlar. niyetimiz kimseye saldirmak degil, isminizi gidin degistirin diyen de yok zaten. ama amacimiz türkcedeki bu giderek artan arap nüfuzunu azaltmak olmali.
+  entry_channels: siyaset
 - entry_name: |
     çok güzel seven erkek
   entry_id:  98184623
@@ -67,21 +115,21 @@ data:
     çok güzel terkedilen erkektir.
   entry_channels: ilişkiler
 - entry_name: |
-    michael jackson'ı anlatacak filme isim önerileri
-  entry_id:  98170410
-  entry_writer: subniminal masoristerci
-  entry_fav_count: 113
-  entry_content: |
-    (bkz: <a class="b" href="/?q=eni+vici+vokke">eni vici vokke</a>)
-  entry_channels: anket,tv,sinema
-- entry_name: |
     çaylak kadınların yazar erkeklere hayran olmaları
   entry_id:  98183318
   entry_writer: yeter lan
-  entry_fav_count: 111
+  entry_fav_count: 117
   entry_content: |
     (bkz: <a class="b" href="/?q=a%c3%a7+tavuk+kendini+dar%c4%b1+ambar%c4%b1nda+g%c3%b6r%c3%bcrm%c3%bc%c5%9f">aç tavuk kendini darı ambarında görürmüş</a>)
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    michael jackson'ı anlatacak filme isim önerileri
+  entry_id:  98170410
+  entry_writer: subniminal masoristerci
+  entry_fav_count: 116
+  entry_content: |
+    (bkz: <a class="b" href="/?q=eni+vici+vokke">eni vici vokke</a>)
+  entry_channels: anket,tv,sinema
 - entry_name: |
     cumhurbaşkanlığı sözcüsünün sade yaşam tavsiyesi
   entry_id:  98181950
@@ -94,7 +142,7 @@ data:
     yakışıklı bir erkeğin yalnız olmasının nedenleri
   entry_id:  98184631
   entry_writer: meternity
-  entry_fav_count: 95
+  entry_fav_count: 101
   entry_content: |
     iki kelimede özetlenirse, fazla düşünmesi.
   entry_channels: anket,ilişkiler
@@ -102,39 +150,47 @@ data:
     muharrem ince
   entry_id:  98160135
   entry_writer: kimyamiyendisi
-  entry_fav_count: 93
+  entry_fav_count: 94
   entry_content: |
     görüşmemiş olmasını temenni etmekle beraber ilginç şekilde şu an konuyla ilgili program yapan tüm kanallarda hükümet yalakası gazeteciler muharrem ince öyle şey yapmaz diyor, ölümüne adamı savunuyor. bi ibnelik var bu işte.
   entry_channels: siyaset,eğitim
 - entry_name: |
-    erkeklerin memur eş adayı aramaları
-  entry_id:  98175724
-  entry_writer: frank sepico
-  entry_fav_count: 88
-  entry_content: |
-    siz eviniz arabanız var mı? diye sorunca iyi aq.
-  entry_channels: ilişkiler
-- entry_name: |
     geceye bir öğretmen sözü bırak
   entry_id:  98188813
   entry_writer: martakisnida95
-  entry_fav_count: 70
+  entry_fav_count: 81
   entry_content: |
     "okul sadece dört yanı duvarla çevrili, tepesinde dam olan yer değildir. okul her yerdir. sırasında bir orman, sırasında dağ başı. öğrenmenin, bilginin var olduğu her yer okuldur."<br/><br/>(bkz: <a class="b" href="/?q=mahmut+hoca">mahmut hoca</a>)<sup class="ab"><a title="(bkz: kel mahmut)" href="/?q=kel+mahmut" data-query="kel mahmut">*</a></sup>
   entry_channels: anket,eğitim
 - entry_name: |
+    candan erçetin denince akla gelenler
+  entry_id:  98161451
+  entry_writer: nonversation
+  entry_fav_count: 74
+  entry_content: |
+    “biz neler gördük geçirdik, tsah” bakışı ve ağzı.
+  entry_channels: anket,müzik
+- entry_name: |
     çağlar söyüncü
   entry_id:  98188556
   entry_writer: carsafgibideniz
-  entry_fav_count: 63
+  entry_fav_count: 70
   entry_content: |
     leicester "key role" oyuncularını satmayacağını açıkladı. zaten paraya ihtiyacı olmayan bir kulüp. astronomik teklif gelmezse(çağlar'ı maguire'ın altında bir rakama satmayacaklar, geçen haftalarda açıklanmıştı yanılmıyorsam) satmayacak kulüp hiçbir oyuncusunu. <br/><br/>brighton maçını izliyorum, ben bu adamın 23 yaşında olduğuna inanamıyorum. kalecisine topu nereye atması gerektiğini, yanındaki adama nerede durması gerektiğini, top dağılımının nereden yapılması gerektiğini, önündeki adamın nereye koşması gerektiğini gösteriyor. <br/><br/>yani bu adam tackledan ibaret değil ki az önce 70. dakikanın başlarında gene rakip takımın kontraya çıkmasını engelledi, rakip sinirlenip topu almaya çalışırken gene cruyff çalımı attı, rakip yapışınca bir çalım daha atıp yaklaşık 25 metrelik bir pas attı isabetli. <br/><br/>allah nazarlardan korusun kendisini. püh püh maşallah.
   entry_channels: spor
 - entry_name: |
+    şanlıurfa'da benzin dökülüp yakılan kız çocuğu
+  entry_id:  98191933
+  entry_writer: bana her yer cehennem
+  entry_fav_count: 67
+  entry_content: |
+    telefonunu çalan gaspçıyı ihbar eden kız daha sonra gaspçı tarafından zokak ortasında benzin dökülerek yakıldı<br/><br/>böyle bir şey olabilir mi ya. <br/><br/>lütfen bu çocuğa yardımcı olalım. plastik cerrahi ne gerekiyorsa yapılsın lütfen. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.turkiyegazetesi.com.tr/yasam/664468.aspx" title="https://www.turkiyegazetesi.com.tr/yasam/664468.aspx">https://www.turkiyegazetesi.com.tr/…sam/664468.aspx</a><br/><br/>ey sözlük bu çocuğa ses olalım. kız gerçekten zor durumda
+  entry_channels: siyaset,ilişkiler,ekşi-sözlük,sağlık,haber
+- entry_name: |
     rakı masasında kaç kişi olmalı sorunsalı
   entry_id:  98188059
   entry_writer: halaybasi olmak icin kac tur atmak gerek
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     bir şeye de standart belirlemeseniz olmaz amk
   entry_channels: anket,yeme-içme
@@ -158,50 +214,42 @@ data:
     1.75 boyunda zeki esprili güzel kültürlü kadın
   entry_id:  98167317
   entry_writer: yazarinsan44
-  entry_fav_count: 45
+  entry_fav_count: 48
   entry_content: |
     var bir arkadaşım öyle. hatta düşündüm de benim arkadaşlarımın çoğu böyle. ama yalnızlar. yani erkekler nerede kısa tikican artı tripcan ablamız varsa onlarla. bu güzel kardeşlerimiz de sabahlara kadar proje yapıyor, mesai yapıyor tikican ablalarımız sevgilileriyle gezerken. kendi ayaklarının üzerinde duruyorlar, helal olsun bir kez daha gurur duydum. yani yok diye kıvranmayın erkekler var da siz başka şeyler peşindesiniz.
   entry_channels: ilişkiler
 - entry_name: |
-    şanlıurfa'da benzin dökülüp yakılan kız çocuğu
-  entry_id:  98191933
-  entry_writer: bana her yer cehennem
-  entry_fav_count: 40
+    1 günlüğüne takılmak istenilen dizi karakteri
+  entry_id:  98171676
+  entry_writer: manelele
+  entry_fav_count: 41
   entry_content: |
-    telefonunu çalan gaspçıyı ihbar eden kız daha sonra gaspçı tarafından zokak ortasında benzin dökülerek yakıldı<br/><br/>böyle bir şey olabilir mi ya. <br/><br/>lütfen bu çocuğa yardımcı olalım. plastik cerrahi ne gerekiyorsa yapılsın lütfen. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.turkiyegazetesi.com.tr/yasam/664468.aspx" title="https://www.turkiyegazetesi.com.tr/yasam/664468.aspx">https://www.turkiyegazetesi.com.tr/…sam/664468.aspx</a><br/><br/>ey sözlük bu çocuğa ses olalım. kız gerçekten zor durumda
-  entry_channels: siyaset,ilişkiler,ekşi-sözlük,sağlık,haber
-- entry_name: |
-    suriye devriyesinde tc askerini taşlayan araplar
-  entry_id:  98186123
-  entry_writer: stereotomy
-  entry_fav_count: 39
-  entry_content: |
-    arap demişsin ama bunlar bildiğin kürt dostum.
-  entry_channels: siyaset
-- entry_name: |
-    kadim bilgeliğe erişmenin önündeki en büyük engel
-  entry_id:  98182385
-  entry_writer: kivirciginhesabi
-  entry_fav_count: 34
-  entry_content: |
-    (bkz: <a class="b" href="/?q=testosteron">testosteron</a>)
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=lucifer+morningstar">lucifer morningstar</a>)<br/><br/>edit: oğlum profil fotoğrafımda upuzun sakallarım var, bu sefer de ‘bu gaydir.’ diye mesaj atıyorsunuz. iflah olmazsınız siz. adamla eküri olarak takılacağız, sevgili olarak değil.
+  entry_channels: anket,tv
 - entry_name: |
     öğretmenler günü hediyesi için 65 lira toplamak
   entry_id:  98190967
   entry_writer: diffarentiationation
-  entry_fav_count: 33
+  entry_fav_count: 40
   entry_content: |
     ilkokula giden kardeşimin sınıfındaki velilerin öğrenci başına gerçekleştirdiği eylem. 25 kişiden 1625 lira yapıyor. bu paraya gözlük ve çiçek almışlar. ek olarak takım elbise falan alan bile varmış.<br/><br/>çok soru sorulabilir ama bir insan işini yapıyor diye neden ona 1500 liralık güneş gözlüğü hediye ediliyor? mühendis bina çizdi diye kim hediye getiriyor? hangi velide 1500 liralık güneş gözlüğü var? bu öğretmen neden hediye kabul ediyor?<br/><br/>aynı sorular doktorlar için de sorulabilir ama onu da tıp bayramında konuşuruz artık.
   entry_channels: 
 - entry_name: |
-    çocuklarımıza arap ismi koymuyoruz kampanyası
-  entry_id:  98184463
-  entry_writer: yage
-  entry_fav_count: 30
+    kadim bilgeliğe erişmenin önündeki en büyük engel
+  entry_id:  98182385
+  entry_writer: kivirciginhesabi
+  entry_fav_count: 36
   entry_content: |
-    rümeysa gözü çapaklı kadın demektir mesela.<br/><br/>kuranda her gördüğü kelimeyi çocuğuna isim yapan arap sevicilere inat yaşasın öz türkçe kelimeler.
-  entry_channels: siyaset
+    (bkz: <a class="b" href="/?q=testosteron">testosteron</a>)
+  entry_channels: anket
+- entry_name: |
+    küpeli erkeklerin genelde arabasız olması
+  entry_id:  98179052
+  entry_writer: ellincikattandusenadam
+  entry_fav_count: 34
+  entry_content: |
+    arbasız pezevenkler. gidin arba bulun lan kendinize
+  entry_channels: moda
 - entry_name: |
     beline kadar uzanan saçını kısacık kestiren kadın
   entry_id:  98170891
@@ -219,6 +267,14 @@ data:
     insanı kendi düşünceleriyle baş başa bırakır. özeldir, keyiflidir, iyidir.
   entry_channels: anket,sinema
 - entry_name: |
+    61 plaka + tuğra +doblo + yüksek ses horon
+  entry_id:  98193210
+  entry_writer: coksakatvar
+  entry_fav_count: 20
+  entry_content: |
+    müteahhitlerin dobloya bindiğini bu başlıkta öğrendim.
+  entry_channels: anket
+- entry_name: |
     23 kasım 2019 konyaspor beşiktaş maçı
   entry_id:  98191910
   entry_writer: lovern32
@@ -227,34 +283,18 @@ data:
     yerli ve milli lecce-cagliari maçı.
   entry_channels: spor
 - entry_name: |
-    mahkemeye bile çıkamadan 4 5 ay hapis yattım
-  entry_id:  98189935
-  entry_writer: cuce felaketi
+    23 kasım 2019 aleyna tilki'nin zeka dolu tweet'i
+  entry_id:  98178026
+  entry_writer: daggoth
   entry_fav_count: 19
   entry_content: |
-    (bkz: <a class="b" href="/?q=4+5+ay+hapis+yatmak">4 5 ay hapis yatmak</a>)<br/>(bkz: <a class="b" href="/?q=denizler+alt%c4%b1nda+nerden+baksan+20+bin+fersah">denizler altında nerden baksan 20 bin fersah</a>)
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    recep tayyip erdoğan
-  entry_id:  98160340
-  entry_writer: geometri bilmeyen akademos rahibi
-  entry_fav_count: 16
-  entry_content: |
-    bu başlığın açılmasına sebep olmuş kişinin adı.<br/><br/>başında bulunduğu akepe'nin yaptığı icraatlardan biri olan şehir hastanelerine dair bilgi içeren video kaydını paylaşıyorum. <br/><br/>akepe hükümetinin ihaleye verdiği , 30 adet şehir hastanesinin yapımı için 142 milyar dolar hazineden para çıkışı var.<br/><br/>bu hastaneleri ihale verip yaptırmak yerine türkiye cumhuriyeti devleti kendisi yaptırsa idi, 30 adet yerine 412 adet hastane yaptırabilirdi. (yazıyla dörtyüzoniki) <br/><br/>sabahattin önkibar'ın haberi <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/ENU0J4ePgzQ" title="https://youtu.be/ENU0J4ePgzQ">s01e02</a><br/>izleyiniz, yayınız.
-  entry_channels: siyaset,haber
-- entry_name: |
-    61 plaka + tuğra +doblo + yüksek ses horon
-  entry_id:  98192869
-  entry_writer: eatpraycoffee
-  entry_fav_count: 16
-  entry_content: |
-    reis sevdalısı ve diriliş ertuğrul fanı şimdilerde atv de diriliş osmani izlemekte.
-  entry_channels: anket
+    merak edip tweet'i tıkladım, aleyna tilki bilmem dinlemem işim de olmaz.<br/><br/>"ben bazen çok akıllıca bazen de beynim yanmış gibi tweetler atarım.<br/><br/>lakin en çok beğenilen tweetlerime baktığımda benim seviyemi değil,daima sizin seviyenizi görmüş oluruz bunu unutmayalım :d<br/><br/>bu bilgiye göre beğenin artık"<br/><br/>şeklinde bir tweet'i de iğnelemiş başa farkedildi mi bilmiyorum. kendini mal yerine koyanlara güzel bi reverse uno kartı çıkarmış. kolay hedef diye dalga geçmeye girip kendini mal yerine koyan arkadaşları izliyoruz bu başlıkta.
+  entry_channels: magazin
 - entry_name: |
     en güzel bira
   entry_id:  98165602
   entry_writer: ayhanores
-  entry_fav_count: 15
+  entry_fav_count: 17
   entry_content: |
     "madem yılların ekşicisiyim, o zaman neden üreticisi dahil dünyada sadece 7 kişinin bildiği bir antik belçika birasını yazmıyorum şu lanet olasıca başlığa? hem belki mesaj kutum yeşillenir, belki seks olur."<br/><br/>en iyi bira yorgunluk birasıdır. marka farkmaz.
   entry_channels: anket,yeme-içme
@@ -262,34 +302,34 @@ data:
     whatsapp'tan önce sevgililerin iletişimi
   entry_id:  98160322
   entry_writer: uzunyoldangeldi
-  entry_fav_count: 12
+  entry_fav_count: 15
   entry_content: |
     bunları geçin çağrı atma devrinden geliyorum:))
   entry_channels: ilişkiler,teknoloji
 - entry_name: |
-    trabzonspor'un şampiyon olması
-  entry_id:  98192333
-  entry_writer: superbia
+    tereyağı reklamında oynayacak kadar muhtaç değilim
+  entry_id:  98179110
+  entry_writer: yedinci element
   entry_fav_count: 12
   entry_content: |
-    şampiyon olur mu bilemeyiz ama birilerine şike yaptıracağı kesin !
+    arabistan'da tereyağı reklamında oynasa da onun için eleştirilecekti.<br/><br/>ekşi yazarlarına yaranılmaz aq.
+  entry_channels: haber,magazin
+- entry_name: |
+    trabzonspor'un şampiyon olması
+  entry_id:  98191499
+  entry_writer: jamswety
+  entry_fav_count: 6
+  entry_content: |
+    adil bir lig de 3tane daha şampiyonluğu var dı en az.<br/>bu sene bu bebelerle liderliğe oynuyorsa takımın iskeleti olan topçular döndüğünde şampiyon olmaması olmasından daha zor.
   entry_channels: spor
 - entry_name: |
-    3 haziran 2020 deep purple istanbul konseri
-  entry_id:  98189472
-  entry_writer: tugcecubukcu
-  entry_fav_count: 8
+    geceye bir kurtlar vadisi repliği bırak
+  entry_id:  98194413
+  entry_writer: melro
+  entry_fav_count: 6
   entry_content: |
-    haberini almakla birlikte bizi sevindiren son konser haberidir. <br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B5NuZbtFf27/" title="https://www.instagram.com/p/B5NuZbtFf27/">tık!</a><br/><br/>edit: biletler <a rel="nofollow noopener" class="url" target="_blank" href="https://www.passo.com.tr/tr/etkinlik/deep-purple-3haziran-the-long-goodbye-tour-lifepark-istanbul/828321" title="https://www.passo.com.tr/tr/etkinlik/deep-purple-3haziran-the-long-goodbye-tour-lifepark-istanbul/828321">şuradan</a> satışa sunulacakmış, fiyatlar ise şöyle;<br/><br/>indirimli dönem - vip lounge: 715.00 tl<br/>indirimli dönem - sahne önü: 275.00 tl<br/>indirimli dönem - normal: 165.00 tl
-  entry_channels: müzik
-- entry_name: |
-    dönem ödevi için köpek öldürten öğretmen
-  entry_id:  98191473
-  entry_writer: bardock
-  entry_fav_count: 5
-  entry_content: |
-    (bkz: <a class="b" href="/?q=yalanc%c4%b1y%c4%b1+sikmiyorlar+ya">yalancıyı sikmiyorlar ya</a>)
-  entry_channels: eğitim
+    (bkz: <a class="b" href="/?q=%c3%a7ay+koy+lan+it">çay koy lan it</a>)<br/>(bkz: <a class="b" href="/?q=erdal%27+%c4%b1n+babas%c4%b1">erdal' ın babası</a>)
+  entry_channels: anket,tv
 - entry_name: |
     aşureye konulmaması gereken yiyecekler
   entry_id:  98160379
@@ -299,21 +339,13 @@ data:
     içine bolca konulan üzüm ve kayısı. içinden onları ayıklamaya çalışmak da işin kötü yanı.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  98159663
-  entry_writer: 810vapuru
-  entry_fav_count: 4
+    1 günlüğüne beraber takılmak istenilen ünlü
+  entry_id:  98158671
+  entry_writer: beredayi
+  entry_fav_count: 5
   entry_content: |
-    artık benim de yazar olmam ama çaylakları asla unutmamam sorunsalı.
-  entry_channels: ekşi-sözlük
-- entry_name: |
-    trendyol
-  entry_id:  98172603
-  entry_writer: hadikalkgidelim
-  entry_fav_count: 4
-  entry_content: |
-    bu siteden geçen aylarda victoria secret vücut spreyi almıştım. ürün geldiğinde incelerken üzerinde herhangi bir barkod, marka etiketi vs göremeyince şüphelendim. zorlu'da bulunan victoria secret mağazasına gidip ilgililerle durumu konustum. kendileri trendyol ile bir sözleşmeleri olmadığını, satın aldığım ürünün de sahte olduğunu söyledi. bunun üzerine şikayet için müşteri temsilcilerini aradım şikayette bulundum ama fos tabi. kendileri aynı dolandırıcılığa hala devam ediyor. sattıkları çoğu ürün maalesef sahte. reklamlara ayırdıklari bütçeleri ürün kalitesine ve müşteri memnuniyetine ayirabilseler keşke. bolca reklam ve sahte ürün gönderimiyle bi yere varılamaz. <br/><br/>ayrica; başka büyük markanın da kendileriyle sözleşmesi olmadığını, markaya ait sahte ürün satimi nedeniyle ilgili kurumla davalık olduklarını duymuştum. ne denilebilir ki bilinçsiz kitleye hitap ettiklerinden dolayı hiçbir şey umurlarında değil.
-  entry_channels: teknoloji,moda
+    (bkz: <a class="b" href="/?q=seda+sayan">seda sayan</a>) <br/>disipline girmeyi ögrenmek istiyorum
+  entry_channels: anket,magazin
 - entry_name: |
     the north face vs columbia vs jack wolfskin
   entry_id:  98188007
@@ -322,14 +354,6 @@ data:
   entry_content: |
     (bkz: <a class="b" href="/?q=aramaya+inanmak">aramaya inanmak</a>)<br/>(bkz: <a class="b" href="/?q=the+north+face+vs+columbia+vs+jack+wolfskin">the north face vs columbia vs jack wolfskin</a>)<br/><br/>edit: bir arkadaş başlığı (bkz: <a class="b" href="/?q=north+face+vs+columbia+vs+jack+wolfskin">north face vs columbia vs jack wolfskin</a>) şeklinde açmıştı, moderasyon düzeltti sağ olsun. aramaya inanın.
   entry_channels: spor,anket,moda
-- entry_name: |
-    1 günlüğüne takılmak istenilen dizi karakteri
-  entry_id:  98179933
-  entry_writer: kedi ebeveyni
-  entry_fav_count: 4
-  entry_content: |
-    (bkz: <a class="b" href="/?q=chandler+bing">chandler bing</a>)
-  entry_channels: anket,tv
 - entry_name: |
     üstteki hikayeyi bir cümleyle devam ettir
   entry_id:  98192775
@@ -346,14 +370,6 @@ data:
   entry_content: |
     güzel bir duş alırsın ve miss gibi kremlerini sürersin vücuduna. daha sonra sohbet etmekten hoşlandığın biri ile en sevdiğin mezeler eşliğinde 1-2 kadeh içersin.<br/><br/>gecenin sonu kapkaranlık bir oda, soğuk bir yatak, sessizlik. o soğuk yatakta birbirinize ısınmak için sırnaşmak, hoşlandığını bildiğin yerlere ellerinle ufak ufak temas etmek. ahh ah.. bu hissin hastasıyım ben.
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    hiç evlenmeyecekmiş gibi hissetmek
-  entry_id:  98192451
-  entry_writer: s8n
-  entry_fav_count: 2
-  entry_content: |
-    tanım; bir his.<br/><br/>(bkz: <a class="b" href="/entry/98191230">#98191230</a>)<br/><br/>" burada düzene başkaldırı ayağına saçmalayan ergenleri dikkate almayın. 40'ından sonra yalnızlıktan delirip kedileriyle çiftleşecek. insanın doğasında vardır malesef. "<br/><br/>40 yaşından sonra kimse evlenmediği için zoofili olmaz. sapık, sapıklığını her yaşta yapar. çok rahatsız edici bir yazı. bekar insanlara sallamak için tecavüzü bu kadar rahat dillendirebilmek normal insan işi değil. umarım moderatörler gereğini yapar.
-  entry_channels: ilişkiler
 - entry_name: |
     23 kasım 2019 manchester city chelsea maçı
   entry_id:  98192445
@@ -386,20 +402,4 @@ data:
   entry_content: |
     güvertede sağına bakıyorsun afrika sola bakıyorsun avrupa cebeli tarık boğazından geçtigim andı sanırsam güneş tepede hafif esen bir rüzgar donup kalmıştım öyle bir haz aldım ki normalde gün batımıydı yıldızlardı hiç içimde bir şey uyandırmaz ama bu ayrı bir şeydi içim huzurla doldu mutlu olduğumu anladım
   entry_channels: anket
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  98178176
-  entry_writer: birzamanlaristanbul
-  entry_fav_count: 0
-  entry_content: |
-    ilgi orospuları değil gerekli kültür seviyesine ulaşması düşünce yapısı yerli yerine oturmuş, dürüst, samimi, açık sözlü kadınlar yeşillendirsin lütfen.<br/><br/>sözlük dışı için; <a rel="nofollow noopener" class="url" target="_blank" href="http://c2.me/birzamanlaristanbul">http://c2.me/birzamanlaristanbul</a>
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    cumartesi akşamının içine eden şeyler
-  entry_id:  98194898
-  entry_writer: rated
-  entry_fav_count: 0
-  entry_content: |
-    hastalık
-  entry_channels: 
 ---
