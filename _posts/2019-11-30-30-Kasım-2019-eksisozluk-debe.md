@@ -6,15 +6,15 @@ data:
     23 kez suç duyurusunda bulunan kadının öldürülmesi
   entry_id:  98432096
   entry_writer: varolan
-  entry_fav_count: 2113
+  entry_fav_count: 2121
   entry_content: |
     ayşe tuba arslan boşandığı kocası hakkında tam 23 kez suç duyurusunda bulunmuş.<br/>şiddet ve tecavüz ile ilgili.<br/>hatta isyan etmiş, bu adam beni öldürünce mi önlem alacaksınız demiş.<br/>ve sonunda sokak ortasında göz göre göre öldürülmüş.<br/><br/>devletin 1. amacı vatandaşlarının güvenliğini sağlamaktır.<br/>eğer onca vergiye, onca polise, askere rağmen bir devlet 23 kez şikayet etmesine rağmen bir kadın vatandaşını koruyamıyorsa o devlet neden var?<br/>ne iş yapar?<br/>olmasaydı ayşe tuba arslanın hayatında ne değişecekti?<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/391951/yaptigi-23-suc-duyurusuna-takipsizlik-verilen-kadin-eski-esi-tarafindan-olduruldu?utm_source=anasayfa&amp;utm_medium=manset&amp;utm_campaign=haber&amp;utm_content=optp2&amp;slide_order=09" title="https://www.evrensel.net/haber/391951/yaptigi-23-suc-duyurusuna-takipsizlik-verilen-kadin-eski-esi-tarafindan-olduruldu?utm_source=anasayfa&amp;utm_medium=manset&amp;utm_campaign=haber&amp;utm_content=optp2&amp;slide_order=09">https://www.evrensel.net/…tent=optp2&amp;slide_order=09</a>
-  entry_channels: siyaset,ekşi-sözlük,tarih,sağlık,haber,eğitim
+  entry_channels: siyaset,haber
 - entry_name: |
     yazarların black friday için harcadığı para
   entry_id:  98442845
   entry_writer: haciz mahallinde tango
-  entry_fav_count: 814
+  entry_fav_count: 850
   entry_content: |
     0 tl.<br/><br/>mutluyum.
   entry_channels: anket,ekşi-sözlük,ekonomi
@@ -22,7 +22,7 @@ data:
     cnn türk termik santral haberi
   entry_id:  98431914
   entry_writer: gennosukesama
-  entry_fav_count: 699
+  entry_fav_count: 705
   entry_content: |
     vay aq ciddi ciddi termik santrallerin bacalarına filtre takmanın enerji üretiminde kesintiye neden olacağı ile ilgili haber yapmışlar baya bildiğin grafiklerle filan. vallahi var gözlerimle gördüm bunların haberlerini dinleyip bu ertelemenin yandaş işadamlarına durduk yere maliyet çıkarılmaması için ertelenip durduğuna inanmayan bir kitle. bildiğin habis bir kitlesi var ülkenin kemiğe kadar işlemiş öyle kemoterapiyle filan halledilebilecek bişey değil<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/nedenttoldu/status/1200197208555098112" title="https://mobile.twitter.com/nedenttoldu/status/1200197208555098112">https://mobile.twitter.com/…tus/1200197208555098112</a>
   entry_channels: siyaset,tv,haber
@@ -30,7 +30,7 @@ data:
     akp'yi eleştiren vatandaşın gözaltına alınması
   entry_id:  98435952
   entry_writer: aloha martini
-  entry_fav_count: 548
+  entry_fav_count: 551
   entry_content: |
     allah kimseyi 63 yasindaki bir kadini sirf iktidari elestirdi diye gozaltina alacak kadar aciz durumda birakmasin.
   entry_channels: siyaset,haber
@@ -38,7 +38,7 @@ data:
     doktor merve'nin kastığı inanılmaz duyar
   entry_id:  98426576
   entry_writer: quadrakill
-  entry_fav_count: 511
+  entry_fav_count: 515
   entry_content: |
     mervelerin her türlü tehlikeli olduğunun ispatıdır, mervelerden uzak durun
   entry_channels: ilişkiler
@@ -46,7 +46,7 @@ data:
     kırmızı ışığa yavaş gelerek yeşili tutturan şoför
   entry_id:  98438435
   entry_writer: aklazarar
-  entry_fav_count: 324
+  entry_fav_count: 333
   entry_content: |
     arkadaki salaktan "neden yavaşlıyorsun ışığa 100 metre var skik" kornası yiyebilir.
   entry_channels: otomotiv,motosiklet
@@ -54,23 +54,15 @@ data:
     29 kasım 2019 saat 20.00
   entry_id:  98450511
   entry_writer: fft
-  entry_fav_count: 226
+  entry_fav_count: 262
   entry_content: |
     tavsiyem madem etmeye karar verdin, 1 2 hafta kral gibi yasa, yapmaktan cekindigin her seyi yap, git sokakta begendigin kiza yaz, ne bilim icinde kalan bir seyler kalan birilerinin git yuzune icine dok, eger calisiyorsan git patronun odasina ise falan ne bileyim. madem intihar etmeye karar verdin son 1 haftayi gta oynar gibi yasa illegal seyler yapmadan tabi.<br/><br/>mesela hep yapmak istedigim de para vs yapmadigim seyler, git acayip luks bi restorana her boku ye sonra yok tuvalet vs sivis,<br/><br/>onune gelene yaz nasolsa intihar edecen nolcak amk,<br/><br/>git patrona ana avrat kufur et herkesin icinde,<br/><br/>barda canli muzikte grup calarken sahneye cik bende deniyecem de vs, <br/><br/>gta gibi yasa iste son bir iki hafta.<br/>edit: burda ozendirmek yok etme hayatin tadini cikart once diyorum, ki bunlari yapan sonra vazgecer bana gore.
   entry_channels: 
 - entry_name: |
-    kızların horlamaması
-  entry_id:  98441558
-  entry_writer: carsafgibideniz
-  entry_fav_count: 179
-  entry_content: |
-    bir bakir beyanı. <br/><br/>ossura ossura, fosur fosur horlaya horlaya uyuyorlar.
-  entry_channels: anket,ilişkiler,sağlık
-- entry_name: |
     gıdalara kutu alarm uygulaması
   entry_id:  98446881
   entry_writer: eksi peace
-  entry_fav_count: 156
+  entry_fav_count: 161
   entry_content: |
     a101'de antep fıstıklarını kasa altına saklıyorlardı, isteğe bağlı olarak kasada alabiliyorsunuz. burası migros sanırım daha üst düzey bir çözüm ile koruyorlar.<br/><br/>vay be 10-15 sene önce bu çerezlerden her ay 3-5 kilo alırdık, hiçbir lüksü yoktu şimdi göt kadar paketteki halinin fiyatına bak. haliyle çalınmasın diye koruyorlar.<br/><br/>enflasyonu yüzde 8 olan ülkede yaşanandır.
   entry_channels: ekonomi
@@ -78,7 +70,7 @@ data:
     osmanlı'nın borçlarını erdoğan ödedi
   entry_id:  98450774
   entry_writer: ilgin42
-  entry_fav_count: 147
+  entry_fav_count: 153
   entry_content: |
     1954 yılında osmanlı borçları tamamen ödenmiştir. tarih cehaletini cahil cesareti ile birilerine yamamaya çalışmanın komik sonucunu izlediniz. <br/><br/>osmanlı borçları ödendi de türkiye borçları nasıl ödenecek onu bu yazardan öğrenmek istemezdim.
   entry_channels: siyaset
@@ -86,7 +78,7 @@ data:
     radamel falcao garcia
   entry_id:  98434454
   entry_writer: mehyanede sabahlayan adam
-  entry_fav_count: 139
+  entry_fav_count: 142
   entry_content: |
     son iki buçuk yılda ligde oynadığın bir tane bile maçın akıllarda kalmasın, ne oynadığın belli olmadan iki sene şampiyon ol, seni şampiyon yapan kararları veren hakemler emekli edilsin, bunlara rağmen avrupa kupalarında boy gösterme fırsatını cebine koy, lakin son 10 avrupa maçında 3 gol at, hiç galibiyet alma, ülke içinde kapatmaya çalıştığın rezilliğin ülke dışında ay gibi parlasın ve maaş ortalaması 2 milyon euro olan takımına seneliği 7.5'tan 3 senelik sözleşme verdiğin adam parasını nusret'te bir güzel ezince gelip buralarda lavluv yap. oldu mu? olmadı. olmaz. olamaz. her girdinin bir çıktısı var değil mi aslan parçası?<br/><br/>sakatlığını falan geçtim, bunca ahın bir bedeli var. yediğini, içtiğini, sıçtığını gidene kadar izleyeceksiniz.
   entry_channels: spor
@@ -94,23 +86,15 @@ data:
     gelmiş geçmiş en felsefi söz
   entry_id:  98424699
   entry_writer: rasyonalistt
-  entry_fav_count: 126
+  entry_fav_count: 129
   entry_content: |
     “iyi olduğun için herkesin sana adil davranmasını beklemek, vejeteryan olduğun için, boğanın sana saldırmayacağını düşünmeye benzer.” <br/>-friedrich nietzsche
   entry_channels: anket,edebiyat
 - entry_name: |
-    kış saati uygulamasına alışılması
-  entry_id:  98432581
-  entry_writer: anam bu ne lan
-  entry_fav_count: 121
-  entry_content: |
-    kim alışmış acaba diye merak ediyorum. 20 dk önce işe gitmek için evden çıktım, hava zifiri karanlıktı. şimdi ufak ufak hava aydınlanmaya başladı. tramvay durağındaki güvenlik, kulübesinde uyukluyordu. <br/>zaman kavramı olmayan bir evrende yaşasam hava karanlıkken yola çıkmazdım. gandalf ve pippin bile edoras'tan hava aydınlıkken ayrılmıştı.
-  entry_channels: ilişkiler
-- entry_name: |
     üniversiteli kızlara asılan 30 yaş üstü adamlar
   entry_id:  98446488
   entry_writer: ayar yildizi
-  entry_fav_count: 110
+  entry_fav_count: 112
   entry_content: |
     pamela bunu beğendi.
   entry_channels: ilişkiler
@@ -123,14 +107,6 @@ data:
     bu basliga yazan, ayartilan, evli mal erkekler oldugu ortaya cikti. ulan adam evliyse karisina sadik olmasi lazimdir. suc onu ayartan kadinda degil ayartilan erkektedir. ne iciyorsunuz siz ya evli erkek eger bir kadina baktiysa özellikle bu kadin bekarsa suc erkektedir. evliliginin sorumluluğunu almasi gereken 'evli' erkektir. evli erkegin ayarttığı kadin değildir. toplumu yozlaştıran mantiginiz mide bulandirmaktan oteye gidemez.
   entry_channels: ilişkiler,haber
 - entry_name: |
-    başlığı entry rekoru kırdıracak olası olay
-  entry_id:  98446999
-  entry_writer: robert de pacino
-  entry_fav_count: 101
-  entry_content: |
-    adam her sabah gazete bayisinden gazetesini alıp,sadece ilk sayfaya baktıktan sonra buruşturup çöpe atıyormuş.<br/>en sonunda büfe sahibi dayanamayıp sormuş<br/>- beyfendi dikkat ediyorumda her sabah aynı şekilde gazetenizin ilk sayfasına bakıp, sinirle çöpe atıyorsunuz.nedenini çok merak ediyorum.<br/>adam cevap vermiş<br/>-sadece ölüm ilanlarına bakıyorum.<br/>büfe sahibi daha da meraklanmış<br/>-iyi de ölüm ilanları orta sayfalarda çıkıyor?<br/>adam duygusuz bir surat ifadesiyle cevap vermiş;<br/>benim beklediğim ölüm ilanı manşetten verilecek!
-  entry_channels: anket
-- entry_name: |
     neden sevgilin yok
   entry_id:  98424711
   entry_writer: ayarsiz pokemon
@@ -142,10 +118,18 @@ data:
     ev taşıdıktan sonra çalışanlara dürüm ısmarlamak
   entry_id:  98447854
   entry_writer: anatomik
-  entry_fav_count: 86
+  entry_fav_count: 88
   entry_content: |
     edit: vay arkadaş millet gelmiş benim burda zaten ücretini ödediğim işin yargılamasını yapıyor.<br/>ben de bir iş yerinde çalışıyorum ve yemeğimi çalıştığım yer, patronum karşılıyor. <br/>gidip de müşteriden yemek dilenmiyorum, beklemiyorum.<br/>çünkü çalıştığım yer, benim karnımı doyurmakla yükümlü.<br/>bu açıdan bakılınca da, ben eve gelen işçinin karnını doyurmak zorunda değilim.<br/>karın doyurma işini bağlı olduğu firma yapmak zorunda. ben zaten ücretini ödeyip bir hizmet almışım, gerisi beni bağlamaz.<br/>gelmiş zaten 3 kişilik yemeği siz yemişsiniz demiş adam. ulan isterse 8 yemeğin 7 tasini biz yiyelim, geri kalan 1 yemeği de ısmarlamak zorunda değilim ben. <br/>pembe gtlüler sizi.<br/>____________________________________________________<br/><br/>toplum tarafından yüklenmiş garip bir görev.<br/>birkaç ay önce taşıdık evi. usüldendir diyerek başlarındaki abiye 'abi açsanız bir şeyler söyleyelim' dedim, olur valla acıktık biraz dedi.<br/>kendimiz de dahil (3 kişi bizdik, 5 kişi de işçiler) toplam 8 dürüm sipariş ettik, nerdeyse 200 lira yemek parası tuttu.<br/>ulan zaten biz 1200 liradan pazarlık yaparak 1000 liraya anlaşmıştık. ee yine 1200 girdi bana?<br/>pazarlıksız 1200'ü kabul etmiş olsaydım da 1400 girecekti bana.<br/>olm ben size karnınızı doyurun diye para veriyorum, yoksa zaten ne sen bu işi yapardın, ne de ben seni tutardım.<br/><br/>saçmadır yani. neymiş eve gelen aç gönderilmezmiş. sanki bedava geliyor anasını satayım.
   entry_channels: anket,ilişkiler,yeme-içme
+- entry_name: |
+    cepte ya da çantada taşınmış en yüksek nakit para
+  entry_id:  98451071
+  entry_writer: quadrakill
+  entry_fav_count: 75
+  entry_content: |
+    sağol kardeş bizim dolandırıcımız var, başkasına dolandırılınca trip atıyor
+  entry_channels: anket
 - entry_name: |
     libido yükselten şeyler
   entry_id:  98424726
@@ -163,26 +147,34 @@ data:
     türkiye'de siyasetin dürüst yapılmamasından kaynaklanan durumdur.<br/><br/>bir defa türkiye siyaset yelpazesinde sol diye bir şey yok. soldan kastettiğimiz emek hareketinden doğup serpilmiş sosyal demokrat-demokratik sosyalist kitle partileri ise türkiye'de böyle partiler hiç bir zaman var olmamıştır. bir tek 1960'lardaki <a class="b" href="/?q=t%c3%bcrkiye+i%c5%9f%c3%a7i+partisi">türkiye işçi partisi</a> deneyimi küçük-sınırlı bir istisnadır. <br/><br/>bugün adında sosyalist, komünist ve devrim bulunan partilerin alayı ise orta sınıf entelijansiyası tarafından meydana getirilmiş sosyal kulüplerdir. <br/><br/>türkiye'nin biricik muhafazakâr partisi chp'dir. fakat bu parti solcu olduğunu iddia etmektedir.<br/><br/>gericilik yapanlar (anap, akp, rp,...) muhafazakâr olduklarını iddia etmektedir. <br/><br/>gericiliğe ve karşıdevrimciliğe yardımcı olanlar ise milliyetçi (mhp) hatta solcu-demokrat (hdp) olduklarını iddia etmektedirler.<br/><br/>partilerin ideolojik olarak bu kadar yalancı olduğu bir siyasi düzlemde solun halka inememesini tartışmak abesle iştigaldir.
   entry_channels: siyaset,anket,ilişkiler
 - entry_name: |
-    cepte ya da çantada taşınmış en yüksek nakit para
-  entry_id:  98451071
-  entry_writer: quadrakill
-  entry_fav_count: 63
-  entry_content: |
-    sağol kardeş bizim dolandırıcımız var, başkasına dolandırılınca trip atıyor
-  entry_channels: anket
-- entry_name: |
     brokoli çorbası
   entry_id:  98447999
   entry_writer: drbaris
-  entry_fav_count: 62
+  entry_fav_count: 63
   entry_content: |
     harika bence çok çok severim kızıma da yapıyorum çoğu zaman.brokoliyi sade haşlayıp üstüne limon da efsane oluyo tavsiye edilir.
   entry_channels: sağlık,yeme-içme
 - entry_name: |
+    erdoğan'ın macron'a hakaret etmesi
+  entry_id:  98453639
+  entry_writer: elmsokagininkabizi
+  entry_fav_count: 57
+  entry_content: |
+    sik kafalı macron’a az bile demiştir.
+  entry_channels: siyaset
+- entry_name: |
+    black friday'in hakkını veren firmalar veritabanı
+  entry_id:  98425956
+  entry_writer: amipli dizanteri
+  entry_fav_count: 55
+  entry_content: |
+    black friday’in bendeki etkisi;<br/><br/>n11: 240 gb ssd 160 tl (piyasa 180-200)<br/>hepsiburada: çaykur tiryaki 1 kg 27,99 tl x2 (piyasa 31-35)<br/>trendyol: head&amp;shoulders 450 ml 14 tl x2 (18-22)<br/>morhipo: network palto 299 tl ( ne sen sor ne ben söyleyeyim)<br/>n11: adidas terrex tracerocker 299 tl (400-600)<br/>amazon:prima bebek bezi 84’lü: 98 tl x2 ( piyasa 114’den baslıyor, sonu yok)<br/>hepsiburada:bebek maması 104 tl ( market 139 tl, net 114)<br/>hepsiburada: kağıt havlu 12’li 19 tl(market fiyatı 30 tl)<br/><br/>ihtiyaç listesi yapıp takip edenler için kârlı bir hafta olmuştur.
+  entry_channels: anket,ekonomi
+- entry_name: |
     çaresizliği anlatan en iyi cümle
   entry_id:  98429131
   entry_writer: calikusu
-  entry_fav_count: 42
+  entry_fav_count: 48
   entry_content: |
     "görüyorum ki çaresizliği hiç tatmamışsınız hayatınızda."
   entry_channels: anket,edebiyat
@@ -190,7 +182,7 @@ data:
     sagopa kajmer
   entry_id:  98428021
   entry_writer: 2jz
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     adam necip fazıl'ın hayatını tersten yaşıyor, yarasın kral.
   entry_channels: sanat,müzik,edebiyat
@@ -198,23 +190,23 @@ data:
     ekşi itiraf
   entry_id:  98425857
   entry_writer: demedidemedim
-  entry_fav_count: 37
+  entry_fav_count: 38
   entry_content: |
     bugün kombiyi tamire gelen adam(yer londra) bana “türk müsün?” diye sordu. <br/>“evet, nasıl anladın?” dedim.<br/>“evinin çok temiz olmasından anladım. sadece türklerin evi bu kadar temiz oluyor.” dedi. <br/><br/>bir gün isveç’te, benim balkondan alt komşumun balkonuna yanlışlıkla bir şeyler döküldü. <br/><br/>elime kova ve deterjan alıp kapısını çaldım; özür dileyerek balkonu temizlemek için izin istedim. <br/>eve girer girmez kokudan, pislikten, dağınıklıktan baygınlık geçirmek üzereydim. pantolonumun paçasını kıvırıp balkona kadar neredeyse zeybek oynayarak çıktım. bir de salonun ortasına kocaman yatak atmış, yatağın üzerinde salçalı yemek tabakları doluydu.<br/><br/>bir arkadaş, hintli bir ev sahibinin, pis oldukları için kendi milletine evini kiraya vermek istemediğini ve özellikle türk kiracı aradığından bahsetmişti.<br/><br/>ev temizliği konusunda türklerden daha temiz bir millet gerçekten görmedim. <br/><br/>keşke doğayı korumak, sokakları temiz tutmak konusunda da bu kadar titiz olsaydık.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    erdoğan'ın macron'a hakaret etmesi
-  entry_id:  98453639
-  entry_writer: elmsokagininkabizi
-  entry_fav_count: 29
+    notre dame de sion lisesi kitap okuma listesi
+  entry_id:  98454328
+  entry_writer: helfre
+  entry_fav_count: 35
   entry_content: |
-    sik kafalı macron’a az bile demiştir.
-  entry_channels: siyaset
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://karakugublog.wordpress.com/2019/11/12/notre-dame-de-sion-ozel-fransiz-lisesi-kitap-okuma-listesi-tam-liste-guncel/" title="https://karakugublog.wordpress.com/2019/11/12/notre-dame-de-sion-ozel-fransiz-lisesi-kitap-okuma-listesi-tam-liste-guncel/">notre-dame de sion özel fransız lisesi kitap okuma listesi (tam liste – güncel)</a><br/><br/>listeye bak.<br/>bu listenin yarısını okumamış tiplerin gazetelerde köşeleri, akademide ünvanları, piyasada entelektüel diye adları var.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.nds.k12.tr/-Duyurular" title="https://www.nds.k12.tr/-Duyurular">2019-2020 için bir duyuru göremedim kitaplarla ilgili olarak okulun kendi sitesinde.</a>
+  entry_channels: 
 - entry_name: |
     insan sarrafı olmanın yolları
   entry_id:  98437825
   entry_writer: grundikkafa
-  entry_fav_count: 28
+  entry_fav_count: 31
   entry_content: |
     sikilmektir. net<br/>bıyık büküle büküle kaytan ,insan sikile sikile şeytan olur der bir atasözü
   entry_channels: anket,ilişkiler
@@ -238,7 +230,7 @@ data:
     single malt viski kuru et ve puro
   entry_id:  98452955
   entry_writer: musbab
-  entry_fav_count: 19
+  entry_fav_count: 22
   entry_content: |
     tam özenti işi . içki gösteriş için içilmez. tabuları yoktur. masaya araba anahtarı + sigara paketi koyan amele işi bunlar .<br/><br/>puro da küba'dan olacakmışmış. haritada göster desen gösteremez
   entry_channels: anket,yeme-içme
@@ -246,10 +238,18 @@ data:
     eve geldiğinde hoş geldin diyen birinin olmaması
   entry_id:  98452906
   entry_writer: khrmndgn
-  entry_fav_count: 18
+  entry_fav_count: 20
   entry_content: |
     olmasın da zaten, çekilecek dert değil. bi hoş geldin diyecek ömrümüzü yiyecek. lazım değil. ben kendime hoş geldin derim.
   entry_channels: 
+- entry_name: |
+    ülkücülerin ığdır'da gazeteciye pusu kurması
+  entry_id:  98454553
+  entry_writer: kynsynmdl
+  entry_fav_count: 19
+  entry_content: |
+    yorumlardaki “40 yıldır kendi başına adam döven mhp li görmedim” tespiti ile aydınlandım.
+  entry_channels: siyaset,haber
 - entry_name: |
     keşke ikincisi çekilse denen film
   entry_id:  98424717
@@ -259,18 +259,10 @@ data:
     into the wild diyen var.<br/><br/>naapsın aq canlanıp tekrar mı ölsün. naaş, canlanıp zehirli mantar mı arasın ???
   entry_channels: anket,sinema
 - entry_name: |
-    ülkücülerin ığdır'da gazeteciye pusu kurması
-  entry_id:  98454553
-  entry_writer: kynsynmdl
-  entry_fav_count: 13
-  entry_content: |
-    yorumlardaki “40 yıldır kendi başına adam döven mhp li görmedim” tespiti ile aydınlandım.
-  entry_channels: siyaset,haber
-- entry_name: |
     sarkastik ep
   entry_id:  98426752
   entry_writer: 3g si cekmeyen savas pilotu
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     sal gitsin parçasının girişindeki scratch ile geçmişe götüren ep...
   entry_channels: müzik
@@ -278,26 +270,18 @@ data:
     he doesn't have ayran to drink but rides a horse
   entry_id:  98453039
   entry_writer: aklazarar
-  entry_fav_count: 10
+  entry_fav_count: 14
   entry_content: |
       (nokta).. but rides a palanquin. olması gereken atasözü.
   entry_channels: 
 - entry_name: |
-    ünal karaman
-  entry_id:  98450192
-  entry_writer: aborjini
-  entry_fav_count: 8
+    buzul çağına şimdi girsek olabilecekler
+  entry_id:  98447195
+  entry_writer: excelsior was here
+  entry_fav_count: 14
   entry_content: |
-    türkiye'nin şenol güneş ile birlikte en iyi teknik direktörüdür. sene başından beri sakatlıklardan dolayı belini doğrultamamış,neredeyse her maç as kadrosundan en iyi 2-3 oyuncusundan mahrum,100-150bin euro'luk rotasyon oyuncularıyla bir şekilde çıktığı ligde 2.sırada bulunmaktadır.<br/><br/>burda ağlayan fenerbahce ve galatasaraylıların derdi ülke puanı falan değil. olay "zaten ikinci takım eleme turlarını geçemiyor şampiyon olursak temizinden 30m euro geliyor böyle böyle anadolu takımlarıyla güç farkını koruyabiliyoruz" düşüncesi. her sene şampiyon olan takım taraftarları "oh ikinci takım elendi bütün para bize gelecek" diye seviniyordu buralarda. şimdi mi geldi aklınıza ülke puanı.<br/><br/>ayrıca trabzonspor'lu olup da buralarda ünal hocaya sallayanlar siz de siktirip gidin. ersun yanallar rıza calimbaylar mustehak size.
-  entry_channels: spor
-- entry_name: |
-    tunalı'dan kızılay'a yürümek
-  entry_id:  98454233
-  entry_writer: kodsuzyazilim
-  entry_fav_count: 8
-  entry_content: |
-    ankara'da en sevilen eylemlerden birisi yürümektir zaten. güzergah farketmez. ya kızılay'dan bir yere yürürsün, ya da bir yerden kızılay'a. <br/>bu yürüyüşler yazın da güzeldir, kışında. <br/>sakin sakin, kimse kimseye bakmadan yürür. <br/>terapi niyetine...
-  entry_channels: 
+    akp bu rantı kaçırmazdı ve elektriğe, doğalgaza türlü türlü vergiler bindirirdi.
+  entry_channels: anket
 - entry_name: |
     ilişkinin kapanış müziği
   entry_id:  98426349
@@ -307,13 +291,21 @@ data:
     (bkz: <a class="b" href="/?q=ballad+of+a+rock+n+roll+loser">ballad of a rock n roll loser</a>)<br/><br/>hem alışkınız bu şarkı çalarken yatağa tek başımıza girip yalnızlıktan ölürken uyumaya.<br/><br/>standart.
   entry_channels: anket,ilişkiler,müzik
 - entry_name: |
-    uykudan uyandıran çiş
-  entry_id:  98452276
-  entry_writer: kodsuzyazilim
-  entry_fav_count: 3
+    30 yaşında bekar kadın yalanmış limon gibidir
+  entry_id:  98454476
+  entry_writer: excelsior was here
+  entry_fav_count: 4
   entry_content: |
-    tam uyumaya yakın, uzaklardan hissedip: "aman bundan bir şey olmaz" diyip uyduğunuz çiştir. itinayla intikam alır.
-  entry_channels: sağlık
+    limonu kesince sıkıntı yok, yalayınca meeee. hassiktirin lan ordan!
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    1 yıl sonraki kendine not
+  entry_id:  98434139
+  entry_writer: gariputopya
+  entry_fav_count: 4
+  entry_content: |
+    ikinci olarak kendime yazıyor olduğum bir yıl sonraki kendime not. almanya filan demişim ilkinde ingilizce geliştirme filan geçmiş şöyle bir şey diyelim o zaman oraya amerika'ya gitmiş gelmişim almanya süresi biraz aksamış olsa da önemli olan bu noktada o ingilizcenin gelişip gelişmediği noktası. oldu başardım diyebilirim. <br/><br/>şimdi gel gelelim seneye kendime bırakacağım nota. <br/><br/>şu an bu satırları işyerinden, fabrikadan yazıyorum hayatımda kendimi geliştirme noktasında eksik kalan tek şey bir işe girip artık bölümün anlamında bir şeyler yapma durumunun kalmış olmasıydı, o süreç gayet güzel ilerliyor. 7 ay bir süre burada olacağım sonrasında almanya'ya gidip orada çalışma durumuna gidip bakacağız as a intern. eğer orada kalma durumu olmadığı taktirde bakalım avusturalya yolunu tutarız bi master filan deriz yaş 22 yol uzun hadi bakalım görüşürüz seneye not!
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ibrahim kalın'a gülenci geçmişinin hatırlatılması
   entry_id:  98425115
@@ -323,21 +315,13 @@ data:
     bu tür sorulara alisik olmayan kalin'in 30 saniye kendine gelemedigi hatirlatma.
   entry_channels: siyaset,haber
 - entry_name: |
-    30 yaşında bekar kadın yalanmış limon gibidir
-  entry_id:  98454476
-  entry_writer: excelsior was here
-  entry_fav_count: 3
+    tunalı'dan kızılay'a yürümek
+  entry_id:  98454006
+  entry_writer: yedincigezegen
+  entry_fav_count: 2
   entry_content: |
-    limonu kesince sıkıntı yok, yalayınca meeee. hassiktirin lan ordan!
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    1 yıl sonraki kendine not
-  entry_id:  98434139
-  entry_writer: gariputopya
-  entry_fav_count: 3
-  entry_content: |
-    ikinci olarak kendime yazıyor olduğum bir yıl sonraki kendime not. almanya filan demişim ilkinde ingilizce geliştirme filan geçmiş şöyle bir şey diyelim o zaman oraya amerika'ya gitmiş gelmişim almanya süresi biraz aksamış olsa da önemli olan bu noktada o ingilizcenin gelişip gelişmediği noktası. oldu başardım diyebilirim. <br/><br/>şimdi gel gelelim seneye kendime bırakacağım nota. <br/><br/>şu an bu satırları işyerinden, fabrikadan yazıyorum hayatımda kendimi geliştirme noktasında eksik kalan tek şey bir işe girip artık bölümün anlamında bir şeyler yapma durumunun kalmış olmasıydı, o süreç gayet güzel ilerliyor. 7 ay bir süre burada olacağım sonrasında almanya'ya gidip orada çalışma durumuna gidip bakacağız as a intern. eğer orada kalma durumu olmadığı taktirde bakalım avusturalya yolunu tutarız bi master filan deriz yaş 22 yol uzun hadi bakalım görüşürüz seneye not!
-  entry_channels: anket,ilişkiler
+    kızılay'dan tunalı'ya yürümeyi tercih ederim.
+  entry_channels: 
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  98450617
@@ -347,6 +331,14 @@ data:
     yok 'ağzıyla bira içebilen arkadaş varsa' yok 'adabıyla içebilen varsa' bana ulassınmış kendini ingiliz lordu zannediyor heralde pezevenk, bi bira içmeyi kendi biliyor.
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 - entry_name: |
+    trendyol
+  entry_id:  98430451
+  entry_writer: barizyalan
+  entry_fav_count: 1
+  entry_content: |
+    siparişi vermemle kargonuzda gecikme yaşanacaktır uyarısını görmem bir oldu. hadi hayırlısı bakalım. 1 aydan önce gelmez. bu arada 3 tane indirim kuponu vermişler üçüde bir işe yaramadı. ancak aldığım ürünün fiyatı kendi sitesinde indirimde olmasına rağmen iki katı fiyata sahipti.
+  entry_channels: teknoloji,moda
+- entry_name: |
     günün iddaa kuponu
   entry_id:  98437254
   entry_writer: hicbisikimikabuletmiyon
@@ -354,6 +346,14 @@ data:
   entry_content: |
     schalke - union berlin ms 1 . 1.50<br/><br/>gençlerbirliği - yeni malatya ms 1 . 2.00<br/><br/>marsilya- brest 3.5 gol altı 1.30 <br/><br/>oran : 3.90
   entry_channels: spor,anket
+- entry_name: |
+    29 kasım 2019 genel izmir trafiği
+  entry_id:  98453874
+  entry_writer: 31 sonrasi pismanlik
+  entry_fav_count: 1
+  entry_content: |
+    arkadaşlar noluyor her yerde trafik var. kamil tunca, yeşildere, ankara asfalti, altinyol, sahil yolu her yer iddia ediyorum her yerde bugüne özel aşırı yoğun trafik var. ızmir izmir olalı böyle trafik görmemiştir. bugüne özel bir şey bu
+  entry_channels: 
 - entry_name: |
     ptt kargo
   entry_id:  98432843
@@ -363,13 +363,13 @@ data:
     kargoculuk hizmeti yapmayan kargo şirketi. <br/><br/>devletin uzantısı.
   entry_channels: teknoloji,ekonomi
 - entry_name: |
-    evrimin geleceği planlaması
-  entry_id:  98452837
-  entry_writer: son karetta karetta
+    evleniyorum diye mesaj atan eski sevgili
+  entry_id:  98455548
+  entry_writer: uzaktan geldim
   entry_fav_count: 0
   entry_content: |
-    "o sırada ayarlanmış" olan bir şey yok. nedensellik zinciri ile paketlenmiş bir olaylar silsilesi var.
-  entry_channels: 
+    birkac yila da bosaniyorum diye mesaj atacaktir.<br/><br/>(bkz: <a class="b" href="/?q=adapted+from+a+true+story">adapted from a true story</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  98424587
