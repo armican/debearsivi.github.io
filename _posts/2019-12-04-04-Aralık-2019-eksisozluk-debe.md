@@ -6,7 +6,7 @@ data:
     meral akşener'in yüzüklerin efendisi benzetmesi
   entry_id:  98607143
   entry_writer: mencistir beyefendisi
-  entry_fav_count: 1545
+  entry_fav_count: 1553
   entry_content: |
     iyi parti grup toplantısında meral akşener'in kullandığı benzetmelerdir. türk halkının %99'unun bu benzetmeyi anlamayacak olması da biz lotrculara dert olsun. ayrıca yüzük göndermesiyle yarmıştır.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/vaziyetcomtr/status/1201767480370376704?s=20" title="https://twitter.com/vaziyetcomtr/status/1201767480370376704?s=20">kaynak</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Gazete_Yenicag/status/1201770863810535426?s=20" title="https://twitter.com/Gazete_Yenicag/status/1201770863810535426?s=20">video</a><br/><br/>"meral akşener: "memleketi 'orta dünya’ya çevirdiler. sanki yüzüklerin efendisi setinde yaşıyoruz. yüzük, cumhurbaşkanlığı hükümet sistemi; erdoğan, yüzüğün sahibi; almış yanına, ak sakallı saruman’ı, damat gollum’u ve inşaatla uğraşan 5 nazgul’u, mutlak gücün peşinde!"
   entry_channels: siyaset,sinema,edebiyat
@@ -14,55 +14,55 @@ data:
     uçaklarda kürtçe ve arapça anons yapılsın
   entry_id:  98607606
   entry_writer: siz anlamazsiniz dur ben anlatayim
-  entry_fav_count: 748
+  entry_fav_count: 759
   entry_content: |
     hay mağduriyetinizi silkiyim ya.
   entry_channels: anket,haber,havacılık,seyahat
 - entry_name: |
-    türkiye'deki en ahlaksız şehir
-  entry_id:  98597553
-  entry_writer: pagliachi
-  entry_fav_count: 620
-  entry_content: |
-    (bkz: <a class="b" href="/?q=trabzon">trabzon</a>) rizelileri bile şehre sokmazdı bunlar. ama parayı görünce araplara sattılar topraklarını. çakma vatanperverdir çoğu.
-  entry_channels: anket,ilişkiler,seyahat
-- entry_name: |
     can yaman'ın hayranına arka odaya geçelim demesi
   entry_id:  98621391
   entry_writer: lobo hammer
-  entry_fav_count: 612
+  entry_fav_count: 688
   entry_content: |
     o lafı dediği an yanındaki çevirmenin utancı aslında olayı özetler nitelikte.
   entry_channels: haber,magazin
 - entry_name: |
+    türkiye'deki en ahlaksız şehir
+  entry_id:  98597553
+  entry_writer: pagliachi
+  entry_fav_count: 628
+  entry_content: |
+    (bkz: <a class="b" href="/?q=trabzon">trabzon</a>) rizelileri bile şehre sokmazdı bunlar. ama parayı görünce araplara sattılar topraklarını. çakma vatanperverdir çoğu.
+  entry_channels: anket,ilişkiler,seyahat
+- entry_name: |
     çocukken sahip olunan salakça fikirler
   entry_id:  98612617
   entry_writer: testester10
-  entry_fav_count: 466
+  entry_fav_count: 474
   entry_content: |
     ben "itina"nın bir makine olduğunu zannediyordum.<br/>-itina ile halı yıkanır,<br/>-itina ile baca temizlenir,<br/>-evleriniz itina ile boyanır,<br/>-yükleriniz itina ile taşınır.<br/>kendi kendime: "arkadaş bu itina nasıl bir makinedir ki her şeyi yapabiliyor, her yerde kullanılabiliyor!" diye feveran ederdim.<br/>lakin ki öyle değilmiş.
   entry_channels: anket
 - entry_name: |
-    sinyal vermeden dönen sürücü
-  entry_id:  98604644
-  entry_writer: drumdanvazife
-  entry_fav_count: 441
-  entry_content: |
-    sinyal vermeden dönen, şerit değiştiren, trafikte ne yapacağı belli olmayan sürücü: <a class="b" href="/?q=sinyal+kolu+g%c3%b6t%c3%bcne+girsin">sinyal kolu götüne girsin</a>
-  entry_channels: otomotiv,motosiklet
-- entry_name: |
     4 aralık 2019 doğa koleji öğretmenlerinin boykotu
   entry_id:  98613831
   entry_writer: tom edison
-  entry_fav_count: 439
+  entry_fav_count: 463
   entry_content: |
     başlığı “4 aralık 2019 doğa koleji öğretmenlerinin derse girmeme boykotu” olarak açmak istedim fakat karakter sınırına takıldım. <br/><br/>doğa kolejinde öğretmenlik yapan bir arkadaşımın isteğiyle ve destek olmak amacıyla bu başlığı açıyorum. öncelikle arkadaşımın kelimeleri ile durumu bildirmek isterim. <br/><br/>“doğa koleji öğretmenlerinin aylardır süren maaş mağduriyetleri konusunda seslerini duyurmak için eyleme geçecekleri gün olarak 4 aralık 2019 günü belirlenmiştir. bugün itibari ile kendilerine söz verilen sürenin bir kez daha sonuna gelindiği için yarın itibari ile derslere girmeme boykotunun başlatılması planlanıyor. bugünden itibaren sabredilmesini isteyecekleri fazladan 1 saat dahi planlanan eylemi kırmaya yönelik bir oyalama girişimi olacaktır. lütfen herkes öğretmenine, emeğine, boykotuna sahip çıksın”. <br/><br/>öznel yorumuma geleyim. aylardır sözlükte doğa koleji ile ilgili başlıklar görüyor ve okuyoruz. öğretmenlerin uzun zamandır sabır gösterdikleri ve öğrencileri mağdur etmemek için ellerinden geleni yaptıkları ortadadır. ama belli ki sürekli sabretmeleri isteniyor ve oyalanıyorlar. boykot etmenin tüm emekçilerin hakkı olduğunu düşünüyorum ve destekliyorum. dilerim bu boykot planlandığı gibi uygulanabilir. <br/><br/>çalışanın hakkını zamanında vermeyen iş verenin değil emekçinin tarafını tutuyorum. sözlük yazarlarının da bu başlığı gündeme taşıyarak desteklerini göstermelerini diliyorum.<br/><br/>edit: sağolsunlar sözlük yazarları sayesinde konu gündem oldu. dilerim öğretmenler de birlik içerisinde kalıp, hukuki olarak bir sorun yaşamayacak şekilde bu eylemi gerçekleştirebilirler. belki yapılacak bu eylem ile veliler de harekete geçerler. haklı olanın ve hakkını arayanın yanında duranlara şükranlarımı sunarım.<br/><br/>edit 2: ortadoğu gazetesinden biri mesaj attı. haber yapmışlar. linki bırakıyorum. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.ortadogugazetesi.com/egitim/doga-koleji-ogretmenleri-eylem-hazirliginda-h8884.html" title="https://www.ortadogugazetesi.com/egitim/doga-koleji-ogretmenleri-eylem-hazirliginda-h8884.html">https://www.ortadogugazetesi.com/…iginda-h8884.html</a><br/><br/>önemli ekleme: cumhuriyet gazetesinden bir çalışan mesaj attı. duruma hakim bir öğrenci velisi varsa konuşmak istiyor. ya da belki ismini vermek istemeyen bir öğretmen. haber kaynağı arıyor açıkçası. eğer gazeteye ulaşmak isteyen sözlük yazarı varsa benimle iletişime geçebilir.<br/><br/>bir ekleme daha: bazı veli gruplarından da destek gelmiş. hatta kolejin bir şubesinin önünde basın açıklaması yapılacak ve veliler de katılacakmış. <br/><br/>galiba kolej yönetiminden öğretmenlere mail atılıyor. az daha sabır minvalinde. <br/><br/>ayrıca birçok sözlük yazarından mesajlar aldım. “başlık tuttu, bizim de problemlerimizi ekleyebilir misin” diyorlar. keşke imkan olsa da ekleyebilsem. şu aşamada hedef saptırmamak adına başka kurum ismi yazmayacağım. fakat şunu gördüm. bu ülkede kan emiciler ordusu var. hak yemek, çalışanın hakkını vermemek normalleşmiş. hem köle gibi çalıştıracaklar, hem hakkını vermeyecekler insanların. utanmazlar.<br/><br/>belli ki bir kamuoyu desteği var. artık top öğretmenlerde. mümkün olduğunca çok öğretmen bu eyleme katılırsa muhakkak ses getirecektir. lütfen hakkınızı korumak için elinizden geleni yapınız. tanıdığınız hukukçular sizlere yardımcı olacaktır. kalpten başarılar dilerim.<br/><br/>öğretmenler dışındaki okul çalışanlarından gelen mesajlar üzerine ekleme: diğer personeli eklemeyi akıl edemediğim için affınıza sığınıyorum. tüm çalışanların haklarını alabilmelerini diliyorum.
   entry_channels: haber,eğitim
 - entry_name: |
+    sinyal vermeden dönen sürücü
+  entry_id:  98604644
+  entry_writer: drumdanvazife
+  entry_fav_count: 448
+  entry_content: |
+    sinyal vermeden dönen, şerit değiştiren, trafikte ne yapacağı belli olmayan sürücü: <a class="b" href="/?q=sinyal+kolu+g%c3%b6t%c3%bcne+girsin">sinyal kolu götüne girsin</a>
+  entry_channels: otomotiv,motosiklet
+- entry_name: |
     1 aralık 2019 körfezde ufo görülme iddası
   entry_id:  98601799
   entry_writer: kayip neslin son mahsulu
-  entry_fav_count: 352
+  entry_fav_count: 354
   entry_content: |
     (bkz: <a class="b" href="/?q=ge%c3%a7en+yine+%c5%9fizofreni+n%c3%b6beti+ge%c3%a7iriyorum">geçen yine şizofreni nöbeti geçiriyorum</a>)
   entry_channels: bilim,haber,havacılık
@@ -70,23 +70,23 @@ data:
     ankara'da bir sınıfta çekilen skandal görüntü
   entry_id:  98622455
   entry_writer: memeuclarindansorumlubakan
-  entry_fav_count: 253
+  entry_fav_count: 295
   entry_content: |
     olan öğretmene olur amk. kimse yoğurdum ekşi demez, herkesin çocuğu kendine göre süper zeka memlekette. bomboş asalak bir nesil geliyor alttan.
   entry_channels: haber,eğitim
 - entry_name: |
-    radamel falcao günde 9 saat antrenman yapıyor
-  entry_id:  98611073
-  entry_writer: golorucu
-  entry_fav_count: 231
+    5 yıl komada kaldıktan sonra istenecek ilk yemek
+  entry_id:  98612465
+  entry_writer: benni benni mccarthyini
+  entry_fav_count: 221
   entry_content: |
-    o paraya ben 19 saat antrenman yapar üstüne tesisleri de silerdim,malzemecilik de yapardım.
-  entry_channels: spor
+    yedikten sonra gene komaya girmek isteniyorsa komagene çiğköfte. <br/><br/>gülelim.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     fatih altaylının kadına nereye sokarsan sok demesi
   entry_id:  98608976
   entry_writer: masum keci
-  entry_fav_count: 189
+  entry_fav_count: 194
   entry_content: |
     şimdi yaş önemli. yıllar geçtikçe bazı organlar işlevini kaybediyor. muhtemelen o organların işlevi de böyle dile vuruyor.<br/><br/>yazık kendisi hiçbir şeyi hiçbir yere sokamıyorsa demek ki...<br/><br/>utanmazlıktır.
   entry_channels: spor,haber,magazin
@@ -94,23 +94,15 @@ data:
     9 aylık bebeği boğan kedi
   entry_id:  98619987
   entry_writer: naturational
-  entry_fav_count: 189
+  entry_fav_count: 194
   entry_content: |
     annenin çocuğu öldürüp kedinin üzerine attığını düşünüyorum.
   entry_channels: ilişkiler,haber
 - entry_name: |
-    5 yıl komada kaldıktan sonra istenecek ilk yemek
-  entry_id:  98612465
-  entry_writer: benni benni mccarthyini
-  entry_fav_count: 172
-  entry_content: |
-    yedikten sonra gene komaya girmek isteniyorsa komagene çiğköfte. <br/><br/>gülelim.
-  entry_channels: anket
-- entry_name: |
     savcı kadına aşık olmak
   entry_id:  98621912
   entry_writer: akrotim
-  entry_fav_count: 101
+  entry_fav_count: 108
   entry_content: |
     gereksiz macera. <br/>başından savacaktır. <br/>savcı sonuçta...
   entry_channels: ilişkiler
@@ -118,7 +110,7 @@ data:
     arabanıza bindiğinizde yaptığınız ilk şey
   entry_id:  98617645
   entry_writer: ahuhuhi
-  entry_fav_count: 91
+  entry_fav_count: 96
   entry_content: |
     start-stop kapatmak.
   entry_channels: anket,otomotiv
@@ -126,7 +118,7 @@ data:
     galatasaray'da devre arasında kim gönderilmeli
   entry_id:  98613492
   entry_writer: topa
-  entry_fav_count: 73
+  entry_fav_count: 78
   entry_content: |
     net belhanda
   entry_channels: spor,anket
@@ -142,7 +134,7 @@ data:
     dergi cd lerinden demo oyun oynamış efsanevi nesil
   entry_id:  98612205
   entry_writer: takkeureticisi
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     babam sana bir bilgisayar alsak mı dediği gün hemen yarım saat sonrasında 1 tane dergi aldım ve içinden çıkan cd'yi kenara koydum. sonra henüz bilgisayar alınmadan, demo cd içerisinde yer alan oyunları da satın aldım. elimde 1 adet demo cd ve 4 adet o cd içerisinde demo oyunu bulunan oyunun tam sürümü vardı. ama henüz bilgisayar yoktu. 5 tane cd'yi pamuklara sarıp sakladım. 2 hafta sonra bilgisayarım oldu :-)
   entry_channels: anket,oyun,teknoloji
@@ -158,47 +150,47 @@ data:
     sevgili ile yapılabilecek en güzel şey
   entry_id:  98615609
   entry_writer: hic tren gecmeyen istasyon
-  entry_fav_count: 52
+  entry_fav_count: 53
   entry_content: |
     akşam üstü 1 şişe şarap ve 2 kadeh alıp, sahilde kumlara oturup, hava kararıncaya kadar hem sohbet edip hem şarap içmek. hava kararmaya başlayınca küçük öpüşmelerin bir an önce eve gidip hayvan gibi sevişmeye hatta bir süre sonra sikişmeye dönmesi. <br/><br/>sonrasında duş alıp, mis gibi kokup, yiyecek ufak bir şeyler hazırlayıp, yine şarapla birlikte, pijamaları da giyip sarılıp, hem film izlemek hem de şarap içmek. devamında tabi o minnoş haller küçük sarılmaların ve dokunmaların sonucunda yine arzuya ve tutkuya dönebilir. izlemeye sonra devam ederiz denilip, bitirilemeyen filmlere bir yenisi daha eklenebilir.<br/><br/>edit: normalde entry editlemem de sinirlendim noktasız virgülsüz yazıcam aklınıza hep seksle ilgili şeyler mi geliyor demişler de yahu insanın aklına sevgilisi ile birlikteyken seks gelmeyecek nerede gelecek yemekhanede mi gelecek uzayda mı gelecek arabanın yağına suyuna bakarken mi gelecek nerede aklımıza gelecek bu seks yeter ya romantik hallerin devamındaki seks güzel değil mi neyse tamam sesk yok
   entry_channels: anket,ilişkiler
 - entry_name: |
-    norveç denince akla ilk gelenler
-  entry_id:  98595048
-  entry_writer: sanki kim bilir ne
-  entry_fav_count: 52
-  entry_content: |
-    neutrogena norveç formülü yoğun bakım kremi.
-  entry_channels: anket,seyahat
-- entry_name: |
     kız bulamayan erkeklerin kendini spora vermesi
   entry_id:  98616786
   entry_writer: x uzeri y nin z ye gore turevi
-  entry_fav_count: 41
+  entry_fav_count: 48
   entry_content: |
     kız yoksa sporla üremeyi deniyorlardır.
   entry_channels: spor,ilişkiler
 - entry_name: |
-    kızların zekasıyla etkileyememesi
-  entry_id:  98623642
-  entry_writer: zoherhocaefendi
-  entry_fav_count: 29
-  entry_content: |
-    zekadan ancak zeki biri etkilenir çünkü.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     ateist olmak marifet midir sorunsalı
   entry_id:  98619918
   entry_writer: coffee and gamepad
-  entry_fav_count: 26
+  entry_fav_count: 37
   entry_content: |
     insan olmak marifettir. ateist olmak seçimdir.
   entry_channels: 
 - entry_name: |
+    tartışma kültürümüzün olmaması
+  entry_id:  98611499
+  entry_writer: too lonely
+  entry_fav_count: 33
+  entry_content: |
+    ekşi sözlük'te sosyal veya siyasi konularla ilgili tartışmaların döndüğü başlıklara bir göz atarsanız, tartışma kültürümüzün yerlerde süründüğünü görebilirsiniz. sözlüğün ilk yıllarında açılmış başlıklara girilen entry'leri kronolojik sırayla okursanız, ilk zamanlarda gerçekten bilgi veren ve ufuk açan entry'ler varken, günümüze yaklaştıkça seviyenin düştüğünü, dalga geçen, ayar vermeye çalışan entry'lerin çoğaldığını görürsünüz. işte bu entry'de, sözlük'ün bu duruma gelmesine neden olan, tartışma kültüründen bihaber yazar türlerini kısaca tanıtmaya çalışacağım. benim aklıma gelmeyen yazar türlerini, diğer yazar arkadaşlar eklesinler.<br/><br/>1) "sana ne, bize ne"ciler: görülme sıklığı itibariyle son yıllarda en çok artış gösteren yazar türüdür. bunlar kendilerini ilgilendirmeyen bir konunun, dünyanın geri kalanını da ilgilendirmemesi gerektiğini düşünürler. bu yazarlara, "iyi de, asıl bu mevzunun beni ilgilendirmesinden sana ne" diye cevap verilmesi elzemdir.<br/>2) "x olurken niye ses çıkarmadınız"cılar: görülme sıklığı açısından ikinci, argümanın saçmalığı açısından uzak ara birincidir. yazarın biri "doğanın katledilmesiyle" ilgili bir entry girmiştir. hemen birisi damlar "insanlar açlıktan ölüyor, buna niye ses çıkarmıyorsunuz?". şimdi, bunun neresini düzeltmeli, nasıl bir cevap vermeli bilemiyorum. o kadar saçma, o kadar anlamsız ki, neresinden tutsanız elinizde kalıyor. tabii ki öncelikle söylenmesi gereken: ne alaka?!?! yani nasıl bir bağlantı kurdun arkadaşım? ben "doğa" konusunda hassasımdır, o konuda yazmak isterim; sen "insanların açlığı" konusunda duyarlısındır, sen de o konuda yazarsın. bunlardan biri diğerinin ön şartı mıdır? ben bir sosyal problemle ilgili entry gireceğim zaman, diğer tüm sosyal problemlerle ilgili de mi entry girmem gerekiyor?<br/>3) yazarın geçmişini kurcalayıp "bu yazar x konusunda şunları yazmış, şimdi y konusunda bunları yazması tutarlı değil"ciler: tartışılan asıl konu üzerinde bir fikirleri olmadığından, kişiler üzerinden tartışma yürütmek isterler. üşenmeyip, beğenmedikleri yazarların geçmiş entry'lerini kurcalayıp, akıllarınca oradan "kanıt" toplamaya çalışırlar. çok zavallıca bir hareket.<br/>4) "bunun x'i y'si yok"çular: saçmalık açısından iki numaralı maddenin ardından ikinci sırada gelir. tartışılan konu hakkında bir tane karşıt örnek verip "bakın bunun x'i y'si yok, herkes yapıyor" havası yaratmaya çalışırlar. örneğin, konu "kadın cinayetleri"dir. doğal olarak yazarların bir çoğu, katil olan erkeklere saydırır. gururu incinen bir yazar bozuntusu çıkar, fi tarihinden bir haber bulur, haberde kadın erkeği öldürmüştür. hemen bombayı patlatır: "gördünüz mü, kadınlar da erkekleri öldürüyor. bu işin kadını erkeği yok!". her yıl yüzlerce kadının erkekler tarafından öldürülmesi ile, yılda bir kaç kez karşılaşabileceğiniz bir haberi kıyaslıyor haspam. veya konu "erkeklerin eşlerini aldatması" olsun. hemen bu yazar türleri peydah olur: "kadınlar da erkekleri aldatıyor, bunun kadını erkeği yok." iyi de kardeşim, bizim konumuz "erkeklerin eşlerini aldatması", yani "kadınlar yapmıyor" denmiyor ki! sen de git kendi argümanını "kadınların eşlerini aldatması" başlığına yaz. sözün özü; bu işin kadını erkeği, sağcısı solcusu, genci yaşlısı var kardeşim. bir şeyi karşı tarafın da yapıyor olması, bu tarafın yaptığını ortadan kaldırmıyor.<br/>5) "derdini seveyim"ciler: bu cümlenin orijinali farklı, biliyorum. terbiyem müsaade etmediğinden yazamadım. küfür edemiyorum da. bu arkadaşlar da, argümanını ortaya koyan yazara fikren karşı koyamadığından veya ilave edecek başka bir şey bulamadığından, ille de bir şey söylemek zorunda, yoksa ölecek olduğundan, o efsane cümleyi sarfeder: "derdini seveyim". bu yazarlar için hiç kimsenin derdi önemli değildir. kendininkiler hariç.<br/>6) "isteyen istediğini giyer/yapar, bundan bize ne"ciler: birinci maddedekine benzemekle beraber, bu yazarlar daha ciddi mevzular yerine, genellikle karşı cinslerin birbiriyle atıştığı daha "soft" konularda yazarlar. örneğin, "erkeğin dar paça pantolon giymesi" olsun başlığımız. hemen "isteyen istediğini giyer, kimse karışamaz" entryleri uçuşur. bir sakin ol yeğenim, kimsenin karıştığı falan yok. yani, kimse seni sokakta çevirip, "hemen çıkar o pantolonu evlat, yoksa başın büyük belada" demeyecek. ancak insanların sokakta ne giydiğini, nasıl davrandığını gözlemleyip bunu ekşi sözlük'te yorumlamak, doğal bir hakkımız. burada "karışmak" ile "fikir beyan etmek" arasındaki kalın çizginin farkedilemediğini düşünüyorum. birine "çıkar o pantolonu" demek karışmaktır ve yanlıştır; ekşi sözlük'te "dar paça pantolon erkeklere yakışıyor/yakışmıyor" demek fikir beyan etmektir ve bir mahzuru yoktur. yeter ki, isim vererek kimse rencide edilmesin, kişilik hakları ihlal edilmesin.<br/>7) "ne var bunda"cılar: bugünkü sosyal, siyasi ve ahlaki çöküntümüzün ana sebeplerinden biri bu zihniyettir. adam çocuğunu döver, "bir tokat atmış canım, ne var bunda?"; adam sevgilisine psikolojik şiddet uygular, "sevdiğinden yapmıştır, ne var bunda?"; ülkede ifade özgürlüğü kalmamış, "sen de muhalefet yapma canım, ne var bunda?"; zeytin ağaçları kesilip yerine beton dikilecek, "sen de kahvaltıda bir zeytin eksik yersin, ne var bunda?". cumhuriyet kazanımlarının adım adım yok edilmesinde, bu "ne var bunda"cıların önemli payı vardır.<br/>8) "nokta, net, konu kilit"çiler: son sözü kendilerinin söylediğini, bunun üzerine başka bir söz söylenemeyeceğini düşünen kibir abideleri.<br/>9) espri yapmak zorunda olduğunu düşünenler: en hassas konularda dahi bir komik olma çabası, bir espri yapma gayreti içinde olanlar. diğerlerine nazaran en masum grubu oluştururlar.<br/>10) dil katilleri: daha konuştuğu dili doğru yazmaktan aciz, ama her konuda fikri var. bir de bunlar, yazım kurallarına dikkat edenleri "kıl, uyuz" olarak nitelerler. "ne var yani de'yi birleşik yazmışsam" (burada "ne var bunda"cılık da devreye giriyor) derler. türkçe'yi doğru kullanamayacak kadar cahil olduklarından, bu cehaletlerini önemsizleştirmeye çalışırlar. hele hele, "beğendim" yerine "beyendim" yazan birinin hâlâ sözlükte yazar olabilmesi çok sinir bozucudur.<br/><br/>sonuç; bir başlık altındaki entry'lerin yüzde doksan dokuzu yukarıdaki gruplardan birine tekabül etmektedir. bize de, geriye kalan 1 (bir) kaliteli entry'yi bulana kadar, bu doksan dokuz entry'yi okuyup iç çekmek kalıyor. türkiye'de tartışma kültürünün gelişmesi, bu grupların azalarak bitmesiyle mümkündür.
+  entry_channels: 
+- entry_name: |
+    kızların zekasıyla etkileyememesi
+  entry_id:  98623642
+  entry_writer: zoherhocaefendi
+  entry_fav_count: 31
+  entry_content: |
+    zekadan ancak zeki biri etkilenir çünkü.
+  entry_channels: anket,ilişkiler
+- entry_name: |
     yeni başlayan ilişki sıkıcılığı
   entry_id:  98596408
   entry_writer: floatingintothenight
-  entry_fav_count: 25
+  entry_fav_count: 29
   entry_content: |
     cicim ayına sıkıcı denmiş enterasan. makul iq ve görgü seviyelerinde partnerler oldu mu makineli tüfek gibi sevişilen, kavgasız dövüşsüz aptal aptal sırıtılan çiçek gibi bir dönemdir aslında. yeni nesil bir garip yahu.
   entry_channels: ilişkiler
@@ -206,7 +198,7 @@ data:
     1.85 boyunda zeki esprili yakışıklı kültürlü erkek
   entry_id:  98618952
   entry_writer: yacute
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     kısa boylu, kültürsüz, şişman, çirkin birisi için çalışan erkektir...
   entry_channels: ilişkiler
@@ -219,13 +211,21 @@ data:
     daha önceleri japon malları dandik olarak nitelendirilirken şu an çin ürünleri için aynı imaj söz konusu. japonlar da böyle bir süreçten bir çok uluslararası büyük marka ile adını duyurarak çıkmıştır. çin markaları da şu an benzer süreci yaşıyor.<br/><br/>bununla ilgili geleceğe dönüş filminde de gönderme vardır. doktor arabadaki parçanın çöp olmasını japon malı olmasına bağlarken, <a class="b" href="/?q=marty+mcfly">marty mcfly</a> japonların en iyilerini ürettiğini söyler. çünkü farklı zamanlardan bahsetmektedirler.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=c1QcjsjjtRc">https://www.youtube.com/watch?v=c1qcjsjjtrc</a>
   entry_channels: teknoloji,haber,ekonomi
 - entry_name: |
-    akp'lilerin tasarıyı veto eden rte'ye teşekkürü
-  entry_id:  98594887
-  entry_writer: cilop cilop
-  entry_fav_count: 20
+    mansplaining
+  entry_id:  98609868
+  entry_writer: eye snap
+  entry_fav_count: 18
   entry_content: |
-    allah affetsin ama aklıma kuzey kore geldi. samimi söylüyorum.
-  entry_channels: siyaset,haber
+    bir erkeğin iyi bildiği bir konuyu açıklaması değildir.<br/><br/>bir kadınla konuşurken, karşısındaki kadın olduğu için onun bilmeyeceğini varsayarak açıklama yapmaya girişmesidir. mesele burada varsaymakta. <br/><br/>kız arkadaşınızın futbola merakı olmadığını biliyorsanız, ofsaytın ne olduğunu bilmediğini varsayıp da açıklamaya girişebilirsiniz, bu mansplaining dediğimiz şey değil. sonuçta karşındakinin o konuda senden az bildiğine dair işaretler var, kızı tanıyorsun, konuyu bilmediğinin farkındasın.<br/><br/>ya da mesela sen makine mühendisisin, yeni tanıştığın bir kadınla sohbet ederken kadın arabasındaki tuhaf sesten yakınıyor, ona da açıklayabilirsin, motor şöyledir, şu olabilir, bu olabilir diye. bu da mansplaining değil. sonuçta senin uzmanlık alanın olan bir konu ise, ortalama bir insandan (kadın ya da erkek) daha fazla bildiğini varsaymak mantıklı. <br/><br/>ama bir konuda bir kadınla konuşurken, o konunun profesyoneli, uzmanı değilsen, karşındakinin net bir şekilde o konuda ortalama altı düzeyde bilgi sahibi olduğuna dair (kadın olmak dışında) bir işaret yoksa, ve sen sadece karşındaki kadın olduğu için senden daha az bildiğini varsayarak bir konuyu açıklamaya başlıyorsan, ona <a class="b" href="/?q=mansplaining">mansplaining</a> denir.<br/><br/>bir kadın olarak çok yaşadığım bir durum bu. bazı konuları hiç bilmiyorum. bazı konuları da çok iyi biliyorum, herkes gibi. lisansım ve yüksek lisansım mesela sinema ve özellikle senaryo üzerine. sohbet sırasında lafı geçtiğinde bana senaryonun nasıl yazıldığını anlatmaya çalışan adamlar oldu ya. 'ha sinema mı okudun, dur ben sana anlatayım nasıl oluyor o işler' diyor bana, kendisi muhasebeci filan.. işte buradaki öküzlük ben kadın olduğum, o erkek olduğu için, benim alanım olan bir şeyi bile benden iyi bildiğini varsaymasında, bana açıklama yapabilecek otoriteye sahip olduğunu zannetmesinde. <br/><br/>mansplaining budur. yoksa benim bilmediğim, senin bildiğin konuda beni aydınlat lütfen, seve seve dinlerim. ona laf yok.
+  entry_channels: ilişkiler
+- entry_name: |
+    trakyalı denince akla ilk gelen materyal
+  entry_id:  98622320
+  entry_writer: trendline
+  entry_fav_count: 17
+  entry_content: |
+    sensin materyal. materyal ne amk? trakyalı'nın materyal ile işi olmaz. nevale ile işi olur.
+  entry_channels: anket
 - entry_name: |
     istanbul trafiğinin sebepleri
   entry_id:  98594541
@@ -235,14 +235,6 @@ data:
     100 km ‘lik bir doğu batı hattı üstüne 20 milyon kişiyi yerleştirirseniz trafik olmama şansı yoktur.
   entry_channels: anket,otomotiv,motosiklet,seyahat
 - entry_name: |
-    trakyalı denince akla ilk gelen materyal
-  entry_id:  98622320
-  entry_writer: trendline
-  entry_fav_count: 15
-  entry_content: |
-    sensin materyal. materyal ne amk? trakyalı'nın materyal ile işi olmaz. nevale ile işi olur.
-  entry_channels: anket
-- entry_name: |
     can yaman
   entry_id:  98602220
   entry_writer: goldfinches
@@ -250,6 +242,14 @@ data:
   entry_content: |
     kim lan bu kaç gündür haberlerde görüyorum. <br/>bi çıkıyor <a class="b" href="/?q=k%c4%b1van%c3%a7+tatl%c4%b1tu%c4%9f">kıvanç tatlıtuğ</a>'u aşağılıyor,<br/>bi çıkıyor <a class="b" href="/?q=javier+bardem">javier bardem</a>'i aşağılıyor.<br/>bir çıkıyor <a class="b" href="/?q=selen+soyder">selen soyder</a>'i aşağılıyor, <br/>bir çıkıyor "kadın oyuncuların libidosu eksik, hele selen soyder hiç azgın değildi, ıslanmıyordu" gibi sözler söyleyerek evli barklı kadın oyuncuları aşağılıyor. <br/>kim kardeşim bu? masterchef midir, survivor mı, youtuber mi, her ne boksa baklava kaslarını da alıp gitsin bu diyardan. çok sıktı zira, her gün bu adamın gazetede kibirli kibirli milletin aşağılamasını okumaktan, tipsiz suratını görmekten ve kas yığını leş vücudundan gına geldi. hiç yakışıklı da değil ayrıca. kas yapmış iri esmer türk erkeği işte hiç mi spor salonuna gitmediniz.
   entry_channels: tv,magazin
+- entry_name: |
+    ankara'da huzur bulunan mekanlar
+  entry_id:  98621949
+  entry_writer: musclemania
+  entry_fav_count: 15
+  entry_content: |
+    iç mekan olarak<br/>(bkz: <a class="b" href="/?q=ard%c4%b1%c3%a7+kitabevi">ardıç kitabevi</a>)<br/>(bkz: <a class="b" href="/?q=cafe+des+cafes">cafe des cafes</a>)<br/>(bkz: <a class="b" href="/?q=sardunya+cafe">sardunya cafe</a>)<br/><br/>dış mekan olarak<br/>(bkz: <a class="b" href="/?q=odt%c3%bc">odtü</a>)<br/>(bkz: <a class="b" href="/?q=eymir">eymir</a>)<br/>(bkz: <a class="b" href="/?q=tunal%c4%b1">tunalı</a>)
+  entry_channels: anket,seyahat
 - entry_name: |
     the irishman
   entry_id:  98595559
@@ -267,18 +267,10 @@ data:
     jigle değil <a class="b" href="/?q=jikle">jikle</a>dir o. ne çektiğinizi bilmeden bilmediğiniz şeyi çekmeyin.
   entry_channels: anket,otomotiv,motosiklet
 - entry_name: |
-    ankara'da huzur bulunan mekanlar
-  entry_id:  98621949
-  entry_writer: musclemania
-  entry_fav_count: 13
-  entry_content: |
-    iç mekan olarak<br/>(bkz: <a class="b" href="/?q=ard%c4%b1%c3%a7+kitabevi">ardıç kitabevi</a>)<br/>(bkz: <a class="b" href="/?q=cafe+des+cafes">cafe des cafes</a>)<br/>(bkz: <a class="b" href="/?q=sardunya+cafe">sardunya cafe</a>)<br/><br/>dış mekan olarak<br/>(bkz: <a class="b" href="/?q=odt%c3%bc">odtü</a>)<br/>(bkz: <a class="b" href="/?q=eymir">eymir</a>)<br/>(bkz: <a class="b" href="/?q=tunal%c4%b1">tunalı</a>)
-  entry_channels: anket,seyahat
-- entry_name: |
     30 yaşında olup hala çizgi film seyreden insan
   entry_id:  98618561
   entry_writer: nickinide al git
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     büyük ihtimalle iyi bir insandır.çocuksu insanlardan zarar gelmez.sevin o insanları.
   entry_channels: anket,tv,teknoloji
@@ -291,6 +283,14 @@ data:
     (bkz: <a class="b" href="/?q=ay+sava%c5%9f%c3%a7%c4%b1s%c4%b1">ay savaşçısı</a>)
   entry_channels: anket,tv,ekşi-sözlük
 - entry_name: |
+    17 kasım 2019 ales
+  entry_id:  98623784
+  entry_writer: ebesinin boyfriendi
+  entry_fav_count: 9
+  entry_content: |
+    ekşici olup 90 üstü aldım diyenler siktirin gidinde sonuçlar hakkında bir kaç entry okuyalım. aq salakları o espriler daha önce çokça yapıldı.<br/><br/>edit: sinirden yanlış yazmışım.
+  entry_channels: eğitim
+- entry_name: |
     dünya engelliler günü
   entry_id:  98600568
   entry_writer: welcometofreakshow
@@ -299,13 +299,21 @@ data:
     anlamsız bir gün.<br/><br/>engelli bireyler olarak sizlerin vicdan mastürbasyon malzememiz değiliz. sizlerin klişe sözlerinize, sahte duyarlarınıza da ihtiyacımız yok. allah aşkına o sosyal medyada stock fotoğraf altına itici sözler yazıp paylaşım yapmayın. yemin ediyorum seri katil olup tek tek hepinizi avlayasım geliyor.
   entry_channels: tarih,sağlık,haber
 - entry_name: |
-    öğrenilen ilk almanca kelime
-  entry_id:  98597651
-  entry_writer: unorthodox fighter
+    masterchef türkiye
+  entry_id:  98621061
+  entry_writer: punkthesystem
   entry_fav_count: 7
   entry_content: |
-    (bkz: <a class="b" href="/?q=arschloch">arschloch</a>)<br/><br/>maalesef almancı kuzenler ilk olarak küfürleri öğretmişlerdi :(
-  entry_channels: eğitim
+    merak edip <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Ny5pVqVqY_M" title="https://youtu.be/Ny5pVqVqY_M">fragmanı</a> izledim. <br/><br/>en çok dikkatimi çeken şey; güzide ağlayıp arkasını döndüğünde, engelli kardeşlerimiz görmesin diye güzide'nin önüne geçen alican oldu. <br/><br/>cidden incelik ve nezaket, bu tip anlık gelişen durumlarda olur. planlı şekilde değil. takdir ettim.
+  entry_channels: tv,yeme-içme
+- entry_name: |
+    macron'un türkiye hakkında ki tuhaf eleştirisi
+  entry_id:  98627469
+  entry_writer: herturluhalikilimtravel
+  entry_fav_count: 5
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ki">ki</a>)
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  98596831
@@ -323,13 +331,13 @@ data:
     bu başlıkları açıyorsunuz ama olaydan alakasızlar sonra gelip bana ''ekşi'den kaç para maaş alıyorsun'' diye soruyorlar. maaş muhabbetini gerçek sananlar var. almıyorum diyorum, bedavaya mı yazıyorsun diyorlar ama cevap veremiyorum amk. hee bedavaya yazıyoruz işte diyor, geçiyorum. <br/><br/>sonra aklıma şey geldi; bedavaya mı yazıyorsun? ne getirisi var diyenlere, ''sen niye insta'ya foto atıyorsan, twitter'a niye bir şeyler yazıyorsan...'' demeye başladım. ama pezevenkler buna cevap olarak karı düşüyor, egom okşanıyor demeye başladılar. yine cevap veremedim. millet cin olmuş, laf bile söyleyemiyoruz. her söze bir cevap var anasını satim.
   entry_channels: anket,ekşi-sözlük,ekonomi
 - entry_name: |
-    2 aralık 2019 yurtiçi kargo açıklaması
-  entry_id:  98597786
-  entry_writer: sonerta
+    içinde çığlık olan şarkılar
+  entry_id:  98626820
+  entry_writer: feyyaz ali metin
   entry_fav_count: 2
   entry_content: |
-    haklı falan değildir. eğer kapasiten dolduysa kargo kabul etme kardeşim. alış veriş siteleri bunun derdine kendi düşsün. <br/><br/>sen dağıtamayacağın kargoyu toplama ki, sektöre yeni firmalar da girebilsin. yeni taşıma metotları gelişsin.
-  entry_channels: haber,ekonomi
+    manowar - tüm parçaları.
+  entry_channels: anket,müzik
 - entry_name: |
     the mandalorian
   entry_id:  98597086
@@ -339,13 +347,13 @@ data:
     30-35 dakikalık bölümülerden giriş ve bitişleri akan yazıları vs çıkarınca geriye 20 dakika kalan dizi. <br/><br/>star wars fanı olduğum söylenemez ama beğendim sarıyor. 20 dakika için 1 hafta beklemek biraz sinir bozucu ama onu belirtmeden edemeyeceğim.<br/><br/>this is the way... ağzıma dolandı habire söylüyorum.
   entry_channels: tv,sanat,sinema,spoiler
 - entry_name: |
-    kendinle aran nasıl
-  entry_id:  98599526
-  entry_writer: uykucuplatonik
+    geceye ingilizce cümle bırak
+  entry_id:  98618100
+  entry_writer: ridanes
   entry_fav_count: 1
   entry_content: |
-    sanırım az çok anlamaya başladık birbirimizi.
-  entry_channels: ilişkiler,sağlık
+    drop english sentence into the night.
+  entry_channels: anket,edebiyat
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  98604454
@@ -355,29 +363,21 @@ data:
     gel içelim tanışalım dertleşelim derdim de mesaja kapamışsınız.. ne diyelim aynanın karşısında içebilirsiniz belki işe yarar.. olmazsa bilemeyeceğim şimdi..
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 - entry_name: |
-    abdullah avcı
-  entry_id:  98614559
-  entry_writer: nederlander
-  entry_fav_count: 1
+    şekerli parfüm terörü
+  entry_id:  98627766
+  entry_writer: timsahkanu
+  entry_fav_count: 0
   entry_content: |
-    dogru bilinen yanlislarin siralandigi baslik.<br/><br/>vasat takimlarin oldugu vasat bir lig: yanlis. 10-15 sene oncesine gore 3 buyukler vasatlasmadi, vasat olan anadolu takimlari guclendi. yani rekabet eskisine gore cok daha fazla. vasat ligde 3 buyuklerden biri coktan farki acmisti. sampiyonlar ligi kadrosu kuran galatasaray bilmem kacinci. yabanci kuralinin degismesinden sonra gayet kalburustu takimlarin oldugu, her takimin her takimdan puan alabilecegi bir lig super lig. bu hafta oynadigin kume dusme adayinin forveti adebayor.<br/><br/>besiktas'in formasi ilk 3'e oynar: yanlis. kaliplasmis laf olsun diye edinilen bir laf. cok seviyoruz boyle dusunce barindirmayan sloganlari. pepe ile 4. oldu bu takim, sartlara bagli olarak her turlu siralamada olabilirsin. oyle bir laf ki ilk 3'e soksa bile elestiri cumlesi olarak soylenebilir. <br/><br/>caner kotu bir sol bek: hem dogru hem yanlis. futbolda her zaman tek dogru yok. caner savunmasi cok cok kotu ama hucumu cok iyi olan bir bek. sampiyonlar liginde savunma yapmaniz gereken macta kotu, iceride zayif rakibe karsi kalenize getirmeden baski yaparak oynayacaksaniz gayet mantikli bir secim. bu adamin 11 asistle sezonun futbolcusu oldugu yil unutmayin fenerbahcenin inanilmaz baskili bir oyun oynadigi sezondu.<br/><br/>abdullah avci taktigini degistirdi yanlistan dondu: kismen dogru. ama oyle bir anlatiliyor ki sanki fantastik bir degisim oldu. tek degisiklik orta sahayi false back ile degil de dorukhan sakatlaninca elneny atiba olarak ikilemesi. dizilim degisikligi var mi evet. ama ana taktiksel yapida (topa sahip olma, takimin defansif anlayisi, kanatlarin kullanim bicimi) bir degisiklik yok.<br/><br/>kimse su an besiktasin super bir oyun oynadigini soylemiyor. fakat sezon basi besiktas kume dusecek, yok hoca moca degil, yok loser gibi beyinsiz laflar edenler de bir zahmet sussun lutfen. ne konusmayi hakediyorlar ne de sampiyon olursak kutlamayi. daha 2-3 mac once yere yatsana diye bagirdilar bu adama. dun tribunlere cagirildiginda gozleri doldu. hicbir seyden memnun olmayan, her seyi bildigini zanneden, aninda basari bekleyen, isliklayan, kufreden, sabirsiz, kibirli, simarik, bu insanlarin da etten kemikten insanlar oldugunu unutan bir taraftar grubu turedi son yillarda. besiktas'in onundeki en buyuk engel bu kendi taraftari maalesef.
-  entry_channels: spor
+    pudra kokulu parfüm sevmiyorum, nefesim tıkanıyor ama göt lalesi olmadığım için başlık açıp bunu belirtme ihtiyacım hiç olmadı.<br/>tanım: ne yaşıyorsunuz olm siz göt hoşafları.
+  entry_channels: moda
 - entry_name: |
-    2020 yılından beklentiler
-  entry_id:  98620624
-  entry_writer: ennio morricone
-  entry_fav_count: 1
+    kendinle aran nasıl
+  entry_id:  98628119
+  entry_writer: tyx
+  entry_fav_count: 0
   entry_content: |
-    2020 yılı sağlık ve mutluluk getirsin, getirmezse de koy totosuna gitsin. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/BjiJ5DtvMIo" title="https://youtu.be/BjiJ5DtvMIo">son sigara</a>
-  entry_channels: anket
-- entry_name: |
-    2 aralık 2019 uludağ'da kaybolan dağcılar
-  entry_id:  98627482
-  entry_writer: zengin mineralli maden suyu
-  entry_fav_count: 1
-  entry_content: |
-    dağcı değil büyük ihtimalle alkolü ya da yüreği fazla kaçırmış iki meraklı vatandaştır. <br/>"... zirveye doğru akşam saatlerinde yola çıktı.."<br/>dileğim sağ salim bulunmalarından yana ama bu ifade doğruysa iş intihar teşebbüsü dahi olabilir. <br/>kaç yıldır bu sporla uğraşıyorum. keşiştepeye 5-6 kez kış tırmanışı gerçekleştirdim siste dahi rotamı bulacak kadar araziye hakimim ama benim bile cesaretim yok böyle bir şeye. tırmanış dediğin sabahın ilk ışıkları doğmadan başlar. akşam vakti rotaya girmek nedir ?<br/>herneyse, teleferiğe akşam bindilerse büyük ihtimalle kapı rotasının ağzına gelemeden hava kapattı. o noktalarda eğim çok yüksek olduğundan kayıp aşağı doğru gittiler. yaralanıp kaldılar bir yerlerde. aksi takdirde teleferiğin sesine doğru gelmeyi başarabilirlerdi.<br/>kamu spotu: dağcılık ölümcül riskler ihtiva eder. adamakıllı eğitim alıp tecrübe kazanmadan böyle işlere bulaşmayın.
-  entry_channels: haber
+    arada tartışırız belki ama iyidir kendimle aram.
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
     kenan imirzalıoğlu mansplaining uyguladı iddiası
   entry_id:  98617694
@@ -387,14 +387,6 @@ data:
     yarışmanın başından beri kibirli söylemlerde bulunan ve hatta kendisini bilge kişilik olarak tanımlayan bir yarışmacının bir sebepten ailesini hayatından çıkardığını ekran önünde paylaştığı, "türkiye'de ailelerin %90'ı benimkiler gibi" tarzında büyük laflar sarf ettiği veya kardeşlerini doğururken ailesi kendisine sormadı diye ailesini dava eden hintli bir genç gibi kendisinin de ailesini dava edeceğini söylediği noktada, sunucunun nezaketen "siz daha iyi bilirsiniz" gibi topu taca atışlarını ise "evet" diyerek ukalaca karşıladığı bir programda, sunucunun gayet insani bir biçimde iyi ailelere haksızlık etmemek gerektiğini hatırlatması olayını ataerkillikle bağdaştırmayı başarmış çakma feminist beyanı başlık. bak hiç cinsiyet belirtmedim. feminizm avangartlığınızı alakasız konularda saçma sapan saldırganlıklar göstererek feminizmin temel çıkış noktasını itibarsızlaştırıyorsunuz. bu kadar da akılsızlık olmaz vallahi.
   entry_channels: tv
 - entry_name: |
-    içinde çığlık olan şarkılar
-  entry_id:  98626075
-  entry_writer: buzsubuhar
-  entry_fav_count: 0
-  entry_content: |
-    falco - jeanny (almanca)
-  entry_channels: anket,müzik
-- entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  98598604
   entry_writer: coffetocodeconverter
@@ -402,4 +394,12 @@ data:
   entry_content: |
     nedir bu kedi merakınız?. instagram olmasa da kedi beslermiydiniz?
   entry_channels: anket,ilişkiler
+- entry_name: |
+    akp seçmeni
+  entry_id:  98621193
+  entry_writer: mc43
+  entry_fav_count: 0
+  entry_content: |
+    şehirleşmeyi şehre beton dökmek sananların savunduğu seçmen<br/><br/>bir çoğu vasıfsız, cahil, dönek kısaca arkanızı bile dönmemeniz gereken tiplerdir
+  entry_channels: siyaset,haber
 ---
