@@ -6,47 +6,47 @@ data:
     düzce milli eğitim müdürünün ceren özdemir yorumu
   entry_id:  98746680
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 954
+  entry_fav_count: 959
   entry_content: |
     konuş müdür, konuş.<br/>açık giyiniyordu de, çekinme. bale adı altında orasını burasını açıyordu de.<br/>o saatte sokakta ne işi varmış de müdür, susma devam et.<br/>seni o makama getireni geçtim, seni o makamda tutanın amına koyayım.<br/><br/>eğer yeterli tepki oluşursa, kuvvetle muhtemel görevden alınacaktır ama yetmez. <br/>bu alçak herif eğitim sektöründen atılmalı. öğretmenlik dahi yapamamalı. meb'den direkt ihraç edilmeli.
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
-    0.5 uç vs 0.7 uç
-  entry_id:  98736888
-  entry_writer: korrektur
-  entry_fav_count: 550
-  entry_content: |
-    tüm eğitim hayatım boyunca 0.7 uçlu kalem kullandım. 05'in varlığını hiç anlamlandıramadım. bunu bir farklılık gibi bünyemde taşıdım. sınıftaki '05 ucu olan var mı?' sorularına kulak asmadım, duyduğumda küçümsedim ve kınadım. 0.5'i kalitesiz, 0.7'yi kalite buldum. o yüzden 0.7'ciyiz...
-  entry_channels: anket
-- entry_name: |
     milletvekillerine kırmızıda geçme hakkı verilmesi
   entry_id:  98756828
   entry_writer: oddiedud
-  entry_fav_count: 539
+  entry_fav_count: 604
   entry_content: |
     direkt öldürme yetkisi versinler. ankaralı yayalar cadde geçerken tekrar düşünsün. adamlar neye kafa yormuş. utanmazlar.<br/><br/>adam dediğime bakmayın siz tabi.
   entry_channels: siyaset,haber
 - entry_name: |
-    5 tane premier league takımı sayamayan erkek
-  entry_id:  98730047
-  entry_writer: yarasiz yuz
-  entry_fav_count: 479
+    0.5 uç vs 0.7 uç
+  entry_id:  98736888
+  entry_writer: korrektur
+  entry_fav_count: 558
   entry_content: |
-    bir zahmet kendisine erkek dememesi gereken erkektir. delikanlı adam değil 5, 8 tane sayar.<br/><br/>1-manchester united<br/>2-everton<br/>3-chelsea<br/>4-leicester city<br/>5-newcastle united <br/>6-sheffield united<br/>7-ryan babel<br/>8-peter crouch
-  entry_channels: spor
+    tüm eğitim hayatım boyunca 0.7 uçlu kalem kullandım. 05'in varlığını hiç anlamlandıramadım. bunu bir farklılık gibi bünyemde taşıdım. sınıftaki '05 ucu olan var mı?' sorularına kulak asmadım, duyduğumda küçümsedim ve kınadım. 0.5'i kalitesiz, 0.7'yi kalite buldum. o yüzden 0.7'ciyiz...
+  entry_channels: anket
 - entry_name: |
     keşke seni o gece öldürüp gömseydim
   entry_id:  98746005
   entry_writer: nordka
-  entry_fav_count: 477
+  entry_fav_count: 490
   entry_content: |
     bu itin kendi açısından doğru söylem.1999 tarihli af(infaz)yasası'na göre,tecavüz suçları af kapsamına alınmadı ama cinayet suçları kapsam dahilinde idi.<br/>uygulamada,tecavüz eden cezaevinden çıkamadı ama tecavüz edip öldüren yasa'dan yararlanıp çıktı.<br/>dsp hükümeti.başbakan bülent ecevit.yardımcıları devlet bahçeli ve mesut yılmaz.hikmet sami türk,adalet bakanı.<br/>çıkardığı infaz yasası,dünyada eşi benzeri bulunmayan bir yasadır.tutarsızlık ve hukuk'a aykırılık nobeli olsaydı eğer bu yasanın mimarına verirlerdi.
   entry_channels: haber
 - entry_name: |
+    eski thy çalışanının şok eden açıklamaları
+  entry_id:  98749057
+  entry_writer: accikmalsinizamaolsun
+  entry_fav_count: 322
+  entry_content: |
+    üst edit : (bkz: (<a class="b" href="/entry/98751604">#98751604</a>)) özet.<br/><br/>evet sevgili arkadaşlar,<br/>her zaman olduğu üzere okuyacak durumu olmayan yazarlarımız için bir özet;<br/><br/>thy de çalışırken bir meslektaşım keyfi olarak işten atıldı. onun işe iade davasında tanıklık yaptım. tanıklığımda söylediğim sözler sebebi ile dava devam ederken görüşmeye çağırıldım ve üç müdür tarafından ifademin değiştirilmesi, neden ifade verdiğim, ifademde söylediklerim gibi konulardan baskıya uğradım. baskılar sonucunda istifa etmek zorunda kaldım. devlete ve tarafıma karşı işlenen suçlardan dolayı ceza davası açmaya ve mahkemede hesaplaşmaya çalıştım, olmadı. olduramadık. 23 ay önce vuku bulan bu hadiseden sonra yaptıklarım, yapılanlar, yapılamayanlar ve yapacaklarım ile ilgili öykü kıvamında uzun bir güncelleme yazısı olacak bu. <br/><br/>gündelik hayatınızda karşılaşmanız muhtemel olan bazı durumlar hakkında da bilgi sahibi olabilirsiniz. mesela “aman abi şahit yazarlar” ile ne kastediliyor, hakkınızı ararsanız başınıza neler gelebilir, hakkınızı nerelere aramalısınız, adli bürokrasi nasıl işliyor gibi... kaynak evraklara yazının altında yer alan indeksten ulaşabilirsiniz. dosya numaralarını açık bırakıyorum ki yarın, öbür gün evrakları referans olarak kullanabilesiniz. yine iddia olan evraklarda isimler kapatılmış ancak kesin kararlarda sadece istek üzerine bazı isimler kapatılmıştır. bazı kelimeler, okunurken anlamı yumuşatmak amacıyla kullanılmak zorunda olunduğu için kullanılmıştır.<br/><br/>efendim müsaadenizle artık yazıma başlıyorum. <br/>bazılarınızın bildiği üzere 2018 yılında “eski thy çalışanından şok açıklamalar” başlığını açtığımda daha iş mahkemesi duruşmalarım başlamamıştı. iş mahkemesi geçenlerde sonuçlandı. güzel haber, davamı kazandım ancak genel konu davayı kazanmamdan daha enteresan. <br/><br/>bunun için hep beraber 2019 ocak ayına gidiyoruz. 2018 yılında iş mahkemesine verilen cevap dilekçesinde “tanıklığımda sarf ettiğim sözler nedeniyle böyle bir görüşme yapıldığı” zaten kabul edilmişti. ancak 10 ocak 2019 yılındaki iş mahkemesi duruşmada eski iş verenim olan thy nin tanığı ki kendisi aynı zamanda iddia ettiğim suçu işleyen kişilerden biri ; “davacı tanıklık yaparken g…ı… ‘nın işten çıkartılma sebebine yönelik benzer şekillerde thy işten personel çıkartıyor diye beyanda bulunmuş, bizde buna istinaden neden bu şekilde beyan verdiğini sorduk, oda benim anayasal hakkım dedi, istediğimi söylerim şeklinde beyanda bulundu, bizde bunu bu şekilde ifade etmene gerek yoktu dedik,” şeklinde beyanda bulundu. <br/><br/>yani özetinde dedikleri şu; tanıklık yaptığı duruşma devam ederken, tanıklığında söylediği şeyler yüzünden görüşmeye çağırdık ve ifadesini neden bu şekilde verdiğini, ifadesini nasıl vermemesi gerektiği konularını konuştuk. tabi ifadesini bitirirken “sayın hakim biz baskı yapmadık” demeyi de ihmal etmedi. <br/><br/>biz baskı yapmadık dedi demesine de neye fayda. ağzından çıktı bir kere. açık açık dava devam ederken ifademe müdahale etmek amacıyla görüştüklerini ve konuştuklarını söylemiş oldu. duruşma tutanağı paşa paşa imzalandıktan sonra çocuklar gibi şen bir şekilde , takdir belgesi elinde eve koşan ilkokul öğrencisi gibi soluğu savcılıkta aldım. hatırlarsınız ilk suç duyurumuzda savcı beyanıma rağmen “suç yok, iş hukukunda oynayın” demişti. artık elimizde görüşmede yer alan adamın ifademe müdahale ettiklerini itiraf ettiği duruşma tutanağı vardı. <br/><br/>açık sözlü olmak gerekirse her davacının , avukatın, savcının hayalidir bu. karşı tarafın tanığı geliyor ve sizin iddialarının hepsine “evet, çağırdık. evet, konuştuk. evet, bunu yaptık” diyor. biz 100 tane tanık çağırsak bu kadar güzel, bu kadar etkili ifade verilemezdi. hele ifadeyi veren müsnet suçun şüphelisinin bir duruşma salonunda, yemin altında, imzalı böyle bir ifade vermesini kelimelerle tasavvur etmenin imkanı yok. <br/><br/>yeni delil oluştuğu için zaman kaybetmeden verdik suç duyurusunu. sonrasında heyecanla celplerin gitmesini beklerken savcı kararını açıkladı ; <br/>“şüphelinin üzerine atılı suçu işlediğine dair hakkına kamu davası açılmasını haklı gösterecek, delil ve emare elde edilemediğinden müsnet suçtan şüpheli hakkında kovuşturmaya yer olmadığına” karar verilmiştir. <br/>haydaa… sayın savcım, adam itiraf etmiş işte. beni oraya neden çağırdıklarını söylemiş, kimler vardı söylemiş, talimatı kimden aldıklarını söylemiş, ifademi ne şekilde vermemem gerektiği söylenmiş, eeee davada devam ediyorken yapılmış bunların tamamı.<br/><br/>yani savcının verdiği karara göre ortada suç olabilir ama delil yokmuş… suçu işleyen kişinin tanıklığında verdiği ifade itiraf değilmiş yada itiraf, delil değilmiş. yani “ifadesinde söyledikleri yüzünden çağırdık ve ifadesinde söylediklerini o şekilde söylememesi gerektiğini söyledik” itiraf değilmiş. yada onun gibi bir şeyler. artık siz nasıl anlarsanız. ben ne anladığımı söylesem pek hoş olmayacak. <br/><br/>benim aklım ermedi haliyle. aldım kararı, doğru savcının amiri olan cumhuriyet başsavcısının odasına. “sayın başsavcım, sizin savcınız böyle bir gerekçe sunuyor” dedim. oda işin içinden çıkamadı ve itiraz et dedi. “sayın savcım ilk suç duyurumda suç yok dediler, ikincisinde delil yok diyorlar. ben itiraz edeceğim etmesine ama bu bakırköy adliyesi’nde thy ye karşı **** ****** *****, ***** ******* ***** *** **? (görüşmenin bu kısmını hayal gücünüze bırakıyorum). <br/>ben itiraz edeceğim ama yine reddedecekler. bakın suç duyurusunda bulunuyorum; ben kendime karşı işlenen suçu geçtim sizin adliyenize karşı, devlete karşı suç işliyorlar. ağzından çıkmış; çağırdık, konuştuk dediği yeminli ifade var adamın” demiş bulundum… sağ olsun sayın cumhuriyet başsavcım “itiraz et” öğüdünü yenileyerek beni odasından uğurladı. <br/><br/>neyse, devam edelim. itiraz hakkımızı kullandık haliyle. bakırköy sulh ceza hakimliği “kovuşturmaya yer olmadığına dair karardaki gerekçeler usul ve yasaya uygun bulunduğundan yerinde görülmeyen itirazın reddine” kesin olarak karar verdi. <br/>yasa, hangi yasa?<br/>şu ; <br/>türk ceza kanunu’nun 277. maddesi: “(1) görülmekte olan bir davada gerçeğin ortaya çıkmasını engellemek veya bir haksızlık oluşturmak amacıyla, davanın taraflarından birinin, sanığın, katılanın veya mağdurun lehine veya aleyhine sonuç doğuracak bir karar vermesi veya bir işlem tesis etmesi ya da beyanda bulunması için, yargı görevi yapanı, bilirkişiyi veya tanığı hukuka aykırı olarak etkilemeye teşebbüs eden kişi, iki yıldan dört yıla kadar hapis cezası ile cezalandırılır. teşebbüs iltimas derecesini geçmediği takdirde verilecek ceza altı aydan iki yıla kadardır. (2) birinci fıkradaki suçu oluşturan fiilin başka bir suçu da oluşturması halinde, fikri içtima hükümlerine göre verilecek ceza yarısına kadar artırılır.”<br/><br/>ifadeye rağmen kovuşturmaya yer olmadığına dair kesin karar verildiği için istinaf mahkemesine itiraz başvurusu yapamayacağımdan artık ceza davası açtırabilmem pek mümkün görünmüyordu. ancak aklınızda olsun bu gibi hallerde anayasa mahkemesine bireysel başvuru yolu açık. süresi geçmeden başvuru yapmalısınız. bende bireysel başvuru hakkımı kullandım. şu an komisyonlar önünde incelemede. başvuru sayısı çok olduğu için karar ne zaman çıkar bilinmez. <br/>ancak başvuruyu yaparken yemin ederim içime sinmedi. zira devlete, devleti, hak ihlali için şikayet ediyorsunuz. nasıl oldu da bu hale geldi bu durum diye düşünmeden edemedim. <br/><br/>ben tanıktım. eeee? <br/>ifadeni değiştir dediler. eee? <br/>kanunen ben yapmam gerekeni yaptım ve suç duyurusunda bulundum. eee?<br/>reddettiler. eee? <br/>itiraz ettim… eee? <br/>yine reddettiler. eee? <br/>adam itiraf etti. eee? <br/>ben yine kanunen yapmam gerekeni yaptım ve suç duyurusunda bulundum. eee? <br/>yine reddettiler. eee? <br/>yine itiraz ettim. eee? <br/>şimdi devletle, devlete karşı işlenen suçu cezalandırsın diye davalığım. <br/>yani bu işte bir saçmalık yok mu? devleti, devlete, devlete karşı işlenen suçu cezalandırsın diye şikayet ediyorsunuz. akıl ermiyor…<br/><br/>görüşme odasından çıkarken o müdürlerden birinin dediği “sen merak etme, bize hiç bir şey olmaz” sözü aklıma geldikçe kuduruyorum. “bize bir şey olmaz...” <br/><br/>olacak abicim! size bir şeyler olacak. bırakmam ben bu işin peşini. gerekirse devleti devlete şikayet ederim ama bırakmam peşini. malum süreç uzun. e ben bu sürede boş duracak değilim ya. oturdum yargıtay kararlarını, içtihatları, usulleri çalıştım. kanun yararına bozmaya başvurabileceğimi fark ettim. kanun yararına bozma, verilen bir kararın kanuna muhalefet etmesi hallerinde başvurulan olağan üstü bir uygulamadır. istinaf yolu kapalı olarak hakimliğin verdiği kararlarda bu başvuru yapılabildiğinden ve benim kovuşturmaya yer olmadığına dair kararımı sulh-ceza hakimliği kesin olarak onayladığı için ve verilen kararın bana göre “kanuna muhalefet ettiğini” düşündüğüm için hemen başvurumu yaptım. <br/><br/>yani yasa teşebbüsü suç sayarken ve dava etmeye çalıştığım insanlardan biri “ifademi ne şekilde ifade etmemem” gerektiğini söylemişse, e dava da devam ediyorsa, bende "beni etkilemeye çalıştılar , bu "ifadenin değişmesi lazım dediler" demişsem ama savcı "delil yok" demişse bana göre bu yasaya muhalefet eden bir karar. bir nevi devleti devlete şikayet ediyorsun ama anayasa mahkemesinden farkı devleti, devlete, devlete karşı işlenen suçu kovuştursun diye şikayet etmesi için şikayet ediyorsun. ben aradan çekiliyorum, siz aranızda halledin demiş gibi oluyorsun. <br/><br/>hazır başlamışım durur muyum? devam… doğru hsk ya. ilk savcınız ve hakiminiz suç yok diyor, ikinci savcınız ve hakiminiz suç var ama itiraf var, delil yok diyor. karar sizin diyerek başvurumu yaptım. <br/>yani devlet olarak bir karar verin. yasa suç diyor ama savcı birinde suç yok diyor, diğerinde delil yok diyor. adamın yaptık ettik demesi itiraf mı sayılmıyor yoksa itiraf delil mi sayılmıyor? ortada bir suç var mı yok mu ona bir karar verelim. suç değilse kanunu değiştirin, suç ise kanunu uygulayın demeye geliyor yani bu başvurular.<br/><br/>karışıklık olmasın diye biraz açıklayayım. her vatandaşın hakkı olan bu üç başvuru arasındaki farklar şunlar. anayasa mahkemesi benim anayasa ile güvenceye alınmış haklarım olan adil yargılanma, temsil gibi haklarımın ihlali olup olmadığına karar verecek. verilen karara göre aleyhte olursa avrupa insan hakları mahkemesi yolu açılacak yada lehte bir karar çıkarsa başvurum üzerine ceza davası görülmeye başlanacak. en yüksek yargı mercii anayasa mahkemesi olduğu için vereceği karar artık kesin olacak. haklarımın ihlal edildiğine karar verirse bu saatten sonra benimle benzer durumda olan biri benim izlediğim yolları izlemek yerine anayasa mahkemesinin kararını herhangi bir davada referans gösterebilecek. <br/><br/>hsk yani hakimler savcılar kurulu, verilen kararda hakim ve savcının kusuru olup olmadığına bakacak. biri suç yok derken diğeri delil yok demiş. kusur var ise hakim ve savcı hakkında soruşturma açılacak ve yine bu karar ile başvuru yaptığımda ceza davası görülmeye başlanacak. kusur olsa da olmasa da uygulamayı kısaltmak açısından yine referans olarak gösterilebilecek. <br/>kanun yararına bozma ise içlerinde en hızlı ilerleyen uygulama. malum yasaya muhalefet eden bir karar varsa ortada ve bu karar bozulana kadar yine muhalefet eden bir karar çıkarsa süreç uzayacak ve verilen kararlarda çok başlılık ortaya çıkacak. kanun yararına bozma , verilen kararlara bir standart getirme amacıyla hakim ve savcılara yol gösterme amacı güder. kısacası yasa aslında bunu diyor der. kararları idari karardır. karar sonucunda düzeltmeye gidilir ve kamu davası açılır. kararları yine referans gösterilebilir. <br/><br/>bu kadar bilgilendirme yeterli. şimdi kaldığımız yerden devam edelim. <br/>“hsk başvurumu yaptım” dan devam ediyoruz. her hafta salı ve cuma günleri hsk ve kanun yararına bozmayı telefonla arıyorum. her aramamda aşağıdaki konuşma;<br/>“iyi günler benim başvurularım vardı. akıbetlerini öğrenebilir miyim?”<br/>“inceleme aşamasında.”<br/>“teşekkürler.”<br/><br/>tanıklık ile ilgili haklarım konusunda bir yanda da devletten bilgi almaya çalışıyorum. öyle ya, devletin bir sorumluluğu olmalı. devletin verdiği bir görevdir tanıklık. bazı haller dışında kaçışınız yok. telefonlar ediliyor, yazışmalar yapılıyor… sonuç ? yok. <br/>şunu öğreniyorum; tanıklar için davalar ikiye ayrılır. ceza davaları ve diğerleri. ceza davasında tanıksanız o zaman devlet bazı hallerde sizi korur. diğer davalarda devletin tanıkları yada tanıkların haklarını koruma, kollama gibi bir görevi yada bu görevi yerine getirecek bir kurumu yok. hatta tanıksanız ve benim gibi suç duyurusunda bulunursanız savcının biri suç yok, diğeri delil yok diyebilir. <br/><br/>adalet bakanlığı ile yaptığım telefon konuşmalarında da zira ana bina kapısından içeri almadılar, bir davada tanıklık yaptığınız için mağdur duruma düşerseniz devletin size karşı yapacağı bir şey yok. iş mahkemesinde tanıksınız, işveren sizi işten attıysa, baskı kurduysa yada istifaya zorladıysa ve devletim benim hakkımı savunur diyorsanız; hakkını iş mahkemesinde ara diyor. ha bu bilgiyi edinmek kolay olmadı. defalarca “adalet bakanlığı olarak biz adli konularla ilgilenmiyoruz, avukatınıza danışın” sözünü işittim. bu arada adalet bakanlığının görevleri başlığı altında yer alan <br/><br/>c) kamu davasının açılması ile ilgili olarak kanunların adalet bakanına verdiği yetkinin kullanılması ile ilgili çalışma ve işlemleri yapmak,<br/>maddesine göre dosya veya dilekçe kabul etmeden bu görevi nasıl yerine getiriyorlar bilemiyorum, bilemiyordum ama öğrendim. okumaya devam edin.<br/><br/>bu arada iş mahkemesi davam ediyor ama dava benim pek alımda değil. ceza davasını bir açtırabilsem, şunları bir hakim karşısına çıkartabilsem derdindeyim. hele elimdeki yeminli ifadenin yer aldığı duruşma tutanağı ile tek celsede hallolacak diyorum… kafamdan atıp da söylemiyorum bunları. bu süreçte hakimi, savcısı, baro başkanı, avukatı kim varsa danışıyorum. ortak soru şu: “karşı tarafın tanığı ciddi ciddi duruşmada böyle mi dedi?”<br/>“vallahi dedi, imzalı duruşma tutanağı bu” diyorum. kimsenin aklı sırrı ermiyor. olacak iş değil ya. adam geliyor duruşmaya “evet ifade verdiği için çağırdık. ifadesinde söylediği şeyleri konuştuk, ifadesinde o şekilde söylemesine gerek yoktu dedik” diyecek… ama oldu işte…<br/><br/>bir yandan her ihtimale karşı alternatifler neler onları araştırıyorum, bir yandan ifadenin delil olarak sağlamlığını soruşturuyorum. kimine göre ikrar, kimine göre kuvvetli delil ama ortak kanı bu ifade çok can yakar. hele ki ifade de görüşme kendi taktirinizle aldığınız bir karar mıydı yoksa talimat mı aldınız sorusuna talimatı personel müdürünün verdiğini sanıyorum demesi olaya yeni bir boyut kazandırıyor. talimat bakın… ta-li-mat. yapılan olay artık olağan bir hal almış ve talimat ile çalışan çağırılıp davada şunu şunu söyleyeceksin yada söylemeyeceksin demek talimat haline gelmiş. hey yavrum beee, ifadeye bak. <br/><br/>bu arada günler geldi geçti. benim iş mahkemesi davası karara bağlandı. davayı kazandım. bir süre bekledim gerekçeli karar çıksın diye. gerekçeli kararı beklemek yerine kararın yer aldığı duruşma tutanağı aldım, doğru ankara’ya. önce kanun yararına bozma başvurumun olduğu kızılay’daki adalet bakanlığı ceza işleri genel müdürlüğü’ne gittim ve kararı elden teslim ettim. yanımda tüm dosyanın bir kopyası daha vardı ve adalet bakanlığı yolun karşısındaydı. dedim “yürü”… geçtim karşıya, merhabadan sonra derdimi anlatmak istiyorum ben dedim. ben bir davada tanıklık yaptım, başıma bunlar geldi. adalet bakanlığının bu konu ile ilgilenen bir birimi yada yapabileceği ne var öğrenmek istiyorum. “randevusuz almıyoruz. şu numarayı arayın” deniliyor. <br/>arıyorum, derdimi anlatacak adam arıyorum diyorum, yok. sağ olsun girişteki güvenlikler ve kayıt memuru sağı solu arıyor ama kimse üstüne almıyor durumu. arıyorum “böyle böyle” diyorum, karşımdaki adli konularla ilgilenmiyoruz diyor… yahu ben adli bir şikayette bulunmayacağım ki, ben işleyiş hakkında idari bir bilgi alacağım. tanığın harcırahına varana kadar hesaplayan devlet, tanığın başına böyle bir hadise gelmesin diye yada gelirse onunla ilgilensin diye bir bölümü yok mu? yokmuş.<br/><br/>bir yer var gibi “mağdur hakları” diye ama orası da sadece mağdurlar ile ilgileniyor ve 2012 yılında açılmasına rağmen pek faaliyette değilmiş. öyle dediler valla, isteyen telefon kayıtlarımı alsın baksın. binlerce konuşma arasından elbet bulunur. olmadı adalet bakanlığının kamera kayıtları var. yazdıklarımın tamamı ya delilli yada tanıklı. ha benim yaşadıklarımı gördükten sonra tanık olurlar mı o ayrı. velhasıl biri en son dosyayı inceleyelim diye dilekçe ile kabul etti ama alındı belgesi vermediler. neme lazım, ne çıkacağı belli olmaz. belki de yol vermek için aldılar dosyayı, orası da bilinmez.<br/>ancak kesin bilgi yayalım, adalet bakanlığı adli konular ile ilgilenmiyormuş. görevleri arasında yer alan kamu davası konusu hala muallak ama. <br/><br/>aynı kararı sonra konya yolu üzerinde yer alan hsk ya yine kararı elden teslim ettim. ankara’yı gezdim, geldim. bitti mi? hayır, bunlar daha ara sıcak. asıl olaya gelmedik bile.<br/>hop! 2 gün sonra iş mahkemesinin gerekçeli kararı açıklandı. hem de nasıl bir gerekçeli karar...<br/><br/>“dosyada dinlenen tanık davacının istifaya zorlandığı, şirket aleyhine tanıklık yaptığı için idareden çağrıldığı ve sonrasında istifa belgesini imzaladığı iddiasını doğrulamıştır. bu kapsamda davacının iddialarını hem yazılı istifa belgesi hem de tanık beyanı ile ispatladığı değerlendirilmiş ve davalı şirketin davacıyı söz, tutum veya davranışlarıyla psikolojik ve duygusal baskı kurarak onu belli şekilde davranmaya yani iş sözleşmesini feshetmeye zorladığı bu kapsamda tanımda yer aldığı şekilde mobbing uyguladığı sabit olduğundan davacının kıdem tazminatına hak kazandığı anlaşılmış bu hususta davanın kabulüne karar verilmiştir. ayrıca davacının uğradığı psikolojik ve duygusal baskı sonucu manevi olarak yıprandığı kabul edilerek manevi tazminat talebinin de kısmen kabulüne karar verilmiş, davacının maddi olarak zarara uğradığına ilişkin doysa kapsamında delil olmadığından maddi tazminat talebinin reddine dair aşağıdaki şekilde karar verilmiştir.”<br/><br/>ben kararı elime aldığımda zaten “sabit olduğundan” kısmına kadar okuduğum an ankara’ya doğru yine yola çıkmıştım bile. yerel mahkeme ne diyor? baskı diyor… mobbing diyor…ifade verdiği için diyor…tanıkların ifadeleri diyor… ispatladı diyor… gerekçeli karar elde yine takdir belgesi gibi sallanırken doğru adalet bakanlığı ceza işleri genel müdürlüğüne. <br/>suratımda kocaman gülümseme “ya, ben davamı kazandım da…. gerekçesini dosyama ekler misiniz? kihkihkhihihikhi. herhalde hala karar aşamasındadır değil mi?”<br/><br/>ne demiştin sen müdür efendi? “sen merak etme, bize bir şey olmaz.” olacak efendim olacak. dur sen daha…<br/>günler geçiyor ve ben her salı ve cuma günü ankara’yı arıyorum. yine her salı olduğu üzere telefonla dosyamın akıbetini sordum. artık inceleme aşamasında olması o kadar olağan geliyor ki, ararken nasıl olsa hala inceliyorlardır diyorum bir yandan.<br/><br/>telefondaki kadın “sonuç açıklanmış, kanun yararına bozmaya gidilmemiş” dediğinde bir süre ne denildiğini anlayamadım. <br/>kanun yahu… muhalefet eden karar… eee ifade? o kadar eminim yani, hepsinden ret kararı çıkar ama kanun yararına bozmadan imkanı yok diyordum. teşebbüs bile suç, adam ifadesinde yaptık ettik demiş... bu ne perhiz, bu ne lahana turşusu. <br/>evrak tesliminde muhabbet arasında sormuşlardı “hakim başvurunuzu reddederse ne yapacaksınız” diye. o kadar eminim ki başvurudan. “o kadar yargıtay kararı var. hem hakim reddederse tck yı alın çöpe atın o zaman. yargı görevini yapan kişiye baskı yapmak suç değil demezler. o zaman adil yargılamayı nasıl tahsis edecekler” demiştim. <br/><br/>öyle ya, verdiği karar 277 ve 288 den hüküm giyenleri , giyecekleri bağlayacak. yönetmelik değil bu, koca türk ceza kanunu… her hangi bir davada biri hakime, savcıya, bilirkişiye, tanığa yada yargı görevini yürüten her kimse ona gidip baskı kursa, niye ifade veriyorsun, ifade vermek zorunda değilsin, ifadende doğruları söylemek zorunda değilsin, senin yüzünden davayı kaybederim, o ifade değişecek, kararı şöyle ver, şunu yap, bunu yapma” gibi sözler söylese ceza almayacak. olur mu öyle şey? olmaz değil mi? ama oldu...<br/><br/>sabah 4:30 da çıktım yola. doğru ankara’ya gerekçeli kararı almaya. gerekçeli kararı bırak, ortada daha karar yok. bakırköy cumhuriyet savcılığına gidiyor dosya. iyide ben başvuruyu oradan yapmadım ki… hem oranın kararına itiraz ediyorum. karar oradan tebliğ edilecekmiş. iyide tebliğ istemiyorum ben sadece kararı istiyorum dedim. internetten de alabilirsiniz denildi falan filan ben bir şekilde kararı internetten aldım. kararı da aşağıda paylaşacağım.<br/><br/>kararı aldım, hayretler içinde okuyorum…<br/>“yapılan soruşturma evresi sonunda bakırköy cumhuriyet başsavcılığınca verilen 18/01/2019 tarihli ve 2019/5793 soruşturma, 2019/3601 sayılı kovuşturmaya yer olmadığına dair karara karşı yapılan itirazın reddine ilişkin mercii bakırköy 1. sulh ceza hâkimliğinin 06/05/2019 tarihli ve 2019/2266 değişik iş sayılı kararını kapsayan dosya incelendi. dosya kapsamına, dayandığı gerekçeye ve mahkemenin takdirine nazaran bakırköy 1. sulh ceza hâkimliğinin 06/05/2019 tarihli ve 2019/2266 değişik iş sayılı kararı aleyhine kanun yararına bozma yoluna gidilmemiştir.”<br/><br/>“böyle bir kararı kim verebilir yahu” diyorum. <br/>şaban yılmaz. hakim. bakan a. bakan yardımcısı. <br/>anlamadım bir süre, satır mı karışmış , göbek adı mı bakan yada yardımcısı. yoo, gayet de adalet bakanı yardımcısı hakim şaban yılmaz imzalı. kararı o vermemiştir elbet ama imza onun.<br/>sonrasında ne alaka dedim tabi haliyle. ben haklıyım arkadaş. adam duruşmadaki ifadesinde bunları bunları söylemiş. haklıyım ben yahu!!!<br/><br/>“dosya kapsamına, dayandığı gerekçeye ve mahkemenin takdirine nazaran bakırköy 1. sulh ceza hâkimliğinin 06/05/2019 tarihli ve 2019/2266 değişik iş sayılı kararı aleyhine kanun yararına bozma yoluna gidilmemiştir” diyor.<br/>ne alaka… hem neden reddetsin ki? eeee ben haklıyımdım ama… adam da itiraf etmiş. <br/><br/>“merak etme sen, bize bir şey olmaz”....... olacak efendim olacak. illaki olacak. bugün olmasa yarın olacak. bırakır mıyım ben bu işin peşini? <br/><br/>neyse efendim, bir laf vardır; sorumluluğu olmayan yetki olmaz diye. aynı şekilde sorumluluğu olmayan kararda olmaz. velhasıl ben size verilen bu kararı da paylaşıyorum. nasıl olsa gizli bir evrak değil. koy internete birine lazım olur, değil mi?<br/><br/>şimdilik anayasa mahkemesi konu hakkında bir karar verene kadar sayın bakan yardımcısı imzalı karara uyacağız. <br/>yani tck 277 den yada 288 den dava açarsınız, açılır, açılmıştır yada ne bileyim emsal karar lazım olur yada tanık, savcı, hakim, bilirkişi gibi bir vazifeniz vardır ve gelir sizi etkilemeye çalışırlar; işte o hallerde referans alacağınız karar ektedir.<br/><br/>hala hsk ve anayasa mahkemesinde başvurularım değerlendiriliyor. bundan sonrası artık olumlu olursa ceza davası açılır, olmaz ise aihm. ha aihm ile kalacak mı? tabi ki hayır.<br/>derdim şu elimdeki ifade ile bir hakim karşısına çıkmak. ha olmuyor. ya kanunlar buna müsait değil yada benim hak ve suç olarak gördüğüm şeyler hak ve suç değil. madem ben bu ülkede bu adamlara dava açamıyorum; o zaman ne olacak? araştırırken fark ettim ki amerika'da şirketin bir sürü yatırımcısı varmış. bir kaç avukat ile görüştüm, elindeki tutanakla haksız fiilden dava açılır diyerek dönüş yapanlar oldu. şu an orada bu konu ile ilgili bir dava açılıp açılamayacağını araştırıyorlar. <br/><br/>şimdilik maalesef ki türk hava yolları, tanıklık görevinde bulunduğu için çalışanına baskı kuran, mobbing uygulayan bir şirket durumunda. maalesef diyorum çünkü onca sene emek vermişsin, temsil etmişsin. insanın zoruna gitmiyor değil. ancak bir yandan da suçu şirketler değil, gerçek kişiler işler diyorsun. cezasını nedense gerçek kişiler çekmiyor. istinaf mahkemesi yada yargıtay bu kararı bozarsa (!), bozmaz diye umuyorum ama "this is turkey , you know" ; bozana kadar da bu böyle bilinecek. <br/><br/>yukarıda da bahsettiğim gibi ceza davası için anayasa mahkemesi son kararı verene kadar adalet bakanı yardımcısı imzalı karara saygı göstereceğiz. tck 277 ve 288 in bu saatten sonraki uygulamalarına da hep beraber şahitlik edeceğiz. vallahi merak ediyorum, mahkemeye tanık diye çağırdığınız insan size "devletim tanıklığımdan sonra başıma gelebileceklerden sorumluluk almıyor. buda ispatı. o yüzden tanıklık yapmıyorum" dese, ne yapılacak? <br/><br/>öyle ya, tanığınız beni etkilemeye teşebbüs ettiler diye şikayet ediyor, tanığı etkilemeye çalışan kişi "biz ifadesinde bunları o şekilde ifade etmemesi gerektiğini söyledik" diyor. daha ne olacak? daha nasıl bir delil lazım? sahiden bu maddeden ne yapılınca ceza alınıyor? ne işe yarıyor bu madde? nasıl insanların adil yargılandığını söyleyebileceksiniz? devletin anayasada yazan görevi değil mi adil yargılanmayı garanti etmek? nasıl olacak o iş? <br/><br/>neyse efendiler, ne demişti müdür? “merak etme sen , bize bir şey olmaz”. olacak efendim, olacak… ben bu işin peşini bırakmam.<br/>sıkılmadan okuduğunuz için teşekkür ederim.<br/>linkler: <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3JPZ" title="https://imgbbb.com/image/LO3JPZ">başvuru1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3kvn" title="https://imgbbb.com/image/LO3kvn">başvuru2</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3xdl" title="https://imgbbb.com/image/LO3xdl">başvuru3</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3oOy" title="https://imgbbb.com/image/LO3oOy">bakan yardımcısı imzalı karar</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3bbi" title="https://imgbbb.com/image/LO3bbi">savcı kararı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3d16" title="https://imgbbb.com/image/LO3d16">hakim kararı</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3pDF" title="https://imgbbb.com/image/LO3pDF">iş mahkemesi1</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3UL8" title="https://imgbbb.com/image/LO3UL8">iş mahkemesi 2</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3jnC" title="https://imgbbb.com/image/LO3jnC">iş mahkemesi 3</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://imgbbb.com/image/LO3F6p" title="https://imgbbb.com/image/LO3F6p">iş mahkemesi 4</a><br/><br/>edit : yeni linkler eklendi.<br/>edit2 : başlık taşıyan başlığı taşıdı editi. teşekkürler başlık taşıyan.<br/>edit3: lanetli çaylak editi.<br/>edit4: arkadaşlar mesajlarınız için teşekkürler. meclis gündeminde 2018 yılında araştırma önerisi verildi. birileri(!) reddetmezse, araştırılacak. olayın ciddiyetini anlatamadım sanırım. devlet, adil yargılamayı güvence altına almak zorundadır. yarın davalık olduğunuz kişi yargılamaya müdahale ederse ve bunu itiraf etse bile ceza almayabilir.<br/>edit 5: filmi çıkarsa izlerim diyenlere hizmet olsun. <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/xAZAsQ2VeFA" title="https://youtu.be/xAZAsQ2VeFA">buyrun</a> 1 saat 22, dakika hemde türkçe.<br/>daha ikinci cümleyi okumadan özet geç diyenler ve özeti bile uzun bulanlar olduğu için özetin özeti şeklinde bkz: vermek zorunda kaldım. arkadaşlar zorlama yok. ilginizi çekmiyor olabilir. verilen kararı anlamamış olabilirsiniz. saygı duyarım ancak karar bana özel değil. ucu benim kadar sizinde anayasal hakkınıza dokunuyor. yaptıkları yanlarına kalmasın; yarın bir davanız olsa, gelip tanığınıza, avukatınıza, bilirkişinize , davanın hakimine yada savcısına dava devam ederken davayı kazanmak için baskı kurmasın diye uğraşıyoruz. yoksa koy cebine kıdem tazminatını, mobbingden de maddi-manevi tazminat davası aç. istinafta maddi zararı belgelendir; yurtdışında işim ve kalacak yerimde hazır; bas git. işin ciddiyetini başınıza gelince anlarsınız. o zaman yana yakına internetten emsal aramayın diye yazılıyor bunlar.
+  entry_channels: haber,havacılık
+- entry_name: |
     hakan şükür
   entry_id:  98737191
   entry_writer: insaatyaresulallah
-  entry_fav_count: 279
+  entry_fav_count: 285
   entry_content: |
     burak yılmazdan tek farkı oynadığı dönem dünyanın en önemli santrforlarından olmasıdır.
   entry_channels: spor,siyaset
@@ -54,23 +54,15 @@ data:
     her kadının can yaman için aldatacağı gerçeği
   entry_id:  98743260
   entry_writer: acilin ben jinekologum
-  entry_fav_count: 181
+  entry_fav_count: 187
   entry_content: |
     (bkz: <a class="b" href="/?q=ybsg">ybsg</a>)
   entry_channels: ilişkiler,magazin
 - entry_name: |
-    bein sports'un türkiye'den çekilmek istemesi
-  entry_id:  98745919
-  entry_writer: neorealism
-  entry_fav_count: 144
-  entry_content: |
-    dört gözle beklediğim olay. bir an önce çekilsin de şu kulüpler 35 yaşındaki adama 7 milyon euro maaş vermesin. kendi şirketinde 3 kuruşun hesabını yapanlar, kulüp başkanı olduğunda bol keseden para dağıtıyor. bunların hepsinden hesap sormayana devlet denmez.
-  entry_channels: spor,tv,haber,ekonomi
-- entry_name: |
     tdk'nın kadınlara kirli demesi
   entry_id:  98756793
   entry_writer: i ve been mistreated
-  entry_fav_count: 141
+  entry_fav_count: 159
   entry_content: |
     tdk'de böyle çok tanım var. burada tdk'nin amacı kadının pis, kötü bir varlık olduğunu ispatlamaya çalışmak değil, toplum dilinde kelimenin bu anlamda kullanıldığını tespit edip bilgiye sunmak. kelimelerin sizi memnun etmeyen anlamlarını kafanızı toprağa gömerek ya da kelimeyi sansürleyerek engelleyemezsiniz. zamanında ya tdk'den biri ya da benzer nitelikte biri "tdk sadece tespit eder. değişmesi gereken toplumdur, sözlük de onun aynasıdır" gibi bir şey söylemişti. ben de aynen böyle düşünüyorum.
   entry_channels: 
@@ -78,58 +70,50 @@ data:
     ömer bayram'ın ifşası
   entry_id:  98756143
   entry_writer: michauxnunkimi
-  entry_fav_count: 131
+  entry_fav_count: 134
   entry_content: |
     böyle kezbanların bir taraflarını kaldıranda suç. ifşa edilecek bir şey de yok ortada. anladık ablacım galatasaraylı bir futbolcu sana yazdı, seninle konuştu. çok önemli birisin.<br/><br/>bir de her şeyi haber diye paylaşıyorlar ya dumur oluyorum.
   entry_channels: 
 - entry_name: |
-    patates paketine soktuğum ayağımın resmi
-  entry_id:  98735907
-  entry_writer: sadan
-  entry_fav_count: 120
-  entry_content: |
-    çok cesurca, isyankâr ve bir o kadar da asi bir çıkış. ekşici ikiyüzlülüğümüzü suratımıza tokat gibi çarpan bir kompozisyon.<br/>salvador dali veya andy warhol yapsaydı baskılı tişörtünü giyerdiniz bu resmin.
-  entry_channels: anket
-- entry_name: |
-    türk erkeğine araba aldıran en büyük motivasyon
-  entry_id:  98747358
-  entry_writer: kadirc
-  entry_fav_count: 117
-  entry_content: |
-    evli çocuklu biri için arabasız dışarı çıkmak çok zor. araba şart iyi yada kötü
-  entry_channels: anket,otomotiv,ekonomi
-- entry_name: |
     microsoft'a mikrosoft diyenler
   entry_id:  98739372
   entry_writer: kisame
-  entry_fav_count: 116
+  entry_fav_count: 121
   entry_content: |
     bazılarınız doğmamışken microsoft ürünü kullanan tiptir
   entry_channels: 
 - entry_name: |
+    türk erkeğine araba aldıran en büyük motivasyon
+  entry_id:  98747358
+  entry_writer: kadirc
+  entry_fav_count: 120
+  entry_content: |
+    evli çocuklu biri için arabasız dışarı çıkmak çok zor. araba şart iyi yada kötü
+  entry_channels: anket,otomotiv,ekonomi
+- entry_name: |
     31 aralık 2019 gecesi evde oturacak yazar listesi
   entry_id:  98734059
   entry_writer: itsmejoker
-  entry_fav_count: 113
+  entry_fav_count: 114
   entry_content: |
     evimde her yıl yaptığım geleneksel yalnız yılbaşı kutlamasının dördüncüsünü gerçekleştirerek dahil olacağım liste. <br/><br/>yemek söyleyip klasikleşmiş <a class="b" href="/?q=home+alone">home alone</a> veya <a class="b" href="/?q=how+the+grinch+stole+christmas">how the grinch stole christmas</a> filmlerini açıp sırayla izlerim, abur cubur komasına girer saat on iki gibi balkona çıkarak dilek balonu uçuranları izlerim bazen balon uçmaz yere düşer onlara falan gülerim, sonra yatarım. yılbaşı bana böyle geliyor ya sıcacık evinde oturup keyif yaparak geçirilen bir gün.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    beyin yakan kadın isimleri
-  entry_id:  98735826
-  entry_writer: iyiyim ben boyle
-  entry_fav_count: 90
-  entry_content: |
-    açık ara <a class="b" href="/?q=aleyna">aleyna</a>.<br/><br/>anlamı: (arapça) '<a class="b" href="/?q=%c3%bczerimize">üzerimize</a>' (onto us)<br/><br/>tam bir cahil cühela ebeveyn turnusolüdür.<br/>bu ismi her duyduğumda sarkastik bir gülümseme hissi uyanır.<br/>kız kardeşinin adını da <a class="b" href="/?q=aleyk%c3%bcm">aleyküm</a> (<a class="b" href="/?q=%c3%bczerinize">üzerinize</a>) koyun bari. bu kadar bilinçsiz arap sevdası, saçma sapan, bir anlamı olmayan isimler koyulmasına neden oluyor ne yazık ki.<br/>halbuki ne kadar da çok türkçe güzel isim var.
-  entry_channels: anket
-- entry_name: |
     üç kelime ile güldür güldür'ü anlat
   entry_id:  98754269
   entry_writer: iammiracle
-  entry_fav_count: 86
+  entry_fav_count: 89
   entry_content: |
     stress atayım izleyerek.<br/><br/>gerçekten bir diziyi, programı beğenmeyebilirsin, bunu ifade de edebilirsin ancak sözlükdeki bu güldür güldür düşmanlığını anlamak mümkün değil. bırakın isteyen istediğini izlesin, isteyen istediğine gülsün. çok faşitce buluyorum benim güldüğüme sadece insanlar gülsün, başkasına gülmesin yaklaşımını.
   entry_channels: anket,tv
+- entry_name: |
+    bilgili kültürlü görgülü mütevazı saygılı türbanlı
+  entry_id:  98745154
+  entry_writer: iste buralar hep uzay
+  entry_fav_count: 88
+  entry_content: |
+    arkadaş bütün türbanlılarla konuşup böyle harika bir çıkarım yapmış sanırım. bu tarz toplumu ayrıştırıcı başlıklara ne zaman "ifade özgürlüğü" paravanının arkasından çıkarılıp bir yaptırım uygulanacak çok merak ediyorum. aynı şey kadın başlıkları için de geçerli.
+  entry_channels: siyaset,anket,moda
 - entry_name: |
     chp'li kız akp'li erkek ilişkisi
   entry_id:  98738658
@@ -139,18 +123,10 @@ data:
     akp li erkek kızın yanında imamoğlu güzellemeleri yapacak ama ilk seçimde yine akp ye oy verecektir.
   entry_channels: siyaset,ilişkiler
 - entry_name: |
-    bilgili kültürlü görgülü mütevazı saygılı türbanlı
-  entry_id:  98745154
-  entry_writer: iste buralar hep uzay
-  entry_fav_count: 83
-  entry_content: |
-    arkadaş bütün türbanlılarla konuşup böyle harika bir çıkarım yapmış sanırım. bu tarz toplumu ayrıştırıcı başlıklara ne zaman "ifade özgürlüğü" paravanının arkasından çıkarılıp bir yaptırım uygulanacak çok merak ediyorum. aynı şey kadın başlıkları için de geçerli.
-  entry_channels: siyaset,anket,moda
-- entry_name: |
     z kuşağının kurumsal köleliği bitirecek olması
   entry_id:  98726151
   entry_writer: yacute
-  entry_fav_count: 78
+  entry_fav_count: 79
   entry_content: |
     sürekli olarak gençlerle girişimcilik hakkında sohbetler yapıyorum, sunumlar düzenliyorum.<br/>saptamalarım şunlar:<br/><br/>- herkes girişimci olmak istiyor.<br/>- herkes zengin olmak istitor.<br/>- herkes özgür olmak istiyor.<br/>- herkes kölelik sisteminin farkında ve içinde olmak istemiyor.<br/>- hiç kimse çalışmak da istemiyor.<br/>- herkes girişimciliği oturduğu yerden yapmak istiyor.<br/>- kurulum aşamasında, girişimciliğin çok çalışmak olduğu, mesai saatinin olmadığını kölelik sisteminden daha çok emek harcamak gerektiğini söylediğinde inanmıyor. benim yanlış bildiğimi söylüyor hatta bazıları bana kızıyor.<br/>- sonra neredeyse hepsi gidiyor.<br/>- yeniden hiç emek harcamadan özgür ve zengin olacakları yeni bir yöntem aramayı tercih ediyorlar.<br/>- bu süreçte de ya ortalıkta boş boş geziyorlar ya da birilerine köle olmaya devam ediyorlar...<br/><br/>edit: imla<br/>(<a class="b" href="/?q=imla+sava%c5%9f%c3%a7%c4%b1lar%c4%b1">imla savaşçıları</a> iş başında! gene kaçamadık, yakalandık :) -ta değil -da'mış.)
   entry_channels: 
@@ -158,10 +134,18 @@ data:
     cennetteki ilk gün yapılacak şey
   entry_id:  98758154
   entry_writer: eksimtrack
-  entry_fav_count: 66
+  entry_fav_count: 75
   entry_content: |
     cv hazırlayıp iş aramaya çıkardım sanırım. o kadar alışmışız boktan düzene.
   entry_channels: anket
+- entry_name: |
+    6 aralık 2019 fenerbahçe'nin ofsaytlı golü
+  entry_id:  98762654
+  entry_writer: skumbag
+  entry_fav_count: 66
+  entry_content: |
+    rakipten gelen topta ofsayt bekleyen gerzek hezeyanı.<br/><br/>edit. aktif alan kuralının 2016'da değiştiğini bilmeyen mallar tarafından da desteklenmektedir.<br/>al ingilizcen varsa oku: "the new rule changes this situation as the attacking player in an offside position when the ball was kicked by a teammate who gets a rebounded or deflected ball after it was deliberately played by the opponent (except from a deliberate save), is no longer offside and is not considered to have gained an advantage."<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://nisoa.com/instruction/interscholastic-instruction/2016/04/29/offside-new-interpretation/" title="https://nisoa.com/instruction/interscholastic-instruction/2016/04/29/offside-new-interpretation/">https://nisoa.com/…4/29/offside-new-interpretation/</a><br/><br/>edit2. adamlar hala defansın topla oynamaya çalışması ofsaytı bozmaz diyor. bakalım kural ne diyor: "one example of the rule change would be if an attacking player plays the ball toward a teammate who is in an offside position (behind the defender) and the defender jumps to head the ball. the ball hits the defender’s head but he/she does not control it. the ball continues to the attacking player who was originally in the offside position. with this rule change the attacking player is no longer considered offside since the defender deliberately tried to play the ball."<br/><br/>yani diyor ki "defans oyuncusu topun kontrolünü sağlayamasa bile, topla bilerek oynadığı için hücum oyuncusu ofsaytta sayılmaz."<br/><br/>bir de yüzsüz gibi "hiçbir şey bildiğiniz yok" demiş adam lol.<br/>böyle böyle öğreteceğiz size kuralları merak etmeyin. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: spor
 - entry_name: |
     inci sözlük'te yazmış efsane nesil
   entry_id:  98738773
@@ -182,23 +166,23 @@ data:
     bayrampaşa'da okulu silahla basan barzo
   entry_id:  98759233
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 42
+  entry_fav_count: 50
   entry_content: |
     öyle bomba bir kuşak geliyor ki tayyip'in gözü arkada kalmasın.<br/>ülkenin ondan geri kalan kısmının da amına bunlar koyacak.<br/><br/>öğretmenin tavırları gerçekten takdirlik.<br/>öğrencileri sınıfa sokup, silahlı itin peşinden gitmesine şapka çıkardım.<br/><br/>gelelim bu piç kurusuna.<br/>hapse filan girmeyecektir. en fazla hükmün açıklanması geri bırakılacak ve sokakta gezmeye devam edecektir.<br/>muhtemelen okuldan kaydını alıp, eğitim! hayatına başka bir okulda devam edecektir.<br/>3-5 yıl sonra da eli para görmeye başlayınca, kenar mahallelerden birinde bir tabanca satın alacaktır.<br/>akabinde ilk kavgasında da bu silahı kullanacak ve haber olacaktır.<br/>sonra da yıllar önce de yeltendi başlığıyla ikinci haberin konusu olacak, buna rağmen iyi hal'den indirimi alacaktır.<br/>şaka maka ülke iyice raydan çıktı.
   entry_channels: haber
 - entry_name: |
-    yaş ilerledikçe azalan şeyler
-  entry_id:  98726142
-  entry_writer: agatersimpistir
-  entry_fav_count: 32
+    vedat muriqi
+  entry_id:  98763149
+  entry_writer: riot21
+  entry_fav_count: 46
   entry_content: |
-    ülkeye dair umudum...<br/>yaşama sevincim...<br/>hayattan aldığım zevk...<br/>hayallerim...<br/>kahkahalarım...<br/>iyi insanların varlığına olan inancım...<br/><br/>...azaldı
-  entry_channels: anket,ilişkiler,sağlık
+    rakip ceza sahasında stoper gibi kayarak top çalıp, santrafor gibi gol atmak.. bu kaçıncı level muriç?
+  entry_channels: spor
 - entry_name: |
     6 aralık 2019 fenerbahçe gençlerbirliği maçı
   entry_id:  98742771
   entry_writer: siyahhuydurbende
-  entry_fav_count: 28
+  entry_fav_count: 31
   entry_content: |
     gelen gecen tolga'ya sallamis yine. milyon eurolara gelip gotunu kaldirmayan mosesler rodrigesler duruken bedavaya gelmis, mac basi anlasmis gotunu disine takarak kosan adama giydiriyor. <br/><br/>sizin gibilere falcaolar persieler mustehak. sizden de, sizin taraftari oldugunuz kuluplerden de bir bok olmaz.
   entry_channels: spor
@@ -206,47 +190,23 @@ data:
     sevgilinin yalanını yakalamak
   entry_id:  98756695
   entry_writer: metetulpar
-  entry_fav_count: 27
+  entry_fav_count: 29
   entry_content: |
     eğer siz ona o güne kadar tek bir yalan dahi söylememiş biriyseniz, direkt şutlayın. <br/>bakın bu işin istisnası, affı, görmezden gelmesi, ötelemesi, aması vesairesi yok. <br/>taviz vermeyin o dakka basın tekmeyi götüne. <br/><br/>ama dedim ya sizin hiç yalan söylememiş olmanız şart. değilse zaten bok boku bulmuş. çokta takılmayın.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    vedat muriqi
-  entry_id:  98761475
-  entry_writer: gayri safii milli ariza
+    2 aralık 2019 uludağ'da kaybolan dağcılar
+  entry_id:  98726363
+  entry_writer: vinnyterenova
   entry_fav_count: 26
   entry_content: |
-    bugün iki gol bir asistlik performans sergileyecek olan panzer.
-  entry_channels: spor
-- entry_name: |
-    araba sileceği kaldırmak
-  entry_id:  98726180
-  entry_writer: marcus lucius
-  entry_fav_count: 21
-  entry_content: |
-    yaya kaldırımlarındaki engelli rampalarına ve daha da hayvancası kaldırımın üzerine araba parkedenlere itinayla uyguladığım eylemdir. genellikle onunla da yetinmeyip plaka ve lokasyon bilgisiyle şikayet ediyorum. saygısızlığa ve öküzlüğe zerre tahammülüm yok
-  entry_channels: anket,otomotiv
-- entry_name: |
-    tuvalet deliğinden gitmeyen bokun belini kırmak
-  entry_id:  98756244
-  entry_writer: bylaklak
-  entry_fav_count: 19
-  entry_content: |
-    yillar once yasadigim bir olayi anlatiyorum kiz arkadas yanima geldi ders falan calistik kiz lavaboya gitti bi 25 dakika gelmedi sonra kapiyi caldim <br/>-bi sorun yok degil mi <br/>+yok yok cikiyorum simdi <br/><br/>kiz geldi 5 dakika sonra cikmam gerekiyo deyip gitti <br/><br/>10 dakika sonra sans eseri tuvalete gittim allahimmmmm yarrabbim o gunleri bana neden gosterdin :( klozetin icinde tanimlayamadim bisey vardi kiz sicmamis sanki uzaydan bir cisim sicmis bu insan dickisi olamaz bu bildigin insaatta kullanilan tuglaydi...<br/>kiz bildigin evladini yatirir gibi yatirmisti...<br/><br/>15 dakika o tugla yiginini goturemedim.
-  entry_channels: anket
-- entry_name: |
-    hepsiburada.com
-  entry_id:  98728248
-  entry_writer: hitlerintorunu
-  entry_fav_count: 12
-  entry_content: |
-    eğer hukukun gerçekten işlediği bir ülke olsaydık insanlara yaşattığı bu mağduriyetten dolayı topu dikmişti çoktan ve iflas bayrağını çekmişti. ancak gel gör ki hukuki hakkını bile kullanamıyor mevcut durumda çoğu kişi. kullanabilse bile bir şeyler elde eder miydi? sanmıyorum. emin olduğum tek bir şey varsa o da bu rezil kepaze siteden son alışverişim olduğu.<br/><br/>tanım: insanların paralarını gasp edip ürünlerini yollamayan ve bundan dolayı herhangi bir yaptırıma da maruz kalmayan e ticaret sitesi.
-  entry_channels: teknoloji,ekonomi
+    okuduklarimla insanligimdan , insan oldugumdan utandim. utaniyorum!!!<br/><br/>su an islerim bozuk, dolayisiyla moralim de bozuk.<br/>ama o iki insanin,o iki yuregin kurtarilmasi icin,<br/>su satirlari yazdigim telefonu,oturdugum koltugu,sahip oldugum butun maddi materyallerimi feda ederdim onlarin hayata tutunabilmeleri icin.<br/><br/>sizler gibi insanligini, izanini kapitale satmis yaratiklar olmamak icin vazgecerdim sahip oldugum elimdeki avucumdakinden.<br/><br/>lanet olsun sizlere.<br/><br/>o iki yurekden hala iyi haberler bekliyorum. butun umudum ve insanligimla...
+  entry_channels: haber
 - entry_name: |
     çaylaklardan mesaj bekleyen yazarlar veritabanı
   entry_id:  98726306
   entry_writer: bukht nassar
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6l%c3%bcden+g%c3%b6t+isteyen+yazarlar+veritaban%c4%b1">ölüden göt isteyen yazarlar veritabanı</a>)
   entry_channels: ekşi-sözlük
@@ -259,6 +219,14 @@ data:
     rakı her şeyle içilir fakat salak adamla içilmez.<br/><br/>edit: <a class="b" href="/?q=atipikadam">atipikadam</a> ikaz etti salak adam değil salak insan... <br/><br/>(bkz: <a class="b" href="/?q=%c4%b1zd%c4%b1rab%c4%b1n%c4%b1+sikiyim">ızdırabını sikiyim</a>)
   entry_channels: anket,yeme-içme
 - entry_name: |
+    luiz gustavo dias
+  entry_id:  98762740
+  entry_writer: skumbag
+  entry_fav_count: 9
+  entry_content: |
+    bizim evden gol atan uyuşturucu baronu.
+  entry_channels: spor
+- entry_name: |
     ekonomide toparlanmalar daha da büyüyor
   entry_id:  98759668
   entry_writer: kolasinli
@@ -267,13 +235,13 @@ data:
     (bkz: <a class="b" href="/?q=b%c3%bcy%c3%bcyor+girmekte+olan">büyüyor girmekte olan</a>)
   entry_channels: 
 - entry_name: |
-    luiz gustavo dias
-  entry_id:  98762973
-  entry_writer: nabion bea
+    trendyol'daki kredi kartı bilgilerinin çalınması
+  entry_id:  98760468
+  entry_writer: uksk
   entry_fav_count: 7
   entry_content: |
-    bu adam harbi futbol oynuyor<br/><br/>bi bakmışsın defansta top alıyor bi bakmışsın forvette gol kovalıyor<br/>çok sakin ve temiz oynuyor<br/><br/>pres yapıyor top çalıyor alıyor veriyor oyun kuruyor <br/>itiraz etmiyor çirkeflik yapmıyor sessiz sakin<br/>emre, ozan, kruse'nin yaptıgını tek başına yapıyor.<br/><br/>bizi tercih ettiği için çok şanslıyız.
-  entry_channels: spor
+    insan alışveriş sitelerine güvenipte nasıl kredi kartını kayıtlı bırakır anlamıyorum. yıllar önce hepsiburada'da aynısı olmuş ve konu kimsenin umrunda olmamıştı.
+  entry_channels: programlama,teknoloji,haber,ekonomi
 - entry_name: |
     kokoreci süper olan mekanlar rehberi
   entry_id:  98744355
@@ -291,13 +259,29 @@ data:
     hiçbir kıza kendinden fazla değer verme.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    trendyol'daki kredi kartı bilgilerinin çalınması
-  entry_id:  98760468
-  entry_writer: uksk
+    türkiye'nin en gizli fetöcüsü ahmet necdet sezer
+  entry_id:  98763403
+  entry_writer: kilimanjero nun karli isleri
   entry_fav_count: 5
   entry_content: |
-    insan alışveriş sitelerine güvenipte nasıl kredi kartını kayıtlı bırakır anlamıyorum. yıllar önce hepsiburada'da aynısı olmuş ve konu kimsenin umrunda olmamıştı.
-  entry_channels: programlama,teknoloji,haber,ekonomi
+    en alenisi kim? rte mi?
+  entry_channels: siyaset
+- entry_name: |
+    masterchef türkiye
+  entry_id:  98757559
+  entry_writer: de8s
+  entry_fav_count: 5
+  entry_content: |
+    burada spoiler veren arkadaşı açıklıyorum "kıvanç". çünkü elendikten sonra spoiler kesildi demek ki kıvanç paylaşıyomuş<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: tv,yeme-içme
+- entry_name: |
+    selçuk bayraktar
+  entry_id:  98762998
+  entry_writer: trendlogic
+  entry_fav_count: 4
+  entry_content: |
+    geçen yılllarda imalat hattında prototipini gördüğümüz yeni nesil insansız savaş uçağının ilk adımıdır ki bu gurur verici ülke adına. muhalifiz ama muhalifliğimiz ülke sevdasına değil mi zaten. bu alanda dünyada 5-6 ülkenin yatırımını ve gelişimini görmekteyiz. gelinen noktada ise bunun başarılmış olması ayrı bir yerde konumlandırır ülkeyi. yerli savaş uçağı yapabilme donanımına ulaşılabilirliğin adımlarıdır bunlar. umarım bu alandaki gelişimler katlanarak devam eder.<br/><br/>selçuk bayraktar özelinde ise zaten akp ve damat yaftası ile eleştirilmediğini görüyoruz. siyasetten uzak bir şekilde işine odaklanması bunun en büyük artısı. genel olarak kimse damat bayraktar şöyle böyle demiyor zaten. görmek istediğimiz, olması gereken manzara da bu. mecburen bu şahıs başlığı altında tebrik ettiğimiz başarının asıl mimarları olan yüzlerce insanı da ayrı ayrı teşekkür etmek gerekir.
+  entry_channels: siyaset,teknoloji,ekonomi
 - entry_name: |
     ekşi itiraf
   entry_id:  98726829
@@ -307,13 +291,29 @@ data:
     sevdiğin biri gözlerinin önünde kendi hayatını mahvederken hiçbirşey yapamayıp seyirci kalmak ne zor birşeymiş.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    masterchef türkiye
-  entry_id:  98757559
-  entry_writer: de8s
+    yalnızlığı en iyi ifade eden kelime
+  entry_id:  98760811
+  entry_writer: hizli ve ofkeli tosbaga
   entry_fav_count: 3
   entry_content: |
-    burada spoiler veren arkadaşı açıklıyorum "kıvanç". çünkü elendikten sonra spoiler kesildi demek ki kıvanç paylaşıyomuş<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: tv,yeme-içme
+    attığın mesajlara kimsenin geri dönüş yapmaması.<br/><br/>tanım : acı, yalnızlığın tek kelime özeti.
+  entry_channels: 
+- entry_name: |
+    ptt kargo
+  entry_id:  98734449
+  entry_writer: belki de ben yolumu kaybettim
+  entry_fav_count: 3
+  entry_content: |
+    internetten yaptığım alışverişlerde "asla kendisi ile göndermeyin" diye bizzat belirttiğim kargo firması. özellikle <a class="b" href="/?q=gittigidiyor">gittigidiyor</a> satıcıları arasında çok yaygınlaşmış ve ben de belirtme ihtiyacı hissediyorum ister istemez. <br/><br/>16:30'da kargo kapanır mı yahu; eve teslim etmeleri günler sürüyor, hadi ondan geçtim ama iş çıkışı gidip alma şansımız da yok. bence hiç çalışmasalar daha iyi.
+  entry_channels: teknoloji,ekonomi
+- entry_name: |
+    max kruse
+  entry_id:  98763396
+  entry_writer: niccolo da vinci
+  entry_fav_count: 3
+  entry_content: |
+    bu adamın becerememesine rağmen şut atma çabası gerçekten takdire şayan. beceremiyorsun arkadaşım anla artık. 10 şut çekip 11'ini dışarıya atabilir mi bi insan? atabiliyormuş.
+  entry_channels: spor
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  98726140
@@ -323,14 +323,6 @@ data:
     çaylak erkekler.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    can yaman
-  entry_id:  98730528
-  entry_writer: doktor moreau
-  entry_fav_count: 3
-  entry_content: |
-    tahmini 30 sene sonraki "zamanın yıldızının şimdiki şok edici halini görmek için tıklayınız" başlıklı haberini görüp "aaa böyle bir adam vardı" demeyi iple çektiğim oyuncu.
-  entry_channels: tv,magazin
-- entry_name: |
     yeni kulaklığın bir süre sonra sesinin azalması
   entry_id:  98760374
   entry_writer: zehraaclkk
@@ -339,13 +331,13 @@ data:
     büyük tespit.<br/><br/>kimse bunu fark etti mi bilmiyorum ama yeni alınan kulaklık başta hayvan gibi ses çıkarır. hatta baş ağrısı yapmasın diye sesi bile kısılır. ama ne hikmetse 1 ay sonra o ses azalmaya başlar ve telefonun + tuşunun ırzına geçmeye çalışırsınız ses çıksın diye. bunu hala çözemedim.
   entry_channels: teknoloji
 - entry_name: |
-    yalnızlığı en iyi ifade eden kelime
-  entry_id:  98760811
-  entry_writer: hizli ve ofkeli tosbaga
+    bir kadını tamamen ele geçirmenin yolları
+  entry_id:  98763354
+  entry_writer: bayanacizane
   entry_fav_count: 2
   entry_content: |
-    attığın mesajlara kimsenin geri dönüş yapmaması.<br/><br/>tanım : acı, yalnızlığın tek kelime özeti.
-  entry_channels: 
+    salak avlama listesi. benim için bir insanı hayatımdan yaka paça siktir etme sebepleri, başka insanların nasıl "tavlanma" teknikleri olabiliyor ya aşırı trajikomik, çok eğlendim yine, teşekkür ederim.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  98731422
@@ -355,6 +347,22 @@ data:
     tüh sizin erkekliginize. bi de boy 1.85 yazmış. boy uzun da belliki beyin minimal. acz içinde dilenen zavallılar. organiniz bir yere girsin çıksın da, haysiyet, şeref falan hiç önemli değil.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    doğru insanı beklemek
+  entry_id:  98728551
+  entry_writer: serguzestyani
+  entry_fav_count: 1
+  entry_content: |
+    emek vermeden olmuyor, emek verince olmuyor. doğru insan diye bir şey yok boşuna bekleme yapmayalım.<br/>(bkz: <a class="b" href="/?q=ticari+bekleme+yapma">ticari bekleme yapma</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    ankara ak parti teşkilatının birbirine girmesi
+  entry_id:  98763747
+  entry_writer: canses5163
+  entry_fav_count: 1
+  entry_content: |
+    hep yapmak istemiştim:<br/><br/>yiyin birbirinizi ete para vermeyin.
+  entry_channels: siyaset
+- entry_name: |
     üstteki yazarın nickinin düşündürdüğü
   entry_id:  98757190
   entry_writer: patrik schwayze
@@ -363,21 +371,13 @@ data:
     kalitesiz korsan basım kitap
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    yeni yıldan beklentiler
-  entry_id:  98749306
-  entry_writer: degirmenderedeki smokinli adam
+    geceye bir şarkı bırak
+  entry_id:  98759699
+  entry_writer: hanging rock
   entry_fav_count: 0
   entry_content: |
-    ölmesi, evet o.
-  entry_channels: anket
-- entry_name: |
-    selçuk bayraktar
-  entry_id:  98763541
-  entry_writer: plini
-  entry_fav_count: 0
-  entry_content: |
-    çin senin yaptığın uçağın 3 katı hızında giden, 3 katı ağırlıkta mühimmat taşıyan ve radara yakalanmayan insansız savaş uçağı yapıyor, sen burda nerden toplandığı belirsiz parçaları birleştirip pervaneli uçak yapıyorsun. sonra biz bok atmış oluyoruz.<br/><br/>savaş teknolojisinde aynı dönemdeki diğer ülkelerle denk veya onlardan ilerde değilsen yaptığın aletin bir anlamı yok. şimdi çıkıp ikinci dünya savaşındaki pervaneli uçaklardan yapmanın ne kadar anlamı varsa bu yeni uçağın da o kadar anlamı var. <br/><br/>sizin anlayacağınız dilde anlatayım. rakipleriniz mersedes üretirken siz şahin üretiyorsunuz. diyorsanız ki bir yerden başlamak lazım, siz şahini adamların mercedesi geliştirdiği hızdan daha hızlı geliştirebilecek misiniz ki onlara yetişebilme hayali kuruyorsunuz. diğerlerinin sadece argeye ayırdığı miktar bizim toplam gsmh'mız kadar. kısacası lüzumsuz milliyetçilik gazıyla boş yapmayın.
-  entry_channels: siyaset,teknoloji,ekonomi
+    aşkın, acının, melankolinin ve piyanonun sultanı <a class="b" href="/?q=nina+simone">nina simone</a>: <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=gv9717YTmsQ" title="https://www.youtube.com/watch?v=gv9717YTmsQ">cotton eyed joe</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=5T3FXFnoTzE" title="http://www.youtube.com/watch?v=5T3FXFnoTzE">don't let me be misunderstood</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=CJA69C6SlRk" title="http://www.youtube.com/watch?v=CJA69C6SlRk">feeling good</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=fdZPMK_y2bc" title="http://www.youtube.com/watch?v=fdZPMK_y2bc">i put a spell on you</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=eYSbUOoq4Vg" title="https://www.youtube.com/watch?v=eYSbUOoq4Vg">my baby just cares for me</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=45BqY0cpapQ" title="http://www.youtube.com/watch?v=45BqY0cpapQ">my way</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=_raonMRuT54" title="http://www.youtube.com/watch?v=_raonMRuT54">sinnerman</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=T3B0iJQcXmk" title="https://www.youtube.com/watch?v=T3B0iJQcXmk">suzanne</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=57jXNMC1Vl4" title="http://www.youtube.com/watch?v=57jXNMC1Vl4">to love somebody</a><br/><br/>geçmiş, şimdi ve gelecek; lirik notaların sarmalında iç içe geçerken.
+  entry_channels: anket,müzik
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  98747201
@@ -395,11 +395,11 @@ data:
     geldi yine abazanlar
   entry_channels: anket,ilişkiler
 - entry_name: |
-    bir kadını tamamen ele geçirmenin yolları
-  entry_id:  98757490
-  entry_writer: allgirlsarebeatiful
+    33'ün 3 ile çarpımının 99 olması
+  entry_id:  98762861
+  entry_writer: profunhocasi
   entry_fav_count: 0
   entry_content: |
-    okurken dehşete düştüm, zira eski sevgilim bu maddelerin çoğunu uygulardı bana. <br/>bu durum illa kadınlar için değil, erkekler için de geçerli o halde. ulan çiçeğim diye seviyordum seni ben. içinde nasıl böyle şeytan büyüttün?
-  entry_channels: anket,ilişkiler
+    3'ün 33 ile çarpımının 99 olması ya da 3 tane 33'ün toplamının da 99 olması dikkat çeken bir durum.<br/>ömer çelakıl neredesin?
+  entry_channels: 
 ---
