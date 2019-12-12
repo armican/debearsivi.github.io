@@ -6,7 +6,7 @@ data:
     akademisyenlere yabancı dil zorbalığı
   entry_id:  99014847
   entry_writer: mrbostanci
-  entry_fav_count: 1044
+  entry_fav_count: 1069
   entry_content: |
     yds’den mi kaldın çen. vasıfsız çeni. çalışmak koyuyor di mi lan? alışmışsın var yemeye çalışmak gerekince tutuşuyorsun. adım gibi eminim torpili vs ayarladın barajı geçemedin diye ‘hakeden’ birisini alacaklar ona tutuluyorsun.
   entry_channels: eğitim
@@ -14,23 +14,15 @@ data:
     hosteslerin garsonluk yaptığını sanan hadsiz yolcu
   entry_id:  99013436
   entry_writer: boxer kisot
-  entry_fav_count: 733
+  entry_fav_count: 744
   entry_content: |
     hosteslerin pilot olduğunu öğrendiğim başlık. <br/>özellikle hostes olmadan, o uçak kalkmaz tespiti ile....
   entry_channels: havacılık,seyahat
 - entry_name: |
-    şampiyonlar ligi'nin san marino'su
-  entry_id:  99008647
-  entry_writer: zibidigo
-  entry_fav_count: 548
-  entry_content: |
-    bir türlü galibiyet alamayan, 1 gol atabilirse büyük sevinen, büyük farklarla maç kaybeden takımdır. <br/><br/>düşünüyorum da var sanki böyle bir takım.
-  entry_channels: spor
-- entry_name: |
     faiz parasıyla geçinmek
   entry_id:  99022501
   entry_writer: ondeki taksiyi takip et
-  entry_fav_count: 514
+  entry_fav_count: 538
   entry_content: |
     faizle geçinemeyiz ama tarla alıp 2 katına satarız, araba alıp ederinin çok üstünde satarız :p ama aslaaaaaaaaaaaa faiz yemeyiz çünkü müslümanız. lol
   entry_channels: ekonomi
@@ -38,7 +30,7 @@ data:
     erdoğan'dan imamoğlu'na kanal istanbul ayarı
   entry_id:  99023610
   entry_writer: juggernaut
-  entry_fav_count: 477
+  entry_fav_count: 513
   entry_content: |
     hep aynı şey. sol parti bize engel oluyor geyiği. kimsenin geçmediği otobanlar, köprüler gibi ekolojik dengeyi nasıl etkileyeceği belirsiz, son derece riskli görünen, müteahit zengin edici bir projeye insanların evet demesini bekliyorsunuz. buna da ülkenin önünü açmak diyorsunuz. kanal istanbul yapılmayacak çünkü ortada öyle bir para yok. ancak seçim malzemesi, popülizm amacıyla arada hortlatılıp unutturulacak. <br/>istanbul'da ekrem imamoğlu metro yapmak için dış kaynak ararken, ankara'da mansur yavaş otobüs almak için yabancı kredi aramak zorunda bırakılmışken hala gidip kanal istanbul'dan bahsedebiliyor olmak için insanın utanmasının olmaması gerekir.
   entry_channels: siyaset,ilişkiler,tv,haber,ekonomi
@@ -46,7 +38,7 @@ data:
     where ru from sorusuna turkey diyememek
   entry_id:  99015821
   entry_writer: bigkahuna
-  entry_fav_count: 273
+  entry_fav_count: 280
   entry_content: |
     bir adama ülkesinden dolayı ayrımcılık yapan adam çomardır, o ortamdan uzaklaş kardeşim.
   entry_channels: ilişkiler
@@ -54,7 +46,7 @@ data:
     5 ocak 2020 sigara zammı
   entry_id:  99009802
   entry_writer: eylul firtinasi
-  entry_fav_count: 232
+  entry_fav_count: 236
   entry_content: |
     gene başlar boykotlar, çağrılar, sigara bırakmalar falan.<br/>2 gün sonra tısss.<br/>biiii bok yiyemezsiniz (ferhan şensoy gibi telaffuz var burada)
   entry_channels: sağlık,haber,yeme-içme,ekonomi
@@ -70,7 +62,7 @@ data:
     1 saat ömür kalsa yapılacaklar
   entry_id:  98997633
   entry_writer: freudiana
-  entry_fav_count: 187
+  entry_fav_count: 190
   entry_content: |
     hayvan gibi yemek yerim. karbonhidrat, kızartma zararlı ne varsa. üstüne nutella kaşıklarım biraz. üstüne bi çay-sigara. ohh yazarken bile keyif aldım ölmüş kadar oldum:)
   entry_channels: anket
@@ -78,7 +70,7 @@ data:
     melih gökçek'in moldovyalı masözü
   entry_id:  99010334
   entry_writer: day zero
-  entry_fav_count: 152
+  entry_fav_count: 154
   entry_content: |
     melih gökçek döneminde ankara büyükşehir belediyesi iştiraki anket a.ş’ye manuel terapist olarak alınan moldova uyruklu ana a.’nın 3 bin 800 tl maaşla başkanlık konutunda görevlendirildiği belgelendi.<br/><br/>eski ankara büyükşehir belediyesi (abb) başkanı melih gökçek döneminde abb iştiraki anket a.ş. üzerinden işe alınan moldova uyruklu ana a’nın şirkette değil başkanlık konutunda görevlendirildiği belgelendi.<br/><br/>birgün’den mustafa mert bildircin’in haberine göre, ana a.’nın sözlü olarak görevlendirildiği başkanlık konutunda, “manuel terapist” olarak çalıştığı öğrenildi. akp’li cumhurbaşkanı recep tayyip erdoğan ile 23 ekim 2017 tarihinde yaptığı görüşmenin ardından 23 yıldır yürüttüğü ankara büyükşehir belediye başkanlığı görevinden istifa eden melih gökçek döneminde, belediye kaynaklarından yapıldığı belirlenen usulsüz harcamalardan bir yenisi daha ortaya çıktı. gökçek’in, dini-milli bayramlar ile özel gün kutlamaları ve çeşitli organizasyonları gerçekleştirmekle görevli anket a.ş. bünyesinde sgk ile işe girişi yapılan yabancı uyruklu bir çalışanı, kendi konutunda çalıştırdığı ortaya çıktı.<br/><br/>moldova uyruklu ana a. isimli personel, 13 ağustos 2012’de anket a.ş. kadrosuna alındı. abb müfettişlerinin incelemeleri sonucunda, kadın personelin şirket bünyesinde çalışmadığı anlaşıldı. “manuel terapist” olarak iş başvurusunda bulunan ana a. sözlü talimatla altı yıl boyunca başkanlık konutunda çalıştırıldı.<br/><br/>ana a, gökçek’in yerine ankara büyükşehir belediye başkanlığı’na getirilen mustafa tuna göreve başlamadan bir ay önce başkanlık konutundan ayrıldı. ana a., tuna’nın göreve geldiği 6 kasım 2017 tarihinden tam bir ay önce, eylül 2017’de, görevlendirildiği başkanlık konutundan ayrılarak anket a.ş.’de fiili olarak göreve başladı.<br/><br/>aylık 3.8 bin tl maaş<br/><br/>13 eylül 2012’de işe girdiği anket a.ş.’den 15 şubat 2018’de iş akdi feshedilene kadar yalnızca altı ay boyunca fiili olarak çalışan ana a.’nın net maaşının da 3 bin 813 tl olduğu bildirildi. kadına, arabuluculuk yöntemi ile 35 bin tl de tazminat ödendiği öğrenildi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tele1.com.tr/wp-content/uploads/2019/12/tutanak.jpg" title="https://tele1.com.tr/wp-content/uploads/2019/12/tutanak.jpg">belge</a><br/><br/>(bkz: <a class="b" href="/?q=vay+anam+vay+neler+d%c3%b6nm%c3%bc%c5%9f+serhat+ya">vay anam vay neler dönmüş serhat ya</a>)
   entry_channels: siyaset,sağlık
@@ -86,7 +78,7 @@ data:
     ben ingilizin dilini bilmek zorunda mıyım
   entry_id:  99017898
   entry_writer: bildiginiinsanligasunanadam
-  entry_fav_count: 127
+  entry_fav_count: 130
   entry_content: |
     kendi dilini öğren kafiiii.<br/><br/>edit: <a class="b" href="/?q=ba%c5%9fl%c4%b1k+ba%c5%9fa+kalm%c4%b1%c5%9f">başlık başa kalmış</a> ahahah. <br/><br/>2.edit: modlar başlığı düzeltti. orijinali <a class="b" href="/?q=ben+ingilizin+dilini+bilmek+zorunda+m%c4%b1y%c4%b1z">ben ingilizin dilini bilmek zorunda mıyız</a> şeklinde açılmıştı.
   entry_channels: 
@@ -102,26 +94,26 @@ data:
     oturulan evin en can sıkıcı özelliği
   entry_id:  99011636
   entry_writer: merryperry
-  entry_fav_count: 87
+  entry_fav_count: 98
   entry_content: |
     kendi evim olmaması...
   entry_channels: anket
 - entry_name: |
-    otel odasından çıkarken yatak toplayan kadın
-  entry_id:  99011499
-  entry_writer: ooopapatya
-  entry_fav_count: 86
-  entry_content: |
-    otel odasından ayrıldıktan sonra zaten tüm çarşaf, yastık kılıfı vs.nin yıkanmak için alınacağını bilmeyen insandır. alınmıyorsa zaten o otelde kimse kalmasın.<br/><br/>niye küfür etsin görevli? ya da işini yapmasına müsaade ediyorum diye niye çorbama tükürsün? <br/><br/>her işin gerekleri vardır. işgüzarlık etmenize gerek yok, zorlaştırmayın insanların işini yeter.
-  entry_channels: 
-- entry_name: |
     türkiye'de yerleşmediğine en çok üzülünen kültür
   entry_id:  99018458
   entry_writer: lepiska sacli kapuska
-  entry_fav_count: 78
+  entry_fav_count: 91
   entry_content: |
     (bkz: <a class="b" href="/?q=pub+k%c3%bclt%c3%bcr%c3%bc">pub kültürü</a>)
   entry_channels: ilişkiler,eğitim
+- entry_name: |
+    otel odasından çıkarken yatak toplayan kadın
+  entry_id:  99011499
+  entry_writer: ooopapatya
+  entry_fav_count: 88
+  entry_content: |
+    otel odasından ayrıldıktan sonra zaten tüm çarşaf, yastık kılıfı vs.nin yıkanmak için alınacağını bilmeyen insandır. alınmıyorsa zaten o otelde kimse kalmasın.<br/><br/>niye küfür etsin görevli? ya da işini yapmasına müsaade ediyorum diye niye çorbama tükürsün? <br/><br/>her işin gerekleri vardır. işgüzarlık etmenize gerek yok, zorlaştırmayın insanların işini yeter.
+  entry_channels: 
 - entry_name: |
     fatih terim
   entry_id:  98999085
@@ -134,18 +126,18 @@ data:
     avm girişinde arabanın bagajına bakılması
   entry_id:  99023955
   entry_writer: hedegitsin
-  entry_fav_count: 73
+  entry_fav_count: 75
   entry_content: |
     t: lpg'li araçları kapalı otoparka almamak için yapılan uygulamamsı<br/><br/>yapılmasına yapılıyor da ne hakla amk? niye lpg'li araçlar alınmıyorlar kapalı otoparka? insanlar boşuna mı lpg sızdırmazlık belgesi alıyorlar? madem lpg bu kadar tehlikeli, e o zaman satışı da yapılmasın. koca koca yakıt istasyonları var amk yerinde, onları da kapatsınlar bari.<br/><br/>delilerin kuyuya attığı taşları hiç sorgulamayan milletin gereksiz uygulamalarından biri işte.
   entry_channels: haber,otomotiv
 - entry_name: |
-    34 pr 1443 plaka aracın trafiği tehlikeye atması
-  entry_id:  99023153
-  entry_writer: macedonia
-  entry_fav_count: 59
+    çalışan kadınlara doğum yasağı getirilmeli
+  entry_id:  99023116
+  entry_writer: vaalbara
+  entry_fav_count: 53
   entry_content: |
-    kadına biraz daha baksaydım erkeklerden hoşlanmaya başlayacaktım.<br/><br/>not: allah aile bireylerine sabır versin. <br/>otobüs hatalı olsa bile,yola arabasını çapraz park edip,yolu kesen kadın,evde adamın penisini keser kuran çarpsın.
-  entry_channels: haber
+    süreli kontratlı personel temini yapacaksınız. ücretsiz izin ile uzatacağını düşünerek ona göre bir süre belirleyin. insanlar ne zaman hamile kalacağını şirketlere mi soracak?<br/><br/>sadece orta doğu ülkelerinde sorun edilecek bir durum. bunlar iş görüşmesinde evli misin diye de soruyordur utanmadan.
+  entry_channels: siyaset,ekonomi
 - entry_name: |
     ağrı'da 4 teröristin öldürülme anı
   entry_id:  99019754
@@ -155,34 +147,18 @@ data:
     evden el bombası atıp kalaşnikof ile karşılık veren orospu çocukları için "dağda kim oldukları belli olmayan insanlar" diye bahseden bir adet orrrrrrrrrrrrrrrospu çocuğunu içeren başlık. insan hayret ediyor.<br/><br/>edit: kaçarsa ekran görüntüsü bende pkk sempatizanının...
   entry_channels: siyaset,haber
 - entry_name: |
-    çalışan kadınlara doğum yasağı getirilmeli
-  entry_id:  99023116
-  entry_writer: vaalbara
-  entry_fav_count: 49
+    bir kadını 1.5 saat telefonda konuşmaya iten şey
+  entry_id:  99030130
+  entry_writer: junshi
+  entry_fav_count: 51
   entry_content: |
-    süreli kontratlı personel temini yapacaksınız. ücretsiz izin ile uzatacağını düşünerek ona göre bir süre belirleyin. insanlar ne zaman hamile kalacağını şirketlere mi soracak?<br/><br/>sadece orta doğu ülkelerinde sorun edilecek bir durum. bunlar iş görüşmesinde evli misin diye de soruyordur utanmadan.
-  entry_channels: siyaset,ekonomi
-- entry_name: |
-    ajda pekkan'lı ergül mobilya reklamı
-  entry_id:  99022634
-  entry_writer: naletolsun
-  entry_fav_count: 45
-  entry_content: |
-    mobilyaya atacakları cilanın büyük kısmını ajda pekkan'a atmışlar.<br/><br/>pırıl pırıl parlıyor koca çınar.
-  entry_channels: 
-- entry_name: |
-    alaçatı esnafı
-  entry_id:  99018715
-  entry_writer: corsairsgold35
-  entry_fav_count: 40
-  entry_content: |
-    daracık sokağa hayvan gibi yayılan esnafların cirit attığı kasabadır.. türkiye'nin en abartılmış yeridir. adamlar köy evlerini meyhaneye çevirip 35 lik rakı ve meyve tabağına 350 tl fiyat yazıyorlar. işin içine balık falan girerse 500 tl'yi gözden çıkarın. aslında bu esnaflara kızamıyorum. asıl kızdıklarım ise talep eden müşterilerdir.<br/><br/>(bkz: <a class="b" href="/?q=tahta+sandalye">tahta sandalye</a>)
-  entry_channels: yeme-içme,ekonomi,seyahat
+    çenesidir.<br/><br/>hatta hiç unutmuyorum, otobüs yolculuğu yapıyoruz. mübareğin birisi tam otobüs şoförünün arka koltuğuna bilet almış.<br/>araba kalkarken konuşmaya başladı, mola yerine kadar, üç saat telefonla konuştu.<br/>mola yerine yaklaşırken şoför otobüsü sağa çekip ya bu kadın telefonu kapatsın ya da ben gitmiyorum demişti.<br/><br/>asderrgjewrjgejrg
+  entry_channels: anket
 - entry_name: |
     sevgiliniz sizi bıraksa mı üzülürsünüz ölse mi
   entry_id:  99024818
   entry_writer: kiymali pide
-  entry_fav_count: 39
+  entry_fav_count: 40
   entry_content: |
     herkesin bir ailesi var, sevdikleri var. bir insan neden bir insanın ölmesini istesin? bıraksa ne olur dünyada milyonlarca kadın erkek var, illa ki herkesin bir nasibi var.
   entry_channels: anket,ilişkiler
@@ -190,10 +166,18 @@ data:
     kız arkadaşın eve çağırıp 10 saat lotr izletmesi
   entry_id:  99025084
   entry_writer: second
-  entry_fav_count: 37
+  entry_fav_count: 40
   entry_content: |
     böyle geek bir hatun varsa eklesin.<br/><br/>oğlum salak misiniz seksten baska hiçbir şey bilmiyor musunuz siz ? ortak zevkler ve paylaşım diye birşey vardır.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    kızların sözlüğü erkek düşürmek için kullanması
+  entry_id:  99015056
+  entry_writer: degneksiz
+  entry_fav_count: 39
+  entry_content: |
+    bırakın düşürsünler dediğimdir. ne olur yani düşürseler. şuradan mutlu mutlu ilişkiler çıksa herkes birbirini sevse. en ufak konuyu küfür kıyamet tartışanlar daha mı iyi sanki... ablanız olarak sonuna kadar destekliyorum.
+  entry_channels: ilişkiler,ekşi-sözlük
 - entry_name: |
     kadın sürücülerin yol vermeme huyu
   entry_id:  98998193
@@ -203,29 +187,37 @@ data:
     bir gün epey dik bir yokuştan çıkıyorum.<br/>yokuşun her iki tarafına park etmiş arabalar yüzünden belli bölgelerde 2 aracın geçişine imkan yok.<br/>hanımefendi yokuş çıktığımı ve 2 aracın geçemeyeceği bölgeler olduğunu görmesine rağmen park halindeki aracını hareket ettirdi ve söz konusu bölgeye benden 5 metre önce geldi.<br/>sağa çekip geçmesini beklemek dışında seçeneğim kalmamıştı.<br/>oysa trafik derslerinde vurgulanan çok basit bir kuraldır.<br/>yokuşta geçiş hakkı yokuş çıkanındır.<br/>hadi ben acemi değilim, yokuşta dur-kalk problemim yok,<br/>lakin benim yerimde acemi biri de olabilir ve durduktan sonra tekrar hareketlenmede sıkıntı yaşayabilirdi.<br/>maalesef ki kadınlarımız yolun ortasından yürüme, yarım adım kenara atmaktan imtina edip karşıdan geleni kaldırımdan aşağı atma öküzlüklerini trafiğe de taşıdı.<br/>şunu çok ciddi söylüyorum ki, ehliyet sınavlarında geçiş önceliği hangisinindir türü şekilli sorulara "kadın sürücünün" cevap şıkkı konsa, kadınlarımızın %90'ı o şıkkı işaretleyecek küstahlık ve zeka seviyesinde.
   entry_channels: anket,otomotiv,motosiklet
 - entry_name: |
-    kızların sözlüğü erkek düşürmek için kullanması
-  entry_id:  99015056
-  entry_writer: degneksiz
-  entry_fav_count: 34
-  entry_content: |
-    bırakın düşürsünler dediğimdir. ne olur yani düşürseler. şuradan mutlu mutlu ilişkiler çıksa herkes birbirini sevse. en ufak konuyu küfür kıyamet tartışanlar daha mı iyi sanki... ablanız olarak sonuna kadar destekliyorum.
-  entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
-    greta thunberg
-  entry_id:  99030331
-  entry_writer: jean auguste dominique ingres
-  entry_fav_count: 28
-  entry_content: |
-    liberal batı medyası da bizim yandaş medya gibi kendi çalıp kendi oynuyor.<br/><br/>yeni bir argümanı olmayan, bir başarı veya ayrıştırıcı bir özellik ortaya koymadan bir garip çocuk bir anda dava neferi oluyor.<br/><br/>küresel ısınmanın etkileri azaltılacaksa,<br/><br/>- fosil yakıta bağlı elektrik tüketimi azaltılmalı<br/>- araba kullanımı kısıtlanmalı<br/>- endüstriyel hayvancılık sınırlandırılmalı<br/>- uçak neredeyse 50 sene öncesi kadar az binilir olmalı<br/>- uzun vadede nüfus artışı durdurulmalı<br/><br/>gibi bütün modern hayatı etkileyecek ciddi adımlar atılması gerekiyor.<br/><br/>bu adımları atmak <a class="b" href="/?q=kapitalizmin+kendisini+imhas%c4%b1">kapitalizmin kendisini imhası</a> anlamına geldiği için mümkün değil.<br/>greta da gaz alıyor.<br/><br/>time dergisi kapağındaki poz bile konunun ileri derecede bir kurgu olduğunu gösteriyor. adeta bir green nusret.
-  entry_channels: siyaset,bilim,haber
-- entry_name: |
     bir insanın kendisine yapabileceği en büyük iyilik
   entry_id:  99019153
   entry_writer: gobekadimvictoria
-  entry_fav_count: 27
+  entry_fav_count: 31
   entry_content: |
     kendini sevmek. hatta en çok kendini sevmek. kendini sevdiğin zaman her sorun çözülüyor, her zorluk aşılıyor. ben kendimi çok seviyorum.
   entry_channels: anket,sağlık
+- entry_name: |
+    boğaziçi mezunu kadına yürüyen itü mezunu
+  entry_id:  99031203
+  entry_writer: smasherz19
+  entry_fav_count: 28
+  entry_content: |
+    (bkz: <a class="b" href="/?q=bo%c5%9f+bakkal+ta%c5%9fak+tartar">boş bakkal taşak tartar</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    erkekler neye aşık olur
+  entry_id:  99004109
+  entry_writer: my neurons are full of adonis
+  entry_fav_count: 25
+  entry_content: |
+    her erkek aşık olur ama her erkek neye aşık olduğunu bilemez. <br/>kadınlar nadiren aşık olabilir ama her kadın, neden aşık olamadığını gayet iyi bilir.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    kadınlarımızı astronot yapmak istiyorlar
+  entry_id:  99029751
+  entry_writer: imamihanife
+  entry_fav_count: 23
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ismet+tokalak+kim+amk">ismet tokalak kim amk</a>)<br/><br/>edit: sazan avı.
+  entry_channels: 
 - entry_name: |
     ekşi itiraf
   entry_id:  98998511
@@ -235,13 +227,13 @@ data:
     şu yaşıma kadar tek bir şey öğrendim: her yaşın ayrı bir gerizekalılığı var.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    boğaziçi mezunu kadına yürüyen itü mezunu
-  entry_id:  99031203
-  entry_writer: smasherz19
-  entry_fav_count: 23
+    greta thunberg
+  entry_id:  99031193
+  entry_writer: hickimsehayattansagkurtulamaz
+  entry_fav_count: 21
   entry_content: |
-    (bkz: <a class="b" href="/?q=bo%c5%9f+bakkal+ta%c5%9fak+tartar">boş bakkal taşak tartar</a>)
-  entry_channels: ilişkiler
+    bu sjw/ekolojist tayfanin sorunu su. ellerinde sekuler bir cennetin anahtarinin olduguna inaniyorlar. insanligin kurtulus yolunu bildiklerini düşünüyorlar. her turlu tarihsellik olasiligini falan tamamen hesap disina itiyorlar.<br/><br/>boyle olunca en az bir isid'ci kadar radikal ve totaliterlestiklerinin farkinda degiller. aslinda aralarindaki tek fark isid'cinin inandigi cennet metafizikken bunlarin inandigi cennet sekuler.<br/><br/>bu greta'nin da durumu aynisi. butun vucut diliyle 'size cennetin yolunu gosteriyorum. niye boyun egmiyorsunuz' diye bagiriyor. tipki kavmine gunah islemeye devam ederlerse helak olacaklarini bildiren bir eski zaman peygamberi gibi.<br/><br/>bu ustten, tahammulsuz, küçümseyici tavırları hep ondan.
+  entry_channels: siyaset,bilim,haber
 - entry_name: |
     gelecek partisi
   entry_id:  99017578
@@ -251,37 +243,21 @@ data:
     %2.5 u aşar ise başarılı ve görevini yerine getirmiş parti olacaktır.<br/>malum kesimden %1 alsa bile dengeleri değiştirecektir.<br/><br/>desteklenmemeli fakat kösteklenmemelidirde.<br/>bırakın malum partiden koparabildiğini koparsın.<br/><br/>zira ufacık aklı olan, ne malum partiye ne de buna oy atar.
   entry_channels: siyaset
 - entry_name: |
-    zekeriya öz devletine hizmet vermiş bir savcıdır
-  entry_id:  99029200
-  entry_writer: nordveg
-  entry_fav_count: 19
-  entry_content: |
-    clickbait bir başlık. video 2014'e ait. o tarihte fethullah gülen halen allah gibiydi. erdo ve fetö barışır mı aceba diye konuşuluyordu. o tarihte <a class="b" href="/?q=zachary+core+bir+ter%c3%b6risttir">zachary core bir teröristtir</a> diyen herkesi anında içeri alırlardı çünkü fethullahın emniyete, orduya sızdığına kargalar bile gülüyordu. ulusalcı domuzlara ekmek çıkmaz buradan, boşuna uğraşmayın.
-  entry_channels: 
-- entry_name: |
-    11 aralık 2019 tavuk dünyası salyangoz rezaleti
-  entry_id:  99011753
-  entry_writer: o son kadehi icmeyecektik
-  entry_fav_count: 18
-  entry_content: |
-    eğer doğruysa bile salatadan olmadığını düşündüğüm rezalet.<br/><br/>bir keresinde tavuk dünyasındaki tabağın yanında gelen salatanın iyi yıkanıp yıkanmadığını sorduğum bir restoran görevlisi "20 dakikalık sirkeli suda bekletme politikamız var" gibi bir şey söylemişti. normalde inanmazdım ama adam o kadar ciddi ve sitem dolu söylemişti ki. yani adeta "en hassas olduğumuz böyle bir konuda şüphe etmeniz beni çok üzdü" edasında konuşmuştu o yüzden inandım.<br/>bu sebeple salatadan değildir.<br/>tavuktan dersen o da zaten pişmiştir ve hatta bence salyangoz bile değildir.<br/>akşama bu belirtiler olduysa ya psikolojiktir ya da başka bir sebepten gıda zehirlenmesi.<br/>bunun için gidip dr raporu almak falan saçmalık.<br/><br/>edit: bi de uyarmış keko. hassas bünyeler, +18 falan diye.<br/>ulan sizi ananız babanız pamuklara sararak mı büyüttü, hiç mi +18 görüntü görmediniz.<br/>git bi askerlik yap gel öyle konuşalım.
-  entry_channels: sağlık,yeme-içme
-- entry_name: |
     hepsiburada.com'u kullanmıyoruz kampanyası
   entry_id:  98995605
   entry_writer: saritele
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     bakın, yasal olarak, <a class="b" href="/?q=kvkk">kvkk</a> uyarınca şirketlere "hangi bilgilerimi topluyor, ne amaçla işliyor, kimlerle paylaşıyorsunuz" gibi soruları sorabiliyorsunuz, ve şirketler kanunen buna yanıt vermek zorundalar.<br/>ben bunu birden fazla şirkete mail atarak denedim hatta, yerli-yabancı 1-2 gün içinde tatminkar cevaplar aldım, koskoca browser opera'dan bile.<br/><br/>hepsiburada'nın kvkk soruları için verdiği maile yazdım, bilin bakalım ne oldu?<br/>tahmin edemezsiniz.<br/>(bkz: <a class="b" href="/?q=mail+delivery+failure">mail delivery failure</a>)<br/><br/>böyle bir skandal olabilir mi? bırakın anasayfaya kolay bir link bırakmayı, zar zor bulunman mailleri bile devredışı. inanılır gibi değil. bunu aslında bildirsem maddi-manevi müthiş cezası var, fakat böyle ahlaksız bir şirketle uğraşmak istemiyorum, yoksa sonuçlarını onlar da eminim biliyorlardır.<br/>sırf bu sebep bile kullanmamak için yeter de artar, beter olsunlar.
   entry_channels: 
 - entry_name: |
-    kadınlarımızı astronot yapmak istiyorlar
-  entry_id:  99029577
-  entry_writer: dr shephard ameliyathaneye
+    konserde cep telefonuyla konser kaydı yapan insan
+  entry_id:  99033509
+  entry_writer: frankchris
   entry_fav_count: 16
   entry_content: |
-    milli cag dergisi yazari ve milli aile ve cocuk dernegi baskani ismet tokalak'in bir garip aciklamasi. astronotu ne saniyorsa artik:<br/><br/>"bunlar yillarin irfanini kadinlarimizdan alip onlari anne olmak vasfindan uzaklastirip, eslerine hizmet etme vasfindan uzaklastirip astronot yapmak istiyorlar. bunlarla mucadele etmek hepimizin ustune vazifedir."<br/><br/>ilginc. astronot deyince aklima gelen bi tip var ama adini yazmayayim simdi. neyse mevzu dagildi. <br/>haberin linki:
-  entry_channels: 
+    konsere degil, konsere gittim demeye gelen insandir.
+  entry_channels: müzik,teknoloji
 - entry_name: |
     git (yazılım)
   entry_id:  98995297
@@ -294,25 +270,33 @@ data:
     sözlükçülerin ilk cep telefonları
   entry_id:  99006030
   entry_writer: onebite
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     ericsson 388 yanlış hatırlamıyorsam.<br/><br/>sene 96 olmalı. şimdi akıllı telefonların tüm yüzü ekran ya, bu telefonun ekranı 2 satırdan ibaretti.
   entry_channels: anket,teknoloji
 - entry_name: |
-    82'li hatunlar
-  entry_id:  99001508
-  entry_writer: annetoprak
-  entry_fav_count: 11
+    meb ve diyanet'in anaokulunda dini eğitim projesi
+  entry_id:  99031473
+  entry_writer: beyond good and avil
+  entry_fav_count: 10
   entry_content: |
-    teyze diyen götü boklu , sen önce ananın evinden bi taşın ,babanın bi düş yakasından , becer o okulunu bitirmeyi , iş filan bul , bir düzen kur , sonra yürü.
-  entry_channels: ilişkiler
+    "salt namaz kılıyor, oruç tutuyor diye ‘iyi insan’ tanımı yapmak çocuk tarafından kazanılan tüm insani ve toplumsal değerler açısından bir karmaşa yaratabilir"<br/><br/>12 yaşından önce din eğitimi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/104671/12-yasindan-once-din-egitimi-hak-ihlalidir" title="https://www.evrensel.net/haber/104671/12-yasindan-once-din-egitimi-hak-ihlalidir">hak ihlalidir.</a>
+  entry_channels: siyaset,haber,eğitim
+- entry_name: |
+    masterchef türkiye
+  entry_id:  98995807
+  entry_writer: your dirty words
+  entry_fav_count: 9
+  entry_content: |
+    45 dakika yaratıcılık muhabbeti yapıp en taklit tabağı birinci seçen şeflere sahip program.
+  entry_channels: tv,yeme-içme
 - entry_name: |
     12 aralık 2019 tff açıklaması
-  entry_id:  99032907
-  entry_writer: nlrms
-  entry_fav_count: 11
+  entry_id:  99033329
+  entry_writer: waxlord
+  entry_fav_count: 9
   entry_content: |
-    hadi bakalım erman toroğluna küfür ve hakaret eden orospu çocuklarını sahneye alalım.
+    erman toroğlu’na iftira yüzünden dava açılmalı diyen k.o.ç un paralı trolleri ortada yoklar çıkmazlarda. <br/><br/>bu açıklama yerine istifa gelirdi çoğu ülkede ama burası türkiye.
   entry_channels: spor
 - entry_name: |
     yazarların favori çorbası
@@ -323,13 +307,21 @@ data:
     (bkz: <a class="b" href="/?q=tarhana+%c3%a7orbas%c4%b1">tarhana çorbası</a>) der geçerim.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    meb ve diyanet'in anaokulunda dini eğitim projesi
-  entry_id:  99031473
-  entry_writer: beyond good and avil
+    az bilinen görgü kuralları
+  entry_id:  99020239
+  entry_writer: petiteytey
   entry_fav_count: 8
   entry_content: |
-    "salt namaz kılıyor, oruç tutuyor diye ‘iyi insan’ tanımı yapmak çocuk tarafından kazanılan tüm insani ve toplumsal değerler açısından bir karmaşa yaratabilir"<br/><br/>12 yaşından önce din eğitimi <a rel="nofollow noopener" class="url" target="_blank" href="https://www.evrensel.net/haber/104671/12-yasindan-once-din-egitimi-hak-ihlalidir" title="https://www.evrensel.net/haber/104671/12-yasindan-once-din-egitimi-hak-ihlalidir">hak ihlalidir.</a>
-  entry_channels: siyaset,haber,eğitim
+    birinin yanlışı topluluk içinde söylenmez.<br/>tek başına yakaladığınızda nazikçe kırmadan söylemeyi deneyin.
+  entry_channels: anket,ilişkiler,tarih,eğitim
+- entry_name: |
+    amerikada çocuk istismarının normalleşmesi
+  entry_id:  99024361
+  entry_writer: rrrekt
+  entry_fav_count: 8
+  entry_content: |
+    amerikan solunun bok yemesi. feminizm, lgbt, faşizm karşıtlığı cart curt diye zırlayanlar bunlar işte
+  entry_channels: 
 - entry_name: |
     12 aralık 2019 fenerbahçe beko anadolu efes maçı
   entry_id:  99016753
@@ -339,6 +331,22 @@ data:
     başa baş geçeceğini düşündüğüm basketbol karşılaşması.<br/><br/><a class="b" href="/?q=shane+larkin">shane larkin</a> bu sezon 11 maçta 22.2 sayı ortalaması ile oynuyor. şimdiye kadar toplam 244 sayı atmış, efes'in attığı sayı'nın %24'ü. sayıların %18'ini ise <a class="b" href="/?q=vasilije+micic">vasilije micic</a> atmış.<br/><br/>asistlere gelirsek efes'in yaptığı toplam 227 asistin 43'ü shane larkin'in 80'i ise vasilije micic'in.<br/><br/>sadece şu iki istatistiğe bakarak bile efes'i durdurmanın yolu micic ve larkin'i durdurmak. bunu yapabilen takımlar efesi rahat rahat yener. efesin bütün oyunu bu ikilinin yetenekleri içe penetreleri ve dış atışları üzerinden dönüyor.<br/><br/><a class="b" href="/?q=fenerbah%c3%a7e">fenerbahçe</a>'nin sayı dağılımı efes'e göre çok daha homojen. en büyük sıkıntı fenerbahçe'nin pota altını artık domine edememesi ve savunmasını bir türlü oturtamaması. pota altını domine etme problemini çözmesi çok kolay görünmese de savunmasını oturtturuğu zaman fenerbahçe eski formuna dönecektir. <br/><br/>bu akşam takım oyunu ile bireysel performans maçı izleyeceğiz. ben başa baş maç olacağını düşünüyorum ama yukarıda yazdığım gibi larkin ve micic'i durdurursak.<br/><br/>hasta fenerbahçeliyim. basketbolu aşırı severim. basketbolu seven neredeyse her türk efesi sever. ben de nefret ettiğim ergin ataman başında olmasına rağmen bize basketbolu sevdirdiği için efesi severim. efes bizim çocukluğumuzdur. lütfen futbolun saçma fanatizmini basketbol'a bulaştırmayın rica ediyorum.
   entry_channels: spor
 - entry_name: |
+    ms hastası öğrenciye atak geçirten öğretmen
+  entry_id:  99030441
+  entry_writer: burnteam
+  entry_fav_count: 6
+  entry_content: |
+    yaklaşık 9 yıldır ms hastası olan bir annenin oğluyum. 9 yıl önce koşan annem şuan %93 engelli. her sene engeline engel katarak ilerleyen bu hastalığa, herkes ama herkes saygı duymak zorunda. bu bir çocuk olabilir ya da sokakta karşılaşılan bir yetişkin. herkes sağlığını seçemiyor. velevki benim anam hayatında kapalı pakette ürün bile yememiş bir kadın. cips kola bile yememiştir, sigara bile içmemiştir.
+  entry_channels: sağlık,eğitim
+- entry_name: |
+    kadının çalışmasının evlilikleri bitirmesi
+  entry_id:  99024952
+  entry_writer: geysu
+  entry_fav_count: 6
+  entry_content: |
+    çalışsa dert, çalışmasa dert, çiftçilikten uzak olsa dert, yakın olsa dert, sokakta gezse dert, evde otursa dert, sesli gülse ayrı ağlasa ayrı dert, soyunsa dert, giyinse dert, evet dese dert, hayır dese dert... <br/><br/>kadın size dert, siz dünya'ya dert...
+  entry_channels: ilişkiler,ekonomi
+- entry_name: |
     tamir edilemeyen engelli asansörü
   entry_id:  99006216
   entry_writer: nedeyo
@@ -347,21 +355,13 @@ data:
     birisi asansörü yapan firmanın etiketinden ifşa etsin. bakalım bu karlı ihaleyi kim kazanmış. vatandaşa kalitesiz asansör yapmış. hangi bakım firması parasını alıp bakımlarını yapmamış.
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
-    okulun ilk günü ağlamayan efsane çocuk
-  entry_id:  99028108
-  entry_writer: maiveblack
-  entry_fav_count: 4
-  entry_content: |
-    aşı günlerinde bütün bebelerin korktuğu esnada, gülerek aşıya koşan çocuktum diyorum ve arttırıyorum.
-  entry_channels: eğitim
-- entry_name: |
-    gitarın ağladığı parçalar
-  entry_id:  99003375
-  entry_writer: potansiyelsafa
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  98995038
+  entry_writer: muhendisavukat
   entry_fav_count: 2
   entry_content: |
-    eskilere gitmeyi hepimiz çok seviyoruz. çoğu zaman solo konusunda ay'a gitme sevdasında olduğumuzdan, dibimizdeki yeşilliği göremiyoruz.<br/><br/>gitarı ağlatan milli gitaristlerimizden, kıymeti bilinesi nam-ı değer akın abimizin bir kaç solosunu şuraya bırakmak istedim. üzerine tıklayarak direk soloya ulaşabilirsiniz.<br/><br/>(bkz: <a class="b" href="/?q=ak%c4%b1n+eldes">akın eldes</a>)<br/><br/>canlı;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/wi19Ydl0X24?t=177" title="https://youtu.be/wi19Ydl0X24?t=177">sözlerimi geri alamam</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/-ej0IZOL2vA?t=182" title="https://youtu.be/-ej0IZOL2vA?t=182">gönül dağı</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/ELS3lrDM9_c?t=204" title="https://youtu.be/ELS3lrDM9_c?t=204">dön bak dünyaya</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/wk76Jk9Z_QE?t=227" title="https://youtu.be/wk76Jk9Z_QE?t=227">sırası değil</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/v1fESeOiWy8?t=209" title="https://youtu.be/v1fESeOiWy8?t=209">istanbul'da</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/4z3pffIEXWM?t=191" title="https://youtu.be/4z3pffIEXWM?t=191">ben nasıl büyük adam olucam</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/57vs5IBgHRk?t=160" title="https://youtu.be/57vs5IBgHRk?t=160">yüksek sadakat konseri</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/no-dZoXpugE?t=399" title="https://youtu.be/no-dZoXpugE?t=399">sevdanın yolları</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/XOUDLaDvWuI?t=136" title="https://youtu.be/XOUDLaDvWuI?t=136">konserdeyim</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=XOUDLaDvWuI&amp;list=PLyW3wlQef08WmV9pQE3Dtz1dx9M7L-Wo7" title="https://www.youtube.com/watch?v=XOUDLaDvWuI&amp;list=PLyW3wlQef08WmV9pQE3Dtz1dx9M7L-Wo7">konserdeyim performansının tümü</a><br/><br/>akustik gitar sevenlere;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/aFE7UFKR2Kc" title="https://youtu.be/aFE7UFKR2Kc">şimdi</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/k3U-60PIls4" title="https://youtu.be/k3U-60PIls4">uzun ince bir yoldayım</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/6mBCy2Fp07Q?t=187" title="https://youtu.be/6mBCy2Fp07Q?t=187">güneye giderken</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LMZBfDEHZek?t=163" title="https://youtu.be/LMZBfDEHZek?t=163">bebeksi</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/ARbMLXDdaVU?t=221" title="https://youtu.be/ARbMLXDdaVU?t=221">çok aşık</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/6dJKl4HViBo?t=183" title="https://youtu.be/6dJKl4HViBo?t=183">gönül dağı</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/zmz1h9xGMvc?t=165" title="https://youtu.be/zmz1h9xGMvc?t=165">ya sen olmasaydın</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/WasEkaRIEAY?t=127" title="https://youtu.be/WasEkaRIEAY?t=127">yitirmeden</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/9ye0ScIZ4Pk?t=138" title="https://youtu.be/9ye0ScIZ4Pk?t=138">bir damla gözlerimde</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/Yw38vH7a9co?t=150" title="https://youtu.be/Yw38vH7a9co?t=150">bir varmışım bir yokmuşum</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/lwp40Kq9eU4?t=125" title="https://youtu.be/lwp40Kq9eU4?t=125">beni al</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/F-XNHbV6yh0?t=142" title="https://youtu.be/F-XNHbV6yh0?t=142">hiç kimseyim</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/oug634AClz0?t=142" title="https://youtu.be/oug634AClz0?t=142">bir elmanın yarısı</a><br/><br/>albümlerden;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/11JB70LKG1s?t=139" title="https://youtu.be/11JB70LKG1s?t=139">bana hediye [bonus</a>]<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/yoZtWX880mA?t=172" title="https://youtu.be/yoZtWX880mA?t=172">sana bir şey olursa</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/zvHj7_TTvVU?t=239" title="https://youtu.be/zvHj7_TTvVU?t=239">drama köprüsü</a> <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/--fkxbtfLMw?t=137" title="https://youtu.be/--fkxbtfLMw?t=137">benim yüzümden</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LKSQ_y_dw38?t=126" title="https://youtu.be/LKSQ_y_dw38?t=126">kendime zararım</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/JsuItl0Ohsw?t=172" title="https://youtu.be/JsuItl0Ohsw?t=172">kaçsam gitsem</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/YY0TS_NCHFQ?t=187" title="https://youtu.be/YY0TS_NCHFQ?t=187">beni unutur musun?</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/kSBWe6s_SRM?t=179" title="https://youtu.be/kSBWe6s_SRM?t=179">yıldızlar</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/puq-R-0jSF0?t=140" title="https://youtu.be/puq-R-0jSF0?t=140">dünya dursana</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/vEH_7lMYeRQ?t=128" title="https://youtu.be/vEH_7lMYeRQ?t=128">sevmekten usanmam</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/4X62Y2WOHCo?t=241" title="https://youtu.be/4X62Y2WOHCo?t=241">güneşimden kaç</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/xDlJF3IeKQs?t=117" title="https://youtu.be/xDlJF3IeKQs?t=117">lagara lugara</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/eqJD6VgPjfA?t=138" title="https://youtu.be/eqJD6VgPjfA?t=138">gülsüm</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/AtlwRrmHXuw?t=310" title="https://youtu.be/AtlwRrmHXuw?t=310">beynim zonkluyor</a><br/><br/>sadece bir kaç tanesini bırakayım dedim. daha nice nerelerde çalmıştır kim bilir.<br/>daha fazlasını isteyenler solo albümlerini dinleyebilir. <br/><br/>iyi ki varsın akın abi
-  entry_channels: anket,müzik
+    ankara soğuğunu seviyorum diyenler <br/><br/>neredeler??
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     yazarların bugün cılkını çıkardığı şarkı
   entry_id:  99026403
@@ -379,27 +379,27 @@ data:
     üniversiteden mezun olduğum, askerliğimi yaptığım yıl oldun. bunlar gerçekleşirken sevgilim hep benimleydi. üniversitede, askerde hep yanımda oldu. beni gerçekten bekledi. üniversiteden mezun olmamı ayrı bekledi, mezun olduktan sonra askere gitmemi ayrı bekledi, askerden izne gelmemi ayrı bekledi, askerliğimin bitmesini ayrı bekledi. askere gittiğimde sabahın beşinde benimle birlikte uyandı. akşam onu aramamı bekledi. aradığımda bir kere bile işim var demedi. telefon on saniyeden fazla çalmadan açtı. saatlerce konuştu. onunla sabahtan akşama kadar hiç konuşamadığım ya da çok az konuştuğum günlerde hiç şikâyet etmedi. oradaki olaylara sinirlenip sinirimi ona yansıttığımda beni yalnız bırakmadı, bana anlayış gösterdi. hep güvendiğim aklıyla, iyi kalpliliğiyle beni korudu. hafta sonları izne çıktığımda uykusunu bırakıp birliğime dönene kadar benimle konuştu. bu yıl, bana sevgilimin ne kadar anlayışlı, ne kadar sabırlı, ne kadar temiz kalpli ve ne kadar güzel bir insan olduğunu gösterdi. hem de defalarca. o olmasaydı (bunu söylemeyi hiç sevmiyorum çünkü bir an için onun olmadığını düşünmek bile beni huzursuz ve tedirgin ediyor) ne üniversiteyi bitirmiş olmamın ne de askerliğimi bitirmiş olmamın bir tadı olacaktı. hayatımda her şey, her an onunla güzel. o benim hayatım. bu yıl, böyle bir sevgiliye sahip olduğum için güzel. kendisine buradan kocaman bir "iyi ki varsın" diyorum.
   entry_channels: anket
 - entry_name: |
-    kadının çalışmasının evlilikleri bitirmesi
-  entry_id:  99025442
-  entry_writer: tomriskatun36
+    itü mezununun odtülülere göre daha değerli olması
+  entry_id:  99034091
+  entry_writer: saat kac olmus
   entry_fav_count: 1
   entry_content: |
-    burası godoman erkek tatmin başlığı olmuş. <br/>haspama bak.neymiş zenginmiş,çok tercih edilirmiş,güzel olmak yetmezmiş diğer kadınlardan ayrılmalıymışız ki bizi seçsin. <br/>ne kafalar yaşıyorsunuz sizin hapçınız kim ?
-  entry_channels: ilişkiler,ekonomi
-- entry_name: |
-    sözlükteki takipçi gizemi
-  entry_id:  99028318
-  entry_writer: archer05
-  entry_fav_count: 0
-  entry_content: |
-    "kim beni takip eder ya, beni takip edip ne anlıyorsunuz ya, ben kimim ki takip ediyorsunuz ya" minvalinde sahte mütevazılıkla cool görünmeye çalışan değişik mi değişik bir kitle var. <br/><br/>biri demiş mobil uygulamayı indirdim de takipçi listesi olduğunu yeni öğrendim. mağara nasıldı kim bilir. öbürü demiş benim takipçi sayım 358'den 356'ya düştü. sebep olarak da girdiği bir entry'yi referans vermiş. he amk he, emin ol ondan olmuştur. misal bu düşen iki kişi hesabını dondurmuş, uçurulmuş falan olamaz değil mi?<br/><br/>başlığın seviyesi ilkokul seviyesinde geziniyor. vıcık vıcık bir muhabbet, entry girme ayağına kaç takipçisi olduğunu yazmışlar, kreş gibi amk resmen. tamam lan en çok sizde takipçi var, tamam. bu takipçilik olayı sosyal medyayı ayakta tutuyor. yoksa milletin kullanacağı yok sosyal medyayı.
-  entry_channels: ilişkiler,ekşi-sözlük
+    ankara etkisinden dolayıdır. istanbul'da hayatta kalmayı başaran kişi her türlü şantiye ortamında yaşar.
+  entry_channels: 
 - entry_name: |
     sözlük nick'lerinden meslek tahmini yapmak
-  entry_id:  99030898
-  entry_writer: gurolgurol
+  entry_id:  99033645
+  entry_writer: emlakci
   entry_fav_count: 0
   entry_content: |
-    tcddmusa makinist kesin bilgi :)
+    @zita- siyahi ikinci lig futbolcusu
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    erkek yazarlardan kadın yazarlara sorular
+  entry_id:  99006936
+  entry_writer: meftunadam
+  entry_fav_count: 0
+  entry_content: |
+    sevgilinizle genelde aynı siyasi görüşü mü paylaşırsınız? sevgilinizden ayrılınca sevgilinizle birlikte sevgilinizin siyasi görüşünden de nefret eder misiniz?<br/>sanığa başka sorum yok.
+  entry_channels: anket,ilişkiler
 ---
