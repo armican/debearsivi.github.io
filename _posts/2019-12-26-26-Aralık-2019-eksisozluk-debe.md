@@ -6,7 +6,7 @@ data:
     sözlük'e kanalistanbul'dan daha iyi bir proje öner
   entry_id:  99585064
   entry_writer: ilyusin47
-  entry_fav_count: 612
+  entry_fav_count: 614
   entry_content: |
     5 milyar usd si erzurum,ığdır , ağrı , ardahan, bingöl , kars ,van illerinde sadece hayvancılık ile ilgili yatırım yapılsın.
   entry_channels: siyaset,anket,ekşi-sözlük,ekonomi
@@ -14,7 +14,7 @@ data:
     25 aralık 2019 imamoğlu kanal istanbul açıklaması
   entry_id:  99590824
   entry_writer: siktir et gitsin derim ben
-  entry_fav_count: 510
+  entry_fav_count: 512
   entry_content: |
     "bir aldanma geleneğiniz olabilir ama milleti aldatamazsınız."<br/><br/>ulan helal be! <br/><br/>(bkz: <a class="b" href="/?q=istanbul+rantsal+de%c4%9fi%c5%9fim">istanbul rantsal değişim</a>) buna da güldüm kshjskajshsjsjssk.
   entry_channels: siyaset,haber,ekonomi
@@ -30,7 +30,7 @@ data:
     akp'lilerin kanal istanbul'u destekleme nedeni
   entry_id:  99595694
   entry_writer: kutsal kitap
-  entry_fav_count: 345
+  entry_fav_count: 363
   entry_content: |
     akp’li olmaları
   entry_channels: siyaset,eğitim,ekonomi
@@ -38,7 +38,7 @@ data:
     kanal istanbul'un altında 10 gemi dolusu altın var
   entry_id:  99606450
   entry_writer: spaykymoon
-  entry_fav_count: 323
+  entry_fav_count: 340
   entry_content: |
     tapınak şovalyeleri, 10 gemi altın, kutsal kase..<br/>bu tünelin ucu bombok bir yere çıkacak,hadi hayırlısı...
   entry_channels: haber
@@ -46,7 +46,7 @@ data:
     ailesinde fetöcü sayısı 0 olan insan
   entry_id:  99603725
   entry_writer: cinyuscocuk
-  entry_fav_count: 319
+  entry_fav_count: 328
   entry_content: |
     rakı giren eve fetö girmez
   entry_channels: siyaset,anket
@@ -54,7 +54,7 @@ data:
     trafikte en temkinli yaklaşılması gereken araçlar
   entry_id:  99588788
   entry_writer: casa
-  entry_fav_count: 303
+  entry_fav_count: 308
   entry_content: |
     kasasına <a class="b" href="/?q=mitraly%c3%b6z">mitralyöz</a> veya <a class="b" href="/?q=u%c3%a7aksavar">uçaksavar</a> monte edilmiş <a class="b" href="/?q=toyota+pick+up">toyota pick up</a>'lardır.<br/>not: nerenin trafiği olduğu belirtilmemişti
   entry_channels: haber,otomotiv,motosiklet,seyahat
@@ -62,39 +62,23 @@ data:
     bursa
   entry_id:  99588163
   entry_writer: srknpower
-  entry_fav_count: 239
+  entry_fav_count: 247
   entry_content: |
     dünyanın en güzel şehri diye adlandırabilmeniz için dünyadaki bütün şehirleri görmeniz gereken şehir.
   entry_channels: tarih,edebiyat,seyahat
 - entry_name: |
-    seninki kaç santim diye soran kız
-  entry_id:  99599572
-  entry_writer: hipergrafi
-  entry_fav_count: 201
-  entry_content: |
-    "yüz arşın boyunda<br/>nice hatunlar can vermiştir altında"<br/>diye cevaplayıp <br/><br/>"destur" diyerek kalkın gidin.
-  entry_channels: ilişkiler
-- entry_name: |
     kendini cumhurbaşkanı sanan belediye başkanı
   entry_id:  99608390
   entry_writer: ismin e hali
-  entry_fav_count: 189
+  entry_fav_count: 193
   entry_content: |
     (bkz: <a class="b" href="/?q=kendini+allah+sanan+siyaset%c3%a7i">kendini allah sanan siyasetçi</a>)
   entry_channels: siyaset
 - entry_name: |
-    ilk patates mi yenir hamburger mi sorunsalı
-  entry_id:  99607082
-  entry_writer: muratburak
-  entry_fav_count: 181
-  entry_content: |
-    (bkz: <a class="b" href="/?q=derdini+sikeyim+butonu">derdini sikeyim butonu</a>)
-  entry_channels: anket,yeme-içme
-- entry_name: |
     kediyi öpmek
   entry_id:  99578247
   entry_writer: khrmndgn
-  entry_fav_count: 158
+  entry_fav_count: 162
   entry_content: |
     ben öpmekle kalmıyorum, ısırıyorum. kuyruğunu dişliyorum. patilerini öpüyorum. karınlarına gıdı gıdı yapıyorum. bırak bütün pis ve kötü şeyler onlar gibi olsun.
   entry_channels: ilişkiler,sağlık
@@ -102,7 +86,7 @@ data:
     bal porsuğu vs komodo ejderi
   entry_id:  99590653
   entry_writer: killikuku
-  entry_fav_count: 157
+  entry_fav_count: 158
   entry_content: |
     komodo ejderi götünü kıpırdatana kadar bal porsuğu onu kuyruğundan yemeye başlar. cevizli sucuk gibi.
   entry_channels: anket
@@ -110,7 +94,7 @@ data:
     rte'nin kanal'ın açılışında söyleyeceği ilk söz
   entry_id:  99610401
   entry_writer: first animal
-  entry_fav_count: 133
+  entry_fav_count: 138
   entry_content: |
     merhaba arkadaşlar kanalıma hoşgeldiniz.
   entry_channels: siyaset
@@ -118,7 +102,7 @@ data:
     boşanmış bir kadınla sevgili olmak
   entry_id:  99602788
   entry_writer: mayzen
-  entry_fav_count: 125
+  entry_fav_count: 131
   entry_content: |
     kadının <a class="b" href="/?q=ge%c3%a7mi%c5%9fine">geçmişine</a> kafayı takmayıp, onun sevgisine, aşkına inanırsanız güzel bir ilişki çıkar ortaya.<br/><br/>zaten erkeklere güvenini kaybetmiştir, neyin ne olduğunu bilir ve kolay kanmazlar.<br/>o yüzden <a class="b" href="/?q=ayak+oyunlar%c4%b1n%c4%b1">ayak oyunlarını</a> bırakın.<br/><br/>boşanmış, evli, dul, bekar farketmez.<br/>insanları medeni durumlarıyla yargılamayın.<br/>boşanmış bir erkeğim ve boşanmış bir kadından farklı olduğumu düşünmüyorum.<br/>hayatta herşey insanlar için.<br/><br/>ne yapsındı boşanmayıp ömür boyu bir başkasının egosunu tatmin etsin, kölelik yapsın, bir kere geleceği dünyaya umutsuzca ve mutsuzca devam mı etsindi.<br/><br/>boşanmış bir kadınla evlenmek de, beraber olmak da, beraber yaşamak da normal şeyler artık. insanları kendi <a class="b" href="/?q=boktan+de%c4%9ferlerinizle">boktan değerlerinizle</a> sınıflandırmayın.
   entry_channels: ilişkiler
@@ -126,7 +110,7 @@ data:
     yerli otomobilin panjurunun görüntüsü
   entry_id:  99602937
   entry_writer: agunsfan
-  entry_fav_count: 117
+  entry_fav_count: 124
   entry_content: |
     umarim direksiyon simidi de susamli degildir.
   entry_channels: otomotiv,ekonomi
@@ -134,7 +118,7 @@ data:
     ingilizce konuşurken yapılmış en büyük salaklık
   entry_id:  99592990
   entry_writer: portakalli sodyum
-  entry_fav_count: 110
+  entry_fav_count: 111
   entry_content: |
     mekan sultanahmet meydanı. yaşım 16 falan.<br/><br/>turist: do you know where is basilica cistern?<br/>ben: i don't know where your sister is.<br/>turist: i mean the cicstern...<br/>ben: i don't know your sister sorry.<br/><br/>200 metre yürünür ve şu tabela görülür: "yerebatan sarnıcı / basilica cistern"
   entry_channels: anket,eğitim
@@ -142,10 +126,34 @@ data:
     sözlük yazarlarının çocuklarına düşündüğü isimler
   entry_id:  99589406
   entry_writer: karakanzol
-  entry_fav_count: 64
+  entry_fav_count: 67
   entry_content: |
     erkeklere isim vermenize gerek yok. nasıl olsa milyon kere seslenseniz bile tenezzül edip bakmıyorlar. lan diyin gitsin ben öyle yapıyorum
   entry_channels: anket,ekşi-sözlük,edebiyat
+- entry_name: |
+    uygur türklerinin çok da masum olmaması
+  entry_id:  99599071
+  entry_writer: mikail bey olmez
+  entry_fav_count: 63
+  entry_content: |
+    atatürkçülük konuya nereden girdi onu anlamadım? ben de o zaman kafa siken akpli zırvası diyeyim, akp bunu demiş gibi yorum yapılsın. <br/><br/>gerçi bir dakika ya. mecliste uygur türklerine uygulanan zulmün araştırılmasını atatürkçüler istemiş, akp reddetmişti sanki.
+  entry_channels: siyaset
+- entry_name: |
+    samsun-adana kanal projesi
+  entry_id:  99605851
+  entry_writer: komando kani var bende
+  entry_fav_count: 63
+  entry_content: |
+    geçen benim aklıma gelen proje. samsun'dan kazarak amasya, yozgat, kayseri üzerinden; adana'ya kadar tünel açacağız ve akdeniz'le karadeniz'î birleştireceğiz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/odoARQ.jpg">https://i.hizliresim.com/odoarq.jpg</a><br/><br/>2030'da dünya lideriyiz.
+  entry_channels: anket,seyahat
+- entry_name: |
+    a haber'deki kanal istanbul teorisi
+  entry_id:  99606014
+  entry_writer: justin mcleod
+  entry_fav_count: 63
+  entry_content: |
+    ulan orda hakikatten 10 gemi altın olsaydı erdoğan daha belediye başkanı iken çıkarıp man adasında hesabına yatırmıştı bile.
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     aşırı mutluluk veren sıradan olaylar
   entry_id:  99578661
@@ -155,42 +163,10 @@ data:
     okula ya da işe gidilmesi gereken bir haftaiçi gününü evde geçiriyor olmak. <br/>istediğin saatte uyanmak, güzel huzurlu bir kahvaltı ve ardından günün kalanını kendi istediğin gibi şekillendirmek..
   entry_channels: anket,ilişkiler
 - entry_name: |
-    a haber'deki kanal istanbul teorisi
-  entry_id:  99606014
-  entry_writer: justin mcleod
-  entry_fav_count: 61
-  entry_content: |
-    ulan orda hakikatten 10 gemi altın olsaydı erdoğan daha belediye başkanı iken çıkarıp man adasında hesabına yatırmıştı bile.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    samsun-adana kanal projesi
-  entry_id:  99605851
-  entry_writer: komando kani var bende
-  entry_fav_count: 59
-  entry_content: |
-    geçen benim aklıma gelen proje. samsun'dan kazarak amasya, yozgat, kayseri üzerinden; adana'ya kadar tünel açacağız ve akdeniz'le karadeniz'î birleştireceğiz. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/odoARQ.jpg">https://i.hizliresim.com/odoarq.jpg</a><br/><br/>2030'da dünya lideriyiz.
-  entry_channels: anket,seyahat
-- entry_name: |
-    uygur türklerinin çok da masum olmaması
-  entry_id:  99599071
-  entry_writer: mikail bey olmez
-  entry_fav_count: 57
-  entry_content: |
-    atatürkçülük konuya nereden girdi onu anlamadım? ben de o zaman kafa siken akpli zırvası diyeyim, akp bunu demiş gibi yorum yapılsın. <br/><br/>gerçi bir dakika ya. mecliste uygur türklerine uygulanan zulmün araştırılmasını atatürkçüler istemiş, akp reddetmişti sanki.
-  entry_channels: siyaset
-- entry_name: |
-    kanal istanbul
-  entry_id:  99593653
-  entry_writer: uckuruslukopera
-  entry_fav_count: 42
-  entry_content: |
-    500 binlik kütahya'ya havaalanı yapıp 4 milyon yolcu garantisi verenlerin, dağın başında 10 bin yıl durabilmiş buzul gölünü aşağı döküp içinde altın aratanların, "uzmanlarca hazırlandı" denilerek cuma günü çıkardıkları topu topu 1 sayfa spk tebliğini, biz burada alay konusu yapınca pazar günü toplanıp iptal ettirenlerin projesidir. <br/><br/>süleyman şah'ın naaşını dirisinden çok gezer hale getirenlerin, kendi adasına vizeyle giden bakanların "montrö'den iyi olacak." dediği projedir. <br/><br/>insanlığın tarımı icat ettiği topraklarda, 4 mevsim yaşanan bir enlemde, uzay çağında ve barış zamanı bir milleti karneyle sebze alacak hale düşürenlerin projesidir.<br/><br/>bütün bunlarla dalga geçilebilirdi, "ulan elinizden gelen bir iş var mı ya ahahaha" deyip eğlenebilirdik fakat tüm memleketin direksiyonu şu an bu insanlarda.<br/><br/>tahtaya yazamadığı yazı için alay edilince "g ile ğ'yi hep karıştırırım" diyen insanlar, "meclis başkanı siyasi faaliyete katılamaz" dendiğinde "seçim bir siyasi faaliyet değildir" diyen insanlar dünya üzerinde bir toprak parçasında kalıcı ve uzaydan görünebilen bir değişiklik yapacak ve siz bunu mantıklı bir şekilde tartışmak istiyorsunuz. tartışıyorsunuz da.<br/><br/>sakin kalışlarınıza imreniyorum.
-  entry_channels: siyaset,bilim,haber,ekonomi,seyahat
-- entry_name: |
     emniyet kemeri takmama cool'luğu
   entry_id:  99604994
   entry_writer: malchik spalchik
-  entry_fav_count: 42
+  entry_fav_count: 51
   entry_content: |
     cool’luk yerine mallık desek daha doğru olur.<br/><br/>cehaletten başka birşey değildir.<br/><br/>emniyet kemeri hayat kurtarır.takınız efendim.
   entry_channels: otomotiv
@@ -198,26 +174,34 @@ data:
     kanal istanbul lazım çünkü karadeniz patlayabilir
   entry_id:  99578527
   entry_writer: sspanzer
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     hüsamettin cindoruk ;<br/>-gittiğimiz seçim bölgelerinde ismet inönü asker kaçağı derdik . insanlar inanırdı.<br/>bu millete ne verirsen gider . aklınız durur aklınız.
   entry_channels: siyaset,haber
 - entry_name: |
+    starbucks filtre kahvesinin 49tl olması
+  entry_id:  99598347
+  entry_writer: nickbulbana
+  entry_fav_count: 32
+  entry_content: |
+    her olayı "insanlar aç aç" seviyesine çekenler de koşa koşa gelmiş. insanlar açsa kendilerini bu hale düşürenlere sorsunlar hesabını. başlığı açan aç değil ama kahve pahali geliyor, ötekine 600 lira olan parfümü dert oluyor, diğeri kışlık lastiği 6 bin lira diye üzülüyor... insanlar parasını nereye harcayacağını da size sorsun amk. açlıktan intihar eden insanların sorumlusu starbuckstan filtre kahve alan adam mı? birileri açlıktan intihar ediyor diye hiçbir şeyden sikayetçi olmadan sığır gibi yaşamak zorunda mı insanlar? toplumda gelir adaletsizliği varsa bunun suçlusu orta direk olmadığı gibi bu adaletsizliği giderecek olanlar da orta direk değil. herkes kendi hayatını yaşar.<br/><br/>konuya gelirsek evet türkiye'de kaliteli kahve pahali ama starbucks kahvelerinin fiyatını hak etmediğini düşünüyorum. her ne kadar kahve içmek için gitsem de evde demlemek için almıyorum. ayrıca başlıkta tchibo önerenler olmuş ama bence onlar daha beter, ucuz diye alınacak kahve değil. kurukahveci mehmet efendi denenebilir.
+  entry_channels: yeme-içme,ekonomi
+- entry_name: |
     ibb kanala izin vermezse erdoğan'ın ne yapacağı
   entry_id:  99608139
   entry_writer: imparatorneron
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     imamoğlu plebisit yapar. istanbul halkına sorar. sonuç %70 hayır çıkar. sonra halk suriyeliler için de plebisit ister. olaylar karışır.
   entry_channels: siyaset
 - entry_name: |
-    starbucks filtre kahvesinin 49tl olması
-  entry_id:  99598347
-  entry_writer: nickbulbana
-  entry_fav_count: 29
+    kanal istanbul'u desteklemek için bahane bırak
+  entry_id:  99609706
+  entry_writer: cemu
+  entry_fav_count: 28
   entry_content: |
-    her olayı "insanlar aç aç" seviyesine çekenler de koşa koşa gelmiş. insanlar açsa kendilerini bu hale düşürenlere sorsunlar hesabını. başlığı açan aç değil ama kahve pahali geliyor, ötekine 600 lira olan parfümü dert oluyor, diğeri kışlık lastiği 6 bin lira diye üzülüyor... insanlar parasını nereye harcayacağını da size sorsun amk. açlıktan intihar eden insanların sorumlusu starbuckstan filtre kahve alan adam mı? birileri açlıktan intihar ediyor diye hiçbir şeyden sikayetçi olmadan sığır gibi yaşamak zorunda mı insanlar? toplumda gelir adaletsizliği varsa bunun suçlusu orta direk olmadığı gibi bu adaletsizliği giderecek olanlar da orta direk değil. herkes kendi hayatını yaşar.<br/><br/>konuya gelirsek evet türkiye'de kaliteli kahve pahali ama starbucks kahvelerinin fiyatını hak etmediğini düşünüyorum. her ne kadar kahve içmek için gitsem de evde demlemek için almıyorum. ayrıca başlıkta tchibo önerenler olmuş ama bence onlar daha beter, ucuz diye alınacak kahve değil. kurukahveci mehmet efendi denenebilir.
-  entry_channels: yeme-içme,ekonomi
+    andromeda galaksisindeki çok güvendiğim bir kaynaktan aldığım bilgilere göre galaksiler arası geçit açmak için gerekli olan enerjiyi sağlayan osuruqium madeni nedeniyle bölge çok değerli. zaten milyonlarca ışık yılı öteden dünyamızı ziyarete gelen uzaylıların tek amacı da galaksimizde sadece bizim gezegenimizde ve bizim ülkemizde kanal istanbul projesi üzerindeki topraklarda var olan bu madene sahip olabilmek içindir.<br/>mehmet bahçeli bir süre önce ortadan kaybolmuştu hatırlarsınız bu süre içinde uzaylı dostlarımız ile görüşülmüş ve kaz-çıkar-devret anlaşması ile bu maden karşılığında uzaylı teknolojisinin kullanımı konusunda anlaşmaya varılmıştır. ilk uzay gemimiz de bu anlaşmalar sayesinde 2023 yılında uzayda olacaktır.<br/>insanoğlu ırkının devamı ve geleceği için projeye destek verilmesi önem arzetmektedir.<br/>not: ytd.
+  entry_channels: 
 - entry_name: |
     hekimoğlu (dizi)
   entry_id:  99580034
@@ -227,58 +211,42 @@ data:
     bu diziyi yaptıkları için teşekkür etmeniz lazımken olmamış diyenleri anlamıyorum.<br/>ilk bölüm fakirken 2. bölüm holdinge patron olan, yalılarda geçen dizilerin döndüğü ülkede bu dizi amme hizmeti yapıyor.<br/>google doktorlarından tutun herbokolog annelere 40bin kurşun yiyip ölmeyen mafya elemanlarına muhattap halkımıza bildiğin ilim öğretiyorlar.<br/>gönül isterdi dr house prime time da yayınlansın ve belgesel gibi halk izleyip öğrensin ama burası türkiye, bence eleştirmeyi bırakın ve buna şükredin.
   entry_channels: tv,spoiler
 - entry_name: |
-    kanal istanbul'u desteklemek için bahane bırak
-  entry_id:  99609706
-  entry_writer: cemu
-  entry_fav_count: 25
-  entry_content: |
-    andromeda galaksisindeki çok güvendiğim bir kaynaktan aldığım bilgilere göre galaksiler arası geçit açmak için gerekli olan enerjiyi sağlayan osuruqium madeni nedeniyle bölge çok değerli. zaten milyonlarca ışık yılı öteden dünyamızı ziyarete gelen uzaylıların tek amacı da galaksimizde sadece bizim gezegenimizde ve bizim ülkemizde kanal istanbul projesi üzerindeki topraklarda var olan bu madene sahip olabilmek içindir.<br/>mehmet bahçeli bir süre önce ortadan kaybolmuştu hatırlarsınız bu süre içinde uzaylı dostlarımız ile görüşülmüş ve kaz-çıkar-devret anlaşması ile bu maden karşılığında uzaylı teknolojisinin kullanımı konusunda anlaşmaya varılmıştır. ilk uzay gemimiz de bu anlaşmalar sayesinde 2023 yılında uzayda olacaktır.<br/>insanoğlu ırkının devamı ve geleceği için projeye destek verilmesi önem arzetmektedir.<br/>not: ytd.
-  entry_channels: 
-- entry_name: |
-    erkek dediğin masaya yumruğunu vuracak diyen kız
-  entry_id:  99601507
-  entry_writer: rollborn
-  entry_fav_count: 18
-  entry_content: |
-    o yumruk için mutlaka sırası gelecek olan kızdır.
-  entry_channels: ilişkiler
-- entry_name: |
-    vedat muriqi
-  entry_id:  99602192
-  entry_writer: nickimden sanane be
-  entry_fav_count: 17
-  entry_content: |
-    galatasaraylı suserlari inim inim inleten ve kudurtan fenerbahçeli forvet oyuncusudur.
-  entry_channels: spor
-- entry_name: |
     31 aralık 2019 gecesi yalnız olacak yazarlar
   entry_id:  99604512
   entry_writer: ofis canlisiyim multinetle beslenirim
-  entry_fav_count: 15
+  entry_fav_count: 20
   entry_content: |
     biz yalniz degiliz orospu cocuklari cok kalabalik arkadaslar.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
+    vedat muriqi
+  entry_id:  99602192
+  entry_writer: nickimden sanane be
+  entry_fav_count: 18
+  entry_content: |
+    galatasaraylı suserlari inim inim inleten ve kudurtan fenerbahçeli forvet oyuncusudur.
+  entry_channels: spor
+- entry_name: |
+    sokak köpeğini öldürüp facebook'ta paylaşmak
+  entry_id:  99611449
+  entry_writer: yalnizligin dinini yayan adamm
+  entry_fav_count: 18
+  entry_content: |
+    asıl başlık " sokak köpeğini öldürüp facebook'ta fotoğrafını paylaşan cani" olacaktı ama malum karakter sınırı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/HF3rxwf" title="https://ibb.co/HF3rxwf">+18</a> <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://m.facebook.com/story.php?story_fbid=2477451912475617&amp;id=100006324963832" title="https://m.facebook.com/story.php?story_fbid=2477451912475617&amp;id=100006324963832">facebook linki</a><br/><br/>edit : lütfen destek verelim arkadaşlar.<br/>adamlar öldürmekten çekinmediği gibi, bunu gururla paylaşabiliyorlar üstelik.
+  entry_channels: haber
+- entry_name: |
     karşı cinste tahammül edilemeyen özellikler
   entry_id:  99609036
   entry_writer: birileri1
-  entry_fav_count: 14
+  entry_fav_count: 17
   entry_content: |
     mesajı görüp cevap vermemesi. engelleyip silme sebebidir.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    akp çocukları
-  entry_id:  99580764
-  entry_writer: enbilirkisi
-  entry_fav_count: 14
-  entry_content: |
-    ülke tarihinin en büyük vurgununun haramzade çocukları. "başka partili de olsa yapacaktı" diyerek yapılan niyet okuma, bu onun bunun çocukları ve yaltakçılarının en bilindik kendi vicdanlarını aklama yöntemi. şu durumda hâlâ böyle bir çıkarım yapabilmek, onların vicdanından çok bu yorumu yapanların vicdanını teselli ediyor belli ki.
-  entry_channels: siyaset,haber,yeme-içme,eğitim,ekonomi
-- entry_name: |
     25 aralık 2019 devlet bahçeli açıklamaları
   entry_id:  99599447
   entry_writer: metha
-  entry_fav_count: 14
+  entry_fav_count: 16
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/bahceli-den-yeni-kanal-istanbul-aciklamasi-hicbir-sozumuzu-cignemedik-hodri-meydan,853511" title="https://t24.com.tr/haber/bahceli-den-yeni-kanal-istanbul-aciklamasi-hicbir-sozumuzu-cignemedik-hodri-meydan,853511">güldürmüştür</a><br/><br/>"geçmişte ne söylemişsek arkasındayız. hiçbir sözümüzü çiğnemedik. duruşumuzdan taviz vermedik, vermeyiz. küçük akıllılar bunu iyi bilsinler. kanal istanbul projesi’ni yaptırmam, yapamazsınız diyen müflis bir chp anlayışı karşımızda."<br/><br/>bunu diyen şunu demişti: <br/><br/>(bkz: <a class="b" href="/?q=kanal+istanbul+soygun+projesidir">kanal istanbul soygun projesidir</a>)<br/><br/>sanırım kocakurt şaşırdı. geçmişte 17-25 aralığı yolsuzluk ve rüşvetle mücadele haftası ilan etmişti. enserlerinden inmeyeceğiz demişti, ittifak kurdu.<br/><br/>kanal istanbul için çılgınca bir soygun proje diyordu şimdi karşı çıkanlara hain diyor. <br/><br/>bir ara halka <a rel="nofollow noopener" class="url" target="_blank" href="https://vehaber.org/files/uploads/news/default/mhp-afisleri-toplatiliyora33b816ddf0811c15d97.jpg" title="https://vehaber.org/files/uploads/news/default/mhp-afisleri-toplatiliyora33b816ddf0811c15d97.jpg">hatırla</a> diyordu ama sanırım kendisi unutmuş ne dediklerini.
   entry_channels: siyaset
@@ -286,7 +254,7 @@ data:
     ekşi itiraf
   entry_id:  99580588
   entry_writer: poseidonlethe
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     bugün eski bir defterimi buldum kitaplığımda. 14 eylül tarihli bir sayfada ‘seni hiç affetmeyeceğim’ yazıyordu. kimi affetmeyeceğimi unuttum. <br/>ne komik öyle değil mi? o zamanlar ajandama not aldıracak kadar büyük bir duygu yaratan biri belli ki benim için çok önemliydi. şimdiyse boşluk, adı yok, yüzü yok, hikayesi yok. silinip gitmiş... <br/>bir yerde okumuştum. : “zaman, bizi birbirimizin aklından silecek. bugün aklımızdan çıkmayanlar yarın denk geldiğimiz bir şarkıyla hatırlanacak. hepsi bu.” diyordu. çok haklıymış!..
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -307,34 +275,42 @@ data:
     guernica - pablo picasso
   entry_channels: anket,sanat
 - entry_name: |
-    sahibinden.com'da satış yaparken roman yazan adam
-  entry_id:  99580172
-  entry_writer: izmitcocugu
-  entry_fav_count: 10
-  entry_content: |
-    amcamin yazdigi dogru bir konu var, kimse bahsetmemis. bir araba boyandi diye niye degeri dusuyor, cok ilginc, bizim ulkemize has bir sorun bu. yasi geregi boyasi eskimis arabalara herkes korkudan gokkusagi gibi binmeye devam ediyor. boyatsa 5000 tl verecek, yeni gibi olacak araba, bi de arabanin degeri yukselecegine dusecek.<br/>cunku herkes birbirini dolandirma pesinde. ortadan ikiye ayrilip tekrar birlestirilmis arabaya sigorta sisirmesi diyorlar, sigorta sisirmesi neyse amina koyim,<br/>arabanin uzerinden tir gecmis, keyfe keder boyali yaziyorlar. senin keyfini sikeyim. <br/>bu tiplerin yuzunden ticaretin dogasina aykiri bir ticaret donuyor ulkede.<br/>tanima gelecek olursak: 20 yillik kamyon soforu olup triger kayisini degismeyi unutan adamdir.<br/>.
-  entry_channels: 
-- entry_name: |
     aşık olduğun kişiye bir şarkı bırak
   entry_id:  99607193
   entry_writer: adman
-  entry_fav_count: 10
+  entry_fav_count: 11
   entry_content: |
     (bkz: <a class="b" href="/?q=sar%c4%b1l%c4%b1r%c4%b1m+birine">sarılırım birine</a>)
   entry_channels: anket,ilişkiler,müzik
 - entry_name: |
-    game of thrones'tan akılda kalanlar
-  entry_id:  99602475
-  entry_writer: onumuzdeki maclara bakalim
-  entry_fav_count: 7
+    türkiye'nin asla düzelemeyecek olmasının sebebi
+  entry_id:  99613001
+  entry_writer: benden sana
+  entry_fav_count: 9
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>rezil finalini vs saymıyorum, <br/>ızlerken beni şoke eden o son dakikalarıyla birlikte <br/>oberyn'in ölümü.. <br/><br/>canavardı sanki ezerek suyunu çıkardı adamın hayvan herif..<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: anket,tv
+    müslüman olması. evet. <br/><br/>teşekküre gerek yok. rica ederim.
+  entry_channels: siyaset,eğitim,ekonomi
+- entry_name: |
+    ekrem imamoğlu
+  entry_id:  99578955
+  entry_writer: 600f
+  entry_fav_count: 9
+  entry_content: |
+    bababa aktrole bak sen. oy verdiğine pişman etmişmiş. yemin ediyorum sizde karasinekteki kadar beyin yok. imamoğlu’nun hiçbir şey yapmasına gerek yok. senin gibiler oldukça adam kendi kendine hedefine ulaşacak zaten.
+  entry_channels: siyaset,haber
+- entry_name: |
+    banane lan gitmem galatasaray'dan
+  entry_id:  99605889
+  entry_writer: bezmeyen bekir
+  entry_fav_count: 8
+  entry_content: |
+    (bkz: <a class="b" href="/?q=fb+ve+bjklilerin+fatih+terim%27i+g%c3%b6nderme+%c3%a7abas%c4%b1">fb ve bjklilerin fatih terim'i gönderme çabası</a>)<br/><br/>bahsi açılınca ortamlarda fatih terim'in kalmasını en çok biz istiyoruz dersiniz, kim bilecek.<br/><br/>bu ve buna benzer başlıklar açılarak fatih terim ne olur gitsin temalı yüz entry daha girilirse, sözleşmesi otomatik olarak feshedilecekmiş.
+  entry_channels: spor
 - entry_name: |
     doğduğun ev kaderindir
   entry_id:  99578190
   entry_writer: voltran61
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     hayatımda görüp duyduğum en iğrenç isme sahip dizi. <br/><br/>doğduğun ev kaderindir <br/>çalıştığın tarla bahtındır<br/>duyduğun ses alın yazındır <br/>görmediğin yer senin değildir <br/>ossuruktan tayyare, selam söyle o yare
   entry_channels: tv
@@ -347,29 +323,37 @@ data:
     videonun sonuna dogru arac seritten cikip sol seride gecmistir.<br/>benim hic alakam yok.
   entry_channels: 
 - entry_name: |
-    sokak köpeğini öldürüp facebook'ta paylaşmak
-  entry_id:  99611722
-  entry_writer: always black list
+    sahibinden.com'da satış yaparken roman yazan adam
+  entry_id:  99578624
+  entry_writer: kingolinko
   entry_fav_count: 5
   entry_content: |
-    ızdırabını siktiğimin kekosu hele sıfata bak maymundan 5 dakika önce doğmuş. bunu anası doğurmamış sıçmış. yazık o köpeğe yazık hayvanın duruşu bile mazlum ben sanmıyorum ki normalde o köpek bir şey yapsın. kime denk getirdiyse sıkıp kaçmıştır bu şeref yoksunu.
-  entry_channels: 
-- entry_name: |
-    yerli otomobilin üretildiği fabrika
-  entry_id:  99612297
-  entry_writer: anafor
-  entry_fav_count: 3
-  entry_content: |
-    prototipi üretilmiş bir aracın, <a class="b" href="/?q=uluslaras%c4%b1+sertifika">uluslarası sertifika</a> almak için geçmesi gereken uzun bir süreç vardır. <br/><br/>bu süreç dahilinde araç onlarca, bazen yüzlerce teste tabi tutulur. varsa eksikleri giderilir, güncellenir. standart bir binek otomobil için bu test süreci, <a class="b" href="/?q=3+y%c4%b1ldan+7+y%c4%b1la+kadar">3 yıldan 7 yıla kadar</a> sürer. <br/><br/>bu dönem içerisinde araç seri üretime geçemez. yani, yerli elektrikli otomobil görücüye çıktıktan sonra, seri üretime geçip satışa sunulması için en az 3 yıl var. dolayısıyla, üretilecek bir fabrikaya şu anda ihtiyaç yok. testler tamamlanıp uluslararası sertifika alındıktan sonra, türkiye'deki <a class="b" href="/?q=herhangi+bir+otomotiv+fabrikas%c4%b1nda">herhangi bir otomotiv fabrikasında</a> rahat rahat üretilir.
+    bir şeyi açıklayamıyorsan kafa bulandır demişler, ilanı baştan sona okudum. <br/><br/>1. skoda gerizekalı sanırım da partikül filtresi koymuş, senin usta daha iyi biliyor olacak ki sökelim çok da gerek yok demiş. <br/><br/>2. triger kayışının ekstrem durum olmadıkça bir değişim süresi vardır, bakımsız arabaların kayışı sıyırır. <br/><br/>3. hesap yapmadım ama az yakıyor kuyruklu bir yalan, arabasının yakıtını hesaplamayan erkek ya yoktur ya da yok denecek kadar azdır. ha hesaplayanlar da çıkan rakamın biraz daha aşağısını söyler. <br/><br/>4. ruh hastası olmadıkça hasarı veya kaporta problemi olmayan aracını hiç kimse bambaşka bir renge boyatmaz. <br/><br/>kısaca arkadaş ağır hasar kayıtlı arabasını satabilmek için insanların bakış açısını değiştirmeye çalışmış ama nafile. <br/><br/>satacağı mala güvenen satıcı çığırtganlık yapmaz, malının çok reklamını yapmaz; güvenmeyeni ise ilanda görebilirsiniz.
   entry_channels: 
 - entry_name: |
     içki içerek medenileşeceğine inandırılmış insanlar
   entry_id:  99611128
   entry_writer: yinemifasulya
-  entry_fav_count: 3
+  entry_fav_count: 5
   entry_content: |
     nerede bu insanlar ya? ben hicbir zaman medenilesmek iddiası ile alkol alan birine rastlamadim çünkü, rastlayani da görmedim. <br/>acaba siz medeniyetsiz dağ ayıları olarak kendi yaşamınızın dışında kalan her şeye sallamak için gotunuzden element uyduruyor olabilir mısınız?
   entry_channels: siyaset,anket,yeme-içme
+- entry_name: |
+    bir kadın hiç makyaj yapmazsa ne olur
+  entry_id:  99612992
+  entry_writer: kendinesutliman
+  entry_fav_count: 4
+  entry_content: |
+    kişiden kişiye değişecek olsa da en azından kendi tecrübem ile,<br/>aknelerin gözle görünür şekilde azalması<br/>kirpiklerin çoğalması<br/>ya çok kuru ya da çok yağlı olan cildin dengesini bulması<br/>binbir nemlendiriciye rağmen her rujla kuruyan dudakların bir nebze olsun düzelmesi<br/>tabii en güzel kısmı zaman tasarrufu :)<br/>en çok üzen kısmı da yorgun gözükmemek için yaptığım onca şeyin cildi daha da yorduğunu fark etmek.
+  entry_channels: moda
+- entry_name: |
+    yerli otomobilin üretildiği fabrika
+  entry_id:  99611492
+  entry_writer: kademre
+  entry_fav_count: 3
+  entry_content: |
+    hiçbir zaman açılmayacak olan fabrika.
+  entry_channels: otomotiv,ekonomi
 - entry_name: |
     türkiye'nin dördüncü en büyük şehri
   entry_id:  99611382
@@ -387,6 +371,14 @@ data:
     insan ilişkileri. net olarak iğrenç bir halde. herkes genellikle sahte ve çıkar peşinde. ne kötü bir durum aslında.
   entry_channels: anket
 - entry_name: |
+    erkekleri yatağa atma rehberi
+  entry_id:  99611469
+  entry_writer: defoe
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=sik+beni">sik beni</a>)
+  entry_channels: anket,ilişkiler
+- entry_name: |
     çaylakları ezikledikten sonra gelen rahatlama
   entry_id:  99611715
   entry_writer: anzavur 34
@@ -402,4 +394,12 @@ data:
   entry_content: |
     ankara'da her gun musaitim,<br/>geren muhabbetleri sevmem, bobrekle isim olmaz*<br/>her daim viskim hazirdir; muzik esliginde icip muhabbet edecek suserlari beklerim.<br/>not: erkek
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    en güzel oje rengi
+  entry_id:  99606103
+  entry_writer: pisiyorum kisik ateste
+  entry_fav_count: 0
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="http://aslinindunyasii.blogspot.com/2014/07/pastel-nude-oje-756-princess.html" title="http://aslinindunyasii.blogspot.com/2014/07/pastel-nude-oje-756-princess.html">pastel nude 756 princess</a><br/><br/>flormar full color 10 <a rel="nofollow noopener" class="url" target="_blank" href="https://www.facebook.com/shopatshajgoj/photos/flormar-full-color-nail-enamel-fc10-penthouse-8-ml-tk-24000shop-now-httpshopshaj/1185339174952570/" title="https://www.facebook.com/shopatshajgoj/photos/flormar-full-color-nail-enamel-fc10-penthouse-8-ml-tk-24000shop-now-httpshopshaj/1185339174952570/">tek kat</a>
+  entry_channels: anket,moda
 ---
