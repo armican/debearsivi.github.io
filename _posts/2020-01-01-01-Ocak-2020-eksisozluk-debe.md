@@ -6,7 +6,7 @@ data:
     erdal beşikçioğlu'nun behzat ç. açıklaması
   entry_id:  99860934
   entry_writer: absorbe
-  entry_fav_count: 438
+  entry_fav_count: 442
   entry_content: |
     behzat ç.'yi kurtlar vadisi pusu kıvamına getirmelerini engellemiş başrol beyanıdır. bence en iyisini yapmıştır.
   entry_channels: tv,haber
@@ -22,7 +22,7 @@ data:
     türkiye'nin libya iç savaşına dahil olması
   entry_id:  99854646
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 225
+  entry_fav_count: 228
   entry_content: |
     diplomasi diye cırlayanlara soru:<br/><br/>türkiye diplomatik olarak libya hükümetiyle bir anlaşma yaptı. bu anlaşma dünyadaki tüm deniz hukuna göre yasal. ve bu yasal düzeneğe göre, yunan artık akdeniz'den kendi ülkesine gaz çıkaramaz. çünkü biz o koridoru bu anlaşmayla kapattık.<br/><br/>avrupa diyor ki: bu anlaşmayı tanımıyorum. niye? sebebi yok, tanımıyorum. türkiye, antalya'nın 5 mil ötesine geçemez, türkiye en uzun kıyı şeridine sahip olmasına rağmen gazdan 50tl bile para alamaz. türkiye bu gazı, kendi toprakları üstünden dağıtamaz. ek olarak da; bm'nin tanıdığı libya hükümetine karşı, teröristleri destekliyorum. çünkü bu anlaşma hoşuma gitmedi.<br/><br/>evet diplomasi uzmanları, her şeyi diplomatik temellere uygun yapan ülkenizin şimdi sıradaki hamlesi ne olmalı?<br/><br/>1. tamamdır öyleyse, biz dediğiniz gibi gazı felan size bırakalım. biz kimiz ki zaten?<br/>2. götü yiyen gelir libya hükümetini düşürür, dağbaşı mı burası? resmi anlaşma yapmış iki devletin kanununu nasıl hiçe sayarsınız? akdenize kıyısı olan 2 ülkenin yaptığı anlaşmayı, akdenizle hiçbir ilgisi alakası olmayan ülkeler ne hakla tanımazdan gelir? ordumuz var, gücümüz var. gelin götü yiyen iptal etsin bu anlaşmayı.
   entry_channels: siyaset,haber,ekonomi
@@ -30,7 +30,7 @@ data:
     sevilen bilgisayar oyununu üç kelime ile anlatmak
   entry_id:  99845056
   entry_writer: pok
-  entry_fav_count: 206
+  entry_fav_count: 210
   entry_content: |
     top sakal<br/>gözlük<br/>levye
   entry_channels: anket,oyun
@@ -38,7 +38,7 @@ data:
     doları 3 liranın altına düşürecek olay
   entry_id:  99857327
   entry_writer: resmitatil
-  entry_fav_count: 188
+  entry_fav_count: 191
   entry_content: |
     doların 2900 tl olması sonrası paramızda üç sıfır atılmasıdır.
   entry_channels: siyaset,anket,ekonomi
@@ -46,7 +46,7 @@ data:
     doğa yürüyüşlerine matina bulma umuduyla katılmak
   entry_id:  99872246
   entry_writer: vpx
-  entry_fav_count: 176
+  entry_fav_count: 180
   entry_content: |
     kardeşim abazalık yüzünden <a class="b" href="/?q=matina">matina</a> yazmızşın
   entry_channels: anket,ilişkiler
@@ -54,7 +54,7 @@ data:
     küçük işletmeler bir çalışana 2300 lira veremez
   entry_id:  99861219
   entry_writer: marikiz
-  entry_fav_count: 170
+  entry_fav_count: 175
   entry_content: |
     toplamdaki 1000 tl'lik bir maliyet artışını karşılayamıyorsan (ki bu artışın önemli bir kısmı enflasyon(!) karşılığı düzeltmeden ibaret), zaten 3 kişiyi de çalıştırabilecek bir iş yapmıyorsun demektir.<br/><br/>şimdi artık ya patronculuk oynamayı bırakıp kolları sıvayarak işin başına geçme, ya da "ya bu işin getirisi zaten olsa olsa bu kadar olur, ben fazla gözümde büyütmüşüm" deme zamanı..
   entry_channels: ekonomi
@@ -62,39 +62,31 @@ data:
     rusların çektiği sarıkamış görüntüleri
   entry_id:  99869936
   entry_writer: eeuummm
-  entry_fav_count: 165
+  entry_fav_count: 174
   entry_content: |
     enver paşa denen yetersiz karakterin, artık madde etkisi deyin afyon etkisi deyin gördüğü ıslak hayaller sonuçu katili olduğu insanların görüntüsü.<br/><br/>enver paşa bu devirde yaşasa bu iktidarın genel kurmay başkanı olması kesindi.
   entry_channels: tarih
 - entry_name: |
-    türban takmaya başlayan biriyle selamı kesmek
-  entry_id:  99856639
-  entry_writer: yazinenortagunuydu
-  entry_fav_count: 158
-  entry_content: |
-    neden akp iktidardan gitmek bilmiyor sorusunun cevabısın sayın gerizekalı
-  entry_channels: 
-- entry_name: |
-    turkcell'in hattı gelen aramalara kapaması
-  entry_id:  99853355
-  entry_writer: koyu renkler
-  entry_fav_count: 153
-  entry_content: |
-    rezalettir. <br/>2020'ye giriyoruz, 20 gün ödemesini geciktirdi diye bir insanın iletişim özgürlüğüne engel olmak ne tür bir zihniyetin eseridir? 20 gün lan? bir maaş aralığı bile değil. ışıltılı reklamlara milyonlar harcıyorsunuz fakat en küçük bir aksamada müşterinizi mağdur ediyorsunuz. ikiyüzlüsünüz. iğrençsiniz ibneler. <br/><br/>ayrıca kraldan çok kralcıları ortaya çıkaran başlıktır.<br/>olum ne kadar muhteşem hayatlarınız var sizin ya? olur ya kimi zaman işler yolunda gitmeyebilir. gün gelir, asla yapmam dediğin şeyleri yapmaya mecbur kalabilir, ihtimal dahi vermediğin durumlarla yüzleşebilirsin. 1 liraya bile muhtaç olabileceğin anlar gelebilir. çünkü hayat böyle bir şey, nintendo oyunlarına benzemez.<br/>adam haklı şekilde derdini paylaşmış, hak veriyorsan destek ol, vermiyorsan ilerle. ağla falan yazınca madalya mı takıyorlar boynuna senin? sen monaco prensi misin?
-  entry_channels: teknoloji
-- entry_name: |
     yazarların yılbaşı içki listesi
   entry_id:  99857197
   entry_writer: shellyy
-  entry_fav_count: 149
+  entry_fav_count: 160
   entry_content: |
     sözlükte yine herkes kaslı, uzun boylu, dil puanı 100, ösym dereceli ve iyi içki içen insanlara dönüşmüş...
   entry_channels: anket,yeme-içme
 - entry_name: |
+    türban takmaya başlayan biriyle selamı kesmek
+  entry_id:  99856639
+  entry_writer: yazinenortagunuydu
+  entry_fav_count: 159
+  entry_content: |
+    neden akp iktidardan gitmek bilmiyor sorusunun cevabısın sayın gerizekalı
+  entry_channels: siyaset,anket,moda
+- entry_name: |
     başı açık kız eğlenmelik kapalı kız evlenmeliktir
   entry_id:  99872127
   entry_writer: dunya cizgi cizgimiymis neymis
-  entry_fav_count: 119
+  entry_fav_count: 139
   entry_content: |
     senin dininde iftira atmak günah değil mi? binlerce insanın hakkına girmiş olmadın mı şimdi sen? ilmi olarak s*****kler seni öbür dünyada haberin olsun.
   entry_channels: 
@@ -110,18 +102,18 @@ data:
     thy yüzünden sınırdışı edilecek olmam
   entry_id:  99869941
   entry_writer: more i see less i believe
-  entry_fav_count: 88
+  entry_fav_count: 90
   entry_content: |
     otobüslerin kalkış saatlerine bu insanlar yüzünden 23:59 yazıyorlarmış şimdi aydınlandım.
   entry_channels: 
 - entry_name: |
-    3. havalimanı yolcu bekleme vergisi
-  entry_id:  99868345
-  entry_writer: dender
-  entry_fav_count: 85
+    doğum gününde sarılan öğretmenlere ceza
+  entry_id:  99872967
+  entry_writer: fazla sollayan adam
+  entry_fav_count: 79
   entry_content: |
-    bu gidişle "sen yurtdışında yiyip-içtin, gelip bizim ülkemize sıçıyorsun" diyerek ilk tuvalet kullanımına mahsus <a class="b" href="/?q=kanalizasyon+vergisi">kanalizasyon vergisi</a> gelirse şaşırtmayacaktır.
-  entry_channels: haber
+    van'daki öğretmene sürgün cezası.
+  entry_channels: siyaset,ilişkiler,haber,eğitim
 - entry_name: |
     yılbaşı için hiçbir planı olmayan insan
   entry_id:  99845431
@@ -134,18 +126,10 @@ data:
     fenerbahçe'den 3 puan silinmesi
   entry_id:  99871646
   entry_writer: sarhosun biri
-  entry_fav_count: 68
+  entry_fav_count: 73
   entry_content: |
     transfer sezonu kapandıktan sonra belirlenmiş olan harcama limitine uymadı diye bir kulübe ceza vermek, hukuken mümkün değil. verilirse de tahkimden döner.
   entry_channels: spor
-- entry_name: |
-    doğum gününde sarılan öğretmenlere ceza
-  entry_id:  99872967
-  entry_writer: fazla sollayan adam
-  entry_fav_count: 62
-  entry_content: |
-    van'daki öğretmene sürgün cezası.
-  entry_channels: siyaset,ilişkiler,haber,eğitim
 - entry_name: |
     yeni bir iş bulmadan istifa etmek
   entry_id:  99852659
@@ -158,7 +142,7 @@ data:
     31 aralık 1999
   entry_id:  99854660
   entry_writer: lazor
-  entry_fav_count: 47
+  entry_fav_count: 48
   entry_content: |
     kıyamet senaryolarını hatırlamıyorum ama bilgisayarların bozulacağı söylentisi <a class="b" href="/?q=ba%c5%9fbakanl%c4%b1%c4%9f%c4%b1">başbakanlığı</a> bile harekete geçirmişti.<br/><br/>rahmetli ecevit bir basın açıklamasında, bu tarihte saat 23.45’ten itibaren yarım saat süre ile bilgisayarların kapalı tutulmasına yönelik bir çağrıda bulunmuştu.
   entry_channels: tarih,programlama,teknoloji
@@ -166,7 +150,7 @@ data:
     30 aralık 2019 mısra öz sel'in ifadeye çağrılması
   entry_id:  99844972
   entry_writer: jc denton
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     yetmez. tren kazanında ikiye bölünen oğlu için adalet arayarak hükümete darbe girişiminde bulunmaktan yargılanmalı. çünkü akp iktidarında adalet aramak "kalkışma" eylemidir ve emin çölaşan da en büyük fetöcüdür. bu ülkenin vatandaşı olup da delirmeden yaşayabilmek hakikaten büyük meziyet.
   entry_channels: siyaset,haber
@@ -174,7 +158,7 @@ data:
     adolf hitler in 6 milyon yahudi öldürdüğü yalanı
   entry_id:  99858450
   entry_writer: kalbini sokup okyanusa atan adam
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     dezenformasyon yapan sığırın olmadığını iddia ettiği yalan.<br/><br/>1 milyonu zor geçiyor demiş, portekiz'deki, ispanya'daki 3-5 bin yahudinin bir önemi yok.<br/>nazilerin işgal ettiği ülkelerdeki (fransa, macaristan, avusturya, çekoslovakya, hollanda, belçika, yugoslavya, yunanistan gibi ülkelerdeki toplam yahudi sayısı 1 milyon 800 küsur bin civarı.<br/><br/>ayrıca başlığı açan sığır nazilerin cinayet mahali 3 milyon yahudinin yaşadığı polonyayı es geçmiş. toplayınca 4 milyon 800 bin yapar. geri kalan yahudileri de işgal ettikleri baltık ve sovyet ülkelerinden topladılar. o dönem ukrayna ve rusya'da 2 buçuk milyon yahudi yaşıyor. <br/><br/>yani uzatmaya gerek yok. musevi değilim, hatta almanların üstün bir millet olduğunu düşünürüm ama başlığı açan piç gavatlık yapıyor.<br/>bence kendisi zyklon b'yi hak ediyor. zaten akitin teki kendisi.
   entry_channels: 
@@ -182,7 +166,7 @@ data:
     31 aralık 2019 ümraniye a101 rezaleti
   entry_id:  99873272
   entry_writer: it was a bright cold day in april
-  entry_fav_count: 36
+  entry_fav_count: 38
   entry_content: |
     (bkz: <a class="b" href="/?q=a101+gibi+k%c3%b6kl%c3%bc+bir+marketler+zinciri">a101 gibi köklü bir marketler zinciri</a>)<br/><br/>patron çalışana / çalışan müşteriye tarzı çalışan boş beleş bir marketler zinciri. tıpkı bim, şok vs. gibi...<br/><br/>diğerleri belki (ama belki) 1 tık daha düzgün davranıyordur çalışana ama çalışanlar seve seve daha iyi davranırlar müşterilere. (daha zengin müşteri, daha büyük sorun ihtimali) belki oralarda çalışanlar da hıncını ailesinden çıkarıyordur.<br/><br/>rezalet puanım 9/10 ancak bu ülkenin normali bu olduğu için hissedilen rezalet boyutu 6.5/10'dur.<br/><br/>insanlar mutsuz. olayın özeti bu.
   entry_channels: 
@@ -198,39 +182,55 @@ data:
     gora'dan akılda kalanlar
   entry_id:  99854812
   entry_writer: kendikalem
-  entry_fav_count: 27
+  entry_fav_count: 28
   entry_content: |
     komutan logar, 216'yı cezalandırıp dünyalı mahkumların yanına atar. 216 içeri girer.<br/><br/>arif: aha geldi bi tane daha. gel gel panayır var gel<br/>bob: robot olum o<br/>arif: hee robot. al yanına mutfağa al, mutfak robotu
   entry_channels: anket,sinema,spoiler
 - entry_name: |
+    en iyi arkadaşlıkların dayandığı temel
+  entry_id:  99855975
+  entry_writer: rick wright
+  entry_fav_count: 27
+  entry_content: |
+    ortak mizah anlayışı olmadığı sürece dünyanın en iyi insanı da olsa olmuyor.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    31 aralık trump avm xray rezaleti
+  entry_id:  99876225
+  entry_writer: gamefry
+  entry_fav_count: 27
+  entry_content: |
+    (bkz: <a class="b" href="/?q=amerikan+ba%c5%9fkan%c4%b1+dahil+herkesi+devreye+sokun">amerikan başkanı dahil herkesi devreye sokun</a>)
+  entry_channels: siyaset
+- entry_name: |
     ekşi itiraf
   entry_id:  99847318
   entry_writer: patavatsiz sadrazam
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     kiz arkadasimla yilbasinda ne yapicaz fln diye whatsapptan konusuyoduk. hic sevmedigim bi elemanin evinde parti varmis, oraya gidelim diyip duruodu. ben de biz bize takilalim diyodum. yogun pazarliklar. bi taraftan da arada goz ucuyla cnnturke bakiyodum ahmet hakan’a. <br/><br/>tam o arada avusturya’daki dayimin esi yengem mesaj atmis “hepinizin yeni yilini kutlarim kuzum iyi seneler” yazmis. ben de kiz arkadasima yazdigimi dusunerek yengeme “bosver milleti, yeni yila memelerinin arasina attirarak girmek istiyorum askim” yazdim. 56 yasinda tontis bi kadin. nasi bi rezillik yaptigimi 5-10 sn icinde anladim ve aninda sildim. mavi tiki gordum ama cok cabuk sildigimden gormemistir diye dusundum, o yuzden hic o topa girmedim. “sagol yengecim sizin de” yazdim gectim. ama sirtimdan da terler akiyo. <br/><br/>yarim saat sonra evin telefonu caldi. babam acti telefonu. tabiki dayim ariyo viyana’dan. bi anda bagrismalar falan. belli ki dayima soylemis yengem, dayim da beni istiyo telefona. babam da dayimi hic sevmez. babam basladi dayima ana avrat kufretmeye. napsin benim oglum senin musmula karini oc diye bagiriyo. annem ordan babama bagirio sen benim anneme nasil kufredersin sensin oc falan diyo. aksam aksam carsi karisti evde. ahahaha ulan iyi film dondu.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    whatsapp'ta last seen'i kapatan insan
-  entry_id:  99870352
-  entry_writer: 70x100
-  entry_fav_count: 19
+    veda ederken 2019'a bir not bırakmak
+  entry_id:  99845283
+  entry_writer: orenbayan
+  entry_fav_count: 22
   entry_content: |
-    açıkçası mavi tık ile birlikte kendi adıma kapalı olmasının tek açıklaması kıskançlığımı azdırmamak. sonra takip etmeye başlıyorsun ister istemez. bakalım ne zaman online oldu? bakalım mesajımı gördü mü? bunları takip etmek bana hiç iyi gelmiyor, düşünmek istemiyorum. bu yükten kurtarıyor böylece. <br/><br/>yani biri mesajımı okuyup cevap vermiyorsa da bilmek istemiyorum. neden üzeyim ki kendimi durduk yere.
-  entry_channels: anket,ilişkiler,teknoloji
+    bana oğlumu verdin, seni ölene dek unutmayacağım 2019.
+  entry_channels: anket,tarih
 - entry_name: |
-    prag denince akla gelenler
-  entry_id:  99857637
-  entry_writer: ssb
-  entry_fav_count: 17
+    31 aralık 2019 hadisenin göğüs dekoltesi
+  entry_id:  99877477
+  entry_writer: bakin burasi cokomelli
+  entry_fav_count: 22
   entry_content: |
-    (bkz: <a class="b" href="/?q=egeman+ba%c4%9f%c4%b1%c5%9f">egeman bağış</a>)
-  entry_channels: anket,seyahat
+    ben de bi hadise var sandım, tıkladım. <br/><br/>(bkz: <a class="b" href="/?q=beyefendiye+kar%c4%b1+g%c3%b6nderelim">beyefendiye karı gönderelim</a>)
+  entry_channels: ilişkiler,magazin
 - entry_name: |
     domuz yemek ve sigara içmek aynıdır
   entry_id:  99849511
   entry_writer: scannegro
-  entry_fav_count: 17
+  entry_fav_count: 18
   entry_content: |
     domuzla islenmis eti bir tutan cahilleri gordugumuz baslik. bunu diyen adam pastirma sucuk kesin yiyordur ama <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>ıslenmis et dana olarak da zararlidir. domuzun loin eti gibi eti cig alip kendiniz yaparsaniz normal kuzu danadan farkli olmaz.
   entry_channels: 
@@ -238,18 +238,10 @@ data:
     baklavanın yanında giden içecekler
   entry_id:  99871048
   entry_writer: eros68
-  entry_fav_count: 15
+  entry_fav_count: 16
   entry_content: |
     şekersiz çay
   entry_channels: anket,yeme-içme
-- entry_name: |
-    alttaki yazara yeni yıl dileğini yaz
-  entry_id:  99871483
-  entry_writer: disikargaa
-  entry_fav_count: 15
-  entry_content: |
-    kimseyi özlemek zorunda kalma.
-  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     alınmış en boktan hediye
   entry_id:  99846783
@@ -294,10 +286,18 @@ data:
     yılbaşına yalnız girmek
   entry_id:  99847742
   entry_writer: vivra
-  entry_fav_count: 9
+  entry_fav_count: 11
   entry_content: |
     30 yaşını aşmış bekar erkeklerin genelde yapacakları eylem.
   entry_channels: anket,ilişkiler
+- entry_name: |
+    erdal özyağcılar
+  entry_id:  99877970
+  entry_writer: gombo
+  entry_fav_count: 9
+  entry_content: |
+    adam güzel söyledi . eğlendi eğlenirdi bence. bir boku da beğenin.
+  entry_channels: tv,sinema
 - entry_name: |
     ahsen tv'de ahiret var diye bağıran junior cübbeli
   entry_id:  99870992
@@ -307,6 +307,14 @@ data:
     insanları dinden soğutanlardan biri daha. yahu arkadaşım tamam ahiret de var cehennem de hatta bana göre stargate deki gibi başka galaksiler de var. ancak bu ne sinir ya böyle az sakin ol. <br/><br/>vallahi anlamıyorum bir müslüman olarak bu insanları. eğlenenlere karşı bu öfke niye lan. bu kadar niye öfkeli bu dindarlar ya te allam.
   entry_channels: 
 - entry_name: |
+    yazarların en sık kaybettiği şey
+  entry_id:  99853776
+  entry_writer: hazretisamidayi
+  entry_fav_count: 8
+  entry_content: |
+    insanlara inancım
+  entry_channels: anket
+- entry_name: |
     atiye (dizi)
   entry_id:  99848832
   entry_writer: door creaks
@@ -314,6 +322,14 @@ data:
   entry_content: |
     netflix'in kendine has bir özelliği, gizli bir kültürü var. bu gizli kültürü, dünya çapında paying users dediğimiz, yani parayı bastırıp netflix'ten kendi yaşayış biçimi ve onun rüyasına yönelik bir dünya kurmasını bekleyen insanlar belirliyor. paying users kavramını kullanıyorum çünkü tv hep beleşti, onu pekiştirmek için. en basitinden burda bir para-çokomel ilişkisi var, yani paying users parayı veriyor, karşılığında kendi kültürü ve kafa yapısını görmek istiyor. <br/><br/>böyle afilli bir giriş yaptıktan sonra diziye gelecek olursak, üst paragrafta bahsettiğim gibi netflix şu anda türk dizi ve film piyasasına, dünya çapında kazandığı gizli alt kültürü öğretiyor. ilerde gelecek pek çok kaliteli yapımın öncülerinden biri olacağını düşünüyorum. bunu beğendim ya da beğenmedim demeyeceğim, çünkü o kadar efsane dizi izledik ki şu an ne izlesek o kadar da iyi gelmemeye başlıyor. dolayısıyla beğenmeyenleri yargılamıyorum, çünkü biz paying users tayfa olarak eleştirdikçe, bizim nasıl içeriklerden hoşlandığımızı piyasadaki adamlar da yavaş yavaş deneyimleyerek göreceklerdir ve üreteceklerdir de.<br/><br/>kullanıcı deneyim yorumları günümüzde çok önemli bir konumda, çünkü firmalar kendini ve ne ürettiğini ona göre geliştirmeye çalışıyorlar. ancak, çok iyi beğendim, bok gibi beğenmedim tarzı yorumlar gürültü olarak görülür ve dikkate alınmaz pek. o yüzden eleştirileri üstteki cümlelerden daha iyi yaparsak en azından kendi istediğimiz içeriklere kavuşma süremiz de o kadar kısalır diye tahmin ediyorum.
   entry_channels: tv
+- entry_name: |
+    2020 rte'nin son yılı
+  entry_id:  99876440
+  entry_writer: kukreyenaslan
+  entry_fav_count: 8
+  entry_content: |
+    2020 kasım ayındaki baskanlık secimiyle birlikte kabustan uyanıyoruz.<br/>kesin bilgi, yayabilirsiniz!
+  entry_channels: siyaset
 - entry_name: |
     aykut kocaman denince akla gelenler
   entry_id:  99870790
@@ -323,29 +339,13 @@ data:
     yedi önliberolar<br/>yan oyna<br/>"erken attığımız gol oyun planımızı bozdu"
   entry_channels: spor,anket
 - entry_name: |
-    2020 rte'nin son yılı
-  entry_id:  99876440
-  entry_writer: kukreyenaslan
-  entry_fav_count: 4
+    o ses türkiye yılbaşı özel
+  entry_id:  99878094
+  entry_writer: kartonev
+  entry_fav_count: 1
   entry_content: |
-    2020 kasım ayındaki baskanlık secimiyle birlikte kabustan uyanıyoruz.<br/>kesin bilgi, yayabilirsiniz!
-  entry_channels: siyaset
-- entry_name: |
-    veda ederken 2019'a bir not bırakmak
-  entry_id:  99845804
-  entry_writer: kompil
-  entry_fav_count: 3
-  entry_content: |
-    baba oldum, cok sukur, zorluklar olsa da guzel bir yil oldu.
-  entry_channels: anket,tarih
-- entry_name: |
-    31 aralık 2019 hadisenin göğüs dekoltesi
-  entry_id:  99877831
-  entry_writer: fcwesh1
-  entry_fav_count: 2
-  entry_content: |
-    tivitrend.com virali için kullanılmış memelerdir. hadise ilk defa böyle giyinmiyor. bu sitenin reklamı için açılmış başlık.
-  entry_channels: ilişkiler,magazin
+    yılların tiyatro ve sinema oyuncusu erdal özyağcılar çalışmış, kolaj yapmış, şarkı söylüyor. burada bir aptalın teki çıkmış bunu izleyenler çomardır diyor!
+  entry_channels: tv,müzik
 - entry_name: |
     neden içiyorsun sorusuna verilecek en iyi cevap
   entry_id:  99854160
@@ -355,6 +355,22 @@ data:
     günahlarımız eşitlensin diye.<br/>senin yediğin boklara ben karışıyor muyum?
   entry_channels: anket,ilişkiler,yeme-içme
 - entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  99878475
+  entry_writer: kadirinazor
+  entry_fav_count: 1
+  entry_content: |
+    yılın son avına cikmis yine millet :d
+  entry_channels: anket,ilişkiler,ekşi-sözlük,oyun,yeme-içme
+- entry_name: |
+    alttaki yazara yeni yıl dileğini yaz
+  entry_id:  99877800
+  entry_writer: rodionik
+  entry_fav_count: 1
+  entry_content: |
+    dilerim bi kızın olur.
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
     2020
   entry_id:  99876187
   entry_writer: proust
@@ -362,14 +378,6 @@ data:
   entry_content: |
     1980 doğumluyum. 2020'de 40 yaşında olacagim. 20+20 de 40 yapaar ve benim yükselişe geçtiğim yıl olacaktır! <br/><br/>kafayı yedik iyice.
   entry_channels: tarih
-- entry_name: |
-    şu anda çalan şarkı
-  entry_id:  99854462
-  entry_writer: winstoncodeaqua
-  entry_fav_count: 0
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/wXhTHyIgQ_U" title="https://youtu.be/wXhTHyIgQ_U">post malone-circles</a>
-  entry_channels: anket,müzik
 - entry_name: |
     yazarların 2020 yılından beklentileri
   entry_id:  99857945
@@ -379,27 +387,19 @@ data:
     sigarayı bırakmış olmak. (bkz: <a class="b" href="/?q=1+ocak+2020+sigaray%c4%b1+b%c4%b1rakma+kampanyas%c4%b1">1 ocak 2020 sigarayı bırakma kampanyası</a>)
   entry_channels: anket
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  99850923
-  entry_writer: make
+    milli piyangodan 80 milyon tl çıkarsa yapılacaklar
+  entry_id:  99846209
+  entry_writer: kiymali pide
   entry_fav_count: 0
   entry_content: |
-    geçen hafta konuştuğum depresyondaki kız kahvaltı vs. burada misin.
-  entry_channels: anket,ilişkiler,ekşi-sözlük,oyun,yeme-içme
+    4-5 daire alır kiraya veririm, gerisiyle gezerim. alabiliyorsam norveç vatandaslıgı alırım.
+  entry_channels: anket,oyun,ekonomi
 - entry_name: |
     ben kışı daha çok seviyorum ya diyen tip
-  entry_id:  99877789
-  entry_writer: asianajaja
+  entry_id:  99878776
+  entry_writer: kayip zamanin izindeki kayip zaman
   entry_fav_count: 0
   entry_content: |
-    ilk okuldaki 3-a/3-b savaşına döndü burası. ne saçma mesajlar okudum az önce. <br/>ben de kışı, soğuğu seviyorum. yazın vıcık vıcık sıcağını sevmek zorunda mıyım? milletin ter kokusundan ölmek zorunda mıyım? etrafta kıllı bacaklar, ayaklar görmek zorunda mıyım? güzelce giyinirsin, üşüyorsan daha kalın giyinirsin.. yazın o sıcağından kaçamazken kışın soğuğundan kendin istediğin sürece kaçabilirsin. yazın pişmek zorundayken kışın üşümek zorunda değilsin.. daha neler neler.. kış hem temizdir, hem asildir bana göre. bana göre diyorum çünkü bunlar subjektif yargılardır. ben böyle düşünürken başkası tam zıttı düşünebilir. ama bunu ilkokul çocuğu gibi dile getirmek kadar saçma bir şey yok. herkes sizin sevdiğiniz şeyleri sevmek zorunda değil arkadaşlar, siz de herkesin sevdiğini sevmek zorunda değilsiniz. fikirlere saygı duymayı bir öğrenemedik..
+    yazın;<br/>içilen çayın da kahvenin de tadı yok<br/>bardaktaki kahveden yükselen dumanın, çay bardağında ısıtılan elin anlamı yok<br/>okunan kitabın, meşhur damalı battaniyenin anlamı yok<br/>pastel renklerin, saçakların anlamı yok<br/>sevgiliyle birbirine sokulmanın, elini tutmanın bahanesi yok<br/>cama vuran yağmurun sesi yok<br/>sigara içerken titremenin zevki yok<br/>sevgilinin kenarlarında o güzel saçlarının sarktığı, sadece soğuktan kızarmış yanakları ve burnu hariç her yerini kapatan beresi ve atkısı yok
   entry_channels: ilişkiler,sağlık
-- entry_name: |
-    31 aralık trump avm xray rezaleti
-  entry_id:  99876590
-  entry_writer: hypertext
-  entry_fav_count: 0
-  entry_content: |
-    nişantaşı'ndan taksiyle trump'a gelip penti'ye gitme eylemi sürecinde gerçekleşen rezalettir.
-  entry_channels: siyaset
 ---
