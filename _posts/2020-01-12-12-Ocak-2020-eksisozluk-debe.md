@@ -6,7 +6,7 @@ data:
     pilotların 70 saat çalışıp 70 bin tl alması
   entry_id:  100375871
   entry_writer: cbellow
-  entry_fav_count: 792
+  entry_fav_count: 802
   entry_content: |
     pilotların 70 bin tl ya da doktorların 20 bin tl almasını değil de bir mühendisin 3 bin tl almasını ya da bir öğretmenin 4bin tl ile çalışmasını konuştuğumuz gün belki de herkes hak ettiğini alacak. yani onlar fazla almıyor sen az alıyorsun güzel kardeşim anlayın artık şunu. nedense fakirin fakire ettiği zulmü kimse kimseye etmiyor. patronu savunacağınıza çalışanları savunun bir kerede
   entry_channels: ekonomi
@@ -14,15 +14,23 @@ data:
     11 ocak 2020 iran'ın uçak düşürdüğünü kabul etmesi
   entry_id:  100366959
   entry_writer: 120sekiz
-  entry_fav_count: 687
+  entry_fav_count: 690
   entry_content: |
     bi de kalkip bu mallarin nukleer silaha sahip olma hakki oldugunu savunan maloglu mallar var.
   entry_channels: siyaset,haber,havacılık
 - entry_name: |
+    miğferdibi'nde surları havaya uçuran uruk hai
+  entry_id:  100356542
+  entry_writer: reinne
+  entry_fav_count: 637
+  entry_content: |
+    elbette en uzun kosuysa ortadunya'da devrim, o, onun en guzel <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=eQh2C1VRYBM" title="https://www.youtube.com/watch?v=eQh2C1VRYBM">yuz metresini kostu</a>.<br/><br/>bilimum gereksiz youtuber ve rapci icin binlerce entry girilmisken, duvarlari yikmak icin yaradana siginip kendini feda eden bu kahramanlar kahramani, isimsiz sehit uruk hai kardesimizin eksi sozlukte bir basliginin bile olmamasi ayibina artik daha fazla dayanamiyorum. mazlumlarin ofkesi, ezilen halklarin cigligi, azim, zafer ve inancin ete kemige burunmus hali olan, kimsenin adini bile bilmedigi bu koca yurekli uruk hai'nin, elinde tuttugu devrim mesalesiyle yoldaslarinin arasindan siyrilip gelerek, dehsete kapilmis cakma <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/r2322923brsx" title="https://eksiup.com/p/r2322923brsx">kahraman</a> ve isbirlikci <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/ta322925ni3z" title="https://eksiup.com/p/ta322925ni3z">halk dusmanlarinin</a> saskin bakislari altinda, fasizmin <a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/vx322932quts" title="https://eksiup.com/p/vx322932quts">tetikcilerine</a>, oklarina ve mizraklarina ragmen, gericiligin bogrune adeta bir yildirim gibi saplanmistir. herkes merak ediyor," o yikilmaz denen surlari, sauron'un iradesinin bile yikamadigi duvarlari, nasil oldu da boyle sadece bir mesaleyle tuzla buz ettin be cocuk?" diye soruyor. bilmezler ki o duvarlari yerlebir eden patlama, ezilen orklarin, asagilanan uruk hailerin, magaralara surgun edilmis balroglarin ve soyu kirilmis ejderhalarin devrimci ofkesinin ta kendisiydi; <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=r2mKlQ2zeJ4" title="https://www.youtube.com/watch?v=r2mKlQ2zeJ4">o duvar, duvariniz viz gelirdi ona viz.</a><br/><br/>ne zaman hatirlasam tuylerim urperir, gozlerim dolar, yumraklarimi sikar uzaklara bakarim. ilk o firladi kalabaligin ortasindan. en hizlisiydi hepsinin arasinda. aciyorsam sana anam avradim olsun. ama ask olsun sana cocuk. ask olsun aglattin hepimizi...<br/><br/>duzenin cennetinde yerin yok suphesiz. hicbir zaman orada burada heykellerini de goremeyecegiz. adini anan bile olmayacak belki. fakat senin yerin en kutsal mabette, yani ezilenlerin kalplerinin derinliklerinde olacaktir.
+  entry_channels: sinema
+- entry_name: |
     uçak füze sanıldığı için vuruldu
   entry_id:  100376002
   entry_writer: spaykymoon
-  entry_fav_count: 515
+  entry_fav_count: 520
   entry_content: |
     abd'ye meydan okuyan, biz de atom bombası üreteceğiz, ortadoğu bizden sorulur diyen iran, füze sandığı için kendi topraklarından kalkan yolcu uçağını vuruyor. 180 insan ölüyor binlerce acı kalıyor geriye, 'özür dileriz füze sandık, o yüzden vurduk' diye geciştir.<br/><br/>bir kişiyi gömmek için cenazeyi şehir şehir şov amaçlı gezdirirken izdiham olsun 76 kişi ölsün ' 1 günlük yas ilan et'.<br/><br/>boş alanlara füze at, 80 abd askeri öldürdük,intikam aldık, bitti bu iş deyip kenara çekil, bir abd askerinin burnu kanamadığı ortaya çıksın, sessizce kenardan sinsisice izle.<br/><br/>gerçekten atom bombası yapıyorsanız, toplanın bir çöle, patlatın aranızda o bombayı, siz de kurtulun insanlık da.<br/><br/>haysiyetsiz ortadoğu çomarları sizi. özürmüş!
   entry_channels: siyaset,tarih,haber
@@ -30,10 +38,26 @@ data:
     gamze akkuş ilgezdi'ye sıra bekleten kuaförün sonu
   entry_id:  100363840
   entry_writer: camide bir ateist
-  entry_fav_count: 436
+  entry_fav_count: 437
   entry_content: |
     zenginler siyasete sadece daha zengin olabilmek için atılır. tıpkı avukatların çevre edinebilmek için milletvekili seçilmesi gibi. iddia doğrudur yanlıştır onu bilemem, aktrollerin uydurması da olabilir fakat burjuva olup sol yumruğuyla şov yapan biri iticiliğiyle aklıma kazınmışsa, yapmış olması mümkün.
   entry_channels: siyaset,haber
+- entry_name: |
+    yeni neslin irite eden söz kalıpları
+  entry_id:  100365585
+  entry_writer: inkfloyd
+  entry_fav_count: 286
+  entry_content: |
+    salak bir story çekip akabinde "....... -umdur." kalıbında bir cümle kurmak.<br/><br/>örnekler;<br/>- arkadaşlarımla yemek yiyorumdur.<br/>-gezmeye çıkmışımdır.<br/>-iq seviyemin 22 olduğunu biliyorumdur.<br/><br/>yemin ederim iğreniyorum.
+  entry_channels: anket,edebiyat
+- entry_name: |
+    erkeğin kadın bacağından etkilenmesinin nedeni
+  entry_id:  100368521
+  entry_writer: menumen
+  entry_fav_count: 276
+  entry_content: |
+    hedefe giden yol ne kadar düzgün olursa, o kadar mutlu eder.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     piyango bileti satanlara domuz eti ikram etmek
   entry_id:  100376562
@@ -46,7 +70,7 @@ data:
     ateistleri darmaduman edecek bilimsel gelişme
   entry_id:  100387871
   entry_writer: jeffrey dahmer
-  entry_fav_count: 195
+  entry_fav_count: 226
   entry_content: |
     kadınları dövün ama yüzüne vurmayın, gerekirse 4'e kadar eş alın yazan bi kitap isterse evrimin kanıtını sunsun, yine de onu ciddiye almam, alamam kusura bakmayın
   entry_channels: bilim
@@ -62,7 +86,7 @@ data:
     mentollü sigara içenler şu an ne yapıyor
   entry_id:  100371016
   entry_writer: the master of apprentices
-  entry_fav_count: 150
+  entry_fav_count: 154
   entry_content: |
     menthollü olips ile beraber içiyoruz sigarayı. aynı etkiyi yapıyor.
   entry_channels: anket,yeme-içme
@@ -70,23 +94,47 @@ data:
     karadeniz'in incisi neresidir sorunsalı
   entry_id:  100385200
   entry_writer: biyolojik saat tamircisi
-  entry_fav_count: 134
+  entry_fav_count: 136
   entry_content: |
     (bkz: <a class="b" href="/?q=odessa">odessa</a>)
   entry_channels: anket,seyahat
 - entry_name: |
+    netflix türkiye
+  entry_id:  100371818
+  entry_writer: borellus666
+  entry_fav_count: 122
+  entry_content: |
+    köle toplum lafını en çok köleler kullanıyor vallahi. sanatı sikeyim. sinemayı da sikeyim. hiçbiri umrumda değil. izlerken keyif alıyor muyum? alıyorsam okeydir. <br/><br/>uyuşturucu demiş bir de. ulan şu hayatta yaptığın eylemlerin %80'inden fazlası beynini bir şekilde uyuşturuyor zaten. neyi anlatmaya çalışıyorsun bize? neyi keşfettin de entry girip bize bir şeyler açıklamaya çalışıyorsun. boş adam olmak tanımısın resmen. bir insan netflix gibi basit bir oluşuma nefret besleyecek kadar ufak çaplı bakıyorsa hayata o insan çok yalnızdır benden söylemesi.
+  entry_channels: tv,sinema,teknoloji
+- entry_name: |
     iç sesini seslendirmesini istediğin kişi
   entry_id:  100367707
   entry_writer: ojeist
-  entry_fav_count: 120
+  entry_fav_count: 121
   entry_content: |
     haluk bilginer
   entry_channels: anket
 - entry_name: |
+    halka sormadan cumhuriyet ilan etmek
+  entry_id:  100387455
+  entry_writer: vegan yamyam
+  entry_fav_count: 106
+  entry_content: |
+    yapılmamalıdır. belki halk özgür, yönetimde hak sahibi bireyler olmak yerine kendine padişah diyen bir delinin köleleri, hatta malları olarak kalmak istiyor.
+  entry_channels: siyaset,tarih
+- entry_name: |
+    11 ocak 2020 marmara denizi depremleri
+  entry_id:  100368589
+  entry_writer: mutalisk
+  entry_fav_count: 102
+  entry_content: |
+    keşke devletin böyle olağanüstü durumlarda açıklama yapacak, insanları bilgilendirecek bir kurumu olsa. böylece insanlar neler olduğunu oradan öğrense de boş insanların yaptığı açıklamalar sonundaki panik yapmasa.
+  entry_channels: bilim,haber
+- entry_name: |
     delileriyle ünlü şehirler ve delileri
   entry_id:  100385456
   entry_writer: adebayorun hirsiz kardesi rotimi
-  entry_fav_count: 95
+  entry_fav_count: 96
   entry_content: |
     şorikli yaşar, gız mahmut, mercedes kadir ve daha nice delileriyle malatya'dır efendim.
   entry_channels: anket,tarih,sağlık,seyahat
@@ -94,7 +142,7 @@ data:
     11 ocak 2020 istanbul depremi
   entry_id:  100381629
   entry_writer: xtremee
-  entry_fav_count: 93
+  entry_fav_count: 94
   entry_content: |
     deprem olurken neden aklıma kesin ekşi sözlükte hemen başlık açmışlardır düşüncesi geliyor nasıl bu psikolojiye ulaştım :(
   entry_channels: bilim,haber
@@ -102,31 +150,39 @@ data:
     istanbul'un en kötü ilçesi
   entry_id:  100377556
   entry_writer: kaderin boylesine yaziklar olsun
-  entry_fav_count: 92
+  entry_fav_count: 93
   entry_content: |
     (bkz: <a class="b" href="/?q=mecidiyek%c3%b6y+il%c3%a7esi">mecidiyeköy ilçesi</a>)<br/>(bkz: <a class="b" href="/?q=samand%c4%b1ra+il%c3%a7esi">samandıra ilçesi</a>)<br/><br/>daha adamlar istanbul'un ilçelerini bilmiyor. buna rağmen hangisi iyi hangisi kötü yorumunu yapıyor.
   entry_channels: anket
 - entry_name: |
-    tunç soyer
-  entry_id:  100356509
-  entry_writer: kloraq
+    mehmet ali erbil
+  entry_id:  100378079
+  entry_writer: elbistan
   entry_fav_count: 90
   entry_content: |
-    doğma büyüme izmirli’yim. 30 yıldır bu şehirde yaşıyorum. 16 sene balçova’da, 14 senedir güzelbahçe’de ikamet ediyorum. ofisim alsancak’ta, işim sebebiyle haftada 2-3 kere bayraklı’dayım. haftasonları ara ara karşıyaka’ya giderim. bu siktiğimin aktrolleri her yere “izmir bok kokuyor” yazmaktan bıkmadı, neresi bok kokuyor be amına koduklarım? en son ben 5-6 yaşındayken körfez kokardı, bunlar kendi kokularını mı anlatıp kafa sikiyor buralarda?
+    yine yeniden yeryüzündeki allah’lar hükmünü vermiş. cehenneme gidecekmiş öyle diyorlar.<br/><br/>gökteki allah şifa versin.
+  entry_channels: tv,sinema,magazin
+- entry_name: |
+    erdoğan kaybederse makamı ve sarayı bırakacak mı
+  entry_id:  100374893
+  entry_writer: terliksiz deve
+  entry_fav_count: 88
+  entry_content: |
+    halk adamın götünü keser... biraz tarihe bakacaksınız.
   entry_channels: siyaset
 - entry_name: |
-    halka sormadan cumhuriyet ilan etmek
-  entry_id:  100387455
-  entry_writer: vegan yamyam
+    yola çöp atıp trafik cezası yiyen instagram anası
+  entry_id:  100380371
+  entry_writer: eve arnold
   entry_fav_count: 84
   entry_content: |
-    yapılmamalıdır. belki halk özgür, yönetimde hak sahibi bireyler olmak yerine kendine padişah diyen bir delinin köleleri, hatta malları olarak kalmak istiyor.
-  entry_channels: siyaset,tarih
+    dipleri simsiyah çıkmış platin saç ve leopar desen elbise. söyleyeceklerim bu kadar.
+  entry_channels: haber,magazin
 - entry_name: |
     evde gram huzur olmaması
   entry_id:  100389722
   entry_writer: taluyka
-  entry_fav_count: 79
+  entry_fav_count: 80
   entry_content: |
     müthiş türk aile yapısını örnekleyen bir ifade.<br/><br/>ilgisiz bir baba, vizyonsuz bir anne ve bu ikisinin arasında sıkışıp kalan ufku dar çocuklar.<br/><br/>bu insanlar niçin böyle bunun da sebepleri var mutlaka.
   entry_channels: anket,ilişkiler
@@ -134,7 +190,7 @@ data:
     evlenmiyorum çünkü
   entry_id:  100357250
   entry_writer: moratoryumkisilik
-  entry_fav_count: 61
+  entry_fav_count: 64
   entry_content: |
     bu saatten sonra hem mantığıma hem duygularıma hitap edecek bir insanın olmadığını, eğer böyle biri varsa karşılaşmamızın çok zor olduğunu , karşılaşsak bile duygularımızın karşılıklı olmasının neredeyse imkansız olacağını düşündüğüm için evlenmeyi düşünmüyorum.
   entry_channels: anket,ilişkiler
@@ -142,18 +198,10 @@ data:
     buca'da yaşayıp izmir'de yaşadığını sanmak
   entry_id:  100376142
   entry_writer: papaouteala
-  entry_fav_count: 58
+  entry_fav_count: 60
   entry_content: |
     izmir valiliği resmi web sitesi: <a rel="nofollow noopener" class="url" target="_blank" href="http://www.izmir.gov.tr/ilcelerimiz">http://www.izmir.gov.tr/ilcelerimiz</a><br/><br/>adresinden de görüleceği üzere buca izmir’in bir ilçesidir. <br/>(bkz: <a class="b" href="/?q=kutsal+bilgi+kayna%c4%9f%c4%b1">kutsal bilgi kaynağı</a>)<br/>kirletmeyelim
   entry_channels: seyahat
-- entry_name: |
-    mehmet ali erbil
-  entry_id:  100378079
-  entry_writer: elbistan
-  entry_fav_count: 52
-  entry_content: |
-    yine yeniden yeryüzündeki allah’lar hükmünü vermiş. cehenneme gidecekmiş öyle diyorlar.<br/><br/>gökteki allah şifa versin.
-  entry_channels: tv,sinema,magazin
 - entry_name: |
     dvtfl okulundaki müdürün etek boyu konuşması
   entry_id:  100386982
@@ -166,7 +214,7 @@ data:
     ölene kadar yiyebilirim yemekleri
   entry_id:  100358824
   entry_writer: konussamtesiriyok
-  entry_fav_count: 44
+  entry_fav_count: 45
   entry_content: |
     içinde patlıcan olan yemeklerdir.
   entry_channels: anket,yeme-içme
@@ -174,18 +222,10 @@ data:
     eski sevgiliyi rehberden silmek
   entry_id:  100372254
   entry_writer: dogrudan dogruya
-  entry_fav_count: 36
+  entry_fav_count: 38
   entry_content: |
     değil eski sevgili, uzun süre konuşmadığım insanların numarasını bile siliyorum ben.
   entry_channels: ilişkiler
-- entry_name: |
-    beklenen büyük istanbul depremi
-  entry_id:  100369521
-  entry_writer: belgradda donuna kadar soyulan genc
-  entry_fav_count: 36
-  entry_content: |
-    kendime değilde o anda istanbula tatil amacıyla gelen japon turistlere acıyorum.adam kendi ülkesinde 8.9(2011 depreminde) burnu bile kanamasın.türkiyedede beton yığını altından yaşam pozu versin.kusura bakma katsumoto bizim kafalar ancak çalışır oto boko.
-  entry_channels: bilim,haber
 - entry_name: |
     kitap kahve yorgan kedi netflix
   entry_id:  100368610
@@ -206,7 +246,7 @@ data:
     koklayarak öpen kız
   entry_id:  100385342
   entry_writer: sifremyanlis
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     insanları kokusuyla hatırlayan birisi olarak, çoğu zaman koklayarak öpüyorum. her zaman yanımda değil sonuçta, unutmamam lazım kokusunu.
   entry_channels: ilişkiler
@@ -219,6 +259,22 @@ data:
     (bkz: <a class="b" href="/?q=tavla+pulu">tavla pulu</a>)<br/><br/>olum bu ne saçma başlık lan? teklif edilen şey ölüm, bok, borç değilse niye reddeyim?
   entry_channels: anket
 - entry_name: |
+    ekşi itiraf
+  entry_id:  100356228
+  entry_writer: ladylike
+  entry_fav_count: 20
+  entry_content: |
+    kendimi açıklamak zorunda hissetmeyeceğim bir insana aşık olasım var. aynı dili konuşmaya, anlaşılmaya ve koşulsuzluğa ihtiyacım var.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    çinliler istanbul'u istila edecek
+  entry_id:  100392100
+  entry_writer: cilician
+  entry_fav_count: 19
+  entry_content: |
+    çinlilerin millete salça olmayacağını sanan vatansız köpeklerin umrunda olmayan hededir.<br/><br/>boynuna zinciri vurur seni ayı gibi oynatır bu adamlar emin misin salça olmayacaklarına acaba...
+  entry_channels: 
+- entry_name: |
     kilo vermek isteyenlere tavsiyeler
   entry_id:  100382894
   entry_writer: sag ol ayri yazilir
@@ -227,53 +283,37 @@ data:
     terapiye gidin. <br/><br/>bakın size herkes spor yapın, aç kalın, diyet yapın diyebilir her zaman. ama kilit olan şey beyne fikri aşılamaktır. aç olmadığınızı, sıkıntıdan yediğinizi, spor yapmanın gerektiğini bilinçaltına aşılamak zo-run-da-sı-nız, tabii eğer kendiniz yapamıyorsanız, terapi alın.
   entry_channels: anket,sağlık,magazin
 - entry_name: |
-    ekşi itiraf
-  entry_id:  100356228
-  entry_writer: ladylike
-  entry_fav_count: 17
+    geceye mavi gözlü çelik bakışlı bir isim bırak
+  entry_id:  100391881
+  entry_writer: baskasindanbaska
+  entry_fav_count: 15
   entry_content: |
-    kendimi açıklamak zorunda hissetmeyeceğim bir insana aşık olasım var. aynı dili konuşmaya, anlaşılmaya ve koşulsuzluğa ihtiyacım var.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    emekli milletvekillerinin 13.420 tl maaş alması
-  entry_id:  100389333
-  entry_writer: sirgalahad777
-  entry_fav_count: 16
-  entry_content: |
-    2020 için geçerli olan tarifedir. sadece bir dönem vekillik yapıp ömür boyu bu maaşı almak hangi mantıkla izah edilebilir?<br/>çok mu zengin bir ülkeyiz?<br/>hangi zengin ülkede bu tarz bir uygulama var?
-  entry_channels: siyaset,haber,ekonomi
+    başkomutan, başöğretmen, mareşal;<br/>(bkz: <a class="b" href="/?q=gazi+mustafa+kemal+atat%c3%bcrk">gazi mustafa kemal atatürk</a>)
+  entry_channels: 
 - entry_name: |
     11 ocak 2020 tottenham liverpool maçı
   entry_id:  100391809
   entry_writer: 31 sonrasi pismanlik
-  entry_fav_count: 12
+  entry_fav_count: 13
   entry_content: |
     bu maçın son 15 dakikasindaki tempoyu süper lige koysan sahada 9 futbolcu kalp yetmezliğinden ölür aq.
   entry_channels: spor
 - entry_name: |
-    çinliler istanbul'u istila edecek
-  entry_id:  100392100
-  entry_writer: cilician
-  entry_fav_count: 9
-  entry_content: |
-    çinlilerin millete salça olmayacağını sanan vatansız köpeklerin umrunda olmayan hededir.<br/><br/>boynuna zinciri vurur seni ayı gibi oynatır bu adamlar emin misin salça olmayacaklarına acaba...
-  entry_channels: 
-- entry_name: |
-    kartal aihl başarısı eğitim ile ilgili değil
-  entry_id:  100389081
-  entry_writer: matilda effect
-  entry_fav_count: 9
-  entry_content: |
-    kartal imam hatip mezunlarının başarısı hakkında ziya selçuk’un yorumu;<br/><br/>“eğitimle ilgili bir konu değil. kamudaki istihdam politikası, belli görevlere kimlerin getirildiği ile ilgili bir konu. bunu kahve içerken konuşuruz.”<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tcbuyuksehir/status/1216034723744698368?s=19" title="https://twitter.com/tcbuyuksehir/status/1216034723744698368?s=19">https://twitter.com/…tatus/1216034723744698368?s=19</a>
-  entry_channels: siyaset,haber
-- entry_name: |
     akınrobotics robotlarının oynadığı reklam
   entry_id:  100387922
   entry_writer: misery the pig
-  entry_fav_count: 9
+  entry_fav_count: 12
   entry_content: |
     teknolojinin harman olduğu konya ovasından türemiş milli gururumuz akınrobotics'imizin, toplumsal cinsiyet rollerini pekiştirmek için elinden geleni yapmaya devam ettiği müthiş reklamdır. her robot kadının hayali olan sıcacık bir yeni gelin evi, gerizekalı bir robot çocuk ve hırt ötesi, çirkin bir robot koca içermektedir.
   entry_channels: teknoloji
+- entry_name: |
+    11 ocak 2020 iran rejim protestoları
+  entry_id:  100391349
+  entry_writer: manwell
+  entry_fav_count: 9
+  entry_content: |
+    mollaların defterinin dürülmesi dileğiyle.
+  entry_channels: siyaset,haber
 - entry_name: |
     şu an okunan kitap
   entry_id:  100356960
@@ -294,7 +334,7 @@ data:
     doğu'nun parisi neresidir sorunsalı
   entry_id:  100389636
   entry_writer: masterlessman
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     lübnan'ın başkenti olan beyrut'tur. maalesef ki ülkemizde mimari anlayışı on yıllardır paragöz müteahhitlerin eline bırakıldığı için ülkemizde bırakın doğu'nun paris'i olmayı, doğunun sheffield'ı olabilecek bir şehir bile yoktur.
   entry_channels: anket,seyahat
@@ -310,18 +350,10 @@ data:
     ankara'nın en kötü ilçesi
   entry_id:  100389246
   entry_writer: slowmotionn
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     pembe götlü çankayada oturan ekşici arkadaşlarımızın keçiören mamak çinçin falan dediği fakat üstteki bir yazarın da dediği gibi altındağdır. <br/>özellikle suriyelilerin yerleştiği siteler civarı mahalleler. bir kısmı yıkılmış molozlar bir yanı derme çatma gecekondular bir çok arapça tabelalar, arapça konuşmalar ile kendinizi suriyede bir şehirde sanmanız olağandır. adeta yeni bombalanmış ufak bir suriye şehridir.<br/>bunları gören gözlerim için keçiören bana paris gibi gelmektedir.<br/>son olarak çinçin dışkapı diyorsunuz çinçin mi kaldı hepsi toki oldu hıdırlıktepe falan hep yıkıldı.
   entry_channels: anket,seyahat
-- entry_name: |
-    gece yanan sarı sokak lambasına bir söz bırak
-  entry_id:  100360045
-  entry_writer: nedesembilemedi
-  entry_fav_count: 4
-  entry_content: |
-    sokak lambasına niye söz bırakıyoz? kafayı mı yedik?
-  entry_channels: anket,edebiyat
 - entry_name: |
     steroid kullanan vücutçuyu anlama yolları
   entry_id:  100382204
@@ -331,14 +363,6 @@ data:
     trapezler
   entry_channels: spor,sağlık
 - entry_name: |
-    11 ocak 2020 iran rejim protestoları
-  entry_id:  100391349
-  entry_writer: manwell
-  entry_fav_count: 3
-  entry_content: |
-    mollaların defterinin dürülmesi dileğiyle.
-  entry_channels: siyaset,haber
-- entry_name: |
     ryan babel
   entry_id:  100392862
   entry_writer: kurtz
@@ -347,13 +371,13 @@ data:
     çok can sıkıcı bir kontratı var. ajax'da biraz top oynayıp avrupa şampiyonasında da hollanda formasıyla birkaç iyi maç oynarsa çıkabiliriz ancak o kontrattan. top oynasın da elden çıkarabilelim diye takip edeceğimiz bir oyuncu daha oldu.
   entry_channels: spor
 - entry_name: |
-    kurtlar vadisi'nden aforizmalar
-  entry_id:  100390666
-  entry_writer: sancarloramirez
-  entry_fav_count: 1
+    antidepresan etkisi gösteren şeyler
+  entry_id:  100390056
+  entry_writer: pakobundy
+  entry_fav_count: 2
   entry_content: |
-    - devlet dediğin nasırlı adamdır. ayağına basmadığın sürece nasırını hatırlamaz. ayağına bastın mı eş, dost, ahbap tanımaz.<br/><br/>laz ziya...
-  entry_channels: tv,edebiyat,spoiler
+    boney m. videoları izlemek.
+  entry_channels: anket,ilişkiler,sağlık
 - entry_name: |
     güzel ayaklı sözlük kadınları veritabanı
   entry_id:  100388845
@@ -363,14 +387,6 @@ data:
     güzel veya çirkin olması farkeden bir olay değildir.<br/>44 numara toynak gibi ayağa bile,<br/>çok güzel, müthiş ayak parmakları diyebilecek adamlar tarafından işgal edilmiştir sözlük.
   entry_channels: ekşi-sözlük
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  100382374
-  entry_writer: semenderrr
-  entry_fav_count: 1
-  entry_content: |
-    gül âteş gülbün âteş gülşen âteş cûybâr âteş<br/>semender-tıynetân-ı aşka bestir lâlezâr ateş<br/><br/><a class="b" href="/?q=%c5%9feyh+galip">şeyh galip</a><br/><br/>günümüz türkçesi: gül de, gül fidanı da, gül bahçesi de ve hatta o bahçeden akan ırmak da ateştir aşığa ama aşık da semenderdir ki, semenderler yanmaz ateşte. hem zaten ateş de ona bir lale bahçesi gibidir.
-  entry_channels: sanat,edebiyat
-- entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  100356522
   entry_writer: ilgeru
@@ -378,22 +394,6 @@ data:
   entry_content: |
     olm ne biçim sorular soruyorsunuz lan. soruları beyninizle sorun amk. benim soruma gelince ben dalgalı saçın kadınlara çok yakıştığını düşünüyorum. siz de buna katılıyor musunuz?
   entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    antidepresan etkisi gösteren şeyler
-  entry_id:  100393052
-  entry_writer: king sized ego
-  entry_fav_count: 1
-  entry_content: |
-    bende işe yarayanları yazayım;<br/>•dua etmek, zikir/tesbih çekmek<br/>•doğa ile iç içe zaman geçirmek <br/>•kimseye anlatamadıklarımı kağıda döküp, kağıdı parçalamak<br/>•müzik dinleyerek yürümek<br/>•atlasa (haritaya) bakmak<br/>•temizlik yapmak
-  entry_channels: anket,ilişkiler,sağlık
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  100363772
-  entry_writer: reklampanolarina
-  entry_fav_count: 0
-  entry_content: |
-    bekleriz efendim.<br/>not:27, e, edirne.
-  entry_channels: ekşi-sözlük
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  100392607
