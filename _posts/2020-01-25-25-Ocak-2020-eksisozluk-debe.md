@@ -6,18 +6,10 @@ data:
     çin restoranında canlı fare servisi
   entry_id:  100981570
   entry_writer: nickeymause
-  entry_fav_count: 769
+  entry_fav_count: 775
   entry_content: |
     geçen gün evde yakaladım bi tane "çin zulmünden kaçtım abi" dedi. saldım.
   entry_channels: sağlık,yeme-içme
-- entry_name: |
-    cahillerin eğitimlilerden daha iyi olduğu konular
-  entry_id:  100971917
-  entry_writer: flankezz
-  entry_fav_count: 740
-  entry_content: |
-    cahillerin eğitimlilerden daha iyi bilmediği konu mu var amk adamlar her şeyi biliyor.
-  entry_channels: anket,eğitim
 - entry_name: |
     cenk er uysal
   entry_id:  100999968
@@ -27,18 +19,10 @@ data:
     görevini yapmış. helal olsun. haberdar ettiğin için teşekkürler.
   entry_channels: eğitim
 - entry_name: |
-    çin iğrençliği vs hindistan iğrençliği
-  entry_id:  100971516
-  entry_writer: proust
-  entry_fav_count: 354
-  entry_content: |
-    "hindistan m.ö. 3000'li yıllarda hijyene tepki olarak ortaya çıkmış kadim bir medeniyettir."
-  entry_channels: anket
-- entry_name: |
     çin'e karşı yürütülen kirli algı operasyonu
   entry_id:  101004106
   entry_writer: otakulady
-  entry_fav_count: 343
+  entry_fav_count: 376
   entry_content: |
     (bkz: <a class="b" href="/?q=az+bilinen+efsane+duyarlar">az bilinen efsane duyarlar</a>)<br/><br/>adamlar canlı cansız demeden löp löp götürüyor böceğinden tut da kemirgenine kadar. <br/><br/>gerçekleri de mi konuşmayalım kardeşim?!
   entry_channels: siyaset
@@ -46,7 +30,7 @@ data:
     fenerium'da fb'ye ayar veren tiktokçu gs'li kız
   entry_id:  100995570
   entry_writer: jaco
-  entry_fav_count: 315
+  entry_fav_count: 316
   entry_content: |
     ben galatasaraylılığımdan utandım izlerken.<br/><br/>komik desen değil, yaratıcı desen değil. tam bir gereksizlik ve saygısızlık abidesi.
   entry_channels: spor,teknoloji
@@ -54,7 +38,7 @@ data:
     5 diploması olup asgari ücret alan adam
   entry_id:  101005413
   entry_writer: atanamayan emekli
-  entry_fav_count: 276
+  entry_fav_count: 293
   entry_content: |
     3 diplomayla benim de bir süre içinde bulunduğum durum. neyse ki çok fazla dayanamayıp isyan ettim de şu an çok şükür asgari ücret almıyorum. <br/><br/>not: işsizim.
   entry_channels: haber,eğitim,ekonomi
@@ -62,7 +46,7 @@ data:
     kadınların kendi ayakları üzerinde durma sevdası
   entry_id:  100980819
   entry_writer: be like water
-  entry_fav_count: 226
+  entry_fav_count: 232
   entry_content: |
     olmasi gereken normal bir sey. erkek olarak her zaman destekledim. kendini egitmis, dunya gorusu gelismis her insan icin normali zaten boyle olmali.<br/><br/>ya baslik zaten bastan hatali... laf anlatmaya halim yok. ama iste solda gece gece goren kadinlar icin moral olur belki diye yaziyorum.
   entry_channels: ilişkiler
@@ -75,6 +59,14 @@ data:
     mustafa cengiz; fatih terim için eleman demese de ismini anmamış ve "sayın teknik direktörümüz" demiştir takribi 20 defa.. kısacası, fatih terim bir kez daha bir başkanla papaz olmayı başarmıştır..<br/><br/>edit: offffff bomba sonra geldi..<br/><br/>"aramızda fikir ayrılığı yoktur, yönetim kurulunun aldığı bir karar vardır ve herkes buna uymakla yükümlüdür. bizde fikir ayrılığı olmaz, olursa ancak yol ayrılığı olur!"<br/><br/>bildiğin reste rest çekti başkan, ya paşa paşa dediğimi yaparsın ya da siktir olur gidersin demeye getirdi resmen.. üstüne de ekledi;<br/><br/>"ben teknik direktör olsam, başkanımız ve yönetim kurulumuz hakkında bu konuşmaları yapmaktan hicap duyarım!"<br/><br/>başkan geçirdikçe geçiriyor <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>"sayın teknik direktörümüz, ben olsam başkanın dediklerini demezdim diye gazetecilere beyanat verdi. ee ben o sırada oradaydım? keşke, bana gelip neyi konuşup neyi konuşamayacağımı anlatsaydı!"<br/><br/>öyle arkadan dedikodu yapmak olmaz, yüreğin varsa gel yüzüme konuş demeye getirerek finali yaptı resmen..
   entry_channels: spor
 - entry_name: |
+    24 ocak 2020 fatih terim'in attığı tweet
+  entry_id:  101008626
+  entry_writer: eoamt
+  entry_fav_count: 151
+  entry_content: |
+    <a class="b" href="/?q=say%c4%b1n+teknik+direkt%c3%b6r">sayın teknik direktör</a> kısaca, "tazminatımı almadan gitmem" demiştir. <br/><br/>verilmiş söz: sözleşmedeki tazminat.<br/><br/>vazgeçemediği hayali: para.
+  entry_channels: spor,haber
+- entry_name: |
     bir fakir eşyası
   entry_id:  100971041
   entry_writer: dcdl
@@ -83,18 +75,10 @@ data:
     üstü fayanslı kenarları kesik tekerli yemek masasını tek geçerim
   entry_channels: anket,ekonomi
 - entry_name: |
-    24 ocak 2020 fatih terim'in attığı tweet
-  entry_id:  101008626
-  entry_writer: eoamt
-  entry_fav_count: 142
-  entry_content: |
-    <a class="b" href="/?q=say%c4%b1n+teknik+direkt%c3%b6r">sayın teknik direktör</a> kısaca, "tazminatımı almadan gitmem" demiştir. <br/><br/>verilmiş söz: sözleşmedeki tazminat.<br/><br/>vazgeçemediği hayali: para.
-  entry_channels: spor,haber
-- entry_name: |
     çin'de lağım yağı kullanımı
   entry_id:  100995724
   entry_writer: soyleyeceknecokseyvar
-  entry_fav_count: 116
+  entry_fav_count: 117
   entry_content: |
     son bir haftadır çin nefretinden amerikancı emperyalist kapitalist oldum çıktım. allah sizin belanızı versin. midem elimde apple mağazasına koşuyorum şu an.
   entry_channels: sağlık,haber,yeme-içme
@@ -107,21 +91,21 @@ data:
     türkiye‘de çıksa televizyonda bakanın yarasa yiyeceği vaka.
   entry_channels: sağlık,haber
 - entry_name: |
-    mustafa cengiz
-  entry_id:  100970830
-  entry_writer: psychonaut
-  entry_fav_count: 105
-  entry_content: |
-    büyüksün be başkan. arda kararı için teşekkür ederim.
-  entry_channels: spor
-- entry_name: |
     karısının aldattığını ispat etmenin suç olması
   entry_id:  100996646
   entry_writer: lutfu tellioglu
-  entry_fav_count: 104
+  entry_fav_count: 108
   entry_content: |
     zina <a class="b" href="/?q=su%c3%a7">suç</a> değildir.<br/>sadece ve sadece bir boşanma sebebidir.<br/><br/>zinanın ispatı, iddia edene ait olup, buna ilişkin delillerin dikkate alınabilmesi ve delil olarak kabul edilebilmesi için hukuka uygun şekilde elde edilmiş olmaları gerekir.<br/><br/>örneğin birlikte olduğunuz insanın, <a class="b" href="/?q=kar%c5%9f%c4%b1+cins">karşı cins</a>ten bir başka insanla aynı otel odasında bir gece geçirmiş olduğunu otel kayıtlarından alarak.<br/><br/>örneğin birlikte olduğunuz insanın, <a class="b" href="/?q=kar%c5%9f%c4%b1+cins">karşı cins</a>ten bir başka insanla, <a class="b" href="/?q=kamusal+alan">kamusal alan</a>da veya kendi evinizde çekilmiş fotoğraf ve/veya videolarıyla.<br/><br/>buradan eşinizin sizi bir hemcinsi ile aldatması durumunun zina kapsamına sokulamayacağını anlamanız da gerekiyor. bunu maalesef kanun ancak <a class="b" href="/?q=haysiyetsiz+hayat+s%c3%bcrme">haysiyetsiz hayat sürme</a> başlığı ile bir boşanma sebebi olarak görebiliyor. <br/><br/>üzgünüm eşcinsel arkadaşlar, <a class="b" href="/?q=kanuna+g%c3%b6re">kanuna göre</a> haysiyetsiz hayat sürüyorsunuz. <br/><br/>bu elbette şu anlama da geliyor: eğer eşiniz, sizi aldatıyor iken bunu dikkatli bir biçimde yaparsa, kamusal alanda birlikte görünmez ise, aptal gibi aynı otelde kalmazsa, örneğin gidip partnerinin evinde kalırsa, sosyal medyada da bunu açık eden paylaşımlarda bulunmazsa, bunu ispat edebilmeniz mümkün değil.<br/><br/>dolayısıyla boşanma davanızda dayanak olarak kullandığınız zinayı ispat edemediğiniz için davanız dayanaksız kalır. eşiniz boşanmak istemezse boşanamamış olursunuz. hatta bu dava ile evlilik birliğini temelinden sarsan davranışa sebep olmuş olmakla kusurlu sayılmanız, yine buna bağlı olarak tazminat ödemeniz son derece olasıdır. dava süresince <a class="b" href="/?q=tedbir+nafakas%c4%b1">tedbir nafakası</a>, dava sonrası <a class="b" href="/?q=yoksulluk+nafakas%c4%b1">yoksulluk nafakası</a>, müşterek çocuk varsa <a class="b" href="/?q=i%c5%9ftirak+nafakas%c4%b1">iştirak nafakası</a> konularına girmeye gerek dahi yok.<br/><br/>yüzlerce kez söyledik.<br/>(bkz: <a class="b" href="/?q=evlenmeyin">evlenmeyin</a>)<br/><br/>edit: zinanın suç olduğunu ileri süren, daha sonra silinmiş bir entry'e ithafen yazılmıştır.
   entry_channels: siyaset,ilişkiler,haber
+- entry_name: |
+    mustafa cengiz
+  entry_id:  100970830
+  entry_writer: psychonaut
+  entry_fav_count: 107
+  entry_content: |
+    büyüksün be başkan. arda kararı için teşekkür ederim.
+  entry_channels: spor
 - entry_name: |
     bekar bayanın sevgilisinde kalması normal mi
   entry_id:  100983427
@@ -134,7 +118,7 @@ data:
     rise of empires ottoman
   entry_id:  100990908
   entry_writer: sanalulke
-  entry_fav_count: 84
+  entry_fav_count: 87
   entry_content: |
     ilk bölümden belli oldu osmanlı istanbulu alacak gibi.
   entry_channels: tv,tarih,teknoloji,spoiler
@@ -142,7 +126,7 @@ data:
     1 saatliğine rte'nin yerine geçseniz ne yapardınız
   entry_id:  101000682
   entry_writer: pragmatik yordam
-  entry_fav_count: 73
+  entry_fav_count: 75
   entry_content: |
     merkeli öperdim.
   entry_channels: siyaset,anket
@@ -155,18 +139,18 @@ data:
     wuhan çıktı mk
   entry_channels: haber
 - entry_name: |
-    iyi menemenin sırrı
-  entry_id:  100991112
-  entry_writer: heyli hala hulada hamburleyli
-  entry_fav_count: 63
+    kadınların satın alınabilir varlıklar olması
+  entry_id:  101012772
+  entry_writer: koyu renkler
+  entry_fav_count: 57
   entry_content: |
-    lezzetli meme diye okudum
-  entry_channels: yeme-içme
+    (bkz: <a class="b" href="/?q=the+bomb+has+been+planted">the bomb has been planted</a>)
+  entry_channels: anket,ilişkiler,ekonomi
 - entry_name: |
     fatih terim
   entry_id:  100972213
   entry_writer: negatif entropi
-  entry_fav_count: 56
+  entry_fav_count: 57
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>ben her zaman yönetimle arasında sorun var dedirtmemek için çok çaba harcıyorum. ama zaman zaman çaba harcadıkça hayal kırıklığı yaşıyorum.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> --- <br/><br/>bir insan hem karakterce, hem sahada bu kadar bitik bir futbolcu için bu kadar kendini paspas etmez, bir insan kendini kovdurmak için bu kadar uğraşmaz, her şeyi geçtim bu kadar düzgün, beyefendi, her şeyi alttan alan bir başkana böyle terbiyesizlik yapılmaz.<br/><br/>ünal aysal olacaktı ki kulağından tutup atacaktı dışarı. o gün ne kadar üzüldüysek, bugün o kadar anlıyoruz gerçekleri.
   entry_channels: spor
@@ -174,7 +158,7 @@ data:
     cahil insanla konuşurken hissedilen duygu
   entry_id:  101005757
   entry_writer: revanchist
-  entry_fav_count: 52
+  entry_fav_count: 55
   entry_content: |
     gençken nefret ederdim. zamanla bunun doğanın bir parçası olduğunu anladım. 2000 yıl önce yazılan kitaplarda bile aynı tipler ve şikayetler var. <br/><br/>herkes kendini kurtarmalı. sabır ve sempatiyle durumlarına üzülüp, konuyu değiştirin ya da uzak durun. <br/><br/>tarihe geçmiş ne ünlü insanlar, filozoflar, liderler, fikir önderleri bile buna çözüm bulamamış. onun anlayacağı seviyede anlattığınızı kabul etmiyorsa, haklısın diyip geçin. <br/><br/>en zor koşullarda bile okumuş aydınlanmış sayısız insan var. kimse kimseyi kurtaramaz. cehaletten kurtulmak kişinin elindedir. <br/><br/>sabredin ve yolunuza devam edin. en sağlıklısı bu yöntem.
   entry_channels: anket,eğitim
@@ -182,7 +166,7 @@ data:
     en sevilen motto
   entry_id:  101000571
   entry_writer: terstepentepki
-  entry_fav_count: 46
+  entry_fav_count: 47
   entry_content: |
     uzun bir hitit duası olup benim dark dizisinde bir kısmı ile karşılaştığım o harika dua;<br/><br/>"tanrım değiştirebileceğim şeyleri değiştirmek için cesaret, değiştiremeyeceğim şeyleri kabullenmek için sabır, aradaki farkı anlamam için ise akıl ver."
   entry_channels: anket,edebiyat
@@ -198,7 +182,7 @@ data:
     sözlüğü kürtlerin basması
   entry_id:  101007188
   entry_writer: elindo
-  entry_fav_count: 31
+  entry_fav_count: 32
   entry_content: |
     haşaremiyiz amk biz.
   entry_channels: siyaset,anket,ekşi-sözlük
@@ -206,7 +190,7 @@ data:
     sergen yalçın
   entry_id:  100993498
   entry_writer: amaderyaiyiydi
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     pardon ama, abdullah avcı'ya 36 milyon tl'yi kim verecek tazminat olarak da sergen'le yeni sözleşme imzalanacak ? <br/><br/>parayı yatırırsan topçun oynuyor zaten, 14. haftada 2.ydin amına koyayım çünkü çebi paraları yatirmiştı.<br/><br/>paralar gene yatamadı, takım gene oynamadı. bu, bu kadar basit.<br/><br/>gs'liyim ama şunu söylemeden geçemeyeceğim, fikret orman da ne yemiş be kardeşim.
   entry_channels: spor
@@ -230,58 +214,58 @@ data:
     24 ocak 2020 abdullah avcı'nın kovulması
   entry_id:  101008147
   entry_writer: kiralikceset
-  entry_fav_count: 24
+  entry_fav_count: 25
   entry_content: |
     45 milyon tl tazminat alacak adama, üzülmeyin diyorsunuz ya... cidden gerizekalı dolu.
   entry_channels: spor
 - entry_name: |
-    ahlaki çöküşün sorumlusu
-  entry_id:  100971341
-  entry_writer: olum de ruzgar gibi
-  entry_fav_count: 22
-  entry_content: |
-    <a class="b" href="/?q=kim+oldu%c4%9funu+bilirsin+sen">kim olduğunu bilirsin sen</a> ve diğerleri.<br/><br/>adalet<br/>hak<br/>hukuk<br/>liyakat<br/>eğitim<br/>bilim<br/>tarım <br/>üretim<br/>teknoloji <br/>ahlak<br/>din<br/>itibar<br/><br/>her alanda ülkenin içine bir güzel ettiler. hani amerika veya dış ülkeden biri kendilerinden birini yollayıp şurayı içten yok et dese ancak bu kadar olur.
-  entry_channels: siyaset,anket,eğitim
-- entry_name: |
-    arda turan
-  entry_id:  100970772
-  entry_writer: marlo matruh
-  entry_fav_count: 21
-  entry_content: |
-    daha gelmeden, galatasaray'a transfer olma ihtimali üzerinden bile koca camiayı ortadan ikiye bölen futbolcu. bir de gelirse neler olur, düşünmek istemiyorum.
-  entry_channels: spor,magazin
-- entry_name: |
-    kadınların satın alınabilir varlıklar olması
-  entry_id:  101012772
-  entry_writer: koyu renkler
-  entry_fav_count: 17
-  entry_content: |
-    (bkz: <a class="b" href="/?q=the+bomb+has+been+planted">the bomb has been planted</a>)
-  entry_channels: ilişkiler
-- entry_name: |
     wang yue'nin trajik ölümü
-  entry_id:  101001970
-  entry_writer: nabican
-  entry_fav_count: 16
+  entry_id:  101001845
+  entry_writer: agzinda sigarayla halay ceken adam
+  entry_fav_count: 24
   entry_content: |
-    insanlığınızı sikeyim.<br/>gören gözlerinizi sikeyim.<br/>görüp de müdahele etmeyen vicdanınızı sikeyim.<br/>çocuğu ezdikten sonraki 2 sn'lik tereddüdünü sikeyim.<br/>tekrar ezmene neden olan aklını sikeyim.<br/>siz nasıl bir milletsiniz ya? aklım almıyor aklım!
+    lanet olasıca çinlilerin küçük 2 yaşındaki bebeği acımasızca ezip hiçbir şey olmamış gibi yanından geçip gittiği videodaki talihsiz bebek. <br/><br/>aşırı merhametten başına gelmedik kalmayan türkleri her fırsatta soykırımla suçlayan dünya bu rezaleti görmeli. bu milletin aşağılık bir millet olduğunu bizler biliyorduk da salak hümanistler yeni yüzleşiyor.<br/><br/>ayrıca çince çok iğrenç bir dil. sesini kapatıp izledim. <br/><br/>doğu perinçek'in olası beyanı: "sürücüler amerikalıymış."
   entry_channels: haber
 - entry_name: |
-    kızların uzun saçlı erkekten tiksinmesi
-  entry_id:  100974262
-  entry_writer: eserekli1i
-  entry_fav_count: 16
+    kayseri şehir hastanesi doktor rezaleti
+  entry_id:  101012803
+  entry_writer: konnegeer
+  entry_fav_count: 24
   entry_content: |
-    tiksinmek değildir o olsa olsa <a class="b" href="/?q=k%c4%b1skan%c3%a7l%c4%b1k">kıskançlık</a> tır.<br/><br/>ne uzun saçlı erkekler gördüm, saçları benimkilerden güzel, gür ve bakımlıydı. imreniyorum böylelerine, gerçi sağlıklı saçları olan kadına da imrenebilirim şöyle çılgınca gür olanlara <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: anket,ilişkiler,moda
+    olayı yakından bilmekteyim. olay aralık ayında gelişmiştir. ilgili hasta videodan 3 gün sonra doktor bey tarafından ameliyat edilmiş daha sonrasında hasta taburcu olmuş, 1 ay sonra video piyasaya çıkıyor. burada hasta yakını planlı bir şekilde video çekimini çaktırmadan başkasına yaptırmış kamera karşısında rol kesmiş, bütün işlerini doktor beye gördürmüş sonrasında videoyu internete yükleyip doktoru zan altında bırakmıştır. videodaki doktor bey yılların kalp damar cerrahi kayseri’de kalp ameliyatını üniversite dışında ilk kendi yapmış tek cerrah olduğu için 3 gün hiç eve gitmeden hastanede kalmış. hastaları için her türlü fedakarlığı yapan bir cerrahtır. ilgili hastanenin de kalp damar cerrahi yükünün en az yarısını kendi götürmektedir. buradan karalama kampanyasına devam edin devlet hastanelerinde kalp ameliyatı yapacak cerrah bulamayacaksınız yakında
+  entry_channels: sağlık
 - entry_name: |
     24 ocak 2020 elazığ depremi
   entry_id:  101013767
   entry_writer: serbulentabi
-  entry_fav_count: 16
+  entry_fav_count: 24
   entry_content: |
     oha yazarlar can kaybı olmamasını umuyormuş. ne enteresan bir bilgi. <br/><br/>lan bi susun da insanlar bilgiye ulaşsın.
   entry_channels: bilim,haber
+- entry_name: |
+    erkeklerin sevgili olmak istediği kızda aradıkları
+  entry_id:  101011023
+  entry_writer: nickclick
+  entry_fav_count: 23
+  entry_content: |
+    -üniversitelerin ilgili bölümlerinden mezun,<br/>—tercihen 2- 3 yıl tecrübe sahibi, <br/>-prezentabl, ikna kabiliyeti yüksek, yoğun ortamda çalışabilecek, <br/>-ms office uygulamalarını iyi derecede kullanabilen, <br/>—iletişim ve ilişki yönetiminde başarılı,<br/>-müşteri memnuniyeti felsefesine önem veren,<br/>-iyi derecede ingilizce dil bilgisine sahip,<br/>—esnek çalışma saatlerine uyum sağlayabilecek.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    senersongur
+  entry_id:  101015502
+  entry_writer: ertunga
+  entry_fav_count: 16
+  entry_content: |
+    "ankara depremi" olarak dun acmisti. moderasyon tum basliklari "elazig depremi" adi altinda birlestirince boyle absurd bir durum ortaya cikti.
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    24 ocak 2020 fenerbahçe beko olimpia milano maçı
+  entry_id:  100974441
+  entry_writer: 3lly
+  entry_fav_count: 14
+  entry_content: |
+    kazanıp play off potasına merhabalar aq diye giriş yapacağımız maç. <br/><br/>bu takım 5. bitirdiği sene kupayı kaldırdı. iyi izleyin ligin son haftaları üst sıralar fenerbahçe ile eşleşmemek için kaynayacak. özellikle real madrid fb ile eşleşmemek için maç bile satar. ispanyol çok iyi yapar bu fikstür mühendisliklerini.<br/><br/>eurolig bu sefer de hakem katliamı yapıp ardından özür dilemeye kalkarsa tahammülümüz kalmadı. taraftarlar olarak zamanında pana'nın ispanyol yalakası eurolig'e yaptıklarının 10 katını yaparız. <br/><br/>ayrıca sadece fenerbahçe sayesinde basketbol izleyen himmetçilere not düşeyim:<br/>gs doğa sigorta fena sıçışlarda gelen geçen farka yatırıyor haberiniz olsun emi. kuruyemişciye söyleyin de guard alsın takıma. eurocup denen lise turnuvası zaten kaçtı bari lig'de tutunun. <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: spor
 - entry_name: |
     abdullah avcı
   entry_id:  100990388
@@ -299,13 +283,13 @@ data:
     (bkz: <a class="b" href="/?q=yine+kim+s%c3%b6v%c3%bcyor+ye%c5%9fili">yine kim sövüyor yeşili</a>)
   entry_channels: ekşi-sözlük
 - entry_name: |
-    kayseri şehir hastanesi doktor rezaleti
-  entry_id:  101012803
-  entry_writer: konnegeer
-  entry_fav_count: 9
+    dönercilerdeki patates problemi
+  entry_id:  100989150
+  entry_writer: 4grammaton
+  entry_fav_count: 10
   entry_content: |
-    olayı yakından bilmekteyim. olay aralık ayında gelişmiştir. ilgili hasta videodan 3 gün sonra doktor bey tarafından ameliyat edilmiş daha sonrasında hasta taburcu olmuş, 1 ay sonra video piyasaya çıkıyor. burada hasta yakını planlı bir şekilde video çekimini çaktırmadan başkasına yaptırmış kamera karşısında rol kesmiş, bütün işlerini doktor beye gördürmüş sonrasında videoyu internete yükleyip doktoru zan altında bırakmıştır. videodaki doktor bey yılların kalp damar cerrahi kayseri’de kalp ameliyatını üniversite dışında ilk kendi yapmış tek cerrah olduğu için 3 gün hiç eve gitmeden hastanede kalmış. hastaları için her türlü fedakarlığı yapan bir cerrahtır. ilgili hastanenin de kalp damar cerrahi yükünün en az yarısını kendi götürmektedir. buradan karalama kampanyasına devam edin devlet hastanelerinde kalp ameliyatı yapacak cerrah bulamayacaksınız yakında
-  entry_channels: sağlık
+    problem "patates"in kendisi değildir. işin aslı döner ile patates kızartmasının aynı cümlede kullanılması bence. döner ile patates yemek pizzaya yumurta kırmak, hamburgerle şalgam içmek gibi bir şey.
+  entry_channels: 
 - entry_name: |
     istanbul dile gelse kuracağı ilk cümle
   entry_id:  100992363
@@ -315,36 +299,20 @@ data:
     1453’den beri yerleşemediniz.
   entry_channels: anket,edebiyat
 - entry_name: |
-    dönercilerdeki patates problemi
-  entry_id:  100989150
-  entry_writer: 4grammaton
-  entry_fav_count: 9
+    güzel bir kızın yalnız olmasının nedenleri
+  entry_id:  100971045
+  entry_writer: diotima
+  entry_fav_count: 6
   entry_content: |
-    problem "patates"in kendisi değildir. işin aslı döner ile patates kızartmasının aynı cümlede kullanılması bence. döner ile patates yemek pizzaya yumurta kırmak, hamburgerle şalgam içmek gibi bir şey.
-  entry_channels: 
-- entry_name: |
-    24 ocak 2020 ziraat türkiye kupası kura çekimi
-  entry_id:  100989747
-  entry_writer: redddadmiral
-  entry_fav_count: 9
-  entry_content: |
-    fenerbahçe kırklareli ile eşleşsin, bu sayede avrupa görürüz.
-  entry_channels: spor,haber
-- entry_name: |
-    kişinin okuduğu bölüm öğrenilince sorulan sorular
-  entry_id:  101001693
-  entry_writer: kafamda delii sorular
-  entry_fav_count: 5
-  entry_content: |
-    -mezun olunca ne olacaksın? <br/>+okul öncesi öğretmeni. <br/>-o ne oluyor? <br/>+anasınıfı öğretmeni teyzecim. <br/>-olsun, olsun üzülme. zamanla ilkokul, ortaokul, sonra lise öğretmenliğine kadar yükselirsin belki.
-  entry_channels: anket,ilişkiler,eğitim
+    valla kadınlara deniyor ama erkeğin mızmızı fena. onu çekme döneminde değildir.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ekşi itiraf
-  entry_id:  100973036
-  entry_writer: dr griffin
+  entry_id:  100970762
+  entry_writer: kozmikbirey
   entry_fav_count: 5
   entry_content: |
-    geçenlerde şöyle bir entry (bkz: <a class="b" href="/entry/97921149">#97921149</a>) görmüştüm.<br/><br/>bu akşam nöbetteyiz. az önce hasta yakını bir tabağa ev yapımı tatlılar, kurabiyeler doldurup getirdi ama o kadar büyük bir hevesle geldi ki odaya. "evde çocuklar yapmış, size güç kuvvet versin diye ikram etmek istedik" dedi. bizimkiler işleri başlarından aşkın olduğu için yarım ağızla teşekkür edebildiler ancak. sonra kadın odadan çıkarken tekrar dönüp geldi, "eşime börek de getirecekler birazdan, size de getirmemi ister misiniz" dedi. arkadaşlar isteksiz davranınca "en azından bir parça tadına bakardınız" diye tatlı bir sitem etti. aklıma yukarıdaki entry düştü bir anda, bu yüzden de istekli davrandım. o kadar mutlu oldu ki teyze, anlatamam; koşar adım gidip getirdi börekleri.<br/><br/>bu soğuk gecede, bir hastane odasında, en azından bir hasta yakınının memnuniyetini gördüğüm için ben de memnun oldum. sonra öğrendim ki, meğer bu teyzenin eşi eski hekimmiş. teyze, eşinin zorlu meslek yıllarına şahitlik ettiği için, bu meşakkatin farkında olduğu için bize böyle anaç davranıyormuş.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>edit: iyi niyetli, daha doğrusu art niyetsiz hasta ve hasta yakınlarını ayrı tutuyorum, onlar da zaten eminim ki üstlerine alınmazlar; sadece çok fazla olumsuz vakaya şahit oluyorum, ne yazık ki bazen bizzat da deneyimliyorum. o yüzden ister istemez defansif kalıyorum, kalıyoruz. yukarıdaki teyzenin, bir sağlık çalışanının yakını olduğunu öğrendiğimde bu sebeple şaşırmadım. her neyse, bu apayrı ve iki cümleyle anlatılacak bir konu değil zaten.
+    olmuyor, ne yapsak olmuyor...
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     ulaşılan en yüksek kilo ile şu anki kilo farkı
@@ -355,6 +323,14 @@ data:
     ne kadar sağlıklı olduğunuzu gösterir...<br/><br/>ulaşılan en yüksek kilo:<br/><br/>- mayıs 2019: 146<br/><br/>şimdiki kilo:<br/><br/>- ocak 2020: 96<br/><br/>* her ay 5-6 kg vermeyi hedeflerseniz gayet de mümkün. ki sağlıklı ve orantılı bir şekilde kilo veriyorsunuz. ilk zamanlar 10-12 kg gidebiliyor. daha sonra, yavaşlıyor ve rayına giriyor.<br/><br/>yepyeni bir insan oldum ayol! bir 10 kg daha verirsem orada duracağım.
   entry_channels: anket,sağlık
 - entry_name: |
+    elazığ depremi
+  entry_id:  101014966
+  entry_writer: selif112
+  entry_fav_count: 3
+  entry_content: |
+    elazığ merkezli 6.8 olan deprem. <br/>bakanlık umke ekiplerini gönderiyor. çevre illerdeki yedek ambulanslar ve kurulan 112 ekipleri hazır. <br/>artçılar bekleniyor ( 5.8 , 6 civarı)<br/>vatandaşlarımız hazırlıklı olsunlar. hasar gören evler varsa mutlaka bildirilmeli, evlere girilmemeli. <br/>sivas, kayseri, tunceli, bingöl, nevşehir, niğde, adana, hatay, malatya,kahramanmaraş, adıyaman,diyarbakır, erzurum. bir çok ili etkiledi. çanakkale’den bile hissedildi.
+  entry_channels: 
+- entry_name: |
     şaka maka türklerin hiçbir icadının olmaması
   entry_id:  101005401
   entry_writer: koyu renkler
@@ -363,13 +339,29 @@ data:
     (bkz: <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck">ekşi sözlük</a>)
   entry_channels: tarih
 - entry_name: |
-    erkeklerin sevgili olmak istediği kızda aradıkları
-  entry_id:  101011888
-  entry_writer: kobayashisoze
-  entry_fav_count: 1
+    yarasa çorbasının kürtçesi
+  entry_id:  101014638
+  entry_writer: shetesla
+  entry_fav_count: 2
   entry_content: |
-    şimdi dostlarım büyük çoğunluğunuz sevgili olmak istediğiniz kızda taş gibi bir göt ve diri memeler arıyorsunuz bu bir gerçek...ama böyle durumda kezbanlık paketi de beraberinde otomatik geliyor.."puff hadi eğlendir beni" gibi boktan istekleriyle hayatınızı sikiyor bu kezbanlar..değer mi amk 2 meme ellemek için o kadar maymunluk yapmaya, 250 gr için kula minnet etmeye...
-  entry_channels: anket,ilişkiler
+    dovletbozoyarasavirmiyoreaheyaheylorke
+  entry_channels: 
+- entry_name: |
+    kişinin okuduğu bölüm öğrenilince sorulan sorular
+  entry_id:  101000560
+  entry_writer: mendeburyev
+  entry_fav_count: 2
+  entry_content: |
+    oo bi format atarsın o zaman
+  entry_channels: anket,ilişkiler,eğitim
+- entry_name: |
+    babil (dizi)
+  entry_id:  101011485
+  entry_writer: uzakadam
+  entry_fav_count: 2
+  entry_content: |
+    tanrı kadını yaratmış (bkz: <a class="b" href="/?q=birce+akalay">birce akalay</a>) bu saatten sonra fanıyım ergenim hayalperestim askeriyim
+  entry_channels: tv,spoiler
 - entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  100988086
@@ -402,4 +394,12 @@ data:
   entry_content: |
     uçurum yalnızca yükskeliği değil, bir dağ'ın bittiği yeri de gösterir. uçurumdan düşme hissi veren duygularda da dağ gibi olan mantığımız körelir ya da biter.<br/>dertleşmek isteyen ya da sohbet muhabbet için yazabilirsiniz.<br/>yazar/çaylak kadın/erkek olmanızın benim için önemi yok.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    deprem
+  entry_id:  100989935
+  entry_writer: moon goddess
+  entry_fav_count: 0
+  entry_content: |
+    kaostan beslenenler yine çıkmış. depremler oluyor da yük birikiyor da yok bence +4 üstü olabilir de. sen kimsin ya? <br/><br/>şiddetli depremlerden sonda 2 hafta boyunca artçıların olması gayet normal bir durumdur. 10-15 gün boyunca bu depremler devam edecek ve bunda anormal hiçbir şey yok. manisa depremi olurken ahmet ercan hoca o sırada tele 1’de canlı yayındaydı ve kendisinin de açıklaması bu yönde olmuştu. üstelik kendisi bundan daha büyük bir deprem olmasını beklemiyorum demişti. yanlış hatırlamıyorsam manisa’daki fayın 6 üzeri deprem oluşturmayacak bir fay olduğunu da söylemişti.
+  entry_channels: bilim,müzik
 ---
