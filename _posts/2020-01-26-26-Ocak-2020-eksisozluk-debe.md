@@ -3,18 +3,10 @@ layout: post
 title: 26 Ocak 2020 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    uzlaşı yok sizi ezeceğiz
-  entry_id:  101037831
-  entry_writer: 73mm pena
-  entry_fav_count: 933
-  entry_content: |
-    "sizi eğitmeyeceğiz sizi ezeceğiz!" ile biten minimal havlayış.<br/><br/>eğitecek fikirleri varmış gibi... siz önce kendinizi eğitin aq.
-  entry_channels: siyaset,haber
-- entry_name: |
     maaşlardan 3 ay 100 tl bağış kampanyası
   entry_id:  101044055
   entry_writer: mystyc
-  entry_fav_count: 726
+  entry_fav_count: 736
   entry_content: |
     (bkz: <a class="b" href="/?q=bak+%c5%9furdan+siktir+git">bak şurdan siktir git</a>)<br/><br/>benzin, araç ve cep telefonlarından alınan ötv ile 100 tane elazığ kurulur. yeter ki kullanmasını bilsinler.
   entry_channels: siyaset,ekonomi
@@ -22,7 +14,7 @@ data:
     25 ocak 2020 ekrem imamoğlu'nun elazığ'a gitmesi
   entry_id:  101042537
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 724
+  entry_fav_count: 736
   entry_content: |
     <a class="b" href="/?q=%c3%bcst+edit">üst edit</a>: akitin teki entryde yazdığım şeyi tekrar etmiş. elazığ, istanbul'a mı bağlandı demiş.<br/>ulan ibnenin evladı, ibb yardım birimlerini gönderirken niye bu cümleyi kurmuyorsun?<br/>ekrem imamoğlu, göreve geldiği günden beri tüm ülkenin sorunlarıyla ilgilendi.<br/>şov diyor. amına kodumun çocuğu evinden bir tek battaniye gönderseydin de elazığ'a, ardından yardım edenlere şov yapıyor diyecek dilin olsaydı.<br/>aktroller niye bu kadar kudurdu imamoğlu'nun elazığ'a gitmesine?<br/>gören de diyecek aktrollerin analarının koynuna girdi. adam depremzedelere ziyarete gitti hepi topu.<br/><br/>imamoğlu ve eşi, elazığ'a gitmişler.<br/>vatandaşa moral vermek ve deprem bölgesini incelemek için.<br/><br/>bazı aktroller, elazığ istanbul'a mı bağlandı, ne işi var gibi söylemlerde bulunmuş twitter'da.<br/>her an büyük bir deprem beklenen istanbul'un belediye başkanı o.<br/>elbette ki depremin olduğu yere gidip inceleme yapacak. çünkü kendisi büyük bir depreme hazırlanıyor şu an. <br/>istanbul'da büyük bir deprem beklenirken, deprem olan bir ili ziyaret edip çalışmaları görmek istemesi gayet doğal.<br/>ve ayrıca ibb'ye bağlı birimleri dün gönderdi bölgeye.<br/>bu çalışanları ziyaret etmesi de gayet doğal.<br/>imamoğlu'nun bölgeye gitmesine şov diyenler var.<br/>şov nedir biliyor musun? bütün bakanlar dahil, medyaya bile her cümlenin başında <a class="b" href="/?q=say%c4%b1n+cumhurba%c5%9fkan%c4%b1m%c4%b1z%c4%b1n+talimat%c4%b1yla">sayın cumhurbaşkanımızın talimatıyla</a> dedirtenlerin yaptığıdır.<br/>böyle bir atmosferde bile cb'yi bundan nemalandırmaya çalışanlardır şov yapanlar.<br/>daha yarım saat önce elazığ'da <a class="b" href="/?q=tabutun">tabutun</a> yanı başında eline <a class="b" href="/?q=mikrofon">mikrofon</a> alıp, cenaze namazında konuşma yapan adama da söylesene bunu.<br/><br/>umuyorum ki yanılırım ama elazığ'da imamoğlu'na karşı provokasyon bir söylem, protesto bekliyorum.<br/>bu kanı bozuklar, böyle bir fırsatı kaçırmazlar.
   entry_channels: siyaset,haber
@@ -38,7 +30,7 @@ data:
     sol çomar mı daha tehlikeli sağ çomar mı
   entry_id:  101047375
   entry_writer: foreword
-  entry_fav_count: 314
+  entry_fav_count: 338
   entry_content: |
     çomarın sağı da solu da tehlikeli. çomar çomardır.
   entry_channels: siyaset,anket
@@ -46,7 +38,7 @@ data:
     9. kattan düştükten sonra kalkıp yürüyen kadın
   entry_id:  101051317
   entry_writer: bence11
-  entry_fav_count: 146
+  entry_fav_count: 172
   entry_content: |
     ben olsam bir şey olamasa bile kesin bir şey olmuştur der ve yerimden kalkmam.
   entry_channels: haber
@@ -62,7 +54,7 @@ data:
     cnn türk'ün elazığ yayını
   entry_id:  101047639
   entry_writer: ben ne dedim
-  entry_fav_count: 129
+  entry_fav_count: 135
   entry_content: |
     alacaksın çadıra mutlu edip göndereceksin piçi
   entry_channels: tv,haber
@@ -70,7 +62,7 @@ data:
     kafa yapan legal şeyler
   entry_id:  101039756
   entry_writer: eskibirev
-  entry_fav_count: 124
+  entry_fav_count: 129
   entry_content: |
     rte’nin meclis grup toplantılarını dinlemek.öyle güzel kafa yapıyor ki ülkeyi norveç gibi refah ve zengin,amerika gibi güçlü,israil gibi kurnaz bir ülke olarak görmeye başlıyorum.
   entry_channels: anket,yeme-içme
@@ -83,10 +75,18 @@ data:
     deprem ülkesinde binaları güçlendirmek varken mega proje peşinde düşen siyasetçilerden kurtulmamızı sağlamak. <br/><br/>görevi bu.
   entry_channels: siyaset
 - entry_name: |
+    sözlükten biriyle buluşmak
+  entry_id:  101051621
+  entry_writer: brzenk
+  entry_fav_count: 78
+  entry_content: |
+    tedirgin olmaya gerek yok internette insanlarla tanışabileceğin en güvenli ortam sözlük. ben de yarın ilk defa sözlükten bir kızla buluşucam. yurtdışından gelecekmiş 300 euro gönderdim uçak bileti için. yarını iple çekiyorum.
+  entry_channels: ilişkiler,ekşi-sözlük
+- entry_name: |
     25 ocak 2020 cedi osman'ın tweet'i
   entry_id:  101049729
   entry_writer: alla turca
-  entry_fav_count: 69
+  entry_fav_count: 73
   entry_content: |
     abd spor etkinliklerinde olaylara dikkat çekmek adına böyle şeyler yapılır, doğal bir hadise.<br/><br/>oranın kültürüne göre hareket etti diye adamı linç etmeye kalkmanın bir manası yok. "sen çok kazanıyorsun daha çok yolla" demek daha bir mantıksız. adam kendince yardım etmeye çalışıyor.
   entry_channels: spor
@@ -110,47 +110,23 @@ data:
     elazığ kürt mü
   entry_id:  101043755
   entry_writer: auzer
-  entry_fav_count: 57
+  entry_fav_count: 60
   entry_content: |
     yalan haberdir. aşağıdaki bağlantıda aşağıya doğru inerek hangi gün en fazla nelerin aratıldığını rahatça görebilirsiniz. <a rel="nofollow noopener" class="url" target="_blank" href="https://trends.google.com/trends/trendingsearches/daily?geo=TR" title="https://trends.google.com/trends/trendingsearches/daily?geo=TR">google trendler</a><br/><br/>söz konusu haber sitesi dikkat çekmek ve site trafiğini arttırmak amacıyla böyle yalan bir haber ortaya atmış.
   entry_channels: siyaset,haber
 - entry_name: |
-    dyson lin
-  entry_id:  101025106
-  entry_writer: spirit on opportunity
-  entry_fav_count: 57
-  entry_content: |
-    bu iş nasıl olur biliyor musunuz? yöntemi geliştirirsin, geliştirdiğin yöntemle yaptığın tahminlerin rastgele tahminlerden belirgin şekilde üstün olduğunu gösteren çalışmanı metodu ile birlikte saygın bir dergide yayınlayıp, dünyanın başka yerlerindeki bilim insanlarınca da test edilmesini ve doğrulanmasını sağlarsın, saygın bir bilim insanı olarak hayatına devam eder, insanlığa büyük katkı sağlarsın. bir bilim insanı bunu yapar. şarlatanlarsa twitterdan üfürüp cahil milleti gaza getirir. bu arkadaş ikinci gruptandır. <br/><br/>ne idüğü belirsiz bir hesap oluşundan, yönteminin komikliğinden, bence milletle maytap geçtiğinden söz etmiyorum bile, velev ki gerçek bir profesör olsun.
-  entry_channels: bilim
-- entry_name: |
-    sözlükten biriyle buluşmak
-  entry_id:  101051621
-  entry_writer: brzenk
-  entry_fav_count: 54
-  entry_content: |
-    tedirgin olmaya gerek yok internette insanlarla tanışabileceğin en güvenli ortam sözlük. ben de yarın ilk defa sözlükten bir kızla buluşucam. yurtdışından gelecekmiş 300 euro gönderdim uçak bileti için. yarını iple çekiyorum.
-  entry_channels: ilişkiler,ekşi-sözlük
-- entry_name: |
     sigarası alkolü dövmesi olmayan kadın
   entry_id:  101046184
   entry_writer: aylakmarvin
-  entry_fav_count: 50
+  entry_fav_count: 53
   entry_content: |
     fadime nenemdir. kendisi dul fakat şu sıralar heyecan dolu bir ilişkiye sıcak bakmıyor.
   entry_channels: 
 - entry_name: |
-    filmlerde hiç tuvalete gidilmemesi
-  entry_id:  101035234
-  entry_writer: ordekpoposundadomates
-  entry_fav_count: 41
-  entry_content: |
-    filmlerde tuvalete gidiliyor da filmlerde hiç olmayan şey bence şu; biri bir söz söylerken diğeri telaffuzdan dolayı, anlamadım? ne? efendim? gibi sorular sormaz. herkes ilk denilen şeyi telaffuz olarak kesin anlar.
-  entry_channels: tv,sanat,sinema
-- entry_name: |
     25 ocak 2020 fenerbahçe başakşehir maçı
   entry_id:  101035271
   entry_writer: slmksksk
-  entry_fav_count: 41
+  entry_fav_count: 42
   entry_content: |
     fırat aydınus'un yönettiği son 13 fenerbahçe maçında fenerbahçe'nin 2 galibiyeti bulunurken, başakşehir'in aynı şartlarda son 13 maçta 1 mağlubiyeti bulunuyor. bunu o küçük beynine sok troll efendi. boş keseden sallayıp, fenerbahçe fırat jokerini kullanmış vs. demekle olmuyor.
   entry_channels: spor
@@ -158,98 +134,106 @@ data:
     vergilerim nerede demenin şu an için saçma olması
   entry_id:  101049443
   entry_writer: vosvogen kasap
-  entry_fav_count: 36
+  entry_fav_count: 40
   entry_content: |
     mesela ne zaman saçma değil? 4 yaşında oğlumun birikimi için bankada biriktirdiğim 19000 tl ye vergi için e haciz koyduklarında şimdi yaptığınız saçma diyemedim ben. sike sike cevap verecekler. <br/><br/>benim vergim nerede?????<br/><br/>bu içine sıçtığım ülkede deprem sonrası battaniyeyi kazağı da ben göndereceksem bu yönetici adı altındaki göt verenler ne bok yiyor?<br/><br/>siktirin oradan sormak saçmaymış?<br/><br/>nerede kardeşim benim vergim?
   entry_channels: siyaset,ekonomi
 - entry_name: |
-    depremleri bilen tayvanlı'dan korkutan uyarı
-  entry_id:  101044612
-  entry_writer: roneil
-  entry_fav_count: 31
+    30 tl olan battaniyeyi 120 tl'ye satan esnaf
+  entry_id:  101047176
+  entry_writer: paxmed
+  entry_fav_count: 37
   entry_content: |
-    bok biliyor afedersiniz. 26 eylül 2019 istanbul depreminin ardından 3 kasım'da 10 gün içerisinde istanbul'da +6 +7 deprem olacak yazmıştı, deprem meprem olmadı. 24 ocak elazığ depreminin ardından konuşmak kolay, <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://teyit.org/deprem-tahmincileri-korkulardan-beslenerek-fayda-sagliyor/" title="https://teyit.org/deprem-tahmincileri-korkulardan-beslenerek-fayda-sagliyor/">dyson lin @ teyit.org</a><br/><br/>işkembeden sallıyorlar ancak, yok hava dalgaları, yok gezegenlerin konumları, yok ay'ın evreleri.. depremlerin geldiklerine haber veren belirli bir sistematiğe oturtulmuş bilimsel bir metot yok. deprem tahmini diye bir şey yok yani, kimse depremin ne zaman olacağını söyleyemez. bunun gibi adamlar her gün onlarca tahmin yapıyorlar, arada 1-2 tanesi tutuyor, sonra tüh konumu kaçırmışım, bir kaç gün önceymiş sonraymış.<br/><br/>bakıyorum tweetlerine, elazığ'da deprem olacak diye bir şey yazmamış, paylaşmamış. haftada 2-3 kere balıkesirde silivri'de deprem bekliyorum demekten ileri gitmiyor, kuzey anadolu fay hattının ucunda bulunan balıkesir, silivri gibi yerlerde sık sık 3-4 aralığında depremler meydana geliyor zaten, inanmayan baksın istatistiklerine. ben vereyim hatta buyrun, 1 ocak 2010'dan beri balıkesir-silivri-bursa arası bölgede gerçekleşen 3 şiddeti üstü depremlerin <a rel="nofollow noopener" class="url" target="_blank" href="http://ds.iris.edu/ieb/evtable.phtml?caller=IEB&amp;st=2010-01-01&amp;et=2025-01-01&amp;minmag=3&amp;maxmag=10&amp;orderby=time-desc&amp;src=usgs&amp;limit=1000&amp;maxlat=41.24928&amp;minlat=39.52561&amp;maxlon=29.57356&amp;minlon=26.76106&amp;sbl=1&amp;zm=7&amp;mt=ter&amp;title=IEB export%3A 38 earthquakes as a sortable table.&amp;stitle=from 2010-01-01 to the latest available%2C with magnitudes from 3 to 10%2C all depths%2C with priority for most recent%2C limited to 1000%2C  showing data from USGS%2C " title="http://ds.iris.edu/ieb/evtable.phtml?caller=IEB&amp;st=2010-01-01&amp;et=2025-01-01&amp;minmag=3&amp;maxmag=10&amp;orderby=time-desc&amp;src=usgs&amp;limit=1000&amp;maxlat=41.24928&amp;minlat=39.52561&amp;maxlon=29.57356&amp;minlon=26.76106&amp;sbl=1&amp;zm=7&amp;mt=ter&amp;title=IEB export%3A 38 earthquakes as a sortable table.&amp;stitle=from 2010-01-01 to the latest available%2C with magnitudes from 3 to 10%2C all depths%2C with priority for most recent%2C limited to 1000%2C  showing data from USGS%2C ">listesi</a>, 363 tane var! sık sık bu bölge için tahminde bulunursan bir kaç tanesi tutacaktır, sonra vay efendim depremi bilen tayvanlı. 3 yanlış 1 doğruyu götürse herifin toplum içine çıkacak yüzü kalmaz, iddialı bir tahmin bulunup tutturamayınca da paşa paşa siliyorlar.<br/><br/>şimdi elazığ'da deprem oldu, daha büyüğünü bekliyorum diyor. büyük bir deprem olduktan sonra konuşmak kolay tabi, istatistiki olarak ardından bir kaç güne/haftaya büyük başka depremler olabilir tabi. elazığ depremi olmadan önce neredeydin?<br/><br/>bir de utanmadan pişkin pişkin elazığ depremini bildim diyor, şeyimin ucunu bildin nerde lan bildiğin tweetler? manisa'da +3 +4 bekliyorum demiş, manisa nere elazığ nere? aradaki mesafe memleketi tayvan'dan büyük. <br/><br/>tanım: ne elazığ ne istanbul depremlerini tahmin edemeyip tahmin ettim diye ortalıkta dolaşan bir şarlatan. grafikler paylaşıyor, ama paylaştığı grafikler neyi ifade ediyor belli bile değil. senin ben bilim adamı geçindiğin kimliğini s...<br/><br/>bu arada depremleri tarihsel olarak bir harita üzerinden listeleyip incelemek isteyenler için, yukarıdaki listeyi verdiğim aramayı yaptığım sayfayı tavsiye ederim, <a rel="nofollow noopener" class="url" target="_blank" href="http://ds.iris.edu/ieb/index.html?format=text&amp;nodata=404&amp;starttime=2010-01-01&amp;endtime=2025-01-01&amp;minmag=3&amp;maxmag=10&amp;orderby=time-desc&amp;src=usgs&amp;limit=1000&amp;maxlat=41.24928&amp;minlat=39.52561&amp;maxlon=29.57356&amp;minlon=26.76106&amp;sbl=1&amp;zm=7&amp;mt=ter" title="http://ds.iris.edu/ieb/index.html?format=text&amp;nodata=404&amp;starttime=2010-01-01&amp;endtime=2025-01-01&amp;minmag=3&amp;maxmag=10&amp;orderby=time-desc&amp;src=usgs&amp;limit=1000&amp;maxlat=41.24928&amp;minlat=39.52561&amp;maxlon=29.57356&amp;minlon=26.76106&amp;sbl=1&amp;zm=7&amp;mt=ter">buradan ulaşabilirsiniz</a>.
-  entry_channels: haber
+    merhaba arkadaşlar, ben yardım yaptım herkesin haberi olsun
+  entry_channels: siyaset,haber,magazin
+- entry_name: |
+    25 ocak 2020 cnn türk'ün mide bulandıran haberi
+  entry_id:  101054999
+  entry_writer: kalemi kilicindan keskin olan adam
+  entry_fav_count: 35
+  entry_content: |
+    <a class="b" href="/?q=%c3%bcst+edit">üst edit</a>: muhabir <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/DemirFerit/status/1221106943953162240" title="https://twitter.com/DemirFerit/status/1221106943953162240">özür dilemiş</a>.<br/>yetmez. böyle bir adam, muhabirlik yapmamalı. işine son verilmeli.<br/>insanlar acı içinde kıvranırken, iktidarı övebilmek için kabız eşek gibi kıvranan bu zat, gazetecilik yapamamalı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ZetLorento/status/1221099614209806337" title="https://twitter.com/ZetLorento/status/1221099614209806337">video</a><br/><br/>deprem olmuş.<br/>insanların evi yıkılmış. evsiz kalmışlar. çadıra sığınmışlar.<br/>haberi yapan it, en az 50 kere mutlusunuz di mi diyor.<br/>mutlu musunuz da demiyor. mutlusunuz di mi diyor.<br/>tek çabası mutluyuz dedirtmek. <br/>sonra dönüyor evet, mutlulular birazdan çaylarını içecek diyor.<br/>el kadar bebekleri videoya alıp, huzurlu mutlu uyuyorlar demek nedir.<br/>ulan namussuz herif. evini yitirmiş insanlar üzerinden hala bir şey yapabilir miyiz diye çabalamak nedir?<br/>evini yitirmiş insanlar be. hiç mi merhametiniz kalmadı lan sizin.<br/>hala o insanlar üzerinden iktidarı övebilir miyiz kaygısı nedir soysuz pezevenk.<br/>bu ülke ne ara bu kadar bozuldu. bu ülke ne ara bu kadar kansız doldu.<br/>bir de çadır vermek lütufmuş gibi davranıyor.<br/>ulan dürzü, yılda 4 milyar deprem vergisi toplanıyor. devletin görevi bu.<br/>tabii vatandaşına sahip çıkacak, koruyacak.<br/><br/>ankara cumhuriyet başsavcılığı provokasyon yapanlar için süreç başlatmıştı.<br/>eğer ki bu ibneye dair işlem yapmazsanız size de yazıklar olsun.<br/><br/>o devran elbet dönecek.<br/>işte o gün böyle bir günde bile o yaladığınız dilinizi götünüze sokmayan kahrolsun.
+  entry_channels: siyaset,haber
+- entry_name: |
+    deprem anında ve sonrasında yapılması gerekenler
+  entry_id:  101045421
+  entry_writer: vlkn216
+  entry_fav_count: 32
+  entry_content: |
+    sanırım 1999 düzce depremini yaşamış ve bilinçli bir birey olduğunu düşündüğüm arkadaş güzel ve anlaşılacak bir şekilde tane tane deprem anında ve sonrasında yaşanacakları flood şeklinde paylaşmış. uyarı niteliği de taşıyor yaymakta fayda var diye düşünüyorum<br/><br/>deprem anına özellikle yaşayan birinin gözüyle bakmak farklı hissettiriyor ve ürkütüyor<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/fulyemik/status/898122210719789057?s=21" title="https://twitter.com/fulyemik/status/898122210719789057?s=21">twitter flood</a><br/><br/>"-1 kişinin bile önlem almasına vesile olsa yeter. şimdi şöyle, deprem oluyor ve bitiyor. maksimum 1 dakika. asıl mevzu o 1 dakikadan sonra.<br/>-şimdi 3 önemli madde var; su, aydınlatma, kıyafet, para. mutlaka bunları içinde barındıran bi çantanız olsun. sonra çok ihtiyacınız olacak.<br/>-3 dedim 4 yazmışım, olsun. adrenalin patlaması yaşayacağınız için su aşırı önemli. vücuttaki bütün su çekilmiş gibi oluyor insan.<br/>-eğer deprem gece olduysa aydınlatma önemli. çünkü evdeki eşyaların yeri, sokaklar bildiğiniz her şeyin yeri değişmiş olacak. kafayı yersin.<br/>-kıyafet aşırı önemli. ayakkabı aşırı önemli. enkaz yığınlarının üstünde çıplak ayak gezmek can acıtıyor (biliyorum) çantada mutlaka olsun.<br/>-evdeki devrilmesi muhtemel eşyalarınızı sabitleyin. buzdolabı koridora çıkınca babam karanlıkta 10 dk kendini mutfakta sanmıştı=)<br/>-odalarda - ofislerde devrilip çıkışları kapatması muhtemel ne varsa sabitleyin, yerini değiştirin. salaklık yapmayın, çok uğraşırsınız.<br/>-arabanız varsa o bahsettiğim çantanın aynısından bagajınızda da bulundurun. lazım olur.<br/>-bir miktar para sonrasında işinizi görür. çünkü bi süre atm, banka ve kredi kartı hayatınızdan çıkacak. her şey nakit.<br/>-salak gibi bir şeylerin altına girmeye kalkmayın depremde. uzmanlar basbas bağırıyo yanına uzanın diye. altına girerseniz presssssssss.<br/>-neyse asıl mevzu; deprem sonrası. şimdi ilk olarak şuna hazırlıklı olun, binadan çıktığınızda aşırı apokaliptik bi ortam sizi bekliyor.<br/>-ilk on dakika sadece toz göreceksiniz ve bütün şehir aynı anda çığlık atacak. korkmayın geçecek. ama ömür boyu unutmayacaksınız, o ayrı.<br/>-girme o binaların dibine! zangır zangır sallanmaya devam ediceksin depremden sonra. zor bela ayakta duran binalar sonradan yıkılıyo.<br/>-yeşil alan! (istanbul'da bulabilirsen) git hemen oraya. ormandan zarar gelmez, ortalık sakinleşene kadar bekle orda.<br/>-sonrası için mutlaka bi plan olsun kafanızda. nereye kaçacağım, hangi yoldan gideceğim? ben mesela yürüyerek bulgaristan'a gidicem asldkjasl<br/>-depremden sonra inanılmaz bi yardımlaşma oluyor. içgüdüsel çıkıyo ortaya resmen. yardım et! edebildiğin kadar tabi. enkaza dal demiyorum.<br/>-ama o ilk birkaç saat çok fazla insan kurtarıldı, gördüm. yardım ekipleri değil, insanlar kendilerini kurtarıyor.<br/>-arabayla kaçma gibi planın var mı? (buraya nah görseli gelecek) yürümeye yol bulamayacaksın, arabanı unut. o hiç olmadı tamam mı?<br/>-istanbul gibi leş bi şehirde yardımın gelmesi minimum 4 gün (bence). bu sürede bir şekilde başının çaresine bakman lazım. otur, düşün.<br/>-tekrar hatırlatmakta fayda var su çok önemli su! gebereceksin susuzluktan!<br/>-eğer denk gelirsek hayatımızın en korkunç olayını yaşayacağız istanbullular olarak, hazırlanın.umarım olmaz ama hazırlıklı olmakta fayda var<br/>-sevdiklerinize ulaşmaya çalışmak istanbul gibi bir şehirde aşırı saçma. bi kere bildiğin harita değişecek. o sokağı tanıyamayacaksın.<br/>-biz düzce gibi bi yerde 2 sokak sonrasını bulamadık. o yüzden kendini güvene al, yaşıyorsa zaten öğrenirsin bikaç gün sonra.<br/>-suyu demiş miydim? su çok önemli su. bi de fener!<br/>-sizi korkuttum mu? canınızı mı sıktım? iyi yaptım. biliyoruz da konuşuyoruz burda! önlemini al deli etme beni!<br/>-şimdi deprem mevzusunu kapatıyoruz. dillendirip evrene deprem enerjisi göndermeye gerek yok. ama siz önleminizi alın tamam mı?"<br/><br/>edit: proust nick’li yazarın da önerdiği gibi depremi yaşayan arkadaşların tecrübelerini belirtmesinde yarar var
+  entry_channels: bilim
 - entry_name: |
     laptop alacaklara tavsiyeler
   entry_id:  101036981
   entry_writer: laagland
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     gelip buraya macbook yazan veya apple güzellemesi yapan hiç kimsenin uyarısını dinlemeyin, hatta o kişinin hiç bir konuda uyarısını dinlemeyin<br/><br/>apple laptop mu olur amk
   entry_channels: anket,teknoloji
 - entry_name: |
+    hayat felsefesi yapılabilecek en güzel söz
+  entry_id:  101035490
+  entry_writer: maxi zagor bonelli
+  entry_fav_count: 26
+  entry_content: |
+    "çalışmadan yorulmadan ve üretmeden, rahat yaşamak isteyen toplumlar; evvela haysiyetlerini , sonra huriyetlerini daha sonra istiklal ve istikballerini kaybetmeye mahkumdurlar"<br/>mustafa kemal atatürk<br/><br/>bir eğitimci olarak bütün sınav kagitlarimda yazı çalışmalarında kullanarak tekrar tekrar aktarmaya çalışıyorum. <br/>bu kadar hazirci olup çözüm bulmak yerine sadece bahane üretip soyleniyoruz. ve alın terini onemsemiyoruz ne yazık ki.
+  entry_channels: anket,sanat,edebiyat,sağlık,eğitim
+- entry_name: |
     wuhan virüsü
   entry_id:  101042881
   entry_writer: check in yapan evliya celebi
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     sevdiğim, şaman bir arkadaşımdan:<br/><br/>“there is no epidemi in china, china is an epidemi.”
   entry_channels: sağlık,haber
 - entry_name: |
-    iyi insanlar nerededir ve onları nasıl buluruz
-  entry_id:  101048275
-  entry_writer: bombaci muallim
-  entry_fav_count: 21
-  entry_content: |
-    yaşar kemal ile birlikte beyaz atlarına binip gittiler. <br/><br/>beyaz ışığa doğru...
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    deprem vergisi çomarları
-  entry_id:  101050418
-  entry_writer: dots
-  entry_fav_count: 17
-  entry_content: |
-    o zaman adı neden deprem vergisi. adını bok vergisi koyalım bence daha güzel olur bok yoluna gitti deriz hem.<br/><br/>edit: adı <a class="b" href="/?q=%c3%b6zel+ileti%c5%9fim+vergisi">özel iletişim vergisi</a>'ymiş anladığım kadarı devlet bu vergiyi 1 yıllığına getirmiş 99 depremi için yardım olsun diye halka, sonra 1 yıl sonra kaldıracağız demiş 3 yıl uzatılmış daha sonra da 2003 de ise kalıcı olmuş.<br/><br/>halk arasında adına deprem vergisi deniliyormuş depremden dolayı getirildiği için.<br/><br/>şurda olayı özetlemişler: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber/1-yilligina-getirilen-deprem-vergisi-20-nci-yasina-girdi-adalet-ve-kalkinma-vergisi-265274" title="https://www.birgun.net/haber/1-yilligina-getirilen-deprem-vergisi-20-nci-yasina-girdi-adalet-ve-kalkinma-vergisi-265274">deprem vergisi özet haberi</a><br/><br/>sonuçta halk bu verginin ismini <a class="b" href="/?q=deprem+vergisi">deprem vergisi</a> olarak biliyor. burada insanların aslında sorguladığı şey şu bu vergiyi sen kalıcı hale getirmedin mi kardeşim getirdin? ileride deprem olursa kullanmak için getirdiysen nerede bu paralar? yok deprem için getirmediysen ne için getirdin sen böyle kafana göre her şeyden vergi alabilecek bir kurum musun diye sormazlar mı? ya da sormazlar mı diğer aldığın vergiler sana neden yetmiyor da bu vergiyi kalıcı hale getirdin eğer deprem için kullanılmayacaksa?
-  entry_channels: 
-- entry_name: |
-    deprem anında ve sonrasında yapılması gerekenler
-  entry_id:  101048661
-  entry_writer: erisaa
-  entry_fav_count: 14
-  entry_content: |
-    bu başlık altında yazan los pollos dermanos nickli yazarın söylediklerini kesinlikle ve kesinlikle yapmamak gerekir.<br/>deprem anında asla ve asla kapı boşluğu, eşya ( masa vs.) ve kirişlerin altına girilmemelidir. bu sadece ezilmenize neden olur. <br/>bunu yapmak yerine eğer paniğe kapılmadıysanız (ki kapılmayın )ve kendinizdeyseniz koltuk yatak gibi bir eşyanın yanına çöküp cenin pozisyonu almalısınız, kafanızı ellerinizle korumaya çalışarak. <br/>bir de mümkün olduğunca evin iç kısımları yerine pencereleri olan taraflarda bulunmaya çalışın. merdiven ve asansörlerden uzak durun. <br/>bunları bir inşaat mühendisi, güvenlik uzmanı ve bu alanda bir öğretim görevlisi olarak yazıyorum. <br/><br/>deprem anında daha doğrusu bulunduğunuz yapıyı yıkacak büyüklükteki bir deprem anında ne yazık ki hiç bir şey yapamıyorsunuz. eğer fırsatınız olursa en fazla bulunduğunuz yerden kalkabiliyorsunuz. bunu da 99 depremini düzce’de yaşamış, adapazarındaki öğrenci evi yıkılmış ve arkadaşları ile yakınlarını kaybetmiş biri olarak yazıyorum. <br/>depremden sonra bulunduğunuz bina çökmediyse en azından enkaza dönüşmediyse merdivenlerden inerken çok dikkat etmek gerekiyor; sakince ve kontrollu sekilde tek tek inerek bina terkedilmeli. <br/><br/>deprem cantasi cok cok onemli lakin, eger binadan yara almadan cikma imkani olsa bile kimse kapinin onunde hazirlanmis bir canta bekletmeyeceginden iceri gidip onu almakla zaman kaybetmez. bu yuzden araci olanlar cantalarini araclarinin icinde muhafaza etmeli. tabii aracin enkaz altinda kalmadigini varsayiyorum. <br/>saglam sekilde binadan ciktiniz. sokak arasinda bes dakika bile beklemeden etrafinda bina olmayan bir alana gitmeniz gerekiyor (tabii istanbul’u düşündüğümde bile maalesef ve maalesef ki böyle yerler yok denecek kadar az) <br/>zira o an etraftaki binalar ayakta da olsa her an olabilecek bir artçı sarsıntı ile üzerinize çökebilir. <br/><br/>doğal olarak öncelikle ailenize ulaşmak isteyeceksiniz. yapabiliyorsanız kendinizi güvene aldıktan sonra arama yapın. 99 depreminde ilk 10 dakikada telefonlar çalışıyordu. gerçi o zaman bu kadar çok insan cep telefonu kullanmıyordu. <br/>aile büyüklerinizin, çocuklarınızın ve sizin kullandığınız ilaçları mutlaka çantanızda bulundurun. depremde zemindeki iki katın üzerine çökmüş binaya girip anneannemin dilaltı hapını almıştım ki yaptığım ne büyük bir hataymış, allahtan başıma birşey gelmedi. <br/><br/>ailenizle önceden mutlaka buluşma yeri belirleyin ve oraya gitmeye çalışın. mutlaka ve mutlaka aile içinde hazırladığınız bir eylem planınız olsun. <br/><br/>herşey yolunda gitti, hayattasınız siz ve aileniz işte o zaman bir şekilde istanbul’u terkedin. en azından ailenizden bir iki kişi ailenin çocuklarını alıp şehirden çıkmaya çalışsın. zira karantina altına alınacağı aşikar olan istanbul’dan özellikle çocukların uzaklaştırılması gerek. <br/>bir şekilde kaçarken ailesini kaybetmiş bir çocuk görürseniz sakın onu bırakmayın, görmezden gelmeyin ve teslim edebileceğiniz bir devlet görevlisi yoksa yanınıza alın. kimseye emanet etmeyin. ortada kalan çok çocuk olacaktır ve ne yazık ki o çocukların kötü niyetli insanların eline geçmesi ihtimali çok yüksek. eğer ben ve ailem depremde öleceksek çocuklarımı da ardımda bırakmak istemem açıkcası, başlarına ölmekten daha kötü şeyler gelmesinden korkarım. <br/><br/>yazacak daha çok şey var tabii de şu an için vaktim müsait değil. <br/><br/>dilerim ki hiç ihtiyacımız olmayacak listeler olsun burada yazanlar
-  entry_channels: bilim
-- entry_name: |
-    tolga ciğerci
-  entry_id:  101052587
-  entry_writer: sazan sarmali
-  entry_fav_count: 13
-  entry_content: |
-    sözleşmesine "şut çekmemek şartıyla ilk 11 çıkabilir" madesi eklenmeli.
-  entry_channels: spor
-- entry_name: |
-    kim milyoner olmak ister
-  entry_id:  101051594
-  entry_writer: aozturk56
-  entry_fav_count: 12
-  entry_content: |
-    şu anda tekrarı yayınlanan programda yarışan kadın: ömrümü okumaya adadım felsefe okudum, spikerlik deneyimim oldu çok şey elde ettim dedi ve "abartmanın mübalağa" olduğunu bilemedi ve seyirciye sordu.
-  entry_channels: tv,spoiler
-- entry_name: |
     kadınların regl sancısını abartması
   entry_id:  101055043
   entry_writer: firdevs hanimin kahkahasi
-  entry_fav_count: 12
+  entry_fav_count: 18
   entry_content: |
     bu tespiti yapmak için regl sancısını tecrübe etmiş olmanız gerekmiyor mu erk*kler? sadece soruyorum. <br/><br/>benden tavsiye; hiç bilmediğiniz ve hiçbir zaman da bilemeyeceğiniz olaylar hakkında bilirkişi edasıyla yorum yapmayın ama sadece bir tavsiye...
   entry_channels: ilişkiler,sağlık
 - entry_name: |
+    kim milyoner olmak ister
+  entry_id:  101051594
+  entry_writer: aozturk56
+  entry_fav_count: 16
+  entry_content: |
+    şu anda tekrarı yayınlanan programda yarışan kadın: ömrümü okumaya adadım felsefe okudum, spikerlik deneyimim oldu çok şey elde ettim dedi ve "abartmanın mübalağa" olduğunu bilemedi ve seyirciye sordu.
+  entry_channels: tv,spoiler
+- entry_name: |
+    elazığ'da göçük altından çıkartılan anne ve çocuk
+  entry_id:  101055765
+  entry_writer: sigirciklarin dansi
+  entry_fav_count: 15
+  entry_content: |
+    izlerken gözlerim doldu. dünkü yaşanan felaketten sonra memleketin her köşesinden bu insanlar rahatını bırakıp başka insanlara yadımcı olmak için koştura koştura elazığ'a geldi. <br/><br/>allah sizlerden razı olsun. küçük kardeşimize de güzel bir hayat bahşetsin.
+  entry_channels: 
+- entry_name: |
+    tolga ciğerci
+  entry_id:  101052587
+  entry_writer: sazan sarmali
+  entry_fav_count: 14
+  entry_content: |
+    sözleşmesine "şut çekmemek şartıyla ilk 11 çıkabilir" madesi eklenmeli.
+  entry_channels: spor
+- entry_name: |
     yeni aşık olmuş kişilere tavsiyeler
   entry_id:  101035207
   entry_writer: epsilon sadece bir sembol degildir
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     inşallah karşılığı vardır yoksa çok fena sictiniz.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    fırat aydınus
-  entry_id:  101054415
-  entry_writer: altindag
+    en rahatsız edici film
+  entry_id:  101052134
+  entry_writer: zibonaj
   entry_fav_count: 11
   entry_content: |
-    gözünün önünde sarı kartı bulunan ve formasını çıkarıp sahayı terk eden emenike’ye görmedim deyip kırmızı kart veremeyen eyyamcı fenerbahçe hakemidir.
-  entry_channels: spor
+    (bkz: <a class="b" href="/?q=rahats%c4%b1z+edici+ve+sinir+bozucu+filmler">rahatsız edici ve sinir bozucu filmler</a>)<br/>(bkz: <a class="b" href="/?q=en+rahats%c4%b1z+edici+10+film">en rahatsız edici 10 film</a>)<br/>(bkz: <a class="b" href="/?q=rahats%c4%b1z+edici+15+film">rahatsız edici 15 film</a>)
+  entry_channels: anket,sinema
 - entry_name: |
     evinizin size söyleyeceği ilk söz
   entry_id:  101045568
@@ -267,6 +251,22 @@ data:
     ilkokul çocuğu gibi burç yarıştırıyorlar resmen.<br/><br/>yemin ederim ağır zekasız dolu burası.
   entry_channels: anket
 - entry_name: |
+    geceye saçma bir türk adeti bırak
+  entry_id:  101052660
+  entry_writer: kirmizi rujlu izmarit
+  entry_fav_count: 9
+  entry_content: |
+    evlenince karşı tarafın yedi sülalesi ile tanışıp, yemeğe çağırma gerekliliği. <br/>bana ne senin amcanın çocuğunun kayınbiraderinin bilmem nesinden. gereksiz yakınlıklar.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    sivaslı sözlük yazarları
+  entry_id:  101048591
+  entry_writer: oxoemre
+  entry_fav_count: 8
+  entry_content: |
+    zabaha kadar burdayız bugün diyip içine dahil olduğum grup
+  entry_channels: ekşi-sözlük
+- entry_name: |
     evlenilecek erkek vs eğlenilecek erkek
   entry_id:  101042402
   entry_writer: lessien7
@@ -275,21 +275,21 @@ data:
     bunun (bkz: <a class="b" href="/?q=evlenilecek+k%c4%b1z+vs+e%c4%9flenilecek+k%c4%b1z">evlenilecek kız vs eğlenilecek kız</a>) versiyonu olduğundan mütevellit eklememiz gereken tanımlamalar olabilir. <br/>bu adamlar sizi darlamazlar o yüzden de eğlenirsiniz yanlarında default olarak. rahatlardır. üzerinizde tahakküm kurmazlar. bilgili ve kültürlü biriyse tadından yenmez. <br/>birlikte eğlendiğimiz erkekleri sevelim, koruyalım. <br/>evlenilecek erkek nasıl olur bilmiyorum, bilemedim. bilenler yazıversin
   entry_channels: anket,ilişkiler
 - entry_name: |
-    en rahatsız edici film
-  entry_id:  101052134
-  entry_writer: zibonaj
+    erdoğan olmasa depremin altından kalkamazdık
+  entry_id:  101056004
+  entry_writer: depara kalkan suvari
   entry_fav_count: 8
   entry_content: |
-    (bkz: <a class="b" href="/?q=rahats%c4%b1z+edici+ve+sinir+bozucu+filmler">rahatsız edici ve sinir bozucu filmler</a>)<br/>(bkz: <a class="b" href="/?q=en+rahats%c4%b1z+edici+10+film">en rahatsız edici 10 film</a>)<br/>(bkz: <a class="b" href="/?q=rahats%c4%b1z+edici+15+film">rahatsız edici 15 film</a>)
-  entry_channels: anket,sinema
+    sakin ol troll artık kimse bu numaraları yemiyor
+  entry_channels: siyaset
 - entry_name: |
-    30 tl olan battaniyeyi 120 tl'ye satan esnaf
-  entry_id:  101046996
-  entry_writer: demarke
-  entry_fav_count: 8
+    iyi insanlar nerededir ve onları nasıl buluruz
+  entry_id:  101050339
+  entry_writer: northcarolina16
+  entry_fav_count: 7
   entry_content: |
-    başlığın tam hali "elazığ'da meydana gelen deprem sonrası 30 liralık battaniyeyi 120 liraya satan fırsatçı esnaf" olacaktı.<br/><br/>kendisinden hiç haz etmesem de <a class="b" href="/?q=yusuf+g%c3%bcney">yusuf güney</a> deprem sonrası elazığ'a gidiyor. kendince yardım çalışmalarına katılıyor. yaraları sarmak adına battaniye almak istiyor fakat fırsatçılık yapmaya çalışan bir esnaf ile <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/Kartalyavuz43/status/1221070489092837378?s=19" title="https://twitter.com/Kartalyavuz43/status/1221070489092837378?s=19">karşılaşıyor.</a><br/><br/>böyle zor bir durumda dahi kendi cebini düşünen alçak esnaf, bir kuru soğana muhtaç kal. ülkenin her yerinden yardım tırları geliyor. belki senin kardeşin, arkadaşın, komşun o yıkılan evlerin birinde.<br/><br/>edit : bazı yazarlar 30 liraya battaniye mi olur demişler. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com/search?q=battaniye&amp;client=ms-android-samsung&amp;prmd=sivn&amp;source=lnms&amp;tbm=shop&amp;sa=X&amp;ved=2ahUKEwjCwPOAjZ_nAhVSwqYKHRKrBTMQ_AUoAXoECA8QAQ&amp;biw=320&amp;bih=489" title="https://www.google.com/search?q=battaniye&amp;client=ms-android-samsung&amp;prmd=sivn&amp;source=lnms&amp;tbm=shop&amp;sa=X&amp;ved=2ahUKEwjCwPOAjZ_nAhVSwqYKHRKrBTMQ_AUoAXoECA8QAQ&amp;biw=320&amp;bih=489">buradan</a> görüleceği üzere 30 liraya battaniye bulunuyor.<br/>burada bahsetmek istediğim yusuf güney'i prim yapma çabası değil. aksine fırsatçılık yapan esnaf. bi arkadaş yazmış, atatürk havalimanında terör saldırısında müşteri seçen taksileri. elazğıdaki esnaf da onun bi değişik versiyonu işte.
-  entry_channels: siyaset,haber,magazin
+    muhtelemen eve saklanmış durumda ve anti depresan kullanıyor.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ekşi itiraf
   entry_id:  101024874
@@ -299,21 +299,13 @@ data:
     şişko olmak beni üzüyor.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    geceye saçma bir türk adeti bırak
-  entry_id:  101052660
-  entry_writer: kirmizi rujlu izmarit
+    suriyeli mahmut
+  entry_id:  101056142
+  entry_writer: puandorg
   entry_fav_count: 6
   entry_content: |
-    evlenince karşı tarafın yedi sülalesi ile tanışıp, yemeğe çağırma gerekliliği. <br/>bana ne senin amcanın çocuğunun kayınbiraderinin bilmem nesinden. gereksiz yakınlıklar.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    sivaslı sözlük yazarları
-  entry_id:  101048658
-  entry_writer: kamer ul sitare
-  entry_fav_count: 5
-  entry_content: |
-    +1 yalnız yakanlardan değil yananlardanız.
-  entry_channels: ekşi-sözlük
+    ikna oldum 5 milyon daha gelsin.
+  entry_channels: siyaset,haber
 - entry_name: |
     sevan nişanyan'ın elazığ depremi paylaşımı
   entry_id:  101052453
@@ -323,26 +315,18 @@ data:
     turk savcilari degil yunanistan savcilarinin ayakta uyudugu tweettir. millet hala twitter'da emniyetgm filan yaziyor, adam yunanistan'da yahu, ondan boyle rahat rahat yaziyor. boktan bir adamin kavanoz beyinli sicmigi.
   entry_channels: siyaset,haber
 - entry_name: |
-    max kruse
-  entry_id:  101053126
-  entry_writer: solidsnake
+    fırat aydınus
+  entry_id:  101054005
+  entry_writer: admin
   entry_fav_count: 5
   entry_content: |
-    hacı katkısını bilmem ama bu adam eskaza fizikle falan uğraşsa ışınlanmayı bulabilirmiş. herifin zekası gerçekten çok üst seviyede. resmen fiziği zekasını kaldırmıyor adamın.
+    hahahaha lan fırat gene götünden penaltı uydurmayı başardın ya helal olsun sana. fenerli topçular bile utandı verdiğin şu rezil karara.
   entry_channels: spor
-- entry_name: |
-    hayat felsefesi yapılabilecek en güzel söz
-  entry_id:  101044872
-  entry_writer: boyali bulgur
-  entry_fav_count: 5
-  entry_content: |
-    "iyi olmak kolaydır, zor olan adil olmaktır."
-  entry_channels: anket,sanat,edebiyat,sağlık,eğitim
 - entry_name: |
     arabanızın size söyleyeceği ilk söz
   entry_id:  101053467
   entry_writer: roneil
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     iç dış 30 lira lan pislik herif, ne demek kışı geçirene kadar temizletmeye gerek yok, vay efendim yıkatıyorum 2 gün sonra yağmur yağıyor yine pislik çamur. yıkatacaksın lan tabi, 3 gün duş almadan durmazsın bana sıra gelince "imi kişin yikitmik siçmi". bir de şu sktiğiminin ağacının altına park etme artık ya, kuşların umumi helasına döndüm amk.
   entry_channels: 
@@ -350,26 +334,42 @@ data:
     izmir bomba tatlısı
   entry_id:  101027463
   entry_writer: sevgilimavii
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     izmirli arkadaşlarım tattırdığında sarelle-ekmek dediğim için lince maruz kaldığım yiyecek.
   entry_channels: yeme-içme
 - entry_name: |
-    çaylak sahiplenmek
-  entry_id:  101052655
-  entry_writer: iktisadiadam
-  entry_fav_count: 2
+    irfan can kahveci
+  entry_id:  101053909
+  entry_writer: sampmta
+  entry_fav_count: 4
   entry_content: |
-    besle çaylağı oysun gözünü.<br/><br/>şaka şaka arkadaşlar sizleri seviyoruz.
-  entry_channels: ekşi-sözlük
+    bugün oynayası yok.<br/>yoksa olayın fenerle alakası yok canııımmm...
+  entry_channels: spor
 - entry_name: |
     25 ocak 2020 fırat aydınus'un penaltı yaratması
   entry_id:  101054384
   entry_writer: zencilerin yuz karasi
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     penaltı amacındaydı ama tolga ciğerci işini bozdu. siz bakmayın burda "atağımızı kesti" diyenlere. hepsi ayağa kalktı penaltı çalınca.<br/><br/>rıfat'ın hakemliği acilen bitirilmeli.
   entry_channels: spor
+- entry_name: |
+    max kruse
+  entry_id:  101055799
+  entry_writer: cesleon
+  entry_fav_count: 2
+  entry_content: |
+    fenere geldiğinden beri en iyi topunu oynayan futbolcu. golünü de attı.
+  entry_channels: spor
+- entry_name: |
+    corona virüsün konya'ya sıçraması
+  entry_id:  101056239
+  entry_writer: orhanmed
+  entry_fav_count: 2
+  entry_content: |
+    ne işin var orada kardeşim? çıkmayın işte bir süre yurt dışına falan. oturun bok yeyin ülkenizde. <br/><br/>enseleri ürpertmiş bir haberdir.
+  entry_channels: sağlık,haber
 - entry_name: |
     sevan nişanyan
   entry_id:  101050953
@@ -379,27 +379,27 @@ data:
     17 ağustos 1999'da, zina yaptıkları için deprem izmit’i, adapazar’ı, sapanca’yı vurdu diyen cübbeli ahmet’in papyonlusu.
   entry_channels: edebiyat,haber,eğitim
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  101023017
-  entry_writer: the reef
+    güzel ayaklı sözlük kadınları veritabanı
+  entry_id:  101054925
+  entry_writer: jetskiyoksaatskivarr
   entry_fav_count: 1
   entry_content: |
-    cılız bir daldaki yalnız kalmış, ufak bir çift yaprak...<br/>öylesine inat ediyor bütün bir sisteme karşı!<br/>artık yorgun düşmüş odun borusu... soymuk borusu...<br/>o ise tüm rüzgarı göğsüne almış; güneşi kah yakalamış kah yakalamamış ama sallanıyor bir kış kuşluğunda dalının en ucunda.<br/><br/>namaza giderken önünden geçen bir genç önemsememiş onu <br/>renginden olsa gerek yarısı kahverengi ortaları sararmış<br/>o ise tüm rüzgarı göğsüne almış; güneşi kah yakalamış kah yakalamamış ama sallanıyor bir kış kuşluğunda dalının en ucunda.
-  entry_channels: sanat,edebiyat
+    (bkz: <a class="b" href="/?q=feti%c5%9fini+sikeyim">fetişini sikeyim</a>)
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    intermittent fasting
-  entry_id:  101043648
-  entry_writer: sedalist
+    çaylak sahiplenmek
+  entry_id:  101051646
+  entry_writer: avasas
   entry_fav_count: 0
   entry_content: |
-    kadınların uzun süre 16 saat açlığı geçmemesi gereken beslenme şekli. haftada 2 kez 20-24 saatlik açlıkla yapılabilir fazlasının üreme hormonlarını etkilediği söyleniyor.
-  entry_channels: sağlık,yeme-içme
+    çok bahsi geçmiş ama başlığı açılmamış. (bkz: <a class="b" href="/?q=%c3%a7aylak+bar%c4%b1naklar%c4%b1">çaylak barınakları</a>)
+  entry_channels: ekşi-sözlük
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  101027159
-  entry_writer: entry ka since1907
+    vedat muriqi
+  entry_id:  101052981
+  entry_writer: zizonkoyac
   entry_fav_count: 0
   entry_content: |
-    kahvemi alıp geldim, sabaha kadar buralardayım millet.. <br/><br/>dertleşmek, muhabbet etmek,geyik yapmak isteyen olursa yeşillendirsin.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    kalk yerden artık lewandowski. yerde yatışını değil, gollerini izlemek istiyoruz. <br/><br/>not: lefter
+  entry_channels: spor
 ---
