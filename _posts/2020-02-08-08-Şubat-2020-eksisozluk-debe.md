@@ -6,7 +6,7 @@ data:
     7 şubat 2020 hatay'da vatandaşın kendini yakması
   entry_id:  101721683
   entry_writer: grt
-  entry_fav_count: 1154
+  entry_fav_count: 1200
   entry_content: |
     cnn türk'te, cüneyt özdemir'de bulamazsınız.<br/><br/>ibb önünde yapsaydı bütün kanallar canlı yayında verirdi.
   entry_channels: siyaset,haber,ekonomi
@@ -14,7 +14,7 @@ data:
     şiddete uğrayan kadını kurtarırken katil olan genç
   entry_id:  101722054
   entry_writer: kahpeamerikaninyigitcocugu
-  entry_fav_count: 747
+  entry_fav_count: 754
   entry_content: |
     ortalıkta yığınla bekçi - polis dolaşıyor ama kavgaları görmüyorlar bilmem farkında mısınız?
   entry_channels: haber
@@ -22,7 +22,7 @@ data:
     jandarmaya posta koyan ilçe başkanı yeğeni
   entry_id:  101727652
   entry_writer: nefesalsinyeter
-  entry_fav_count: 686
+  entry_fav_count: 703
   entry_content: |
     jandarma, asker, polis şehit düşünce gidip vatan millet edebiyatı yapıp prim kasmaya çalışan yavşak nasıl olur? işte böyle.
   entry_channels: siyaset,haber
@@ -30,15 +30,15 @@ data:
     en sevilen kadın organı
   entry_id:  101726097
   entry_writer: poor lonesome cow
-  entry_fav_count: 543
+  entry_fav_count: 549
   entry_content: |
     birazdan, am yazmak isteyip yazamayan bir sürü süt çocuğu gelip burada abuk subuk şeyler yazıp dikkat çekmeye çalışacak.
-  entry_channels: 
+  entry_channels: anket
 - entry_name: |
     7 şubat 2020 iett zammı
   entry_id:  101717825
   entry_writer: psyclocibin
-  entry_fav_count: 525
+  entry_fav_count: 531
   entry_content: |
     geri çekilmesi gerekilen zamdır.<br/>2,60'dan 3,50'ye zam olmaz.<br/>yapılacaksa 2,85-3,00 arası yapılır o da normaldir.<br/><br/>bizler malum kesim gibi koyun değiliz.
   entry_channels: siyaset,haber,ekonomi,seyahat
@@ -46,7 +46,7 @@ data:
     beyin göçünün bir tür hainlik olması
   entry_id:  101726072
   entry_writer: zamazingonun tam ortasi amazing
-  entry_fav_count: 344
+  entry_fav_count: 364
   entry_content: |
     beyin göçüne sebep olmak çok büyük bir hainliktir, orası kesin bilgi...
   entry_channels: siyaset,ekonomi
@@ -54,15 +54,15 @@ data:
     hoşlanılan erkeğin iphone 5s kullanması
   entry_id:  101714473
   entry_writer: spykinqer61
-  entry_fav_count: 307
+  entry_fav_count: 311
   entry_content: |
     biz bunları okumak için mi giriyoruz buraya. kutsal bilgi kaynağı bu mu oluyor.<br/><br/>kalp kırmak istemiyorum ama bu nedir şimdi!
-  entry_channels: ilişkiler
+  entry_channels: anket,ilişkiler,teknoloji
 - entry_name: |
     yerli savaş uçağını 2023'te hangardan çıkaracağız
   entry_id:  101718249
   entry_writer: biladerinho
-  entry_fav_count: 279
+  entry_fav_count: 281
   entry_content: |
     önce hangarını yapsınlar.<br/><br/>ekleme: ha bunu niye dedim? insansız hava aracı bayraktar'ı üreten baykar'ın ar-ge'ye başlaması 2000 yılına tekabül ediyor. ilk basit uçuş denemesi de %100 yerlilik ile 2004 yılında ve bu sadece basit pervaneli bir uçak. <br/><br/>varın son teknolojik bir jet uçağını %100 yerli imkanlar ile üretmenin alacağı yılı siz hesap edin.<br/><br/>ha şimdi bu entry belki birilerini gaza getirir demek isterdim ama onlar da muhtemelen benim bu ciddiyetime gülüyordur zaten.<br/><br/>çıkartmaktan kasıt canlı kanlı göstermekse hangardan çıkmış reyizin haberin yok.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.trthaber.com/haber/gundem/milli-savas-ucaginin-modeli-pariste-sergileniyor-419615.html" title="https://www.trthaber.com/haber/gundem/milli-savas-ucaginin-modeli-pariste-sergileniyor-419615.html">https://www.trthaber.com/…-sergileniyor-419615.html</a><br/><br/>ekleme 2: özelden böyle bir tespit geldi (bkz: <a class="b" href="/entry/101719017">#101719017</a>)<br/><br/>ekleme 3: model de almanya’da üretilmiş puh sizin kalıbınızı.
   entry_channels: siyaset,havacılık
@@ -70,7 +70,7 @@ data:
     babası tarafından öldürülen şeyma
   entry_id:  101711428
   entry_writer: quarrygirl
-  entry_fav_count: 227
+  entry_fav_count: 232
   entry_content: |
     dünyaya gelmesine sebep olan babası gencecik bir kızın hayatını çalmış. sebebi bu kadar basit olabilir mi? erkek arkadaşı var diye insanın kendi evladını öldürecek kadar gözü dönebilir mi ? altından istismar gibi bir mevzu çıkacak diye korkuyorum sanki bazı şeyleri söylememesi anlatmaması için öldürülmüş gibi. o kadar sık rastlar olduk ki böyle şeylere artık şaşırmıyoruz. yazık, gencecik yaşta umutları söndürülen şeymaya, evladı eşi tarafından öldürülen annesine çok yazık.
   entry_channels: haber
@@ -78,7 +78,7 @@ data:
     evli erkekleri ayartan kadınlar
   entry_id:  101724317
   entry_writer: fight for me
-  entry_fav_count: 182
+  entry_fav_count: 189
   entry_content: |
     adam da ayarmasın bi zahmet
   entry_channels: ilişkiler
@@ -86,7 +86,7 @@ data:
     pegasus'un bahadır altan'ı işten çıkarması
   entry_id:  101729434
   entry_writer: neverhide
-  entry_fav_count: 154
+  entry_fav_count: 155
   entry_content: |
     pegasus airlines'ın uçak kazası hakkında bir uzman olarak kişisel görüşlerini paylaşan eğitmenini siyasi bir kararla işten çıkarması durumu. <br/><br/>projenin başından beridir gerek fizibilite gerek maddiyat konularında eleştirilen, proje aşamasından yapım aşamasına kadar türlü skandallara sahne olan 3. havalimanı güzergahı yüzünden sabiha gökçen havalimanına rüzgarı arkasına almak pahasına tek yönden inmeye zorlanan sistemi eleştirdiği, buradan yola çıkarak diğer bütün mega diye lanse edilen projelerin de liyakatsizlikle yapıldığını, bu yüzden burnumuzun boktan çıkmadığını açık yüreklilikle söylediği için işinden olan bir pilot eğitmeni. <br/><br/>süreç ne gösterir bilemeyiz fakat pegasus'un bu kararının siyasi olduğunu görmemek abesle iştigaldir. yeni bir #pegasusboykot dalgası başlar mı süreç gösterecek. neden mi? çünkü siyasi kararların siyasi karşılığı olur.<br/><br/>edit:imla
   entry_channels: haber,havacılık
@@ -94,7 +94,7 @@ data:
     denizli'de üç kızın bir kızı linç etmesi
   entry_id:  101726607
   entry_writer: alpineksi
-  entry_fav_count: 149
+  entry_fav_count: 152
   entry_content: |
     evinde pompalı tüfek olan birisinden çocuk yetiştirmesini beklemek saçma. sonuç olarak savcılıkta 3-4 dosyası olan varoşlar çıkıyor yanisi meyve ağaçtan uzağa düşmemiş.<br/><br/>düzeltme: evinde ruhsatsız silah bulunduran bireylerin çoğunlukla iyi bir ebeveyn; rol model olmadığını düşünüyorum.<br/><br/>düzeltme 2: ruhsatsız silah bulundurmak bizim ülkemizde suç. biz enayi miyiz la ruhsat için parmak izine kadar bir dünya işle uğraştık.
   entry_channels: haber
@@ -102,18 +102,18 @@ data:
     pegasusun kazayı yorumlayan pilotu işten çıkarması
   entry_id:  101727220
   entry_writer: kartallaravusturyadadaucar
-  entry_fav_count: 135
+  entry_fav_count: 145
   entry_content: |
     iki gün önce gerçekleşen kazadan sonra cnn türke bağlanarak konu ile ilgili yorum yapan pilotun işine son verilmiş. bir uçak kaza yapabilir, bu çok normal ve bundan dolayı bir firma boykot edilmez fakat kazayı politik bir şekilde yorumladı diye bir işçinin görevine son veriyorsan o zaman boykotu hakediyorsun demektir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/pegasus-cnn-turk-e-kazayi-yorumlayan-eski-savas-pilotunu-isten-cikardi,859804" title="https://t24.com.tr/haber/pegasus-cnn-turk-e-kazayi-yorumlayan-eski-savas-pilotunu-isten-cikardi,859804">https://t24.com.tr/…s-pilotunu-isten-cikardi,859804</a>
   entry_channels: haber,havacılık
 - entry_name: |
-    kariyer.net'ten iş bulmak
-  entry_id:  101713893
-  entry_writer: twister89
-  entry_fav_count: 115
+    kadınlar olarak hesabı biz ödemek istiyoruz
+  entry_id:  101726991
+  entry_writer: bilgilibiri
+  entry_fav_count: 101
   entry_content: |
-    bu şey değil mi ya ?<br/><br/>(bkz: <a class="b" href="/?q=letgo%27da+hi%c3%a7bir+%c5%9feyin+sat%c4%b1lamamas%c4%b1">letgo'da hiçbir şeyin satılamaması</a>)
-  entry_channels: anket,teknoloji,eğitim
+    ataerkil sistemin getirdiği, kadını aşağılayan, erkeği resmen biz parasal olarak kadınların üstündeyiz diyen bu iğrenç geleneğin kaldırılması için yapılmış çağrıdır. kadın cinayetlerinin son hızla arttığı bugünlerde halen erkekler hesabı ben öderim kafasında. bunun altındaki mesajlarda da açık ve net bir şekilde kadını ikinci plana atan, erkek güçlüdür kadın korunur mesajı yatan iğrenç, cinsiyetçi bir gelenektir. kadınlar olarak bu iğrenç geleneğe dur demek için hesabı artık biz ödüyoruz. kimin güçlü olduğu anlaşılsın hadi kadınlar!!!
+  entry_channels: anket,ilişkiler,ekonomi
 - entry_name: |
     gereksiz hayvanseverliğin artık höh dedirtmesi
   entry_id:  101716193
@@ -123,26 +123,26 @@ data:
     bakın arkadaşlar. bir kere daha söylüyorum. <br/>kendilerini “hayvansever” olarak nitelendiren, aslında şizofren, küfürbaz, insan sevgisiz, kötü kalpli ve faşist köpekseverlerin sizi yıldırmasına izin vermeyin (bu arada samimi bir şekilde köpekleri sevdiklerini ve umursadıklarını düşünmüyorsunuz herhalde?). hayvanseverlik bu delilerin tekelinde değil. hayatlarında başka hiçbir anlam olmayan bu sevgisiz küfürbaz şizofrenlerin artık bir susması gerekiyor. ama hala papağan gibi “köpeklerden korkuyorsan sokağa çıkma o zaman” “ben de senin uyutulmanı istiyorum” diyebilen ruh hastalarıyla karşı karşıyasınız. bu patojenik bir durum. sokaklarda köpek çetelerinin gezinmesini normal bulan bu insanların hayvansever olmadığını her platformda anlatmak gerekiyor. yılmayın bu ağzıbozuk küfürbaz sözde hayvansever duyar kasıcılardan. bu sevgi pıtırcıklarının ettikleri küfürleri, lanetleri, belaları başkalarından zor duyarsınız. ayrıca, başka bir arkadaşın da belirttiği üzere, kendileri ve savundukları olay halk sağlığına ve güvenliğine tehdittir, medeni bir ülkede öttürürler.
   entry_channels: ilişkiler
 - entry_name: |
-    kadınlar olarak hesabı biz ödemek istiyoruz
-  entry_id:  101726991
-  entry_writer: bilgilibiri
-  entry_fav_count: 95
-  entry_content: |
-    ataerkil sistemin getirdiği, kadını aşağılayan, erkeği resmen biz parasal olarak kadınların üstündeyiz diyen bu iğrenç geleneğin kaldırılması için yapılmış çağrıdır. kadın cinayetlerinin son hızla arttığı bugünlerde halen erkekler hesabı ben öderim kafasında. bunun altındaki mesajlarda da açık ve net bir şekilde kadını ikinci plana atan, erkek güçlüdür kadın korunur mesajı yatan iğrenç, cinsiyetçi bir gelenektir. kadınlar olarak bu iğrenç geleneğe dur demek için hesabı artık biz ödüyoruz. kimin güçlü olduğu anlaşılsın hadi kadınlar!!!
-  entry_channels: anket,ilişkiler,ekonomi
-- entry_name: |
     neden sevgilin yok
   entry_id:  101728441
   entry_writer: kosamayan ama ucan doktor
-  entry_fav_count: 83
+  entry_fav_count: 96
   entry_content: |
     çünkü ben bir engelliyim.<br/><br/>ve bu ülkede engelli olmak vebalı olmak gibi birşey maalesef özellikle eğitim seviyesi ne olursa olsun tüm türk kızları için geçerli. <a class="b" href="/entry/97819463">#97819463</a> no'lu entry'de durumu çok güzel özetlemişim.<br/><br/>not: bu entry belki düşer mantığıyla yazılmamıştır. sadece bir isyandır.<br/><br/>not 2: bir engelliye yapabileceğiniz en kötü şey ona acımaktır. bunu da buraya bırakalım. biz kimsenin acımasını istemiyoruz. benim gibi aklı başında hekimlik yapan bir çok sonradan engelli olmuş doktor var bu ülkede. <br/><br/>ne diyeyim coğrafya kaderdir.
   entry_channels: anket,ilişkiler
 - entry_name: |
+    bahis oynanan maçta çileden çıkaran durum
+  entry_id:  101724138
+  entry_writer: birdost30
+  entry_fav_count: 92
+  entry_content: |
+    basket maçında bahis oynana toplam sayıya 2 sayı kalmışken son saniyelerde topun sektirilip sürenin bitmesinin beklenmesi.
+  entry_channels: spor,anket
+- entry_name: |
     mtv sigorta kasko muayene yakıt ve bakım giderleri
   entry_id:  101724582
   entry_writer: od tengri yasar
-  entry_fav_count: 64
+  entry_fav_count: 66
   entry_content: |
     ulan 30 yaşında adamım, 7-8 arabam oldu, kanal kapanalı yıllar oluyor ve hala motorlu taşıtlar vergisini emtivi olarak okuyorum amk.
   entry_channels: otomotiv,ekonomi
@@ -150,26 +150,26 @@ data:
     kışın ayda bir yazın haftada bir yıkanmak
   entry_id:  101706569
   entry_writer: tostmodernist
-  entry_fav_count: 50
+  entry_fav_count: 54
   entry_content: |
     kireç atın şu pezevengin üstüne.
   entry_channels: sağlık
 - entry_name: |
-    7 şubat 2020 fenerbahçe açıklaması
-  entry_id:  101737996
-  entry_writer: kumulatifvergimatrahi
-  entry_fav_count: 41
-  entry_content: |
-    fenerbahçe açıklama yapsın da ağlayalım diye bekleyen yurdunu siktiğim katarlılarını üzen açıklamadır. daha haber sitelerine düşmedi lan fenerbahçe.org'da f5 yaparak bekliyor musunuz?
-  entry_channels: spor
-- entry_name: |
     enver paşa hain midir
   entry_id:  101738558
   entry_writer: filozofyamtar
-  entry_fav_count: 38
+  entry_fav_count: 46
   entry_content: |
     enver paşa'nın başarılı bir kurmay olduğunu bilirsek hayalperest olamayacağını anlayabiliriz. osmanlı'nın son nesil subayları hepimizden daha entelektüel ve dünyayı bizlerden daha iyi tanıyan insanlardı. bugünden bakıp o günkü şartlarda bir insanın başından geçen hadiseleri "hayalperest"lik olarak tanımlamak pek doğru sayılmaz.<br/>hainlik kısmına değinmeyeceğim çünkü enver paşa'yı böyle bir sıfatla yan yana getirmek her şeyden önce terbiyesizliktir.
   entry_channels: anket,tarih
+- entry_name: |
+    7 şubat 2020 fenerbahçe açıklaması
+  entry_id:  101737996
+  entry_writer: kumulatifvergimatrahi
+  entry_fav_count: 42
+  entry_content: |
+    fenerbahçe açıklama yapsın da ağlayalım diye bekleyen yurdunu siktiğim katarlılarını üzen açıklamadır. daha haber sitelerine düşmedi lan fenerbahçe.org'da f5 yaparak bekliyor musunuz?
+  entry_channels: spor
 - entry_name: |
     7 şubat 2020 dolar kuru
   entry_id:  101734191
@@ -179,29 +179,29 @@ data:
     yetiş ya vakıfbank, yetiş ya halkbank.
   entry_channels: haber,ekonomi
 - entry_name: |
-    sözlükçülerin 10 sene önceki vs şimdiki inancı
+    10 yıl önceki inanç vs şimdiki inanç
   entry_id:  101735931
   entry_writer: biravekahve
-  entry_fav_count: 30
+  entry_fav_count: 35
   entry_content: |
     10 sene: ateist<br/>şimdi: lan acaba bizi uzaylılar mı zikti...
-  entry_channels: anket
-- entry_name: |
-    garanti bankası'nın 7.75 tl eft ücreti alması
-  entry_id:  101727153
-  entry_writer: apacinindovmelisi
-  entry_fav_count: 26
-  entry_content: |
-    başlıkta belirttiğim olaydır. daha önceki halini merak edenler için (bkz: <a class="b" href="/?q=garanti+bankas%c4%b1%27n%c4%b1n+6.75+tl+eft+%c3%bccreti+almas%c4%b1">garanti bankası'nın 6.75 tl eft ücreti alması</a>)<br/><br/>bu tarz işler için enpara kullanıyorum (reklam değil, bu bankalar varken kullanmak zorundayım)<br/><br/>işim bir seferliğine garantiye düştü ve görünce işlem ücreti kısmına uzun uzun baktım. 2020 yılında eft, havale ücreti ödemek bir yana, 7.75 tl ödemek insana koyuyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.ibb.co/MCKzBtR/Screenshot-Quickstep-20200207-150354.png" title="https://i.ibb.co/MCKzBtR/Screenshot-Quickstep-20200207-150354.png">ekran görüntüsü</a>
-  entry_channels: anket,ekonomi
+  entry_channels: 
 - entry_name: |
     muğla denince akla gelenler
   entry_id:  101728905
   entry_writer: eseseskikikieskieskies
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     öğrenciyi sömüren ev sahipleri.
   entry_channels: anket,tarih,seyahat
+- entry_name: |
+    şeyma yıldız
+  entry_id:  101733702
+  entry_writer: venusteki limon agaci
+  entry_fav_count: 24
+  entry_content: |
+    bakın bu videoda minicik bir kız var: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/aklingozu/status/1133989827546898433?s=21" title="https://twitter.com/aklingozu/status/1133989827546898433?s=21">https://twitter.com/…tatus/1133989827546898433?s=21</a><br/><br/>saçları var, lüle lüle. lahana bebeklere benziyor. keşke benim kızım olsaydı. sarılınca kalplerimiz birbirine baksaydı. gözleri mor onun, işkence görmüş. babası işkence etmiş. öldürecek birazdan. öldürmeden önce son bir kez videoya alıyor. başka coğrafyalarda babalar , kızlarını aynı dakikalarda mezuniyetten önce, tatlıdan sonra, kardanadam yaparken, kameraya el sallarken videoya alıyor. <br/><br/>maab, babası tarafından arkadaşının cinsel içerikli oyunlarına ses çıkarmadığı için öldürülmüş. “cehennemde allahla buluşmaya hazır mısın?” diye soruyor babası. bence allah’ı doğru yerde konumlandırmış. <br/><br/>şeyma’nın maab’dan tek farkı, babası canını almadan önce onun korkulu gözlerini videoya almamasıdır. şeyma, bir zamanlar cennet olma ihtimali varken sarı dişleri, çirkin sakalları ve yerlere kadar cübbeleriyle pis insanların kalplerine benzettikleri bir ülkede, hiç cennet olma ihtimali yaşamamış başka bir ülkenin kızıyla bikaç sene arayla ölümde eşitlenmiştir. <br/><br/>türkiye, şeyma’dan sonra gözümde artık yemen’dir.
+  entry_channels: haber
 - entry_name: |
     pegasus airlines
   entry_id:  101705342
@@ -211,18 +211,26 @@ data:
     bir uçağın 11 yıllık olması sorun değildir. 11 yaşındaki bir uçak, kırıma uğramazsa en az 15 yıl daha kullanılacaktır. muhtemelen 20 yaşına kadar büyük bir havayolunda sonrasında ise, küçük havayollarına satılarak uçmaya devam edecektir. amerika'nın en büyük havayolu şirketlerinden birisi olan delta airlines'ın uçak filosunun ortalama yaşı 15.8'dir ve halen kullandığı md80-90 uçaklarının ortalama yaşı 26'dır.<br/>bir uçağa ne kadar iyi bakılır, düzenli kontrolleri, bakımları yapılırsa o kadar uzun süre uçabilir ve bu bakımların hepsi kayıt altında tutulur ve bakım sonrası uçağın uçabileceğine dair onaylar alınır. <br/><br/>pegasus havayollarının boeing 737 uçakları görece eskidir çünkü son yıllarda verdiği siparişerin hepsi airbus a320 ve a321 uçaklarıdır. ve bu uçak siparişleri düzenli olarak teslim edildiğinden filonun ortalama yaşını düşürmektedirler. <br/><br/>dünkü kazanın oluşu daha çok hava durumu, pilotaj hatası ve kule hatası gibi görünmektedir ve pegasus havayollarının bakım politikasını suçlayacak bir durum şu an için yoktur. tabii pilotlara az yakıt tüketimi konusunda baskı yapılması, aylık yakıt tüketim listelerinin hazırlanması gibi iddialara pegasusun yanıt vermesi gerekmektedir. yalnız uçan minibüs, metro turizm gibi söylemler tamamen saçmalıktır. dünkü kaza pegasusun ilk ölümlü kazasıdır ve umarım sonuncusu da olur. <br/><br/>yalnız pegasus havayolları türkiye'de uçak kullanımının artmasında ciddi bir etmen olmuştur ve söylenen pek çok şeyi hak etmemektedirler. 10 yıl öncesine kadar uçağa binmemiş pek çok insan pegasus sayesinde uçağa binmiş, türkiye'yi ve avrupa'yı gezmiştir.
   entry_channels: ekonomi,havacılık,seyahat
 - entry_name: |
-    şeyma yıldız
-  entry_id:  101733702
-  entry_writer: venusteki limon agaci
-  entry_fav_count: 23
+    viskinin berbat bir içki olması
+  entry_id:  101742432
+  entry_writer: hmm bilemedim simdi
+  entry_fav_count: 21
   entry_content: |
-    bakın bu videoda minicik bir kız var: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/aklingozu/status/1133989827546898433?s=21" title="https://twitter.com/aklingozu/status/1133989827546898433?s=21">https://twitter.com/…tatus/1133989827546898433?s=21</a><br/><br/>saçları var, lüle lüle. lahana bebeklere benziyor. keşke benim kızım olsaydı. sarılınca kalplerimiz birbirine baksaydı. gözleri mor onun, işkence görmüş. babası işkence etmiş. öldürecek birazdan. öldürmeden önce son bir kez videoya alıyor. başka coğrafyalarda babalar , kızlarını aynı dakikalarda mezuniyetten önce, tatlıdan sonra, kardanadam yaparken, kameraya el sallarken videoya alıyor. <br/><br/>maab, babası tarafından arkadaşının cinsel içerikli oyunlarına ses çıkarmadığı için öldürülmüş. “cehennemde allahla buluşmaya hazır mısın?” diye soruyor babası. bence allah’ı doğru yerde konumlandırmış. <br/><br/>şeyma’nın maab’dan tek farkı, babası canını almadan önce onun korkulu gözlerini videoya almamasıdır. şeyma, bir zamanlar cennet olma ihtimali varken sarı dişleri, çirkin sakalları ve yerlere kadar cübbeleriyle pis insanların kalplerine benzettikleri bir ülkede, hiç cennet olma ihtimali yaşamamış başka bir ülkenin kızıyla bikaç sene arayla ölümde eşitlenmiştir. <br/><br/>türkiye, şeyma’dan sonra gözümde artık yemen’dir.
-  entry_channels: ilişkiler,haber
+    biri demiş ki “barzo gibi sek içmeyin”<br/><br/>viskiye aslında buz dahi atılmaz. bazen aromalarını açığa çıkartsın diye birkaç damla soğuk su damlatılır. kısacası viskiyi sek içemiyorsanız içmeyin sevgili suserler.<br/><br/>dünyanın en karakteristik içeceği olan viskiyi boklamayın lütfen. öte yandan <a class="b" href="/?q=vat69">vat69</a>, <a class="b" href="/?q=j%26b">j&amp;b</a> gibi sülfürik asitten hallice viskileri içip de “viski çok kötü yea” diye ortalarda da dolaşmayın.<br/><br/>çok pis rencide eder hakkınızda kötü konuşurum.<br/><br/>tanım: viski içecek ağzı olmayanların uydurduğu bir takım iddiaların sıralandığı başlık.
+  entry_channels: yeme-içme
+- entry_name: |
+    akp olmasa ilker başbuğ hapisten çıkabilir miydi
+  entry_id:  101724389
+  entry_writer: bozkirin kalbini hizlandiran mizrak
+  entry_fav_count: 20
+  entry_content: |
+    akp olmasa hapse girer miydi?
+  entry_channels: siyaset
 - entry_name: |
     yazarların kumarda kaybettiği en yüksek meblağ
   entry_id:  101728079
   entry_writer: xen0mancer
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     40 taso <sup class="ab"><a title="(bkz: pokemon tasosu)" href="/?q=pokemon+tasosu" data-query="pokemon tasosu">*</a></sup>. düşününce 20 seneden fazla olmuş. ondan sonra kumarı bıraktım.
   entry_channels: anket,ekşi-sözlük,oyun
@@ -235,26 +243,10 @@ data:
     kendisine minicik bir eleştiri yapayım. başkan 12 şubat'ta cnn türk'teki programını iptal etmişsin iyi hoş da, yahu zaten senin ne işin vardı tekrar ahmet hakan'ın programında. adamın vasıfsız bir omurgasız olduğunu geçtim ama seçim dönemindeki programda sana yaptıkları hafızalarımızda hala daha taze. en başta senin boykotu yapıştırman lazımdı. <br/><br/>o programa tekrar katılsan başına gelecekleri söyleyeyim (soru soran başka bir gazeteci olmadığını varsayarsak). en az yarım saat tatil mevzusu dönecekti. bi yarım saat te cumhurbaşkanlığına aday olacak mısınız olmayacak mısınız muhabbeti. sonra o şunu dedi bu bunu dedi bilmem ne. düşme artık bunlara gözünü seveyim. ayda yılda bir çık işte fatih altaylı'ya yeter sana.
   entry_channels: siyaset,haber
 - entry_name: |
-    akp olmasa ilker başbuğ hapisten çıkabilir miydi
-  entry_id:  101724389
-  entry_writer: bozkirin kalbini hizlandiran mizrak
-  entry_fav_count: 17
-  entry_content: |
-    akp olmasa hapse girer miydi?
-  entry_channels: siyaset
-- entry_name: |
-    viskinin berbat bir içki olması
-  entry_id:  101742432
-  entry_writer: hmm bilemedim simdi
-  entry_fav_count: 15
-  entry_content: |
-    biri demiş ki “barzo gibi sek içmeyin”<br/><br/>viskiye aslında buz dahi atılmaz. bazen aromalarını açığa çıkartsın diye birkaç damla soğuk su damlatılır. kısacası viskiyi sek içemiyorsanız içmeyin sevgili suserler.<br/><br/>dünyanın en karakteristik içeceği olan viskiyi boklamayın lütfen. öte yandan <a class="b" href="/?q=vat69">vat69</a>, <a class="b" href="/?q=j%26b">j&amp;b</a> gibi sülfürik asitten hallice viskileri içip de “viski çok kötü yea” diye ortalarda da dolaşmayın.<br/><br/>çok pis rencide eder hakkınızda kötü konuşurum.<br/><br/>tanım: viski içecek ağzı olmayanların uydurduğu bir takım iddiaların sıralandığı başlık.
-  entry_channels: yeme-içme
-- entry_name: |
     akp'nin antalya belediyesi hırsızlığı
   entry_id:  101741325
   entry_writer: seylann
-  entry_fav_count: 15
+  entry_fav_count: 18
   entry_content: |
     başkan muhittin böcek tarafından bilal'e anlatır gibi ifşa edilmiştir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Xd8tUA46Oas&amp;t=79s">https://www.youtube.com/watch?v=xd8tua46oas&amp;t=79s</a>
   entry_channels: siyaset
@@ -262,7 +254,7 @@ data:
     kadınlar şiir yazar mı
   entry_id:  101739510
   entry_writer: landho
-  entry_fav_count: 12
+  entry_fav_count: 16
   entry_content: |
     sen ki sanmışsın sözlüğü forum<br/>ne format bırakmışsın ne yorum<br/>ey cühela bir de kadınları eleştirip durursun <br/>senin bizimle nedir kuzum zorun?<br/><br/>ikna olunmadıysa zevkle devam edebilirim bayım.<br/><br/>yours landho.<br/><br/>edit: dahi anlamındaki - de, - da'yı ayrı yazmanızı rica edeceğim, lütfen. bir de nesirleri şiir formatında yazmayalım, lütfen.
   entry_channels: 
@@ -283,6 +275,14 @@ data:
     benimkinin çubuk bir ödülü var, uzanırken kucağıma alıp koparta koparta veriyorum. en sevdiği şey budur. ben koparınca o elimi çekiştiriyor ağzına götürüyor. biraz duraksayınca patileriyle elime vurarak dürtüyor ben de veriyorum. bir kere tadını merak ettim, bir parça ağzıma attım. bokum gibi.
   entry_channels: anket
 - entry_name: |
+    duman'ın en iyi üç şarkısı
+  entry_id:  101741901
+  entry_writer: johnnysack
+  entry_fav_count: 8
+  entry_content: |
+    1. eski köprünün altında<br/>2. öyle dertli<br/>3. yanıbaşımdan<br/><br/>edit: entrylere bakılırsa adamların sağlam 20 şarkısı var. herkes kendi üçlüsünü yazmış. duman efsane grup ama devamı gelmiyor :(
+  entry_channels: anket
+- entry_name: |
     23 şubat 2020 fenerbahçe galatasaray maçı
   entry_id:  101731392
   entry_writer: sakirt bana ordan 3 cay
@@ -290,6 +290,14 @@ data:
   entry_content: |
     başlamadan önce tarafımızı belli edelim : leminaspor<br/><br/>şimdi öncelikle fenerbahçeyi 7 maçtır yenemiyoruz ama bizim açımızdan çok ilginç bir istatistik veriyorum; 5 maçtır da yenilmiyoruz. yani fenerin bu süreçteki o 2 galibiyeti 2016-2017 sezonunda gerçekleşti. galatasaray çok çok kötü durumdaydı ve 2 maçta da yenildi o sezon. ama geçen sezon fenerbahçe çok daha kötü durumdayken galatasaray 2 maçta da elinden kaçırdı ve galibiyet alamadı. <br/><br/>bu istatistik bile tek başına anlatıyor bu maçlarda galatasarayın durumunu. yani fenerin açık favori olduğu bi maçta yendiğimizi hatırlamıyorum mesela, illaki olmuştur ama bi seferde anımsayamadım. bizim açık ara favori olduğumuzda yenemediğimiz çok maç hatırlıyorum.<br/><br/>şöyle de bir durum var mesela fenerbahçenin çok kötü oynadığı ve bizim çok iyi oynadığımız maçlarda yenemediğimiz, hatta yenildiğimiz ( ilk aklıma gelen süper finaldeki 2-1 lik maç) maçlar çok var. bu maçlarda her galatasaraylının içinden şu cümleler geçiyor eminim : "adamlar bizi böyle yakalasalar 3 atarlar anasını satayım." <br/><br/>velhasıl kelam bu çok çok zor maç. fenerbahçenin kaybetmesi durumunda sezon kesinlikle biter. camiada büyük kaos olur. galatasaray bu gazla şampiyonlukta %70 favori durumuna geçer.<br/><br/>galatasaray kaybederse sezon biter diyemem henüz çünkü bu maça kadar 2 haftalık süreçte galatasaray dışında ilk 7 deki takımlar birbiriyle maç yapacaklar ve galatasarayın görece çok çok kolay maçları var. yani derbiye çıkarken galatasarayı ilk 3 te görme ihtimalimiz çok yüksek. fenerbahçeninse alanya maçı çok kritik.<br/><br/>ben bir galatasaraylı olarak yukarıda belirttiğim durumlardan ötürü eğerki önümüzdeki kasımpaşa ve malatya maçlarını kazanarak kadıköye gidersek kesinlikle beraberliğe razı olurum. ve muhtemelen gene sıkıcı bir derbi izleriz. <br/><br/>fenerbahçenin iç sahadaki boğucu presini kırması çok zor ilk etapta. gol yemeden geçireceğimiz ilk yarıdan sonra ibrenin büyük ölçüde bize döneceğini düşünüyorum ama o baskıdan hele ki fenerin derbi şansı ve üstünlüğüyle gol yemeden çıkacağını sanmıyorum. <br/><br/>umarım beşiktaş fenerbahçe maçları tadında bol gollü (karşılıklı tabi) zevkli bi maç izleriz uzun zaman sonra.
   entry_channels: spor
+- entry_name: |
+    babil (dizi)
+  entry_id:  101740537
+  entry_writer: ffemmefatalee
+  entry_fav_count: 7
+  entry_content: |
+    çocuğuna ağlamaktan gözleri kan çanagına dönen bir annenin, kocasını kıskanmasıyla çocuğunu ikinci plana itmesi kadar saçma bir geçiş olamaz. çocuk orada ölecek mi yaşayacak mı belli değil, kadın kocamı tekrar nasıl kazanırım diye kıyafet bakıyor, eşinin eski nişanlısıyla kendini mukayese ediyor... saçmalamayın. anne dediğin şehrazat evliyaoğlu gibi olur, eda gibi değil. :)
+  entry_channels: tv,spoiler
 - entry_name: |
     ekşi itiraf
   entry_id:  101700975
@@ -299,18 +307,10 @@ data:
     içtikçe kaybediyorum, kaybettikçe daha fazla içiyorum.bu allahın belası döngüden bir türlü kurtulamıyorum.sabaha karşı uyanmak istemiyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    duman'ın en iyi üç şarkısı
-  entry_id:  101741901
-  entry_writer: johnnysack
-  entry_fav_count: 5
-  entry_content: |
-    1. eski köprünün altında<br/>2. öyle dertli<br/>3. yanıbaşımdan<br/><br/>edit: entrylere bakılırsa adamların sağlam 20 şarkısı var. herkes kendi üçlüsünü yazmış. duman efsane grup ama devamı gelmiyor :(
-  entry_channels: anket
-- entry_name: |
     7 şubat 2020 fenerbahçe beko maccabi maçı
   entry_id:  101743614
   entry_writer: apctool
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     + hücum süresi 5 sn kalmışsa sloukas kaç saniyesini kullanır?<br/><br/>- tabii ki 4.5 sn
   entry_channels: spor
@@ -318,26 +318,34 @@ data:
     41 ölü varken 3 kişinin öldüğü kazayı tartışmak
   entry_id:  101734206
   entry_writer: avci ruhlu zenci
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     çok ihtimali vardır ve bunlar kesinlikle kendi görüşüm.<br/><br/>birisinde devlet suçlu bulunabilirken diğerinde özel şirkettir ve bu ülkede devleti eleştirmek hakkında bir şeyler yazmak maalesef zor.<br/><br/>birisinde parası olan ölmüştür diğerinde ise kırsalda yaşayan. demek ki 41 kırsallı &lt; 3 paralı.<br/><br/>buna popüler kültür mü dersin, yaşam seviyesi mi dersin bilmem. ama bence insanlar kendilerini vurma ihtimali yüksek olan kazalara daha fazla ilgi gösteriyor. <br/><br/>not : şehitleri, kamu görevlilerini ve gönüllüleri hiç dahil etmedim konuya. .çünkü onları hiç (bkz: <a class="b" href="/?q=abdullah+bin+abdulaziz+el-suud">abdullah bin abdulaziz el-suud</a>) gibi göremedik.
   entry_channels: siyaset,haber,havacılık
 - entry_name: |
-    babil (dizi)
-  entry_id:  101740537
-  entry_writer: ffemmefatalee
+    wuhanlı kızlar
+  entry_id:  101743611
+  entry_writer: koministimam2
+  entry_fav_count: 5
+  entry_content: |
+    güzel ülkemde söz konusu kızsa, virüsü teferruattır düsturundan yola çıkılarak hoplatırlar arkadaşım. <br/>bu ülkede ben de <a class="b" href="/?q=aids">aids</a> var diyen hayat kadınına “ atın ölümü arpadan olsun” diyen adamlar yer almakta :) ne wuhanlı kızı, sen de ki corona virüsü dişiymiş, siker siker çoğaltırlar dünyanın amına koyarlar lan:)
+  entry_channels: ilişkiler,yeme-içme
+- entry_name: |
+    imamoğlu'nun israf söyleminin elinde patlaması
+  entry_id:  101742465
+  entry_writer: strangemal
   entry_fav_count: 4
   entry_content: |
-    çocuğuna ağlamaktan gözleri kan çanagına dönen bir annenin, kocasını kıskanmasıyla çocuğunu ikinci plana itmesi kadar saçma bir geçiş olamaz. çocuk orada ölecek mi yaşayacak mı belli değil, kadın kocamı tekrar nasıl kazanırım diye kıyafet bakıyor, eşinin eski nişanlısıyla kendini mukayese ediyor... saçmalamayın. anne dediğin şehrazat evliyaoğlu gibi olur, eda gibi değil. :)
-  entry_channels: tv,spoiler
+    <a class="b" href="/?q=ibb%27nin+2+ayda+3.5+milyar+lira+tasarruf+etmesi">ibb'nin 2 ayda 3.5 milyar lira tasarruf etmesi</a><br/><br/>tasarruf dediği, derneklere/vakıflara(ki aralarında tecavüzle gündeme gelen var) ve birçok kuruma giden paranın kesilmesi... o tecavüzcü hocaların maaşını ben ödemek istemem, sen ister misin yazarımsı?<br/><br/>devlete ve vatandaşa katkısı olmayan kurum ve kişilere gönderilen paralar!<br/><br/>t: içi boş cümlelerden oluşan aksi birkaç ay önce kanıtlanmış iddia!
+  entry_channels: 
 - entry_name: |
-    fatih portakal
-  entry_id:  101739401
-  entry_writer: sisli etfalde ayakustu sican teyze
+    kadınlar olarak doğum izni istemiyoruz
+  entry_id:  101731433
+  entry_writer: zinharyalan
   entry_fav_count: 3
   entry_content: |
-    tıpkı yoksulluk ve çaresizlikten, <a class="b" href="/?q=siyan%c3%bcr">siyanür</a>le intihar eden vatandaşlarımızın haberlerini yapmadığı gibi bugün de <a class="b" href="/?q=7+%c5%9fubat+2020+hatay%27da+vatanda%c5%9f%c4%b1n+kendini+yakmas%c4%b1">7 şubat 2020 hatay'da vatandaşın kendini yakması</a> olayını da haber yapmamıştır.<br/><br/>ne kadar dürüst ve tarafsız olduğunu anlayın işte.
-  entry_channels: siyaset,tv,haber
+    bir erkeğin"kadınlar olarak"diye başlık açmasına konusuna takılmaktan gerisine geçemedim. <br/><br/>foskito beyefendinin, her ne kadar doğum yapıp bu işin zahmetini bizzat yaşaması mümkün olmasa da en azından cinsiyet değiştirip "kadınlar olarak" diye başlayan başlıklar açmanın hakkını vermesini istiyorum<br/><br/>t: bir deli saçması olarak dile getirilen istektir.<br/><br/>edit: aaaaa foskito bey de kaçmış ahahhaha... ne oldu çaktığın kıvılcım??? ne oldu kadınların doğum izni kullanmaması gerektiğine dair görüşlerine???? barutun üzerinde mi oturuyormuşsun yoksa, o kıvılcım yanlış yerde mi patladı jshdgjahsgdhjdgfhf
+  entry_channels: anket,sağlık
 - entry_name: |
     en yakın arkadaşla öpüşmek entry canlandırması
   entry_id:  101733384
@@ -363,30 +371,6 @@ data:
     "ne alaka şimdi durduk yere?" diyen veya bilmeyenler için açıklayalım, şike davasından çıkan beraat kararından sonra yayınlanmış twittir. bu twit ile dalga geçen tüm taraftarın mensubu olduğu takımlar da böyle bir karardan sonra benzer bir şey yaparlardı mutlaka. çünkü yıllardır havada kalmış bir mevzu idi. o nedenle herkes gitsin kendi bahçesinde oynasın.
   entry_channels: spor
 - entry_name: |
-    izbarço bağı atamayan adamla evlenmek
-  entry_id:  101744450
-  entry_writer: hizbandut007
-  entry_fav_count: 1
-  entry_content: |
-    biz sevdiğimize göbek bağı ile bağlıyız kardeş. izbarço da kim kardeş ha kardeş ??
-  entry_channels: 
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  101707791
-  entry_writer: kayapas
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=formspring.me+tad%c4%b1nda+sorular">formspring.me tadında sorular</a>)
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  101709740
-  entry_writer: leninistulkucu
-  entry_fav_count: 1
-  entry_content: |
-    mesaj atın ama artık sabah cevap veririm uyuyacam. hem gündüzün şerri gecenin hayrından yeğdir.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     şu anda çalan şarkı
   entry_id:  101726807
   entry_writer: hanging rock
@@ -395,6 +379,14 @@ data:
     steelheart - <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Nw8i9EBY7FU" title="https://www.youtube.com/watch?v=Nw8i9EBY7FU">she's gone</a>
   entry_channels: anket,ilişkiler,müzik,seyahat
 - entry_name: |
+    izbarço bağı atamayan adamla evlenmek
+  entry_id:  101743281
+  entry_writer: seferisayilirim
+  entry_fav_count: 0
+  entry_content: |
+    yoma bağı ile bir tık ileri götürüp doblin atarak bulduğu kızı sağlama alabilen erkeklerin yanında esamesi okunmayacaktır.
+  entry_channels: 
+- entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  101736505
   entry_writer: yaptim ama bi sor niye yaptim
@@ -402,4 +394,12 @@ data:
   entry_content: |
     bayburt’taki keloğlan pub’ta bekliyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
+- entry_name: |
+    7 şubat 2020 istanbul kar yağışı
+  entry_id:  101702536
+  entry_writer: bagcivan
+  entry_fav_count: 0
+  entry_content: |
+    akşam saatlerinden itibaren teşrif edecek gibi görünüyor ve cumartesi sabahı beyaz bir güne uyanabiliriz.<br/>böyle kar beklenti içine girildiği zamanlarda, bi sinerjisi oluşuyor ve hava sevdalılarını üzmüyor. onlardan birisini hissediyorum.
+  entry_channels: bilim
 ---
