@@ -6,7 +6,7 @@ data:
     birkaç tane şehidimiz var
   entry_id:  102469268
   entry_writer: nickson
-  entry_fav_count: 800
+  entry_fav_count: 813
   entry_content: |
     bak işte bak! tam da bu şahsa oy veriyorsunuz vatanını sevdiğini iddia eden (!) akp'liler ve çakma milliyetçiler.<br/><br/>bu gurur size yeter!<br/><br/>tanım: "birkaç şehidin" tabutlarına elini koyarak miting yapıp, rutinini tamamlayacak akp genel başkanı açıklaması.
   entry_channels: siyaset,haber
@@ -14,7 +14,7 @@ data:
     22 şubat 2020 bağdat caddesi trafik kazası
   entry_id:  102456831
   entry_writer: helioss
-  entry_fav_count: 515
+  entry_fav_count: 519
   entry_content: |
     caydırıcı ceza verilmeyecektir. çünkü insanlar hayvan gibi yaşamaya devam etmeliler.<br/>huzur olmamalı.
   entry_channels: haber
@@ -22,23 +22,15 @@ data:
     elin oğlu diplomaya değil yaptığın pilava bakar
   entry_id:  102460905
   entry_writer: ghostronaut
-  entry_fav_count: 403
+  entry_fav_count: 415
   entry_content: |
     benim hanım ayda 30k kazanıyor. pilavı da dışarıdan söyleyebiliyoruz.
   entry_channels: anket,ilişkiler,yeme-içme
 - entry_name: |
-    22 şubat 2020 turnikeden atlayan öğrenciler
-  entry_id:  102470968
-  entry_writer: elonardo
-  entry_fav_count: 363
-  entry_content: |
-    80 tl'lik aylık ücreti bu ekonomide 50 tl'ye indiren adama karşı yaptıkları protesto. belediye akp'deyken yapabilirler miydi peki? <br/><br/>ülkede sol en az sağ kadar kanser.
-  entry_channels: siyaset,haber,eğitim,ekonomi
-- entry_name: |
     pasaportu itibar gören bir ülke haline geldik
   entry_id:  102472657
   entry_writer: sheriff78
-  entry_fav_count: 355
+  entry_fav_count: 364
   entry_content: |
     evet o pasaportla amsterdam 'da bisiklet kiralarken sorun yaşamışlığım vardır. evet bisiklet kiralarken. bisiklet.
   entry_channels: siyaset,ekonomi
@@ -46,15 +38,23 @@ data:
     kafasını kestiği askerin annesini arayan öso'cu
   entry_id:  102472452
   entry_writer: barbar savasci
-  entry_fav_count: 351
+  entry_fav_count: 364
   entry_content: |
     üzerindeki üniforma türk askeri üniforması. bu üniforma tarihte hiçbir zaman bu kadar düşmemişti...<br/><br/>ekleme: bu entrye gelen tepkiler üzerine, googla “tsk kamuflaj” yazıp görsellere bakarsanız, hulusi akarın karakol denetlemelerinde görebilirsiniz bu üniformayı. ayrıca tskyı falan eleştirmiyorum, öso bir devlet değil üniforması da yok doğal olarak. tsk ile beraber hareket ettiği için bu kamuflajı giymeleri gerekiyor. sadece tsknın bu noktaya gelmiş olmasınadır sitemim.<br/>tsk ile ilgili daha detaylı yazım için<br/>(bkz: <a class="b" href="/?q=t%c3%bcrk+silahl%c4%b1+kuvvetleri%2f%40barbar+savasci">türk silahlı kuvvetleri/@barbar savasci</a>)
   entry_channels: siyaset,haber
 - entry_name: |
+    22 şubat 2020 turnikeden atlayan öğrenciler
+  entry_id:  102470968
+  entry_writer: elonardo
+  entry_fav_count: 364
+  entry_content: |
+    80 tl'lik aylık ücreti bu ekonomide 50 tl'ye indiren adama karşı yaptıkları protesto. belediye akp'deyken yapabilirler miydi peki? <br/><br/>ülkede sol en az sağ kadar kanser.
+  entry_channels: siyaset,haber,eğitim,ekonomi
+- entry_name: |
     albayın şehit cenazesinin gizlenmesi
   entry_id:  102473813
   entry_writer: dirknowitzki
-  entry_fav_count: 263
+  entry_fav_count: 287
   entry_content: |
     siyasal islamcıların askerden nefret ettiği kadar hiçbir kesim nefret etmediği için, beni şaşırtmayan durum. <br/><br/>bunlar için asker demek, paralı, silahlı köle demek. öyle görüyorlar askerleri. o yüzden oraya buraya "vatan için" diye gönderiyorlar. sevmiyorlar askerleri. sevmeyecekler de.<br/><br/>siyasal islamcıların allah bin belasını versin.
   entry_channels: siyaset,haber
@@ -62,7 +62,7 @@ data:
     sigarayı en güzel içen karakter
   entry_id:  102458190
   entry_writer: yazarium
-  entry_fav_count: 252
+  entry_fav_count: 253
   entry_content: |
     (bkz: <a class="b" href="/?q=thomas+shelby">thomas shelby</a>)<br/><br/>(bkz: <a class="b" href="/?q=peaky+blinders">peaky blinders</a>)<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/7ma4s2uzVIA" title="https://youtu.be/7ma4s2uzVIA">özendirmek gibi olmasın ama buyurun seyre</a><br/><br/>üstelik adam gerçek hayatta hiç sigara içmiyor. rivayete göre nikotinsiz, bitkisel/gül özlü bir sigara içiyor ve bir sezonda 3.000 sigara içtiğine dair bir röportajı var.
   entry_channels: anket,tv,sinema,spoiler
@@ -70,7 +70,7 @@ data:
     türkiye'nin artık bir süper güç olduğunu anlamamak
   entry_id:  102478015
   entry_writer: birincianakinskywalker
-  entry_fav_count: 210
+  entry_fav_count: 224
   entry_content: |
     pardon neyin süper gücü.....<br/>200 milyon dolar para bulamadığın için tank palet fabrikasını sattın....<br/><br/>filistin bile seyine takmiyor seni.....<br/><br/>superguc mus.....<br/><br/>bu arada bilgin olsun ; <br/><br/>afganistan vize istiyor senden sayin superguc...
   entry_channels: siyaset,bilim,tarih,ekonomi
@@ -83,18 +83,10 @@ data:
     olması gerekendir. sürekli sınıfta kalanların derslerde yaratacağı olumsuz etkiyi ortadan kaldırmak için iki defa sınıfta kaldıktan sonra okuldan atılma sistemi de gelmelidir. taşra üniversiteleri de liseye çevrilirse her şey çok daha güzel olur.<br/><br/>edit-1: liselerde sınıfta kalma vardı ama çok sınırlı uygulanıyor, öğrencinin geçmesi için çaba harcanıyordu. ortaokulda ise sınıfta kalma yoktu, artık olacak.<br/><br/>edir-2: pek çok mesaj almışım. iki defa sınıfta kalan öğrenci zaten atılıp açık liseye kaydediliyormuş. iyi uygulama, ülkede bazı güzel şeyler de olabiliyor.
   entry_channels: haber,eğitim
 - entry_name: |
-    elif can yetim
-  entry_id:  102442782
-  entry_writer: niye zahmet ettiniz
-  entry_fav_count: 182
-  entry_content: |
-    siyasal islamın ete kemiğe bürünmüş hali.<br/><br/>başı kapalı, ağzından allah, kitap düşmüyor. her lafa allah’ın selamını vererek başlayıp selam ve dua ile bitiriyor ancak mesele hak yemeye, torpil yapmaya <sup class="ab"><a title="(bkz: pardon referans olacaktı)" href="/?q=pardon+referans+olacakt%c4%b1" data-query="pardon referans olacaktı">*</a></sup> gelince o allah kitap selam dua diyen insan gidiyor <a class="b" href="/?q=sakallar+coookk+yakismis">sakallar coookk yakismis</a> diyen garip bir varlık geliyor. insanların arkasından konuşurken evli barklı adama fazla samimi mailler atarken aklına gelmeyenler nedense <a class="b" href="/?q=atan%c4%b1nca">atanınca</a> aklına geliyor çok şükür rabbime diyor. allahtan korkun yok olsa bunları yapmazsın da insan torpille girdiği yer için allah’a şükretmekten utanmıyor mu diyeceğim bunlarda utanma da yok yüzsüz bunlar kaşar olmuşlar artık. <br/><br/>birine benim yönetici olmam lazım diye mail atmayı anlayamıyorum hâlâ nasıl bi kendini bilmezlik nasıl bir şuursuzluk<br/><br/>bu ve bunun gibiler <sup class="ab"><a title="(bkz: akp çocukları)" href="/?q=akp+%c3%a7ocuklar%c4%b1" data-query="akp çocukları">*</a></sup> dini kullanarak işlerini hallediyor hep. sonra da benim başörtülü kardeşimi devlet dairelerine almıyorlardı diye mağdura yatıyorlar.oh ne güzel dünya ya bi de bunlara inanıp oy veren saftirikler var. <br/><br/>elbet vakti gelecek o zaman hepiniz sıcak koltuklarınızı büyük makamlarınızdan defolup gitmek zorunda kalacaksınız. biz de üzülmeyeceğiz sizler için
-  entry_channels: siyaset,haber,havacılık
-- entry_name: |
     türkiye'de artan kürt nefreti
   entry_id:  102467956
   entry_writer: bimin aystisi
-  entry_fav_count: 158
+  entry_fav_count: 159
   entry_content: |
     olm türkler türklerden bile nefret ediyor neden siz kişisel algılıyorsunuz bunu ?<br/><br/>ülkede birbirini seven kaldı mı ?<br/><br/>kendinizi nimetten saymayın bence .
   entry_channels: siyaset
@@ -102,7 +94,7 @@ data:
     wuhan virüsü
   entry_id:  102447680
   entry_writer: asosyalisttt
-  entry_fav_count: 145
+  entry_fav_count: 149
   entry_content: |
     hepimiz hasta ve yataklarda perişanız. hastanede bunun testini yapmıyorlar. şüphelenmiyorlar. domuz gribi testi bile yapmıyorlar. ülkemizde corona olan birinden nasıl haberdar olacağımızı çok merak ediyorum. yolda bayılan mı olacak, kan kusan mı olacak. ayrıca turistik bölgelerde çok fazla çinli var. illa ki bizde de çıkacağını düşünmek mantıksız değil. burda herkes espri peşinde. bu kadar gerizekalı bir topluluk olamaz.
   entry_channels: bilim,sağlık,haber
@@ -110,26 +102,26 @@ data:
     ios'tan android'e geçmek
   entry_id:  102461683
   entry_writer: marikiz
-  entry_fav_count: 112
+  entry_fav_count: 115
   entry_content: |
     orta ya da üst klas bir android cihaza geçiliyorsa zincirleri kırmak, özgürlüğe kavuşmak hissi verir.
   entry_channels: anket,teknoloji
 - entry_name: |
-    günde 3 tane sigara içen insan
-  entry_id:  102444378
-  entry_writer: lapseti
-  entry_fav_count: 104
+    hindistan'da hiç wuhan virüsü ölümü görülmemesi
+  entry_id:  102482797
+  entry_writer: chevron
+  entry_fav_count: 72
   entry_content: |
-    bunun birde ayda yılda bir canı istediğinde içen versiyonu vardır ki, olmak istediğim insandır.
-  entry_channels: sağlık,yeme-içme
+    ilginç bir durum. <br/><br/>wuhan virüsü hindistan’a girince diğer pisliklerin arasında kayboldu galiba amk.
+  entry_channels: sağlık,haber
 - entry_name: |
-    2020 ekonomik krizi
-  entry_id:  102454823
-  entry_writer: ebolaks
-  entry_fav_count: 61
+    uzay sonlu mu sonsuz mu
+  entry_id:  102451626
+  entry_writer: kendimi kandirabilirim
+  entry_fav_count: 65
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>ne kadar öldük bittik diyen varsa etrafımda son model arabalara biniyor<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>(bkz: <a class="b" href="/?q=24+saatte+6+ki%c5%9finin+can%c4%b1na+k%c4%b1ymas%c4%b1">24 saatte 6 kişinin canına kıyması</a>)<br/><br/>insanların öldük bittik demek yerine öldükleri krizdir.
-  entry_channels: siyaset,ekonomi
+    vücudumuzdaki bir bakteri gözünden bu sorunun cevabını aramalıyız. evrenin sonuna ulaştığımızda kendimizi başka bir evrenin en başında bulabiliriz.
+  entry_channels: bilim
 - entry_name: |
     illerin en kötü ilçeleri
   entry_id:  102444212
@@ -139,6 +131,14 @@ data:
     izmir bayındır.<br/>insanları hayındır.
   entry_channels: anket,seyahat
 - entry_name: |
+    22 şubat 2020 van'da corona virüse rastlanması
+  entry_id:  102476986
+  entry_writer: horoz tavuk 200luk
+  entry_fav_count: 59
+  entry_content: |
+    söylenti ama başlık kesinlik içeriyor. ne biçim bir tipsiniz siz ya.
+  entry_channels: sağlık,haber
+- entry_name: |
     loris karius
   entry_id:  102475348
   entry_writer: galdorisilra
@@ -147,13 +147,13 @@ data:
     kaleci diyorlar. şu yediği golü, beni kaleye koysunlar yemem. ayıptır! bu adam resmen liverpool’un, beşiktaş’a attığı 9. gol.
   entry_channels: spor
 - entry_name: |
-    uzay sonlu mu sonsuz mu
-  entry_id:  102451626
-  entry_writer: kendimi kandirabilirim
-  entry_fav_count: 57
+    yemek yapan kadına arkadan sarılan erkek
+  entry_id:  102470315
+  entry_writer: pacificadora
+  entry_fav_count: 51
   entry_content: |
-    vücudumuzdaki bir bakteri gözünden bu sorunun cevabını aramalıyız. evrenin sonuna ulaştığımızda kendimizi başka bir evrenin en başında bulabiliriz.
-  entry_channels: bilim
+    tam bir (bkz: <a class="b" href="/?q=nenem+bulgur+kaynat%c4%b1r%2c+dedem+s.kini+oynat%c4%b1r">nenem bulgur kaynatır, dedem s.kini oynatır</a>) durumu...
+  entry_channels: ilişkiler,yeme-içme
 - entry_name: |
     kalbi kırılmış bir adamın gidebileceği yer
   entry_id:  102455666
@@ -163,37 +163,29 @@ data:
     <a class="b" href="/?q=sahibinden.com">sahibinden.com</a>’da araba bakıp,<br/><br/>- satmaya niyeti olmadığı halde arabasının 2. el piyasasına bakmak, <br/>- asla alamayacağı arabalara kusur bulmak,<br/>- almayacağı araba için son kaça olur diye ilan sahibine telefon açmak, ilanda belirtilmediği halde takas sormak,<br/>- arazi, suv kategorisinde off-road yapmaya niyetlenmek...<br/>- en sonunda cam filmi yaptırmaya karar verip <a class="b" href="/?q=sanayi">sanayi</a>ye gitmek. <br/><br/>ne sandın güzelim!
   entry_channels: ilişkiler
 - entry_name: |
-    hindistan'da hiç wuhan virüsü ölümü görülmemesi
-  entry_id:  102482797
-  entry_writer: chevron
-  entry_fav_count: 46
-  entry_content: |
-    ilginç bir durum. <br/><br/>wuhan virüsü hindistan’a girince diğer pisliklerin arasında kayboldu galiba amk.
-  entry_channels: 
-- entry_name: |
-    22 şubat 2020 van'da corona virüse rastlanması
-  entry_id:  102476986
-  entry_writer: horoz tavuk 200luk
+    alexander sörloth
+  entry_id:  102475406
+  entry_writer: dandanakandan
   entry_fav_count: 45
   entry_content: |
-    söylenti ama başlık kesinlik içeriyor. ne biçim bir tipsiniz siz ya.
-  entry_channels: sağlık,haber
+    vedat muriqi getir götürünü yapar.<br/>not: fb
+  entry_channels: spor
 - entry_name: |
     22 şubat 2020 beşiktaş trabzonspor maçı
   entry_id:  102477295
   entry_writer: detroitfc
-  entry_fav_count: 41
+  entry_fav_count: 43
   entry_content: |
     caner elini kaldirip top istiyo, top ona geliyo oda elini acip nereye atiyim hareketi yapiyo, ulan nereye topu aticagini bilmiyosan niye top istiyosun.
   entry_channels: spor,tv
 - entry_name: |
-    alexander sörloth
-  entry_id:  102475406
-  entry_writer: dandanakandan
-  entry_fav_count: 37
+    usta şoförlerden acemi şoförlere tavsiyeler
+  entry_id:  102457754
+  entry_writer: insanarayistir
+  entry_fav_count: 39
   entry_content: |
-    vedat muriqi getir götürünü yapar.<br/>not: fb
-  entry_channels: spor
+    trafiğe odaklanın, yaptığınız şeyin şakası yok. başka şeylerle ilgilenmeyin. <br/><br/>müzik dinlemek için aracınıza binseniz bile emniyet kemerinizi takın. alışkanlığınız olsun. <br/><br/>ne kadar az frene basarsanız o kadar az gaza basarsınız. fabrika verisi yakıt tüketimini yakalayabilirsiniz. örneğin ileride kırmızı ışık var, önceden gazdan ayağınızı çekin araç fren yapmadan kendiliğinden dursun. ayrıca iyi bir sürücünün vites geçişleri hissedilmez, virajlarda yolcular rahatsız olmaz. aracınızı nazik kullanın. <br/><br/>kurallara uyun. yayalara ve diğer sürücülere saygılı olun. <br/><br/>trafikte sinirlenmeyin. sonuçta karşınızdaki sürücü en fazla trafik kuralını ihlal etmiştir.
+  entry_channels: anket,otomotiv
 - entry_name: |
     abdoulay diaby
   entry_id:  102480789
@@ -206,15 +198,23 @@ data:
     ruh eşin nerede
   entry_id:  102472152
   entry_writer: gokanlam3
-  entry_fav_count: 28
+  entry_fav_count: 29
   entry_content: |
     “mükemmel aşklar yaşamak yerine mükemmel aşıklar arayarak vaktimizi heba ettik.”
   entry_channels: anket,ilişkiler
 - entry_name: |
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  102445078
+  entry_writer: rockpunzel
+  entry_fav_count: 23
+  entry_content: |
+    emrah'ın oğluna bil bakalımda anlatması için gelen ilk kelime<br/>(bkz: <a class="b" href="/?q=baba">baba</a>)
+  entry_channels: tv,magazin
+- entry_name: |
     sergen yalçın
   entry_id:  102479632
   entry_writer: whatdreamsnevercome
-  entry_fav_count: 18
+  entry_fav_count: 19
   entry_content: |
     burak, caner, lens, karius gibi isimleri oynatmayacakmış.<br/>yerlerine diaby ve ljajic'i oynatırsa da annesine sövülebilir, biliyoruz.<br/><br/>kısaca; maçlara 5 kişi falan çıkması bekleniyor.<br/><br/>be amına kodumun ekşicisi. aç beşiktaş'ın 23 kişilik kadrosunu de ki "burak yerine şu, caner yerine bu oynasın" şayet diyemiyorsan bi siktir git allasen.
   entry_channels: spor
@@ -227,18 +227,10 @@ data:
     nedense tek aklıma gelen "kıllı koltuk altları". hepsi avret yerleri başta olmak üzere hep kıllı kıllı dolaşıyorlar gibi resmediliyor zihnimde.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    düşün ki o bunu nasılsa okumayacak
-  entry_id:  102474524
-  entry_writer: iktisadiadam
-  entry_fav_count: 11
-  entry_content: |
-    zaten yüzüne söylediklerimi de duymamıştı.
-  entry_channels: anket,ilişkiler,spoiler
-- entry_name: |
     uğurcan çakır
   entry_id:  102477284
   entry_writer: amariganinoyunu
-  entry_fav_count: 10
+  entry_fav_count: 13
   entry_content: |
     hayatında hiç kaleye geçmemiş o kalenin ebatlarını bilmeyen bazı süzmelerin tüm topların üzerine geldiğini iddia ettiği kalecidir. ne tesadüftür ki manuel neuer için de böyledir genelde toplar üstüne gelir
   entry_channels: spor
@@ -246,10 +238,26 @@ data:
     trabzonspor
   entry_id:  102476551
   entry_writer: azominko
-  entry_fav_count: 10
+  entry_fav_count: 13
   entry_content: |
     o kadar maça giderim, 1 kez olsun siyasi kişilerin lehine tezahürat yapmamışlardır.<br/><br/>götünüzsen uydurmayın amk.
   entry_channels: spor
+- entry_name: |
+    en sevilen çizgi film introsu
+  entry_id:  102482931
+  entry_writer: ok4
+  entry_fav_count: 11
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/o2Z1yLO9C-Q" title="https://youtu.be/o2Z1yLO9C-Q">m.a.s.k</a> yeşil maske değil, herkes hatırlamaz
+  entry_channels: anket,müzik
+- entry_name: |
+    düşün ki o bunu nasılsa okumayacak
+  entry_id:  102474524
+  entry_writer: iktisadiadam
+  entry_fav_count: 11
+  entry_content: |
+    zaten yüzüne söylediklerimi de duymamıştı.
+  entry_channels: anket,ilişkiler,spoiler
 - entry_name: |
     kim milyoner olmak ister
   entry_id:  102482835
@@ -259,14 +267,6 @@ data:
     şu anda yarışan burak adlı yarışmacı ağır bir ameliyat geçirmiş, beyninde bir hasar oluşmuş ve hafıza sorunu yaşıyor. bir önceki soruyu bile hatırlamama gibi ciddi bir sorunu var...<br/>insanlar hakkında yorum yaparken ön yargılı olmayın lütfen sayın yazarlar!
   entry_channels: tv
 - entry_name: |
-    en sevilen çizgi film introsu
-  entry_id:  102482931
-  entry_writer: ok4
-  entry_fav_count: 9
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/o2Z1yLO9C-Q" title="https://youtu.be/o2Z1yLO9C-Q">m.a.s.k</a> yeşil maske değil, herkes hatırlamaz
-  entry_channels: anket,müzik
-- entry_name: |
     bira içmelik arkadaş veritabanı
   entry_id:  102465747
   entry_writer: cevirimanyagi
@@ -275,10 +275,18 @@ data:
     nereden baksan 10 kişinin kadıköy yazdığı veritabanı. e amk üstte birisi yazmış onunla buluşup içsene? yok ama illa hatun olacak o zaman bira içecek arkadaştan sayılıyor değil mi? alemin akıllısı sizsiniz zaten. ondan sonra türk kızının götü niye kalkık.
   entry_channels: anket,ilişkiler,ekşi-sözlük,yeme-içme
 - entry_name: |
+    kimlik kontrolünden yoğun bakıma uzanan hikaye
+  entry_id:  102484444
+  entry_writer: killanan adam
+  entry_fav_count: 8
+  entry_content: |
+    olayın kilit cümlesi "iddiaya göre; burada polislerle yaman kardeşler arasında tartışma çıktı."<br/><br/>kimlik kontrolünde nasıl bir tartışma çıkabilir ki?<br/>50 kere kimlik kontrolüm yapıldı. gösterdim, baktılar kimliği geri verdiler. iyi günler dedim ve yoluma ve devam ettim.
+  entry_channels: haber
+- entry_name: |
     22 şubat 2020 deontay wilder tyson fury maçı
   entry_id:  102446266
   entry_writer: god shammgod
-  entry_fav_count: 7
+  entry_fav_count: 8
   entry_content: |
     normal şartlar altında kazanması gereken isim açık şekilde <a class="b" href="/?q=tyson+fury">tyson fury</a>. ancak şartları normal kılmayan yegane şey, <a class="b" href="/?q=deontay+wilder">deontay wilder</a>'ın pek eşi benzerine rastlanmayan sağ kolu. bir önceki karşılaşmada iki kez knockdown olmasına rağmen otoritelerin çoğu, maçın berabere değil fury galibiyeti ile sonuçlanması kanısındaydı. ama wilder giden maçı fury'i yere yıkarak çevirdi. wilder tarihin en iyi yumruk gücüne sahip mi tartışılır. fakat tarz olarak tek bir yumrukla nakavt etme ihtimali en yüksek isim olabilir. boks tarihi çok fazla sert vuran ağır siklete şahit oldu. <a class="b" href="/?q=mike+tyson">mike tyson</a> da onlardan biriydi ama fizik olarak wilder ile alakaları bile yoktu. tyson oldukça kısa boylu ve hiçbir rakibe karşı reach avantajı olmayan bir boksördü. sert yumruklarını tek seferde değil kombine şekilde rakibine uyguluyordu. <br/><br/>wilder ise ancak bilgisayar oyunlarında yaratabileceğiniz tarzda bir boksör. yunan tanrısı gibi bir fiziği ve aynı oranda iyi bir kol açıklığı var. genellikle haklı olarak dalga geçilen fundamental yeterliliğinin aksine, tek bir sağ direk ile karşısındakine yıldızları saydırabilir. zaten kariyerindeki galibiyetlerin pek çoğu da bu şekilde. bunun en yakın örneği olarak kasım ayındaki ortiz maçına göz atabilirsiniz. 7. round'a kadar ortiz karşısında resmen ezilen wilder, tek bir yumrukla işi bitirmişti<a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/rgcGM4iqJ4E?t=131" title="https://youtu.be/rgcGM4iqJ4E?t=131">.</a><br/><br/>wilder'ın fiziksel avantajlarını artıya çeviremeyeceği yegane rakibi ise fury olabilir. wilder'ın reach avantajının fazlası fury'de de var. ondan daha uzun boya ve kollara sahip. elleri ve ayakları ise wilder'a nazaran çok daha hızlı ve işlevli. fury'nin günümüz ağır sıkletindeki en komple boksör olmaması için tek engel kendisi. eğer kendine çok daha iyi baktığı bir kariyeri olsaydı, onu joshua'nın da wilder'ın da önüne yazmakta zorlanmazdık. joshua'dan çok daha sağlam bir çenesi ve savunması, wilder'dan çok daha sağlam bir tekniği var. zaten halen bu iki ismin üzerine çıkması için şansı ve zamanı var.<br/><br/>bu maç özelinde de fury'nin boksuna wilder'ın tek yumruğundan daha çok güveniyorum. bu sefer de bir beraberlik kararı çıkmasına pek ihtimal vermiyorum. puana kalan her sonuç fury lehine sonuçlanacaktır. bu maç öncesi antrenörünü değiştiren fury'i nakavt için de çok daha agresif görebiliriz. eğer wilder'ın bu maçı da demir yumruğu ile kazanması durumunda ise göt olup gidebiliriz.<br/><br/>2020'nin en iyi boks müsabakası olmaya aday. pazar sabahı türkiye saati ile 08.00 sularında başlayacaktır.
   entry_channels: spor,haber
@@ -286,18 +294,26 @@ data:
     hüseyin çimşir
   entry_id:  102480178
   entry_writer: okuyucu reyis
-  entry_fav_count: 6
+  entry_fav_count: 7
   entry_content: |
     <a class="b" href="/?q=%c3%bcnal+karaman">ünal karaman</a>'ın emek verip hazırladığı kadroyla <a class="b" href="/?q=teknik+direkt%c3%b6r">teknik direktör</a>cülük oynuyor ama çok uzun sürmeyecek bu oyunu. çok bariz bu seviyenin adamı olmadığı.
   entry_channels: spor
 - entry_name: |
     playstation 1'de oynanmış en güzel oyun
-  entry_id:  102484264
-  entry_writer: ucunuzeucumuz
+  entry_id:  102485273
+  entry_writer: orle
+  entry_fav_count: 6
+  entry_content: |
+    <a class="b" href="/?q=crash+team+racing">crash team racing</a>'tir.
+  entry_channels: anket,oyun
+- entry_name: |
+    okan altınay
+  entry_id:  102472971
+  entry_writer: spartacusun donusu
   entry_fav_count: 5
   entry_content: |
-    syphon filter
-  entry_channels: anket,oyun
+    libya'da şehit düşen albayımız.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/batuhancolak33/status/1231243326650830849/photo/1" title="https://twitter.com/batuhancolak33/status/1231243326650830849/photo/1">https://twitter.com/…us/1231243326650830849/photo/1</a><br/><br/>15 temmuz sonrasında "atatürkçü" diye emekli edilmiş, sonrasında da 'ihtiyaç var' denilerek tekrar orduya alınmış.<br/><br/>söyleyecek söz yok.<br/><br/>mekânı cennet olsun.
+  entry_channels: haber
 - entry_name: |
     ekşi itiraf
   entry_id:  102450869
@@ -315,14 +331,6 @@ data:
     gol mol değildir. tinerciler ananinizi tinerle siksin amina kodumun hamsileri. ona buna yarana yarana para almakla nereye gideceksiniz bakalım.
   entry_channels: spor
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  102452183
-  entry_writer: senirsirt
-  entry_fav_count: 3
-  entry_content: |
-    bir çağrışım ile beraber bu şiiri okuma isteği doğdu:<br/><br/>karşı konulmaz güçlerin buyruğu üzre, ozan<br/>geldiğinde bu tatsız, can sıkıcı dünyaya<br/>yumruğunu dehşetle, lanetlerle kaldıran<br/>annesi kafa tutar rahmeti bol tanrıya:<br/><br/>-"nasıl düştü rahmime bu garip varlık benim,<br/>lanet olsun bir anlık arzu gecelerine!<br/>nasıl beslerim onu, nasıl emzireceğim?<br/>engerek doğursaydım bu gudubet yerine!<br/><br/>madem hazin kocamın çöplüğü olmam için<br/>onca kadın içinden beni seçmişsin, tamam,<br/>madem ki bu çelimsiz, cılız canavarı ben<br/>bir aşk mektubu gibi alevlere atamam,<br/><br/>öyle buracağım ki bu pis, sefil ağacı<br/>vebalı goncaları asla açılmayacak!<br/>yanına kalmayacak bana verdiğin acı,<br/>lanetli eserinin üstüne fışkıracak!"<br/><br/>feleğin oyununa gelip kadın, böylece<br/>köpük köpük hıncını, bütün kinini kusar,<br/>eliyle, cehennemin yoğun derinliğinde<br/>suçlu anneler için darağacı hazırlar.<br/><br/>istenmeyen çocuğu bir iyilik meleği<br/>gözetir, koruyucu kanatlarına alır,<br/>gün ışığıyla esrik, her şey, yeyip içtiği,<br/>tanrıların besini, tanrısal içki olur.<br/><br/>rüzgarlar ile oynar, konuşur bulutlarla,<br/>kendinden geçer göksel şarkılar söyleyerek,<br/>onu böyle kimsesiz, kutsal yolculuğunda,<br/>kuşlar gibi neşeli gördükçe ağlar melek.<br/><br/>korkuyla bakar ona sevmek istedikleri,<br/>durgun, sessiz halinden cesaret alıp ya da,<br/>üzerine salarlar her gün birilerini<br/>denerler acımasız vahşetlerini onda.<br/><br/>ayak basmazlar onun ayak bastığı yere,<br/>dokunduğu her şeyi, iki yüzlü, atarlar<br/>içeceği şaraba, yiyeceği ekmeğe<br/>iğrenç tükürükleriyle yoğrulmuş kül katarlar.<br/><br/>evlenir. meydanlarda karısı çığlık atıp<br/>der ki: "madem tapıyor, madem seviyor beni,<br/>tanrılar, putlar gibi adaklarla donatıp<br/>şölenler sunsun bana, göstersin sevgisini.<br/><br/>günnük, misk, ıtırlarla, etlerle, şaraplarla<br/>yanıp yakarışlarla kendimden geçeceğim,<br/>kocam olan aşığın indinde, nazarında<br/>bilmek için ne kadar değerli, çekiciyim.<br/><br/>bu zındık tutkulardan bir gün usanacağım,<br/>narin, güçlü parmaklarım göğsüne konacak<br/>ve kartal cırnakları gibi şu tırnaklarım<br/>onun kalbine doğru kendine yol açacak.<br/><br/>titreyen, çırpınan, küçük yavru bir kuş gibi<br/>o kıpkırmızı kalbi sökeceğim göğsünden<br/>sonra doyurmak için değerli hayvanımı<br/>gülerek fırlatıp önüne atacağım ben!"<br/><br/>duru, aydın usunun geniş şimşeklerinde<br/>öfkeli ulusların o yaban hali saklı,<br/>görkemli, yüce tahtı gördüğü göğe doğru<br/>kaldırır dingin ozan inançlı kollarını:<br/><br/>"iffetsizliğe karşı, şükürler olsun tanrım,<br/>acıyı verdin bize, en iyi ilaç olan,<br/>o acı ki en güzel cevherdir, inanırım,<br/>güçleri kutsal şehvetlere hazırlayan!<br/><br/>"bilirim, ozana da ayırdığın bir yer var,<br/>mutlu sıralarında o kutsal birliklerin,<br/>çağırıyorsun onu ebedi şölenine<br/>tahtların, erdemlerin ve egemenliklerin.<br/><br/>"toprağın, cehennemlerin ısırmayacağı<br/>tek soyluluğumuzdur acı, biliyorum, tek,<br/>ve örmek için başımdaki çelengi, tacı,<br/>çağları, evrenleri vergilendirmek gerek.<br/><br/>"yine de, ne palmyre'in yitik mücevherleri,<br/>ne deniz incileri, bilinmedik madenler,<br/>ozanın başındaki bu gözler kamaştıran,<br/>bu göz alıcı, parlak tacı yapmaya yeter;<br/><br/>"ilk ışınların kutsal ocağından alınmış<br/>katıksız, som ateşten yapılacaktır ozan,<br/>ki ölümsüz gözleri, tüm görkemine karşın,<br/>aynalardır, karanlık aynalardır yakınan!"<br/><br/>charles baudelaire
-  entry_channels: sanat,edebiyat
-- entry_name: |
     şehirlerarası otobüs seyahatinin fark ettirdikleri
   entry_id:  102478320
   entry_writer: tatlisubalinasi
@@ -331,13 +339,21 @@ data:
     artık araba alma zamanının geldiği
   entry_channels: anket,seyahat
 - entry_name: |
-    okan altınay
-  entry_id:  102481349
-  entry_writer: anne ben pilot oldum
+    türk gençlerinin hayalinin memurluk olması
+  entry_id:  102485631
+  entry_writer: papuayenigine02561
   entry_fav_count: 2
   entry_content: |
-    "isabetsiz bir atisti"<br/>"bir kactane sehidimiz var"<br/><br/>yasattiginizi yasamadan olmezsiniz umarim. diyeceklerim bukadar.
-  entry_channels: haber
+    istediğiniz kadar zeki çalışkan potansiyelli olun. türkiye cumhuriyetinde işlerin nasıl yürüdüğünü bilmiyorsanız da öğrenirsiniz. babanızın parası, çevresi, sermayesi yoksa babanız sıradan bi insansa yüzde 99 siz de öyle olacaksınız. alternatifi özelde asgari ücrete veya bi tık üstüne günde 10 saat kölelikse kalsın. yeni mezuna günde 8 saat mesai ile ayda 4 bin veren özel firma görürseniz söyleyin.
+  entry_channels: haber,eğitim
+- entry_name: |
+    geceye bir şiir bırak
+  entry_id:  102479289
+  entry_writer: kaygee
+  entry_fav_count: 2
+  entry_content: |
+    bir insanı unutmak zorunda kaldın mı hiç?<br/>hiç bir insanı unutmak,<br/>bir insandan vazgeçmek,<br/>bir insanı hayatından sonsuza kadar çıkartmak zorunda<br/>kaldın mı hiç?<br/><br/>hani ölmüş gibi,<br/>hani uzatsan da elini tutamayacağını bilmek gibi,<br/>her an kapından içeri gülümseyerek gireceğini bekleyip<br/>ama aslında hiç gelemeyeceğini de bilmen gibi.<br/><br/>ne zor şey değil mi ölmediğini bilmek,<br/>ama ölmüş gibi ulaşılmaz olması artık o insanın sana?<br/>ne kadar katlanılmaz bir gerçek değil mi<br/>sen hala bu kadar sevgili iken?<br/><br/>özlemek,<br/>bu kadar özlemek,<br/>etini kemiğini yakarcasına özlemek...<br/>çok kötü değil mi?<br/><br/>bu kadar özleyip onu görememek,<br/>ona dokunamamak,<br/>onu işitememek ,<br/>artık sonunun "pi" hali değil mi?<br/><br/>biliyorsun değil mi?<br/>ne kadar umutsuz bir arayıştır o,<br/>kalabalık caddede geçen binlerce yüze bakmak<br/>belki bir kez daha görebilmek için o yüzü,<br/>belki biraz önce geçti bu kaldırımdan diye düşünmek,<br/>belki şu an arkamda yürüyen insanların içinde bir yerde demek,<br/>belki şu an üzerimdedir gözleri diye paranoyalar yaşamak<br/>ne zordur değil mi?<br/>ne kadar eritir insanı farketmeden.<br/>sen de biliyorsun değil mi bunları?<br/><br/>bir sinema koltuğunda sen de iki kişi gibi oturdun mu hiç?<br/>hiç iki kişi gibi zevk aldın mı bir konserden yalnız başına?<br/>güzel bir kafe keşfettiğinde,<br/>güzel bir film seyrettiğinde,<br/>güzel bir şarkı dinlediğinde,<br/>güzellikleri oranında eksik kaldıklarını hissettin mi<br/>paylaşamadığın için onunla?<br/><br/>bir barın kalabalığında hiç yarım vücudunla sallandın mı ortada?<br/>hiç iki kişilik beyninle yarım insan olabildin mi?<br/><br/>baktığında aynana sadece yüzünün bir yarısını gördüğün<br/>oldu mu hiç?<br/><br/>sana hayatındaki en büyük yoksunluğu yaşatandan<br/>nefret edemediğin zamanlar oldu mu hiç?<br/><br/>gözünün içine baka baka kolunu bacağını kesen bir insanın yüzüne<br/>sevgi dolu bir gülümseme ile bakabildiğin zamanlar<br/>oldu mu hiç?<br/><br/>hayatta inandığın bütün değerlerini altüst eden birisine<br/>aşk şiirleri yazabildin mi?<br/><br/>onu içinde korumanın seni yok etmek olduğu zamanlara<br/>feda oldun mu hiç?<br/><br/>içinde ağlayan çocuğa umut şarkıları söyleyemediğin,<br/>özlemini, susuzluğunu, açlığını gideremediğin zamanlar oldu mu hiç?<br/><br/>kanayan yarasını gördüğün<br/>ama merhem olamadığın zamanlar.<br/><br/>gücünün, hani o tanrısal gücünün<br/>bir çocuğun ağlamasını susturamayacak kadar olduğunu gördüğün zamanlar<br/>oldu mu hiç?<br/><br/>hiiiiiiiç...<br/><br/>hiiç...<br/><br/>hiç...<br/><br/>bir hiç...<br/><br/>- <a class="b" href="/?q=can+d%c3%bcndar">can dündar</a><br/><br/>"onu içinde korumanın seni yok etmek olduğu zamanlara<br/>feda oldun mu hiç?" of.
+  entry_channels: sanat,edebiyat
 - entry_name: |
     22 şubat 2020 corona virüsünün yurda girişi
   entry_id:  102485190
@@ -347,59 +363,43 @@ data:
     van eğitim ve araştırma hastanesinde çalışan mehmet kadir bartın adlı operatör doktorun yalanladığı söylenti.<br/><br/>kaynak tweet'in altında.
   entry_channels: sağlık,haber
 - entry_name: |
-    türk gençlerinin hayalinin memurluk olması
-  entry_id:  102483676
-  entry_writer: sapla samani gelir zamani
+    içilen en lezzetli su
+  entry_id:  102479931
+  entry_writer: cilgin anamur muzu
   entry_fav_count: 1
   entry_content: |
-    üzücü bir gerçek.<br/>adaletli ve hakedilen parayı veren bir elin parmağından az şirket olduğu için gayet normal olandır.<br/>mesela 'yardımla'<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup> bekçi olan eğitimsiz arkadaşlarımı görünce ben de bazen bekçi olmak istiyorum.
-  entry_channels: 
-- entry_name: |
-    çaylaklardan mesaj bekleyen yazarlar veritabanı
-  entry_id:  102447401
-  entry_writer: eye of god
-  entry_fav_count: 0
-  entry_content: |
-    porno izleyip uyumayi dusunuyorum biseyler yazarsaniz durum degisebilir
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    karşı cinste çekici gelen özellikler
-  entry_id:  102485013
-  entry_writer: askeriucret750tlolsun
-  entry_fav_count: 0
-  entry_content: |
-    memüşlerü.
-  entry_channels: ilişkiler
-- entry_name: |
-    içilen en lezzetli su
-  entry_id:  102458199
-  entry_writer: aluz
-  entry_fav_count: 0
-  entry_content: |
-    duymuşsunuz bir munzur su her yere yazıyorsunuz. bim’de satılan <a class="b" href="/?q=assu">assu</a> ve <a class="b" href="/?q=buzda%c4%9f%c4%b1">buzdağı</a>’nın yanına yaklaşamaz.
+    kabe'de içtiğim zemzem suyudur. ben inançlı biriyim, oruç tutarım, bayram namazına giderim, iyi bir insan olmaya çalışırım. yani tüm emirleri yerine getiremiyorum ama inanıyorum. az çok anlatmaya çalıştım dinle olan durumumu. eskiden hacca veya umreye gidenler getirdiğinde bakardım tadına zemzem suyunun ancak memlekette kuyudan içtiğim suyun yanına bile yaklaşamaz derdim tadına. iş için cidde'de bulunuyorum, geçen hafta cuma tatilinde de mekke'ye gittim. kabe'de namaz kıldım, tavaf ettim ve ikram edilen buz gibi zemzem suyundan içtim. böyle bir tat olamaz. inancınız olsa da, olmasa da mutlaka ama mutlaka kabeyi görün ve ona bakarken zemzem suyundan için, ne demek istediğimi anlayacaksınız.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    geceye bir şarkı bırak
-  entry_id:  102485788
-  entry_writer: sanvernazionale
-  entry_fav_count: 0
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/oqPruMC5gQk">https://youtu.be/oqprumc5gqk</a>
-  entry_channels: anket,müzik
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  102484621
-  entry_writer: sokaktahayatvar
-  entry_fav_count: 0
+  entry_id:  102483737
+  entry_writer: aplikasyon
+  entry_fav_count: 1
   entry_content: |
-    alkollüyüm, dinliyorum. çaylaklara açığım. <a rel="nofollow noopener" class="url" target="_blank" href="https://t.me/edteav" title="https://t.me/edteav">telegram</a> <a rel="nofollow noopener" class="url" target="_blank" href="http://c2.me/edteav" title="http://c2.me/edteav">c2</a>
+    dert sende, derman sende.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
+    cumartesi gecesi evde oturan ezik ve yalnız insan
+  entry_id:  102475508
+  entry_writer: lostgibi
+  entry_fav_count: 1
+  entry_content: |
+    dışarıdan geldim. tam 4 saat arkadaslarla etkinlikteydim. ne mekan ne arkadaslar keyif verdi. eve gelene kadar ayazda kıçım dondu. hava desen bok gibi.<br/>aldım kahvemi kitabımı mis gibi sıcak evimde uzandım koltuğa keyif yapıyorum. <br/>ev konforunun gözünü seveyim.
+  entry_channels: ilişkiler
+- entry_name: |
     bankacı kadınlar
-  entry_id:  102485367
-  entry_writer: derkenar
+  entry_id:  102484939
+  entry_writer: klasikdick
+  entry_fav_count: 1
+  entry_content: |
+    topuklu, etek, plaza dili, makyaj... x bey, y hanım muhabbeti.
+  entry_channels: anket,ekonomi
+- entry_name: |
+    karşı cinste çekici gelen özellikler
+  entry_id:  102485987
+  entry_writer: iyi olmayan gececi
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=fuck+me+shoes">fuck me shoes</a>)
-  entry_channels: anket,ekonomi
+    bir erkek olarak;<br/><br/>eline yüzüne bakılır olması. tatlı bir surat. şirinlik ama aynı zamanda kadınsılık, ikisini bir potada eriten kadınlar var.<br/><br/>insani bir karakter ve özellikler.<br/><br/>günümüz çağının özelliklerine fazla boyun eğmemesi, insani değerlerinin yüksek olması.<br/><br/>sanattan, edebiyattan, sinemadan, insanlıktan ve dünyadan anlaması.<br/><br/>hayatı bilmesi. fakirliği de zenginliği de biliyor olması.<br/><br/>seksi sevmesi.<br/><br/>saygılı, sevgili bir insan olması. açık ve net olması.<br/><br/>"ağbiiii yaaaa" şeklinde konuşmaması.<br/><br/>bonus: esmer olması, ama yukarıda ki özellikleri taşıyan bazı sarışın, kumral veya kızıl hanımlarda ilgimi çekmiyor değil. <br/><br/>bunlar bana çekici geliyor.
+  entry_channels: ilişkiler
 ---
