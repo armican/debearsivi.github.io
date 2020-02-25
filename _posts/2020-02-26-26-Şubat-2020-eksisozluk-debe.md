@@ -6,7 +6,7 @@ data:
     taksicilerin martı scooter için önlem alması
   entry_id:  102613883
   entry_writer: nasil sizofren oldum
-  entry_fav_count: 1746
+  entry_fav_count: 1785
   entry_content: |
     içinde en çok orospu çocuğu barındıran meslek grubunun yeni açıklaması.<br/>izni kim veriyor diye merak etmişler. anan anan.
   entry_channels: ekonomi
@@ -14,7 +14,7 @@ data:
     fox muhabirinin erdoğan'a birkaç şehit sorusu
   entry_id:  102599623
   entry_writer: agitoxin
-  entry_fav_count: 1370
+  entry_fav_count: 1381
   entry_content: |
     adamın kendi ağzından çıkan, kendi söylediği cümleyi sorunca bile suçlu oluyorsun. şaka gibi ama değil.
   entry_channels: siyaset,haber
@@ -22,7 +22,7 @@ data:
     maaşımızın %10'unu devlete bağışlıyoruz kampanyası
   entry_id:  102596490
   entry_writer: gumjjyumjj
-  entry_fav_count: 1234
+  entry_fav_count: 1241
   entry_content: |
     tabi ki bağışlayacağız! emine hanım çantasını yenileyemiyor bu vebalin altından kalkamayız
   entry_channels: siyaset,ekonomi
@@ -30,7 +30,7 @@ data:
     25 şubat 2020 thy uçağının acil iniş yapması
   entry_id:  102604973
   entry_writer: sandiego1
-  entry_fav_count: 774
+  entry_fav_count: 779
   entry_content: |
     thy'nin uçuşları iptal etmemedeki inadını anlayamıyorum. ülkeye virüsü getirip hepimizi gebertmeden rahat edemeyecekler sanırım. dünyayı kasıp kavuran bi virüs var millet olayın ciddiyetini bi türlü anlayamıyor. vasıfsız sıfatsız malın biri çıkar sikindirik videosu için çin'e gider, öbürü tutar der bizim imanımız var dut pekmezi yeyin iyi geliyor . uçak firmaları karantina bölgesinden adam taşır.ölmek için çok mu gayret ediyoruz bana mi öyle geliyor?
   entry_channels: sağlık,haber,ekonomi,havacılık,seyahat
@@ -46,7 +46,7 @@ data:
     tahran uçağı kalkmadan havalimanında yaşanan kavga
   entry_id:  102615902
   entry_writer: oyledusunmuyorum
-  entry_fav_count: 541
+  entry_fav_count: 553
   entry_content: |
     olaydaki haklı haksız konusuna girmeden bir konuya değinmek istiyorum; neden her konuşmamız "bir kadına karşı böyle konuşulmaz, bir kadın toplumda böyle yapmaz, bir erkek bunu yapmalı" gibi konudan bağımsız, anlamsız yerlere çekiliyor?<br/><br/>arkadaşlar doğrusu şudur, insanla konuşmanın bir adabı vardır ve bu adap cinsiyetler üstünde bir adaptır.<br/><br/>kadına bu şekilde davranılır, kadın toplumda bunları yapar, erkek böyle olmalıdır gibi anlamsız muhabbetler insanları konunun dışına iter, dahası bu şekildeki tüm önermeler gereksizdir, toplumdaki "toplumsal cinsiyet" anlayışını, buna göre cinsiyetlere atanan saçma rolleri hat safhaya çıkartır.
   entry_channels: sağlık,haber,havacılık
@@ -54,7 +54,7 @@ data:
     fenerbahçe taraftarının utanç verici bestesi
   entry_id:  102594742
   entry_writer: sozlugunuzelimonsikmayageldim
-  entry_fav_count: 464
+  entry_fav_count: 467
   entry_content: |
     bir galatasaraylı olarak bundan dolayı fenerbahçe'yi suçlamak olmaz. çünkü benzer besteleri her taraftar grubu söylüyor.<br/><br/>türk futbol fanatikleri geneli itibarıyla karaktersiz, kişiliksiz, bok gibi insanlardır. daha düne kadar hayvan çiti gibi sahaya dalmamaları için tribünü telle çeviriyorlardı.
   entry_channels: spor
@@ -62,7 +62,7 @@ data:
     nişanlısını 8 yerinden bıçaklayıp öldüren kadın
   entry_id:  102587524
   entry_writer: cevirimanyagi
-  entry_fav_count: 460
+  entry_fav_count: 463
   entry_content: |
     erkek cinayeti olarak anılmayacak ve feminikler tarafından "allah bilir adam ne yaptı da kız o cinneti geçirdi?" diye savunulacaktır. en kötü ihtimalle ataerkil toplumun kadın üstündeki evlilik baskısı sonucu yapılmış bir hareket falan diye bağlarlar. at fava bekle.
   entry_channels: ilişkiler,haber
@@ -70,7 +70,7 @@ data:
     erkan naldemirci
   entry_id:  102599246
   entry_writer: 1cemil
-  entry_fav_count: 457
+  entry_fav_count: 458
   entry_content: |
     allah, kelam gibi dini sözler kullanıp 10 yaşındaki küçücük çocuğa tecavüz etmekten bahsediyor..hiç mi şaşmaz bu sözde müslüman insanlar be..bu ülkeyi bu hale getiren leş insan topluluğundan sadece biri..
   entry_channels: haber,eğitim
@@ -78,31 +78,31 @@ data:
     21 tl'lik maskeyi 450 tl'ye satmak
   entry_id:  102619023
   entry_writer: cok normal bir insan
-  entry_fav_count: 340
+  entry_fav_count: 373
   entry_content: |
     nasıl bir ahlak, nasıl bir ticaret şeklidir lan bu<br/><br/>28.01.2020 de n11 den 21 tl ye 5 adet aldığım 3m k113 maskeyi 450 tl ye satmaya başlamış aşağılık herifler. <br/><br/>herkes görsün bu rezilliği. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/p2YXpN.jpg" title="https://i.hizliresim.com/p2YXpN.jpg">28.01 tarihi fiyat</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/8XEPOd.jpg" title="https://i.hizliresim.com/8XEPOd.jpg">25.02 tarihi fiyat</a>
   entry_channels: magazin
 - entry_name: |
-    asansörde saldıran pitbull
-  entry_id:  102615808
-  entry_writer: leralond
-  entry_fav_count: 265
-  entry_content: |
-    küçük köpek pitbull inmeden asansörün kapısında beklediği için pitbull u kışkırtmış.küfür bile etmiş olabilir bilemiyoruz.yoksa pitbull dediğimiz hayvan çok sevecen nasıl yetiştirildiyse öyle hareket eder.kimseye zararı yok.
-  entry_channels: haber
-- entry_name: |
     55 liraya 8 paket kuru gıda sos ve içki almak
   entry_id:  102623865
   entry_writer: gorkemgoksu
-  entry_fav_count: 262
+  entry_fav_count: 295
   entry_content: |
     makarna ve 1 adet tuborg amber alarak dünyalara sahip olduğunu düşünen yazar barındırır.
   entry_channels: yeme-içme,ekonomi
 - entry_name: |
+    duanın hiçbir işe yaramaması
+  entry_id:  102587996
+  entry_writer: buralarda11
+  entry_fav_count: 255
+  entry_content: |
+    8 yaşındaki çocuğun tecavüzünü izleyen tanrı, senin o sikik hayatın için ettiğin duaları kabul etmiş ne güzel.<br/><br/>bol bol dualarla çabalamaya devam et sen.
+  entry_channels: siyaset,anket,bilim
+- entry_name: |
     akp'nin gidici olması
   entry_id:  102600975
   entry_writer: gumjjyumjj
-  entry_fav_count: 223
+  entry_fav_count: 243
   entry_content: |
     chp gibi zihniyet gelecekse allah korusun team...<br/>yahu ülke dibe vurmuş halen işleri chp ile..<br/>ne kadınlarımız kaldı, ne çocuklarımız, ne ahlak, ne riyakat<br/>tek dürüst kurum kalmadı<br/>millet borç batağında , insanlar işsiz<br/>babalar kendini asıyor ,yakıyor intihar ediyor<br/>halen chp chp chp<br/>zihniyetiniz batsın
   entry_channels: siyaset
@@ -110,7 +110,7 @@ data:
     monica bellucci ile 1 gece vs norveç vatandaşlığı
   entry_id:  102613464
   entry_writer: excelsior was here
-  entry_fav_count: 176
+  entry_fav_count: 187
   entry_content: |
     türkiye vatandaşı olup 31 çeken tiplerin dert ettiği versus.
   entry_channels: anket
@@ -118,7 +118,7 @@ data:
     kalçasında dövme olan kadınla evlenmek
   entry_id:  102613303
   entry_writer: ned eddard stark
-  entry_fav_count: 165
+  entry_fav_count: 170
   entry_content: |
     how ı met your mother 'da ted mosby bir gece dövmeci bir kızla takılmıştı. sabah uyandığında kalçasının üstünde kelebek dövmesi vardı. kadın - erkek dizideki bütün karakterler dövmeyi gördüğünde' sürtük dövmesi' diye tedle dalga geçtiler. kimin eli kimin cebinde belli olmayan amerikan dizisinde bile bunu diyebiliyorken ekşide aynısını söyleyince orta doğulu oluyorsun :)<br/>not:bu entryde herhangi bir görüş bildirmedim. sadece gözlemlediğim bir ayrıntıyı dile getirdim.<br/>edit:ortadoğulu kelimesi orta doğulu olarak düzeltilmiştir. mesaj atan türk dil kurumu ekşi sözlük çalışanlarına teşekkür ederim.
   entry_channels: ilişkiler
@@ -126,23 +126,15 @@ data:
     fenerbahçe'ye teknik direktör önerileri
   entry_id:  102609413
   entry_writer: tas kagit makas
-  entry_fav_count: 140
+  entry_fav_count: 153
   entry_content: |
     yılmaz vural. artık bir şans verilsin yılmaz hoca'ya.
   entry_channels: spor,anket
 - entry_name: |
-    mavi yakalı olup beyaz yakalı kız istemek
-  entry_id:  102599316
-  entry_writer: sonadora
-  entry_fav_count: 134
-  entry_content: |
-    beyaz yakalıların en güzel göründükleri an; tamirci, tesisatçı... gibi küçümsedikleri işlerle uğraşan biri bunlara geçirdikten sonra, kafalarında "ulan, günde böyle üç iş yapsa..." diye başlayan hesap sonrası, adamın onlardan fazla kazandığını fark etmeleri ve akabinde kendilerini teselli edebilmek için, üst sosyo/kültürel sınıfta olduklarına ikna edecek argümanlar aramaya çalıştıkları andır.<br/><br/>büyük ihtimalle, bu anı ilk kez yaşayan birinin koşup açtığı başlık.<br/><br/>üzme kendini bu kadar. sen beyaz yakalısın, paran yok ama yaşamayı hayattan zevk almayı biliyorsun. gir hadi hemen <a class="b" href="/?q=pegasus">pegasus</a>'un sitesine, belki altı ay sonrasına ucuz bilet falan denk getirirsin. ya da <a class="b" href="/?q=zomato+gold">zomato gold</a>'dan akşam ucuz yemek yiyebileceğin bir yerler bul, yarın anlatırsın "kuşkonmazı çok iyiydi" diye.<br/><br/>(bkz: <a class="b" href="/entry/63467775">beyaz yakalı olmak/#63467775</a>)
-  entry_channels: ilişkiler
-- entry_name: |
     corona türkiye'ye yayıldığında olası açıklamalar
   entry_id:  102615361
   entry_writer: olmazsa nickime kadar
-  entry_fav_count: 128
+  entry_fav_count: 132
   entry_content: |
     eyy corona, insan öldürmeyi senden öğrenecek değiliz.
   entry_channels: anket,sağlık
@@ -150,47 +142,55 @@ data:
     felsefe okursak dinden çıkar mıyız
   entry_id:  102599156
   entry_writer: comar kenan
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     çıkıp, tekrar gir açılmıyorsa servis çağır.
   entry_channels: bilim,tarih,edebiyat,eğitim
 - entry_name: |
-    çaykur'un 924 milyon tl zarar etmesi
-  entry_id:  102620075
-  entry_writer: niye zahmet ettiniz
-  entry_fav_count: 90
-  entry_content: |
-    varlık fonuna devredilmeden önce yani 2015 ve 2016 yılında öngörülenin üstünde bir kâr açıklayan çaykur, varlık fonu’na devredildikten sonra ise bu sefer yıllık öngörülerin uzağında 2017 ve 2018’de zarar açıklıyor. ayrıca 2019un ilk 6 ayında da zarar açıklamış. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/dogrulukpayicom/status/1232231276712808449?s=21" title="https://twitter.com/dogrulukpayicom/status/1232231276712808449?s=21">kaynak</a> <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çaykur, varlık fonu’na ne zaman devredildi? <br/><br/>türkiye varlık fonu, yurt içinde kamuya ait olan varlıkları ekonomiye kazandırmak, dış kaynak temin etmek, sermaye piyasalarında araç çeşitliliği ve derinliğine katkı sağlamak amacıyla 26 ağustos 2016’da kuruldu. şubat 2017’de ise türkiye’nin içinde bulunduğu olağanüstü hâl ve kanun hükmünde kararname yetkisiyle birçok büyük kamu kuruluşu bu fona devredildi. ziraat bankası, borsa istanbul, ptt ve çay işletmeleri genel müdürlüğü (çaykur) da bu fona devredilen kurumlar arasındaydı. <br/><br/>çaykur’un yıllık faaliyet raporlarında açıkladığı gelir tablolarına bakıldığında; şirket, varlık fonuna devredilmeden önce 2015 ve 2016 yılında öngörülenin üstünde kâr ettiği görülmektedir. 2015 yılında 195 milyon tl zarar öngören şirket, yıl sonunda 22,7 milyon tl kâr ederken, 2016 yılı programında 48,3 milyon tl kâr öngörüp, yıl sonunda 82,1 milyon tl kâr açıkladı. varlık fonu’na devredildikten sonra çaykur’un gelir tablolarını incelediğimizde ise bu sefer yıllık öngörülerin uzağında 2017 ve 2018’de kurumun zarar açıkladığı görülüyor. 2017 programında 173,6 milyon tl kâr elde edeceğini öngören kurum, 267,7 milyon tl zarar açıkladı. 2018 yılında ise 42,3 milyon tl kâr elde edeceğini öngören çaykur, yıl sonunda tam 657,1 milyon tl zarar açıkladı. yani 2017 ve 2018 yıllarında toplam 924 milyon zarar açıkladı. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dünyanın en çok çay içen toplumlarından biriyiz ama devletimizin çay kurumu varlık fonuna devredildikten sonra “nedense” zarar üstüne zarar açıklıyor bu da akıllara özeleştirmeye hazırlık mi yapılıyor sorusunu getiriyor. <br/><br/>yalnız ye ye bitmedi ne büyük ülkeymişiz biz baksanıza şu sayılara<br/><br/>türkiye varlık fonu'na devredilen çaykur:<br/>2017 yılında : 267 milyon ?<br/>2018 yılında : 657 milyon ?<br/>2019 6 ayda : 369 milyon ?<br/>toplam: 1 milyar 293 milyon ? zarar etti<br/><br/>günde 300 milyon bardak çay içtiğimiz halde çaykur'a bu kadar zarar ettirebilen yöneticilerimizi kutluyorum.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     tedx'in gülben ergen'i konuşmacı yapması
   entry_id:  102621950
   entry_writer: melchoir
-  entry_fav_count: 89
+  entry_fav_count: 97
   entry_content: |
     - evli bir erkek nasil ayartilir?<br/>- evliyken kocayi caktirmadan aldatmanin ipuclari nelerdir?<br/>- kacamak yapmaya giris.<br/>- doyumsuzlugun, ask kadini baglaminda incelenip temiz ahlaki bir zemine cekilmesi.<br/><br/>vb... konu basliklari olmasi durumunda isabetli olan bir konusma olacaktir.
   entry_channels: haber
 - entry_name: |
-    dünya nüfusunun azalması gerekliliği
-  entry_id:  102609609
-  entry_writer: ravinrabbid
-  entry_fav_count: 78
-  entry_content: |
-    (bkz: <a class="b" href="/entry/102609388">#102609388</a>)<br/><br/>arkadaşlar bakın bu popülizmdir, ucuz muhabbettir, yaşınız 15'in üzerindeyse yapmayın. azıcık kafası çalışan, aklı başında insan dünya nüfusunun azalması gerekliliğini tartışmaz bile zaten, tartışılacak tek şey, bundan sonrası için nüfus planlamasının nasıl olacağıdır. kimse kalkıp da "insanların yarısı ölsün" demiyor, ama böyle gitmeyeceğini görmeyecek kadar da eksik akıllı değilsinizdir, değil mi?<br/><br/>gezegenin iklimini bozduk, kaynaklarını tükettik, sürdürülebilirliğin anasını ağlattık, çok matahmışız gibi sürekli çoğalıyoruz bir de. virüs gibi, bakteri gibi, düşünmeden, tartmadan çoğalıyoruz tür olarak. bunun önüne geçilmesin mi? torunlarımız 20 milyar kişiyle birlikte anası ağlamış bir gezegende mi yaşasın? aşırı kalabalığın sonuçlarını görmek için hindistan ve çin'e bakmanız yeterli zaten.<br/><br/>"şu şu önlemler alınırsa nüfus artışına rağmen sürdürülebilir yaşayabiliriz" diyen varsa buyursun, sunsun argümanlarını konuşalım da şu platformda, böyle ciddi bir konuda hâlâ liseli gibi "aynısını anana bacına yapsalar" seviyesinde muhabbet yapmayın lütfen, insanların zekalarına hakaret etmeyin.
-  entry_channels: ilişkiler,bilim,sağlık
-- entry_name: |
     erkeğin göğsünde uyuyan kadın
   entry_id:  102624501
   entry_writer: pracht
-  entry_fav_count: 77
+  entry_fav_count: 96
   entry_content: |
     dünyanın en mutlu kadınıdır. ya da öyle olması gerekendir. çünkü sevgilisi dokunabileceği kadar yakınında, yanı başındadır. fotoğraflara, mutlu anılara gömülmez. sevdiğinin o an ne yaptığını, ne düşündüğünü, iyi olup olmadığını merak ederek acı duymaz. ufak tefek dertleri unutup o anın güzelliğini yaşaması gerekendir.
   entry_channels: ilişkiler
 - entry_name: |
+    çaykur'un 924 milyon tl zarar etmesi
+  entry_id:  102620075
+  entry_writer: niye zahmet ettiniz
+  entry_fav_count: 95
+  entry_content: |
+    varlık fonuna devredilmeden önce yani 2015 ve 2016 yılında öngörülenin üstünde bir kâr açıklayan çaykur, varlık fonu’na devredildikten sonra ise bu sefer yıllık öngörülerin uzağında 2017 ve 2018’de zarar açıklıyor. ayrıca 2019un ilk 6 ayında da zarar açıklamış. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/dogrulukpayicom/status/1232231276712808449?s=21" title="https://twitter.com/dogrulukpayicom/status/1232231276712808449?s=21">kaynak</a> <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>çaykur, varlık fonu’na ne zaman devredildi? <br/><br/>türkiye varlık fonu, yurt içinde kamuya ait olan varlıkları ekonomiye kazandırmak, dış kaynak temin etmek, sermaye piyasalarında araç çeşitliliği ve derinliğine katkı sağlamak amacıyla 26 ağustos 2016’da kuruldu. şubat 2017’de ise türkiye’nin içinde bulunduğu olağanüstü hâl ve kanun hükmünde kararname yetkisiyle birçok büyük kamu kuruluşu bu fona devredildi. ziraat bankası, borsa istanbul, ptt ve çay işletmeleri genel müdürlüğü (çaykur) da bu fona devredilen kurumlar arasındaydı. <br/><br/>çaykur’un yıllık faaliyet raporlarında açıkladığı gelir tablolarına bakıldığında; şirket, varlık fonuna devredilmeden önce 2015 ve 2016 yılında öngörülenin üstünde kâr ettiği görülmektedir. 2015 yılında 195 milyon tl zarar öngören şirket, yıl sonunda 22,7 milyon tl kâr ederken, 2016 yılı programında 48,3 milyon tl kâr öngörüp, yıl sonunda 82,1 milyon tl kâr açıkladı. varlık fonu’na devredildikten sonra çaykur’un gelir tablolarını incelediğimizde ise bu sefer yıllık öngörülerin uzağında 2017 ve 2018’de kurumun zarar açıkladığı görülüyor. 2017 programında 173,6 milyon tl kâr elde edeceğini öngören kurum, 267,7 milyon tl zarar açıkladı. 2018 yılında ise 42,3 milyon tl kâr elde edeceğini öngören çaykur, yıl sonunda tam 657,1 milyon tl zarar açıkladı. yani 2017 ve 2018 yıllarında toplam 924 milyon zarar açıkladı. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>dünyanın en çok çay içen toplumlarından biriyiz ama devletimizin çay kurumu varlık fonuna devredildikten sonra “nedense” zarar üstüne zarar açıklıyor bu da akıllara özeleştirmeye hazırlık mi yapılıyor sorusunu getiriyor. <br/><br/>yalnız ye ye bitmedi ne büyük ülkeymişiz biz baksanıza şu sayılara<br/><br/>türkiye varlık fonu'na devredilen çaykur:<br/>2017 yılında : 267 milyon ?<br/>2018 yılında : 657 milyon ?<br/>2019 6 ayda : 369 milyon ?<br/>toplam: 1 milyar 293 milyon ? zarar etti<br/><br/>günde 300 milyon bardak çay içtiğimiz halde çaykur'a bu kadar zarar ettirebilen yöneticilerimizi kutluyorum.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    bahçelievler devlet hastanesi karantina
+  entry_id:  102622224
+  entry_writer: 33derece
+  entry_fav_count: 88
+  entry_content: |
+    yok 50 derece ateş.<br/>42 dereceden sonra hücre mi kalır adamda? sallıyorsan düzgün salla.
+  entry_channels: siyaset
+- entry_name: |
+    dünya nüfusunun azalması gerekliliği
+  entry_id:  102609609
+  entry_writer: ravinrabbid
+  entry_fav_count: 80
+  entry_content: |
+    (bkz: <a class="b" href="/entry/102609388">#102609388</a>)<br/><br/>arkadaşlar bakın bu popülizmdir, ucuz muhabbettir, yaşınız 15'in üzerindeyse yapmayın. azıcık kafası çalışan, aklı başında insan dünya nüfusunun azalması gerekliliğini tartışmaz bile zaten, tartışılacak tek şey, bundan sonrası için nüfus planlamasının nasıl olacağıdır. kimse kalkıp da "insanların yarısı ölsün" demiyor, ama böyle gitmeyeceğini görmeyecek kadar da eksik akıllı değilsinizdir, değil mi?<br/><br/>gezegenin iklimini bozduk, kaynaklarını tükettik, sürdürülebilirliğin anasını ağlattık, çok matahmışız gibi sürekli çoğalıyoruz bir de. virüs gibi, bakteri gibi, düşünmeden, tartmadan çoğalıyoruz tür olarak. bunun önüne geçilmesin mi? torunlarımız 20 milyar kişiyle birlikte anası ağlamış bir gezegende mi yaşasın? aşırı kalabalığın sonuçlarını görmek için hindistan ve çin'e bakmanız yeterli zaten.<br/><br/>"şu şu önlemler alınırsa nüfus artışına rağmen sürdürülebilir yaşayabiliriz" diyen varsa buyursun, sunsun argümanlarını konuşalım da şu platformda, böyle ciddi bir konuda hâlâ liseli gibi "aynısını anana bacına yapsalar" seviyesinde muhabbet yapmayın lütfen, insanların zekalarına hakaret etmeyin.
+  entry_channels: ilişkiler,bilim,sağlık
+- entry_name: |
     ekşi itiraf
   entry_id:  102586551
   entry_writer: kararliadam
-  entry_fav_count: 75
+  entry_fav_count: 79
   entry_content: |
     daha birkaç saat önce, eşini yeni kaybetmiş yaşlı bir amca ile sohbet etme şansım oldu. anladım ki hem eşini hem de hikayesini birine anlatmayı oldukça özlemiş. sabırla ve heyecanla dinledim bu yüzden. gözleri nemli bir şekilde anlattığı hikayesini ise hiç beklemediğim bir şekilde cengiz aytmatov'un şu güzel sözleriyle bitirdi: "gün gelir ve anlar ki insan; yaşadığı her şey bir yalandır. geriye, vazgeçemediği bir aşk ve kabullenemediği bir yalnızlık kalır." sanırım bu gece, uzunca bir şekilde bunu düşüneceğim. ne yazık ki biraz dağıldım.
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -203,29 +203,13 @@ data:
     sene 2020 olmuş, hala dua edin diyenler var. tamam inanç önemli bir şey ama epidemiden kurtulmanın yolu nasıl dua olabilir, nasıl bir kafa bu? bütün dinlerdeki bütün dualar bir penisilin etmez. açın dünya tarihine bakın da doğan her 5 çocuktan 3'ünün 2 yaşını göremeden öldüğü dönemleri görün de ibret alın biraz. o zamankilerin duası dua değil miydi? çok değil 40 sene önce ülkenin doğusunda bile saçma sapan çocuk hastalıklarından her aileden 1-2 çocuk ölüyordu -bu sayı benim ailemde 3, din kültürü hocası olan amcamın ailesinde 2. dua etmeyi pek bilmiyordu herhalde. <br/><br/>aklınızı başınıza devşirin, dinin yarışabileceği tek ilaç narkozdur.
   entry_channels: bilim,sağlık,haber
 - entry_name: |
-    bahçelievler devlet hastanesi karantina
-  entry_id:  102622224
-  entry_writer: 33derece
-  entry_fav_count: 61
-  entry_content: |
-    yok 50 derece ateş.<br/>42 dereceden sonra hücre mi kalır adamda? sallıyorsan düzgün salla.
-  entry_channels: siyaset
-- entry_name: |
     kadınların doğaüstü yetenekleri
   entry_id:  102621311
   entry_writer: kalorifer borusu
-  entry_fav_count: 57
+  entry_fav_count: 65
   entry_content: |
     girdiği ortamlara medeniyet katmaları.<br/><br/>geçen kuaförde derbi muhabbeti dönüyor "bugün size öyle çakıcaz böyle sokucaz eğeğelğeğe" herkesin elinde sopa eğeğpeğvğüe diye takılırken; <br/><br/>içeriye bi kadın müşteri geldi ilk defa bi berber tarafından "canım" sıfatıyla çağırıldım. sıfatlar değişti, kokular değişti, müzikler değişti, çiçekler açtı. ortama medeniyet geldi. eğeğeleleğciler birden "ah şekerim futbol zaten kitlelerin afyonudur akşam iyi olan kazansın federer nasıl yaşlanmıyor ya bu yaşta bu performans inanılmaz, ah kobe çok erkendi be..."cilere döndü
   entry_channels: anket,ilişkiler
-- entry_name: |
-    ekşi sözlük iş ağı
-  entry_id:  102622601
-  entry_writer: mugallit beyden inciler
-  entry_fav_count: 51
-  entry_content: |
-    yaklaşık 10 yıldır konya'nın bir ilçesinde yerel bir gazetede muhabir olarak çalışıyordum. takdir edersiniz ki konya'da iktidar yanlısı bir gazeteci değilseniz barınmanız pek mümkün değil. benim şansım, beraber çalıştığım gazete sahibinin iktidar yalakası olmamasıydı. hal böyle oluncada destek minimuma iniyor. belediyeler veya diğer kurumlar diğer gazetelere ilan verirken sizi es geçiyor. sadece kanunen almaya hakkınız olan resmi ilanları alabiliyorsunuz. hal böyle olunca asgari ücretin biraz üzerinde bir ücretle ayakta kalmaya çalılıyorsunuz. gazetenin sahibine de o kadar ücret kalıyor. bugüne kadar durumu bir şekilde idare ettim ancak artık durum çıkmaza girmeye başladı.<br/><br/>bunun yanı sıra eşim okul öncesi öğretmeni. yıllardır uğraşıyor ancak bir türlü atanamadı. bu yüzden milli eğitimde öğretmen açığı olduğu dönemlerde ücretli öğretmen olarak çalışıyordu. birkaç gün önce yerine kadrolu bir öğretmen geldiği için kapının önüne kondu. burada çalışacağı çok bir kreş vb özel eğitim kurumları da yok. <br/><br/>bu yüzden eşimin rahat bir şekikde iş bulabileceğini düşünerek önce konya il merkezine taşınmayı planladık ama toplumun büyük çoğunluğuyla aynı düşünmüyorsanız yaşam zorlaşıyor. ruhunuz daralıyor. insanların konuştukları düşünceleri ruhunuzu daraltıyor. açık hava hapishanedesiniz gibi oluyor. onlar gibi düşünmüyorsanız asla saygı görmüyorsunuz ve dışlanıyorsunuz. bunun yanı sıra sosyal yaşam çok kötü. hiç bir doğal güzellik barındırmıyor. insanlar birbirine karşı çok soğuk. mesela sabah yolda yürürken karşılaştığınız insanlar tanıdığınız değilse size günaydın demediği gibi yüzünüze bile bakmıyor.<br/><br/>bizde başka bir yerde yeni bir hayat kuracaksak bunu daha mutlu yaşayabileceğimiz bir yerde kuralım diye düşündük. araştırmalarıma göre çalışan kadın nüfusu izmir'de fazla olduğu için kreş sayısı fazla. dolayısıyla eşim içşn iş imkanı da fazla. ayrıca izmir'i seviyoruz.<br/><br/>çok yüksek beklentilerimiz yok. gazetecilik mesleğimi yapmaya devam edebilsem yok sevinirim ama radikal kararlar alacağız. herhangi bir asgari ücretli işte çalışmaya da razıyım. eşime de bir kreşte iş bulmayı planlıyoruz. maddi olarak belki çok istediğimizi elde edemeyebiliriz ama konyada'da dört dörtlük yaşamıyoruz. düşük yaşam standartlarıyla yaşasak bile en azından daraldığınızda inip bir deniz havası alabilirsiniz. daha sosyal insanların bulunduğu bir toplumda yaşayabiliriz.<br/><br/>bu yüzden izmir'de hem kendim hem eşim için iş arıyorum. yardımcı olabilecek yazarlar varsa seviniriz.
-  entry_channels: ekşi-sözlük
 - entry_name: |
     elif can yetim
   entry_id:  102586594
@@ -235,18 +219,18 @@ data:
     iş ahlakından yoksun kadın. genel ahlakı da sorgulanır. <br/><br/>beddua ile.
   entry_channels: siyaset,haber,yeme-içme
 - entry_name: |
-    sabahattin ali
-  entry_id:  102588149
-  entry_writer: bub
-  entry_fav_count: 44
+    tercih edilmiş yalnızlık
+  entry_id:  102586845
+  entry_writer: mayzen
+  entry_fav_count: 45
   entry_content: |
-    bugün 113 yaşında olan, canımın içi yazar. <br/>iyi ki doğdun sabahattin ali.
-  entry_channels: tarih,edebiyat
+    belki de insan sevmeyi bilmediğinden değil, sevgisine layık biri olmadığından yalnızdır.<br/>o biri gelene kadar da bekleyecektir.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     ahlaksızlığı modernlik olarak gören ekşici
   entry_id:  102626241
   entry_writer: luckystr1ke
-  entry_fav_count: 36
+  entry_fav_count: 40
   entry_content: |
     kendi ahlak kurallarını norm sananların yargıladığı ekşicidir.
   entry_channels: ilişkiler,ekşi-sözlük
@@ -254,7 +238,7 @@ data:
     tutunamayanlar (dizi)
   entry_id:  102615163
   entry_writer: akm7
-  entry_fav_count: 28
+  entry_fav_count: 33
   entry_content: |
     ilk bölümünden itibaren severek izlediğim dizi.bugün yanılmıyorsam 7. bölümü yayınlanacak.<br/>geçtiğimiz bölümde internet ortamında ünlenen, nargile ile saçma sapan resimler çekilen , videolar yayınlayan , ne iş yaptığı belirsiz ,seri köz getirci (bkz: <a class="b" href="/?q=erzin+soylu">erzin soylu</a>) oynatıldı.<br/>bu bölüm fragmanında ise gördüğümüz kadarı ile yine internette çektiği videolar ile ünlenen (bkz: <a class="b" href="/?q=nalet+bebe">nalet bebe</a>) ve yine aynı şekilde ünlü olan koreli (bkz: <a class="b" href="/?q=chabyhan">chabyhan</a>)oynatılmış.<br/>bunlara galiba youtuber deniliyor.böyle devam ederse ben bundan sonra bu diziyi izlemem.<br/>ülkede bu kadar tiyatroya gönül vermiş genç dururken , saçma salak videolar çekerek ünlenen insanlar oyuncu diye dizilerde rol bulmamalı.<br/>bunları seven instagram'da , youtube'da takip ediyor zaten.koskoca devlet televizyonunda oynanan dizide rol almak bu kadar kolay olmamalı.
   entry_channels: tv,edebiyat
@@ -262,7 +246,7 @@ data:
     ahmet ercanlar
   entry_id:  102623686
   entry_writer: furkan1864
-  entry_fav_count: 21
+  entry_fav_count: 24
   entry_content: |
     bu meczubun 3 gram aklı kalmıştı onuda pazar akşamı kaybetti.
   entry_channels: spor
@@ -270,10 +254,18 @@ data:
     2003 arsenal vs 2011 barcelona vs 2020 liverpool
   entry_id:  102624223
   entry_writer: cedric bakambu
-  entry_fav_count: 21
+  entry_fav_count: 23
   entry_content: |
     2011 barcelona bu iki takıma karşı deplasmanda yedekleriyle en kötü 1-0 2-0 falan yenilir,camp nou'da ise elini kolunu sallayarak prime messi ve xavi iniesta önderliğinde 5 atıp yollar.
   entry_channels: spor,anket
+- entry_name: |
+    şu an hissedilen duygu
+  entry_id:  102587138
+  entry_writer: dik dur ve gulumse
+  entry_fav_count: 18
+  entry_content: |
+    dipsiz kuyuda gibi.. mutsuz ama mutluymuş rolü yapmak zorunda kalıyor gibi..çünkü her zaman eğlenmeliyiz.. kendimi çok kötü hissediyorum. geçmişle bugün karışıyor ve bana nefes aldırmıyor zaman zaman..gözyaşlarım süzülüyor sonrasında ani bir rahatlama ve 'boşver her şeyi!' hissi geliyor ama kısa sürüyor. <br/>şimdi ne durumda olduğumu bilmiyorum aslında. duygularım ordan oraya savruluyor.
+  entry_channels: anket
 - entry_name: |
     cennette erkeklere tüysüz oğlan verilme rezilliği
   entry_id:  102615224
@@ -283,53 +275,29 @@ data:
     gılmanların sikilmek için olmadığını iddia edenler hurilerin sikilmek için olduğunu nereden okuyup anlamışlar acaba? hem zaten atalarımız ne demiş sekreterini siken daktilosunu kendi yazar.
   entry_channels: ilişkiler
 - entry_name: |
-    babaannenin kullandığı mükemmel sözler
-  entry_id:  102592460
-  entry_writer: aklagel
-  entry_fav_count: 18
-  entry_content: |
-    anneanneanne:<br/><br/>— karacıklar zıplaşıyor.<br/><br/>(televizyonda nba müsabakası yayımlanmaktadır.)
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    şu an hissedilen duygu
-  entry_id:  102587138
-  entry_writer: dik dur ve gulumse
-  entry_fav_count: 17
-  entry_content: |
-    dipsiz kuyuda gibi.. mutsuz ama mutluymuş rolü yapmak zorunda kalıyor gibi..çünkü her zaman eğlenmeliyiz.. kendimi çok kötü hissediyorum. geçmişle bugün karışıyor ve bana nefes aldırmıyor zaman zaman..gözyaşlarım süzülüyor sonrasında ani bir rahatlama ve 'boşver her şeyi!' hissi geliyor ama kısa sürüyor. <br/>şimdi ne durumda olduğumu bilmiyorum aslında. duygularım ordan oraya savruluyor.
-  entry_channels: anket
-- entry_name: |
-    geceye bir şiir bırak
-  entry_id:  102590326
-  entry_writer: opsunsenizekimuren
-  entry_fav_count: 6
-  entry_content: |
-    sezen aksu dinlerken, bir kez daha vuruldugum siire denk gelmisken yazmamak olmaz. <br/><br/>bende hiç tükenmez bir hayat vardı<br/>kırlara yayılan ilkbahar gibi<br/>kalbim hiç durmadan hızla çarpardı<br/>göğsümün içinde ateş var gibi<br/><br/>bazı nur içinde, bazı sisteyim<br/>bazı beni seven bir göğüsteyim<br/>kah el üstündeydim, kah hapisteydim<br/>her yere sokulan bir rüzgar gibi<br/><br/>aşkım iki günlük iptilalardı<br/>hayatım tükenmez maceralardı<br/>içimde binlerce istekler vardı<br/>bir şair, yahut bir hükümdar gibi<br/><br/>hissedince sana vurulduğumu<br/>anladım ne kadar yorulduğumu<br/>sakinleştiğimi, durulduğumu<br/>denize dökülen bir pınar gibi<br/><br/>şimdi şiir bence senin yüzündür<br/>şimdi benim tahtım senin dizindir<br/>sevgilim, saadet ikimizindir<br/>göklerden gelen bir yadigar gibi<br/><br/>sözün şiirlerin mükemmelidir<br/>senden başkasını seven delidir<br/>yüzün çiçeklerin en güzelidir<br/>gözlerin bilinmez bir diyar gibi<br/><br/>başını göğsüme sakla sevgilim<br/>güzel saçlarında dolaşsın elim<br/>bir gün ağlayalım, bir gün gülelim<br/>sevişen yaramaz çocuklar gibi<br/><br/>(bkz: <a class="b" href="/?q=sabahattin+ali">sabahattin ali</a>) <br/>(bkz: <a class="b" href="/?q=%c3%a7ocuklar+gibi">çocuklar gibi</a>)
-  entry_channels: sanat,edebiyat
-- entry_name: |
     koronavirüs yayılırken dinlenecek müzik
   entry_id:  102621913
   entry_writer: ilkercruiser
-  entry_fav_count: 5
+  entry_fav_count: 9
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/9L7mZH2u3Qc" title="https://youtu.be/9L7mZH2u3Qc">resident evil main title theme</a>
   entry_channels: anket,müzik
 - entry_name: |
-    tercih edilmiş yalnızlık
-  entry_id:  102587643
-  entry_writer: calimera
-  entry_fav_count: 4
+    kara deliğin içinde ne var
+  entry_id:  102629415
+  entry_writer: voyager altin plak
+  entry_fav_count: 9
   entry_content: |
-    arka planında pişmanlıklar barındıran konforlu bir seçimdir
-  entry_channels: anket,ilişkiler
+    "bok var," şeklinde yanıtlanabilecek soru tümcesi.<br/><br/>(bkz: <a class="b" href="/?q=kara+deli%c4%9fin+i%c3%a7inde+olan+%c5%9fey">kara deliğin içinde olan şey</a>)<br/><br/>kara deliğin içinde hiçbir şey yoktur, oldukça kuvvetli çekim gücünden başka. dolayısıyla da içerisi tamamen siyahtır. siyah, oldukça yüksek bir çekim kuvveti. sizi milisaniyeler içinde vücudunuzdaki tek bir atomun çekirdeği boyutuna ufaltabilecek bir çekim kuvveti.<br/><br/>ek: (bkz: <a class="b" href="/?q=kara+deli%c4%9fin+i%c3%a7i">kara deliğin içi</a>)
+  entry_channels: anket,bilim
 - entry_name: |
-    kadınların memleket meselelerini şeyapmaması
-  entry_id:  102628709
-  entry_writer: avdil
-  entry_fav_count: 4
+    geceye bir şiir bırak
+  entry_id:  102590326
+  entry_writer: opsunsenizekimuren
+  entry_fav_count: 7
   entry_content: |
-    maalesef, kadınların çoğunluğu apolitiktir. dünya savaşı çıksa, haberini kocalarından ya da babalarından öğrenirler.
-  entry_channels: siyaset
+    sezen aksu dinlerken, bir kez daha vuruldugum siire denk gelmisken yazmamak olmaz. <br/><br/>bende hiç tükenmez bir hayat vardı<br/>kırlara yayılan ilkbahar gibi<br/>kalbim hiç durmadan hızla çarpardı<br/>göğsümün içinde ateş var gibi<br/><br/>bazı nur içinde, bazı sisteyim<br/>bazı beni seven bir göğüsteyim<br/>kah el üstündeydim, kah hapisteydim<br/>her yere sokulan bir rüzgar gibi<br/><br/>aşkım iki günlük iptilalardı<br/>hayatım tükenmez maceralardı<br/>içimde binlerce istekler vardı<br/>bir şair, yahut bir hükümdar gibi<br/><br/>hissedince sana vurulduğumu<br/>anladım ne kadar yorulduğumu<br/>sakinleştiğimi, durulduğumu<br/>denize dökülen bir pınar gibi<br/><br/>şimdi şiir bence senin yüzündür<br/>şimdi benim tahtım senin dizindir<br/>sevgilim, saadet ikimizindir<br/>göklerden gelen bir yadigar gibi<br/><br/>sözün şiirlerin mükemmelidir<br/>senden başkasını seven delidir<br/>yüzün çiçeklerin en güzelidir<br/>gözlerin bilinmez bir diyar gibi<br/><br/>başını göğsüme sakla sevgilim<br/>güzel saçlarında dolaşsın elim<br/>bir gün ağlayalım, bir gün gülelim<br/>sevişen yaramaz çocuklar gibi<br/><br/>(bkz: <a class="b" href="/?q=sabahattin+ali">sabahattin ali</a>) <br/>(bkz: <a class="b" href="/?q=%c3%a7ocuklar+gibi">çocuklar gibi</a>)
+  entry_channels: sanat,edebiyat
 - entry_name: |
     ekşi sözlük'te 1 takipçisi olan yazar
   entry_id:  102623905
@@ -339,29 +307,37 @@ data:
     sıfır ?
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    ruh eşin nerede
-  entry_id:  102586789
-  entry_writer: cabuse
-  entry_fav_count: 2
-  entry_content: |
-    başkasının koynunda, ama birbirimize ait olduğumuzu biliyoruz. işin kötü yanı ise telepatik olarak anlaşıyoruz ne tuhaf değil mi?<br/><br/>birbirimizin olacağı günü bekliyoruz gibi görünüyor fakat o yol engebeli ve onun dışında da bir ton hikaye...
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    how i met your mother'dan akılda kalanlar
-  entry_id:  102620645
-  entry_writer: arcadio nasar
-  entry_fav_count: 2
-  entry_content: |
-    (bkz: <a class="b" href="/?q=swarley">swarley</a>) ve barney’in bu addan kurtulmak için yaptıkları. <br/><br/>yine barney’in kanada’yla sürekli t*şak geçmesi. <br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>bölümü hatırlamıyorum, robin abd vatandaşı olmak için hazırlanıyor, memleket hasretine dayanamayıp sarhoş bir şekilde kendini kanada’da buluyordu. <br/>barney de onu geri getirmek için kanada’ya gidip oradaki bir cafede, kanadalıların yüzüne yüzüne, kanada’yla dalga geçiyor. (adamlara kravatını gösterip, onlara: “bu bir kravat.” diyor mesela.) dayak yemiş ve kanada’da tedavi olmuş bir şekilde new york’a döndüğünde robin’e söylediği söz şu: tüm tedavilerimi bedava yaptı enayiler. sanırım kanada o kadar da kötü bir yer değil. bir gün belki bir ülke bile olabilirler. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: anket,tv,spoiler
-- entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
   entry_id:  102586559
   entry_writer: fux
-  entry_fav_count: 2
+  entry_fav_count: 3
   entry_content: |
     topluca dertleşmek, sohbet etmek isteyen başka da bir şey istemeyen insanlar olarak anonim takılacağımız discord sunucusu kurduk. ama biz konuşmuyoruz, sadece yazıyoruz. derdi olan varsa dinliyor yoksa da muhabbet ediyoruz. akşamları saat 21:00 - 02:00 arası bekliyoruz. şimdilik pek kalabalık olmuyor, girince hemen alışıyorsun.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://discord.gg/JsxcsnE">https://discord.gg/jsxcsne</a>
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    2050 yılına kadar kaybolacak meslek dalları
+  entry_id:  102629790
+  entry_writer: cadillac
+  entry_fav_count: 3
+  entry_content: |
+    siz yine beklentiyi büyük tutmayın. 90larda olup da 2020 de ölen meslekleri bir düşünün. <br/><br/>evet yapay zeka çok daha yetkin bir hale gelebilir ama kimse demiyor ki; sürücüsüz araç geliştirildi ama yollar hala otomatik vites hatta hidrolik direksiyonu olmayan araçlarla dolu. <br/><br/>bir teknolojinin olabilirliği ve günlük hayata entegre olması bambaşka olaylardır. <br/><br/>örn. pilotluk mesleğinin kaybolması için sektördeki firmaların milyardolarlık filolarını çöpe atması gerekir.
+  entry_channels: anket,ekonomi
+- entry_name: |
+    ruh eşin nerede
+  entry_id:  102588784
+  entry_writer: 70kiloverensismanyazar
+  entry_fav_count: 2
+  entry_content: |
+    bununla ilgili bir çok şey yazabilirim. ama kısa ve en güzel özü "hissetmek".<br/><br/>şaka değil. <br/><br/>insan belli bir yaşa kadar bir çok ilişki yaşayabiliyor. bazı insanlar daha şanslı ki ilk sevgilisi ile evlenebiliyor ya da uzun bir hayat kurabiliyor.<br/><br/>bazıları ise şanslı değil ki biraz ine-çıka bu şansı bir şekilde ayağına getirmeye çalışıyor. ki bence güzel olanda bu yolda yaşananlar. düşüp-kalkıp bir şekilde o sonuca varıyorsun.<br/><br/>hayatımda hiç bir zaman "illa bir kadın olsun" düşüncesiyle hareket etmedim. bir kadın oldu, çabalamaya değerse çabalandı, değmezse bitti. anladığım şu ki yaşanan her ilişkide kendini bir kez daha tanıyorsun.<br/><br/>çünkü her insan aslında senin aynan. her insanda bir adım daha kendini tanıyorsun.<br/><br/>ruh eşi konusuna dönecek olursak. her zaman diyorum içinde yaşattığın kimse, karşına da öyle insanlar çıkacak -arada elbette kendinle sınava tabi tutulacak ve pürüzler çıkmayacak değil- fakat sonucunda o gök kuşağının altındaki ödüle varacaksın.<br/><br/>ruh eşi aranmıyor, aranamaz, bulunamaz da. ansızın karşınıza çıkar. şu an hayatımda olan kadını garip bir şekilde hissediyorum. bundan öncekilerde hepsinin adını koyabildim. bir şekilde tanımlayabildim. fakat şu an yapamıyorum. sorgulamıyorum, tanımlayamıyorum, düşünmüyorum, adını koyamıyorum. ama hissediyorum. acayip bir şekilde hissediyorum ki bu da kopup gitmeyecek biliyorum. içimde var olan sonsuzluğu onunla hissediyorum.<br/><br/>beni asla böyle şeyler yazarken göremezsiniz. ne blog sayfamda, ne burada ne de başka bir mecrada dilimden bu kelimeler asla dökülmez. şu an bayağı çıkıyor. çünkü hissediyorum.<br/><br/>anlayacaksınız. emin olun karşınıza ansızın gelecek ve anlayacaksınız.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    how i met your mother'dan akılda kalanlar
+  entry_id:  102600255
+  entry_writer: agulero
+  entry_fav_count: 2
+  entry_content: |
+    turturkeykey
+  entry_channels: anket,tv,spoiler
 - entry_name: |
     tüm yazarlar birer çaylak sahipleniyor kampanyası
   entry_id:  102624669
@@ -379,6 +355,14 @@ data:
     algılayamadığım gündür sanki yine elime telefonu alacağım ve günaydın hayatım diyebilecekmişim gibi geliyor. sonrası ben de iki gün süren ağlama sonraki bi hafta evde boş boş dolanıp akla herhangi bi an için ağlama derken gitgide azalıyor. <br/><br/>bir insanla beraberken ankara'nın, evin hayatımın her yerine anıları yerleşiyor. fotoğraflar, tabaklar bardaklar, diziler, kıyafetler, yollar her şey. <br/><br/>üstünden 2 ay geçti ve artık iyiyim. birlikte çok güzelken daha da güzel olabilme ihtimalinin bir anda gitmesi daha çok üzüyor galiba. <br/><br/>artık çok zor böyle bi şey yakalayabilmek ben bulmuşken sıkıca sarılma taraftarıyken insanların çekip gitmesi sadece üzücü
   entry_channels: ilişkiler
 - entry_name: |
+    kadınların memleket meselelerini şeyapmaması
+  entry_id:  102628624
+  entry_writer: ozg3
+  entry_fav_count: 1
+  entry_content: |
+    memleket meselelerinden kasın politik olmaksa, apolitik olmak cinsiyetle alakalı bir şey değil bence. istesem de istemesem de hep memleket meselelerinin/politikanın konuşulduğu bir evde ve çevrede büyüdüm. dolayısıyla benim için politik olmak kaçınılmazdı ama kendi ilgim de var sanırım. <br/><br/>ama üstteki arkadaşın dediği gibi evli ve çocuklu insanlar, gerçekten böyle şeylere vakit bulamıyor gördüğüm kadarıyla.
+  entry_channels: siyaset
+- entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  102592293
   entry_writer: tamirci ciragii
@@ -388,18 +372,34 @@ data:
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     şu anda çalan şarkı
-  entry_id:  102630208
-  entry_writer: mimarkafasi
+  entry_id:  102631307
+  entry_writer: oceansfun
   entry_fav_count: 0
   entry_content: |
-    <a class="b" href="/?q=j%c3%bclide+%c3%b6z%c3%a7elik">jülide özçelik</a>- <a class="b" href="/?q=zaman">zaman</a>
+    cheeseball. <a rel="nofollow noopener" class="url" target="_blank" href="https://is.gd/Vbdqm5">https://is.gd/vbdqm5</a>
   entry_channels: anket,müzik
 - entry_name: |
-    kara deliğin içinde ne var
-  entry_id:  102629992
-  entry_writer: biyolojik saat tamircisi
+    corona virüsünü önleyen muska yapılması
+  entry_id:  102631608
+  entry_writer: hmm bilemedim simdi
   entry_fav_count: 0
   entry_content: |
-    yumurta vardır.<br/>sperminizi kara delikten içeri salarsanız, yeni bir dünyaya hamile kalmasına yol açarsınız.
-  entry_channels: anket,bilim
+    afişine arap alfabesiyle "keriz yolma duası" yazdıkları muskadır.<br/><br/>anlayacağınız trolldür. ama güldürmemiştir. daha iyisi yapılabilirdi diye düşündürtmüştür.
+  entry_channels: sağlık,haber
+- entry_name: |
+    25 şubat 2020 edremitte corona virüs tespiti
+  entry_id:  102631526
+  entry_writer: afrodimanyakadam
+  entry_fav_count: 0
+  entry_content: |
+    kaynak
+  entry_channels: sağlık,haber
+- entry_name: |
+    25 şubat 2020 chelsea bayern münih maçı
+  entry_id:  102629535
+  entry_writer: morozov
+  entry_fav_count: 0
+  entry_content: |
+    boktan bahis sitelerinin reklamı yapılan başlık. millet size inanıp para yatıracak bu boktan sitelere. <br/><br/>tahminime göre 2-2 bitecek olan maçtır.
+  entry_channels: spor
 ---
