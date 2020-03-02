@@ -3,34 +3,26 @@ layout: post
 title: 03 Mart 2020 Ekşi Sözlük Debe
 data:
 - entry_name: |
-    wuhan virüsünün hala türkiye'ye gelmemiş olması
-  entry_id:  102878751
-  entry_writer: md13
-  entry_fav_count: 1625
-  entry_content: |
-    muhtemelen enfekte birisi geldi , acilde parolü takıp reçeteye de augmentin yazıp evine yolladılar.
-  entry_channels: bilim,sağlık,haber
-- entry_name: |
     bundan sonra da şehit vermeye devam edeceğiz
   entry_id:  102909009
   entry_writer: genom crow aren
-  entry_fav_count: 1495
+  entry_fav_count: 1508
   entry_content: |
     bana ne be bedir'den uhud'dan hendek'ten diye cevaplanabilecek demeçtir. yeter artık arap bataklığında canları, yiğitleri yitirmemiz.
   entry_channels: siyaset,haber
 - entry_name: |
-    bill gates'in bilgisayara oturunca ilk yaptığı iş
-  entry_id:  102879943
-  entry_writer: yarin bos musun
-  entry_fav_count: 988
+    kanser tedavisi için yardım bekleyen yazar
+  entry_id:  102895402
+  entry_writer: sinpecado
+  entry_fav_count: 1137
   entry_content: |
-    bilgisayardan kalkıp sandalyeye oturmak
-  entry_channels: anket,teknoloji
+    2012'de lösemi <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/66933890" title="https://eksisozluk.com/entry/66933890">oldum</a>. hastaligim 2016 yilina kadar 2 kere tekrarladi. ilik nakli olmam gerekiyordu. uygun ilik bulmak icin ülke genelinde <a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/yazarlar/ayse-arman/ilik-kardesim-olur-musun-40084523" title="https://www.hurriyet.com.tr/yazarlar/ayse-arman/ilik-kardesim-olur-musun-40084523">kampanyalar</a> duzenlendi. maalesef uygun ilik bulunamadigi icin son care olarak 2016 mayis ayında abimden yari uyumlu ilik nakli oldum. <br/>nakil yari uyumlu oldugu icin komplikasyonlari cok fazla oldu. "<a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/102584491" title="https://eksisozluk.com/entry/102584491">graft versus host</a>" denilen ve iliklerin uyumsuzlugunun sebep oldugu hastalik kroniklesti. bu rahatsizlik karaciger fonksiyonlarimi bozmanin yani sira cildimin kizarmasina kasinmasina ve sonunda da yara olmasina neden oluyor. <br/>bu hastalığı baskılamanın 2 yolu var: biri işlem için sizin de yardımınızı istediğim <a rel="nofollow noopener" class="url" target="_blank" href="https://eksisozluk.com/entry/73262206" title="https://eksisozluk.com/entry/73262206">fotoferez</a>, diğeri ise 3 yıldır kullandığım kortizon.<br/>nakilden sonraki süreçte kortizonu uzun süre kullandığım için obezitenin yanı sıra, şeker, tansiyon, kas erimesi, eklem nekrozlari, bobrek fonksiyon bozuklugu gibi bircok rahatsızlığım oluştu.<br/>vucudum artik daha fazla kortizonu kaldiramayacağı için fotoferez işlemi zorunlu hale geldi.<br/>bu islem yaklasik 4 aydir bana uygulaniyor. 6 ay daha uygulanmasi gerekli. lakin seans ucreti 470 tl oldugu icin artik bunu karsilayacak maddi gucum kalmadi. devlet tum hastane masraflarini karsiliyor. sadece "oxsoralen" adlı kan ışınlama sürecinde kullanılan ilacin ucretini karsilamiyor. her seans karşılaştığım 470 tllik ucret de o ilacin bedeli.<br/>tedavimin ozel hastanede olmasının sebebi; yari uyumlu nakli birkac hastane yaptigi icin devlet hastanesinden özel hastaneye sevk edildim. <br/>nakile kadar 1.5 sene capa'da 3 ay cerrahpasa'da 2 ay da bakirkoy sadi konuk'da yatmisligim var.<br/>onumuzdeki ay boyunca haftada 2 toplamda 8 seans, sonraki 5 ay boyunca ise ayda 4 seans islem gormem gerekli.<br/><br/>maddi yardim ile ilgili olarak valilik onayi almak icin basvurdum lakin bunun 2 ayi askin bir sure alacagi soyledi. 2 ay beklersem su ana kadar aldigim tedavi bosa gidecek ve alinan bakanlik onayinin suresi dolacak.<br/><br/>yardim edebilecek olan arkadaslarimin gonderim saglarken aciklama kismina "mert gündöndü" yazmalari ve attiklari gunu, bankayi ve miktarı bana belirtmeleri yeterli olacak. ekşi sözlük dışından yardım edebilecek olanlar mertgundondu@hotmail.com adresinden bana yazabilir.<br/><br/>edit:<br/>mesajlara tek tek cevap vermeyi denedim ama bitecek gibi degil. hepinize buradan tesekkur etmek istedim...<br/>kemik iligi bagisi yapacaklara ayrica tesekkur ediyorum.<br/><br/>edit***: basligi ilk 6 aylik tedavim icin acmistim ama sonraki 6 ayin yarisini dahi topladim. bu sebeple iban bilgilerini ve belgeleri kaldiriyorum. hepinize cok tesekkur ederim!<br/>biliyorum cok oldum ama baslik bu kadar gundem olmusken kemik iligi bagisi icin asagidaki adrese goz atmanizi rica ediyorum. ilik bekleyen binlerce hasta var. kimisi evlat kimisi anne baba. <br/><a rel="nofollow noopener" class="url" target="_blank" href="https://kanver.org/sayfa/kan-hizmetleri/kok-hucre-bagisi/53" title="https://kanver.org/sayfa/kan-hizmetleri/kok-hucre-bagisi/53">https://kanver.org/…-hizmetleri/kok-hucre-bagisi/53</a><br/>sevgilerimle...
+  entry_channels: ekşi-sözlük,sağlık,ekonomi
 - entry_name: |
     yunan askeri tarafından öldürülen suriyeli göçmen
   entry_id:  102896745
   entry_writer: estamuylokkaa
-  entry_fav_count: 944
+  entry_fav_count: 949
   entry_content: |
     orospu çocuğu yabancı medya bu olayı sınır güvenliği olarak lanse edecektir ve hiçbirşey olmamış gibi 3 maymunu oynayacaktır. lanet olsun sizin insanlığınıza.<br/><br/>edit: evet sınırlarını korumak yunanistan'ın hakkı doğrudur, lakin insanları öldürerek değil. insanları öldürmek bu kadar kolay olmamalı.
   entry_channels: siyaset
@@ -38,7 +30,7 @@ data:
     bahçeli'nin kılıçdaroğlu'nun elini sıkmaması
   entry_id:  102895087
   entry_writer: merkz
-  entry_fav_count: 915
+  entry_fav_count: 924
   entry_content: |
     erdoğan'ın elini yalayan elin kılıştarın elini sıkmaması bende memnuniyet uyandırdı şahsen.
   entry_channels: siyaset,haber
@@ -46,7 +38,7 @@ data:
     muslera'nın maaşını şehit ailelerine bağışlaması
   entry_id:  102904906
   entry_writer: eksi10
-  entry_fav_count: 780
+  entry_fav_count: 785
   entry_content: |
     başlığın uzun hali: "muslera'nın bu ayki maaşını şehit ailelerine bağışlaması" olacaktı. <br/>çok karakterli, ekmek yediği yere ve değerlerine saygılı, umarım hep böyle olur. <br/>hesaplamadan söyleyeyim bağışlayacağı tutar, 375 bin euro (2.5 milyon tl) olacak.<br/>örnek davranış, helal olsun. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.sporx.com/fernando-musleradan-alkis-alan-karar-SXHBQ834886SXQ" title="https://www.sporx.com/fernando-musleradan-alkis-alan-karar-SXHBQ834886SXQ">kaynak</a>
   entry_channels: spor,haber
@@ -54,7 +46,7 @@ data:
     çırılçıplak banyo yapmak
   entry_id:  102913883
   entry_writer: whitefish
-  entry_fav_count: 688
+  entry_fav_count: 728
   entry_content: |
     ben takim elbise ile banyo yaptigim icin dahil olmadigim guruh.
   entry_channels: sağlık
@@ -62,55 +54,55 @@ data:
     3 gün içerisinde ülkemizde de vakalar görülebilir
   entry_id:  102911067
   entry_writer: obenizimo
-  entry_fav_count: 666
+  entry_fav_count: 677
   entry_content: |
     zaten vaka var da şimdiden yol yapıyorlar.<br/><br/>gerçi olsa kimi suçlayacaksın tüm avrupaya yayılmış abdde bile ölümlü vaka olmuş.
   entry_channels: sağlık,haber
 - entry_name: |
-    hiç mutlu evli olmaması
-  entry_id:  102895108
-  entry_writer: gulerken dusunen adam
-  entry_fav_count: 396
-  entry_content: |
-    var ama onlar evliliklerini instagram'a yem etmedikleri için varlığını bilmezsin.
-  entry_channels: ilişkiler
-- entry_name: |
     yalnız tipler hasta olunca kim bakıyor sorunsalı
   entry_id:  102912859
   entry_writer: bach baba
-  entry_fav_count: 369
+  entry_fav_count: 412
   entry_content: |
     naz yapacak kimseleri olmadığından eften püften hasta olmazlar. rahatsız olduklarında kendi kendilerine idare etmeyi bilirler. duruma sitem etseler de en azından bu durumda kimseye bir şey açıklamak zorunda değillerdir. yalnızlıktan korkmayın. sizi "hasta edenler" daha tehlikelidir sosyal hayatta.
   entry_channels: ilişkiler,sağlık
 - entry_name: |
-    abisinden hamile kalan 14 yaşındaki kız
-  entry_id:  102911399
-  entry_writer: chessboard
-  entry_fav_count: 307
+    hiç mutlu evli olmaması
+  entry_id:  102895108
+  entry_writer: gulerken dusunen adam
+  entry_fav_count: 398
   entry_content: |
-    işte türkiye budur.<br/><br/>nüfusun %80'ini oluşturan cahil, görgüsüz, vizyonsuz, ahlaksız, pespaye lümpenlerin 3. sayfa rezilliklerinin haberleri... <br/><br/>bırakın çağdaşlığı, muasır medeniyet seviyesini falan. cumhuriyet kurulduğundan beri kendi ahlak düzenini oturtmayı bile başaramamış bir ülkedir türkiye. <br/><br/>böylesine bir kuru kalabalıktan bir şeyler başarmasını bekleyen büyük hayal kırıklığına uğrar. işte hangi yaratıklarla aynı topraklarda yaşadığınızı öğrenmek istiyorsanız iyi okuyunuz bu haberi.<br/><br/>toplumun en alt tabakası, akp'nin oy kitlesi, 15 temmuz'da askerlerin boğazını kesenler, "götünün kılıyım" diye haykıranlar, "reis istesin idlib'e giderim" diye naralar atanlar... "lumpiges-lumpenproletariat". yani lümpen-proloterya...<br/><br/>kente daha yeni gelmiş, işportacı, tamirci çırağı, minibüs muavini, trafik ışıklarında yol kesip araba camı silen, otobüs duraklarına tüneyip karı-kız kesen, hani bir zamanlar şairler tarafından "günün birinde devrim yaparlar" sanılıp üzerlerine şiirler yazılan tipler...<br/><br/>iyi okuyun haberi, iyi...<br/><br/>bir gün iç savaş çıktığında boğazını kesmek için elinde bıçakla üzerinize atlayacak olan kişileri iyi tanıyın...<br/><br/>o gün geldiğinde de bu entryimi hatırlarsınız belki...
+    var ama onlar evliliklerini instagram'a yem etmedikleri için varlığını bilmezsin.
+  entry_channels: ilişkiler
+- entry_name: |
+    türk kadınında fantazi iç giyim hevesi olmaması
+  entry_id:  102903690
+  entry_writer: kissofh3ll
+  entry_fav_count: 388
+  entry_content: |
+    here we go again anasını sikiyim ya. oğlum bıktık lan. valla bak erkek halimle ben bıktım şu muhabbetten ya. napıcan giyse napıcan görür görmez boşalıcan zaten. türk insanının düzenli seks hayatı yok. türk insanının düzgün bir seks eğitimi yok. haliyle türk insanında erken boşalma,vajinismus vs gibi sorunlar var. <br/><br/>her kuşu siktin leylek kaldı amk. çalışmayınca dile vuruyor yeminle.<br/><br/>not: ne istediğine dikkat et bu arada, 3. vlad roleplay yaparsa bi anda kendini kazığın başına oturtulmuş bulabilirsin. malum 3. vlad tarihte kazıklı voyvoda olarak geçer.<br/><br/>edit: ya tamam oğlum hepiniz 30 cm ve 1500 dakika sevişiyorsunuz. hepiniz jonny sins, rocco siffredi falansınız amk. atmayın artık mesaj. ne istediğiniz de belli değil amk. evlenecek kadında bekarete bakmayan adama gavat dersiniz, ama sabah akşam seks muhabbeti yapıyorsunuz. ne istiyorsunuz oğlum siz?
+  entry_channels: ilişkiler
+- entry_name: |
+    aylin cesur'un şehit cenazesindeki skandal pozu
+  entry_id:  102921465
+  entry_writer: cagatay
+  entry_fav_count: 297
+  entry_content: |
+    yerin dibine batsın siyasetiniz. erdoğan'a kızıyoruz falan ama, aha muhalif dediğimiz de bunlar. <br/><br/>hiç bir açıklaması yok bu saçmalığın.<br/><br/>şehit cenazesinde nasıl davranması gerektiğini bile bilmeyen bir insana biz toplum olarak ölene kadar bakacağız.<br/><br/>helal olsun ne diyeyim.<br/><br/>edit: söz konusu hanımefendi için <a class="b" href="/?q=osmantrayla">osmantrayla</a> nickli çaylak arkadaşın iletmemi istediği<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ahmetmanis/status/1234550976897568768?s=19" title="https://twitter.com/ahmetmanis/status/1234550976897568768?s=19">şöyle</a> bir şey de var.<br/><br/>huy yani ablada bu.
   entry_channels: haber
 - entry_name: |
     sözlükçülerin silmemek kaydıyla yazacakları entry
   entry_id:  102884780
   entry_writer: vay anasini sonra ne oldu
-  entry_fav_count: 278
+  entry_fav_count: 281
   entry_content: |
     imam hatipler kapatılsın.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    aylin cesur'un şehit cenazesindeki skandal pozu
-  entry_id:  102921465
-  entry_writer: cagatay
-  entry_fav_count: 260
-  entry_content: |
-    yerin dibine batsın siyasetiniz. erdoğan'a kızıyoruz falan ama, aha muhalif dediğimiz de bunlar. <br/><br/>hiç bir açıklaması yok bu saçmalığın.<br/><br/>şehit cenazesinde nasıl davranması gerektiğini bile bilmeyen bir insana biz toplum olarak ölene kadar bakacağız.<br/><br/>helal olsun ne diyeyim.<br/><br/>edit: söz konusu hanımefendi için <a class="b" href="/?q=osmantrayla">osmantrayla</a> nickli çaylak arkadaşın iletmemi istediği<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ahmetmanis/status/1234550976897568768?s=19" title="https://twitter.com/ahmetmanis/status/1234550976897568768?s=19">şöyle</a> bir şey de var.<br/><br/>huy yani ablada bu.
-  entry_channels: haber
-- entry_name: |
     erdoğan'a yetki verilse ülkenin uçacağı gerçeği
   entry_id:  102917110
   entry_writer: gel al servisteki indirim
-  entry_fav_count: 250
+  entry_fav_count: 269
   entry_content: |
     daha hangi yetkiyi vereceksiniz lan?
   entry_channels: siyaset
@@ -118,7 +110,7 @@ data:
     12 yaşındaki suriyelinin türkiye pis fakir demesi
   entry_id:  102914868
   entry_writer: amprikuku
-  entry_fav_count: 211
+  entry_fav_count: 223
   entry_content: |
     göte göt demiştir.<br/><br/>işin acı kısmı ülkede havadan cebine para konan sığınmacı bile ekonominin geldikleri günden bu yana kötüye gittiğini görebilirken bizim makarnacıların bunu görememesidir.
   entry_channels: siyaset,haber
@@ -126,7 +118,7 @@ data:
     otuzundan sonra yurtdışına yerleşmek
   entry_id:  102908496
   entry_writer: keske dememek icin
-  entry_fav_count: 202
+  entry_fav_count: 204
   entry_content: |
     otuzundan sonra hayat bitmiyor aslinda yeni basliyor. bunu bilince cok da garipsemedigim olay. almanya da 30 yasinda kariyerine baslayanlar var. junior olarak geliyolar. 20-30 arasi gencler geziyor ogreniyor ne yapmak istediklerine karar veriyor. 30 dan sonra is bulup 40 tan sonra cocuk yapiyolar. 90 a kadar yasadigi icin mantiksiz degil zaten :) dolayisiyla cesur olun 30 dan sonra da yeni baslangic pekala olur
   entry_channels: seyahat
@@ -142,23 +134,23 @@ data:
     2 mart 2020 ali babacan'ın paylaşımı
   entry_id:  102921726
   entry_writer: check16
-  entry_fav_count: 134
+  entry_fav_count: 175
   entry_content: |
     akp ve feto ile uzaktan yakından ilişkisi olan şahıs ve kurumların, şu dakika'dan sonra ülkenin başına geçirilmemesi gerekir. sayin mansur yavas ve ya sayin ekrem imamoğlu varken gerisi hikaye. bunlar aynı bokun laciverti.
   entry_channels: siyaset,haber
 - entry_name: |
-    türkiye'nin tüm dünyayı karşısına alması
-  entry_id:  102921166
-  entry_writer: seytanin papazi
-  entry_fav_count: 103
+    recep tayyip erdoğan
+  entry_id:  102878612
+  entry_writer: amprikuku
+  entry_fav_count: 86
   entry_content: |
-    tüm dünyayı 19 mayıs 1919 yılında karşımıza aldık, hem içte hem dışta herkese gereken dersi verdik. <br/>yeri geldi mertlik, yeri geldi insanlık dersi verdik.<br/>içerideki hainlerle de dışarıdaki düşmanlarla da verilen savaştan alnımızın akıyla galip geldik.<br/><br/>ruhun şad mekanın cennet olsun ulu başbuğ <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a>!
-  entry_channels: siyaset
+    <a class="b" href="/?q=askerlik+yan+gelip+yatma+yeri+de%c4%9fil">askerlik yan gelip yatma yeri değil</a> diyeli 14 yıl,<br/><a class="b" href="/?q=say%c4%b1n+%c3%b6calan+ald%c4%b1%c4%9f%c4%b1+kellelerin+hesab%c4%b1n%c4%b1+veriyor">sayın öcalan aldığı kellelerin hesabını veriyor</a> diyeli 13 yıl,<br/><a class="b" href="/?q=%c5%9fehit+cenazeleri+yaygarad%c4%b1r">şehit cenazeleri yaygaradır</a> diyeli 9 yıl,<br/><a class="b" href="/?q=bizim+vatan%c4%b1+i%c3%a7in+%c3%b6lecek+gen%c3%a7lere+ihtiyac%c4%b1m%c4%b1z+var">bizim vatanı için ölecek gençlere ihtiyacımız var</a> diyeli 13 gün,<br/><a class="b" href="/?q=birka%c3%a7+tane+%c5%9fehidimiz+var">birkaç tane şehidimiz var</a> diyeli 8 gün,<br/><a class="b" href="/?q=idlib%27de+geli%c5%9fmeler+lehimize+d%c3%b6nd%c3%bc+3+%c5%9fehidimiz+var">idlib'de gelişmeler lehimize döndü 3 şehidimiz var</a> diyeli 4 gün<br/><a class="b" href="/?q=27+%c5%9fubat+2020+idlib%27de+33+askerimizin+%c5%9fehit+olmas%c4%b1">27 şubat 2020 idlib'de 33 askerimizin şehit olması</a> üzerinden 4 gün, (33 doğruysa)<br/>şehit açıklaması yaparken:<br/><a class="b" href="/?q=29+%c5%9fubat+2020+recep+tayyip+erdo%c4%9fan%27%c4%b1n+g%c3%bclmesi">29 şubat 2020 recep tayyip erdoğan'ın gülmesi</a> ve güldürmesi üzerinden 2 gün geçmiştir.
+  entry_channels: siyaset,haber
 - entry_name: |
     yazılımcıların kendini önemli biri sanmaları
   entry_id:  102892931
   entry_writer: sabaha kadar kod yazacam
-  entry_fav_count: 77
+  entry_fav_count: 80
   entry_content: |
     internet gidince sinir krizleri geçiren kişilerin önermesidir. bu insanlar genelde elektrik kesintisinde çamaşırları yıkayayım bari diye banyoya yönelip çamaşır makinesinin de elektrikle çalıştığını hatırlayınca tv izlemeye karar verirler.
   entry_channels: ilişkiler,programlama
@@ -166,17 +158,25 @@ data:
     gerçek yaş vs hissedilen yaş
   entry_id:  102903742
   entry_writer: gurabiyecanavarii
-  entry_fav_count: 74
+  entry_fav_count: 77
   entry_content: |
     34/ölü
   entry_channels: anket
 - entry_name: |
-    zor günlerden geçenlerin bildiği en iyi şey
-  entry_id:  102887426
-  entry_writer: masumpinokyo
-  entry_fav_count: 73
+    üçüncü dünya savaşı
+  entry_id:  102920286
+  entry_writer: vitamineral
+  entry_fav_count: 76
   entry_content: |
-    herkes yalnızdır; bazıları bunun farkındadır.
+    beşinciyi bilmem ama altıncısı dal daşak ile yapılacak<br/><br/>meral aleksandra
+  entry_channels: siyaset
+- entry_name: |
+    düşün ki öz kardeşin bunu okuyor
+  entry_id:  102917074
+  entry_writer: daranbaba
+  entry_fav_count: 75
+  entry_content: |
+    öde lan borcunu yavşak, 2 ay dedin 6 ay oldu.
   entry_channels: anket,ilişkiler
 - entry_name: |
     belli aralıklarla tekrar izlenen dizi
@@ -187,26 +187,18 @@ data:
     (bkz: <a class="b" href="/?q=friends">friends</a>)
   entry_channels: anket,tv
 - entry_name: |
-    üçüncü dünya savaşı
-  entry_id:  102920286
-  entry_writer: vitamineral
-  entry_fav_count: 72
+    2557 askeri ölen esad'ın serakib'in yeniden alması
+  entry_id:  102918605
+  entry_writer: joewalkerthedisputableastronaut
+  entry_fav_count: 64
   entry_content: |
-    beşinciyi bilmem ama altıncısı dal daşak ile yapılacak<br/><br/>meral aleksandra
+    esed'in tıpkı saruman gibi balçıktan uruk-hai basmasından kaynaklanmaktadır. zaten suriyeli askerlerin üniformalarındaki beyaz el armalarından anlamamız lazımdı.
   entry_channels: siyaset
-- entry_name: |
-    düşün ki öz kardeşin bunu okuyor
-  entry_id:  102917074
-  entry_writer: daranbaba
-  entry_fav_count: 54
-  entry_content: |
-    öde lan borcunu yavşak, 2 ay dedin 6 ay oldu.
-  entry_channels: anket,ilişkiler
 - entry_name: |
     tantuninin dürüm lahmacun olduğu gerçeği
   entry_id:  102924181
   entry_writer: fiyodor
-  entry_fav_count: 47
+  entry_fav_count: 62
   entry_content: |
     tantuni yememiş insan beyanı
   entry_channels: yeme-içme
@@ -214,10 +206,26 @@ data:
     izmir bomba tatlısı
   entry_id:  102911428
   entry_writer: outdoor
-  entry_fav_count: 39
+  entry_fav_count: 53
   entry_content: |
     "nası bi şey anuna koim" diye çok merak ettiysen git markete bi kutu nutella al. petek ekmek alıp içini boşalt. doldur bi kavanoz nutellayı içine. otur ye. bu kadar amk. gene izmir, gene şişirilmiş yarak kürek işler.
   entry_channels: tv,tarih,haber,yeme-içme,ekonomi
+- entry_name: |
+    120 uzman 10.000 yıl öncesine gönderilse
+  entry_id:  102924572
+  entry_writer: zimbabvedekizilmehtap
+  entry_fav_count: 46
+  entry_content: |
+    (bkz: <a class="b" href="/?q=uzman+%c3%a7avu%c5%9f">uzman çavuş</a>)
+  entry_channels: 
+- entry_name: |
+    türk'ün ay'a ayak basınca söylediği ilk söz
+  entry_id:  102920590
+  entry_writer: bpol
+  entry_fav_count: 43
+  entry_content: |
+    malum şahıs gidene kadar geleni siksinler.
+  entry_channels: anket
 - entry_name: |
     elif can yetim
   entry_id:  102890856
@@ -227,26 +235,18 @@ data:
     hep aklımdasın kansız elif. eşşek gibi mühendislik okuyup hakkımla torpilsiz iş bulup çalıştıktan sonra 2017 de işimi kaybettim ve 30 lu yaşlarımda kariyerimi değiştirmek için son sermayemi harcayarak yurtdışına çıktım. bir çok arkadaşım benim gibi işlerini kaybettiler. psikolojileri bozuldu. ülke yangın yeri. evde işsiz ve gelecekten umutsuz bir şekilde iş arayanlar, dayanamayıp intihar edenler, yaban ellerde gencecik yaşında şehit olanlar. allah sen ve senin gibilerin belasını versin elif. en içten beddularımı ediyorum sen ve senin gibilere. çok yufka yürekli ve merhametli bir insanım normalde ama sen ve senin gibilere merhamet yok elif. sizler benim gözümde kurtuluş savaşında karşımızdaki yunan askeri gibisiniz, dağda askerimize pusu kuran pkk gibisiniz. hepinizi sileceğiz bu topraklardan allah diyen allahsızlar! thy den bu sakallı pislikleri, ve senin gibi 'türbanlı bacıların' hepsini süpüreceğiz. lağım çukurusunuz hepiniz. arsızlığın, münafıklığın, yolsuzluğun, şerefsizliğin et ve kemiğe bürünmüş halisiniz. az uz insan farkında sanma, yarın birgün unutur diye düşünme. o koltuğu bırakıp thy den defolup gideceksin arsız elif!
   entry_channels: siyaset,haber,yeme-içme
 - entry_name: |
-    120 uzman 10.000 yıl öncesine gönderilse
-  entry_id:  102924572
-  entry_writer: zimbabvedekizilmehtap
-  entry_fav_count: 31
+    köy kalçası tokatlamak
+  entry_id:  102926415
+  entry_writer: zeph
+  entry_fav_count: 30
   entry_content: |
-    (bkz: <a class="b" href="/?q=uzman+%c3%a7avu%c5%9f">uzman çavuş</a>)
+    gece bu sözlüğe bir şeyler oluyor. oğlum içinizdeki fantezileri buraya niye döküyorsunuz.
   entry_channels: 
-- entry_name: |
-    erkek yazarlardan kadın yazarlara sorular
-  entry_id:  102879631
-  entry_writer: vikingstekibalta
-  entry_fav_count: 29
-  entry_content: |
-    tek ekşi sözlük hesabım bu. ne yalan söyleyeyim onu da rezil etmek istemiyorum. bu başlığa yazmayacaktım da çok merak ettiğim bir şey var.<br/><br/>"burcun ne ?, göğsün büyük mü ?, boyut önemli mi ?, yardıma ihtiyacım var gelir misiniz ? (foto atabilir dikkat.), kaç kilosun ?" gibi sorulara cevap veriyor musunuz ? cidden merak ediyorum amk. cevap verilmiyorsa bu adamlar niye her gün 00.00'da entry girmeyi bekliyor ? eleştirmek için yazmadım, naparsanız yapın. sadece cevap geliyor mu yoksa kendi kendilerine mi takılıyorlar merak ettim.<br/><br/>edit: şimdiye kadar 32 kişi mesaj atmış. 23'ü cevap vermiyormuş galiba. 2'si cevap verenlerin olduğunu duymuş. 2'si cevap veriyormuş. 5 tanesi de büyük oyunu çözdüklerini, bu entry'nin bir tuzak olduğunu ve benim gizli işler peşimde olduğumu söyledi.<br/><br/>edit 2: sayıları güncelliyorum. halkı bilgisiz bırakmak en büyük suçtur.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     instagram hayatımızdan çıktığında olacaklar
   entry_id:  102918869
   entry_writer: okuryazarhatun
-  entry_fav_count: 26
+  entry_fav_count: 28
   entry_content: |
     instagramın hayatınızdan çıkmasını beklemeyin, siz çıkarın.
   entry_channels: ilişkiler,teknoloji
@@ -254,26 +254,26 @@ data:
     mete yarar
   entry_id:  102886030
   entry_writer: sign of evil existence
-  entry_fav_count: 20
+  entry_fav_count: 25
   entry_content: |
     2012'de sabah gazetesinden müjgan halis'in gerçekleştirdiği röportajda şöyle bir bölüm var :<br/><br/>- neden istifa ettiniz?<br/><br/>- hayatımı yaşamak istedim. önüme bir kağıt aldım ve yapmak istediğim 100 şeyi sıraladım; baktım askerlik yaparken bunları gerçekleştiremeyeceğim.<br/><br/>e git yaşa abi, niye kanal kanal, belediye belediye gezip bişeyler kovalıyosun ? bu mu hayatın ? askerlik değil de askerlik muhabbetinden daha fazla para kazanmak mı senin hayat dediğin şey ?
   entry_channels: siyaset,tv
 - entry_name: |
-    okyanuslardaki tuz nereden geldi
-  entry_id:  102920067
-  entry_writer: soranasokanyus
-  entry_fav_count: 19
+    kürtçe döner mekanı isimleri
+  entry_id:  102923868
+  entry_writer: excelsior was here
+  entry_fav_count: 23
   entry_content: |
-    (bkz: <a class="b" href="/?q=balina+spermi">balina spermi</a>)
-  entry_channels: anket,bilim
+    (bkz: <a class="b" href="/?q=star+t%c4%b1rrek+d%c3%b6ner+salonu">star tırrek döner salonu</a>)
+  entry_channels: anket,yeme-içme
 - entry_name: |
-    iz bırakan film replikleri
-  entry_id:  102917418
-  entry_writer: ciklettencikanadam
-  entry_fav_count: 18
+    esad'ı devirmenin türkiye'ye faydası
+  entry_id:  102923571
+  entry_writer: joewalkerthedisputableastronaut
+  entry_fav_count: 23
   entry_content: |
-    umut. insanın vazgeçemediği illüzyon.<br/>aynı anda en büyük güç ve en büyük zayıflık kaynağınız.<br/>‘temet nosce’<br/><br/>(bkz: <a class="b" href="/?q=matrix">matrix</a>)
-  entry_channels: anket,sinema
+    akp'liler esad'ın devrilmesi sonucunda türkiye'nin gerçekten yararına olacak tek bir şey söylesinler ben sözlüğü bugün bırakırım.
+  entry_channels: siyaset
 - entry_name: |
     f1 pilotlarında karizmatik isim zorunluluğu
   entry_id:  102921004
@@ -283,85 +283,37 @@ data:
     (bkz: <a class="b" href="/?q=jenson+button">jenson button</a>)<br/><br/>erken dönem amerika birleşik devletleri başkanı gibi.
   entry_channels: spor,otomotiv
 - entry_name: |
-    kürtçe döner mekanı isimleri
-  entry_id:  102923868
-  entry_writer: excelsior was here
-  entry_fav_count: 15
-  entry_content: |
-    (bkz: <a class="b" href="/?q=star+t%c4%b1rrek+d%c3%b6ner+salonu">star tırrek döner salonu</a>)
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    köy kalçası tokatlamak
-  entry_id:  102926415
-  entry_writer: zeph
-  entry_fav_count: 15
-  entry_content: |
-    gece bu sözlüğe bir şeyler oluyor. oğlum içinizdeki fantezileri buraya niye döküyorsunuz.
-  entry_channels: 
-- entry_name: |
-    türk'ün ay'a ayak basınca söylediği ilk söz
-  entry_id:  102921071
-  entry_writer: birdposing
-  entry_fav_count: 13
-  entry_content: |
-    ayağına taş değmesin astrotum.as bayrakları as!<br/>( <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=aULM7vv8llk" title="https://www.youtube.com/watch?v=aULM7vv8llk">ölürüm türkiyem</a> introsu girer )<br/>canlı yayına girilir kameramanın arkasından halaylar çekilir.ayda mangal yapılır geri dönülünür.<br/>astronot omuzlarda taşınır.birkaç ay sonra tvlerde televizyon yorumculuğuna başlar.
-  entry_channels: anket
-- entry_name: |
-    kim milyoner olmak ister
-  entry_id:  102924194
-  entry_writer: kabile dovmesi istiyom
-  entry_fav_count: 12
-  entry_content: |
-    <a class="b" href="/?q=kutadgu+bilig">kutadgu bilig</a>i kimin yazdığı ile ilgili soruda joker kullanan bir adet türkçe öğretmeni yarışıyor an itibariyle.
-  entry_channels: tv
-- entry_name: |
-    samatya sözlükten uçurulsun kampanyası
-  entry_id:  102922754
-  entry_writer: soranasokanyus
-  entry_fav_count: 10
-  entry_content: |
-    haydaaa bi şafiler kalmıştı mağdur olmayan.<br/><br/>o değil de <a class="b" href="/?q=b%c3%b6lge+savc%c4%b1s%c4%b1">bölge savcısı</a> nedir ya eyalet valisi gibi mınaki.
-  entry_channels: ekşi-sözlük,magazin,havacılık
-- entry_name: |
-    yasak elma
-  entry_id:  102920951
-  entry_writer: skydreams
-  entry_fav_count: 8
-  entry_content: |
-    senelerdir ulkenin en buyuk holdinglerinden birinde patronun ozel soforlugunu yapan adamin sobali evde yasadigi dizi
-  entry_channels: tv,tarih,müzik,edebiyat
-- entry_name: |
-    esad'ı devirmenin türkiye'ye faydası
-  entry_id:  102923571
-  entry_writer: joewalkerthedisputableastronaut
-  entry_fav_count: 7
-  entry_content: |
-    akp'liler esad'ın devrilmesi sonucunda türkiye'nin gerçekten yararına olacak tek bir şey söylesinler ben sözlüğü bugün bırakırım.
-  entry_channels: siyaset
-- entry_name: |
     bir insanın kaybedebileceği en büyük şey
-  entry_id:  102922166
-  entry_writer: ziplayankaplan
-  entry_fav_count: 7
+  entry_id:  102923957
+  entry_writer: sunullah
+  entry_fav_count: 11
   entry_content: |
-    vicdanı ve masumiyetidir.
+    evlatlarıdır ...
   entry_channels: 
-- entry_name: |
-    marteniçka
-  entry_id:  102878635
-  entry_writer: sonsuz sevgilerimle
-  entry_fav_count: 6
-  entry_content: |
-    evde kırmızı bir kurdele vardı. beyaz da bir ip. <br/>hemen sarıp, dileklerimi tuttum. <br/><br/>insanın, başını göğe çevirmesi ne güzel. nefes alması. martenichka geleneğini bilmek ne güzel, iyi dostlar edinmek...
-  entry_channels: tarih,moda
 - entry_name: |
     c#
   entry_id:  102922208
   entry_writer: lastpeony
-  entry_fav_count: 6
+  entry_fav_count: 8
   entry_content: |
     uzunca bir entry girecektim ama yukarıdaki entryi okuduktan sonra kanser oldum yazmıyorum (bkz: <a class="b" href="/?q=cehalet">cehalet</a>) <br/>microsoft'un çok amaçlı programlama dili
   entry_channels: programlama,müzik,teknoloji
+- entry_name: |
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  102878561
+  entry_writer: bygodos
+  entry_fav_count: 6
+  entry_content: |
+    mesaj kutumu yeşillendirsene... seninle kaos ve entrika dolu ama birbirini de sıkı sıkı sevmeli bir aşkın nasıl yaşanabileceğini kanıtlayalım herkese.
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    ekşi itiraf
+  entry_id:  102882884
+  entry_writer: deveyidiken
+  entry_fav_count: 6
+  entry_content: |
+    işsizlikte bugün itibariyle tam bir seneyi devirdim.<br/><br/>emeği geçen herkesin allah bin belasını versin. bilhassa hakkımı yiyen orospu çocuklarının.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     uyumsuz görünen ama birbirine yakışan yiyecekler
   entry_id:  102915739
@@ -371,35 +323,83 @@ data:
     ayva - limon
   entry_channels: anket,yeme-içme
 - entry_name: |
-    ekşi itiraf
-  entry_id:  102882884
-  entry_writer: deveyidiken
-  entry_fav_count: 5
-  entry_content: |
-    işsizlikte bugün itibariyle tam bir seneyi devirdim.<br/><br/>emeği geçen herkesin allah bin belasını versin. bilhassa hakkımı yiyen orospu çocuklarının.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
     büyücüler neden asaya ihtiyaç duyarlar
   entry_id:  102924411
   entry_writer: ilimperest
-  entry_fav_count: 4
+  entry_fav_count: 5
   entry_content: |
     çünkü büyüler bedenden saf halde çıkarsa bedeni büyük ölçüde yıpratabilir. eğer bir araç vasıtasıyla bunu yaparsak yıpranan biz değil o araç olur. peki neden asa derseniz çünkü asa adeta bir kol gibi uzanır ve istediğiniz tarafa rahatlıkla yönlendirebilirsiniz.
   entry_channels: 
 - entry_name: |
+    ankara'nın en çok sevilen yanı
+  entry_id:  102880455
+  entry_writer: usuyitik
+  entry_fav_count: 3
+  entry_content: |
+    ıstanbul'un büyülü gerzekliginden muaf olması mesela. <br/><br/>ekmek gibi su gibi sade bir şehir olması.<br/><br/>istanbul, herkesin bahanesi. <br/><br/>trafikte yol vermeyenin, metroda sıraya riayet etmeyen kabanın, vahşi kapitalistin, arkadaşlığa üşenen vasatın, insanlık tembelliğine yakalanmış insansının, nasıl bir günahın ürünü olduğunu anlayamadığın taksi şoförünün, öğrencisine parmak ucuyla dokunan öğretmenin, işini düzgün yapmayan ustanın, terazisine hile karıştıran bakkalın, aşığını zengin değil diye reddeden kezbanın, komşusunu yok sayan mukimin, fildişi kulesinde tanrıcılık oynayan bohemin bahanesi.<br/><br/>ankara neysen o şehri; daha mert, daha medeni, daha soğuk... <br/><br/>yakası yıpranmış kibarlığın, evde kalmış da kurumuş, kurudukça aksileşmiş bir umudun şehri...<br/><br/>ankara'nın en güzel yanı istanbul'dayken özlenmesi...
+  entry_channels: anket,seyahat
+- entry_name: |
+    geceye bir şarkı bırak
+  entry_id:  102881699
+  entry_writer: bravveheart
+  entry_fav_count: 2
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/WvRGe0EeIhg" title="https://youtu.be/WvRGe0EeIhg">king crimson - epitaph</a>
+  entry_channels: anket,müzik
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  102920982
+  entry_writer: dreamworld
+  entry_fav_count: 2
+  entry_content: |
+    canımı gerçekten sıkan bir sürü olay silsilesi üzerine tabağı, çanağı duvara fırlatmakla (hiç tavsiye etmem, sonra temizlemesi var), kafayı yastığa gömüp 36 saat uyumak (maalesef yarın iş var, bu da olmaz) arasında gidip gelirken şu sayfaya bir bakayım dedim. lan! ne istediniz be güzelim dertleşme sayfamızdan? eskiden burada yollarımızın kesiştiği kişilerle havadan sudan konuşup kafa dağıtıyorduk, şimdi nerde boş beleş ve abaza tip varsa üşüşmüş çorbaya üşüşen sinek gibi...<br/><br/>tiksindim ve sinirlendim.<br/><br/><a class="b" href="/?q=s%c3%b6zl%c3%bck+bana+kar%c4%b1+bul+lan+allahs%c4%b1z">sözlük bana karı bul lan allahsız</a> başlığı neyinize yetmedi?<br/><br/>bak geliyorlar yine soldan soldan.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
     2 mart 2020 eva sling rezeleti
   entry_id:  102924686
   entry_writer: cay yok bok icin
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     yardım etmek zorunda olduğunu düşünmüyorum, paranı da iade etmiş şikayet edilen kısmı anlamadım, ss leri de okumadım
   entry_channels: 
 - entry_name: |
-    kolombiyalı kızın twerk dansı
-  entry_id:  102926003
-  entry_writer: ucurulan caylak
+    yalnızlık
+  entry_id:  102897838
+  entry_writer: sicario2
+  entry_fav_count: 1
+  entry_content: |
+    dayanabilen için büyük bir güçtür.
+  entry_channels: ilişkiler,sanat,tarih,müzik,edebiyat
+- entry_name: |
+    pişmeden önce daha lezzetli olan yiyecekler
+  entry_id:  102928240
+  entry_writer: laiklik ilkesi
+  entry_fav_count: 1
+  entry_content: |
+    kesinlikle kestane
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    mültecilerin bulgar sınırını kullanmama nedeni
+  entry_id:  102907119
+  entry_writer: tintinna
+  entry_fav_count: 1
+  entry_content: |
+    çünkü yunan bunları kamplara atıp gemilerle hooop italyaya yani avrupanın kucağına bırakıyor. bulgarı geçmek zor.
+  entry_channels: siyaset
+- entry_name: |
+    sözlük nick'lerinden meslek tahmini yapmak
+  entry_id:  102928173
+  entry_writer: avecers
   entry_fav_count: 0
   entry_content: |
-    seyretmeyin, günah.
-  entry_channels: 
+    hadi beni tahmin edin
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    ay ile biten adlar
+  entry_id:  102927096
+  entry_writer: selimyarangumeli
+  entry_fav_count: 0
+  entry_content: |
+    (bkz: <a class="b" href="/?q=kutsal+bilgi+kayna%c4%9f%c4%b1+olarak+ek%c5%9fi+s%c3%b6zl%c3%bck">kutsal bilgi kaynağı olarak ekşi sözlük</a>)
+  entry_channels: anket
 ---
