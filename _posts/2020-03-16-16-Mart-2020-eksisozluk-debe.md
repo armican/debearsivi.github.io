@@ -1,0 +1,405 @@
+---
+layout: post
+title: 16 Mart 2020 Ekşi Sözlük Debe
+data:
+- entry_name: |
+    umreden dönenlerin karantinaya alınması
+  entry_id:  103523544
+  entry_writer: aganin eli opulmez
+  entry_fav_count: 1881
+  entry_content: |
+    en üst edit: "hocam merhaba lütfen entryne edit yaparak öğrencilerinin mağduriyetini de ekleyebilir mısın? bugün sadece bir anatomi kitabı 300 lira iken öğrencilerin şahsi eşyaları bilgisayarları gibi bir çok şey yurtta kaldı. evine giymis olanlarin neredeyse herşeyi orada kaldı ve o.an orada olanlar apar topar çıkarıldıkları için hiç bir şey alamadılar yanlarına neredeyse.<br/>o yurtlarda cebinde 10 lirası olmayan kızlar kalıyor yazıktır günahtır kimse muhattap bulamıyor yapacak bişey yok gitti diyorlar"<br/><br/>üst edit: devletimiz ankara'da ve konya'da olmak üzere 10 bin kişiye yakın umreci vatandaşları kyk yurtlarında karantina altına almış. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/gundem/umreden-donenler-ankarada-karantinaya-alindi-41469270" title="https://www.hurriyet.com.tr/gundem/umreden-donenler-ankarada-karantinaya-alindi-41469270">kaynak</a><br/><br/>üst edit: sadece umreden dönenler değil yurtdışından gelenler de zorla karantina altına alınmalı. her başlıkta bir art niyet aramayın. umreden gelenlere kin beslediğim falan yok. <br/><br/>artık olması gerekendir. 21 bin kişi devlet zoruyla karantina altına alınmalıdır. vatandaşlara 14 gün evde oturun demenin hiçbir anlamı yok. yasak getirilmeli ve ağır yaptırım uygulanmalı. bu işin şakası yok. <br/><br/>(bkz: <a class="b" href="/?q=14+g%c3%bcn+kural%c4%b1na+uymayan%c4%b1n+ceza+almas%c4%b1+gereklili%c4%9fi">14 gün kuralına uymayanın ceza alması gerekliliği</a>)<br/><br/>üst edit: devletimiz ankara'da ve konya'da olmak üzere 10 bin kişiye yakın umreci vatandaşları kyk yurtlarında karantina altına almış. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/gundem/umreden-donenler-ankarada-karantinaya-alindi-41469270" title="https://www.hurriyet.com.tr/gundem/umreden-donenler-ankarada-karantinaya-alindi-41469270">kaynak</a><br/><br/>üst edit: sadece umreden dönenler değil yurtdışından gelenler de zorla karantina altına alınmalı. her başlıkta bir art niyet aramayın. umreden gelenlere kin beslediğim falan yok. <br/><br/>artık olması gerekendir. 21 bin kişi devlet zoruyla karantina altına alınmalıdır. vatandaşlara 14 gün evde oturun demenin hiçbir anlamı yok. yasak getirilmeli ve ağır yaptırım uygulanmalı. bu işin şakası yok. <br/><br/>(bkz: <a class="b" href="/?q=14+g%c3%bcn+kural%c4%b1na+uymayan%c4%b1n+ceza+almas%c4%b1+gereklili%c4%9fi">14 gün kuralına uymayanın ceza alması gerekliliği</a>)
+  entry_channels: sağlık,seyahat
+- entry_name: |
+    ahır burası bizi burada hasta edecekler
+  entry_id:  103553695
+  entry_writer: my little cookie
+  entry_fav_count: 1573
+  entry_content: |
+    öğrencilerin ne boktan ortamlarda yaşamaya çalıştıklarını anlarlar belki.<br/><br/>ahırmış. ulan elin evladı bazen yeri geliyor 4 senesini geçiriyor orada. hic olmazsa kapat ceneni de defolup gidene kadar sus.<br/><br/>hakikaten iflah olmaz bir pislik var bazılarında.<br/><br/>ekleme: öğrenci niye böyle yurtlarda kalıyormuş, neden ses çıkartmıyormuş.<br/>herhalde bunu söyleyen arkadaşlar baska ülkede yaşıyor. daha birkaç ay önce yemek zammı için eylem yapan öğrenciler terörist olmadı mı? yoksa ben mi yanlış hatırlıyorum? üstelik o yemek olayı sadece bir üniversite özelindeydi. şimdi hadi gidin de devletin kurumu için eylem yapın. önce fetocu, sonra pkklı, en son da anarşist olursunuz.<br/>neyin kafası bu? savunmaya bak. umreden dönenler herhalde bunları yazıp gönderenler.<br/>madem öğrenciler ses çıkartmıyor, siz çıkartın öyleyse. yok, yılanın ucu size dokunmadığı zaman sesiniz hiç çıkmaz.<br/><br/>ayrıca insanlar doktor, hemşire yok diye isyan ediyormuş. ben tam okumamışım. hayret, ahır kelimesinin geçmeye başladığı andan itibaren doktor/hemşire söylemi nedense hiç yok. direkt mekanın ahıra benzediğini söylemiş vatandaş. öncelikle düzgün okuyun, sonra eleştirin derim. hem ahırla hekimin ne alakası var? cidden inek ahırında size on tane hekim baksa, başınızda 5 tane de hemşire olsa sıkıntı çıkmayacak mı yani?<br/>bu arada; ahırda doktor olmaz, veteriner olur.
+  entry_channels: siyaset,sağlık,haber
+- entry_name: |
+    türkiye'yi makarnaya boğarız
+  entry_id:  103535024
+  entry_writer: girabic
+  entry_fav_count: 1210
+  entry_content: |
+    yazıyı okuyunca, bir an kendimi makarna dolu bir çukurun içine atılmış, çırpınıyor gibi hissettim.
+  entry_channels: haber,yeme-içme
+- entry_name: |
+    covid şüpesi olan kızını hastaneden kaçıran baba
+  entry_id:  103543653
+  entry_writer: aqp 1990
+  entry_fav_count: 1104
+  entry_content: |
+    toplum sağlığını tehlikeye atmaktan bu şerefsize gerekli cezalar verilmeli.
+  entry_channels: sağlık,haber
+- entry_name: |
+    avm-der'in avm'lere gelin çağrısı
+  entry_id:  103543131
+  entry_writer: cerkez prens
+  entry_fav_count: 1036
+  entry_content: |
+    sağlık personeli teyakkuzdaymış, ohh içim rahatladı.<br/><br/>ne yapacak sağlık personeli ? virüsü görüp, yakalayıp kavanoza mı hapsedecek ?<br/>parmak kesiği mi bu, pansuman yapıp bantlayıp halletsinler.<br/><br/>herkes sadece kendi mamasını düşünüyor, ne biçim oldu lan memleket...
+  entry_channels: haber,ekonomi
+- entry_name: |
+    umreden dönenlere vebalı muamelesi yapılması
+  entry_id:  103535230
+  entry_writer: ikiekmekaldimevegidiyorum
+  entry_fav_count: 732
+  entry_content: |
+    maldivlerden de gelseler umreden de gelseler aynı tepkiyi vereceğimiz durumdur. dinin emri olan sey hac, umre turistik gezi. durum ortadayken ne demeye kalkıp gittiler. bu umrecilerin sorumsuzluğu yüzünden bütün ülke zarar görecek.<br/><br/>edit: bir troll vakası olan başlık açma girişimi. çok da şaapmamak lazım, sonuçta beyin fonksiyonları tam kapasite ile çalışmayan bir yaşam formu. yazmayın boşuna, başlığa prim yaptırıp sol frame'a taşımaya gerek yok.<br/>(bkz: <a class="b" href="/?q=troll+ba%c5%9fl%c4%b1klar%c4%b1na+entry+girmeyelim+kampanyas%c4%b1">troll başlıklarına entry girmeyelim kampanyası</a>)
+  entry_channels: sağlık
+- entry_name: |
+    umrecilere tepki gösterenlerin kötü niyetli olması
+  entry_id:  103535106
+  entry_writer: strangemal
+  entry_fav_count: 600
+  entry_content: |
+    ab ve çin’den gelenlerin ülkeye alınmaması için onlarca başlık açıldı, binlerce girdi girildi.<br/><br/>umreciler risk taşıyor ve yüksek oranda. umarım ölürler, demiyoruz. 2 hafta beklesinler diyoruz, kendinizi değersiz görmeniz anlaşılır çünkü öylesiniz. <br/><br/>ancak sevabı, allah’ı bu kadar düşünüp, buna rağmen gidiyorsanız; insanları öldürebilecek hastalığı bulaştırmamak için gerekli tedbirleri siz almalısınız. <br/><br/>hak yemek, dolaylı olarak öldürmek, ölüme sebebiyet vermek, hasta etmek vs... gibi fiilleri işlemiş olmamak için tedbir alınmalı.
+  entry_channels: sağlık
+- entry_name: |
+    türkiye'de 6. korona virüs vakasının duyurulması
+  entry_id:  103522861
+  entry_writer: kertmeyen keler
+  entry_fav_count: 557
+  entry_content: |
+    umre nedir arkadaş? yıl 2020 ulan 2020.<br/><br/>edit: bana özelden umre dersi veya din dersi vermek isteyenler için editliyorum. hac zamanı gidiyorsan, ibadetini yapıyorsan yap. halihazırda günümüzdeki hac ibadeti dahi ticaret olmuşken bir de umreye gitmek gereksiz sadece araplara para kazandırmaktır.<br/>bana bu durumu savunmayın kalbinizi kırarım.<br/><br/>edit 2: bakın güzel kardeşlerim ben kimseye hakaret etmedim ama maşallah en müslüman sizlerin sülalemin altından girip üstünden çıkıyorsunuz, demediğiniz kalmıyor.<br/>ben sadece gerçeği anlamanızı istiyorum. isteyen istediğini tabii ki yapabilir. ama bu arap dediğimiz ırk veya tür neyse bu insanların dinini sömürüyor, yani evrensel olması gereken sistemi insanlara parayla sunuyorlar. ben de diyorum ki yapmayın, farkına varın. din evrenseldir ve herkesin hakkıdır ve bu yüzden kimse bunu ticarete dökmemeli. bu sadece müslümanlar için değil hristiyanlar için de geçerli. kiliseler vergi de almamalı. veya din işlerinden kim para alıyorsa hepsi için geçerli. bunu anlamak bu kadar zor mu ya?
+  entry_channels: sağlık,haber
+- entry_name: |
+    15 mart 2020 chp il kadın kolu kongresi
+  entry_id:  103545262
+  entry_writer: paintman
+  entry_fav_count: 525
+  entry_content: |
+    hayır il başkanı bir de hekim.<br/>comarlik her yerde anasını satayım .
+  entry_channels: siyaset,haber
+- entry_name: |
+    15 mart 2020 tahran'da gökten patlıcan yağması
+  entry_id:  103553789
+  entry_writer: umuda kursun islemez gulum
+  entry_fav_count: 451
+  entry_content: |
+    mevsimi de değil halbuki.
+  entry_channels: haber
+- entry_name: |
+    15 mart 2020 umreden dönen kişinin ölmesi
+  entry_id:  103551538
+  entry_writer: uc tel bir omur
+  entry_fav_count: 407
+  entry_content: |
+    (bkz: <a class="b" href="/?q=vaziyet+al%c4%b1n+buras%c4%b1+kar%c4%b1%c5%9facak">vaziyet alın burası karışacak</a>)<br/><br/>edit:<br/><br/>kpss sorusu :<br/><br/>corona virüs'ünden ölen ilk müslüman şehidimiz kimdir?
+  entry_channels: bilim,sağlık,haber
+- entry_name: |
+    şaka maka evlenilecek kız kalmaması
+  entry_id:  103535628
+  entry_writer: antiochos1907
+  entry_fav_count: 344
+  entry_content: |
+    yani var ama herkese yetecek kadar yok , yani kolonya ve makarna gibi.<br/><br/>sen çocuğunun annesinin instagramda kendini abazalara takip ettiren , orasini burasini acan, elalemin bmw'sinde mercedesinde , yatinda story atan biri olmasini ister misin
+  entry_channels: ilişkiler
+- entry_name: |
+    türk kızlarının en büyük sorunu
+  entry_id:  103541805
+  entry_writer: biricik bardot mother of turtles
+  entry_fav_count: 322
+  entry_content: |
+    sizin gibi gerizekalı erkeklerle aynı ülkede doğmuş olmamız<br/><br/>edit: mesela üstteki gerizekalının profil fotosunu görünce midem kalktı yediğim elmayı kenara bıraktım. ama sorsan türk kızı bakımsız türk kızı şöyle böyle . sen nesin o zaman idiot. 3 gram kası var yok ,kıllı göğsünü pp yapmış. gövdenin genişliği 10 cm .<br/><br/>editttt :bu fotoda yüzümde fondöten yok, ruj yok , göz kalemi ve rimel var . yüzüm tarla olmuşmuş sjsjsjsjdjdj en çok övgü aldığım şey yüzüm, ve yüzümün pürüzsüzlüğü .gömecem diye niye böyle saçma olaylara girdin ki . :/ acıdım şuan adamın çaresizliğine.<br/><br/>son edit : adıma başlık açıp kendi bedenimle ilgili ne yapmam gerektiğine dair tavsiyelerde bulunan insanlar olmuş (bkz: @lotronturkey) bu yüzden sizin gibi erkeklerle aynı ülkede doğmanın büyük sorun olduğundan bahsetmiştim.beni anlayan ‘ insanlar’ erkek kadın farketmez anladı. anlamayanları kendi asalaklığıyla baş başa bırakıyorum.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    sars-cov-2
+  entry_id:  103522847
+  entry_writer: afedersiniz cok daha cirkin seyler
+  entry_fav_count: 281
+  entry_content: |
+    2364 kelimeliktir.<br/><br/>evet gençler, sınavdı ödevdi asistanlıktı derken yazamadım. aslında bir ay önce gireceğimden çok farklı bir entri olmayacağı ve şimdi daha ciddiye alınacağı için hayırlı olmuştur. bir yandan da, daha önce girilmiş birçok entrinin tekrarı olacak. virologlar doktorlar gayet kıymetli bilgiler vermişler, ben de biraz tarihsel bağlama oturtacağım. herkes iyi kötü bir şeylerin farkında ama bazı kavramlar eksik olunca resim tam oturmuyor, bu entride ben oturtacağım.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>1- tarihte plague, yani dünyayı kasıp kavuran bulaşıcı öldürücü salgın hastalık hiç eksik olmadı. bunlardan en meşhuru kara veba denilen <a class="b" href="/?q=black+death">black death</a>. 14. yüzyılın ortasında avrupa nüfusunun üçte biri ile yarısı arasında, tüm dünyanın dörtte biri civarında insanı öldürdü. ufak bir not, türkçede plague veba diye çevriliyor, ama ingilizcede ve literatürde salgın hastalık olarak da kullanılıyor, veba bunlardan yalnız biri.<br/><br/>2- eski dünyadaki (avrasya ve afrika) bütün büyük şehirler periyodik olarak, mesela 10 senede bir, veba, tüberküloz, tifüs, grip, cüzzam, kızamık, kolera, çiçek hastalığı şeklinde bir salgın hastalığa maruz kalırdı ve netice birçok faktöre bağlı olsa da, nüfuslarının yaklaşık %20sini kaybederdi. şehir nüfuslarının uzun vadede azalmamasının sebebi kırsaldan göç almaları.<br/><br/>3- bu o kadar yaygın ve monoton bir şeydi ki tarihi kaynaklarda birkaç kelime dışında bahsedilmezdi. türkiye’de her sene üç dört bin insan trafik kazalarında hayatını kaybediyor, ama üç yüz sene sonra tarihçiler şimdiki mgk toplantısı kayıtlarına veya popüler ekşi sözlük başlıklarına baksa bunu göremez çünkü trafik kazasında ölüm 'normal'.<br/><br/>4- fakat bazı salgın hastalıklar diğerlerine göre çok daha yıkıcı ve kayıtlara geçmiş. allah korusun, mesela trafik kazalarında ölenlerin sayısı seneye, birkaç binden yirmi bine zıplasa, topluma mal olmuş şahıslar hayatını kaybetse normal olan anormal addedilir, büyük kayıtlara geçerdi. sıradan salgınlar kayda geçmeyip ciddi olanlar geçince, bu tip vakalar uzun süre tarihçilerde nadiren oluyormuş izlemini yarattı.<br/><br/>5- dikkat ettiyseniz eski dünya diyorum. coğrafi keşifler sonucu eski dünya'ya tanıtılan yeni dünya’da, yani amerika kıtasında salgın hastalık (plague) yok, nezle gibi sıradan hastalıklar var. çünkü salgın hastalıkların hemen hepsinin kökeni, yani patojenleri, hayvanlar. avrasya'daki hayvanlar (at, eşek, öküz, koyun, tavuk, domuz vs.) amerika'daki hayvanlara (bizon, buffalo vs.) göre daha evcilleştirilebilir ve terbiye edilebilir olduğundan eski dünya'da insanla evcilleştirilebilir hayvanlar arasındaki ilişki daha sık ve yakın. bir de bu hastalıkların çabuk yayılması için gereken nüfus yoğunluğuna sahip büyük şehirler olduğu için, salgınlar eski dünya'dan çıkmakta. daha da spesifik olursak, bu evcilleştirme ve şehirleşmenin tarih boyunca en yüksek olduğu güneydoğu asya'dan çıkmakta. şu <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=JEYh5WACqEk" title="https://www.youtube.com/watch?v=JEYh5WACqEk">vidyo</a> yararlı olacaktır. <br/><br/>7 - burada bir parantez açmak gerekiyor. salgın hastalıkların genelde güneydoğu asya'dan yani çin'den çıkması ırkçı yorumlara sebep olmakta. ırkçılığın absürtlüğünü bir tarafa bıraksak bile, bu yaklaşım iki temel sebepten dolayı haksızca. <br/>7a) birincisi: günümüzdeki klasik medeniyet anlayışı, temel ihtiyaçların (yeterli besin ve can güvenliği) karşılanarak doğanın işleyişini anlamaya (felsefe ve bilim) ve bu anlamlandırmayı estetiğe (sanat) ve sermaye birikimine çevirmeye dayanmakta. sanayi devrimi öncesinde bu ancak, yüzde doksanı tarım ve hayvancılıkla uğraşan, üretim fazlasını devlete/tâbi olduğu krala vergi olarak ödeyen toplumlarda görülmekte. devlet/krallık da, teorik olarak, bu vergiyi medeni toplumu isyanlardan, yağmacılardan ve işgalcilerden korumaya; kalan az bir kısmını da, yarın ne yemek yiyeceğim sıkıntısına düşmediği için emeğini sanata ve bilime ayıran insanlara yönlendirmekteydi. tabii burada ciddi sorunlar var. tarım toplumunda sermaye birikimi çok kısıtlı olduğu için, aslında üretim fazlası diye bir şey yok, çiftçinin bin bir zorlukla ürettiği ürünün gaspı var, yani bu sistem ideal şartlarda dahi ucu ucuna kurtarmaktaydı. mesela kökeni babil kanunlarına dayanan ve roma’da da tithe olarak görülen aşar -onda bir- tarım vergisi aslında ağır bir vergiydi, şimdiki vergi dilimleri yüzde on beşten başlayıp elliye kadar çıkıyor, protestolara sebep olsa da kimse açlıktan ölmüyor. dolayısıyla basit bir kıtlık veya felakette milyonların ölmesi, düzenin altüst olması mümkündü. konuyu daha da dağıtmadan, bu klasik medeniyet anlayışının en optimize ve uzun soluklu görüldüğü yer çin. matbaa, pusula, barut, parmak izinin kimlik ayracı olarak kullanılması, bürokrasinin, kralın gözdeleri veya aristokratların akrabaları tarafından (patrimonyal devlet) değil, ulusal çapta sınav yaparak başarılı olanlar tarafından (meritokrasi - liyakata dayalı sistem) doldurulması, çin’de yüzlerce hatta binlerce yıldır bilinen şeyler. çin bu başarısını, tarım ve hayvancılığa dayanan sistemi maksimize etmesine borçlu. bu maksimizasyon da şehirleşmeyi, nüfus yoğunluğunu, hayvanların evcilleştirilerek tarımda, kümesçilikte, ahırcılıkta, taşımacılıkta kullanılmasını, kısacası insanların hayvanlarla daha sıkı fıkı olmasını gerektiriyor. ya medeniyet tanımınızı değiştirin ya da bu hastalıklar niye hep çin’den çıkıyor iğrenç herifler demeyi kesin.<br/><br/>7b) ikincisi: salgın hastalık üzerinden illa bir ırkçılık yapılacaksa, bunu yerli amerikalılar yapmalı. eski dünya’dan gelen, aslında hayvan kökenli hastalıklar, kristof kolomb yeni kıtaya adımını attıktan sonra, yerli amerikalıların yüzde doksanı öldürdü. salgınlar ile sürekli toplu ölüme maruz kalan, ancak kalanları nesiller boyunca daha iyi bağışıklık geliştiren eski dünya sakinleri bu değişimden (bkz: <a class="b" href="/?q=columbian+exchange">columbian exchange</a>) karlı çıkan taraf oldu. tabii başka faktörler de var: avrupalı işgalcilerin acımasızlığı, silah teknolojisi, yerli amerikalılarda olmayan atın avrupalılarca taşımacılıkta kullanılması, amerika’da da bazı hayvanları evcilleştirmesi (lama, köpek, hindi) ama ölçeğinin ve doğasının farklı olması, salgın hastalıklarından frengi hastalığının bir iddiaya göre amerika'dan gelmesi vesaire. şimdilik yeter. ben de tam bilmiyorum zaten, bilsem hoca olurdum, çömez doktora öğrencisi değil.<br/><br/>8) asyalılara karşı ırkçılığın öteki ucunda da aşırı politik doğrucular var, çin’e kızmayın bu onların yaşam biçimi, her kültür otantiktir süperdir vesaire. bu da yanlış çünkü salgın hastalıkların kökenin hayvanlar olduğu ve nüfus yoğunluğunun yüksek, hijyen şartlarının düşük olduğu yerlerde çabuk yayıldığı uzun süredir bilinmekte. hatta hayvanlardan geçecek hastalığa karşı en büyük önlem iki yüz bin yıldır bilinmekte: ateş ve yemeği pişirmek. e ona göre önlem alsana kardeşim. çinli godamanlar dünyanın en büyük ekonomisi olacağım, iki ayda 100 bin km yol 20 havalimanı inşa edeceğim derken asgari sağlık şartlarını temin etmeyi unuttu. bilmem kaç bin yıllık çin medeniyeti, canlı hayvan tüketimini ve pazarda açık alanda satılmasını daha iki üç hafta önce yasakladı. bu konuda eleştiriyi hakkediyorlar.<br/><br/>9) e peki tarih boyunca birkaç bin kişinin yaşadığı şehirleri vuran salgınlar şimdi milyonların yaşadığı şehirleri niye aynı sıklık ve öldürücülükle vurmuyor? aslında vuruyor, afrika’da hala kolera, veba, sıtma salgınları gözlemleniyor. ama modern dünya için cevap sanayi devriminin getirdiği avantajlar. çocuklara doğuştan aşı yapılması, insanların daha iyi beslenmesi (günümüzde obez olma ihtimali açlıktan ölme ihtimalinden daha yüksek), antibiyotiklerin ve ilaçların ulaşılabilir hale gelmesi, musluk suyunun kimyasallarla sterilize edilmesi, şehir altyapısının modernleşmesi vb. bu altyapı olayını biraz açmak istiyorum: tarihte bazı istisna metropoller (pekin, delhi, kahire, bağdat, istanbul, londra) dışında, şehir nüfusu birkaç on bin civarındaydı çünkü imkanlar bu kadarına müsaade ediyordu. hem kamyonun tankerin olmadığı dönemde şehirlerin tedarik edilmesi zordu, hem de altyapı olmadığı için atık su ve içme suyu olarak aynı kaynak, şehrin dibinden geçen dere kullanılırdı. nüfus azken pek sorun olmasa da nüfusun arttığı dönemlerde salgın hastalıklar ortaya çıkar ve nüfusu olması gereken yere, yani doğal kaynakların insan sayısını karşılayabildiği seviyeye çekerdi. bir nevi doğanın dengesi. mesela ilk maddeye geri dönersek, kara veba öncesi dünyanın nüfusu 475 milyon tahmin edilirken sonrası 375 milyon tahmin edilmekte. demek ki 14. yüzyılın şartları o kadar nüfusa izin veriyormuş. aynı şeyi tekrarlayacağım ama bu anlattıklarım çok kaba ve biraz da yanıltıcı. sanayi devrimi öncesinde de nüfus artışı, hayat standartlarının yavaştan da olsa yükselişi, salgın hastalıkların yıkıcılığın azalması, hijyende gelişmeler var; ama sanayi devrimi sonrasıyla kıyaslayınca komik kaçıyor. <br/><br/>10) peki insanlık sanayi devrimiyle salgın hastalıklara karşı mücadelede bu kadar gelişme gösterdiyse sorun ne? sorun şu: bu gelişme dediğimiz şey bize hastalıkların nasıl yayıldığını, geniş kitlelere nasıl tesir ettiğini unutturdu. bu coronavirüs hastalığı çıkınca sorulan ilk sorular acaba virüs genetik mühendislik örneği mi, aşısı ne zamana çıkar, ne kadar öldürücü? gerçek şu: sen istediğin kadar ilaç kullan, istediğin kadar kimyasal dezenfektör tüket, istediğin kadar aşı yaptır, eğer dünyada nüfus yoğunluğu ve etkileşimi fazla, hijyen ve beslenme koşulları kötü ise, herhangi bir hastalık salgın (plague) haline gelebilir. bunun en sahih örneği birinci dünya savaşında ortaya çıkan ispanyol gribi. normal gripten bir farkı olmamasına rağmen, harbin getirdiği kıtlık, askerlerin cephede çekmek zorunda kaldığı iğrenç hijyen koşulları, çatışmalar ve toplumsal çalkantıların getirdiği hareketlilik nedeniyle, hastalığa beş yüz milyon insan yakalandı ve 20 ile 50 milyon insanı öldürdü. sayının çok belirsiz olmasının sebebi cephede yaralanmış, sonra gribe yakalanmış ve yeterli beslenememekten ölmüş birini hangi kategoriye sokacağımızı bilmememiz. sonuçta ama öldü efendim.<br/><br/>11) kişisel gelişimcilerin çaresizseniz çare sizsiniz saçmalığına benzeyecek ama, hastalığı yayan aslında insanların kendisi. bunu idrak ettiysek bazı soru-cevaplarla ufkumuzu biraz da genişletelim:<br/><br/>12) soru: kardeşim hastalığı insanlar yayıyor diyorsun da hırsızın hiç mi günahı yok? cevap: yok, çünkü patojen ömrünü devam ettirmek için misafir olduğu vücuda bağımlı. yani patojenin bulaştığı vücudu öldürmesi onun için bir başarı hikayesi değil. sen içinde barındığın ekmeğini yediğin aile evini yakar mısın?<br/><br/>13) soru: o zaman patojenler neden insanları öldürüyor? cevap: patojen kendini hala hayvan vücudunda sanıyor ve aynı mekanizma ile çoğalmaya devam ediyor. bu mekanizma, hayvan için basit nezle, insan için öldürücü bir şekilde ilerliyorsa geçmiş olsun.<br/><br/>14) soru: patojen şöyle sanıyor filan diyerek bu canlılara bilinç yüklemiş olmuyor musun? cevap: aslında bu felsefi bir soru. şahsi fikrim bilincin bir yanılsama olduğu. diyelim ki hayvandan insana geçmiş patojende bilinç yok. o zaman patojene bilinç aşılasak ve desek ki birader çok fazla üreyip bütün vücudu ele geçirme çünkü bu vücut senin alışık olduğun şekilde işlemiyor, bokunu çıkarırsan sen de vücutla beraber ölürsün desek patojen imana gelir mi? bence gelmez çünkü aslında bilinç diye bir şey yok. bu iddiamı da şuna dayandırıyorum: en bilinçli canlı bildiğimiz kadarıyla insanoğlu. ve sen insanlara, patojene dediğin şeyin bir benzerini diyorsun: birader çok fazla üreyip yaşadığın dünyayı tüketme, çünkü kaynaklar senin sandığın gibi sonsuz değil. ama sonuçta bir şey değişmiyor gibi gözüküyor. insanların tüketim ve üreme alışkanlıkları bilinçli bir tercihle sürdürülebilir seviyeye gelirse haksız çıkarım, dünyanın yok olmasıyla gelirse haklı çıkarım. görürüz yakında.<br/><br/>15) soru: hastalığın bulaşıcılığı ile öldürücülüğü arasında bir ilişki var mı? cevap: evet, doğanın dengesinden kaynaklanan ters orantılı bir ilişki var, coronavirüse özgü değil. eğer bir patojen bulunduğu vücudu çok çabuk öldürürse çoğalıp başka vücutlara bulaşacak zamanı olmaz. dediğim gibi, amaç aslında öldürmek değil.<br/><br/>16) soru: bu coronavirüs genetik mühendislik sonucu çıkmış olabilir mi? cevap: hayır, bu soruya virolog arkadaşlar cevap vermiş zaten ama tekrar edelim. dna'da iki aminoasitin yerini değiştirince süper özelliklerin açılması, örümcek adam filminde filan olan şeyler. üstelik, virüsün genetik olarak kodlanmasına gerek yok çünkü bu işi kendi daha iyi yapıyor. lise eğitiminden bildiğiniz üzere, virüsler bir hücreye girip, hücrenin kaynaklarını kendi kopyalarını üretmek için kullanmakta. ama bu kopyalarda illa ki bir hata çıkıyor. yanlış üretimlerin çoğu bir halta yaramasa da, biri şans eseri çetin ceviz çıkabilir. bu cevizin de ölmeden ya da bağışıklık sistemi tarafından öldürülmeden kendini çoğaltması, o çoğalanların da başka vücuda bulaşıp yeni bir salgına yol açması, kısacası mutasyona uğrayarak yeni bir salgına dönüşmesi çok düşük bir ihtimal. ama yukarıda açıkladığım maddelerde görüldüğü üzere, bu ihtimali yükselten insanların kendileri. tamamen numbers game yani. bir de bu komplo teorilerini biraz tutarlı uydurun. borsası son 30 senenin en büyük çöküşünü yaşayan, sanayisi, turizmi, topladığı vergisi gümleyen herhangi bir devlet niye böyle bir şey yapsın. bari bireysel emeklilik fonu, sgk filan çıkardı deyin, ölüm oranları 60 yaş üstü için korkutucu.<br/><br/>17) soru: bu virüs neden bu kadar hızlı yayılıyor? cevap: virüsün yayılma şeklini, ilk 10 maddede açıkladığım üzere, insanlar belirliyor ve şu anki aşamada yayılış hızı üstel (exponential) fonksiyon. bu konu ile ilgili çok güzel bir <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=Kas0tIxDvrg" title="https://www.youtube.com/watch?v=Kas0tIxDvrg">vidyo var</a>, tavsiye ederim. vidyoyu biraz özet geçersek: üstel fonksiyonu matematikten veya adaya bırakılan tavşan popülasyonu deneyinden herkes duymuştur ama özümsemi biraz zor gelebilir. üstel fonksiyonlarda, küçük sayılarda artış doğrusalmış (lineer) gibi gözükür ama belli bir sınırı aşınca korkutucu boyuta varır. haberlere bakarsanız, bilmem ne ülkesinde ilk gün 3 vaka görülür, sonraki gün 5'e çıkar, birkaç gün sonra 80 yaşında biri ölmüştür ama önemli değildir çünkü hasta yaşlıdır ve tek kişidir. böyle ufak ufak devam ederken bir iki hafta sonra, şok üstüne şok, dün bin tane vaka tespit edilmiş, yüz kişi ölmüştür. üstel fonksiyonlara hoş geldiniz. sonra kendi ülkende bir vaka tespit edilir, dersin ki adamlarda binlerce var biz de sadece 1 tane var, bizim sağlık sistemi adamlardan bin kat daha iyi. ertesi gün senin ülkende de 3'e çıkar, sonra 5, olayı anladınız sanırım. <br/><br/>18) soru: hızı kesebilir miyiz? cevap: tabii ki. bir önceki maddede belirttiğim vidyoyu lütfen seyredin. birincisi, bir süre sonra üstel fonksiyon büküm (inflection) noktasına kendiliğinden varacak, yani virüsün yayılma hızı yavaşlayacak, çin'de oldu bile. ama bunun gerçekleşmesi için çin’in aldığı katı önlemleri almak gerekir mi bilmiyorum. ikincisi, üstel fonksiyonların büyüme hızı parametrelere çok hassas. örneğin, hastalık büküm noktasına 30 günde varıyor ve her günün sonunda hasta sayısı önceki günün 1.5 katına çıkıyor. hesap yaparsak otuz günde hasta sayısı yaklaşık 190 bine varır. diyelim elimizi yıkayarak, karantina uygulayarak, yeterli vitamin ve kalori alarak yayılma oranını 1.2'ye indirdik. bu sefer otuz günde hasta sayısının ulaşacağı sayı 237 olacak. fark ortada.<br/><br/>19) soru: bu virüs biraz abartılmıyor mu? cevap: kardeşim bir saattir ne anlatıyorum ben? olay virüs değil insanlığın kendisi. belli ki, şu anki insan dağılımı ve davranışları, salgın hastalıkları ve bunun getirdiği krizleri muhtemel kılıyor, kökten değişim şart. hiçbir şey olmasa küresel ısınmayı ve çevre felaketini durdurmak için şart. virüsün öldürücülüğü yüksek değil ama yoğun bakım gerektirme oranı yüksek. sağlık sistemini çökertme tehlikesi var ve bu tehlike de tamamen insanlığın geldiği noktayla alakalı. asgari ücretle yeterli besin alınamazken, iş hayatının yoğunluğundan insanlar yeterince uyuyamazken ve her gün milyarlarca insan işe gitmek için tıkış pıkış seyahat ederken bu virüs, diğer tüm virüsler gibi, tehlikeli. <br/><br/>20) soru: hangi ürünleri stoklayayım? cevap: kardeşimmmmmm!!!! mesele virüs değil, tek bir insan da değil, mesele tüm insanlık. sen sanayi devriminin yarattığı, iş bölümünün tavan yaptığı bir toplumda yaşıyorsun, bütün toplumun işleyişine bağımlısın. içme suyun dereden değil şebekeden, yediğin ekmek kendi tarlanda yetiştirdiğin buğdaydan ve pişirmek için kullandığın tandırdan değil mahalle fırınından, meyveler kendi topladığın ağaçtan değil pazardan, tükettiğin et ormanda avladığın hayvandan değil kümesten geliyor. kendin için stok yapsan en fazla iki hafta dayanır, ama sen stok yaparsan fırıncıya, kümesçiye, pazarcıya, ürün dağıtımında çalışan işçiye kalmaz veya ürünlerin fiyatı artacağından ulaşılmaz hale gelir. çiftçi pazara meyveyi götünü yıkamadan getirdikten sonra, evinde 50 koli tuvalet kağıdı zulalamışsın neye yarar. asıl korkman gereken bu tedarik zincirinin sekteye uğraması, sen de stokçu panik alışverişiyle bunu çok olası kılıyorsun. serbest piyasanın işlemesi için neden toplu ve çoklu üretimin gerekli olduğunu, ve bunun neden tarım toplumunda olamayacağını anlamışsındır sanırım.<br/><br/>21) soru: türk milleti olarak biraz fazla tepki vermedik mi? cevap: valla bütün toplumlar aşağı yukarı benzer tepkiler gösteriyor, twitter’de #panicbuying etiketinden takip edebilirsin. hastalık farklı zamanlarda farklı bölgelere yayıldığından zaman çizelgesi değişiyor sadece.<br/><br/>22) soru: özet olarak? cevap: elinizi yıkayın. mobilitenizi kısın, panik yapmayın, ciddiye alın. en çok da, başkaları ciddiye almazken ciddiye alın. herkes alırken çok ciddiye almanıza gerek yok :).
+  entry_channels: bilim,sağlık
+- entry_name: |
+    özgür demirtaş vs ssg
+  entry_id:  103530302
+  entry_writer: shevko
+  entry_fav_count: 270
+  entry_content: |
+    biri bilim adamıdır.diğeri ekmeğinin peşinde bir çakal.
+  entry_channels: anket
+- entry_name: |
+    ateisti aydınlatmak mı yoksa hiç uğraşmamak mı
+  entry_id:  103549631
+  entry_writer: cimbi
+  entry_fav_count: 258
+  entry_content: |
+    sen yanındaki üzümü karart, aydınlatmak senin boyunu aşar.
+  entry_channels: 
+- entry_name: |
+    almanya'nın corona için 500 milyar euro fonlaması
+  entry_id:  103552690
+  entry_writer: seylann
+  entry_fav_count: 234
+  entry_content: |
+    nereden bakarsan bak inanılmaz bir olay. alman devleti resmen "bırakın gelsin biz buradayız" demiş alman halkına. korkunç bir gövde gösterisi lan bu. özel sektöre ve vatandaşına dimdik durması için sonsuz güven aşılamışlar. işte devlet dediğin böyle olur. ben böyle devletin daşşağını yerim. biz olsak corona vergisi koyup halkı sikmeye kalkarız. nitekim kalkacağız eminim.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/avrupa/almanya-kesenin-agzini-acti-500-milyar-euro-41468590" title="https://www.hurriyet.com.tr/avrupa/almanya-kesenin-agzini-acti-500-milyar-euro-41468590">kaynak</a><br/><br/>ekleme: aşağıda bir arkadaş bu paranın hibe değil kredi olduğunu söylemiş. he canım bir sen akıllısın zaten ben okumadım haberi. ulan adam tek kuruş faiz istemiyor ateşlenen bu paraya. sadece uzuuuuun senelere yayarak ertelemeli geri ödeme alıyor. ayrıca içinde hibe olan kısımlarda var. resmen dilenciye para beğendiremiyoruz.
+  entry_channels: siyaset,sağlık,haber,ekonomi
+- entry_name: |
+    2020 senesini atlatmış efsane nesil
+  entry_id:  103535935
+  entry_writer: nicksiznick66
+  entry_fav_count: 199
+  entry_content: |
+    bölüm sonu canavarını başarıyla geçebilirsem 2021 yılının ilk gününde editlerim.
+  entry_channels: anket,tarih
+- entry_name: |
+    eli ile taharetlenen ülkenin hijyen düzeyi
+  entry_id:  103523673
+  entry_writer: vakamijin
+  entry_fav_count: 168
+  entry_content: |
+    ciddi ciddi hayatında alaturka tuvalete sıçmamış insanlar olduğunu düşünmeye başladım.<br/><br/>bir insan alaturkadan nasıl kaçabilir lan hayatı boyunca nasıl hayatlar yaşıyorsunuz lan? biz mi fakiriz anlamadım ki?<br/><br/>hayır bi de ciddi ciddi anlatmış, inanamıyo anlam veremiyo falan...<br/><br/>bakın anlatıyorum. alaturka tuvalet diye bir şey var tamam mı. <a rel="nofollow noopener" class="url" target="_blank" href="https://cf.kizlarsoruyor.com/q10464823/4d93402c-a874-4bcb-89b8-9f5be828ae75.jpg" title="https://cf.kizlarsoruyor.com/q10464823/4d93402c-a874-4bcb-89b8-9f5be828ae75.jpg">alaturka</a><br/><br/>önce götünü tuvalet kağıdıyla siliyosun(evrensel)<br/><br/>sonra;<br/><br/>maşrapaya su doldurup bir elinle diğer eline döküyosun o elinle şap şap götünü yıkıyosun.<br/><br/>sonra tekrar tuvalet kağıdıyla kuruluyosun, güzelce elini yıkıyosun ve çıkıyosun. kimse bokunu deşmiyo amk merak etmeyin(tuvalet kağıdı biterse başka)<br/><br/>not: kışın şantiyede tuvalete girmiştim. su donmuş. buz parçalarıyla yıkamıştım amk götümü. hey gidi.<br/><br/>edit: adam duş demiş ya. hee işyerinde de müdürden izin alırım, "müdür bey ben sıçtım da bi eve gidip duş alıp gelebilir miyim?" diyelim, veya dışarda falan mekan'ın sahibine "pardon duş var mı acaba ben sıçtım da" diyelim.
+  entry_channels: sağlık
+- entry_name: |
+    said nursi'nin 2020 yılına işaret etmesi
+  entry_id:  103548954
+  entry_writer: martin luther nick
+  entry_fav_count: 144
+  entry_content: |
+    meczup bir şahsın yazılarını ciddiye alan korona'ya yakalanmaya mahkumdur.<br/><br/>prof. dr. ricky martin
+  entry_channels: 
+- entry_name: |
+    serra yılmaz'ın türkiye'ye dönmek istemesi
+  entry_id:  103555416
+  entry_writer: cagosil
+  entry_fav_count: 141
+  entry_content: |
+    ister mi istemez mi bilmiyorum ama; <br/><br/>serra yılmaz kim amk yazanı da bir zahmet atın abicim bu sözlükten
+  entry_channels: sanat,sinema,sağlık,haber
+- entry_name: |
+    esra elönü
+  entry_id:  103553146
+  entry_writer: sol but oyuncusu
+  entry_fav_count: 138
+  entry_content: |
+    sadece dün yazdıklarından bazıları:<br/>sıcak havaların coronayı bitireceğini söyleyen twit rtledi <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/aidokucu/status/1232046434146451457?s=19" title="https://twitter.com/aidokucu/status/1232046434146451457?s=19">link</a><br/>tıp bayramı kutlayan kılıçdaroğlu'na 15 temmuzda çıkmamıştın dedi <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/elonue/status/1238762617575006208?s=19" title="https://twitter.com/elonue/status/1238762617575006208?s=19">link</a><br/>israilli siyasetçiye inşallah virüs bulaşır kurtulamazsın dedi <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/elonue/status/1238553598432284672?s=19" title="https://twitter.com/elonue/status/1238553598432284672?s=19">link</a><br/>endişeli insanların alışveriş yapmalarıyla dalga geçti. yerli otomobile burun bükenler market arabası sürüyor dedi. fazla kekleniyoruz, çok abartılıyor dedi <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/elonue/status/1238702014441324544?s=19" title="https://twitter.com/elonue/status/1238702014441324544?s=19">link</a> <br/><br/>bir gün geçtikten sonra babası öldü, ilahi adalet bu olsa gerek. sanırım bundan sonra insanlarla sataşırken, beddua ederken iki kere düşünür.<br/><br/>edit: öyle deme yazık diyenler ötede duyar kassın, ki kötü bir şey demedim. birine kötü niyetle yaklaşırsan-beddua edersen döner seni bulur, buna ilahi adalet denir. yani yorum bile yapmadım, olanı söyledim.
+  entry_channels: siyaset,tv,haber
+- entry_name: |
+    türklerin corona virüsü ciddiye almaması
+  entry_id:  103544754
+  entry_writer: bos kafa mezara
+  entry_fav_count: 103
+  entry_content: |
+    malum dün cumartesi gecesiydi ve instagram’dan takip ettiğim kadarıyla alkollü mekanlar doluymuş, herkes eller havada yapıyormuş. <br/>anladığım kadarıyla eğitimli kesimin sadece bir bölümü bu salgını ciddiye alıyor. kalanlar hayatlarına hiçbir şey olmamış gibi devam ediyor. bugün pazar , kafeler dolu, kahvaltı yerleri dolu. aldığım habere göre avm lerde kalabalıkmış. yurt dışından dönenler umarsızca gezmeye devam ediyor, umreden gelenlerin durumu ortada. eğer böyle giderse italya’dan çok daha kötü olacağız. devlet istediği kadar ciddiye alsın, bireysel sorumsuzluklar bu salgının ülkemizde yaygınlaşmasının temel sebebi olacak. <br/>bakın olaya karamsar yaklaşmak istemiyorum ama eğer bu işi ciddiye almazsak, 10 binlerce hasta, binlerce ölü olacak. gerekmedikçe evden çıkmamak gerekiyor.<br/><br/>not : italya’da ilk virüs vakası 31 ocak’ta görülmüş.<br/>6 gün sonra ilk ölüm gerçekleşmiş.<br/>15 gün sonra vaka sayısı 1577 , ölenleri sayısı 41 imiş.<br/>şu an vaka sayısı 21157, ölü sayısı 1441.<br/><br/>edit: birisi demiş ki; ne istiyorsunuz, makarna stoklayıp evde mi kalalım? <br/>öncelikle bu sığ düşüncelerden arınalım.<br/>şunu demek istiyorum, sadece bu dönem kendimizi biraz kısıtlayalım, örneğin eğlence mekanlarından, kafelerden uzak duralım, zorunlu olmadıkça avmlere gitmeyelim, zorunlu olmadıkça toplu taşımayı kullanmayalım. namaz kılmak için camiye gidenler , ibadetlerini evlerinde yerine getirsinler. <br/>işe gitmemiz gerekiyorsa, toplu taşımayı kullanmak zorundaysak, tedbirlerimizi alıp gidelim. market alışverişi ihtiyacımız varsa alışverişi yapıp eve geri dönelim. yurt dışına çıkmamız zorunlu değilse iptal edelim. zor bir dönemden geçiyoruz. bunu kabul edip ona göre davranalım.
+  entry_channels: sağlık
+- entry_name: |
+    canan kaftancıoğlu
+  entry_id:  103546653
+  entry_writer: gelmeyengelir
+  entry_fav_count: 86
+  entry_content: |
+    yobazın sağcısı solcusu olmaz sözünün kanıtı olan siyasetçi ve tıp doktoru ...
+  entry_channels: siyaset,haber
+- entry_name: |
+    ssg
+  entry_id:  103526171
+  entry_writer: dufreine
+  entry_fav_count: 75
+  entry_content: |
+    özgür demirtaş ile tartışmasında haksız olmasının yanına itici uslubu da eklenince iyice barzo durumuna düşmüştür.
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    öğrenci yurduna burası ahır diyen umreciler
+  entry_id:  103555954
+  entry_writer: akimist
+  entry_fav_count: 74
+  entry_content: |
+    araplara para kazandıracağına işte öğrencilerin ne yaşadığını görün de onlara yardım edin. biliyorum aranızda umre konusunda tur bindirenler var, sözüm özellikle onlara...
+  entry_channels: siyaset,sağlık,haber,seyahat
+- entry_name: |
+    14 mart 2020 konyaspor fenerbahçe maçı
+  entry_id:  103527123
+  entry_writer: beton adam
+  entry_fav_count: 70
+  entry_content: |
+    başlığı altındaki yorumlara bakınca her şeye rağmen akp'nin nasıl 20 senedir iktidar olduğu anlaşılan maç. <br/><br/>takım top oynamıyor, kadro leş, kulüp transfer yapamayacak durumda, başkan başkan, topçu topçu, hoca hoca değil, hala "sistematik biçimde yarış dışında bırakılan fenerbahçe" yazıyor fenerliler.<br/><br/>kulüp alenen şike yapar, tapeler, görüntüler bir bir ortada, "şike yok, operasyon çekiliyor, yıkılmayan son kale fenerbahçe" der fenerliler. <br/><br/>hakem fener aleyhine 1 hata yaparsa rakibi aleyhine 2 hata yapar, fenerliler "hakem katletti" der.<br/><br/>işte akp seçmeni de böyle. ülke ne kadar kötü olursa olsun "büyük resim", "dıj güçler", "içimizdeki hainler" der akp seçmeni, "ulan biz nasıl yönetiliyoruz arkadaş" demez.<br/><br/>dünyanın en güzel, en rahat iki işi varsa biri türkiye'de iktidar olmak, diğeri fenerbahçe'ye başkan olmak. "dış güçler", "son kale", "bay kemal", "sistematik bir şekilde yarışın dışında bırakıldık" işte bunlar anahtar kelimeler. 20 sene koltuğun rahat.<br/>(bkz: <a class="b" href="/?q=aziz+y%c4%b1ld%c4%b1r%c4%b1m">aziz yıldırım</a>) <br/>(bkz: <a class="b" href="/?q=akp">akp</a>)
+  entry_channels: spor
+- entry_name: |
+    ssg'nin özgür demirtaş'a verdiği cevap
+  entry_id:  103522952
+  entry_writer: amprikuku
+  entry_fav_count: 67
+  entry_content: |
+    yaşadığı ülke ile sözlük'ün ve kullanıcılarının bulunduğu ülkeyi karıştırmış bir sedet içeren cevaptır.<br/><br/>suç olsa site kapatılırmış.<br/><br/>neyin suç neyin suç olmadığına karar veren kişi için atatürk hakkında açılan başlıkların aynısını açmasını tavsiye ediyorum.<br/><br/>kendi moderatörleri gg diye silmezse havalimanından giriş yapacağı günü nasıl bekliyorlar şahit olmuş olur.<br/><br/>ya kafası güzel ya da gerçeklik algısını tamamen kaybetmiş. belki de hiç dayak da yememiş olabilir.<br/><br/>moderatöre cahillik yaptığı için cahil dediğiniz için hesabınızı kapattıkları sözlük'te akp'nin ekmeğine yağ süren atatürk'e iftira atılan başlıkları açanlar cirit atıyor.<br/><br/>sedet bey ise "sıç ılsı sıtıyı kıpıtırlır" buyuruyor, yazık...<br/><br/>(bkz: <a class="b" href="/?q=14+mart+2020+%c3%b6zg%c3%bcr+demirta%c5%9f+ek%c5%9fi+s%c3%b6zl%c3%bck+karar%c4%b1%2f%40amprikuku">14 mart 2020 özgür demirtaş ekşi sözlük kararı/@amprikuku</a>)
+  entry_channels: siyaset,ekşi-sözlük,haber
+- entry_name: |
+    corona varken gym'e gitmek
+  entry_id:  103535351
+  entry_writer: varyete
+  entry_fav_count: 65
+  entry_content: |
+    umreden gelip dışarıda dolaşanlardan farkı olmayan andavalların yaptığı eylem. bir çoğu <a class="b" href="/?q=bana+bir+%c5%9fey+olmaz">bana bir şey olmaz</a> mantığında. sanıyorlar ki onlar için endişeleniyoruz. bizim endişemiz siz değilsiniz de yayacağınız hastalık ile başkalarını yakacaksınız.<br/><br/>en son 2001 yılında grip olan ve 8 senedir haftada ortalama 4,5 gün gym’e giden biri olarak ilk defa kaydımı dondurdum. olmazsa asıl bana bir şey olmaz; ama başkasına zarar vermeye hakkım yok. evde vücut ağırlığı ile veya ormanda koşarak spordan uzak kalmamaya çalışacağım. yapılması gereken de budur.
+  entry_channels: spor,sağlık
+- entry_name: |
+    düğünlerin iptal olması gerekliliği
+  entry_id:  103540198
+  entry_writer: fareyekafaatanpisikopatfare
+  entry_fav_count: 58
+  entry_content: |
+    ülkede toplu organizasyon olarak bir tek düğünler kaldı.acilen düğünlerin devlet tarafından iptal edilmesi lazım. 700-800 kişilik düğünler oluyor. en riskli ortam herkes sarmaş dolaş oynayan elele halaylar çekenler. kesinlikle iptal edilmeli. evet düğün sahibi için de bir travma ama sorumluluk almalılar. onlar evlenecek diye binlerce kişi ölsün mü? ki bu iptalin devlet tarafından olmalı ki düğün sahiplerinin belki mağduriyetleri giderilebilir. <br/><br/>not: bu entry'i girerken içinde bulunduğum durumu da baz aldım. akşam kuzenimin kızının düğünü var gitsem bir dert gitmesem ayrı dert. gidip hemen kalkamazsın. kalkmasan yer altı düğün salonunda 800 kişinin içinde corona kapmasan elbet bişey kaparsın. tabi bir de 20 aylık kızım da var..
+  entry_channels: ilişkiler,sağlık
+- entry_name: |
+    dizi isimlerini corona ile değiştir
+  entry_id:  103554902
+  entry_writer: yesilerigimbenim
+  entry_fav_count: 53
+  entry_content: |
+    adını corona koydum.
+  entry_channels: anket,tv,sağlık
+- entry_name: |
+    ingiltere'nin corona virüsüne önlem almaması
+  entry_id:  103539134
+  entry_writer: sen gelsene bi
+  entry_fav_count: 47
+  entry_content: |
+    bu corona mevzuu çok hükümetin canını yakacak. hükümetler hastalığı sanki sosyal güvenlik harcalamalarini kısmak nüfusu gençleştirmek için kullanıyor gibi. avrupa'da hangi ülkeye giderseniz gidin şehirler huzurevi gibi. sokaklar 80-90 yaşında insanlarla dolu. eminim ki çok daha fazlasının sokağa çıkacak dermanı yoktur. bu virüs yaşlı insanlarda yüzdelik olarak çift rakamlarda öldürme oranına sahip. aile bağları zayıf olduğu için bu kişileri bakıp kolllayacak yakınları da yok. bütçede milyarlarca dolarlık tasarruf yapma imkanı var, tersine yaşlıları korumak isterlerse bütçeleri bu harcamaları kaldıramaz. özellikle liberal hükümetlerin bu virüs gizliden bir disk temizleme gibi gördüklerini sanıyorum.<br/><br/>yaşlılar bir oy deposu ve siyaseti temelden belirliyorlar. en temel beklentileri sosyal devlet. bunu da daha çok sosyal demokratlar sağlıyor. liberaller ise sürekli emekli yaşının artırılmasını, başta sağlık olmak üzere sosyal transfer harcamalarının azaltılmasını, vergilerin dusurulmesini istiyor. sosyal harcamaların bu düzeyde gitmesi halinde vergilerin azaltılması imkansiz. yaşlılarin oy dagilimindaki oranı sürdükçe liberallerin gönlünden geçen reformlari uygulamaları pek mümkün değil.<br/><br/>bu yüzden koruma tedbirleri için devasa harcamalar yapmaktansa göze görünür bazı tedbirlerle süreci goturuyorlar. bunun en tipik örneği italya'nın yalniz birakilmasidir. ab yunanistan'a mülteciler için ongordugune benzer bir yardım paketi uygulama italya'da bu kadar ölüm olmazdı. <br/><br/>liberallerin planı buysa şu an için tıkır tıkır işliyor demektir. ama insanlar yakınlarını kaybettikce giderek hükümetleri ve genel olarak da sosyal harcamalara karşı çıkan liberalleri suçlamaya başlayacaklar.<br/><br/>ali kemal in torunu boris e gelirsek; büyük kumar oynuyor. sonu dedesi gibi linç edilmek olabilir.
+  entry_channels: siyaset,sağlık,haber
+- entry_name: |
+    yalnızlık seviyeni bir cümleyle anlat
+  entry_id:  103549515
+  entry_writer: saatin arkasindaki civi
+  entry_fav_count: 42
+  entry_content: |
+    yalnızlığı hayatında kadın olup olmamasıyla ilişkilendiren insanları gördüğüm başlıktır. yalnızlık böyle bir şey değildi bence ya.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    osmanlının her millet'e yenilmiş olması
+  entry_id:  103553359
+  entry_writer: attilanin yigit komutani altar
+  entry_fav_count: 42
+  entry_content: |
+    o saydığın ülkelere karşı da zaferleri var diyeceğim ama umutsuz bir trol vakası ile karşı karşıyayız.
+  entry_channels: 
+- entry_name: |
+    evdeki kedi ile tartışma yaşamak
+  entry_id:  103556321
+  entry_writer: moronihahaya
+  entry_fav_count: 42
+  entry_content: |
+    benim evde tartışma genellikle kardeşler (kedim ve köpeğim) arasında yaşanıyor ama tamamen kedinin suçu: uyuyan köpeğin kafasına basmak, burnuna oturmak gibi edepsizlikler yapıyor. ben de kardeş kavgasını ayırmak için duruma müdahale etmek zorunda kalıyorum. kedime “sen haksızsın, sen suçlusun” dediğimde de pati yiyorum.<br/>evdeki hiyerarşide en altta ben varım, kabul ediyorum!
+  entry_channels: ilişkiler
+- entry_name: |
+    kadınların köleliğe genetik olarak yatkın olması
+  entry_id:  103551415
+  entry_writer: bulutlari bekleyen
+  entry_fav_count: 28
+  entry_content: |
+    bu ara bunlar ipleri tamamen aldılar ellerine; ateist, lgbti, kadın, doktor, öğretmen... farklı ve bilinçli kim varsa planlı bir aşağılama faaliyeti var sözlük'te ve sosyal medyada.<br/>bakalım ne çıkacak altından bunun...
+  entry_channels: ilişkiler
+- entry_name: |
+    15 mart 2020 galatasaray beşiktaş maçı
+  entry_id:  103536313
+  entry_writer: tek kapakta sinirsiz konusma
+  entry_fav_count: 26
+  entry_content: |
+    dünyanın gözü bu derbide çünkü o saatte başka maç yok
+  entry_channels: spor
+- entry_name: |
+    boşanma davasına bakacak hakim bulamazsınız
+  entry_id:  103557114
+  entry_writer: antihero
+  entry_fav_count: 19
+  entry_content: |
+    futbol sevmediğim için mi iki kez boşandım acaba?
+  entry_channels: 
+- entry_name: |
+    15 mart 2020 iran'a gökten patlıcan yağması
+  entry_id:  103554204
+  entry_writer: suntii
+  entry_fav_count: 18
+  entry_content: |
+    serverda hatalar oluyor herhalde gm gelip en kısa sürede el atmalı
+  entry_channels: haber
+- entry_name: |
+    öldüğünde münker ve nekirin gelmediği an
+  entry_id:  103559123
+  entry_writer: jfc
+  entry_fav_count: 15
+  entry_content: |
+    sabırla gelmesinin beklendiği andır.<br/><br/>"şu anda tüm münker ve nekir meleklerimiz diğer ölülere hizmet vermektedir. sabrınız için teşekkür ederiz."
+  entry_channels: 
+- entry_name: |
+    younes belhanda
+  entry_id:  103556834
+  entry_writer: underzero
+  entry_fav_count: 14
+  entry_content: |
+    coronavirus bile bulaşmaya utanır öyle mikrop bir insan.
+  entry_channels: spor
+- entry_name: |
+    tip hariç kadınları aşık ettirebilecek şeyler
+  entry_id:  103552333
+  entry_writer: cumartesi gecesi evde oturan ezik
+  entry_fav_count: 14
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://imgflip.com/i/3soiv7">https://imgflip.com/i/3soiv7</a>
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    15 mart 2020 trabzonspor'un verilmeyen penaltısı
+  entry_id:  103557535
+  entry_writer: jeffrey dahmer
+  entry_fav_count: 12
+  entry_content: |
+    bakın bugüne kadar hiçbir futbol başlığına yazmadım. taraftarlıktan, holiganlıktan hep kaçındım ancak bir beşiktaşlı olarak söylüyorum ki buna penaltı vermeyen hakem çok net ama çok net bir çıkar peşindedir. bu çıkarmak diye olur veya başka bir şey olur bilmem ama kesinlikle bir çıkarı vardır
+  entry_channels: spor
+- entry_name: |
+    kitap okurken yazıların altını çizmek
+  entry_id:  103556626
+  entry_writer: nurse betty
+  entry_fav_count: 9
+  entry_content: |
+    herkesin kendi tercihidir. kime ne? bu bir aşağılama sebebi mi?<br/>kitap okuma tarzımız ile dahi ayrıştırma eylemine tâbi tutulmak komik mi, trajik mi bilemiyorum?<br/>ben bu konuda epey ilerlemiş durumdayım. neredeyse kitaplığımda yazılı/çizili olmayan hiç kitap yok gibi. bu tutumum ergenlik yıllarımdan beri böyle..<br/>sevdiğim, aklımda yer eden satırların altını kurşun kalem ile hafifçe çizerim hatta bununla da kalmayıp kitabın kenarına köşesine minik notlar alırım. nerede okuduğuma, ne zaman aldığıma dair...<br/>ayrıca hikayesi, yazım tarzı ve içeriği ile benzeşen başka bir kitap var ise onun adını da bir kenara yazarım. kimseden kitap ödünç almıyorum, kimseye kitaplarımı da vermiyorum. onlar bana aitler, dilediğim zaman alıp kitaplıkta kafama takılan satırlara bakmak belki küçük bir konfor ama yine de huzur veriyor.
+  entry_channels: edebiyat,eğitim
+- entry_name: |
+    an itibarıyla yazarların nerede olup ne yaptığı
+  entry_id:  103522863
+  entry_writer: drbaris
+  entry_fav_count: 8
+  entry_content: |
+    evdeyim. kızımla birlikte 1234567890 kez çöpçüler kralını izliyoruz.
+  entry_channels: anket
+- entry_name: |
+    corona ile 3 ay önce enfekte olduğumu düşünüyorum
+  entry_id:  103525209
+  entry_writer: your dirty words
+  entry_fav_count: 7
+  entry_content: |
+    “normalde gribi 1 haftada atlatırım” diyenleri “aslında akp’li değilim” diyenlere benzettiğim başlık.
+  entry_channels: sağlık
+- entry_name: |
+    herkes sevdiği halde sevilmeyen yiyecek
+  entry_id:  103557543
+  entry_writer: eski harfler
+  entry_fav_count: 6
+  entry_content: |
+    midye..<br/><br/>midem almıyor onu nedense..
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    yazarların en beğendiği kolonya kokusu
+  entry_id:  103535625
+  entry_writer: 38atp
+  entry_fav_count: 4
+  entry_content: |
+    selin’in ardıç ve paşabahçe’nin kirazlı kolonyası. <br/><br/>efsane kokuyorlar.
+  entry_channels: anket,ekşi-sözlük,sağlık
+- entry_name: |
+    fatih terim
+  entry_id:  103558204
+  entry_writer: paul sahillleri
+  entry_fav_count: 1
+  entry_content: |
+    'seyirciler insan da biz değil miyiz?' diyerek gereken saplamayı yapmıştır.<br/><br/>bir haftadır ağlamak dahil her türlü şerefsizliği yapanlara da saplayacaktır.<br/><br/>senelerdir yaptığı gibi.
+  entry_channels: spor
+- entry_name: |
+    15 mart 2020 trabzonspor medipol başakşehir maçı
+  entry_id:  103551156
+  entry_writer: hop hop hop temas yok
+  entry_fav_count: 1
+  entry_content: |
+    <a class="b" href="/?q=pasl%c4%b1+oynuyoruz+beyler">paslı oynuyoruz beyler</a> hali saha repligini duymus gibi hissettiren mac. abdülkadir'e ne zaman top gelse, abdü abdü diye bagiriyorlar. maca odaklanamiyorum, ne konusuyorlar diye dikkat kesildim haha<br/><br/>merak ettigim diger konu ise, <a class="b" href="/?q=mustafa+sarp%27%c4%b1n+juan+pablo+pino%27ya+etti%c4%9fi+k%c3%bcf%c3%bcr">mustafa sarp'ın juan pablo pino'ya ettiği küfür</a>une benzer durum yasanirsa, beinsport bip koyarak sansurleyecek mi? <sup class="ab"><a title="(bkz: haha)" href="/?q=haha" data-query="haha">*</a></sup>
+  entry_channels: spor
+---
