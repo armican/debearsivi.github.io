@@ -6,7 +6,7 @@ data:
     müteahhitler battı mutlu musunuz
   entry_id:  103600404
   entry_writer: buharpunk
-  entry_fav_count: 1211
+  entry_fav_count: 1253
   entry_content: |
     beter olsun ve hatta daha da beter olsunlar
   entry_channels: ekonomi
@@ -14,7 +14,7 @@ data:
     16 mart 2020 umrecilerin kaçma girişimi
   entry_id:  103613292
   entry_writer: karaage
-  entry_fav_count: 1007
+  entry_fav_count: 1086
   entry_content: |
     bu kadar zeki ve gerizekalı insanın bir araya geldiği toplum zor bulunur. tam bir mozaik amk.
   entry_channels: sağlık,haber
@@ -22,7 +22,7 @@ data:
     coronavirus'ü abartan tipler
   entry_id:  103596813
   entry_writer: kulufornia
-  entry_fav_count: 788
+  entry_fav_count: 796
   entry_content: |
     ben yas olarak bu hastalik karsisinda bagisiklik sistemimin yeterli olacagini dusunuyorum ve kendim icin cekinmiyorum ancak bana bulasirsa bulastirabilecegim yaslilar,bagisiklik olarak zayif durumda olan insanlar,kanser tedavisi sonrasi korunmasiz bir halde olan hastalar ya da kronik rahatsizliklari olan insanlari dusundugum icin ciddiye aliyorum. siz de ciddiye alin amina koyduklarim.
   entry_channels: anket,ilişkiler,sağlık
@@ -30,7 +30,7 @@ data:
     recep tayyip erdoğan
   entry_id:  103581570
   entry_writer: canned
-  entry_fav_count: 637
+  entry_fav_count: 667
   entry_content: |
     bugünlerde kendisi hakkında pozitif düşünmeye çalışıyorum. çünkü negatifliği hiç sevmem. inşallah her şey pozitiftir. siz de pozitif düşünün pozitif olsun.
   entry_channels: siyaset,haber
@@ -38,23 +38,15 @@ data:
     16 mart 2020 işe gidenler
   entry_id:  103588665
   entry_writer: karpuzuncekirdegi
-  entry_fav_count: 610
+  entry_fav_count: 613
   entry_content: |
     bu ortamda ne yapsam, rapor mu alsam diye düşündüren. rapor alsam nereye kadar alacağım. bugün rakip şirketler home office kararı vermişken, biz haftada bir gün home office yaparak mücadele edeceğiz. çalışana sıfır değer veren bir şirkette çalıştığımı öğrendim. şu korona belası bir gitsin, ilk işim iş değiştirmek olacak...
   entry_channels: anket,sağlık,haber,ekonomi
 - entry_name: |
-    menzil şeyhinin koronavirüsle konuşması
-  entry_id:  103608841
-  entry_writer: ortalama insan dusuncesine sahip insan
-  entry_fav_count: 543
-  entry_content: |
-    (bkz: <a class="b" href="/?q=ebu+l%c3%b6kosit">ebu lökosit</a>)
-  entry_channels: sağlık,haber
-- entry_name: |
     otel sahipleri zararlarını nasıl tazmin etsin
   entry_id:  103612967
   entry_writer: illegalstar
-  entry_fav_count: 524
+  entry_fav_count: 593
   entry_content: |
     gitsinler çin cumhurbaşkanından talep etsinler. ama adam makatlarına yarasa şiş sokarsa karışmam. ytd.
   entry_channels: anket,sağlık,ekonomi,seyahat
@@ -62,15 +54,23 @@ data:
     çevre ve şehircilik bakanlığından rekor ceza yemek
   entry_id:  103612596
   entry_writer: zagorun oglu magor
-  entry_fav_count: 502
+  entry_fav_count: 592
   entry_content: |
     ülkede güzel şeyler de oluyormuş, <br/><br/>umarım motoru bağıran bütün barzolara aynı cezayı katmerli katmerli geçirirler.
   entry_channels: siyaset,haber,motosiklet,ekonomi
 - entry_name: |
+    menzil şeyhinin koronavirüsle konuşması
+  entry_id:  103608841
+  entry_writer: ortalama insan dusuncesine sahip insan
+  entry_fav_count: 567
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ebu+l%c3%b6kosit">ebu lökosit</a>)
+  entry_channels: sağlık,haber
+- entry_name: |
     sokağa çıkma yasağı
   entry_id:  103584324
   entry_writer: bir delinin not defteri
-  entry_fav_count: 404
+  entry_fav_count: 405
   entry_content: |
     sokağa çıkma yasağından önce yurt dışından ülkeye giriş yasaklanmalı. tüm vakalar yurtdışından gelenler sebebiyle. vatandaşlar bulundukları yerde korumaya alınmalı.
   entry_channels: siyaset,sağlık,ekonomi
@@ -78,15 +78,23 @@ data:
     16 mart 2020 içişleri bakanlığı corona genelgesi
   entry_id:  103612075
   entry_writer: cenkdesouza
-  entry_fav_count: 373
+  entry_fav_count: 387
   entry_content: |
     hayırlı olsun olması gerekendir.<br/><br/>(bkz: <a class="b" href="/entry/103596654">#103596654</a>)<br/><br/>neredeyse kusursuza yakın kararlar alınıyor. sadece umrecilerde ve geçen hafta cuma yapılması hataydı. onlarda umarım pahalıya patlamamıştır.
   entry_channels: siyaset,sağlık,haber,ekonomi
 - entry_name: |
+    hindistan'da çok az corona virüs görülmesi
+  entry_id:  103615414
+  entry_writer: old school fucker
+  entry_fav_count: 346
+  entry_content: |
+    kimseye test yapmazsanız vaka da ortaya çıkmaz... burada olduğu gibi..
+  entry_channels: sağlık
+- entry_name: |
     16 mart 2020 camilerde ibadete ara verilmesi
   entry_id:  103607717
   entry_writer: poet
-  entry_fav_count: 334
+  entry_fav_count: 340
   entry_content: |
     camileri kapatıp yurtları ahır yaptılar...
   entry_channels: sağlık,haber
@@ -94,18 +102,26 @@ data:
     tsl 2020 8'li play-off
   entry_id:  103608120
   entry_writer: kendi kalesine gol atan kaleci
-  entry_fav_count: 308
+  entry_fav_count: 313
   entry_content: |
     öneri sahibinin iq 3, bilemedin 5.<br/><br/>her takım için zaten ligin sonuna 8 maç var. 8 takımı çift devreli maç yaptırsan o takımların oynayacağı 14 maç yapar. e bırakın ligi bitsin o zaman.<br/><br/>edit: zorla okuduğunu anlamayanlar için “her takım” ve “takımların” ifadeleri eklenmiştir. öneri sahibi hepinizden akıllı galiba.
   entry_channels: spor
 - entry_name: |
-    hindistan'da çok az corona virüs görülmesi
-  entry_id:  103615414
-  entry_writer: old school fucker
-  entry_fav_count: 276
+    kredi ve kredi kartı ödemeleri 2 ay ertelensin
+  entry_id:  103608131
+  entry_writer: sosyopatiz elhamdurillah
+  entry_fav_count: 275
   entry_content: |
-    kimseye test yapmazsanız vaka da ortaya çıkmaz... burada olduğu gibi..
-  entry_channels: sağlık
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/koftianarchist/status/1239476049123123200" title="https://twitter.com/koftianarchist/status/1239476049123123200">https://twitter.com/…ist/status/1239476049123123200</a><br/><br/>ayrıca yaşanan gecikmelerin kredi notunu ve sicili etkilememesi sağlanmalı.<br/><br/>corona virüs dolayısıyla mağdur olan çok sayıda insan var, 2 ay boyunca sokağa çıkıp borç ödemek zorunda bırakmayın bizi
+  entry_channels: ekonomi
+- entry_name: |
+    16 mart 2020 ali erbaş açıklaması
+  entry_id:  103602609
+  entry_writer: fuckgloballythinklocally
+  entry_fav_count: 260
+  entry_content: |
+    bu hafta kılınacak cuma namazı haftaya ertelenebilir. bi arkadaşım diyanette tespih o söyledi.<br/><br/>edit: bi arkadaşım ekolü yine haklı çıktı. şaka bir yana geç alınmış doğru karar.
+  entry_channels: siyaset,sağlık,haber
 - entry_name: |
     umreden gelen şahsın kyk odasında çektiği video
   entry_id:  103576863
@@ -115,69 +131,77 @@ data:
     konuşmayı bilmeyen, hedede hödödö yapan bir adet barzo içeren video.<br/><br/>lan puşt; biz mi dedik sana salgın varken zevkine kabe'ye turistik gezi yap diye? gencecik çocukları yataklarından edip yaşattığınız mağduriyet yetmemiş gibi bir de şartlardan şikayet etmişsiniz.<br/><br/>görün işte siz sağda solda göt gezdirip iğrenç bünyelerinize virüsleri alırken ülkenin geleceği olan gencecik çocukların ne şartlarda yaşadıklarını. kaldı ki odanın bir falsosu da yok, adam olana fazla bile.
   entry_channels: sağlık,haber,seyahat
 - entry_name: |
-    kredi ve kredi kartı ödemeleri 2 ay ertelensin
-  entry_id:  103608131
-  entry_writer: sosyopatiz elhamdurillah
-  entry_fav_count: 238
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/koftianarchist/status/1239476049123123200" title="https://twitter.com/koftianarchist/status/1239476049123123200">https://twitter.com/…ist/status/1239476049123123200</a><br/><br/>ayrıca yaşanan gecikmelerin kredi notunu ve sicili etkilememesi sağlanmalı.<br/><br/>corona virüs dolayısıyla mağdur olan çok sayıda insan var, 2 ay boyunca sokağa çıkıp borç ödemek zorunda bırakmayın bizi
-  entry_channels: ekonomi
-- entry_name: |
-    türkiye türkçesinin nüanssız ilkel bir dil olması
-  entry_id:  103604627
-  entry_writer: jqw
-  entry_fav_count: 186
-  entry_content: |
-    dilbilimci değilim ama götten tespit sıçmayı severim başlığına hoş geldiniz.
-  entry_channels: bilim,edebiyat,eğitim
-- entry_name: |
     16 mart 2020 fahrettin koca'nın açıklamaları
   entry_id:  103618801
   entry_writer: komacenokazim
-  entry_fav_count: 170
+  entry_fav_count: 199
   entry_content: |
     muhabir: ‘bundan sonra kişilere mikrofon dağıtılabilirse bu kadar bağırmak zorunda kalmayız.’<br/>koca:’pardon, afedersiniz’<br/><br/>bakanım bu hükümette işini sizin gibi yapanı görmeye hasret kalmışız. muhabiri terslemek yerine afedersiniz dedi ve üzerine espri bile yaptı.
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
-    burak akkul'un corona şüphesi
-  entry_id:  103602866
-  entry_writer: athlon64
-  entry_fav_count: 138
+    türkiye türkçesinin nüanssız ilkel bir dil olması
+  entry_id:  103604627
+  entry_writer: jqw
+  entry_fav_count: 188
   entry_content: |
-    malum karakter kısıtlaması.burak akkul ve eşinin corona şüphesi ile karantina altına alınması olacak başlığın tam hali.<br/><br/>edit: burak akkul videoyu kaldırmış. kayıt etmediğim için video elimde yok. eşi seda akkul hikaye paylaşmış halen sonuçları beklediklerini iletti. bu arada seda akkul kendisinin karantinada olmadığını, sadece test yaptırdığını söyledi.<br/><br/>edit 2 : yeni link geldi<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://mobile.twitter.com/sputnik_TR/status/1239546179920199687" title="https://mobile.twitter.com/sputnik_TR/status/1239546179920199687">haber linki</a><br/><br/>edit 3: burak akkul dan yeni paylaşım geldi. kendisine korona pozitif tedavisi uygulandığını açıkladı.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B9zT0pql4Za/?igshid=6ge4kky5282q" title="https://www.instagram.com/p/B9zT0pql4Za/?igshid=6ge4kky5282q">son açıklama</a><br/><br/>evet yeni soru 18 kişiye burak akkul dâhil mi değil mi?<br/><br/>gerekirse başlık şüpheden pozitif olmasına çevrilsin.<br/><br/>öncesinde burak akkul'da kim diyenler için: tv2 kanalında çok gezenti programının sunucusudur kendisi.<br/>kendisi ve eşi 5 gündür virüs şüphesi ile kartal eğitim araştırma hastanesinde tedavi olmalarına rağmen testin pozitif mi negatif mi olduğunu hakkında bir yanıt alamamalarından dert yakınıyor. <br/><br/>acaba durumu ciddi olmayanlar vaka sayısına dahil edilmiyorlar mı?<br/>ayrıca merak ettiğim bir konu neden vakaların ilçe bazında nerede olduğu açıklanmıyor. insanlar buna göre daha yüksek önlem alırlar.<br/><br/>vaka yerlerinin açıklanmaması ilgili çok mesaj aldım. kitlesel hareketlerin önüne geçmek, virüsün önüne geçmek için yapıldığı, italya'da virüsün yayılma hızının bundan dolayı arttığı bilgileri geldi. yeşillendiren suserlere teşekkürler. bu açıdan bakınca doğru bir yöntem.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B9ytN7YFwCF/?utm_source=ig_web_copy_link" title="https://www.instagram.com/p/B9ytN7YFwCF/?utm_source=ig_web_copy_link">kaynak</a>
-  entry_channels: tv,sağlık,haber,seyahat
+    dilbilimci değilim ama götten tespit sıçmayı severim başlığına hoş geldiniz.
+  entry_channels: bilim,edebiyat,eğitim
 - entry_name: |
-    sars-cov-2
-  entry_id:  103577481
-  entry_writer: wax simulacra
-  entry_fav_count: 129
+    bedelli askerlikte corona tehlikesi
+  entry_id:  103609117
+  entry_writer: isminivermekistemeyenbiryazar
+  entry_fav_count: 174
   entry_content: |
-    ciddi bir sorun ama bu ergenlerin neler yaşadık tiratlarından bıktım. ne yaşadın amk. dünya savaşı mı gördün, üzerine atom bombası mı atıldı, savaşta esir alınıp tecavüze mü uğradın, veba gibi büyük salgına mı yakalandın, nazi kamplarında işkence mi gördün?<br/><br/>evinde netflixden dizi izleyip kahveni yudumlarken entry giriyorsun. bu mu lan biz neler gördük talihsiz nesiliz tiradın?
-  entry_channels: bilim,sağlık,haber
-- entry_name: |
-    can kaybı olmadı ama olmayacağı anlamına gelmez
-  entry_id:  103618542
-  entry_writer: purplein
-  entry_fav_count: 121
-  entry_content: |
-    normal bir cevaptır.saçmalamayın artık.
-  entry_channels: sağlık
+    bedelli askerlikte var da normal olan askerlikte yok mu? para verenlerin canı vermeyenlerden daha mı değerli?
+  entry_channels: sağlık,eğitim
 - entry_name: |
     recep tayyip erdoğan'ın ortadan kaybolması
   entry_id:  103609672
   entry_writer: utopyax
-  entry_fav_count: 96
+  entry_fav_count: 163
   entry_content: |
     ekrem imamoğlu iki gün tatile gidince böğürenler nerede?
   entry_channels: siyaset
 - entry_name: |
-    16 mart 2020 donald trump'ın attığı tweet
-  entry_id:  103608969
-  entry_writer: chessboard
-  entry_fav_count: 83
+    ben yeşim salkım sorularınızı yanıtlıyorum
+  entry_id:  103602253
+  entry_writer: seldon von neumann
+  entry_fav_count: 145
   entry_content: |
-    "kim neye inanıyorsa ona yalvarsın, durum kontrolden çıktı" temalı twit.<br/><br/>koskoca birleşik devletler başkanısın sen amına koyayım. dünyayı sakinleştirmesi gerekirken "yaraaa yedik allahınıza dua edin" diye twit atmak ne demek lan...
-  entry_channels: siyaset
+    (bkz: <a class="b" href="/?q=ye%c5%9fim+bir+dur+zaten+ortal%c4%b1k+kar%c4%b1%c5%9f%c4%b1k">yeşim bir dur zaten ortalık karışık</a>)
+  entry_channels: ekşi-sözlük,magazin
+- entry_name: |
+    can kaybı olmadı ama olmayacağı anlamına gelmez
+  entry_id:  103618542
+  entry_writer: purplein
+  entry_fav_count: 141
+  entry_content: |
+    normal bir cevaptır.saçmalamayın artık.
+  entry_channels: sağlık
+- entry_name: |
+    sars-cov-2
+  entry_id:  103577481
+  entry_writer: wax simulacra
+  entry_fav_count: 131
+  entry_content: |
+    ciddi bir sorun ama bu ergenlerin neler yaşadık tiratlarından bıktım. ne yaşadın amk. dünya savaşı mı gördün, üzerine atom bombası mı atıldı, savaşta esir alınıp tecavüze mü uğradın, veba gibi büyük salgına mı yakalandın, nazi kamplarında işkence mi gördün?<br/><br/>evinde netflixden dizi izleyip kahveni yudumlarken entry giriyorsun. bu mu lan biz neler gördük talihsiz nesiliz tiradın?
+  entry_channels: bilim,sağlık,haber
+- entry_name: |
+    16 mart 2020 kyk karantina ortamı
+  entry_id:  103605453
+  entry_writer: bestern
+  entry_fav_count: 84
+  entry_content: |
+    şu bahçeye 15 tane masa 60 tane sandalye atmak o kadar zor mu yahu? millet karton kağıtların üstüne oturmuş iki büklüm yemek yemeye çalışıyor. suriyelilere 40 milyar harcadıysanız şuraya masa sandalye koyun bari.
+  entry_channels: sağlık,haber
+- entry_name: |
+    16 mart 2020 italya'da virüsten 349 kişinin ölmesi
+  entry_id:  103616868
+  entry_writer: hap var ot var
+  entry_fav_count: 74
+  entry_content: |
+    rakam ve sayı değil , insan canından bahsediyorsunuz, kendinize gelin ,bazı şeylere de saygınız olsun.
+  entry_channels: sağlık,haber
 - entry_name: |
     gram altın
   entry_id:  103601978
@@ -190,7 +214,7 @@ data:
     16 mart 2020 dolar kuru
   entry_id:  103593673
   entry_writer: uber insan
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     sözlük düşecek dediği için sabah 9 da tüm parama dolar aldım ve şimdiden artidayim. sözlük ne diyorsa tersini yapın her zaman kazanirsiniz. bu sözlüğün yazısız kuralıdır cahil yuvası burası.
   entry_channels: siyaset,haber,ekonomi
@@ -198,23 +222,15 @@ data:
     büyük bir kentimizde korona vaka sayısı patladı
   entry_id:  103608775
   entry_writer: herseysuperolacak
-  entry_fav_count: 60
+  entry_fav_count: 61
   entry_content: |
     bu tür haberleri yalanlayanların özgüveninin nerden geldiğini merak ediyorum.<br/>hayır biraz mantık yürütülse süreç nereye gidiyor net görülür. ne yani inkar edilince problem ortadan kalkıyor mu? <br/><br/>tele1 güvenilirdir değildir bilmem. fakat havuz medyasına inanıp karar alanlar varsa bir daha düşünsünler derim, en azından diğer ihtimali de atlamasınlar.<br/><br/>herkes çevresini uyarmalı; çok acil bir rahatsızlığınız yoksa hastanelerden uzak durun mesela. kulak-göz muayenesi için gitmeyin, diyetisyene gitmek hayati değil 1-3 ay bekleyin. gezmeyin. <br/>rutin alışkanlıklarınızı bırakın bir süre. <br/><br/>şeffaf olmayan, liyakat sorunu bulunan bir ülkede ne kadar güvende hissedebilir ki bir insan?<br/>ayrıca test yapma sayısı arttırılsın, güney kore örneği var, yetkililer oradaki önlemleri uygulasın. yoksa italya gibi olmak istemiyoruz.
-  entry_channels: sağlık,haber
-- entry_name: |
-    16 mart 2020 italya'da virüsten 349 kişinin ölmesi
-  entry_id:  103616868
-  entry_writer: hap var ot var
-  entry_fav_count: 60
-  entry_content: |
-    rakam ve sayı değil , insan canından bahsediyorsunuz, kendinize gelin ,bazı şeylere de saygınız olsun.
   entry_channels: sağlık,haber
 - entry_name: |
     16 mart 2020 işyerlerinde coronavirüs nabzı
   entry_id:  103608891
   entry_writer: uploader
-  entry_fav_count: 57
+  entry_fav_count: 59
   entry_content: |
     istanbul'da kurumsal bir şirketin genel merkezinde çalışıyorum, sağa sola dezenfektan koymaktan başka bir şey yapıldığı yok...
   entry_channels: sağlık,ekonomi
@@ -222,90 +238,114 @@ data:
     beyaz tv'nin kanada'yı avrupa'da sanması
   entry_id:  103615578
   entry_writer: halktanbirigibi
-  entry_fav_count: 34
+  entry_fav_count: 39
   entry_content: |
     karadağ diyor gibi geldi bana. karadağ'da henüz vaka görülmemiş durumda.
   entry_channels: tv,haber
 - entry_name: |
+    hiçbir şartta evden çalışmayacak meslekler
+  entry_id:  103592864
+  entry_writer: herewegogoagain
+  entry_fav_count: 37
+  entry_content: |
+    lan zeka testi mi bilgi yarışması mı yapıyorsunuz? belli işte neyini yazıyorsunuz teker teker?
+  entry_channels: anket,sağlık,ekonomi
+- entry_name: |
     iddaa'cılar bir ay boyunca ne yapacak sorunsalı
   entry_id:  103606412
   entry_writer: mionel lessi
-  entry_fav_count: 29
+  entry_fav_count: 30
   entry_content: |
     ben dün tunus kupası, vietnam premier ligi, endonezya 2. ligine kombine yaptım, deneyebilirsiniz. gollü geçiyor maçlar ama than hoao takımından uzak durun.
   entry_channels: spor,oyun
 - entry_name: |
-    16 mart 2020 corona vakasının saklandığının ifşası
-  entry_id:  103617654
-  entry_writer: sosyalsabotaj
-  entry_fav_count: 29
-  entry_content: |
-    gerizekalının teki bundan bize ne yazmış.<br/>böyle cehaletin aq ben<br/>virüs keşke iq puanına göre bulaşsa.
-  entry_channels: siyaset,sağlık,haber
-- entry_name: |
     corona önlemlerindeki mantık hatası
   entry_id:  103613868
   entry_writer: justlive4life
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     önlem alınmazsa o oranın %2 olarak kalacağını sanan yazar beyanı.<br/>önlem alınmazsa karşılaşılacak sağlık, güvenlik vb giderlerini düşünemeyen yazar beyanı ayrıca.
   entry_channels: sağlık
 - entry_name: |
+    hüpür hüpür yarasa yiyen vietnamlılar
+  entry_id:  103616778
+  entry_writer: qbzilla
+  entry_fav_count: 25
+  entry_content: |
+    ne iğrenç insanlar, içine temizlemeden bütün halde haşlıyor yarasayı, insan bir içini temizler güzelce yıkar öyle pişirir.
+  entry_channels: sağlık,haber,yeme-içme
+- entry_name: |
     türk kızının bugün çok güzelsin'e vereceği cevap
   entry_id:  103618774
   entry_writer: fourforty
-  entry_fav_count: 19
+  entry_fav_count: 23
   entry_content: |
     bunun "çok güzelsin" içeren bir diyaloğunu yakın zamanda gerçekleştirdiğim ve karşılığında alınan tepkiler silsilesinin diyeyim ben ona, muhtemelen sadece bir türk kadını ve erkeği arasında gerçekleşebileceğine inandığım vaziyet.<br/><br/>evime yakın ve işe giderken kullandığım yolun üzerinde ara sıra uğrayıp abur cubur vesaire aldığım bir market zincirinin şubesi var. genelde akşamları iş dönüşü uğruyorum. kasiyerlerden biri de hakikaten çok hoş bir hatun, ama herhangi bir aksiyonum falan yok, ödemeyi yap, iyi akşamlar bitti gitti. bir gün ben gene çikolatamı aldım, sıramı bekledim kasaya geldim, bana bakıp "bir çikolata için ne kadar sıra beklediniz" dedi gülerek. ulan 1000 tane adam geliyor o mağazaya bir ürün alıp sıra bekleyen tek kişi ben olamam ya niye sen şimdi böle dedin diye içten hafif bi işgillensem de fazla büyütmeden ehe mehe dedim iyi akşamlar deyip çıktım gittim. bir süre sonra gene akşam iş çıkışı bir uğrama, gene aynı çikolata, gene aynı kız, bu sefer de "siz benim dikkatimi çektiniz bir çikolata için ne kadar sıra bekliyorsunuz" dedi. ben gene ehe mehe ama işgil oranım da artmaya başladı tabi. aradan gene birkaç gün geçiyor, bu sefer bir haftasonu uğradım, ve 1 yerine iki ürün aldım, bu sefer kasada "bugün sıra yok ama bu sefer 2 ürün almışsınız" diye takıldı. sonra ben buna çıkarken hoşçakal dedim o da görüşürüz dedi ve muhabbetin kapılarını açtık. bakın dikkat edin muhabbeti kuran direkt hatun kişimiz. <br/><br/>gel zaman git zaman biz sohbet ediyoruz, günaydınlar nasılsınlar falan başladı, bu arada ne aldığıma kadar biliyor artık, değişiklik olunca bugün değişmiş diyor falan, lan kız da hakikaten güzel, dedim küçük bir iltifatla yoklayayım bakayım tepki ne olacak. bu arada kızın yakasında isim kartı yok ve ben adım gibi biliyorum ki gelen geçen kıza yürümeye çalıştığı için rahatsız olduğundan çıkarmış. velhasıl bir gün tam çıkarken, senin ismin niçin yazmıyor diye sordum, tam da beklediğim cevabı verdi, herkes ismimi öğrenmeye çalışıyor muhabbet açmaya çalışıyor rahatsız oluyorum artık dedi tam tahmin ettiğim gibi, ve bunu söylerken "yhaaa herkes bana yazıyo yaaa" havalarında değildi o kadar normal söylüyor ki hoşuma da gitti o hali. dedim ben senin başına böyle bir şey geldiğini tahmin ettim zaten "çok güzelsin". gayet normal teşekkür ederim dedi. görüşürüz dedim hoşçakal dedi, ben zannediyorum ki sorun yok her şey normal.<br/><br/>değilmiş amk. ertesi gün bir gittim kız yüzüme bakmıyor, kaçıyor lan bildiğin. ilk başta normal karşıladım, dedim kız yürüme sinyallerini aldı kırmızı ışık yaktı, erkek arkadaşı var mı yok mu vesaire hiçbir bok da bilmiyorum, hemen çektim kendimi. ne selam ne sabah, normal kartı uzat, temassız çekebilirsiniz, iyi akşamlar, çık git. <br/><br/>1-2 gün sonra hatunumuz iyice sapıttı. aldığım ürünün fiyatını söylemiyor, kredi kartımı bana vermek yerine bandın üstüne fırlatıyor falan tuhaf tuhaf hareketler. içimden lan dedim çattık. ama ben hiç bozuntuya vermiyorum, gayet normal, temassız çekebilirsiniz, iyi akşamlar bu kadar. aslında tersime gelse "sen napıyosun" diye bir cıngar çıkarsam kendi haksız duruma düşecek farkında değil.<br/><br/>sonra normale döndü, sonra gene anormal, ben de şaşırdım kaldım, çok anlamsız anasını satayım bir öyle bir böyle, hiç bozuntuya vermeden devam ediyorum, tek bir diyalog yok bak. huzursuzluğu da hiç sevmem durum hoşuma da gitmiyor normale dönsün istiyorum bir yandan.<br/><br/>sonra bir şey oldu, ben bir 10 gün uğrayamadım markete, 10. gün gelirken beni gördü, hatunun yüzünde güller açtı, önündeki kadın bir bana bakıyor bir kıza bakıyor niye gülüyor bu diye, ben iyice dumura uğradım anasını satayım. neyse kasaya gittim her şey normal, dedim tamam normale dönmüş. ertesi gün gene aldığım ürünün fiyatını söylemiyor.<br/><br/>velhasıl, çok güzelsin diyeceğin kıza dikkat edeceksin arkadaş :)))
   entry_channels: anket,ilişkiler
 - entry_name: |
     fahrettin koca
-  entry_id:  103589258
-  entry_writer: ozgur deniz
-  entry_fav_count: 17
+  entry_id:  103589118
+  entry_writer: irchin
+  entry_fav_count: 19
   entry_content: |
-    hala bulaşıcı hastalık birimlerine gerekli korunma aletleri ( maske, gözlük, elbise vs ) gönderememiş bir birimin başındaki bakandır.<br/><br/>acil telefon geliyor, işte şu adrese gidilip kan alınacak, <br/><br/>kan alacak hemşirenin 3m maskesi yok, koruma gözlüğü yok !!<br/><br/>döndün iş yerine elini temizleyeceksin, <br/><br/>dezenfektan sıvısı yok !!!<br/><br/>başarılı bakanmış ta süreci iyi yönetmiş te.. <br/><br/>20 gün sonra, bir yorum daha bırakın bu başlığın altına.
+    başlığının altında fantastik dertlere sahip insanları gördüğümüz bakan. sabah sabah tepem attı. "acil doktoruyum, ama acil doktorluğu yapamam, neden acil doktorluğu yaptırıyorsunuz?". peşin olarak bakana önerim; kimliğini tespit edip sistemden uzaklaştırın böylelerini, ileride dert olurlar yoksa.<br/><br/>şikayet sahibine gelince... bak arkadaşım, hiç öyle "anlayamazsın" falan deme, gayet de anlarım. seninkinin binde biri kadar sağlık sorunum nedeniyle ilgi duyduğum alan yerine başkasını yazdım ben yirmi sene önce. ki benim çalışacağım alan tıp gibi kritik de değildi, hani bazı işleri yapamasam çok da dert olmazdı. sen ne yapmışsın? kendi ifadenle zayıf bir bünyen olmasına rağmen hastalarla dipdibe bir alan seçmişsin. bunu silah zoruyla mı yaptın? hayır. şimdi ne istiyorsun? işinin gereğini yerine getirmemek. bunu da kendini "kurbanlık" olarak göstererek yapıyorsun. haksızsın.<br/><br/>seni gözden çıkartan bakan değil yine sensin. öyle "seçeyim nasıl olsa pis işleri için ben yapamam derim yaptırmazlar :))" diye şark kurnazı kafasıyla bu işe girersen hayallerinin yıkılması da gayet olasıdır. önünde iki yol var, ya bulunduğun pozisyondan istifa edersin, ya da işini adam gibi yaparsın. yok öyle "benim yerime başkası riske girsin"cilik. <br/><br/>herkes prens, prenses ülkede yaaa... beni de olimpiyatlara gönderin o zaman, 100 metreyi 10 dakikada koşuyorum ama ne yapayım yani :((<br/><br/>peşin edit: sakın ha "kendimi feda ettim" edebiyatı da olmasın ha. senin yerine tıp okuyup işini hakkıyla yapacak bir sürü insan vardı sırada. seninki fedakarlık değil hak gaspetmek.
   entry_channels: siyaset,sağlık,haber
-- entry_name: |
-    16 mart 2020 ekşici doktorların sessiz kalması
-  entry_id:  103616195
-  entry_writer: imacloud
-  entry_fav_count: 11
-  entry_content: |
-    zaten deli gibi çalışıyorlar gelip de burada "ağğbii vaka sayısı gizleniyoo bana bi vatsap sesi geldi bayburttaki annemin halasının kızının oğlu estetik cerrahı, 726867 vaka varmış." tarzı konuşan laftan anlamaz sığırlara zaman harcayıp ekstra mı yorulsunlar?<br/><br/>edit: daha geçen günlerde ekşi'de girdiğim muhabbeti anlatayım, doktorların niye uğraşmadığını anlarsınız. virüs başlığına devlet niye virüsü gizlesin bir anda 100-200 diye açıklansa veya bir anda bir ölüm gerçekleşse daha kötü bir durum olur devlet adına yazmıştım. birisinin yazdığı mesajlar:<br/><br/>"çin vakaları gizledi çok önceden haberleri vardı ayrıca benim bile kulağıma gelen bilgi var herkes her şeyin farkında"<br/>"ben internetten değil bizzat arkdaşımın sevgilisnin annesi ankarada baş hemşire o söylemiş kanarnti insanlar var diye"<br/><br/>ben de arkadaşa dedim ki bunlar klasik türkiye geyikleri bir zaman da erdoğan hakkında haftaya ölecek kanser manser diyorlardı dedim gelen mesaj şu.<br/><br/>"iyide erdoğan kanser zaten ama devamlı kontrol altında ayrıca ilk anda müdahile edildiği için hiç bir sıkıntı yok pankreas kanser hariç tüm kanser türlerinde ilk aşamada yakaladın mı ölmek imkansız gibi bir şey"
-  entry_channels: sağlık
 - entry_name: |
     haşladığı tavuğun suyuyla pilav yapan erkek
   entry_id:  103616420
   entry_writer: olaylar olaylar
-  entry_fav_count: 10
+  entry_fav_count: 18
   entry_content: |
     serserilikle zamparalıkla zerre ilgisi olmayan erkektir. değeri elbet bir gün anlaşılacaktır.
   entry_channels: yeme-içme
 - entry_name: |
-    hüpür hüpür yarasa yiyen vietnamlılar
-  entry_id:  103616571
-  entry_writer: yerli wikipedia
-  entry_fav_count: 7
+    ekşicilerin corona için büyük resim teorileri
+  entry_id:  103590102
+  entry_writer: phronosesi
+  entry_fav_count: 18
   entry_content: |
-    bu salgından sonra bir tane çekik gözlü<br/>gezemez ülkeleri dışında.
-  entry_channels: haber,yeme-içme
+    şimdi virüs yaşlıları etkiliyor.<br/>yaşlılar kim? emekliler.<br/>emekliler? sgk’den emekli maaşı alanlar<br/>sgk? battı.<br/>kim batırdı? kılışdar.<br/><br/>yuh be, yine mi sen.
+  entry_channels: siyaset,anket,ekşi-sözlük,sağlık,haber
 - entry_name: |
-    corona virüsünün pek önemli olmaması
-  entry_id:  103617130
-  entry_writer: winnerwon
-  entry_fav_count: 7
+    16 mart 2020 ekşici doktorların sessiz kalması
+  entry_id:  103616195
+  entry_writer: imacloud
+  entry_fav_count: 17
   entry_content: |
-    tüm dünya acil durum ilan etmişken birileri corona virüsü önemli değil diyor. bu kadar gerzekçe bir yorumun ekşi sözlükte yapılması şaşırtmadı.
-  entry_channels: 
+    zaten deli gibi çalışıyorlar gelip de burada "ağğbii vaka sayısı gizleniyoo bana bi vatsap sesi geldi bayburttaki annemin halasının kızının oğlu estetik cerrahı, 726867 vaka varmış." tarzı konuşan laftan anlamaz sığırlara zaman harcayıp ekstra mı yorulsunlar?<br/><br/>edit: daha geçen günlerde ekşi'de girdiğim muhabbeti anlatayım, doktorların niye uğraşmadığını anlarsınız. virüs başlığına devlet niye virüsü gizlesin bir anda 100-200 diye açıklansa veya bir anda bir ölüm gerçekleşse daha kötü bir durum olur devlet adına yazmıştım. birisinin yazdığı mesajlar:<br/><br/>"çin vakaları gizledi çok önceden haberleri vardı ayrıca benim bile kulağıma gelen bilgi var herkes her şeyin farkında"<br/>"ben internetten değil bizzat arkdaşımın sevgilisnin annesi ankarada baş hemşire o söylemiş kanarnti insanlar var diye"<br/><br/>ben de arkadaşa dedim ki bunlar klasik türkiye geyikleri bir zaman da erdoğan hakkında haftaya ölecek kanser manser diyorlardı dedim gelen mesaj şu.<br/><br/>"iyide erdoğan kanser zaten ama devamlı kontrol altında ayrıca ilk anda müdahile edildiği için hiç bir sıkıntı yok pankreas kanser hariç tüm kanser türlerinde ilk aşamada yakaladın mı ölmek imkansız gibi bir şey"
+  entry_channels: sağlık
 - entry_name: |
     ya istiklal ya ölüm
   entry_id:  103619639
   entry_writer: darkfaces
-  entry_fav_count: 5
+  entry_fav_count: 8
   entry_content: |
     onbin kat kaliteli yapılmışı var, "kurtuluş" dizisi... <br/>gerisi hikaye...
   entry_channels: tv,tarih,eğitim
+- entry_name: |
+    ev sahiplerinin kira feda etmesi gerekiyor
+  entry_id:  103621059
+  entry_writer: saatin arkasindaki civi
+  entry_fav_count: 8
+  entry_content: |
+    1 saat önce kiracımla yaptığım konuşmanın başlık hali. kendisinin işe gitmemesi halinde(iş yerinin maaş kesintisi ihtimalinde) ya da malum olağan dışı gıda ve temizlik malzemeleri harcamaları sebebiyle bu ay ve bir dahaki ay kira konusunda zorunlu hissetmemesi gerektiğini, sonrasına da sonra bakacağımızı söyledim ama bu konuşmayı yapmadan önce böyle kin ve küfür dolu bir entryi görseydim ne düşünürdüm bilemedim.<br/><br/>edit: entrynin ilk hali böyleydi. <a rel="nofollow noopener" class="url" target="_blank" href="https://i.hizliresim.com/p2oDUu.png" title="https://i.hizliresim.com/p2oDUu.png">link</a>
+  entry_channels: sağlık,ekonomi
+- entry_name: |
+    pirinçli pırasa vs zeytinyağlı pırasa
+  entry_id:  103614396
+  entry_writer: j lithium
+  entry_fav_count: 6
+  entry_content: |
+    hem pirinçli hem zeytinyağlı pırasa?
+  entry_channels: yeme-içme
+- entry_name: |
+    sevilmediğini kabullenmek
+  entry_id:  103618388
+  entry_writer: karanlikruya
+  entry_fav_count: 5
+  entry_content: |
+    bu bir sıkıntı yaratmamalıdır. sıkıntı yaratan seviyor gibi görülmeleridir. çünkü o kişiye inanç aşılar. biri sizi sevmiyor diye en fazla moraliniz bozulur ama kendini sevdirip de ardından böyle yaparsa özgüveniniz ciddi miktarda etkilenebilir. çünkü insanlara her zaman inançları zarar verir. yanlış da olsa bir şeye inanmanız ve buna uygun bir hayat örmeniz sonucunda bunun yanlış olduğunu görürseniz, kabullenemezsiniz, herkesi suçlarsınız, bu olamazdır. matrix gibi düşünün. morpheus, neo ilk insan simülasyonundayken ne diyor?<br/>herkesin zihni özgürleştirilmeye uygun değil. bazıları bu sisteme uyum sağlamış ve bu kişiler gerçeği görenler için de tehdit oluşturuyor. kısaca herkes gerçeği öğrenmekten mutlu olmayacaktır. <br/><br/>örneğin psikolojik rahatsızlıkların bazıları geçmişteki bir travmayı yok sayma, yaşanmamış gibi görmeyle oluşur. yani sevildiği inancına uzun süre bağlı kalmış kişiler için bu durumun gerçek olmamasıyla yüzleşmeleri zordur.<br/><br/>şimdi ilk duruma yani "sevilmemesine rağmen saplantı yapanlara" gelelim. siz elmayı sevdiniz diye elma da sizi sevmiyor, değil mi? eğer sevilmemenize rağmen özgüveniniz etkileniyorsa işte bu esas sıkıntıyı yaratır. böyle insanlar genelleme yaptıkları için acı çekerler. "bu kadın/adam beni sevmiyor, demek ki hiç kimse beni sevmiyor, bu beni reddetti, demek ki diğerleri de reddedecek."<br/><br/>esas sorununuz: <br/>1- o kişinin sizi sevmemesi değil, onu sevmekten vazgeçemiyor olmanız.<br/>2- bunu diğer ilişki yaşayacağınız insanlara da mal ederek, sevilmeyecek biri olduğunuza inanmanız.<br/><br/>düşünün, sokaktan biri çıktı abi sana çok aşığım dedi mesela, umurunuzda olur muydu? işte aynısını yaşıyorsunuz.<br/><br/>oysa ki sevilmek bir lükstür. lükse ihtiyacınız yoktur.
+  entry_channels: ilişkiler
 - entry_name: |
     lütfen namazınızı evinizde kılınız
   entry_id:  103619104
@@ -315,34 +355,10 @@ data:
     az önce ezan sonrasında minarelerden yapılan çağrı. <br/><br/>lokasyon: ankara
   entry_channels: 
 - entry_name: |
-    burak akkul
-  entry_id:  103617199
-  entry_writer: vefasiztorunsirri
-  entry_fav_count: 5
-  entry_content: |
-    seni yenecem coronaaaaaa diye video çekmesini ve sonrasında seni yendim coronaaaa demesini umduğum gezgin.
-  entry_channels: tv,edebiyat
-- entry_name: |
-    ali rıza demircan
-  entry_id:  103620019
-  entry_writer: arpa huseyin
-  entry_fav_count: 5
-  entry_content: |
-    - efendim korona virüs<br/>+ götten sikiş sakattır<br/>- yok, ben güvenlik, karantina<br/>+ sikiştin mi alıcan duşu ağa<br/>- ya ben onu sormuyorum, bu virüs hakkında<br/>+ adet dönemindeki karıyla sikiş olmaz<br/>- efendim konumuz o değil, şimdi bütün dünya<br/>+ onu bunu bırak, yarak kaç santim yaraaak?<br/><br/>habertürk teki programının özeti.
-  entry_channels: magazin
-- entry_name: |
-    corona virüsünün yayılmaması için çözüm önerileri
-  entry_id:  103617222
-  entry_writer: askeriucret750tlolsun
-  entry_fav_count: 3
-  entry_content: |
-    kimse dışarı çıkmayacak. tek çözüm yolu bu.
-  entry_channels: anket,sağlık
-- entry_name: |
     burak akkul'un corona pozitif çıkması
   entry_id:  103617693
   entry_writer: evreninejderhasi
-  entry_fav_count: 3
+  entry_fav_count: 5
   entry_content: |
     sayıların aşağı çekildiğinin kanıtıdır. adam video çekmese ve tüm sosyal medyaya yayılmasaydı ne kendisine hastalığı açıklanacaktı, ne de bize vaka açıklanacaktı. benim de uzun süredir karantinada tutulan ama kendisiyle ilgili bilgi verilmeyen bir tanıdığım var, demek ki onu da bu şekilde oyalıyorlar.
   entry_channels: sağlık,haber
@@ -350,56 +366,40 @@ data:
     kyk kredisi geri ödemelerinin iptal edilmesi
   entry_id:  103619869
   entry_writer: tatli limoncu
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     emeklilikte yaşı tutmayanların her konuya eyt'yi karıştırması gibi olmuş. kyk kredisi ne alaka ya?
   entry_channels: 
 - entry_name: |
-    coronavirüs günlükleri
-  entry_id:  103618366
-  entry_writer: gabbiadini
-  entry_fav_count: 1
+    acun ve ali koç hastane yaptırsın kampanyası
+  entry_id:  103620720
+  entry_writer: istese yururmus
+  entry_fav_count: 2
   entry_content: |
-    tarih: 16 mart 2020<br/><br/>yer: konya<br/><br/>virüs şu an kimsenin umrunda değil. herkesin bir tabaktan yemek yediği düğün yemekleri devam ediyor. izlenen survival filmlerinin sıkıcı giriş bölümlerinde gibiyiz. kendimi esas adam gibi hissediyorum. neyse ki bu filmlerde esas adam hep kazanıyor.
+    devlet ne yapsın peki?
+  entry_channels: 
+- entry_name: |
+    şirketlerin corona virüs önlemleri
+  entry_id:  103621023
+  entry_writer: jugglingmolecules
+  entry_fav_count: 0
+  entry_content: |
+    2 tane dezenfektan koydular siktirin gidin dediler başka bir şey yok. <br/><br/>ne güzel şirketlerde çalışıyorsunuz lan, insan sağlığına önem veren falan. kurumsalıyız ya amk. hahaha
   entry_channels: sağlık
 - entry_name: |
-    türkiye coronavirus güncel vaka sayısı
-  entry_id:  103597620
-  entry_writer: ucmaktan bikan memeli
+    karantina olursa balkondan söylenecek şarkılar
+  entry_id:  103585351
+  entry_writer: madmen
   entry_fav_count: 0
   entry_content: |
-    +1 ile capa acilin karantinaya alindigini gördügümüz vak'a. olay yerinden bildiriyorum buraya gelmeyin
-  entry_channels: sağlık
+    özentilikte çığır açan yurdum mallarının yeni eğlencesi.<br/><br/><a class="b" href="/?q=anan%c4%b1z%c4%b1n+am%c4%b1">ananızın amı</a> şarkısını söylersiniz balkonunuzdan.
+  entry_channels: anket,müzik,sağlık
 - entry_name: |
-    6 kelimelik hikayeler
-  entry_id:  103621036
-  entry_writer: dominant chord
+    corona'ya bir dörtlük yaz
+  entry_id:  103619858
+  entry_writer: edepsiz adam
   entry_fav_count: 0
   entry_content: |
-    doğa, intikam alıyor değildi; insanlık eğitilmeliydi.
-  entry_channels: edebiyat
-- entry_name: |
-    16 mart pavyon'ların kapanması
-  entry_id:  103619955
-  entry_writer: kendinde degil
-  entry_fav_count: 0
-  entry_content: |
-    derde itina ile cima eylenir.
-  entry_channels: sağlık,haber
-- entry_name: |
-    16 mart 2020 fahrettin koca'nın gülmesi
-  entry_id:  103620024
-  entry_writer: krizin bekcisi
-  entry_fav_count: 0
-  entry_content: |
-    bir kez olsun güzel yapılan işe saygınız olsun. hakkıyla işini yapıyor. milyonların hayatı belki de bu adamın elinde bırakın da biraz gülsün be.
-  entry_channels: siyaset
-- entry_name: |
-    16 mart 2020 antalyaspor sivasspor maçı
-  entry_id:  103619800
-  entry_writer: ian is dead
-  entry_fav_count: 0
-  entry_content: |
-    antalya'dan bildiriyorum. iğrenç bir yağmur ve beraberinde soğuk var. seyircisiz maç. gol olmaz. (3-5 bitti)
-  entry_channels: spor
+    sinsiliğine gurban olduğum<br/>var git hele bu el sana yaramaz<br/>kolonyayla kafasına vurduğum<br/>bak iptal edildi namazla niyaz
+  entry_channels: ekşi-sözlük,sağlık
 ---
