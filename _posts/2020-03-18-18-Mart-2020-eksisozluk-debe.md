@@ -6,7 +6,7 @@ data:
     yazarların sahip olduğu stok miktarı
   entry_id:  103637615
   entry_writer: the great 7
-  entry_fav_count: 1468
+  entry_fav_count: 1474
   entry_content: |
     bir tek avusturya-macaristan veliahtı kalmış almadığın. onu da al da 3. dünya savaşı çıksın.
   entry_channels: anket,ekşi-sözlük,haber,yeme-içme
@@ -14,7 +14,7 @@ data:
     umreden gelen 28 vatandaşın karantinadan kaçması
   entry_id:  103665316
   entry_writer: buzveates
-  entry_fav_count: 1216
+  entry_fav_count: 1217
   entry_content: |
     tanım: karantina altına alınmak istemeyen umrecilerin özel bir otobüs tutup kaçması olayı.<br/><br/>erzurum valisi okay memiş: “umreden geldikten sonra karantinadan kaçarak erzurum'a gelmeye çalışan 28 vatandaş çorum'da yakalandı.” — iha<br/><br/>sorumsuz insanlar. en ağır cezalar ile yargılanmaları gerekiyor.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/haskologlu/status/1239916775489314816?s=09" title="https://twitter.com/haskologlu/status/1239916775489314816?s=09">kaynak</a> <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sabah.com.tr/yasam/2020/03/17/son-dakika-akilalmaz-corona-virusu-olayi-kacak-umrecileri-erzurum-valisi-yakalatti" title="https://www.sabah.com.tr/yasam/2020/03/17/son-dakika-akilalmaz-corona-virusu-olayi-kacak-umrecileri-erzurum-valisi-yakalatti">sabah</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/abdulhamitgul/status/1239852957375610880?s=19" title="https://twitter.com/abdulhamitgul/status/1239852957375610880?s=19">adalet bakanının ilgili tweet'i</a>
   entry_channels: siyaset,sağlık,haber
@@ -22,7 +22,7 @@ data:
     türkiye'nin italya'dan beter olacağı gerçeği
   entry_id:  103663249
   entry_writer: bendebiseydiycem
-  entry_fav_count: 955
+  entry_fav_count: 974
   entry_content: |
     üst edit: mesaj kutusuna gelen çok fazla mesaj var cevap vermediklerim haricinde dönüş yapamadığım yazarlardan ve çaylaklardan özür diliyorum.<br/>1- bu entryde siyasetle ilgili ne var da beni siyaset yapmakla suçluyorsunuz merak ediyorum. siyaseti her şeyin üstünde tutan satılıkları dikkate almadığımı zaten belirtmiştim ki sizin ne mal olduğunuz 33 şehit verdiğimiz gün ortaya çıktı sizi insan yerine koymuyorum o yüzden boşuna mesaj atıp aile büyüklerime sövmeyin ya da benim ve sevdiklerimin hastalanıp ölmesi temennisinde bulunmayın. it ürümesinden hallice mesajlarınıza yanıt alamayacaksınız.<br/>2- bursa'nın nereleri olduğunu soran arkadaşlar olmuş; şöyle söyleyeyim işim gereği geziyorum siz bunu devriye gibi algılayabilirsiniz iki günlük gördüğüm yerler görükle, nilüfer ve yıldırım bölgesi kısmen de osmangazi yarın gemlik orhangazi ve iznik bölgelerinde olacağım oralarda da durumun farklı olduğunu düşünmüyorum ama görükleyi bursalılar bilir öğrenci yoğunluklu bir bölgedir ve bugün öğrenci (genç nufus da diyebiliriz) sayısından çok ihtiyar kesim sokaklardaydı özellikle banka önleri yoğundu.<br/>3- kahveler kapalı değil miydi diye soran arkadaşlar var; evet kahveler genelge ile kapatıldı ki bu pazartesi olmamıştı ancak bugün de özellikle mahalle kahveleri, sokak arası çay ocakları ve bursa'da fazlasıyla bulunan bilmem nereliler yardımlaşma ve dayanışma dernekleri bu yasağı pek takmamışlardı açıktı.<br/>4- başlığı neden "gerçeği" diye açtın diyenler var; haklısınız orada o ifade biraz iddialı olmuş sanki sayısal verilerle bilimsel bir gerçeğe ulaşmış gibi. özür dilerim<br/>5- bu bir öngörüdür, gözlemlere dayalı çıkarımdır ama buna rağmen haksız çıkarsan o musun bu musun bilmem ne çocuğu musun diye mesaj atanlar var; sizlerle iddialaşacak değilim ve böyle bir konuda iddiaya girmek nedir ulan, sizin ahlak seviyeniz ile benimki aynı değil ama umarım yanılırım tek ben yanılayım da siz bana göt oğlanı, embesil, öngörüsüz mal da diyebilirsiniz. ben burada herkesten özür dilemekten gocunmam<br/>6- son olarak totosu sıkışınca aynı gemideyiz geyiği yapan troller, aynı olan sizsiniz gemi de size girsin. selam ve dua ile :)))<br/><br/>bugünkü gözlemlerim sonucu ulaştığım gerçektir. bursa'da yaşıyorum ve işim gereği dışarı çıkmak zorundayım pazartesi işe gidip gelirken ve salı günü yaptığım gözlem sonucunda gördüm ki amcalar teyzeler dışarda geziyor, ellerinde sigara kahvelerde çay ocaklarında pinekleyen yaşlı insanlar, eldiven takan maske takan insanlara uzaylı görmüş gibi bakan hatta alay eden yurdum çomarları, parkları bahçeleri dolduran avm'de sürten gençler, bizi çok büyük felaket bekliyor bu kadar gevşek olmamalıyız. bursa maalesef çok duyarsız bu konuda.<br/><br/>edit: ağzı ile mabadı yer değiştirmiş, ağzından sıçan kıçından beslenen aktrolleri ben dikkate almıyorum siz de almayınız dostlar ve gerçek vatanseverler.
   entry_channels: siyaset,anket,sağlık
@@ -30,15 +30,23 @@ data:
     murat boz'un insanları sokağa davet etmesi
   entry_id:  103664360
   entry_writer: massmavi
-  entry_fav_count: 575
+  entry_fav_count: 576
   entry_content: |
     sadece onu takip edenlerin haberi olacaktı ne güzel.
   entry_channels: tv,sağlık,haber,magazin
 - entry_name: |
+    karantina otobüsünden polis eşliğinde alınan yolcu
+  entry_id:  103682876
+  entry_writer: jeffrey dahmer
+  entry_fav_count: 570
+  entry_content: |
+    kim bilir hangi nüfuzlu insanın çocuğu sordurtmuştur.<br/><br/>"bütün hayvanlar eşittir, bazı hayvanlar daha eşittir"<br/><br/>-hayvan çiftliği, george orwell<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sogultuna/status/1239996941708267520?s=19" title="https://twitter.com/sogultuna/status/1239996941708267520?s=19">kaynak</a><br/><br/>fahrettin koca yaaa...<br/>gözleri kan çanağı olmuş yaaaa...<br/>bu adam çok pinçik ya...<br/>bizim için çalışıyor yaa..<br/>süreci çok iyi yönetiyor yaa..
+  entry_channels: siyaset,sağlık,haber
+- entry_name: |
     sokağa çıkma yasağı
   entry_id:  103633031
   entry_writer: esek tuccari
-  entry_fav_count: 500
+  entry_fav_count: 505
   entry_content: |
     kundakta bebek iken. van'ın bir köyünde, kara gömülmüş kerpiç bir evde, şiddetli bronşit ve zatürre geçirmiş, ölümden dönmüşüm. hatta bir kaç kez nefessiz kalıp mosmor olmuşum ve annem beni öldüm diye ağlayarak kucağından bırakmış.<br/>şu an 30 yaşındayım ve o günlerden kalan miras olarak ciğerlerim %50 performans ile çalışıyor. yarısı gitmiş ciğerlerimin anlıyor musun kardeşim ?.<br/>konuşur iken dahi nefessiz kalıyorum. astım ilacı kullanıyorum.<br/>şu an avm de çalışıyorum ve mecburen işe gidiyorum. bu hastalık bana bulaşır ise direkt olarak öleceğim kardeşlerim.<br/>kendimi geçiyor, evdeki eşimi ve biri 6 diğeri 1.5 yaşında iki adet evladımı düşünüyorum.<br/>korkuyorum arkadaşlarım.<br/>sanırım devletim biraz geç kalıyor.
   entry_channels: siyaset,sağlık,ekonomi
@@ -46,7 +54,7 @@ data:
     17 mart 2020 işe gidenler
   entry_id:  103633076
   entry_writer: family gay
-  entry_fav_count: 464
+  entry_fav_count: 465
   entry_content: |
     konuşmayayım diyorum ama ne yazık ki bazı ılık götlü ekşiciler bir takım şeyleri anlamakta zorluk çekiyor. herkes kamu çalışanı değil, beyaz yakalı home ofis çalışabilme imkanı olan insanlar değil. <br/><br/>ne yazık ki engelli bir birey olarak, perakende sektöründe çalışıyorum, insanlarla yakın temas halindeyim. asgari ücretin bir tık üstündeyim. doğumsal kalp hastası bir bebeğim var ve geçtiğimiz aralık ayında kredi çekerek 60 bin liraya ameliyatını yaptırabildim. hayatımı idame ettirebilmek için, bebeğimin sadece sağlık ve gıda harcamalarını sağlayabilmek için, doğalgazımı, suyumu, elektriğimi ödeyebilmek için, devlet yasak koyana, patron gelme diyene dek! işime gitmek zorundayım. yoksa ben de bilirdim sokağa çıkmamayı, yerimde oturmayı, ailemi bu tür salgınlardan korumayı ama değil 17 mart, 18, 19, 20.... tarihlerin ardı arkası kesilmeyecek ama ben yine de işime gideceğim. <br/><br/>bu sadece benim durumum. benim gibi olan, benden daha zor şartları olan yüzbinlerce insan var bu ülkede.
   entry_channels: anket,sağlık,haber,ekonomi,seyahat
@@ -54,7 +62,7 @@ data:
     karantinadan kaçan umrecileri anlatacak filmin adı
   entry_id:  103670686
   entry_writer: paulanka
-  entry_fav_count: 452
+  entry_fav_count: 464
   entry_content: |
     (bkz: <a class="b" href="/?q=h%c4%b1zl%c4%b1+ve+m%c3%bcbarek">hızlı ve mübarek</a>)
   entry_channels: anket,sinema,sağlık
@@ -62,18 +70,18 @@ data:
     mansur yavaş'ın öğrenci abonman kartı kararı
   entry_id:  103672738
   entry_writer: brkgns
-  entry_fav_count: 446
+  entry_fav_count: 459
   entry_content: |
     mansur başgan düşünmüş taşınmış, okullarda salgın nedeni ile eğitime ara verilince öğrencilerin abonman kartlarındaki hakları zayi olmasın demiş. <br/><br/>bu adam bambaşka bir boyutta. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B913JbdHA61/?igshid=pi59wcuqxsul" title="https://www.instagram.com/p/B913JbdHA61/?igshid=pi59wcuqxsul">aha link</a>
   entry_channels: siyaset,haber,eğitim,seyahat
 - entry_name: |
-    karantina otobüsünden polis eşliğinde alınan yolcu
-  entry_id:  103682876
-  entry_writer: jeffrey dahmer
-  entry_fav_count: 434
+    güzide sofi
+  entry_id:  103682671
+  entry_writer: blogunda boncuk arayan adam
+  entry_fav_count: 379
   entry_content: |
-    kim bilir hangi nüfuzlu insanın çocuğu sordurtmuştur.<br/><br/>"bütün hayvanlar eşittir, bazı hayvanlar daha eşittir"<br/><br/>-hayvan çiftliği, george orwell<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/sogultuna/status/1239996941708267520?s=19" title="https://twitter.com/sogultuna/status/1239996941708267520?s=19">kaynak</a><br/><br/>fahrettin koca yaaa...<br/>gözleri kan çanağı olmuş yaaaa...<br/>bu adam çok pinçik ya...<br/>bizim için çalışıyor yaa..<br/>süreci çok iyi yönetiyor yaa..
-  entry_channels: siyaset,sağlık,haber
+    polis kortejinde karantinadan kaçırılmış. umarım kendisinde korona virüs çıkar da tüm ülke adam kayırmanın cezasını en ağır şekilde öder.
+  entry_channels: siyaset,ilişkiler,sağlık,haber
 - entry_name: |
     17 mart 2020 liglerin ertelenmemesi
   entry_id:  103668482
@@ -86,23 +94,15 @@ data:
     camiye gitmeye devam edeceğiz hareketi
   entry_id:  103638790
   entry_writer: fulgura
-  entry_fav_count: 295
+  entry_fav_count: 296
   entry_content: |
     zaten camiye gitmelerinde sakınca olmayıp, geri gelmelerinde sakınca olduğu için kızmadığım durumdur.<br/><br/>gitsinler, kapıları kapatsınlar hatta üstlerine kilitlensin, orada sürekli ibadet ve dua ile yaşasınlar. sevenleri çin'de olduğu gibi koliyle yardım götürsün her gün. bence sorun yok.<br/><br/>ama yok tedbire aldırmayıp camiden çıkıp aramızda gezeceklerse kusura bakmasınlar.
   entry_channels: sağlık,haber
 - entry_name: |
-    güzide sofi
-  entry_id:  103682671
-  entry_writer: blogunda boncuk arayan adam
-  entry_fav_count: 263
-  entry_content: |
-    polis kortejinde karantinadan kaçırılmış. umarım kendisinde korona virüs çıkar da tüm ülke adam kayırmanın cezasını en ağır şekilde öder.
-  entry_channels: siyaset,ilişkiler,sağlık,haber
-- entry_name: |
     anksiyetesi olanların şu an yaptıkları
   entry_id:  103674447
   entry_writer: cahil ama gururlu
-  entry_fav_count: 240
+  entry_fav_count: 250
   entry_content: |
     5 dakikada bir ateşimi kontrol edip vücudumdaki her değişimi kaygıyla takip ediyorum. uykuya dalmakta zorluk çekiyorum ve uyuyamadığım her saat bağışıklık sistemimin düşeceğini düşünüp uykumu daha da çok kaçırıyorum. <br/><br/>edit: bu başlığın anksiyete bozukluğundan muzdarip olan insanlara yalnız olmadığını hissettirip iyi geleceğini düşünüyorum. hepinize sarılırdım ama malum...
   entry_channels: anket,sağlık
@@ -118,18 +118,26 @@ data:
     antik mısır'dan olası ekşi sözlük başlıkları
   entry_id:  103664244
   entry_writer: edit akbayram
-  entry_fav_count: 226
+  entry_fav_count: 227
   entry_content: |
     hatunların musa yerine firavun tercihi
   entry_channels: anket,ekşi-sözlük,tarih
 - entry_name: |
-    16 mart 2020 covid-19 vakasının 47'ye yükselmesi
-  entry_id:  103636478
-  entry_writer: palabalik61
+    covid-19 hakkında pozitif haberler
+  entry_id:  103673680
+  entry_writer: monreve
+  entry_fav_count: 188
+  entry_content: |
+    üst edit:<br/><br/>en son ekrem başkan seçilince bira ismarlıcam diyince böyle bi mesaj yagmuru olmuştu.. meğer ne daralmışız.. aşağıdaki metin bana bir tanıdıgımdan geldi.. bir kısmını zaten biliyordum..<br/><br/>yazarlardan link ile ispatlama isteği geldi.. orjinal metne dokunmadan bulabildiğim linkleri ekliyorum.. <br/>her şey düzelicek gençler.<br/>---------------------------------------------------------<br/><br/>bir yakinimin gonderdigi bilgiler.<br/><br/>- çin son koronavirüs hastanesini kapattı. onları desteklemek için yeterli yeni vaka yok.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.euronews.com/2020/03/10/cin-koronavirus-corona-virusu-nedeniyle-vuhan-da-kurulan-hastaneleri-kapatiyor" title="https://tr.euronews.com/2020/03/10/cin-koronavirus-corona-virusu-nedeniyle-vuhan-da-kurulan-hastaneleri-kapatiyor">https://tr.euronews.com/…ulan-hastaneleri-kapatiyor</a><br/><br/>- hindistan'daki doktorlar coronavirüs tedavisinde başarılı oldular. kullanılan ilaçların kombinasyonu: lopinavir, retonovir, oseltamivir ve klorfenamin. küresel olarak aynı ilacı önerecekler.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.insideover.com/society/indian-doctors-successfully-cure-italian-coronavirus-patients.html" title="https://www.insideover.com/society/indian-doctors-successfully-cure-italian-coronavirus-patients.html">https://www.insideover.com/…ronavirus-patients.html</a><br/><br/>- erasmus tıp merkezi araştırmacıları koronavirüse karşı bir antikor bulduğunu iddia ediyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.milliyet.com.tr/galeri/son-dakika-tum-dunyanin-bekledigi-haber-corona-virus-etkisiz-hale-getirildi-6165677" title="https://www.milliyet.com.tr/galeri/son-dakika-tum-dunyanin-bekledigi-haber-corona-virus-etkisiz-hale-getirildi-6165677">https://www.milliyet.com.tr/…hale-getirildi-6165677</a><br/><br/>- 103 yaşındaki çinli bir büyükanne, wuhan, çin'de 6 gün boyunca tedavi edildikten sonra covıd-19'dan tamamen iyileşti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.milliyet.com.tr/dunya/103-yasindaki-kadin-6-gunde-corona-virusunu-yendi-6163516" title="https://www.milliyet.com.tr/dunya/103-yasindaki-kadin-6-gunde-corona-virusunu-yendi-6163516">https://www.milliyet.com.tr/…virusunu-yendi-6163516</a><br/><br/>- apple 42 çin mağazasının tamamını yeniden açıyor,<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.milliyet.com.tr/teknoloji/teknoloji-haberleri/apple/apple-cinde-kapattigi-42-magazayi-tekrar-aciyor-6164899" title="https://www.milliyet.com.tr/teknoloji/teknoloji-haberleri/apple/apple-cinde-kapattigi-42-magazayi-tekrar-aciyor-6164899">https://www.milliyet.com.tr/…-tekrar-aciyor-6164899</a><br/><br/>- cleveland clinic, günler değil saatler olarak sonuç veren bir covıd-19 testi geliştirdi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://newsroom.clevelandclinic.org/2020/03/13/coronavirus-video-resources-for-media-outlets/" title="https://newsroom.clevelandclinic.org/2020/03/13/coronavirus-video-resources-for-media-outlets/">https://newsroom.clevelandclinic.org/…edia-outlets/</a><br/><br/>- yeni vakaların sayısının azaldığı güney kore'den iyi haber.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.aa.com.tr/tr/koronavirus/guney-korede-kovid-19-salgininin-yayilmasi-yavasliyor/1759422" title="https://www.aa.com.tr/tr/koronavirus/guney-korede-kovid-19-salgininin-yayilmasi-yavasliyor/1759422">https://www.aa.com.tr/…yayilmasi-yavasliyor/1759422</a><br/><br/>- uzmanlar, sadece avrupa'nın en yaşlı nüfusa sahip oldukları için italya'nın sert bir şekilde vurulduğunu söylüyor.<br/><br/>- israil'deki bilim adamları bir koronavirüs aşısının gelişimini ilan edecek gibi görünüyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sabah.com.tr/dunya/2020/03/12/son-dakika-corona-virusu-turkiyeye-de-sicradi-israilden-bomba-iddia-geldi-koronavirusun-asisi-bulundu-mu" title="https://www.sabah.com.tr/dunya/2020/03/12/son-dakika-corona-virusu-turkiyeye-de-sicradi-israilden-bomba-iddia-geldi-koronavirusun-asisi-bulundu-mu">https://www.sabah.com.tr/…avirusun-asisi-bulundu-mu</a><br/><br/>- 3 maryland koronavirüs hastası tamamen iyileşti; günlük yaşama dönebilir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.fox5dc.com/news/3-maryland-coronavirus-patients-fully-recovered-able-to-return-to-everyday-life" title="https://www.fox5dc.com/news/3-maryland-coronavirus-patients-fully-recovered-able-to-return-to-everyday-life">https://www.fox5dc.com/…-to-return-to-everyday-life</a><br/><br/>- kanadalı bilim adamları ağı covid-19 araştırmalarında mükemmel ilerleme kaydediyor.<br/>- bir san diego biyoteknoloji şirketi, duke üniversitesi ve singapur ulusal üniversitesi ile işbirliği içinde bir covid-19 aşısı geliştiriyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.cbs8.com/article/news/health/coronavirus/san-diego-biotech-company-developing-coronavirus-covid-19-vaccine/509-110c3c4f-1d0c-46e4-b2df-663789db6889" title="https://www.cbs8.com/article/news/health/coronavirus/san-diego-biotech-company-developing-coronavirus-covid-19-vaccine/509-110c3c4f-1d0c-46e4-b2df-663789db6889">https://www.cbs8.com/…f-1d0c-46e4-b2df-663789db6889</a><br/><br/>- tulsa county'nin ilk pozitif covıd-19 vakası düzeldi. bu bireyin iyileşme göstergesi olan iki negatif testi olmuştur.<br/>- yeni delhi'deki safdarjung hastanesinde tedavi gören 7 hastanın tümü iyileşti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.indiatoday.in/india/story/two-coronavirus-patients-delhi-recover-discharged-from-hospitals-1655828-2020-03-15" title="https://www.indiatoday.in/india/story/two-coronavirus-patients-delhi-recover-discharged-from-hospitals-1655828-2020-03-15">https://www.indiatoday.in/…itals-1655828-2020-03-15</a><br/><br/>- yeni iyileşmiş covid -19 hastalarından alınan plazma, covid-19 ile enfekte olmuş diğerlerini tedavi edebilir.<br/>yani tüm kötü haberler değil. birbirimize bakalım ve en hassas olanların güvenliğine odaklanalım.<br/><br/>------------<br/><br/>bana gelen bu mesaja ek olarak sosyal pozitif haberler,<br/><br/>-diyabet hastası 65 yaşındaki <a class="b" href="/?q=tom+hanks">tom hanks</a> iyileştiğini açıkladı.<br/>- umrecileri yerleştirildiği yurtlarda kısmen de olsa şartların iyileştiğini gösteren video.. anlatımı yapan umrecinin ses tonu ve iyimserliği!<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/tv/B91wBP9KX84/?igshid=1i2fn9qb51v7u" title="https://www.instagram.com/tv/B91wBP9KX84/?igshid=1i2fn9qb51v7u">https://www.instagram.com/…84/?igshid=1i2fn9qb51v7u</a>
+  entry_channels: sağlık,haber
+- entry_name: |
+    italyada kaydedilen korkunç hastane videosu
+  entry_id:  103681022
+  entry_writer: demyanenko
   entry_fav_count: 187
   entry_content: |
-    lösemi hastası bir küçük esnafım. hergün yüzlerce kişiyle muhatabım. bağışıklığım zaten sikilmiş durumda olduğundan, bana bulaştığı takdirde ölmem garanti diyebiliriz. <br/><br/>devlet baba memuruna izin verip maaşını ödüyor, özel sektör beyaz yakalıya izin verip maaşını ödüyor. ben ne yarak yicem peki? evde yatsam dükkanı kim açacak? dükkanı açmadan bağkur primini, kirayı, vergileri neremden ödeyecem. sikerler böyle işi amk. memurlar üstün ırk mı amk? <br/>korona senin de ananı avradını sikeyim<br/>tam hayatım yoluna girmişti sikip attın herşeyi.<br/><br/>doğduğum tarihin de ecdadını sikeyim çernobilden başlamak üzere her türlü felaketi gördüm, yaşadım amk.<br/><br/>edit: editin de amk
-  entry_channels: sağlık,haber
+    anormal bi görüntü yok. aptal mısınız evladım kalabalıktan hasta koyacak yer yok sadece.
+  entry_channels: sağlık
 - entry_name: |
     john obi mikel
   entry_id:  103673864
@@ -139,82 +147,66 @@ data:
     şampiyonluk uğruna yapılan işlere gel.<br/>yarın sosa, sorloth çıkmıyorum dese; götünüz yer mi fesih etmeye?<br/><br/>burada delikanlı olan, cesaretli olan mikel’dir.<br/><br/>ailesi ile mutluluklar.
   entry_channels: spor
 - entry_name: |
-    covid-19 hakkında pozitif haberler
-  entry_id:  103673680
-  entry_writer: monreve
-  entry_fav_count: 175
-  entry_content: |
-    üst edit:<br/><br/>en son ekrem başkan seçilince bira ismarlıcam diyince böyle bi mesaj yagmuru olmuştu.. meğer ne daralmışız.. aşağıdaki metin bana bir tanıdıgımdan geldi.. bir kısmını zaten biliyordum..<br/><br/>yazarlardan link ile ispatlama isteği geldi.. orjinal metne dokunmadan bulabildiğim linkleri ekliyorum.. <br/>her şey düzelicek gençler.<br/>---------------------------------------------------------<br/><br/>bir yakinimin gonderdigi bilgiler.<br/><br/>- çin son koronavirüs hastanesini kapattı. onları desteklemek için yeterli yeni vaka yok.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://tr.euronews.com/2020/03/10/cin-koronavirus-corona-virusu-nedeniyle-vuhan-da-kurulan-hastaneleri-kapatiyor" title="https://tr.euronews.com/2020/03/10/cin-koronavirus-corona-virusu-nedeniyle-vuhan-da-kurulan-hastaneleri-kapatiyor">https://tr.euronews.com/…ulan-hastaneleri-kapatiyor</a><br/><br/>- hindistan'daki doktorlar coronavirüs tedavisinde başarılı oldular. kullanılan ilaçların kombinasyonu: lopinavir, retonovir, oseltamivir ve klorfenamin. küresel olarak aynı ilacı önerecekler.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.insideover.com/society/indian-doctors-successfully-cure-italian-coronavirus-patients.html" title="https://www.insideover.com/society/indian-doctors-successfully-cure-italian-coronavirus-patients.html">https://www.insideover.com/…ronavirus-patients.html</a><br/><br/>- erasmus tıp merkezi araştırmacıları koronavirüse karşı bir antikor bulduğunu iddia ediyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.milliyet.com.tr/galeri/son-dakika-tum-dunyanin-bekledigi-haber-corona-virus-etkisiz-hale-getirildi-6165677" title="https://www.milliyet.com.tr/galeri/son-dakika-tum-dunyanin-bekledigi-haber-corona-virus-etkisiz-hale-getirildi-6165677">https://www.milliyet.com.tr/…hale-getirildi-6165677</a><br/><br/>- 103 yaşındaki çinli bir büyükanne, wuhan, çin'de 6 gün boyunca tedavi edildikten sonra covıd-19'dan tamamen iyileşti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.milliyet.com.tr/dunya/103-yasindaki-kadin-6-gunde-corona-virusunu-yendi-6163516" title="https://www.milliyet.com.tr/dunya/103-yasindaki-kadin-6-gunde-corona-virusunu-yendi-6163516">https://www.milliyet.com.tr/…virusunu-yendi-6163516</a><br/><br/>- apple 42 çin mağazasının tamamını yeniden açıyor,<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.milliyet.com.tr/teknoloji/teknoloji-haberleri/apple/apple-cinde-kapattigi-42-magazayi-tekrar-aciyor-6164899" title="https://www.milliyet.com.tr/teknoloji/teknoloji-haberleri/apple/apple-cinde-kapattigi-42-magazayi-tekrar-aciyor-6164899">https://www.milliyet.com.tr/…-tekrar-aciyor-6164899</a><br/><br/>- cleveland clinic, günler değil saatler olarak sonuç veren bir covıd-19 testi geliştirdi.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://newsroom.clevelandclinic.org/2020/03/13/coronavirus-video-resources-for-media-outlets/" title="https://newsroom.clevelandclinic.org/2020/03/13/coronavirus-video-resources-for-media-outlets/">https://newsroom.clevelandclinic.org/…edia-outlets/</a><br/><br/>- yeni vakaların sayısının azaldığı güney kore'den iyi haber.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.aa.com.tr/tr/koronavirus/guney-korede-kovid-19-salgininin-yayilmasi-yavasliyor/1759422" title="https://www.aa.com.tr/tr/koronavirus/guney-korede-kovid-19-salgininin-yayilmasi-yavasliyor/1759422">https://www.aa.com.tr/…yayilmasi-yavasliyor/1759422</a><br/><br/>- uzmanlar, sadece avrupa'nın en yaşlı nüfusa sahip oldukları için italya'nın sert bir şekilde vurulduğunu söylüyor.<br/><br/>- israil'deki bilim adamları bir koronavirüs aşısının gelişimini ilan edecek gibi görünüyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sabah.com.tr/dunya/2020/03/12/son-dakika-corona-virusu-turkiyeye-de-sicradi-israilden-bomba-iddia-geldi-koronavirusun-asisi-bulundu-mu" title="https://www.sabah.com.tr/dunya/2020/03/12/son-dakika-corona-virusu-turkiyeye-de-sicradi-israilden-bomba-iddia-geldi-koronavirusun-asisi-bulundu-mu">https://www.sabah.com.tr/…avirusun-asisi-bulundu-mu</a><br/><br/>- 3 maryland koronavirüs hastası tamamen iyileşti; günlük yaşama dönebilir.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.fox5dc.com/news/3-maryland-coronavirus-patients-fully-recovered-able-to-return-to-everyday-life" title="https://www.fox5dc.com/news/3-maryland-coronavirus-patients-fully-recovered-able-to-return-to-everyday-life">https://www.fox5dc.com/…-to-return-to-everyday-life</a><br/><br/>- kanadalı bilim adamları ağı covid-19 araştırmalarında mükemmel ilerleme kaydediyor.<br/>- bir san diego biyoteknoloji şirketi, duke üniversitesi ve singapur ulusal üniversitesi ile işbirliği içinde bir covid-19 aşısı geliştiriyor.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.cbs8.com/article/news/health/coronavirus/san-diego-biotech-company-developing-coronavirus-covid-19-vaccine/509-110c3c4f-1d0c-46e4-b2df-663789db6889" title="https://www.cbs8.com/article/news/health/coronavirus/san-diego-biotech-company-developing-coronavirus-covid-19-vaccine/509-110c3c4f-1d0c-46e4-b2df-663789db6889">https://www.cbs8.com/…f-1d0c-46e4-b2df-663789db6889</a><br/><br/>- tulsa county'nin ilk pozitif covıd-19 vakası düzeldi. bu bireyin iyileşme göstergesi olan iki negatif testi olmuştur.<br/>- yeni delhi'deki safdarjung hastanesinde tedavi gören 7 hastanın tümü iyileşti.<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.indiatoday.in/india/story/two-coronavirus-patients-delhi-recover-discharged-from-hospitals-1655828-2020-03-15" title="https://www.indiatoday.in/india/story/two-coronavirus-patients-delhi-recover-discharged-from-hospitals-1655828-2020-03-15">https://www.indiatoday.in/…itals-1655828-2020-03-15</a><br/><br/>- yeni iyileşmiş covid -19 hastalarından alınan plazma, covid-19 ile enfekte olmuş diğerlerini tedavi edebilir.<br/>yani tüm kötü haberler değil. birbirimize bakalım ve en hassas olanların güvenliğine odaklanalım.<br/><br/>------------<br/><br/>bana gelen bu mesaja ek olarak sosyal pozitif haberler,<br/><br/>-diyabet hastası 65 yaşındaki <a class="b" href="/?q=tom+hanks">tom hanks</a> iyileştiğini açıkladı.<br/>- umrecileri yerleştirildiği yurtlarda kısmen de olsa şartların iyileştiğini gösteren video.. anlatımı yapan umrecinin ses tonu ve iyimserliği!<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/tv/B91wBP9KX84/?igshid=1i2fn9qb51v7u" title="https://www.instagram.com/tv/B91wBP9KX84/?igshid=1i2fn9qb51v7u">https://www.instagram.com/…84/?igshid=1i2fn9qb51v7u</a>
-  entry_channels: sağlık,haber
-- entry_name: |
-    italyada kaydedilen korkunç hastane videosu
-  entry_id:  103681022
-  entry_writer: demyanenko
-  entry_fav_count: 168
-  entry_content: |
-    anormal bi görüntü yok. aptal mısınız evladım kalabalıktan hasta koyacak yer yok sadece.
-  entry_channels: sağlık
-- entry_name: |
     17 mart 2020 ziya selçuk'un attığı tweet
   entry_id:  103668617
   entry_writer: allah da benim belami versin be
-  entry_fav_count: 161
+  entry_fav_count: 162
   entry_content: |
     ilk günün nöbetçi öğretmenlerine acıdım şu anda...
   entry_channels: siyaset
 - entry_name: |
-    17 mart 2020 açıklanacak vaka sayısı tahminleri
-  entry_id:  103674889
-  entry_writer: morrcilek
-  entry_fav_count: 151
+    bir sabah 31 aralık 1996'da uyanmak
+  entry_id:  103631880
+  entry_writer: zaman sokaklarda kayboluyordu
+  entry_fav_count: 158
   entry_content: |
-    oyuna çevirmeyin şu işi.
-  entry_channels: anket,sağlık,haber
+    üniversitenin son sınıfındayım, altı ay sonra mezun olacağım. nefis bir arkadaş grubum var; birçok konularda sohbetlerimiz, ankara lokantalarında keyif sürmemiz, dersten sonra spora gitmelerimiz, daha neler nelerimiz var. anneannem hayatta, annem genç, kızkardeşim minicik. evimizde, yılbaşı gecesinin tatlı heyecanı içindeyiz.<br/><br/>22 yaşındayım. hayatımın ilkbaharındayım. daha ne isterim ki. beni de yazın.
+  entry_channels: siyaset,anket
 - entry_name: |
     corona virüsünün insana öğrettikleri
   entry_id:  103654184
   entry_writer: straits
-  entry_fav_count: 137
+  entry_fav_count: 139
   entry_content: |
     yillardir yasadigim gunluk hayatin adinin karantina oldugunu ogrendim.
   entry_channels: siyaset,anket,bilim,sağlık,haber,eğitim
 - entry_name: |
-    17 mart 2020 serra yılmaz'ın italya'dan tahliyesi
-  entry_id:  103660050
-  entry_writer: panzerkampfwagen iv
-  entry_fav_count: 121
-  entry_content: |
-    "<a class="b" href="/?q=s%c3%b6yleniyor">söyleniyor</a>"... koya koya bir tane twit resmi koymuşlar onda da döneceğinden falan bahsetmiyor<br/><br/>(bkz: <a class="b" href="/?q=engelle">engelle</a>)
-  entry_channels: sinema,sağlık,haber,magazin
-- entry_name: |
     camiye virüs girmez diyen kadın
   entry_id:  103664695
   entry_writer: egzerli
-  entry_fav_count: 106
+  entry_fav_count: 107
   entry_content: |
     türkiyedeki yaşlıların en az %90'ı cahil ve saygı duyulacak insanlar değil dediğimde özelden hakaret yağmıştı. götünüze girsin bu yaşlılar.
   entry_channels: sağlık,haber
 - entry_name: |
-    suriye'de hiç kovid-19 vakası saptanmaması
-  entry_id:  103679046
-  entry_writer: susmicam
-  entry_fav_count: 47
+    mustafa sofi
+  entry_id:  103685206
+  entry_writer: kadran
+  entry_fav_count: 58
   entry_content: |
-    suriye sağlık bakanının süreci muhteşem yönetmesindendir. suriyenin sağlık sistemi dünyaya örnek olmalıdır. biliyorsunuz avrupalılar taharetlenmiyor suriyeliler gibi ondan italyası ingilteresi hastalıktan kırılırken güzel iyi yönetilen suriyem vakasız.
-  entry_channels: siyaset,sağlık
+    çin’de insanları eve kilitleyip mühürlediler, salgın orada başlamasına rağmen yendiler. burada dandik bir müdürün kızı var diye karantinayı deliyorlar. ulan bu konuda torpil mi olur allahsız adam.
+  entry_channels: siyaset,haber
 - entry_name: |
     düğünlerin iptali nedeniyle yaşanan mağduriyetler
   entry_id:  103681201
   entry_writer: lazor
-  entry_fav_count: 46
+  entry_fav_count: 54
   entry_content: |
-    koca dünya canıyla uğraşırken düğün salonuna, gelinlikçiye verdiği parayla mağdur olabilen insanların sorunu.<br/><br/>dertlere bak dertlere! düğün yapamamışlar da kapora ödemişler de mağdur olmuşlar!<br/><br/>başınıza gerçek bir dert gelirse görürsünüz gelinlikçiyi kınacıyı.<br/><br/>“bizim düğün işi yatmışken, salgın bahanesiyle kaporalarımı geri alayım” uyanıklığı gibi görünüyor bu mesele. yoksa mekan faaliyetlerinin devlet tarafından askıya alınmış olması kaporanızın yanması için bir gerekçe olmaz.<br/><br/><a class="b" href="/?q=edit">edit</a>: devlet “gebermeyin!” diyor, bak, “geberme!” diyor. “filmin bitmesin, sana ayrılan sürenin sonuna gelme” diyor, millet (çarçur bile olmayacak olan) parasına ağlıyor! evinin ocağının sönmesine, işinin batmasına bile değil, düğüne kınaya ayırdığı, <a class="b" href="/?q=tamamen+keyfi">tamamen keyfi</a> olan beş bin lirasına ağlıyor! bir de kalkıp bu ağlayana destek çıkanlar oluyor!<br/><br/>kuş kadar aklı olan bilir ki hukuk diye bir şey var. “bak ben şu gün düğünü yapıcam. o günü kimseye verme. al sana şu kadar da para. tamamını düğünü yaptığım gün vericem” diye para veriyorsunuz, sizleri bilmem ama düğün salonları mal olmadıkları için, alacaklarını garantiye almak için <a class="b" href="/?q=s%c3%b6zle%c5%9fme">sözleşme</a> de yapıyor. böyle mücbir bir durumda organizasyonu iptal olan da işlemeyle görüşür, olmadı yasal yollara başvurur, parasını <a class="b" href="/?q=zaten">zaten</a> alır. <br/><br/>benim umudum; ülke değil dünya şu durumda iken tek derdi düğüne derneğe harcadığı parasından ibaret olan insanın o parayı geri alamayıp arkasından ağlamasıdır ama muhtemelen dileğim gerçek olmayacaktır.<br/><br/>hakkını yedirmemek ayrı konu olmakla birlikte; beş bin liranın arkasından ağlayacak insan zaten bayramlıklarını giysin, gitsin oda nikahını kıysın ve kaynanasının evine yerleşsin. nesine gerek düğün dernek?
+    --- <a class="b" href="/?q=%c3%bcst+edit">üst edit</a> ---<br/><br/>başlığı açan mağdure bacı, entrysini silip gitmiş. bu da sazan gibi atlayıp savunmaya kalkan eziklere kapak olsun.<br/><br/>--- <a class="b" href="/?q=%c3%bcst+edit">üst edit</a> ---<br/><br/>koca dünya canıyla uğraşırken düğün salonuna, gelinlikçiye verdiği parayla mağdur olabilen insanların sorunu.<br/><br/>dertlere bak dertlere! düğün yapamamışlar da kapora ödemişler de mağdur olmuşlar!<br/><br/>başınıza gerçek bir dert gelirse görürsünüz gelinlikçiyi kınacıyı.<br/><br/>“bizim düğün işi yatmışken, salgın bahanesiyle kaporalarımı geri alayım” uyanıklığı gibi görünüyor bu mesele. yoksa mekan faaliyetlerinin devlet tarafından askıya alınmış olması kaporanızın yanması için bir gerekçe olmaz.<br/><br/><a class="b" href="/?q=edit">edit</a>: devlet “gebermeyin!” diyor, bak, “geberme!” diyor. “filmin bitmesin, sana ayrılan sürenin sonuna gelme” diyor, millet (çarçur bile olmayacak olan) parasına ağlıyor! evinin ocağının sönmesine, işinin batmasına bile değil, düğüne kınaya ayırdığı, <a class="b" href="/?q=tamamen+keyfi">tamamen keyfi</a> olan beş bin lirasına ağlıyor! bir de kalkıp bu ağlayana destek çıkanlar oluyor!<br/><br/>kuş kadar aklı olan bilir ki hukuk diye bir şey var. “bak ben şu gün düğünü yapıcam. o günü kimseye verme. al sana şu kadar da para. tamamını düğünü yaptığım gün vericem” diye para veriyorsunuz, sizleri bilmem ama düğün salonları mal olmadıkları için, alacaklarını garantiye almak için <a class="b" href="/?q=s%c3%b6zle%c5%9fme">sözleşme</a> de yapıyor. böyle mücbir bir durumda organizasyonu iptal olan da işlemeyle görüşür, olmadı yasal yollara başvurur, parasını <a class="b" href="/?q=zaten">zaten</a> alır. <br/><br/>benim umudum; ülke değil dünya şu durumda iken tek derdi düğüne derneğe harcadığı parasından ibaret olan insanın o parayı geri alamayıp arkasından ağlamasıdır ama muhtemelen dileğim gerçek olmayacaktır.<br/><br/>hakkını yedirmemek ayrı konu olmakla birlikte; beş bin liranın arkasından ağlayacak insan zaten bayramlıklarını giysin, gitsin oda nikahını kıysın ve kaynanasının evine yerleşsin. nesine gerek düğün dernek?
   entry_channels: ilişkiler
+- entry_name: |
+    suriye'de hiç kovid-19 vakası saptanmaması
+  entry_id:  103679046
+  entry_writer: susmicam
+  entry_fav_count: 52
+  entry_content: |
+    suriye sağlık bakanının süreci muhteşem yönetmesindendir. suriyenin sağlık sistemi dünyaya örnek olmalıdır. biliyorsunuz avrupalılar taharetlenmiyor suriyeliler gibi ondan italyası ingilteresi hastalıktan kırılırken güzel iyi yönetilen suriyem vakasız.
+  entry_channels: siyaset,sağlık
 - entry_name: |
     derya baykal'ın el örgüsü maske tarifi
   entry_id:  103681308
   entry_writer: melchoir
-  entry_fav_count: 46
+  entry_fav_count: 50
   entry_content: |
     (bkz: <a class="b" href="/?q=%c3%b6len+bayan">ölen bayan</a>)
   entry_channels: tv,sağlık,moda
@@ -222,7 +214,7 @@ data:
     koronavirüs salgını ile değişen davranışlarımız
   entry_id:  103677131
   entry_writer: ozakman
-  entry_fav_count: 43
+  entry_fav_count: 44
   entry_content: |
     az önce migros'a gittim. kasadan eşyaları geçireceğim. kasiyer öksürünce birden herkes elindekileri bıraktı, dışarıya kaçtı. aynı çizgi filmlerdeki gibi. fiyüüüüüü diye efekt var ya hani, bizzat duydum onu. kız da arkadan bağırıyor, kaçmayın boğazıma su kaçtı diye. ay yarabbi ya, aklıma mukayet ol. çıldiriciğim.
   entry_channels: anket,ilişkiler,sağlık
@@ -230,7 +222,7 @@ data:
     fahrettin koca
   entry_id:  103633535
   entry_writer: gok yeleli baykus
-  entry_fav_count: 40
+  entry_fav_count: 41
   entry_content: |
     kendisini biraz daha överseniz rte’nin hışmına uğrayacak adam. <br/><br/>ekmeğiyle oynuyorsunuz, farkında değilsiniz.
   entry_channels: siyaset,sağlık,haber
@@ -238,18 +230,10 @@ data:
     mesajınız var yeşili
   entry_id:  103665198
   entry_writer: how i met my cats
-  entry_fav_count: 38
+  entry_fav_count: 39
   entry_content: |
     hiç yokluğunu hissetmediğim yeşil. sürekli yanar.<br/><br/>edit: beyler sakin, erkeğim. mesaj kutum piç oldu. ayrıca bazılarınızın taktikleri çok kötü, hiç şansınız yok bu kafayla.
   entry_channels: ekşi-sözlük
-- entry_name: |
-    mustafa sofi
-  entry_id:  103684535
-  entry_writer: meleztegin
-  entry_fav_count: 37
-  entry_content: |
-    (bkz: <a class="b" href="/?q=g%c3%bczide+sofi">güzide sofi</a>) denen suçlunun babasıdır. (karantinadan kaçmak ceza kanunu 195.maddeye göre suçtur)<br/><br/>edit: kanun düzeltme (teşekkürler <sup class="ab"><a title="(bkz: 4th)" href="/?q=4th" data-query="4th">*</a></sup> )
-  entry_channels: siyaset,haber
 - entry_name: |
     olası karantinada evde yapılacak aktiviteler
   entry_id:  103631788
@@ -262,7 +246,7 @@ data:
     avm'lerin hala kapatılmama nedeni
   entry_id:  103672716
   entry_writer: saintly
-  entry_fav_count: 30
+  entry_fav_count: 31
   entry_content: |
     ciddi olarak merak ettiğim detay.<br/><br/>camiden, barlara kadar her yer kapatılmış durumdayken avm'leri buralardan daha az riskli yapan detaylar nelerdir? ekonomik sebepler dışında aklıma gelen bir sebep yok.<br/><br/><a class="b" href="/?q=edit">edit</a>; "kapansın da millet evine ekmek götüremesin mi" diye garip mesaj atan mal değneği bazı arkadaşlar var. bunun çözümü; binlerce insanın "şans eseri" hastalık riski ile çalışmak zorunda kalması mı sayın davar oğlu davar? burada çözüm; toplanan vergilerin böylesi kriz durumlarında vatandaşa adil ve eşit dağıtılabilmesi ve işten çıkarılmaların yasaklanması olmalıdır. "
   entry_channels: siyaset,anket,sağlık
@@ -270,23 +254,15 @@ data:
     ilk corona vakasının kapalıçarşı'dan çıkması
   entry_id:  103673641
   entry_writer: pweck
-  entry_fav_count: 26
+  entry_fav_count: 27
   entry_content: |
     üstte bir arkadaş elektrot kaynağı demiş fakat videodaki görevlinin biliyorsunuz ilk vaka buradan çıktı o yüzden risk grubundasınız demesi gayet yeterli bir kaynaktır.
   entry_channels: sağlık
 - entry_name: |
-    erkeklere güvenmemek
-  entry_id:  103676758
-  entry_writer: canavar geliyor kacalim
-  entry_fav_count: 26
-  entry_content: |
-    en büyük problem ne biliyor musunuz? seviyormuş gibi davranıp aslında yavşak olmak. aynısı kadın için de geçerli. iki cinste de bu yavşakların sayıları oldukça fazla. ama kadınlar güzel sözlere ve ilgiye daha meraklı olduğu için etkilenme de daha güçlü oluyor. sonra da yoğun bir hayal kırıklığı. keşke bu yavşakları karantinaya alabilme imkanımız olsa.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     corona virüsünün şişirilmiş bir balon olması
   entry_id:  103681059
   entry_writer: aynshinqaf iki
-  entry_fav_count: 23
+  entry_fav_count: 27
   entry_content: |
     hastalığın o %20'lik kismi tıbbi desteğe ihtiyaç duymakta. kurtulanlarin çoğunda ciddi manada zatürre görünmekte, ciddi akciğer kapasitesi kaybı yaşanmakta ve ölen kısım nefes darlığından ölmekte. ayrıca bir yakalanıp kurtulan tekrar hasta olabilmekte. türkiye'deki ağır bir yayilmada kapasite kat kat asılacak. işte o %20'lik kesimdekiler gerekli tıbbi desteği alamayacak. <br/><br/>ayrıca kronik rahatsızlığı olanlar, bağışıklık baskılayıcı ilaç kullananlar ve yaşam standartları ya da seçimleri nedeniyle bağışıklığı kuvvetli olmayanlar için yaş falan mühim değil. yani işler panik yapmayacak kadar iyi, sümen altı etmeyecek kadar kotu.<br/><br/>edit: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.forbes.com/sites/brucelee/2020/03/15/can-you-get-infected-by-coronavirus-twice-how-does-covid-19-immunity-work/" title="https://www.forbes.com/sites/brucelee/2020/03/15/can-you-get-infected-by-coronavirus-twice-how-does-covid-19-immunity-work/">https://www.forbes.com/…oes-covid-19-immunity-work/</a><br/><br/>edit 2: soran eden oluyor, tekrar bulasan vakalar var. ayrıca dediğim gibi "insanlığı yok oluşunu izliyoruz" veya "grip la işte takılın amk" gibi uçlara gerek yok. karantinaya dikkat edilsin, panik yapılmasın, temizliğe dikkat edilsin, bağışıklık sistemi kuvvetlensin yeterli. şu stokcular ve sulalem rahatcilar gölge etmesin yeterli.
   entry_channels: sağlık
@@ -294,34 +270,58 @@ data:
     corona haberlerinden sonra boğazda tuhaf hissiyat
   entry_id:  103677977
   entry_writer: chokonut
-  entry_fav_count: 13
+  entry_fav_count: 22
   entry_content: |
     çok fazla coronavirüs haberi okumaktan mıdır, yoksa virüs bana bulaştı da haberim mi yok... son 5 gümdür boğazımda sanki ufak bir kitle var. yutkunurken hissediyorum. çok çok inceden biberin bıraktığı yanma hissi gibi bir his de var. hatta şimdi son 1 saattir nefesim mi daraldı nedir. <br/><br/>psikolojik olabilir mi? ateş, öksürük, burun akıntısı ve halsizlik gibi semptomlar yok.
   entry_channels: sağlık
 - entry_name: |
+    insan ilişkilerinden çıkarılmış en önemli ders
+  entry_id:  103635115
+  entry_writer: yasli tilki
+  entry_fav_count: 21
+  entry_content: |
+    insanlar genel olarak salaktır, ucuzdur ve bayağıdır. fazla sokulmayacaksın ki salaklıklarla burun buruna gelmeyesin hayat kısa aptallarla uğraşmaya değmez
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    güzide sofi için süleyman soylu'nun açıklaması
+  entry_id:  103686858
+  entry_writer: tsubasa ohzora
+  entry_fav_count: 18
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/IlkerYzb/status/1240010878835200008" title="https://twitter.com/IlkerYzb/status/1240010878835200008">şu</a> tweet'te de kızın babası kızın karantina sürecini kıbrıs'ta geçireceğini söylüyor. bakan ise 14 gün sonra kıbrıs'a gidecek diyor, ee sayın bakanım yalancı denilmesine kızıyorsunuz da burada iki taraftan biri doğru söylemiyor, ayrıca şimdi de kktc için mi çalışıyorsunuz diyeceksiniz.
+  entry_channels: siyaset,haber
+- entry_name: |
     25 günde evlenmek
   entry_id:  103680039
   entry_writer: sandiego1
-  entry_fav_count: 13
+  entry_fav_count: 14
   entry_content: |
     uzun sürmüş dediğim . saçma buluyorum ben birbirini tanıma evresini bu kadar büyütmeyi . hayat bu kadar uzun değil. ben evlenmek istedigimde genelde dışarı çıkıyorum evlendirme dairesine giderken yolda bir kadını çevirip evleniyorum. bazen de eniştem nüfus müdürlüğünde çalıştığı için rastgele birinin bilgilerini veriyor bana onunla evleniyorum ,sonra da gidip haber veriyorum yeni evlendiğim eşime. iki tarafa da sürpriz oluyor.
   entry_channels: ilişkiler
 - entry_name: |
-    ikinci el otomobil piyasası
-  entry_id:  103648618
-  entry_writer: michel angel
-  entry_fav_count: 12
-  entry_content: |
-    hayatımda gördüğüm en büyük dalgalanmalara sebep olan piyasadır. <br/><br/>olm o değil de bu nedir lan: <a class="b" href="/entry/103580255">#103580255</a> (<a rel="nofollow noopener" class="url" target="_blank" href="https://ibb.co/TPPBSj4">https://ibb.co/tppbsj4</a>) ahahahahaksdasdjakdh millet piyasaya bakıp kara kara ne olacak halimiz diye düşünüyor, hanım abla kaynanasına haset derdinde.. (muhtemelen hanım abladır çünkü tipik bir anadolu mahalle karısı davranışı...)<br/><br/>sözlüğün yarrağı yemesinde hep ergenlerden şikayet edilirdi, beterin beteri varmış amk kafaya bak ahahdsjsdfhlskdhfls
-  entry_channels: otomotiv,ekonomi
-- entry_name: |
     astrologların korona virüsünü öngörememesi
   entry_id:  103683377
   entry_writer: spontansanat
-  entry_fav_count: 10
+  entry_fav_count: 12
   entry_content: |
     astrolog, medyum, falcılar gibilerinin böyle büyük bir hadiseyi öngörememiş olmaları onlar için de beklenmedik bir süpriz olsa gerek.
   entry_channels: 
+- entry_name: |
+    güzide sofi hakkında yapılması muhtemel açıklama
+  entry_id:  103685685
+  entry_writer: monkeyisgonetoheaven
+  entry_fav_count: 8
+  entry_content: |
+    açıklama yapılmayacaktır.<br/><br/>bitti.<br/><br/>şimdi iyi yürütülen(!) süreci ve işini yapan bakanları övmeye devam edebilirsiniz.
+  entry_channels: 
+- entry_name: |
+    17 mart 2020 sağlık bakanı'nın basın toplantısı
+  entry_id:  103687182
+  entry_writer: monkeyisgonetoheaven
+  entry_fav_count: 8
+  entry_content: |
+    tiryakisi olduk her gece basın toplantılarının.
+  entry_channels: haber
 - entry_name: |
     adet sancısına iyi gelen şeyler
   entry_id:  103666248
@@ -331,12 +331,20 @@ data:
     ağrıya yüz vermemek.
   entry_channels: anket,sağlık
 - entry_name: |
-    ingiliz aksanını sevdiren insanlar
-  entry_id:  103684999
-  entry_writer: sana noluyo len
-  entry_fav_count: 4
+    karantina kuralına uymayan ünlüleri ifşa et
+  entry_id:  103686114
+  entry_writer: cerag
+  entry_fav_count: 3
   entry_content: |
-    (bkz: <a class="b" href="/?q=doctor+who">doctor who</a>)
+    ünsüz olsa olur mu? sert ünsüz ama. yada etkili ünsüz mü demeliydik.<br/><br/>(bkz: <a class="b" href="/?q=g%c3%bczide+sofi">güzide sofi</a>)
+  entry_channels: 
+- entry_name: |
+    ingiliz aksanını sevdiren insanlar
+  entry_id:  103684973
+  entry_writer: emniyet hanim
+  entry_fav_count: 3
+  entry_content: |
+    tom ellis <br/>(bkz: <a class="b" href="/?q=lucifer">lucifer</a>)
   entry_channels: anket,edebiyat,eğitim
 - entry_name: |
     140journos çok yakında videosu
@@ -379,14 +387,6 @@ data:
     üç senedir lösemi ve lösemiden kurtulmak için olduğu <a class="b" href="/?q=k%c3%b6k+h%c3%bccre+nakli">kök hücre nakli</a>nin yan etkisi <a class="b" href="/?q=graft+versus+host+hastal%c4%b1%c4%9f%c4%b1">graft versus host hastalığı</a> ile uğraşıyorum. bu ikincisi akciğerlerimi sikti. bir buçuk senedir tıknefesim - en ufak bir rampada hemen tıkanacak ölçüde. bağışıklık sistemim de çok düşük, ciğerlerimde enfeksiyonlar geldi geçti bir yığın.<br/>bunları atlatabilmek için her hafta <a class="b" href="/?q=fotoferez">fotoferez</a> denen bir işleme gitmem gerekiyor, bu da kendimi hastaneye maruz bırakmak demek. corona belası tam da üzerimize çökmeye başlamışken hem de.<br/><br/>ölmekten korkmuyorum, zaten üç senedir burun burunayım da... boğularak ölmek fikrinden inanılmaz korkuyorum. <br/>lütfen böyle olmasın.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    an itibarıyla yazarların nerede olup ne yaptığı
-  entry_id:  103662303
-  entry_writer: zamyatin
-  entry_fav_count: 1
-  entry_content: |
-    evde kendi kendime <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/LpsVx-2V5ng" title="https://youtu.be/LpsVx-2V5ng">dünyanın sonu geldi buzullar buzullar</a> şarkısını söylüyorum.
-  entry_channels: anket
-- entry_name: |
     sekreteri olan yazarlar
   entry_id:  103681807
   entry_writer: yarin bos musun
@@ -395,11 +395,11 @@ data:
     benim patronum <a class="b" href="/?q=yarin+bos+musun">yarin bos musun</a> bey. bana "şunu şunu yaz" diyor, ben de yazıyorum.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  103638653
-  entry_writer: alganus
+    140journos'un ali babacan videosu
+  entry_id:  103686265
+  entry_writer: mcbtr
   entry_fav_count: 0
   entry_content: |
-    0 şakasız aşk meşk derdi olan anlatabilir. akıl veririm.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    her şeyini anladım da, odtü mezunu olsa da, şu adamın devrim stadında çekilen görüntülerinin koyulması gerçekten saçma. adamın kökeni siyasal islam ve siz bu adamı onunla en çok mücadele eden kişilerin sembolü haline gelmiş bir yerde çekip, video hazırlıyorsunuz.<br/><br/>ters köşe yapmayacaklarsa, çok saçma.
+  entry_channels: siyaset
 ---
