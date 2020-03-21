@@ -6,7 +6,7 @@ data:
     21 mart 2020 chaby han açıklamaları
   entry_id:  103888860
   entry_writer: doxanikee
-  entry_fav_count: 1132
+  entry_fav_count: 1143
   entry_content: |
     bu da sıktı artık.
   entry_channels: haber,magazin
@@ -14,7 +14,7 @@ data:
     hayran kalınan avrupa'nın çökmesi
   entry_id:  103885457
   entry_writer: pearjam
-  entry_fav_count: 978
+  entry_fav_count: 982
   entry_content: |
     hayran kalınan avrupa'dan bildiriyorum.<br/>çöktüğünü göremiyorum, siz nereden yazıyorsunuz?<br/>ben şu an çalışmıyorum, devlet maaşımı ödüyor.<br/>bu ay kira ödemeyeceğim, faturalarım da askıya alındı.<br/><br/>fakat!<br/><br/>geçen hafta paris'ten son bir uçak kaldırılacak diye bilgi paylaşılması üzerine büyük elçilik ile iletişime geçtim, tam beş kez aradım.<br/>evime dönmek istediğimi fakat bir yol bulamadığımı belirtip açık açık yardım talep ettim.<br/>bana verilen cevap:<br/>"şu an hiçbir bilgimiz yok, ne uçağın nereden kalkacağını ne de saat kaçta kalkacağını biliyoruz."<br/>bunun üzerine:<br/>"peki ben burada kalırsam ne yapacağım? işim askıya alındı, maaşım yatacak mı bilmiyorum, kiramı nasıl ödeyeceğim?" diye sordum.<br/>aldığım cevap:<br/>"elçilikten maddi yardım talebinde bulunabilirsiniz."<br/><br/>burada yabancı öğrenci statüsünde yukarıda bahsettiğim yardımları talep dahi etmeden* alıyorken! vatandaşı olduğum devlet bana "götünü kurtar mike!" dedi.<br/><br/>o yüzden boş yapmayın.<br/>(bkz: <a class="b" href="/?q=bak+%c5%9furdan+siktir+git">bak şurdan siktir git</a>)
   entry_channels: siyaset,ekonomi
@@ -22,7 +22,7 @@ data:
     vodafone'un ferhat ceylan'ın işine son vermesi
   entry_id:  103888981
   entry_writer: yiktim perdeyi eyledim viran
-  entry_fav_count: 627
+  entry_fav_count: 630
   entry_content: |
     şerefsizliğin daniskası! evde kal diye ayak yapacaksın, mesajlar atacaksın insanlara, uygulamamızdan işlem yapın diyeceksin, şirinlik yapacaksın. sonra kendi çalışanın, timsah gözyaşlarını yüzüne vurunca adamı kovacaksın. özür dilemek yetmez. vodafone bedel ödemeli!
   entry_channels: teknoloji,sağlık,haber
@@ -30,31 +30,55 @@ data:
     akp çekmeköy belediyesi çöpçüsü
   entry_id:  103889132
   entry_writer: rastafay
-  entry_fav_count: 554
+  entry_fav_count: 557
   entry_content: |
     metro istasyonu girişine çöp bırakıp fotoğrafını çeken akp çekmeköy belediyesi çöpçüsü ibb kameralarına yakalandı. <br/>ortalıkta virüs varken ibb çalışmıyor diye paylaşacak namussuz bu zamanlarda bile dertleri kaybettikleri istanbul'u hile ile geri almak <br/><br/>bunların müslümanlığı bu kadar işte ama yukarıda allah var onu hesaba katmıyor kitapsız <br/><br/>edit : bu soysuz akp çekmeköy belediyesi çöpçüsü değil ibb çalışanı bir akpli çıktı yediği kaba pisleyen köpek bunlar <br/>ah imamoğlu dedik sana bunlarla değil kendi kadronla çalış seni sabote edecekler diye dinletemedik bu sosyal demokrat'a geçen de usülsüz işe alınıp belediyenin önünde tantana çıkaranları ihanet etsinler diye işe aldı devam et imamoğlu sonun sezar gibi olacak doldur etrafına hainleri devam et <br/><br/>neyse ki bu alçağa gereği yapılmış kendi ekmeğiyle oynadı tazminat ta alamaz yaptığı yüz kızartıcı suç dava bile açılır <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/tcbuyuksehir/status/1241303137480257536?s=20" title="https://twitter.com/tcbuyuksehir/status/1241303137480257536?s=20">link</a>
   entry_channels: siyaset,haber
 - entry_name: |
-    italyan bld. başkanının evde durmayanlara tepkisi
-  entry_id:  103888730
-  entry_writer: spaykymoon
-  entry_fav_count: 485
-  entry_content: |
-    "20 yıldır 3 kişiyle spor yaparım. bir anda herkes spor aşkıyla yanan insan dolmuş!"<br/><br/>parti kur oy verelim başganım!
-  entry_channels: ilişkiler,sağlık,haber
-- entry_name: |
     21 mart 2020 hastane güvenliğinin bıçaklanması
   entry_id:  103904993
   entry_writer: eksi peace
-  entry_fav_count: 454
+  entry_fav_count: 525
   entry_content: |
     (bkz: <a class="b" href="/?q=orospu%c3%a7ocu%c4%9fu+%c3%a7omar">orospuçocuğu çomar</a>)<br/><br/>virüsten önce bu çomarlarla mücadele edilmesi gerektiğini gösteren olay.
   entry_channels: sağlık,haber
 - entry_name: |
+    italyan bld. başkanının evde durmayanlara tepkisi
+  entry_id:  103888730
+  entry_writer: spaykymoon
+  entry_fav_count: 486
+  entry_content: |
+    "20 yıldır 3 kişiyle spor yaparım. bir anda herkes spor aşkıyla yanan insan dolmuş!"<br/><br/>parti kur oy verelim başganım!
+  entry_channels: ilişkiler,sağlık,haber
+- entry_name: |
+    newroz
+  entry_id:  103879057
+  entry_writer: nihilistic delusion
+  entry_fav_count: 482
+  entry_content: |
+    pkklilar tarafindan her deger gibi bunun da ici bosaltilarak yillik olagan hdp mitingi seviyesine kadar dusurulmustur.
+  entry_channels: tarih
+- entry_name: |
+    ak parti döneminde azalarak biten şeyler
+  entry_id:  103875207
+  entry_writer: primus
+  entry_fav_count: 433
+  entry_content: |
+    adalet
+  entry_channels: siyaset,anket
+- entry_name: |
+    enver aysever'in alişan'ı kızdıran paylaşımı
+  entry_id:  103882583
+  entry_writer: grandleozz
+  entry_fav_count: 329
+  entry_content: |
+    "binim dinimli iliy idimizsin"<br/><br/>öncelikle ortada bir alay etme yok, eleştiri var. eleştiriye argümanla karşılık verilir. <a class="b" href="/?q=ali%c5%9fan">alişan</a> adlı kapasitesiz fantezi müzik çığırtkanının verebileceği yanıt anca bu kadar olur.<br/><br/>"haklı ama" diyenin de zekası en fazla alişan kadardır.
+  entry_channels: magazin
+- entry_name: |
     neden sevgilin yok
   entry_id:  103875826
   entry_writer: yazarininbileokumadigikitap
-  entry_fav_count: 284
+  entry_fav_count: 295
   entry_content: |
     kendime saygım olduğu için sevgiliyi bir ihtiyaç olarak görmüyorum.<br/>ayrıca kimse dürüst ve çaba gösterilecek kadar kaliteli değil artık.
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -62,23 +86,39 @@ data:
     21 mart 2020 italya'da 793 kişinin ölmesi
   entry_id:  103908976
   entry_writer: volksdeutsche
-  entry_fav_count: 218
+  entry_fav_count: 290
   entry_content: |
     korkunç.<br/>çin'in doğru rakamları verdiğini düşünen kaldı mı?
   entry_channels: sağlık,haber
 - entry_name: |
+    21 mart 2020 belgrad ormanı piknikleri
+  entry_id:  103889508
+  entry_writer: zira
+  entry_fav_count: 289
+  entry_content: |
+    (bkz: <a class="b" href="/?q=akl%c4%b1n%c4%b1z%c4%b1+sikeyim">aklınızı sikeyim</a>)
+  entry_channels: sağlık,haber,yeme-içme
+- entry_name: |
     corona virüs ile ilgili saklanan gerçek
   entry_id:  103892866
   entry_writer: xentios
-  entry_fav_count: 214
+  entry_fav_count: 227
   entry_content: |
     hastalık akciğerlerinize girip akciğer hücrelerinizi patlatıyor, bu arada bağışıklık sisteminize de sızabiliyor. eğer bağışıklık sisteminize sızarsa bu sefer hem virus hem bağışıklık sisteminiz akciğer hücrelerine saldırmaya başlıyor. bu yüzden solunum güçlüğü başlıyor. <br/><br/>bağışıklık sisteminiz eninde sonunda bu virüse karşı olan savaşı kazanıyor ama felç bir hale geliyor. <br/><br/>iste iyileşmeye başladığınız bu süreçte diğer bakteri ve virüsler vücudunuza girerse zaten yorgun olan bağışıklık sistemi bu yeni tehditlere karşı savaşamıyor ve ölüm kaçınılmaz oluyor.<br/><br/>dolayısı ile karantina altında devamlı dezenfekte edilen gemide karadaki kadar çok bakteri olmadığı için ölüm oranının az olması kadar mantıklı bir sonuç yok.
   entry_channels: 
 - entry_name: |
+    21 mart 2020 berber ve kuaförlerin kapatılması
+  entry_id:  103893684
+  entry_writer: explorateur
+  entry_fav_count: 221
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>saç sakal 250tl saat 6’ya kadar açığız.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
+  entry_channels: sağlık,haber
+- entry_name: |
     21 mart 2020 istanbul sahillerinin dolması
   entry_id:  103897200
   entry_writer: ismin e hali
-  entry_fav_count: 200
+  entry_fav_count: 201
   entry_content: |
     kadıköy'den bildiriyorum sokaklar full.<br/>sevgililer buluşmuş. yaşlılar güneşleniyor.<br/>her eve bir tabut kampanyasını destekliyorum.<br/>haydi çocuklar kırkınızda görüşmek üzere.
   entry_channels: ilişkiler,sağlık,haber
@@ -86,15 +126,15 @@ data:
     iran'ın corona'nın ilacını bulduğu iddiası
   entry_id:  103902904
   entry_writer: ilkinar
-  entry_fav_count: 188
+  entry_fav_count: 192
   entry_content: |
-    edit 3: haber yalanmış arkadaşlar. `@normative` isimli yazar arkadaştan gelen bilgiye göre iran medyasında böyle bir haber yokmuş. iran'ın food and drug administration biriminin başındaki adamın esas adı da mohammadreza shanehsaz'mış. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/iranpress_news" title="https://twitter.com/iranpress_news">bu</a> da iran'ın anlık resmi bilgi veren twitter adresiymiş.<br/><br/>her gün birileri bulduğu için inanmadığım haber. umarım doğrudur.<br/><br/>edit: yarın 13:52 rezervasyonu bende, ben buluyorum o sırada ilacı.<br/><br/>edit 2: "korona virüsü taşıyan hastalara iyi gelen bu ilacı 7 ila 10 gün içerisinde piyasaya süreceğiz" iyi gelen ne demek ya? iyileştiriyor mu iyileştirmiyor mu? ada çayı mı bu iyi gelsin. ilaç dediğin iyileştirir.
+    edit 3: haber yalanmış arkadaşlar. (bkz: @normative) isimli yazar arkadaştan gelen bilgiye göre iran medyasında böyle bir haber yokmuş. iran'ın food and drug administration biriminin başındaki adamın esas adı da mohammadreza shanehsaz'mış. <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/iranpress_news" title="https://twitter.com/iranpress_news">bu</a> da iran'ın anlık resmi bilgi veren twitter adresiymiş.<br/><br/>her gün birileri bulduğu için inanmadığım haber. umarım doğrudur.<br/><br/>edit: yarın 13:52 rezervasyonu bende, ben buluyorum o sırada ilacı.<br/><br/>edit 2: "korona virüsü taşıyan hastalara iyi gelen bu ilacı 7 ila 10 gün içerisinde piyasaya süreceğiz" iyi gelen ne demek ya? iyileştiriyor mu iyileştirmiyor mu? ada çayı mı bu iyi gelsin. ilaç dediğin iyileştirir.
   entry_channels: sağlık,haber
 - entry_name: |
     21 mart 2020 herkesin dışarda olması
   entry_id:  103897226
   entry_writer: kalemi kilicindan keskin olan adam
-  entry_fav_count: 181
+  entry_fav_count: 183
   entry_content: |
     kaybettiğine üzüleceğin bir hayata sahip değilsen, ölüm ürkütmüyor insanları.<br/>aslında bu durum, gerçekten ülkenin en iyi özeti.<br/>insanların hala pervasızca sokakta olmaları cahilliklerinden değil.<br/>zenginler tedbir üstüne tedbir alıyorlar. ama belirli bir gelirin altındaki insanlar gerçekten umursamıyorlar.<br/>bu ülkede 16 milyon insan açlık, 48 milyon insan ise yoksulluk sınırında gelire sahip.<br/>bu adamları ölümle ürkütemezsin.<br/>işte tam da bu yüzden rica minnet bırakılıp, sokağa çıkma yasağı ilan edilmeli.
   entry_channels: anket,ilişkiler,seyahat
@@ -102,7 +142,7 @@ data:
     ankara b.b.'nin 65 yaş üstü ücretsiz ulaşım iptali
   entry_id:  103902712
   entry_writer: onlyonechance
-  entry_fav_count: 172
+  entry_fav_count: 178
   entry_content: |
     mansur başkan, ekrem başkana göre hep bir adım önde gidiyor.<br/>aynı hareketi ekrem başkandan bekliyoruz.
   entry_channels: siyaset,haber
@@ -115,10 +155,26 @@ data:
     korona sürecinde aldığım en güzel haber. çok mutluyum. <br/>umarım uber de geri gelir.
   entry_channels: siyaset,anket,otomotiv,ekonomi
 - entry_name: |
+    sars-cov-2
+  entry_id:  103865949
+  entry_writer: ozgurozzi
+  entry_fav_count: 160
+  entry_content: |
+    <a class="b" href="/?q=italya">italya</a>'nın genel durumuyla ilgili resmi kaynaklardan türkçeye çevirdiğim faydalı olabilecek bazı bilgiler.<br/><br/>20 mart itibariyle italya’da hayatını #covid_19 sebebiyle kaybeden kişi sayısı : 4032<br/><br/>19 mart tarihli araştırmaya göre hayatını kaybeden ilk 3200 kişinin;<br/><br/>yaş ortalaması: 78,5<br/>en genci: 31<br/>en yaşlısı: 103<br/>kadınların yaş ortalaması: 82<br/>erkeklerin yaş ortalaması: 79<br/><br/>bugüne kadar, 50 yaşın altındaki ( genel oran içindeki payı % 1.1) covıd-19 pozitif ölen hastanın 36'sının ölüm raporları şu şekilde. <br/><br/>özellikle, bunların 9'u 40'ın altındaydı ve 31 ile 39 yaşları arasında 8 erkek ve 1 kadındı. 40 yaşın altındaki 2 hastanın hiçbir klinik bilgisi mevcut değildir, diğer 7 hastanın önceden mevcut ciddi patolojileri (kardiyovasküler, renal, psikiyatrik patolojiler, diyabet, obezite) vardı.<br/><br/>31-39 yaşları arası hayatını kaybedenler<br/>toplam : 9 (0,3%)<br/>erkek: 8<br/>kadın : 1<br/><br/>*bunlardan 7 tanesinin önceden mevcut ciddi patolojileri (kardiyovasküler, renal, psikiyatrik patolojiler, diyabet, obezite) vardı.<br/>2 hastanın hiçbir klinik bilgisi mevcut değildir.<br/><br/>40-49 yaşları arası hayatını kaybedenler<br/>toplam : 27 (0,8%)<br/>erkek: 18<br/>kadın : 9<br/><br/>50-59 yaşları arası hayatını kaybedenler<br/>toplam: 93 (2,9%)<br/>erkek: 68<br/>kadın: 25<br/><br/>60-69 yaşları arası hayatını kaybedenler<br/>toplam: 329 (10,3%)<br/>erkek: 267<br/>kadın: 62<br/><br/>70-79 yaşları arası hayatını kaybedenler<br/>toplam: 1134 (35,4%)<br/>erkek: 877<br/>kadın: 257<br/><br/>80-89 yaşları arası hayatını kaybedenler<br/>toplam: 1309 (40,9%)<br/>erkek: 884<br/>kadın: 425<br/><br/>&gt;= 90 yaşları arası hayatını kaybedenler<br/>toplam: 298 (9,3%)<br/>erkek: 136<br/>kadın: 162<br/>*tespit edilemeyen 1 kişi <br/><br/>covıd-2019 pozitif nedeniyle ölen hastalarda en sık görülen patolojiler<br/><br/>patolojiler (kişi sayısı (yüzdelik dilim)) <br/>iskemik kalp hastalığı :145 (30.1%)<br/>atriyal fibrilasyon : 106 (22.0%)<br/>inme : 54 (11.2%)<br/>arteriyel hipertansiyon: 355 (73,8%)<br/>diyabetes mellitus : 163 (33,9%)<br/>demans : 57 (11.9%)<br/>koah : 66 (13.7%)<br/>son 5 yılda aktif kanser: 94 (19.5%)<br/>kronik karaciğer hastalığı: 18 (3.7%)<br/>kronik böbrek yetmezliği: 97 (20.2%)<br/><br/>sahip oldukları patoloji sayısına göre <br/><br/>0 patoloji : 6 kişi (1.2%)<br/>1 patoloji : 113 kişi (23.5%)<br/>2 patoloji : 128 kişi (26,6%)<br/>3 veya daha fazla patoloji : 234 kişi (48.6%)<br/><br/>covıd-19 nedeniyle ölen hastalarda en sık görülen semptomlar<br/><br/>hemoptysis : 1%<br/>ishal : 8%<br/>solunum güçlüğü : 73%<br/>öksürük : 40%<br/>ateş : 76%<br/>*hiçbir şikayet belirtmediği halde positif çıkanların oranı 5,7% şeklindedir.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5309379?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK_redirect=https%3A%2F%2Fwww.iss.it%2Fen%2Fcomunicati-stampa%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK_assetEntryId%3D5309379" title="https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5309379?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK_redirect=https%3A%2F%2Fwww.iss.it%2Fen%2Fcomunicati-stampa%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_fjTKmjJgSgdK_assetEntryId%3D5309379">kaynak</a> ıstituto superiore di sanità<br/><br/>20 mart günü lombardiya bölgesindeki brescia şehrinde 48 yaşında markette çalışan bir kadın kasiyerin bu hafta başında başlayan ateşinin artmasıyla evinde hayatını kaybetmiştir. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.worldometers.info/coronavirus/country/italy/" title="https://www.worldometers.info/coronavirus/country/italy/">worldometer.info</a><br/><br/>dipnot: daha önceki 15 mart tarihli rapor bilgilerinin yer aldığı entriye burdan ulaşabilirsiniz.<br/><br/>dipnot2: daha önceki entryi izinsiz/habersiz şekilde başka başlıklara copy-past yapan yazarlara, ilk entrye bakılmaksızın ekşi şeylerde başkasının nicki ilen paylaşan moderatöre ve tabiki aynı şekilde kanunsuz ve etik olmayan yollarla medyada paylaşan çeşitli haber aşanslarına burdaki bilgileri daha çok kişinin faydasına sundukları için teşekkür ederim.
+  entry_channels: bilim,sağlık,haber,havacılık
+- entry_name: |
+    insanların coronaya rağmen sigara içmesi
+  entry_id:  103905836
+  entry_writer: reklamcikimyager
+  entry_fav_count: 157
+  entry_content: |
+    iyiki sigara içmiyorsunuz amına koyayım. yani başka hangi haltı iyi ediyorsunuz merak ediyorum. bi düşün artık sigara içenlerin yakasından.
+  entry_channels: 
+- entry_name: |
     bana ne lan çıkarım sokağa
   entry_id:  103900229
   entry_writer: galatasarayim
-  entry_fav_count: 151
+  entry_fav_count: 153
   entry_content: |
     ampule bastım 20 sene <br/>bilim ilim hak getire <br/>koyam torunların götüne<br/>bana ne lan çıkarım sokağa
   entry_channels: anket,sağlık
@@ -142,74 +198,90 @@ data:
     zeynep bastık
   entry_id:  103894787
   entry_writer: voltran61
-  entry_fav_count: 111
+  entry_fav_count: 114
   entry_content: |
     gününüzün amk.
   entry_channels: müzik
 - entry_name: |
-    insanların coronaya rağmen sigara içmesi
-  entry_id:  103905836
-  entry_writer: reklamcikimyager
-  entry_fav_count: 110
+    nevruz a newroz yazan tip
+  entry_id:  103908741
+  entry_writer: serefli ucuncu besiktas
+  entry_fav_count: 101
   entry_content: |
-    iyiki sigara içmiyorsunuz amına koyayım. yani başka hangi haltı iyi ediyorsunuz merak ediyorum. bi düşün artık sigara içenlerin yakasından.
+    genellikle eşek sikmesiyle ünlüdür. elektrik faturası ödemez.
+  entry_channels: siyaset,anket,eğitim
+- entry_name: |
+    polisin bile zorla zaptettiği pitbull
+  entry_id:  103904247
+  entry_writer: tex dinoco
+  entry_fav_count: 75
+  entry_content: |
+    pitbull veya benzeri vahşi köpek savunucuları bence gerçek hayvansever değildir.<br/><br/>bu köpek türünün kesinlikle toplumdan izole edilmesi gerekiyor.<br/><br/>sahibinin sözünü bile dinlemeyen, davranışları kontrol altında tutulamayan, öldürmeye odaklı bir hayvan ile aynı ortamda yaşamamızı kimse beklemesin.
   entry_channels: 
 - entry_name: |
     çin virüsü
   entry_id:  103875914
   entry_writer: kurtarin kendinizi
-  entry_fav_count: 70
+  entry_fav_count: 73
   entry_content: |
     çin'in mağdur ülkelere ciddi şekilde tazminat ödemesini gerektiren virüstür.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/589NAoC9Q6Y" title="https://youtu.be/589NAoC9Q6Y">şu rezalete bakın</a><br/><br/>kedilerin kafasına çekiçle vurup öldüren, köpekleri kesmeden önce eti lezzetli olsun diye sopa ile döven, yarasaları canlı canlı çorba yapan, rakunların derisini hayvanlar canlıyken yüzen onun bunun çocukları inatla ve ısrarla bu rezil akışkanlıkları sürdürdükleri için bu virüs dünyanın başına bela oldu. <br/><br/>italya, ispanya gibi kendi halinde ve kimseye zararı olmayan akdeniz ülkelerindeki hasta ve yaşlı insanların günahı neydi de sizin pisliğiniz ve sorumsuzluğunuz yüzünden bu insanlar boğularak can verdiler?<br/><br/>öyle kestirmeden kaçış yok. <br/><br/>bu ihmalin bedelini ödeyecek bu çin denen insan ve hayvan düşmanı faşist devlet.<br/><br/>bütün salgın hastalıklar bunların iğrenç ötesi beslenme kültüründen, canlı hayvan pazarlarından ve vahşi yaşama müdahalesinden kaynaklandı. <br/><br/>corona hiçbir şey. sırada çok daha beter ve ölümcül virüsler var. <br/><br/>çünkü çin, hep aynı haltı yemiş. <br/><br/>salgınlar geçince canlı hayvan pazarlarını tekrar kurmuşlar, iğrenç beslenme alışkanlıklarına kaldıkları yerden devam etmişler ve vahşi yaşamın anasını bellemeye koyulmuşlar. <br/><br/>çin acilen durdurulması gereken bir kanserdir. <br/><br/>askeri ya da ekonomik olarak acilen durdurulmalıdır.
   entry_channels: siyaset,bilim,sağlık,haber
 - entry_name: |
-    cumartesi gecesi evde oturan ezik ve yalnız insan
-  entry_id:  103891447
-  entry_writer: jaycee chan
-  entry_fav_count: 63
+    kafayı yemek üzere olan yazarlar veritabanı
+  entry_id:  103866383
+  entry_writer: mockingbird21
+  entry_fav_count: 60
   entry_content: |
-    bedduası tutan insandır. <br/>ve artık yalnız değildir.
-  entry_channels: ilişkiler
-- entry_name: |
-    polisin bile zorla zaptettiği pitbull
-  entry_id:  103904247
-  entry_writer: tex dinoco
-  entry_fav_count: 61
-  entry_content: |
-    pitbull veya benzeri vahşi köpek savunucuları bence gerçek hayvansever değildir.<br/><br/>bu köpek türünün kesinlikle toplumdan izole edilmesi gerekiyor.<br/><br/>sahibinin sözünü bile dinlemeyen, davranışları kontrol altında tutulamayan, öldürmeye odaklı bir hayvan ile aynı ortamda yaşamamızı kimse beklemesin.
-  entry_channels: 
-- entry_name: |
-    nevruz a newroz yazan tip
-  entry_id:  103908741
-  entry_writer: serefli ucuncu besiktas
-  entry_fav_count: 57
-  entry_content: |
-    genellikle eşek sikmesiyle ünlüdür. elektrik faturası ödemez.
-  entry_channels: siyaset,anket,eğitim
-- entry_name: |
-    oytun erbaş
-  entry_id:  103866073
-  entry_writer: protez bacakli kirpi
-  entry_fav_count: 51
-  entry_content: |
-    üst edit: asperger sahibi olduğu için empati yoksunu olabileceği söylendi. susuyorum o zaman. diğer fikirlerim aşağıda.<br/><br/>oytun erbaş yüzünden bizzat okumuş etmiş arkadaşlarımdan, çevremden, oytun erbaş'ı kaynak olarak gösterip o kadar çok "bize bulaşmaz yeaa!" ya da "bize bi şey olmaz yeaaa!" diyen oldu ki, inanamazsınız.<br/><br/>insanların uzmanların ağzından çıkacak iki kelimeye baktığı bir dönemde o kadar çok medyada göründü ve o kadar çok konuştu ki, dünyanın altını üstünü getirmekle meşgul pandeminin (bkz: <a class="b" href="/?q=covid-19">covid-19</a>) ülkedeki yayılımının en büyük sorumlularından biri haline gelebilir. kendisi yaptı bunu. belki bu noktaya geleceğini düşünmemişti ama yaptığı ve sebep olduğu şeyin kesinlikle şakası yok. ettiğinin sonuçlarıyla yüzleşmeli!<br/><br/>bilimle uzaktan yakından alakası olmayan bir yaklaşımla, referans aldığı bilimsel makalenin hiçbir kanıtlanmış yanı yokken ve o alanda yeteri kadar çalışma yapılmamışken çok güçlü ve emin konuştu. yaptığı şeyin ateşle oynamak ve insanları ateşe atmaktan hiçbir farkı yok. korkunç bir şey yaptı. korkunç!<br/><br/>bakın gerçekten şaka yapmıyorum. sebep olduğu şeyi hayal edemezsiniz. kendisi yüzünden insanlar önlem almadı, hastalığı ciddiye almadı.<br/><br/>edit: kendisine tapanlar hala kaynak istiyor ve böyle bir şey söylemediğini iddia ediyor. buyrun, kendisi hızlı yayılım beklemeyip genetik vurgusu yapıyor: <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=SO9POZjQzmI">https://www.youtube.com/watch?v=so9pozjqzmi</a><br/><br/>son günde 300 küsür vaka geldi. daha nasıl hızlı yayılabilir sizce? buyrun siz cevap verin!
-  entry_channels: tv,bilim,sağlık,yeme-içme,eğitim
+    benim de dahil olduğum yazarlar topluluğu.. <br/><br/>gayet evde vakit geçirmekten keyif alan, işi olmadıkça dışarı çıkmaya üşenen bir üşengeç olan ben bile kafayı yemek üzereyim.. normalde günde bir sezon dizi izlerim ama şuan ne dizi ne film izlemek istemiyorum.. dışarıya çıkmak istesem virüsü kapıp evdekilere bulaştırmaktan korkuyorum.. evde kalmaya devam edersem de delirmekten korkuyorum.. büyük bir ikilemdeyim..
+  entry_channels: ekşi-sözlük,sağlık
 - entry_name: |
     21 mart 2020 65 yaş üstüne sokağa çıkma yasağı
   entry_id:  103906635
   entry_writer: oyadabu
-  entry_fav_count: 48
+  entry_fav_count: 55
   entry_content: |
     sayın cumhurbaşkanımızı uzunca bir süre dışarıda göremeyeceğiz anlamına gelir. artık evinden facetime ile bol bol bağlanır haberlere.
   entry_channels: sağlık,haber
 - entry_name: |
-    recep tayyip erdoğan
-  entry_id:  103867067
-  entry_writer: buralara nerden geldim
-  entry_fav_count: 35
+    kendisini uyaranlara bıçak çeken yaşlı
+  entry_id:  103897732
+  entry_writer: youtuber
+  entry_fav_count: 54
   entry_content: |
-    "başkanımız istanbul seçimini kaale alsaydı hayatı boyunca seçim kazanamamış binali yıldırımı aday göstermezdi bir kere." <br/><br/>bazılarının cehaleti corona virüsünden daha tehlikeli anlaşılan.
-  entry_channels: siyaset,haber
+    eeee ne var. bunlar gençkende bıçak çekiyor. kabadayı bunlar .....<br/>yaşlanınca insanın huyu değişiyor mu sanıyorsunuz ?<br/>doğal seçilim sürecinde böyle çok agresifler elenir. ota boka bıçak çekersen biride götünden kan alır bir gün.... <br/>bugüne kadar o biriyle tanışmamış olması üzücü olan 'yaşlı insan' .... dede demiyorum çünkü aklımdaki dede imgesini kirletecek bir insan...
+  entry_channels: sağlık,haber
+- entry_name: |
+    bir maaşımızı devletimize bağışlıyoruz kampanyası
+  entry_id:  103909693
+  entry_writer: sedat senin gotune koyim lan
+  entry_fav_count: 54
+  entry_content: |
+    devletin halkına 1 maaş bağışlaması gereken zamanda vatandaşın 1 maaş değil 1 kuruş bağışlaması bile saçmadır.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    hoşlanılan kızın sen bana fazla iyisin demesi
+  entry_id:  103904937
+  entry_writer: drbaris
+  entry_fav_count: 53
+  entry_content: |
+    (bkz: <a class="b" href="/?q=ba%c5%9f%c4%b1ndan+defetmek+i%c3%a7in+uydurulan+1001+yalan">başından defetmek için uydurulan 1001 yalan</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    rte'nin sokağa çıkmasının yasak olması
+  entry_id:  103908665
+  entry_writer: rexi
+  entry_fav_count: 49
+  entry_content: |
+    akp döneminde yaşanmıştır.
+  entry_channels: siyaset
+- entry_name: |
+    hacı sabancı'nın karantina hali
+  entry_id:  103911196
+  entry_writer: bordon
+  entry_fav_count: 34
+  entry_content: |
+    ben okurken göt olduğumu iliklerime kadar hissettim.saygılar abi.
+  entry_channels: magazin
 - entry_name: |
     sokağa çıkma yasağı
   entry_id:  103868099
@@ -219,37 +291,21 @@ data:
     siz yaşadığınız ülkeye hükmeden iktidarı anlamadınız hala sanırım. adamlar maçları oynatmaya devam edeceklerdi, bir kaç dünyaca ünlü oyuncu kazan kaldırınca 'mecbur' kaldılar, ertelediler maçları ileri bir tarihe.<br/>avm'leri kapamadılar, bir ton marka teker teker kapama kararı alıyor mağazalarını. yarın öbür gün 'mecbur' kalıp kapayacaklar avm'leri.<br/>durum pek iç açıcı değil ki daha yeni özel hastaneler de salgın hastanelerine dönüştü. yine 'mecbur' kalındı yani.<br/>yarın öbür gün işler iyice çığrından çıkınca artık, sahiden insanlar sokağa çıkmaya iyice tırsar hale gelince ve çıkmamaya, işe güce gitmemeye başlayınca ancak 'mecbur' kalınarak ilan edilecek. <br/>bu ülke, en az 70-80 yıldır hiçbir koşulda halkının yanında asla olmayan bir ülke. ancak böyle böyle zorlanırsa ve 'mecbur' kalırsa işte. <br/>yani ne zaman böyle bir uygulama ilan edilirse bilin ki durum bok. 'mecbur' kalınmış yani.
   entry_channels: siyaset,haber
 - entry_name: |
-    rte'nin sokağa çıkmasının yasak olması
-  entry_id:  103908665
-  entry_writer: rexi
-  entry_fav_count: 28
+    koronalıları mancınıkla yunanistan'a fırlatmak
+  entry_id:  103907845
+  entry_writer: sigadam
+  entry_fav_count: 26
   entry_content: |
-    akp döneminde yaşanmıştır.
-  entry_channels: siyaset
+    havada ilerlerken "bize bişeyyy olmağgggz mına koi.." diye bağıracak insandır
+  entry_channels: 
 - entry_name: |
     karantina günlerinde ne yapıyoruz
   entry_id:  103892585
   entry_writer: buzbaltasi
-  entry_fav_count: 22
+  entry_fav_count: 24
   entry_content: |
     görme engelli vatandaşlarımız için kitap seslendiriyorum.<br/>üç kitap bitti bile.<br/><br/>(bkz: <a class="b" href="/?q=kitaplara+ses">kitaplara ses</a>)
   entry_channels: anket
-- entry_name: |
-    ekrem imamoğlu
-  entry_id:  103880392
-  entry_writer: 2000liler
-  entry_fav_count: 22
-  entry_content: |
-    daha geçen abdullah öcalan'ın mektubunu okuyanlara, sayın diyenlere ve barış süreci yapanlara ses etmeyenler bugün gelmiş seçilmiş başkanı tehdit ediyor.
-  entry_channels: siyaset,haber
-- entry_name: |
-    evli kadınla birlikte olmak
-  entry_id:  103901071
-  entry_writer: this is you captain
-  entry_fav_count: 18
-  entry_content: |
-    doğaya bakarak eşini paylaşmayı uygun gören arkadaş umarım annesiyle veya çocuklarıyla çiftleşmez. zira doğada bunlar da mevcut.<br/><br/>ahlak ise, birçok konuda, insanın, içgüdüsüne, doğasına ve doğaya karşı koyabilmesidir.
-  entry_channels: ilişkiler
 - entry_name: |
     corona'yı sallamayan 60 yaş üstüne not bırak
   entry_id:  103897028
@@ -259,29 +315,13 @@ data:
     (bkz: <a class="b" href="/?q=bye+bye+boomer">bye bye boomer</a>)
   entry_channels: anket,sağlık
 - entry_name: |
-    bir maaşımızı devletimize bağışlıyoruz kampanyası
-  entry_id:  103909492
-  entry_writer: firemelon
-  entry_fav_count: 16
+    corona türkiye vaka artış hızının azalıyor olması
+  entry_id:  103911284
+  entry_writer: monkey piss
+  entry_fav_count: 12
   entry_content: |
-    yokum. sen seve seve bagışlayabilirsin dostum.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
-    39 yaşındaki covid-19 vakasının dünyaya mesajı
-  entry_id:  103902388
-  entry_writer: jeffrey dahmer
-  entry_fav_count: 14
-  entry_content: |
-    bana bulaşmaz demeyin, ben gencim bana bir şey olmaz demeyin diyor. cehaletin bedeli ağır olur diyor. akıllı olun diyor. bakın arkadaşlar, bu videoyu bu ülkedeki bütün televizyonlarda 24 saat yayınlamak gerekiyor, başka türlü bu işi ciddiye almayacağız.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/RILG_vnp8Ho" title="https://youtu.be/RILG_vnp8Ho">kaynak</a>
+    yüzde 1 azalmayı görmüş azalıyor demiş kardeşim benim be. pozitifliğini yerim senin ponçik.<br/><br/>keşke azalsa dediğim olay.
   entry_channels: sağlık
-- entry_name: |
-    koronalıları mancınıkla yunanistan'a fırlatmak
-  entry_id:  103907845
-  entry_writer: sigadam
-  entry_fav_count: 13
-  entry_content: |
-    havada ilerlerken "bize bişeyyy olmağgggz mına koi.." diye bağıracak insandır
-  entry_channels: 
 - entry_name: |
     sapyoseksüel erkek
   entry_id:  103903106
@@ -299,21 +339,21 @@ data:
     ben: en çok neremi seviyorsun kız?<br/>kız: kalbini <br/>ben: neden?<br/>kız: çünkü sikine giden kanı pompalıyor aşkım<br/>ben: aq kızı hemen evlen benimle
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ekşi itiraf
-  entry_id:  103867557
-  entry_writer: yesili seven biri
+    bateri aldırabilecek şarkılar
+  entry_id:  103894645
+  entry_writer: genom crow aren
   entry_fav_count: 6
   entry_content: |
-    herhangi bir konuda yorum yapıyoruz mesaj kutumuz küfürle doluyor. ekşi bu mu cidden? bıktırdınız.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    (bkz: <a class="b" href="/?q=painkiller">painkiller</a>)
+  entry_channels: müzik
 - entry_name: |
-    migrosun fişleme yapması
-  entry_id:  103909657
-  entry_writer: dedimsustum
+    şu an okunan kitap
+  entry_id:  103874897
+  entry_writer: mascarpone cheese
   entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=gider+pusulas%c4%b1">gider pusulası</a>) vuk 234. madde zorunluluğudur.
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=edgar+allan+poe">edgar allan poe</a>)<br/><br/>(bkz: <a class="b" href="/?q=the+murders+in+the+rue+morgue">the murders in the rue morgue</a>)
+  entry_channels: anket,edebiyat,eğitim
 - entry_name: |
     nota bilmeden enstrüman çalmak isteyen kişi
   entry_id:  103895499
@@ -326,18 +366,10 @@ data:
     levent ünsal
   entry_id:  103907897
   entry_writer: endless bliss
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     <a class="b" href="/?q=fil+necati">fil necati</a> yetim kaldı desenize. uzun zamandır hiç bu kadar komik bir çizgi film karakteri izlememiştim ama...
   entry_channels: spor,tv,sinema
-- entry_name: |
-    hoşlanılan kızın sen bana fazla iyisin demesi
-  entry_id:  103905939
-  entry_writer: tanrininsonkirbaci
-  entry_fav_count: 3
-  entry_content: |
-    hoşlanılan kızın zuhal olcay olma ihtimali yüksektir <a rel="nofollow noopener" class="url" target="_blank" href="https://youtu.be/f5mO4bIf4yI" title="https://youtu.be/f5mO4bIf4yI">şarkı</a>
-  entry_channels: ilişkiler
 - entry_name: |
     an itibarıyla yazarların nerede olup ne yaptığı
   entry_id:  103896464
@@ -347,14 +379,6 @@ data:
     evdeyim çiğdem çitleyip italyan belediye başkanının cinnet geçirmesini izliyorum şaka gibi sana gelelim mi diyen arkadaşlarım çıktı ki biri şehir dışından gelmek istiyor yahu bunlar okuyan yazan çizen aydın tipler.<br/><br/>valla akıllı sandığım insanlar düz aptal çıktı.
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    yakışıklı olan ama sevgilisi olmayan erkek
-  entry_id:  103908597
-  entry_writer: marvel123
-  entry_fav_count: 2
-  entry_content: |
-    that's me !<br/><br/>saçma sapan ve cahil tipler sağolsun tek takılmaya fazlasıyla doydum.<br/>düzgün biri acaba ne zaman girecek hayatıma diye bakıyorum.<br/>adım attığım tipler iyi gibi gözüküp manyak çıkıyor veya çok uzak mesafelerden ilerleyemiyoruz.<br/><br/>bahtsız bedevi çölde timsahla gucugang yaparmış derler.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     karakomik filmler
   entry_id:  103880587
   entry_writer: travenian
@@ -363,43 +387,19 @@ data:
     ne <a class="b" href="/?q=komik">komik</a> ler ne de kara.<br/><br/>bu şeyi izlemek için sinemaya gitsem sinirden bileti yerdim.<br/><br/>hadi ilk bölüm neyse ama ben ikinci bölümden çok daha komik olan ve bi mesajı / anlamı olan bi sürü güldür güldğr skeci izledim.<br/><br/>net.
   entry_channels: tv,sinema
 - entry_name: |
-    21 mart dünya şiir günü
-  entry_id:  103900070
-  entry_writer: nceylan
-  entry_fav_count: 2
-  entry_content: |
-      (nokta).. şiir bir sanat olayı değildir. bir yaşama çabasıdır önce. yaşadığmıza tanıklık eder. her gün yeni bir dünya içinde, her gün yeniden ve başka etkilerle duygulanan insan, her gün bunları yeni biçimlerle söylemelidir.<br/><br/>diyeceksiniz ki; böylece ancak bir azınlığa seslenmiş olacaksınız. bir kere, bu işin kötü yönleri beni hiç mi hiç korkutmuyor. ikincisi, sanat bir ceht işidir, eğitim işidir. tembel kalabalığın keyfine uymak istemiyorum. sanatçı nasıl uzun çabalamalarla yetişiyorsa okuyucudan da bu gayreti bekler.<br/><br/>çağımız insanı gitgide rahatına daha düşkün olmaya başladı. belki her çağda böyleydi. ama bugünkü kadar mıydı bilmem? bunda bilimin, endüstrinin büyük payı var. herkes birbirinin örneği olmayı hiçbir çağda bu kadar istemedi. ‘yeni dünya’nın gerçekleşmesi yakın belki de. birömek giyimler, birörnek şarkılar, birörnek aşklar. uçaklar, radyolar, sinemalar durmadan bizi birbirimize benzetmeye çabalıyorlar. kişiliksiz bir yaşamayı baştacı ettik. gönüllüyüz. kişiliksiz bir çağın şiiri de ister istemez kişiliksiz olmak zorundadır.<br/><br/>turgut uyar<br/>efendimiz acemilik
-  entry_channels: sanat,edebiyat
-- entry_name: |
-    instagram challengelarına katılmamış yazarlar
-  entry_id:  103909800
-  entry_writer: am doktoru
+    salgında sokakta gezenleri anlatan filme isim
+  entry_id:  103903923
+  entry_writer: insan esrefi mahlukattir derdi babam
   entry_fav_count: 1
   entry_content: |
-    instagram'a hiç katılmadığımdan, içinde bulunduğum grup.
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=walking+dede">walking dede</a>)
+  entry_channels: anket,sanat,sinema,sağlık,eğitim,seyahat
 - entry_name: |
-    21 mart 2020 italya'da virüsten 793 kişinin ölmesi
-  entry_id:  103909318
-  entry_writer: fndy
-  entry_fav_count: 1
-  entry_content: |
-    telaffuz etmekte, tahayyül etmekte zorlandığım, yakınlarının yerine kendimi koyamadığım vefat etmiş insanlardır. insan... yaşı kaç olursa olsun, bir zamanlar nefes alan, anıları olan insanlar birden ortaya çıkan hastalıkla yaşam haklarını kaybettiler.<br/><br/>bu virüs çin virüsüdür.<br/>ve hayatta kaldığım sürece bunu böyle telaffuz edeceğim.
-  entry_channels: haber
-- entry_name: |
-    evde gitar öğrenmek
-  entry_id:  103895678
-  entry_writer: okyanussss
+    üstteki yazara bir iftira at
+  entry_id:  103866523
+  entry_writer: daha sakin olamazdim
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=gitar+%c3%a7almay%c4%b1+%c3%b6%c4%9frenmek">gitar çalmayı öğrenmek</a>)
-  entry_channels: 
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  103896522
-  entry_writer: harry goatleaf
-  entry_fav_count: 0
-  entry_content: |
-    polikliniklerin acil olmayan durumlar için hızla kapandığı bugünlerde kas-iskelet sorunlarınızla alakalı bir mesaj uzağınızdayım, en azından durumunu paylaşmak isteyen olursa seve seve elimden gelen yardımı yapmaya hazırım.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
+    mamak'ta yaktı bizi...
+  entry_channels: anket,ekşi-sözlük
 ---
