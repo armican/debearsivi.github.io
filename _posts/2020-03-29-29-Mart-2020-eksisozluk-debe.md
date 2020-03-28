@@ -6,23 +6,15 @@ data:
     mansur yavaş'ın akit'e sağlık kiti vermemesi
   entry_id:  104305770
   entry_writer: draklayn
-  entry_fav_count: 2542
+  entry_fav_count: 2594
   entry_content: |
     akit' e ahlak kiti gönderecekmiş. adam kim neye ihtiyaç duyuyorsa onu gönderiyor.<br/><br/>t: bir garip akit haberi.
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
-    devletin bana hiç bir yararı olmaması
-  entry_id:  104277299
-  entry_writer: dakura
-  entry_fav_count: 2495
-  entry_content: |
-    orta sınıf bir vatandaş olarak düşüncem. mtv veriyorum, trt vergisi veriyorum, maaşımın yarısını veriyorum, öldürücü virüs çıkıyor kendimi karantinaya alıyorum ama<br/><br/>-devletten bir kuruş yardım gelmiyor, anca "dar gelirli hanelere"<br/><br/>-köprüden tünelden geçerken para veriyorum, benzini zibil kadar vergi veriyorum<br/><br/>-hastaneye gidiyorum eczanede bir sürü para istiyorlar, bir ay işsiz kalsam bir sürü vergi borcu yüklenecek kafama, maaşımın yarısını verdiğim sigorta bana ancak asgari ücret olarak geri dönecek o da yersen<br/><br/>nerede kardeşim bu sosyal devlet? ben devlete bakmak zorunda mıyım? devletin bana yardım etmesi için ya yandaş ya da açlıktan ölür duruma mı gelmem gerekiyor? neden bu soruları sadece ben soruyorum? bu virüs olayında artık gına geldi. benim hayatımı bile siklemeyen bir devlete vergi falan vermek istemiyorum. çıkın sarayınızdan bana hizmet edin, yeter!<br/><br/>ekleme: kendi vatanımda 2.sınıf vatandaş olmamı ve pasaportumun anca zimbabwe'ye vizesiz girdiğini unutmuşum, şuraya ekleyeyim. doldum be sözlük.<br/><br/>son ekleme: arkadaşlar şunu ekle bunu ekle diye mesaj atıyorsunuz ama hissettiklerim anlaşılıyor bence, her haltı eklemeye gerek yok. "hiçbir" bitişik olacakmış bu arada, modlar düzeltirse sevinirim, gözümden kaçmış. "yararının" olarak düzelmesi lazım demiş bazıları ama bana gramer olarak doğru geldi, yanlışsa onu da düzeltin sevgili moderatörler.
-  entry_channels: siyaset,sağlık,ekonomi
-- entry_name: |
     25 yaş üstü teyzelerin tinder'a sarması
   entry_id:  104301683
   entry_writer: burusmus a4 kagidi
-  entry_fav_count: 1495
+  entry_fav_count: 1508
   entry_content: |
     26 da mı teyze oldu lan..az daha zorlarsanız ilkokula kadar ineceksiniz sübyancı yavsaklar..
   entry_channels: 
@@ -30,7 +22,7 @@ data:
     kızılay'dan korona'ya karşı bağış kampanyası
   entry_id:  104292602
   entry_writer: kentbozukcalari
-  entry_fav_count: 1187
+  entry_fav_count: 1191
   entry_content: |
     direkt <a class="b" href="/?q=ensar+vakf%c4%b1">ensar vakfı</a>'na bağış yapabiliyor muyuz, yoksa önce kızılay' a mı bağış yapmamız gerekiyor?<br/><br/>(bkz: <a class="b" href="/?q=7.9+milyon+%24+k%c4%b1z%c4%b1lay+ba%c4%9f%c4%b1%c5%9f%c4%b1n%c4%b1n+ensar%27a+verilmesi">7.9 milyon $ kızılay bağışının ensar'a verilmesi</a>)
   entry_channels: siyaset,sağlık,haber,ekonomi
@@ -38,7 +30,7 @@ data:
     karantinada türkiye'ye küfür eden gençler
   entry_id:  104285147
   entry_writer: kasap kesen
-  entry_fav_count: 808
+  entry_fav_count: 815
   entry_content: |
     kendinizi eşyası karıştırılan öğrenci yerine koyun. acele bir kararla yurttan gönderildiğiniz için eşyalarınızı bile toplayamıyorsunuz ve bu yavşak gelip sizin özelinizi karıştırıyor.
   entry_channels: siyaset,haber,eğitim
@@ -46,7 +38,7 @@ data:
     cb seçiminde tayyip'in karşısına çıkacak aday
   entry_id:  104292877
   entry_writer: voyager altin plak
-  entry_fav_count: 790
+  entry_fav_count: 797
   entry_content: |
     bir sonraki seçimde erdoğan’ın karşısına mansur yavaş çıkacaktır ve yavaş’a karşı kazanma olasılığı bence yoktur. mansur yavaş ezici bir çoğunlukla cumhurbaşkanlığını alacak ve ak saray’a geçecektir.
   entry_channels: siyaset,anket
@@ -62,31 +54,15 @@ data:
     fahrettin koca'nın istifa edeceği iddiası
   entry_id:  104315307
   entry_writer: yellowlist
-  entry_fav_count: 599
+  entry_fav_count: 603
   entry_content: |
     olmamış şeyler hakkında olmuş gibi başlık açan yazarlar uçurulsun.
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
-    en vahim covid-19 vaka artışının türkiye'de olması
-  entry_id:  104308185
-  entry_writer: sisteme nick begendiremedim
-  entry_fav_count: 509
-  entry_content: |
-    coronayı bilerek 21bin vatandaşı umreye gönder. gelen virüsleri 7 bölgeye dağıt. ardından minareden dua ettir.<br/><br/>edit: ve tüm önlemler alındı de, her akşam.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.aa.com.tr/tr/koronavirus/umre-ve-hac-organizasyonlarinda-koronavirus-ile-ilgili-onlemler-alindi/1745335#" title="http://www.aa.com.tr/tr/koronavirus/umre-ve-hac-organizasyonlarinda-koronavirus-ile-ilgili-onlemler-alindi/1745335#">aa</a>
-  entry_channels: 
-- entry_name: |
-    2020 kaotik çağın başlangıcı
-  entry_id:  104287005
-  entry_writer: smoby19
-  entry_fav_count: 498
-  entry_content: |
-    çağının amına koyim sana bir şey olmasın kardeş. şu virüs bitsin de güzel bir rakı masası kuralım, gerisi hallolur.
-  entry_channels: tarih
-- entry_name: |
     türkiye'nin 13. cumhurbaşkanı mansur yavaş
   entry_id:  104306568
   entry_writer: bakin burasi cokomelli
-  entry_fav_count: 471
+  entry_fav_count: 485
   entry_content: |
     türkiye koronavirüs belasından kurtulur kurtulmaz seçime gitmelidir. sonrasında kuracağı cümle de bu olacaktır: <a class="b" href="/?q=t%c3%bcrkiye%27nin+13.+cumhurba%c5%9fkan%c4%b1+mansur+yava%c5%9f">türkiye'nin 13. cumhurbaşkanı mansur yavaş</a>.
   entry_channels: siyaset
@@ -94,15 +70,23 @@ data:
     koronavirüse yakalandığını düşünen yazarlar
   entry_id:  104312496
   entry_writer: deyip gitti sessizce ihtiyar
-  entry_fav_count: 462
+  entry_fav_count: 479
   entry_content: |
     6 gün önce hissettirmeye başlayan ama 3 gün önce tarafıma koyulan teşhis ile kesinleşen sonuç. <br/><br/>bugün izole yaşamımın 3. günü. evdeyim. yer kanada. 33 yaş. erkek. kronik bir hastalık yok. <br/><br/>doktor; durumu ciddi olan ve belirli bir yaş üstündekilere test yapabildiklerini söyledi ve geniş çaplı bir muayene uyguladı. sonra da covid-19 pozitif olduğuma emin olduğunu ve hiçbir şüphesinin olmadığını söyledi. 14 gün evde kalmamı istedi. <br/><br/>tam olarak ne zaman kaptım bilmiyorum ama 6 gün önce başlamış gibi varsayarak, günden güne yaşadıklarımı burada düzenli olarak anlatmayı düşünüyorum. umarım okurlara bir faydası olur. <br/><br/>nasıl başladı? <br/><br/>şaka gibi ama aniden başladı. saniyeler içinde. hiçbir şeyim yokken bir akşam birden bire ishal alarmıyla tuvalete koştum. start buydu. <br/><br/>1. gün: yoğun ishal ile gelen, kontrol edilemeyen titreme ve üşümeye eşlik eden az bir ateş. boğaz ağrısı/acısı artık neyse. <br/><br/>2. gün: titreme ve üşüme hissi çoğaldı. yorganı hareket ettirdiğimde oluşan küçücük bir hava akımı bile bütün bedenimi titretmeye yetiriyordu. sersemlik hissi ortaya çıktı. salak gibiydim yani. <br/><br/>3. gün: diğer belirtilerin yanı sıra. ateş yükseldi. öksürük başladı. doktora gitme kararını bu yüzden verdim. aynı gece aşırı terlemeye başladım uyurken. <br/><br/>4. gün: tat ve koku alma duyularım tamamen sıfırlandı. terlemeler artarak devam etti. günde 5-6 defa iç çamaşırlarımı değiştirdim. hayatımda böyle ter attığımı hatırlamıyorum. <br/><br/>5. gün: öksürük azalır gibi oldu. en azından seyreldi diyebiliriz. <br/><br/>6. gün: biraz daha dinç uyandım. hafif bir baş dönmesi var. bu gece çok uyandım uykumdan. bölük pörçüktü. <br/><br/>baştan beri sahip olduğum semptomlar:<br/><br/>- aşırı bir sırt ağrısı. dokunsan ağlarım öyle ağrıyor. <br/><br/>- eklem yerlerimde sancı/sızı hisleri. sürekli değil ama kendini de unutturmuyor. <br/><br/>- sinüsler dolu. burundan nefes almak güç. <br/><br/>- baş ağrısı. bu çok fena. özellikle başın arka tarafı. öksürünce beynim ensemin üzerinden çıkıp arkamdaki tabloya yapışacak ve hayata bir korku filmi efekti ile veda edecekmişim hissi uyandırıyor. <br/><br/>- bendeki öksürük kuru değil. gayet balgamlı. <br/><br/>notlar:<br/><br/>- nefes almakla ilgili bir sorunum yok. <br/><br/>- immün sistem kasıyorum. vitaminler vesaire. <br/><br/>editleyeceğim arkadaşlar. şimdilik durum bu. lütfen evde kalın. sağlıklı kalın. <br/><br/>avukat arkadaşlar yeşillendirsin lütfen. çin’e tazminat davası açabiliyor muyuz? <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/><br/>erken edit: avukat arkadaşlar şu son cümle şaka. :)<br/><br/>erken edit 2: arkadaşlar duygulandırdınız. hem entrylerdeki, hem mesajlardaki desteğiniz ve dilekleriniz için teşekkürler. kendimi uğruna klip çekilen fatih terim gibi hissettim. çok teşekkür ederim tekrar. allah entry nick uyumundan muhafaza eylesin.
   entry_channels: anket,ilişkiler,ekşi-sözlük,sağlık,haber,eğitim
 - entry_name: |
+    süper lig tarihinin en sansasyonel 3 transferi
+  entry_id:  104308293
+  entry_writer: asyousee
+  entry_fav_count: 434
+  entry_content: |
+    hagi ve alex değildir. hagi galatasaray araya gitmese meksika'ya gidiyordu. alex de avrupada yapamamış brezilya'nın ikinci takımında oynayabilen bir oyuncuydu.<br/><br/>yine roberto carlos, guti, simao, drogba, falcao, van persie ve eto'o da değildir. o zaman katarlı arapların ve japonların yaptığı her transfer sansayonel. 30 yaş ve üstü adamları getirmek parayı bastıktan sonra zor değil.<br/><br/>bana göre en sansasyoneli jardel'dir. düzenli olarak avrupada gol kralı olan adamı getirmek büyük mesele. karşılaştırmak açısından redbull'daki haaland'ın türkiye'ye gelmesi gibi bir durum.<br/><br/>ikincisi sneijder'dir. 2 sene önce yılın en iyi oyuncusu ödülüne aday bir oyuncuyu 30 yaşına basmadan getirmek büyük mesele.<br/><br/>üçüncüsü anelka'dır. büyük potansiyeli olan bir adamdı. zaten fenerbahçe sonrası chelsea'ye kadar yükseldi.<br/><br/>ortega ve quaresma da bu listeye girebilir. benim ilk üçüme giremediler.
+  entry_channels: spor,anket
+- entry_name: |
     previously on denince akla gelen ilk dizi
   entry_id:  104284579
   entry_writer: nicksiz filozof
-  entry_fav_count: 415
+  entry_fav_count: 418
   entry_content: |
     previously on lost en kesini bu bende
   entry_channels: anket,tv,sanat,sinema
@@ -110,26 +94,26 @@ data:
     akp'li vekilin oğlunun covid-19 test kiti satması
   entry_id:  104300184
   entry_writer: berenair
-  entry_fav_count: 404
+  entry_fav_count: 405
   entry_content: |
     sakandal gibi skandaldir.<br/><br/>yılın sağlık skandalında ikinci perde.<br/><br/>akp kayseri milletvekili ismail tamer'in oğlu namık tamer sosyal medya üzerinden covid19 test siparişi topluyor<br/><br/>yerelde paylaşıldı sonra gelen telkinlerle! olay büyütülmedi<br/><br/>milletvekili oğlu bu testleri nereden buldu?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/avrasyaanket/status/1243846043504128000?s=21" title="https://twitter.com/avrasyaanket/status/1243846043504128000?s=21">kaynak</a>
   entry_channels: siyaset
 - entry_name: |
-    süper lig tarihinin en sansasyonel 3 transferi
-  entry_id:  104308293
-  entry_writer: asyousee
-  entry_fav_count: 400
-  entry_content: |
-    hagi ve alex değildir. hagi galatasaray araya gitmese meksika'ya gidiyordu. alex de avrupada yapamamış brezilya'nın ikinci takımında oynayabilen bir oyuncuydu.<br/><br/>yine roberto carlos, guti, simao, drogba, falcao, van persie ve eto'o da değildir. o zaman katarlı arapların ve japonların yaptığı her transfer sansayonel. 30 yaş ve üstü adamları getirmek parayı bastıktan sonra zor değil.<br/><br/>bana göre en sansasyoneli jardel'dir. düzenli olarak avrupada gol kralı olan adamı getirmek büyük mesele. karşılaştırmak açısından redbull'daki haaland'ın türkiye'ye gelmesi gibi bir durum.<br/><br/>ikincisi sneijder'dir. 2 sene önce yılın en iyi oyuncusu ödülüne aday bir oyuncuyu 30 yaşına basmadan getirmek büyük mesele.<br/><br/>üçüncüsü anelka'dır. büyük potansiyeli olan bir adamdı. zaten fenerbahçe sonrası chelsea'ye kadar yükseldi.<br/><br/>ortega ve quaresma da bu listeye girebilir. benim ilk üçüme giremediler.
-  entry_channels: spor,anket
-- entry_name: |
     şu ana kadar en az 6 ay ikamet edilen iller
   entry_id:  104305434
   entry_writer: palavraci baron
-  entry_fav_count: 245
+  entry_fav_count: 253
   entry_content: |
     çorum<br/>yozgat<br/>hakkari<br/>şırnak<br/>van<br/>ağrı<br/>kars<br/>londra<br/><br/>not: davar çobanıydım ingilizle evlendim
   entry_channels: anket,seyahat
+- entry_name: |
+    umrecinin sizi de hasta edeceğim demesi
+  entry_id:  104311669
+  entry_writer: amprikuku
+  entry_fav_count: 175
+  entry_content: |
+    cehaletin virüsten daha tehlikeli olduğunun kanıtıdır. virüs ancak cahillere bulaşırsa bu kadar hızlı yayılabilir.<br/><br/>büdüt: virüs ve cehaletin <a rel="nofollow noopener" class="url" target="_blank" href="https://i.vgy.me/peQwiq.jpg" title="https://i.vgy.me/peQwiq.jpg">mikroskop görüntüleri.</a>
+  entry_channels: ilişkiler,sağlık,haber
 - entry_name: |
     27 mart 2020 erdoğan'ın ulusa sesleniş konuşması
   entry_id:  104275365
@@ -139,18 +123,18 @@ data:
     4 aylık bebeğimiz var, ücretsiz doğum iznimdeyim... doğum iznimde olmasam bile avm de çalışıyordum ve biliyorsunuz ki kapatıldılar yani gene işsizdim. eşim özel sektör de çalışıyor ancak iş verenleri kadroyu yarıya indirdi, ayda 2 hafta şirketin yarısı, 2 hafta diğer yarısı gidicek ve yarım maaş alacaklar... bebek bezi, mama, krediler, faturalar ? bunlar devletin ne kadar umrunda merak ediyorum. 6 yıl suriyelilere bak, 1-2 ay kendi milletine bakama yazıklar olsun. birikimimiz zaten yok, biz şimdiden bebegimizin standartlarını değiştirmeden kendimiz her akşam makarna çorba yemeğe başladık bile. sonumuz hayır, hakkımız ise haram zıkkım olsun.
   entry_channels: siyaset,tv,tarih,sağlık,haber
 - entry_name: |
-    umrecinin sizi de hasta edeceğim demesi
-  entry_id:  104311669
-  entry_writer: amprikuku
-  entry_fav_count: 159
+    28 mart 2020 covid-19 vakasının 7402'ye yükselmesi
+  entry_id:  104318583
+  entry_writer: abiluckylukebenimnoluyor
+  entry_fav_count: 148
   entry_content: |
-    cehaletin virüsten daha tehlikeli olduğunun kanıtıdır. virüs ancak cahillere bulaşırsa bu kadar hızlı yayılabilir.<br/><br/>büdüt: virüs ve cehaletin <a rel="nofollow noopener" class="url" target="_blank" href="https://i.vgy.me/peQwiq.jpg" title="https://i.vgy.me/peQwiq.jpg">mikroskop görüntüleri.</a>
-  entry_channels: ilişkiler,sağlık,haber
+    aynı zamanda toplam can kaybı 108 olmuştur.<br/><br/>1 sene boyunca evinden çıkmasa zerre etkilenmeyecek ünlüleri paylaşıp 1 hafta işe gitmezse zor duruma düşecek vatandaşlarımıza ”evde kal” deniyor. <br/>sokağa çıkma yasağı ilan edilmeli. devletin buna bütçesi yoksa merkez bankasına borçlanıp halkın ihtiyaçlarını karşılamalı. herkes evde olduğu için enflasyon yükselmeyecektir çünkü piyasada talep az.
+  entry_channels: sağlık,haber
 - entry_name: |
     rusya'nın koronavirüs ilacı geliştirdiği iddiası
   entry_id:  104307309
   entry_writer: amkya
-  entry_fav_count: 114
+  entry_fav_count: 115
   entry_content: |
     zaten cogu ulke geliştirdi test edilmesi kullanıma geçilme süresi en erken 6 ay..<br/><br/>sıkıntı ise şu 6 ay sağlık sistemi anası bellenmeden ve kayıp vermeden geçmenin yolları aranıyor..
   entry_channels: bilim,sağlık,haber
@@ -158,98 +142,114 @@ data:
     mansur yavaş
   entry_id:  104275521
   entry_writer: mac saatiyle sut saati arasindaki fark
-  entry_fav_count: 90
+  entry_fav_count: 93
   entry_content: |
     artık bokunu çıkarmış başkan.<br/><br/>diktatörlükle büyüyen vatandaşları demokrasi zehirlenmesinden komaya sokmuştur.
   entry_channels: siyaset
 - entry_name: |
-    28 mart 2020 covid-19 vakasının 7402'ye yükselmesi
-  entry_id:  104318583
-  entry_writer: abiluckylukebenimnoluyor
-  entry_fav_count: 81
+    ölmeden son kitap okuma hakkı olsa okunacak kitap
+  entry_id:  104285370
+  entry_writer: jacksonlake
+  entry_fav_count: 89
   entry_content: |
-    aynı zamanda toplam can kaybı 108 olmuştur.<br/><br/>1 sene boyunca evinden çıkmasa zerre etkilenmeyecek ünlüleri paylaşıp 1 hafta işe gitmezse zor duruma düşecek vatandaşlarımıza ”evde kal” deniyor. <br/>sokağa çıkma yasağı ilan edilmeli. devletin buna bütçesi yoksa merkez bankasına borçlanıp halkın ihtiyaçlarını karşılamalı. herkes evde olduğu için enflasyon yükselmeyecektir çünkü piyasada talep az.
-  entry_channels: sağlık,haber
-- entry_name: |
-    hangi ünlüye benziyorsun
-  entry_id:  104298396
-  entry_writer: winrar lisansi satin alan adam
-  entry_fav_count: 76
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kahtal%c4%b1+m%c4%b1%c3%a7e">kahtalı mıçe</a>)<br/><br/>ciddiyim lan.<br/><br/>edit: vay amk. böyle giderse bıyığımla <a class="b" href="/?q=debe">debe</a>deyim.
-  entry_channels: anket,magazin
+    kuran-ı ker... şaka lan şaka.<br/><br/>(bkz: <a class="b" href="/?q=artamene+ou+le+grand+cyrus">artamene ou le grand cyrus</a>)<br/>13095 sayfaymış ve içerisinde iki milyondan fazla kelime varmış. her gün bir sayfa okurum, 35-36 yıl daha yaşarım. azrail de çükümü yesin.
+  entry_channels: anket
 - entry_name: |
     ya anneni sileceksin ya beni diyen kadın
   entry_id:  104311223
   entry_writer: calismadigim yerden geldi
-  entry_fav_count: 73
+  entry_fav_count: 87
   entry_content: |
     kardeş o ortamda 1 sene arıza çıkarmadan durduysa eşin, müthiş bir insanı kaybetmişsin demektir.<br/><br/>herkese hayırlı forumlar.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    c. ronaldo'nun kariyeri boyunca sakal uzatmaması
-  entry_id:  104312023
-  entry_writer: melchoir
-  entry_fav_count: 72
-  entry_content: |
-    adam da bitmek tükenmek bilmeyen bir hırs var. <br/>güneşler içinde seyreden bir hayattan böyle bir karakter çıkmaz.<br/>belli ki zamanında o da çok acılar çekti.<br/>sürekli en iyisi ve en güçlüsü olmak gibi bir takıntısı var.<br/><br/>sakalsız erkek duruşu her an göreve hazır, stabil bir imaj verir erkeğe.<br/><br/>bu durumun etkisi olduğunu düşünüyorum.
-  entry_channels: spor,magazin
-- entry_name: |
-    kayınvalidesi ölen kadının isyan etmesi
-  entry_id:  104314136
-  entry_writer: frank calvert
-  entry_fav_count: 69
-  entry_content: |
-    video gerçek midir değil midir bilmiyorum muhtemelen gerçek. kadının verdiği bilgiler yanlış olabilir. şimdi sövecek aktroller ama hepsiyle mahkemede görüşüyoruz. iş çığrandan çıkmadan daha sert tedbirler alınmalı veyahut sürü bağışıklığı stratejisi izleniyorsa halk bilgilendirilmelidir.<br/><br/>video: <a rel="nofollow noopener" class="url" target="_blank" href="https://video.twimg.com/ext_tw_video/1243900538707685376/pu/vid/352x640/gaqY4LcUfp3tf7Ka.mp4?tag=10" title="https://video.twimg.com/ext_tw_video/1243900538707685376/pu/vid/352x640/gaqY4LcUfp3tf7Ka.mp4?tag=10">https://video.twimg.com/…aqy4lcufp3tf7ka.mp4?tag=10</a><br/><br/>edit : <a class="b" href="/entry/104315024">#104315024</a> bu arkadaş demiş ki her yerde aynı şeyler yaşanıyor eleştiri neden. eleştiri bazı gerçeklerin saklandığı için yapılıyor olabilir mi? sen inanıyor musun iran'ın vakalarda italya'yı geçmediğine veya rusya'nın verdiği sayıların gerçek olduğuna. bizde biliyoruz her yer aynı ama bunlar söylenirse herkes ''kendi ohalini'' alsın dendi ya o iş daha ciddiye biner halk nezdinde.<br/>edit2: bir arkadaşta troller bile hak etmiyor bunu yaşamayı demiş. ilk okuduğumda hak verdim daha sonra vazgeçtim.
-  entry_channels: 
-- entry_name: |
-    üstteki yazara moral ver
-  entry_id:  104288541
-  entry_writer: andri sevcenko
-  entry_fav_count: 59
-  entry_content: |
-    dobarlan bıragma gendini
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
     mansur yavaş'ın kutuplaştırıcı bir başkan olması
   entry_id:  104317499
   entry_writer: dood
-  entry_fav_count: 58
+  entry_fav_count: 81
   entry_content: |
     (bkz: <a class="b" href="/?q=kafa+siken+ak%c3%a7omar+z%c4%b1rvalar%c4%b1">kafa siken akçomar zırvaları</a>)
   entry_channels: siyaset
 - entry_name: |
-    coronavirüs ilacı caiz mi diye tartışan hocalar
-  entry_id:  104314741
-  entry_writer: muhalhal
-  entry_fav_count: 35
+    kayınvalidesi ölen kadının isyan etmesi
+  entry_id:  104314136
+  entry_writer: frank calvert
+  entry_fav_count: 79
   entry_content: |
-    <a class="b" href="/?q=fatih+kalender">fatih kalender</a> hoca bu aptalca soruya gayet güzel cevap vermiş. konu hakkında doktorların daha iyi bileceğini söylemiş. dinen zararlı içeriğe sahip olsa bile (sanırım alkol ve domuz kastediliyor) iyileşmek için tek çare buysa caizdir demiş. daha ne desin? gayet modern bir şekilde cevaplamış.
-  entry_channels: bilim,sağlık,haber,eğitim
+    video gerçek midir değil midir bilmiyorum muhtemelen gerçek. kadının verdiği bilgiler yanlış olabilir. şimdi sövecek aktroller ama hepsiyle mahkemede görüşüyoruz. iş çığrandan çıkmadan daha sert tedbirler alınmalı veyahut sürü bağışıklığı stratejisi izleniyorsa halk bilgilendirilmelidir.<br/><br/>video: <a rel="nofollow noopener" class="url" target="_blank" href="https://video.twimg.com/ext_tw_video/1243900538707685376/pu/vid/352x640/gaqY4LcUfp3tf7Ka.mp4?tag=10" title="https://video.twimg.com/ext_tw_video/1243900538707685376/pu/vid/352x640/gaqY4LcUfp3tf7Ka.mp4?tag=10">https://video.twimg.com/…aqy4lcufp3tf7ka.mp4?tag=10</a><br/><br/>edit : <a class="b" href="/entry/104315024">#104315024</a> bu arkadaş demiş ki her yerde aynı şeyler yaşanıyor eleştiri neden. eleştiri bazı gerçeklerin saklandığı için yapılıyor olabilir mi? sen inanıyor musun iran'ın vakalarda italya'yı geçmediğine veya rusya'nın verdiği sayıların gerçek olduğuna. bizde biliyoruz her yer aynı ama bunlar söylenirse herkes ''kendi ohalini'' alsın dendi ya o iş daha ciddiye biner halk nezdinde.<br/>edit2: bir arkadaşta troller bile hak etmiyor bunu yaşamayı demiş. ilk okuduğumda hak verdim daha sonra vazgeçtim.
+  entry_channels: 
 - entry_name: |
-    migros'tan rakiplerine iyi ki varsınız söylemi
-  entry_id:  104310789
-  entry_writer: ennsevdigim10film
-  entry_fav_count: 33
+    hangi ünlüye benziyorsun
+  entry_id:  104298396
+  entry_writer: winrar lisansi satin alan adam
+  entry_fav_count: 77
   entry_content: |
-    rakip logo ve renklerini kullanmaları güzel olmuş, güzel hareket.
-  entry_channels: haber,magazin
+    (bkz: <a class="b" href="/?q=kahtal%c4%b1+m%c4%b1%c3%a7e">kahtalı mıçe</a>)<br/><br/>ciddiyim lan.<br/><br/>edit: vay amk. böyle giderse bıyığımla <a class="b" href="/?q=debe">debe</a>deyim.
+  entry_channels: anket,magazin
 - entry_name: |
-    kadınların midesini bulandıran erkek özellikleri
-  entry_id:  104312212
-  entry_writer: grknk
-  entry_fav_count: 33
+    c. ronaldo'nun kariyeri boyunca sakal uzatmaması
+  entry_id:  104312023
+  entry_writer: melchoir
+  entry_fav_count: 74
   entry_content: |
-    kadından çok erkekler yazmış. meriç turnusolü başlık. hayırlı işler.
-  entry_channels: anket,ilişkiler
+    adam da bitmek tükenmek bilmeyen bir hırs var. <br/>güneşler içinde seyreden bir hayattan böyle bir karakter çıkmaz.<br/>belli ki zamanında o da çok acılar çekti.<br/>sürekli en iyisi ve en güçlüsü olmak gibi bir takıntısı var.<br/><br/>sakalsız erkek duruşu her an göreve hazır, stabil bir imaj verir erkeğe.<br/><br/>bu durumun etkisi olduğunu düşünüyorum.
+  entry_channels: spor,magazin
+- entry_name: |
+    italyanların ab bayrağı yakması
+  entry_id:  104320190
+  entry_writer: asuregibiw
+  entry_fav_count: 71
+  entry_content: |
+    bu italya o kadar türk ki. onun yerine bize katıl.
+  entry_channels: siyaset,haber
+- entry_name: |
+    üstteki yazara moral ver
+  entry_id:  104288541
+  entry_writer: andri sevcenko
+  entry_fav_count: 61
+  entry_content: |
+    dobarlan bıragma gendini
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     5 tl'den maske satan eczacı
   entry_id:  104315338
   entry_writer: buyuyunceyazarolacak
-  entry_fav_count: 31
+  entry_fav_count: 44
   entry_content: |
     arkadaşlar selam, eczacıyım ve haklısınız. allah belasını versin tüm fırsatçıların. şu an 1 kutu maskenin(50 adet) eczaneye girişi kdv dahil 198,74 tl. isteyen tüm arkadaşlara fatura ve fiyat bilgilerini gönderirim. bu yüzden tanesini 4 liradan satıyorum. 1 kutuda brüt kar: 1,36tl<br/><br/>tabi bu neden böyle biliyor musunuz? çünkü faturasız satmaya çalışan, elinde maskeyle eczane eczane gezip "isterseniz size tanesini 2 liradan verelim ama fatura yok, para nakit." diyen fırsatçı, hain, orospu çocukları yüzünden. yok bilmem ne medikalden geliyoruz, yok bilmem ne sertifikalı...<br/><br/>yapılması gereken şey belli, devlet diyecek ki "kardeşim tüm maskeleri alıyoruz sizden, eczane ve hastanelerde bedava verilecek" bu kadar basit ya bu iş. ben utanıyorum 4 lira demeye ama bize de aynı fiyata geliyor. ayrıca hepimiz bulaşı riskiyle çalışıyoruz, 18 gündür ailemden kimseyi görmedim, hanımla yemek masasında 1,5m mesefade oturuyoruz, yüzümüz gözümüz parçalandı maskeden, dezenfektandan. allah aşkına bi de milleti saçma sapan kışkırtmayın.
   entry_channels: sağlık
+- entry_name: |
+    migros'tan rakiplerine iyi ki varsınız söylemi
+  entry_id:  104310789
+  entry_writer: ennsevdigim10film
+  entry_fav_count: 42
+  entry_content: |
+    rakip logo ve renklerini kullanmaları güzel olmuş, güzel hareket.
+  entry_channels: haber,magazin
+- entry_name: |
+    coronavirüs ilacı caiz mi diye tartışan hocalar
+  entry_id:  104314741
+  entry_writer: muhalhal
+  entry_fav_count: 40
+  entry_content: |
+    <a class="b" href="/?q=fatih+kalender">fatih kalender</a> hoca bu aptalca soruya gayet güzel cevap vermiş. konu hakkında doktorların daha iyi bileceğini söylemiş. dinen zararlı içeriğe sahip olsa bile (sanırım alkol ve domuz kastediliyor) iyileşmek için tek çare buysa caizdir demiş. daha ne desin? gayet modern bir şekilde cevaplamış.
+  entry_channels: bilim,sağlık,haber,eğitim
+- entry_name: |
+    kadınların midesini bulandıran erkek özellikleri
+  entry_id:  104312212
+  entry_writer: grknk
+  entry_fav_count: 39
+  entry_content: |
+    kadından çok erkekler yazmış. meriç turnusolü başlık. hayırlı işler.
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    28 mart 2020 italya'da virüsten 889 kişi ölmesi
+  entry_id:  104319610
+  entry_writer: yasamakguzelsey
+  entry_fav_count: 29
+  entry_content: |
+    italya’da bu rakamlar azalmadan hiçbirimiz bu hastalığa karşı umutlanamıyoruz. <br/><br/>dünyada rakamlarını çarpıtmayan, çarpıtmaya yeltenmeyen artık çarpıtmaya gücü de olmayan tek ülke italya.
+  entry_channels: sağlık,haber
 - entry_name: |
     ekşi itiraf
   entry_id:  104274549
@@ -258,6 +258,14 @@ data:
   entry_content: |
     sizin olan dünyanın öbür ucunda da olsa gelir sizi bulur.
   entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    muzo'nun youtube kanalına abone oluyoruz
+  entry_id:  104307292
+  entry_writer: and the unhappy dido burns
+  entry_fav_count: 26
+  entry_content: |
+    özellikle üniversite öğrencilerinin efsane radyocusu, yastık sohbetlerinin mucidi, <a class="b" href="/?q=muzaffer+g%c3%bcsar">muzaffer güsar</a> (<a class="b" href="/?q=muzo">muzo</a>) dün itibariyle youtube kanalını aktif olarak kullanmaya, gündemi yorumlama videoları yüklemeye başladı. an itibariyle de herhangi bir radyoda çalışmıyor. kanalına abone olarak destek verelim. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=_JLGfyK70Vw" title="https://www.youtube.com/watch?v=_JLGfyK70Vw">youtube kanalı</a>
+  entry_channels: haber
 - entry_name: |
     oytun erbaş
   entry_id:  104290805
@@ -270,7 +278,7 @@ data:
     karantinada türkiye'ye küfredenlerin yakalanması
   entry_id:  104316569
   entry_writer: ingilicceren
-  entry_fav_count: 23
+  entry_fav_count: 24
   entry_content: |
     sosyal medyanın gücü.. millet zaten eve tıkılı linç edecek hain arıyor nelerine güvendiyseler... fransaları vs çok meşgul bu aralar..
   entry_channels: siyaset,haber
@@ -278,10 +286,18 @@ data:
     28 mart 2020 öğretmenlerin ek ders kesintileri
   entry_id:  104314856
   entry_writer: filzof
-  entry_fav_count: 21
+  entry_fav_count: 22
   entry_content: |
     okuduğunu bile anlamayan andavallarla dolu sözlük. ek ders kesintisi yok. kurs belletmen egzersiz gibi ek dersler verilmeyecek.
   entry_channels: 
+- entry_name: |
+    duygu özaslan
+  entry_id:  104316825
+  entry_writer: normative
+  entry_fav_count: 21
+  entry_content: |
+    diğer yazar arkadaşların da belirttiği gibi güzel olmayan kadındır. bu ülkedeki tek avantajı cinsel açlığı yüzünden yüzlercesinin bu insanı el üstünde tutuyor olmasıdır. kalın kaş bazılarına yakışıyor ama bu kadını kıro göstermiş. bu ülkede eli ayağı tutan her kadın götünü biraz açsa ilgi görür zaten.
+  entry_channels: magazin
 - entry_name: |
     freud (dizi)
   entry_id:  104275757
@@ -299,29 +315,21 @@ data:
     "fakat her şey geçer, her şey unutulur. kendini bir felaketin içinde kaybetmenin mânâsı yoktur."<br/><br/>kuyucaklı yusuf.
   entry_channels: anket,sanat,edebiyat
 - entry_name: |
-    28 mart 2020 italya'da virüsten 889 kişi ölmesi
-  entry_id:  104319610
-  entry_writer: yasamakguzelsey
+    fransız kadını denince akla gelenler
+  entry_id:  104318453
+  entry_writer: fermanses
   entry_fav_count: 15
   entry_content: |
-    italya’da bu rakamlar azalmadan hiçbirimiz bu hastalığa karşı umutlanamıyoruz. <br/><br/>dünyada rakamlarını çarpıtmayan, çarpıtmaya yeltenmeyen artık çarpıtmaya gücü de olmayan tek ülke italya.
+    koltuk altı kılı?
+  entry_channels: anket
+- entry_name: |
+    ziraat bankası altın hesabı rezaleti
+  entry_id:  104317400
+  entry_writer: sperm donor
+  entry_fav_count: 11
+  entry_content: |
+    öncelikle buraya yazmadan önce hem ziraat bankası ile hem bbdk ile hem de şikayetvar aracılığı ile çözüm aradığımı ama bulamadığımı belirtmek isterim. zaten şikayetvar'a baktığınızda bunun gibi yüzlerce şikayet görebilirsiniz.<br/><br/>üst edit: özet geç diyenler için; altın piyasada 11 tl yükseldi ziraat bankası'nda 3 tl yükseldi<br/>üst edit2: asıl sorun makas değil, asıl sorun yüksekten bozması gereken altını düşükten bozması. bütün firmalar gibi ziraat bankası da virüs fırsatçılığı yapıyor. tabi bir (bkz: <a class="b" href="/?q=simit+saray%c4%b1">simit sarayı</a>) değiliz. (bkz: <a class="b" href="/?q=ziraat+bankas%c4%b1%27n%c4%b1n+simit+saray%c4%b1%27n%c4%b1+sat%c4%b1n+almas%c4%b1">ziraat bankası'nın simit sarayı'nı satın alması</a>)<br/><br/>12 mart 2020 tarihinde ziraat bankası altın hesabıma bir miktar altın yatırımı yaptım. o sırada ziraat bankası'nın altın kuru hem alış hem satış olarak piyasa fiyatından yüksekteydi ve makas 4.20 tl civarındaydı (ilk hesabı açtığımda bu makas 3 tl idi onu belirtmiyorum bile) <br/>12 mart ziraat bankası altın kuru: <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/bRriqV">https://hizliresim.com/brriqv</a> alış/satış: 322/326tl<br/>12 mart piyasa altın kuru: <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/cIxjVH">https://hizliresim.com/cixjvh</a> satış: 320tl<br/><br/>25 mart 2020 tarihinde paraya ihtiyacım oldu ve bozmak istedim fakat kurları görünce başımdan aşağıya kaynar sular döküldü altın yükselmesine rağmen zarar etmiş gözüküyordum. 326tl den aldığım altını 325tl den bozuyordu, ve makası 6.2 tl civarına çekmişlerdi. normalde alış satış fiyatı piyasadan yüksek olan kuru aşağıya çekmişler.<br/>25 mart ziraat bankası altın kuru: <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/8HOVFe">https://hizliresim.com/8hovfe</a> alış satış: 325/332tl<br/>25 mart piyasa altın kuru: <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/61Fvpj">https://hizliresim.com/61fvpj</a> satış: 331tl<br/><br/>devletin bankası diye güvenip yatırdığımız banka bizi göz göre göre dolandırıyor. her gün televizyonlarda "fırsatçılara göz açtırmıyoruz, fahiş fiyat çekenlere gereken cezayı kesiyoruz" diye konuşan devlet kendi fırsatçılığını yapıyor. devletten maaş alan biri değilim 3 kuruş param var bari ona dokunmayın.<br/>edit: linkler düzeltildi.<br/>edit2: zarar etmeden çıkmanın bir yolunu bilen varsa mesaj kutumu yeşillendirebilir.
   entry_channels: 
-- entry_name: |
-    sinema tarihinin en karizmatik girişi
-  entry_id:  104315698
-  entry_writer: do you really want to know
-  entry_fav_count: 14
-  entry_content: |
-    karamurselli deli hamdi'nin kahveye girisidir. <br/><br/>(bkz: <a class="b" href="/?q=yedi+bela+h%c3%bcsn%c3%bc">yedi bela hüsnü</a>)
-  entry_channels: anket,sinema
-- entry_name: |
-    izmir'in karantina günlerinde sınıfta kalması
-  entry_id:  104312486
-  entry_writer: fridaykahlo
-  entry_fav_count: 14
-  entry_content: |
-    bir yukarıdaki arkadaş; nickin ve gönderin gayet uyumlu o yüzden cevap vermeye değmez. <br/>.<br/>başlığı açan arkadaşa katılıyorum. elbette çalışmak zorunda olan binlerce insan ve nüfus yoğunluğu fazla olan bir şehir için sokakların bomboş olmasını beklemiyoruz ama yine de izmir aydın, bilinçli ve öncü tavrıyla daha örnek bir tutum sergilemeliydi. bir çok yerde insanlar hala keyfi olarak dışarda.
-  entry_channels: sağlık,haber
 - entry_name: |
     kız arkadaşa alınabilecek 50 tl altı hediyeler
   entry_id:  104277459
@@ -331,14 +339,6 @@ data:
     kesinlikle ufak kar küresi. hatta 50tl ile 3 taneye kadar alınabilir. her birini teker teker hediye edersiniz ve böylelikle mutluluğuna 3 kez şahit olursunuz. deneyin bence. ben denedim, aldatıldım..
   entry_channels: anket,ilişkiler
 - entry_name: |
-    duygu özaslan
-  entry_id:  104316825
-  entry_writer: normative
-  entry_fav_count: 11
-  entry_content: |
-    diğer yazar arkadaşların da belirttiği gibi güzel olmayan kadındır. bu ülkedeki tek avantajı cinsel açlığı yüzünden yüzlercesinin bu insanı el üstünde tutuyor olmasıdır. kalın kaş bazılarına yakışıyor ama bu kadını kıro göstermiş. bu ülkede eli ayağı tutan her kadın götünü biraz açsa ilgi görür zaten.
-  entry_channels: magazin
-- entry_name: |
     müslüm gürses'in en etkileyici şarkısı
   entry_id:  104299176
   entry_writer: ben atacaktim
@@ -347,29 +347,29 @@ data:
     dinleyin geceler
   entry_channels: anket,müzik
 - entry_name: |
-    muzo'nun youtube kanalına abone oluyoruz
-  entry_id:  104307292
-  entry_writer: and the unhappy dido burns
+    izmir'in karantina günlerinde sınıfta kalması
+  entry_id:  104313308
+  entry_writer: frostpunk
   entry_fav_count: 10
   entry_content: |
-    özellikle üniversite öğrencilerinin efsane radyocusu, yastık sohbetlerinin mucidi, <a class="b" href="/?q=muzaffer+g%c3%bcsar">muzaffer güsar</a> (<a class="b" href="/?q=muzo">muzo</a>) dün itibariyle youtube kanalını aktif olarak kullanmaya, gündemi yorumlama videoları yüklemeye başladı. an itibariyle de herhangi bir radyoda çalışmıyor. kanalına abone olarak destek verelim. <a rel="nofollow noopener" class="url" target="_blank" href="https://www.youtube.com/watch?v=_JLGfyK70Vw" title="https://www.youtube.com/watch?v=_JLGfyK70Vw">youtube kanalı</a>
-  entry_channels: haber
+    hayatınız yalan dolan, ahlaksızlık olmuş. <br/>al kardeşim <a rel="nofollow noopener" class="url" target="_blank" href="https://izum.izmir.bel.tr/apps/cameras/detail.html" title="https://izum.izmir.bel.tr/apps/cameras/detail.html">kameralardan</a> bak, şehrin en kalabalık yerleri bile işi gücü gereği hareket halinde olanlar dışında kimseler yok.<br/>kemeraltı böyle tenhalığı sayım günlerinde bile görmemiştir.
+  entry_channels: sağlık,haber
 - entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  104274197
-  entry_writer: usul12
-  entry_fav_count: 4
+    neden dindarlar hemen ölüp cennete gitmiyor
+  entry_id:  104318818
+  entry_writer: green stone
+  entry_fav_count: 9
   entry_content: |
-    aranızda psikolog var mı?<br/>hastaneye virüsten dolayı gidemiyorum ve bulunduğum durum çok mühim; hayattan zerre kadar tat almıyorum. <br/>bu da beni korkunç gerçeklere sürüklüyor.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    ziraat bankası altın hesabı rezaleti
-  entry_id:  104318185
-  entry_writer: 2jz
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=kanunlar%c4%b1n+izin+verdi%c4%9fi+su%c3%a7lar">kanunların izin verdiği suçlar</a>)<br/>gerekli yasal düzenlemeler yapılmadıkça bu hırsızlık maalesef böyle devam edecek. şaka gibi ama adamlar isterse makası 100 lira bile yapabilirler.
+    (bkz: <a class="b" href="/?q=%c5%9fehit+olup+cennete+gitmekten+ka%c3%a7%c4%b1nan+islamc%c4%b1">şehit olup cennete gitmekten kaçınan islamcı</a>)
   entry_channels: 
+- entry_name: |
+    fahrettin koca'ya üstün hizmet madalyası verilsin
+  entry_id:  104320619
+  entry_writer: xxiiidec
+  entry_fav_count: 6
+  entry_content: |
+    kendisinin tam olarak neyi başardığını bana açıklayabilecek bir yazar var mıdır?<br/><br/>kendisi sağlık bakanıyken vaka sayılarını televizyona çıkıp ben mi açıklayacağım? test kitlerini, koruma ekipmanlarını ben mi satın alacağım?<br/><br/>edit: bir bakanın kendi işini yaptığında (ki bu da tartışılır) şaşıran vatandaşın absürt önerisi.
+  entry_channels: siyaset,bilim,sağlık,haber
 - entry_name: |
     et yemek corona yapıyor
   entry_id:  104317184
@@ -380,11 +380,19 @@ data:
   entry_channels: 
 - entry_name: |
     vaka sayısı ile ölü sayısının çelişkili olması
-  entry_id:  104320153
-  entry_writer: kobayashisoze
+  entry_id:  104320539
+  entry_writer: benim inim hiphop
   entry_fav_count: 1
   entry_content: |
-    istatistik çalışman varsa ortaya koy. iddianı kanıtlayamıyorsan da bu kadar emin konuşma aq.
+    daha öncede demiştim. ilk vakanın tespitinden bu yana kaç kişinin ölüm sebebine zatürre yazıldı. emin olun gözle görülür bir artış olmuştur.
+  entry_channels: 
+- entry_name: |
+    unutulmayan anime sahneleri
+  entry_id:  104320679
+  entry_writer: kudosman
+  entry_fav_count: 1
+  entry_content: |
+    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/>naruto shippuudende itachi v.s sasuke savaşında obitonun itachi hakkında gerçegi açıklaması ardından çok daha anlam yüklü olan sahneyi yavaş çekimde izleyerek itachinin sasukeye son dokunuşu yapıp 'yuruse sasuke kore de saigo da'' diyerek şehadet şerbetini içmesi.<br/>.<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: 
 - entry_name: |
     köpeksiz sokaklar istiyoruz
@@ -394,12 +402,4 @@ data:
   entry_content: |
     arkadaş bir bırakın şu hayvanları rahat.<br/><br/>mahalle yanıyor, bunlar saç tarıyor.
   entry_channels: ilişkiler,sağlık,haber
-- entry_name: |
-    fransız kadını denince akla gelenler
-  entry_id:  104319090
-  entry_writer: lepto kurtic
-  entry_fav_count: 0
-  entry_content: |
-    orospu fransız kadınlar. eski manitamı yakalamıştım biriyle. o günden beri pek sevmiyorum kendilerini.
-  entry_channels: anket
 ---
