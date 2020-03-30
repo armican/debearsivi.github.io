@@ -6,31 +6,15 @@ data:
     15 bin umrecinin tüm türkiye'ye corona yayması
   entry_id:  104428911
   entry_writer: green stone
-  entry_fav_count: 1061
+  entry_fav_count: 1116
   entry_content: |
     ilk gelen 15 bin kisilik kafile hicbir test veya önlem alınmadan anadolunun 4 bir köşesine gönderildi. son kalan 5 bin kişi sosyal medyadan gelen tepkiler sebebiyle karantinaya alındı ve aralarında çok sayıda corona pozitif insan çıktı.<br/><br/>ilk gelen 15 bin kişiyi hiçbir önlem almadan ülkenin dört bir yanına gönderen diyanet ülkemizi çok ciddi zarara ugratmıştır.<br/><br/>bu 15 bin kişinin arasında corona pozitif olan cok sayıdaki insan virüsü çok sayıda insana bulastirmis sağlık sistemimizi çökertmistir cok sayıda insanımızı hasta etmiştir. <br/><br/>bunun sorumlusu diyanete dava açmamız mümkün müdür?<br/><br/>diyanetin bu millete bir tane toz maskesi kadar yararı var mıdır?<br/><br/>sözlükteki avukat arkadaşlar birlesip diyanete tazminat davası açması mümkün müdür? (aydınlatın bizi lütfen)<br/><br/>yıllık 11 milyar tl bütçesi olan bir kurumun devlete ve millete faydası nedir?<br/><br/>edit: sanal hayvan nickli yazar arkadasimiz mesaj attı suudi arabistan türk ümrecilere yaptığı az sayıdaki testler ile 72 ümrecimizde corona virüsü tespit etmiş. 15 bin kişi arasında kaç pozitif vardır düşünün.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.tv100.com/suudi-arabistan-72-turk-vatandasinda-korona-virus-tespit-ettiklerini-acikladi-haber-489233" title="https://www.tv100.com/suudi-arabistan-72-turk-vatandasinda-korona-virus-tespit-ettiklerini-acikladi-haber-489233">https://www.tv100.com/…lerini-acikladi-haber-489233</a>
   entry_channels: sağlık
 - entry_name: |
-    cem yılmaz'ın yine ölü numarası yapması
-  entry_id:  104410159
-  entry_writer: multi in
-  entry_fav_count: 1023
-  entry_content: |
-    cem yılmaz sağlık bakanlığı sözcüsü olmadığına göre ne bekliyorsunuz ondan?<br/><br/>ayrıca cem yılmaz normandiya çıkarmasında da görülmemişti. o zamandan beri böyle.
-  entry_channels: haber,magazin
-- entry_name: |
-    çin'de vahşi et pazarlarının tekrar açılması
-  entry_id:  104395612
-  entry_writer: seviyorsevmiyorseviyorsevmiyorseviyor
-  entry_fav_count: 613
-  entry_content: |
-    sözlükteki gerizekalı çin duyarcıları damlamadan tekrar yazalım;<br/><br/>batı medeniyeti (araplar dahil) bu yamyamlara haddini bildirmek için birleşmezse, başımıza daha çok müsibet gelir.<br/><br/>bunlarda empati, insanlık falan yok.
-  entry_channels: sağlık,haber,yeme-içme,ekonomi
-- entry_name: |
     müge anlı
   entry_id:  104424644
   entry_writer: ravenbert
-  entry_fav_count: 594
+  entry_fav_count: 619
   entry_content: |
     kompleksli bir kadın. programlarına kültür, eğitim ve yaşam olarak kendinden aşağı da olan insanlar çıktığı için, bunların arasında kendini entelektüel ve bilge sanıyor. insanlara tepeden bakıyor, narsisizm belirtileri taşıyor.
   entry_channels: tv
@@ -38,79 +22,39 @@ data:
     30 mart 2020 corona temel ihtiyaç desteği müjdesi
   entry_id:  104426284
   entry_writer: ooff
-  entry_fav_count: 590
+  entry_fav_count: 606
   entry_content: |
     temel ihtiyaçla, kredinin ne alakası var kardeşim?
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
-    30 mart 2020 bilim kurulu toplantısı kararları
-  entry_id:  104410382
-  entry_writer: mastorial seyahat
-  entry_fav_count: 572
-  entry_content: |
-    özet: cumhurbaşkanımıza, maliye bakanımıza ve içişleri bakanımıza teşekkürler.<br/><br/>edit:1. filmin devamı (bkz: <a class="b" href="/entry/104114000">#104114000</a>)<br/>ne de olsa senelerdir konulu-konusuz tüm filmleri izledik.
-  entry_channels: bilim,sağlık,haber,eğitim
-- entry_name: |
-    avustralya tv'sinde türkiye'nin corona analizi
-  entry_id:  104409690
-  entry_writer: yohyoh
-  entry_fav_count: 568
-  entry_content: |
-    <a class="b" href="/?q=fatih+altayl%c4%b1">fatih altaylı</a>'ya şu sözlerinden dolayı katılmama sebep olan analizdir: "her şeyi höt zötle yaptıran devletimiz, karantinaya gelince 'gönüllülük' esasını benimsedi."
-  entry_channels: tv,sağlık,haber
-- entry_name: |
     soyumu devam ettirmek için çocuk istiyorum
   entry_id:  104426946
   entry_writer: cikilops
-  entry_fav_count: 468
+  entry_fav_count: 487
   entry_content: |
     bayılıyorum valla bu düşüncedekilere, gören de bengal kaplanı doğuracak sanır lan, soy ha, soy!
   entry_channels: ilişkiler
 - entry_name: |
-    çin'e açılan 20 trilyonluk dava
-  entry_id:  104412762
-  entry_writer: yumiyum kokusu
-  entry_fav_count: 439
-  entry_content: |
-    bence bütün ülkeler dava açmalı. belki şu lanet olasıca pazarlarını kaldırmayı akıl ederler. olması gerekendir.
-  entry_channels: haber,ekonomi
-- entry_name: |
     30 mart 2020 erdoğan'ın ulusa sesleniş konuşması
   entry_id:  104423506
   entry_writer: chessboard
-  entry_fav_count: 410
+  entry_fav_count: 458
   entry_content: |
     "biraz daha bişiler yasaklayacağım, böyle yasaklıyormuş gibi görüneceğim tamam mı" alt metni üzerinden nutuk atacağı açıklamalardır.<br/><br/>"dua ve sabır ile<br/>halkın yardımıyla<br/>allahın izniyle<br/>inançla, metanetle<br/>peygamber sabrı ile"<br/><br/>ulan bir şeyi de kendi başınıza yapın be...
   entry_channels: siyaset
 - entry_name: |
-    istanbul'da açlıktan ölen sokak köpekleri
-  entry_id:  104393226
-  entry_writer: sutlabi
-  entry_fav_count: 380
-  entry_content: |
-    köpeklerin yeri sokaklardır insansız sokaklar istiyoruz diyen ruh hastalarının eseridir. buyrun işte. insansız sokaklar ve köpekli sokaklar. hani köpeğin yeri sokak ya.
-  entry_channels: sağlık,haber,yeme-içme
-- entry_name: |
     didem soydan'ın olay banyo fotoğrafları
   entry_id:  104424511
   entry_writer: ayran folyosu
-  entry_fav_count: 314
+  entry_fav_count: 323
   entry_content: |
     gram oynamadı
   entry_channels: haber,magazin
 - entry_name: |
-    30 mart 2020 imf'nin türkiye açıklaması
-  entry_id:  104434234
-  entry_writer: xenraiken
-  entry_fav_count: 246
-  entry_content: |
-    imf yardım ederse görevi gereği planlama dahilinde tüm mali hareketleri araştırmakla ve ortaya dökmekle mükelleftirler.<br/><br/>bunu sizce hangi ülkeler istemez? mali hareketlerin ortaya dökülmesini istemeyen demokratik ülkeler. kuzey kore bile isteyebilir bu arada. adamın bir sıkıntısı yok bu konuda.
-  entry_channels: siyaset,haber,ekonomi
-- entry_name: |
     coldplay muse radiohead portishead dinleyen insan
   entry_id:  104427335
   entry_writer: evenasins
-  entry_fav_count: 239
+  entry_fav_count: 250
   entry_content: |
     güzel duyguların insanıdır. <a class="b" href="/?q=depresif+ibne+ingiliz+m%c3%bczi%c4%9fi">depresif ibne ingiliz müziği</a>'nin sıkı takipçisidir.<br/><br/>ayrıca; <a class="b" href="/entry/104438803">#104438803</a>
   entry_channels: anket,müzik
@@ -118,7 +62,7 @@ data:
     macaristan'ın diktatörlük ilanı
   entry_id:  104436142
   entry_writer: mesglsn sanirm bn yatiyrm
-  entry_fav_count: 224
+  entry_fav_count: 230
   entry_content: |
     diktatörlük değil, kararların hızlı alınması için çift başlılıktan kurtulma. hani biz de yaptık ya, son 2 senedir jakuziden çıkmıyoruz sayesinde. mükemmel bir sistem bu.
   entry_channels: siyaset,haber
@@ -126,7 +70,7 @@ data:
     30 mart 2020 covid-19 vaka sayısının 10827 olması
   entry_id:  104435507
   entry_writer: yuri kasparov
-  entry_fav_count: 218
+  entry_fav_count: 228
   entry_content: |
     an itibariyle türkiye'deki peak sürecinde olan covid-19'un ulaştığı sayı.<br/><br/>zenginler evde kalmaya devam etsin. fakirler de damat berat'ın bugünkü o müthiş(!) müjdesiyle beraber kredi çekip ihtiyaçlarını karşılayabilirler. (bkz: <a class="b" href="/?q=30+mart+2020+corona+temel+ihtiya%c3%a7+deste%c4%9fi+m%c3%bcjdesi">30 mart 2020 corona temel ihtiyaç desteği müjdesi</a>)<br/><br/>toplam test sayısı: 76.981 / bugün yapılan test sayısı: 11535<br/><br/>toplam vaka sayısı 10.827 / bugünkü vaka sayısı: 1620<br/><br/>toplam vefat sayısı: 168 / bugünkü vefat sayısı: 37<br/><br/>toplam yoğun bakımda olan hasta sayısı: 725 / bugünkü yoğun bakım sayısı: 157<br/><br/>toplam entübe hasta sayısı: 523 / bugünkü entübe sayısı: 129<br/><br/>toplam iyileşen hasta sayısı: 162 / bugün iyileşen hasta sayısı: 57<br/><br/>ve bu tablo karşısında devletimizin #evdekal(a)mayanlara karşı bulduğu çözüm; kredi çekmek =) yani diyor ki, borcu borçla kapat. adım hıdır, elimden gelen bıdır.
   entry_channels: sağlık,haber
@@ -142,58 +86,74 @@ data:
     ibb'nin otobüs yalanının mobese görüntüleri
   entry_id:  104428242
   entry_writer: tachibana
-  entry_fav_count: 183
+  entry_fav_count: 188
   entry_content: |
     devlete bak aktrollere mobese görüntüsü veriyor. devlet gibi devlet be.
   entry_channels: siyaset,tv,sağlık,haber,seyahat
 - entry_name: |
-    tripsiz kaprissiz baskısız nazsız dertsiz kız
-  entry_id:  104418708
-  entry_writer: moronihahaya
-  entry_fav_count: 143
+    biz bize yeteriz türkiyem
+  entry_id:  104441716
+  entry_writer: juloo
+  entry_fav_count: 172
   entry_content: |
-    kıymeti bilinmeyecek olan kızdır.
-  entry_channels: ilişkiler
+    biz neden vergi ödüyoruz 1 kişi bana bunu açıklayabilir mi? neden yani neden? her zor zamanda futbol kulübü gibi sms kampanyası başlatılacaksa neden vergi veriyoruz yok mu açıklayacak biri? <br/><br/>ya da fransızlar, amerikalılar niye ihtiyaç duymuyorlar sms'lere? <br/>(bkz: <a class="b" href="/?q=ihtiyat+ak%c3%a7esi">ihtiyat akçesi</a>)
+  entry_channels: siyaset,ilişkiler
 - entry_name: |
     30 mart 2020 eba tv'de yapılan ateizm tanımı
   entry_id:  104427544
   entry_writer: eksiye atanan kayyum
-  entry_fav_count: 136
+  entry_fav_count: 147
   entry_content: |
     mesela türkiye'nin %99'u neden müslümandır? çünkü batmakta olan bir gemidir de ondan...
   entry_channels: siyaset,haber,eğitim
 - entry_name: |
+    tripsiz kaprissiz baskısız nazsız dertsiz kız
+  entry_id:  104418708
+  entry_writer: moronihahaya
+  entry_fav_count: 145
+  entry_content: |
+    kıymeti bilinmeyecek olan kızdır.
+  entry_channels: ilişkiler
+- entry_name: |
     askerdeki ranza altı yazıları
   entry_id:  104417592
   entry_writer: tamam
-  entry_fav_count: 130
+  entry_fav_count: 131
   entry_content: |
     "beni bekleme anne, ben topraga söz verdim."<br/><br/>mekan: kutahya er egitim tugayi. <br/>gorev: muhtemelen henuz usta birligine gitmemis bir acemi hava piyade er. ölüm riski sifira yakin.<br/><br/>"bugun de olmedim anne."<br/><br/>mekan: malatya 7. ana jet üssü.<br/>görev: muhtemelen cayci. kaynar suyu dikkatli kullanirsa ölüm riski yok.
   entry_channels: anket
 - entry_name: |
+    tereyağı vs zeytinyağı vs margarin vs ayçiçek yağı
+  entry_id:  104438707
+  entry_writer: medeniyetsiz
+  entry_fav_count: 119
+  entry_content: |
+    zeytinyağı &gt; tereyağı &gt; ayçiçek yağı &gt; motorin &gt; margarin
+  entry_channels: anket,yeme-içme
+- entry_name: |
     mount and blade ii bannerlord
   entry_id:  104410761
   entry_writer: celonor
-  entry_fav_count: 114
+  entry_fav_count: 116
   entry_content: |
     umarım yine <a class="b" href="/?q=borcha">borcha</a> vardır bu oyunda. hey gidi at hırsızı borcha seni lord yaptım diye bütün diğer lordlar ayaklanmışlardı o köylüye nasıl toprak verirsin diye. bilmezlerdi ki "köylü milletin efendisidir."
   entry_channels: oyun
 - entry_name: |
-    coronavirüs balonunun yavaş yavaş sönmesi
-  entry_id:  104392182
-  entry_writer: atatapiti
-  entry_fav_count: 103
+    imamoğlu'na olan desteğin düşme nedenleri
+  entry_id:  104433303
+  entry_writer: tatli limoncu
+  entry_fav_count: 80
   entry_content: |
-    (bkz: <a class="b" href="/?q=gerizekal%c4%b1">gerizekalı</a>)
-  entry_channels: bilim,sağlık
+    şahsen ekrem imamoğlu'nu eleştirdiğim çokça husus var ama 13. cumhurbaşkanı olarak fahrettin koca'yı düşünmek mi? ahahahahahha...<br/><br/>allah daha başka dert vermesin kardeş.
+  entry_channels: siyaset,anket
 - entry_name: |
-    tereyağı vs zeytinyağı vs margarin vs ayçiçek yağı
-  entry_id:  104438707
-  entry_writer: medeniyetsiz
-  entry_fav_count: 93
+    milli dayanışma kampanyası
+  entry_id:  104442267
+  entry_writer: koministimam2
+  entry_fav_count: 79
   entry_content: |
-    zeytinyağı &gt; tereyağı &gt; ayçiçek yağı &gt; motorin &gt; margarin
-  entry_channels: anket,yeme-içme
+    benim verdiğim vergileri varlık fonu aracılığı ile hiç edip, yine benden yardım bekleyen kampanya! e o zaman ben olayım devlet? siz neden devletsiniz ki?<br/><br/>üçer altışar aylık maaşları bağışlamışlar ulan şaka gibi<br/>bakanların birinin okulları <br/>diğerinin hastaneleri<br/>ötekinin otelleri var<br/>3 maaşını bağışlamışlar.<br/><br/>gerçekten gözlerim yaşardı ya<br/><br/>şu ya şu; her aksam çıkıp açıklama yapacağım diye milleti televizyon ekranına dikene kadar diyeceğiniz şey şu;<br/><br/>ülke olarak 15 gün sokağa çıkma yasağı getirilmiştir.<br/>kimsenin de aklında en ufak korku olmasın<br/>herkese maaşları yatacaktır.<br/><br/>bitti bu kadar ya başka bir olay değil yani olması gereken. <br/>biz bize yeteriz ne arkadas ben kafayı yiycem yaa<br/>yerken, ihaleleri götürürken biz bize değiliz<br/>tek yürek değiliz<br/>zora düşünce birlikteyiz türkiyem<br/>aynı gemideyiz türkiyem<br/>gidin colinden cengizden limaktan alın. <br/>ben ayın sonunu nasıl getiricem onu düşüneyim<br/>şuraya bak! güya dün sosyal devlettik
+  entry_channels: siyaset,haber
 - entry_name: |
     30 mart 2020 fatih terim'in taburcu edilmesi
   entry_id:  104421512
@@ -206,39 +166,15 @@ data:
     ibb yardım paketinin pahalı olması
   entry_id:  104420215
   entry_writer: droltr
-  entry_fav_count: 77
+  entry_fav_count: 78
   entry_content: |
     t: okuduğunu anlama zorluğu yaşayanlara dert olacak paket.<br/><br/>bakın yazmışlar "yardım paketlerimizden alarak, ihtiyaç sahipleriyle dayanışmamıza katkıda bulunun" .<br/><br/>yani tek başına paket içeriği değil, daha önce yardım kampanyası görmemiş gibi yapmayın. hükümetin, belediye gelirlerine el koyduğu, işini yapmasını engellediği, bir borç batağı teslim almış yönetimin başka ne yapmasını bekliyorsunuz?<br/><br/>yavuz bingöl'den 85.000 bağlama alıp okullara dağıtmaya benzemez bu işler.
   entry_channels: siyaset,ekonomi
 - entry_name: |
-    imamoğlu'na olan desteğin düşme nedenleri
-  entry_id:  104433303
-  entry_writer: tatli limoncu
-  entry_fav_count: 76
-  entry_content: |
-    şahsen ekrem imamoğlu'nu eleştirdiğim çokça husus var ama 13. cumhurbaşkanı olarak fahrettin koca'yı düşünmek mi? ahahahahahha...<br/><br/>allah daha başka dert vermesin kardeş.
-  entry_channels: siyaset,anket
-- entry_name: |
-    canı hiç baklava çekmeyen insan
-  entry_id:  104413704
-  entry_writer: naletolsun
-  entry_fav_count: 73
-  entry_content: |
-    şeker bağımlısı değildir.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    30 mart 2020 marketlerde hamur mayası bulunamaması
-  entry_id:  104438277
-  entry_writer: doksanlardakalmisadam
-  entry_fav_count: 56
-  entry_content: |
-    millet evde koronadan değil de obeziteden ölecek.
-  entry_channels: 
-- entry_name: |
     müge anlı'nın sağlıkçılar hakkındaki sözleri
   entry_id:  104432143
   entry_writer: yuzdekirkbir
-  entry_fav_count: 54
+  entry_fav_count: 58
   entry_content: |
     uzm. dr. mine kayacı yıldız<br/><br/>bi sen kalmıştın #mügeanlı doktora laf etmeyen! arabada iğne yapmıyoruz maalesef. telefondan danışmanlık hizmeti de vermiyoruz. başın ağrıyorsa kalkıp gidersin hastaneye, alınmazsan o zaman konuşursun. senin girmek istemediğin yerde o doktorlar yaşıyor!!!<br/><br/>en güzel cevap
   entry_channels: tv,sağlık,haber
@@ -246,18 +182,34 @@ data:
     whatsapp grubunu sessize alma nedenleri
   entry_id:  104427724
   entry_writer: 38atp
-  entry_fav_count: 51
+  entry_fav_count: 52
   entry_content: |
     telefonum bile sessizde. <br/>ulaşılmak istemiyorum sanırım. <br/><br/>umarım iyiyimdir.
   entry_channels: ilişkiler,teknoloji
 - entry_name: |
-    mahir çayan
-  entry_id:  104411942
-  entry_writer: yuma
+    oto galericiler battı mutlu musunuz
+  entry_id:  104440966
+  entry_writer: from potomac to kuban
+  entry_fav_count: 46
+  entry_content: |
+    ne bekliyorsun amk şu ortamda ölüm riskini alıp gidip sikik polo'ya 100 bin mi sayayım.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    erdoğan'ın milli dayanışmaya 7 maaş bağışlaması
+  entry_id:  104441868
+  entry_writer: bakin burasi cokomelli
+  entry_fav_count: 45
+  entry_content: |
+    kupon arazileri paraya çevirince çıkarır bağışladığı parayı. benden ne satmamı bekliyor acaba? benim gibilerden? bir şerefimiz kaldı elimizde. onu da satıp aktroll mu olmamız gerekiyor? olmuyorum arkadaş. şerefimle aç kalırım daha iyi.
+  entry_channels: siyaset
+- entry_name: |
+    ekşi itiraf
+  entry_id:  104393349
+  entry_writer: zaliminamcasininkizi
   entry_fav_count: 44
   entry_content: |
-    ingiliz teknisyenleri kaçırıp öldürdüğü için sevmediğim şahıs.<br/><br/>sırf kendisiyle aynı fikiri paylaşmıyor diye insanlara faşist diyen dar görüşlüler de savunmaya devam etsin.<br/><br/>kim için çalışırsa çalışsın bu insanlar emekçidirler. <br/><br/>pkk bizim mühendislerimizi şehit ettiğinde mahir'i övdüğünüz gibi övün o zaman. asala bizim elçilerimizi şehit ettiğinde onları da övün. aynı kapıya çıkıyor çünkü.<br/><br/>bu tip insanların ayna yansıması da abdullah çatlı gibi ülkücülerin sempati beslediği katillerdir. ikisi de özünde aynıdır.<br/><br/>ekleme: adnan menderes ve türkeş'i günahım kadar sevmem. sözlükte zaten onlar hakkında sürekli yazarım. yazıcıoğlu ve türevlerini de sevmem. eski entrylerimi okuyabilirsiniz.<br/><br/>kendisini atatürk ile karşılaştırıp başarısız olduğundan terörist oldu demek aşırı saçma. atatürk devrimlerini cihan harbi bitip kurtuluş savaşı verdikten sonra yeniden devlet kurarak yapmıştır. atatürk ile tayyip'i karşılaştıranlardan zerre farkınız yok bu konuda. bu topraklar atatürk kadar birikimli, entelektüel ve zeki bir lider daha görmemiştir. şu adamı kimseyle kıyaslamayın artık. <br/><br/>gene burda militaristliği sağa özgü bir şey sanan tipler görüyorum. solda da militarizm var. fidel castro neden asker formasını üstünden hiç çıkarmadı?<br/><br/>tayyip'in terörist kavramını eğip bükmesi üzerine politik doğruculuk yapan tipleri görünce pkk sempatizanları geliyor aklıma. birkaç sene önce bu tipler "bakın tayyip size muhalif olduğunuz için terörist diyor. anlıyor musunız terörist lafının anlamını? bize de aynısını yaptılar." diye ortalıkta geziyordu. hayır efendi, sen ortalıkta çıkıp bomba patlatıp milleti öldürdüğün için teröristsin. <br/><br/>bu dünyada politik doğruculuktan nefret ettiğim kadar hiçbir şeyden nefret etmedim.<br/><br/>neyse işin özü, bizim ülkenin sağı da solu da aynı oranda çomar.<br/><br/>ekleme2: kendisini eleştirenleri gene kalıplara sokup üstüne aşağılamak ne saçma bir şey lan. bilmem ne x eleştirmesin öyle mi? bu sosyalizm denen şey örgütlenmeyi gerektirmiyor mu? senin savunduğun şeyleri eleştirenleri ötekilemeyip ikna etmeye çalışman gerekmiyor mu? sizin gibi tipler yüzünden proletaryada örgütlü olanlar tarikatlar. farkında mısınız? trollük yapıp bilerek aptalca şeyler yazanları aşağılasanız anlarım ki onları ben de aşağılıyorum. ama gelip ciddi ciddi eleştirenleri ötekileştirmek akıl tutulması. <br/><br/>iran devrimi gerici bir devrimdi. fakat bu devrim nasıl yapıldı biliyor musunuz? bizim ülkemizde solcuların yapmadığı şekilde oraların alt tabakasını örgütleyerek yaptılar. amk dincileri ve mezhepçileri sosyalistlerden daha iyi örgütleniyor. bunu da öyle halk dinci diye geçiştiremezsiniz. <br/><br/>bir de militarizme karşı eleştiri yaptığımı sananlar olmuş. öyle bir eleştiri yapmadım. dedim ki solda da militaristlik vardır. bunu göremeyen hayalperest solcuları eleştirdim.
-  entry_channels: siyaset,tarih
+    5 yıl önce bugün tanımıştım seni. 29 mart 2015, bir konser günü. sarı tişörtün, yeşil şortun ve aralık dişlerinle öylece girivermiştin hayatıma. hiçbir gülümsemenin beni bu kadar etkilediğini, kimseden ilk görüşte bu kadar etkilendiğimi hatırlamıyorum kendimi bildim bileli. <br/><br/>5 yıl olmuş bugün bak seni tanıyalı, bazen gülüşüne, bazen ağlayışına şahit olalı. en büyük destekçin, sırdaşın, yoldaşın olalı da epey uzun zaman. <br/><br/>sonra bir sabah, 13 kasım 2018 salı, saat 10 falan. öldü dediler. öldü. öylece çıktın gidiverdin hayatımdan sessiz sedasız. ben uykudayken dalmışsın en derin uykulara. öyle dediler. saat altıymış, yangın çıkmış, sen gitmişsin... <br/><br/>nasıl bıraktın arkanda “nikahta gelinlik giyer o, sen tabutta yatarken” gibi bir dizeyi? hiç mi düşünmedin ardında kalanı ne kadar yaralayabileceğini? gerçi nereden bilecektin ki... yazarken bile boğazım düğüm düğüm. yaşamak nasip olursa eğer, o an “evet” derken bile aklımda sen olacaksın. <br/><br/>her ne olursa olsun, seni ve sana olan sevgimi ömrümün sonuna kadar içimde taşıyacağım ben. her zaman o vurulduğum gülüşünle kalbimin en güzel yerinde kalacak güzel yüzün. umarım güzel yerlerdesindir...
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
     aralık 2019 grip salgını
   entry_id:  104412740
@@ -267,21 +219,21 @@ data:
     o dönem yapılan domuz gribi influenza testi pozitif çıkmıştı. sanırım o salgın domuz gribi salgınıydı.
   entry_channels: sağlık
 - entry_name: |
-    geceye bir kadın yalanı bırak
-  entry_id:  104428050
-  entry_writer: mewhen
-  entry_fav_count: 36
-  entry_content: |
-    sen 2.sin.<br/><br/>varış hakemi gibiler ahahha. birinciyi asla söylemiyorlar.
-  entry_channels: anket,ilişkiler
-- entry_name: |
     mahfi eğilmez'in hükümete para basın çağırısı
   entry_id:  104437933
   entry_writer: atarcan
-  entry_fav_count: 35
+  entry_fav_count: 40
   entry_content: |
     herkes para bastığı için her zamanki yıkımı yapmayacak davet. kimse basmazken sen basarsan felaket olur ama.
   entry_channels: haber,ekonomi
+- entry_name: |
+    geceye bir kadın yalanı bırak
+  entry_id:  104428050
+  entry_writer: mewhen
+  entry_fav_count: 39
+  entry_content: |
+    sen 2.sin.<br/><br/>varış hakemi gibiler ahahha. birinciyi asla söylemiyorlar.
+  entry_channels: anket,ilişkiler
 - entry_name: |
     sigmund freud'un tek kelimelik özeti
   entry_id:  104425504
@@ -299,29 +251,21 @@ data:
     (bkz: <a class="b" href="/?q=recep+tayyip+erdo%c4%9fan">recep tayyip erdoğan</a>)<br/>en güvenli yer onun yanıdır şimdi, bi sürü ipad falan da var, akşama kadar oyun oynardık karşılıklı. teşekkürler sayın cumhurbaşkanım.
   entry_channels: anket
 - entry_name: |
-    gel la bağa diye mesaj atan kız
-  entry_id:  104436141
-  entry_writer: erkintedai
-  entry_fav_count: 24
+    recep tayyip erdoğan
+  entry_id:  104392330
+  entry_writer: cafe racer
+  entry_fav_count: 25
   entry_content: |
-    (bkz: <a class="b" href="/?q=indir+la+do%c4%9funu">indir la doğunu</a>)
-  entry_channels: 
+    pkk ile yakın durup istanbul'da seçimlere öcalan kardeşlerin mesajlarıyla girmesi, bunları devletin televizyonuna çıkarması unutulmasın. siyasette adamlığı, dürüstlüğü ve çalışkanlığıyla öne çıkan sayın ekrem imamoğlu'nu örnek alması dilenen imam hatipli.
+  entry_channels: siyaset,haber
 - entry_name: |
-    sevgiyi sadakati saygıyı hissettiren erkek
-  entry_id:  104423841
-  entry_writer: rhizoma
-  entry_fav_count: 21
+    the platform
+  entry_id:  104393112
+  entry_writer: deathstarinmemeucu
+  entry_fav_count: 18
   entry_content: |
-    sevgi, sadakat, saygı... sevginin yeri özeldir. erkek, sevgisini göstermekten korkmaz, kadına özel olduğunu hissettiririr. hissettirmek de önemlidir. önemini anladıkça yaşamın renklerini, zevklerini ve tatlarını daha iyi algılar. uzun bir yolculuk, kolay olmayan bir yolculuk. karşılaşmak, yürekte hissetmek, değerini bilmek, gerçek bir sevgiden söz etmek... bunlar güzel şeyler.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    rus kızlarının dünyanın 8. harikası olması
-  entry_id:  104423864
-  entry_writer: deliduzgungidiyorum
-  entry_fav_count: 21
-  entry_content: |
-    linke tıklamayın, bağcılar russia
-  entry_channels: ilişkiler
+    okuduğum kadarıyla dikine <a class="b" href="/?q=snowpiercer">snowpiercer</a>. izleyince dönerim buraya.
+  entry_channels: sanat,müzik,sinema,spoiler
 - entry_name: |
     fatih terim koronası
   entry_id:  104426977
@@ -331,29 +275,77 @@ data:
     korona herkeste ağır geçmiyor. bazı kişilerin hiç hissetmeden atlattığı defalarca bildirildi. sıradan bir insan olsa, kendisine test dahi yapılmayacaktı. ikişer kere test yaptılar bu adamlara.<br/>sen de bu illeti 1 ay önce geçirip atlatmış olabilirsin. kimin haberi olabilir?
   entry_channels: spor
 - entry_name: |
-    fatih terim'in 5 günde iyileşmesi
-  entry_id:  104393376
-  entry_writer: davetiye 2 kisiliktir
+    ingilizlerde görülen yamuk kafa sendromu
+  entry_id:  104440063
+  entry_writer: papaouteala
+  entry_fav_count: 15
+  entry_content: |
+    anadolu insanıyla çiftleşince harika çocuk mu çıkıyor? hani sokakta gördüğümüz insanlar mı bahsi geçen?
+  entry_channels: 
+- entry_name: |
+    vincent van gogh
+  entry_id:  104418580
+  entry_writer: rain when i cry
+  entry_fav_count: 14
+  entry_content: |
+    ''geçmişi düşündüğümde -hemen hemen yenilmez zorluklarla dolu olan geleceği düşündüğümde, sevmediğim ve kaytarmak istediğim, ya da tabiatımın kötü yanının kaytarmak istediği onca güç çalışmayı düşündüğümde; bana dönük, hep bana bakan gözleri düşündüğümde- başaramazsam suçun nerede, kimde olduğunu bilecekler, bana ufak tefek serzenişlerde bulunmayacaklar, yalnızca yüzlerindeki anlam neler diyecek bana: sana yardımcı olduk, sana ışık verdik elimizden gelen her şeyi yaptık senin için.<br/>gerçekten dürüst bir çaba gösterdin mi? <br/>hak ettiğimiz karşılık nerede?''<br/><br/>-theo'ya mektuplar (vincent van gogh)
+  entry_channels: bilim,sanat,tarih,edebiyat
+- entry_name: |
+    gram altın
+  entry_id:  104420426
+  entry_writer: slayer09
   entry_fav_count: 13
   entry_content: |
-    adam ölse "ilgi çekmek için yaptı, 2 gün sonra dirilir." diyebilecek orul orul o. çocukları var sözlükte.<br/><br/>siz şu sözlükte bile ilgi çekmek için ailenizi, ananızı, bacınızı, onurunuzu kullanabilirsiniz. ama türkiye'nin en büyük takımında bütün başarıları yakalamış, taraftarın sevgilisi olmuş, kulübün en büyük 2-3 efsanesinden biri olan fatih terim sırf federasyona ders vermek için kızını ağlatmaz. sizin gibi hastalıklı insanlar virüs nedeniyle ölür umarım. kötülükten başka bi şey değil içiniz.
-  entry_channels: spor,sağlık
+    anneanne kafasıyla altına yatırım yapanlar bilinen tarihte hiç kaybetmemiştir. aksi yorumları dikkate almayin. uzun vadede en istikrarlı yatırım aracı altındır.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    tek eşliliğin erkek doğasına aykırı olması
+  entry_id:  104417045
+  entry_writer: mehmetallica
+  entry_fav_count: 11
+  entry_content: |
+    hayvani içgüdü olarak 'belki' evet. <br/>burada doğadan örnek veren, evrimden falan bahseden insanlara hitaben;<br/>ancak bizi hayvanlardan ayıran şey bilinç dediğimiz şeydir. hayvanlardan farklı olarak medeniyetler kuruyor, kitaplar yazıyor, varoluşumuzu sorguluyoruz. hatta üzerinde yaşadığımız küre dar geliyor, gözümüzü göklere çeviriyor ve alternatif yaşamlar arıyoruz. hal böyleyken işinize geldiği yerde medeni geçinip, işinize geldiğinde de hayvani içgüdülerinizden dem vurmanız iki yüzlülükten başka bir şey değil.<br/>hayvani dürtülerimizi bastırma, kontrol altına alma ve hatta onlara hükmetme yetimiz var. <br/>hayvani dürtülerimizin yanında duygularımız var mesela. duygusal bağlar kurduğumuz bir dünyada, eşleşmeyi -ya da adına ne derseniz deyin- "daha fazla dişiyi döllemek" şeklinde hayvani içgüdülerle açıklayıp bu eylemi aklayamazsınız. <br/><br/>ve gayemiz de hayvana doğru alçalmaktan çok üst insana yükselmek olmalıdır. <br/>"insan; hayvan ve üst insan arasında gerilen bir ip gibidir." <br/>-friedrich nietzsche
+  entry_channels: ilişkiler
 - entry_name: |
     kalbi kırılmış bir adamın gidebileceği yer
   entry_id:  104438256
   entry_writer: varinca haber ver
-  entry_fav_count: 8
+  entry_fav_count: 9
   entry_content: |
     2020 yılı için gidebileceği bir yer yoktur<sup class="ab"><a title="(bkz: kapalı her yer)" href="/?q=kapal%c4%b1+her+yer" data-query="kapalı her yer">*</a></sup>. belki google street view ile ayrıldığı kadının evinin önüne gider <sup class="ab"><a title="(bkz: sanal olarak)" href="/?q=sanal+olarak" data-query="sanal olarak">*</a></sup>
   entry_channels: ilişkiler
 - entry_name: |
-    oto galericiler battı mutlu musunuz
-  entry_id:  104440952
-  entry_writer: enfes bi insanim
+    ekrem imamoğlu'nun 150 tl'lik yardım paketi
+  entry_id:  104438915
+  entry_writer: bardock
+  entry_fav_count: 9
+  entry_content: |
+    gerçekten paketi kim hazırladıysa 150 tl etmez o paket. bu olay araştırılmalı. hangi marka kaç paraya alındığı belirtilmeli.<br/>bir usülsüzlük var ise cezası verilmeli. <br/><br/>edit: murat ongun açıkladı. içinde ekstra kolonya ve sabun içeren hijyen paketide mevcutmuş. isteyen bu koliyi isteyen direk 150 tl alabilecekmiş. herşey normal görünüyor.
+  entry_channels: siyaset
+- entry_name: |
+    abuzer kömürcü
+  entry_id:  104439142
+  entry_writer: sahafcihanim
+  entry_fav_count: 6
+  entry_content: |
+    büyük kimyacı, şükranla anıyoruz.
+  entry_channels: tv
+- entry_name: |
+    paraya dokunduğu eliyle ekmeğe dokunan fırıncı
+  entry_id:  104425238
+  entry_writer: strobist
   entry_fav_count: 5
   entry_content: |
-    yetmez ama evet, çünkü batmasi gereken baska sektörler de var.
-  entry_channels: 
+    diğer virüsleri bilmem de korona virüsünün plastik yüzeylerde 3 gün tutunabildiği bilimsel olarak ispatlanmış ve herkes elinde plastik eldivenle geziyor.. <br/><br/>bizi virüs değil de bu cehalet öldürecek..
+  entry_channels: sağlık,yeme-içme
+- entry_name: |
+    şu an okunan kitap
+  entry_id:  104414903
+  entry_writer: fionagus
+  entry_fav_count: 4
+  entry_content: |
+    sabahattin ali - kuyucaklı yusuf<br/><br/>varlığı büyük boşlukları dolduracak mahiyette bir şey değildi; fakat yokluğu müthişti...
+  entry_channels: anket,edebiyat,eğitim
 - entry_name: |
     kısırı sevdiren detaylar
   entry_id:  104431067
@@ -363,43 +355,51 @@ data:
     kadınların saçma sapan toplandıkları günler olur. o günlerde evin erkeklerine şu saatten önce gelmeyin denir. şu saatte eve gidilir. (çocukken maç yaptığımız için, gençken de gezip tozduğumuz için eve bilerek aç gidilir.) mutfağa girilir. masa üstündeki tabaklarda, tepsilerde rönesans tablolarını aratmayan manzarayla karşılaşılır. <br/><br/>kısır, pasta, börek, çay, zeytinyağlı dolma... resmen savaş sonrası ganimet bulmuş şövalye edasıyla, yarın yokmuş gibi masaya gömülünür. normal zamanda annemin yaptığı kısırdan aldığım keyfi, o saçma günlerden kalan kısırdan alamıyorum.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    30 mart 2020 yerli solunum cihazı üretimi
-  entry_id:  104438156
-  entry_writer: i am not noob
-  entry_fav_count: 4
+    ikinci el otomobil piyasası
+  entry_id:  104426794
+  entry_writer: tuxemr
+  entry_fav_count: 3
   entry_content: |
-    günün en güzel haberi.<br/><br/>hızlıca seri üretime geçilerek, salgının yoğun olarak yaşanacağı günler için önlem almak şart.
+    indirim mi ?<br/>olm siz geçmişten hiç ders çıkarmıyor musunuz ?<br/>bir sene içinde ötv'ler ikiye bile katlanabilir.<br/><br/>çünkü üretim düşmanı olan habire yattığı yerden para getirisinin peşinde olan bir hükümet var.
+  entry_channels: anket,otomotiv,ekonomi
+- entry_name: |
+    30 mart 2020 yerli solunum cihazı üretimi
+  entry_id:  104441460
+  entry_writer: selim alai
+  entry_fav_count: 3
+  entry_content: |
+    tasarlayan başka firma, üreten başka bir firma, reklamını yapan damat selçuk paşa hazretleri.<br/><br/>memlekette üretilen her yeni ürünü damat beye yazacağız anlaşılan.
   entry_channels: teknoloji,sağlık,haber
 - entry_name: |
-    2019-2020 süper lig şampiyonu
-  entry_id:  104432405
-  entry_writer: beton adam
-  entry_fav_count: 4
+    beyaz tenli kadınlar
+  entry_id:  104438244
+  entry_writer: red and blue and black
+  entry_fav_count: 2
   entry_content: |
-    ingiltere futbol federasyonunun uygulamak üzere devreye sokmayı düşündüğü çok güzel ve çok pratik bir uygulama var.<br/>şu şekilde çalışıyor. ligde düşme kalkıyor, alt ligden yine 3 takım çıkıyor. lig lideri puan farkıyla liderse şampiyon ilan ediliyor, 2. ile arasında puan farkı yoksa lig 7.si sezonu şampiyon tamamlamış sayılıyor.
-  entry_channels: spor,anket
+    bir de balık etliyse tadından yenmeyen kadınlardır.
+  entry_channels: ilişkiler
 - entry_name: |
-    imamoğlu'nun 150 tl'lik yardım paketi
-  entry_id:  104441990
-  entry_writer: başlık taşıyan
+    ohepsiyahgiyer
+  entry_id:  104443201
+  entry_writer: apctool
+  entry_fav_count: 1
+  entry_content: |
+    sözlükte mi? olabilir mi? lan yoksa !!
+  entry_channels: ekşi-sözlük
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  104403497
+  entry_writer: olga
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=ekrem+imamo%c4%9flu%27nun+150+tl%27lik+yard%c4%b1m+paketi">ekrem imamoğlu'nun 150 tl'lik yardım paketi</a>)
-  entry_channels: siyaset
+    ne biçim saçma sapan abaza dolmuş bu site de ya. bi bitmediniz.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    ilk kez pizza yenilen yer ve zaman
-  entry_id:  104408050
-  entry_writer: dogville
+    dünya düzdürcüler vs korona balondurcular
+  entry_id:  104440836
+  entry_writer: havaya dusen cemre
   entry_fav_count: 0
   entry_content: |
-    erenköy bağdat caddesi <a class="b" href="/?q=sicily%27s+pizza">sicily's pizza</a>, şu an borsa'nın olduğu yerdeydi. 80lerin sonu. şimdi marks spencer'ın olduğu yerde atlantik sineması vardı. orada film izler sonra gidip pizza yerdik. burası efsane pizza yapardı. hatırlayanlar yeşillendirsin. <br/>(bkz: <a class="b" href="/?q=good+old+laik+days">good old laik days</a>)<br/><br/>edit. metin teşekürler <a class="b" href="/?q=kowalski">kowalski</a>
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    30 mart 2020 recep tayyip erdoğan açıklaması
-  entry_id:  104442252
-  entry_writer: yapmabeesoverimbak
-  entry_fav_count: 0
-  entry_content: |
-    şu metni paylaşan arkadaş nasıl başarmış anlayamadım. iki seçenek mevcut ya b adam bunların hepsini ezberledi yada bu canlı olan yayın daha önce çekildi ve canlı olarak paylaşımı yapılıyor denildi...
-  entry_channels: siyaset,sağlık,haber,ekonomi
+    bu ikisini oluşturan güruh aynıdır. bilimden uzaklar. net.
+  entry_channels: 
 ---
