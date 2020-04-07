@@ -6,15 +6,39 @@ data:
     kız öğrencilerin odasını basan otel sahibi
   entry_id:  104905484
   entry_writer: mountourer
-  entry_fav_count: 1179
+  entry_fav_count: 1184
   entry_content: |
     edit3: sosyal medyada yankı bulması sayesinde olay ulusal basında yer almış, otel sahibi hakkında "inceleme" başlatılmış. hukuki olarak bir ceza falan elbette beklemiyorum ancak ekonomik açıdan yediği bu bokun bedelini umarım fazlasıyla öder.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.hurriyet.com.tr/gundem/kiz-ogrencilerin-odasini-basti-video-buyuk-tepki-cekti-inceleme-baslatildi-41488906" title="https://www.hurriyet.com.tr/gundem/kiz-ogrencilerin-odasini-basti-video-buyuk-tepki-cekti-inceleme-baslatildi-41488906">link</a><br/><br/>edit2: hazır gündem olmuşken, <br/><br/>(bkz: <a class="b" href="/?q=kezzapl%c4%b1+sald%c4%b1rgan%c4%b1n+aftan+yararlanmas%c4%b1">kezzaplı saldırganın aftan yararlanması</a>)<br/>(bkz: <a class="b" href="/?q=covid19+hastas%c4%b1+i%c3%a7in+imm%c3%bcn+plazma+ihtiyac%c4%b1">covid19 hastası için immün plazma ihtiyacı</a>)<br/><br/>edit: korona nedeniyle yeniden yerleştirme olayı yokmuş, yurt yetersizliği nedeniyle öğrencilerin kalmak zorunda olduğu bir apart otel olduğu söyleniyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/magduriyetgdern/status/1247179081965330433?s=19" title="https://twitter.com/magduriyetgdern/status/1247179081965330433?s=19">https://twitter.com/…tatus/1247179081965330433?s=19</a><br/><br/>az önce twitterda denk geldiğim maganda. iddiaya göre öğrenci yurdu yetersizliği nedeniyle apartta kalan kız öğrencilerin odası muhtemelen otel yetkilisi tarafından basılıyor, nisan mayıs aylarının parası istenip eşyalara el koyuluyor, bağırıp çağırıp tehditler savurup üzerine yürüyor. <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/CoronaAlarm/status/1247260868930424834?s=19" title="https://twitter.com/CoronaAlarm/status/1247260868930424834?s=19">https://twitter.com/…tatus/1247260868930424834?s=19</a><br/><br/>odana böyle ahıra girer gibi dalabilen birinin otelinde kalmak ne kadar boktan bir durum bir öğrenci için. gündüz vakti bunu yapandan gece her pislik beklenir.
   entry_channels: haber
 - entry_name: |
+    pizza tarihinde çığır açan hintli pizza ustası
+  entry_id:  104918335
+  entry_writer: osenebusene
+  entry_fav_count: 477
+  entry_content: |
+    gülecez diye açtık,fasfakir çocuklar, derme çatma tezgahta ozenle birseyler yapan gariban bir sokak satıcısı.(amcam ugrasiyor guzel yapıyo)<br/>videoyu acmayın,malesef iç burkucu.
+  entry_channels: sağlık,haber,yeme-içme
+- entry_name: |
+    ekmek makinesine yüzde 800 zam gelmesi
+  entry_id:  104926280
+  entry_writer: nakahraca blue
+  entry_fav_count: 420
+  entry_content: |
+    tam bir ay önce 2950 tl ye aldığım laptop şu an 4500 tl. diyecek söz yok. bizim ülke olarak düşmana da ihtiyacımız yok. "biz bize yeteriz türkiye"
+  entry_channels: ekonomi
+- entry_name: |
+    28 yaşında 29 bin tl borca batmak
+  entry_id:  104942286
+  entry_writer: ciko84
+  entry_fav_count: 418
+  entry_content: |
+    o paraya araba alınmıyor o kadar karamsar olma asgari ücret alsan kendini sıkmadan 2 yılda kapatırsın.
+  entry_channels: 
+- entry_name: |
     didem soydan'ın home made pozu
   entry_id:  104929809
   entry_writer: hermenotik nihilist
-  entry_fav_count: 384
+  entry_fav_count: 399
   entry_content: |
     (bkz: <a class="b" href="/?q=zoom+yapanlar">zoom yapanlar</a>)<br/>(bkz: <a class="b" href="/?q=zoom%27dan+eli+bo%c5%9f+%c3%a7%c4%b1kanlar">zoom'dan eli boş çıkanlar</a>)
   entry_channels: magazin
@@ -22,7 +46,7 @@ data:
     7 nisan 2020 mercedes rezaleti
   entry_id:  104895878
   entry_writer: pertli nick
-  entry_fav_count: 368
+  entry_fav_count: 371
   entry_content: |
     zengin rezaletinin tadı da bir farklı oluyor valla, 10/10 puan verdim.
   entry_channels: otomotiv
@@ -35,58 +59,58 @@ data:
     bu adamın yarbay olduğuna inananlara söylüyorum, çok safsınız. yaşına, tipine, uzun saçlarına, sakalına bakarak da mı anlamıyorsunuz? bu adam klasik sen benim kim olduğumu biliyor musun tiplerinden biri sadece. aklına ilk geleni de söylemiş muhtemelen ailesinde asker vardır.<br/><br/>bu arada ben mareşal'im. inanıyorsunuz zaten.<br/><br/>gelen 100. mesaj editi: mesajlara cevap vermekten sıkıldım, sözlüğümüzün gizli mitçileri adamın jandarma istihbarat olabileceği konusunda hemfikir. <br/>buradan jandarmalara sesleniyorum. at hırsızı gibi gezen herkesi jandarma sanıyorlarsa lütfen bi kılık kıyafet disiplini, lütfen.<br/>buradan istihbarat personeline sesleniyorum. ben şuyum ben buyum diye bağıran herkesi istihbarat personeli sanıyorlarsa lütfen biraz ağzı sıkılık, lütfen.<br/>bu arada ben az önce salladım mareşal değilim, henüz korgeneral'im.
   entry_channels: siyaset,haber
 - entry_name: |
-    28 yaşında 29 bin tl borca batmak
-  entry_id:  104942286
-  entry_writer: ciko84
-  entry_fav_count: 345
-  entry_content: |
-    o paraya araba alınmıyor o kadar karamsar olma asgari ücret alsan kendini sıkmadan 2 yılda kapatırsın.
-  entry_channels: 
-- entry_name: |
-    memur olup sıradan bir hayatla geberip gitmek
-  entry_id:  104928647
-  entry_writer: individualist
-  entry_fav_count: 218
-  entry_content: |
-    gören de zanneder ki memur olmayanlar her gün bir macera yaşıyor.
-  entry_channels: siyaset,anket,ilişkiler,ekonomi
-- entry_name: |
-    üstteki yazarın nereli olduğunu tahmin et
-  entry_id:  104899320
-  entry_writer: linum
-  entry_fav_count: 209
-  entry_content: |
-    diyarbakır
-  entry_channels: anket,ekşi-sözlük
-- entry_name: |
-    covid-19 kağıt parada 2 gün yaşıyor
-  entry_id:  104946330
-  entry_writer: draklayn
-  entry_fav_count: 204
-  entry_content: |
-    virüse bak; kağıt para bizde iki gün yaşamıyor amk!<br/><br/>t: bir iddia.
-  entry_channels: sağlık,haber
-- entry_name: |
     türkiye'de ele ayağa düşen meslek grubu
   entry_id:  104940173
   entry_writer: poligontasi
-  entry_fav_count: 196
+  entry_fav_count: 236
   entry_content: |
     mühendislik
   entry_channels: anket,eğitim,ekonomi
 - entry_name: |
+    memur olup sıradan bir hayatla geberip gitmek
+  entry_id:  104928647
+  entry_writer: individualist
+  entry_fav_count: 223
+  entry_content: |
+    gören de zanneder ki memur olmayanlar her gün bir macera yaşıyor.
+  entry_channels: siyaset,anket,ilişkiler,ekonomi
+- entry_name: |
+    covid-19 kağıt parada 2 gün yaşıyor
+  entry_id:  104946330
+  entry_writer: draklayn
+  entry_fav_count: 223
+  entry_content: |
+    virüse bak; kağıt para bizde iki gün yaşamıyor amk!<br/><br/>t: bir iddia.
+  entry_channels: sağlık,haber
+- entry_name: |
+    üstteki yazarın nereli olduğunu tahmin et
+  entry_id:  104899320
+  entry_writer: linum
+  entry_fav_count: 212
+  entry_content: |
+    diyarbakır
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
     kadının yaşça küçük erkekle ilişki yaşaması
   entry_id:  104926528
   entry_writer: sonnenuntergang
-  entry_fav_count: 194
+  entry_fav_count: 199
   entry_content: |
     ben 36 yaşındayım kız arkadaşım 74. tek sorunumuz corona nedeniyle çıkamıyor ve whatsapp'ta geç yazışıyor. ama bunlar ilişkiye engel değil. bazen 3 aylığını ben çekip ona küçük sürprizler yapıyorum, ama küçük. büyük olunca kalbi tekliyor..<br/><br/>edit: ayrıldık. okumuş bunu, kızdı.. 5 dk sonra "gel buraya" dedi gülerek. saçımı okşadı. "sen benim torunum musun" dedi. çok koydu bana bu laf. sevdiğim kız bana abi demişti de torun demesi koydu. torun ne yaaa beraber mi bot bağladık!!???
   entry_channels: ilişkiler
 - entry_name: |
+    cumhurbaşkanına akp'li cumhurbaşkanı diyenler
+  entry_id:  104948047
+  entry_writer: sozluklerefisildayanadam
+  entry_fav_count: 181
+  entry_content: |
+    sistem partili cumhurbaşkanlığı sistemidir. kendisi de akp'li cumhurbaşkanıdır.
+  entry_channels: siyaset
+- entry_name: |
     tek bir golle hatırlanan futbolcular
   entry_id:  104937443
   entry_writer: hezaren
-  entry_fav_count: 166
+  entry_fav_count: 171
   entry_content: |
     (bkz: <a class="b" href="/?q=konstantinos+mitroglou">konstantinos mitroglou</a>)
   entry_channels: spor,anket
@@ -94,7 +118,7 @@ data:
     7 nisan 2020 fahrettin koca açıklamaları
   entry_id:  104940989
   entry_writer: ferroli19
-  entry_fav_count: 156
+  entry_fav_count: 166
   entry_content: |
     virüse karşı hep birlikte karşı durmalıyız diyor.napalım adam toplayıp virüsü mü dövelim?
   entry_channels: siyaset,tv,bilim,tarih,sağlık,haber
@@ -102,7 +126,7 @@ data:
     hollanda'da 2.5 milyon euro'ya satılan efsanevi ev
   entry_id:  104938790
   entry_writer: kafa bulduran
-  entry_fav_count: 152
+  entry_fav_count: 160
   entry_content: |
     adamlardaki emlakçılık anlayışına bak, tüm kat planları verilmiş, drone çekimi yapılmış ilana eklenmiş. bizde 0.3 mp kamera ile 2 tane fotoğraf koyup üzerine komisyon bekliyorlar.
   entry_channels: haber,ekonomi
@@ -110,23 +134,23 @@ data:
     toplum bilimleri kurulu
   entry_id:  104941048
   entry_writer: otopsicocugu
-  entry_fav_count: 147
+  entry_fav_count: 158
   entry_content: |
     diyanet’i bilim kuruluna alamadıkları için yeni kurulan kurul. tepki çekmesin diye de “toplum bilimleri” koymuşlar adını.<br/><br/>“eğer bir gün benim sözlerim bilimle ters düşerse bilimi seçin”<br/><br/>“dünyada her şey için; uygarlık için, hayat için, başarı için en hakiki mürşit ilimdir; fendir. ilim ve fennin dışında rehber aramak <a class="b" href="/?q=dikkatsizliktir">dikkatsizliktir</a>, <a class="b" href="/?q=bilgisizliktir">bilgisizliktir</a>, <a class="b" href="/?q=yanl%c4%b1%c5%9fl%c4%b1kt%c4%b1r">yanlışlıktır</a>.”
   entry_channels: siyaset,sağlık,haber
 - entry_name: |
-    175 cm kadının 175 cm erkekten uzun olması
-  entry_id:  104929720
-  entry_writer: icessassin
-  entry_fav_count: 135
+    maske ve kolonya erdoğan'ın hediyesidir
+  entry_id:  104946308
+  entry_writer: mr biceps
+  entry_fav_count: 154
   entry_content: |
-    çocukken "1 kg demir mi yoksa 1 kg pamuk mu? sorusuna demir dedin di mi doğruyu söyle =)
-  entry_channels: 
+    maske ve kolonyanın parasını kendi cebinden mi vermiş?
+  entry_channels: siyaset,sağlık,haber,ekonomi
 - entry_name: |
     uğruna şiirler yazılan bir kadın olmak
   entry_id:  104913175
   entry_writer: siyah paltolu casus
-  entry_fav_count: 133
+  entry_fav_count: 135
   entry_content: |
     uğruna şiir yazılacak kadın yoktur, şairlerin aşık olduğu kadınlar vardır.<br/><br/>-bir sürü mesaj geldi aksi fikir belirten. anlayamadığınız tam olarak şu: leyla kara kuru ortalama bir hatunmuş. mecnun’a demişler ki uğruna çöllere düştüğün leyla bu muydu? mecnun siz o’na bir de benim gözümle bakın demiş. <br/>leyla uğruna çöllere düşülecek kadın değil, mecnun aşkı uğruna çöllere düşebilecek bir adam. marifet leyla’da değil mecnun’da.
   entry_channels: ilişkiler
@@ -147,13 +171,13 @@ data:
     üniversiteye gitmek. şimdiki aklım olsa bir sanat öğrenirdim ya da dükkan açıp ticarete girerdim.
   entry_channels: anket,eğitim
 - entry_name: |
-    cumhurbaşkanına akp'li cumhurbaşkanı diyenler
-  entry_id:  104948047
-  entry_writer: sozluklerefisildayanadam
-  entry_fav_count: 100
+    ted ankara koleji anaokulunun 73 bin 250 tl olması
+  entry_id:  104936894
+  entry_writer: faraday kafesindeki canli
+  entry_fav_count: 99
   entry_content: |
-    sistem partili cumhurbaşkanlığı sistemidir. kendisi de akp'li cumhurbaşkanıdır.
-  entry_channels: siyaset
+    73.250 tl'yi eylülden eylüle ödemek için 12 ay kredi çeken kişi faizi hariç aylık 6104 tl ödüyor. sıradan bir memurun bu parayı ödeyebilmesi için 8 saat bir yerde memurluk 8 saat diğer bir yerde memurluk günün kalan 8 saatini de farklı bir işte geçirmesi gerekiyor. <br/><br/>ted iyi eğitim veriyor olabilir. gidenlerin hepsinin babası milyoner olmuyor da olabilir ama kusura bakma da memur adam oraya bu fiyatlarla çocuk gönderemez.
+  entry_channels: haber,eğitim
 - entry_name: |
     tc numarasını söylerken kullanılan algoritma
   entry_id:  104892840
@@ -166,31 +190,15 @@ data:
     7 nisan 2020 covid-19 vakasının 34109'a yükselmesi
   entry_id:  104941911
   entry_writer: metrobusdeoturanadam
-  entry_fav_count: 90
+  entry_fav_count: 91
   entry_content: |
     ölen sayısına inanmayın!<br/>zaturre, usye yazılıyor ölüm raporlarına.bunu artık herkes biliyor.<br/>o şeffaflık abd'de, ingitere'de, fransa'da olur.<br/>ortadoğu ülkelerinde olmaz.her şey iyi bakana göre.<br/>peki o zaman neden 45 gün sonraya 2 sahra hastanesi yapılacak?<br/>yeter artık şundan bile siyaset yapan iktidarınızdan da, aktrollerinizden de gına geldi yeter.<br/><br/>sayın bakan siz her şey harika gibi konuşursanız, bu düzelen havalarda insanları evde tutamazsınız.giyotin gibi gerçekleri derseniz o zaman belki sonuca ulaşırsınız.<br/>trump ne dedi? 200 bin ölü iyi neticemiz olur dedi.kimse bu kadar vefat eden sayısı görmek istemez ama neden siz böyle konuşamıyorsunuz? durum ciddi evden çıkmayın demek zor mu? hep bir açık kapı bırakma var.sen bu halka sert konuşmazsan hafta sonu görürüm 22 derecede ben meydanları.açık ve net neden konuşmuyorsunuz bunun ayıbı yok!<br/><br/>not : boşuna küfür için mesaj yazmayın aktroller.mesajım kapalı!
   entry_channels: siyaset,bilim,sağlık,haber
 - entry_name: |
-    ted ankara koleji anaokulunun 73 bin 250 tl olması
-  entry_id:  104936894
-  entry_writer: faraday kafesindeki canli
-  entry_fav_count: 88
-  entry_content: |
-    73.250 tl'yi eylülden eylüle ödemek için 12 ay kredi çeken kişi faizi hariç aylık 6104 tl ödüyor. sıradan bir memurun bu parayı ödeyebilmesi için 8 saat bir yerde memurluk 8 saat diğer bir yerde memurluk günün kalan 8 saatini de farklı bir işte geçirmesi gerekiyor. <br/><br/>ted iyi eğitim veriyor olabilir. gidenlerin hepsinin babası milyoner olmuyor da olabilir ama kusura bakma da memur adam oraya bu fiyatlarla çocuk gönderemez.
-  entry_channels: haber,eğitim
-- entry_name: |
-    covid-19 hastası için immün plazma ihtiyacı
-  entry_id:  104939018
-  entry_writer: isimbulamadik
-  entry_fav_count: 86
-  entry_content: |
-    iletişim ve şartlar için;<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/40xaiu7d" title="https://soz.lk/i/40xaiu7d">görsel</a><br/><br/>edit:başlık için kusura bakmayın acele bir şekilde yazdım<br/><br/>arkadaşlar merhaba,<br/><br/>covid-19 hastası için yaklaşık 2 gündür twitter da konu hakkında paylaşım yapan arkadaşımız bu durum için destek beklemektedir.sizden ricam konuyu gündemde tutabilmek adına paylaşım yapmanız. durum artık cok acil umarım burdan birileri cıkar.<br/><br/>twitterdaki mesajlar şöyle;<br/><br/>5 nisan;<br/>'kuzenime covid-19 teşhisi kondu. 27 yaşında 1.90 boyunda neredeyse 100 kilo dağ gibi adam.hiçbir kronik rahatsızlığı yok.ama nedense çok ağır geçiriyor. ilk günler ateşi düşmedi, ilaçları hep kustu.en son öksürürken kan gelmeye başladı. yoğun bakıma aldılar. 2. gün entube ettiler'<br/><br/>///<br/>hala yoğun bakımda, vücudu bir türlü tedaviye cevap vermiyor. doktorlar, “iyileşmiş ve üzerinden 15 gün geçen eski bir covid-19 hastası gerekiyor” dediler. kanından aldıkları antikorla kök hücre nakli yapacaklarmış. lütfen bu kriterlere uyan biri varsa yardımcı olsun, lütfen<br/><br/>///<br/>istanbul’dayız,tedavisi burada yapılıyor.ancak eğer yardımcı olabilecek biri varsa ve şehir dışı onun için sorun olmayacaksa tüm imkanlarımızı seferber ederiz.getir götürür ne gerekirse yaparız.bakın daha çok genç,önünde bir sürü zaman var,hayalleri var. her şeyi yapmaya hazırız.<br/><br/>//<br/>7 nisanda konu hakkındaki son gelişme ;<br/><br/>arkadaşlar bulduğumuz iki bağışçının da testleri olumlu gelmedi. tedavisi bitmiş, iyileşmiş, üzerinden 14 gün geçmiş covid-19 hastalarına ihtiyacımız var. lütfen rica ediyorum mesajları görebilmem için sadece bağışçı olabilecekler yazsın. kuzenim için yeniden arayıştayız.<br/><br/>başlığın gündemde kalabilmesi için desteklerinizi rica ediyorum.<br/><br/>ayrıca paylaşım yapan hesap;<br/><br/>(bkz: <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/ceylanseverr">https://twitter.com/ceylanseverr</a>)<br/><br/>-gündemde tutmaya calisiyoruz, destek olan herkese teşekkür ederim<br/><br/>edit2 : bakanlığın bu süreci halletmesi durumunda buraya yazacağım zaten
-  entry_channels: anket,sağlık
-- entry_name: |
     ankara'nın yazılı olmayan kuralları
   entry_id:  104940604
   entry_writer: brad pittch
-  entry_fav_count: 70
+  entry_fav_count: 84
   entry_content: |
     tunalıya gitme planı yapıldığında aslında kastedilen yer tunus veya bestekardır.
   entry_channels: anket,seyahat
@@ -198,7 +206,7 @@ data:
     ekşi itiraf
   entry_id:  104892768
   entry_writer: cp3
-  entry_fav_count: 63
+  entry_fav_count: 66
   entry_content: |
     birkaç gün geç kaldım yazmak için ama yine de yazmak istiyorum.<br/><br/>entry'lerime daha önce rastlayan varsa bilir; acil serviste çalışıyorum ekimden beri. mezun olur olmaz acile atanıp mesleğe başladım. şehir değişikliği, arkadaşlardan ayrılık vs derken 6 senedir yaşadığım yerden kopup buraya geldim. bu sırada eylül ayındaki uzmanlık sınavından kötü olmayan ama daha iyisini yapabileceğime inandığım için tercih yapmadığım bir puan aldım.<br/><br/>atandığım yerde sınava çalışmaya devam edecektim. hem acile, hem de sınava çalışabilirim diye düşündüm ki bu pek çok kişiye göre çok zor bir şey. üstelik gittiğim yer de çok yoğundu, bu kadar yoğun olmasını hiç beklemiyordum. zaten türkiye'de hiçbir acilin koşulları pek iyi değilken bizim acilin yoğunluğu ortalama bir yerden çok daha fazlaydı.<br/><br/>bu süreçte beraber sınava hazırlanabilecek arkadaşlar edindim; beraber kütüphanede çalışmaya başladık. beni motive ettiler; normalde nöbet çıkışı doğrudan eve gider tüm gün uyurdum; onlar sayesinde kütüphaneye gidip ders çalıştım. arada kafamı masaya koyup uyudum tabii, o kadar olsun.<br/><br/>arada depresyona girdim, inanılmaz bir yoğunluk vardı çünkü; kaldırmak kolay değildi. ama sağolsun ailem ve yeni edindiğim çevrem de çok destek oldu. yapabileceğime tekrar inandım. şubat'taki sınavı kazanabilirdim.<br/><br/>ocak ayı geldi, hayatımın fiziksel anlamda en yıpratıcı ayıydı. sistemden kontrol ettim, nöbet başına 250 hasta bakmışım. bu yoğunlukta hiç uyumadan kütüphaneye gitmeye devam ettim. kazansam da, kazanamasam da elimden gelenin en iyisini yapmak istiyordum.<br/><br/>şubat'ta ise harika arkadaşlarım sayesinde az nöbet tuttum; ben sınava çalışayım diye onlar fazla nöbet aldı. böyle iyi arkadaşlar sayesinde de son düzlükte iyi çalıştım. <br/><br/>en sonunda, 2 gün önce sınavı kazandığımı, istediğim yere yerleştiğimi öğrendim. başardım!!! pes etmeden çalışmanın karşılığını aldım. :)<br/><br/>merak edenler için, ürolojiyi tercih ettim. birkaç hafta öncesine kadar başka bölümler istiyordum lakin içimdeki cerrahi bölüm isteği en sonunda kendini gösterdi. sonuç olarak çok mutluyum.<br/><br/>bu coronavirüs salgını bitene kadar acilde kalmaya devam edeceğim ancak içim çok rahat artık; geleceğim belli. çalışmam gereken bir sınav yok artık.<br/><br/>koşullar ne olursa olsun emek verdikçe karşılığını alırsınız. umarım sizler de hedeflerinize ulaşırken benim karşılaştığım iyi insanlar gibi insanlarla karşılaşırsınız. kendilerine sonsuz teşekkür ederim.<br/><br/>"durmamak üzere; yürümeye karar verenler asla ve asla yorulmazlar." mustafa kemal atatürk.
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -206,103 +214,87 @@ data:
     karizmatik ülke isimleri
   entry_id:  104927290
   entry_writer: ellaleo
-  entry_fav_count: 57
+  entry_fav_count: 60
   entry_content: |
     sierra leone
   entry_channels: anket,seyahat
 - entry_name: |
-    maske ve kolonya erdoğan'ın hediyesidir
-  entry_id:  104946308
-  entry_writer: mr biceps
-  entry_fav_count: 52
-  entry_content: |
-    maske ve kolonyanın parasını kendi cebinden mi vermiş?
-  entry_channels: siyaset,sağlık,haber,ekonomi
-- entry_name: |
     berat albayrak'ın rte'ye satranç takımı fırlatması
   entry_id:  104943987
   entry_writer: crdt
-  entry_fav_count: 43
+  entry_fav_count: 50
   entry_content: |
     <a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/01baba__yaga/status/1247198782028201984?s=12" title="https://twitter.com/01baba__yaga/status/1247198782028201984?s=12">https://twitter.com/…tatus/1247198782028201984?s=12</a>
   entry_channels: siyaset,haber,magazin
 - entry_name: |
-    fsm final kurs merkezi öğretmenlerine ses ver
-  entry_id:  104931944
-  entry_writer: examplee16
-  entry_fav_count: 39
+    ekrem imamoğlu
+  entry_id:  104914637
+  entry_writer: sailorbogazici
+  entry_fav_count: 41
   entry_content: |
-    ülke ve dünya olarak çok zor zamanlardan geçtiğimiz bir dönemde geçimini zar zor sağlayan, asgari ücrete karın tokluğuna çalışan ve çalışmak zorunda olan öğretmenlere bugün yapılan toplantıda aba altından sopa gösterilerek bir dilekçe imzalatılmıştır.<br/>mevcut şartlarda kurum içinde öğrencilere yönelik uzaktan eğitimler devam ederken müdürün"devlete ödenek için başvurduk ama bu ödenek henüz çıkmadı. veliler de ödeme yapmıyor. kayıt sildirme oluyor veya ödeme yapmıyor o yüzden sizden kesinti olacak bir dahaki ay için.sizin de anlayış göstermeniz gerekiyor" şeklinde bir açıklama yapmış.<br/>burda dikkat edilmesi gereken öğretim hala devam ederken olası maddi zararı neden öğretmenler üstleniyor ?<br/>imzalatılan dilekçe:"<br/>koronavirüs(covid-19) salgınını için ülkemizde alınan tedbirler neticesinde ilk ve orta dereceli öğretimde ve kurs merkezlerinde milli eğitim bakanlığınca öğretime ara verilmiştir. yüz yüze eğitime ne zaman başlanacağı bilinmemektedir.<br/>bu çerçevede kurumumuz ile yapmış olduğunuz sözleşmeyi askıya almak yerine, aylık 15 günlük ücret ödemesi yapmak ve kalan süreyi ücretsiz izin olarak kullanmanız şeklindeki uygulamayı hayata geçirmek istiyoruz.<br/>bu talebimiz ilişkin rızanızı aşağıda belirtmeniz rica ederiz. "<br/>bu dilekçeyi imzalayan öğretmen sayısı 20-25.<br/>bu başlığı açmanın sebebi hem öğretmenlerin mağduriyeti hem de velilerin çocuklarını emanet ettikleri iyi bir eğitim bekledikleri bu gibi yerlerde öğretmenlere nasıl muamele yapıldığının görülmesini sağlamaktır.<br/>bahsettiğimiz kurumun 900 e yakın öğrencisi bulunmaktadır. yaklaşık olarak da 20 25 öğretmeni bulunmaktadır. <br/>lütfen bu mağduriyete ses verin!<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://eksiup.com/p/4f366330cfru" title="https://eksiup.com/p/4f366330cfru">dilekçe</a><br/>`edit:`bazı arkadaşlar mesaj atmışlar hangi şube diye bursa fatih sultan mehmet şubesi arkadaşlar.<br/><br/>`edit2:`bir yazar arkadaş mesaj atmış aynen buraya taşıyorum. "merhaba <a class="b" href="/?q=final">final</a> okullarında öğretmenim. aynı şeyi <a class="b" href="/?q=tarabya">tarabya</a>, <a class="b" href="/?q=%c3%a7aml%c4%b1ca">çamlıca</a>, <a class="b" href="/?q=k%c3%a2%c4%9f%c4%b1thane">kâğıthane</a>, <a class="b" href="/?q=%c5%9fi%c5%9fli">şişli</a>, <a class="b" href="/?q=diyarbak%c4%b1r">diyarbakır</a> şubelerine de söylemişler. maaşının yarısi yatacak daha sonra kalanini alacaksınız, dendi fakat haziranda sozlesmelerimiz bitiyor. paranın bize ödeneceğine kesinlikle inanmıyoruz. bunu kabul etmediğimizi birkaç öğretmen söyledik. bize dönüş olacağı söylendi. dönüş henüz yapılmadı.bu arada çalıştığım final bir kolej. velilerin önümüzdeki sene kaydını yaptığı bir okul. bizde kayıt sildirme gibi bir durum da mevcut değil"<br/>`edit3:`öğrendiğim kadarıyla tüm final öğretim kurumlarında durum aynıymış moderasyon başlığı <a class="b" href="/?q=final+%c3%b6%c4%9fretim+kurumlar%c4%b1+%c3%b6%c4%9fretmenlerine+ses+ver">final öğretim kurumları öğretmenlerine ses ver</a> şeklinde düzeltirlerse sevinirim ya da uygunu neyse onu yapsınlar. <br/>edit4: bu olayları arkadaşımın ağzından anlattım kendisi yazar olmadığı için başlık açamıyor benden rica etti. bunu yazmayı unutmuşum kusura bakmayın.
-  entry_channels: siyaset,eğitim,ekonomi
+    devlete yön veren ibb başkanıdır.<br/><br/>- atatürk havalimanı geçici korona hastanesi olsun demiştir. bazıları tarafından bir kaç haftaya ancak idrak edilebildiği için yeni olmuştur.<br/><br/>- istanbul için giriş-çıkışlar kısıtlansın, gerekirse sokağa çıkmak kısıtlansın demiştir. yine jeton köşeli olarak haftalar sonra düşmüştür.<br/><br/>- daha 3 gün önce parayla maske satacak devlet, imamoğlu bedava maske dağıttığı için bir anda ne hikmetse maske olayına el atmıştır, satışı yasaklamıştır. 3 gün önce niye ucuza satacağız diye geziyordunuz madem diye sormak gerek.<br/><br/>- sağlık çalışanları için alternatif konaklama yerleri arayışına girmiş ve otellerle görüşmüştür. daha yeni sağlık bakanı sağlık çalışanlarını mağdur etmemek için çözüm arıyoruz diyor. adamın yaptığı şeyi daha yeni aramaya başlamışlar.<br/><br/>- zor durumda kalanlar için erzak/bağış olayına girmiştir. ne hikmetse kendisinden sonra bir anda ibanlar havada uçuşmaya başlamıştır. tabi bu durumun utancı devletten daha uzun süre çıkmaz. biri belediye, diğeri koskoca hazine yöneten devlet. ikisinin yardım isteği aynı değil.<br/><br/>kısacası mansur yavaş veya imamoğlu'nun yönettiği ülkede tedbirler erkenden alınacak ve belki hasta sayısı bu durumda olmayacaktı. hatta muhtemelen daha az insan bu şekilde maddi dertlere düşecekti.<br/><br/>çünkü bu adamlar haftalar önceden kendi güçleri yettiğince önlemler almaya çalıştılar. o sıralar hükümet mışıl mışıl uyuyordu. <br/><br/>çok söze gerek yok her şey ortada. bu ülkeyi kimlerin yönetmemesi, kimlerin de yönetmesi gerektiği apaçık ortada. yorum sizin<br/><br/>edit: peki bu iki adam böyle uğraşırken hükümet ne yapıyordu derseniz, konut faizleri ve patronların refahı için uğraşıyorlardı. halk diye bir kavram, bu 2 güzel adam müdahale etmeseydi muhtemelen hiç olmayacaktı, şimdi süper vadeli kredi filan çıkıyordu hala<br/><br/>şimdi izleyin kolonya veririz diyip gezinenler yakın zamanda dezenfektan olayına girecekler. çünkü ibb yakında bedava dezenfektan dağıtacak. yani imamoğlu sayesinde bu da gelecek bizlere. aksi durumda yalandan kolonya veririz diyip kestirilip atılacaktı olay
+  entry_channels: siyaset,tv,haber
 - entry_name: |
     ekşi sözlük 1.90 üstü erkekler kulübü
   entry_id:  104933491
   entry_writer: benibirazboylehatirla
-  entry_fav_count: 32
+  entry_fav_count: 34
   entry_content: |
     40 cm ile kaçırdığım kulüp :(
   entry_channels: anket,ekşi-sözlük
 - entry_name: |
-    la casa de papel
-  entry_id:  104899392
-  entry_writer: tambirleydii
-  entry_fav_count: 25
-  entry_content: |
-    dizi o kadar saçmaladı ki öyle böyle değil. <br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>5. sezonda profesör bu çatlak kadından nasıl kurtulacak hemen anlatayım. bu delinin malum karnı burnunda tam profesörü yakaladığı anda sancısı tutacak, suyu gelecek ve doğum başlayacak. profesör ona yardım edecek ve alicia da ekibe katılacak. dizinin gidişatına bakarsak bu absürd durumun senaryoya eklenmesi beni pek şaşırtmaz artık.<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
-  entry_channels: tv,spoiler
-- entry_name: |
-    sağlıkta şiddet yasasının reddedilmesi
-  entry_id:  104943633
-  entry_writer: unknowns
-  entry_fav_count: 21
-  entry_content: |
-    karaktere takılmayan başlık "sağlıkta şiddet yasasının akp ve mhp oylarıyla reddedilmesi" şeklinde olacaktı fakat bu şekliyle de kimin reddettiğini biliyorsunuz zaten. <br/><br/>bir kalabalık düşünün; hiçbir fikirleri yok, oraya oturtmuşlar, ne teklif gelirse red kaldırın demişler, görevlerini icra ediyorlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/draliseker/status/1247547638209286145" title="https://twitter.com/draliseker/status/1247547638209286145">video</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/saglikta-siddet-yasasi-akp-ve-mhpnin-oylariyla-tbmm-gundemine-alinmadi/" title="http://www.diken.com.tr/saglikta-siddet-yasasi-akp-ve-mhpnin-oylariyla-tbmm-gundemine-alinmadi/">kaynak</a>
-  entry_channels: siyaset,bilim,sağlık,haber,eğitim
-- entry_name: |
-    istanbul'da covid-19 vakalarının görüldüğü yerler
-  entry_id:  104943805
-  entry_writer: napipdurun
-  entry_fav_count: 21
-  entry_content: |
-    şunu daha anlaşılmaz yapsalardı da hiç anlamasaydık. gözüm kanadı.
-  entry_channels: sağlık,haber,seyahat
-- entry_name: |
-    sağlık bakanlığı verilerine inanmayan insan
-  entry_id:  104947202
-  entry_writer: nickson
-  entry_fav_count: 17
-  entry_content: |
-    akp, allah bir dese inanmam. nokta.
-  entry_channels: siyaset,anket,sağlık
-- entry_name: |
-    eskişehir'e yapılmak istenen ikinci siyanür havuzu
-  entry_id:  104942661
-  entry_writer: nunnajina
-  entry_fav_count: 17
-  entry_content: |
-    corona salgınından başımızı kaldıramadığımız şu günlerde birileri boş durmuyor and içmiş gibi doğaya saldırmaya devam ediyor! <br/><br/>eskişehir'in kaymaz mahallesinde bir süre önce tmsf yönetimine geçmiş olan <a class="b" href="/?q=koza+alt%c4%b1n">koza altın</a> işletmeciliği yıllar önce halkın direnişine rağmen çalışmaya başlamış ve bölgenin doğasını geri dönülemez şekilde tahrip etmişti. şimdi ise herkes evlerinde corona salgınından korunmaya çalışırken var olan siyanür havuzuna ek olarak kaymaz mahallesinin dibine ikinci bir siyanür havuzunun inşaatı için çed onayında son aşamaya gelinmiş durumda. askı süresi 10 gün ve muhtarlık vatandaşı toplayıp konu hakkında bilgilendiremiyor bile. <br/>incelemek isteyenler için <a rel="nofollow noopener" class="url" target="_blank" href="http://eced.csb.gov.tr/ced/jsp/dosya/dosyaGoster.htm?id=30896" title="http://eced.csb.gov.tr/ced/jsp/dosya/dosyaGoster.htm?id=30896">çed raporu</a><br/><br/>eskişehir ankara karayolunu kullanan pek çok kişi sivrihisar civarında ikinci bir kayalık bölgeyi görmüştür. işte o kayalık bölge dünyaca ünlü kaya tırmanış bahçesi aynı zamanda. her yıl sezonu açıldığında kaya tırmanışçıları bu bölgeye gelir, her yıl şenlik yapılır ve bölge insanı da bu şenlik ve sporcular sayesinde para kazanır. bölge aynı zamanda <a rel="nofollow noopener" class="url" target="_blank" href="http://eskisehirkulturenvanteri.gov.tr/sitdetay.aspx?ID=308" title="http://eskisehirkulturenvanteri.gov.tr/sitdetay.aspx?ID=308">1. derece doğal ve arkeolojik sit alanı</a>dır. frig bölgesindedir.<br/>ancak bu insanlar ne tarih dinliyor, ne doğa dinliyor ne de bölge insanının sağlığını düşünüyor. karakaya köyüne ulaşmak için şantiyenin içinden geçmeniz gerekiyor düşünün bu insanların halini!<br/><br/>aşağıda sizlere konu ile ilgili haberleri ve imza kampanyasını paylaşmak istiyorum, lütfen ses verin..<br/><br/>salgınların en büyük nedeninin katledilen doğa olduğunu anlayın artık. <br/>tüm bunlardan ders almadığımız sürece bu salgın bittiğinde yeni bir tanesinin başlamayacağının garantisi var mı? ya da tüm bunlar bittiğinde doğadan geriye ne kalacak?<br/><br/>kaynak:<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://yesilgazete.org/blog/2020/04/07/koza-altin-salgin-dinlemiyor-eskisehire-ikinci-siyanurlu-havuz-hazirligi/" title="https://yesilgazete.org/blog/2020/04/07/koza-altin-salgin-dinlemiyor-eskisehire-ikinci-siyanurlu-havuz-hazirligi/">https://yesilgazete.org/…siyanurlu-havuz-hazirligi/</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://t24.com.tr/haber/eskisehir-de-yasam-alanlarinin-yakinina-siyanurli-atik-deposu-insa-edilecek,871173" title="https://t24.com.tr/haber/eskisehir-de-yasam-alanlarinin-yakinina-siyanurli-atik-deposu-insa-edilecek,871173">https://t24.com.tr/…tik-deposu-insa-edilecek,871173</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/tmsfdeki-sirket-siyanur-havuzu-yapmak-icin-harekete-gecti-mahalle-ayaga-kalkti/" title="http://www.diken.com.tr/tmsfdeki-sirket-siyanur-havuzu-yapmak-icin-harekete-gecti-mahalle-ayaga-kalkti/">http://www.diken.com.tr/…ecti-mahalle-ayaga-kalkti/</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.sozcu.com.tr/2020/gundem/corona-virusu-bile-siyanurlu-altin-sevdasini-durduramadi-5730847/" title="https://www.sozcu.com.tr/2020/gundem/corona-virusu-bile-siyanurlu-altin-sevdasini-durduramadi-5730847/">https://www.sozcu.com.tr/…sini-durduramadi-5730847/</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://chng.it/Yhdc82qxLq" title="http://chng.it/Yhdc82qxLq">imza kampanyası</a>
-  entry_channels: siyaset,sağlık,haber
-- entry_name: |
     istanbul'un koronavirüs haritası
   entry_id:  104947356
   entry_writer: gezellig
-  entry_fav_count: 16
+  entry_fav_count: 25
   entry_content: |
     yerleşim olan yerlere denk gelmesiyle şaşırtmış haritadır. bir bit yeniği var gibi.
   entry_channels: sağlık
 - entry_name: |
-    amerika birleşik devletleri
-  entry_id:  104915824
-  entry_writer: hamzaciftranza
-  entry_fav_count: 14
+    sağlıkta şiddet yasasının reddedilmesi
+  entry_id:  104943633
+  entry_writer: unknowns
+  entry_fav_count: 24
   entry_content: |
-    <a class="b" href="/?q=amerika">amerika</a> abi ya, <a class="b" href="/?q=serbest+piyasa">serbest piyasa</a> abi ya, <a class="b" href="/?q=land+of+the+free+home+of+the+brave">land of the free home of the brave</a> abi ya falan filan ama yeter artik, su memleketin verimsiz saglik sistemini savunmak, kotu yanlarini elestirememek bu verimsizlikten cikar saglayan kan emicilerden biri degilseniz resmen dangalaklik. iki tane istatistik birakicam sadece.<br/><br/><a class="b" href="/?q=gayrisafi+milli+hasila">gayrisafi milli hasila</a>sina orantilandiginda toplam saglik harcamasi acik ara en yuksek olan ulkeyiz. wikipedia linkinde gozukuyor 1970'li yillarda amerika diger gelismis ulkelerle ayni seviyelerde harcama yaparken zaman icinde nasil belirgin sekilde ayristigi.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita" title="http://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita">ulkelere gore toplam saglik harcamalari</a> <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://data.oecd.org/healthres/health-spending.htm" title="http://data.oecd.org/healthres/health-spending.htm">oecd toplam saglik harcamasi</a><br/><br/>ikinci veri ortalama yasam suresi. wikipedia linkinde gorulecegi gibi amerika 38. sirada.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy" title="http://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy">ulkelere gore ortalama yasam suresi</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://data.oecd.org/healthstat/life-expectancy-at-birth.htm" title="http://data.oecd.org/healthstat/life-expectancy-at-birth.htm">oecd ortalama yasam suresi</a><br/><br/>kazancimiza oranla deli gibi parayi saglik sektorune aktariyoruz fakat karsiligini goremiyoruz, yine de ortalama yasam suremiz uzamiyor. <sup class="ab"><a title="(bkz: aksine 2014&#39;den 2017&#39;ye kadar dususte)" href="/?q=aksine+2014%27den+2017%27ye+kadar+dususte" data-query="aksine 2014&#39;den 2017&#39;ye kadar dususte">*</a></sup>nerede lan bu paralar? hadi simdi siktirin gidin.
-  entry_channels: siyaset,bilim,tarih,müzik,teknoloji,haber,eğitim,ekonomi,havacılık,seyahat
+    karaktere takılmayan başlık "sağlıkta şiddet yasasının akp ve mhp oylarıyla reddedilmesi" şeklinde olacaktı fakat bu şekliyle de kimin reddettiğini biliyorsunuz zaten. <br/><br/>bir kalabalık düşünün; hiçbir fikirleri yok, oraya oturtmuşlar, ne teklif gelirse red kaldırın demişler, görevlerini icra ediyorlar.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/draliseker/status/1247547638209286145" title="https://twitter.com/draliseker/status/1247547638209286145">video</a><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.diken.com.tr/saglikta-siddet-yasasi-akp-ve-mhpnin-oylariyla-tbmm-gundemine-alinmadi/" title="http://www.diken.com.tr/saglikta-siddet-yasasi-akp-ve-mhpnin-oylariyla-tbmm-gundemine-alinmadi/">kaynak</a>
+  entry_channels: siyaset,bilim,sağlık,haber,eğitim
+- entry_name: |
+    7 nisan 2020 entry'lere görsel eklenmesi
+  entry_id:  104912159
+  entry_writer: galdorisilra
+  entry_fav_count: 23
+  entry_content: |
+    olması gereken eksiklikti. ekşi sözlüğün adını kullanan belli başlı siteler bir çok kullanıcının hesaplarını çalmıştı. şu durumdan bile memnun olmayan memnuniyetsizler var. zaten bir çok entry’nize çeşitli sitelerden görsel yüklüyorsunuz ve insanlar bu özelliği direkt sözlük bünyesine almış. darısı uygulamanın güncellenmesine. <br/><br/>“<a class="b" href="/?q=s%c3%b6zl%c3%bc%c4%9f%c3%bcn+de+bohu+%c3%a7%c4%b1ht%c4%b1">sözlüğün de bohu çıhtı</a>.”<br/>“<a class="b" href="/?q=siteyi+instahrama+%c3%a7evirdiniz.">siteyi instahrama çevirdiniz.</a>”<br/>“<a class="b" href="/?q=buras%c4%b1+da+forum+oldu+yah.">burası da forum oldu yah.</a>”<br/><br/>hayatınızda hiç elinize sözlük veya ansiklopedi alıp okumadınız mı? bir çoğunda görsel olur. sitenin herhangi bir foruma veya instagram’a dönüştüğü yok. boku da bu sebeple çıkmadı/çıkmaz. yapacağınız tek şey; bunca zaman bizleri saçma sapan sitelere mahkum eden yönetime önce sitem etmek, sonra da; geç olsa bile getirdiği için teşekkür etmek. <br/><br/>gerçekten <a class="b" href="/?q=ek%c5%9fi+s%c3%b6zl%c3%bck+hi%c3%a7bir+siki+be%c4%9fenmeme+timi">ekşi sözlük hiçbir siki beğenmeme timi</a>ne bir şey beğendirilemiyor. ötede beğenmeyin, hadi abisi.
+  entry_channels: ekşi-sözlük,programlama,teknoloji
+- entry_name: |
+    sağlık bakanlığı verilerine inanmayan insan
+  entry_id:  104947202
+  entry_writer: nickson
+  entry_fav_count: 18
+  entry_content: |
+    akp, allah bir dese inanmam. nokta.
+  entry_channels: siyaset,anket,sağlık
+- entry_name: |
+    7 nisan 2020 sağlıkta şiddet yasası
+  entry_id:  104949252
+  entry_writer: gnd
+  entry_fav_count: 17
+  entry_content: |
+    gündeme alınması önerisi akp ve mhp milletvekillerince bugün reddedilmiş olan yasa. alkışa devam ama.
+  entry_channels: sağlık,haber
+- entry_name: |
+    en iyi cips
+  entry_id:  104942925
+  entry_writer: eksicikiz13
+  entry_fav_count: 15
+  entry_content: |
+    cipso deniz tuzlu sade patates cipsi. tek geçerim.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     7 nisan 2020 fransa'da covid-19'dan 1427 ölüm
   entry_id:  104945074
   entry_writer: chopra
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     neden birden böyle fırladı.<br/><br/>haberde görüleceği üzere bunlar huzurevlerinden ve mediko kuruluşlardan gelen geç bilgilerden kaynaklı.<br/><br/>bugünkü ölüm sayısı 597 normalde.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.lemonde.fr/planete/live/2020/04/07/coronavirus-en-direct-1-150-morts-supplementaires-en-24-heures-aux-etats-unis_6035782_3244.html" title="https://www.lemonde.fr/planete/live/2020/04/07/coronavirus-en-direct-1-150-morts-supplementaires-en-24-heures-aux-etats-unis_6035782_3244.html">https://www.lemonde.fr/…tats-unis_6035782_3244.html</a>
   entry_channels: sağlık,haber
@@ -310,31 +302,31 @@ data:
     harry potter vs the lord of the rings
   entry_id:  104938042
   entry_writer: benazirbuttonuntuhafhikayesi
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     harry potter’ın villain karakteri voldemort. yüzüklerin efendisi’ninki ise sauron. <br/><br/>voldemort büyü taktiklerine çok hakim. kara büyüler konusunda uzman. ruhunu parçalara bölüp o parçalar var oldukça yaşayabiliyor. küçükken odasında yangın çıkarabiliyor. ne alaka bilemedim ama seriye çok hakim olmadığımdan detay atlayayım istemedim.<br/><br/>sauron ise daha çok karizmatik lider tanımına uyuyor. sıralamada balrog ve ejderhalardan bir tık üstte kalıyor. sauron’u sauron yapan güç yüzüğü. bu yönden voldemort’a benziyor. güç yüzüğü yoksa sauron çene ve gözden ibaret.<br/><br/>bunlar bilinen gerçekler. bir de işin film ötesi boyutu var. sauron bir maia. şekil değiştirebiliyor, şeytani planlar konusunda uzman. nice yiğit elf krallarını hediyelerle kandırıp sinsi planlarla birbirine düşürmüş bir şahıs kendisi. voldemort ise pür kötü. iyilikten kötülüğe ulaşma gibi bir becerisi yok. üstelik biraz da salak. snape bile kandırdı safımı. sauron olsa kanar mıydı peh. çoktan uruk hailerine beyran çorbası yaptırıp içirirdi snape’i.<br/><br/>velhasıl kelam voldemort, sauron’un ancak getir götürünü yapar. o da witch king ve saruman’dan sıra gelirse.<br/><br/>bir de diğer tarafa bakalım. harry potter, ron, harmony ve arkadaşları vs. gandalf, aragorn, legolas, gimli, boromir, elrond, nice elf yiğitleri ve müşkülpesent hobbitler. bu kıyası yapmak insan zekasına hakaret. zira bir tarafta legolas reisin elf gözleri varken diğer tarafta harry’nin miyop gözleri. bir tarafta ron’un sakat hal ve davranışları, diğer tarafta ölülere hükmeden kral aragorn. bir tarafta gölü şahlandıran bilge elrond’un kızı arwen, diğer tarafta yeni yetme harmony.<br/><br/>görüleceği üzere yüzüklerin efendisi serisi karakterlerin gücü, becerisi ve yıkıcılığı açısından harry potter’ın on gömlek üstü. <br/><br/>kimse bana dumbledor demesin canını yakarım. yan karakterleri adam yerine koyacaksak madem, melkor, valar, fingolfin, feanor tek tek sabaha kadar sayarım ağlarsınız.<br/><br/>edit: gerçekleri görebilen bir arkadaşımız frodo’yu kurtaranın glorfindel, nehri şahlandıranın da ayrıkvadi elfleriyle gandalf olduğunu açıkladı. sağ olsun.
   entry_channels: anket,sinema,edebiyat,oyun
 - entry_name: |
-    en iyi cips
-  entry_id:  104942925
-  entry_writer: eksicikiz13
-  entry_fav_count: 9
+    sözlükçülerin ilk aşklarının adları
+  entry_id:  104895615
+  entry_writer: william wilson
+  entry_fav_count: 10
   entry_content: |
-    cipso deniz tuzlu sade patates cipsi. tek geçerim.
-  entry_channels: anket,yeme-içme
+    (bkz: <a class="b" href="/?q=kad%c4%b1n+san%c4%b1lan+s%c3%b6zl%c3%bck%c3%a7%c3%bcn%c3%bcn+ibne+%c3%a7%c4%b1kmas%c4%b1">kadın sanılan sözlükçünün ibne çıkması</a>)
+  entry_channels: anket,ilişkiler
 - entry_name: |
-    inançlı insanların ölüme üzülme paradoksu
-  entry_id:  104945688
-  entry_writer: deephallow
-  entry_fav_count: 5
+    bütün evi ikea'dan döşemek
+  entry_id:  104947665
+  entry_writer: net olmak lazim
+  entry_fav_count: 10
   entry_content: |
-    <a class="b" href="/?q=%c3%b6l%c3%bcm+allah%27%c4%b1n+emri+de+%c5%9fu+ayr%c4%b1l%c4%b1k+olmasayd%c4%b1">ölüm allah'ın emri de şu ayrılık olmasaydı</a> diye bir türkü vardır. kısa ve öz anlatır insanların niye üzüldüğünü.
-  entry_channels: 
+    eşim devlet memuru ben iç mimarım. evimizin çoğu eşyası ikea. mimarım diye her şeyi özel yaptırmadım. bundan da hiç utanmıyorum. <br/><br/>şu anda 3 sene oldu. 1 kez taşındık. mobilyaları ilk sefer birader kurdu, bi sefer nakliyeciler kurdu. herhangi bir yerinde dağılması olmadı çok şükür. hiçbir şikayetimiz yok. yani eğer iskandinav tarzını ve sadeliğini benimseyeceğinizi düşünüyorsanız hiç beklemeyin alın. haa sağda solda metal çerçeveli altınlı mermer tablalı mobilyaları görürsünüz, gözünüz kalır onu bilemem. ama şunu söyleyeyim; ikea kalitesiz dağılıyor diye sağda solda gezenler niçin atıp tutuyor anlamadım. ne ekersen onu biçersin. malzemenin ne olduğu üstünde yazıyor? alma arkadaşım. adam gerçek ağaçta satıyor, sunta da, sıkıştırılmış kağıt da. ne satın alıyorsan onu bekleyeceksin.
+  entry_channels: moda,ekonomi
 - entry_name: |
     mesajlaşılan kızın bir anda mesajlaşmayı kesmesi
   entry_id:  104946849
   entry_writer: oyledusunmuyorum
-  entry_fav_count: 3
+  entry_fav_count: 5
   entry_content: |
     konuyu karşı tarafa veya üçüncü bir kişiye bağlamak zorunda değilsiniz. <br/>maddi/manevi ayrımına girmeksizin, keyif veremiyorsunuzdur. eksik olan bir şeyleriniz dikkatini çekmiştir. <br/><br/>eğer bunu tek tük yaşıyorsanız sorun yok, bu karşı tarafa özgü bir durum olabilir. sık yaşıyorsanız kusura bakmayın ancak eksiklik sizdedir.
   entry_channels: anket,ilişkiler
@@ -342,26 +334,42 @@ data:
     beni aldatacağını düşündüğüm için seni aldattım
   entry_id:  104947302
   entry_writer: fuzzy olmak istemistim
-  entry_fav_count: 3
+  entry_fav_count: 4
   entry_content: |
     çok acayip bi’ cümle. proaktif insan eylemi. ileri görüşlülük örneği.<br/><br/>biri size bunu derse takdir edin, elini sıkın.
   entry_channels: ilişkiler
 - entry_name: |
-    şu an okunan kitap
-  entry_id:  104936400
-  entry_writer: important14
-  entry_fav_count: 2
+    1 aydır kuaföre gidememek
+  entry_id:  104949206
+  entry_writer: yeakyaa
+  entry_fav_count: 3
   entry_content: |
-    dostoyevski - beyaz geceler. harika bir kitap. okunmalı, okutulmalı.
-  entry_channels: anket,sanat,tarih,edebiyat,eğitim,spoiler
+    belki yılda bir bilemedin iki defa gittiğim için beni hiç etkilemeyen durum. bakımlı olmak sadece kuaföre giderek olunabilecek bi şey değil kendimi bildim bileli kuaföre gittiğimde bi huzursuz oluyorum beni iyi hissettirmiyo o ortam.
+  entry_channels: moda
 - entry_name: |
     çocuk yaşta izlenmiş travmatik diziler ve filmler
   entry_id:  104945698
   entry_writer: fct
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     (bkz: <a class="b" href="/?q=it">it</a>) <br/>(bkz: <a class="b" href="/?q=%c5%9feker+k%c4%b1z+candy">şeker kız candy</a>) <br/><br/>bir de <a class="b" href="/?q=show+tv">show tv</a> de hafta içi akşamüzeri yayınlanan bir korku dizisi vardı. genelde şu <a class="b" href="/?q=vantrilok">vantrilok</a> ların konuşturduğu korkunçlu <a class="b" href="/?q=kukla">kukla</a> lar, geceleri bahcede canlanan cüce heykelleri vs. gibi konuları işlerdi. bir zaman sonra yasaklatilmis, yayindan kaldırılmıştı yanlış hatirlamiyorsam. dizinin adını bilen var mi? sene 97 olabilir o civarlar ya da. buyuk travma sebebidir (bkz: <a class="b" href="/?q=porselen+bebek">porselen bebek</a>) lerden korkmak mesela. hala tirsarim.<br/><br/>edit: @kreatin yeşillendirdi sağolsun, (bkz: <a class="b" href="/?q=goosebumps">goosebumps</a>) muş. belki izlerim bir ara tekrar <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: anket,tv,sinema,spoiler
+- entry_name: |
+    quentin tarantino karantinaya alınsa olabilecekler
+  entry_id:  104948734
+  entry_writer: nickson
+  entry_fav_count: 2
+  entry_content: |
+    (bkz: <a class="b" href="/?q=a%c3%a7aca%c4%9f%c4%b1n+ba%c5%9fl%c4%b1%c4%9f%c4%b1+sikeyim">açacağın başlığı sikeyim</a>)<br/><br/>(bkz: <a class="b" href="/?q=s%c3%b6zl%c3%bck+ne+hale+geldi">sözlük ne hale geldi</a>)<br/><br/>(bkz: <a class="b" href="/?q=mutlu+musun+kanzuk">mutlu musun kanzuk</a>)<br/><br/>işte geldim, buradayım.
+  entry_channels: anket
+- entry_name: |
+    hekimoğlu (dizi)
+  entry_id:  104946859
+  entry_writer: furkan1864
+  entry_fav_count: 1
+  entry_content: |
+    hahaha hekimoğlu'nun rüyasına patladım<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: tv
 - entry_name: |
     game of thrones'un tek cümlelik özeti
   entry_id:  104949680
@@ -371,6 +379,14 @@ data:
     kız evinde düğün yapmayacaksın.
   entry_channels: anket,tv,spoiler
 - entry_name: |
+    türkiye'de eksik olan en temel şeyler
+  entry_id:  104950243
+  entry_writer: weerstand
+  entry_fav_count: 0
+  entry_content: |
+    fransiz devrimi ! (dinden kurtulmadan hiç bir sey beklemeyin)
+  entry_channels: siyaset,anket
+- entry_name: |
     gamze
   entry_id:  104928642
   entry_writer: carriebradshaw
@@ -378,22 +394,6 @@ data:
   entry_content: |
     herkese yakışan deformasyon.<br/><br/>buraya kadar ilginç olan bir şey yok; ilginç olan benim işaret parmağımı gamze çukuruna sokmaya bayılıyor olmam.<br/><br/>sürekli yaparım, sırf yapmak için güldürdüğüm de olur.
   entry_channels: sağlık
-- entry_name: |
-    file çorap giyince soğan çuvalına dönen kadın
-  entry_id:  104946679
-  entry_writer: angry engineer
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=a%c4%9flar%c4%b1+deldim+tek+ba%c5%9f%c4%b1ma">ağları deldim tek başıma</a>)
-  entry_channels: moda
-- entry_name: |
-    atnalı yengeci yemeği yapan uzakdoğulu abla
-  entry_id:  104947905
-  entry_writer: apilupilu
-  entry_fav_count: 0
-  entry_content: |
-    pokemon değil miydi o?<br/>edit: kabutoymuş adı. bilgilendirme için teşekkürler.
-  entry_channels: yeme-içme
 - entry_name: |
     2020 yılı bir insan olsaydı kim olurdu sorunsalı
   entry_id:  104948905
