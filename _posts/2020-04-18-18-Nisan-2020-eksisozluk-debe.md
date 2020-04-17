@@ -6,7 +6,7 @@ data:
     oyun oynamayıp oynayanın videosunu izleyen nesil
   entry_id:  105556800
   entry_writer: hobbit koylu
-  entry_fav_count: 853
+  entry_fav_count: 858
   entry_content: |
     oyun oynaması gereken ekipmanların fahiş fiyatlara satılmasından dolayı hevesini izleyerek gidermek zorunda olan nesildir.<br/><br/>empatiden yoksun bireyleri rahatsız edebilirler.
   entry_channels: oyun,teknoloji
@@ -14,7 +14,7 @@ data:
     aylık 258 liraya boğazda arazi kiralamak
   entry_id:  105545471
   entry_writer: maskeli balonun maskesizi
-  entry_fav_count: 789
+  entry_fav_count: 792
   entry_content: |
     cumhurbaşkanlığı iletişim başkanı olan <a class="b" href="/?q=fahrettin+altun">fahrettin altun</a>' un <a class="b" href="/?q=kuzguncuk">kuzguncuk</a>' ta vakıflara ait olan araziyi kiralaması olayı. <br/>8 nisan 2020 de gerçekleşen ihalede arsa için en yüksek teklifi vermiş. 10 yıl için 31.000 tl ile.<br/>hayırlı uğurlu olsun. selam ve dua ile.<br/><br/>kaynak: <a rel="nofollow noopener" class="url" target="_blank" href="https://gazetemanifesto.com/2020/fahrettin-altun-vakiflara-ait-araziyi-aylik-258-liraya-kiralamis-348688/amp/#click=https://t.co/Uva9ukRA93" title="https://gazetemanifesto.com/2020/fahrettin-altun-vakiflara-ait-araziyi-aylik-258-liraya-kiralamis-348688/amp/#click=https://t.co/Uva9ukRA93">https://gazetemanifesto.com/…ttps://t.co/uva9ukra93</a>
   entry_channels: siyaset,haber,ekonomi
@@ -22,7 +22,7 @@ data:
     ercüment ovalı
   entry_id:  105529728
   entry_writer: kindaasshole
-  entry_fav_count: 755
+  entry_fav_count: 762
   entry_content: |
     son tweeti kendininin aslında neden bir biliminsanı (!) olmadığını ve olamayacağını sanırım cümle aleme göstermiştir<br/><br/>kardeşim varsa bir sonucun bunun verilerini hazırlar ve yayına gönderirsin, veya en azından medarxiv bioarxiv gibi preprint serverlara yüklersin ki hem bu konuda uzman olanlar, deneyimli olanlar değerlendirsin hem de insanlıkla paylaşmış olursun. tweetle, hele hele bir tane bile veri koymadan "labda çok etkili olduğunu gördük hemen denensin" diye kamillik yapmazsın. bırak ciddi bir biliminsanını herhangi bir lisansüstü eğitim almış biri bile yapmaz böyle birşey herhalde. hadi çok önemli bir buluş çok acil desen bile eskiden yayın süreci aylar sürerdi fakat salgın nedeniyle zaten artık bu konudaki bilimsel yayınlar sadece birkaç gün içinde bile kabul edilip yayınlanıyor. yani bu da bir mazeret değil. <br/><br/>laboratuvardaki in vitro çalışmalar neredeyse hiç bir zaman in vivo'da eşdeğer başarılı sonuçlar vermez. hayvan deneylerinde bile... bu gene sağlık sektöründe olan herhangi bir yüksek lisans öğrencisinin bile bileceği bir şeydir. laboratuvarda "gözlemlediği" bir şeyi potansiyel tedavi diye sunmadan önce insanların öncesinde bir dilini ısırmasının sebebi bu. <br/><br/>hayvan deneyleri bile olmadan direkt klinik çalışmalara geçilsin diyor kahramanımız.... gq yılın biliminsanımız... bu durum öncesinde ercüment şaklabanını durdurdu mu ki şimdi durdursun?.. hiçbir etik hiçbir bilimsel yaklaşım olmadan "denediği" tedavilerle bugüne kadar öldürdüğü insanlara onlarcası daha eklensin. ne olacak ki, bu ülkede insan hayatı ne kadar önemli ki zaten. yeter ki paşamız prim yapsın. <br/><br/>hadi gene işin aciliyeti nedeniyle hayvan deneylerini de es geçelim. dünyada şu anda onlarcası çok potansiyel, yüzlerce ilaç covid-19 için deneniyor ve bu süreçlerden geçiyorken ercüment paşamızın gönlü olsun diye <a class="b" href="/?q=bir+kere+daha">bir kere daha</a> bu süreci atlayalım, ama gene en başa geliyoruz. nerede ulan bunun datası!!! bir tweetle mi insanların üzerinde deneylere başlayacağız? pardon deney demişim, insanlar üzerinde deney yapmak kanunen yasak, o yüzden ercüment'in bu güne kadar bu tür suçlardan kurtulmak için mahkeme savunmasında kullandığı "insanlar üzerinde deney değil, deneme yaptım" diyelim.<br/><br/>ha tabi bilimsel yöntemle etkinliği kanıtlanmış olmasa bile böyle şak diye etken madde, ilaç ismini kurtarıcı olarak açıklamak, insanları eczanelere akın akın gönderip bu ilacı yağmalamasına yol açacak, kistik fibroz hastalarının kullandığı bu ilacı gerçek ihtiyacı olan hastaların erişememesine neden olacak. bunu sanki daha önce kinin ve sumak için yaşamadık! evet, sırf şırnak'ta birisi rüyasında peygamberi görüp covid-19 için sumak iyi geliyormuş dediği için marketlerdeki sumakların yağmalandığı, içinde kinin var diye schwepps toniklerin yağmalandığı bir ülkede, kistik fibroz hastaları için önemli bir ilacın ismini twitterdan verip gazetelere manşet olmak yani nerden baksan dangalaklık.<br/><br/>edit: arkadaşlar, bir ilacın kullanımı için geçmesi gereken süreçleri genel olarak yazdığım bu entryde, ercüment'in dornaz alfa önerisinin kullanımı ile ilgili biraz daha bilgi vermem gerekiyor, çünkü o bilgiler bu entryi yazarken elimde yoktu. herhangi bir ilacı ister yeni bulun, isterse var olan bir ilacı başka hastalıkta etkin olarak kullanmak isteyin geçmesi gereken aşamalar sabittir. önce laboratuvar deneyleri, sonra hayvan deneyleri, sonra da klinik faz denemeler. eğer insanlarda bir hastalıkta kullanılan bir ilaç bir başka hastalık için kullanılacaksa gene bu aşamalardan geçer. tek farkı duruma göre bazı klinik faz çalışmaları birleştirilir ve/veya daha az hasta ile gerçekleştirilir. örneğin piyasadaki bir diyabet ilacını alzheimer semptomlarını yavaşlatmak için kulanacaksanız önce laboratuvarda hücreler üzerinde çalıştığını, sonra hayvan modelleri üzerinde etkili olduğunu gösterip klinik faz çalışmalarına geçersiniz. bu faz çalışmaları da dediğim gibi birleştirilerek ve daha az hasta üzerinde denenerek tamamlanır. ama kimse laboratuvar ve hayvan modellerinde etkinliği gösterilmeden, piyasada olan bir ilacı ya elimizde bu ilaç var bunu bir de şu hastalıkta da bir deneyelim diyemez. bu bilgi bir kenarda dursun. ercüment'in covid-19 hastalarında kullanılmasını önerdiği dornaz alfa'da durum biraz daha değişik. ercüment'in bu müthiş buluşu olan ilaç iki hastalıkta da aynı semptoma aynı etki mekanizmasına yönelik. yani grip oldunuz, ateşiniz çıktı ateşinizi düşürmek için parasetamol veriliyor. hafif semptomlarla ilerleyen covid-19 oldunuz ateşiniz çıktı gene ateşinizi düşürmek için parasetamol veriliyor. dornaz alfa da benzer şekilde bir mekanizmaya sahip. çok basitçe anlatırsam kistik fibroz hastalarında akciğerlerinde biriken mukus'un biraz daha yoğunmuş (çünkü içerisinde yoğun bir dna varmış), bu mukusun yoğunluğunun çözülüp hastanın biraz daha rahat nefes almasını sağlayan bir <a rel="nofollow noopener" class="url" target="_blank" href="https://www.toraks.org.tr/uploadFiles/book/file/217201114127-6164.pdf" title="https://www.toraks.org.tr/uploadFiles/book/file/217201114127-6164.pdf">ilaçmış.</a> ercüment'te covid-19 hastalığında benzer şekilde hastaların solunumunu rahatlatması için önermiş (galiba?). gene kesin konuşamıyorum çünkü ercüment bu muhteşem(!) keşfini herhangi bir biliminsanı gibi veriyle değil de tweetle kamuoyuna aktardığı için ne kastettiğini bilmek çok mümkün değil. bu durumda bu durumda aynı ateş düşürücü örneğinde verdiğim gibi hayvan deneyleri yapmaya gerek kalmaz. ama zaten öyle bir şeyde bu buluş bile değil. neyse... ha yok eğer bizim tahminimizden çok farklı bir etkisini araştırıp bulduysa, gene geçmesi gereken süreçler yukarıdaki gibidir. pr için tweetle açıklanmaz, halk galeyana getirilmez. yani her ihtimalde nereden tutsan elinde kalan bir davranış. tam ercüment ovalı'ya göre.<br/><br/>bu arada şunu da ekleyeyim burada kendisini övenlerin tek gerekçesi ercüment'in devamlı eren bülbül'e, atatürk'e, türklüğe vs. atıf yapması. açıkçası böyle bir insanın bu isimleri ağzına alması bırakın beni gururlandırmayı, aksine rahatsız eder, ediyor da. atatürk gerçekten onun izinden giden, onun yaptıklarını özümsemiş insanların ağzına, profillerine daha çok yakışıyor. yoksa fetöcü hakan şükür de utanmadan geçenlerde atam'ın fotoğrafını kullanıyordu son zamanlarda... ama tabi siz bilirsiniz..
   entry_channels: bilim,sağlık,haber
@@ -30,7 +30,7 @@ data:
     kediyi sev danayı ye
   entry_id:  105534297
   entry_writer: maximillian
-  entry_fav_count: 699
+  entry_fav_count: 709
   entry_content: |
     (bkz: <a class="b" href="/?q=laleyi+sev+%c4%b1spana%c4%9f%c4%b1+ye">laleyi sev ıspanağı ye</a>)
   entry_channels: yeme-içme
@@ -38,23 +38,23 @@ data:
     fahrettin koca'nın ercüment ovalı'yı eleştirmesi
   entry_id:  105565229
   entry_writer: origamisever
-  entry_fav_count: 594
+  entry_fav_count: 604
   entry_content: |
     gayet haklıdır. daha resmi bir açıklama yapılmamışken, onaylanmamışken, kabul görmemişken herkesin hemen gaza gelebildiği, her şeye inanma potansiyeline sahip olduğu sosyal medya gibi bir ortamda böyle bir açıklama yapmak hiç profesyonelce değildir.
   entry_channels: siyaset
 - entry_name: |
     türkiye'ye dönme bedelinin 222 pound olması
-  entry_id:  105563877
-  entry_writer: sanmaki sana
-  entry_fav_count: 360
+  entry_id:  105563849
+  entry_writer: fraier
+  entry_fav_count: 397
   entry_content: |
-    londraya giderken bize mi sordun ki donerken bize soruyorsun?
+    bedavaya mi gelmek istemistiniz? thy sizin yol paranizi cebinden mi odesin, ayrica neden odesin? <br/><br/>krizi firsata cevirmeye mi caliyorsunuz olay nedir anlayamadim.
   entry_channels: haber
 - entry_name: |
     lazanyanın türkiye'de tutmamasının nedeni
   entry_id:  105573464
   entry_writer: muradsahinoglu
-  entry_fav_count: 222
+  entry_fav_count: 252
   entry_content: |
     eskiden lazanyayı balık sanıyordum.
   entry_channels: anket,yeme-içme
@@ -62,7 +62,7 @@ data:
     izmir'in maske sorununu otomatla çözmesi
   entry_id:  105562907
   entry_writer: corsairsgold35
-  entry_fav_count: 191
+  entry_fav_count: 196
   entry_content: |
     akp yönetimi bu uygulamayı da baltalamaya çalışırsa şaşırmam.<br/><br/>t: faydalı bir uygulamadır.
   entry_channels: siyaset,teknoloji,sağlık,haber
@@ -70,7 +70,7 @@ data:
     duş alıp temiz nevresim serilmiş yatağa yatmak
   entry_id:  105570797
   entry_writer: dobbythehouseelf
-  entry_fav_count: 152
+  entry_fav_count: 171
   entry_content: |
     geriye sadece tertemiz pijamalarınızla, cenin şeklini alarak uyumak kalır. <br/><br/>dünyanın en huzur verici şeylerinden biridir hele ki stressiz, endişesiz bir gün geçirdiyseniz...
   entry_channels: sağlık
@@ -78,7 +78,7 @@ data:
     16 nisan 2020 ücretsiz izin yasa tasarısı
   entry_id:  105569176
   entry_writer: berkalettin
-  entry_fav_count: 124
+  entry_fav_count: 143
   entry_content: |
     daha önce yazmıştım. tekrar yazayım.<br/><br/>1) işten çıkaracağın elemanı ücretsiz izne yolluyorsun.<br/>2) işten çıkarmadığın için, tazminat ödememiş oluyorsun.<br/>3) ücretsiz izne gönderilen kişi işsizlik maaşı yerine işsizlik maaşından kesilmek üzere günlük 39 tl alıyor. işten çıkarılsaydı asgari ücretten fazla alıyorsa bu paradan daha fazla alacaktı.<br/>4) işveren işten çıkarmadığı için istediği zaman gel diyebilecek. eğer siz gitmezseniz kendi sözleşmenizi fesih etmiş olacaksınız. doğal olarak tazminat alamayacaksınız. dolayısıyla iş aramanızın da önüne geçilmiş oluyor. hatta sözleşmeyi siz fesih ettiğiniz için işsizlik maaşı dahi alamayacaksınız. (tasarıda işçi de istifa edemez diye değiştirilmiş. yani boynunuzu eğip 3 ay kovulacak mısınız kovulmayacak mısınız onu bekleyeceksiniz. para alamıyorum o zaman başka yerde çalışayım deme hakkınız yok)<br/>5) işveren işten çıkarmadığı için işler düzelince yeni personel aramak zorunda kalmayacak.<br/>6) işsizlik rakamları artmayacak.<br/>7) kısa çalışma ödeneği böylece hikaye olacak.<br/>8) işten çıkarmayacak firmaları bile ücretsiz izne çıkarmaya teşvik ediyorsun.<br/><br/>kime yaradığını anlamadığım tasarı.
   entry_channels: siyaset,haber,ekonomi
@@ -86,7 +86,7 @@ data:
     tayyip erdoğan'ın başarısının sırrı
   entry_id:  105533791
   entry_writer: supersantorelli
-  entry_fav_count: 114
+  entry_fav_count: 121
   entry_content: |
     fetö bunu başımıza bela etti, ediş o ediş..
   entry_channels: siyaset
@@ -99,18 +99,10 @@ data:
     bakan erken açıklayarak ekşideki favori köpeklerini terse yatırdı. daha hazırlıklı olmanız lazım bu kadar geç başlık açılmaz.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: sağlık,haber
 - entry_name: |
-    maskenin 11 gündür gelmemesi
-  entry_id:  105545406
-  entry_writer: gelgelsarisinimsagyapgel
-  entry_fav_count: 105
-  entry_content: |
-    6 nisan'da pttavm,<br/><br/>garantiye almak için <br/><br/>7 nisan'da edevlet üzerinden de verdim. <br/><br/>her hafta beş adet alma hakkı verildiği için <br/><br/>14 nisan'da edevlet üzerinden ikinci siparişi verdim. <br/><br/>ne sms geldi. ne eve maske bırakan oldu. <br/><br/>toplam maliyeti 0,15 kuruş olan maske 2020 nisan ayında hala elime geçmedi. <br/><br/>evde bir tane maske bile yok. yarın sokağa çıkma yasağı var ve ben gün içinde marketten alışveriş yapmak durumundayım. <br/><br/>eczaneden bir tane istesem büyük ihtimalle kod olmadığı için maske vermeyecekler. <br/><br/>ya da yok diyecekler. <br/><br/>korona virüs tehlikesi geçince elime geçer diye bekliyorum. <br/><br/>markete yüzüme fanilayı geçirerek gideceğim. <br/><br/>bu da onların utancı olsun.
-  entry_channels: sağlık
-- entry_name: |
     pelikan yeşil silgi
   entry_id:  105566669
   entry_writer: limonluhosbes
-  entry_fav_count: 99
+  entry_fav_count: 104
   entry_content: |
     bu başlığa entry girerken bile yazdıklarım karardı entry sayfası yırtıldı,o derece lanet bi silgi.
   entry_channels: eğitim
@@ -118,7 +110,7 @@ data:
     16 nisan 2020 londra türkiye tahliye rezaleti
   entry_id:  105564976
   entry_writer: hayatimi degistiriyorum
-  entry_fav_count: 90
+  entry_fav_count: 99
   entry_content: |
     rezalet puanım 10/10. bir insan neden kendi isteğiyle londra'dan çankırı'ya gelir amk?
   entry_channels: haber
@@ -126,7 +118,7 @@ data:
     1 kilo pirzolanın 170 tl olması
   entry_id:  105563830
   entry_writer: sarasotagator
-  entry_fav_count: 87
+  entry_fav_count: 91
   entry_content: |
     az biledir.<br/><br/>yarrrrrrrağımı yesin amk halkı. <br/><br/>önce oy kullanmayı öğrensinler.
   entry_channels: haber,yeme-içme,ekonomi
@@ -134,7 +126,7 @@ data:
     ilgi alanına göre konuşmalık insan veritabanı
   entry_id:  105528153
   entry_writer: tuyukonduranadam
-  entry_fav_count: 76
+  entry_fav_count: 77
   entry_content: |
     serengeti düzlüklerine bahar gelince usta avcılar fularlı ekşici kılığında ava çıkmış.
   entry_channels: anket,ilişkiler,ekşi-sözlük
@@ -147,69 +139,69 @@ data:
     yalnızlık iyidir iyi. huzursuz olacağına yalnız ol.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    survivor 2020 ünlüler-gönüllüler
-  entry_id:  105528981
-  entry_writer: tolstoyunpisikleti
-  entry_fav_count: 52
-  entry_content: |
-    sercan: nisa gelir misin?<br/>nisa: efendim?<br/>acun medya: şimdi reklamlar. <br/>sercan: nisa biliyorsun burdayız. <br/>acun medya: şimdi reklamlar. <br/>nisa: ne diyorsun sercan abi?<br/>sercan: tamam bi şey yok.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: tv,magazin
-- entry_name: |
-    ebru şallı'nın evladını kaybetmesi
-  entry_id:  105556345
-  entry_writer: imstillremembering
-  entry_fav_count: 46
-  entry_content: |
-    herkes çocuğunu doğduğundan beri vegan besliyor diye sallamış.<br/><br/>yahu kadının tüm videolarını izleyip yapmış biri olarak her gün yumurtanızı yiyin benim oğlum pançikoya da göz yumurta yapıyorum dediğini kendi ağzından duydum. ayrıca vegan olsa bal falan yemez yedirmezde ama yiyor ve çocuğuna da yediriyor.<br/><br/>sanki çocuğunun ölümünden kendisi sorumluymuş gibi nefret kusulmasına gerek yok. ölen kendisi değil çünkü. ölen sekiz yaşında bir çocuk.
-  entry_channels: haber,magazin
-- entry_name: |
-    18 mart'ta atanan öğretmenlerin işsiz kalması
-  entry_id:  105569718
-  entry_writer: incendies
-  entry_fav_count: 45
-  entry_content: |
-    şu anda eğitim öğretim var mı?<br/>atanmaları anormal olan öğretmenlerdir.<br/>anasını satayım herkes işsiz şu anda farkında mısınız?
-  entry_channels: 
-- entry_name: |
     30luk sözlük çınarlarına moral desteği kampanyası
   entry_id:  105574113
   entry_writer: bir zamanlar sokak lambasiydim
-  entry_fav_count: 35
+  entry_fav_count: 57
   entry_content: |
     20lik çıtırları düşünsenize 2000 yılında doğmuşlar sözlükte başlık açıyorlar. şaka gibi. :)
   entry_channels: ekşi-sözlük
 - entry_name: |
-    bbc türkçe cerrahpaşa covid-19 videosu
-  entry_id:  105567352
-  entry_writer: komutan bey
-  entry_fav_count: 31
+    survivor 2020 ünlüler-gönüllüler
+  entry_id:  105528981
+  entry_writer: tolstoyunpisikleti
+  entry_fav_count: 54
   entry_content: |
-    su haberi yapabilecek bir tane turk kanali yok. bakin bir tane diyorum. siyasal islamcilar butun kurumlar gibi medyayi da bitirdiler. bbc turkce'ye tesekkurler.
-  entry_channels: bilim,sağlık,haber
+    sercan: nisa gelir misin?<br/>nisa: efendim?<br/>acun medya: şimdi reklamlar. <br/>sercan: nisa biliyorsun burdayız. <br/>acun medya: şimdi reklamlar. <br/>nisa: ne diyorsun sercan abi?<br/>sercan: tamam bi şey yok.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
+  entry_channels: tv,magazin
 - entry_name: |
-    san sebastian cheesecake
-  entry_id:  105542789
-  entry_writer: hak yeme fuck yeah
-  entry_fav_count: 28
+    18 mart'ta atanan öğretmenlerin işsiz kalması
+  entry_id:  105569718
+  entry_writer: incendies
+  entry_fav_count: 51
   entry_content: |
-    dini bir şey gibi geliyor hep bu bana.<br/><br/>böyle vatikan’da kardinaller toplanmış, birbirlerinin ağzına çatalla uzatıyorlar, ilahi söylüyorlarmış falan gibi.
-  entry_channels: yeme-içme
+    şu anda eğitim öğretim var mı?<br/>atanmaları anormal olan öğretmenlerdir.<br/>anasını satayım herkes işsiz şu anda farkında mısınız?
+  entry_channels: 
 - entry_name: |
-    dünyanın en sevimli hayvanı
-  entry_id:  105567556
-  entry_writer: eksimtrack
-  entry_fav_count: 28
+    ebru şallı'nın evladını kaybetmesi
+  entry_id:  105556345
+  entry_writer: imstillremembering
+  entry_fav_count: 47
   entry_content: |
-    (bkz: <a class="b" href="/?q=yavru+kedi">yavru kedi</a>)
-  entry_channels: anket
+    herkes çocuğunu doğduğundan beri vegan besliyor diye sallamış.<br/><br/>yahu kadının tüm videolarını izleyip yapmış biri olarak her gün yumurtanızı yiyin benim oğlum pançikoya da göz yumurta yapıyorum dediğini kendi ağzından duydum. ayrıca vegan olsa bal falan yemez yedirmezde ama yiyor ve çocuğuna da yediriyor.<br/><br/>sanki çocuğunun ölümünden kendisi sorumluymuş gibi nefret kusulmasına gerek yok. ölen kendisi değil çünkü. ölen sekiz yaşında bir çocuk.
+  entry_channels: haber,magazin
 - entry_name: |
     şehirlerarası dinlenme tesislerinin batması
   entry_id:  105574182
   entry_writer: kibariye canavari
-  entry_fav_count: 23
+  entry_fav_count: 46
   entry_content: |
     mutluyum evet. üç dört katı fiyata ürün satıyordunuz... fırsatçı herifler.
   entry_channels: ekonomi
+- entry_name: |
+    bbc türkçe cerrahpaşa covid-19 videosu
+  entry_id:  105567352
+  entry_writer: komutan bey
+  entry_fav_count: 43
+  entry_content: |
+    su haberi yapabilecek bir tane turk kanali yok. bakin bir tane diyorum. siyasal islamcilar butun kurumlar gibi medyayi da bitirdiler. bbc turkce'ye tesekkurler.
+  entry_channels: bilim,sağlık,haber
+- entry_name: |
+    atın civciv yemesi
+  entry_id:  105577763
+  entry_writer: xecuttionerr
+  entry_fav_count: 43
+  entry_content: |
+    ben tavuğun çırpınmasına üzüldüm ya.. içim burkuldu..
+  entry_channels: 
+- entry_name: |
+    san sebastian cheesecake
+  entry_id:  105542789
+  entry_writer: hak yeme fuck yeah
+  entry_fav_count: 39
+  entry_content: |
+    dini bir şey gibi geliyor hep bu bana.<br/><br/>böyle vatikan’da kardinaller toplanmış, birbirlerinin ağzına çatalla uzatıyorlar, ilahi söylüyorlarmış falan gibi.
+  entry_channels: yeme-içme
 - entry_name: |
     ekşi itiraf
   entry_id:  105528633
@@ -230,18 +222,26 @@ data:
     kadınların eş seçimindeki en önemli kriter
   entry_id:  105570802
   entry_writer: hangi sairin dizeleriyim ki
-  entry_fav_count: 19
+  entry_fav_count: 20
   entry_content: |
     tipiniz ve işiniz iyiyse karakter. <br/>karakteriniz ve tipiniz iyiyse iş. <br/>karakteriniz ve işiniz iyiyse de tip.<br/><br/>akıllı kadın hepsine birden sahip olanı alır geçer.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ilk kez pizza yenilen yer ve zaman
-  entry_id:  105551942
-  entry_writer: herseybittiderken
-  entry_fav_count: 19
+    xiaomi
+  entry_id:  105571550
+  entry_writer: tarzanbaba
+  entry_fav_count: 18
   entry_content: |
-    4-5 yasındayken halam kendisi yapmıstı, zeytinliydi. kusmustum sonradan zehirlendigimi anlamıstık
-  entry_channels: anket,yeme-içme
+    kullandığım her ürününden büyük verim aldığım ve çok memnun olduğum marka.<br/>aksiyon kamerası mesela, <a class="b" href="/?q=yi">yi</a> diye geçiyordu, 140 liraya almıştım o zamanki dolar kuruyla ve 1100 liralık goprodan çok daha iyi çekim yapıyordu. hala kutusunda durur. aynı donanıma sahip <a class="b" href="/?q=yi+smart+dash+cam">yi smart dash cam</a> araç kamerasını da aldım, 3 ayrı kazada beni 10000 liradan fazla hasar ödemeden kurtardı. (markası ne olursa olsun aracınıza kamera olsun, o ayrı) <br/>powerbank ürünlerinden 3 adet aldım farklı zamanlarda. ilk aldığım power bankin üzerine yatmış olan arkadaşım hâlâ tam kapasiteyle kullanıyor. diğerleri de öyle, biri bende diğeri eşimde. biri kumaş yüzeyli, kablosuz şarj da yapıyor. diğeri hızlı şarj yapıyor. <br/>sonra robot süpürge <a class="b" href="/?q=xiaomi+roborock+s50">xiaomi roborock s50</a> aldım. bir elektronik eşyaya harcadığım en iyi paradır. evde süpürge yapmıyoruz 2 yıldır. <br/>o güvenle <a class="b" href="/?q=mi+note+10">mi note 10</a> telefonunu da aldım, her şeyiyle harika cihaz. kamerası, arayüzü, performansı şahane. ayrı dac bile koymuşlar, yüksek empedanslı kulaklıklarımı bile çok güzel sürüyor. güzel bir rom da attım; google yok reklam yok. youtube vanced ile blokada sağolsun.<br/><br/>bunların hepsine verdiğim parayla bir tane iphone alabilir, <a class="b" href="/?q=ama+stabil+abi+yeaa">ama stabil abi yeaa</a> diye takılabilirdim. ben böyle yapmayı seçtim, çok memnunum.
+  entry_channels: teknoloji
+- entry_name: |
+    hayat felsefesi yapılabilecek en güzel söz
+  entry_id:  105553335
+  entry_writer: tangueraumur
+  entry_fav_count: 16
+  entry_content: |
+    “her ilişki zaman kaybı değildir.eğer sana istediğini vermediyse ne istemediğini öğretti.”<br/>(bkz: <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a>)
+  entry_channels: anket,edebiyat
 - entry_name: |
     bir kadının paradan daha çok hoşuna giden şey
   entry_id:  105556648
@@ -251,45 +251,45 @@ data:
     eğer kadınlar paraya erkeklerden daha düşkün olsalardı kumarhaneler ve iddia bayileri erkeklerle dolup taşmazdı.<br/><br/>kadın kendine refah sağlayacak parayı ister ama erkekler hep daha fazlasını ister. o yüzden param yok ühühühü müjgan bana param olmadığı için vermedi diye ağlamayın, müjgan seni istemediği ve sevmediği için sana vermedi.
   entry_channels: anket,ilişkiler
 - entry_name: |
-    atın civciv yemesi
-  entry_id:  105577763
-  entry_writer: xecuttionerr
-  entry_fav_count: 16
+    gitmek mi zor kalmak mı
+  entry_id:  105575581
+  entry_writer: anzavur 34
+  entry_fav_count: 14
   entry_content: |
-    ben tavuğun çırpınmasına üzüldüm ya.. içim burkuldu..
-  entry_channels: 
+    gidenin arkasından bakmak zor.
+  entry_channels: ilişkiler
 - entry_name: |
-    xiaomi
-  entry_id:  105571550
-  entry_writer: tarzanbaba
-  entry_fav_count: 15
+    türkiye'deki pahalılığın artık cana tak etmesi
+  entry_id:  105563037
+  entry_writer: ground beneath
+  entry_fav_count: 12
   entry_content: |
-    kullandığım her ürününden büyük verim aldığım ve çok memnun olduğum marka.<br/>aksiyon kamerası mesela, <a class="b" href="/?q=yi">yi</a> diye geçiyordu, 140 liraya almıştım o zamanki dolar kuruyla ve 1100 liralık goprodan çok daha iyi çekim yapıyordu. hala kutusunda durur. aynı donanıma sahip <a class="b" href="/?q=yi+smart+dash+cam">yi smart dash cam</a> araç kamerasını da aldım, 3 ayrı kazada beni 10000 liradan fazla hasar ödemeden kurtardı. (markası ne olursa olsun aracınıza kamera olsun, o ayrı) <br/>powerbank ürünlerinden 3 adet aldım farklı zamanlarda. ilk aldığım power bankin üzerine yatmış olan arkadaşım hâlâ tam kapasiteyle kullanıyor. diğerleri de öyle, biri bende diğeri eşimde. biri kumaş yüzeyli, kablosuz şarj da yapıyor. diğeri hızlı şarj yapıyor. <br/>sonra robot süpürge <a class="b" href="/?q=xiaomi+roborock+s50">xiaomi roborock s50</a> aldım. bir elektronik eşyaya harcadığım en iyi paradır. evde süpürge yapmıyoruz 2 yıldır. <br/>o güvenle <a class="b" href="/?q=mi+note+10">mi note 10</a> telefonunu da aldım, her şeyiyle harika cihaz. kamerası, arayüzü, performansı şahane. ayrı dac bile koymuşlar, yüksek empedanslı kulaklıklarımı bile çok güzel sürüyor. güzel bir rom da attım; google yok reklam yok. youtube vanced ile blokada sağolsun.<br/><br/>bunların hepsine verdiğim parayla bir tane iphone alabilir, <a class="b" href="/?q=ama+stabil+abi+yeaa">ama stabil abi yeaa</a> diye takılabilirdim. ben böyle yapmayı seçtim, çok memnunum.
-  entry_channels: teknoloji
-- entry_name: |
-    jandarmadan cips isteyen çocuk
-  entry_id:  105573221
-  entry_writer: nevi sahsina munhasir olan
-  entry_fav_count: 15
-  entry_content: |
-    evde o çocuğa cips alabilecek bir yetişkin yok muymuş? sorusunu sordurtur. <br/><br/>gerçekten yardıma ihtiyacı olan insanlar varken bir çoçuğun yasal hakkım diye arayıp evine cips istemesi bence biraz <a class="b" href="/?q=%c5%9f%c4%b1mar%c4%b1kl%c4%b1k">şımarıklık</a>.
-  entry_channels: tv,haber
-- entry_name: |
-    hayat felsefesi yapılabilecek en güzel söz
-  entry_id:  105553335
-  entry_writer: tangueraumur
-  entry_fav_count: 15
-  entry_content: |
-    “her ilişki zaman kaybı değildir.eğer sana istediğini vermediyse ne istemediğini öğretti.”<br/>(bkz: <a class="b" href="/?q=al%c4%b1nt%c4%b1">alıntı</a>)
-  entry_channels: anket,edebiyat
+    yarım kilo peynire 30 tl verdim bugün, peynir lüks oldu şaka gibi, eti falan geçtim zaten, yakında ekmekte lüks olacak gibi görünüyor
+  entry_channels: siyaset,haber,ekonomi
 - entry_name: |
     mercedes denince akla gelen ilk şey
   entry_id:  105574095
   entry_writer: pirintiks
-  entry_fav_count: 7
+  entry_fav_count: 9
   entry_content: |
     küçük bir kola sol ayakla basılan el frenidir. yine sol el ile bir düğmeyi çekerek el frenini indirmiş olursunuz.
   entry_channels: anket,teknoloji,otomotiv
+- entry_name: |
+    galatasaray'ın gelmiş en iyi 3 forveti
+  entry_id:  105578989
+  entry_writer: deplasmanda alinan uc puan
+  entry_fav_count: 6
+  entry_content: |
+    metin oktay<br/>tanju çolak<br/>hakan şükür
+  entry_channels: spor,anket
+- entry_name: |
+    dünyanın en sevimli hayvanı
+  entry_id:  105569421
+  entry_writer: kilic sovalyesi
+  entry_fav_count: 6
+  entry_content: |
+    hay sokayım bal porsuğunuza ya , şunun favını verin siktirsin gitsin.
+  entry_channels: anket
 - entry_name: |
     şu an okunan kitap
   entry_id:  105540429
@@ -299,21 +299,29 @@ data:
     momo- michael ende<br/>şimdiye kadar okumadığıma pişmanım, duman adamları daha önce kovabilirdim belki, momo'yu daha önce tanımış olsaydım.<br/>sonunu merak ediyorum.
   entry_channels: anket,edebiyat,eğitim
 - entry_name: |
-    malum şahsa güveniyor musun anketi
-  entry_id:  105574075
-  entry_writer: russophile
-  entry_fav_count: 4
+    türkiye'nin en avrupai şehri
+  entry_id:  105579703
+  entry_writer: figy
+  entry_fav_count: 3
   entry_content: |
-    bu ankette bile korkudan evet verenler var mı acaba?
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=mu%c4%9fla">muğla</a>) capri ve sorrento gibi tatil bölgelerini anımsatır.
+  entry_channels: anket,tarih
 - entry_name: |
-    alef (dizi)
-  entry_id:  105560805
-  entry_writer: kowalski
-  entry_fav_count: 4
+    taklit markalara verilen gubidik isimler
+  entry_id:  105578090
+  entry_writer: moontaxi3
+  entry_fav_count: 2
   entry_content: |
-    eleştirecek bir şey bulamayinca "cok reklam veriyor" denmis. az bile vermisler. ben yapimci olsam şu kriz zamaninda herkes eve tikilmisken yüksek produksiyon bütçeli ve kaliteli işim yayina girse ben de reklamin suyunu cikartirdim. milyar adet yerli yabanci rakip var mecbur tanitim yapmaya.<br/><br/>bu aksam yeni bölümünü merakla bekledigim super dizidir. umarim yine iki bölüm gelir.
-  entry_channels: tv
+    nike - mike :)
+  entry_channels: anket
+- entry_name: |
+    geceye rakı içerken dinlenecek bir şarkı bırak
+  entry_id:  105571619
+  entry_writer: floydianfloyd
+  entry_fav_count: 2
+  entry_content: |
+    <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=kuRyCSPsgP8" title="https://m.youtube.com/watch?v=kuRyCSPsgP8">zeki muren - kahir mektubu</a> der, konuyu kilitlerim.
+  entry_channels: anket
 - entry_name: |
     ırak'ta iyileşen hastanın yanlışlıkla vurulması
   entry_id:  105577510
@@ -323,21 +331,13 @@ data:
     doğruluğu konusunda şüphelerim olan olay.<br/><br/>ırak mı, ürdün mü?<br/>corona mı, 15 yıl sonra hapishaneden çıkma mı?<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://twitter.com/dokuz8haber/status/1251143192096858112" title="https://twitter.com/dokuz8haber/status/1251143192096858112">https://twitter.com/…ber/status/1251143192096858112</a><br/><br/>adamın vurulduğu ve büyük ihtimalle öldüğü kesin. diğer kısımları biraz palavra.
   entry_channels: sağlık,haber
 - entry_name: |
-    her yazardan 1 film tavsiyesi
-  entry_id:  105577450
-  entry_writer: stansfieldsheart
+    ilahi bir yaratıcı var mı
+  entry_id:  105576365
+  entry_writer: fevdi
   entry_fav_count: 1
   entry_content: |
-    (bkz: <a class="b" href="/?q=bizim+b%c3%bcy%c3%bck+%c3%a7aresizli%c4%9fimiz">bizim büyük çaresizliğimiz</a>) <br/>iki arkadaşın dostluğunun sınavını konu alan bir arthouse filmidir. <br/>edituyarı:karantinada ruhum daraldı diyorsanız izlemeyin<br/>ama yok ben bu tarzı seviyorum derseniz öneririm
-  entry_channels: anket,ekşi-sözlük,sinema
-- entry_name: |
-    geceye rakı içerken dinlenecek bir şarkı bırak
-  entry_id:  105571619
-  entry_writer: floydianfloyd
-  entry_fav_count: 1
-  entry_content: |
-    <a rel="nofollow noopener" class="url" target="_blank" href="https://m.youtube.com/watch?v=kuRyCSPsgP8" title="https://m.youtube.com/watch?v=kuRyCSPsgP8">zeki muren - kahir mektubu</a> der, konuyu kilitlerim.
-  entry_channels: anket
+    (bkz: <a class="b" href="/?q=yok">yok</a>)
+  entry_channels: tarih
 - entry_name: |
     erkek yazarlardan kadın yazarlara sorular
   entry_id:  105537357
@@ -347,12 +347,20 @@ data:
     haydar ergülen’ in yazdığı :<br/><br/>“ya bu tende vücut bul<br/>ya da kov beni” de anladığınız nedir?
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    taklit markalara verilen gubidik isimler
-  entry_id:  105578687
-  entry_writer: crepeer
+    covid-19 bittiğinde geçilecek çağa isim önerileri
+  entry_id:  105577790
+  entry_writer: corsairsgold35
+  entry_fav_count: 1
+  entry_content: |
+    (bkz: <a class="b" href="/?q=haniko+d%c3%bcd%c3%bcko">haniko düdüko</a>)<br/><br/>(bkz: <a class="b" href="/?q=bokoto+yemi%c5%9fi%c5%9fko">bokoto yemişişko</a>)
+  entry_channels: anket
+- entry_name: |
+    üsteki yazarın nickiyle alakalı ondan bir şey iste
+  entry_id:  105578530
+  entry_writer: federiko cunti
   entry_fav_count: 0
   entry_content: |
-    nixe
+    bildigininsanligasunanadam: covid-19 aşısını veya ilacını insanlığa sunsa iyi olurdu.
   entry_channels: anket
 - entry_name: |
     tahammül edilemeyen 3 insan tipi
@@ -363,28 +371,20 @@ data:
     egolu,<br/>iki yüzlü,<br/>kibirli seni oldugun gibi kabul etmeyen "edemeyen" ..<br/><br/>(bkz: <a class="b" href="/?q=uzak+dur">uzak dur</a>)
   entry_channels: anket,ilişkiler
 - entry_name: |
-    karantina günlerinde oynanacak oyunlar
-  entry_id:  105576555
-  entry_writer: sevgili frodo
+    her yazardan 1 film tavsiyesi
+  entry_id:  105579636
+  entry_writer: maymun doktoru
   entry_fav_count: 0
   entry_content: |
-    kesinlikle bir kitap okumak değildir. oyun oynayın bu güzel zaman geçirir ama mutlaka kitap okumadan diğer eylemlere saldırmayın.
-  entry_channels: anket,oyun
+    the grand budapest hotel
+  entry_channels: anket,ekşi-sözlük,sinema
 - entry_name: |
-    ilahi bir yaratıcı var mı
-  entry_id:  105576365
-  entry_writer: fevdi
+    erkeklerin zeki kadın sevmemesi
+  entry_id:  105579706
+  entry_writer: valna
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=yok">yok</a>)
-  entry_channels: tarih
-- entry_name: |
-    gitmek mi zor kalmak mı
-  entry_id:  105577356
-  entry_writer: lj
-  entry_fav_count: 0
-  entry_content: |
-    her halükarda kalmaktır.
+    doğrudur efendim. bunun nedeni zeki bir kadın diye bir şeyin olmaması
   entry_channels: ilişkiler
 - entry_name: |
     ekşi sözlük dertleşecek insan veritabanı
@@ -395,11 +395,11 @@ data:
     dün yazdığım entryden sonra çok sayıda mesaj aldım. ve bu sayede sözlükte çok güzel ve akıllı kadınların varlığına olan inancım arttı. beklediğimden fazla mesaj aldım. 2 yazar haricinde hepsine saygilarimi sunuyorum.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    covid-19 bittiğinde geçilecek çağa isim önerileri
-  entry_id:  105577069
-  entry_writer: kaptan sebzesever
+    alef (dizi)
+  entry_id:  105548078
+  entry_writer: demonte
   entry_fav_count: 0
   entry_content: |
-    korcan.
-  entry_channels: anket
+    tamam istanbul çok güzel kadraj veriyor, evet sağlam bir cast oluşturmuşsunuz, karakterler ve atmosfer olumlu, ama o kadar emek verdiğiniz işlerde artık klişeleri de biraz aşın be yavrum. dizinin ilk bölümünde katil olduğundan şüphelenilen biri ile haliçte karşılaştı kahramanlarımız fakat uzaktan silüetini gördüğümüz şüpheli koşarak uzaklaştı, buraya kadar normal, bu noktada ilk akla gelen nedir, istanbul'un göbeğinde yer gök kamera olan bir yerde çevredeki tüm kamera görüntülerini incelersin değil mi, yok, bizimkiler gidip makale okudu, roman falan araştırdı. hasbinalla. neyse, emeğe saygı, oyna devam.
+  entry_channels: tv
 ---
