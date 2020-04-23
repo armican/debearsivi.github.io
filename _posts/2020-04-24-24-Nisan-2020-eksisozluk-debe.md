@@ -6,7 +6,7 @@ data:
     fatih tezcan
   entry_id:  105897803
   entry_writer: moraigne
-  entry_fav_count: 597
+  entry_fav_count: 607
   entry_content: |
     boşandığı, çocuklarının annesi olan eski eşini öldürmekle tehdit <a rel="nofollow noopener" class="url" target="_blank" href="https://www.google.com.tr/amp/s/amp.ilerihaber.org/icerik/yandas-yazar-fatih-tezcan-eski-esini-oldurmekle-tehdit-etti-75788.html" title="https://www.google.com.tr/amp/s/amp.ilerihaber.org/icerik/yandas-yazar-fatih-tezcan-eski-esini-oldurmekle-tehdit-etti-75788.html">eden</a>.<br/><br/>terörist başı fethullah gülen kasetleri dinlerken <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/Hygfn7" title="https://hizliresim.com/Hygfn7">ağlayan</a>.<br/><br/>terörist başı öcalan <a rel="nofollow noopener" class="url" target="_blank" href="https://hizliresim.com/EpjWoq" title="https://hizliresim.com/EpjWoq">güzelleyen</a>.<br/><br/>atatürk düşmanı bir gereksiz.<br/><br/>böyle kalibresiz bir gereksizden atatürkçü çıkmaz, çıksa çıksa atatürk düşmanı biri çıkar anca.<br/><br/>atatürk demek türkiye demek.<br/><br/>düzgün insandan atatürkçü çıkar.
   entry_channels: siyaset,haber
@@ -14,39 +14,23 @@ data:
     özal'ın hastaneye götürüldüğü ambulans
   entry_id:  105913366
   entry_writer: eksi peace
-  entry_fav_count: 540
+  entry_fav_count: 542
   entry_content: |
     abdülkadir'deki beyini kuşa taksak ters uçar.<br/><br/>komik bir kıyaslamaya maruz kalmış ambulanstır.
   entry_channels: siyaset,tarih,sağlık,haber
 - entry_name: |
-    avm'lerden mayıs ayı müjdesi
-  entry_id:  105904831
-  entry_writer: always good
-  entry_fav_count: 350
-  entry_content: |
-    gelir beklemeyip çalışmak.<br/><br/>he he.<br/><br/>türkiye’nin kanseridir bu avm’ler. batıp gitseniz birinize acımam.
-  entry_channels: haber,ekonomi
-- entry_name: |
     netflix'e bir geribildirim bırak
   entry_id:  105901867
   entry_writer: i thank you very many
-  entry_fav_count: 336
+  entry_fav_count: 340
   entry_content: |
     bir kampanya diyelim.<br/><br/>şu feedback listesini sunayım:<br/><br/>1. siktiriboktan çeviri yapan siktiriboktan çevirmenlerinizin işine son verin de adam akıllı çeviri yapan, mecazi anlama kelime anlamını karıştırmayan çevirmenleri işe alın. <br/><br/>2. izlemeye devam et listesinden yanlışlıkla bile basılıp hemen silinemeyen kutucukları silebilmek olanağı getirin. <br/>oğlum ona buna tıklıyor sonra bunlar sıraya giriyor ve asıl devam etmek istediğim yarım bir şekilde geride kalıyor. <br/>mesajlar üzerine ekleme: arkadaşım ben de biliyorum profile oradan hesaplara oradan ayarlara oradan izleme etkinliğine. vay baban kemiğine. ben istiyorum ki listeden bir şeyi her kaldırmak istediğimde atomu parçalamayayım. üzerine tıklayayım seçenekler çıksın sil diyeyim bitti gitti. teşekkürler yine de. <br/><br/>3. puanlama sistemi getirin. izleyici puanlarına ve yorumlarına erişim olsun. bir şeyle ilgili yorum görmek için başka platformlara girmek zorunda kalmayalım. yoksa o site bu site gezeceksem neden adı lazım olmayan sitelerde izlemeyelim.
   entry_channels: anket,tv,sinema,teknoloji
 - entry_name: |
-    mayıs 2020 okulların açılması müjdesi
-  entry_id:  105918653
-  entry_writer: kamerarkasi
-  entry_fav_count: 223
-  entry_content: |
-    ülkemizde her gün 5000 vaka ve 100'ün üzerinde ölüm varken, daha bu sayılar peak de yapmamışken okulların 1 hafta sonra açılacağını düşünmek, pespayeliktir, hemzeminliktir.
-  entry_channels: haber,eğitim
-- entry_name: |
     23 nisan 2020 istanbulbilişim rezaleti
   entry_id:  105918376
   entry_writer: neseliguzel
-  entry_fav_count: 199
+  entry_fav_count: 201
   entry_content: |
     dikecek eleman arayan ve bolca bulan firmadır, arkadaş milyon tane şikayet var adamlarla ilgili, okuma yazmanız mı yok anlamıyorum.
   entry_channels: teknoloji
@@ -54,18 +38,10 @@ data:
     türkiye'nin en iyi herbokoloğu
   entry_id:  105922348
   entry_writer: draklayn
-  entry_fav_count: 194
+  entry_fav_count: 198
   entry_content: |
     (bkz: <a class="b" href="/?q=nagehan+al%c3%a7%c4%b1">nagehan alçı</a>)
   entry_channels: anket
-- entry_name: |
-    erkek çocuğuna oyuncak silah alan aile
-  entry_id:  105905206
-  entry_writer: seytankefal
-  entry_fav_count: 193
-  entry_content: |
-    benim ailem ve mahalledeki çocukların ailesi olan ancak hiçbirinin çocuğu beklendiği gibi psikopat olmayan aileler. aynı şekilde biz çocukken bilgisayar oyunlarına suç atıldı. bu çocuklar psikopat olacak,katil olacak diye. olmadık. gayet efendi insanlarız. <br/>unutmayın,şiddet içerikli bilgisayar oyunları ve savaş filmleri,müzikleri yokken bu dünya 2 savaş gördü. milyonlarca insan birbirini boğazladı. geçmişi saymıyorum bile.
-  entry_channels: ilişkiler
 - entry_name: |
     23 nisan 2020 thy'nin tk1920 sefer sayılı uçuşu
   entry_id:  105903218
@@ -74,6 +50,14 @@ data:
   entry_content: |
     <a class="b" href="/?q=ota+boka+duyar+kasan+tip">ota boka duyar kasan tip</a>leri rahatsız etmiştir.<br/><br/>yok o yakıtla kaç aç beslenirmiş, amk evladı tonla boşa harcanan para varken tbmm'nin 100. yılına özel uçuş mu fakirleri aç bıraktı.<br/><br/>(bkz: <a class="b" href="/?q=ruhsuz+ibneler">ruhsuz ibneler</a>)
   entry_channels: tarih,havacılık
+- entry_name: |
+    bir ilişkide yapılan en büyük hata
+  entry_id:  105884489
+  entry_writer: kurmay er
+  entry_fav_count: 179
+  entry_content: |
+    sanki dünyada bir tek o kalmış gibi, sanki sevilecek, aşık olunacak başka kimse kalmamış gibi, körü körüne birinin peşinden at gözlüğü takmışcasına kaybolup gitmek. kendini heba etmek. <br/><br/>kendini sevdirmeye çalışmak.<br/><br/>yanında rahat olmamak, olamamak. ister istermez kasılmak.<br/><br/>olmayacağını bile bile zorlayıp öz saygınlığı yitirmek.<br/><br/>sürekli onu mutlu etmeye çalışmak.<br/><br/>vs...
+  entry_channels: anket,ilişkiler
 - entry_name: |
     pelin portakal
   entry_id:  105898663
@@ -86,23 +70,15 @@ data:
     lila ve fuşyayı ayırt edebilen erkek
   entry_id:  105905180
   entry_writer: harun tekin
-  entry_fav_count: 174
+  entry_fav_count: 175
   entry_content: |
     google'dan baktım lila mormuş fuşya kırmızı. ben de artık ayırt edebilen erkek oldum.
-  entry_channels: anket,ilişkiler
-- entry_name: |
-    bir ilişkide yapılan en büyük hata
-  entry_id:  105884489
-  entry_writer: kurmay er
-  entry_fav_count: 173
-  entry_content: |
-    sanki dünyada bir tek o kalmış gibi, sanki sevilecek, aşık olunacak başka kimse kalmamış gibi, körü körüne birinin peşinden at gözlüğü takmışcasına kaybolup gitmek. kendini heba etmek. <br/><br/>kendini sevdirmeye çalışmak.<br/><br/>yanında rahat olmamak, olamamak. ister istermez kasılmak.<br/><br/>olmayacağını bile bile zorlayıp öz saygınlığı yitirmek.<br/><br/>sürekli onu mutlu etmeye çalışmak.<br/><br/>vs...
   entry_channels: anket,ilişkiler
 - entry_name: |
     yavru köpeği yere vurarak öldüren cani
   entry_id:  105897809
   entry_writer: nonnis
-  entry_fav_count: 165
+  entry_fav_count: 166
   entry_content: |
     elime silah verseler ve kafasına sık deseler 1 saniye düşünmeden kafasına sıkacağım orospu çocuğudur. müebbet yemesi gereken orospu çocuğudur. böyle orospu çocukları yaşamayı haketmiyor. birileri bu orospu çocuğuna gereken cezayı versin ya da katletsin. cezasız kaldıkça daha rahat davranıyorlar ve etrafımızda sayıları artıyor. bu aşağılık orospu çocuğuna gereken ceza kesilmeli.
   entry_channels: haber
@@ -118,7 +94,7 @@ data:
     ercüment ovalı'nın covid-19 aşısını bulması
   entry_id:  105919859
   entry_writer: andom
-  entry_fav_count: 141
+  entry_fav_count: 145
   entry_content: |
     yani şimdi bu aşıyı üretmeye mi başlıyor anlayamadığım şüpheli müjdedir.<br/><br/>hayvanlar üzerinde test yaptılar mı ? insanlı testlerden geçti mi ? yan etkiler konusunda bir çalışma var mı ? aşıyı üretecek tesis var mı ? dünya sağlık örgütüne bildirilip hakemli dergilerde makale yayınlandı mı ?<br/><br/>öyle aslanlar lab’a girdi, kaplanlar gibi çıktı, pumaları saydık iki eksik var falanla olmuyor bu işler valla.<br/><br/>edit: canlar niye sövüyorsunuz anlamadım. 40 yıllık hayatımda, radyasyonlu çay içip bunda radyasyon yok diyen ve kanserden ölen bakan mı görmedim ( edit: kalp yetmezliğinden vefat etmiş ), oktar babuna olayına mı şahit olmadım, sınırsız enerji vaadeden erke dönergeci palavrasına mı kanmadım, imza diye araba yaptık fabrika hazır diyen jet fadıl’la mı tanışmadım.<br/><br/>ince eleyip sık dokuyorsunuz haliyle bu tip haberleri okurken.<br/><br/>hoca deliler gibi çalışıyor tamam da, dünyayı biz kurtaracağız gibi süper kahraman hikayesi yaratmasına gerek yok, her prosesi tamamladığında kısa ve temkinli bir haber verse inanılırlığı artar, söylemek istediğim bu.
   entry_channels: bilim,sağlık,haber
@@ -126,7 +102,7 @@ data:
     ankara halk ekmek müdürünün 61 bin tl maaş alması
   entry_id:  105924436
   entry_writer: odtubebesi
-  entry_fav_count: 136
+  entry_fav_count: 139
   entry_content: |
     açmayın yalancı <a class="b" href="/?q=sabah+gazetesi">sabah gazetesi</a> linki/haberi<br/><br/>edit: lan aq ak-çomarları mesaj atıp küfretmeyin. sabah gazetesinin yalancı oldugunu dünya alem biliyor siz hariç<br/>yalan haberle meşhur bir gazete işte neyini savunuyorsunuz<br/>allah bir dese inanmam sabaha<br/>+cehepeli değilim lan itoğlu itler<br/><br/>edit2: tek iq lu çomarlar hala mesaj atıyor.<br/>ben haber yanlış demedim ki sabah gazetesi yalancı dedim beynini züktüğümün amipleri<br/>haber doğru bile olsa gazete şerefsiz/yalancı.<br/>ben inanmam habere şüpheyle bakarım<br/>+ben böyle şerefsiz bir gazeteyi açıp okumam linkine bile tıklamam
   entry_channels: siyaset,haber
@@ -139,34 +115,18 @@ data:
     tekrar gün yüzüne çıkan sözlük karması.<br/><br/>yaşımız kaç olursa olsun halen <a class="b" href="/?q=mustafa+kemal+atat%c3%bcrk">mustafa kemal atatürk</a> ve kurduğu cumhuriyetin çocuklarıyız ve bununla gurur duyuyoruz!
   entry_channels: ekşi-sözlük
 - entry_name: |
-    doktorların almanya'ya göçü
-  entry_id:  105907630
-  entry_writer: kayip tayfa
-  entry_fav_count: 134
-  entry_content: |
-    yukarına bir yazar arkadaş, devletin ekmeğini ye okulunda oku sonra sırtını dön demiş.<br/>bak güzel kardeşim ben sana bir hikaye anlatayım. bir arkadaşım mühendis ama öyle böyle bir mühendis değil. kendisi muhalif, beraber devlet kurumuna iş yapıyoruz ve gezi olayına katıldı diye önce içeri alınıyor sonra fişleniyor ve tüm ihale vs tüm devlet kurum işlerinden tecrit eidliyor. kendisi şu an new york - london istanbul üçleminde bir amerikan şirketine çalışıyor. zehir bir çocuk fakat ülkeye zerre hayrı dokunacağını bilse yapmaz. neden? senin ağababalarının ümmeti kucaklayan, taif de taşlandığı halde beddua etmeyen hz. muhammed'in ümmet ve insancılık politikasını güttüğü için.<br/>bu dava büyük sayın trol bu dava eşsiz. sizin trolleriniz gitsin tıpa madem o kadar zekiler?<br/>son satır: eskiden bu ülkeden kimsenin ayrılmamasını el birliğiyle kalkındıramayı ve çok derin milliyetçi duyguları besleyerek türkiye ye almanya daki eğitmim sonrası geldim. <br/>en fazla üç yıl dayanabiliyor insan, ve şuan temennim hepimiz ayrılalım beyler artık sınır kavramı milliyetçilik kavramı bitiyor. bırakın troller bokunda boğulsun.
-  entry_channels: bilim,sağlık,haber,seyahat
-- entry_name: |
     memur olup sıradan bir hayatla geberip gitmek
   entry_id:  105909886
   entry_writer: aglama gozlerim
-  entry_fav_count: 126
+  entry_fav_count: 128
   entry_content: |
     özel sektörde mail tecavüzüne uğrayıp toplantılarda anlamsız geçen saatlerde çıldırmamak için kendini zor tutanların da farkı yok, özel sektörde starbucks müptelası olup kendini efsane sananlar kimseyi yanıltmasın. hayallere aykırı olan her iş sıradandır.
   entry_channels: siyaset,anket,ilişkiler,ekonomi
 - entry_name: |
-    reklamı yüzünden kendinden soğutan ürünler
-  entry_id:  105894861
-  entry_writer: rewn99
-  entry_fav_count: 122
-  entry_content: |
-    şahin sucukları
-  entry_channels: anket,tv,magazin
-- entry_name: |
     600 bin tl'ye satılan peugeot 207
   entry_id:  105918032
   entry_writer: sosyalmesaj
-  entry_fav_count: 122
+  entry_fav_count: 123
   entry_content: |
     üşenmedim okudum. beynini siktiğim lastikleri ekstralar bölümüne yazmış. bizi tahta tekerlek faytonla dolaşıyor zannediyor heralde.
   entry_channels: otomotiv,ekonomi
@@ -174,7 +134,7 @@ data:
     23 nisan'a bir çocukluk anını bırak
   entry_id:  105896808
   entry_writer: confidencesea
-  entry_fav_count: 116
+  entry_fav_count: 118
   entry_content: |
     babam inşaat işçisi olduğu için sık sık il dışına giderdi çalışmaya. il dışından dönüşlerinde sürpriz yapmak için haber vermezdi ve genelde geceleri dönerdi. sabah olduğunda yatakta yattığını görünce yanına kıvrılır, sıkı sıkı sarılırdım. kokusunu içime çekerdim. o an "bana ne hediye getirdi acaba?" diye düşünürdü zihnim bir yandan. 15 yıl oldu babamı kaybedeli. bu anımı unutamıyorum. hatırlamaktan da keyif alıyorum.
   entry_channels: anket,tarih
@@ -182,39 +142,39 @@ data:
     7 tepeden 100. yıl konseri
   entry_id:  105926902
   entry_writer: semmuss
-  entry_fav_count: 110
+  entry_fav_count: 115
   entry_content: |
     23 nisan ulusal egemenlik ve çocuk bayramını kutlamak için ilahi söyleniyor. siyasal islam tam olarak budur.
   entry_channels: müzik,haber
 - entry_name: |
-    23 nisan 2020 motosiklet vergilerinin arttırılması
-  entry_id:  105904701
-  entry_writer: nesedenyana
-  entry_fav_count: 104
-  entry_content: |
-    bu vergiyi yükseltmeyi akıl eden kişinin ismi açıklanmalı,<br/>çok merak ediyorum.<br/>beyni olmadan nasıl fikir üretebiliyor ?<br/>görmek istiyorum.
-  entry_channels: motosiklet,ekonomi
-- entry_name: |
-    canan kaftancıoğlu'nun 23 nisan tweeti
-  entry_id:  105919585
-  entry_writer: bythem
-  entry_fav_count: 96
-  entry_content: |
-    <a class="b" href="/?q=talihsiz">talihsiz</a> tweetmiş.<br/>kadının onlarca <a class="b" href="/?q=talihsiz">talihsiz</a> tweeti var nedense.<br/><br/>bir tanesi de bu;<br/><br/>(bkz: <a class="b" href="/?q=elime+makineli+al%c4%b1p+ankara%27ya+gitmek+istiyorum">elime makineli alıp ankara'ya gitmek istiyorum</a>)
-  entry_channels: siyaset,tarih
-- entry_name: |
     23 nisan'da atatürk fotoğrafı paylaşma çılgınlığı
   entry_id:  105929854
   entry_writer: hadi git
-  entry_fav_count: 92
+  entry_fav_count: 102
   entry_content: |
     bu ülkenin kurucusu ve bugünlerimizin tek kahramanı mustafa kemal atatürk’e minnetimizi paylaşma çabası. ne yapsak az, evlerimize kapanmışken fotoğraf paylaşılmış. bu mu yani size batan! seve seve ömür boyu yaşayacaksınız bunu, ömrünüzün sonuna dek. umarım bir gün utanırsınız.
   entry_channels: siyaset
 - entry_name: |
+    canan kaftancıoğlu'nun 23 nisan tweeti
+  entry_id:  105919585
+  entry_writer: bythem
+  entry_fav_count: 99
+  entry_content: |
+    <a class="b" href="/?q=talihsiz">talihsiz</a> tweetmiş.<br/>kadının onlarca <a class="b" href="/?q=talihsiz">talihsiz</a> tweeti var nedense.<br/><br/>bir tanesi de bu;<br/><br/>(bkz: <a class="b" href="/?q=elime+makineli+al%c4%b1p+ankara%27ya+gitmek+istiyorum">elime makineli alıp ankara'ya gitmek istiyorum</a>)
+  entry_channels: siyaset,tarih
+- entry_name: |
+    23 nisan 2020 balkondan havaya ateş açanlar
+  entry_id:  105932893
+  entry_writer: enginemanuel
+  entry_fav_count: 90
+  entry_content: |
+    gerizekalısınız lan hepiniz. malsınız eğitilemezsiniz.<br/>an itibariyle evimin dibinde pompalı tüfekle, silahlarla çatışma çıkmış durumda. neyin kafası lan bu. allah belanızı versin. bu gerizekalılarla mı biz bu ülkede huzur bulacağız. <br/>insanlar çocuklarını bu çatışma ortamında nasıl balkona çıkartacak. bu ne cahillik.
+  entry_channels: 
+- entry_name: |
     öğrenim kredisi 1 yıl ertelemeye %46.16 faiz zammı
   entry_id:  105924822
   entry_writer: new game dedi savemi saveledi
-  entry_fav_count: 84
+  entry_fav_count: 86
   entry_content: |
     karakter yetmedi. başlığın tam hali "öğrenim kredisi geri ödemesini 1 yıl ertelemeye %46,16 faiz zammı uygulanması".<br/><br/>daha önce hiç gecikmiş borcum bulunmamaktaydı. bugün işsizlik sebebiyle erteleme başvurusu yapayım dedim. 1 yıl ertelersem (yi-üfe) uygulanacağı yazıyordu. yurt içi fiyat endeksi rakamları merkez bankasının verilerinde, mart ayında geçen senenin aynı ayına göre %8.50, yıllık ise %12.61 olarak gerçekleşmişti. <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/bodlgdyd" title="https://soz.lk/i/bodlgdyd">görsel 1</a> <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/7p6oxgo1" title="https://soz.lk/i/7p6oxgo1">görsel 2</a><br/><br/>ama gel gör ki ben erteleme talebine tıklayınca o faiz oranları bir anda %46.16'ya fırladı. 15 bin 361 tl olan borcum, 22 bin 451 tl'ye dönüştü. <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/hpmp4chd" title="https://soz.lk/i/hpmp4chd">görsel 3</a><br/><br/>açıkçası gördüğüme inanamadım, sayfayı yenileyip tekrar denedim ama sonuç değişmedi. korona yüzünden zaten pek çoğumuz işsiz kaldı, yine benim gibi koronadan da önce işsiz olan çok sayıda insan var. önümüzde yeni bir iş olanağı da gözükmüyor. acaba 'nasıl ödeyecek insanlar bu parayı' diye de mi düşünmediler hiç? bizler de mi faiz ödememek için borca sadık kalmayıp, affa uğramasını bekleyelim? <br/><br/>sonuç olarak ben borcumuzu silin gibi bir şey demiyorum. sadece akla yatan rakamlarla karşımıza çıkılsın. <br/><br/>saygılarımla...
   entry_channels: eğitim,ekonomi
@@ -222,18 +182,42 @@ data:
     bakınca insanın içinin gittiği şey
   entry_id:  105908765
   entry_writer: sonsuzuncu ruh
-  entry_fav_count: 83
+  entry_fav_count: 84
   entry_content: |
     gençliğim.<br/><br/>şu günlere dönüp bakmak yeterli
   entry_channels: anket,ilişkiler
 - entry_name: |
-    ilkokulda andımız'ı okumuş efsane nesil
-  entry_id:  105887969
-  entry_writer: cekcekli
+    23 nisan 2020 dolar ve euro nun düşüşü
+  entry_id:  105915228
+  entry_writer: eksper
+  entry_fav_count: 83
+  entry_content: |
+    beş kuruşluk başlık açtırır.
+  entry_channels: ekonomi
+- entry_name: |
+    kaan boşnak'ın ifşa olması
+  entry_id:  105932180
+  entry_writer: boeing777
+  entry_fav_count: 71
+  entry_content: |
+    yuzyuzeyken konussalardi keske
+  entry_channels: ilişkiler,magazin
+- entry_name: |
+    recep tayyip erdoğan
+  entry_id:  105883890
+  entry_writer: amprikuku
+  entry_fav_count: 68
+  entry_content: |
+    100 yıl önce atamızın ne zorluklarla kurduğu meclisi vasıfsız hale getiren akpli. türkiye cumhuriyeti'nin yönetimi haketmediği halde kendisine emanet edilmiştir.<br/><br/>tüm çabasına rağmen <a class="b" href="/?q=atat%c3%bcrk">atatürk</a>'ü zihinlerden silemeyecektir. atatürk ismini statlardan havalimanlarından, kültür merkezlerinden silebilirsin ancak milyonlarca cumhuriyet çocuğunun kalbinden silemezsin.<br/><br/>bu sene yine dört ayak üzerine düşmüştür. 23 nisan'da koltukların emanet edildiği çocukların o yaşlarında bu ülkeyi kendisinden daha iyi yönetebileceğine inanıyorum.
+  entry_channels: siyaset,haber,ekonomi
+- entry_name: |
+    erdoğan'ın istiklal marşı etkinliğini bozması
+  entry_id:  105932881
+  entry_writer: tugcan72
   entry_fav_count: 60
   entry_content: |
-    --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>türküm türküm <br/>doğruyum doğruyum<br/>çalışkanım çalışkanım <br/>ilkem ilkem<br/>küçüklerimi korumak küçüklerimi korumak<br/>büyüklerimi saymak büyüklerimi saymak<br/>yurdumu yurdumu<br/>milletimi milletimi <br/>özümden çok sevmektir özümden çok sevmektir<br/>ülküm ülküm <br/>yükselmek yükselmek<br/>ileri gitmektir ileri gitmektir<br/>eeey büyük atatürk eeey büyük atatürk<br/>açtığın yolda açtığın yolda<br/>gösterdiğin hedefe gösterdiğin hedefe<br/>durmadan yürüyeceğime durmadan yürüyeceğime<br/>and içerim and içerim <br/>varlığım varlığım <br/>türk varlığına türk varlığına <br/>armağan olsun armağan olsun <br/>ne mutlu türküm diyene ne mutlu türküm diyene<br/><br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>neden çifter çifter yazıldığını ve sözcüklerin neye göre gruplandığını ilkokulda andımızı okuyan bilir.
-  entry_channels: tarih,eğitim
+    bilerek yapmadıysa hiç bir şey bilmiyorum. saat 9 da ekranını ayırabileceği yüzlerce güzel sahne varken, sn. cumhurbaşkanına yer veren fox tv'yi de kınıyorum.
+  entry_channels: siyaset
 - entry_name: |
     yeni neslin arasındaki ilişkiyi bilmediği iki şey
   entry_id:  105883390
@@ -267,34 +251,34 @@ data:
     fark ettiniz mi bilmiyorum ama ilacı açıkladığı günden beri vaka sayımız düşme trendine girdi. bu bilgiyi 1 mayıs günü verecektim ama sizi bu bilgiden mahrum bırakmak istemedim.
   entry_channels: bilim,sağlık,haber
 - entry_name: |
+    kalbi kırılmış bir erkeğin yapabilecekleri
+  entry_id:  105917800
+  entry_writer: ylz
+  entry_fav_count: 46
+  entry_content: |
+    kalbim kırıldı deyip instagramdan sürekli birilerini eklemek de yapabilecekler arasındadır. <br/><br/>kalbim kırıldı deyip zaman isteyerek yedek listesine bir kadın daha atıp önündeki maçlara odaklanmak ama bu esnada yedekteki kadını da arada yoklayıp uçmasını engellemek. <br/><br/>kalbim kırıldı deyip o kırıklardan herkesi içeri almak...nasıl bi kırıksa yarık olmuş. <br/><br/>erkeklerin kalbi ? olmayan şeyler için başlık açmaktan dolayı çaylak edilmenizi istiyorum.<br/><br/>edit: mesaj kutumu ağlama duvarına çevirdiniz. herkes ben öyle değilim ühühü diye ağlıyor. sen yapmıyorsan o yapmıyorsa bu kadınları kim üzüyor yahu ? gözümüzle gördüğümüzü de yazamıyoruz. adam patır patır ekliyor işte birilerini. cevizli irmik tatlısı tarifi öğrenmek değilse gayesi bu eklemelerin neyin alameti olduğunu biliyoruz. o sebepten susunuz beni depresyon hırkamla baş başa bırakınız. yoksa acısını birinizden fena çıkaracağım :)
+  entry_channels: anket,ilişkiler
+- entry_name: |
     futbolcunun adını söylemeden anlatmak
   entry_id:  105889828
   entry_writer: mariachi con pistola
-  entry_fav_count: 33
+  entry_fav_count: 34
   entry_content: |
     shakira'nın kocası
   entry_channels: spor,anket
 - entry_name: |
-    geceye az kişinin bildiği güzel bir film bırak
-  entry_id:  105884057
-  entry_writer: kuskucuneurons
+    23 nisan 2020 covid-19 vakasının 101790 olması
+  entry_id:  105930810
+  entry_writer: homo lucifer
   entry_fav_count: 29
   entry_content: |
-    arkadaşlar imdb top 100 listesini yapıştırmayı bıraksanız da keşke gerçekten az kişinin bildiği güzel bir film bıraksanız<br/><br/>ayrıca<br/><br/>(bkz: <a class="b" href="/?q=%c4%b1nvasion+of+the+body+snatchers">ınvasion of the body snatchers</a>) <br/><br/>gerçek science fiction böyle olur filmlerinden
-  entry_channels: anket,tv,sanat,sinema
-- entry_name: |
-    edirnekapı'da kedilerin kesilmesi
-  entry_id:  105913036
-  entry_writer: canavar geliyor kacalim
-  entry_fav_count: 26
-  entry_content: |
-    edit: fotoğraflara bakamadım. bu nedenle paylaşmadım. ancak bir alttaki enrty sahibi hepsini paylaştı. en başından beri çok yakından ilgilendiği için teşekkür ederim kendisine.<br/><br/>yazıyı olduğu gibi paylaşıyorum.<br/><br/>"arkadaşlar, edirnekapı tarafındaki kedilerle ilgilenen arkadaşımın yazısıdır. manyağın biri kedileri kesiyor. lütfen paylaşım desteği verip yardımcı olacak birilerine ulaşmamızı sağlayabilir misiniz? emniyete şikayet aşamasındalar ama ne kadar çok insana ulaşırsak o kadar iyi olur. malumunuz kamuoyu desteği böyle durumlarda çok önemli. " edirnekapı şehitlik'e (şehitliktramvay durağinin karşısı) düzenli olarak bakimini yaptiğimiz, beslediğimiz kedilerde son bir iki aydir azalma oldu. gittiğimiz gunlerde bazen çimenlerin içinde ölü kediler buluyorduk. gözünden ameliyat ettiğimiz yavrumuzu 10 gün önce bağırsakları dışarı çikmiş bulduk anlam veremedik. sonra patileri yanik kedi bulduk tedavi ettik maalesef ayni yere bıraktik. bugun ise besleme yapan bir kişiden fotograflar geldi mezarliğin içinde <br/><br/>kesik kediler, barsakları disariya çikarilmiş gövdeden kesilmiş yavrular..." <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/B_TCzMklXI9/?igshid=7of2fpkino2h" title="https://www.instagram.com/p/B_TCzMklXI9/?igshid=7of2fpkino2h">link</a>
-  entry_channels: haber
+    yukarıda yazarlardan biri bahsetmiş. malum şahsı ne zaman halkın önünde veya basın mensuplarının karşısında canlı yayında görürseniz o zaman bitti demektir.gerisi boş.
+  entry_channels: sağlık,haber
 - entry_name: |
     türkiye'nin 1999 yılı vs 2019 yılı ambulans sayısı
   entry_id:  105929696
   entry_writer: bbsbaq
-  entry_fav_count: 25
+  entry_fav_count: 28
   entry_content: |
     99 da <a class="b" href="/?q=dsp">dsp</a>-<a class="b" href="/?q=mhp">mhp</a>-<a class="b" href="/?q=anap">anap</a> koalisyonu vardı, <a class="b" href="/?q=ecevit">ecevit</a> öncesi <a class="b" href="/?q=mesut+y%c4%b1lmaz">mesut yılmaz</a> ondan evvel <a class="b" href="/?q=necmettin+erbakan">necmettin erbakan</a> başbakandı, istanbul belediyesi de <a class="b" href="/?q=fazilet+partisi">fazilet partisi</a>ndeydi. <br/><br/>chp bunun neresinde birader? ne alaka?
   entry_channels: 
@@ -302,104 +286,120 @@ data:
     23 nisan 2020 istanbul immun plazma ihtiyacı
   entry_id:  105924770
   entry_writer: aires blue
-  entry_fav_count: 25
+  entry_fav_count: 26
   entry_content: |
     taksim eğitim ve araştırma hastanesinde tedavi görmekte olan hasta için acil immun plazma ihtiyacı bulunmaktadır. bu konuda yardıma ihtiyaç var sözlük.<br/><br/>iletişim bilgileri ve detaylar görselde mevcuttur.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/174de4s9" title="https://soz.lk/i/174de4s9">görsel</a>
   entry_channels: bilim,sağlık,haber
 - entry_name: |
-    ev yoğurdu
-  entry_id:  105915309
-  entry_writer: hidrofobik suaygiri
-  entry_fav_count: 23
-  entry_content: |
-    bu tarz başlıklar altında hiçbir bilimsel veriye dayanmadan hurafelerle insanları yönlendiren arkadaşlar yine türemiş.<br/>bin kere söyledim ve yine söylemeye devam edeceğim. sapla samanı karıştırıyoruz. yoğurt yapımında elimizde en çok kullanılan 3 adet süt tedarik seçeneği var değil mi? evet. <br/><br/>çocuğa anlatır gibi hepsini ayrı ayrı ele alalım o zaman :<br/><br/>1- <a class="b" href="/?q=a%c3%a7%c4%b1k+s%c3%bct">açık süt</a>: kaynağını bilmiyorsanız (burada kastedilen size sütü getiren kişinin adı soyadı değil) sütü temin ettiği hayvanı ne şekilde beslediği, antibiyotik kullanımı, sütün içeriği çamaşır sodası, antibiyotik gibi zararlı kimyasallar ve karbonat, nişasta gibi yabancı maddeler nasıl elde ettiği vb. bunları nasıl bilebiliriz? bilemeyiz. her aşama için kontrol noktası oluşturulmalı. yoksa işimiz şansa kalmış durumda. temin ettiğimiz kişinin dürüst olması vb hiç önemli değil. sağım esnasında gözle görülemeyecek şekilde bir kıl bile sütün içerisine düşse bu süt her dakikada ikiye katlanarak patojen büyütür. çok namuslu ve dürüst brinin elinden çocuklarınızın vucuduna patojen sokarsınız. diğer yandan sütü aldık eve getirdik. bin kere söyledim. yine söylüyorum:<br/><br/>----büyük harflerle---<br/><br/>açık sütler sizin kaynattığınız sıcaklık aralığı olan 95-100°c’de kaynatıldığında içindeki mikropların çoğu yok olurken yararlı vitamin ve mineraller de yok olur. açık sütün içinde bulunma riski olan kimyasallar ise kaynatılarak yok e-di-le-mez-ler. bu nedenle açıkta satılan sütlerde her zaman sağlık açısından bir risk bu-lu-nur.<br/><br/>----büyük harflerle---<br/><br/>2- <a class="b" href="/?q=uht+s%c3%bct">uht süt</a>: marketlerde alelade bisküvi raflarında <a rel="nofollow noopener" class="url" target="_blank" href="https://assets.tetrapak.com/static/publishingimages/packaging/column-images/straw-hole-tba200b.gif" title="https://assets.tetrapak.com/static/publishingimages/packaging/column-images/straw-hole-tba200b.gif">gördüğünüz süt türü</a>. direkt güneş ışığına maruz kalmadığı sürece bozulmaz. bu sütü de yoğurt yapımında vb asla ama asla tavsiye etmiyoruz. zaten bundan yoğurt da olmaz. çünkü sütü uht haline getirebilmek için çok yüksek ısıda, çok yüksek bir basınç uyguluyorlar. bu basınç altında sütün içindeki tüm yararlı ve yararsız bakteriler ölüyor ve sütün içindeki protein ve enzimler de tahrip oluyor. bu yüzden de yoğun olarak sindirim sorunları yaşanıyor. <br/><br/>3- <a class="b" href="/?q=pastorize+g%c3%bcnl%c3%bck+s%c3%bct">pastorize günlük süt</a>: tavsiye ettiğimiz süt çeşidi budur. pastörize sütler, kaynama derecesinin altında belli bir sıcaklıkta, sütün doğal niteliklerinde değişiklikler oluşturmadan, hastalık yapan etmenlerinden tamamen, diğer etmenlerden de çoğunlukla arınmış bir içme sütü çeşididir. soğukta muhafaza edilmek şartıyla <a class="b" href="/?q=dayanma+s%c3%bcreleri+be%c5%9f+g%c3%bcnd%c3%bcr">dayanma süreleri beş gündür</a>. güvenilir markadan günlük süt tercih ettiğinizde size ve çoluk çocuğunuz için en uygun tercih budur. bu sütten yapılan yoğgurtta mayanıza göre yüksek oranda besleyici öğünler içerir. <br/><br/>size yıllarca marketlerde tüketmemiz için dayatılan taş gibi yoğurtlar gerçek yoğurt değildir. evvet annelerimizin yoğurtları taş gibiydi çünkü onlar sütü saatlerce kaynatıp suyunu uçurdular. o dönemin şartlarında en uygun yöntem oydu ama artık değil. <br/><br/>yoğurdun sertliği ile besin değeri arasında hiçbir ilişki yok canım. <br/><br/>lütfen bilip bilmeden insanları kafanıza göre açık süt kullanımına teşvik etmeyin. yakınınız akrabanız vb kimsenin umrunda değil. <br/><br/>sütün elde edildiği çiftliği, hayvanların beslenmesini ve elde edilen yöntemle birlikte soğuk tedarik zincirini kendi gözlerinizle görmeden açık süt tercih edilmesi en hafif tabirle saflıktır.
-  entry_channels: sağlık,yeme-içme
-- entry_name: |
-    1993 yılındaymış gibi yazmak
-  entry_id:  105909359
-  entry_writer: benimle gel wendy
-  entry_fav_count: 18
-  entry_content: |
-    babamı entübe et kalp krizine sinir krizi diyen orospu çocuğu, daha çok uğraşın daha çok genç. <br/><br/>annemin eline ayakkabılarını verip ölmüş kocasının ceplerini boşaltmasını isteyen piçlemenin hayalarını elime verin.<br/><br/>keşke o senede bu yaşta olsaydım gerçekten bunu çok isterdim.
-  entry_channels: anket,tarih,haber
-- entry_name: |
-    fatih tezcan'in kurdugu teror orgutu
+    fatih tezcan'ın kurduğu terör örgütü
   entry_id:  105918955
   entry_writer: sales9
-  entry_fav_count: 17
+  entry_fav_count: 22
   entry_content: |
     eski fetocu yavsağın elinde mobilize edebildiği 11 bin kişi var ve bunla ilgili ne savcılar ne istihbarat herekete gecmiyor. gerçekten ders almiyoruz yaşananlardan.
   entry_channels: siyaset,ilişkiler,programlama,teknoloji,haber
 - entry_name: |
-    23 nisan 2020 ercüment ovalı habertürk yayını
-  entry_id:  105924582
-  entry_writer: confidencesea
-  entry_fav_count: 17
-  entry_content: |
-    arkadaşlar bu adam resmen şarlatan ve yalancı.<br/><br/>dergilerde makale geç yayınlanır diye sosyal medyadan açıklama yaptım diyor. halbuki şu süreçte önemli dergilerde bir günlük değerlendirme ile makale yayınlanıyor.
-  entry_channels: tv,bilim,sağlık,haber
-- entry_name: |
     yüzüklerin efendisi'ni netflix çekseydi olacaklar
   entry_id:  105931338
   entry_writer: null value
-  entry_fav_count: 15
+  entry_fav_count: 21
   entry_content: |
     gandalf ve saruman'ın kavga ederken birden ateşli bir şekilde cima etmeye başlaması. <br/><br/>(bkz: <a class="b" href="/?q=a%c3%a7may%c4%b1n+dedeler">açmayın dedeler</a>)
   entry_channels: 
 - entry_name: |
+    23 nisan 2020 balkondan istiklal marşı okumak
+  entry_id:  105932550
+  entry_writer: aksi kanitlanmadikca cocuktur
+  entry_fav_count: 20
+  entry_content: |
+    esenyurt'un en kekolayzir mahallesinde oturuyorum ve insanlar balkonlarsa heyecanla bekliyor. <br/><br/>siyasal islam zehirleyemedi bu memleketi, gün bizim günümüzdür. bu, bunun tezahurudur. <br/><br/>ne büyüksün atatürk!
+  entry_channels: siyaset,tarih
+- entry_name: |
+    alman mühendisle türk mühendis arasındaki farklar
+  entry_id:  105929337
+  entry_writer: stenella
+  entry_fav_count: 14
+  entry_content: |
+    bırakın da bunu benim gibi her iki ülkede de mühendislik eğitimi almış, yıllarca mühendislik deneyimi olan bendeniz ve benzer basamakları çıkabilmiş insanlar karar versin. <br/>kısaca çok büyütülen farklardır. türkiye'nin en iyi üniversitelerindeki cevherler almanya'yı sollar. türk mühendislerinin sorunu mezun olunca ülkedeki düzene adapte olmak zorunda kalmalarıdır. bu durumda koşulları malesef çok zorludur. avrupa ve amerika'ya bir şekilde göç eden mühendisler ise eğitimlerinin ve zekalarının farkını anında ortaya koyarlar. ülkede koşullar daha iyi olsa ve bu kadar beyin göçü olmasa türk mühendislerinin eserlerinden daha çok bahsedecektik.
+  entry_channels: 
+- entry_name: |
+    rte'nin istiklal marşı okunmasını sabote etmesi
+  entry_id:  105932853
+  entry_writer: jay moriarity
+  entry_fav_count: 12
+  entry_content: |
+    rte birkaç saniye önce, "saat 21.00'de marşımızı okuyacağız." dedi ama biz onu dinlemeyip okuduk tabii, saat 21.00'de.<br/>edit: başlık başa
+  entry_channels: siyaset
+- entry_name: |
     astronotların senede 160 bin dolar kazanması
   entry_id:  105921604
   entry_writer: seviyorsevmiyorseviyorsevmiyorseviyor
-  entry_fav_count: 10
+  entry_fav_count: 12
   entry_content: |
     ayda kazanıyor da olabilirler <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
   entry_channels: bilim,haber,ekonomi
 - entry_name: |
-    23 nisan 2020 uefa'nın yerel ligler kararı
-  entry_id:  105923065
-  entry_writer: benibekledinse
-  entry_fav_count: 9
-  entry_content: |
-    "uefa ayrıca, liglerin bu sezon tamamlanmaması durumunda, avrupa kupalarına katılacak takımların katsayı yerine mevcut puan durumuna göre belirlenmesi tavsiyesinde bulundu."<br/><br/>haberin içeriğini okumayan holiganların analiz yaptıkları uefa kararı.
-  entry_channels: spor,haber
-- entry_name: |
-    şu an okunan kitap
-  entry_id:  105883989
-  entry_writer: sanane beeee
-  entry_fav_count: 8
-  entry_content: |
-    stefan zweig- lyon’da düğün<br/>kitap 3 öyküden oluşuyor: ilki lyon’da düğün. fransız devrimi yüzünden zulme uğrayan insanların arasında şartlar yüzünden evlilikleri askıya alınan iki gencin aşk hikayesini anlatıyor beni etkileyen kısmı:<br/>“ o mutluydu, sonsuzca mutluydu, çünkü sevdiğiyle aynı saat öleceğini biliyordu ve biri diğeri için yas tutmak zorunda kalmayacaktı”<br/>burda durup düşündüm biraz bencilce geliyor kulağa belki ama ben sevdiklerimden önce ölmek isterim çünkü onları kaybetmenin acısını yaşamak istemiyorum ailem konusunda bu endişeyi küçüklüğümden beri yaşıyorum ve genelde anne babalar evlatlarından önce vefat ederler bu yüzden hep endişe etmişimdir annesini babasını kaybedenin yaşadığı o acıyı tahmin etmek beni çok üzüyor bu endişeye yaşım ilerledikçe hayatımı birleştirdiğim insanın benden önce ölmesi endişesi eklendi ya aslında bu sadece ailenin eşinin gitmesi konusu değil ben alıştığım insanın alıştığım ortamın yoksunluğunu yaşamak istemiyorum bir yere son kez gitmiş olmak birini son kez görmüş olmak beni çok üzüyor sevdiklerimi hoşlandığım şeyleri -bunlar eşya olabilir köpek olabilir bir sürü şey olabilir - kaybetmek beni korkutuyor neyse yine bir zweig kitabı yine bir benliğimle yüzleşme seansı oldu ahahahahah<br/><br/>ikinci hikaye: iki yalnız insan <br/>bu hikayede toplum tarafından acılara mahkum edilen iki yalnız insanın birbirlerine acılarını itiraf ederek yalnızlığın canlarını nasıl yaktığını söylerek birbirlerinin yalnızlıklarına son vermelerini anlatıyor yine beni etkileyen kısmı yazayım:<br/>“kusurlarını görmeden birbirlerini anlamanın kör duygusu bu iki yalnız insanın üzerine bir mutluluk gibi inmişti”<br/>o kör duygu kısmı bana çok şey ifade ediyor benim felsefemi yansıtıyor her zaman insanları oldukları gibi kabul etmekten yana oldum hatta bu yüzden topluluklarda anlaşılması güç insanlarla ben ilgilendim ben iletişim kurmak zorunda bırakıldım gerçi buna zorunluluk diyince eziyet çekiyor gibi oldu ama öyle değil yani öyle şeyler oldu ki kimse onlarla iletişim kurmak istemeyince o görevler bana düştü. bu kusurları görmeden anlamanın ikili ilişkilerde de çok önemli olduğunu düşündüğüm için hikayedeki o yalnızlığın son buluşu bana bir kere daha doğrusunu yaptığımı düşündürdü.<br/><br/>üçüncü hikaye : wondrak<br/>aslında bu hikaye savaş karşıtı bir hikaye ama ben çok başka bi yerden etkilendim yazı zaten uzadı o yüzden buradan söz edip bitirmek istiyorum <br/>“sakat ve biçimsiz varlık yeterince sıkıntısı derdi yokmuş gibi bir de sağlıklı ve kusursuz varlıkların nahoş davranışlarına da katlanmak zorunda kalır” <br/>burada aslında çok net çok basit olan bir şey var toplumda kim bedensel olarak normalin dışına çıkarsa acımasızca ona yönelttiğimiz sözler bakışlar... <br/>sakat doğan bebekler, çirkin(!) olan insanlar neden bu onların suçuymuş gibi dışlanırlar? bunu neden yapıyoruz? veya onlara bunun yapılmasından rahatsız olan insanlar neden onlara acıyor gibi davranıp daha çok yalnız daha çok acınılası hissetmelerine sebep oluyorlar? sorulara cevabım yok ama çözüm olarak ben yine onlara normal insanlardan farklı olmadıklarını hissettirmek için elimden geleni yapmaya devam edeceğim. bir de bu hikaye bana christy brown- sol ayağım kitabını çağrıştırdı bazı noktalarda onun toplum tarafından nasıl itildiğini hatırlattı.<br/>daha yazacak çok şey var ama uzatmayayım artık ben kitabı tabii ki de beğendim ama keşke daha uzun uzun anlatsaydı bitmesini istemedim hikayelerin....
-  entry_channels: anket,sanat,edebiyat,eğitim
-- entry_name: |
     23 nisan 2020 istiklal marşı etkinliği
-  entry_id:  105930900
-  entry_writer: energyeconomist
-  entry_fav_count: 7
+  entry_id:  105933010
+  entry_writer: sakirtizm
+  entry_fav_count: 11
   entry_content: |
-    baku'de yasadigim sitede onlarca turk olmasina ragmen tek basina da olsam buranin saati ile 21'de gerceklestirdim. sizlerle birlikte turkiye saati ile 21'de yine balkonda olacagim.
+    reis konuşmasını bölmeye kıyamadığı için senkronisazsyon problemleri yaşanmış etkinlik. bu milletin birleşmesinin önündeki en büyük engelin anlaşılması açısından önemli.
   entry_channels: siyaset,haber
 - entry_name: |
-    30 bin tl ve üzeri maaş alan yazarlar
-  entry_id:  105885750
-  entry_writer: manumit
-  entry_fav_count: 3
-  entry_content: |
-    reelden tandığım bir iki kişi var sözlük yazarı olduklarını öğrendiklerimde şöyle bir baktım nicklerine, 3 entryde bir aldıkları maaştan bahsedebilecekleri entryler girmişler böyle başlıklar bulup.<br/><br/>nasıl bir görgüsüzlüktür.
-  entry_channels: anket,ekşi-sözlük,ekonomi
-- entry_name: |
     ayağı koktuğu düşünülen kadın ünlü
-  entry_id:  105931625
-  entry_writer: siyah feraceli kadin
-  entry_fav_count: 2
+  entry_id:  105929473
+  entry_writer: kafasikenbilge
+  entry_fav_count: 9
   entry_content: |
-    <a class="b" href="/?q=p%c4%b1nar+altu%c4%9f">pınar altuğ</a> sanki ayakkabısını çıkarınca parmak arasına elini sokup kaşıyor. öyle gibi canlanıyor gözümde
+    (bkz: <a class="b" href="/?q=demet+akalin">demet akalin</a>)<br/><br/>deve tabani gibi ayak var kadinda...
   entry_channels: anket,sağlık,magazin
 - entry_name: |
-    23 nisan 2020 balkondan istiklal marşı okumak
-  entry_id:  105932709
-  entry_writer: meraxes blackfyre
-  entry_fav_count: 2
+    ekşi itiraf
+  entry_id:  105895857
+  entry_writer: anderkaybana
+  entry_fav_count: 5
   entry_content: |
-    mahalle yıkılıyor, lan ne oluyor internete bakayım dedim, burada gördük başlığı, ne ara organize oldunuz.
-  entry_channels: siyaset,tarih
+    ailemi çok özledim. özellikle annem ve anneannemi. bir de grip olmuş pamuğum:( hemen gözüm yaşarıp, burnum akmaya başlıyor onunla konuşurken. canım anneannem. seni bu hayattaki herkesten, her şeyden çok seviyorum. ömrümden alınsın, ömrüne katılsın.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
+- entry_name: |
+    xbox game pass
+  entry_id:  105922962
+  entry_writer: fight clubdaki sizofren adam
+  entry_fav_count: 3
+  entry_content: |
+    geçen hafta 240 lira vererek aldığım red dead redemption 2'yi 7 mayısta verecek olan platform. hadi dolarin, altinin ben alinca düşmesine alıştım da buna dayanamıyorum.
+  entry_channels: oyun
+- entry_name: |
+    çaylaklardan mesaj bekleyen yazarlar veritabanı
+  entry_id:  105884618
+  entry_writer: furkanakca
+  entry_fav_count: 1
+  entry_content: |
+    23 nisan dolayısıyla küçüklerimizi sevindirmek maksadıyla mesaj alımını an itibarıyla açmış bulunmaktayım. evet bugün sizler için buradayım küçükler! hepinizin 23 nisan ulusal egemenlik ve çocuk bayramınızı kutlarım!
+  entry_channels: anket,ekşi-sözlük
+- entry_name: |
+    cumhurbaşkanının çocuklarla istiklal marşı okuması
+  entry_id:  105933574
+  entry_writer: kaburcuk toplayan japon
+  entry_fav_count: 1
+  entry_content: |
+    yalnız çocuğun birisine öne çık dedikçe, çocuk öbür uca doğru gitti. corona virüsden sanırım akıllı çocuk sosyal mesafeye dikkat ediyor.
+  entry_channels: siyaset,haber
+- entry_name: |
+    23 nisan 21 00'de marş okuyanların akpli olması
+  entry_id:  105933818
+  entry_writer: rustdelisiadam
+  entry_fav_count: 1
+  entry_content: |
+    kürtçüleri ve muhtemelen onların yandaşı olan vatan haini pembe götlüleri derinden üzen olaydır bugün okunan istiklal marşı, 2 yaşındaki serengeti ormanında yaşayan bir maymundan yüksek olmayan o iq'nuz ile bugün dahi bizi bölmeye,birliğimize bok atmaya çalışıyorsunuz ancak buna anca sizin gibi aveller inanır. gidin kumda oynayın.
+  entry_channels: siyaset
+- entry_name: |
+    ekşi sözlük dertleşecek insan veritabanı
+  entry_id:  105887335
+  entry_writer: dolandor
+  entry_fav_count: 0
+  entry_content: |
+    derdini anlatmak, sohbet etmek, müzik paylaşmak ve entelektüel taklidi yapmak isteyen herkes yazabilir.<br/><br/>yazar çaylak ayrımı yapmadan buradayım.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
