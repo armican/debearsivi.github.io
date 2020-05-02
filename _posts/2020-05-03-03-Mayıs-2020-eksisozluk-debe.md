@@ -6,7 +6,7 @@ data:
     burası aile apartmanı diyen komşu
   entry_id:  106448918
   entry_writer: shelobayuvaarayanhayvansever
-  entry_fav_count: 863
+  entry_fav_count: 910
   entry_content: |
     mahalle baskısı teröründe bir başka primatlık cinsi olarak, 21.yy’da türkiye gerçeğidir. bu komşunun bir diğer çeşidi <a class="b" href="/?q=eve+giren+%c3%a7%c4%b1kan+belli+de%c4%9fil+diyen+kom%c5%9fu">eve giren çıkan belli değil diyen komşu</a> sanırım. <br/><br/>başlığı açmamı sağlayan bu özlü sözü açıklamak istiyorum. yasal haklarım konusunda/ genel olarak tavsiye verecek olan varsa lütfen bana dm’den yazsın. <br/><br/>—-<br/>4 yıldır beraber olduğum erkek arkadaşım, haftada 2-3 gün benim evimde kalmaktadır. <br/><br/>üst kattaki komşum emekli bir polis adam. ve erkek arkadaşımın evime gelip bende kalmasını problem etmiş durumda ve bu mevzu bahsi geçen olaylardaki ana karakterdir kendisi.<br/><br/>yaklaşık 2 yıl önce polis olmasının da avantajıyla erkek arkadaşımı yolda çevirip tc sini sorgulamış; bunlar yetmemiş eşi de, annemi evine çağırıp çay içme vesilesiyle “kızınızın evine gelip giren biri var” şeklinde laflar söylemişti. <br/><br/>her ne kadar inanılmaz öfkelensem de birşey yapmadık; erkek arkadaşımla evime giriş çıkışlarına gözükmemeye çalışarak/ arabasını başka sokağa park ederek yönetmiştik. zaten ailem de yılda 2-3 kere bana geliyor ve geldiklerinde de muhattap olmadılar başka bir nedenden dolayı. böylece olaylar kapandı sanıyorduk. <br/><br/>ta ki bugüne kadar.<br/><br/>bu sefer ev sahibim ile bugün kirayı kendisine teslim etmemden 2 saat sonra beni arayarak şok geçirmemi sağlayan bir konuşma gerçekleştirdik. <br/><br/>konuşmanın özeti ise: “burası aile apartmanı, eve gelip giden sende kalan birisi varmış öyle dediler, yanlış şeyler olmasın, yanlış birşey yok değil mi? aile apartmanı sonuçta, başka bir kiracımızda da birşeyler olmuştu sonra evlendiler blablabla ” gibi şeyler. <br/><br/>hala sinirden elim titriyor. <br/><br/>——-<br/><br/>şu yüzyılın içerisinde bu konuları konuşuyor olmak bile üzücüyken, insanların bu hadsizliği/ cesareti/ cehaleti nasıl olacak da evrilecek? <br/><br/>aklım almıyor.
   entry_channels: ilişkiler
@@ -14,7 +14,7 @@ data:
     2002-2008 arası altın dönem
   entry_id:  106433611
   entry_writer: jambonluyumurta
-  entry_fav_count: 704
+  entry_fav_count: 713
   entry_content: |
     iktidarın; dışarıdan oluk oluk gelen parayı betona ve yandaşlarına gömmesi ile; 2008'den itibaren yerini altına sıçan bir türkiye'ye bırakan dönem.
   entry_channels: siyaset,ekonomi
@@ -22,7 +22,7 @@ data:
     imdb top 250'deki tırt filmler
   entry_id:  106443067
   entry_writer: kucuk bir insancik
-  entry_fav_count: 560
+  entry_fav_count: 579
   entry_content: |
     (bkz: <a class="b" href="/?q=avengers+endgame">avengers endgame</a>)
   entry_channels: anket,tv,sinema
@@ -30,7 +30,7 @@ data:
     boşanmış bir erkekle evlenmek
   entry_id:  106444699
   entry_writer: acemi senarist yazar
-  entry_fav_count: 517
+  entry_fav_count: 545
   entry_content: |
     boşandıktan sonra tekrar evlenen erkeğin aklını sikeyim.
   entry_channels: ilişkiler
@@ -38,39 +38,47 @@ data:
     ak parti'den önceki türkiye
   entry_id:  106422615
   entry_writer: nickerim ulen
-  entry_fav_count: 492
+  entry_fav_count: 496
   entry_content: |
     hiç bir sik yoktu diyen yaa uzaylıdır ya da sik görmemiştir.<br/><br/>ülke bu halden fersah fersah ileri idi.<br/><br/>ne cemaatlere ne istedilerse vermemiş ne de teröristlere saçılım yapmamıştı. 2002'de pkk bitiş hale gelmiş. ve suriyedeki bopçuların kurduğu oluşum o sarı alanları kapatmamıştı.<br/><br/>atatürkçüler ergenekondan içeri atılmamış. ayakkabı kutuları saçılmamıştı.<br/><br/>uzun göl ve salda talan edilmemişti.<br/><br/>telekom, tüpraş, petkim, seka, sümerbank, tekel, bir çok demirçelik, şeker, pamuk vs fabrikaları ve kurumlar özelleşmemişti.<br/><br/>ayrıca rant için geçiş, hasta uçuş garantili ihaleler hazine ile fonlanıp tüm ülkeye 10 liralık mal 1500 liraya yaptırılmamıştı.<br/><br/>kendi kendine tarımda yeten 6-7 ülken birisi iken ithal nohut, patates mercimek alan ülke haline gelmemiştik.<br/><br/>neredeyse 2001 yılında 1 kutu bira ile bir kutu kola birbiri fiyatlarında idi.<br/><br/>toplumda birbirine karşı güven vardı ufacık çocuklar mahallede gezip hiç tanımadıkları evlerden bile şeker toplayabiliyor idi ama şimdi dini vakıfların yurtlarında bile tecavüze uğrayıp bir aile tırnak içinde aile bakanı tarafından bi kereden birşey olmaz denilip konu kapatılıyordu. o zaman sende bir kere zenciye ver bakalım olur mu olmaz mı?<br/><br/>ayrıca kızılay gibi kurumlar kızılaylık yapıyordu şimdi ise vergiden kaçınmak için başvuran şirketlerin paralarını aklamaya geri döndürmeye paravan olmuş bir hale gelmişti.<br/><br/>düşünsenize vergi verilmesine engel olunup devletin fakirleştirilmesi yapılıyor.<br/><br/>belki ozaman teknoloji bu kadar gelişmiş değildi ve biraz yoksulduk ama en azından daha çok karnımız doyuyordu ve güvendeydik.<br/><br/>bak 2002 çeyrek altın fiyatı ile 2020 çeyrek altın fiyatına ve bunu asgari ücrete endeksle.
   entry_channels: siyaset,tarih,ekonomi
 - entry_name: |
+    öykü'nün macbook'unu yenilemesine yardım ediyoruz
+  entry_id:  106441145
+  entry_writer: kupkek
+  entry_fav_count: 479
+  entry_content: |
+    valla bu devirde macbook’u olan o, o bana yardım etsin. <br/>özelden ulaşırsan ıban atarım bebeğim.<br/><br/>konu kitap önermeye dönmüş bakıyorum da, o zaman benden size: <br/><br/><a class="b" href="/?q=kafka+oteli">kafka oteli</a><br/><br/>(bkz: <a class="b" href="/?q=ilhan+delikta%c5%9f">ilhan deliktaş</a>).<br/><br/>edit: entry anlamsız bir ilerleme içinde reklam için dm <sup class="ab"><a title="(bkz: ahahahahaah)" href="/?q=ahahahahaah" data-query="ahahahahaah">*</a></sup>.
+  entry_channels: teknoloji
+- entry_name: |
+    norveç'te 10 bin liraya satılan 2. el araba
+  entry_id:  106449628
+  entry_writer: kamerarkasi
+  entry_fav_count: 446
+  entry_content: |
+    sadece norveç'e özgü değildir.<br/>bulgaristan veya tam zıttındaki gürcistan sınırını geçin her yerde böyle..<br/>buna isyan edince de terörist paralelci fedoncu oluyoruz amk..<br/>kalimera!
+  entry_channels: otomotiv,ekonomi
+- entry_name: |
     nihat hatipoğlu'nun yaptığı sahur
   entry_id:  106446553
   entry_writer: girdapmc5
-  entry_fav_count: 308
+  entry_fav_count: 314
   entry_content: |
     milyonlarca lirayı cebe koyarak halka şükretmeyi öğreten din tüccarının yaptığı şovdur.<br/><br/>(bkz: <a class="b" href="/?q=at+yalan%c4%b1+sikeyim+inanan%c4%b1">at yalanı sikeyim inananı</a>)<br/><br/>kendisinin ilk şovu değildir,son da olmayacaktır.<a rel="nofollow noopener" class="url" target="_blank" href="https://www.birgun.net/haber/nihat-hatipoglu-nun-din-degistirme-sovuna-sert-tepki-255892" title="https://www.birgun.net/haber/nihat-hatipoglu-nun-din-degistirme-sovuna-sert-tepki-255892">13 yaşındaki ermeni çocuğu ailesinin haberi olmadan canlı yayında müslüman yapan din tüccarı</a><br/><br/>ayrıca kendisi toplumu kin ve düşmanlığa da sevk eden bir şarlatandır.<br/>(bkz: <a class="b" href="/?q=nihat+hatipo%c4%9flu%2f%40girdapmc5">nihat hatipoğlu/@girdapmc5</a>)
   entry_channels: tv,yeme-içme,magazin
 - entry_name: |
-    isviçre'deki asgari ücretlinin 3 maaşlık aracı
-  entry_id:  106456472
-  entry_writer: quarterpounder
-  entry_fav_count: 286
+    efendi adam olmayı bırakmak
+  entry_id:  106439692
+  entry_writer: komutankubar
+  entry_fav_count: 289
   entry_content: |
-    işte bunlar hep fazla nüfus. <br/><br/>ömrümüz tükeniyor gün be gün, biz bakarken adamlar mis gibi hayatlarını yaşıyor. et, süt ucuz, alkol, çikolata, çerez, araba beleş, elektronik beleş, nefes aldın vergisi yok, bir kiralar yüksek o da o kadar olsun. sokakta elini sallasan adama çarpmıyor, sokaklar ferah, dingin, nüfus dengeli. <br/><br/>nasıl ülkeyiz ben anlamıyorum ki, tamam berbat siyasi politikalar yüzünden paramız pul, değersiz. ama bari kendi ülkemizde yetiştirdiğimiz şeylerden üretilenler ucuz olsun, yok o da olmuyor.<br/><br/>baklava dediğin iyisi 80-100 arası. neymiş fıstık pahalıymış. bu amk fıstığı niye bu kadar pahalı diye el atan yok.<br/><br/>dondurmanın kilosu 60-70 lira, neymiş süt pahalıymış.<br/><br/>fındık ezmesi diyorsun, 30 lira? niye? sebebi belli değil. fındık kremaları keza aynı.<br/><br/>bal diyorsun iyi bal 80 ve üstü. niye?<br/><br/>1 kg pirzola 100lira. neymiş hayvancılık pahalıymış. lan soruyorum şu yazıyı okuyan kaçınız geçen hafta evine şöyle mermer gibi yağlı 1 kilo lop antrikot, ya da bonfile aldı da yedi?<br/><br/>tereyağı kilo 60 lira, beyaz peynir iyisi 50 lira. kaşar 45 lira. meyveler kilo 8-10dan başlıyor. <br/><br/>kimsenin hayatına karışılmıyor sözde, ama alkole gıcıklıklarından hayvan gibi vergi konuluyor. evine viski alabilen kalmadı. şaraba, cine uzaktan bakıyoruz. bira bile 12 lira. geçtim dışarda içmeyi, insan evine alacakken, lan şimdi, birası, çerezi çok tutar diye alamıyor. adam sana dolaylı yoldan zorla içirtmiyor o içkiyi. ama sorsan kimseye karışan yok.<br/><br/>araba fiyatları zaten şaka gibi 2400 lira maaş verilen ülkede arabalar 90-100binden başlıyor o da kimsenin sümüğünü atmayacağı arabalar.<br/><br/>ölsen bile mezar yerin 1000 küsür lira, bedava istiyorsan dipdibe gömüyorlar. ağaç ekilecek mesafen bile olmuyor.<br/><br/>destek kredilerine bile 10bin gösterip 3bin verip milletle başak geçiyorlar.<br/><br/>şimdi durun ve düşünün: <br/><br/>kaç tane kredi kartınız var, toplamının borçsuz açık limiti ne kadar? ya da toplam borcunuz?<br/>borcunu ödediğiniz kaç tane krediniz var?<br/>yakın çevreden kaç arkadaşınıza borcunuz var?<br/>kahvaltı alışverişi için markete giderken aklınızda alacağınız beyaz peynirin gramajının ne kadar tutacağını hesaplarken, önünüzden yarım milyonluk bmw ile geçen kekoyu görünce kaçınız orul orul küfretmiyor içinden?<br/><br/>öte yandan birileri de göbeğini kaşıyıp geviş getiriyor zevk ve lüks içinde. makamlar, saraylar, köşkler...<br/><br/>bıktım bu ülkeden bıktım.. bok gibi geldik, bok gibi gidip öleceğiz.<br/><br/>edit: entry çok kısa süredefavori oldu, mesaj kutuma her dakika mesaj geliyor aynı dilden, anlıyorum ki herkes bezmiş arkadaş..
-  entry_channels: haber,otomotiv,ekonomi
-- entry_name: |
-    3 mayıs 2020 seyahat yasağının bitmesi
-  entry_id:  106461268
-  entry_writer: gozlemlenebilirevren
-  entry_fav_count: 240
-  entry_content: |
-    anlatım bozuklugunda çığır açmak, amına koymak.
-  entry_channels: 
+    (bkz: <a class="b" href="/?q=atom+fizi%c4%9fi+de+profes%c3%b6rl%c3%bck+de+yerin+dibine+bats%c4%b1n">atom fiziği de profesörlük de yerin dibine batsın</a>)
+  entry_channels: ilişkiler
 - entry_name: |
     cinayet süsü
   entry_id:  106408038
   entry_writer: ben hastayim
-  entry_fav_count: 213
+  entry_fav_count: 218
   entry_content: |
     sonunda gelmiş, şimdi de ben izlemiyorum aq.
   entry_channels: tv,sinema,spoiler
@@ -78,7 +86,7 @@ data:
     1 mayıs 2020 camilerden gelen seslerin bitmemesi
   entry_id:  106406773
   entry_writer: coksinirlendimamk
-  entry_fav_count: 206
+  entry_fav_count: 208
   entry_content: |
     bıktım yemin ederim bıktım. bu nedir arkadaş? ülkenin bir kısmı müslüman diye tamamına böyle işkence etmek ne için? işkence çünkü susmak bilmiyor lan herkes buna katlanmak zorunda mı? çok istiyorsan evde et duanı neden milyonlarca insanı rahatsız ediyorsun? bu işler dua ile olmuyor ayrıca. sen önce asıl yapman gerekeni yapacaksın.
   entry_channels: siyaset,haber
@@ -86,7 +94,7 @@ data:
     2 mayıs 2020 covid-19 vakasının 124.375'e çıkması
   entry_id:  106454592
   entry_writer: kumulatifvergimatrahi
-  entry_fav_count: 138
+  entry_fav_count: 140
   entry_content: |
     part time sokağa çıkma yasağı ile corona'yı yenen tıp dünyasının dahi çocuğu sayesindedir.
   entry_channels: sağlık,haber
@@ -94,7 +102,7 @@ data:
     yılmaz özdil'in bodrum'daki villası
   entry_id:  106448702
   entry_writer: aristonunpilavi
-  entry_fav_count: 133
+  entry_fav_count: 139
   entry_content: |
     takvimi görünce okumadım. konu neymiş kanka? 250 liraya arazi mi parsellemiş.?
   entry_channels: haber
@@ -102,15 +110,31 @@ data:
     2 mayıs 2020 gökteki ışıklar
   entry_id:  106463475
   entry_writer: fulgura
-  entry_fav_count: 120
+  entry_fav_count: 138
   entry_content: |
     "flaş patlar gibi gökte oluşan bariz ışıklara" şimşek dendiği için geçersiz olan gözlemdir.
-  entry_channels: 
+  entry_channels: tarih,teknoloji,eğitim
+- entry_name: |
+    başbakan neden tv'lere çıkmıyor sorunsalı
+  entry_id:  106459700
+  entry_writer: hadi git
+  entry_fav_count: 107
+  entry_content: |
+    o değil de başbakan kim? cidden bilmiyorum da soruyorum(:
+  entry_channels: siyaset,tv
+- entry_name: |
+    sema'nın çeyiz lansmanı
+  entry_id:  106406785
+  entry_writer: ertunga
+  entry_fav_count: 99
+  entry_content: |
+    - semacım, evlenince karavanda yaşayalım, dünyayı gezelim.<br/>+ hasktir bok.
+  entry_channels: ilişkiler,magazin
 - entry_name: |
     türkiye'nin fakir bir ülke olması
   entry_id:  106459528
   entry_writer: resimci
-  entry_fav_count: 83
+  entry_fav_count: 89
   entry_content: |
     günaydın kardeşim mağara serin miydi<br/>hem de varlık içinde fakir bir ülkedir yani durum daha kötü
   entry_channels: ekonomi
@@ -118,7 +142,7 @@ data:
     survivor 2020 ünlüler-gönüllüler
   entry_id:  106407939
   entry_writer: hicbisikimikabuletmiyon
-  entry_fav_count: 83
+  entry_fav_count: 89
   entry_content: |
     nisa (bkz: <a class="b" href="/?q=borderline+ki%c5%9filik+bozuklu%c4%9fu">borderline kişilik bozukluğu</a>)<br/><br/>yunus emre (bkz: <a class="b" href="/?q=ba%c4%9f%c4%b1ml%c4%b1+ki%c5%9filik+bozuklu%c4%9fu">bağımlı kişilik bozukluğu</a>)<br/><br/>barış (bkz: <a class="b" href="/?q=antisosyal+ki%c5%9filik+bozuklu%c4%9fu">antisosyal kişilik bozukluğu</a>)<br/><br/>aşkım (bkz: <a class="b" href="/?q=histriyonik+ki%c5%9filik+bozuklu%c4%9fu">histriyonik kişilik bozukluğu</a>)<br/><br/>yasin (bkz: <a class="b" href="/?q=paranoid+ki%c5%9filik+bozuklu%c4%9fu">paranoid kişilik bozukluğu</a>)<br/><br/>mert (bkz: <a class="b" href="/?q=narsistik+ki%c5%9filik+bozuklu%c4%9fu">narsistik kişilik bozukluğu</a>)
   entry_channels: tv,magazin,spoiler
@@ -126,151 +150,111 @@ data:
     deniz börülcesi övme hastalığı
   entry_id:  106456226
   entry_writer: madchemist
-  entry_fav_count: 79
+  entry_fav_count: 85
   entry_content: |
     ooooo börülce mi övüyoruz. bol sarmısaklı ve zeytinyağlısına bayılırım mis gibi olur. hele bide rakı varsa keyfe gel.
   entry_channels: yeme-içme
 - entry_name: |
-    ekşi itiraf
-  entry_id:  106406650
-  entry_writer: morgendammerung
-  entry_fav_count: 67
-  entry_content: |
-    insanları değiştirmeye çalışmayın.onları terkedin.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
-- entry_name: |
-    ak parti'den sonraki türkiye
-  entry_id:  106427013
-  entry_writer: nickerim ulen
-  entry_fav_count: 57
-  entry_content: |
-    herkes önceki demiş ama artık sonrasını konuşmanın vaktidir.<br/><br/>atatürk çizgisinde, üretim ekonomisine geçmiş tüm erklerin yasama yürütme ve yargının bağımsız olduğu bir türkiye gelecek.<br/><br/>yandaş köprüleri kamuşlatırılacak.<br/><br/>nohut ithal eden değil ihraç eden ülkeye doğru geçilecek.<br/><br/>doğa ve yeşil korunaacak rant muslukları kapanacak.<br/><br/>liyakat ve gerçek adalet gelecek.
-  entry_channels: siyaset
-- entry_name: |
-    türkiye'deki şehir isimlerinin biraz garip olması
-  entry_id:  106445297
-  entry_writer: niiice
-  entry_fav_count: 44
-  entry_content: |
-    çoğu bizans dönemindeki isminden, fonetik olarak kulağa en yakın gelen türkçe söylenişe evrildiği için öyleymiş gibi durmaktadır.<br/><br/>adanos - adana<br/>amasis - amasya<br/>angora - ankara<br/>attaleia - antalya<br/><a class="b" href="/?q=ararat">ararat</a><sup class="ab"><a title="(bkz: ağrarat gibi telaffuz ediliyor)" href="/?q=a%c4%9frarat+gibi+telaffuz+ediliyor" data-query="ağrarat gibi telaffuz ediliyor">*</a></sup> - ağrı<br/>ardana - ardahan<br/>artvani - artvin<br/><a class="b" href="/?q=paleokastio">paleokastio</a> - <a class="b" href="/?q=bal%c4%b1kesir">balıkesir</a><br/>parthenios - bartın<br/>paypert - bayburt<br/><a class="b" href="/?q=bilekoma">bilekoma</a> - <a class="b" href="/?q=bilecik">bilecik</a><br/><a class="b" href="/?q=dokeia">dokeia</a> - <a class="b" href="/?q=tokat">tokat</a><br/><br/>vs. gibi.
-  entry_channels: tarih,seyahat
-- entry_name: |
-    2 mayıs 2020 bitlis saldırısı
-  entry_id:  106461120
-  entry_writer: yerli wikipedia
-  entry_fav_count: 44
-  entry_content: |
-    bu pkk pyd denen it sürüsü artık yok edilmeli.<br/>tansu çiller, bülent ecevit bunları yok etmişti, ama saraydaki şahıs önce örgütü diriltti, sonra suriye de devlet kurdurdu bunlara, en iyisini o biliyorya.<br/><br/>adam gibi bir yönetim gelene kadar şehit verip duracakmıyız.<br/>edit: bu saldırıdan sonra apo'ya internet bağlatıp, netflix üyeliği de verir bunlar.
-  entry_channels: haber
-- entry_name: |
     çayı bir üst noktaya çıkaran detaylar
   entry_id:  106446142
   entry_writer: melo basgan
-  entry_fav_count: 31
+  entry_fav_count: 35
   entry_content: |
     demlemeden önce çayın üstünden tozunu alması için soguk suyla 1 kere geçmek. diğer türlü çayı bardağa koyunca tozlar bardagın ustune cıkıp keyfinizi kaçırır.
   entry_channels: anket,yeme-içme
 - entry_name: |
-    sıkıcı erkeklerin kendilerine efendi demeleri
-  entry_id:  106454758
-  entry_writer: lmrvnx
-  entry_fav_count: 29
-  entry_content: |
-    çirkinse "<a class="b" href="/?q=s%c4%b1k%c4%b1c%c4%b1">sıkıcı</a> ve <a class="b" href="/?q=ezik">ezik</a>" olur, yakışıklıysa <a class="b" href="/?q=olgun+efendi+sakin+yak%c4%b1%c5%9f%c4%b1kl%c4%b1+erkek">olgun efendi sakin yakışıklı erkek</a> veya <a class="b" href="/?q=cool+erkek">cool erkek</a> olur..<br/>(bkz: <a class="b" href="/?q=d%c4%b1%c5%9f+g%c3%b6r%c3%bcn%c3%bc%c5%9f%c3%bcn+her+%c5%9fey+oldu%c4%9fu+ger%c3%a7e%c4%9fi">dış görünüşün her şey olduğu gerçeği</a>)
-  entry_channels: ilişkiler
-- entry_name: |
     kim milyoner olmak ister
   entry_id:  106464113
   entry_writer: birgaripkoleksiyoncu
-  entry_fav_count: 28
+  entry_fav_count: 33
   entry_content: |
     35 yaşında koç hukuk mezunu adam orucun akşam açıldığını bilmiyor.<br/><br/>bir de ilişki danışmanıymış insanlara sevgili buluyormuş <br/><br/>senin bulduğun karıyı sikiym ben.
   entry_channels: tv
 - entry_name: |
-    türk gencinin ömrünü mahveden üç şey
-  entry_id:  106455356
-  entry_writer: bana her yer cehennem
+    sıkıcı erkeklerin kendilerine efendi demeleri
+  entry_id:  106454758
+  entry_writer: lmrvnx
+  entry_fav_count: 30
+  entry_content: |
+    çirkinse "<a class="b" href="/?q=s%c4%b1k%c4%b1c%c4%b1">sıkıcı</a> ve <a class="b" href="/?q=ezik">ezik</a>" olur, yakışıklıysa <a class="b" href="/?q=olgun+efendi+sakin+yak%c4%b1%c5%9f%c4%b1kl%c4%b1+erkek">olgun efendi sakin yakışıklı erkek</a> veya <a class="b" href="/?q=cool+erkek">cool erkek</a> olur..<br/>(bkz: <a class="b" href="/?q=d%c4%b1%c5%9f+g%c3%b6r%c3%bcn%c3%bc%c5%9f%c3%bcn+her+%c5%9fey+oldu%c4%9fu+ger%c3%a7e%c4%9fi">dış görünüşün her şey olduğu gerçeği</a>)
+  entry_channels: ilişkiler
+- entry_name: |
+    3 mayıs 2020 seyahat yasağının bitmesi
+  entry_id:  106461432
+  entry_writer: bi dal versene
+  entry_fav_count: 23
+  entry_content: |
+    tahminimce bayram sonuna kadar uzatılacaktır.
+  entry_channels: haber,seyahat
+- entry_name: |
+    iyi bir evlilik için gerekenler
+  entry_id:  106427309
+  entry_writer: serkes limanlar
   entry_fav_count: 22
   entry_content: |
-    çaresizlik bunlardan 1 tanesidir.<br/><br/>görüyoruz filmlerde gençler 18 yaşına gelince baba evinden ayrılıyor.<br/>bizde bunu yapabilen kesim %1 bile değil maalesef<br/>neden maalesef ? baba evinde yaşamak kötü birşey mi de maalesef diyorum.<br/><br/>şimdi 18 yaşındaki genç baba evinden ayrılsa nerede işe girecek. genç işsizlik oranı %25<br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.aa.com.tr/tr/ekonomi/issizlik-rakamlari-aciklandi/1698440#" title="https://www.aa.com.tr/tr/ekonomi/issizlik-rakamlari-aciklandi/1698440#">kaynak</a><br/><br/>hadi diyelim iş buldu girdi. kaç para maaş alacak, kaç paraya ev tutacak. <br/>bu genç eğer erkek değil de kadın ise ev sahipleri ev verecek mi ? mahalle baskısı görecek mi ? orospu damgası yiyecek mi. bunlar maalesef çok misafirperver biz türk toplumunun ikiyüzlülüğü.<br/><br/>hadi diyelim ev buldu bu genç. dışarı çıkıp sosyal faaliyette bulunabilecek mi ? parası bunlara yeterli mi ?<br/>bakın gelişmiş ülkelerin tamamında part time çalışan bir genç 1-2 aylık maaşı ile araba alabiliyor. sizin şuan türkiyede araba alabilmeniz için kaç ay çalışmanız gerektiğinden haberiniz var mı ?<br/><br/>off yazarken yeminle moralim bozuldu. <br/>bütün bu kadar olumsuzluk varken bu genç çaresizlikler yüzünden baba evinde kalıyor.
-  entry_channels: anket
+    ilk önce tarafların gerçekten evlenmeye ve bir ömür aynı yastığa baş koymaya niyet etmiş olmaları şart; çevremde bazı örnekler görüyorum, insanlar sırf yaşları geldiği için çeşitli biyolojik korkuları nedeniyle, aile-çevre-akran baskısı nedeniyle, bir sosyal ödev daha omuzlarımızdan kalksın yaklaşımı ile, sosyal statü kazanmak-maddi refaha ermek umudu ile ve en acısı "bundan daha iyisini bulamam, kala kala buna kaldık ama hiç yoktan iyidir" düşünceleri ile evleniyorlar ve sonuç elbette hüsran oluyor. cicim aylarının bitişi ile tartışmalar başlıyor, çürük inşa edilmiş aile gemisi daha okyanusa açılamadan kıyıdaki dalgalara yenik düşüp su alıyor ve soluk mahkeme kapısında alınıyor. <br/><br/>elbette gözlemlediğim çok iyi örnekler de var ve onlardan elde ettiğim bazı çıkarsamalarımı da paylaşmak istiyorum. ilk olarak "zıtlar birbirini çeker" miti evlilik kurumu için tamamen çürük bir mit, farklı dünyaları olan insanlar dostluk-ahbaplık müessesesi için ideal evet, fikri tartışmalar, yeni düşüncelerin çarpışması, arada saygı da varsa eğer ufuk açıcı kapışmalar çok hoş şeyler. lakin insanlar işten güçten evlerine geldikleri zaman zaten tüm bu tartışmalara, beyin fırtınalarına doymuş olarak geliyorlar ve genelde kendilerini anlayacak, ortak paydada çok çaba sarf etmeden buluşabilecekleri eşler ile karşılaşmak istiyorlar. kendilerini anlayıp, ortak ya da yakın dünya görüşü ile günün olaylarını analiz edip (yanlış dahi olsa) bir omuzda ya da kucakta gevşeyip günün dertlerini yuvalarının kapısının dışında bırakmak istiyorlar. bu noktada dünya görüşü, dini inancı, huyu suyu uyuşmayan bireylerin genelde bu bahsettiğim frekansa geçememelerinden mütevellit karı-koca hukuklarının sarsıldığına çok şahit oldum. <br/><br/>bir diğer husus da tarafların maddiyat algısı, bazı insanlar maneviyat odaklıdır ve tecrübelere değer verirler, paralarını da bu yönde kullanmak isterler. çeşitli geziler, kurslar, değişik tecrübeler edinmek ve bu yolla iç dünyalarını beslemek isterler. bazı kişiler ise maddi odaklıdırlar ve hesaplarında biriken paradan, yaşadıkları evin lüksünden, bindikleri otomobilin modelinden haz alırlar. şimdi eğer taraflar zenginse ve ortada "kısıtlı kaynaklardan" doğan bir çatışma yoksa ama taraflar arası saygı ve hoşgörü varsa ilişki yine yürüyor ama taraflar maddi yönden orta direkse işte o zaman kızılca kıyamet kopuyor. eşlerden birisi güzel bir yurtdışı gezi ile o ülkede bir workshop'a katılmak istiyor, bir diğeri o parayı araba taksitine yatırmak, birisi konserlere gitmek, festivallere katılmak istiyor, diğeri bunlardan kısıp ev kredisi ödemek, birisi bazı sosyal kurumlara destek olmak istiyor, diğeri lüks ev eşyaları almak istiyor. hangi açıdan baktığınıza göre değişecek şekilde her iki taraf da haklı olabiliyor, işte bu yüzden hangi açıdan baktığınız önemli, çünkü günün sonunda herkes kendini haklı göreceği için genelde orta yol bulunmuyor ve kavgalar artıyor. mesela bir arkadaşım ortak bütçeden artan para ile bir öğrenci okutmak istiyordu, eşi ise o parayı kendi bakım masrafına ayırmayı uygun buluyordu, her ikisi de kendi açısından haklı olduğu için bu tartışma 3 ay sürdü ve iyi bitmedi. <br/><br/>bir diğer nokta da taraflar arasında bir "çekim" olması, bundan kastım film ve şarkılardaki epik sevda masalları değil, lakin kişilerin eşlerine bakınca gönüllerinin süzülmesi, çekilmesi önemli. bundan kastım genel geçer bir güzellik değil, daha çok o kişinin sizi çekici bulması (elbette karşılıklı olarak) ve aranızda bir "kıvılcım" yaratacak kadar tutku olması. eğer o tutku varsa, az bile olsa, yukarda saydığım kriterler tuttuktan sonra zaman içinde eşler arasındaki kıvılcım harlı bir ateşe dönüşebiliyor. bu bahsettiğim kıvılcımı bir çeşit maya gibi düşünün, eğer varsa olanı çoğaltıyor ama hiç yoksa da zaman geçtikçe eşler sadece birbirlerinden itiliyor. bazı öneri üzerine evlenen dostlarımda buna benzer şeyler yaşandı, taraflar ilk görüşte bir çekim hissettilerse devamı geldi, hissetmeyip de "zamanla olur" beklentisine girdilerse devamı gelmedi. devamı gelmeyince ne oluyor ? zamanla her ilişkide olan ufak tefek pürüzler gözünüzde büyümeye başlıyor, karşınızdaki kişinin bir hatası sonucu "üzgünüm" demesi size bir şeyler ifade edemeyebiliyor çünkü bir noktada size şirin gelmiyor. bu onu affedememenize neden oluyor ve affedemediğinizde diğer en ufak hataları da gözünüze takılmaya başlıyor ve karşınızda sadece negatif özellikler yığınından oluşan birisi oluyor. "aşk her şeyi affeder" yaklaşımı biraz haddini aşsa da içinde güçlü bir doğruluk payı da var, bahsettiğim çekimi hisseden eşler içlerinde yoğun bir kaybetme korkusu taşıdıklarından ötürü hem özür dilemeye, hem hatalarını telafi etmeye, hem de aynı hataları tekrar etmemeye ve karşı tarafı daha kolay affetmeye yatkın oluyorlar. <br/><br/>son olarak da sadece evlilik değil, tüm insan ilişkilerinin temel taşlarından birisi olan "doğru zamanda alttan almayı bilmek" geliyor. bahsettiğim şey sürekli alttan alıp pısırık ve sümsük olmak değil, hakkını aramamak hiç değil. bahsettiğim şey karşı tarafın öfkeden-hiddetten gözü dönmüşken ya da çok üzgünken, morali bozuk iken, bazı hatalarında ve yersiz çıkışlarında o anlık onu idare edebilmek. hepimiz öfke anlarımızda kırıcı olabilme potansiyeli taşıyoruz, işte eşimiz bu potansiyeli aktive ettiği bir anda onun delireceğini bile bile sırf hakkımızı savunmak adına ortalığa benzin dökmemeliyiz. karşı tarafa kendini yatıştıracak zaman tanımalı, tansiyonunun düşmesi için ılımlı konuşmalı ve sular durulduktan sonra hakkımızı sakince aramalıyız. eğer biz de onunla tartışmaya başlar ve işleri büyütürsek günün sonunda belki ne için tartıştığımızı bile unuturuz ama yıllar sonra bile o gün ne kadar berbat hissettiğimizi unutmayız, o da unutmaz ve bunlar birikince yuvanın temellerini çatlatır.
+  entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    mateja kezman'ın son hali
-  entry_id:  106451219
-  entry_writer: olsa da yemesek
-  entry_fav_count: 19
+    en son izlenen netflix içeriği
+  entry_id:  106406726
+  entry_writer: akademikmuhendis
+  entry_fav_count: 22
   entry_content: |
-    sakalları kesse, biraz da saçına bakım yaptırsa sözlük erkeklerinin %95'indan daha genç, fit ve yakışıklı duracağına eminim.<br/><br/>alt tarafı 41 yaşında, abartmayın.
-  entry_channels: spor,magazin
+    (bkz: <a class="b" href="/?q=love+death+%26+robots">love death &amp; robots</a>)
+  entry_channels: anket,tv
 - entry_name: |
-    güne psikolojik bir tespit bırak
-  entry_id:  106412518
-  entry_writer: sir dangerous
-  entry_fav_count: 19
+    berat albayrak'ın kendini başarılı sanması
+  entry_id:  106466287
+  entry_writer: green stone
+  entry_fav_count: 17
   entry_content: |
-    kopan bir ipe sımsıkı bir düğüm atarsanız, ipin en sağlam yeri artık bu düğümdür; ama ipe her dokunuşunuzda canınızı acıtan tek nokta yine o düğümdür. <br/>- <a class="b" href="/?q=%c3%a7in+atas%c3%b6z%c3%bc">çin atasözü</a><br/><br/>ilkokuldayken bize atasözleri ve deyimler kitapları aldırırlardı. <br/><br/>türkçe derslerini hiç sevmezdim. bir de bunun üzerine bu deyim ve atasözleri kitapları içinden rastgele bir cümle seçip üzerine kompozisyonlar yazdırırlardı. ben de o cümleyi evirip çevirip aynı şeyleri yazıp yüksek de puan alırdım(hepsi 5'ti :))<br/><br/>o zamanlar yapılan şeyi çok anlamsız bulurdum. tek bir cümleyi satırlarca açıklamak bize ne kazandıracaktı ki?<br/><br/>fakat büyüdükçe, o cümlelerin altında yatan tecrübeleri bile bile tecrübe ettiğinde, yazdığın kompozisyonların aslında ne kadar da yetersiz olduğunu görüyorsun.<br/><br/>kısa yoldan hayat tecrübesi mi edinmek istiyorsun? <br/><br/>al eline bir atasözleri kitabı, oku baştan sona; ama öyle kitap okur gibi değil. ciddi ciddi üzerine düşünerek, ne olmuş olabilir de bu cümle atasözüne girmiş sorusuyla.
-  entry_channels: anket,ilişkiler,bilim
+    herhalde türkiye tarihinde kendisi kadar başarısız bir ekonomi bakanı olmamıştır.<br/><br/>4 lira olan dolar kurunu 2 yılda 7 liraya getirmiştir.<br/><br/>işsizlik rekor seviyededir. türkiye tarihinde ilk defa insanlar borçlarını ödeyemedikleri için intihar ediyorlar.<br/><br/>insanda biraz utanma olur ama bu arkadaş tv lere çıkıp hala başarıllı oldugunu iddia edebiliyor cok ciddi bir illüzyon yaşıyor. birileri lütfen doların 7 lira oldugunu ekonominin tamamen cöktüğünü bu arkadaşa söylesin.
+  entry_channels: siyaset
 - entry_name: |
-    emp ile mahalledeki hoperlörleri patlatmak
-  entry_id:  106462195
-  entry_writer: frondie
+    maldivlere gitmek varken eminönünde takılan martı
+  entry_id:  106452020
+  entry_writer: monreve
   entry_fav_count: 16
   entry_content: |
-    allah belalarını versin arabistana çevirdiler ülkeyi!
+    niyetine girse pek ala 8-10 günde el degmemiş balıkları gümletebilecek iken tüm vaktini tramvay sesleri içinde 2 vapur arası harcayan martı.. hayır yani nedir bu gevrek sevdası?
   entry_channels: 
+- entry_name: |
+    yapılmış en güzel türkçe dublaj
+  entry_id:  106460215
+  entry_writer: most valuable player
+  entry_fav_count: 14
+  entry_content: |
+    <a class="b" href="/?q=ice+age">ice age</a> serisini tek geçerim. dünyadaki en güzel örnek bile olabilir.<br/><br/>"hanım hanım onlal benim yavrulalım"
+  entry_channels: anket,sinema
 - entry_name: |
     kanal 24'te canlı yayında bira içen adam
   entry_id:  106462808
   entry_writer: hedefe kosan adam
-  entry_fav_count: 12
+  entry_fav_count: 14
   entry_content: |
     bunu atatürk'ün kurduğu türkiye cumhuriyeti'ne borçlu olmasına karşın onu ortadan kaldırmaya çalışanların kıçını yalayan ironik bir garabettir.<br/><br/>ramazan ramazan bir de. alayı böyle ahlaksız bunların. birkaç hafta sonra bunu sağda sola birilerine söverken göreceksiniz, emin olun.
   entry_channels: siyaset,tv,haber,yeme-içme
 - entry_name: |
-    cem yılmaz'ın sinemada başarısız olduğu gerçeği
-  entry_id:  106456590
-  entry_writer: reddluck
-  entry_fav_count: 7
-  entry_content: |
-    dram izleyecek olsam mis gibi dram filmleri (bkz: <a class="b" href="/?q=nuri+bilge+ceylan">nuri bilge ceylan</a>) (bkz: <a class="b" href="/?q=%c3%a7a%c4%9fan+%c4%b1rmak">çağan ırmak</a>) var amk neden cem yilmazin filmine gideyim. cem yilmazin filmine gideceksem gülmek icin giderim ama son zamanlarda güldüremiyor.
-  entry_channels: sinema
-- entry_name: |
-    çinlilerin robot üretip satmaya başlaması
-  entry_id:  106463317
-  entry_writer: nacakalani
-  entry_fav_count: 6
-  entry_content: |
-    bunu da yer bunlar.
-  entry_channels: teknoloji,haber,ekonomi
-- entry_name: |
-    ailenin karşı çıkmasına rağmen yapılmış şeyler
-  entry_id:  106462527
-  entry_writer: renklikisilikbozuklugu
-  entry_fav_count: 6
-  entry_content: |
-    1) onlara kalsa şehir dışında bile yalnız başıma yaşamamalıydım. gittim kıbrısta yüksek lisansımı yaptım. <br/><br/>2) evlendim. onlara kalsa memleketlim ile falan evlenmeliydim, görücü usülü gibisinden. ben bir de gayri müslim biriyle evlendim. <br/><br/>not: anne-baba her ne kadar kızsa bile, bi noktadan sonra "eh bari mutlu olsun, yeter ki kararından pişman olmasın" diyor. <br/><br/>bu hayat her bir insan için tecrübe edinme dükkanıdır. dener, yanılır, hatalar yaparsın. bazı aileler ne karar verirsen ver destekler. kimi ailelerde despottur, sadece kendi tecrübelerini önemser. ama siz kesin kararlı ve güçlü durmayı başarırsanız önünüzde kimse duramaz.
-  entry_channels: anket
-- entry_name: |
-    3 mayıs türkçülük günü
-  entry_id:  106444670
-  entry_writer: ne var davarin kizina var
-  entry_fav_count: 6
-  entry_content: |
-    türk'ten çok türk düşmanı ermeni orospu çocukları tarafından istila edilmiş başlık.
-  entry_channels: siyaset,tarih,haber
-- entry_name: |
     2 mayıs 2020 istanbul yağmuru
   entry_id:  106462487
   entry_writer: silivrili
-  entry_fav_count: 6
+  entry_fav_count: 9
   entry_content: |
     an itibariyle <a class="b" href="/?q=silivri">silivri</a>'de çok şiddetli yağan yağmurdur. <br/><br/>edit: çok yoğun şimşek ve gök gürültüsü var.<br/><br/>bu geceden arda kalan bir <a rel="nofollow noopener" class="url" target="_blank" href="https://soz.lk/i/gakafxk6" title="https://soz.lk/i/gakafxk6">görsel</a>
   entry_channels: 
 - entry_name: |
+    cem yılmaz'ın sinemada başarısız olduğu gerçeği
+  entry_id:  106456590
+  entry_writer: reddluck
+  entry_fav_count: 8
+  entry_content: |
+    dram izleyecek olsam mis gibi dram filmleri (bkz: <a class="b" href="/?q=nuri+bilge+ceylan">nuri bilge ceylan</a>) (bkz: <a class="b" href="/?q=%c3%a7a%c4%9fan+%c4%b1rmak">çağan ırmak</a>) var amk neden cem yilmazin filmine gideyim. cem yilmazin filmine gideceksem gülmek icin giderim ama son zamanlarda güldüremiyor.
+  entry_channels: sinema
+- entry_name: |
     hayat kalitesini yükselten şeyler
   entry_id:  106465679
   entry_writer: dnzctn
-  entry_fav_count: 5
+  entry_fav_count: 7
   entry_content: |
     düzenli nakit akışı.
   entry_channels: anket
@@ -278,18 +262,34 @@ data:
     ciddi ciddi yüksek lisans yapan insan
   entry_id:  106464603
   entry_writer: rain when i cry
-  entry_fav_count: 5
+  entry_fav_count: 6
   entry_content: |
     akademideki vasatlığa bakılırsa pek de ciddi ciddi yapılmıyor sanki ama siz bilirsiniz. ben bu yüksek lisans işinin bu kadar yaygınlaşmasına olumlu bakamıyorum. çünkü niteliksel olarak bir değer üretmiyor master/doktora yapan çoğunluk. ekseriyeti maaşım ne kadar artar derdinde .<br/>eğitimin nasıl verilmesi hakkında düşünüyorum uzun bir süredir. adım başı üniversite dikileceğine müfredatın lise son’a kadar hayat bilgisi dersine devam etmesi gerekiyor. dalga geçmiyorum.<br/>hastane, postane, adliye ne işe yarar; toplu taşıma ve atm’ler nasıl kullanılır, doktora garsona polise nasıl hitap edilir, adabı muaşeret nedir? çok temel ve basit sorunları hayatı boyunca çözemeyen insanlar var. bu derslerin mümkünse interaktif ve görece eğlenceli kılınması da gerekiyor. cinsel eğitim de şart: karşı cinse ne yapamam, ne bekleyemem, rıza nedir taciz ne, şiddet karşısında ne yapmalıyım?<br/>tırnaklarını kesmeyi bilmeyen ama iş ve teknik dersinde kıl testereyle sunta kesmeyi öğrenmiş milyonlar var. bu halkın suçu mu onu da söyleyemeyiz, eğitimi üstlenen kimse sorumluluk ondadır.<br/><br/>seksen milyon insana integral öğretmeye çalışmak kimin fikriydi acaba? ileri derecede zeka geriliği olan birileri eğitimi zamanında sistematize etmiş ve yüzlerce akıllı işin içinden çıkamıyor. hala da rakamları değiştirerek bir şeylerin değişeceğini zanneden çocuklar iş başında.<br/><br/>osmanlı’da okuma oranı yüzde beşmiş. cumhuriyet sonrası okumayı öğrenip zorunlu eğitim dışında okumaya gönüllü yüzde beş yoktur oysa.<br/>muhteşem bakırcılardan kötü mühendisler yaptık. atları aşkla tımar edecek seyisler akademisyen olamadığı için prozacla yaşıyor. şimdi ne doktorlar ibn sina, ne mühendisler da vinci olabiliyor. eminim bakırcı da alim de tırnak kesmeyi biliyordu geçmişte, bizim aksimize.<br/><br/>böyle bir toplum -terakkiyi bırakın- akıl ve ruh sağlığını nasıl koruyabilir ki? mutluluğu yakalama imkanı nasıl olabilir? geçmişte bütün reform şansları ütopistler ve ideologların elinde çarçur edildi. kimse adım adım, özveriyle, daha iyiyi planlayarak hareket etmiyor. türk hakikaten duygusuyla türk. aklıyla tutkusu arasında denge gözetemiyor. savaşıyor ama maraton koşamıyor. soğukkanlı, mutedil olmak mizacında yok, bu yüzden her tür sisteme yabancı, uzun soluklu işlere de inanmıyor, zaman algısı yanlış konumlanmış fanilik düşüncesiyle bozuk. şimdi bu insan profesör olsa ne değişir, neyi değiştirir.<br/><br/>biraz dertleşmek istedim.
   entry_channels: bilim,eğitim
 - entry_name: |
-    yaşayan en büyük siyasetçi
-  entry_id:  106459964
-  entry_writer: corsairsgold35
-  entry_fav_count: 4
+    türkiye'nin kurtuluşu euro'ya geçmektedir
+  entry_id:  106466245
+  entry_writer: yersiz araba
+  entry_fav_count: 5
   entry_content: |
-    (bkz: <a class="b" href="/?q=mansur+yava%c5%9f">mansur yavaş</a>)
-  entry_channels: siyaset,anket
+    sanki euro’ya geçince asgari ücret iki bin euro olacak. maaşlar ve fiyatlar kura bölünecek, alım gücü değişmeyecek.<br/><br/>euro’ya geçmek, para politikası yapma hakkından vazgeçmek dışında bir işe yaramaz. ekonomik bağımsızlığımızı elimizden alır, almanya ve fransa’nın insafına kalırız. mesela, birleşik krallık’a bakın, avrupa birliği içindeyken euro’ya geçti mi ?<br/><br/>ayrıca, ekonominin para biriminden her zaman daha güçlü olması gerekir. mesela yunanistan, euro’ya geçti ama, ekonomisi bunu kaldırmadı. şu anda hallerini görüyoruz.
+  entry_channels: ekonomi
+- entry_name: |
+    muğla denince akla gelenler
+  entry_id:  106439325
+  entry_writer: syhvebyz
+  entry_fav_count: 5
+  entry_content: |
+    (bkz: <a class="b" href="/?q=dat%c3%a7a+devlet+hastanesi">datça devlet hastanesi</a>)<br/><br/>2014 yılında yapımında çalıştığım (hatta seramikleride sayemde siyah ve beyazdır) yaklaşık 1 senemi geçirdiğim mükemmel ilçe. sıkıntılı yollarından dolayı hala gelen tatilci sayısı, diğer yörelere göre az olması onu dahada özel kılıyor. sessizliği ve hafif esen rüzgarıyla taht kuruyorsun gönlümde..<br/><br/>bir gün bir badem tarlasına prefabriği kurup; kıvırcık saçlı, gamzeli hayali eşim ile birlikte yaşayacağız.
+  entry_channels: anket,tarih,seyahat
+- entry_name: |
+    evlendikten sonra eşin tiktok kullamaya başlaması
+  entry_id:  106465905
+  entry_writer: hayaletciniz
+  entry_fav_count: 5
+  entry_content: |
+    çocukluk arkadaşım evlendikten sonra eşiyle beraber tiktok saçmalığına başlamıştı. hatta bi tane videoları bayağı popüler olup tv de falan gösterilmişti. neyse evliliklerinin 1. yılının dolduğu gün boşandılar.
+  entry_channels: ilişkiler
 - entry_name: |
     cüneyt özdemir'in yazacağı kitaba isim önerileri
   entry_id:  106459950
@@ -299,29 +299,13 @@ data:
     (bkz: <a class="b" href="/?q=esrar%c4%b1+bilmezdim+harman%c4%b1+oldum">esrarı bilmezdim harmanı oldum</a>)
   entry_channels: anket
 - entry_name: |
-    türkiye'nin kurtuluşu euro'ya geçmektedir
-  entry_id:  106466082
-  entry_writer: lordum
+    mükemmel ikili
+  entry_id:  106465962
+  entry_writer: beyoglundaki tramvay
   entry_fav_count: 3
   entry_content: |
-    matbaalarımız yerli ve milli euro basacak sanıyor galiba arkadaşlar...önemli olan sensin, senden bir cacık olmuyorsa malzemeleri değiştirmen olacağın anlamına gelmiyor önce senin olman lazım.<br/><br/>eyyy almanya sen kimsin ya bana euro basıp vermiyorsun muhabbetleri yaşanmadan kapatalım konuyu.<br/><br/>kullandığın para biriminin hiçbir önemi yok. kullandığın para birimine kattığın değer önemli. böyle çin'den beter mallar üretip biraz zor yol alırsın.<br/><br/>bir yabancıya veya türk'e japon markalarını sorunca kawasaki, mitsubishi, toyota, sony, toshiba diye gidiyorken bizle ilgili sorulsa ne cevap verilir? beko?<br/><br/>japonlar euro mu kullanıyor, dolar mı?
-  entry_channels: ekonomi
-- entry_name: |
-    muğla denince akla gelenler
-  entry_id:  106439325
-  entry_writer: syhvebyz
-  entry_fav_count: 3
-  entry_content: |
-    (bkz: <a class="b" href="/?q=dat%c3%a7a+devlet+hastanesi">datça devlet hastanesi</a>)<br/><br/>2014 yılında yapımında çalıştığım (hatta seramikleride sayemde siyah ve beyazdır) yaklaşık 1 senemi geçirdiğim mükemmel ilçe. sıkıntılı yollarından dolayı hala gelen tatilci sayısı, diğer yörelere göre az olması onu dahada özel kılıyor. sessizliği ve hafif esen rüzgarıyla taht kuruyorsun gönlümde..<br/><br/>bir gün bir badem tarlasına prefabriği kurup; kıvırcık saçlı, gamzeli hayali eşim ile birlikte yaşayacağız.
-  entry_channels: anket,tarih,seyahat
-- entry_name: |
-    kitap okumanın sıkıcı olduğu gerçeği
-  entry_id:  106460702
-  entry_writer: dragotunovic
-  entry_fav_count: 3
-  entry_content: |
-    eskiden bu kadar teknoloji ve imkanları yoktu. kitaba ayıracak çok zaman vardı. şimdi devir değişti ve zaman kıymete bindi. insanlar bakkala girdiğinde önünde bekleyen 1 kişinin ödeme süresine dahi tahammül edemiyorlar.
-  entry_channels: 
+    kekik ve zeytinyağı.
+  entry_channels: anket,yeme-içme
 - entry_name: |
     doktorların instagram hesabının dr ile başlaması
   entry_id:  106455930
@@ -331,21 +315,13 @@ data:
     kim neyi ön plana çıkarıyorsa, onun için en önemli şey odur. onlar için doktor olma sıfatı önemli demek ki.
   entry_channels: anket,teknoloji,sağlık
 - entry_name: |
-    ankara'nın en çok sevilen yanı
-  entry_id:  106459013
-  entry_writer: snsnsnsn
-  entry_fav_count: 3
-  entry_content: |
-    mansur başkan.
-  entry_channels: anket,seyahat
-- entry_name: |
-    kadınları çekici yapan detaylar
-  entry_id:  106427837
-  entry_writer: bilinen evrendeki bilinmeyen adam
+    hoşlanılan kızın doğum gününde iphone 11 istemesi
+  entry_id:  106445447
+  entry_writer: fareli koyun pompacisi
   entry_fav_count: 2
   entry_content: |
-    zeki ve merhametli olması.
-  entry_channels: anket,ilişkiler
+    hakkıdır. enflasyon döviz almış başını gidiyor. amcık fiyatı aynı mı kalacaktı
+  entry_channels: 
 - entry_name: |
     tv'de sadece dmax ve tlc izleyen yazar
   entry_id:  106465807
@@ -355,45 +331,61 @@ data:
     ben artık onları da izlemiyorum park tv ve bld tv yetiyor bana
   entry_channels: tv,ekşi-sözlük
 - entry_name: |
-    the dark knight'ın boktan bir film olması
-  entry_id:  106464175
-  entry_writer: suggestive
+    erkeklerin yatmadan önce yaptıkları son şey
+  entry_id:  106468051
+  entry_writer: ybkk
   entry_fav_count: 1
   entry_content: |
-    mantık hatalarıyla dolu bir filme yapılan haklı eleştiridir.
-  entry_channels: 
+    ayet-el kürsi okuyurum ben.
+  entry_channels: anket
 - entry_name: |
-    lionel messi
-  entry_id:  106438829
-  entry_writer: mizah seviyesi fazla olan yazar
+    denizli denince akla gelenler
+  entry_id:  106466691
+  entry_writer: spr1nger
   entry_fav_count: 1
   entry_content: |
-    suarez hariç griezman dembele gibi takım arkadaşlarına oynayacağınız futbolu sikeyim dermiş gibi bakıyor.
-  entry_channels: spor
+    (bkz: <a class="b" href="/?q=denizli+kebab%c4%b1">denizli kebabı</a>)<br/>(bkz: <a class="b" href="/?q=pamukkale">pamukkale</a>)<br/>(bkz: <a class="b" href="/?q=tekstil">tekstil</a>)<br/>(bkz: <a class="b" href="/?q=denizli+horozu">denizli horozu</a>)
+  entry_channels: anket,tarih
 - entry_name: |
-    covid-19'a 90lardaki sağlık sistemiyle yakalanmak
-  entry_id:  106461920
-  entry_writer: alwaysbetter
+    5 mart 2016 cizre'nin korkunç hali
+  entry_id:  106467004
+  entry_writer: quat
   entry_fav_count: 1
   entry_content: |
-    o dönemin yetkilileri o dönemin şartlarına göre önlem alırlardı muhtemelen. o dönemin istanbul nüfusu ve genel olarak türkiye nüfusunu düşündüğümüz zaman bu kadar yayılmazdı belki de.
-  entry_channels: 
+    bunun öncesinde de bir video vardı, bu video da ki teyzeler çuvalı tutuyor, videodaki genç ve çocuklar da çuvallara kum dolduruyordu. hazırladıkları mevzilere taşıyorlardı.<br/>hepsi beraber özerklik ilan etmiş, o mutlu mutlu yabancı basına açıklamalar yapıyordu "tece giremez" diye. öyle bir girer ki, anlamazsın nasıl girdiğini. <br/><br/>bir laf var yiyemeyeceğin şeyin altına yatma.
+  entry_channels: siyaset,tarih,haber
 - entry_name: |
-    fahrettin koca'nın 8.2 m takipçiye ulaşması
-  entry_id:  106466890
-  entry_writer: başlık taşıyan
+    kitap okumanın sıkıcı olduğu gerçeği
+  entry_id:  106460885
+  entry_writer: mitsuphi
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=fahrettin+koca%27n%c4%b1n+8.2+milyon+takip%c3%a7iye+ula%c5%9fmas%c4%b1">fahrettin koca'nın 8.2 milyon takipçiye ulaşması</a>)
-  entry_channels: siyaset,sağlık,haber
+    anladım ki ben polisiye roman ya da kült roman/hikaye seviyorum. bir miktar da bilim kurgu. onun dışındaki kitaplar artık sıkıyor. bunun nedeni ise artık öğrenme isteğim kaybetmiş olmam olabilir.
+  entry_channels: 
 - entry_name: |
-    başbakan neden tv'lere çıkmıyor
-  entry_id:  106466839
-  entry_writer: başlık taşıyan
+    dünyanın en gizemli kişisi
+  entry_id:  106467362
+  entry_writer: kizevinazevi
   entry_fav_count: 0
   entry_content: |
-    (bkz: <a class="b" href="/?q=ba%c5%9fbakan+neden+tv%27lere+%c3%a7%c4%b1km%c4%b1yor+sorunsal%c4%b1">başbakan neden tv'lere çıkmıyor sorunsalı</a>)
-  entry_channels: siyaset,anket
+    (bkz: <a class="b" href="/?q=fuat+avni">fuat avni</a>)
+  entry_channels: siyaset,anket,tarih
+- entry_name: |
+    doğuştan zeki olmak vs çok çalışmak
+  entry_id:  106468119
+  entry_writer: yine mi sen kutup ayisi
+  entry_fav_count: 0
+  entry_content: |
+    çok çalışan kazanır. zeka faktörü bir yere kadardır. azmin elinden uçanla kaçan bile kurtulamaz.
+  entry_channels: ilişkiler,bilim,eğitim
+- entry_name: |
+    borsaya başlayacaklara öneriler
+  entry_id:  106465310
+  entry_writer: dryopteris filix femina
+  entry_fav_count: 0
+  entry_content: |
+    şu an borsanın dolar bazındaki seviyesi 1.35 cent civarında. bu maksimum 7 centi, minimum da 0,5 centi görmüştü. şu anki seviye bile borsaya girmek için bilgi verebilir. eninde sonunda 2-2,5 cent göreceği seviye. <br/><br/>borsa yükselirken ve düşerken genellikle banka ve bist 30 kağıtlarıyla hareket eder. borsa %10 yukarı gittiğinde bu kağıtlar %16-17 yükselir. düşerken de tam tersi. <br/><br/>şu anki durumda bankalara ucuz kredi verme zorunluluğu getirildiğinden dolayı banka karları enflasyonun altında. bundan dolayı ihracat yapabilen şirketler daha fazla tercih edilir. dolar yükselmesine bağlı karlılığı yüksek görünür. <br/><br/>riski dağıtmak da lazım. toplam paranızın %30’u borsa %20 döviz %20 altın hesabı %30 nakit gibi.
+  entry_channels: anket,ekonomi
 - entry_name: |
     44 derece vücut sıcaklığı
   entry_id:  106458963
@@ -402,4 +394,12 @@ data:
   entry_content: |
     adam hemşirenin dediğini söylemiş ki hemşirede olamaz demiş makinenin hatası olabilir sonrasında gitmiş bayılmış zaten niye yüklenip gereksiz yere konu açılıyor anlamak güç. insanlarla dalga geçmeye aşağılamaya ne kadar meraklısınız.
   entry_channels: sağlık
+- entry_name: |
+    3 mayıs türkçülük günü
+  entry_id:  106464785
+  entry_writer: osmanbek
+  entry_fav_count: 0
+  entry_content: |
+    nice 3 mayıslara... kutlu olsun.
+  entry_channels: siyaset,tarih,haber
 ---
