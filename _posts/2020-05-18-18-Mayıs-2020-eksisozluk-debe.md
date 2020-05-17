@@ -6,7 +6,7 @@ data:
     gta 5 bedava diye 350 hesap açmak
   entry_id:  107319441
   entry_writer: lafalaf
-  entry_fav_count: 1033
+  entry_fav_count: 1040
   entry_content: |
     sizde durumlar nedir diye sormuş ruh hastası.<br/><br/>biz insan gibi 1 tane hesabımıza ekledik ve eşe dosta tavsiye ettik, bitti. orospu çocukluğunun alemi yok.
   entry_channels: oyun
@@ -14,15 +14,23 @@ data:
     kız çocuklarını sevemez olduk
   entry_id:  107310625
   entry_writer: osgiliathburns
-  entry_fav_count: 956
+  entry_fav_count: 960
   entry_content: |
     şimdi bu başlığı açan arkadaş kötü bir şey mi yazmış ki altına son sovmo tarzı yorumlar yapılıyor? <br/>gayet doğru ve üzücü bir tespitte bulunmuş. <br/>ben doğduğumda ve beş yaşına kadar şimdiki gibi çirkin değilmişim mesela. sokakta görenler öpmeden yanağımı mıncıklamadan bırakmazmış. tamam anne çocuğunun öpülmesini istemeyebilir hastalık, mikrop bulaşır korkusuyla çünkü insanlar artık daha bilinçli ama başlıkta anlatılmak istenen konu o değil zaten. konu çocuğun anne babası için herkesin potansiyel sapık, katil olarak görülür olması.<br/><br/>edit: saçma sapan mesajlar geliyor. çirkin bir kadın olduğumu düşünüp yürüyenler bile oldu <sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup><br/>ben yazdıklarımla kimseyi suçlamadım. her ebeveyn kendi çocuğuyla ilgili istediği şekilde davranmaya özgürdür. zaten içinde bulunduğumuz durum insanları paranoyak olmaya itiyor. yazdıklarımdan pedofiliyi özendirdiğim anlamı çıkaranlara tekrar okumalarını tavsiye ederim.
   entry_channels: ilişkiler
 - entry_name: |
+    17 mayıs 2020 hakan şükür'ün attığı tweet
+  entry_id:  107295313
+  entry_writer: zampara ferit
+  entry_fav_count: 904
+  entry_content: |
+    şu memleketteki bir gün gelecek herşeyi anlatacağım tribine de hastayım. anlat işte neyi bekliyorsun.
+  entry_channels: spor,haber
+- entry_name: |
     ayvalık'ta satılan 750.000 tl'lik bahçeli ev
   entry_id:  107329927
   entry_writer: lisw
-  entry_fav_count: 583
+  entry_fav_count: 598
   entry_content: |
     full dış çekim yapmışlar. emlakçının bile götü yememiş içeri girip birkaç poz almaya.
   entry_channels: ekonomi
@@ -30,7 +38,7 @@ data:
     düşük iq belirtileri
   entry_id:  107291122
   entry_writer: tayrodosi
-  entry_fav_count: 564
+  entry_fav_count: 569
   entry_content: |
     survivor’a oy atmak
   entry_channels: anket,ilişkiler
@@ -38,15 +46,31 @@ data:
     selin ciğerci'nin 5 milyona rolls royce alması
   entry_id:  107323192
   entry_writer: kurtarin kendinizi
-  entry_fav_count: 477
+  entry_fav_count: 497
   entry_content: |
     anlam veremediğim durum.<br/><br/>bir insan eşcinsel olabilir. ancak bir insanın sırf bu özelliğinden ötürü sebepsiz biçimde zenginleşmesine aklım ermiyor. <br/><br/>insanların işsizlikten dolayı kendini yaktığı, fakirlik yüzünden isyan ettiği, kirasını ve faturasını ödeyemediği, enflasyon ve devalüasyonun parayı paçavraya çevirdiği bir ortamda bu suyun kaynağı nereden geliyor?<br/><br/>ülke, venezuela olmaya doğru emin adımlar ile ilerlerken, eğitimli genç nüfus ülkeden kaçmanın yollarını ararken bu insanlar ne yapıyorlar, ne ediyorlar da bu paraları kazanıyorlar? <br/><br/>anlamakta zorluk çekiyorum. <br/><br/>hayır, kim bu insanlar?<br/><br/>meslekleri nedir?<br/><br/>ne üretip, ne satıyorlar?
   entry_channels: magazin
 - entry_name: |
+    süleyman soylu
+  entry_id:  107308558
+  entry_writer: papercut
+  entry_fav_count: 475
+  entry_content: |
+    belediye seçiminden önce chp seçilirse ankara'da faturaları teröristler getirecek diyen vasıfsız bir kel.
+  entry_channels: siyaset
+- entry_name: |
+    kızını hamile bırakan adamın facebook profili
+  entry_id:  107335240
+  entry_writer: turkiyeden bikan pilot
+  entry_fav_count: 470
+  entry_content: |
+    seçmeni rencide etmekle alakası olmayan durum. görünen köy kılavuz istemez. sen kuzenle yatmak caizdir, akrabadan çocuk sahibi olmak günah değildir, 13 yaşındaki kız hamile kalabilir diye açıklama yaparsan olacağı budur.
+  entry_channels: haber
+- entry_name: |
     bilgi üniversitesi hocasının fenerbahçe düşmanlığı
   entry_id:  107314710
   entry_writer: don emilio
-  entry_fav_count: 407
+  entry_fav_count: 412
   entry_content: |
     bir spor kulübüne kendini bu kadar adayan net gerizekalıdır. akademisyenliğe torpille gelmiştir, araştırılsın.<br/>edit: profilini inceledim de harbiden gerizekalı amk. milleti cenge davet ediyor. teker teker gelin yazmış bir de. sanki gelseler güreş tutacak amk. 14 yaşındaki erkek ergenin anarşistliği var üzerinde. kaç yaşına gelmiş kurtulamamış hala. zeka yaşının düşüklüğünden olabilir.
   entry_channels: spor,haber,eğitim
@@ -54,18 +78,10 @@ data:
     zeynep bastık'çılar sözlükten şutlansın kampanyası
   entry_id:  107322244
   entry_writer: larrylaurels
-  entry_fav_count: 397
+  entry_fav_count: 398
   entry_content: |
     zeynep bastık x'in y'sidir diye başlık açan tüm tek haneli iq sahibi çoklu cinsel birliktelikte bulunan kadın çocuklarına karşı yapılmasını desteklediğim kampanya.
   entry_channels: ekşi-sözlük
-- entry_name: |
-    kızını hamile bırakan adamın facebook profili
-  entry_id:  107335240
-  entry_writer: turkiyeden bikan pilot
-  entry_fav_count: 397
-  entry_content: |
-    seçmeni rencide etmekle alakası olmayan durum. görünen köy kılavuz istemez. sen kuzenle yatmak caizdir, akrabadan çocuk sahibi olmak günah değildir, 13 yaşındaki kız hamile kalabilir diye açıklama yaparsan olacağı budur.
-  entry_channels: haber
 - entry_name: |
     17 mayıs 2000 galatasaray arsenal maçı
   entry_id:  107287923
@@ -78,23 +94,39 @@ data:
     ekonomide v tipi sıçrayış bekliyoruz
   entry_id:  107331736
   entry_writer: akhaeus
-  entry_fav_count: 307
+  entry_fav_count: 341
   entry_content: |
     v for mahir
   entry_channels: siyaset,haber,ekonomi
 - entry_name: |
+    fitness salonlarında uygulanacak corona önlemleri
+  entry_id:  107313113
+  entry_writer: den den mushi
+  entry_fav_count: 308
+  entry_content: |
+    <a class="b" href="/?q=satisfaction">satisfaction</a> klibindeki gibi bir ortam olacak sanırım.
+  entry_channels: spor,sağlık,haber
+- entry_name: |
     bir kadının varoş olduğunu belli eden detaylar
   entry_id:  107315029
   entry_writer: mukemmelligi hizlandiramayan adam
-  entry_fav_count: 279
+  entry_fav_count: 285
   entry_content: |
     varoş kadınların tipine bu kadar hakimseniz, kendi kalitenizi sorgulamanız gerekir.
   entry_channels: anket,ilişkiler,eğitim
 - entry_name: |
+    1995-2005 arası doğan efsane nesil
+  entry_id:  107300146
+  entry_writer: cinkusu
+  entry_fav_count: 235
+  entry_content: |
+    10 sene sonra 2010 da doğan çocuk bizim nesil efsane nesil diye başlık açacak. giderek yok oluyoruz 80 ve 90 lar....
+  entry_channels: anket
+- entry_name: |
     osmanlı'da salgın hastalık olmaması
   entry_id:  107331158
   entry_writer: 0game
-  entry_fav_count: 217
+  entry_fav_count: 227
   entry_content: |
     --- <a class="b" href="/?q=spoiler">spoiler</a> ---<br/><br/>kanuni döneminde saraya kadar gelen vebayı bilmemek...<br/>--- <a class="b" href="/?q=spoiler">spoiler</a> ---
   entry_channels: tarih,sağlık
@@ -102,7 +134,7 @@ data:
     17 mayıs 2020 yaşlı amcanın darp edilmesi
   entry_id:  107329955
   entry_writer: merdumgirizmibenimo
-  entry_fav_count: 204
+  entry_fav_count: 206
   entry_content: |
     edit1: desteğiniz için minnettarım. eskişehir büyükşehir belediyesi yardımcı oldu, şahıs yavuz amcamızdan özür diledi. yavuz amca kedileri beslemesi şartıyla şahsı affetti. şahıs hakkında cezai işlem yapılacak mı bilmiyorum fakat ikisi arasındaki gerilim bitti ve amcamız parkta rahatça kedilerimizi besleyebilecek. <br/><br/>edit2: büyükşehir belediyesi tarafından parkımıza mama ve su kapları sabitleneceği bildirildi. artık kimse atmasın diye demire, ağaca bağlamak zorunda kalmayacağız. bugün sinirden ağladığım olayın gülerek sonuçlanması adına inanılmaz mutluyum. ekmek almaya inen insanlar tam da kavga edilen noktaya mama ve su kapları bırakmışlar. gerçekten çok mutluyum eskişehir tam da böyle bir yer olmalı.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/CASuyz-pUTf/?igshid=1mjv57iac5aak" title="https://www.instagram.com/p/CASuyz-pUTf/?igshid=1mjv57iac5aak">video linki</a><br/><br/>bu görüntüler eskişehir fatih mahallesi halman sokakta bulunan parkımızda 17 mayıs tarihinde saat 16.00 civarında yaşandı. ortak kullanım ve hayvanların yaşam alanı olan parklarda bulunan suları devirerek onları besleyen amcamıza saldırıda bulunuyor. <br/><br/>bu yaptığı davranışı herkes görsün ve cezasını çeksin istiyoruz. <br/>bu günlerde bizlere daha çok ihtiyacı olan canlılara yardım etmemiz, allah'ın bizlere olan emanetini korumamız gerekirken bu yaşanan olay gerçekten son derece rahatsız edici. insanların emeklerini çabalarını atıp bu şekilde zarar veren kişiden şikayetçi olacağız, lütfen sesimizi duyuralım.<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="https://www.instagram.com/p/CATDN3QpSeD/?igshid=w8b2prqrkfe7" title="https://www.instagram.com/p/CATDN3QpSeD/?igshid=w8b2prqrkfe7">özür dilediğine dair link</a>
   entry_channels: haber
@@ -110,7 +142,7 @@ data:
     duyulmuş en farklı ad soyad kombinasyonu
   entry_id:  107288540
   entry_writer: kaybol
-  entry_fav_count: 171
+  entry_fav_count: 173
   entry_content: |
     (bkz: <a class="b" href="/?q=rahime+dilde%c4%9fmez">rahime dildeğmez</a>)
   entry_channels: anket,ilişkiler
@@ -118,7 +150,7 @@ data:
     pizza recep tayyip erdoğan
   entry_id:  107333591
   entry_writer: mmorumsu
-  entry_fav_count: 163
+  entry_fav_count: 166
   entry_content: |
     1 al 3 öde
   entry_channels: siyaset,yeme-içme
@@ -126,15 +158,31 @@ data:
     rus kızın etkileyici twerk dansı
   entry_id:  107326805
   entry_writer: daha sakin olamazdim
-  entry_fav_count: 143
+  entry_fav_count: 155
   entry_content: |
     göt sallamak... bir erkek olmama rağmen bana seksi gelmiyor, estetik bile değil.
   entry_channels: ilişkiler
 - entry_name: |
+    türkiyede 85 tlye yapılan market alışverişi
+  entry_id:  107326074
+  entry_writer: strobist
+  entry_fav_count: 150
+  entry_content: |
+    6 tane paket çorbayı güzelce yayarak kadrajı doldurmuşsun tebrik ediyorum..
+  entry_channels: yeme-içme,ekonomi
+- entry_name: |
+    dünyada ahlaksızlığın artma sebebi netflix'tir
+  entry_id:  107316315
+  entry_writer: temporature
+  entry_fav_count: 140
+  entry_content: |
+    doğru tesbittir. halbuki netflix'den önce ne kadar ahlaklı, mis gibi bir dünyamız vardı. pis netflix, sikti attı ahlakımızı.
+  entry_channels: anket,teknoloji
+- entry_name: |
     türk halkının osmanlı'ya özlem duyma sebepleri
   entry_id:  107318522
   entry_writer: mehmet kemal
-  entry_fav_count: 123
+  entry_fav_count: 124
   entry_content: |
     biri onlara "özlem duyun" dedi onlar da duyuyor. yani onlara denileni yapıyorlar. yarın osmanlıya kufredin derler onlar da küfreder.
   entry_channels: siyaset,anket,tarih
@@ -142,7 +190,7 @@ data:
     trafik kazasında ölen oğlunun öcünü alan baba
   entry_id:  107323610
   entry_writer: curufes
-  entry_fav_count: 119
+  entry_fav_count: 120
   entry_content: |
     silahla vurmak yerine arabayla üzerinden geçse daha az ceza alırdı. ben demiyorum, hukuk diyor.
   entry_channels: haber
@@ -150,7 +198,7 @@ data:
     larissa gacemer'in haklı serzenişi
   entry_id:  107333241
   entry_writer: dunyayagecgelenkisi
-  entry_fav_count: 111
+  entry_fav_count: 117
   entry_content: |
     bu serzeniş sonrasında şunu okuyacağız yorum olarak muhtemelen: "canım tedavi artık çok kolay. deneyebilirsiniz". buradaki "canım"ı anladınız siz. akıl verme canım'ı. yani "ben doğurdum çok güzel. senden daha üstün ve bilgiliyim. allah herkese versin"<br/>iğrençsiniz. rezilsiniz. topunuzun canı cehenneme.
   entry_channels: ilişkiler,magazin
@@ -158,7 +206,7 @@ data:
     votka vişneyle mi redbull ile mi içilir sorunsalı
   entry_id:  107325360
   entry_writer: zeus1925
-  entry_fav_count: 91
+  entry_fav_count: 98
   entry_content: |
     aga bence votka içilmez
   entry_channels: anket,yeme-içme
@@ -166,10 +214,18 @@ data:
     survivor 2020 ünlüler-gönüllüler
   entry_id:  107287954
   entry_writer: defansif kanat forvet
-  entry_fav_count: 88
+  entry_fav_count: 90
   entry_content: |
     acun ılıcalı’nın egosunu beslemesi kabak tadı verdi.<br/><br/>tamam ayak tenisinde ve futbolda profesyonel futbolcu sercan’ı yendin, voleybolda senelerce voleybol oynamış evrim’i yendin, basketbolda profesyonel oynamış barış’ı yeniyordun berabere bitirelim dedin.. <br/><br/>tamam ya kral, sensin. her şeyin en iyisi sensin, sen yenilmezsin, seni kimse yenemez, sen en güçlüsün.<br/><br/>yarışmacıların instagramda gördüğü ilgiyi bile kendine çekmek için sürekli canlı yayınlara başladın, instagramı diline doladın.<br/><br/>bak artık kabak tadı vermeye başladı, sürekli bir kurgu var onun da farkındayız. reality show bahane egoyu beslemek şahane.<br/><br/>tamam anladık, senin de dediğin gibi dominikte 3 gün kalınca sıkılıyorsundur, ama yetmedi mi? ingiliz atı gibi her gün yarıştırdığın yarışmacılarla aşık atıyorsun. bilinçli herkes barış ve berkan gibi basketbol geçmişi olan adamların seni ve saz arkadaşlarını tokat manyağı yapacağını bilmiyor mu? en iyi sen biliyorsun ya neyse.<br/><br/>sercan ayak tenisinde seni 2-0 yenerken 3-2 yenilmesi falan, evrim nisa ikilisi seni tokatlerken birden yenilmeleri falan, barış berkan ikilisi içinizden geçecekten birden sizin öne geçip, sizi yakaladıkları an hadi berabere bitsin demeler falan. tabii lan kurgu falan değil, kesin yaşanmıştır senin galibiyetlerin. kaybedersen imajın zedelenir, kaybedersen dalga konusu olursun, kaybetmemelisin. çünkü kanal senin, yarışma senin, yarışmacılar da senin işçilerin. hakiki tosun paşa sensin, tebrikler.
   entry_channels: tv,magazin,spoiler
+- entry_name: |
+    lenovo marka laptopların çöp olması
+  entry_id:  107334056
+  entry_writer: mekjulianocu
+  entry_fav_count: 85
+  entry_content: |
+    sadece <a class="b" href="/?q=lenovo+z580">lenovo z580</a> ve <a class="b" href="/?q=lenovo+legion">lenovo legion</a> deyip susuyorum. fiyat performansın "amına koyan" ürünlerdir sadece bunlar bile. <br/><br/>boş yapmayın amcık ağızlılar.
+  entry_channels: teknoloji
 - entry_name: |
     abd'deki evlilik programına konuk olan türk
   entry_id:  107287931
@@ -182,7 +238,7 @@ data:
     23-24-25-26 mayıs 2020 sokağa çıkma yasağı
   entry_id:  107320975
   entry_writer: sipilaspilas
-  entry_fav_count: 69
+  entry_fav_count: 70
   entry_content: |
     ulan avm'ler açık, berberler/kuaförler ve dükkanlar açık, iş yerleri açık, kısacası virüsün bulaşabileceği ve yayılabileceği her yer şuan faal durumda. kalkıp da insanlar çok gezmesin ve virüs yayılmasın diye bayram günü sokağa çıkma yasağı koyarsan ben buna götümle gülerim.
   entry_channels: sağlık
@@ -198,130 +254,114 @@ data:
     mühendislerin keşke doktor olsaydım pişmanlığı
   entry_id:  107325013
   entry_writer: nediyorkanka
-  entry_fav_count: 62
+  entry_fav_count: 64
   entry_content: |
     başlığı açan yazar her gün saçma sapan başlıklar açmasına rağmen neden uçurulmuyor anlamadım. bu kadar da olmaz ki yani. herif odtü mezunu 2500 alıyor demiş. kendi de biliyor öyle olmadığını ama millet sazan gibi gelip yorum yapıyor burda. çok enteresan.
   entry_channels: sağlık,eğitim
 - entry_name: |
-    özlem tekin vs şebnem ferah
-  entry_id:  107295666
-  entry_writer: buzdan adam
-  entry_fav_count: 51
+    kakam bitti
+  entry_id:  107338779
+  entry_writer: juninho de macedo saudade
+  entry_fav_count: 56
   entry_content: |
-    özlem tekin problemli bir şekilde ayrılsanız bile problem yaşamayacağınızı bildiğiniz harbi kadındır.<br/><br/>şebnem ferah ise her şey yolunda giderken bile acaba ne bok yiyecek diye arada kara kara düşündürten.<br/><br/>edit: olm yazdıktan sonra fark ettim, bunlar müzisyen değil mi ben niye alakasız bir açıdan karşılaştırmışım ki şimdi ahahaha
-  entry_channels: anket,müzik
+    bunu işittiğinizde ya yemek yapıyosunuzdur ya da yemek yiyosunuzdur. başka bir aralıkta yapamaz çünkü. minik minik bırakmış sizi çağırıyor. ayaklar klozetten aşağı sallanmakta ve suratta nedensiz bir gülümseme mevcut. kolay gelsin karşim.
+  entry_channels: ilişkiler,sağlık
 - entry_name: |
-    lenovo marka laptopların çöp olması
-  entry_id:  107334056
-  entry_writer: mekjulianocu
-  entry_fav_count: 48
+    17 mayıs 2020 covid-19 vakasının 149435'e çıkması
+  entry_id:  107331191
+  entry_writer: atarliateist
+  entry_fav_count: 54
   entry_content: |
-    sadece <a class="b" href="/?q=lenovo+z580">lenovo z580</a> ve <a class="b" href="/?q=lenovo+legion">lenovo legion</a> deyip susuyorum. fiyat performansın "amına koyan" ürünlerdir sadece bunlar bile. <br/><br/>boş yapmayın amcık ağızlılar.
-  entry_channels: teknoloji
-- entry_name: |
-    tanrının covid-19'a sessiz kalma sebebi
-  entry_id:  107330321
-  entry_writer: fatandfurious
-  entry_fav_count: 42
-  entry_content: |
-    keşke sadece covid-19'a sessiz kalmış olsaydi.
-  entry_channels: anket,bilim,sağlık
+    fransa’da bir hemşire uygulamalarını yeterli bulmadığı devlet başkanını sert bir şekilde yüzüne karşı eleştiriyor ve başkan cevap olarak evet haklısınız elimizden geleni yapıyoruz diyor diğer yanda belçika’da sağlık çalışanları kendilerini ziyarete gelen başkana arka dönerek protesto edebiliyor, aynı tepkiler türkiye’de yaşanabilir mi ? yaşanırsa sonuçları ne olur?<br/><br/><a class="b" href="/entry/107274801">#107274801</a><br/>bu yazar arkadaşıda bilim kuruluna alsalar diyorum zira yaptığı tespitleri bilim kurulunda yapabilen göremedim
+  entry_channels: siyaset,sağlık,haber
 - entry_name: |
     wi-fi şifresini isteyen komşuyu savuşturma yolları
   entry_id:  107331829
   entry_writer: yokmu ulan bi nick
-  entry_fav_count: 37
+  entry_fav_count: 39
   entry_content: |
     "üzgünüm ama ben wifi şifremi kimseyle paylaşamıyorum." cümlesini kuracak medeni cesarete sahip olmak.
   entry_channels: anket,ilişkiler,teknoloji
 - entry_name: |
-    ben ne okuyorum ulan denen kitaplar
-  entry_id:  107313578
-  entry_writer: semsipasapasajindasesibuzusmeyen
-  entry_fav_count: 31
-  entry_content: |
-    varlar. hem de cok. <a class="b" href="/?q=boyle+buyurdu+zerdust">boyle buyurdu zerdust</a> bunlardan biri bak. onlarca kez okumaya calistim ve ciktim. du bakalim ne zaman okuyabilecegim bu kitabi.
-  entry_channels: anket,eğitim
-- entry_name: |
-    rakı sofrasının olmazsa olmazları
-  entry_id:  107289246
-  entry_writer: brankhidler
-  entry_fav_count: 29
-  entry_content: |
-    rakı
-  entry_channels: anket,yeme-içme
-- entry_name: |
     kibar feyzo
   entry_id:  107333222
   entry_writer: sivanrojhat
-  entry_fav_count: 26
+  entry_fav_count: 33
   entry_content: |
     bu filmdeki bilo karakterini akpli kürtlere benzetiyorum hep.
   entry_channels: tv,sinema
 - entry_name: |
-    verilen paraya en çok değen şey
-  entry_id:  107289375
-  entry_writer: cauchy
-  entry_fav_count: 25
+    rakı sofrasının olmazsa olmazları
+  entry_id:  107289246
+  entry_writer: brankhidler
+  entry_fav_count: 32
   entry_content: |
-    tüp bebek tedavisidir. <br/><br/>zamanında iyi para harcamistik tedavi icin şimdi dünya tatlısı ikiz kızlarım var .allah isteyen herkese sağlıkla nasip etsin.
-  entry_channels: anket,ekonomi
+    rakı
+  entry_channels: anket,yeme-içme
+- entry_name: |
+    ben ne okuyorum ulan denen kitaplar
+  entry_id:  107313578
+  entry_writer: semsipasapasajindasesibuzusmeyen
+  entry_fav_count: 32
+  entry_content: |
+    varlar. hem de cok. <a class="b" href="/?q=boyle+buyurdu+zerdust">boyle buyurdu zerdust</a> bunlardan biri bak. onlarca kez okumaya calistim ve ciktim. du bakalim ne zaman okuyabilecegim bu kitabi.
+  entry_channels: anket,eğitim
+- entry_name: |
+    fenerbahçe'nin şike yaptığına emin olan kitle
+  entry_id:  107323589
+  entry_writer: wolfallen
+  entry_fav_count: 29
+  entry_content: |
+    17-25 aralığa inanıp, şikeye kumpas demek..<br/><br/>mahkemede tapeleri ve fezlekeleri inkar edemeyip, savunmasını usulsüz toplanması üzerine yapmak..<br/><br/>aynı şekilde uefa'da da tapeleri ve fezlekeleri inkar edemeyip, savunmayı usulsüzlük üzerine yapmak ve geçmiş hatır şikelerini örnek göstermek. o da yetmeyip galatasarayı şikayet etmek :d bakın biz yaptık ama galatasaray da yaptı ona da ceza verin demenin bir başka yolu sanırım.<br/><br/>bir gece ani bir kararla tff'de şikenin tanımının değiştirilmesi..<br/><br/>tff başkanının "şikeye teşebbüs var ama sahaya yansımadı(!)" açıklaması..<br/><br/>uluslararası spor hukuku normlarında teşebbüs etmek ile eyleme geçmek arasında hiçbir fark olmadığını bilememek.<br/><br/>ulan başkanınız bile en son "ben şike yaptıysam fenerbahçe için yaptım, kendim için şike yapmadım." dedi. yani neden sadece ben ceza alıyorum, şike tek taraflı yapılmaz demeye getirdi. açık açık itiraf etti.<br/><br/>mahkemede de telefon kayıtları dinletilince eli ayağına dolaştı nasıl kıvıracağını bilemedi. hani şu tarlalar ekinlerle ilgili olan. bak aşağıya bırakıyorum savunmasını, okuyun da gülün.<br/><br/>"bu tarla bir şeydir, nasıl söyleyim, yani maçla ilgili bir şey değil yani, 3 tane tarla var işte, ekinler diyor suya çıktı, ya kurban kesiyor gidiyor. her hafta da eyüp sultan' a gidiyordu. her hafta gidiyor, bizim burada konuşmalar da var. hocaya gittik mi, camiye gittik mi, ne yaptın, tamer beye söylüyorum; " ne yaptın, gittin mi, hallettin mi?" diyorum. camiye gidiyor, eyüp sultan’a kurban kesmeye. biz deplasmana gittiğimizde tamer bey gidiyor, eğer deplasmanda değil içeride ise beraber gidiyoruz, kurban kesiyoruz. şimdi buradaki konuşmada da yani bu şeyi, tarla işini; maçları, tarla maçları sürmek de dilek anlamında kullanıyorduk"
+  entry_channels: spor
 - entry_name: |
     dudağı büyük göstermek için ruju taşırarak sürmek
   entry_id:  107338856
   entry_writer: ambilight
-  entry_fav_count: 24
+  entry_fav_count: 27
   entry_content: |
     dünyanın en beceriksizce yapılmış sahtekarlığı.
   entry_channels: moda
 - entry_name: |
-    irem sak türkiye'nin monica bellucci'sidir
-  entry_id:  107310880
-  entry_writer: benibekledinse
-  entry_fav_count: 18
+    milliyetçiliğin de ırkçılık olması
+  entry_id:  107337550
+  entry_writer: justin mcleod
+  entry_fav_count: 13
   entry_content: |
-    (bkz: <a class="b" href="/?q=entry+ve+nick+uyumu">entry ve nick uyumu</a>)
-  entry_channels: 
-- entry_name: |
-    bekarlar için kolay ve leziz yemek tarifleri
-  entry_id:  107311409
-  entry_writer: kovuldun co
-  entry_fav_count: 14
-  entry_content: |
-    öncelikle kolayın tanımının anlaşılması gereken başlık. en başta adam fırına koy demiş. fırın yok ki? mikrodalga var tava var, napacagim ben fırını?<br/><br/>on tane malzeme saymış, kolay değil ki o.<br/><br/>edit: tabi teşekkürler paylaşımlar icin faydalananlar vardır eminim.
-  entry_channels: anket,yeme-içme
-- entry_name: |
-    evlenince numarasını değiştiren kız
-  entry_id:  107337460
-  entry_writer: cevirimanyagi
-  entry_fav_count: 12
-  entry_content: |
-    eski kırıkları olmadık yerlerden çıkıp evliliğini bozmasın isteyen kızdır.<sup class="ab"><a title="(bkz: swh)" href="/?q=swh" data-query="swh">*</a></sup>
-  entry_channels: ilişkiler
-- entry_name: |
-    kakam bitti
-  entry_id:  107339178
-  entry_writer: nicht1
-  entry_fav_count: 11
-  entry_content: |
-    'biit tiii'
-  entry_channels: ilişkiler,sağlık
+    ırkçılık ile milliyetçilik nedense sadece konu türkler olduğunda aynı şey oluyor. milliyetçiliğin kitabını yazmış fransa'ya gidip fransız pasaportu almak için yalvaran özellikle kürt aydınları ve islamcılar asla fransız milliyetçiliğinden rahatsız olmazlar mesela.
+  entry_channels: siyaset
 - entry_name: |
     bir şehit ismi bırak
   entry_id:  107315680
   entry_writer: komando kani var bende
-  entry_fav_count: 11
+  entry_fav_count: 12
   entry_content: |
     (bkz: <a class="b" href="/?q=hanifi+usta">hanifi usta</a>) 21 pkklının arasına tek başına giren kahraman.
   entry_channels: siyaset,anket,tarih
 - entry_name: |
-    milliyetçiliğin de ırkçılık olması
-  entry_id:  107337550
-  entry_writer: justin mcleod
-  entry_fav_count: 10
+    eski sevgiliden geriye kalanlar
+  entry_id:  107336110
+  entry_writer: ben bir dusuneyim
+  entry_fav_count: 9
   entry_content: |
-    ırkçılık ile milliyetçilik nedense sadece konu türkler olduğunda aynı şey oluyor. milliyetçiliğin kitabını yazmış fransa'ya gidip fransız pasaportu almak için yalvaran özellikle kürt aydınları ve islamcılar asla fransız milliyetçiliğinden rahatsız olmazlar mesela.
-  entry_channels: siyaset
+    tatile gittiğimiz zaman benzin istasyonunda küçük bir açacak hediye etmişlerdi. torpido gözünde hala duruyor. bir tanesi, aramızda anlamı olan oyuncak göndermişti, iş yerinde çekmecemde duruyor. bir tanesi kitap almıştı, kitaplığımda kapak yazısıyla duruyor. bir tanesi, ilk içtiğimiz rakı şişesindeki inciyi çıkarmıştı. cüzdanımın bozuk para gözünde duruyor. hatırlayamadığım daha bir sürü şey. <br/><br/>sonuç ise <a class="b" href="/?q=kuyucakl%c4%b1+yusuf">kuyucaklı yusuf</a> ta gizli:<br/><br/>"hayat, birbirinden ayırdıklarını, kısa bir müddet için tekrar yakınlaştırır gibi olsa bile, uzun zaman yan yana bırakmıyordu. geçen günleri bir daha geri getirmek mümkün değildi ve sadece hatıralar, iki insanı birbirine bağlayacak kadar kuvvetli değildi."
+  entry_channels: anket,ilişkiler
+- entry_name: |
+    kadınların büyük göğüslü görünme hileleri
+  entry_id:  107341056
+  entry_writer: icelimbekanka
+  entry_fav_count: 8
+  entry_content: |
+    (bkz: <a class="b" href="/?q=destekli+s%c3%bctyen">destekli sütyen</a>) doritos cipsi gibi açınca %80'i boş çıkıyor.
+  entry_channels: ilişkiler
+- entry_name: |
+    şu an okunan kitap
+  entry_id:  107296384
+  entry_writer: dusunen panda
+  entry_fav_count: 6
+  entry_content: |
+    1984.
+  entry_channels: anket,sanat,edebiyat,eğitim
 - entry_name: |
     ekşi itiraf
   entry_id:  107290561
@@ -331,21 +371,13 @@ data:
     beni hep sevmiş gibi davrandılar.
   entry_channels: anket,ilişkiler,ekşi-sözlük
 - entry_name: |
-    tony montana'nın en büyük hatası
-  entry_id:  107334780
-  entry_writer: bounty hunter
+    yazarların ekşi sözlük'te yazma amacı
+  entry_id:  107296466
+  entry_writer: corvus corona
   entry_fav_count: 5
   entry_content: |
-    scarface filminde en önemli kuralı çiğnemesi.<br/>“don’t get high on your own supply”
-  entry_channels: anket
-- entry_name: |
-    şu an okunan kitap
-  entry_id:  107299421
-  entry_writer: josemontana
-  entry_fav_count: 4
-  entry_content: |
-    ulusların düşüşü - daron acemoğlu/james a. robinson <br/>homo deus - harari reis
-  entry_channels: anket,sanat,edebiyat,eğitim
+    6. ve 9. nesil olarak 2 ayri donemi kapsayan 18 yillik bir iliski bizimki... (henuz buralar dutlukken baslayan.) cogunuz buralarin eski halini bilmez. edebiyat dergilerinde, kose yazilarinda, ansiklopedilerde, kitapcilarin yeni cikanlar koselerinde bulamayacaginiz turden kaliteli yazilar ve afili yazarlar vardi. (nesli tukenmekte olsa da hala var.) ki o donemlerin sozlugu tum yazarlar olarak hepimizin icinde olmaktan gurur duydugu bir yerdi.<br/><br/>bir ulkeye gitmeden once ilk buraya baktim. merak ettigim kisilerin yasam detaylarini buralardan okudum. arastirma yaptigim konularda: onlarca ayri kaynaktan binlerce sayfa kitap okuyarak edinebilecegim bilgileri kiymetli yazarlar sayesinde burada cok kisa bir surede kolayca edindim. birini sevdim; sevmek bir neymis ilk buraya baktim. cigerimde pnömotarax tespit etti doktor; eve donup basima gelecekleri buradan okudum. terkedildim, teselliyi burada aradim. yeniden kavustum; sevimcini ilk buraya kaydettim...<br/><br/>degerinin; gunluk tiklanma sayilari ve sayfa basi goruntuleme rakamlariyla belirlendiginden beri sozluk de epeyi bozdu. oyle basliklar ve yazarlar goruyorum ki, artik icinde olmaktan utanc duydugum bir yere donusuyor giderek. olsun. zamanla kendini bozmayan ne var ki zaten?<br/><br/>benim icin bu haliyle sozluk: bazilarinin nasil alcaklasabilecegini gordugum, bazilarinin ruh yuksekligine gipta ettigim, gundem hakkinda fikirler edindigim, kalemi kuvvetli yazarlari takip ettigim, survivor basligini okurken eglendigim, anlamini sadece bizlerin bildigin”habire gotten zarto” gibi basliklarda katila katila guldugum, cokca ogrendigim, elimden geldigince de fikrimi nesretmeye calistigim bir yer. <br/><br/>yazma sebebime gelince: belki bir arkadasim bir cumlemden etkilenir, ruhunda ipince bir yere dokunurum, belki bunalmisligina bir soluk olur, karanligina bir mum yakarim. sayemde bir tebessum belirir yuzunde<br/><br/>“diye.”
+  entry_channels: anket,ekşi-sözlük
 - entry_name: |
     yazarlara okumayı sevdiren ilk kitap
   entry_id:  107291585
@@ -355,51 +387,19 @@ data:
     victor hugo - sefiller<br/><br/>ilkokulu bitirdiğim yılın yaz tatilinde böyle bir klasiği okuyup bir de aşırı keyif almak... bilemiyorum. akabinde klasik hayranlığım başladı ve hemen hemen hepsini okudum ancak bir de bilinçli olarak oturup tekrar okuyacağım.
   entry_channels: anket,ekşi-sözlük,edebiyat
 - entry_name: |
-    geceye bir şiir bırak
-  entry_id:  107296807
-  entry_writer: seyyah toprak
-  entry_fav_count: 4
+    düz vites vs otomatik vites
+  entry_id:  107341574
+  entry_writer: mazda
+  entry_fav_count: 2
   entry_content: |
-    beni bulamazsan üzülme <br/>eşyalarımı bulacaksın<br/>kestiğim taşları açtığım yolları<br/>işlediğim heykelleri bulacaksın<br/>ve göreceksin ki binlerce yıl öteden <br/>parmak izlerimiz değecek birbirine...<br/><br/>3000 yıl önce yazılmış bir likya şiirinden
-  entry_channels: sanat,edebiyat
-- entry_name: |
-    birini sevdiğini nasıl anlarsın
-  entry_id:  107335124
-  entry_writer: filosofia
-  entry_fav_count: 3
-  entry_content: |
-    sabah ilk aklıma gelen kişi, yatmadan önce son düşündüğüm kişi o ise,<br/>okuduğum bir şiir, dinlediğim bir şarkı aklıma onu düşürüyorsa,<br/>bir t-shirt, bir saat vs. "onda daha güzel durur yiaa" demeye başlamışsam,<br/>birlikte bir şeyler paylaşmak istiyorsam,<br/>her söylediği sözü aklıma kazımaya başladıysam,<br/>tebrikler seviyorum.
-  entry_channels: ilişkiler
-- entry_name: |
-    hayat kalitesini düşüren şeyler
-  entry_id:  107337612
-  entry_writer: nobilium
-  entry_fav_count: 1
-  entry_content: |
-    (bkz: <a class="b" href="/?q=camiilerden+%c3%a7%c4%b1kan+sesler.">camiilerden çıkan sesler.</a>)
-  entry_channels: anket,ilişkiler,sağlık,eğitim,ekonomi
+    otomatik vites düz vites kadar eski bir teknoloji iken hala "sene 2020 düz vites mi kaldı yaa" diyenleri görüyoruz.1939 otm cadillac <a rel="nofollow noopener" class="url" target="_blank" href="https://www.dailykos.com/stories/2018/12/11/1818587/-Automatic-Transmissions-The-History-of-A-Great-Innovation" title="https://www.dailykos.com/stories/2018/12/11/1818587/-Automatic-Transmissions-The-History-of-A-Great-Innovation">buyrun</a>
+  entry_channels: anket,otomotiv
 - entry_name: |
     atatürk'ün en çok sevilen sözü
   entry_id:  107340201
   entry_writer: esmer seven adam
-  entry_fav_count: 1
+  entry_fav_count: 2
   entry_content: |
     bir gun benim dusuncelerim bilimle celisirse bilimi secin demistir. her zaman bilime, aydinlanmaya, zamanin gereklerine uyulmasi gerektigine inanan, yenilikci muhtesem bir karakter ayni zamanda muazzam asker, baskomutan. ulkemizin en buyuk sansi.
   entry_channels: siyaset,anket,bilim,sanat,tarih,edebiyat
-- entry_name: |
-    zayıf kadın güzeldir
-  entry_id:  107340329
-  entry_writer: daha sakin olamazdim
-  entry_fav_count: 0
-  entry_content: |
-    (bkz: <a class="b" href="/?q=g%c3%b6receli">göreceli</a>) bir durum.
-  entry_channels: ilişkiler,sağlık,moda,magazin
-- entry_name: |
-    ekşi sözlük dertleşecek insan veritabanı
-  entry_id:  107290157
-  entry_writer: weplayhard
-  entry_fav_count: 0
-  entry_content: |
-    yaslanacak geniş bir omuz arayan kızlar, <br/>overlok makinesi ayağınıza geldi.
-  entry_channels: anket,ilişkiler,ekşi-sözlük
 ---
